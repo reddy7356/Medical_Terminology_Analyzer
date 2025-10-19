@@ -1,0 +1,366 @@
+===== DISCHARGE NOTE =====
+note_id=18912684-DS-16 | hadm_id=23235200
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Facial cellulitis 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ y/o M with PMHx significant for HIV and 
+recurrent MRSA skin infections who is presenting with facial 
+cellulitis. Of note, pt was hospitalized approx. 3 weeks ago for 
+cellulitis of his left thumb. He initially presented to PCP 2 
+days ago for cellulitis of the right middle finger and was 
+started on Bactrim. He then presented to the ED yesterday with 
+concerns of this cellulitis, as well as numbness/tingling in his 
+left ___ and ___ digits, and redness on his face. He was 
+continued on the Bactrim and also given Bactroban. Reports that 
+he awoke yesterday morning and that his facial symptoms were 
+much worse. Admits to chills, swelling of his eyelids, drainage 
+from his eyes, difficultly focusing his thoughts, and some 
+imabalance. He aslo reports facial pressure in the location of 
+the redness and pustules. He denied any fevers at that time. He 
+represented to the ED yesterday out of concern for these 
+worsening sypmtoms. He was started on vancomycin and admitted 
+for facial cellulitis.  
+.  
+On exam this morning, pt's VS were Temp 98.0 F, BP 130/78, HR 
+61, RR 18, O2-sat 100% RA. He stated that his facial pain and 
+pressure were improved. Denied any vision problems. Still 
+reports numbness/tingling/weakness in the ulnar nerve 
+distribution of the right arm and forearm.  
+.  
+ROS - As above. Currently, denies headache, visual changes, 
+chest pain, shortness of breath, nausea, vomiting, changes in 
+bowel habits, urinary symptoms, lightheadedness or dizziness.
+ 
+Past Medical History:
+HIV  
+- Diagnosed ___, nadir 250 in setting of acute appendicitis  
+- CD4 497, VL 4118 ___  
+- Started Atripla ___  
+H/o MRSA skin infections (back abscess ___, lip infection 
+___  
+Acute appendicitis s/p appy  
+RPR negative ___  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+(Per Admitting Resident)
+Vitals: T:97.9 BP: 149/70 P:79 R:16 O2:100 RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: facial pustules, no area of fluctuance  
+
+ 
+Pertinent Results:
+Admission Labs
+___ 05:00AM BLOOD WBC-4.7 RBC-3.90* Hgb-11.9* Hct-34.1* 
+MCV-87 MCH-30.5 MCHC-34.9 RDW-15.9* Plt ___
+___ 05:00AM BLOOD Neuts-65.7 ___ Monos-5.6 Eos-1.2 
+Baso-0.6
+___ 05:00AM BLOOD  WBC-4.7 Lymph-27 Abs ___ CD3%-77 
+Abs CD3-973 CD4%-39 Abs CD4-492 CD8%-36 Abs CD8-455 CD4/CD8-1.1
+___ 05:00AM BLOOD Glucose-88 UreaN-12 Creat-0.9 Na-137 
+K-4.2 Cl-104 HCO3-24 AnGap-13
+___ 04:00PM BLOOD Calcium-8.9 Phos-3.2 Mg-2.2
+
+Discharge Labs
+___ 06:00AM BLOOD WBC-4.3 RBC-4.05* Hgb-11.9* Hct-35.4* 
+MCV-88 MCH-29.4 MCHC-33.6 RDW-15.9* Plt ___
+___ 06:00AM BLOOD Glucose-97 UreaN-10 Creat-0.9 Na-135 
+K-4.2 Cl-104 HCO3-23 AnGap-12
+___ 06:00AM BLOOD Calcium-8.6 Phos-2.9 Mg-2.3
+
+==========================================
+MICRO:
+
+___ 9:05 am SWAB      Source: Facial Lesions. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   WOUND CULTURE (Preliminary): 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    MODERATE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   0.5 S
+ 
+
+Blood Cx x 3 - PENDING
+MRSA Screen - PENDING
+
+==========================================
+IMAGING:
+
+CT Sinus/Orbits - IMPRESSION: No evidence of postseptal orbital 
+cellulitis. Bilateral premaxillary soft tissue edema without 
+evidence of an abscess.
+ 
+Brief Hospital Course:
+___ y/o M with PMHx significant for HIV and recurrent MRSA skin 
+infections who is presenting with facial cellulitis.  
+ 
+# Facial Rash - Pt with history of recurrent MRSA abscesses in 
+the past. Now, with erythematous rash on cheeks and forehead 
+with crusting and pustule formation. Likely facial cellulitis. 
+Given pt's reported (but not documented) history of MRSA, 
+vancomyin IV was started. MRSA swab and wound cx were went. Of 
+concern, however, pt complained of swelling around his eyes 
+yesterday that affected his vision on the day before 
+presentation. CT of the orbits was performed and did not show 
+signs of orbital cellulitis. Rash improved and pt was discharged 
+on the day after admission. At discharge, he was switched to 
+doxycycline. He was also given a prescription for mupirocin. At 
+the time of discharge, his culture data was still pending. It is 
+to be followed up by his PCP.
+
+# Right ___ Digit Numbness - Unclear etiology. Possibly 
+ulnar nerve trauma. Should be follow-up by PCP.
+  
+# HIV - On Atripla. HAART was continued during admission and at 
+discharge.
+
+# Anemia - Hematocrit 34.1 on presentation, was 41.2 on most 
+recent check. No complaints of any bleeding. Remained stable 
+throughout admission.
+ 
+Medications on Admission:
+Atripla 
+ 
+Discharge Medications:
+1. ATRIPLA ___ mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+2. Doxycycline Monohydrate 100 mg Capsule Sig: One (1) Capsule 
+PO twice a day for 2 weeks.
+Disp:*28 Capsule(s)* Refills:*0*
+3. Mupirocin Calcium 2 % Ointment Sig: One (1) application Nasal 
+twice a day for 5 days: Apply to each nostril twice a day for 5 
+days.
+Disp:*1 tube* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- Facial Cellulitis
+
+Secondary Diagnosis
+- Human Immunodeficiency Syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You presented to the emergency department with cellulitis on 
+your face. You were started on IV vancomycin and your symptoms 
+improved. You underwent a CT scan, which did not show evidence 
+of cellulitis affecting your eyes. You had some cultures sent, 
+which will be followed up at ___. You are being discharged 
+with oral antibiotics.
+
+CHANGES TO YOUR MEDICATIONS:
+- START Doxycycline 100 mg twice a day for 14 days
+- START Mupirocin to your nostrils as directed to treat possible 
+MRSA colonization
+- CONTINUE your Atripla as you were previously taking it
+
+It was a pleasure taking part in your medical care.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18912684-DS-15 | hadm_id=25538653
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left thumb felon, likely extension from paronychia.
+
+ 
+Major Surgical or Invasive Procedure:
+Felon I+D and packing
+
+ 
+History of Present Illness:
+___ year old male, recent diagnosis of HIV, CD4 > 500 presents to 
+ED on ___ with left thumb pain and swelling x 5 days.  Pt 
+states that he developed some smouldering pain at the radial 
+nail edge about 5 days ago with some associated
+redness however yesterday he began to develop significant pain 
+within the dorsal pulp of the thumb and it became increasingly 
+swollen.  He was seen in clinic at ___ and referred to 
+the plastics clinic where we referred him to the ED to initiate 
+definitive treatment.  
+ 
+Past Medical History:
+HIV, recently diagnosed
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Initial PE from Plastics Consult note ___:
+VS- Afebrile.
+gen- NAD, Non-toxic.
+CV- RRR
+Pulm- Respirations un-labored
+Abd-Soft, NTND
+Extr- L thumb erythematous distal to PIP joint, area of whitish
+fluctuance along radial edge of nailbed, no active drainage.
+Volar pulp of thumb erythematous, swollen, exquisitely TTP.  
+Full
+sensation intact to LT throughout. Cap refill <2 sec.
+
+ 
+Pertinent Results:
+___ 04:48PM   GLUCOSE-99 LACTATE-1.5 NA+-141 K+-4.2 CL--102 
+TCO2-25
+___ 04:40PM   UREA N-19 CREAT-0.7
+___ 04:40PM   estGFR-Using this
+___ 04:40PM   WBC-5.8 RBC-4.48* HGB-12.5* HCT-37.5* MCV-84 
+MCH-27.9 MCHC-33.4 RDW-13.5
+___ 04:40PM   NEUTS-68.4 ___ MONOS-3.4 EOS-0.5 
+BASOS-0.2
+___ 04:40PM   PLT COUNT-288
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ and he had an incision and drainage of a left thumb 
+abscess/felon.  The patient tolerated the minor procedure well. 
+The patient was then ordered for a splint, strict elevation and 
+QID ___ strength hydrogen peroxide soaks.
+.
+Neuro: The patient's pain was controlled with Percocet PRN with 
+good effect.
+.
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+.
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+.
+GI/GU: Patient was maintained on a regular diet while inpatient. 
+ Intake and output were closely monitored. 
+.
+ID: Per Infectious Disease recommendations the patient was 
+started on IV Vancomycin and Unasyn while in hospital, and then 
+switched to PO cephalexin and PO Bactrim for a ___t 
+discharge. The patient's temperature was closely watched for 
+signs of infection. 
+.
+Prophylaxis: The patient was encouraged to get up and ambulate 
+as early as possible. 
+.
+At the time of discharge on hospital day #5, the patient was 
+doing well, afebrile with stable vital signs, tolerating a 
+regular diet, ambulating, voiding without assistance, and pain 
+was well controlled. 
+
+ 
+Medications on Admission:
+Atripla
+ 
+Discharge Medications:
+1. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet 
+PO DAILY (Daily).  
+2. Efavirenz 600 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+4. Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO every 
+twelve (12) hours for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+5. Keflex ___ mg Capsule Sig: One (1) Capsule PO every six (6) 
+hours for 10 days.
+Disp:*40 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+left thumb felon, extension from paronychia.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted on ___ for treatment of a Left thumb wound 
+infection/abscess. You were treated with incision and drainage 
+of wound and Vancomycin and Unasyn for IV antibiotics. Please 
+follow these discharge instructions.
+.
+Followup Instructions:
+___

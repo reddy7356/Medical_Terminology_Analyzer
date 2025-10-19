@@ -1,0 +1,355 @@
+===== DISCHARGE NOTE =====
+note_id=18727157-DS-10 | hadm_id=28255214
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization (___)
+
+ 
+History of Present Illness:
+___ man with medical history notable for T2DM (HbA1C 7.1% 
+___, hypertension, and OSA on CPAP who presents from his 
+PCP's office with shortness of breath.  
+
+Patient presented to his PCP's office today with persistent 
+chest congestion associated with shortness of breath, cough, and 
+increased sputum production (no hemoptysis). He says that his 
+symptoms all began in late ___ ('He had a cold,' according 
+to his wife) and have waxed and waned since then, ultimately 
+progressing with significant fatigue and exertional SOB. Whereas 
+patient previously was in reported good health, regularly going 
+to the gym and bicycling, he now becomes quite fatigued after 
+climbing only two flights of stairs. No subjective fevers or 
+night sweats, patient has noticed brow sweat quite often as of 
+late. He denies any lower extremity swelling or increased 
+weight. There does seem to be a new sensation of abdominal 
+distension. No exertional chest pain or palpitations. No 
+lightheadedness/dizziness. No orthopnea. No symptoms consistent 
+with PND. Patient has received azithromycin on two occasions 
+without any relief. Trialing mucinex and cleaning his CPAP 
+machine have also been of little help. Given patient's 
+persistent symptoms, he was instructed to present to the ___ 
+for further evaluation and acute management.  
+
+In the ED initial vitals were: 98.6 ___ 18 99% RA  
+EKG: sinus tachycardia, normal intervals, no ST segment changes  
+
+Labs/studies notable for:  
+ CBC 7.2>13.7/42.4<259 (MCV 83)  
+ BMP ___  
+ HbA1C 7.1%  
+ proBNP 3061  
+ Troponin-T <.01  
+ UA unremarkable  
+CXR  
+ FINDINGS:  
+ PA and lateral views of the chest provided. Cardiomegaly is 
+noted with pulmonary vascular congestion and mild interstitial 
+pulmonary edema. No large effusion is seen. No signs of 
+pneumonia. Mediastinal contour is grossly unremarkable. Bony 
+structures are intact.  
+Patient was given:  
+ ___ 14:20 PO Aluminum-Magnesium Hydrox.-Simethicone 30 
+mL  
+ ___ 14:20 PO Donnatal 5 mL  
+ ___ 14:20 PO Lidocaine Viscous 2% 10 mL  
+ ___ 19:25 IV Furosemide 10 mg  
+ 
+Vitals on transfer: 98.1 ___ 16 100% RA  
+
+On the floor, patient recounts the history as above. No acute 
+complaints of CP, SOB, or palpitations. He continues to have 
+significant fatigue. No fevers/chills. Since receiving the 10mg 
+IV Lasix at ___, he has urinated at least several times (not 
+collected). 10-point ROS is otherwise NEGATIVE.  
+
+ 
+Past Medical History:
+Type II diabetes
+HTN
+OSA on CPAP
+Hyperlipidemia
+Cervical radiculopathy  
+ 
+Social History:
+___
+Family History:
+Mother (___) - DM2, HTN  
+Father (died at ___) - IV drug use  
+Half-brother (___) - MI in late ___  
+
+ 
+Physical Exam:
+DISCHARGE:
+=====================
+24 HR Data (last updated ___ @ 821)
+    Temp: 98.1 (Tm 98.4), BP: 141/106 (127-156/81-108 manual),
+HR: 106 (92-110), RR: 18 (___), O2 sat: 99% (96-99), O2
+delivery: ra  
+Fluid Balance (last updated ___ @ 820) 
+  Last 8 hours  Total cumulative 110ml
+    IN: Total 360ml, PO Amt 360ml
+    OUT:  Total 250ml, Urine Amt 250ml
+  Last 24 hours  Total cumulative -70ml
+    IN: Total 880ml, PO Amt 880ml
+    OUT:  Total 950ml, Urine Amt 950ml      
+GENERAL: NAD, comfortably lying in bed  
+HEENT: anicteric sclerae, oropharynx clear
+NECK: supple, JVP just above clavicle at ___istant heart sounds, RRR, S1/S2, no m/r/g 
+PULM: unlabored, crackles improved
+ABD: soft, mildly distended, non-tender
+EXT: warm, well perfused, without edema
+NEURO: non-focal
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+
+___ 03:18PM   WBC-7.2 RBC-5.10 HGB-13.7 HCT-42.2 MCV-83 
+MCH-26.9 MCHC-32.5 RDW-14.1 RDWSD-41.3
+___ 03:18PM   GLUCOSE-176* UREA N-15 CREAT-1.4* SODIUM-138 
+POTASSIUM-4.6 CHLORIDE-102 TOTAL CO2-20* ANION GAP-16
+___ 07:20PM   ALBUMIN-3.8 CALCIUM-9.1 PHOSPHATE-3.7 
+MAGNESIUM-2.0 IRON-48
+___ 03:18PM   ALT(SGPT)-19 AST(SGOT)-17 LD(LDH)-197 ALK 
+PHOS-67 TOT BILI-1.5
+
+PERTINENT LABS:
+==================
+___ 03:18PM   TSH-1.9
+___ 03:18PM   ASA-NEG ACETMNPHN-NEG tricyclic-NEG
+___ 03:18PM   TRIGLYCER-102 HDL CHOL-45 CHOL/HDL-2.5 
+LDL(CALC)-49 ___
+___ 03:18PM   IRON-53 CHOLEST-114
+___ 03:18PM   calTIBC-404 TRF-311
+___ 03:18PM   cTropnT-<0.01 proBNP-3061*
+___ 07:20PM   FERRITIN-66
+___ 05:10PM   %HbA1c-7.1* eAG-157*
+___ 07:20PM   cTropnT-<0.01
+___ 08:30PM URINE  U-PEP-NO PROTEIN
+___ 07:20PM BLOOD cTropnT-<0.01
+___ 05:10PM BLOOD %HbA1c-7.1* eAG-157*
+___ 01:10PM BLOOD PEP-NO SPECIFI ___ FreeLam-19.4 
+Fr K/L-0.76
+
+IMAGING:
+==================
+-CXR ___
+FINDINGS:  
+PA and lateral views of the chest provided.  Cardiomegaly is 
+noted with 
+pulmonary vascular congestion and mild interstitial pulmonary 
+edema.  No large effusion is seen.  No signs of pneumonia.  
+Mediastinal contour is grossly unremarkable.  Bony structures 
+are intact.  
+IMPRESSION:  As above. 
+-TTE ___
+The left atrial volume index is moderately increased. The right 
+atrium is mildly enlarged. The estimated right atrial pressure 
+is >15mmHg. There is SEVERE global left ventricular hypokinesis. 
+The visually estimated left ventricular ejection fraction is 
+25%. There is no resting left ventricular outflow tract 
+gradient. No thrombus or mass is seen in the left ventricle. 
+Mildly dilated right ventricular cavity with low normal free 
+wall motion. The aortic sinus diameter is normal with mildly 
+dilated ascending aorta.
+The aortic arch diameter is normal. The aortic valve leaflets 
+(3) are mildly thickened. There is no aortic valve stenosis. 
+There is no aortic regurgitation. The mitral leaflets appear 
+structurally normal. There is
+no mitral valve stenosis. There is moderate [2+] mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is moderate [2+] tricuspid regurgitation. There is 
+moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. Mitral and tricuspid 
+regurgitation may be significantly underestimated due to far 
+field attenuation.
+-Cardiac cath ___:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is without significant disease
+* Left Anterior Descending
+The LAD is without significant disease.
+The ___ Diagonal is without significant disease.
+* Circumflex
+The Circumflex is with mid 70%.
+The ___ Marginal is without significant disease.
+* Ramus
+The Ramus is without significant disease.
+* Right Coronary Artery
+The RCA is with mid-distal 40-50%.
+The Right PDA is without significant disease.
+
+DISCHARGE LABS:
+==================
+
+___ 07:45AM BLOOD WBC-7.2 RBC-5.08 Hgb-13.7 Hct-41.9 MCV-83 
+MCH-27.0 MCHC-32.7 RDW-14.0 RDWSD-41.2 Plt ___
+___ 07:45AM BLOOD Glucose-127* UreaN-20 Creat-1.4* Na-139 
+K-4.2 Cl-102 HCO3-23 AnGap-14
+___ 07:45AM BLOOD Calcium-9.1 Phos-4.4 Mg-2.___ man with medical history notable for T2DM, hypertension, 
+and OSA who presented with shortness of breath found to have 
+acute systolic congestive heart failure, coronary 
+atherosclerotic disease, and hypertensive urgency.
+
+#Acute systolic congestive heart failure:
+Patient was referred from his PCP's office to the hospital in 
+the setting of progressive shortness of breath and chest 
+congestion. Evaluation was notable for exam with elevated JVP, 
+abdominal distension, lab work showing BNP elevation, and CXR 
+with pulmonary edema concerning for new congestive heart 
+failure. TTE showed global systolic dysfunction (LVEF = 25%), 
+without evidence of regional wall abnormalities or gross 
+valvular pathology. Work-up of new CHF notable for negative 
+troponins, TSH within normal limits, normal iron studies, 
+negative HIV, lipid panel within normal limits, negative 
+SPEP/UPEP. Cardiac cath notable for 70% stenosis of LCx, 40-50% 
+stenosis of RCA; no interventions were performed. He received IV 
+diuresis with improvement in his respiratory status. He was 
+started on guideline-directed therapy with PRELOAD: lasix 20mg 
+daily; AFTERLOAD: lisinopril 40mg daily, imdur 30mg 
+daily/hydralazine 25mg TID; NHBK: spironolactone 25mg daily. 
+Metoprolol was deferred in the setting of low CI and 
+tachycardia. He should have a cMRI for further evaluation of 
+etiologies of his HF. Metoprolol should be initiated as an 
+outpatient. 
+-Discharge weight: 105.7 kg (233.02 lb) 
+
+#Hypertensive urgency:
+Patient longstanding hypertension, recently with poor control 
+over the last x6 months. His home lisinopril was uptitrated to 
+40mg daily and he was started on hydralazine/imdur and 
+spironolactone with improvement in his BPs.
+
+#Coronary atherosclerotic disease:
+In the setting of new CHF, patient underwent catheterization 
+notable for CAD. He received high dose aspirin x1, and then was 
+started on aspirin/statin.
+
+CHRONIC ISSUES:
+#T2DM:
+He was continued on his home metformin
+
+#OSA:
+He continued on CPAP in the hospital
+
+TRANSITIONAL ISSUES:
+[] Consider Cardiac MRI for further evaluation of new CHF in x3 
+months to assess for recovery
+[] If weight continuing to downtrend, would consider changing 
+Lasix to PRN with weight >3lb change
+[] Would recommend starting bblocker at outpatient visit if 
+patient continues to improve
+[] Discharge weight: 105.7 kg (233.02 lb) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 40 mg PO QPM 
+2. Lisinopril 20 mg PO DAILY 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*4 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*90 
+Tablet Refills:*4 
+3.  Furosemide 20 mg PO DAILY 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*4 
+4.  HydrALAZINE 25 mg PO TID 
+RX *hydralazine 25 mg 1 tablet(s) by mouth three times a day 
+Disp #*270 Tablet Refills:*4 
+5.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 tablet(s) by mouth daily Disp 
+#*90 Tablet Refills:*4
+RX *isosorbide mononitrate 30 mg 1 tablet(s) by mouth once a day 
+Disp #*90 Tablet Refills:*0 
+6.  Spironolactone 25 mg PO DAILY  
+7.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*4 
+8.  MetFORMIN (Glucophage) 500 mg PO BID  
+9.Outpatient Lab Work
+Please check CHEM-10
+Dx: acute systolic congestive heart failure ICD 10: ___
+Fax results to Dr. ___ at ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+-Acute systolic heart failure
+
+SECONDARY:
+-Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+-You had difficulty breathing in recent weeks due to excess 
+fluid in your lungs.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+-We took pictures of your heart (echocardiogram), which showed 
+that your heart was not squeezing well.
+-We then took pictures of the blood vessels in your heart, which 
+showed a partial blockage of a single blood vessel. This does 
+not explain why your heart is not squeezing well.
+-We gave you a medication (Lasix) to remove extra fluid.
+-We changed your blood pressure medications.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+-It is very important you follow-up with your new cardiologist 
+(see appointments below) and take your new medications (see 
+medication sheet).
+-Weigh yourself every morning. Call your cardiologist or primary 
+doctor if your weight increases by 3 pounds in a day or 5 pounds 
+in a week.
+-It is okay to exercise, but please avoid strenuous exercise or 
+heavy lifting. Bike riding, walking, or jogging is okay.
+-Please be mindful of the amount of salt you eat. As discussed, 
+limit the amount of ___ food, deli meats, and salty barbecue 
+or hot sauces you eat.
+
+We wish you all the ___.
+
+Sincerely,
+Your ___ care team
+ 
+Followup Instructions:
+___

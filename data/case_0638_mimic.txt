@@ -1,0 +1,223 @@
+===== DISCHARGE NOTE =====
+note_id=13651432-DS-8 | hadm_id=21980787
+
+ 
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hemoptysis
+ 
+Major Surgical or Invasive Procedure:
+# Percutaneous cat-scan guided needle biopsy of the right chest
+
+ 
+History of Present Illness:
+___ with no past medical history transferred from ___ 
+with fever, cough x 3 days with 6 episodes of sub-massive 
+hemoptysis inpast 24 hours. Cough previously non-productive 
+until hemoptysis. + chills/fever. Of note, he had 3 weeks of 
+right shoulder and right sided pleuritic chest pain that 
+resolved about 1.5 weeks ago. Pleuritic chest pain returned over 
+past 3 days with oncset of symptoms. No dyspnea. No recent 
+travel, history of blood clots. No hx of incarceration, 
+homelessness, or recent foreign travel. Born in ___. Saw PCP who 
+said he had viral syndrome. Last ___ at 1800 had hemoptysis - 
+approx 1 tbsp. Went to ___, CTA ruled out PE, but concern 
+for Right middle lobe pneumonia with concern for necrotizing pna 
+or possible ___ - transferred to ___ for possible IP eval. 
+Prior to transfer recieved vancomycin, ceftriaxone and 
+azithromycin.
+.
+In the ED, initial VS: 99.3 128/60 73 18 100%RA. Patient was 
+given ibuprofen for right sided pleuritic pain.
+.
+On the floor, patient is frustrated. Pleuritic pain improved 
+from ___ to ___ with ibuprofen.
+.
+ROS: Denies night sweats, headache, vision changes, rhinorrhea, 
+congestion, sore throat, shortness of breath, abdominal pain, 
+nausea, vomiting, diarrhea, constipation, BRBPR, melena, 
+hematochezia, dysuria, hematuria.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS: 98.8 136/79 68 18 97%RA
+GENERAL: Well-appearing man in NAD, comfortable, appropriate.
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.
+NECK: Supple, no LAD.
+HEART: RRR, no MRG, nl S1-S2.
+LUNGS: decreased BS in lower right lung fields. otherwise CTA 
+bilat. no appreciable rhonchi. resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII intact, muscle grossly intact
+MSK - no reproducable chest wall pain/shoulder pain.
+
+Discharge Exam:
+Unchanged.
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 06:35AM   PLT COUNT-243
+___ 06:35AM   NEUTS-85.2* LYMPHS-8.6* MONOS-5.8 EOS-0.2 
+BASOS-0.3
+___ 06:35AM   WBC-15.1* RBC-4.22* HGB-12.3* HCT-36.0* 
+MCV-85 MCH-29.1 MCHC-34.1 RDW-13.1
+___ 06:35AM   CALCIUM-9.1 PHOSPHATE-2.5* MAGNESIUM-2.1
+___ 06:35AM   LD(LDH)-164
+___ 06:35AM   estGFR-Using this
+___ 06:35AM   GLUCOSE-100 UREA N-12 CREAT-0.8 SODIUM-138 
+POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-27 ANION GAP-13
+___ 12:40PM   ___ PTT-26.1 ___
+___ 12:40PM   D-DIMER-259
+
+Imaging: None - see ___ records
+
+CT-Guided Biopsy:
+Uncomplicated needle core biopsy of intermediate density right 
+middle
+lobe/cardiophrenic recess abnormality. Differential is broad 
+including round
+pneumonia or pericardial cyst with internal debris. Histologic 
+analysis and
+microbiological analysis is currently pending.
+
+Pathology:
+The core biopsy demonstrates an acute lung injury pattern with a 
+neutrophil-predominant mixed inflammatory infiltrate accompanied 
+by intra-alveolar fibrin exudates. AFB and GMS stains are 
+negative. The histologic findings favor infection. An ANCA may 
+be useful to help rule out vasculitis.
+
+Discharge Labs:
+
+___ 07:06AM BLOOD WBC-13.9* RBC-4.65 Hgb-13.3* Hct-40.0 
+MCV-86 MCH-28.7 MCHC-33.3 RDW-13.1 Plt ___
+___ 07:06AM BLOOD Neuts-88* Bands-0 Lymphs-6* Monos-4 Eos-0 
+Baso-0 Atyps-2* ___ Myelos-0
+___ 07:06AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+ 
+Brief Hospital Course:
+___ with no past medical history admitted with hemoptysis 
+attributed to complicated CA-PNA vs. R thoracic mass.
+.
+ACTIVE ISSUES:
+
+# Hemoptysis: Extensive discussion in person with the chest 
+radiologist raised concern for a solid mass of indeterminate 
+etiology; this prompted a CT-guided core biopsy, which showed 
+changes consistent with infection several days after the time of 
+discharge.
+.
+# Community-acquired pneumonia: Although he had no risk factors 
+for health care associated pneumonia, the patient's presentation 
+was initially concerning for necrotizing pneumonia - he was 
+covered broadly with vancomycin, ceftriaxone, and azithromycin. 
+Cultures were sent and pending at the time of discharge. He was 
+discharged on azithromycin, augmentin, and linezolid for a 
+tentative course of 14 days with plans for the PCP to narrow 
+according to culture data. Sputum culture after discharge showed 
+oral flora; biopsy culture showed rare strep species. Blood 
+cultures were still pending.
+.
+# Pre-renal acute kidney injury: Resolved with fluids.
+
+TRANSITIONAL ISSUES:
+# Repeat CT-Scan will be overseen by the patient's PCP.
+# Blood cultures pending
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+2. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+3. linezolid ___ mg Tablet Sig: One (1) Tablet PO twice a day 
+for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+4. Percocet ___ mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for pain for 5 days: never drive, operate heavy 
+machinery, or drink alcohol with this medication.
+Disp:*20 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+-Community acquired pneumonia, possibly necrotizing
+-Opacity on Cat-Scan in the right chest as of yet unspecified
+SECONDARY:
+-None
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It has been a privilege to take care you at ___.
+.
+You were referred to our hospital for further evaluation of your 
+pneumonia and for further evaluation of an abnormal cat-scan 
+performed at ___.
+.
+Based on their findings our radiologists recommended that the 
+finding on cat-scan in your chest be sampled with a biopsy 
+needle. This was performed by the interventional radiologists 
+under cat-scan guidance. You tolerated the procedure well. The 
+results are still pending. You will need to follow-up with your 
+primary care physician for those results.
+.
+Due to your symptoms, which have included chest pain with 
+breathing, fever, cough, and coughing up blood, you are being 
+treated for an aggressive pneumonia called a necrotizing 
+pneumonia. Your treatment is with very strong antibiotics by 
+mouth; you will need to follow-up with your primary care 
+physician to change the antibiotics to less aggressive 
+antibiotics based on the results of cultures sent this 
+hospitalization, which are still pending.
+.
+No changes were made to your medications other than as detailed 
+below:
+START:
+-Azithromycin antibiotics
+-Cefpodoxime antibiotics
+-Linezolid antibiotics
+-percocet as needed for pain. never drive, operate heavy 
+machinery, or drink alcohol with this medication.
+.
+Follow-up with your primary care physician for ___ chest x-ray 
+___. This appointment has been scheduled for you.
+ 
+Followup Instructions:
+___

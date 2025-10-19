@@ -1,0 +1,287 @@
+===== DISCHARGE NOTE =====
+note_id=12274703-DS-11 | hadm_id=24532979
+
+ 
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Pertussis Vaccine,Fluid
+ 
+Attending: ___
+ 
+Chief Complaint:
+neck pain 
+ 
+Major Surgical or Invasive Procedure:
+c5-6 ACDF
+
+ 
+History of Present Illness:
+___ is a ___ year old female with neck and right arm
+pain. She failed conservative therapies and now presents for
+elective surgical intervention. 
+ 
+Past Medical History:
+obesity with 100# loss
+GERD
+depression
+ 
+Social History:
+___
+Family History:
+No family h/o biliary or liver disease
+ 
+Physical Exam:
+gen: lying in hospital bed comfortably
+resp: non labored
+neuro:
+- motor: ___ throughout ___ upper extremities. sensory intact in 
+all distributions. 2+ triceps reflex. 
+incision: anterior neck incision with dressing c/d/I. c-collar 
+in place. 
+ 
+Brief Hospital Course:
+___ is a ___ year old female with neck and right arm
+pain. She failed conservative therapies and now presents for
+elective surgical intervention. She underwent c5-6 ACDF and 
+recovered unremarkably. post op imaging showed stable construct. 
+she was discharged home on post op day with c-collar in place, 
+pain well controlled with oral pain meds, ambulating safely 
+independently and voiding spontaneously. 
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 8 hours Disp 
+#*100 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*100 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+stop taking when pain improves  
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*40 
+Tablet Refills:*0 
+4.  FLUoxetine 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+c5-6 disc herniation 
+
+ 
+Discharge Condition:
+avss 
+aox3
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+ACDF
+
+Surgery
+•Your dressing may come off on the second day after surgery. 
+•Your incision is closed with dissolvable sutures underneath 
+the skin and steri strips. You do not need suture removal. Do 
+not remove your steri strips, let them fall off.
+•Please keep your incision dry for 72 hours after surgery.
+•Please avoid swimming for two weeks.
+•Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+•*** You must wear your hard cervical collar at all times. You 
+may remove it briefly for skin care and showering. 
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•No contact sports until cleared by your neurosurgeon. 
+•Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications
+•***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc… for 2 weeks.
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+•It is important to increase fluid intake while taking pain 
+medications. We also recommend a stool softener like Colace. 
+Pain medications can cause constipation. 
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the incision 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•New weakness or changes in sensation in your arms or legs.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12274703-DS-10 | hadm_id=28125923
+
+ 
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Pertussis Vaccine,Fluid
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+ 
+History of Present Illness:
+___ yo female with h/o cholelithiasis, obesity presenting with 
+acute abd pain, nausea.  Patient has had these symptoms for ___ 
+months with episodes of epigastric pain with nausea and vomiting 
+which resolved in usually 30min - 1hour.  She states there was 
+no association with po intake or time of day.  The episode last 
+night lasted for ___ hours and she came to the ER.  Rated ___ 
+sharp pain in the epigastric region, no radiation.  She noted 
+nausea with no vomiting/diarrhea.  Previous work up by outpt 
+gastroenterologist showed nothing on EGD and she was being 
+treated for GERD with ppi.  It was noted she had gallstones, but 
+the symptoms were not believed to be consistent with 
+cholelithiasis.  She has no associated f/c/cp sob and no recent 
+travel or changes in her diet(has lost 100# over the past yeasr 
+with diet/exercise)
+
+Pertinent ROS noted above, rest of 10 point ros wnl
+ 
+Past Medical History:
+obesity with 100# loss
+GERD
+depression
+ 
+Social History:
+___
+Family History:
+No family h/o biliary or liver disease
+ 
+Physical Exam:
+Admission exam
+Vitals
+98.1 51 122/81 18 100% 
+Gen: patient lying comfortable in exam bed nad a+ox3
+HEENT: mmm op clear
+Neck: supple no jvd
+CV: rrr no m/r/g
+pulm: ctab no w/r/r
+abd: soft nt nd bs+
+ext no ___ edema good pedal pulses
+
+Discharge exam
+VSS
+Gen: patient lying comfortable NAD
+HEENT: mmm no oral ulcers or bleeding
+Neck: supple no jvd
+CV: rrr no m/r/g
+pulm: ctab no w/r/r
+abd: soft nontender, bs + 
+ext no ___ edema good pedal pulses
+ 
+Pertinent Results:
+___ 10:50AM   ___ PTT-30.3 ___
+
+___ 03:20AM   GLUCOSE-109* UREA N-15 CREAT-1.0 SODIUM-139 
+POTASSIUM-5.9* CHLORIDE-103 TOTAL CO2-24 ANION GAP-18
+___ 03:20AM   ALT(SGPT)-429* AST(SGOT)-624* ALK PHOS-101 
+TOT BILI-1.2
+___ 03:20AM   LIPASE-38
+___ 03:20AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 03:20AM   WBC-6.9 RBC-4.93 HGB-13.6 HCT-40.3 MCV-82 
+MCH-27.7 MCHC-33.8 RDW-13.8
+___ 03:20AM   PLT COUNT-281
+
+abd ultrasound: ___
+IMPRESSION: 
+1. Partially distended gallbladder, with multiple gallstones. No 
+specific 
+signs for acute cholecystitis. 
+2. New CBD dilation to the level of the pancreatic head, 
+suggesting 
+obstructive choledocholithiasis. Recommend MRCP or ERCP to 
+assess the distal 
+CBD. 
+
+ 
+Brief Hospital Course:
+A/P:
+___ yo female with h/o obesity, GERD, cholelithiasis presenting 
+with acute abd pain x 12 hours with associated nausea.  
+Ultrasound showing cholelithiasis and dilated CBD consistent 
+with choledocholithiasis.  No signs of cholecystitis and with no 
+fevers or jaundice does not appear to have cholangitis.  
+Transaminitis is noted.  Patient to be admitted for pain control 
+and ERCP.
+.
+#?Choledocholithiasis
+ERCP was performed, with no ductal dilation noted, small amount 
+of sludge noted.  HIDA scan was performed and neg for 
+cholecystitis.  Transaminitis persisted during hospitalization, 
+but bili/alk phos were normal, viral hepatitis panel was neg, 
+iron panel esr, crp and tsh normal.  Her symptoms resolved 
+completely during hospitalization and she will plan to follow up 
+with her pcp at which time lft can be repeated and, if still 
+elevated may require further evaluation by hepatology.
+
+Cholelithiasis:
+Surgery evaluated the patient for possible cholecystectomy.  
+HIDA scan was neg for cholecystitis.  She will f/u in surgery 
+clinic in ___.
+ 
+Medications on Admission:
+Omeprazole 40 bid
+ 
+Discharge Medications:
+1. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+biliary sludge
+abnormal lft
+cholelithiasis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you.  You presented with 
+abdominal pain and abnormal liver tests.  An ultrasound found 
+stones in your gallbladder.  An ercp was performed and biliary 
+sludge was removed.  Your symptoms resolved.  General surgery 
+evaluated for possible cholecystectomy, but deferred for now and 
+will be able to follow up in the general surgery clinic
+ 
+Followup Instructions:
+___

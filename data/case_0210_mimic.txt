@@ -1,0 +1,188 @@
+===== DISCHARGE NOTE =====
+note_id=12251578-DS-17 | hadm_id=29411242
+
+ 
+Name:  ___                     ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ primarily ___ speaking male with
+history of asthma who presents with dyspnea. He declined my 
+offer
+to use a ___ interpreter (he speaks some ___.
+
+The patient reports feeling in his usual state of health until
+about 3 days ago, when he developed a new onset cough with
+copious amounts of green sputum, acute dyspnea and audible
+wheezing, no fevers, no chest pains, no abdominal pain or
+diarrhea, no headache. No sick contacts or travel.
+He has history of asthma, but his inhalers expired years ago and
+he takes nothing regularly. He denies history of being intubated
+for asthma. He says he hasn't seen a PCP in several years now. 
+He denies any leg swelling or personal or family history of 
+blood
+clots.
+
+In the ED: initially needed 2L NC for 88% RA. He had lactate 4.1
+-> 6.3 with multiple rounds of nebulizers. Given IV
+methylprednisolone, IV Mg, 2L IVF, IV CTX and doxycycline. 
+His peak flow increased from 75 -> 175 after interventions 
+above.
+CXR showed no acute process.
+
+The patient on the floor is on room air and comfortable. He says
+he has absolutely no dyspnea at this time.
+
+ 
+Past Medical History:
+Asthma
+ 
+Social History:
+___
+Family History:
+He denies any family history of asthma
+ 
+Physical Exam:
+Admission EXAM
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs with diffuse inspiratory and expiratory wheezing in
+all quadrants.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+
+Discharge Exam: 
+Peak flow 475
+98.5 PO 124 / 79 L Sitting ___ Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: CTAB, no wheezes or ronchi 
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+Admission Labs: 
+___ 10:24PM BLOOD WBC-19.6* RBC-5.74 Hgb-15.9 Hct-48.2 
+MCV-84 MCH-27.7 MCHC-33.0 RDW-12.3 RDWSD-37.3 Plt ___
+___ 10:24PM BLOOD Glucose-106* UreaN-9 Creat-0.9 Na-140 
+K-4.1 Cl-101 HCO3-21* AnGap-18
+___ 11:37PM BLOOD ___ pO2-44* pCO2-41 pH-7.37 
+calTCO2-25 Base XS--1
+___ 11:37PM BLOOD Lactate-4.1*
+___ 06:18AM BLOOD Lactate-6.3*
+
+Imaging: 
+CXR: No evidence of pneumonia.
+
+___ 07:25AM BLOOD WBC-24.6* RBC-5.44 Hgb-15.0 Hct-44.9 
+MCV-83 MCH-27.6 MCHC-33.4 RDW-12.4 RDWSD-37.4 Plt ___
+___ 07:25AM BLOOD Glucose-120* UreaN-15 Creat-0.8 Na-144 
+K-4.3 Cl-103 HCO3-21* AnGap-20*
+___ 07:51AM BLOOD ___ pO2-48* pCO2-40 pH-7.37 
+calTCO2-24 Base XS--1 Comment-GREEN TOP
+___ 07:51AM BLOOD Lactate-2.9*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ primarily ___ speaking male with 
+history of asthma who presents with dyspnea. Found to have 
+asthma exacerbation.
+
+#Severe asthma exacerbation: The patient reports a history of 
+asthma with an exacerbation similar to this approximately ___ 
+years ago.  He is unclear if the trigger.  He continues to 
+smoke.  In the emergency department he was initially treated 
+with IV steroids and stacked nebs.  His peak flow was in the 
+100s.  For a man of his size 100% of her normal peak flow would 
+be 625 with yellow zone running from 300-500.  He was admitted 
+to the hospital service and continued on nebulizers and 
+steroids.  He underwent a chest x-ray which was negative for 
+pneumonia.  On ___ minute with a patient with a ___ 
+interpreter and instructed him on proper peak flow technique.  
+His peak flow was 475.  He was clear to auscultation bilaterally 
+without any further wheezes and reported that he felt entirely 
+back to normal.  He requested discharge home with follow-up with 
+his primary care physician.  He will be on prednisone 50 mg p.o. 
+daily for an additional ___s starting an albuterol 
+inhaler.  He was counseled extensively on smoking cessation.  He 
+was given a follow-up appointment with his primary care doctor 
+on the day of his last steroid dose to ensure resolution. 
+
+#Elevated lactate: Likely type B lactic acidosis in the setting 
+of stacked beta adrenergic agonist agents. No evidence of 
+hypoperfusion on labs or exam. Trending down at time of 
+discharge. 
+
+Greater than 30 minutes spent in care coordination and 
+counseling on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+RX *albuterol sulfate [ProAir HFA] 90 mcg ___ Puff INH Every 4 
+hours Disp #*1 Inhaler Refills:*0 
+2.  PredniSONE 50 mg PO DAILY Duration: 5 Days 
+Last Day ___ 
+RX *prednisone 50 mg 1 tablet(s) by mouth Daily Disp #*5 Tablet 
+Refills:*0 
+3.Spacer
+Please provide 1 inhaler spacer
+Use with inhaler as directed
+Dispense: 1
+ICD___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Asthma Exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Followup Instructions:
+___

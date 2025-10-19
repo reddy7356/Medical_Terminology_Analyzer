@@ -1,0 +1,1010 @@
+===== DISCHARGE NOTE =====
+note_id=13981524-DS-4 | hadm_id=21981582
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS: 
+=======================
+___ 11:35AM BLOOD WBC-8.2 RBC-4.07* Hgb-14.0 Hct-41.1 
+MCV-101* MCH-34.4* MCHC-34.1 RDW-13.0 RDWSD-48.4* Plt ___
+___ 11:35AM BLOOD Neuts-79.1* Lymphs-11.2* Monos-9.4 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-6.49* AbsLymp-0.92* 
+AbsMono-0.77 AbsEos-0.00* AbsBaso-0.01
+___ 11:35AM BLOOD ___ PTT-36.0 ___
+___ 11:35AM BLOOD Glucose-130* UreaN-17 Creat-1.3* Na-139 
+K-3.2* Cl-97 HCO3-27 AnGap-15
+
+MICRO:
+=====
+Respiratory Viral Culture (Final ___:  No respiratory 
+viruses isolated. 
+
+IMAGING/OTHER STUDIES: 
+====================
+CXR ___
+IMPRESSION: 
+No acute cardiopulmonary abnormality.
+
+CXR ___
+IMPRESSION: 
+Indistinct vessels in the retrocardiac region may represent 
+evolving pneumonia, but no definite consolidations.
+
+B/L ___ U/S 
+IMPRESSION: 
+No evidence of deep venous thrombosis in the right or left lower 
+extremity veins.
+
+ 
+Brief Hospital Course:
+___ with chronic AFib (on warfarin), dCHF, CVA ___ w/o 
+residual defecits), and metastatic prostate CA presents for 
+further evaluation of fever. 
+
+# Community Acquired Pneumonia: 
+Patient presented with several days of fever, malaise, and 
+cough. Several coworkers experienced had similar symptoms. 
+Initially suspected viral illness, particularly as initial CXR 
+was without acute process. However, interval CXR obtained in 
+setting of persistent fevers and worsening RLL crackles notable 
+for possible evolving retrocardiac pneumonia. Thus patient 
+started on CAP treatment with CFTX and azithromycin with 
+resultant resolution of his fevers for > 24 hours prior to 
+discharge. Patient also noted symptomatic improvement. 
+Respiratory viral panel, including influenza, negative. Blood 
+cultures without growth at time of discharge. He will complete 
+five days of cefpodoxime and azithromycin. PCP follow up 
+arranged for ___. 
+
+# ___: 
+# dCHF: 
+Cr 1.3 on admission secondary to dehydration from acute illness 
+and poor appetite. Torsemide HELD and patient given 1L IVF with 
+resolution of ___. Torsemide held on discharge with instructions 
+to resume if his weight increased or if he developed ___ 
+swelling. Discharge weight: 167.7 lb.  
+
+# ___ pain: 
+On admission. LENIs negative for DVT. Suspect cramps secondary 
+to dehydration. 
+
+# Atrial fibrillation: 
+No issues with RVR. Continued home metop. Discharged on 4mg 
+warfarin daily per pharmacy recommendations. INR at discharge 
+2.7. 
+
+# Metastatic Prostate Cancer: 
+Follows w/ Dr. ___. Continued Zytiga inpatient. Additional 
+clinical trial drug held as per oncology recommendations. 
+Oncology team to contact patient to coordinate ongoing treatment 
+plan. 
+
+TRANSITIONAL ISSUES: 
+=================
+[] Monitor volume status and resume torsemide as clinically 
+indicated.
+[] last day of CAP treatment ___
+[] recommend repeat INR on PCP follow up; titrate warfarin as 
+indicated. 
+
+> 30 mins spent coordinating discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line 
+2. Metoprolol Succinate XL 37.5 mg PO DAILY 
+3. OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - Severe 
+
+4. Torsemide 20 mg PO DAILY 
+5. Zytiga (abiraterone) 500 mg oral DAILY 
+6. PredniSONE 5 mg PO DAILY 
+7. Warfarin 4 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 4 Doses 
+RX *azithromycin 250 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 400 mg PO BID 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*12 Tablet Refills:*0 
+3.  GuaiFENesin-Dextromethorphan 5 mL PO Q6H:PRN cough 
+RX *dextromethorphan-guaifenesin 100 mg-10 mg/5 mL 5 ml by mouth 
+every eight (8) hours Disp #*1 Bottle Refills:*0 
+4.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line  
+5.  Metoprolol Succinate XL 37.5 mg PO DAILY  
+6.  OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Severe  
+7.  PredniSONE 5 mg PO DAILY  
+8.  Warfarin 4 mg PO DAILY  
+9.  Zytiga (abiraterone) 1000 mg oral DAILY  
+10. HELD- Torsemide 20 mg PO DAILY  This medication was held. Do 
+not restart Torsemide until discussed with Dr. ___
+
+ 
+___ Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Community Acquired Pneumonia: 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege to care for you at the ___ 
+___. You were admitted for further evaluation of 
+cough and fever. Your second chest x-ray showed evidence of a 
+developing pneumonia and therefore you were started on 
+antibiotics. You will need to complete an additional three days 
+of treatment and will follow up with Dr. ___ to ensure that 
+you continue to recover.  
+
+While you are recovering from an infection, it is easy to become 
+dehydrated. Therefore we are holding your Lasix until you see 
+Dr. ___. You should weigh yourself immediately when you get 
+home and if your weight increases by more than 2 lbs in one day 
+or 5 lbs in one week, then you should resume your Lasix to 
+prevent further fluid accumulation.
+
+Please also know that antibiotics can cause your INR to become 
+higher. Per discussion with our pharmacist, you should take 4mg 
+of warfarin daily until your INR is repeated at your PCP follow 
+up next week. 
+
+We wish you the best! 
+
+Sincerely,
+
+Your ___ Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13981524-DS-2 | hadm_id=25523161
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with a history of suspected metastatic prostate cancer with
+PSA >700, extensive osseous lesions, adenopathy and right
+hydronephrosis (currently awaiting biopsy results) as well as AF
+on rivaroxaban who presents with abnormal labs and weakness. 
+
+He and his family report generalized weakness and mild
+confusion/inattention over the past few days. He has not been
+maintaining eye contact as he usually does. He also reports some
+blurry vision. They also note that he had labs drawn recently
+that indicate kidney injury. He says that he has been urinating
+normally since his biopsy although he initially noted some
+hematuria. He has been constipated for several days. He has not
+been able to eat much recently and has had some nausea, but no
+vomiting. He also has had subacute bilateral lower extremity
+edema
+
+In the ED, initial VS were:  95.8 56 150/110 16 99% RA 
+Exam notable for:
+Gen: NAD, AxOx3, able to recite days of the week backwards 
+Cards: RRR, no M/R/G
+Resp: CTAB
+Abd: soft, NTND
+Ext: 2+ pitting edema to knees bilaterally 
+Labs showed: Creatinine of 2.3, dirty UA
+Imaging showed:
+Adjacent hypodense areas in the posterior left occipital lobe
+could represent subacute infarcts versus small masses with
+surrounding edema. Consider further evaluation with MRI. 
+Renal US with Moderate bilateral hydronephrosis.
+Consults: Neurosurgery
+Patient received: Dexamethasone 4 mg
+Transfer VS were:  98.1 111 125/85 16 98% RA 
+
+On arrival to the floor, patient reports that he is here for 
+pain
+in his penis and his back.  He is also had 20 days of L leg
+swelling and had a cyst in the back of his left leg.  He 
+endorses
+some confusion.  He denies fevers but has had some chills.  He
+denies nausea or vomiting or chest pain.  Endorses dizziness 
+with
+movement for the last ___ days.  He had some blurry vision
+earlier that has resolved.  He denies abdominal pain.  He has 
+had
+constipation for last 4 days which she relates to using
+oxycodone.  His normal bowel habits are daily.  He denies 
+problem
+with decreased urination recently however he has had dysuria
+since his biopsy.
+ 
+Past Medical History:
+Vein stripping procedure done in ___ in ___
+Atrial fibrillation on AC
+BPH
+
+ 
+Social History:
+___
+Family History:
+Denies history of GU malignancies including prostate, kidney,
+bladder cancer
+ 
+Physical Exam:
+ADMISSION EXAM
+========================
+VS: 97.9 PO 132 / 84 99 16 96 Ra 
+GENERAL: NAD, very pleasant
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple,  no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi
+ABDOMEN: nondistended, nontender in all quadrants,  + back brace
+on
+BACK: TTP over lumbar spine. 
+EXTREMITIES: no cyanosis, clubbing, or edema. + varicose veins
+NEURO: A&Ox3, face symmetric. ___ strength in UE b/l. 4+/5 in 
+RLE
+hip flexion and knee flexion. ___ LLE strenght. Intact sensation
+to soft touch of lower extremity b/l. 
+ 
+DISCHARGE EXAM
+========================
+VITALS: Temp: 97.9 PO BP: 130/80 L Lying HR: 84 RR: 18 O2 sat:
+96% O2 delivery: Ra 
+GENERAL: Older appearing man in no acute distress. Comfortable.
+AAOx3.
+NEURO: AAOx3. CNII-XII grossly intact. Motor strength ___ in
+upper and lower extremities bilaterally. Sensation grossly 
+intact
+in upper and lower extremities. No saddle anesthesia.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: RRR. Normal S1/S2. No murmurs.
+PULMONARY: CTAB. Breathing comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. 1+ edema LLE.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS
+========================
+___ 02:21PM BLOOD WBC-8.2 RBC-4.38* Hgb-13.8 Hct-39.8* 
+MCV-91 MCH-31.5 MCHC-34.7 RDW-12.4 RDWSD-41.4 Plt ___
+___ 02:21PM BLOOD Neuts-75.2* Lymphs-12.3* Monos-11.0 
+Eos-0.7* Baso-0.4 Im ___ AbsNeut-6.16* AbsLymp-1.01* 
+AbsMono-0.90* AbsEos-0.06 AbsBaso-0.03
+___ 02:21PM BLOOD ___ PTT-24.1* ___
+___ 02:21PM BLOOD Glucose-124* UreaN-44* Creat-2.3* Na-134* 
+K-5.0 Cl-98 HCO3-21* AnGap-15
+___ 02:21PM BLOOD ALT-28 AST-29 AlkPhos-503* TotBili-0.8
+___ 02:21PM BLOOD Albumin-3.8 Calcium-9.1 Phos-4.5 Mg-2.4
+___ 09:58PM BLOOD K-5.1
+ 
+PERTINENT LABS
+========================
+___ 07:25AM BLOOD WBC-7.7 RBC-3.95* Hgb-12.5* Hct-36.1* 
+MCV-91 MCH-31.6 MCHC-34.6 RDW-13.0 RDWSD-42.9 Plt ___
+___ 07:25AM BLOOD Glucose-108* UreaN-33* Creat-2.1* Na-140 
+K-4.5 Cl-102 HCO3-23 AnGap-15
+___ 07:00AM BLOOD GGT-83*
+___ 10:46AM BLOOD %HbA1c-6.1* eAG-128*
+___ 07:00AM BLOOD PSA-1783*
+___ 07:00AM BLOOD TSH-0.42
+ 
+DISCHARGE LABS
+========================
+___ 07:25AM BLOOD WBC-7.7 RBC-3.95* Hgb-12.5* Hct-36.1* 
+MCV-91 MCH-31.6 MCHC-34.6 RDW-13.0 RDWSD-42.9 Plt ___
+___ 07:25AM BLOOD Glucose-108* UreaN-33* Creat-2.1* Na-140 
+K-4.5 Cl-102 HCO3-23 AnGap-15
+___ 07:25AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.1
+ 
+PERTINENT STUDIES
+========================
+CT HEAD (___)
+Adjacent hypodense areas in the posterior left occipital lobe 
+could represent 
+subacute infarcts, less likely small masses with surrounding 
+edema.  Consider 
+further evaluation with MRI. 
+
+MRI HEAD (___)
+1.  Study is moderately degraded by motion. 
+2. Scattered probable late acute to early subacute infarcts 
+involving the left 
+occipital lobe, posterolateral left thalamus, and the bilateral 
+frontal and 
+parietal lobes.  The overall distribution is concerning for 
+central embolic 
+source. 
+3. Please note that areas of enhancement are compatible with 
+evolving 
+infarcts, underlying enhancing lesions are not excluded on the 
+basis 
+examination.  Recommend follow-up imaging to resolution. 
+4. No definite evidence of acute intracranial hemorrhage. 
+5. Left medial occipital foci of mineralization versus chronic 
+blood products 
+as described. 
+6. Filling defects within the left sigmoid sinus, with patency 
+of the left 
+transverse sinus and left internal jugular vein.  Findings 
+remain is concern 
+for nonocclusive thrombus within the left sigmoid sinus. 
+7. Global parenchymal volume loss and evidence of chronic small 
+vessel 
+ischemic disease. 
+ 
+MRA BRAIN (___)
+The intracranial vertebral and internal carotid arteries and 
+their major 
+branches appear patent without evidence of stenosis, occlusion, 
+or aneurysm 
+formation. 
+  
+MRA NECK (___)
+The visualized portions of the common, internal and external 
+carotid arteries appear grossly patent.  There is no evidence of 
+internal carotid artery  stenosis by NASCET criteria.  The 
+vertebral basilar system is right-sided  dominant, a normal 
+variant.  The vertebral arteries remain grossly patent through 
+their course. 
+
+LOWER EXTREMITY DOPPLER (___)
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+ 
+RENAL US (___)
+Unchanged mild-to-moderate bilateral hydronephrosis.  No renal 
+stones are 
+visualized. 
+ 
+CT HEAD (___)
+Tiny evolving infarcts, as described above, though some of the 
+areas as seen on the prior MR are not visualized on CT.  No new 
+acute intracranial 
+abnormality.  No intracranial hemorrhage. 
+ 
+MRI HEAD (___)
+1. New 0.8 cm focus of restricted diffusion in the left 
+cerebellar hemisphere 
+is compatible with early acute infarction. 
+2. Re-demonstration of multiple areas of evolving infarction in 
+the bilateral 
+cerebral hemispheres and posterolateral left thalamus, with 
+interval 
+development of microhemorrhages in an infarcted area in the 
+medial left 
+occipital lobe. 
+3. Areas of parenchymal enhancement are again seen and are 
+compatible with 
+evolving infarcts, however underlying enhancing lesions cannot 
+be excluded on 
+the basis of this examination.  As noted before, follow-up 
+imaging to 
+resolution is recommended. 
+4. Similar appearance of filling defects in the left sigmoid 
+sinus remain 
+concerning for nonocclusive thrombus. 
+5. Loss of the normal T1 marrow signal of the C3 vertebral body, 
+incompletely 
+evaluated on the current exam.  MRI of the cervical spine may be 
+helpful for 
+further evaluation. 
+
+ECHO (___)
+IMPRESSION: Posterior leaflet mitral valve prolapse with 
+moderate mitral regurgitation. Mild
+symmetric left ventricular hypertrophy with normal cavity size 
+and regional/global biventricular systolic
+function. Mildly dilated aortic arch.
+
+ 
+Brief Hospital Course:
+___ man with history of atrial fibrillation and newly 
+diagnosed metastatic prostate cancer presenting for fatigue, 
+weakness, and ___, discovered to have multiple acute-subacute 
+CVAs.
+
+# MULTIFOCAL SUBACUTE CVAs
+# POSSIBLE LEFT SIGMOID SINUS THROMBUS
+Initially presented with symptoms of mild confusion/inattention. 
+Underwent CT head and MRI brain demonstrating scattered subacute 
+infarcts of possibly cardioembolic source, in addition to 
+filling defect within the left sigmoid sinus raising possibility 
+of non-occlusive thrombus. No significant residual deficits were 
+identified despite these infarcts. Occurred in setting of brief 
+discontinuation of rivaroxaban for procedure. Underwent further 
+evaluation including MRA head/neck which was normal. A1c, lipid 
+panel, and TSH all within normal limits. Given association with 
+new diagnosis of metastatic cancer, was initiated on Lovenox 
+therapeutic dosing. Course notable for subsequent episode of 
+transient right eye blurriness which spontaneously resolved in 
+___ minutes. Repeat CT unchanged; repeat MRI ___ demonstrated 
+a new L cerebellar infarction, microhemorrhage around medial 
+left occipital infarctions and stable sigmoid sinus thrombus. 
+MRI findings from ___ were discussed with neurology team and it 
+was determined patient was still stable to be discharged on 
+lovenox given risk of embolic stroke. Arranged to follow up with 
+stroke neurologist as outpatient on a non-urgent basis following 
+discharged.
+
+# ACUTE RENAL FAILURE
+Presenting labs notable for markedly elevated serum creatinine 
+consistent with acute kidney injury. Renal ultrasound 
+demonstrated bilateral moderate hydronephrosis with recent 
+symptoms of difficulty voiding c/w obstructive ___. Underwent 
+Foley placement with adequate urine drainage. Foley was removed 
+___ an patient had successful voiding trial. Concern for 
+pre-renal hypovolemic component in the setting of poor PO intake 
+and tachycardia/hypovolemia on exam, thus patient received IVF 
+boluses. Interval renal US continued to demonstrate 
+mild-moderate hydronephrosis, overall suggestive of partial 
+ureteral obstruction possibly due to malignancy. Unable to 
+obtain CT abdomen at this time given acute kidney injury. 
+Evaluated by urology who recommended against ureteral stenting 
+in the acute setting, though will plan to follow closely as 
+outpatient following discharge. Discharge Cr 2.1,
+
+# METASTATIC PROSTATE CANCER
+# DIFFUSE OSSEOUS LESIONS
+Shortly prior to admission underwent prostate biopsy with 
+pathology demonstrating high-grade prostate adenocarcinoma. 
+Recent MRI L-spine obtained as outpatient demonstrating 
+extensive osseous lesions of the spine. Diffuse weakness though 
+no evidence of acute cord compression. Was evaluated by oncology 
+in-house with plan to start casodex ___ mg QD with close oncology 
+follow up for further management. 
+
+# ATRIAL FIBRILLATION
+Xarelto recently held prior to prostate biopsy, possibly 
+contributing to newly discovered CVAs. Previously not on rate 
+control, though HR frequently >130 during admission. Responded 
+appropriately to fluid bolus (dry given recently decreased PO 
+intake) in addition to starting metoprolol succinate for goal HR 
+<110.
+
+# CONSTIPATION
+In setting of recent opiates for cancer-associated pain. 
+Resolved with aggressive bowel regimen.
+
+TRANSITIONAL ISSUES
+===================
+[ ] MRI brain demonstrated multiple acute-subacute infarts as 
+well as filling defects within the left sigmoid sinus. Will need 
+to remain on anti-coagulation indefinitely
+[ ] Posterior leaflet mitral valve prolapse with moderate mitral 
+regurgitation.
+[ ] Anti-Xa level on ___ at Oncology follow up appointment
+[ ] Repeat BMP ___ at ___ clinic 
+[ ] Evaluate volume exam ___ and ___ at oncology, ___ ___. Pt 
+may require additional IVF. 
+[ ] Obtain prior authorization for Lidocaine patch at PCP or 
+oncology appointment 
+[ ] Repeat orthostatics with ___
+
+NEW MEDICATIONS
+Metoprolol succinate 25 mg QD
+Casodex ___ mg QD
+Lovenox 60 mg BID
+Bisacodyl PRN
+Lactulose PRN
+Senna PRN
+Miralax PRN
+
+STOPPED MEDICATIONS
+Rivaroxaban 20 mg QD 
+
+#CODE:Full 
+#CONTACT: ___ (wife: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OxyCODONE (Immediate Release) 2.5 mg PO Q3H:PRN Pain - Severe 
+
+2. Rivaroxaban 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line 
+RX *bisacodyl 5 mg 2 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*0 
+2.  Casodex (bicalutamide) 50 mg oral DAILY 
+RX *bicalutamide 50 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Enoxaparin Sodium 60 mg SC Q12H 
+RX *enoxaparin 60 mg/0.6 mL 1 syringe subcutaneous every 12 
+hours Disp #*60 Syringe Refills:*0 
+4.  Lidocaine 5% Patch 1 PTCH TD QPM 
+RX *lidocaine 5 % apply 1 patch as directed daily Disp #*30 
+Patch Refills:*0 
+5.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+6.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second 
+Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth daily 
+Disp #*30 Packet Refills:*0 
+7.  Senna 17.2 mg PO BID 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth twice daily 
+Disp #*120 Tablet Refills:*0 
+8.  OxyCODONE (Immediate Release) 2.5 mg PO Q3H:PRN Pain - 
+Severe  
+9.Outpatient Physical Therapy
+ROLLING WALKER
+ICD10: C61
+PROGNOSIS: Good
+Length of use: 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Cardiovascular accident
+Acute visual defect
+Acute renal injury
+Urinary retention
+Metastatic prostate cancer
+
+SECONDARY ISSUES:
+=================
+Constipation
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.
+
+Why you were in the hospital:
+- abnormal lab tests
+- weakness, fatigue
+
+What was done for you in the hospital:
+- We performed an MRI of your brain that showed several small 
+strokes. 
+- We started you on a blood thinner medication to help reduce 
+the risk of future strokes or blood clots
+- You were evaluated by the oncology team to help with your 
+transition into treatment for prostate cancer
+- We placed a Foley catheter to help with your recent symptoms 
+of urinary retention.
+
+What you should do after you leave the hospital:
+- Please take your medications as detailed in the discharge 
+papers. If you have questions about which medications to take, 
+please contact your regular doctor to discuss.
+- Please go to your follow up appointments as scheduled in the 
+discharge papers. Most of them already have a specific date & 
+time set. If there is no specific time specified, and you do not 
+hear from their office in ___ business days, please contact the 
+office to schedule an appointment.
+- Please monitor for worsening symptoms. If you do not feel like 
+you are getting better or have any other concerns, please call 
+your doctor to discuss or return to the emergency room.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13981524-DS-3 | hadm_id=26584142
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ edema
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ M with chronic AF currently on Lovenox 
+(previously on xarelto), metastatic prostate cancer, and recent 
+admission to ___ with ___ thought to be combination 
+of post-obstructive and pre-renal etiologies, with hospital 
+course complicated by multiple acute-subacute CVAs presumed 
+cardioembolic infarcts while patient was on brief xarelto hold 
+for procedure who was referred from ___ due to poor PO intake, 
+DOE and ___ edema. 
+
+The patient states that he had mild LLE edema at discharge on 
+___, which he initially attributed to a chronic LLE cyst. 
+However, he noted increasing ___ edema since ___, with 
+RLE edema particularly worsening since yesterday. He denies any 
+SOB at rest or with exertion but is endorsing minimal exertion 
+as walking is painful due to ___ swelling. Denies fevers, chills, 
+HAs, abdominal pain. Reports regular bowel movements with no 
+dark tarry stools or blood. Denies dysuria and hematuria, notes 
+occasional hesitancy with urination. Also endorsing poor 
+appetite and minimal PO intake. He presented to his Oncologists 
+office today who reportedly was concerned about his worsening 
+edema and referred him to the ___. In the CDAC, he was grossly 
+overloaded with 3+ edema bilaterally and elevated JVD. He was 
+therefore admitted to the ___ service for diuresis and further 
+management.
+
+Of note, TTE obtained during last admission ___ showed LVEF 
+~55% and 2+ MR. ___ that admission, he notably received 
+multiple boluses of IV fluids while hospitalized. Patient also 
+has known hydronephrosis on renal US and Cr on discharge was 
+2.1, which was improved to 1.5 in CDAC today He is otherwise HD 
+stable and on room air.
+
+On the floor, he endorses the above history and denies CP, SOB, 
+DOE.  
+ 
+ 
+REVIEW OF SYSTEMS:  
+Positive per HPI.  
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea 
+palpitations, syncope, or presyncope.  
+
+On further review of systems, denies fevers or chills. Denies 
+any prior history of pulmonary embolism, bleeding at the time of 
+surgery, myalgias, joint pains, cough, hemoptysis, black stools 
+or red stools. Denies exertional buttock or calf pain. All of 
+the other review of systems were negative. 
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: 
+No ___ DM, HTN, HLD
+   
+2. CARDIAC HISTORY     
+- Atrial fibrillation on AC with LVX, previously on xarelto 
+
+3. OTHER PAST MEDICAL HISTORY  
+Vein stripping procedure done in ___ in ___
+Metastatic prostate cancer
+ 
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death. Denies history of GU malignancies 
+including prostate, kidney, bladder cancer
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=========================
+VS: 98.3 PO 111 / 76 R Lying 84 18 97 Ra 
+GENERAL:  NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.  
+
+NECK: Supple. JVP of 12 cm.  
+CARDIAC: regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops
+LUNGS: No chest wall deformities or tenderness. Exam limited due 
+to pain in spine, reduced breath sounds at bases 
+ABDOMEN: Soft, non-tender, non-distended 
+EXTREMITIES: Warm, well perfused. B/L ___ edema ___ pitting to 
+knees
+SKIN: No significant skin lesions or rashes.  
+PULSES: Unable to palpate b/l distal pulses due to ___ edema
+
+DISCHARGE PHYSICAL EXAM
+========================
+24 HR Data (last updated ___ @ 1142)
+    Temp: 98.3 (Tm 98.5), BP: 93/65 (93-122/64-85), HR: 90
+(76-92), RR: 18, O2 sat: 96% (95-97), O2 delivery: Ra, Wt: 
+151.01
+lb/68.5 kg  
+Fluid Balance (last updated ___ @ 842) 
+  Last 8 hours  Total cumulative -95ml
+    IN: Total 180ml, PO Amt 180ml
+    OUT:  Total 275ml, Urine Amt 275ml
+  Last 24 hours  Total cumulative -645ml
+    IN: Total 780ml, PO Amt 780ml
+    OUT:  Total 1425ml, Urine Amt 1425ml  
+GENERAL:  NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.  
+
+NECK: Supple. JVP of 10cm.  
+CARDIAC: regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops
+LUNGS: No chest wall deformities or tenderness. Exam limited due
+to pain in spine, reduced breath sounds at bases 
+ABDOMEN: Soft, non-tender, non-distended 
+EXTREMITIES: Warm, well perfused. B/L ___ edema 1+ pitting to
+knees
+SKIN: No significant skin lesions or rashes.  
+PULSES: Unable to palpate b/l distal pulses due to ___ edema. 
+ 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 10:40AM BLOOD WBC-7.8 RBC-3.91* Hgb-12.3* Hct-35.8* 
+MCV-92 MCH-31.5 MCHC-34.4 RDW-13.2 RDWSD-43.6 Plt ___
+___ 10:40AM BLOOD Neuts-81.4* Lymphs-8.5* Monos-8.6 
+Eos-0.5* Baso-0.1 Im ___ AbsNeut-6.35* AbsLymp-0.66* 
+AbsMono-0.67 AbsEos-0.04 AbsBaso-0.01
+___ 06:55AM BLOOD ___ PTT-29.5 ___
+___ 10:40AM BLOOD UreaN-22* Creat-1.5* Na-126* K-4.0 Cl-91* 
+HCO3-25 AnGap-10
+___ 10:40AM BLOOD ALT-35 AST-27 AlkPhos-709* TotBili-0.5
+___ 10:40AM BLOOD Mg-2.0
+___ 10:40AM BLOOD Calcium-8.5
+___ 10:40AM BLOOD Testost-305
+___ 10:40AM BLOOD PSA-1897*
+
+URINE
+=====
+___ 05:00PM URINE Blood-SM* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 05:00PM URINE RBC-2 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 05:00PM URINE Color-Straw Appear-Clear Sp ___
+
+DISCHARGE LABS
+===============
+___ 07:36AM BLOOD WBC-4.7 RBC-3.66* Hgb-11.5* Hct-33.2* 
+MCV-91 MCH-31.4 MCHC-34.6 RDW-13.2 RDWSD-43.4 Plt ___
+___ 07:36AM BLOOD ___ PTT-31.6 ___
+___ 07:36AM BLOOD Glucose-100 UreaN-25* Creat-1.7* Na-134* 
+K-4.0 Cl-92* HCO3-29 AnGap-13
+___ 07:36AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.0
+
+IMAGING
+========
+___ RENAL US
+IMPRESSION:  
+Unchanged mild to moderate bilateral hydronephrosis. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was a ___ man with history of atrial 
+fibrillation on LVX (previously on Xarelto) and newly diagnosed 
+metastatic prostate cancer who was recently admitted for 
+fatigue, weakness, and ___, and was found to have multiple 
+acute-subacute CVAs while ___ was held for prostate biopsy 
+who presented with with poor PO intake and ___ edema. Patient was 
+grossly volume overloaded on exam with ___ ___ edema, and 
+elevated JVP and was presumed to have HFpEF exacerbation with 
+chemo for metastatic prostate ca also likely contributing to ___ 
+edema. He was diuresed with multiple boluses of Lasix ___ 
+edema improved and was discharged home on 20 mg PO torsemide 
+daily. Discharge Cr was 1.7 and discharge weight was 68.5 kg,
+
+# CORONARIES: Unknown 
+# PUMP: EF>55%
+# RHYTHM: Afib on lovenox 
+
+ACTIVE ISSUES:  
+==============  
+___ EDEMA
+#PRESUMED HFpEF EXACERBATION
+Patient p/w worsening ___ swelling since discharge ___ edema that 
+was impairing his ability to walk due to pain. Patient denied 
+SOB/DOE but was grossly overloaded on examination with elevated 
+JVP and ___ edema that was felt to be due to HFpEF exacerbation 
+in the setting of recent admission for acute renal
+failure and IV hydration. Renal obstructive test was ruled out 
+as patient's creatinine had improved since last discharge and 
+renal US with mild to moderate hydronephrosis that had not 
+worsened since admission. Patient was diuresed with multiple 
+lasix boluses with improvement in ___ edema with mild ___ edema 
+persisting, likely as an adverse effect of chemotherapeutic 
+agents. He was discharged on 20 mg torsemide  daily. Discharge 
+Cr was 1.7 and discharge weight was 68.5 kg. His home Lopressor 
+12.5 mg daily was continued.
+
+CHRONIC ISSUES:  
+==============  
+# MULTIFOCAL SUBACUTE CVAs
+# POSSIBLE LEFT SIGMOID SINUS THROMBUS
+Patient with ___ central embolic source of CVAs, likely 
+precipitated by a-fib or malignancy-related hypercoagulable 
+state in setting of being off rivaroxaban for prostate biopsy. 
+No significant deficits on neurological exam in last admission. 
+He was continued on LVX for anticoagulation
+
+# METASTATIC PROSTATE CANCER
+# DIFFUSE OSSEOUS LESIONS
+Patient with ___ urinary retention and PSA >700. s/p biopsy on 
+___ with high grade prostate adenocarcinoma. MRI L-spine with 
+extensive osseous lesions of the spine now with diffuse 
+weakness. Pt was started on Lupron on ___. He was continued on 
+bicalutamide with oxycodone, Tylenol for pain.
+
+# ATRIAL FIBRILLATION
+Patient had previously been on flecainide and failed 
+cardioversion. Now rate controlled on Lopressor 12.5mg daily. 
+Previously on xarelto that was switched to LVX that was 
+continued this hospitalization given CVAs and L sigmoid sinus 
+thrombosis in last admission
+
+TRANSITIONAL ISSUES
+====================
+#NEW MEDS: 20mg torsemide daily
+#CHANGED MEDS: None
+#DISCONTINUED MEDS: None
+
+[]F/u with cardiology and hematology/oncology
+#CODE: full (presumed)
+#CONTACT: ___ (wife: ___
+Discharge wt: 68.5kg
+Discharge Cr: 1.7
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Casodex (bicalutamide) 50 mg oral DAILY 
+2. Enoxaparin Sodium 60 mg SC Q12H 
+3. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line 
+4. Senna 17.2 mg PO BID 
+5. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second 
+Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+6. Metoprolol Succinate XL 12.5 mg PO DAILY 
+7. Lidocaine 5% Patch 1 PTCH TD QPM 
+8. OxyCODONE (Immediate Release) 2.5 mg PO Q3H:PRN Pain - Severe 
+
+
+ 
+Discharge Medications:
+1.  Torsemide 20 mg PO DAILY 
+RX *torsemide 20 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet 
+Refills:*0 
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line  
+3.  Casodex (bicalutamide) 50 mg oral DAILY  
+4.  Enoxaparin Sodium 60 mg SC Q12H  
+5.  Lidocaine 5% Patch 1 PTCH TD QPM  
+6.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+7.  OxyCODONE (Immediate Release) 2.5 mg PO Q3H:PRN Pain - 
+Severe  
+8.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second 
+Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+9.  Senna 17.2 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+___ EDEMA
+ACUTE HFpEF EXACERBATION
+
+SECONDARY DIAGNOSIS
+=====================
+MULTIFOCAL SUBACUTE CVAs
+POSSIBLE LEFT SIGMOID SINUS THROMBUS
+METASTATIC PROSTATE CANCER
+DIFFUSE OSSEOUS LESIONS
+ATRIAL FIBRILLATION
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+ It was a pleasure taking care of you at the ___ 
+___!  
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted to the hospital because had swelling in 
+your legs. This was felt to be due to a condition called heart 
+failure, where your heart does not pump hard enough and fluid 
+backs up into your legs.
+  
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+ -  You were given a diuretic medication through the IV to help 
+get the fluid out. You improved considerably and were ready to 
+leave the hospital. You were started on a new medication 
+(torsemide) to help prevent fluid from building up again in your 
+legs. 
+ 
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+- Your weight at discharge is 68.5 kg (151 lbs). Please weigh 
+yourself today at home and use this as your new baseline  
+ - Please weigh yourself every day in the morning. Call your 
+doctor if your weight goes up by more than 3 lbs
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+
+ 
+ 
+Followup Instructions:
+___

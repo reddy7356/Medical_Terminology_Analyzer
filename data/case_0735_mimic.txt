@@ -1,0 +1,231 @@
+===== DISCHARGE NOTE =====
+note_id=14741521-DS-3 | hadm_id=24915141
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chief Complaint: dizziness and lightheadedness 
+Reason for MICU transfer: ___  
+
+ 
+Major Surgical or Invasive Procedure:
+placement of central venous line
+ 
+History of Present Illness:
+___ yrs. yo F with PMH NIDDM on metformin who presents with 
+dizziness and lightheadedness progressively worsening x 3 weeks 
+referred into ED from clinic for abnormal labs including glc 
+>700.  Patient reports polydipsia, polyuria (up 4 times nightly 
+to urinate), blurry vision, lack of appetite and weight loss of 
+___ lb since ___.  Patient otherwise denies cp, sob, HA, any 
+abdominal pain, urinary symptoms (except frequency), no fever. 
+Last A1C noted to be 7.3% (___). She does not regularly 
+check her blood sugars at home.  Patient states she is compliant 
+with metformin 500 mg once daily.  Denies that these symptoms 
+have ever occured in the past. 
+
+She notes that 3 weeks ago, she did have some nasal congeston 
+with productive cough. She denies any associated shortness of 
+breath, headache, sinus tenderness, or fevers at that time. She 
+also had a dental cleaning around that time for which she 
+received unknown antibiotic.
+
+In clinic, patient was also found to have elevated creat (3.9) 
+with Na 127, K 5.5, co2 12. Patient was subsequently referred to 
+BI ED for treatment of DKA. In clinic, IVF were started and 
+patient was given 8 units of insulin subcut. 
+
+In the ED, initial vitals:  
+17:55 0 98.8 122 90/71 16 99% RA 
+
+Patient was started on insulin IV drip at 9 UNIT/HR and received 
+a total of 3L NS in ED. CVL IJ was placed.
+On arrival to the MICU,  patient has no complaints and states 
+she feels much better.
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath, or wheezing. 
+Denies chest pain, chest pressure, palpitations, or weakness. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+or changes in bowel habits. Denies dysuria, frequency, or 
+urgency. Denies arthralgias or myalgias. Denies rashes or skin 
+changes.  
+
+ 
+Past Medical History:
+HTN
+Hypercholesterolemia
+Morbid obesity
+DMII
+
+ 
+Social History:
+___
+Family History:
+History of diabetes/hypertension on maternal/paternal sides. No 
+history of CAD.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals: T98 BP107/45 HR96 95% RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, R IJ in place
+LUNGS: Clear to auscultation bilaterally
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: obese, soft, non-tender, non-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 08:00PM BLOOD WBC-5.4 RBC-4.32 Hgb-13.0 Hct-39.5 MCV-91 
+MCH-30.0 MCHC-32.8 RDW-13.8 Plt ___
+___ 08:00PM BLOOD Neuts-74.9* ___ Monos-4.7 Eos-1.2 
+Baso-0.6
+___ 08:00PM BLOOD Plt ___
+___ 03:26AM BLOOD ___ PTT-22.5* ___
+___ 08:00PM BLOOD Glucose-662* UreaN-52* Creat-4.0*# 
+Na-131* K-5.6* Cl-90* HCO3-6* AnGap-41*
+___ 03:26AM BLOOD ALT-27 AST-19 AlkPhos-60 TotBili-0.2
+___ 08:00PM BLOOD Phos-4.9* Mg-2.5
+___ 03:26AM BLOOD %HbA1c-16.6* eAG-430*
+___ 03:26AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 09:08PM BLOOD ___ pH-7.28*
+___ 09:08PM BLOOD Glucose-GREATER TH Na-131* K-4.8 Cl-96 
+calHCO3-14*
+___ 04:02AM BLOOD Lactate-1.1
+
+URINE
+___ 01:32AM URINE Color-Straw Appear-Clear Sp ___
+___ 01:32AM URINE Blood-TR Nitrite-NEG Protein-30 
+Glucose-1000 Ketone-40 Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 01:32AM URINE RBC-<1 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 01:32AM URINE CastGr-3*
+
+IMAGING
+___ CXR
+FINDINGS:   
+A portable frontal chest radiograph demonstrates the right 
+internal jugular central line, with the tip terminating at the 
+cavoatrial junction.  Surgical skin staples are seen projecting 
+over the right upper quadrant.  The cardiomediastinal silhouette 
+is normal and the lungs are clear, without focal consolidation, 
+pleural effusion, or pneumothorax. 
+IMPRESSION:  
+Right internal jugular line terminating at the cavoatrial 
+junction. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: ___ yrs. yo F with PMH NIDDM on metformin who 
+presents with dizziness and lightheadedness progressively 
+worsening x 3 weeks found to be in DKA.
+
+# DKA: Patient hyperglycemic presenting initially with anion gap 
+of 35 and pH 7.28. U/A with 1000 glc 40 ketones. Possible 
+etiologies include insulin deficiency (possibly underdosed with 
+metformin given repeat HbA1C of 16.6%) or infection with history 
+of possible viral prodrome. Low suspicion for cardiac ischemia 
+or intoxication triggering DKA given clinical history and 
+negative serum/urine tox screen. Anion gap closed with insulin 
+drip and patient was subsequently transitioned to subcutaneous 
+insulin - she was then transferred from ICU to the regular 
+floor. ___ was consulted and patient was started on fixed 
+dose as well as meal time insulin prior to discharge. 
+
+# ___ (Creat 1.1 on ___: Presumably prerenal vs ATN in the 
+setting of DKA, polyuria, decreased po intake/decreased 
+appetite. Renal function improved with IVF. 
+
+# Hypertension: Held home lisinopril 40mg hctz 25mg in the 
+setting of ___.
+ 
+TRANSITIONAL ISSUE
+- PLEASE RESTART LISINOPRIL AND HCTZ AS APPROPRIATE
+- PLEASE CONSIDER ENDOCRINE REFERRAL AS APPROPRIATE
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 40 mg PO DAILY 
+2. MetFORMIN (Glucophage) 500 mg PO DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Glargine 28 Units Breakfast
+Humalog 7 Units Breakfast
+Humalog 7 Units Lunch
+Humalog 7 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic [FreeStyle Lite Strips]  check blood 
+sugar at breakfast, lunch, dinner, bedtime Disp #*300 Strip 
+Refills:*3
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+28 Units before BKFT; Disp #*20 Syringe Refills:*3
+RX *blood-glucose meter  check blood sugars at breakfast, lunch, 
+dinner, bedtime Disp #*2 Kit Refills:*1
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL AS DIR Up to 9 
+Units QID per sliding scale 7 Units before LNCH; Units QID per 
+sliding scale 7 Units before DINR; Units QID per sliding scale 
+Disp #*20 Syringe Refills:*3
+RX *lancets 21 gauge check blood sugar at breakfast, lunch, 
+dinner, bedtime Disp #*300 Each Refills:*3
+2. Insulin Pen Needle
+Insuline Pen Needle
+use with lantus and humalog pen as directed
+1 month supply
+refill: 3
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+DIABETIC KETOACIDOSIS
+NON INSULIN DEPENDENT DIABETES MELLITUS
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It has been our pleasure caring for you.  You were admitted 
+because you were in diabetic ketoacidosis (your diabetes was 
+dangerously not well contolled). We treated you with insulin, 
+and we are glad to see that you are now feeling better.  You 
+should continue to take insulin as instructed.
+
+We wish you all the best!
+
+Your ___ care team
+ 
+Followup Instructions:
+___

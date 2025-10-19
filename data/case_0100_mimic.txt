@@ -1,0 +1,159 @@
+===== DISCHARGE NOTE =====
+note_id=16543302-DS-6 | hadm_id=29798986
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This is a ___ yo F with a hx of hypertension who has been off her 
+HTN meds for approx. ___ year who presents with 2 wks of worsening 
+HA and general malaise. The HA is bifrontal and relatively 
+constant but improves sometimes with lying down. No photophobia, 
+no fevers, no neck stiffness. Worst is ___. No focal weakness, 
+numbness, blurry vision or slurred speech. Pt. also noted on 
+episode of L sided CP on ___, lasting ___ minutes, 
+described as "sticking" and worse with inhalation. No associated 
+SOB, N/V, diaphoresis, radiation. The patient states that she 
+did not like to take her blood pressure medications because she 
+did not want to be "one of those people who need to take pills 
+everyday". She was trying many different herbal remedies 
+instead. 
+ 
+Past Medical History:
+Hypertension, not on blood pressure medications
+ 
+Social History:
+___
+Family History:
+The patient's mother is alive and well, has history of 
+hypertension. Father alive and well without known medical 
+illnesses. The patient has multiple siblings, a few of whom have 
+been noted to have borderline elevated blood pressure.  
+ 
+Physical Exam:
+VS: 97.9, 69, 140/96, 98% RA  
+Gen: NAD  
+HEENT: NCAT, EOMI, PERRL. Anicteric, no conjunctival pallor. OP 
+clear, MMM.  
+Neck: No JVD, no LAD  
+Cor: RRR no m/r/g  
+Pulm: CTAB no w/r/r  
+Abd: soft +BS, NT/ND, No HSM  
+Extrem: no c/c/e  
+Skin: no rashes  
+Neuro: CN II-XII in tact bilaterally. Strength is ___ in upper 
+and lower extremities and sensation to LT is in tact 
+bilaterally. No tremor/asterixis. A&Ox3. Gait deferred.  
+
+ 
+Pertinent Results:
+___ 06:20PM BLOOD WBC-5.7 RBC-4.37 Hgb-14.4 Hct-40.3 MCV-92 
+MCH-33.0* MCHC-35.7* RDW-13.1 Plt ___
+___ 06:20PM BLOOD Neuts-51.6 ___ Monos-4.7 Eos-1.7 
+Baso-0.4
+___ 07:25AM BLOOD Glucose-102 UreaN-13 Creat-1.0 Na-141 
+K-4.3 Cl-104 HCO3-32 AnGap-9
+___ 07:25AM BLOOD CK(CPK)-91
+___ 06:20PM BLOOD CK(CPK)-134
+___ 07:25AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 06:20PM BLOOD cTropnT-<0.01
+___ 07:25AM BLOOD Calcium-9.5 Phos-5.3* Mg-2.1
+U/A NEG 
+
+ 
+Brief Hospital Course:
+In the ED, initial VS were 98.1, 66, 193/119, 14, 99% RA. She 
+received 1g Tylenol and 10mg IV Labetolol x 1 which greatly 
+improved her blood pressure to SBP 140s. CXR and CT head were 
+negative.
+.
+# Hypertension: Patient hypertensive 190s with mild headache.  
+She had been off all blood pressure medication for the past year 
+as she was trying homeopathic remedies.  Patient was restarted 
+on HCTZ 25 and Lisinopril 10 which were her previous 
+medications.  She got her first dose at midnight and her BP was 
+low 96/40 the following morning at 9am.  She received 500ml 
+bolus of IVF and SBP was back up to 130s.  She was discharged on 
+HCTZ 25mg po and close outpatient follow up.  She was counselled 
+on the importance of taking her medication and agreed that she 
+needs them.  We also noted that her potassium is chronically low 
+and her bicarb is chronically high and suggested outpatient work 
+up of renin-angiotenson-aldosterone axis.
+.  
+# Headache: Likely tension headache and worsened by high blood 
+pressure but no other neuro symptoms concerning for hypertensive 
+urgency. CT head was negative.  Patient was given tylenol and 
+her blood pressure was controlled and her headache resolved. 
+.  
+# Chest discomfort: Upon presentation the patient noted 3 days 
+earlier she had one short episode of chest pain. Has not 
+returned and pain free now. CXR was clear. Cardiac enzymes 
+negative x2 ___ hours apart. BPs and pulses equal in both arms 
+and no further chest pain make dissection very unlikely. Patient 
+was monitored on telemetry and remained in NSR with no events.
+.
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).
+Disp:*56 Capsule(s)* Refills:*2*
+2. Outpatient Lab Work
+Please get Chem-7, renin and aldosterone checked before your 
+next PCP appointment
+
+ 
+Discharge ___:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Hypertension
+
+ 
+Discharge Condition:
+stable.
+
+ 
+Discharge Instructions:
+You came to the hospital with headache.  We found your blood 
+pressure was high.  We treated you with blood pressure 
+medications and your blood pressure remained stable overnight 
+and your headache improved.  We believe your headache was 
+related to your blood pressure.  We did blood tests that did not 
+show any evidence of a heart attack.
+.
+We made the following changes to your medications:
+Added HCTZ 25 mg po daily
+You should take tylenol as needed for your headache
+.
+Please follow up with your primary care doctor to have your 
+blood pressure checked and your medications adjusted as needed.
+.
+If you have any chest pain, shortness of breath,fever, chills, 
+vomiting, dizziness/falls, or any other symptoms that are 
+concerning to you please call your doctor or come to the 
+emergency room. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,727 @@
+===== DISCHARGE NOTE =====
+note_id=19211546-DS-3 | hadm_id=20682316
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hypercalcemia, transfer from OSH
+ 
+Major Surgical or Invasive Procedure:
+___ - US-guided biopsy of soft tissue metastasis by ___
+ 
+History of Present Illness:
+___ with PMHx of HTN, HLD, DM, h/o diverticulosis, who
+presented ___ with several weeks of R arm pain, lethargy, 
+unsteady gait, to PCP. He had also noticed 20 pound 
+unintentional weight loss, slowed gait, and general decline in 
+functional status.  He has been fatigued, and had trouble 
+staying steady on his feet.  He had a fall, without syncope, at 
+work when he ended up on the floor.  The arm pain was initially 
+attributed to a flu shot but persisted for several weeks.  He 
+also endorsed nocturia which he felt was due to diabetes.  Labs 
+were done, he was found to have elevated Calcium to 14, and was 
+sent to ___.
+
+At ___, Calcium 15.1 -> 14 -> 11.9 with IVF, calcitonin. 
+Also found to have ___ (Cr 2.2->1.8->1.47). CT head showed R 
+cerebral edema with concern for underlying mass, and MRI brain 
+showed evidence of multiple metastatic lesions. It was discussed 
+with ___ who recommended transfer to ___. Held 
+Lisinopril, HCTZ, Metformin and Glyburide.  Endocrine and 
+Neurology saw patient. Held off on CT scan torso and 
+bisphosphonates pending further improvement in Cr. 
+
+Per patient, wife, and daughter, his speech and attention have 
+been better following IV fluids and correction of hypercalcemia.
+
+Other than arm pain, he has also had intermittent low back pain 
+if he leans forward in a chair for a long period of time.
+
+He also tells me of a Supranasal visual field defect, which has 
+been followed with routine exams by a Neuro-Ophtho at Mass Eye 
+and Ear.  It had not been appreciably changing until his last 
+examination there, in which it was found to be possibly slightly 
+worse.  The etiology was thought to be possibly Glaucoma but 
+unclear.
+ 
+Past Medical History:
+DM
+diverticulosis
+HLD
+HTN 
+seborrheic keratosis
+actinic keratosis
+? Cataracts
+Supranasal visual field defect - followed by Neuro-Optho at Mass 
+eye and Ear with routine exams
+ 
+Social History:
+___
+Family History:
+Mother and father still alive, in their ___. Father with ___. 
+ Brother with CAD.  Other brother with tongue SCC. MGF with 
+colon cancer. 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+Vitals:  98.6, HR 92, RR 20, 136/71, 97% RA
+General: Alert, oriented x3, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no appreciable thyroid mass
+Lungs: CTAB no wheezes, rales, rhonchi  
+CV: RRR, S1, S2, No MRG  
+Abdomen: soft, NT/ND, bowel sounds present, no rebound 
+tenderness or guarding, no flank masses
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro:  CN2-12 intact. No gross focal or sensory deficits
+Skin:  Good skin turgor
+
+DISCHARGE EXAM
+==============
+Vitals: T: 97.9 BP: 133/73 P: 78 RR: 20 Sp02: 95 RA 
+General: Alert, no acute distress, sitting on the edge of the 
+bed
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple
+Lungs: CTAB, no w/r/r 
+CV: RRR, no murmurs
+Abdomen: soft, NT/ND, bowel sounds present, no rebound 
+tenderness or guarding, no masses appreciated
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Neuro:  Alert. Oriented x3. No gait deficits. No pronator drift.
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 05:40AM BLOOD WBC-6.4 RBC-3.22*# Hgb-9.2* Hct-26.9*# 
+MCV-84 MCH-28.6 MCHC-34.2 RDW-13.1 RDWSD-39.7 Plt ___
+___ 09:20PM BLOOD Glucose-194* UreaN-22* Creat-1.2 Na-137 
+K-4.4 Cl-103 HCO3-21* AnGap-17
+___ 09:20PM BLOOD Calcium-10.7* Phos-1.4* Mg-1.6
+___ 09:20PM BLOOD PTH-7*
+
+PERTINENT LABS
+================
+___ 05:40AM BLOOD PSA-2.3
+
+REPORTS
+============
+CT Head ___. Edema of the right frontal lobe with mass effect, but no 
+significant midline shift concerning for underlying mass.  
+Recommend further evaluation with MRI of the brain with 
+contrast.
+2. No definite evidence of intracranial hemorrhage.
+3. Paranasal sinus disease, as described.
+
+MRI Brain ___
+Multiple enhancing lesions within the brain, suspicious for 
+metastatic disease.  Please see above report for details. 
+Oncological and radiation oncology consultations are advised to 
+be obtained on a prompt basis.
+
+Renal US ___. No hydronephrosis or nephrolithiasis.
+2. 5.5 x 3.8 x 5.7 cm mildly echogenic mass in the lower pole of 
+the right kidney.  Further evaluation with non-urgent MRI is 
+recommended.
+3. Mild splenomegaly.
+
+RUE US ___
+No evidence of deep vein thrombosis in the right upper 
+extremity.
+
+XR R Humerus ___ cm lytic lesion in the right humerus concerning for 
+metastatic lesion.
+
+CXR ___
+Heart, mediastinum and the lung fields are within normal limits. 
+ No focal bony lesion.
+
+Neck US ___
+Soft tissue nodule at base of right neck is well identified and 
+amenable to ultrasound-guided biopsy. 
+
+CT Chest ___. Multiple pulmonary nodules measuring up to 12 mm concerning 
+for metastatic disease.  Paraspinal intramuscular lesion 
+measuring 14 mm at the thoracic inlet concerning for metastatic 
+disease.  Known right humeral lytic lesion represents bony 
+metastasis. 
+2. 19 x 14 mm thyroid nodule.  Ultrasound may be performed on a 
+nonemergent basis to further assess. 
+
+CT A/P ___. Right lower pole renal mass measuring up to 7.4 cm is highly 
+suspicious for renal cell carcinoma, potentially an atypical 
+subtype suggest sarcomatous or medullary renal cell carcinoma.  
+Biopsy is recommended. 
+2. Top-normal retroperitoneal and porta hepatis lymph nodes do 
+not meet strict CT size criteria for pathologic enlargement but 
+remain suspicious for local metastatic disease. 
+3. An indeterminate right adrenal nodule and a small hepatic 
+hypodensity are also worrisome for sites of metastatic 
+involvement. 
+4. Extensive diverticulosis. 
+5. Please see the separately submitted report of the same day CT 
+Chest for findings above the diaphragm.
+
+MICROBIOLOGY
+=============
+Urine culture - negative
+
+PERTINENT LABS
+==============
+___ 09:20PM BLOOD PTH-7*
+___ 05:40AM BLOOD PEP-NO SPECIFI
+___ 09:43PM URINE RBC->182* WBC-1 Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 09:43PM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-300 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+DISCHARGE LABS
+==============
+___ 07:55AM BLOOD WBC-8.6 RBC-3.59* Hgb-9.6* Hct-30.6* 
+MCV-85 MCH-26.7 MCHC-31.4* RDW-13.5 RDWSD-41.4 Plt ___
+___ 07:55AM BLOOD Glucose-254* UreaN-31* Creat-1.4* Na-139 
+K-4.5 Cl-104 HCO3-20* AnGap-20
+___ 07:55AM BLOOD Albumin-3.5 Calcium-9.5 Phos-3.1 Mg-2.___ y/o M with a h/o HTN, HLD, DM, who presented initially with 
+arm pain, a fall, and weakness, found to have hypercalcemia, 
+renal mass, and multiple sites of metastatic malignancy 
+including the brain, all likely due to suspected new dx of RCC.
+
+ACTIVE ISSUES
+=============
+# Hypercalcemia:  Most likely hypercalcemia of malignancy.  Low 
+PTH and low Phos points to likelihood of PTHrP-driven process, 
+esp given likely renal cell carcinoma. PTHrP ultimately came 
+back as elevated in OSH records. He received IVF, Calcitonin, 
+and Bisphosphonate at OSH. IVF was continued at ___, and his 
+calcium downtrended.  Of note, with this improvement in serum Ca 
+came an improvement in mental status.  Endocrine was consulted.  
+The day prior to discharge, IVF was stopped. His follow up 
+calcium the next morning was stable, and thus he was discharged 
+home. PCP was aware and placed a standing order for outpatient 
+electrolyte monitoring.  Home thiazide was stopped. PTHrP, 
+1,25-vitamin D pending on discharge.
+
+# Metastatic Malignancy, suspected RCC: Workup to this point is 
+notable for multiple sites of involvement, including brain mets, 
+humeral lytic lesion, pulmonary nodules, soft tissue nodule at 
+base of right neck, possible adrenal and hepatic nodules.  Renal 
+Cell Carcinoma is the most likely site of involvement given 
+complete clinical picture, and elevated PTHrP is often 
+associated with this.  Does have a FHx colon cancer, but is UTD 
+on screening for this (last ___ ___ with rec'd ___ year f/u). 
+PSA wnl also. He received Biopsy of neck soft tissue met with ___ 
+on ___. General Onc, Neuro Onc, NSGY, and Rad Onc were all 
+consulted/ Pt to be discussed at tumor board on ___.  
+Oncology will contact him for follow-up plan on finalization of 
+the pathology.  Tylenol, Oxycodone were used PRN for pain.  
+Started Keppra 500mg BID for seizure ppx.  Also started Decadron 
+4mg BID, later transitioned to 4mg once daily on discharge.  
+Held home ASA for now in case intervention is pursued as 
+outpatient (was taking for primary prevention). ___ and OT were 
+consulted, recommending rolling walker and outpatient ___. SPEP 
+and UPEP negative.  Urine cytology negative for high grade 
+malignant cells.
+
+# Anemia: Likely a combination of dilutional from IVF as well as 
+anemia of chronic disease. No evidence of hemodynamically 
+unstable bleeding, though did have hematuria on ___. Iron 
+studies w/o deficiency.  Hemolysis labs unrevealing.
+
+# Hematuria: Noted on ___ by nursing. Could be related to 
+malignancy in kidney, vs less likely UTI as no infectious 
+symptoms.  UA showed RBC's.  Culture negative.
+
+# ___ on CKD: Cr 2.19 on arrival to OSH, improved with IVF, 1.4 
+on discharge (although 1.2 day prior to discharge). Likely was 
+pre-renal in setting of volume depletion from 
+hypercalcemia-induced polyuria. Held nephrotoxins.  PCP placed 
+standing order for electrolyte recheck.
+
+# Elevated uric acid: 9.8 at OSH, 6.6>6.3 here.
+
+# Low vitamin D: deferred on repletion for now given 
+hypercalcemia
+
+CHRONIC ISSUES
+===============
+# DM: Last A1C 7.0%.  ISS used in house.  Held home metformin, 
+and resumed glyburide on discharge
+
+# HTN: held home meds (Lisinopril, HCTZ), given ___ and 
+hypercalcemia
+
+# HLD: c/h atorvastatin
+
+TRANSITIONAL ISSUES
+===================
+- Recheck Chem 10 (specifically for Ca, Phos, BUN/Cr) on ___ 
+to ensure it is stable at home. His PCP has placed ___ standing 
+order for this.
+- Instructed to increase glyburide if blood sugar increased 
+above 150 consistently. 
+- Biopsy results pending at discharge. Unable to make Oncology 
+appointment prior to tissue diagnosis. He will be contacted when 
+results return, and Onc follow up will be arranged
+- He will be discussed at ___ tumor board on ___
+- Neuro-Oncology was e-mailed to schedule follow-up. 
+- Pending labs on discharge: Vitamin D, PTHrP
+- ___ recommends home ___ as well as a rolling walker
+- Started on Keppra 500mg BID for seizure prophylaxis
+- Started on Decahedron 4mg daily (initially started as BID) 
+given brain metastasis
+- Stopped Lisinopril/HCTZ combo pill given hypercalcemia and ___
+- Stopped Aspirin for now in case intervention pursued on brain 
+metastasis
+- Found a 19 x 14 mm thyroid nodule. Ultrasound may be performed 
+on a nonemergent basis to further assess.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. GlyBURIDE 5 mg PO BID 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. Atorvastatin 10 mg PO QPM 
+4. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 4 mg PO DAILY 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth once a day Disp #*20 
+Tablet Refills:*0 
+2.  LevETIRAcetam 500 mg PO BID 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN BREAKTHROUGH 
+PAIN 
+RX *oxycodone 5 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*12 Capsule Refills:*0 
+4.  Atorvastatin 10 mg PO QPM  
+5.  GlyBURIDE 5 mg PO BID  
+6.  Multivitamins 1 TAB PO DAILY  
+7. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until creatnine 
+has improved. 
+8.Rolling Walker
+Rolling Walker
+Dx: ___.9 (ICD-10)
+Px: Good
+___: 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Metastatic malignancy of likely renal origin
+Hypercalcemia of malignancy
+
+Secondary:
+DM, HTN, HLD
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dr. ___,
+
+___ was a pleasure caring for you at ___.  You were admitted to 
+our hospital because of elevated calcium.  You were found to 
+have evidence of a metastatic cancer on your imaging (x-ray, 
+CT's and MRI).  The most likely source of this is a Renal Cell 
+Carcinoma in your kidney, but we will not know this for sure 
+until the biopsy results come back.
+
+You will be contacted to schedule an oncology appointment, and 
+from there the oncologists will coordinate follow-up with all 
+other specialists that may need to be involved, such as 
+Neurosurgery and Radiation Oncology.
+
+Please get your calcium rechecked in ___ days to make sure it is 
+still stable.  Your PCP has placed ___ standing order for this.
+
+Please check you sugars before meals and at bedtime, if your 
+blood sugar is increasing 150 consistently in the morning 
+(fasting), please increase you glyburide to 10 mg twice daily. 
+
+It was a pleasure and we wish you all the best,
+___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19211546-DS-4 | hadm_id=25293512
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PCP: ___
+Onc: ___
+. 
+CC: R arm pain (lytic R humerus lesion), hypercalcemia
+ 
+Major Surgical or Invasive Procedure:
+# R UE Embolization (___)
+
+# Fixation of right humerus pathologic fracture with 
+intramedullary nail (___)
+
+# Completion of WBRT (___)
+
+# R humerus XRT (___)
+
+ 
+History of Present Illness:
+___ year old male, with metastatic renal cell carcinoma, diabetes 
+and  hypercalcemia, who has a chief complaint of weakness. He 
+also has a metastasis in his right humerus that requires 
+internal fixation and  radiation. 
+
+He saw Dr. ___ and was evaluated for Hypercalcemia , he 
+was sent to ER for treatment of increased calcium and ortho 
+consult for his R humerus lytic lesion. He was seen by ortho in 
+ER who wanted pt to be admitted. He fits the criteria to undergo 
+internal fixation of humerus and he is being admitted to Omed.
+In the ED, initial VS were pain 8, T 97.8, HR 77, BP 150/78, RR 
+18, O2 100%RA. Initial labs notable for WBC 8.3, HCT 33.6, PLT 
+194, Na 137,  4.6, HCO3 21, Cr 1.1, Ca ___, Mg 1.7, P 2.4. INR 
+1.2, UA negative. 
+CXR showed no acute process. Humerus film with 4.0 cm lytic 
+lesion through the midshaft of right humerus. 
+ 
+He was given 2L NS prior to admission for further management. VS 
+prior
+to transfer were pain 1, T 98.0, HR 84, BP 124/62, RR 16, O2 
+98%RA.
+
+Patient reports he is feeling well. He describes his physical 
+condition and that he has had falls early ___ due to 
+generalized weakness and CNS mets. Luckily he was not hurt 
+during the fall. He also mentions that when his calcium gets 
+high, he develops slurred speech which resolved when his levels 
+get
+normal. 
+
+No other sx at this time. He cannot walk as much as he used to 
+now. He denies having chest pain, either at rest or at exertion. 
+No headaches or visual changes. He is undergoing radiation 
+therapy for his CNS mets. No trouble with respiration. No other 
+issues at this time.
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was 
+negative unless otherwise noted in the HPI.
+
+ 
+Past Medical History:
+DM
+diverticulosis
+HLD
+HTN 
+seborrheic keratosis
+actinic keratosis
+? Cataracts
+Supranasal visual field defect - followed by Neuro-Optho at Mass 
+eye and Ear with routine exams
+ 
+Social History:
+___
+Family History:
+Mother and father still alive, in their ___. Father with ___. 
+ Brother with CAD.  Other brother with tongue SCC. MGF with 
+colon cancer. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 98.4PO ___
+GENERAL: Pleasant, lying in bed comfortably
+EYES: sclera anicteric
+ 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops;
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: nondistended; soft,
+
+MUSKULOSKELATAL: Warm, well perfused extremities without lower
+extremity edema; Normal bulk 
+NEURO:No focal deficits observed
+SKIN: No significant rashes
+
+ 
+Pertinent Results:
+OTHER DATA: 
+# CXR (___): PA and lateral views the chest provided 
+demonstrate no focal consolidation, large effusion or 
+pneumothorax.  Please note evaluation is somewhat limited due to 
+low lung volumes.  Cardiomediastinal silhouette appears normal.  
+Partially visualized lucent lesion in the right midshaft humerus 
+is better assessed on same-day a right humerus radiograph.  
+Otherwise the bony structures appear unremarkable. 
+
+# R humerus X-ray (___): A known 4.0 x 2.2 cm lucent lesion 
+involving the right humeral midshaft appears similar to the 
+prior exam without evidence of pathological fracture.  No 
+additional lesions are seen within the imaged field. 
+
+# R UE Embolization (___): 1. Hypervascular lesion involving the 
+right humeral midshaft with parasitized vasculature supplied 
+with multiple tumor branches arising from the brachial artery, 
+profunda brachii and anterior humeral circumflex artery. 2. 
+Successful embolization of 5 tumor branches with approximate 
+reduction of 
+90% blood flow to the right humeral lesion.  Final embolization 
+right axillary arteriogram demonstrated minimal vascular flow by 
+a few tiny tumoral branches arising from the distal brachial 
+artery. 3. Right axillary arteriogram demonstrated an early 
+bifurcating radial artery arising from the axillary artery. 4. 
+Normal right common femoral arterial anatomy with mid femoral 
+head access.  Successful Angio-Seal closure of right common 
+femoral arteriotomy.  Palpable distal right lower extremity 
+pulses. 5. Palpable right radial and ulnar pulse is throughout 
+the exam.  No evidence of vascular disturbance to the hand. 
+
+# Fixation of right humerus pathologic fracture with 
+intramedullary nail (___)
+
+# Completion of WBRT (___)
+# Radiation Mapping R humerus (___)
+. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: ___ with metastatic renal cell carcinoma 
+admitted to Oncology for hyperglycemia, hypercalcemia, and 
+possible internal fixation of his R humerus(lytic lesion)
+
+#R humeral lytic lesion:  Mr. ___ was admitted with a 
+large R humeral lytic mass with concerns for pathological 
+fracture.   This area was painful and fragile with risk of true 
+fracture with mobility.  The arm was placed in a sling for 
+stabilization and the pain was treated with oral oxycodone PRN.
+
+To address the humeral mass - a 2-part procedure was performed.  
+First, he underwent ___ embolization of the R humerus 
+___ to help eliminate risk of bleeding from the 
+subsequent fixation procedure.  He tolerated this procedure well 
+without complications and the ___ procedure was able to eliminate 
+up to 90% of blood supply to tumor via embolization.  
+
+On ___, he underwent fixation of pathological fracture, with an 
+intramedullary nail.  He tolerated this procedure without 
+complications.  Apparently, intraoperatively, due to the fragile 
+nature of the bone, the bone had indeed fractured with minimal 
+manipulation.  This was addressed by the intramedullary nail.
+
+The RUE is now WBAT.   To address the pain and the mass itself, 
+he was initiated on XRT to the humerus (beginning ___.  He 
+will continue with ___ to strengthen the arm and his overall 
+strength and function.  As noted, pain was controlled with the 
+oxycodone 5mg Q4h PRN for pain + Bowel regimen.
+
+# Met Renal cell carcinoma: Dr. ___ has extensive 
+metastasis of the renal cell cancer with involvement of the 
+brain, lungs, liver, bilateral adrenal glands, R humerus, soft 
+tissue neck.  This is associated with a poor prognosis with an 
+estimated life expectancy in terms of weeks to months.  During 
+this stay, he received WBRT to the CNS daily for a total 10 days 
+(total 30 Grys).  This was completed on ___. 
+
+Due to cognitive decline, generalized motorized slowing, there 
+was concern for radiation associated cerebral edema.  As a 
+result, the dexamethasone was increased from 2mg daily to 4 mg 
+BID (with 10 mg bolus on ___, with some response.  This should 
+be continued for 4 mg Dexamethasone BID on discharge ___ 
+for 3 days, followed by 4 mg daily for 3 days, followed by 2 mg 
+daily for 3 days and then tapered to none.  
+
+The plan was for ___ to receive Pazopanib by medonc as outpt 
+(likely 2 weeks after discharge).  Because this medicine cause 
+fatigue, he has be strong enough first prior to initiating this 
+immunotherapy agent.  This will have to be discussed as an 
+outpatient given he has transitioned to home hospice now. 
+
+The family expressed a strong desire for second opinion at ___. 
+After extensive efforts and discussions, it was determined that 
+this could not be obtained while he was an inpatient.  This, 
+however, can be done as an outpatient.
+   He was continued on Keppra for seizure prophylaxis.
+
+# Hypercalcemia: He presented with elevated Ca levels.  Ionized 
+Ca 1.42, Ca (11.3, alb 3.2) - symptomatic with mild cognitive 
+deficits.  This was attributed to malignancy (rPTH elevated at 
+52 ___.  VitD level was nl.  He received IV zometa 4mg in 
+the recent past (___).  He was given IVF during NPO and 
+occasionally given Lasix to help manage the calcium level.  It 
+remained elevated, but not significantly high enough to warrant 
+continued Lasix treatment. 
+   
+# DM2: ___ had episodes of hyperglycemia, exacerbated by 
+increased dose of dexamethasone. Weight 77kg.  The home 
+glyburide and metformin were stopped.  ___ was consulted and 
+assisted with insulin control with use of lantus, NPH and 
+increased sliding scale.  The dexamethasone will be tapered on 
+discharge and his fingersticks and insulin dosing requirements 
+will need to be monitored while his dexamethasone is being 
+tapered.
+    
+# Hx Lown Ganong ___ sx:  EP reviewed EKG, PR not especially 
+short and may not meet criteria for syndrome.  There were no 
+contraindications for procedures - and he tolerated the surgery 
+and ___ procedure without complications. 
+
+# FEN: Regular
+# PPX: Heparin SC
+# ACCESS: PIV  
+# CODE: DNR/DNI  
+# COMMUNICATION: Spouse ___, ___
+# DISPO: ___ determined that he would benefit from acute 
+rehab.  
+
+Patient was discharged to home hospice after prior discussions 
+with his wife regarding his follow-up course. His follow-up 
+appointments will have to be determined after discussion with 
+his wife and patient regarding follow-up needed while at home 
+hospice. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atorvastatin 10 mg PO QPM 
+2. Multivitamins 1 TAB PO DAILY 
+3. LevETIRAcetam 500 mg PO BID 
+4. Dexamethasone 4 mg PO DAILY 
+5. MetFORMIN (Glucophage) 1000 mg PO BID 
+6. GlyBURIDE 5 mg PO BID 
+7. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN BREAKTHROUGH 
+PAIN 
+
+ 
+Discharge Medications:
+1.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Famotidine 20 mg PO DAILY 
+Give 30 minutes prior to breakfast 
+RX *famotidine [Acid Controller] 20 mg 1 tablet(s) by mouth 1 
+tablet daily Disp #*30 Tablet Refills:*1 
+4.  Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+RX *glucagon (human recombinant) [Glucagon Emergency Kit 
+(human)] 1 mg 1 mg IM q15 minutes Disp #*1 Kit Refills:*0 
+5.  Glargine 8 Units Bedtime
+NPH 27 Units Breakfast
+NPH 25 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *insulin glargine [Lantus] 100 unit/mL AS DIR 8 Units before 
+BED; Disp #*1 Vial Refills:*0
+RX *blood-glucose meter ___ Aviva Connect meter]   daily 
+Disp #*1 Each Refills:*0
+RX *insulin lispro [Humalog] 100 unit/mL AS DIR Up to 14 Units 
+QID per sliding scale Disp #*1 Vial Refills:*0
+RX *insulin NPH human recomb [Humulin N] 100 unit/mL AS DIR 27 
+Units before BKFT; 25 Units before DINR; Disp #*1 Vial 
+Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN constipation  
+7.  Dexamethasone 4 mg PO Q12H for 3 days start ___, then to 4 
+mg daily for 3 days, followed by 2 mg daily for 3 days. 
+8.  Atorvastatin 10 mg PO QPM  
+9.  LevETIRAcetam 500 mg PO BID  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN BREAKTHROUGH 
+PAIN 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*28 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+renal cell carcinoma
+hypercalcemia of malignancy
+lytic bone lesion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+It was a pleasure looking after you.  As you know, you were 
+hospitalized for evaluation of high calcium and potassium levels 
+that were treated with IV hydration.   
+
+You also had lytic humerus bone mass which was large enough to 
+cause risk of fracture.  For this reason, you were initially 
+placed in an arm sling - and eventually underwent a 2-stage 
+procedure to stabilize the bone: an ___ embolization of 
+the mass (___) and operative internal fixation with an 
+intramedullary humerus nail (___).  You tolerated this procedure 
+well and will be receiving oral oxycodone and Tylenol for pain 
+control. 
+
+During this hospitalization, you also underwent completion of 
+your 10d course of whole brain radiation and completed this on 
+___.  Due to mental slowness and general weakness, the 
+concern was of cerebral swelling from the radiation treatments.  
+As a result, you were treated with steroids (dexamethasone) 
+which were subsequently increased in dose during the 
+hospitalization.    With this increased dose, you had higher 
+levels of blood sugar levels - which were controlled with 
+adjustments to your insulin (and with the assistance of the 
+___ experts). 
+
+The metformin and glyburide were both discontinued.
+
+You will be discharged to home with hospice care.  You can be 
+followed up with oncology, neuro-oncology, onc-orthopedics, and 
+primary care.  Please see below for details.
+
+We wish you the very best!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

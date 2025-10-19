@@ -1,0 +1,801 @@
+===== DISCHARGE NOTE =====
+note_id=12928318-DS-19 | hadm_id=21045740
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zomig / Cephalosporins / Latex / ginger / Coconut / Banana / 
+corn pollen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+HMED Attending History and Physical
+
+CC: flank pain/abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP with sludge removal, sphincterotomy
+
+ 
+History of Present Illness:
+___ yo female with multiple sclerosis on monthly Tysabri, h/o 
+nephrolithiasis, endometriosis, and GERD presents with flank 
+pain and back pain for past 5 days.
+
+She was in her usual state of health this past ___. On 
+___, she developed some LUQ abdominal pain and nausea. On 
+___, she had a low grade fever of 99.1, with a few episodes 
+of emesis. She attributed her symptoms to gastroenteritis, as 
+she also had 2 episodes of non-bloody diarrhea, which has since 
+resolved. From ___ to ___, she had some pain with 
+eating, and was having a difficult time tolerating PO. 
+Yesterday, she was able to tolerate food without emesis, but did 
+have some RUQ/right flank pain. She then had some gross 
+hematuria. Given concern for nephrolithiasis, she presented to 
+___ ED.
+
+In the ED:
+VS: T 97  HR 90  BP 137/81  RR 18  100% RA
+She received Zofran, Ketorolac, morphine, and 2 liters of NS
+CT abdomen, renal ultrasound, and abdominal ultrasound were 
+obtained
+She was admitted for further evaluation.
+
+Upon arrival to the floor, she noted a mild migraine, typical 
+for her, on the right side of her head. She had some mild back 
+pain, but no abdominal pain. She was thirsty. She had no other 
+specific complaints.
+
+12 point ROS as noted above, otherwise negative.
+
+Medications:
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+2. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+3. Gabapentin 600 mg PO BID 
+4. Gabapentin 900 mg PO HS 
+5. Provigil (modafinil) 100 mg oral BID 
+6. Omeprazole 20 mg PO DAILY 
+7. pramipexole 0.125 mg oral daily 
+8. Cetirizine 10 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Docusate Sodium 100 mg PO BID 
+11. Multivitamins 1 TAB PO DAILY 
+12. Tysabri (natalizumab) 300 mg/15 mL injection Qmonth
+ 
+Past Medical History:
+MULTIPLE SCLEROSIS - presenting w/ R arm tremor, facial numbness 
+and localized paresthesias 
+MIGRAINE HEADACHES  
+RECTAL BLEEDING  
+ENDOMETRIOSIS s/p Surgery in past w/ lysis of adhesions. 
+ASTHMA 
+GASTROESOPHAGEAL REFLUX  
+s/p appendectomy
+Food allergies/anaphylaxis
+h/o nephrolithiasis
+ 
+Social History:
+___
+Family History:
+She is of ___, and ___ descent. On father's 
+side, one grandfather was on blood thinners and died 
+unexpectedly at ___ from likely MI, grandmother on blood thinners 
+and had an IVC stent. No history of liver disease that she is 
+aware of.
+ 
+Physical Exam:
+VS: T 97.7  100/60  HR 75   RR 16  96% RA
+General: pleasant female, no distress
+HEENT: atraumatic, anicteric sclerae, clear oropharynx
+Neck: no adenopathy
+Pulm: lungs clear bilaterally
+CV: RRR, normal S1, S2, no murmurs or rubs
+Abd: soft, minimially tender in RUQ, no rebound or guarding, no 
+masses
+Ext: 2+ radial and DP pulses, no edema
+Back: mild TTP over right flank
+Neuro: CNs ___ intact, no gross motor or sensory deficits, 
+ambulatory without assistance; no asterixis
+Psych: normal affect, denies depression
+
+Discharge exam:
+General: pleasant female, no distress, sitting up in bed
+HEENT: atraumatic, anicteric sclerae, clear oropharynx
+Neck: no adenopathy
+Pulm: lungs clear bilaterally
+CV: RRR, normal S1, S2, no murmurs or rubs
+Abd: soft, non-tender, no masses
+Ext: 2+ radial and DP pulses, no edema
+Back: mild TTP over right flank
+Neuro: CNs ___ intact, no gross motor or sensory deficits,
+ambulatory without assistance; no asterixis
+Psych: normal affect, denies depression
+
+ 
+Pertinent Results:
+PLT COUNT-257
+
+NEUTS-65.6 ___ MONOS-5.2 EOS-3.1 BASOS-0.5
+
+WBC-9.7 RBC-5.00 HGB-15.0 HCT-42.6 MCV-85 MCH-29.9 MCHC-35.1* 
+RDW-15.3
+
+ALBUMIN-4.6
+
+LIPASE-259*
+
+ALT(SGPT)-834* AST(SGOT)-428* ALK PHOS-213* TOT BILI-5.6* DIR 
+BILI-4.4* INDIR BIL-1.2
+
+GLUCOSE-96 UREA N-7 CREAT-0.9 SODIUM-140 POTASSIUM-3.9 
+CHLORIDE-103 TOTAL CO2-27 ANION GAP-14
+
+URINE  RBC-0 WBC-<1 BACTERIA-FEW YEAST-NONE EPI-2
+BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-10 
+BILIRUBIN-MOD UROBILNGN-4* PH-7.5 LEUK-NEG
+
+Imaging:
+
+Renal ultrasound:
+Unremarkable renal Doppler ultrasound. No stone or 
+hydronephrosis is seen. Arteries and veins appear patent with 
+normal waveforms.
+
+Abdominal ultrasound:
+Cholelithiasis without evidence of cholecystitis. No evidence of 
+ductal dilatation.
+
+CT abdomen/pelvis:
+1.  Cholelithiasis without evidence of cholecystitis. 
+  
+2. No stones are identified within bilateral collecting systems. 
+No hydronephrosis. 
+  
+3.  Mildly hypodense liver parenchyma suggestive of hepatic 
+steatosis. More advanced liver disease including steatohepatitis 
+cannot be excluded based on imaging. 
+
+MRCP pending, but per verbal radiologist report showed mild 
+intrahepatic biliary dilatation and possible stone in distal CBD
+
+___ ERCP:
+There was a filling defect that appeared like sludge in the 
+lower third of the common bile duct. 
+Otherwise normal biliary tree. No stones or strictures were 
+noted. 
+A sphincterotomy was performed.
+Sludge extracted successfully using a balloon.  
+
+(sphincterotomy, stone extraction)
+Otherwise normal ercp to third part of the duodenum
+
+Discharge labs:
+
+WBC RBC  Hgb  Hct MCV MCH  MCHC RDW Plt Ct
+5.9 4.16 12.5 36.6 88 29.9 34.1 15.9  191
+
+UreaN Creat Na  K   Cl HCO3
+5*    0.6   141 3.8 106 24 
+
+ALT  834 -> 736 -> 659
+AST  428 -> 300 -> 222
+alk phos  213 -> 169 -> 150
+t bil  5.6 -> 1.8 -> 1.4
+
+Hep B surface antibody positive, all other hepatitis serologies 
+negative
+
+ 
+Brief Hospital Course:
+___ yo female with multiple sclerosis on Tysabri, 
+nephrolithiasis, presents with vague abdominal symptoms, low 
+grade fever, and abnormal LFTs, now with presumed 
+choledocholithiasis with obstruction s/p ERCP with sludge 
+removal, sphincterotomy.
+
+# Choledocholithiasis with obstruction- suspect this was the 
+primary etiology of her symptoms over the past week, less likely 
+biliary colic. Appreciate ERCP input, per their recs, will give 
+short course of cipro x 5 days. LFTs are improving, suspect 
+obstrucion is the primary cause. Hepatitis serologies show 
+hepatitis B immunity and no evidence of hepatitis A or C. Will 
+have patient recheck her LFTs in one week with her PCP to ensure 
+normalization. If remains elevated, will need additional 
+evaluation as an outpatient.
+
+# Cholelithiasis- will need consideration for cholecystectomy in 
+the future vs. expectant management, as she may be symptomatic 
+from biliary colic as well; defer to patient/PCP.
+
+# History of nephrolithiasis- renal function is normal, no 
+evidence of retained stone or hydronephrosis on imaging, and not 
+infected, so will monitor for now
+
+# Multiple sclerosis- Will continue home gabapentin, Provigil, 
+pramipexole. She cannot receive Tysabri as previously scheduled 
+on day of discharge given hepatic dysfunction, but hopefully her 
+LFTs will improve after ERCP with stone removal and 
+sphincterotomy, and she can resume Tysabri in the near future. 
+I've sent a note to her neurologist to update her.
+
+# GERD- cont PPI
+
+# FEN- as above
+# Ppx- SC heparin
+# Code- full
+# Contact- patient, parents are HCPs (needs to complete HCP 
+form)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+2. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+3. Gabapentin 600 mg PO BID 
+4. Gabapentin 900 mg PO HS 
+5. Provigil (modafinil) 100 mg oral BID 
+6. Omeprazole 20 mg PO DAILY 
+7. pramipexole 0.125 mg oral daily 
+8. Cetirizine 10 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Docusate Sodium 100 mg PO BID 
+11. Multivitamins 1 TAB PO DAILY 
+12. Tysabri (natalizumab) 300 mg/15 mL injection Qmonth 
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+2. Gabapentin 600 mg PO BID 
+3. Gabapentin 900 mg PO HS 
+4. Omeprazole 20 mg PO DAILY 
+5. pramipexole 0.125 mg oral daily 
+6. Provigil (modafinil) 100 mg oral BID 
+7. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+8. Cetirizine 10 mg PO DAILY 
+9. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+10. Multivitamins 1 TAB PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Ciprofloxacin HCl 500 mg PO Q12H Duration: 4 Days 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*7 Tablet Refills:*0
+13. Outpatient Lab Work
+please check AST, ALT, alk phos, total bilirubin on ___ and 
+process STAT
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+choledocholithiasis with obstruction
+abnormal LFTs
+cholelithiasis
+multiple sclerosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abnormal liver tests and 
+abdominal pain. An MRI showed the possibility of gallstones in 
+the bile duct, which were the likely cause of your symptoms over 
+the past week. You underwent an ERCP that removed some sludge 
+from the bile duct, and had a sphincterotomy performed. Your 
+liver tests have started to improve. As we discussed, you should 
+have your liver tests checked again on ___, and Dr. 
+___ will follow up the results. Hopefully they have 
+normalized at that time. If not, then further testing will need 
+to be done.
+
+Tysabri infusion will need to be delayed until the liver tests 
+improve- Dr. ___ be aware of this, and please follow up 
+with her after you see Dr. ___ week.
+
+The only other change to your medications will be the addition 
+of ciprofloxacin, to finish on ___.
+
+Please see below for your follow up appointments and 
+medications. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12928318-DS-18 | hadm_id=24774160
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zomig / Cephalosporins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Flank pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms ___ is a ___ female with a history of MS presenting with 
+acute onset, severe left flank pain.  ___ morning at 1am she 
+awoke with the worst pain she has ever had in her left flank 
+radiating down to her groin.  It was a sharp pain that was 
+worsened by lying on her left side.  She managed to drive 
+herself to the emergency room.  Of note, she was recently in 
+___ and flew back ___.  Has not had recent leg 
+swelling or shortness of breath.  She has not had dysuria, 
+fevers or preceding flank pain.  She did have UTIs as a young 
+child and remembers giving urine samples, but does not remember 
+being told she had any congenital abnormalities.  She has had 
+recent non-bloody diarrhea that occurs ___ hours after eating, 
+up to 3 times per day, w/o associated pain.  She denies any past 
+history of clots or abnormal bleeding.  Has had past episodes 
+where her heart beats quickly when standing up accompanied by a 
+pre-syncopal sensation, has to lean on something to recover, but 
+has never been told she has an abnormal heart rhythm.  Her 
+menses are regular and she expects her next period next week.
+.
+In the ED, initial vitals were T 96.4, HR 80, BP 136/85, RR 14, 
+O2 98% on RA.  She had a CT urogram that was notable for a 
+wedge-shaped defect in the upper pole of the left kidney.  Pain 
+treated w/ Ultram followed by IV morphine, and she was started 
+on IV heparin. No antibiotics were given.  Up on the floor, she 
+reports that her pain is well controlled.
+ 
+Past Medical History:
+MULTIPLE SCLEROSIS - presenting w/ R arm tremor, facial numbness 
+and localized paresthesias 
+MIGRAINE HEADACHES  
+RECTAL BLEEDING  
+ENDOMETRIOSIS s/p Surgery in past w/ lysis of adhesions. 
+ASTHMA 
+GASTROESOPHAGEAL REFLUX  
+s/p appendectomy
+Food allergies/anaphylaxis 
+ 
+Social History:
+___
+Family History:
+She is of ___, and ___ descent. On father's 
+side, one grandfather was on blood thinners and died 
+unexpectedly at ___ from likely MI, grandmother on blood thinners 
+and had an IVC stent.
+ 
+Physical Exam:
+VS: T 96.6  BP 131/86  HR 75  RR 18  O2sat 96%RA 
+GEN: Sitting up comfortably in bed, mild pain several hours 
+after morphine.
+HEENT: EOMI, sclerae anicteric, MMM, oropharynx clear.
+CV: RRR, no murmurs, JVP flat when upright.
+PULM: CTAB, mild left-sided costophrenic angle tenderness.
+ABD: +BS, soft, NTND, no organomegaly
+LIMBS: No edmema, no calf tenderness, 2+ radial and DP pulses.
+SKIN: No rashes
+NEURO: Normal gait, non-focal
+ 
+Pertinent Results:
+Admission labs:
+___ 02:45AM   GLUCOSE-105* UREA N-9 CREAT-0.9 SODIUM-137 
+POTASSIUM-5.1 CHLORIDE-106 TOTAL CO2-19* ANION GAP-17
+___ 02:45AM   CALCIUM-9.1 PHOSPHATE-3.5 MAGNESIUM-2.0
+___ 02:45AM   WBC-12.2* RBC-4.96 HGB-13.9 HCT-41.6 MCV-84 
+MCH-28.1 MCHC-33.5 RDW-13.3
+___ 02:45AM   NEUTS-68.3 ___ MONOS-3.8 EOS-6.0* 
+BASOS-0.3
+___ 02:45AM   PLT COUNT-293
+___ 02:54AM   GLUCOSE-112* LACTATE-1.2 NA+-140 K+-4.5 
+CL--106 TCO2-21
+___ 12:46PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 12:46PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 12:46PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+
+ECG: Sinus rhythm. Normal tracing. Compared to the previous 
+tracing of ___
+T waves appear more normal on the current tracing.
+
+CTU final read: IMPRESSION: Decreased perfusion of the upper 
+pole of the left kidney, mild dilation of the left proximal 
+urter and thickening of and stranding abou the left proximal 
+ureter. Findings are most suggestive of infection; however, 
+differntial considerations also include infarct or infectious 
+process.
+Repeat CTU after treatment is recommended for further 
+evaluation. If the
+ureteral abnormality persists, a retrograde ureteral study 
+should be
+considered to exclude malignancy.
+ 
+Brief Hospital Course:
+___ female with a history of MS presenting with acute onset, 
+severe left flank pain.  CT scan with wedge-shaped defect 
+consistent with infection or infarction.
+.
+# Left flank pain: Radiology read had differential of infarct vs 
+infection, more likely infection.  However, her acute onset of 
+pain without preceding fevers, dysuria or other symptoms was 
+more concerning for acute ischemia, likely from a clot.  She had 
+no obvious source for a clot, with a negative Echo bubble study 
+and no signs of afib on history or telemetry.  She had recently 
+flown from ___, but with a stop in ___, likely not long 
+enough for a venous clot.  Her pain was managed with standing 
+Tylenol and PO morphine while inpatient, and she was discharged 
+with Tylenol and oxycodone.  Her laboratory results were 
+consistently normal and she did not have any signs of compromise 
+of her renal function, despite the seemingly large size of the 
+infarct on CT scan.
+Revised read by radiology showed signs of a possible stone at 
+the UV junction which could explain the distal hydronephrosis 
+and perinephric stranding.  They did not feel that an MRI would 
+be more helpful than the CT scan.  Radiology and urology 
+recommended treatment and repeat imaging in 2 weeks. She 
+received 4 days of ciprofloxacin and is being empirically 
+treated with BID lovenox with a plan of repeat CT urogram with 
+and without contrast in 2 weeks prior to an appointment with her 
+PCP, ___, to decide on management.  Given that her 
+history and CT scan were consistent with an arterial clot, she 
+will also follow-up in ___ clinic to consider 
+whether long-term anticoagulation would be necessary to prevent 
+recurrent clots.  If her repeat CT scan is abnormal, she should 
+also see a urologist.  She was discharged on lovenox as the 
+anticipated course of anticoagulation will be relatively short, 
+and she is of child-bearing age.
+ 
+Medications on Admission:
+Cetirizine 10 mg daily  
+ProAir HFA 90 mcg q4-6 hours as needed - ~2x/month
+Omeprazole 20 mg once a day 
+EpiPen 0.3 mg/0.3 mL (1:1,000) - severe ginger/coconut allergy
+Ibuprofen 200 mg once a day as needed for joint pains
+Flovent HFA 44 mcg twice a day 
+ 
+Discharge Medications:
+1. Cetirizine 10 mg Tablet Sig: One (1) Tablet PO daily ().  
+2. ProAir HFA 90 mcg/Actuation HFA Aerosol Inhaler Sig: One (1) 
+puff Inhalation every ___ hours as needed for shortness of 
+breath or wheezing.  
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. EpiPen 0.3 mg/0.3 mL Pen Injector Sig: One (1) injection 
+Intramuscular Once PRN as needed for severe allergy symptoms.  
+5. Fluticasone 44 mcg/Actuation Aerosol Sig: One (1) puff 
+Inhalation twice a day.  
+6. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+as needed for pain for 10 doses.
+Disp:*10 Tablet(s)* Refills:*0*
+7. Enoxaparin 100 mg/mL Syringe Sig: One (1) syringe 
+Subcutaneous BID (2 times a day).
+Disp:*30 syringe* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: renal perfusion defect NOS
+
+Secondary diagnoses: multiple sclerosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+ 
+Discharge Instructions:
+___ were admitted with acute pain in your left flank.  A CT scan 
+showed a defect in the blood flow to your left kidney, thought 
+to be either an infection or a clot.  ___ were treated with four 
+days of ciprofloxacin in case there was an infection.  ___ were 
+on heparin and then lovenox in case there was a clot.  Blood 
+tests were sent to check if your blood clots more easily than 
+normal, and ___ can follow-up the results with your primary care 
+doctor.  For now ___ are safe to go home.
+.
+___ were started on Lovenox, 90mg sub-cutaneous injections twice 
+a day, to take at least until ___ see Dr. ___ can take oxycodone as need for severe pain
+___ can take Tylenol or Motrin as needed for pain.  ___ can buy 
+these over the counter.
+.
+Your other medications were not changed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12928318-DS-20 | hadm_id=26298955
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Zomig / Cephalosporins / Latex / ginger / Coconut / Banana / 
+corn pollen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+RUQ abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic cholecystectomy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with history of MS, nephrolithiasis,
+endometriosis, and GERD who presents recurrent RUQ pain. She
+developed her first episode of RUQ pain approximately 2 weeks
+ago. She presented to the ED after 3 days of intermittent pain 
+on
+___. She was noted to have hematuria and was evaluated for
+nephrolithiasis but imaging revealed choledocholithiasis with
+obstruction. She underwent ERCP with sphincerotomy with removal
+of sludge on ___.
+
+On ___, 4 days after discharge, she began to have return of RUQ
+pain with nausea, inability to tolerate PO and diaphoresis. She
+was seen in the ED the next day and RUQ US demonstrated
+cholelithiasis without evidence of cholecystitis. She was
+discharged home.
+
+Today at 8pm she had acute onset of pain, much worse than prior
+episodes but similar in quality. The pain is stabbing,
+persistent, and ___ in severity, located in the RUQ with
+radiation to her right scapula. Her pain is unresponsive to
+percocet and morphine. She denies fevers or chills. Her pain
+began today 90 minutes after eating, and her previous episodes
+have been associated with food as well.
+
+ROS: (+) per HPI, as well as diaphoresis
+Denies fever, chills, headache, vision changes, chest pain,
+palpitations, SOB, nausea, vomiting, dysuria or changes in 
+stool.
+
+ 
+Past Medical History:
+MULTIPLE SCLEROSIS - presenting w/ R arm tremor, facial numbness 
+and localized paresthesias 
+MIGRAINE HEADACHES  
+RECTAL BLEEDING  
+ENDOMETRIOSIS s/p Surgery in past w/ lysis of adhesions. 
+ASTHMA 
+GASTROESOPHAGEAL REFLUX  
+s/p appendectomy
+Food allergies/anaphylaxis
+h/o nephrolithiasis
+ 
+Social History:
+___
+Family History:
+She is of ___, and ___ descent. On father's 
+side, one grandfather was on blood thinners and died 
+unexpectedly at ___ from likely MI, grandmother on blood thinners 
+and had an IVC stent. No history of liver disease that she is 
+aware of.
+ 
+Physical Exam:
+VS: 97.3   99   103/57  16   99%on RA
+General: NAD
+CV: RRR
+Resp: Clear to auscultation bilaterally
+Abd: Soft, non tender non-distended, incision clean dry and 
+intact
+Ext: no edema
+
+ 
+Pertinent Results:
+___ 07:24AM   WBC-13.5* RBC-4.12* HGB-12.4 HCT-35.2* MCV-85 
+MCH-30.2 MCHC-35.4* RDW-15.1
+___ 02:00AM URINE  UCG-NEG
+___ 11:21PM   LACTATE-1.3
+___ 10:50PM   GLUCOSE-103* UREA N-12 CREAT-0.9 SODIUM-138 
+POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-23 ANION GAP-15
+___ 10:50PM   ALT(SGPT)-105* AST(SGOT)-27 ALK PHOS-104 TOT 
+BILI-0.6
+___ 10:50PM   LIPASE-42
+___ 10:50PM   ALBUMIN-4.3
+ 
+Brief Hospital Course:
+Ms ___ was admitted on ___ under the acute care 
+surgery service for management of her acute cholecystitis. She 
+was taken to the operating room and underwent a laparoscopic 
+cholecystectomy. Please see operative report for details of this 
+procedure. She tolerated the procedure well and was extubated 
+upon completion. She was subsequently taken to the PACU for 
+recovery.
+
+She was transferred to the surgical floor hemodynamically 
+stable. Her vital signs were routinely monitored and she 
+remained afebrile and hemodynamically stable. She was initially 
+given IV fluids postoperatively, which were discontinued when 
+she was tolerating PO's. Her diet was advanced on the morning of 
+___ to regular, which she tolerated without abdominal pain, 
+nausea, or vomiting. She was voiding adequate amounts of urine 
+without difficulty. She was encouraged to mobilize out of bed 
+and ambulate as tolerated, which she was able to do 
+independently. She stayed an extra night in the hospital for 
+pain control and trending CBC. Her CBC went from 19.3 to 12.3 
+prior to discharge.   Her pain level was routinely assessed and 
+well controlled at discharge with an oral regimen as needed.
+
+On ___, she was discharged home with scheduled follow up in 
+___ clinic on ___ at 11:40 AM
+
+ 
+Medications on Admission:
+albuterol, fluticasone, 
+gabapentin 600BID, 
+gabapentin 900qhs,
+ modafinil 100BID, natalizumab injection monthly, 
+omeprazole
+20QDAY, oxycodone ___ q4-6h prn, pramipexole 0.375Qday, 
+cetirizine 10QDay, 
+cholecalciferol 1000UqDAY, 
+docusate 100 BID, 
+zofran 4TID,
+percocet ___ q8h prn
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0
+2. Cetirizine 10 mg PO DAILY 
+3. Gabapentin 600 mg PO TID 
+4. Gabapentin 300 mg PO QHS 
+5. Omeprazole 20 mg PO DAILY 
+6. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every three (3) hours 
+Disp #*40 Tablet Refills:*0
+7. pramipexole 0.375 mg oral Daily 
+8. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gallbladder infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted to the hospital with acute cholecystitis. You 
+were taken to the operating room and had your gallbladder 
+removed laparoscopically. You tolerated the procedure well and 
+are now being discharged home to continue your recovery with the 
+following instructions.
+ 
+Please follow up in the Acute Care Surgery clinic at the 
+appointment listed below.
+ 
+ACTIVITY:
+ 
+o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+o You may climb stairs. 
+o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o You may start some light exercise when you feel comfortable.
+o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you.
+o  You may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed.
+o  You could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow you may shower and remove the gauzes over your 
+incisions. Under these dressing you have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay).
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o You may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless you were told 
+otherwise.
+o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon. 
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if you take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+o Remember to use your "cough pillow" for splinting when you 
+cough or when you are doing your deep breathing exercises.
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently.
+If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+ 
+Followup Instructions:
+___

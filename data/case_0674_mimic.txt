@@ -1,0 +1,396 @@
+===== DISCHARGE NOTE =====
+note_id=13481508-DS-3 | hadm_id=23388159
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+elevated BP in office
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ G7P3033 at 33w3d presents for evaluation after having elev 
+BP (168/78) in the office. Pt with hx cHTN, currently on 
+Labetalol 200mg TID. Pt states she took her medication this 
+morning. She feels well. Denies any headaches, visual changes, 
+abd pain, lof, or vb. +FM
+ 
+Past Medical History:
+PNC:
+*) ___ ___
+*) AB+/Ab-, RPRnr,RI,HbsAg-,HCV-,GBS unk
+*) LR NIPT, nl FFS
+*) elev GLT, nl GTT
+ISSUES
+*) transfer of care from ___ at 23wks
+*) cHTN: presented to care at ___ at 23wks, Labetalol increased 
+from 100 BID to ___ BID, now up to 200mg TID. takes baby ASA. 
+pt reports doing 24hr urine at ___ in early pregnancy, records 
+not available. per pt, told "normal"
+
+OBHx:
+- SVD, 37wks, 6#8, BMC, ___ ago
+- SVD, 40wks, 6#12, BMC, ___ ago
+- SVD, 38
+- SAB x 2
+- Ectopic pregnancy, treated with LSC L salpingectomy
+ 
+GynHx:
+- reports hx abnl Pap, requiring colposcopy only
+- hx gonorrhea, chlamydia at age ___ denies herpes or other STIs
+
+PMH: 
+- cHTN: dx'd in ___. previously on meds, stopped prior to 
+current pregnancy but started on Labetalol in early pregnancy
+- Bipolar d/o
+ 
+PSH: LSC L salpingectomy
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+Gen: well-appearing NAD
+VS: HR 83
+BPs 159/94, 158/76, 161/76, 156/76, 162/86 -> Labetalol 200mg 
+given -> 154/84, 151/83, 160/78, 157/73
+Abd: soft, gravid, NT
+Ext: trace edema, no calf tenderness
+FHT: 140s, reactive
+Toco: irreg
+U/S: cephalic, MVP 4.7, BPP ___
+
+On discharge:
+Vitals: 
+T 97.4 147 / 72 (120s-140s/60s-80s, 164/72 x1) HR 99 RR 20 98%
+room air 
+Gen: [x] NAD
+Resp: [x] No evidence of respiratory distress
+Abd: [x] soft  [x] non-tender 
+Ext: [x] no edema [x] non-tender
+ 
+Date: ___ Time: 1140
+FHT:  135/mod var/+accels/single variable decel
+Toco: flat
+ 
+Pertinent Results:
+___ WBC-9.0 RBC-4.19 Hgb-11.3 Hct-35.8 MCV-85 Plt-207
+___ Creat-0.6 ALT-18 AST-19 UricAcd-5.0
+
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ URINE Hours-RANDOM Creat-52 TotProt-5 Prot/Cr-0.1
+___ URINE pH-6 Hours-24 Volume-4200 Creat-41 TotProt-7 
+Prot/Cr-0.2
+___ URINE 24Creat-1722 24Prot-294
+
+R/O Group B Strep - Penicillin Allergy (Final ___: 
+ POSITIVE FOR GROUP B BETA STREPTOCOCCI. 
+ This isolate is presumed to be resistant to clindamycin based 
+on
+ the detection of inducible resistance test result performed by
+ ___. 
+
+   SENSITIVITIES: MIC expressed in MCG/          
+_________________________________________________________
+     POSITIVE FOR GROUP B BETA STREPTOCOCCI  
+CLINDAMYCIN-----------       R
+ 
+Brief Hospital Course:
+___ G7P3 with cHTN admitted at 33w3d worsening BPs. On arrival 
+to triage, she transiently had some severe range blood 
+pressures. She was asymptomatic and lasb were in normal range 
+and no evidence of preeclampsia. Fetal testing was reassuring. 
+Her Labetolol was increased with improvement in her BPs. She was 
+admitted for continued observation and to complete a 24 urine 
+and preeclampsia assessment.
+An ultrasound showed normal fetal growth. Her 24 hour urine was 
+294mg, just below threshold for preeclampsia. Continued dose 
+adjustment of her labetolol increased her to 800mg TID. She was 
+discharged to home and will have close outpatient follow up.
+ 
+Medications on Admission:
+PNV
+baby ASA
+Labetolol 200 TID
+ 
+Discharge Medications:
+1.  Labetalol 800 mg PO Q8HR 
+RX *labetalol 200 mg 4 tablet(s) by mouth three times a day Disp 
+#*30 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Prenatal Vitamins 1 TAB PO DAILY
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+chronic hypertension
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear. Ms. ___,  
+
+You were admitted to the hospital with elevated blood pressures. 
+Your blood pressures were monitored and your antihypertensive 
+medications adjusted. Your urine collection indicated that you 
+do not have preeclampsia. Please monitor your blood pressures at 
+home and call the office if elevated above 160/110.
+
+Please follow the instructions below:  
+ - Attend all appointments with your obstetrician and all fetal 
+scans  
+ - Monitor for the following danger signs:  
+ - headache that is not responsive to medication  
+ - abdominal pain  
+ - increased swelling in your legs  
+ - vision changes  
+ - Worsening, painful or regular contractions  
+ - Vaginal bleeding  
+ - Leakage of water or concern that your water broke  
+ - Nausea/vomiting  
+ - Fever, chills  
+ - Decreased fetal movement  
+ - Other concerns
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13481508-DS-2 | hadm_id=28402306
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+suicidal ideation
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ ___ at ___ with bipolar disorder who presented to the 
+ED with depression and suicidal ideation, transferred over to 
+L&D for fetal evaluation.  
+
+Pt has an extensive psychiatric history, notable for bipolar 
+disorder, multiple suicide attempts, multiple hospitalizations. 
+She is followed by a therapist regularly. She has been on 
+several medications in the past. She was on celexa, zyprexa, and 
+thorazine at the beginning of pregnancy, but they were 
+discontinued around 6 weeks. She was doing well in this 
+pregnancy until about 2 months ago when she began feeling 
+increasingly depressed, endorsing hopelessness and helplessness. 
+Two weeks ago, pt developed suicidal thoughts with plan to jump 
+off ___ Bridge, though did not attempt. She has continued 
+to have these thoughts intermittently. She has a lot of social  
+tressors, related to housing, living in separate shelter from 
+her husband,
+difficulty securing housing over the past year. She was seen by 
+her outpatient therapist today, who recommend she present to the 
+___ ED for inpatient evaluation.
+
+In the ED, she was seen by psychiatry, who indicated that pt met 
+___ criteria for involuntary admission, with 1:1 
+observation, and plan for bed search for inpatient psychiatric 
+hospitalization for stabilization and medication mgmt. Did not 
+think that patient would require chemical restraints. Given 
+pregnancy at viable GA, patient transferred over to OB triage 
+for eval and antepartum admission.
+
+In triage, patient reports overall feeling okay. Describes 
+herself as being "stressed" and "overwhelmed," "need to regroup 
+and get my mind right." Endorse mild nasal congestion, sore 
+throat and head fullness for past day, attributed to a  URI. No 
+other concerns or complaints. Denies abdominal or pelvic pain, 
+vaginal bleeding, abnormal discharge, fevers, chills, malaise, 
+urinary or GI issue. Active FM. Denies illicit drug use or 
+trauma.
+
+ 
+Past Medical History:
+PNC: 
+- ___ ___
+- Labs not available for review
+- Screening, FFS, GLT all wnl, per pt report; male fetus
+- U/S not available for review
+- Issues:
+#Prenatal care: Reports good compliance with prenatal care, 
+initial OB around ___ weeks, with subsequent visits q3-4 weeks, 
+last on ___, with next PNV scheduled at ___
+#cHTN: Previously on meds, does not remember names, discontinued 
+by OB around 6 weeks
+#Bipolar disorder: see below
+#Complex psychosocial situation, housing situation: lives in 
+shelter. FOB/husband lives in separate shelter. Two prior 
+children not in her custody 
+ 
+OBHx:
+- ___
+- SVD, 37wks, 6#8, BMC, ___ ago
+- SVD, 40wks, 6#12, BMC, ___ ago
+- SAB x 2
+- Ectopic pregnancy, treated with LSC L salpingectomy
+ 
+GynHx:
+- regular periods
+- reports hx abnormal Pap, requiring colposcopy only, denies
+surgeries
+- hx gonorrhea, chlamydia at age ___ denies herpes or other STIs
+- denies fibroids, ovarian cysts, endometriosis
+- not on contraception since ___
+
+PMH: 
+- Chronic HTN: diagnosed in ___. On medications, stopped in 
+early pregnancy, does not remember meds. Denies HTN or PEC with 
+prior pregnancies. 
+- Bipolar disorder: followed by ___ (therapist) at ___, and psychiatrist Dr. ___. History of 
+multiple hospitalizations and inpatient stays, assaultive 
+behaviors, multiple suicide attempts. On celexa, zyprexa, and 
+thorazine for past ___ years, but discontinued in early pregnancy. 
+
+- Hx trauma, rape, PTSD
+- Denies asthma, hypothyroidism, VTE
+
+PSH: 
+- LSC L salpingectomy
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VS: 127/60, HR ___
+Gen: A&O, comfortable
+Psych: mood "okay," affect congruent, appropriate and pleasant, 
+good historian
+Pulm: nl resp effort
+Abd: soft, gravid, nontender
+Ext: no calf tenderness
+Pelvic: deferred
+
+Toco: flat
+FHT: 165-->155/moderate varability/+accels/-decels
+
+BPP: ___
+TAUS: breech, AFI 15cm, EFW 968g 
+ 
+Pertinent Results:
+___ WBC-14.9 RBC-4.43 Hgb-12.1 Hct-37.9 MCV-86 Plt-212
+___ Neuts-81.4 ___ Monos-7.9 Eos-1.3 Baso-0.3 Im 
+___ AbsNeut-___ AbsLymp-1.28 AbsMono-1.17 AbsEos-0.20 
+AbsBaso-0.04
+
+___ Glucose-90 UreaN-10 Creat-0.6 Na-135 K-4.0 Cl-101 
+HCO3-23 AnGap-15
+___ UreaN-7 Creat-0.6 ALT-16 AST-14 UricAcd-4.4
+
+___ BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ URINE Hours-RANDOM Creat-87 TotProt-10 Prot/Cr-0.1
+___ URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG 
+amphetm-NEG oxycodn-NEG mthdone-NEG
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ ___ with cHTN (no meds) and bipolar 
+disorder who presented with suicidal ideation and admitted to 
+the Antepartum service under ___ for inpatient monitoring 
+while awaiting bed placement in a psychiatric facility.
+
+*) Suicidal ideation, bipolar disorder, depressive episode:
+- Not on meds
+- s/p ED psychiatry consult, who continued to follow throughout 
+her admission to antepartum 
+- BEST team was consulted and continued to follow to facilitate 
+placement
+- She was monitored closely with a 1:1 sitter throughout her 
+admission
+
+*) cHTN, not on antihypertensives:
+- Continue ASA 81mg daily
+- Her blood pressures remained stable and appropriate. She did 
+not require new medication or intervention for blood pressure 
+control.
+
+*) FWB: 
+- Reactive and reassuring NST, mild tachycardia improved with 
+IVF, very active fetus
+- Well-grown
+- No indication for betamethasone given reassuring testing
+- NICU consult deferred given no obstetric issues
+
+She remained stable from an obstetric standpoint for the 
+duration of her admission to the Antepartum service. She was 
+discharged to the inpatient psychiatric facility for further 
+psychiatric care. She will follow up as scheduled as an 
+outpatient for further prenatal management.
+
+ 
+
+ 
+Medications on Admission:
+PNV
+ASA 81mg daily
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Prenatal Vitamins 1 TAB PO DAILY
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+suicidal ideation
+ 
+Discharge Condition:
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the antepartum service in the setting of 
+expressing suicidal thoughts. For your safety, you were admitted 
+to the hospital for close monitoring and help.
+ 
+Followup Instructions:
+___

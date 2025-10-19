@@ -1,0 +1,234 @@
+===== DISCHARGE NOTE =====
+note_id=15194375-DS-16 | hadm_id=28438455
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catherization
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old lady with a questionable history of 
+hypertension and a strong family history of early CAD, who now 
+presents with chest tightness.  
+She describes left-sided squeezing pain with radiation to the 
+left shoulder that began this morning when she was getting 
+dressed. During the first episode, it resolved after 1 minute of 
+resting. Pain returned when she was riding to work with her 
+husband, and they were laughing hard about something; again, it 
+resolved after 5 minutes of relaxing. At 8 am, pain returned 
+when she was helping a patient in the bathroom, and this time, 
+it persisted for 10 minutes. During that last episode, her BP 
+was 153/102. In each of the episodes, she did not have any 
+lightheadedness, palpitations, diaphoresis or dyspnea.  
+Episodes of pain are similar to symptoms in ___, for which 
+she was evaluated in our ED, with normal EKG and bedside TTE; in 
+___, however, she denies having any arm radiaion. More 
+recently, she had similar episode in ___ at ___ with TWI 
+in inferolateral leads on EKG, negative enzymes, and negative 
+exercise-MIBI (see below). Patient notes that she has been 
+hypertensive with stress in the past, and was on a BP med 
+(?lisinopril) before, but has not been taking it recently. 
+Additionally, she had bilateral lower extremity edema in ___, 
+which has resolved with a low salt diet.  
+On arrival to the ___ ED, initial vital signs were: 97.6 69 
+151/89 18 98% RA. EKG was not uploaded to the Dash, but 
+apparently showed NSR at 66 inf TWI slightly increased from 
+prior. Troponin T was <0.01 x2. Otherwise, labs were notable for 
+a negative UCG, WBC 5.1 with 50.4%L, H/H 11.7/35.4. CXR PA/lat 
+showed no acute cardiopulmonary process. Patient received 
+aspirin 325 mg PO, metoprolol tartrate 25 mg PO, amlodipine 5 mg 
+PO, and was started on heparin IV drip. Heparin drip was 
+reported to have been stopped prior to leaving the ED, but it 
+was still going when she arrived to the floor. She was Guaiac 
+negative on rectal exam. She was seen by cardiology consult, and 
+recommended to be admitted to ___ under Dr. ___ blood 
+pressure management, and possible cath tomorrow if pain is 
+persistent. Vital signs prior to transfer were: 98.2 70 137/86 
+16 100% RA.  
+On arrival to the floor, Ms. ___ is comfortable. She denies 
+any current chest pain, or any other complaints. She is 
+concerned about the fact that she has been having recurrent 
+episodes of pain.  
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. She denies recent fevers, chills or 
+rigors. She denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+palpitations, syncope or presyncope.
+
+ 
+Past Medical History:
+- question of hypertension  
+- seasonal allergies  
+- s/p appendectomy ___  
+- ___ motor vehicle collision  
+
+ 
+Social History:
+___
+Family History:
+- father with MI at age ___, has CHF, still living  
+- paternal grandfather deceased from ___ at age ___  
+- paternal uncle with open heart surgery, with unknown details  
+- paternal aunt with HTN, HLD, DM  
+- mother with HLD, DM  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 98.7 144/96 69 20 100%RA 99.7kg  
+General: Very pleasant, obese, in NAD. Comfortable.  
+HEENT: MMM, NCAT. Clear oropharynx. Anicteric sclerae.  
+Neck: 2+ carotid pulses bilaterally. No JVD. No cervical LAD.  
+CV: RRR, Nl S1/S2, no MRG.  
+Lungs: CTAB, good air movement. Respirations unlabored. No 
+wheezes/rales.  
+Chest: No TTP.  
+Abdomen: Obese, soft, ND/NT. NABS.  
+GU: No Foley catheter.  
+Ext: 2+ radial, DP and ___ pulses. No peripheral edema.  
+Neuro: Alert, awake and oriented x3. CNs grossly symmetric. 
+Strength in ___ ___ bilaterally. Distal sensation intact and 
+equal.  
+Skin: No rashes.  
+
+DISCHARGE PHYSICAL EXAM:
+VS: T=97.8 BP=121/68 HR=65 RR=20O2 sat= 100% RA
+GENERAL: NAD. Oriented x3. 
+HEENT:  PERRL. EOMI.  
+NECK: Supple with JVP of 5 cm.  
+CARDIAC: RRR. No murmurs.
+LUNGS: CBTA. No crackles/wheezes.
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: WWP X 4. Trace bilateral lower extremity edema
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 09:18AM BLOOD WBC-5.1 RBC-4.25 Hgb-11.7* Hct-35.4* 
+MCV-83 MCH-27.6 MCHC-33.1 RDW-12.9 Plt ___
+___ 09:18AM BLOOD ___ PTT-33.4 ___
+___ 09:18AM BLOOD Glucose-85 UreaN-10 Creat-0.8 Na-139 
+K-3.9 Cl-102 HCO3-29 AnGap-12
+
+DISCHARGE LABS:
+___ 05:35AM BLOOD WBC-4.8 RBC-4.69 Hgb-12.5 Hct-39.5 MCV-84 
+MCH-26.7* MCHC-31.7 RDW-13.1 Plt ___
+___ 05:35AM BLOOD Glucose-89 UreaN-11 Creat-0.8 Na-138 
+K-3.9 Cl-100 HCO3-32 AnGap-10
+___ 05:35AM BLOOD Calcium-9.2 Phos-4.2 Mg-2.0
+___ 09:18AM BLOOD Triglyc-112 HDL-39 CHOL/HD-3.0 LDLcalc-56
+
+Imagining:
+___ EKG: Normal sinus rhythm at 66 bpm. Normal axis, normal 
+intervals. T-wave inversions in III, V5 and V6 (also noted from 
+___ records in ___. T-wave flattening in aVF. Early 
+R-wave progression.  
+ 
+___ CXR PA/lat: The lungs are well expanded and clear. 
+Cardiomediastinal silhouette is unremarkable. There is no 
+pneumothorax or pleural effusion. Visualized osseous structures 
+are unremarkable.  
+
+Procedures:
+Cardiac Catherization: 
+LMCA:  Normal
+
+LAD:   Insignificant coronary artery disease
+
+LCX:  Insignificant coronary artery disease
+
+RCA:  Insignificant coronary artery disease
+
+ 
+Brief Hospital Course:
+The following issues were addressed over the course of her 
+hospital stay:
+
+# Chest pain: Quality of pain is concerning for angina, possibly 
+due to coronary vasospasm or microvascular disease. Troponin T 
+<0.01 x3, with no ST elevations or depressions; has persistent 
+non-specific ST segment changes, similar to prior. Stress MIBI 
+two months ago at ___. Ms. ___ has a strong family 
+history of CAD, as well as a possible personal history of 
+hypertension, placing her at higher risk of CAD. She underwent a 
+cardiac catherization procedure to conclusively investigate 
+coronary heart disease which showed clean coronary arteries. She 
+was started on metoprolol, atorvastatin, amlodipine and aspirin 
+to optomize her from a cardiac standpoint. 
+
+# Hypertension: Started on amlodipine and metoprolol. Will need 
+PCP ___.
+- continue amlodipine 5 mg PO daily  
+- metoprolol tartrate as above  
+
+# PUMP: LV EF estimated to be 72% in ___ on ___. No current 
+evidence of volume overload.  
+- monitor volume status on exam  
+- I/O, goal net even  
+- low sodium diet  
+
+-------------------
+Transitional issues:
+-------------------
+[ ] Blood pressure control monitoring
+[ ] Medication adherance
+[ ] F/u Hemoglobin A1c level
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth one tablet daily Disp 
+#*30 Tablet Refills:*0
+2. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Non-cardiac Chest Pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the hospital for chest pain. Your 
+electrocardiogram was normal and you cardiac enzymes did not 
+show us that your heart is the source of your chest pain, which 
+is reassuring. We did preform a cardiac catherization procedure 
+in which we were able to directly visualize your coronary 
+arteries. We found no evidence of coronary artery disease. 
+ 
+Followup Instructions:
+___

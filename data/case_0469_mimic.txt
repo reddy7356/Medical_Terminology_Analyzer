@@ -1,0 +1,828 @@
+===== DISCHARGE NOTE =====
+note_id=12425334-DS-15 | hadm_id=22092427
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old man with hx of T3, N0, M0 colon ca 
+s/p transverse colectomy in ___ c/b incisional hernia, 
+dementia, T2DM, HTN presents with fever and lethargy.  
+.  
+Pt is a resident ___. He had 3 days of 
+cold symptoms, 2 days of constipation and was noted to have 
+decreased appetite and overall depressed functioning compared to 
+baseline. Today he had a fever to 100.8 and vomited yellowish 
+(nonbloody) emesis x 2 and he was referred to the ED.  
+.  
+In the ED, initial vs were: T 106.1 P ___ BP 161/82 R 18 94%O2on 
+RA, Patient was given 1 g Vanc, 4.5 g Zosyn, Tylenol 1g and 2 
+litres of NS. Ice packs were placed to cool him and he was 
+afebrile on arrival to the floor. He had no complaints.  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies cough, shortness of breath. Denied chest pain or 
+tightness, palpitations. Denied diarrhea, or abdominal pain.  
+
+ 
+Past Medical History:
+DM II on insulin  
+Colon cancer T3N0M0, dx ___ (as part of GIB w/u) s/p transverse 
+colon resection ___ by poor wound healing (finally 
+closed)
+Ant abdominal wound->stage II ulceration, chronic since 
+colectomy
+Advanced Dementia, A&OX1, has guardian
+incisional hernia, large, asymptomatic
+GIB ___, EGD with possible diulefoy
+Anemia, Fe def 
+CKD III baseline 1.3 (on ___
+chronic ___ on lasix
+Hypertension  
+Hearing loss  
+Constipation
+H/o delirium 
+ 
+Social History:
+___
+Family History:
+NC.  None given by patient or known by power of attorney.
+ 
+Physical Exam:
+Vitals: T 98.7  BP 132/69  HR 86  RR 27  97%RA
+General: Alert, oriented to person, no acute distress 
+HEENT: Sclera anicteric, MMM, oropharynx clear, dentures in 
+place
+Neck: supple, JVP not elevated, no LAD
+Lungs: Few scattered rhonchi, no wheezes or crackles. Otherwise 
+clear
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen:  Large ventral hernia with clean dressing in placement. 
+soft, non-tender, bowel sounds present, no rebound tenderness or 
+guarding, no organomegaly
+GU: +foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+.
+on discharge
+Vitals:97.1  137/75  77  18  100%RA
+Pain: denies
+Access: PIV
+Gen: nad, calm and pleasant
+HEENT: mm dry
+CV: RRR, ___ SM all over
+Resp: CTAB with slight basilar crackles, no wheezing
+Abd; soft, obese, nontender, large ventral hernia, +BS
+Ext; no edema
+Neuro: A&OX1 at baseline, otw nonfocal
+Skin: ant abdominal wound with stage II ulceration (present on 
+admission) well healing
+psych: pleasant, calm
+.
+ 
+Pertinent Results:
+WBC 5.6->4s  
+hgb 12->10s (after fluids) 
+HCT ___
+Plt 160s ->225  
+Creat 1.6-->1.2 stable X2 days (baseline 1.3)
+lactate 1.3
+.
+  
+U/A ___: >50 WBCs, +bacteria, +RBCs, <1 epis  
+UCx ___ >100K enterobacter cloacae, pansensitive
+Blood cx ___ NTD
+.  
+.  
+.
+.
+Imaging/results: 
+CXR ___: No acute process  
+.
+CXR ___: low lung volumes, mild pulm edema, no consolidation, 
+mild CM
+.
+
+ 
+Brief Hospital Course:
+Briefly, Mr. ___ is an ___ year old man with h/o DM, colon ca 
+s/p transverse colectomy in ___ c/b incisional hernia/poor 
+wound healing, advanced dementia, and HTN. He presented from his 
+SNF with fever, abd distention, vomiting X2, and lethargy. Pt is 
+a resident ___. He had 3 days of cold 
+symptoms, 2 days of constipation and was noted to have decreased 
+appetite and overall depressed functioning compared to baseline. 
+On ___, he had a fever to 100.8 and emesis of yellowish 
+nonbloody material X2 which led to transfer to ED.   
+In the ED, initial vs were: T 106.1 P ___ BP 161/82 R 18 94%O2on 
+RA, Patient was given 1 g Vanc, 4.5 g Zosyn, Tylenol 1g and 2 
+litres of NS. Ice packs were placed to cool him. He was admitted 
+to MICU for consideration of artic sun for cooling. 
+However, since in MICU, remained afebrile. Hemodynamically 
+stable. MS appears to be at his baseline. Was found to have UTI 
+so Abx changed to CTx. CXR was negative for PNA. Blood cx 
+negative. He got total 3L IVFs in ICU and  ER. Given his prompt 
+improvement he was transfered out of MICU next day. On the floor 
+he continued to do well. MS appeared at baseline, occasional 
+sundowning but was redirectable. Abx were converted to cefpodox 
+for UCx showing pansensitive enterobacter, for total 10day 
+course. He had ARF on CKD on admission, which resolved back to 
+baseline 1.2 with fluids. He developed mild pulm edema after 3L 
+on admission, but this improved when resuming his home dose of 
+lasix. As for his constipation, he had several BMs here that 
+were well formed. There were no other issues. Discharged back to 
+___. 
+.
+See progress note below for details of plan: 
+
+___ year old man with h/o DM, colon ca s/p transverse colectomy 
+in ___ c/b incisional hernia/poor wound healing, advanced 
+dementia, chronic dCHF and HTN. He presented from his SNF with 
+fever and lethargy and is found to have enterobacter UTI. 
+Transfered to floor after brief MICU stable. Doing well and 
+ready for t/f back to SNF.  
+.
+UTI, bacterial: Temp 106 reported in ED on admission (?error, 
+may be was 100.6) but otherwise has been stable hemodynamically. 
+Mild delirium that has resolved. Recieved empiric vanc/zosyn in 
+ER, then CTX X3 days, will change to cefpodox on discharge per 
+sensitivities of Enterobacter for 7day course. Blood Cx NTD. 
+foley placed in ER and removed next day. Other infectious w/u 
+with CXR (given URI symptoms) was negative. 
+.
+ARF on CKD III: Recent baseline is 1.3 since ___. Was 1.6 on 
+admission. Improved to 1.2 after fluids and treatment of UTI 
+which was stable on discharge. 
+.
+Bicytopenia: hct and plt all lower this admission than previous. 
+Unclear what hct baseline is (prior ones are during GIB and post 
+op). Repeat HCT here were stable around ___ after fluids.  Plt 
+in past 300s, now ___ on admission for few days, likely ___ 
+infection. Repeat plt improved to 220s on discharge. Coags were 
+okay. 
+.  
+Acute Delirium in setting of advanced dementia: report of 
+increased lethargy on admission, which is likely due to UTI. 
+This resolved by next day. He appeared to be at baseline. He had 
+occ episodes of agitation which may be sundowning rather than 
+delirium. He did not need any medications. 
+.  
+Colon cancer: s/p resection. No abdominal pain.  ventral hernia 
+stable but pt has chronic abd stage II ulceration/wound. Seen by 
+wound care who provided some recs which will be relayed to ___. 
+.
+Chronic dCHF: Did develop mild pulm edema on CXR after fluids 
+with some wheezing. This improved once his lasix was resumed and 
+he did very well, never required O2. Kept on his BB/CCB. 
+.  
+DMII: SSI. resumed glipizide. Was on SSI here but resumed his 
+insulin regimen on discharge. kept on statin. 
+.  
+HTN: stable on prior doses of verapamil, lopressor, lasix
+.  
+GERD and h/o UGIB: Continued on PPI. 
+.
+Constipation: resolved with bowel regimen. kept on this on 
+discharge. 
+.
+Dispo/Code: DNR/DNI, POA is ___ ___, 
+___. Updated on admission/discharge. Will d/c back to 
+___ today. 
+.
+.
+
+ 
+Medications on Admission:
+Medications:  
+Colace  
+Milk of Mag  
+Dulcolax  
+MVI  
+Iron 325  
+Lasix 20  
+Glipizide 5  
+Humalog ISS  
+Lantus 9 U qHS  
+Lipitor 10 mg  
+Lopressor 25 TID  
+Verapamil 120  
+Trazodone 50 qhs  
+Protonix 40  
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+3. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)  PO 
+DAILY (Daily) as needed for constipation.  
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).  
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+10. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+11. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Glipizide 2.5 mg Tablet Extended Rel 24 hr Sig: Three (3) 
+Tablet Extended Rel 24 hr PO DAILY (Daily): total 7.5mg.  
+13. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours) as needed for pain, fever.  
+14. Cefpodoxime 100 mg Tablet Sig: One (1) Tablet PO every 
+twelve (12) hours for 6 days.  
+15. Lantus 100 unit/mL Cartridge Sig: 12U  Subcutaneous at 
+bedtime.  
+16. Lantus 100 unit/mL Cartridge Sig: see below  Subcutaneous 
+three times a day: 7 U before breakfast, 3U before lunch and 
+dinner. also continue sliding scale.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+UTI, enterobacter
+mild acute dCHF
+ARF on CKD resolved
+hypoactive delirium resolved
+abd chronic wound
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes-->baseline dementia and 
+A&OX1.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted for fever, lethargy, and found to have UTI. 
+You will complete Abx course as prescribed. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12425334-DS-13 | hadm_id=25991608
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GI bleed.
+ 
+Major Surgical or Invasive Procedure:
+Endoscopic gastroduodenoscopy (EGD) ___
+
+ 
+History of Present Illness:
+This is an ___ year-old male with a history of dementia, 
+hypertension, diabetes who presents with gait unsteadiness, 
+guaiac positive stools and decreased hematocrit. Patient was in 
+his usual state of health until today, when after dinner, he got 
+up to walk, and then sat back down because he felt unsteady. 
+Patient cannot relay further history. Per report, he was also 
+more confused than usual.  
+.  
+In the ED, initial vitals were T:96.9 BP:138/59 HR:90 RR:20 
+O2Sat:99% on RA. He was found to have guaiac positive brown 
+stool on rectal exam and a hematocrit of 22.5 with unclear 
+baseline. He was given a dose of pantoprazole 40mg once. GI was 
+contacted and the plan was for EGD in AM. 
+ 
+Past Medical History:
+#. Dementia  
+#. Diabetes mellitus  
+#. Hypertension  
+#. Hearing loss  
+#. H/o delerium  
+ 
+Social History:
+___
+Family History:
+NC.
+ 
+Physical Exam:
+Vitals: T:97.1 BP:148/60 HR:88 RR:20 O2Sat:100% RA  
+GEN: Elderly male, NAD  
+HEENT: EOMI, PERRL, pale conjunctivae, MMM, OP Clear  
+NECK: Supple, no LAD  
+COR: RRR, ___ systolic murmur at RUSB, normal S1 S2, radial 
+pulses +2  
+PULM: Lungs CTAB, no W/R/R  
+ABD: Soft, NT, ND, +BS, no HSM, no masses  
+EXT: No C/C/E, no palpable cords  
+NEURO: Oriented to person only. Moves all 4 extremities. Able to 
+stand with some assistance, but gait not assessesed.  
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+ 
+Pertinent Results:
+___ 11:52PM   ___ PTT-27.9 ___
+___ 09:29PM   COMMENTS-GREEN TOP
+___ 09:29PM   K+-4.5
+___ 09:20PM   GLUCOSE-193* UREA N-25* CREAT-1.3* SODIUM-137 
+POTASSIUM-4.8 CHLORIDE-104 TOTAL CO2-23 ANION GAP-15
+___ 09:20PM   estGFR-Using this
+___ 09:20PM   WBC-4.5 RBC-2.82* HGB-7.2* HCT-22.5* MCV-80* 
+MCH-25.6* MCHC-32.1 RDW-14.4
+___ 09:20PM   NEUTS-58.9 ___ MONOS-6.1 EOS-3.5 
+BASOS-0.2
+___ 09:20PM   PLT COUNT-322
+.
+ECG: Sinus rhythm with first degree AV conduction delay, normal 
+axis, normal intervals non-specific ST changes in lateral leads, 
+no prior for comparison.  
+.  
+Imaging:  
+___ CXR:  
+FINDINGS: The mandible is projected over the lung apices causing 
+suboptimal evaluation of the apices. The visualized lungs are 
+unremarkable. The cardiomediastinal silhouette is unremarkable. 
+There is no rib fracture or pneumothorax.
+.
+EGD report ___:
+Esophagus:  Normal esophagus. 
+Stomach:  Other 4 x 8 mm protruding structure with clot 
+overlying it at the junction of the fundus and body, likely 
+dieulafoy's lesion, although submucosal lesion cannot be 
+excluded. There was evidence of active bleeding after the clot 
+was rinsed. 3 clips were deployed, 2 of which remained clipped 
+to structure, and epinephrine 1 cc x 3 was injected to the base. 
+There was resolution of bleeding.  
+Duodenum:  The papilla appeared enlarged with question of an 
+overlying polyp.  Cold forceps biopsies were performed for 
+histology at the papilla major.  
+.
+ 
+Brief Hospital Course:
+This is an ___ year-old male with h/o dementia, diabetes, 
+hypertension who presents with subacute GI bleed.  
+.
+# OCCULT GI BLEED:  Patient underwent endoscopy on morning 
+following admission.  A source of bleeding was identified in his 
+stomach (see reports above) and clipped.  The bleeding resolved. 
+ After the procedure, his hematocrit stablized with most recent 
+23.5, up from 22.6.  He will undergo colonscopy as outpatient to 
+further work-up anemia and guiac-positive stools, although we 
+believe that the likely source of his anemia has been treated.  
+He is being discharged on an increased dose of pantoprazole, 40 
+mg PO BID.  Aspirin has been held and should be restarted at the 
+discretion of his outpatient doctor.
+.
+# ANEMIA:  Patient never required transfusion.  His hematocrit 
+remained stable throughout admission and began trending upward 
+on day of discharge.  The source for his anemia was localized to 
+the stomach and treated endoscopically.  He will be discharged 
+on home dose of ferrous sulfate.
+.
+# HYPERTENSION:  His lisinopril has been held during this 
+admission for concern of precipitating hypotension in the 
+setting of occult blood loss.  Because he has remained 
+normotensive throughout with BPs in the 130/60s, we have chosen 
+not to restart his lisinopril.  His BP should be monitored as 
+outpatient and consideration given to restarting lisinopril 10mg 
+qday (his home dose) as needed.
+.
+# TACHYCARDIA:  His verapramil was held at admission for concern 
+of blunting a tachycardic response if he was actively bleeding.  
+After the endoscopic procedure demonstrated a site of bleeding 
+and the bleeding was stopped, we restarted the verapramil.  His 
+heart rate overnight was well controlled in the ___ to ___.
+.
+# DIABETES:  Glipizide was held and regular insulin sliding 
+scale started.  He will be discharged on home dose of glipizide.
+.
+# HYPERCHOLESTEROL:  Continued home dose of atorvastatin.
+.
+# SLEEP / AGITATION / DELIRIUM:  Continued home dose of 
+trazadone.
+ 
+Medications on Admission:
+#. Senna qHS  
+#. Prilosec 20mg daily  
+#. Atorvastatin 10mg qHS  
+#. Insulin sliding scale  
+#. Trazodone 50mg daily  
+#. MVI  
+#. ASA 81mg  
+#. Lisinopril 10mg  
+#. ferrous sulfat  
+#. glipizide XL 5mg daily  
+#. Verapamil 120mg BID  
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Trazodone 50 mg Tablet Sig: 0.25 Tablet PO BID (2 times a 
+day).  
+5. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+7. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO once a day.  
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY 
+Occult GI bleed from Dieulafoy's lesion in stomach 
+Anemia 
+. 
+SECONDARY 
+Dementia 
+Diabetes mellitus II 
+Hypertension 
+Hearing loss 
+
+ 
+Discharge Condition:
+Vital signs stable.  Hematocrit stable.
+
+ 
+Discharge Instructions:
+You were hospitalized because we were concerned that you were 
+bleeding from your gastrointestinal tract.  We were able to 
+locate the source of your bleeding in your stomach and stop it 
+with endoscopy.
+.
+We have stopped your lisinopril and your aspirin.  We have also 
+increased your pantoprazole.  There have been no other changes 
+to your medications.
+.
+You should contact your primary care provider if you notice any 
+blood in your stools or if you have any worsening abdominal 
+pain.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12425334-DS-14 | hadm_id=27790748
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fevers/chills
+ 
+Major Surgical or Invasive Procedure:
+Open Transverse Colectomy
+
+ 
+History of Present Illness:
+This is a ___ year-old male with a history of dementia, 
+hypertension, diabetes who was just d/c from ___ yesterday 
+post gi bleed; back at dementia unit in ASSISTED LIVING and 
+found to have shaking chills and temp to 104; given tylenol and 
+ambulance called to transfer back to ___. Pt underwent egd and 
+source of bleeding was identified in his stomach (dieulafoy's 
+lesion, see reports above) and clipped. The bleeding resolved. 
+He will undergo colonscopy as outpatient to further work-up 
+anemia and guiac-positive stools. On arrival at the ED pt has 
+dementia but has no specific complaint. he has a stable vital 
+but temp to 102.5. nl wcc and hct at baseline. nl chem7. ua -ve. 
+cxr -ve. ct head negative for acute process. lp negative. pt was 
+cultured and started on ceftriaxone and vanco. he's admitted for 
+further care.
+ 
+Past Medical History:
+#. Dementia  
+#. Diabetes mellitus  
+#. Hypertension  
+#. Hearing loss  
+#. H/o delerium  
+ 
+Social History:
+___
+Family History:
+NC.  None given by patient or known by power of attorney.
+ 
+Physical Exam:
+Vitals: hr 73/min, bp 128/68/min, rr 16/min, sating 100% on 2l, 
+temp 98.7  
+GEN: Elderly male, NAD  
+HEENT: EOMI, PERRL, pale conjunctivae, MMM, OP Clear  
+NECK: Supple, no LAD  
+COR: RRR, ___ systolic murmur at RUSB, normal S1 S2, radial 
+pulses +2  
+PULM: Lungs CTAB, no W/R/R  
+ABD: Soft, NT, ND, +BS, no HSM, no masses  
+EXT: No C/C/E, no palpable cords  
+NEURO: Oriented to person only. Moves all 4 extremities. Able to 
+stand with some assistance, but gait not assessesed.  
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses. 
+ 
+
+ 
+Pertinent Results:
+___ 07:55PM CEREBROSPINAL FLUID (CSF)  PROTEIN-91* 
+GLUCOSE-114
+___ 07:55PM CEREBROSPINAL FLUID (CSF)  WBC-1 RBC-0 POLYS-0 
+BANDS-4 ___ ___ 03:38PM   LACTATE-2.3*
+___ 03:20PM   GLUCOSE-222* UREA N-22* CREAT-1.5* SODIUM-137 
+POTASSIUM-5.1 CHLORIDE-102 TOTAL CO2-25 ANION GAP-15
+___ 03:20PM   LIPASE-24
+___ 03:20PM   ALT(SGPT)-17 AST(SGOT)-15 ALK PHOS-62 TOT 
+BILI-0.3
+___ 03:20PM   ALBUMIN-3.6
+___ 03:20PM   WBC-5.0 RBC-2.91* HGB-7.5* HCT-23.4* MCV-80* 
+MCH-25.8* MCHC-32.2 RDW-14.2
+___ 03:20PM   NEUTS-89.9* BANDS-0 LYMPHS-6.7* MONOS-2.6 
+EOS-0.7 BASOS-0.2
+___ 03:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 03:20PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 03:20PM   ___ PTT-26.9 ___
+
+CXR: IMPRESSION: No acute cardiopulmonary process.
+
+CT Head:  IMPRESSION: 
+1. No acute intracranial process. 
+2. Moderate ventricular enlargement and sulcal prominence could 
+be 
+attributable to age-associated involutionary changes with 
+associated chronic 
+microangiopathic white matter hypoattenuation. Correlate with 
+lumpbar 
+puncture opening pressure. 
+.
+Radiology Report CT ABDOMEN W/CONTRAST Study Date of ___ 
+1:42 ___ 
+IMPRESSION: 
+1. Long segment of irregular, enhancing thickened transverse 
+colon wall. The 
+differential diagnosis for this finding includes neoplasm such 
+as lymphoma or 
+primary GI malignancy. Inflammatory bowel disease would be 
+unusual in this 
+age group. This appearance would be also unusual for an 
+infectious etiology 
+such as C. diff colitis. Correlation with endoscopy recommended. 
+
+2. Bowel wall thickening at the rectosigmoid junction likely 
+represents 
+proctitis. 
+3. An 8-mm hypodense focus within the right kidney, too small to 
+
+characterized, likely represents a simple cyst. 
+.
+___ C-scope
+Protruding Lesions A single flat polyp of benign appearance was 
+found in the distal sigmoid colon. Cold forceps biopsies were 
+performed for histology at the distal sigmoid colon. A fungating 
+mass of malignant appearance was found at the transverse colon. 
+The mass caused a complete obstruction. The scope could not 
+traverse the lesion and the examination was interrupted. Cold 
+forceps biopsies were performed for histology at the transverse 
+colon.  
+.
+SPECIMEN SUBMITTED: G.I. BIOPSIES (2 JARS)
+DIAGNOSIS: 
+Colonic mucosal biopsies, two:
+A. Transverse, mass:
+Adenocarcinoma.
+B. Distal sigmoid, polyp:
+Fragment of colonic mucosa with hyperplastic features.
+.
+Radiology Report ABDOMEN (SUPINE & ERECT) Study Date of ___ 
+8:57 ___  
+IMPRESSION: Distended loops of air-filled bowel consistent with 
+ileus. Stool 
+within the descending colon. Pneumoperitoneum from recent 
+surgery. 
+ 
+
+ 
+
+ 
+Brief Hospital Course:
+___ yo M s/p egd for gi bleed on ___, presenting with fever to 
+104 on ___ late evening without clear source.  Pt basically 
+with only recorded complaints of chills and revealing no other 
+symptoms since of floor.  Full infectious w/u was negative.  LP 
+done with CSR neg, UA without suggestion of infection, Blood cx 
+were negative.  Pt without evid of sob, cough, good o2 
+saturations on RA, and CXR clear.  On ___ pt had mild-mod 
+distended ab without pain, with pt still with low grade temps of 
+100.6 despite >___ treatment with IV Ceftriaxone/Vanc and po 
+flagyl (started for GI coverage ___.  CT A/P ordered.  
+Antibiotics continued since admission till ___ - given possible 
+LGI malignancy based on new CT a/p - showing diffuse pronounced 
+thickened tranverse colon and rectosigmoid, no liver lesion, no 
+retroperitoneal LAD, not consistant with colitis as per d/w with 
+radiology resident - more malignant appearance.  Based on this 
+decision and pt with only low grade temps on Abx but stable - 
+trial off abx was done on ___id not have any 
+more fevers.  Colonoscopy was done which showed a fungating mass 
+in the transverse colon.  Biopsies were done.  There was a 
+benign appearing lesion noted in the sigmoid colon which was 
+also biopsied.  The patient was seen and evaluated by general 
+surgery who agreed to take him to the OR.
+ 
+#. Fe Def Anemia/Chronic Blood loss (recent UGIB):  
+Hct remained stable during hospitalization
+.
+#. DM:  
+- Continue insulin sliding scale and home glipizide  
+.  
+# HTN:  BP controlled without evid of sepsis, cont home 
+verapamil.
+.
+# GERD - change to pantoprazole while in house
+.
+# Dementia - baseline ___ - which is complete disorientation 
+with very poor short-term memory.  Continued trazadone, tried 
+holding intially with pt showing sun downing effects.  
+.  
+#HLP - cont statin
+.
+# FEN: diabetic diet  
+.  
+# PPx: Pneumoboots.  
+.  
+# Code: DNR/DNI as d/w POA this admission - can reverse if 
+necessary for GI intervention, full medication treatment 
+otherwise requested
+.  
+=============================================================
+He went to the OR on ___ for a Transverse Colon Resection
+He did well post-operatively
+
+Pain: His pain was well controlled with Tylenol and Morphine IV 
+PRN.
+
+GI/ABD: He followed the colectomy pathway and was started on 
+sips on POD 1. His diet was slowly advanced as he was return of 
+bowel function. He had a post-op ileus and emesis and so his 
+diet was backed off. He then had bowel movements and was 
+tolerating a diet.
+
+His incision was opened on POD 5 and lightly packed with moist 
+to dry gauze BID.
+
+Dispo: He was seen by ___ and went to rehab for continued care.
+ 
+Medications on Admission:
+1. Acetaminophen 325 mg q6 prn  
+2. Senna 8.6 mg Tablet bid prn  
+3. Atorvastatin 10 mg daily  
+4. Trazodone 12.5mg bid  
+5. Multivitamin daily  
+6. Ferrous Sulfate 325 mg daily  
+7. Verapamil 120 mg Tablet Sustained Release daily  
+8. Pantoprazole 40 mg daily  
+9. Glipizide 5 mg Tablet daily  
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H 
+(Every 8 Hours).  
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Verapamil 120 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 
+hours).  
+6. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. Trazodone 50 mg Tablet Sig: 0.25 Tablet PO at bedtime.  
+9. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4-6H () as needed. 
+ 
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day): hold for SBP<100 and HR<60.  
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+12. Insulin Glargine 100 unit/mL Solution Sig: Five (5) units 
+Subcutaneous at bedtime.  
+13. Insulin Lispro 100 unit/mL Solution Sig: Sliding scale  
+Subcutaneous four times a day: See sliding scale.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Colon Adenocarcinoma
+Post-op Ileus
+Post-op Emesis
+Post-op Hyperglycemia
+Post-op Wound Infection
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, diarrhea 
+or other reasons. 
+* Signs of dehydration include dry mouth, rapid heartbeat or 
+feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your skin, or the whites of your eyes become yellow.
+* Your pain is not improving within ___ hours or not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or is changing location or moving to your chest or 
+back.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+.
+* Take all new meds as ordered. 
+* Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+* Continue to increase activity daily 
+* No heavy lifting ___ lbs) for 6 weeks.
+* You may shower and wash. No tub baths or swimming. 
+ 
+Followup Instructions:
+___

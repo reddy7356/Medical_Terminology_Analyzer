@@ -1,0 +1,2076 @@
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-14 | hadm_id=20698624
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Scheduled LTM
+ 
+Major Surgical or Invasive Procedure:
+long term EEG monitoring
+ 
+History of Present Illness:
+Mr. ___ is a ___ right-handed man with epilepsy secondary 
+to TBI suffered in ___.  His typical seizures consist of 
+bilateral arm extension, progressing to GTCS and fecal 
+incontinence.  He has a post-ictal period lasting from 20min to 
+2 or more hours during which he is minimally responsive.  After 
+each seizure he has severe regression in his progress post-TBI: 
+he becomes nearly aphasic, his R. hemiplegia returns, and his 
+memory of household details (e.g., location of bathroom) is 
+severely impaired.  This period lasts ___.  Since he 
+initiated Keppra his seizure control has been improved, with one 
+breakthrough in the context of a febrile viral illness.  He 
+continues to have premonitory symptoms without progression to 
+convulsion.  He describes these in his broken and halting 
+speech: "Just... feeling.  Very... know is coming.  Very soon.  
+Something bad."  These auras have lessened since his latest 
+increase in Keppra, from 500 to 750mg BID.  He averages 1 
+seizure every several months, though he has had siezure-free 
+periods of up to 10 months.  His last seizure occurred in a 
+cluster ___ months ago.  This admission for LTM is prompted 
+not by the frequency or severity of his seizures, but by the 
+intensity of his post-ictal
+regression.  ___ and his family state emphatically that they 
+desire resection of his seizure focus.
+ 
+Past Medical History:
+- TBI suffered during MVA in ___, L. craniotomy. Initial R.
+hemiparesis partially recovered following extensive rehab.
+Residual receptive and productive language deficicits (receptive
+deficit not evident on my exam).
+- Seizure onset ___
+- Hypercholesterolemia
+ 
+Social History:
+___
+Family History:
+No history of seizures
+ 
+Physical Exam:
+Physical Exam:
+T 98.1  HR 64/min, BP 109/64, RR 20, Pulse ox 98% on room air
+
+Gen:  Awake, alert, not in distress, lying in bed, EEG leads in
+place. Non-toxic appearance.
+Skin: No rash, no skin breakdown.
+HEENT: Normocephalic, no dysmorphic features, no conjunctival
+injection, nares patent, mucous membranes moist, oropharynx
+clear.  Normal light conus reflexes. 
+Resp: Clear to auscultation bilaterally
+CV: Regular rate, normal S1/S2, no murmurs, rubs, or gallops
+Abd: Bowel sounds present, abdomen soft, non-tender, and
+non-distended.  No hepatosplenomegaly or masses palpable.
+Extrem: Warm and well-perfused. No arthralgia. ROM full.
+
+Neuro:
+MS - Awake, alert, interactive.  Humor preserved - frequent
+joking throughout exam.  Oriented to person, place, and date. 
+Speech is halting, frequently telegraphic.  Intact naming,
+comprehension.  Repetition of short phrase ("no if's, and's or
+buts") intact, but for longer phrase he must break it into two
+short phrases, still with frequent telegraphic and substitution
+errors.  Attentions is considered to be appropriate.  No
+left-right confusion.
+
+Cranial Nerves – Pupils equal and reactive (5 to 3mm); EOM 
+smooth
+and full, no diplopia; no nystagmus; Visual field full with
+confrontation test, diminished facial sensation on the R., R.
+nasolabial fold flattening, hearing intact to finger rub
+bilaterally, palate elevation is symmetric, and tongue 
+protrusion
+is symmetric and full movement.  Sternocleidomastoid and
+trapezius are strong and normal volume.
+Tone - Normal in L. arm and leg, spasticity in R. wrist flexors,
+finger flexors, hand intrinsics, quad, and gastroc.
+
+Strength -
+   Del Bi Tr WrEx FEx FFlx IO  / IP Quad Ham Gastr TA ___ TF
+R   ___-  3    3   3    2    5   5    5   5    ___   5
+L   ___   5    5   5    5    5-  5    4   4    ___   3
+
+Reflexes -
+   Biceps   Triceps   Brachioradialis  Patellar   Ankle  
+R   3        3           2               3         2
+L   1        1           1               1         1  
+Plantar responses upgoing on the R.
+
+Sensation - Light touch reduced in R. hand, R. foot to ~50%.
+
+Coordination - No dysmetria, smooth finger-nose-finger on L.
+Unable to test in R. secondary to weakness. 
+
+Accurate heel-knee tapping and heel-shin bilaterally.  
+
+Gait - R. foot held in supination, rigid during walk.  Somewhat
+wide-based but stable. 
+
+ 
+Pertinent Results:
+___ 03:50PM BLOOD WBC-6.2 RBC-4.55* Hgb-14.8 Hct-42.1 
+MCV-93 MCH-32.5* MCHC-35.1* RDW-12.3 Plt ___
+___ 03:50PM BLOOD Glucose-106* UreaN-11 Creat-0.7 Na-132* 
+K-4.0 Cl-95* HCO3-29 AnGap-12   Calcium-9.8 Phos-3.8 Mg-2.0
+
+___ 03:50PM BLOOD ALT-41* AST-33 LD(LDH)-168 AlkPhos-133* 
+TotBili-0.3
+Albumin-4.8 
+
+___ 04:15AM BLOOD Glucose-97 UreaN-12 Creat-0.9 Na-138 
+K-4.1 Cl-99 HCO3-28 AnGap-15  Calcium-9.4 Phos-5.0* Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ was admitted for LTM to better characterize and 
+localize the onset of his seizures.  Unfortunately he was found 
+to have multiple foci of seizures and is not thought to be a 
+candidate for resection.  We have added Zonegran to his home 
+regimen (Levitiracetam) with improvement in his EEG after a 
+single dose.  He had no further seizure activity and was started 
+on a plan to incrementally increase his Zonegran dose to the 
+500-600mg/day range.  He will increase his Zonegran dose by 
+100mg per week until his ___ with Dr. ___. When this 
+medication reaches therapeutic levels, Dr. ___ try to 
+wean off the Keppra, since this medication makes Mr. ___ 
+feel woozy.
+ 
+Medications on Admission:
+Oxcarbazepine (generic) 1200mg BID
+Levetiracetam (generic) 750mg BID
+Prozac 20mg qDay
+Simvastatin 40mg qDay
+
+Allergies: Dilantin
+ 
+Discharge Medications:
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Oxcarbazepine 600 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+4. Levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO BID (2 
+times a day).  
+5. Zonisamide 100 mg Capsule Sig: Five (5) Capsule PO HS (at 
+bedtime): Start by taking 2 every night for 1 week, then 
+increase by one pill every week until you reach 5 pills per day.
+Disp:*150 Capsule(s)* Refills:*3*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epilepsy secondary to traumatic brain injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent but limited by moderate 
+telegraphic speech
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+Baseline R. sided hemiparesis, unchanged
+
+ 
+Discharge Instructions:
+You were admitted for long-term EEG monitoring (LTM) to help 
+understand your seizures - specifically, their site of onset and 
+the nature of their spread through your brain.  We learned that 
+you have multiple sites of seizure onset in your L. brain, a 
+situation that is not usually helped by surgery.  You will 
+discuss these results in detail with Dr. ___ you 
+___ in his clinic.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-19 | hadm_id=21061257
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+breakthrough seizures
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ previously
+right handed man with a medically refractory seizure disorder
+after a severe open head trauma in ___.
+
+He has been admitted twice recently.  Once for transition from
+Keppra for Vimpat - ___ - ___.  Keppra "took him to a
+dark, dark place, like he was the devil", his mother tells us. 
+She felt that Keppra was affecting his mood.  He was discharged
+home with only one subclinical electographic seizure with Vimpat
+as replacement for Keppra, remaining on prior doses of Trileptal
+and Zonegran. 
+
+He represented after a cluster of events in the context of
+vomiting after taking medications on ___ via ___,
+staying until ___.  It was felt that nausea was caused by 
+the
+medications, likely Vimpat, that this resulted in vomiting and 
+he
+then seized owing to lower AED levels.  There were no events
+during this admission.  Of note, he needed to take the Vimpat at
+bed time and the other meds a little earlier to tolerate all
+medications in the evening, his mother explains.  He is now
+tolerating medications well and she thinks that they could now
+all be given together.
+
+He had one complex partial (semiologic type 1 below) event
+immediately after discharge on the ___, then another 
+unwitnessed
+event on the ___.  On this occasion he seemed
+particularly dreamy with slower than usual speech, only saying
+yes.  He also came downstairs with only his socks on - 
+apparently
+completely unlike this typically well-shod young man.  
+
+Today he was sitting eating lunch with an adjustable table.  His
+mother heard loud sounds from the kitchen and ran to see both
+arms and legs with convulsive movements and a rattling lunch
+table in the living room.  The seizure lasted for five minutes
+and spontaneously broke, after which he was difficult to arouse. 
+
+All limbs were moving, his head was back and moving from side to
+side.  The onset was not witnessed, but this seems more akin to
+his generalized events and his family feel convinced owing to
+only being out of the room briefly and there being a food bolus
+in his mouth.  They called EMS, lay him on his side - he ejected
+the bolus.  EMS took him to ___ after
+discussion with our epilepsy service where he was given 1 mg
+Ativan then transferred to ___.  
+
+At ___ he is sleepy and his mother noted that his urine here
+was green and cloudy.  Neurology was consulted for readmission 
+to
+our epilepsy service, as suggested by Dr. ___.
+
+ 
+
+He has seizures of three broad types:
+1. Focal events.  These are characterized by a visage of
+perplexity, then left head version, sometimes with prolonged
+staring.  These will sometimes generalize.  The last witnessed
+seizure of this type was on the ___.  These are his
+most common seizure. 
+2. He apparently has generalized events without focal signs or
+staring to begin, as perhaps with today.  For this he has
+previously had an aura, but this is not typical.  The last
+generalized seizure was before Keppra was stopped in ___ (per Dr. ___, but his mother today is not sure). 
+This was as a cluster of three seizures with two unwitnessed and
+of unclear semiology.
+3. There may also be some subclinical events as witnessed during
+the first of his ___ admission.  
+
+Medications that he has taken and failed:
+Keppra - Mother and Father did not like - felt that mood worse
+Dilantin - Allergy - rash
+Presently taking:
+Zonisamide (present), lacosamide (present), oxcarbazepine.
+Has not tried: 
+Depakote, Lamictal, Carbamazepine, per his mother's recollection
+(prior notes not checked). 
+
+ 
+Past Medical History:
+He has hypercholesterolemia as well as a history of the above
+head injury - he was driving, lost control, spun and had an open
+head injury with a wooden pole directly injuring the left
+hemisphere, damaging the left temporal, posterior frontal,
+parietal lobe, as well as basal ganglia and dorsal thalamus. 
+Seizures began about one year later. 
+
+1. MVA s/p craniotomy in ___ and skull repair in ___
+2. Epilepsy
+3. Hypercholesterolemia
+ 
+Social History:
+___
+Family History:
+Mother ___ yo, hypercholesterolemia, htn, asthma.
+Father ___ yo, hypercholetsrolemia, htn, DM. 
+No history of epilepsy
+
+ 
+Physical Exam:
+Admission Exam:
+Vitals: 98.6 F, 74 BPM, 131/77 mmHg, 16 breaths, 99% RA
+
+He is lying on his right side in his pajamas sleeping.  He only
+stirs to very loud voice or moving his hands or legs, etc.  He 
+is
+well groomed with short cropped hair.  His mouth is moist, there
+is no discharge around nose and ears appear normal.  His lung
+sounds are vesicular laterally and his heart sounds dual without
+murmur.  His abdomen is soft and non-tender and bowel sounds are
+present.  
+
+He is sleeping, but makes good eye contact on waking and closes
+his eyes again, despite stimulation of hands after about ___
+seconds.  He says, in his typical dysarthric voice, that he is
+"Fine." when asked.  He said nothing else.  He blinks to threat
+from both sides.  
+
+His pupils are symmetrical and reactive, ~ 5 - 3 mm.  Eyes are
+conjugate and follow the examiner to both sides.  The face is
+near symmetric with increased excursion of the mouth on the left
+when showing his teeth.  His palate and tongue are midline and
+shrug full.  
+
+He could not be coached to participate in examination, but moves
+both arms and grimaces to gentle nail squeeze and looks annoyed
+to foot tickle bilaterally.  His right arm is straight, extensor
+and quite spastic, his left arm is supple, his right leg is also
+spastic with clonus at the ankle - not now sustained as before,
+perhaps given Ativan.  Reflexes are brisk on the right,
+particularly in the leg, with an upgoing toe on the right and
+downgoing on the left. 
+
+Discharge Exam:
+Vitals: 97.7 F, 74 BPM, 96/52 mmHg, 16 breaths, 100% RA
+___: non toxic appearance
+CV: RRR
+Resp: CTAB
+Skin: no rash
+
+Neuro:
+MS: awake, alert, understands and follows commands, expressive 
+apahsia with single word answers.
+CN: R facial droop, PERRL, EOMI
+Motor: R spastic hemi RUE>RLE
+Gait: at baseline
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:45PM BLOOD WBC-9.2# RBC-4.26* Hgb-14.9 Hct-43.7 
+MCV-103* MCH-34.9* MCHC-34.0 RDW-11.8 Plt ___
+___ 10:50AM BLOOD WBC-6.3 RBC-4.84 Hgb-16.6 Hct-49.5 
+MCV-102* MCH-34.4* MCHC-33.6 RDW-11.7 Plt ___
+___ 04:45PM BLOOD Neuts-88.3* Lymphs-6.9* Monos-4.3 Eos-0.2 
+Baso-0.4
+___ 04:45PM BLOOD Plt ___
+___ 04:45PM BLOOD Glucose-117* UreaN-9 Creat-0.7 Na-137 
+K-3.9 Cl-104 HCO3-26 AnGap-11
+___ 10:50AM BLOOD Glucose-106* UreaN-10 Creat-0.9 Na-140 
+K-4.0 Cl-104 HCO3-20* AnGap-20
+___ 05:55AM BLOOD ALT-26 AST-16
+___ 04:45PM BLOOD Calcium-9.3 Phos-2.2* Mg-2.1
+___ 04:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LABS:
+___ 05:50AM BLOOD WBC-3.8* RBC-4.21* Hgb-14.6 Hct-43.9 
+MCV-105* MCH-34.6* MCHC-33.1 RDW-11.5 Plt ___
+___ 05:50AM BLOOD Glucose-88 UreaN-12 Creat-0.8 Na-139 
+K-4.3 Cl-104 HCO3-26 AnGap-13
+___ 05:50AM BLOOD ALT-22 AST-19
+___ 05:50AM BLOOD Calcium-9.5 Phos-4.0 Mg-2.2
+
+OTHER:
+___ 05:55AM BLOOD ___ Folate-9.1
+___ 05:55AM BLOOD TSH-1.3
+___ 05:55AM BLOOD 25VitD-13*
+
+EEG ___:
+IMPRESSION: This is an abnormal continuous VEEG recording due to 
+continuous focal delta slowing in the left frontal region which, 
+at times, become rhythmic with embedded sharp waves, as above. 
+These findings are consistent with focal cortical dysfunction 
+and potential epileptogenic area. There is accentuated moderate 
+beta activity in the left fronto-central areas indicative of a 
+breach artifact due to skull defect. The background activity is 
+slow suggestive of mild encephalopathy. There are no clinical or 
+electrographic seizures captured during this study. 
+
+EEG ___:
+IMPRESSION: This is an abnormal continuous VEEG recording due to 
+continuous focal slowing and accentuated moderate beta activity 
+in the left frontal area indicative of a focal cortical and 
+subcortical dysfunction with a breach artifact due to skull 
+defect. The background activity is slow suggestive of mild 
+encephalopathy. There are frequent prolonged runs of high 
+amplitude rhythmic delta activity in the left frontal region, 
+often with embedded left frontal sharp waves, (LRDA+S) 
+indicative of high focal epileptogenicity. There are no definite 
+clinical or electrographic seizures captured during this study. 
+An abnormal cardiac rhythm with apparent P waves but alternating 
+morphology wide QRS complex is frequently seen on one lead EKG. 
+A further evaluation with 12 lead EKG will help in confirming 
+the diagnosis. 
+
+EEG ___: IMPRESSION: This is an abnormal 24 continuous EEG 
+recording due to 30 electrographic seizures captured arising 
+from left frontal lateralized rhythmic delta activity (LRDA) as 
+noted above. There are frequent high amplitude rhythmic delta 
+activity, often sharply contoured in the left frontal region, 
+often with embedded left frontal sharp waves, (LRDA+S) 
+indicative of high focal epileptogenicity. The background is 
+disorganized and slow with additional continuous focal slowing 
+and accentuated moderate beta activity in the left frontal area. 
+These findings are indicative of a mild to moderate 
+encephalopathy with additional, focal cerebral dysfunction with 
+a breach artifact due to skull defect in the left frontal area. 
+Abnormal cardiac rhythm with frequently changing QRS morphology 
+likely due to intermittent right bundle branch block is seen on 
+one lead EKG.
+
+EEG ___: IMPRESSION: This is an abnormal video-EEG 
+monitoring session because of frequent (16) electrographic 
+seizures arising from the left frontal region. These have no 
+clear clinical correlate on video. The seizures arise from an 
+area of continuous focal slowing and breach artifact in the left 
+frontal region. These findings are indicative of an 
+epileptogenic focal structural lesion in the left frontal 
+region. Background activity is slow bilaterally, much worse on 
+the left. The electrographic seizures stop after administration 
+of intravenous lorazepam around 2 ___. Compared to the prior 
+day's recording, electrographic seizures cease after 
+approximately 2 ___, but there is no other significant change. 
+Incidental note is made of intermittent right bundle branch 
+block in a single EKG channel. 
+
+EEG ___: report pending
+ 
+
+CXR: The lungs are clear without infiltrate.  There is some 
+crowding at 
+the bases, but no definite consolidation.  There is no effusion. 
+ Cardiac and mediastinal silhouettes are normal. 
+
+ECG: Sinus rhythm. Right bundle-branch block. Compared to the 
+previous tracing  of ___ right bundle-branch block is seen 
+on the current tracing which may reflect a higher heart rate. 
+Other findings are similar. 
+
+TTE:
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+IMPRESSION: Normal global and regional biventricular systolic 
+function. No clinically-significant valvular disease seen.  
+
+Ictal SPECT:
+IMPRESSION: Greater perfusion in the right temporal lobe. 
+Suggest correlation with an interictal study. 
+
+ 
+Brief Hospital Course:
+The patient has a history of refractory epilepsy due to 
+traumatic brain injury and was admitted because of a prolonged 
+seizure. No clear trigger was identified, his infectious workup 
+regarding labs, urine analysis and chest xray was normal. 
+
+#Neuro:
+His initial EEG recording was indicative of high focal 
+epileptogenicity. We initially started him on valpoic acid and 
+tapered off the lacosamide, since it had recently been started 
+and not provided good seizure control. Valproic acids was 
+increased to 750mg BID. Despite high valproic acids levels >90, 
+this not only failed to improve his EEG, but increased rhythmic 
+delta activity and made the patient less attentive, which was 
+suspicious for subclinical seizures. We then switched valproic 
+acid to clobazam, which improved his EEG and his ___ 
+condition. His clobazam dose should be increased to ___ on 
+___.
+
+#CV
+A RBBB was noted on his ECG, which had intermittently been 
+present on prior ECGs. Cardiology was consulted and recommended 
+a TTE to exclude a structural abnormality, which was normal. 
+They felt the RBBB was likely rate-dependent and does not 
+reequire any further workup or intervention.
+ 
+#ID
+CXR without infiltrates
+UA normal
+
+#Endo
+Vitamin D 13, started on vitamin D substitution 50,000IE twice 
+weekly for 8 weeks, then continue with 1000IE daily
+ 
+Medications on Admission:
+1. Loratadine *NF* 10 mg Oral QAM Reason for Ordering: Wish to 
+maintain preadmission medication while hospitalized, as there is 
+no acceptable substitute drug product available on formulary.
+2. Oxcarbazepine 1500 mg PO BID 
+3. Lacosamide 150mg BID
+4. Zonisamide 200-600 mg PO 
+5. Simvastatin 40 mg PO DAILY 
+6. Fluoxetine 40 mg PO DAILY 
+7. Docusate Sodium 100 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1. Loratadine *NF* 10 mg Oral QAM Reason for Ordering: Wish to 
+maintain preadmission medication while hospitalized, as there is 
+no acceptable substitute drug product available on formulary.
+2. Oxcarbazepine 1500 mg PO BID 
+3. Vitamin D 50,000 UNIT PO 2X/WEEK (MO,TH) Duration: 7 Weeks 
+RX *ergocalciferol (vitamin D2) [Vitamin D2] 50,000 unit 1 
+capsule(s) by mouth twice per week Disp #*14 Capsule Refills:*0
+4. Zonisamide 600 mg PO HS 
+5. Simvastatin 40 mg PO DAILY 
+6. Fluoxetine 40 mg PO DAILY 
+7. Docusate Sodium 100 mg PO BID:PRN constipation 
+8. Clobazam 10 mg PO BID 
+RX *clobazam [Onfi] 10 mg see instructions tablet(s) by mouth 
+twice a day Disp #*90 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+primary: breakthrough seizures, intractable partial epilepsy, 
+345.41
+secondary: refractory epilepsy, posttraumatic R spastic 
+hemiparesis, low vitamin D levels
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+you were admitted because of seizures. We initially started you 
+on valproic acid (Depakote), which made you less responsive and 
+your EEG looked worse. We then started clobazam and tapered down 
+the valproic acid, after which your condition improved. We 
+stopped the lacosamide (Vimpat), which had been started recently 
+and did provide adequate seizure control.
+Your antiepileptic medications are now as follows:
+START clobazam 10mg BID, should be increased to 10mg-20mg on 
+___
+KEEP zonisamide 600mg qHS
+KEEP oxcarbazepine 1500mg BID 
+In addition, your vitamin D levels were found to be low, which 
+increases your risk of having a fracture. We started a 
+supplementation with:
+Vitamin D 50,000IE twice per week for another 7 weeks, then 
+continue with Vitamin D 1000IE daily
+It was a pleasure taking care of you during this 
+hospitalization.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-20 | hadm_id=21358177
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Reason for Consult: Increased falls, gait instability 
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with drug refractory post traumatic
+epilepsy secondary to a motor vehicle accident that he sustained
+in ___. He is well known to the epilepsy service and is 
+followed
+by Dr. ___ in the Comprehensive Epilepsy
+Program at ___. His mother accompanies him and provides a
+history. 
+
+She explains that he was recently discharged from the hospital
+after transitioning from lacosamide to clobazam. The lacosamide
+had been initiated one day prior to his most recent admission 
+and
+had to be discontinued because apparently he had  "a big grand
+mal" the next night. She explains that while he was in house, he
+had no difficulties with gait as he was mostly in bed all day
+long. However, after he went home, the seizures were under
+excellent control with clobazam, but his gait has been
+"completely off". She explains that this is a young man who was
+previously able to climb up and down the stairs in his three
+story home with grocery bags in each arm. While his previous
+brain injury may have caused some right arm weakness, he
+certainly never had any gait difficulties. He has always been
+insistent on being independent and has never had any falls or
+problems with balance. After being discharged on clobazam, he 
+has
+been quite unsteady on his feet. On numerous occasions, she has
+had to run up the stairs after she heard a loud thud from his
+room, to find lying on his side. She has had to support him 
+while
+he wakes up in the middle of the night to urinate, as he is not
+able to stand and urinate without "getting wobbly" or woozy. He
+has not had vertigo or headaches. He has been able to eat and
+drink without difficulty. There has been no nausea or vomitting.
+She also reports that the problem tends to persist throughout 
+the
+day, and not just after his medications. She did report however
+that he has still tended to do well in his physical therapy
+sessions, but has not been doing well at home. 
+
+___ and his mother met ___ of the epilepsy
+clinics just five days ago, where his clobazam 10AM, 20mg ___ was
+reduced to 10mg AM and 15mg ___. This however, has not made a
+significant difference in his gait instability. 
+
+During his most recent hospitalization in ___, he was
+admitted to the epilepsy monitoring unit following a prolonged
+seizure. No clear infectious or metabolic trigger was 
+identified.
+He was maintained on EEG monitoring which revealed frequent 
+focal
+seizures. Lacosamide was weaned off and he was switched to
+valproic acid. But this appeared to cause an encephalopathic
+state with increased delta activity and inattention. The VPA was
+then switched to clobazam. A RBBB was noted on his EKG, and
+cardiology was consulted and they felt that this abnormality was
+likely benign variant and required no further interventions or
+work up. 
+
+Review of systems is negative unless stated above. 
+
+ 
+Past Medical History:
+Regarding his epilepsy history, we know that his seizures began
+at age ___, approximately one year after a severe traumatic brain
+injury during a motor vehicle accident.  During the MVA, a 
+wooden
+post was driven into his skull causing extensive left hemisphere
+damage.  He required a left craniotomy and was hospitalized for
+more than one month and then prolonged rehabilitation.  He was
+left with a significant left hemiparesis, aphasia, and cognitive
+deficits, as well as difficult to control epilepsy.  His mother
+reports that his longest seizure-free interval has been
+approximately one year.  More recently, he has had several
+admissions for medication changes, then breakthrough prolonged
+seizures or prolonged postictal changes.  He was initially
+admitted in early ___ for a switch from Keppra (severe
+behavioral side effects) to Vimpat, then was readmitted in mid
+___ after a breakthrough seizure in the setting of 
+vomiting.
+His typical seizures consist of an initial confused look, then
+head version to the left with staring, sometimes with secondary
+generalization.  Many of his seizures are quite prolonged,
+lasting up to 30 minutes. He also has generalized tonic-clonic
+seizures without clear focal onset, as well as some subclinical
+seizures seen on EEG monitoring.  He has failed multiple
+antiepileptic medications, including Keppra (behavioral 
+changes),
+Dilantin (allergy), zonisamide, lacosamide.  Many of his 
+seizures
+are precipitated by infection or hyponatremia. Other medical
+history includes hypercholesterolemia, for which he is 
+maintained
+on a statin medication. 
+ 
+
+ 
+Social History:
+___
+Family History:
+Family History:
+Mother ___ yo, hypercholesterolemia, Hypertension, asthma.
+Father ___ yo, hypercholetsrolemia, Hypertension, DM. 
+
+ 
+Physical Exam:
+Exam on admission:
+vital signs were 98.5, HR 79, BP
+119/66, RR 16, 100% RA. ___ is a young man who was largely
+cooperative and pleasant. He had a somewhat childish demeanour
+and made little by way of eye contact. He spoke slowly in mostly
+moans and groans and throughout the interview, he kept pointing
+at his mother and telling her to "shush". His head had sequelae
+of prior left hemicraniectomy. No conjunctival changes were
+noted. Mucous membranes were moist and oropharynx is clear of
+lesions. Neck was supple without masses or thyromegaly. Chest
+examination revealed regular heart sounds without murmurs, and
+lungs were clear to auscultation bilaterally. Belly was soft
+without focal tenderness, and extremities were warm and well
+perfused. Skin examination showed no rashes or lesions.  
+
+Neurologically, the patient is awake and alert. He could tell me
+his name. He responded slowly and in short sentences. He was
+anomic to low frequency objects. He followed simple commands, 
+but
+there was quite a bit of perseveration. He was quite dysarthric. 
+
+
+Cranial nerve examination revealed round, equal and reactive
+pupils. Extraocular movements were full with left beating
+horizontal nystagmus on leftward gaze. There was a subtle left
+facial droop. Hearing was grossly intact. Palate elevates
+symmetrically, and the strength of trapezii and SCMs was ___
+bilaterally. Tongue was midline and without fasiculations.
+Strength examination showed a right spastic hemiparesis with
+hyperreflexia. The right arm is flexed at baseline, as was the
+right wrist. Wrist and finger extension were ___ on the right.
+The right lower extremity was also weak at both the gastroc and
+TA muscle groups (___): he was quite weak in both ankle
+dorsiflexion and plantarflexion. The remainder of the motor
+examination was unremarkable. The right toe was upgoing. He had
+normal sensation to light touch and cold sensation over both 
+legs
+and feet. When asked to walk, ___ walked with both feet
+externally rotated and displayed a steppage-like gait on the
+right > left. His stride length was short. He was not able to
+tandem, and his posture was somewhat stooped. 
+
+ 
+Pertinent Results:
+Laboratory Data:  
+BMP: 137  ___   AGap=11 
+     4.7  29  0.9  
+CBC: 4.1, 41.4, 210, MCV: 101 
+ N:58.3 L:29.6 M:7.0 E:3.9 Bas:1.1 
+UA: Tr protein 
+UTOX: negative
+NCHCT: previously appreciate left encephalomalacia, unchanged. 
+No
+new hemorrhage. 
+
+___ 02:20PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 02:20PM URINE  COLOR-Yellow APPEAR-Cloudy SP ___
+___ 02:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 02:20PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 12:28PM   GLUCOSE-78 UREA N-13 CREAT-0.9 SODIUM-137 
+POTASSIUM-4.7 CHLORIDE-102 TOTAL CO2-29 ANION GAP-11
+___ 12:28PM   WBC-4.1 RBC-4.11* HGB-14.0 HCT-41.5 MCV-101* 
+MCH-34.1* MCHC-33.8 RDW-12.4
+___ 12:28PM   NEUTS-58.3 ___ MONOS-7.0 EOS-3.9 
+BASOS-1.1
+___ 12:28PM   PLT COUNT-210
+
+CT Head ___:
+FINDINGS:  Again, encephalomalacia and calcification seen in the 
+left temporal 
+region with ex vacuo dilatation of the left lateral ventricle.  
+Overall, no 
+significant interval change is seen.  There is no evidence of 
+hemorrhage, mass 
+effect, or midline shift seen.  There are no new areas of loss 
+of gray-white 
+matter differentiation seen.  The right ventricle is normal in 
+size.  There is 
+a craniectomy on the left. 
+  
+IMPRESSION:  No significant interval change in appearance of 
+left temporal 
+encephalomalacia and ex vacuo dilatation of the left lateral 
+ventricle 
+compared to the prior CT of ___.  No significant interval 
+abnormalities 
+are seen. 
+
+EEG ___:
+FINDINGS:  
+PUSHBUTTONS: No events were identified. 
+AUTOMATED INTERICTAL EPILEPTIFORM ACTIVITY: A focal area of 
+persistent ___ 
+Hz delta frequency slowing was seen in the left anterior 
+quadrant. 
+The background was moderate amplitude ___ Hz mixed theta and 
+alpha frequency 
+activity. 
+AUTOMATED SPIKE DETECTION: A few events were captured for sharp 
+mixed 
+frequency activity seen in the left temporal region consistent 
+with breach 
+artifact. 
+AUTOMATED SEIZURE DETECTION: This algorithm captured no events. 
+SLEEP: Some periods of slow wave sleep were seen, but most were 
+seen in the 
+daytime/morning hours. During the nighttime hours, the patient 
+had extended 
+periods of apparent wakefulness. 
+CARDIAC MONITOR: Revealed a generally regular rhythm with 
+average rate of 72 
+bpm. 
+IMPRESSION: This 24 hour EEG telemetry did not capture any 
+epileptiform 
+activity. A persistent area of focal slowing was seen in the 
+left anterior 
+quadrant with a breach rhythm. Background activity was somewhat 
+slower and 
+more variable than average. 
+  
+ 
+INTERPRETED BY: ___. 
+
+EEG ___:
+FINDINGS:  
+PUSHBUTTONS: One event was identified at 6:12:25 in which the 
+patient is 
+talking to a nurse because he is unhappy about not being allowed 
+out of bed. 
+During this event, he shakes his left hand/arm for a couple of 
+seconds and 
+says that he is having a seizure. Except for movement artifact, 
+no other EEG 
+or EKG changes are seen prior to or following this event. 
+AUTOMATED INTERICTAL EPILEPTIFORM ACTIVITY: A persistent area of 
+___ Hz delta 
+frequency focal slowing was seen in the left anterior quadrant. 
+Background 
+activity consisted of mixed ___ Hz theta frequency activity. 
+AUTOMATED SPIKE DETECTION: A few events were captured for sharp 
+mixed 
+frequency activity in the left anterior quadrant consistent with 
+breach 
+artifact. 
+AUTOMATED SEIZURE DETECTION: Three events were captured, all for 
+chewing 
+artifact. 
+SLEEP: Some periods of slow wave sleep were seen, primarily 
+during the 
+daytime hours. 
+CARDIAC MONITOR: The majority of this tracing demonstrated a 
+generally 
+regular rhythm with an average rate of 78 bpm. 
+IMPRESSION: This 24 hour EEG telemetry captured no epileptiform 
+activity. An 
+area of persistent focal slowing in the left anterior quadrant, 
+consistent 
+with an area of subcortical dysfunction. Otherwise, background 
+activity is 
+slower than average and somewhat disorganized. The single 
+clinical event 
+identified was not associated with any epileptiform activity. 
+  
+ 
+INTERPRETED BY: ___. 
+
+EEG ___:
+FINDINGS:  
+PUSHBUTTONS: None were activated during this 24 hour period. 
+AUTOMATED INTERICTAL EPILEPTIFORM ACTIVITY: In the fully awake 
+state, a well- 
+formed mixed ___ Hz theta and alpha frequency background was 
+seen. A 
+persistent area of focal slowing was present in the left 
+anterior quadrant 
+with superimposed low voltage beta activity and embedded sharp 
+features 
+(consistent with breach artifact). 
+AUTOMATED SPIKE DETECTION: This algorithm identified waveforms 
+in the left 
+frontal region that represented sharpening of the beta breach 
+activity. No 
+spikes or sharp waves were seen. 
+AUTOMATED SEIZURE DETECTION: This algorithm captured five 
+events, all 
+associated with chewing or breach artifact. 
+SLEEP: Some periods of slow wave sleep were seen in the 
+overnight hours. 
+CARDIAC MONITOR: Revealed a generally regular rhythm with 
+average rate of 72 
+bpm. 
+IMPRESSION: This 24 hour EEG telemetry did not identify any 
+epileptiform 
+activity. As seen on previous days' recordings, a slow 
+background was 
+present with a focal area of persistent slowing in the left 
+anterior quadrant 
+with an associated breach rhythm. 
+  
+ 
+INTERPRETED BY: ___. 
+
+EEG ___:
+FINDINGS:  
+PUSHBUTTONS: No events were identified. 
+AUTOMATED INTERICTAL EPILEPTIFORM ACTIVITY: In the fully awake 
+state, a 
+moderately well-organized ___ Hz theta frequency background was 
+seen. A 
+focal area of ___ Hz delta frequency slowing was seen in the 
+left anterior 
+quadrant broadly. 
+AUTOMATED SPIKE DETECTION: This algorithm captured a single 
+event associated 
+with electrode artifact. 
+AUTOMATED SEIZURE DETECTION: Two events were captured by this 
+algorithm; both 
+were associated with electrode artifact. 
+SLEEP: No periods of slow wave sleep were seen during this 
+recording. 
+CARDIAC MONITOR: Revealed a generally regular rhythm with 
+average rate of 66 
+bpm. 
+IMPRESSION: This continuous EEG recording did not capture any 
+epileptiform 
+activity. 
+  
+ 
+INTERPRETED BY: ___. 
+
+ 
+Brief Hospital Course:
+___ M with a history of penetrating trauma to the  
+left frontoparietal regions in ___ complicated by post 
+traumatic  
+cognitive decline, aphasia and refractory epilepsy who presents  
+
+with reports that the newest  medication added for seizure 
+control (clobazam) has been  associated with gait instability 
+and increased falls.  
+
+Given his history of electrographic seizures (see EEG reports  
+from ___ to ___, we started cvEEG so that this may guide a  
+safe medication titration, and to r/o seizure-related falling. 
+Mr. ___ has had no clinical seizures during this 
+admission. His EEG has remained without interictal 
+abnormalities.
+
+___ was consulted, and nursing was encouraged to walk with pt at 
+least once per shift. Per ___, has hemiparetic gait but is well 
+compensated. Orthostatics were obtained repeatedly, and were 
+negative.
+
+We continued the following AEDs: ZON 600mg/d, CLB ___ mg BID 
+for now. However, after discussing this with Mr. ___ 
+___ epileptologist, Dr. ___ have started 
+decreasing OXC by 300 mg/day (to 1200 mg BID). She will see Mr. 
+___ in clinic.  
+
+After discussion with his mother, Mr. ___ return
+home today, and follow-up will be arranged with epilepsy nursing
+in the next two weeks, and with Dr. ___ in the next
+four to six weeks.
+
+ 
+Medications on Admission:
+Currently, the patient
+is on the following medications: 
+- clobazam 10mg AM, 15mg ___ 
+- fluoxetine 40mg daily 
+- ativan 1mg PRN daily for seizures/aura 
+- oxcarbazepine 1500mg BID 
+- simvastatin 40mg daily 
+- zonisamide 600mg daily 
+- loratadine 10mg daily 
+- Vit D3 1000U daily 
+
+ 
+Discharge Medications:
+1. Clobazam 10 mg PO DAILY 
+2. Clobazam 15 mg PO HS 
+3. Fluoxetine 40 mg PO DAILY 
+4. Oxcarbazepine 1200 mg PO BID 
+5. Simvastatin 40 mg PO DAILY 
+6. Zonisamide 600 mg PO DAILY 
+7. Lorazepam 1 mg PO DAILY:PRN seizures/aura 
+8. Loratadine *NF* 10 mg Oral daily 
+9. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Seizures
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+you were admitted because of concerns about your walking, and 
+worries about an increased frequency of falls. We were concerned 
+that this happened due to either seizure activity or medication 
+side effects. We monitored you on EEG, an did not see any 
+seizures. We decreased one of your seizure medications 
+(oxcarbazepine aka Trileptal), without any adverse effects. This 
+was done after consulting your outpatient neurologist, Dr. 
+___. You walked several times with the doctors, 
+nurses, and also with our physical therapist, and we did not 
+observe any unstable gait or falling. At this point, we believe 
+you are safe to go home on the lower dose of oxcarbazepine 
+(Trileptal).
+
+Your antiepileptic medications are now as follows:
+CONTINUE clobazam (Onfi) 10mg in the morning and 15 mg in the 
+evening.
+CONTINUE zonisamide (Zonegran) 600mg in the evening
+CONTINUE oxcarbazepine (Trileptal) at the lower dose of 1200 mg 
+twice daily
+
+It was a pleasure taking care of you during this 
+hospitalization.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-15 | hadm_id=21554472
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Patient not back to baseline after last seizure.  
+ 
+Major Surgical or Invasive Procedure:
+EEG
+ 
+History of Present Illness:
+___ yo, male , with history of TBI resulting in epilepsy. 
+The parents note that the patients usual seizures consist of
+right arm turning with shaking of his head.  The episodes at
+times then become tonic clonic in nature.  Mom notes that in
+___ the seizures changed and the patient began
+having staring epiosodes preceded by the patient becoming pale. 
+After the episodes it takes 12 hours to come back to base line. 
+Mom notes that in general the patient takes two weeks to be
+himself again, but now it has been a month and the patient is
+still not acting like himself.  The patient does not know when 
+he
+is going to have a seizure.  Recently he has been experiencing
+crackles in his brain.  He notes feeling and hearing crackles. 
+Seizures have increased over the last few months.  
+  The last seizure was noted on ___ when the patient was 
+found
+unresponsive in the shower.  Mom notes that the patient was
+working out in the gym really hard that day. After coming to the
+patient had a generalized tonic clonic event.  They went to the
+ED and sodium was 128 compared to his normal of 130.  At that
+point zonisamide was increased. No recent illness, or fever. No
+change in brand of medication. Zonisamide increased after last
+seizure.  
+  The patient is here today per Dr. ___ for 
+subclinical
+seizure activity with the goal of weaning Keppra and adjusting
+the Zonisamide.  The other reason for admission was to evaluate 
+due to mom noting him not being back to baseline. The plan is 
+also to have a baseline MRI. 
+
+ 
+Past Medical History:
+In ___ the patient was in a car accident(car hydroplaned
+into a fence and piece of wood was embeded into patients left
+side of his head), causing hemiplegia of the right side,
+Epilepsy, TBI, hyperlipidemia. 
+
+ 
+Social History:
+___
+Family History:
+Family History:  Mother ___ yo, hypercholesterolemia, htn, 
+asthma.
+                 Father ___ yo, hypercholetsrolemia, htn, DM. 
+  No history of epilepsy
+
+ 
+Physical Exam:
+Gen: patient sitting up in bed, interactive with examiner, 
+HEENT:MMM, no adenopathy, 
+CV:NL S1/S2, RRR
+Lungs:CTA b/l, 
+Abd:soft, non-tender, normal bowel sounds 
+Neuro: patient oriented to person, knows month, and date, knows
+the season, can not repeat words, does not know days of the 
+week,
+
+EOMI, saccadic intrusion on smooth persuit, horizontal 
+nystagmus,
+PERRLA, right facial assymetry, midline uvula, symmetric
+elevation of the palate,
+Motor: right fist contracted, right hamstring strength ___, 
+right
+plantar and dorsiflexion ___, upgoing right toe, no clonus,
+rigidity of right lower extremity, right pronator drift
+Sensory: intact bilaterally, 
+DTR:+3 bicept, tricept, patella, and ankle jerk, crossed
+adduction noted. 
+Cb:  left sided finger to nose has no dysmetria or ataxia.       
+
+
+ 
+Pertinent Results:
+___ 07:15PM   GLUCOSE-92 UREA N-10 CREAT-0.8 SODIUM-133 
+POTASSIUM-3.8 CHLORIDE-98 TOTAL CO2-28 ANION GAP-11
+___ 07:15PM   estGFR-Using this
+___ 07:15PM   CALCIUM-9.7 PHOSPHATE-3.4# MAGNESIUM-2.2
+___ 07:15PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 07:15PM   WBC-5.2 RBC-4.41* HGB-14.4 HCT-42.2 MCV-96 
+MCH-32.6* MCHC-34.1 RDW-12.6
+___ 07:15PM   PLT COUNT-293
+___ 07:10PM URINE  HOURS-RANDOM
+___ 07:10PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 07:10PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 07:10PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+ 
+Brief Hospital Course:
+___ yo, male , with history of TBI resulting in epilepsy. 
+The parents note that the patients usual seizures consist of
+right arm turning with shaking of his head.  The episodes at
+times then become tonic clonic in nature.  Mom notes that in
+___ the seizures changed and the patient began
+having staring epiosodes preceded by the patient becoming pale. 
+After the episodes it takes 12 hours to come back to base line. 
+Mom notes that in general the patient takes two weeks to be
+himself again, but now it has been a month and the patient is
+still not acting like himself.  The patient does not know when 
+he
+is going to have a seizure.  Recently he has been experiencing
+crackles in his brain.  He notes feeling and hearing crackles. 
+Seizures have increased over the last few months.  
+  The last seizure was noted on ___ when the patient was 
+found
+unresponsive in the shower.  Mom notes that the patient was
+working out in the gym really hard that day. After coming to the
+patient had a generalized tonic clonic event.  They went to the
+ED and sodium was 128 compared to his normal of 130.  At that
+point zonisamide was increased. No recent illness, or fever. No
+change in brand of medication. Zonisamide increased after last
+seizure.  
+  The patient is here today per Dr. ___ for 
+subclinical
+seizure activity with the goal of weaning Keppra and adjusting
+the Zonisamide.  The plan is also to have a baseline MRI. 
+  Since coming to the hospital it was noted that the patient 
+continues to have subclinical seizures at night.  The patient 
+was slowly weaned off Keppra and Zonisamide was titrated up.  An 
+MRI was also performed.  The patient continued to be stable 
+clinically. 
+  On ___ the patient was noted to have a seizure per mom.  He 
+did not hit his head and mom noted he was back to his baseline 
+much sooner than usual.  
+ The patient has an appointment with ___ 0n ___ 
+at 11 am.  
+     
+ 
+Medications on Admission:
+Fluoxetine 20 mg PO Daily
+      Leviteracetam 750 mg PO BID
+      Oxcarbazapine 1200 mg PO BID
+      Zonisamide 400 mg PO Daily
+      Simvastatin 40 mg PO Daily
+
+ 
+Discharge Medications:
+Fluoxetine 20 mg PO Daily
+Oxcarbazapine 1200 mg PO BID
+Zonisamide 600 mg PO Daily
+Simvastatin 40 mg PO Daily
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epilepsy
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Please follow up with out patient epileptologist.
+Please continue adjusted doses of medications.
+You were admitted as your thinking wasn't as clear after your 
+seizure in ___, and we wanted to make sure you weren't having 
+continuous seizures.  You were monitored with long-term EEG.  
+You were titrated off your Keppra, and Zonegran was increased to 
+600 mg daily.  You also had an MRI of your brain. You were given 
+a prescription for Ativan 1 mg to be taken after a prolonged 
+seizure and after discussion with your epilepsy doctor.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-18 | hadm_id=25852153
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Breakthrough Seizures in setting of Nausea / Vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a ___ year old ___ man with epilepsy secondary to TBI who 
+was recently admitted for change of medications and 
+characterization of events. Briefly, he began having seizures 
+about ___ year after a MVA where a wooden post was driven through 
+the left side of his skull with residual R hemiplegia, cognitive 
+/ behavioral problems.
+
+During the last hospitalization, he was started on lacosamide 
+and his levetiracetam was weaned off. He did have one episode of 
+electrographic seizures but no clinical event during that time 
+and tolerated lacosamide well. 
+
+Patient is unable to provide history, but per nursing report 
+(but not in the ED records from OSH), patient's mother reported 
+vomiting at home. Thought he had thrown up his lacosamide. 
+Reportedly had a prolonged generalized tonic / clonic seizure at 
+home. 
+
+ROS: difficult to obtain, but patient denies pain, 
+nausea/vomiting or diarrhea.
+
+Per last admission note:
+"SEIZURE TYPES:
+1. Complex partial seizure: widely variable presentation. The pt 
+does not have an aura and loses consciousness with these 
+episodes. His mom and sister describe them as R upper extremity 
+convulsions with head turning. Seizure duration is typically 
+___ min. Oftentimes he experiences a second seizure ___ hours 
+later. These seizures typically occur every few months but have
+not happened in the past year and a half.  
+
+2. He has occasional generalized tonic clonic seizures, the most 
+recent of which was in ___, with tongue biting and one episode 
+of urine incontinence. The longest seizure free interval has 
+been a year and a half (___). There is history of 
+physical injury secondary to falls when he seizes. Postictal 
+symptoms include confusion and lethargy lasting 12 hours. For 
+two weeks following these episodes, he suffers from language 
+deficits and memory loss. Possible lateralizing signs by 
+history: R hemiparesis, language aphasia, memory loss. 
+
+3. Unclear, possibly complex partial, episodes of behavioral 
+arrest: Between ___ and ___ he has 
+experienced 3 seizures with loss of consciousness. While he 
+cannot recall the events leading up to these episodes, per his 
+mom he said "it's coming" before one of his episodes. He either 
+has a blank stare or an upward gaze but otherwise does not move. 
+These seizures
+typically last ___ min. The most recent occurrence was in 
+___. He incurred physical injury to his toe and arm 
+after falling during these episodes. After these seizures, he is 
+confused and noninteractive (does not eat or talk) for 2 hours." 
+
+ 
+Past Medical History:
+1. MVA s/p craniotomy in ___ and skull repair in ___
+2. Epilepsy
+3. Hypercholesterolemia
+ 
+Social History:
+___
+Family History:
+Mother ___ yo, hypercholesterolemia, htn, asthma.
+Father ___ yo, hypercholetsrolemia, htn, DM. 
+No history of epilepsy
+
+ 
+Physical Exam:
+Vital Signs: 98.4  107/67  76  20  97% RA
+General: sleeping comfortably, easily wakes up to voice
+HEENT: L-sided surgical scar, no conjunctival pallor or icterus.
+Neck supple.
+Cardiac: RRR, no M/R/G
+Respiratory: CTAB 
+Abdomen: +BS, nondistended, nontender
+Extremities: warm to palpation 
+Skin: No rashes or lesions. 
+
+Neurological Exam:
+Mental Status: sleeping but easily arousable to voice and says
+"oh come on." Answers most of the history questions with "no" 
+but
+does answer yes/no questions and states his name correctly. Also
+says, "I'm just trying to sleep." Follows simple commands. 
+
+Cranial Nerves: 
+II: PERRL 4->2 brisk. Superior R homonymous quadrantanopia. 
+III, IV, VI: R ptosis, EOM intact, end-gaze nystagmus on L gaze. 
+
+V: intact to light touch bilaterally.
+VII: R facial droop, more pronounced with activation 
+VIII: Hearing intact to finger rub bilaterally. 
+IX, X: Palate elevation symmetric. 
+XI: SCM/Trapezius strength ___ bilaterally. 
+XII: Tongue midline.
+
+Motor: Normal bulk, spastic RUE & RLE with contractures at wrist
+& ankle. No tremor or asterixis. R hand contracture in flexed
+position.
+  Delt Bic Tri  ECR  FF  FE  IO  IP  Quad  Ham  TA  Gas  ___ 
+L  5    5   5    ___   5   5     5    5    5   5    5 
+R  5-   5   5-   0   4   2   0   4+    5    4+   5   5    5
+
+Sensory: Decreased sensation to light touch on R. Intact to 
+light
+touch on L. 
+
+Reflexes: Hyperreflexic on the R with sustained clonus at the
+ankle. Normal reflexes on L. Toes upgoing on R and downgoing on
+L.
+
+Coordination: refuses exam.
+Gait: refuses exam.
+
+DISCHARGE EXAMINATION:
+ 
+Pertinent Results:
+___ 05:00AM BLOOD WBC-5.0 RBC-4.20* Hgb-15.6 Hct-43.4 
+MCV-103* MCH-37.0* MCHC-35.9* RDW-12.5 Plt ___
+___ 01:07AM BLOOD WBC-6.3 RBC-4.13* Hgb-14.1 Hct-42.0 
+MCV-102* MCH-34.2* MCHC-33.7 RDW-11.7 Plt ___
+___ 05:00AM BLOOD Glucose-97 UreaN-13 Creat-0.9 Na-136 
+K-4.0 Cl-103 HCO3-22 AnGap-15
+___ 01:07AM BLOOD Glucose-98 UreaN-14 Creat-0.9 Na-138 
+K-3.5 Cl-104 HCO3-25 AnGap-13
+___ 10:50AM BLOOD ALT-49* AST-21 LD(LDH)-130 AlkPhos-96 
+TotBili-0.4
+___ 10:50AM BLOOD Albumin-4.7
+___ 01:07AM BLOOD Calcium-9.1 Phos-3.1 Mg-2.2
+___ 05:00AM BLOOD ZONISAMIDE(ZONEGRAN)-PND
+___ 05:00AM BLOOD TRILEPTAL-PND
+ 
+Brief Hospital Course:
+# NEUROLOGY:
+The patient was maintained on his home regimen of AEDs including 
+Vimpat which the mother had noted caused an extreme bout of 
+nausea, lightheadedness, and ataxia.  In the hospital, the 
+patient's regimen was altered to separate the administration of 
+Trileptal and Vimpat by at least one hour in the morning, and 
+the evening dose was now to be given as a qhs.  The patient was 
+walked a number of times and noted to have no significant change 
+after the above timing interventions were made.
+
+# PSYCH:
+Fluoxetine was continued as per outpatient dosing.
+
+# GI:
+The patient's simvastatin for hyperlipidemia was continued.
+
+# TRANSITIONS OF CARE:
+- Follow up scheduled with Dr. ___ in ___
+- Off Keppra, on Vimpat, Trileptal, Zonegran
+
+ 
+Medications on Admission:
+1. Fluoxetine 40 mg PO DAILY 
+2. Simvastatin 40 mg PO DAILY 
+3. Zonisamide 600 mg PO QHS 
+4. Oxcarbazepine 1500 mg PO BID 
+5. Lacosamide 150 mg PO BID 
+
+ 
+Discharge Medications:
+1. Fluoxetine 40 mg PO DAILY 
+2. Lacosamide 150 mg PO BID 
+3. Oxcarbazepine 1500 mg PO BID 
+4. Simvastatin 40 mg PO DAILY 
+5. Zonisamide 600 mg PO QHS 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+- Breakthrough Seizures 
+
+Secondary: 
+- Traumatic Brain Injury
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+At the time of discharge, he is awake, alert and oriented 
+without any new focal finding
+
+ 
+Discharge Instructions:
+You were evaluated at ___ for 
+your recent breakthrough seizure in the setting of dizziness, 
+nausea, and vomiting that led to throwing up your Vimpat. Please 
+contact us if you threw up any of your medication for proper 
+intervention.
+
+We did not change any of your medications and you should take 
+them as per instruction. Please attend your appointment as 
+written below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-17 | hadm_id=26123492
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Characterization of seizures
+ 
+Major Surgical or Invasive Procedure:
+EEG Longterm Monitoring
+ 
+History of Present Illness:
+This is a ___ year old R-handed ___ who with a history of epilepsy
+secondary to TBI, who now presents for LTM and characterization
+of his events, at the request of his epileptologist, Dr.
+___, due to a cluster of recent breakthrough seizures.
+The history of epilepsy began ___ years ago at the age of ___, ___
+year after an MVA that resulted in a wooden post being embedded
+his skull. He also suffered residual deficits of R hemiplegia,
+with recovery of his ability to walk after rehab, and cognitive 
+&
+behavioral problems. 
+
+SEIZURE TYPES:
+1. Complex partial seizure: These seizures have a widely 
+variable
+presentation. The pt does not have an aura and loses
+consciousness with these episodes. His mom and sister describe
+them as R upper extremity convulsions with head turning.  
+Seizure
+duration is typically ___ min. Oftentimes he experiences a
+second seizure ___ hours later. These seizures typically occur
+every few months but have not happened in the past year and a
+half. He has occasional generalized tonic clonic seizures,  the
+most recent of which was in ___, with tongue biting and one
+episode of urine incontinence.  The longest seizure free 
+interval
+has been a year and a half (___). There is history of
+physical injury secondary to falls when he seizes.
+Postictal symptoms include confusion and lethargy lasting 12
+hours. For two weeks following these episodes, he suffers from
+language deficits and memory loss.
+Possible lateralizing signs by history: R hemiparesis, language
+aphasia, memory loss
+
+2. Unclear, possibly complex partial, episodes of behavioral
+arrest: Between ___ and ___ he has 
+experienced
+3 seizures with loss of consciousness. While he cannot recall 
+the
+events leading up to these episodes, per his mom he said "it's
+coming" before one of his episodes. He either has a blank stare
+or an upward gaze but otherwise does not move. These seizures
+typically last ___ min. The most recent occurrence was in
+___. He incurred physical injury to his toe and arm
+after falling during these episodes. After these seizures, he is
+confused and noninteractive (does not eat or talk) for 2 hours.
+ 
+Past Medical History:
+1. MVA s/p craniotomy in ___ and skull repair in ___
+2. Epilepsy
+3. Hypercholesterolemia
+ 
+Social History:
+___
+Family History:
+Mother ___ yo, hypercholesterolemia, htn, asthma.
+Father ___ yo, hypercholetsrolemia, htn, DM. 
+No history of epilepsy
+
+ 
+Physical Exam:
+Admission Physical Exam:
+
+General: NAD, sitting in bed comfortably. R arm, wrist, and
+fingers flexed.
+- Head: L-sided surgical scar, no conjunctival pallor or 
+icterus,
+no oropharyngeal lesions
+- Neck: Supple, no nuchal rigidity. No lymphadenopathy or
+thyromegaly.
+- Cardiovascular: carotids with normal volume & upstroke; RRR, 
+no
+M/R/G
+- Respiratory: Nonlabored, clear to auscultaton with good air
+movement bilaterally
+- Abdomen: nondistended, normal bowel sounds, no
+tenderness/rigidity/guarding, no hepatosplenomegaly to palpation
+and percussion
+- Extremities: Warm, no cyanosis/clubbing/edema, palpable
+radial/dorsalis pedis pulses. No synovitis of
+elbows/wrists/fingers.
+- Back: spine straight, no tenderness to palpation
+- Skin: No rashes or lesions. No neurocutaneous stigmata.
+
+Neurological Exam:
+Mental Status: Awake, alert, oriented to person and time but not
+to place. Disinhibited behavior. Concentration impaired when
+naming days of the week in order. Language fluent without
+dysarthria but with impaired verbal comprehension. Refused to be
+tested for repetition. No paraphasic errors. Follows simple
+commands, unable to follow two-step commands. Low-frequency
+naming impaired, high-frequency naming intact. Normal reading of
+very simple words, writing not tested. Normal prosody.
+Cranial Nerves: [II] PERRL 3->2 brisk. Superior R homonymous
+quadrantanopia. [III, IV, VI] EOM intact, end-gaze nystagmus on 
+L
+gaze. [V] V1-V3 without deficits to light touch bilaterally.
+Pterygoids and masseters contract normally. [VII] R-sided facial
+droop and ptosis. [VIII] Hearing intact to finger rub
+bilaterally. [IX, X] Palate elevation symmetric. [XI]
+SCM/Trapezius strength ___ bilaterally. [XII] Tongue midline.
+Motor: Normal bulk, spasticity of RUE & RLE with contractures at
+wrist & ankle. No pronation or drift. No tremor or asterixis.
+[Delt] [Bic] [Tri] [ECR] [FF]  [FE] [IO] [IP] [Quad] [Ham] [TA]
+[Gas] [___] [EDB]
+L  5      5      5      5       5      5     5      5         5  
+
+5      5        5       5      5
+R 5-     5      5-     0      4     2     0     4      5        
+4+       5      5        5       5
+Sensory: Decreased sensation to light touch, pinprick, and
+warm/cold temperature and decreased proprioception to R upper 
+and
+lower extremities. No deficits to light touch, pinprick, or
+proprioception on L side. 
+Reflexes
+[Bic] [Tri] [___] [Quad] [Ankle]
+L 2     2        2          2         2
+R 3     3        3          3        4 (with clonus)
++ Babinski sign on R, negative on L.
+Coordination: No dysmetria on finger-to-nose L. No
+dysdiadochokinesia on L.
+Gait: Wide base. Normal initiation. Normal stride length with R
+circumduction, limited arm swing on R. Stable stance without
+sway. No Romberg. 
+
+DISCHARGE EXAMINATION: Same as admission, with some lessening of 
+disinhibition.
+ 
+Pertinent Results:
+___ 07:05PM   WBC-4.6 RBC-4.14* HGB-14.4 HCT-42.2 MCV-102* 
+MCH-34.7* MCHC-34.1 RDW-11.9
+___ 07:05PM   GLUCOSE-103* UREA N-9 CREAT-0.8 SODIUM-138 
+POTASSIUM-3.5 CHLORIDE-105 TOTAL CO2-25 ANION GAP-12
+___ 07:05PM   TOT PROT-6.6 ALBUMIN-4.5 GLOBULIN-2.1 
+CALCIUM-9.3 PHOSPHATE-3.1 MAGNESIUM-2.1
+___ 07:05PM   ALT(SGPT)-30 AST(SGOT)-19 ALK PHOS-99 TOT 
+BILI-0.2
+___ 07:05PM   bnzodzpn-NEG barbitrt-NEG
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) mild generalized background theta 
+slowing; (2) superimposed admixed irregular delta slowing in the 
+left anterior quadrant; and (3) frequent brief ___ second) 
+bursts of ___ Hz bifrontal rhythmic delta activity with a 
+leftsided amplitude predominance. There were no epileptiform 
+abnormalities or seizures. 
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) a single electrographic seizure with 
+diffuse onset throughout the left frontal/temporal/parietal 
+region with a voltage maxima in the left anterior quadrant, 
+lasting approximately 40 seconds, without clear clinical 
+correlate; (2) frequent bursts of ___ Hz bifrontal rhythmic 
+delta activity with a leftsided amplitude predominance, up to 40 
+seconds long, but without the organization or structure of 
+electrographic seizures and without any clear clinical 
+correlate; (3) mild generalized background theta slowing; and 
+(4) superimposed admixed irregular delta slowing in the left 
+anterior quadrant. 
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) frequent bursts of ___ Hz bifrontal 
+rhythmic delta activity with a leftsided amplitude predominance, 
+up to 40 seconds long, but without the organization or structure 
+of electrographic seizures and without any clear clinical 
+correlate; (2) mild generalized background theta slowing; and 
+(3) superimposed admixed irregular delta slowing in the left 
+anterior quadrant. Two pushbutton activations for brief episodes 
+of decreased responsiveness to nursing questions were without 
+evidence of electrographic seizure activity. 
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) frequent bursts of ___ Hz bifrontal 
+rhythmic delta activity with a leftsided amplitude predominance 
+without any clear clinical correlate; (2) mild generalized 
+background theta slowing; and (3) superimposed admixed irregular 
+delta slowing in the left anterior quadrant. There were no 
+epileptiform discharges, electrographic, or clinical seizures. 
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) occasional brief bursts of ___ Hz 
+bifrontal rhythmic delta activity with a leftsided amplitude 
+predominance without any clear clinical correlate; (2) mild 
+generalized background theta slowing; and (3) superimposed 
+admixed irregular delta slowing in the left anterior quadrant. 
+There were no epileptiform discharges, electrographic or 
+clinical seizures. 
+
+___ EEG IMPRESSION: This is an abnormal continuous EEG 
+monitoring study due to (1) frequent bursts of ___ Hz bifrontal 
+rhythmic delta activity with a leftsided amplitude predominance 
+without any clear clinical correlate; (2) mild generalized 
+background theta slowing; and (3) superimposed admixed irregular 
+delta slowing in the left anterior quadrant. There were no 
+epileptiform discharges, electrographic, or clinical seizures. 
+
+___ EEG PENDING - PRELIMINARY UNCHANGED FROM PREVIOUS 
+RESULTS.
+ 
+Brief Hospital Course:
+This is a ___ R-handed M with a history of MVA with 
+resulting TBI resulting in substantial left hemispheric 
+(frontotemporal predominant) encephalomalacia, subsequent 
+epilepsy with multifocal (or single undetected deep focus with 
+multiple propagation pathways) onset on prior cEEG, admitted for 
+assessment of seizure burden and to transition from 
+levetiracetam to lacosamide while monitoring for breakthrough 
+events.
+
+# Neurology: Mr. ___ was admitted to the epilepsy service on 
+___. He was monitored on video-EEG which showed abnormalities 
+which include mild generalized background theta slowing, 
+persistent superimposed admixed irregular delta slowing in the 
+left anterior quadrant and frequent brief ___ second) bursts of 
+___ Hz bifrontal rhythmic delta activity with a leftsided 
+amplitude predominance. However, despite some push button 
+events, there were no epileptiform abnormalities or seizures 
+throughout the course of his admission.
+
+He was initially managed with home doses of trileptal (1500 mg 
+BID), levetiracetam (1000 mg BID), and zonisamide (200 mg 
+QAM/600 QHS, which mom had increased from 600 QHS several months 
+prior). On day 2, his zonisamide and levetiracetam were 
+decreased to 600 mg QHS and 750 mg BID, respectively. At that 
+time he was started on 50 mg BID lacosamide which was increased 
+to 150mg BID while the levetiracetam was tapered off by 
+___.  He was discharged on zonisamide 600mg BID, 
+oxcarbazepine 1500mg BID, and Vimpat 150mg BID.
+
+# Transitions of care:
+- Follow up scheduled with Dr. ___ in ___
+- Off Keppra, on Vimpat, Trileptal, Zonegran
+- PR interval at discharge = 147
+ 
+Medications on Admission:
+1. Zonisamide 200 mg qAM & 600 mg qPM
+2. Levetiracetam 1000 mg BID
+3. Oxcarbazepine 1500 mg BID
+4. Fluoxetine 40 mg QID
+5. Simvastatin 40 mg QID
+ 
+Discharge Medications:
+1. Fluoxetine 40 mg PO DAILY 
+2. Simvastatin 40 mg PO DAILY 
+3. Zonisamide 600 mg PO QHS 
+4. Oxcarbazepine 1500 mg PO BID 
+5. Lacosamide 150 mg PO BID 
+RX *lacosamide [Vimpat] 150 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*4
+6. Outpatient Physical Therapy
+850.0 : Traumatic brain injury
+345.9 : Epilepsy unspecified
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Epilepsy 
+Secondary: Past traumatic brain injury
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were evaluated at ___ for a 
+characterization of seizure activity in the setting of increased 
+frequency.  We performed EEG studies over the course of the 
+admission which demonstrated some abnormalities, but no specific 
+seizure activity, including those events which were identified 
+as concerning for seizure activity through push-button 
+activation.
+
+We modified your seizure medications over the course of this 
+admission to include the medication Vimpat, while tapering off 
+the medication Keppra.  This change should give you good control 
+of your seizure activity without the same increase in mood 
+changes.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12349882-DS-16 | hadm_id=27982454
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+two seizures
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo man with past medical history of TBI with resulting R
+hemiparesis and refractory secondary epilepsy was transferred
+from ___ for breakthrough seizures.  He initially
+presented to their emergency room today after a seizure at home. 
+
+His father heard noise that sounded like him kicking against the
+door.  They called an ambulance.  The shaking seemed to have
+lasted <2minutes but they couldn't view most of the seizure
+because of difficulty getting the door open. After the door was
+opened, we was found to be shaking his right arm and laying on
+his left side.  They are unsure if he was shaking his legs. 
+There was no urinary incontinence.  He was groggy afterward.  He
+was then brought by ambulance to ___ where a second
+generalized convulsion occurred lasting ___ minutes (different
+times recorded in the records).  He was given Ativan IV 2mg at
+10:05,10:10 and 10:15 after which the seizure stopped.  He was
+then transferred to ___ for further management
+because most of his epilepsy care is here with Dr.
+___.  He missed his morning medications because of 
+the
+seizures.
+
+ROS: There were no known missed doses of his medications.  HIs
+mother supervises most of his doses.  There is no fever,
+vomiting, or change in urination. There are no sick contacts at
+home.  He did not have any alcohol last night and he had a full
+night's sleep the night before.
+
+His seizure seminologies:
+1) Complex partial- right arm turning with shaking of his head. 
+These mostly occurred at the onset of his seizures and the 
+mother
+thinks the last of this time occurred in ___ Eye blinking
+3) Starring spells along which he looks pale
+4) Generalized tonic clonic usually secondarily generalized from
+complex partial
+
+After most his seizures, he will be postictal for at least 12
+hours and following that will have a regression in his function
+for 2 weeks.  During this time, according to his mother, he will
+need reteaching of all his ADLs and even needs to relearn his
+favorite food.  He was admitted last at ___ in ___ because
+following seizures, he still had not returned to his baseline
+after a full month.  He was feeling "crackles in his brain"  He
+was found during that admission on LTM to have subclinical
+seizures.  He was weaned of Keppra and his Zonegram was
+increased.
+
+His last seizure was ___ where he a seizure 
+after
+which he hit his head in the bathroom.  He was seen at that time
+in ___ where his Zonegram was increased, adding 
+100mg
+in the morning.  There was a CT performed of which the report is
+available for review (obtained by ER) which was persistent area
+of encephalomalacia in the left parietal and temporal lobes 
+which
+was unchanged from prior imaging.
+
+ 
+Past Medical History:
+In ___ the patient was in a car accident(car hydroplaned
+into a fence and piece of wood was embeded into patients left
+side of his head), causing hemiplegia of the right side,
+Epilepsy, TBI, hyperlipidemia. 
+
+ 
+Social History:
+___
+Family History:
+Family History:  Mother ___ yo, hypercholesterolemia, htn, 
+asthma.
+                 Father ___ yo, hypercholetsrolemia, htn, DM. 
+  No history of epilepsy
+
+ 
+Physical Exam:
+Gen: Patient laying in bed sleeping but arousable.  Once waking
+up he asked to go to the bathroom.  He was able to sit on edge 
+of
+bed.  Afterwards, he was slow to follow commands trying to 
+direct
+him back in bed.  After a few minutes he was able to scoot
+himself back up the bed.
+
+HEENT:MMM, no adenopathy, No lacerations on tongue or lips
+CV: NL S1/S2, RRR
+Lungs: CTA b/l although poor inspiratory effort
+Abd: soft, non-tender, normal bowel sounds 
+Neuro: patient oriented to person, knows month, and date, knows
+the season, can not repeat words, does not know days of the 
+week,
+
+Orientation:  He is orientated to person, and day of the week. 
+He is unable to say where he is.  
+Attention: He has poor attention and often stars off after
+question is asked
+___:  Unable to repeat.  He has poverty of speech but
+when he speaks it is comprehensible.
+Memory:  He is able to recall his birthdate with prompting
+
+CN:
+II: Patient does not blink to threat consistently on right side. 
+
+Blinks to threat on left.  Pupils equally round & reactive to
+light 4 mm to 2 mm. No relative afferent pupillary defect. 
+III,IV,VI EOM appear intact as patient looks around room but he
+does not follow finger.
+V: Sensation not tested. Bite strength not tested. 
+VII: Face symmetric
+VIII: not tested
+IX,X: Voice appears normal. Unable to see palate
+XI: patient able to left shoulders and turn head side to side.
+XII: Tongue protrudes midline.
+
+Motor:Normal bulk ; no tremor, rigidity.  There is increased
+tone in right arm and leg. Strength testing limited to
+cooperation but patient was able to stand and was able to move
+himself up the bed. He was able to turn from side to side to
+reposition himself
+
+Reflex::+3 bicep, triceps, brachioradialis, patella, and ankle
+jerk, crossed adduction noted on right.  There is an 8 beat
+clonus on right.  +2 on left in biceps, triceps, 
+brachioradialis,
+patella and ankle.  Toe is upgoing on right and downgoing on
+left.   
+
+___:   Reponds to light touch in all extremites
+
+Gait:Did not ambulate as patient was groggy. 
+
+ 
+Pertinent Results:
+___ 03:45PM   WBC-7.6# RBC-4.55* HGB-15.1 HCT-44.1 MCV-97 
+MCH-33.2* MCHC-34.3 RDW-12.9
+___ 03:45PM   PLT COUNT-264
+___ 03:45PM   NEUTS-84.2* LYMPHS-10.1* MONOS-5.2 EOS-0.5 
+BASOS-0.1
+___ 03:45PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 03:45PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 03:45PM   GLUCOSE-98 UREA N-6 CREAT-0.8 SODIUM-138 
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-25 ANION GAP-13
+___ 03:45PM   CALCIUM-9.5 PHOSPHATE-3.0 MAGNESIUM-2.6
+___ 03:54PM   LACTATE-1.___ yo RHM with hx of TBI after a motor vehicle accident in ___ 
+with refractory secondary epilepsy and right hemiparesis who 
+presents with two generalized convulsions within a couple hours 
+with no obvious trigger such as infection, missed doses, sleep 
+deprivation, or alcohol intake.  In the past, he has been 
+allergic to Dilantin and had significant cognitive slowing with 
+Keppra.  He currently is on high doses of Trileptal and Zonegram 
+and he will most likely need a third agent added to obtain 
+better control.  He has missed his morning doses because of 
+seizures and will need to have IV benzodiazepine coverage until 
+a third agent is decided.  
+
+Hospital Course:  Mr. ___ was admitted to the epilepsy 
+service from ___. He was monitored on video-EEG which 
+showed frequent bifrontal delta slowing but no epiletiform 
+discharges.  He was initially managed with his home doses of 
+zonegran (100mg qAM, 600mg qHS) and trileptal (1500mg BID) and 
+placed on IV ativan.  There was no clear precipitant for Mr. 
+___ seizures, given he had been compliant on medication 
+and had no clear infectious cause or other provoking state.  He 
+was therefore started on a third anti-epileptic agent, Keppra, 
+which was slowly titrated up.  He was able to tolerate 1000mg 
+BID of Keppra prior to discharge and this can be titrated up 
+further outpatient if he has any further breakthrough seizures.  
+He did have one one clear electrographic seizure - R posterior 
+quadrant- 3.5 Hz, lasting 20 seconds without clinical change on 
+___, but no other remarkable events.  He will receive a ___ 
+evaluation at home and see Dr. ___ in 4 weeks for 
+follow up.    
+
+At discharge, his exam was alert and oriented.  Naming and 
+comprehension continued to be slow at time, but per mother at 
+baseline. PERRL. EOMI. Face with mild R facial droop. RUE ___.  
+Strength, otherwise at least ___ throughout.
+
+ 
+Medications on Admission:
+Fluoxetine 20 mg PO Daily
+Oxcarbazapine 1500 mg PO BID
+Zonisamide 100 mg/600mg
+Simvastatin 40 mg PO Daily
+
+ 
+Discharge Medications:
+1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).
+Disp:*30 Tablet(s)* Refills:*2*
+2. oxcarbazepine 600 mg Tablet Sig: 2.5 Tablets PO BID (2 times 
+a day).
+Disp:*150 Tablet(s)* Refills:*2*
+3. zonisamide 100 mg Capsule Sig: Six (6) Capsule PO QHS (once a 
+day (at bedtime)).
+Disp:*30 Capsule(s)* Refills:*2*
+4. zonisamide 100 mg Capsule Sig: One (1) Capsule PO QAM (once a 
+day (in the morning)).
+Disp:*210 Capsule(s)* Refills:*2*
+5. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO QAM (once a 
+day (in the morning)).
+Disp:*30 Capsule(s)* Refills:*2*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. levetiracetam 1,000 mg Tablet Sig: One (1) Tablet PO twice a 
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+TBI following a motor vehicle collision developing subsequent 
+right sided hemiparesis and refractory secondary epilepsy
+hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+You were transferred to our hospital because you had two 
+seizures on full doses of your medications without any missed 
+doses or infection to explain the breakthrough.  Your current 
+AEDs were maximized and it was decided that a third agent was 
+needed to gain control of your seizures.  You were placed on LTM 
+monitoring to look for subclinical seizures.  You were placed on 
+Keppra and the dose was slowly increased to 1000mg twice daily.  
+You should continue to take your other seizure medications 
+including trileptal 1500mg twice daily and Zonegran 100mg in AM 
+and 600mg at night.  
+
+ 
+Followup Instructions:
+___

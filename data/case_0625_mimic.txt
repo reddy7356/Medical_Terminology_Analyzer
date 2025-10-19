@@ -1,0 +1,1077 @@
+===== DISCHARGE NOTE =====
+note_id=18580572-DS-13 | hadm_id=21109160
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nifedipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypertension
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with history of HTN, DM2 and recent right MCA and left 
+pontine strokes presents from nursing home after a systolic 
+blood pressure reading of 220.  
+The patient was recently discharged from the medicine service on 
+___ at ___ after management of failure to thrive in the 
+setting of her recent strokes. During that hospitalization her 
+clonidine was decreased from 0.2mg TID to 0.1mg TID for concern 
+of clonidine induced lethargy. That hospitalization was also 
+complicated by an E. Coli UTI for which she completed treatment 
+on ___ (first with CTX, then cefpodoxime).
+Of note, the patient's blood pressure was difficult to control 
+during her hospitalization during ___ for her left pontine 
+stroke. She was noted to have pressures routinely >200mmHg while 
+on her home regimen.  
+In the ED, initial vitals were: T 97.3 HR 73 BP 208/92 R 16 SpO2 
+99% RA  
+ - Exam notable for: Left upper and lower extremity weakness  
+ - Labs notable for:  Hgb 9.3 (baseline ~8)  
+ - Imaging was notable for: None obtained  
+ - Patient was given:  
+ ___ 01:09 PO/NG HydrALAZINE 50 mg  
+ ___ 01:09 PO/NG Labetalol 300 mg  
+ ___ 01:09 PO CloNIDine .2 mg  
+
+Upon arrival to the floor, patient reports feeling fine, without 
+headache, vision changes, chest pain or dyspnea.  
+REVIEW OF SYSTEMS: No fevers/chills. No chest pain, headaches or 
+vision changes. No dyspnea. No abdominal pain. No 
+nausea/vomiting/diarrhea. +dysuria. 
+ 
+Past Medical History:
+L Pontine stroke ___ 
+R MCA stroke ___ with left hemiplegia
+Hypertension
+Hyperlipidemia
+CKD
+Depression
+ 
+Social History:
+___
+Family History:
+Father died of MI at age ___, had hypertension.  Mother had HTN, 
+unknown cause of death. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VS: T 98.5 BP ___ HR ___ R 18 SpO2 98 RA  
+GEN: NAD, resting supine with eyes closed, needs strong verbal 
+stimuli to maintain attention and converse, but alert and 
+oriented x3  
+HEENT: sclerae anicteric, EOMI, DMM   
+___: II/VI RUSB radiating to carotids, RRR, no gallops
+RESP: No increased WOB, clear anteriorly/laterally without 
+wheezing, rhonchi or crackles  
+ABD: NTND +BS no suprapubic tenderness 
+EXT: warm without edema  
+NEURO: R facial droop, ___ strength LUE and LLE.  Cannot lift 
+leg or arm off bed. Sensation intact. ___ RUE and RLL ___. No 
+shoulder shrug L shoulder.  CN otherwise intact. 
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+VS: 97.___/99.1 ___ 63-70 16 99%RA
+GEN: NAD, resting supine with eyes open, alert and oriented x3
+HEENT: sclerae anicteric, EOMI, MMM   
+___: II/VI RUSB radiating to carotids, RRR no gallops 
+RESP: No increased WOB, clear anteriorly/laterally without 
+wheezing, rhonchi or crackles  
+ABD: NTND +BS no suprapubic tenderness 
+EXT: warm without edema  
+NEURO: R facial droop, ___ strength LUE and LLE.  Cannot lift 
+leg or arm off bed. Sensation intact. ___ RUE and RLL ___. No 
+shoulder shrug L shoulder.  CN otherwise intact. No nystagmus.
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 11:14PM BLOOD WBC-4.3 RBC-3.01* Hgb-9.3* Hct-29.4* 
+MCV-98 MCH-30.9 MCHC-31.6* RDW-13.1 RDWSD-46.6* Plt ___
+___ 11:14PM BLOOD Neuts-47.8 ___ Monos-9.8 Eos-1.9 
+Baso-0.5 Im ___ AbsNeut-2.04# AbsLymp-1.70 AbsMono-0.42 
+AbsEos-0.08 AbsBaso-0.02
+___ 11:14PM BLOOD CK-MB-1 cTropnT-0.01
+___ 11:14PM BLOOD Calcium-9.9 Phos-3.2 Mg-1.8
+___ 06:00AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 06:00AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-SM 
+___ 06:00AM URINE RBC-<1 WBC-22* Bacteri-FEW Yeast-NONE 
+Epi-0
+___ 06:00AM URINE CastHy-1*
+
+INTERVAL LABS:
+=============
+___ 06:03AM BLOOD RENIN - FROZEN-PND
+___ 06:03AM URINE NORMETANEPHRINE 0.23 nmol/L (reference 
+value <0.90) METANEPHRINE 0.20 nmol/L (reference value <0.50)
+___ 12:47PM BLOOD ALDOSTERONE-3
+___ 01:13PM URINE Color-Straw Appear-Hazy Sp ___
+___ 01:13PM URINE Blood-NEG Nitrite-POS Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD
+___ 02:36PM URINE Hours-RANDOM UreaN-353 Creat-56 Na-150 
+K-40 Cl-143 TotProt-24 Prot/Cr-0.4*
+___:36PM URINE Osmolal-498
+
+DISCHARGE LABS:
+==============
+___ 06:05AM BLOOD Glucose-105* UreaN-28* Creat-1.0 Na-144 
+K-4.0 Cl-106 HCO3-25 AnGap-17
+___ 06:05AM BLOOD Calcium-10.2 Phos-3.4 Mg-2.1
+
+MICROBIOLOGY:
+=============
+___ BLOOD CULTURE - NO GROWTH FINAL
+___ 1:13 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+         Fosfomycin AND Ertapenem Sensitivity testing per ___ 
+(___)
+         ___.  SENSITIVE TO Fosfomycin.  SENSITIVE TO 
+Ertapenem. 
+         Fosfomycin AND Ertapenem sensitivity testing performed 
+by ___
+         ___. 
+      ESCHERICHIA COLI.    10,000-100,000 CFU/mL. 
+         NO FURTHER WORK UP. SEE ORGANISM #1 FOR SENSITIVITIES.. 
+
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------  =>64 R
+CEFTAZIDIME-----------    16 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+STUDIES/REPORTS:
+___ ECG
+Sinus 71 NA NI q waves III, aVF, poor R wave progression 
+ 
+___ CT HEAD W/O CONTRAST  
+IMPRESSION:  
+1. No evidence of hemorrhage.  
+2. Evolution of the previously visualized left pontine infarct. 
+Large chronic right middle cerebral artery territory infarct  
+
+___ RENAL ULTRASOUND
+FINDINGS:  
+The right kidney measures 9.6 cm. The left kidney measures 9.4 
+cm. There is no hydronephrosis, stones, or masses bilaterally.  
+Normal cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally. There is limited 
+evaluation of the renal arteries bilaterally due to patient 
+motion however, there is delayed upstroke and spectral 
+broadening in the main renal artery and intrarenal arteries of 
+the left kidney.  There is also mildly delayed upstroke in the 
+intrarenal arteries of the right kidney. 
+The bladder is moderately well distended and normal in 
+appearance. 
+IMPRESSION:  
+Limited evaluation due to patient motion.  Within these 
+limitations, there is delayed upstroke of the main and 
+intrarenal arteries of the left kidney and mild delayed upstroke 
+of the intrarenal arteries of the right kidneys.  These findings 
+may reflect upstream stenosis.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with PMHx HTN, history of a right MCA stroke 
+___ with left hemiplegia and left pontine stroke ___ who 
+presents with resistant HTN, also found to have ESBL E. Coli 
+UTI: 
+ 
+ACTIVE ISSUES: 
+# Resistant HTN: 
+Ms. ___ presented with severe blood pressure elevations with 
+no acute signs of end organ damage. A few days prior to this 
+hospitalization, blood pressures at her nursing home were 
+reported to sustain consistently in the 190s-210s/100s. 
+Nephrology was consulted to assist with optimization of her 
+blood pressure regimen. A secondary HTN work up was performed 
+given a diagnosis of hypertension in her early ___. A renal 
+ultrasound was obtained, although limited, but was suggestive of 
+bilateral upstream renal artery stenosis which was though to 
+reflect atherosclerosis. Ms. ___ was discharged on the 
+following regimen: Lasix 40mg QD, lisinopril 20mg BID, 
+amlodipine 10mg QHS, clonidine 0.1mg QAM, 0.1mg QPM, and 0.2mg 
+QHS, and labetalol 800mg Q8H with BPs ranging between SBPs 
+130s-160s on discharge. Primary aldosteronism work up was 
+negative as well as urine metanephrines negative. 
+
+# Uncomplicated ESBL E. Coli Cystitis: 
+Patient reported dysuria on admission.  Of note, during her last 
+admission, she was treated for pansensitive E. Coli UCx with 
+Cephalexin x10 days (last day ___. UCx this admission grew 
+ESBL E. Coli. Ms. ___ was treated for 7 days with 
+nitrofurantoin ___ last full day ___.
+
+# History of Multiple Strokes: 
+Ms. ___ neurologic exam is notable for right facial droop, 
+___ strength LUE and LLE, ___nd RLL. Sensation 
+bilaterally grossly intact. No shoulder shrug left shoulder, 
+cranial nerves otherwise intact. Given pureed diet with thin 
+liquids per last nutrition note given dysphagia. Continued 
+Plavix and statin and her hypertension regimen was optimized as 
+above.
+
+# Poor PO Intake: Patient has limited use of left side of body 
+secondary to stroke and needs assistance with PO intake. Given 
+meals with 1:1 assist inpatient. 
+
+# Normocytic Anemia: Remained at baseline Hbg ___.
+
+CHRONIC ISSUES: 
+# DM2: Last HbA1C 5.1% ___. On Humalog insulin sliding 
+scale in house but did not require coverage.  
+# HLD: Continued atorvastatin 80mg QHS. 
+# CKD Stage II: Reported baseline ~1.3, inpatient Cr ranged 
+between 0.9-1.1.
+
+TRANSITIONAL ISSUES:
+===================
+- Given two recent strokes and repeated hospitalizations, code 
+status was clarified this admission. Patient is full code but 
+she would not want artificial life support long term. 
+- Discharge antibiotic regimen: Nitrofurantoin ___ for 7 
+days, last full day ___ for uncomplicated cystitis with last 
+dose at 6pm.
+- Please check manual blood pressures with appropriately sized 
+cuff.
+- Please ensure patient follows up with nephrology and neurology 
+as scheduled.
+- Patient needs 1:1 assist with meals.
+- Please encourage patient participation with group activities 
+at rehab. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. CloNIDine 0.1 mg PO Q8H 
+4. Clopidogrel 75 mg PO DAILY 
+5. HydrALAZINE 37.5 mg PO Q6H 
+6. Labetalol 200 mg PO Q6H 
+7. Lisinopril 20 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+10. Senna 8.6 mg PO QHS 
+11. Docusate Sodium 100 mg PO BID 
+12. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+13. calamine-zinc oxide ___ % topical DAILY:PRN 
+14. Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH ON THE ___. 
+15. Fleet Enema ___AILY:PRN constipation 
+16. megestrol 400 mg/10 mL (10 mL) oral DAILY 
+17. Nystop (nystatin) 100,000 unit/gram topical BID 
+18. Ondansetron 4 mg PO Q8H:PRN nausea 
+19. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+20. LevETIRAcetam 750 mg PO BID 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO HS  
+2.  Furosemide 40 mg PO DAILY  
+3.  Nitrofurantoin (Macrodantin) 50 mg PO Q6H Duration: 7 Days 
+Last dose 6pm ___.  CloNIDine 0.1 mg PO BID  
+5.  CloNIDine 0.2 mg PO QHS  
+6.  Labetalol 800 mg PO Q8H  
+7.  Lisinopril 20 mg PO BID  
+8.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+9.  Allopurinol ___ mg PO DAILY  
+10.  Atorvastatin 80 mg PO QPM  
+11.  calamine-zinc oxide ___ % topical DAILY:PRN  
+12.  Clopidogrel 75 mg PO DAILY  
+13.  Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH ON THE ___.  
+14.  Docusate Sodium 100 mg PO BID  
+15.  Fleet Enema ___AILY:PRN constipation  
+16.  LevETIRAcetam 750 mg PO BID  
+17.  megestrol 400 mg/10 mL (10 mL) oral DAILY  
+18.  Multivitamins 1 TAB PO DAILY  
+19.  Nystop (nystatin) 100,000 unit/gram topical BID  
+20.  Ondansetron 4 mg PO Q8H:PRN nausea  
+21.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+22.  Senna 8.6 mg PO QHS  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Resistant Hypertention
+Uncomplicated Cystitis Secondary to ESBL E. Coli
+
+Secondary Diagnosis:
+History of Multiple CVAs (Right MCA; Left Pontine)
+Normocytic Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Why was I admitted to the hospital?
+==================================
+- You had high blood pressure at your nursing home.
+
+What was done for me?
+====================
+- Your blood pressure was monitored carefully.
+- Your blood pressure medications were changed to better control 
+your blood pressures.
+- You were given an antibiotic for a urinary infection.
+
+What should I do now?
+====================
+- Please take all of your medicines as prescribed.
+- Please follow up with your stroke doctor as scheduled.
+- Please follow up with the kidney doctor as scheduled. 
+
+We wish you the best of health moving forward,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18580572-DS-12 | hadm_id=27081239
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nifedipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Failure To Thrive, Difficulty Swallowing
+ 
+Major Surgical or Invasive Procedure:
+none 
+
+ 
+History of Present Illness:
+___ hx HTN, HLD, DM, CKD (Cr 1.3 on last discharge), prior R MCA 
+stroke with L hemiparesis, nursing home resident, recently 
+transferred from ___ after presenting with slurred 
+speech, N/V and found to have acute L pontine stroke attributed 
+to small vessel disease in the setting of difficult to control 
+hypertension, admitted on Neurology ___ and discharge to 
+rehab, recently discharged, now presents with FTT and inability 
+to take POs.
+
+-In the ED, initial VS were: 98.0 67 137/78 19 100% RA.
+-ED labs were notable for: H/H 8.6/27.7. Normal LFTs. Chem7 
+moderately hemolyzed with K 5.8 (5 on green top), Cl 109, Bicarb 
+19, BUN/Cr ___. AG = 15. Normal coags.
+
+-CXR showed: IMPRESSION: Low lung volumes. No definite 
+pneumonia. 
+-Head CT showed:
+1. No evidence of acute territorial infarction or intracranial 
+hemorrhage. Please note that MRI is more sensitive for the 
+detection of acute stroke.
+2. Evolution of the previously visualized left pontine infarct. 
+Large chronic right MCA territory infarct.
+-EKG showed: None.
+
+Patient was given: 
+___ 23:42 IVF  NS ( 1000 mL ordered) 
+ 
+Transfer VS were: 98.1 66 156/88 16 100% RA. 
+
+When seen on the floor, patient is oriented and pleasant if a 
+bit soft spoken. She says that she was able to eat in the 
+hospital and at the rehab. Two days ago, she stopped being able 
+to eat. In particular, she swallows but the foods get caught in 
+her throat. She gags and coughs up the food. The day before this 
+happened, she was able to eat her modified diet without issue 
+she says. She denies change in her speech or her vision, or new 
+focal weakness. She denies fever, chills, HA, congestion, chest 
+pain, shortness of breath, abdominal pain. She does endorse 
+constipation. She does endorse burning with urination, but feels 
+that her frequency of urination has gone down. She feels weak in 
+"her whole body." 
+
+Though this was not elicited on floor interview, per ED nursing 
+documentation she had told them that, "her facility doesn't 
+usually take the time to assist her with eating and believed her 
+condition had changed." Per other ED documentation, she had 
+failed a S&S, which the patient endorses though she does not 
+state clearly when. Per the transfer documentation from the 
+facility, she was only brought here for "change in mental 
+status." Shortly after arrival to the floor she was given a 
+small amount of thickened liquid at her request, but per nursing 
+held this in her month, and with encouragement would not 
+swallow.   
+
+HCP was contacted at her request to the ED for update when 
+patient reached the floor, and added that she believed dysphagia 
+and SLP evaluations above happened ___, day of presentation 
+to ED. She noted that after last stroke, she had to come up from 
+___ to be with patient to encourage her to eat, and hired 
+someone to stay with her for similar reason. She also has 
+concerns about the ___ facility. Finally, she does not 
+want the patient to be on antidepressants bc she thinks these 
+have a paradoxical effect on the patient and make her less 
+responsive and more confused. 
+ 
+Past Medical History:
+L Pontine stroke ___ 
+R MCA stroke ___ with left hemiplegia
+Hypertension
+Hyperlipidemia
+Diabetes
+CKD
+Depression
+ 
+Social History:
+___
+Family History:
+Mother and father with hypertension, aunt with breast cancer.
+ 
+Physical Exam:
+ADMISSION EXAM
+Vitals: 97.8 173/90 65 16 98%RA
+Gen: Elder, frail appearing lady, supine in bed, NAD 
+HEENT: NCAT. PERRLA. Difficult to assess EOMI as she'll stop 
+tracking and need to be redirected to track moving finger. L 
+sided facial droop. L sided tongue deviation. Thickened 
+secretions on the tongue. Poor dentition. Hirsuite. 
+CV: RRR, no r/g/m
+Chest: CTAB anterolaterally, no w/r/r
+GI: soft, NT, ND, BS+
+MSK:No synovitis.
+Skin: No jaundice.
+Neuro: AAOx3. L sided facial droop with L tongue deviation as 
+above. L sided hemiplegia only able to move her L toes slightly. 
+___ strength R ankle flexor/extensors. ___ strength RLE proximal 
+muscle groups. ___ strength RUE muscle groups. 
+Psych: Anxious, perhaps depressed affect 
+
+DISCHARGE EXAM
+-Vitals: 98.4F, HR 71, BP 113/66, RR 16, SpO2 96% on RA
+-General: sleeping comfortably but rouses easily, answers 
+questions appropriately in complete sentences 
+-HEENT: moist mucus membranes
+-Cardio: RRR, no murmur
+-Pulm: clear b/l, no wheeze
+-Abdomen: soft, nontender, nondistended, bladder not distended 
+or palpable 
+-Extremities: no pedal edema 
+-Neuro: left facial droop with left hemiplegia, slowed responses 
+but easy to understand and appropriate 
+ 
+Pertinent Results:
+-DISCHARGE LABS ___: Na 136, K 4.1, Cl 102, Cr 1.0, glucose 
+86
+-Urine culture: >100,000 E Coli 
+ 
+Brief Hospital Course:
+___ hx HTN, HLD, DM, CKD (Cr 1.3 on last discharge), prior R MCA 
+stroke with L hemiparesis, ___ resident, recently 
+transferred from ___ after presenting with slurred 
+speech, N/V and found to have acute L pontine stroke attributed 
+to small vessel disease in the setting of difficult to control 
+hypertension, admitted on Neurology ___ and discharge to 
+rehab, re-presents with FTT and inability to take POs.
+
+1. Dysphagia
+-Unclear if there is a true problem, volitional component, 
+manifestation of encephalopathy, or whether the rehab was simply 
+not giving her enough attention at meals. Neurologic exam 
+appears stable compared to recent discharge from Neurology. She 
+has been quite lethargic at times and waxing/waning, which are 
+likely a
+manifestation of encephalopathy. Per SLP she is at baseline and 
+continue thin liquids/puree solids and 1:1 assist with all 
+meals. 
+
+2. Dehydration, hypernatremia, Metabolic Acidosis, ___ on CKD
+-Creatinine 2.2 due to poor PO intake and poor free water intake 
+with contribution from ACE inhibitor and diuretic, which 
+improved to Creatinine 1.0 with rehydration, holding ACEi, and 
+discontinuing Lasix.  Unclear indication for Furosemide (?HTN), 
+but in setting of multiple admissions for ___ and dehydration 
+and it has been discontinued. Resumed ACEi at discharge and 
+repeat BMP in 1 week. 
+
+3. E Coli UTI 
+-Patient received IV Ceftriaxone ___ and transitioned to PO 
+cephalexin ___ through ___ to complete course of antibiotics.
+
+4. Intermittent lethargy/metabolic encephalopathy
+-She has waxing/waning levels of consciousness with similar 
+reports at rehab facility likely multifactorial in the setting 
+of the above problems.  Patient reports lethargy due to 
+clonidine, so clonidine has been decreased from 0.2mg TID to 
+0.1mg TID.  Recommend further titrating off if this seems to 
+improve mental status. 
+
+5. Failure to thrive
+-Likely multifactorial as above. Continue to treat underlying 
+medical issues. Patient must have 1:1 assistance with all meals. 
+
+
+6. HTN
+-Blood pressures very labile, which has been an issue during 
+last admission as well. Lasix discontinued due to ___ and volume 
+depletion.  Due to reports of clonidine-induced lethargy the 
+dose was decreased from 0.2mg TID to 0.1mg TID; advise tapering 
+further if this helps with mentation.  Continue hydralazine, 
+clonidine, labetalol, lisinopril, and IMDUR; continue frequent 
+blood pressure monitoring and adjust doses as needed. 
+
+7. Urinary retention 
+-Patient with one episode of urinary retention.  Monitor for 
+bladder distention and decreased urine output.  Bladder scan (if 
+possible) and straight cath with urinary retention >600mL.
+
+Chronic Medical Problems
+1. HLD: continue statin
+2. DM: Recent HbA1c was 5. 
+3. Gout: Holding allopurinol.
+4. Anemia: stable, monitor (thrombocytopenia resolved)
+
+Patient's HCP ___ updated.
+>30 minutes spent on DC planning 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+2. Atorvastatin 80 mg PO QPM 
+3. CloNIDine 0.2 mg PO Q8H 
+4. Clopidogrel 75 mg PO DAILY 
+5. HydrALAZINE 50 mg PO Q6H 
+6. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+7. Labetalol 300 mg PO Q6H 
+8. LevETIRAcetam 750 mg PO BID 
+9. Allopurinol ___ mg PO DAILY 
+10. Furosemide 80 mg PO DAILY 
+11. Lisinopril 40 mg PO DAILY 
+12. Ondansetron 4 mg PO Q8H:PRN nausea 
+13. Potassium Chloride 40 mEq PO DAILY 
+14. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+15. megestrol 400 mg/10 mL (10 mL) oral DAILY 
+16. Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH ON THE ___. 
+17. Senna 8.6 mg PO QHS 
+18. Multivitamins 1 TAB PO DAILY 
+19. Fleet Enema ___AILY:PRN constipation 
+20. Nystop (nystatin) 100,000 unit/gram topical BID 
+21. calamine-zinc oxide ___ % topical DAILY:PRN 
+
+ 
+Discharge Medications:
+1.  Cephalexin 250 mg PO Q6H Duration: 2 Days 
+Take for 2 days through ___  
+2.  Docusate Sodium 100 mg PO BID  
+3.  CloNIDine 0.1 mg PO Q8H  
+4.  HydrALAZINE 37.5 mg PO Q6H  
+5.  Labetalol 200 mg PO Q6H  
+6.  Lisinopril 20 mg PO DAILY  
+7.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+8.  Allopurinol ___ mg PO DAILY  
+9.  Atorvastatin 80 mg PO QPM  
+10.  calamine-zinc oxide ___ % topical DAILY:PRN  
+11.  Clopidogrel 75 mg PO DAILY  
+12.  Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH ON THE ___.  
+13.  Fleet Enema ___AILY:PRN constipation  
+14.  Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY  
+15.  LevETIRAcetam 750 mg PO BID  
+16.  megestrol 400 mg/10 mL (10 mL) oral DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Nystop (nystatin) 100,000 unit/gram topical BID  
+19.  Ondansetron 4 mg PO Q8H:PRN nausea  
+20.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+21.  Senna 8.6 mg PO QHS  
+22.Outpatient Lab Work
+BMP in one week for ___ (ICD10 N17.9)
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+UTI, ___, dehydration
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+You were admitted and treated for a bladder infection, 
+dehydration, kidney injury, and trouble swallowing.  Your 
+medications have been adjusted to prevent dehydration and kidney 
+injury in the future.  You will complete a course of antibiotics 
+for your infection at discharge.  I also adjusted your 
+hypertension medications to reduce sleepiness. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18580572-DS-11 | hadm_id=28523345
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+transfer for L pontine stroke
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___ year old right handed woman with history of HTN,
+HLD, DM, CKD (b/l Cr 1.2), prior R MCA stroke with resultant L
+hemiparesis, ___ resident, who presented to ___
+with slurred speech, nausea, and vomiting, and is now 
+transferred
+upon discovery of acute left pontine stroke.
+
+On history with the patient, she endorses a few days of 
+gradually
+worsening difficulty speaking, leading to other people being
+unable to understand her. She also developed severe nausea, 
+which
+has now improved. She provides no other specific history but to
+me denies double vision, blurred vision, dysphagia, difficulty
+comprehending or finding words (merely speaking them), new
+weakness, numbness or tingling.
+
+On review of transfer documents, per the HPI:
+"The patient states that her symptoms started last night with
+generalized and progressive weakness associated with nausea but
+no vomiting. She endorses mildly decreased PO intake. Otherwise,
+there is no other complaint. She denies fevers, chills, dyspnea,
+headache, hemoptysis, cough, or abdominal pain. In the ED, VS
+were 97.9, 60, 10, 130/70, 98% RA. Exam showed blunted affect
+with slow speech, clear lungs, normal cardiac and abdominal 
+exam,
+and left hemiparesis. Labs showed sodium of 154, Cr 2.66,
+hemoglobin 8.8, troponin 0.07."
+
+In ED, she underwent head CT which showed chronic large right 
+MCA
+infarct, otherwise no acute findings. She was admitted for 
+workup
+of her symptoms and underwent MRI/MRA head, which showed a left
+pontine infarct, MRA showing no flow in b/l ACAs, and 50%
+stenosis of distal L PCA and atherosclerotic irregularity of the
+basilar artery. MRA neck showed 50% stenosis of left carotid, 
+but
+limited exam of right carotid artery. She was evaluated with a
+TTE without bubble study which showed LVH with preserved 
+systolic
+function. She was treated with permissive hypertension and
+underwent Swallow evaluation which cleared her for moist pureed
+diet with honey thickened liquids.
+
+In terms of her other medical problems, per discharge summary:
+- Hypernatremia to 154- felt secondary to poor PO intake and
+treated with D5W infusions. Na was 146 upon transfer.
+- ___ with Cr at 2.66- last Cr was 1.18 in ___, but no recent
+for comparison. Suspected secondary to dehydration or
+post-obstructive uropathy given her retention, and was straight
+cathed prn. Her lisinopril and furosemide were held. Cr was 2.74
+at transfer.
+- Troponin elevation to 0.07- without EKG changes, this was
+attributed to acute stroke and were trended, peaking at 0.081 
+and
+down to 0.058 prior to transfer.
+
+*******
+Later history taken from niece and power of attorney ___:
+She spoke to pt earlier this week (___) and her speech had
+been completely normal and at baseline. Then the next day, her
+speech was slow and slurred over the phone. She requested the
+facility bring her for evaluation but they apparently delayed
+this until ___. ___ also expresses concerns that the
+staff neglect her and are reluctant to continue providing
+therapeutic services.
+
+ 
+Past Medical History:
+R MCA stroke ___ with left hemiplegia
+Hypertension
+Diabetes
+CKD
+Depression
+
+ 
+Social History:
+___
+Family History:
+Mother and father with hypertension, aunt with breast cancer.
+ 
+Physical Exam:
+ADMISSION Physical Exam:
+Vitals: BP 173/91 HR 70 RR 10 spO2 100% RA
+General: awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: supple, no nuchal rigidity
+Pulmonary: breathing comfortably on room air
+Cardiac: RRR, nl
+Abdomen: soft, NT/ND
+Extremities: warm, well perfused
+Skin: no rashes or lesions noted
+
+Neurologic:
+
+-Mental Status: alert, oriented to hospital in ___, and 
+to
+the current president. Limited able to relate history. Can name
+___ until ___, then stops. Language is fluent with intact
+repetition and comprehension. Speech is moderately dysarthric 
+and
+slow. There were no paraphasic errors. Pt was able to name both
+high and low frequency objects. Able to follow both midline and
+appendicular commands, though with motor and cognitive
+impersistence.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI, b/l
+extinguishing endgaze nystagmus. Left hemianopsia.
+V: Facial sensation intact to light touch.
+VII: Mild left facial weakness.
+VIII: Hearing intact grossly.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline, unable to test strength..
+
+-Motor: Spastic tone on LUE, with flexion contracture of
+shoulder, elbow and wrist. Less degree of spasticity in the LLE.
+Normal tone and bulk on R. No asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc 
+L  0    0   0   0   0  0  0  0   0    0  0     0     
+R  4    5-  ___  ___-  5-   3  4     5    
+
+-Sensory: endorses sensation to light touch and pinprick
+bilaterally, however testing is unreliable as pt states she can
+feel pinprick even when I hover the neurotip over her.
+Inconsistent testing for extinction (at times extinguishes on 
+the
+L, others on R).
+
+-DTRs:
+  ___ Tri ___ Pat Ach
+L  3+ 3+   3+   3+  4
+R  3  3    3    3   4
+Plantar response was extensor on L and flexor on R.
+
+-Coordination: mild dysmetria on FNF on R.
+
+================================================
+DISCHARGE PHYSICAL EXAMINATION: 
+Vitals: Tm/c: 98.2/98.2 BP: ___ HR: 59-66 RR: ___ 
+SaO2: 97-100% RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM
+Pulmonary: Breathing comfortably, no tachypnea nor increased WOB
+Cardiac: skin warm, well-perfused. 
+Abdomen: soft, ND
+Extremities: Symmetric, no edema. 
+
+Neurologic:
+
+-Mental Status: Alert, oriented to self, hospital in ___ 
+States date is the day prior, but is otherwise correct. Abulic, 
+slowed processing speed.  Unable to name ___. Follows simple 
+appendicular commands. 
+
+-Cranial Nerves:  L field cut, L facial droop, mod dysarthria. 
+
+-Motor:
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc 
+L  0    0   0   0   0  0  0  0   0    0  0     0     
+R  4    4+  ___  ___   4+   3  4     5  
+
+-Sensory: intact to LT R hemibody. 
+
+ 
+Pertinent Results:
+___ 12:15AM BLOOD WBC-5.0 RBC-2.86* Hgb-9.1* Hct-29.0* 
+MCV-101* MCH-31.8 MCHC-31.4* RDW-13.3 RDWSD-49.1* Plt ___
+___ 05:05AM BLOOD WBC-4.6 RBC-2.50* Hgb-8.0* Hct-25.0* 
+MCV-100* MCH-32.0 MCHC-32.0 RDW-13.6 RDWSD-49.3* Plt ___
+___ 12:15AM BLOOD ___ PTT-36.1 ___
+___ 05:05AM BLOOD ___ PTT-51.9* ___
+___ 12:15AM BLOOD Glucose-129* UreaN-51* Creat-2.5* Na-147* 
+K-3.6 Cl-109* HCO3-26 AnGap-16
+___ 05:05AM BLOOD Glucose-102* UreaN-25* Creat-1.3* Na-145 
+K-3.3 Cl-110* HCO3-23 AnGap-15
+___ 12:15AM BLOOD ALT-24 AST-14 AlkPhos-98 TotBili-0.6
+___ 12:15AM BLOOD CK-MB-2 cTropnT-0.05* proBNP-115
+___ 12:15AM BLOOD %HbA1c-5.1 eAG-100
+___ 12:15AM BLOOD Triglyc-77 HDL-48 CHOL/HD-2.5 LDLcalc-57
+___ 02:38PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR
+___ 02:38PM URINE RBC-2 WBC-2 Bacteri-NONE Yeast-NONE 
+Epi-<1
+
+Imaging: 
+MRI/MRA brain ___:
+FINDINGS
+Within the left paramedian pons, as seen on image 58 and 59, 
+series 2, there is an area of restricted diffusion that is also 
+FLAIR hyperintense.  The abnormality measures up to 10 mm in 
+diameter.  The finding is consistent with a late acute to early 
+subacute infarct.
+      
+There is re- demonstration of the large, chronic right middle 
+cerebral artery territory infarct with associated porencephalic 
+dilatation of the right lateral ventricle and considerable right 
+cerebral sulcal dilatation.  There is also moderate extent of 
+high T2 signal in the periventricular white matter of the left 
+cerebral hemisphere, nonspecific in etiology, but probably 
+chronic small vessel infarction.
+       
+There is  1-2 mm rightward subfalcine herniation, corresponding 
+to the extensive malacic change seen within the right cerebral 
+hemisphere, noted above.
+      
+The principal vascular flow patterns are identified, aside from 
+the anterior cerebral arteries- please see MRA below.  There is 
+mild bilateral ethmoid sinus mucosal thickening, compatible with 
+an ongoing inflammatory process.
+
+MR angiography of the circle of ___ and its tributaries 
+discloses no visible arterial flow within either anterior 
+cerebral artery. There is also a reduced flow within the right 
+middle cerebral artery, presumably a consequence of the large 
+chronic infarct and moderate (50%) stenosis of the the distal M1 
+segment of the right middle cerebral artery.  Please see image 
+9, series 100.  There is also mild to moderate, presumed 
+atherosclerotic irregularity of the basilar artery.  There is a 
+moderate (50%) stenosis of the distal P1 distal P2 segments of 
+the left posterior cerebral artery.  Please see images ___ and ___, 
+series 101.  There is no sign for the presence of an aneurysm or 
+other vascular malformation within the limitations of this study 
+technique.
+
+MRA neck ___
+FINDINGS
+Unfortunately, there is considerable motion artifact degrading 
+the 2D time-of-flight sequence, particularly at the aortic arch 
+and origins of the great vessels, as well as the vertebral 
+arteries.   The better quality 3D study  has very limited 
+geographic coverage.  Within this significant interpretive 
+limitation, there appears to be a mild (___) stenosis of the 
+origin of the left internal carotid artery.  Please see image 
+14, series 103.  The right common carotid bifurcation likely 
+lies outside the field of coverage of the 3D study.  No gross 
+stenosis is seen in this location on the motion-degraded 2D 
+study.  Both vertebral arteries are tortuous and their origins 
+are poorly shown on the motion-degraded 2D time-of-flight study.
+
+TTE ___
+Severe symmetric left ventricular hypertrophy with preserved 
+systolic function. Doppler evidence of elevated left sided 
+filling pressures. Normal valvular function.
+
+Carotid Doppler ___: ___ mild plaque with ___ stenosis 
+(likely low end of this range). LICA normal. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted with L pontine perforator artery 
+territory infarct. Given distribution and uncontrolled 
+hypertension, this was attributed to small vessel disease. She 
+was continued on clopidogrel. 
+She had a prerenal ___ of 2.7 from baseline 1.2 on transfer from 
+___, which resolved with IVF. Cr 1.3 on day of discharge. 
+
+Her hypertension was difficult to control, and on her home 
+regimen it was noted that she was always >200 systolic prior to 
+med administration and would drop systolic by over 100 points 
+one hour after medications. Several of her medications were 
+given more frequently in lower doses with goal of obtaining 
+steady antihypertensive effect. 
+She was evaluated by SLP and cleared for a dysphagia diet as 
+described below.
+
+24 hr interval events prior to discharge: 
+No overnight events. Ms. ___ is feeling well this am. 
+ 
+===========================
+Transitional Issues: 
+[ ] advance diet as tolerated
+[ ] continue ___
+[ ] continue antihypertensive titration with an eye to giving 
+more frequent, smaller doses to achieve more steady BP. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. HydrALAZINE 100 mg PO BID 
+2. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Labetalol 400 mg PO BID 
+5. Furosemide 80 mg PO DAILY 
+6. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+7. Allopurinol ___ mg PO DAILY 
+8. Atorvastatin 80 mg PO QPM 
+9. CloNIDine 0.3 mg PO BID 
+10. Clopidogrel 75 mg PO DAILY 
+11. Docusate Sodium 100 mg PO BID 
+12. LevETIRAcetam 750 mg PO BID 
+13. Fleet Enema ___AILY:PRN constipation 
+14. nystatin 100,000 unit/gram topical BID 
+15. Ondansetron 4 mg PO Q8H:PRN nausea 
+16. Potassium Chloride 40 mEq PO DAILY 
+
+ 
+Discharge Medications:
+1.  FLUoxetine 10 mg PO DAILY  
+2.  Megestrol Acetate 400 mg PO BID  
+3.  CloNIDine 0.2 mg PO Q8H  
+4.  HydrALAZINE 50 mg PO Q6H  
+5.  Labetalol 300 mg PO Q6H  
+6.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+7.  Allopurinol ___ mg PO DAILY  
+8.  Atorvastatin 80 mg PO QPM  
+9.  Clopidogrel 75 mg PO DAILY  
+10.  Docusate Sodium 100 mg PO BID  
+11.  Fleet Enema ___AILY:PRN constipation  
+12.  Furosemide 80 mg PO DAILY  
+13.  Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY  
+14.  LevETIRAcetam 750 mg PO BID  
+15.  Lisinopril 40 mg PO DAILY  
+16.  nystatin 100,000 unit/gram topical BID  
+17.  Ondansetron 4 mg PO Q8H:PRN nausea  
+18.  Potassium Chloride 40 mEq PO DAILY 
+Hold for K >  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute ischemic stroke
+Medically refractory hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were hospitalized due to symptoms of slurred speech and 
+right-sided weakness resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+high blood pressure
+high cholesterol
+
+We are changing your medications as follows:
+We adjusted your blood pressure medications. 
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

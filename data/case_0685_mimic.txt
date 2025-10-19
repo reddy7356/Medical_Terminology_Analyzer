@@ -1,0 +1,4540 @@
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-32 | hadm_id=20157792
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+___ - cardiac catheterization
+ 
+History of Present Illness:
+___ w/ PMHx of bladder cancer and gallbladder cancer status post
+urostomy, HFrEF (EF ___, T2DM presenting with
+increasing shortness of breath and decreased urine output. Of
+note the patient was recently referred to the ___ after
+presenting to clinic for an appointment w/ his gerentologist and
+complaining of a couple of weeks of worsening dyspnea on
+exertion. He was seen in the CDAC by Dr. ___. While there he
+had a TTE showing a decreased EF of ___ from prior and
+worsened mitral regurgitation. He also had a VQ scan due to an
+elevated D-Dimer which was read as low likelihood for recent PE.
+He was discharged with plans to follow up with Dr. ___ in
+clinic in early ___ and to have a nuclear stress test done
+to evaluate for ischemic disease.
+
+Since his discharge a few days ago, the patient reports
+persistent dyspnea on exertion and was concerned by low UOP. He
+has an ostomy bag as a result of his history of bladder cancer
+and says he usually has anywhere from 800cc-1.5L of output daily
+but for the last couple of days has had only about 100cc each
+day. He denied any recent CP, palpitations, worsening ___ edema,
+weight gain, orthopnea, or PND.
+
+In the ED...
+- Initial vitals: 97.6 82 110/61 18 98% RA 
+- EKG: NSR, PVCs, LBBB
+- Labs/studies notable for:
+-H/H 12.4/38.2, WBC 9.6, plt 240
+-Na 134, BUN 47, Cr 1.9 (BUN/Cr 49/2.1 on repeat after diuresis)
+-CK-MB 5, Trop-T 0.03
+-proBNP 2773
+
+CXR: 
+Slight interval worsening of bilateral ill-defined airspace
+opacities which may represent an infectious process, in the
+appropriate clinical setting. Alternatively, considering the
+setting of cardiomegaly, this may represent pulmonary edema. 
+
+- Patient was given:
+___ 14:25 IV Furosemide 40 mg 
+
+- Vitals on transfer: 97.6 82 110/61 18 98% RA 
+
+On the floor, the patient was sitting comfortably on the edge of
+his bed during interview. He reports stable dyspnea on exertion
+but was encouraged by the uptick in his UOP after getting a dose
+of IV Lasix in the ED. He denied any CP, palpitations, SOB at
+rest, abdominal pain, n/v/d, or constipation.
+
+ 
+Past Medical History:
+Hx of BLADDER CANCER - now with bladder ostomy
+History of gallbladder carcinoma status post cholecystectomy
+Hearing loss
+Hypercholesterolemia
+Hypertension
+Left Bell's palsy
+Obesity
+Osteoarthritis
+Status post carotid endarterectomy
+Chronic kidney disease
+Coronary artery disease 
+ 
+Social History:
+___
+Family History:
+Per OMR:
+-Mother: died of CAD at ___
+-Father: died of dementia at ___
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+VS: 97.5 99/69 79 18 97 Ra  
+GENERAL: Pleasant, obese elderly M in NAD
+HEENT: NCAT, MMM
+NECK: JVP just above clavicle when sitting upright
+CV: RRR, holosystolic murmur loudest at apex
+PULM: Diminished throughout, crackles in bilateral bases
+GI: Obese, soft, NT/ND, BS+, ostomy bag in place
+EXTREMITIES: Mild LLE edema to shins bilaterally
+PULSES: 2+ radial pulses bilaterally
+NEURO: Grossly intact
+
+DISCHARGE EXAM:
+===============
+VS:  
+24 HR Data (last updated ___ @ 916)
+    Temp: 97.6 (Tm 98.1), BP: 111/73 (97-133/55-79), HR: 74
+(58-80), RR: 18 (___), O2 sat: 95% (94-99), O2 delivery: Ra  
+Fluid Balance (last updated ___ @ 409) 
+  Last 8 hours  Total cumulative -420ml
+    IN: Total 0ml
+    OUT:  Total 420ml, Urine Amt 420ml
+  Last 24 hours  Total cumulative 220ml
+    IN: Total 1340ml, PO Amt 1340ml
+    OUT:  Total 1120ml, Urine Amt 1120ml    
+TELE:  NSR with very frequent PVCs
+GENERAL: Pleasant, obese elderly man sitting comfortably in 
+chair
+in NAD
+HEENT: NCAT, MMM
+NECK: Supple, JVP at ~10cm 
+CV: Normal rate, irregular rhythm with frequent premature beats.
+Holosystolic murmur loudest at apex.
+PULM: Diminished throughout. No crackles, wheezes, or rhonchi.
+GI: Obese, soft, NT/ND.
+EXTREMITIES: Lukewarm. Legs are tense with 1+ pitting edema.
+Punctate non-confluent erythematous rash on right shin ~7x7cm,
+without clear demarcated border; outlined with skin marker,
+receding from outline.
+PULSES: 2+ radial pulses bilaterally
+NEURO: Grossly intact
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 11:00AM   WBC-9.6 RBC-4.08* HGB-12.4* HCT-38.2* MCV-94 
+MCH-30.4 MCHC-32.5 RDW-14.3 RDWSD-48.2*
+___ 11:00AM   PLT COUNT-240
+___ 11:00AM   NEUTS-75.9* LYMPHS-13.7* MONOS-8.4 EOS-0.8* 
+BASOS-0.4 IM ___ AbsNeut-7.25* AbsLymp-1.31 AbsMono-0.80 
+AbsEos-0.08 AbsBaso-0.04
+___ 11:00AM   GLUCOSE-169* UREA N-47* CREAT-1.9* 
+SODIUM-134* POTASSIUM-4.7 CHLORIDE-96 TOTAL CO2-22 ANION GAP-16
+___ 11:00AM   proBNP-2773*
+___ 12:46PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-MOD*
+___ 12:46PM URINE  RBC-3* WBC-11* BACTERIA-MOD* YEAST-NONE 
+EPI-0
+___ 06:55PM   CK-MB-5 cTropnT-0.03*
+___ 08:54PM   CALCIUM-9.4 PHOSPHATE-5.3* MAGNESIUM-2.1
+
+PERTINENT LABS:
+===============
+___ 11:00AM BLOOD proBNP-2773*
+___ 06:55PM BLOOD CK-MB-5 cTropnT-0.03*
+___ 12:43AM BLOOD CK-MB-4 cTropnT-0.02*
+___ 07:30AM BLOOD TSH-1.8
+___ 01:31PM BLOOD Lactate-1.5
+
+DISCHARGE LABS:
+===============
+___ 06:45AM BLOOD WBC-8.5 RBC-3.89* Hgb-11.9* Hct-36.3* 
+MCV-93 MCH-30.6 MCHC-32.8 RDW-14.3 RDWSD-48.6* Plt ___
+___ 06:45AM BLOOD Glucose-158* UreaN-59* Creat-2.0* Na-139 
+K-3.9 Cl-96 HCO3-27 AnGap-16
+___ 06:45AM BLOOD Calcium-9.8 Phos-4.6* Mg-2.3
+
+IMAGING AND DIAGNOSTICS:
+========================
+CHEST (PA & LAT)Study Date of ___ 11:55 AM
+IMPRESSION: 
+Slight interval worsening of bilateral ill-defined airspace 
+opacities which
+may represent an infectious process, in the appropriate clinical 
+setting. 
+Alternatively, considering the setting of cardiomegaly, this may 
+represent
+pulmonary edema.
+
+Cardiac Catheterization/Endovascular Physician ___ ___
+Findings
+• Elevated left and right heart filling pressures.
+• Mild coronary coronary artery disease.
+
+UNILAT LOWER EXT VEINS RIGHTStudy Date of ___ 3:01 ___
+IMPRESSION: 
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+
+Cardiac Magnetic Resonance Report ___
+CONCLUSION/IMPRESSION:
+The left atrium is mildly dilated. The right atrium is mildly 
+dilated.
+There is normal left ventricular wall thickness The left 
+ventricular enddiastolic
+dimension was mildly increased with mildly increased 
+enddiastolic
+dimension index and mildly increased left ventricular 
+enddiastolic
+volume with mildly increased end-diastolic volume index.
+There is moderate global left ventricular hypokinesis with focal
+akinesis of the mid and basal inferior wall and the basal 
+inferolateral
+wall, with moderately depressed ejection fraction. Early 
+gadolinium
+enhancement images showed regional enhancement as described 
+below. There is transmural early and late left ventricular 
+gadolinium
+enhancement in the basal and mid inferolateral wall and the 
+basal
+anterolateral wall, most consistent with myocardial infarction. 
+Normal
+origin of the right and left main coronary arteries. Normal 
+aortic sinus
+diameter with normal ascending aorta. Normal aortic arch 
+diameter
+with normal descending thoracic aorta. Normal abdominal aorta
+diameter. Normal pulmonary artery diameter. The aortic valve has 
+3
+leaflets. There is no aortic valve stenosis. There is no 
+pericardial
+effusion. Pericardial thickness is normal.
+IMPRESSION: Poor image quality due to frequent ectopy. Mildly
+increased left ventricular cavity size with moderate systolic
+dysfunction, with focal akinesis of the mid and basal inferior 
+wall and
+the basal inferolateral wall and hypokinesis of the remaining 
+segments.
+Transmural early and late gadolinium enhancement of the mid and
+basal inferoalateral wall and the basal anterolateral wall.
+
+MICROBIOLOGY:
+=============
+___ 12:46 pm URINE      UROSTOMY. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed skin/genital flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      GRAM POSITIVE BACTERIA.    >100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+P - Patient summary statement for admission
+==================================
+___ w/ PMHx of bladder cancer and gallbladder cancer status post 
+urostomy, HFrEF (EF ___, T2DM presenting with 
+increasing shortness of breath and decreased urine output.
+
+A - Acute medical/surgical issues addressed
+==================================
+#Acute on chronic systolic heart failure
+#Dyspnea on exertion 
+Patient presented with worsening dyspnea most likely secondary 
+to acute on chronic systolic heart failure. He was seen in the 
+CDAC two days prior to admission during which he had TTE showing 
+reduced EF w/ regional WMA. Admission chest x ray demonstrated 
+interval worsening in pulmonary and he has cool extremities. 
+Patient reported good dietary and medication adherence. No 
+ongoing chest pain, EKG unchanged, and cardiac enzymes only 
+mildly elevated. Left heart catheterization was without 
+significantly worsening ischemia. Patient had significant 
+ventricular ectopy on telemetry. Therefore, it is possible that 
+worsening systolic function is secondary to frequent PVCs. 
+Cardiac MRI was performed but the result was pending at the time 
+of discharge. He was seen by electrophysiology and started on 
+amiodarone. For management, he was diuresed with IV Lasix and 
+transitioned to PO torsemide. For afterload, patient was started 
+on hydralazine and isordil, lisinopril was held in setting of 
+___ as below. For NHBK, beta blocker initially held given cool 
+extremities and concern for cardiogenic shock, but was restarted 
+at a lower dose given frequent ectopy and improvement in 
+perfusion.
+
+#Ventricular ectopy
+Patient had significant ventricular ectopy on telemetry, 
+including up to 10 beat runs of VT. Patient was hemodynamically 
+stable and asymptomatic throughout hospitalization. As above, it 
+is possible that PVC burden is contributing to worsening 
+cardiomyopathy. Patient was started on amiodarone per EP 
+recommendations.
+
+#Decreasing urine output
+#Acute on chronic kidney disease
+Patient presented from home w/ decreased UOP over the last few 
+days after recently starting PO Lasix. Likely pre-renal from 
+heart failure exacerbation. Cr on admission was 1.9. Creatinine 
+briefly improved to 1.4, but increased again likely complicated 
+by contrast-induced nephropathy after coronary angiography. Cr 
+on discharge was 2.0. Home lisinopril was held on discharge 
+given ___.
+
+#Borderline UA: Patient w/ altered anatomy due to history of 
+cancer and ostomy in place. No systemic signs or symptoms of 
+infection. Urine culture showed pan-sensitive E coli. Given that 
+patient was asymptomatic, decision was made to defer 
+antibiotics.
+
+#RLE rash
+Patient had nonconfluent punctate rash on his RLE, not 
+consistent with cellulitis. U/S negative for DVT. Potentially 
+contact dermatitis, as rash is near sock line. Rash improved 
+without intervention.
+
+C - Chronic issues pertinent to admission
+==================================
+#Hx of Carotid Stenosis, s/p R carotid endarterectomy
+Increased atorvastatin dose
+
+#HLD:
+Increased atorvastatin
+
+#HTN:
+As above, patient was started on hydralazine and isordil for BP 
+management. Lisinopril was held on discharge in the setting of 
+___.
+
+#T2DM:
+Managed with insulin sliding scale while inpatient
+
+#Bladder cancer status post prostatectomy with urostomy
+Stable. Followed by outpatient urology
+
+T - Transitional Issues
+==================================
+[ ] Patient was started on amiodarone 400mg daily for 
+ventricular ectopy with a plan for a 1 week load. His dose will 
+be decreased to 200mg daily beginning on ___.
+
+[ ] Cardiac MRI was performed with results still pending at 
+discharge.
+
+[ ] Lisinopril was held on discharge given ___. Patient should 
+have repeat Chem7 on ___ with his PCP. Pending improvement in 
+renal function, the decision can be made to restart Lisinopril.
+
+[ ] Patient was discharged on a new home diuretic dose. He 
+should have repeat Chem7 and weight on ___ with his PCP. 
+Diuretic dose can be adjusted as needed pending renal function 
+and weight.
+
+Discharge weight: 220lb
+Discharge Cr: 2.0
+
+CODE: Full (presumed)
+CONTACT: HCP: ___ (daughter-HCP) - ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Lisinopril 2.5 mg PO DAILY 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Aspirin 81 mg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. Cyanocobalamin 250 mcg PO DAILY 
+7. Metoprolol Succinate XL 37.5 mg PO DAILY 
+8. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amiodarone 400 mg PO DAILY Duration: 4 Doses 
+RX *amiodarone 400 mg 1 (One) tablet(s) by mouth once a day Disp 
+#*4 Tablet Refills:*0 
+2.  Amiodarone 200 mg PO DAILY 
+Start taking this medication on ___ 
+RX *amiodarone 200 mg 1 (One) tablet(s) by mouth once a day Disp 
+#*21 Tablet Refills:*0 
+3.  HydrALAZINE 20 mg PO TID 
+RX *hydralazine 10 mg 2 (Two) tablet(s) by mouth three times a 
+day Disp #*180 Tablet Refills:*0 
+4.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 (One) tablet(s) by mouth once 
+a day Disp #*30 Tablet Refills:*0 
+5.  Torsemide 60 mg PO DAILY 
+RX *torsemide 20 mg 3 (Three) tablet(s) by mouth once a day Disp 
+#*90 Tablet Refills:*0 
+6.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 (One) tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*0 
+7.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 (One) tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0 
+8.  Aspirin 81 mg PO DAILY  
+9.  Cyanocobalamin 250 mcg PO DAILY  
+10.  MetFORMIN (Glucophage) 500 mg PO BID  
+11.  Vitamin D 1000 UNIT PO DAILY  
+12. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until talking to your primary care 
+doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+-Acute decompensated systolic heart failure
+-Non-ischemic cardiomyopathy
+-Ventricular ectopy
+-___ on CKD
+
+SECONDARY DIAGNOSES:
+-HLD
+-HTN
+-Type II diabetes mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+-You were admitted to the hospital because you were feeling 
+short of breath. 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-You were admitted to the hospital because you had been feeling 
+short of breath and you were found to have fluid on your lungs. 
+This was felt to be due to a condition called heart failure, 
+where your heart does not pump hard enough and fluid backs up 
+into your lungs. You were given a diuretic medication through 
+the IV to help get the fluid out.
+-An ultrasound of your heart (echocardiogram) showed that the 
+pumping function of your heart had decreased.
+-You had a cardiac catheterization that showed the blood vessels 
+of your heart are not significantly blocked.
+-You had an MRI to look at the structure of your heart.
+-You were started on new medications called hydralazine and 
+isosorbide mononitrate to help control your blood pressure.
+-The heart monitor showed that you had a lot of extra premature 
+beats. You were started on a new medication called amiodarone to 
+help control the extra beats.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+-Please take your medications as listed in discharge summary and 
+follow up at the listed appointments. 
+- Your weight at discharge is 220 pounds. Please weigh yourself 
+today at home and use this as your new baseline.
+-Weigh yourself every morning, call your primary doctor or your 
+cardiologist if your weight goes up more than 3 lbs in one day 
+or 5lbs in one week.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-31 | hadm_id=20830200
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of CAD, CKD (baseline Cr 1.2-1.3), bladder 
+cancer s/p ileal conduit/urostomy, gallbladder carcinoma s/p 
+cholecystectomy and partial hepatectomy, recurrent E. coli UTIs 
+who presents s/p fall with productive cough and altered mental 
+status.
+
+Patient notes cough for last two weeks, but was overall feeling 
+well. Then 2 days ago noticed significant global weakness, found 
+it hard to get up from sitting. Was sitting on the floor and 
+tried to get up to his bed and was unable to, rolled sideways in 
+a dresser and hit his head. He reports that he feels generalized 
+fatigue when he has infections, especially with his previous 
+UTIs. He was reportedly altered when he arrived in the emergency 
+room. 
+
+In the ED: 
+- Initial vitals were 99.0 94 141/93 18 96% RA 227
+- Exam notable for: altered mental status, diffuse rhonchi on 
+auscultation
+- Imaging includes: NCHCT with no intracranial process, left 
+paranasal sinus disease. CT C-Spine with no acute fx, multilevel 
+degenerative changes most severe at C5-6. CXR showed increased 
+interstitial markings consistent with chronic abnormality vs 
+atypical infection vs edema. 
+- Labs notable for: WBC 8.0 with 76% PMNs. Creat 1.5 (baseline 
+1.2-1.3). FluAPCR positive. UA with 77 WBCs, mod leuks, neg 
+nitrites, mild proteinuria. 
+- Patient given: Ceftriaxone 1gm, tamiflu
+
+On the floor,  the patient is alert and oriented, conversant and 
+able to relay the details of his fall. He denies fevers, chills, 
+shortness of breath, chest pain, nausea, vomiting, diarrhea, or 
+change in his urine appearance or quantity. He reports taking 
+good PO throughout. He reports only a cough for last ___s the fatigue for two days. 
+
+ 
+Past Medical History:
+Coronary artery disease - ___ cath with right dominant system. 
+The LMCA was patent. The LAD
+revealed mid 40%, DIAG 50% and diffuse distal distal disease in
+the large septal. The LCx with no significant disease. The RCA
+with mid 20% stenosis.  
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit 
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___ 
+Glaucoma
+Osteopenia
+Recurrent UTIs and bacteremias: MRSA, Enterococcus, Pan 
+sensitive E coli, Pan sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+Per OMR:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+Admission exam: 
+VITALS:  98.7 PO 105 / 71 92 26 94 ra 
+GENERAL: Alert, oriented x3, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, PERRL
+CARDIOVASCULAR: Regular rate and rhythm, normal S1 + S2, no 
+murmurs, rubs, gallops  
+LUNGS: breathing comfortably on room air, R lung with mild 
+wheezing and basilar crackles, L lung is clear to auscultation. 
+ABDOMEN: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding. urostomy bag is 
+present, fillied with clear yellow urine, no erythema or 
+evidence of infection  
+GU: urostomy bag 
+EXTREMITIES: Warm, well perfused, 2+ pulses, 1+ pitting edema 
+NEURO: Face grossly symmetric. Moving all limbs with purpose 
+against gravity. Pupils equal and reactive, no dysarthria. 
+Alert, oriented x3, oriented to situation, able to perform 
+serial 7s 
+
+Discharge exam: 
+Vitals:  98.1 | ___ | ___ | ___ | 94-95RA
+GENERAL: Alert, oriented x3, no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, PERRL
+CARDIOVASCULAR: Regular rate and rhythm, no M/G/R. Regular 
+pulse. JVP not appreciable.
+LUNGS: breathing comfortably on room air, expiratory rhonchi 
+bilaterally in med and lower lung fields. No wheezes, crackles, 
+or rales 
+ABDOMEN: Soft, non-tender, distended, bowel sounds present, no 
+rebound or guarding. urostomy with pink stoma w/o signs of 
+infection, bag filled with clear yellow urine.
+EXTREMITIES: Warm, well perfused, 2+ pulses, 1+ pitting edema 
+bilaterally 
+NEURO: Face grossly symmetric. Moving all 4 extremities with 
+purpose. No tremor appreciated.
+SKIN: no rashes, ecchymosis, pallor
+ 
+Pertinent Results:
+Admission labs: 
+
+ 
+Brief Hospital Course:
+___ man with history of CAD, CKD (baseline Cr 1.2-1.3), bladder 
+cancer s/p ileal conduit/urostomy, gallbladder carcinoma s/p 
+cholecystectomy and partial hepatectomy, recurrent E. coli UTIs 
+who presented s/p fall with weakness, altered mental status and 
+cough. He reported having a mild nonproductive cough for about 2 
+weeks. 2 days PTA he developed profound weakness and was unable 
+to get up from sitting. He attempted to stand from the floor to 
+get into bed and due to weakness fell and hit his head. family 
+reported he appeared mildly confused on the phone. CT head and 
+CT neck were negative for acute injury. He tested positive for 
+influenza A and was started on tamiflu. UCx contaminated. He was 
+initially also started on broad spectrum antibiotics for UTI but 
+these were held after UCx returned. His mental status returned 
+to baseline quickly and he regained his strength and was able to 
+walk around without difficulty. He was discharged home on 
+tamiflu course. Of note, he was noted on telemetry to have PVCs 
+and frequent nonsustained VT, which had been noted in setting of 
+infection on prior admissions. These were well-controlled by 
+uptitrating his metoprolol to BID from TID during this 
+admission. He as discharged on home dose of metoprolol. 
+
+By problem: 
+ 
+# Weakness: 
+Likely in the setting of infection, as the patient tested 
+positive for influenza A. CXR without clear suggestion of 
+pneumonia, UA dirty but UCx suggestive of contamination rather 
+than UTI. He was intiially started on broad spectrum antibiotics 
+but these were discontinued after negative cultures. CAP 
+coverage also started initially but discontinued. acute coronary 
+syndrome was ruled out and BNP elevated but lower than previous, 
+and he was clinically euvolemic. 
+
+# Influenza A: Tamiflu 30mg q12h x5d (___) 
+
+# HFrEF: EF 40% in ___. Likely ischemic. BNP elevated at 2275 
+(prior in ___ of 4288), patient was dlinically euvolemic. He 
+was continued on his home lisinopril. His home metoprolol was 
+uptitrated from BID to TID dosing in the setting of nonsustained 
+VT (see below). 
+
+#AMS
+#Fall
+Patient felt weak at home and attempted to stand up from the 
+floor, felt weak and was unable to get into bed. He rolled to 
+the floor and hit his head. he denies losing consciousness. His 
+family noted he had been confused that day, and he was noted to 
+be confused in the ED. By the time he was admitted to the floor 
+his mental status had dramatically improved and he was alert and 
+oriented x3, and able to recount the full incident and perform 
+serial 7s. His AMS was likely in setting of infection. His CT 
+Head and Neck were negative for acute injury or bleed. 
+
+# ___ on CKD: mild ___ in likely in setting of poor PO intake 
+and infection. resolved. 
+
+# Ectopy: patient has a history of ventricular ectopy and 
+nonsustained VT noted on prior admission in setting of 
+infection. He was noted to have frequent PVCs and nonsustained 
+VT this admission as well ans his home metoprolol 12.5mg BID was 
+uptitrated to TID with good control. He was discharged back on 
+his home BID dosing. 
+
+# HTN: held home lisinopril 2.5mg, and resumed on discharge. 
+# CAD: Continued home ASA 81mg and atorvastatin 20. 
+# HLD: Continued home atorvastatin 20mg
+
+==============================
+Transitional issues: 
+==============================
+- Discharged on all home meds 
+- Needs to complete Tamiflu for total ___
+- Consider home safety evaluation as patient tends to present 
+with weakness when he has infection. 
+- Patient was noted to have mildly elevated blood sugars in 
+160s-200s in house. His last A1c was checked about 6 months ago 
+and was 7.4, please consider rechecking if it is felt 
+appropriate. 
+
+- CONTACT: ___ ___
+- CODE STATUS: Full code (confirmed) 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Lumigan (bimatoprost) 0.01 % ophthalmic BID 
+3. Lisinopril 2.5 mg PO DAILY 
+4. Metoprolol Tartrate 12.5 mg PO BID 
+5. Acetaminophen 650 mg PO BID:PRN Pain - Mild 
+6. Ascorbic Acid ___ mg PO TID 
+7. calcium carbonate-vitamin D3 500 mg(1,250mg) -200 unit oral 
+DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. coenzyme Q10 unknown mg oral DAILY 
+10. Cyanocobalamin 1000 mcg PO DAILY 
+11. Multivitamins 1 TAB PO DAILY 
+12. Vitamin B Complex 1 CAP PO DAILY 
+13. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+
+ 
+Discharge Medications:
+1.  OSELTAMivir 30 mg PO Q12H 
+RX *oseltamivir 30 mg 1 capsule(s) by mouth twice a day Disp #*5 
+Capsule Refills:*0 
+2.  Acetaminophen 650 mg PO BID:PRN Pain - Mild  
+3.  Ascorbic Acid ___ mg PO TID  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  
+6.  calcium carbonate-vitamin D3 500 mg(1,250mg) -200 unit oral 
+DAILY  
+7.  coenzyme Q10 unknown  oral DAILY  
+8.  Cyanocobalamin 1000 mcg PO DAILY  
+9.  Lisinopril 2.5 mg PO DAILY  
+10.  Lumigan (bimatoprost) 0.01 % ophthalmic BID  
+11.  Metoprolol Tartrate 12.5 mg PO BID  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Vitamin B Complex 1 CAP PO DAILY  
+14.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+Influenza
+Fall
+
+SECONDARY DIAGNOSIS: 
+premature ventricular contractions  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you here at ___ 
+___. 
+
+Why you were here: 
+- You came in because you got an infection and became very weak 
+at home. You had a fall at home as a result. 
+
+What we did while you were here: 
+- We did a CT scan of your head and neck and did not see any 
+injuries. 
+- We tested you for infections and found that you had the flu. 
+- We gave you antibiotics and an anti-influenza medication 
+called Tamiflu. 
+
+What to do when you go home: 
+- Please take all your medications as described below. 
+- Please continue to take the Tamiflu as prescribed (twice a 
+day, last day is ___ 
+- Please call Dr. ___ office at ___ to make an 
+appointment for within ___ weeks.  
+- Please call your doctor if you feel weak again, if your urine 
+changes in color or if you are urinating less, if you get 
+nausea, vomiting, or diarrhea, or if you or your family notice 
+that you are more confused than usual. 
+
+Sincerely, 
+Your ___ team 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-20 | hadm_id=20996169
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right carotid stenosis
+ 
+Major Surgical or Invasive Procedure:
+R CEA
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with asymptomatic right carotid 
+stenosis.  We know this is in the 70-79% range, likely at the 
+upper end of the spectrum.  He is going to have major prostate 
+surgery in the near future and would like to have this taken 
+care of prior to that.  We agree that this is reasonable.  We 
+have previously had extensive discussions about the relative 
+merits of endarterectomy and stenting and he is a strong 
+proponent of endarterectomy.  Patient understands the risks and 
+benefits of surgery and agrees to proceed with surgery.
+ 
+Past Medical History:
+Asymptomatic right carotid stenosis, a duodenal ulcer in ___, 
+hypertension, gout, and glaucoma.  There is no history of 
+myocardial infarction, angina, diabetes, colitis, stroke, lung 
+disease, thyroid disease, hepatitis, or sciatica.
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+AVSS
+Neck: right carotid bruit
+Chest: CTAB
+Cor: RRR, no m/r/g
+Abd: soft, NT/ND
+Ext: no c/c/e
+ 
+Pertinent Results:
+Labs on admission:
+___ 03:16AM BLOOD WBC-11.4* RBC-3.63* Hgb-10.8* Hct-32.2* 
+MCV-89 MCH-29.7 MCHC-33.4 RDW-13.9 Plt ___
+___ 03:16AM BLOOD Glucose-206* UreaN-19 Creat-1.0 Na-138 
+K-4.5 Cl-106 HCO3-23 AnGap-14
+___ 03:16AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.1
+ 
+Brief Hospital Course:
+Patient underwent right CEA on ___ for asymptomatic 80% 
+right carotid stenosis.  Please see Dr. ___ 
+note for details.  Patient tolerated the procedure well, was 
+transferred to the PACU and then to the VICU in stable 
+condition.  He did not have neurological deficits. Pain was well 
+controlled with the use of minimal narcotics.  By POD1 patient 
+was tolerating POs and urinating well after his foley was 
+removed.  His home medications were reviewed and restarted.  His 
+staples were removed and steri strips placed.  Patient being 
+discharged home today in good condition.  He will follow up with 
+Dr. ___.  
+ 
+Medications on Admission:
+Lumigan 0.03 % Drops 1 qtt in each eye at bedtime, Alphagan P  
+0.15 % Drops 1 gtt in each eye twice a day, HCTZ 12.5 mg ___, 
+Lisinopril 20mg ___, Metoprolol Tartrate 12.5mg BID, Percocet 
+prn, Ranitidine HCl 150 mg Tablet ___, Simvastatin 20 mg Tablet 
+___, Ascorbic Acid [Vitamin C] 1,000 mg Tablet ___ 81mg ___, 
+Vitamin B ___ 1 tab ___, Calcium Carbonate-Vitamin D3 
+[Calcium+D] 500 mg (1,250 mg)-200 unit Tablet BID, colace, MVI  
+
+ 
+Discharge Medications:
+1. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+5. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+6. Ascorbic Acid ___ mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+8. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+9. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+11. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q6H (every 6 hours) as needed for severe pain: Do not drive or 
+operate heavy machinery.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+13. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS 
+(at bedtime).  
+14. Hydrochlorothiazide 12.5 mg Tablet Sig: One (1) Tablet PO 
+twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Carotid artery stenosis
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Carotid Endarterectomy Surgery Discharge Instructions
+
+What to expect when you go home:
+1. Surgical Incision:
+•It is normal to have some swelling and feel a firm ridge along 
+the incision
+•Your incision may be slightly red and raised, it may feel 
+irritated from the staples
+
+2. You may have a sore throat and/or mild hoarseness
+•Try warm tea, throat lozenges or cool/cold beverages 
+
+3. You may have a mild headache, especially on the side of your 
+surgery
+•Try ibuprofen, acetaminophen, or your discharge pain 
+medication
+•If headache worsens, is associated with visual changes or 
+lasts longer than 2 hours- call vascular surgeon’s office
+
+4. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•You may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+
+5. It is normal to have a decreased appetite, your appetite will 
+return with time 
+•You will probably lose your taste for food and lose some 
+weight 
+•Eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•No driving until post-op visit and you are no longer taking 
+pain medications
+•No excessive head turning, lifting, pushing or pulling 
+(greater than 5 lbs) until your post op visit
+•You may shower (no direct spray on incision, let the soapy 
+water run over incision, rinse and pat dry)
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+•Take all the medications you were taking before surgery, 
+unless otherwise directed
+•Take one full strength (325mg) enteric coated aspirin daily, 
+unless otherwise directed 
+•Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+•Changes in vision (loss of vision, blurring, double vision, 
+half vision)
+•Slurring of speech or difficulty finding correct words to use
+•Severe headache or worsening headache not controlled by pain 
+medication
+•A sudden change in the ability to move or use your arm or leg 
+or the ability to feel your arm or leg
+•Trouble swallowing, breathing, or talking
+•Temperature greater than 101.5F for 24 hours
+•Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-24 | hadm_id=22426028
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of Breath
+ 
+Major Surgical or Invasive Procedure:
+Placement of a peripherally inserted central catheter (PICC)
+Fluid drainage of the gallbladder fossa
+
+ 
+History of Present Illness:
+___ yo m w/ remote hx o bladder cancer, recent hx of gallbladder 
+cancer s/p CCY and partial liver resection ___, recent admit 
+from ___ to ___nd dynamic ECG changes, p/w 
+fever, SOB, and weakness.  Recent admit pt had cardiac cath 
+which demonstrated diffuse disease, but no significant stenosis 
+to intervene upon.  Noted to have pansensitive klebsiella UTI; 
+given 7 d course of cipro per d/c summary.  Unclear if pt took 
+correctly, as he reports taking ___nd finishing 2 
+days ago.  Pt felling well until yesterday evening when noted 
+burping; this has been aginal equivalent in past.  Burping went 
+away with water, but also noticed fatigue, SOB, and chills.  
+Came in today to get first dose of gemzar when he reported this 
+sx, thus was directly admitted.  Had been on zeloda but recently 
+stopped due to chest pain; last dose a little over 1 week ago 
+per patient.  He denies CP, abd pain, diarrhea, or other 
+complaints.  His sx are all improved, although he is still very 
+fatigued.  In clinic, labs checked notable for neg TnT and CK.  
+CXR checked and concerning for increased interstitial opacities 
+R > L likely PNA.  Of note, sister was recently with him and had 
+URI sx. 
+ 
+Past Medical History:
+Diffuse coronary artery disease
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Bell's palsy
+Remote hx bladder ca s/p ileal conduit.
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___
+Gout
+Glaucoma
+Osteopenia
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+- There is no family history of premature coronary artery 
+disease or sudden death. 
+ 
+Physical Exam:
+GEN:  Pleasant, NAD.  Pt at times appeared to be breathing fast, 
+although denied difficulty.
+VS:  101.1, 118/68, 82, 20, 96% RA
+HEENT:  No OP erythema or exudate.
+CV:  RRR.  II/VI SEM.
+PULM:  Clear bilaterally.
+ABD:  +BS.  Incision c/d/i.  Ostomy with yellow drainage. NTND.
+Ext:  No c/c/e.
+ 
+Pertinent Results:
+Pertinent Labs
+___ 02:57PM BLOOD WBC-19.0*# RBC-3.85* Hgb-11.5* Hct-35.1* 
+MCV-91 MCH-30.0 MCHC-32.9 RDW-14.8 Plt ___
+___ 08:20AM BLOOD WBC-7.1# RBC-3.34* Hgb-10.7* Hct-30.7* 
+MCV-92 MCH-32.0 MCHC-34.8 RDW-14.8 Plt ___
+___ 07:45AM BLOOD WBC-6.5 RBC-3.19* Hgb-9.8* Hct-29.4* 
+MCV-92 MCH-30.6 MCHC-33.2 RDW-15.3 Plt ___
+___ 08:20AM BLOOD Glucose-225* UreaN-21* Creat-1.3* Na-138 
+K-3.5 Cl-102 HCO3-26 AnGap-14
+___ 07:45AM BLOOD Glucose-134* UreaN-13 Creat-1.0 Na-141 
+K-4.4 Cl-104 HCO3-28 AnGap-13
+___ 02:57PM BLOOD ALT-17 AST-26 CK(CPK)-33* AlkPhos-82 
+TotBili-0.5
+___ 10:40PM BLOOD cTropnT-0.01
+___ 08:20AM BLOOD CK-MB-2 cTropnT-0.01
+___ 02:57PM BLOOD Calcium-9.0 Phos-1.4*# Mg-1.6
+___ 07:45AM BLOOD Calcium-9.3 Phos-3.5 Mg-2.1
+___ 08:00PM BLOOD Vanco-17.6
+.
+Imaging
+___ Chest Xray
+IMPRESSION: Bibasilar interstitial reticular opacities, right 
+greater than 
+left, concerning for infectious processes such as pneumonia. 
+Radiographic 
+followup in six to eight weeks following appropriate treatment 
+is suggested to document resolution. 
+.
+___
+IMPRESSION: 
+1. 4.1 cm fluid collection within the gallbladder fossa which 
+drapes around the lateral aspect of the liver without evidence 
+of rim enhancement or gas. Differential diagnosis includes 
+postoperative hematoma, seroma or contained bile leak. Despite 
+the fact that this collection does not rim enhance, infection 
+cannot be excluded as the patient presents with a history of 
+MRSA bacteriemia of unknown etiology. This collection would be 
+amenable to percutaneous sampling. 
+2. Small bowel herniation into ileostomy site without evidence 
+of 
+obstruction. 
+3. Indeterminate right adrenal nodule stable since ___. 
+.
+___ Ultrasound Guided Drainage of Gallbladder Fossa
+IMPRESSION: Successful ultrasound-guided drainage of fluid 
+collection within the gallbladder fossa. Fluid sent to 
+microbiology for further analysis. 
+.
+___ ECHO
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. There is mild 
+regional left ventricular systolic dysfunction with moderate to 
+severe hypokinesis of the inferior and inferolateral segments. 
+Tissue Doppler imaging suggests an increased left ventricular 
+filling pressure (PCWP>18mmHg). Right ventricular chamber size 
+and free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. No masses or vegetations are seen on the mitral valve, 
+but cannot be fully excluded due to suboptimal image quality. 
+Mild to moderate (___) mitral regurgitation is seen. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+a trivial/physiologic pericardial effusion. 
+IMPRESSION: No endocarditis, abscess or significant valvular 
+regurgitation seen. Mild regional LV systolic dysfunction with 
+moderate to severe inferior and inferolateral hypokinesis. 
+Diastolic dysfunction. Mild to moderate mitral regurgitation.
+If clinically suggested, the absence of a vegetation by 2D 
+echocardiography does not exclude endocarditis. 
+Compared with the prior study (images reviewed) of ___, the 
+function of the inferior and inferolateral walls is slightly 
+improved and there is consequently less mitral regurgitation.
+.
+Microbiology
+___ Urine Culture
+  URINE CULTURE (Preliminary): 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed fecal flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      STAPH AUREUS COAG +.    >100,000 ORGANISMS/ML.. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML.. 
+         ___. ___ (___) REQUESTED SUSCEPTIBILITY ON 
+___. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+               
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+NITROFURANTOIN--------    32 S
+OXACILLIN-------------   =>4 R
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+.
+___ Blood Cultures
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      STAPH AUREUS COAG +. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___-___ ___. 
+
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus and ___ species. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI. 
+      IN PAIRS AND CLUSTERS.
+.
+___ 4:11 pm BLOOD CULTURE      Source: Venipuncture. 
+   Blood Culture, Routine (Preliminary): 
+      STAPH AUREUS COAG +. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___-___ ___. 
+
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus and ___ species. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS.
+.
+___ 11:25 am BILE      CHOLECYSTECTOMY. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+.
+___ Blood cultures pending at the time of discharge.
+ 
+Brief Hospital Course:
+Mr. ___ ___ year old man with a past medical history 
+significant for CAD, hypertension, hyperlipidemia, previous 
+bladder cancer and recent gallbladder CA. He is s/p liver 
+resection and cholecystectomy in ___. Due for gemcitabine 
+on day of admission, which was held due to new symptoms. He was 
+admitted from clinic with a leukocytosis and found to have a 
+bacteremia.
+.
+# Urinary Tract infection: Mr. ___ had a positive urine 
+culture which grew MRSA. He was treated with vancomycin. 
+Enterococcus was also isolated in the culture, but thought to be 
+a contaminant.
+.
+# Sepsis - On the day of admission Mr. ___ fulfilled the 
+criteria for SIRS. He was volume recusitated aggressively with 
+normal saline. He was given acetaminophen for fevers and 
+meperidine for rigors.  Serial blood cultures were drawn, which 
+showed a high grade MRSA bacteremia.  Urine cultures also grew 
+out MRSA and enterococcus.  Infectious disease and urology were 
+consulted. A CT scan of the chest/abdomen/pelvis showed evidence 
+of a fluid collection in the gallbladder bed.  This was drained 
+by ___ and was shown to be a bilious fluid collection.  Cultures 
+of this fluid showed no growth at the time of discharge. There 
+was initially concern over a pneumonia based on imaging, but 
+patient maintained his oxygenation and had no respiratory 
+symptoms. He was initially on vancomycin and cefepime. This was 
+narrowed to vancomycin. A TTE was performed which did not show 
+any valvular vegetations. Based on these findings, ID 
+recommended a total of 2 weeks of vancomycin therapy. A trough 
+prior to discharge was within target range.
+.
+#Coronary artery disease - Mr. ___ has a history of diffuse 
+CAD on recent catherization but no intervenable lesions. He had 
+evidence of ectopy on telemetry.  The patient was chest pain 
+free while rigoring. His EKG showed evidence of previous 
+intraventricular conduction delay but no evidence of active 
+ischemia. His metoprolol was initially held in the setting of 
+his sepsis but re-started upon stabilization.
+.
+#Gallbladder CA - Per outpatient team his gemcitabine was held. 
+He will follow up as an outpatient.
+.
+#Glucose intolerance - Placed on sliding scale while in the 
+hospital. His Januvia was to be restarted at rehab.
+.
+# Hypertension - His antihypertensives were held given SIRS 
+criteria. He was restarted on metoprolol and then lisinopril. 
+ 
+Medications on Admission:
+BIMATOPROST [LUMIGAN] - 0.03 % Drops - 1 qtt in each eye at
+bedtime
+BRIMONIDINE [ALPHAGAN P] - 0.15 % Drops - 1 gtt in each eye 
+twice
+a day
+HYDROCHLOROTHIAZIDE - 12.5 mg Capsule - 1 Capsule(s) by mouth
+once a day
+LISINOPRIL - 10 mg Tablet - 1 Tablet(s) by mouth once a day
+METOPROLOL TARTRATE - 25 mg Tablet - 0.5 Tablet(s) by mouth 
+twice
+a day
+PROCHLORPERAZINE MALEATE - 10 mg Tablet - one Tablet(s) by mouth
+every 6 to 8 hours as needed for as needed for nausea or 
+vomiting
+RANITIDINE HCL - 150 mg Tablet - 1 Tablet(s) by mouth daily
+SIMVASTATIN - 40 mg Tablet - 1 Tablet(s) by mouth daily
+SITAGLIPTIN [JANUVIA] - 50 mg Tablet - 1 Tablet(s) by mouth 
+daily
+ 
+Medications - OTC
+ACETAMINOPHEN - 325 mg Tablet - 2 Tablet(s) by mouth twice a day
+PRN
+ASCORBIC ACID [VITAMIN C] - 1,000 mg Tablet - 1 Tablet(s) by
+mouth once a day
+ASPIRIN -  (Prescribed by Other Provider) - 81 mg Tablet, 
+Delayed
+Release (E.C.) - 1 Tablet(s) by mouth daily
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM+D] - 500 mg (1,250 mg)-200
+unit Tablet - 1 Tablet(s) by mouth twice a day
+MULTIVITAMIN -   Tablet - 1 Tablet(s) by mouth daily
+VITAMIN B ___ -   Tablet - 1 Tablet(s) by mouth daily
+ 
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Vancomycin 1,000 mg Recon Soln Sig: 1000 (1000) mg 
+Intravenous every twelve (12) hours for 10 days: Continue until 
+___. 1000 mg every 12 hours.  
+6. Lumigan 0.03 % Drops Sig: One (1) drop Ophthalmic at bedtime: 
+Place in each eye.  
+7. Alphagan P 0.15 % Drops Sig: One (1) drop Ophthalmic twice a 
+day: Place in each eye.  
+8. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO 
+every ___ hours as needed for nausea.  
+9. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO four times a 
+day as needed for pain.  
+10. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. Sitagliptin 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+12. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Ten (10) ML 
+Intravenous PRN (as needed) as needed for line flush.  
+13. Calcium Carbonate-Vitamin D3 500 mg(1,250mg) -200 unit 
+Tablet Sig: One (1) Tablet PO twice a day.  
+14. Multivitamin     Capsule Sig: One (1) Capsule PO once a day. 
+ 
+15. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day. 
+ 
+16. Vitamin B-100 Complex     Tablet Sig: One (1) Tablet PO once 
+a day.  
+17. Insulin Aspart 100 unit/mL Solution Sig: sliding scale units 
+Subcutaneous four times a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Bacteremia
+2. Urinary Tract Infection
+
+Secondary Diagnosis:
+1. Coronary Artery Disease
+2. Gallbladder Carcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Thank you for allowing us to take part in your care. You were 
+admitted to the hospital and found to have a bacterial infection 
+in your blood and urine. While you were in the hospital, you 
+were given antibiotics for your infection. 
+
+We started a medication called vancomycin which is an 
+antibiotic. You will take this for a total of two weeks.
+
+We stopped your hydrochlorothiazide because your blood pressure 
+was low. You should discuss with your doctor about when to 
+restart this medication.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-22 | hadm_id=23012724
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Gall Bladder Mass
+ 
+Major Surgical or Invasive Procedure:
+___: Exploratory laparotomy, cholecystectomy segment IVB and 
+V resection of portal lymphadenectomy.
+
+ 
+History of Present Illness:
+___- y/o male with an extensive past history that has routine 
+followup
+studies and was noted to have an abnormality that demonstrated a 
+fundal mass in
+the gallbladder that was suspicious for a primary gallbladder
+carcinoma.  He was also noted to have cholelithiasis without 
+evidence of cholecystitis.  The mass within the gallbladder is 
+measured 2.2 x 1.6 x 2.6.  There was no comment on peripheral 
+regional adenopathy or invasion into
+the liver itself. Surgical excision was recommended and he now 
+presents for resection.
+
+ 
+Past Medical History:
+TIAs, R Carotid Endarterectomy ___  
+Obstructive Sleep Apnea  
+Duodenal Ulcer  
+Hypertension  
+Gout  
+Glaucoma  
+
+ 
+Social History:
+___
+Family History:
+No family history of GU Cancer 
+ 
+Physical Exam:
+VS: 98.6, 89, 136/83, 20, 96%RA
+HEENT: PERRLA, Right-sided carotid endarterectomy incision.  No 
+cervical or supraclavicular adenopathy 
+Card: RRR, no M/R/G
+Lungs: CTA bilaterally
+Abdomen: soft, nontender, and nondistended. Old incisions are 
+well
+healed, new incision C/D/I. Ileal conduit is patent in the lower 
+abdomen. 
+Extr: No lower extremity edema. 
+ 
+Pertinent Results:
+On Admission: ___
+WBC-7.7 RBC-4.35* Hgb-13.2* Hct-39.3* MCV-90 MCH-30.4 MCHC-33.7 
+RDW-13.4 Plt ___ PTT-26.1 ___
+UreaN-14 Creat-1.1 Na-139 K-4.5 Cl-102 HCO3-28 AnGap-14 
+Glucose-157*
+ALT-25 AST-23 AlkPhos-104 TotBili-0.4
+Albumin-3.6 Calcium-8.7 Phos-4.1 Mg-2.0
+___  %HbA1c-6.6* eAG-143*
+___ CEA-9.1* AFP-2.4  CA ___ - 287       
+On Discharge: ___ 
+WBC-11.6* RBC-3.35* Hgb-9.9* Hct-30.0* MCV-90 MCH-29.6 MCHC-33.0 
+RDW-13.3 Plt ___
+Glucose-194* UreaN-16 Creat-1.1 Na-137 K-4.0 Cl-101 HCO3-30 
+AnGap-10
+Glucose-139*
+ALT-135* AST-62* AlkPhos-110 TotBili-0.4
+Calcium-8.9 Phos-2.9 Mg-2.___ y/o male with extensive PMH is taken to the OR with ___ ___ 
+___ for a gallbladder mass seen on a screening CT.
+At the time of the surgery they did not find any evidence of 
+carcinomatosis. There was a nodule within the gallbladder at the 
+fundus in proximity to the gallbladder fossa but appeared to be 
+more in the free wall of the fundus rather than in proximity to 
+the fossa itself.
+Frozen section showed the mass consistent with gallbladder 
+cancer and there was some concern that, in fact, it was invading 
+the liver and the margin on the segment IVB
+side was relatively close. At that time it was determined 
+complete the IVB/V resections. An additional 1-2 cm of segment 
+IVB and then extended this to the patient's left side all the 
+way to the falciform ligament, taking segment V
+and IVB with the specimen. The margin was taken all the way to 
+the falciform ligament and then down to the left portal vein 
+completely removing segment IVB and segment V. One drain was 
+left in place and the patient was noted to have no 
+complications.
+Pathology returned as Adenocarcinoma, gallbladder with no 
+carcinoma noted in the liver margins. Please see pathology 
+report for final details.
+In the post op period the patient remained afebrile. He was 
+started back on a diet with good tolerance. Urine output was 
+excellent with good function of the ileal conduit.
+The JP drain had minimal and decreasing output daily and was 
+pulled prior to discharge. 
+He was tolerating diet, ambulating without difficulty and had 
+return of bowel function. Incision was clean/dry intact.
+AST and ALT were elevated on POD1 but were trending back to 
+normal, T bili 0.4 and Alk phos stable.
+Tumor markers were sent while in house:  CEA-9.1* AFP-2.4  CA 
+___ - 287*   
+Also of note the patient was having some elevated blood sugars 
+post op.  Fasting ranging from 139 on day of discharge as high 
+as 194. A HgbA1C was sent :%HbA1c-6.6* eAG-143* The patient has 
+been instructed to follow up closely with his PCP and his 
+appointment has been moved up.
+
+ 
+Medications on Admission:
+Lumigan 0.03% 1 ggt ___, Alphagan 0.15% 1 gtt ___ bid, HCTZ 
+12.5', lisinopril 10', metoprolol 12.5", ranitidine 150', 
+simvastatin 20', acetaminophen, vitamin C 1000', aspirin 81', 
+calcium  
+carbonate, multivitamins and multivitamin with B  
+
+ 
+Discharge Medications:
+1. Bimatoprost 0.03 % Drops Sig: One (1) drop ___ Ophthalmic ___ 
+().  
+2. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+3. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+6. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+9. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+10. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*15 Tablet(s)* Refills:*0*
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day): Continue twice daily for soft stool, especially 
+if taking oxycodone.  
+13. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) 
+Tablet PO once a day.  
+14. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gallbladder carcinoma
+
+ 
+Discharge Condition:
+Stable
+A+Ox3
+Ambulatory
+
+ 
+Discharge Instructions:
+Please call Dr ___ office at ___ for fever, 
+chills, nausea, vomiting, diarrhea, constipation, inability to 
+take or keep down food, fluids or medications.
+Monitor the incision for redness, drainage or bleeding. You may 
+leave this open to air. Also the dressing over the drain site 
+can be removed on ___.
+No heavy lifting
+You may shower, allow water to run over incision and pat dry. 
+You may leave open to air.
+No swimming or tub baths until notified you may do so
+No driving if taking narcotic pain medication
+Dr ___ will be following up with you on ___ regarding blood 
+sugar
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-19 | hadm_id=23548268
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bladder tumor, hematuria
+ 
+Major Surgical or Invasive Procedure:
+Cystoscopy, transurethral resection of bladder tumor
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man who saw Dr. ___ initially 
+on ___ for a 1 month history of gross hematuria. He 
+has a 50-pack-year smoking history and underwent a workup for 
+bladder cancer. A CT urogram demonstrated a bladder tumor on the 
+right posterior lateral wall of the bladder. He underwent 
+cystoscopy by Dr. ___ on ___ which demonstrated a 
+bladder tumor along the right wall encompassing the right 
+trigone and the right ureteral orifice, which could not be seen. 
+Urine cytology was suspicious for malignancy. He was therefore 
+scheduled for a cystoscopy, a TURBT and a possible right 
+ureteral stent placement considering the proximity of the tumor 
+to the right ureteral orifice. 
+ 
+Past Medical History:
+Asymptomatic right carotid stenosis, a duodenal ulcer in ___, 
+hypertension, gout, and glaucoma.  There is no history of 
+myocardial infarction, angina, diabetes, colitis, stroke, lung 
+disease, thyroid disease, hepatitis, or sciatica.
+
+ 
+Physical Exam:
+RRR
+CTAB
+Abd S, NT, ND, +BS
+Urine clear yellow
+ 
+Pertinent Results:
+___ 03:20PM   GLUCOSE-195* UREA N-22* CREAT-1.1 SODIUM-139 
+POTASSIUM-3.9 CHLORIDE-99 TOTAL CO2-29 ANION GAP-15
+___ 03:20PM   estGFR-Using this
+ 
+Brief Hospital Course:
+Mr. ___ was admitted after surgery for vital sign 
+monitoring after having developed tachycardia and hypertension 
+in the PACU.  He was treated in the PACU with labetalol and 
+hydralazine, with little effect.  He was given one dose of 25 mg 
+PO lopressor before leaving the PACU, which appeared to be 
+effective.  He was then placed on metoprolol 12.5 mg PO bid, 
+which maintained his BP in the 100s to 120s systeolic.  His HR 
+was in the ___.  At discharge patient's pain well controlled 
+with oral pain medications, tolerating regular diet, ambulating 
+without assistance, and his urine was clear yellow.  He will 
+follow-up with Dr. ___ biopsy results and post-operative 
+check.  He will also follow up with his PCP within one week to 
+address his medication change.  
+ 
+Medications on Admission:
+1. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bladder tumor
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You have been started on a new medication to control your heart 
+rate, which was fast after your procedure.  The name of the 
+medication is metoprolol, and you should take 12.5 mg by mouth 
+twice a day.  Please follow up with your primary care physician 
+within one week to adjust this medication as needed.  
+
+Please take your catheter out as instructed on ___.  If 
+you are unable to urinate within 8 hours, please call Dr. ___ 
+___ go to the emergency room.  
+
+Please use the large bag the majority of the time.  The leg bag 
+is only for going out in public.  
+
+Dr. ___ will call you with your pathology results.  If you 
+have not heard from Dr. ___ in one week, please call his 
+office for your results.  
+
+The operation you have experienced is a "scraping" operation; 
+that is to say, the bladder tumor or biopsy sample was "scraped" 
+off the bladder wall. Bleeding was controlled with 
+electrocautery which will produce a "scab" in the inside bladder 
+wall. About ___ weeks after the operation, pieces of the scab 
+will fall off and come out with the urine. As this occurs, 
+bleeding may be noted which is normal. You should not worry 
+about this. Simply lie down and increase your fluid intake for a 
+few hours. In most cases, the urine will clear. Because of this 
+tendency for bleeding, aspirin (or Advil) must be avoided for 2 
+weeks following your operation (Tylenol is okay). If bleeding 
+occurs or persists for more than 12 hours or if clots appear 
+impairing your stream, call your urologist.
+
+If you develop a fever over 101°, or have chills, call your 
+urologist. Although not common, this may indicate infection that 
+has developed beyond the control of the antibiotics that you 
+have taken. 
+
+It will take 6 weeks from the date of surgery to fully recover 
+from your operation. This can be divided into two parts -- the 
+first 2 weeks and the last 4 weeks. During the first 2 weeks 
+from the date of your surgery, it is important to be "a person 
+of leisure". You should avoid lifting and straining, which also 
+means that you should avoid constipation. This can be done by 
+any of 3 ways: 1) modify your diet, 2) use stool softeners which 
+have been prescribed for you, and 3) use gentle laxatives such 
+as Milk of Magnesia which can be purchased at your local drug 
+store. It is important for you to avoid prolonged sitting. You 
+should avoid sexual activity during this time. Also, avoid 
+driving. The danger is not so much the driving, but it may delay 
+you from urinating if you have the urge; and, "holding" urine 
+may cause bleeding. If you return to work before 2 weeks, you 
+may feel fatigued and require a decreased work load. 
+
+During the second 4 week period of your recovery, you may begin 
+regular activity, but only on a graduated basis. For example, 
+you may feel well enough to return to work, but you may find it 
+easier to begin on a half-day basis. It is common to become 
+quite tired in the afternoon, and if such occurs, it is best to 
+take a nap! Also, you may begin to drive as well as lift objects 
+such as a briefcase, etc. If you are a golfer, you may begin to 
+swing a golf club at this time. Sexual activity may be resumed 
+during this time, but only on a limited basis. In general, your 
+overall activity may be escalated to normal as you progress 
+through this second time period, such that by ___ weeks 
+following the date of surgery, you should be back to normal 
+activity. If you take aspirin as a regular medication, it may be 
+resumed at this time.
+
+Finally, call your urologist in one week after your surgery for 
+the results of your biopsy and your next appointment
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-23 | hadm_id=23571450
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization, ___, Interventional Cardiology
+
+ 
+History of Present Illness:
+___ with long term stable angina with exertion, newly diagnosed 
+gall bladder cancer s/p radical resection with partial 
+hepatectomy who started capecebine PO 4 days ago as adjuvant 
+chemotherapy, TCC s/p radical cystectomy and prostatectomy, HTN, 
+HLD, and DM who presents with chest pain with minimal exertion. 
+Pt reports CP with walking approx. 10 minutes. Pain is 
+substernal associated with some left shoulder numbness, he 
+describes feeling sweaty, with some burping. Denies 
+palpitations, dizziness, nausea, or vomiting. He has had these 
+symptoms for some time. The day prior to admission he had these 
+symptoms while eating an orange. The pain did not go away so he 
+called EMS. In the ambulance he recieved sublingual nitro and 
+pain alleviated. He denies any orthopnea, SOB at rest, lower 
+extremity swelling. He presented to the ED with these 
+complaints.  
+.  
+In the ED his initial vital signs were 98.7 86 112/65 12 99% on 
+RA. A first set of CEs was negative, and his ECG was 
+unremarkable. He was sent to obs. Walking to obs he had some CP, 
+but did not tell the RN. When he got up to go to the bathroom he 
+again and CP. ___ RN was called. A repeat ECG showed dynamic 
+changes in V4-6. A stat head CT was done to rule out brain 
+metastatses. He was given clopidogrel 600mg PO x1 and started on 
+a heparin drip. There is no record of whether he received 
+aspirin. He was admitted for ACS.  
+.  
+On the floor he is CP free, without any shortness of breath. He 
+denies any symptoms at this time.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denies recent fevers, chills or rigors. 
+He denies exertional buttock or calf pain. All of the other 
+review of systems were negative.   
+ 
+Past Medical History:
+Cardiac Risk Factors: + Diabetes, + Dyslipidemia, + Hypertension 
+ 
+.  
+Percutaneous coronary intervention, in ___ in ___, no 
+interventions taken  
+.  
+Other Past History:  
+- S/p right carotid endarterectomy in ___  
+- Hypercholesterolemia.  
+- Glucose intolerance, currently being treated as a type 2 
+diabetic  
+- Bell's palsy  
+- Nasal polyps  
+- Distant history of duodenal ulcer in ___  
+- Ocular motor palsy in ___, etiology unknown  
+- Osteoarthritis  
+- Osteopenia  
+- Gout  
+- Chronic anemia  
+- Glaucoma  
+- S/p appendectomy in ___  
+- TCC T3a, N0, M0. S/p cystoprostatectomy with ileal loop 
+conduit and regional lymph node dissection in ___ for a 
+transitional cell carcinoma of the bladder. No chemo received 
+for this  
+- Primary gallbladder carcinoma T2, N0. S/p cholecystectomy and 
+resection of liver segments 4B and 5 with a portal 
+lymphadenectomy in ___  
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+- There is no family history of premature coronary artery 
+disease or sudden death. 
+ 
+Physical Exam:
+VS - 98.0 142/79 81 16  100% 2L 
+Gen:  Oriented x3. Mood, affect appropriate.  
+HEENT: Sclera anicteric. PERRL, EOMI.  
+Neck: Supple with JVP of 8 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Well healed lap scars, RLQ urostomy in place, soft, NTND. 
+No HSM or tenderness. Abd aorta not enlarged by palpation. No 
+abdominial bruits.  
+Ext: No c/c/e. No femoral bruits.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+.  
+Pulses:  
+Right:  DP 2+ ___ 2+  
+Left: DP 2+ ___ 2+
+ 
+Pertinent Results:
+Labs on Admission:
+___ 09:30PM BLOOD WBC-4.6 RBC-3.79* Hgb-11.1* Hct-33.7* 
+MCV-89 MCH-29.3 MCHC-32.9 RDW-14.6 Plt ___
+___ 10:30AM BLOOD ___ PTT-80.0* ___
+___ 09:30PM BLOOD Glucose-146* UreaN-24* Creat-1.3* Na-139 
+K-3.9 Cl-104 HCO3-26 AnGap-13
+___ 10:56AM BLOOD ALT-21 AST-24 AlkPhos-82 TotBili-0.4
+___ 09:30PM BLOOD cTropnT-0.01
+___ 05:13AM BLOOD CK-MB-NotDone cTropnT-0.03*
+___ 05:13AM BLOOD Albumin-4.0 Calcium-9.7 Phos-4.0 Mg-2.4 
+Cholest-143
+___ 05:13AM BLOOD %HbA1c-6.0* eAG-126*
+___ 05:13AM BLOOD Triglyc-54 HDL-50 CHOL/HD-2.9 LDLcalc-82
+___ 05:13AM BLOOD TSH-1.5
+___ 10:56AM BLOOD CEA-2.3
+
+Labs on Discharge:
+___ 07:10AM BLOOD WBC-5.5 RBC-3.31* Hgb-9.8* Hct-29.8* 
+MCV-90 MCH-29.7 MCHC-33.0 RDW-14.7 Plt ___
+___ 07:10AM BLOOD Glucose-160* UreaN-22* Creat-1.2 Na-140 
+K-3.7 Cl-103 HCO3-28 AnGap-13
+___ 05:13AM BLOOD ALT-19 AST-20 LD(LDH)-179 CK(CPK)-29* 
+AlkPhos-82 TotBili-0.5
+
+Microbiology:
+___ 9:23 am URINE     Site: CATHETER      Source: Catheter. 
+
+
+   URINE CULTURE (Preliminary): 
+      KLEBSIELLA OXYTOCA.    >100,000 ORGANISMS/ML.. 
+      GRAM NEGATIVE ROD(S).    >100,000 ORGANISMS/ML.. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA OXYTOCA
+                             |   
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Reports:
+CT Head: 
+1. Asymmetric hypodense focus within the right frontal lobe may 
+represent
+prior small vessel infarct, though edema secondary to small 
+metastatic lesion is difficult to exclude. If there is clinical 
+concern, MRI is recommended forexclusion of metastatic disease 
+given its greater sensitivity.
+2. No mass effect, intracranial hemorrhage, or acute large 
+vascular territory
+infarction.
+3. Mucosal thickening in the left maxillary sinus with 
+associated
+post-surgical change.
+4. Calcification of the cavernous and supraclinoid carotid 
+arteries.
+NOTE ADDED AT ATTENDING REVIEW: There are no findings to suggest 
+infarction or metastatic disease. The white matter hypodensities 
+are unchanged since ___, and presumably reflect chronic 
+small vessel ischemia. There has been interval sinuse surgery 
+with bilateral nasal antrostomies, ethmoidectomies and resection 
+of middle turbinates.
+.
+CARDIAC CATHETERIZATION
+1. Selective coronary angiography of this right dominant system
+demonstrated diffuse mild coronary artery disease.  The LMCA had 
+mild
+plaquing to 10%.  The LAD had focal moderate-heavy calcification 
+with
+tapering of the proximal-mid LAD at large S1 with diffuse 
+plaquing in
+the mid LAD and a 40% stenosis at the origin of the major D1.  
+The LCx
+had focal moderate-heavy calcification.  There was a 30% lesion 
+at the
+origin, a 30% lesion in the proximal vessel and a moderate 
+stenosis in
+the origin of short small OM2.  The AV groove Cx supplies a 
+larger
+atrial branch.  The ramus had a 30% lesion at the origin.  The 
+RCA was
+moderately calcified with a mid-vessel diffuse 30% lesion and a 
+distal
+diffuse 30% lesion.  There was a larger RPDA and moderate 
+caliber
+branching RPL.
+2. Limited resting hemodynamic measurements demonstrated mildly
+elevated left sided filling pressures with LVEDP of 17 mmHg.  
+The
+central aortic pressure was mildly elevated at 146/63 mmHg.  
+There was
+no gradient upon pullback from left ventricle to aorta.
+3. Pressure wire interrogation was performed on the lesion at 
+the origin
+of D1.  With maximal hyperemia induced by AV adenosine 
+(complicated by
+2:1 AV conduction at 1 min 50 seconds) the fractional flow 
+reserved was
+0.87 with equalization of pressure upon pullback of the pressure 
+wire
+back into the guiding catheter.
+FINAL DIAGNOSIS:    
+1. Diffuse mild to moderate coronary artery disease without
+angiographically apparent high grade stenosis.
+2. Systemic arterial hypertension
+3. Mild left ventricular diastolic dysfunction.
+4. Negative pressure wire evaluation of D1, although infusion 
+terminated
+due to A:V block.
+.
+ECHO
+The left atrium is dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. There is mild to moderate regional left ventricular 
+systolic dysfunction with inferior and inferolateral 
+akinesis/hypokinesis. Right ventricular chamber size and free 
+wall motion are normal. The aortic arch is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened and are tethered due to the regional wall motion 
+abnormality. Moderate to severe (3+) mitral regurgitation is 
+seen. There is mild pulmonary artery systolic hypertension. 
+There is an anterior space which most likely represents a 
+prominent fat pad.  Ejection Fraction (40%)
+.
+CXR: No acute cardiopulmonary process
+
+ 
+Brief Hospital Course:
+___ with HTN, HLD, DM, TCC s/p curative resection, and recently 
+diagnosed gall bladder cancer s/p resection and undergoing 
+adjuvant chemo admitted with CP consistent with unstable angina. 
+ 
+.
+CHEST PAIN
+Risk factors for CAD include: HTN, HLD, DM, and mother with CAD 
+at an advanced age. Patient had dynamic lateral wall ECG changes 
+in the ED after developing chest pain while walking. CXR without 
+acute cardiopulmonary process. Given ECG changes patient was 
+loaded with clopidogrel and started on Heparin gtt. With history 
+of Gallbladder cancer CT head was performed to evaluate for 
+metastatic disease prior to starting heparin gtt and revealed no 
+metastatic disease. Patient was also continued on Aspirin, 
+Metoprolol,  Lisinopril, and Statin. Cardiac Catheterization was 
+performed which showed mild/moderate diffuse disease without any 
+high grade stenosis to explain EKG changes or chest pain. No 
+stent was placed. ECHO was performed and did show inferolateral 
+hypokinesis, moderate to severe mitral reguritation, with 
+Ejection Fraction of 40%. At discharge patients Statin was 
+increased to optimize LDL. Further he was continue on Aspirin, 
+Metoprolol, and Lisinopril. He was scheduled for follow up with 
+his primary care physician for further evaluation. 
+.  
+Rhythm: 
+Sinus. Patient monitored on telemetry without event.    
+.  
+Urinary Tract Infection:
+Urinalysis with signs of infection. Urine culture revealed 
+Klebsiella Oxytoca sensitive to Ciprofloxacin. Patient was 
+discharge with 7 day course of Ciprofloxacin. Patient without 
+evidence of pyelonephritis.
+.  
+HTN: 
+Well controlled while inpatient continued on home Metoprolol 
+Tartrate 12.5 mg PO/NG BID and Lisinopril 10 mg PO/NG DAILY.  
+.  
+HLD: 
+Lipid Panel evaluated while inpatient: TC143 TG54 HDL50 LDL82. 
+At discharge rosuvastatin 40mg PO daily increased to 60mg PO 
+daily.  
+.  
+DM:
+Hemoglobin A1c evaluated while inpatient and was 6.0. Continued 
+Jenuvia at discharge.  
+.  
+Gallbladder cancer: 
+S/p resection and undergoing adjuvant Xeloda as a curative 
+attempt. Capecetabine (Xeloda) held per Dr. ___ 
+___. At discharge patient will discuss restarting 
+medication with Dr. ___. 
+.  
+Glaucoma: 
+Continued home BIMATOPROST [LUMIGAN] - 0.03 % Drops - 1 ___ 
+___ and home BRIMONIDINE [ALPHAGAN P] - 0.15 % Drops - 1 gtt ___ 
+BID. Stable during admission.  
+.  
+CODE: FULL CODE
+ 
+Medications on Admission:
+- BIMATOPROST [LUMIGAN] - 0.03 % Drops - 1 ___  
+- BRIMONIDINE [ALPHAGAN P] - 0.15 % Drops - 1 gtt ___ BID  
+- CAPECITABINE [XELODA] - ___ mg PO BID x 14 days and then 7 
+days off, C1 D1 ___  
+- HYDROCHLOROTHIAZIDE - 12.5 mg PO HS  
+- LISINOPRIL - 10 mg PO daily  
+- METOPROLOL TARTRATE - 12.5 mg PO BID  
+- RANITIDINE HCL - 150 mg PO daily  
+- SIMVASTATIN - 20 mg PO daily  
+- SITAGLIPTIN [JANUVIA] - 50 mg PO daily  
+- ACETAMINOPHEN - 650 mg PO BID PRN pain  
+- ASCORBIC ACID 1,000 mg PO daily  
+- ASPIRIN - 81 mg PO daily  
+- CALCIUM CARBONATE-VITAMIN D3 [CALCIUM+D] - 500 mg 200 unit PO 
+BID  
+- MULTIVITAMIN PO daily  
+- VITAMIN B ___ - PO daily  
+ 
+Discharge Medications:
+1. Bimatoprost 0.03 % Drops Sig: One (1)  Ophthalmic HS (at 
+bedtime): ___.  
+2. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day): ___.  
+3. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+7. Ascorbic Acid ___ mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+8. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Calcium 500 with Vitamin D 500 mg(1,250mg) -200 unit Tablet 
+Sig: One (1) Tablet PO twice a day.  
+10. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. Xeloda
+Please discuss with your oncologist before restarting this 
+medication. 
+12. Vitamin B Complex     Tablet Sig: One (1) Tablet PO once a 
+day.  
+13. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+14. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+15. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: ___  Sublingual 
+once a day as needed for chest pain: If you develop chest pain 
+take one sublingual NG. If pain is not alleviated in 5 minutes 
+please call ___.
+Disp:*30 qs* Refills:*0*
+16. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+HTN
+Hyperlipidemia
+DM
+
+Secondary: 
+Gall Bladder Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure care for you while you were hospitalized with 
+chest pain. During you stay we evaluated your heart by cardiac 
+catheterization which showed that the vessels surrounding your 
+heart were without major blockages. We will continue to treat 
+your hypertension and cholesterol to reduce the risk of heart 
+problems in the future. Further, you should continue to exercise 
+30 minutes, 5 days a week. Also, try to limit the foods with 
+high amounts of fat and sugar. Please follow up with your 
+primary care physician ___ 2 weeks to discuss your recent 
+hospitalization and continue to monitor things like blood 
+pressure, cholesterol and diabetes. More so, please call your 
+Oncologist after discharge and discuss restarting your 
+chemotherapy, this was held during your hospitalization per her 
+request.
+.
+During your hospitalization we also identified a urinary tract 
+infection. We started an antibiotic to treat this infection. You 
+should take the antibiotic fo 5 days and follow up with your PCP 
+next week.
+.
+The following changes were made to your medical regimen. 
+- STOP HCTZ, Your primary care physician ___ address restarting 
+this medication. 
+- START Ciprofloxacin 500mg BID for 7 Days
+- CHANGE Simvastatin to 40mg Daily. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-29 | hadm_id=24395937
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ICU HPI, confirmed in detail with pt and records:
+___ with history of hypertension, anemia, coronary artery 
+disease, CKD, bladder cancer s/p ileal conduit/urostomy and 
+gallbladder carcinoma s/p cholecystectomy and partial 
+hepatectomy presenting with 4 days of non productive cough and 
+lethargy.  
+
+Pt reports cough keeping him up all night. No improvement w/ 
+cough drops and robitussin. Lethargic for ___ which concerned 
+him b/c previous times had UTI or dehydration. He denies fevers, 
+N/V, CP, SOB, diarrhea, abdominal pain, hematuria, melena, 
+BRBPR, change in urine color.
+ 
+In the ED, initial vitals: 98.5 102 137/76 20 99% RA 
+- Exam notable for RRR, lungs CTAB, benign abdomen w/ clear 
+urine in ostomy. 
+- Labs were notable for:  
+
+137  ___   
+-------------< 
+4.7  24  1.2 
+
+9.3 > 11.9  < 167 
+      36.8  
+
+lactate 1.1, UA with mod leuks, 16 WBC, neg nitrites (expected 
+for ostomy)
+- Imaging: Possible retrocardiac patchy opacification involving 
+one of the lower lobes 
+- Patient was given:  albuterol nebs, ipratropium nebs, 
+azithromycin, guaifenesin codeine, 1L NS
+- Consults: none  
+ 
+20 min after receiving codeine, the patient became increasingly 
+somnolent. Repeat labs and a VBG were sent, which were normal. 
+He then became tachycardic to 120s with PVCs, febrile to 102.2 
+and became more somnolent but arousable. He was given 
+Azithromycin IV, IV Tylenol, IV cefepime, IV ctx & ___ L of NS 
+(vanc ordered, not administered). Family declined CT given 
+possible need for intubation. He was admitted to the ICU because 
+he became progressively somnolent. 
+
+On arrival to the MICU, pt endorses persistent cough, but 
+feeling significantly less lethargic than the days leading to up 
+to presentation. In the ICU, pt was treated with ceftriaxone and 
+azithromycin, which were quickly transitioned to 
+cefpodoxime/azithromycin. BCx were NGTD, and urine legionella Ag 
+negative. His encephalopathy was thought to be ___ medication 
+effect in ED with possible contribution of infection, and 
+resolved without further specific intervention. His lisinopril 
+and metoprolol were held in the setting of sepsis. He was noted 
+to have many PVCs on telemetry; electrolytes were WNL and 
+troponin was negative x3. He was called out of the ICU to the 
+floor on ___.
+
+On transfer to the floor, he denies pain, notes only that his 
+head feels slightly warm. He denies headache, and does not feel 
+like he's getting a fever, denies chills. Breathing continues to 
+feel better each day. Cough is much improved compared to 
+admission, and is steadily improving. It remains nonproductive. 
+Denies ___ edema, chest pain, palpitations.
+
+ 
+Past Medical History:
+Coronary artery disease - ___ cath with right dominant system. 
+The LMCA was patent. The LAD
+revealed mid 40%, DIAG 50% and diffuse distal distal disease in
+the large septal. The LCx with no significant disease. The RCA
+with mid 20% stenosis.  
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit 
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___ 
+Glaucoma
+Osteopenia
+Recurrent UTIs and bacteremias: MRSA, Enterococcus, Pan 
+sensitive E coli, Pan sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+Per OMR:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+========================
+Vitals:  98.9 104 128/65 96%RA
+HEENT: AT/NC, EOMI, anicteric sclera, pink conjunctiva, MMM, 
+good dentition  
+NECK: supple neck, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: urostomy bag in place with light yellow urine. obese, 
+nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding 
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose   
+NEURO: CN II-XII intact 
+SKIN: intertriginous rash under bilateral breasts and in axilla 
+ACCESS:  PIV
+
+TRANSFER PHYSICAL EXAM
+=======================
+avss 
+attentive and cooperative
+clear BS no focal wheezes or crackles
+soft abd
+regular s1 and s2
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 01:22PM BLOOD WBC-9.1 RBC-4.06* Hgb-12.1* Hct-37.8* 
+MCV-93 MCH-29.8 MCHC-32.0 RDW-13.7 RDWSD-46.7* Plt ___
+___ 01:22PM BLOOD Neuts-65.1 Lymphs-18.5* Monos-13.6* 
+Eos-2.0 Baso-0.4 Im ___ AbsNeut-5.89# AbsLymp-1.68 
+AbsMono-1.23* AbsEos-0.18 AbsBaso-0.04
+___ 10:34PM BLOOD ___ PTT-28.9 ___
+___ 01:22PM BLOOD Glucose-197* UreaN-26* Creat-1.2 Na-137 
+K-4.7 Cl-102 HCO3-24 AnGap-16
+___ 10:34PM BLOOD ALT-19 AST-17 LD(LDH)-178 AlkPhos-93 
+TotBili-0.3
+___ 01:22PM BLOOD cTropnT-<0.01
+___ 01:22PM BLOOD Calcium-9.8 Phos-2.7 Mg-2.0
+___ 05:48PM BLOOD ___ pO2-27* pCO2-45 pH-7.38 
+calTCO2-28 Base XS-0
+___ 01:29PM BLOOD Lactate-1.1
+
+___ 03:14AM BLOOD Plt ___
+___ 03:14AM BLOOD Glucose-166* UreaN-23* Creat-1.2 Na-137 
+K-4.0 Cl-102 HCO3-26 AnGap-13
+___ 03:14AM BLOOD Calcium-9.2 Phos-3.6 Mg-2.1
+___ 02:19PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 05:35PM BLOOD cTropnT-<0.01
+___ 01:22PM BLOOD cTropnT-<0.01
+
+EKG: Sinus tachycardia at 102 bpm, LAD, LBBB with frequent PVCs, 
+no TWI, no significant change compared to prior
+
+CXR ___:
+IMPRESSION:  
+Possible retrocardiac patchy opacification involving one of the 
+lower lobes, 
+best seen on the lateral view, could be due to pneumonia in the 
+appropriate 
+clinical setting versus atelectasis/ overlap of structures. 
+
+ECHO ___: 
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is mildly
+dilated. There is mild regional left ventricular systolic
+dysfunction with probable inferior hypokinesis. The remaining
+segments contract normally (LVEF = 40-45%). Right ventricular
+chamber size and free wall motion are normal. The diameters of
+aorta at the sinus, ascending and arch levels are normal. There
+is no aortic valve stenosis. No aortic regurgitation is seen.
+Trivial mitral regurgitation is seen. There is no pericardial
+effusion. 
+IMPRESSION: Suboptimal study. Mild regional left ventricular
+systolic dysfunction, c/w CAD.
+ 
+  
+
+ 
+Brief Hospital Course:
+___ with history of hypertension, anemia, coronary artery 
+disease, CKD, bladder cancer s/p ileal conduit/urostomy and 
+gallbladder carcinoma s/p cholecystectomy and partial 
+hepatectomy presenting with pneumonia.  
+
+# Sepsis: Admitted with tachycardia and fever, clinically met 
+criteria for sepsis ___ community acquired pneumonia. Sepsis now 
+resolving. Does also have urine positive for pansensitive E. 
+coli, although in the absence of urinary sxs and with compelling 
+clinical e/o pneumonia, suspect that this finding is incidental. 
+Last fever ___, within 48 hours of initiation of abx. 
+Initially treated with cefepime and azithromycin (___-), then 
+transitioned to PO azithromycin and cefpodoxime 
+
+# Frequent PVCs: Known nonobstructive CAD, PVCs complicated 
+hospital course in ___ at which time cardiology was 
+consulted; recommended BB, statin, and f/u with outpatient 
+cardiologist. Seen by Dr ___ ___ who suggested continue 
+BB, statin, consider stress test. At that time, recommended - 
+given his age, lack of symptoms, improvement in frequency of 
+ectopy (reported) with improvement in sepsis, and prior cath in 
+___ - no indication for PPM. PVCs again complicating sepsis, 
+hemodynamically stable, asymptomatic, with troponin negative x3 
+and electrolytes at goal.  Continued statin and beta blocker and 
+will f/u with cardiology.  
+
+# Encephalopathy. Likely toxic metabolic in the setting of PNA, 
+in combination with codeine use. Now at baseline cognitive 
+function per pt and son. 
+# CKD: Baseline Cr 1.2, at baseline.
+
+# Hypertension:Lisinopril initially held in setting of sepsis, 
+now resumed 
+# Hyperlipidemia/CAD: Continue atorvastatin BB as ___
+
+# Anemia: Normocytic, at baseline. Hb at baseline. If continues 
+to fall, would consider further w/u.
+# DM2: Last A1c was 7.4% on ___. Patient reportedly declined 
+medication in the past. hyperglycemia during hospitalization, 
+will have ___ check this on discharge
+
+# Bladder cancer status post cystoprostatectomy with urostomy 
+bag in place. Recurrent hospitalizations for urosepsis in the 
+past. Followed closely by Dr. ___ in urology. 
+# Gallbladder cancer: No evidence of recurrence. Formerly 
+followed by Dr. ___ in Hematology/Oncology, no longer 
+followed routinely given lack of disease recurrence ___ years.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+4. Calcium Carbonate 500 mg PO TID 
+5. Cyanocobalamin 1000 mcg PO DAILY 
+6. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+8. Metoprolol Tartrate 12.5 mg PO BID 
+9. Multivitamins 1 TAB PO DAILY 
+10. Vitamin B Complex 1 CAP PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Acetaminophen 650 mg PO BID:PRN pain 
+13. Ascorbic Acid ___ mg PO TID 
+14. Lisinopril 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 400 mg PO Q12H Duration: 4 Days 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*16 Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO BID:PRN pain  
+4.  Ascorbic Acid ___ mg PO TID  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 20 mg PO QPM  
+7.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  
+8.  Calcium Carbonate 500 mg PO TID  
+9.  Cyanocobalamin 1000 mcg PO DAILY  
+10.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID  
+11.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+12.  Lisinopril 5 mg PO DAILY  
+13.  Metoprolol Tartrate 12.5 mg PO BID  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  Vitamin B Complex 1 CAP PO DAILY  
+16.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+pneumonia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+you were hospitalized for treatment and evaluation of pneumonia. 
+ you will remain on antibiotics this week.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-25 | hadm_id=25159050
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fevers, altered mental status 
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ yo male w bladder CA with urostomy, gallbladder 
+CA, undergoing chemo tx for gallbladder cancer who was brought 
+to the ED via EMS for mental status changes and fever. Two days 
+prior to admission, he began to feel lethargic and stayed in bed 
+for over 24 hours. He had poor po intake and poor appetite. He 
+denied nausea, vomiting, diarrhea, fevers, chills, night sweats. 
+Per report, he did not know his birth date and slurring was his 
+speech. EMS was called by his family. His last chemotherapy with 
+gemzar was 3 weeks ago and so currently he is not neutropenic.
+
+Upon EMS arrival, he was febrile with Tmax 103, HR 130s BP 
+154/74 Sat 100% on non rebreather. He was brought to the ED 
+where was found to have positive urinary infection. CXR was 
+negative. Blood cultures were sent. He had a nonfocal neuro 
+exam: A&Ox2 on exam, did not know date, knew president, family 
+says he is at baseline. He has a temperature to 102-103, 
+leukocytosis of 13.2,  lactate of 2.3 which decreased to 1.6 
+with hydration. He was given 1g tylenol, 1g vancomycin, 2g 
+cefepime. Upon transfer to the floor, his vital signs were 99.6 
+HR 91 BP 129/71 RR 20 100% on 2L NC.
+ 
+Past Medical History:
+Past Oncologic History:
+In ___, he underwent a cystoprostatectomy with ileal loop 
+conduit and regional lymph node dissection for T3, N0, M0 
+transitional cell bladder carcinoma.  A subsequent surveillance 
+CT in ___ showed gallbladder wall thickening. MRCP showed 
+concern for gallbladder cancer.  An exploratory laparotomy on 
+___ revealed a likely cancer and resection was accomplished 
+in segments IVB and V of the liver along with a portal 
+lymphadenectomy.  The final pathology showed a moderately 
+differentiated adenocarcinoma of the gallbladder invading the 
+paramuscular connective tissue, pT2.  CA ___ was 287 
+preoperatively.  He elected to begin single agent adjuvant 
+therapy with Xeloda in ___ of this year.  After six doses, he 
+developed chest pain at rest.  A cardiac catheterization was 
+performed and it showed diffuse but low-grade cardiac disease 
+and no critical lesions.  The Xeloda was discontinued and on the 
+planned day one of Gemzar, he was hospitalized for MRSA 
+bacteremia with a likely source in the urine.  He completed a 
+four-week course of vancomycin and then underwent CyberKnife 
+treatment to the right upper quadrant from ___ to ___.  
+He was started on adjuvant single agent Gemzar on ___ at a 
+1000 mg/m2; days 1, 18, and 15.  The dose was reduced by 10% for 
+cycle two because of grade III thrombocytopenia.  His last dose 
+of gemzar was ___. 
+.
+Other Past Medical History:  
+Coronary artery disease
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit.
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___
+Glaucoma
+Osteopenia
+
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+VS: T: 97.7, BP: 110/48 (110-138/48-70), P: 64 (64-87), RR: 16 
+(___), 97% on RA
+GEN: well-appearing male in NAD, AAO x3
+CV: reg rate rhythm, no m/r/g
+PULM: CTAB
+ABD: BS+, soft, NT, ND, urostomy in place in RLQ
+EXT: no edema, DP, ___ 2+ bilaterally
+ 
+Pertinent Results:
+Hematology: 
+___ 06:00AM BLOOD WBC-6.5 RBC-2.85* Hgb-9.2* Hct-28.9* 
+MCV-102* MCH-32.4* MCHC-31.9 RDW-16.8* Plt ___
+___ 12:59PM BLOOD WBC-5.3 RBC-2.82* Hgb-9.1* Hct-28.2* 
+MCV-100* MCH-32.3* MCHC-32.3 RDW-16.4* Plt ___
+___ 06:55AM BLOOD WBC-6.1 RBC-2.94* Hgb-9.5* Hct-28.9* 
+MCV-99* MCH-32.4* MCHC-32.8 RDW-16.3* Plt ___
+___ 06:30AM BLOOD WBC-8.3 RBC-3.58* Hgb-11.6* Hct-36.6* 
+MCV-102* MCH-32.4* MCHC-31.7 RDW-16.4* Plt ___
+___ 07:00AM BLOOD WBC-10.7 RBC-3.15* Hgb-10.3* Hct-32.2* 
+MCV-102* MCH-32.6* MCHC-31.9 RDW-16.8* Plt ___
+___ 01:05PM BLOOD WBC-13.2*# RBC-3.30* Hgb-11.2* Hct-32.6* 
+MCV-99* MCH-34.0* MCHC-34.4 RDW-16.9* Plt ___
+___ 06:00AM BLOOD Neuts-74* Bands-0 Lymphs-12* Monos-9 
+Eos-2 Baso-0 Atyps-1* Metas-1* Myelos-1*
+___ 06:55AM BLOOD Neuts-77* Bands-0 Lymphs-7* Monos-14* 
+Eos-2 Baso-0 ___ Myelos-0
+___ 01:05PM BLOOD Neuts-95* Bands-0 Lymphs-3* Monos-2 Eos-0 
+Baso-0 ___ Myelos-0
+___ 06:00AM BLOOD ___ PTT-26.4 ___
+___ 01:05PM BLOOD ___ PTT-27.4 ___
+
+Chemistries: 
+___ 06:00AM BLOOD Glucose-112* UreaN-20 Creat-1.2 Na-145 
+K-4.1 Cl-111* HCO3-29 AnGap-9
+___ 06:55AM BLOOD Glucose-127* UreaN-21* Creat-1.3* Na-142 
+K-3.9 Cl-109* HCO3-24 AnGap-13
+___ 06:30AM BLOOD Glucose-133* UreaN-22* Creat-1.4* Na-140 
+K-4.0 Cl-105 HCO3-23 AnGap-16
+___ 07:00AM BLOOD Glucose-167* UreaN-28* Creat-1.3* Na-137 
+K-4.1 Cl-107 HCO3-21* AnGap-13
+___ 06:30AM BLOOD ALT-29 AST-35 LD(LDH)-284* CK(CPK)-89 
+AlkPhos-89 TotBili-0.4
+___ 07:00AM BLOOD ALT-21 AST-25 LD(LDH)-210 CK(CPK)-47 
+AlkPhos-79 TotBili-0.4
+
+Cardiac Biomarkers
+___ 06:30AM BLOOD CK-MB-4 cTropnT-0.02*
+___ 09:10PM BLOOD CK-MB-3 cTropnT-0.03*
+___ 03:50PM BLOOD CK-MB-3 cTropnT-0.06*
+___ 07:00AM BLOOD CK-MB-3 cTropnT-0.03*
+___ 09:15PM BLOOD CK-MB-2 cTropnT-0.04*
+___ 01:05PM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD Calcium-8.8 Phos-3.0 Mg-2.1
+___ 06:55AM BLOOD Calcium-8.9 Phos-2.5* Mg-2.1
+___ 07:00AM BLOOD Albumin-3.4* Calcium-8.4 Phos-1.4* Mg-2.1
+___ 07:00PM BLOOD Type-ART pO2-51* pCO2-34* pH-7.44 
+calTCO2-24 Base XS-0
+___ 07:00PM BLOOD Lactate-1.9
+___ 04:26PM BLOOD Lactate-1.6
+___ 01:07PM BLOOD Lactate-2.3*
+ 
+Brief Hospital Course:
+#UTI: UA was grossly positive for infection. He was febrile to 
+102-103 in the ED and up to 104 on the floor. Other signs of 
+infection included tachycardia, leukocytosis (WBC 13.2).  His 
+urostomy places him at risk of UTI. Given his male gender and 
+urostomy, his UTI is classified as complicated UTI. He was 
+started on ceftriaxone 1 gm q24h and Meropenem 500 mg IV Q8H. 
+Urine Cultures and blood cultures grew pan sensitive e. coli and 
+antibiotic changed to ciprfloxacin. 
+.
+#Tachycardia: Patient had several episodes of tachycardia to 
+160s, treated with metoprolol iv. Appeared to be SVT on 
+telemetry but may have been atrial tachycardia as HR came down 
+slowly with metoprol and did not break as would be expected with 
+SVT. Cardiac enzymes were mildly elevated to 0.06 but trended 
+down, likely from demand ischemia. Tachycardia likely secondary 
+to missing several doses of home metoprolol, volume depletion 
+and infection. His dose of metoprolol was increased to 25 mg po 
+bid as an outpatient. 
+
+#Altered mental status: He was oriented only to person and 
+hospital on arrival to the floor. He was also lethargic. His 
+mental status improved by hospital day 2 and was likely 
+secondary to acute infection and dehydration. 
+
+___: baseline creatinine 1.0, was elevated to 1.5 on admission. 
+Etiology was likely from volume depletion from poor po intake. 
+His lisinopril was held and was given IV fluids. His creatinine 
+trended down to 1.2 on discharge and his lisinopril was 
+restarted. 
+
+#Hypertension: Had an episode of hypertension to 199 in setting 
+of missing home meds. He was treated with hydralazine then 
+metoprolol increased to 25 mg po tid. BP normal at discharge and 
+dischaged on metoprolol 25 mg po bid and lisinopril 20 mg po qd. 
+
+
+#Gallbladder Cancer: getting treatment with gemzar, last dose 
+___, >3 weeks ago, no longer at risk for febrile neutropenia. 
+He will follow-up as an outpatient. 
+
+#Bladder Cancer: s/p bladder resection with ileal conduit. 
+Urostomy places patient at increased risk for UTI. He will 
+follow-up with his outpatient oncologist.
+.
+# Hx of CAD: Had elevated cardiac biomarkers to 0.06 in setting 
+of demand ischemia from tachycardia but now signficant QRS 
+changes. He was continued on his home doses of simvastatin, 
+metoprolol, aspirin.
+
+ 
+Medications on Admission:
+Bimatoprost (LUMIGAN) 0.03% 1 drop in each eye qHS
+BRIMONIDINE [ALPHAGAN P] - 0.15 % Drops - 1 gtt in each eye BID
+LISINOPRIL - 10 mg po daily
+METOPROLOL TARTRATE - 12.5 mg po BID
+PROCHLORPERAZINE MALEATE - 10 mg Tablet po q ___ prn nausea or 
+vomiting
+RANITIDINE HCL - 150 mg po daily
+SIMVASTATIN - 20 mg po daily
+ACETAMINOPHEN - 650 mg Tablet - BID prn
+ASCORBIC ACID [VITAMIN C] - 1,000 mg po daily
+ASPIRIN 81 mg po daily
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM+D] - 500 mg (1,250 mg)-200 
+unit po BID
+MULTIVITAMIN po daily
+VITAMIN B ___ po daily
+
+ 
+Discharge Medications:
+1. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+2. Lumigan 0.03 % Drops Sig: One (1)  Ophthalmic at bedtime.  
+3. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+every six (6) hours.  
+4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+6. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Calcium 500 + D 500 mg(1,250mg) -200 unit Tablet Sig: One (1) 
+Tablet PO twice a day.  
+8. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO twice 
+a day.
+Disp:*60 Tablet(s)* Refills:*0*
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO twice a 
+day as needed for pain.  
+10. lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day. 
+ 
+12. multivitamin  Oral
+13. Vitamin B Complex     Capsule Oral
+14. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 9 days.
+Disp:*18 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Urinary Tract Infection with Sepsis
+Bladder Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure taking part in your care. You were admitted to 
+the hospital with fever and confusion. You were found to have a 
+urinary tract infection that also spread to the blood. You were 
+treated with iv antibiotics until you were no longer having 
+fevers. You were then switched to oral antibiotics. The 
+instructions for this are: 
+
+ADDED Ciprofloxacin 100 mg twice a day for 9 more days 
+(stop ___.
+
+We also INCREASED metoprolol from 12.5 mg twice a day to 25 mg 
+twice a day.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-30 | hadm_id=27675630
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lethargy, confusion
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+___ yo M with history of CAD, CKD, bladder cancer s/p ileal 
+conduit/urostomy with recurrent UTI and  gallbladder carcinoma 
+s/p cholecystectomy and partial hepatectomy presenting with 
+lower back pain, increasing lethargy, and confusion. Patient has 
+been lethargic x 6 days with intermittent confusion. On ___ 
+he slid out of bed, couldn't get up for 30 min; no headstrike or 
+LOC. He has been very weak and today couldn't get out of bed. No 
+n/v/d, poor PO intake. He has a mild cough with associated 
+dyspnea. No abdominal pain. He has new onset mild R flank pain 
+on presentation to the ED. 
+
+Of note, he had a recent admission to the ___ ICU for CAP s/p 
+azithromycin and cefpodoxime, pansensitive E. coli UTI, and 
+sepsis from ___ to ___ with initial presentation of 
+non-productive cough and increasing lethargy. He was admitted to 
+the ICU for somnolence thought to be ___ to codeine 
+administration in the ED in combination with infection. He was 
+discharged home with ___. At follow up with geriatrics on ___, 
+he was at baseline (independent).
+
+In the ED, initial vitals were:  98.4 80 120/65 16 92% RA. He 
+spiked fevers up to 101.3 and was tachycardic to 118. Labs were 
+notable for WBC of 14.6 with PMN predominance, Cr 1.6 (baseline 
+1.1-1.2), elevated lactate of 2.1 that came down to 1.9 with 
+fluids. UA was notable for WBC 41, moderate blood, and protein. 
+CT head was negative for intracranial process. CXR shows 
+multifocal pneumonia. He was given cefipime and vancomycin.   
+
+On the floor,  feeling much better and children said that he is 
+almost back at baseline mentally.
+ 
+Past Medical History:
+Coronary artery disease - ___ cath with right dominant system. 
+The LMCA was patent. The LAD
+revealed mid 40%, DIAG 50% and diffuse distal distal disease in
+the large septal. The LCx with no significant disease. The RCA
+with mid 20% stenosis.  
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit 
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___ 
+Glaucoma
+Osteopenia
+Recurrent UTIs and bacteremias: MRSA, Enterococcus, Pan 
+sensitive E coli, Pan sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+Per OMR:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital Signs:  97.8 PO 133 / 76 95 20 99 3L 
+General: Alert, oriented x3, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Diminished at the bases with occasional crackles  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding. Surgical scar midline. 
+Urostomy stoma with bag in RLQ with urine with sediment. stoma 
+is c/d/i
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, trace edema
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, gait deferred.  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: T:98 BP:116/71 P:81 R:18 O2: 93% RA   
+I: 1760 O:2710 Balance: -950
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CLAB, no wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, S1 + S2, no murmurs, rubs
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly, midline 
+surgical scar extends across R hemithorax, well-healed 
+suprapubic midline scar, urosotomy draining clear, yellow urine. 
+no erythema, fluctuance surrounding urostomy site 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, 1+ edema, 
+lower extremities mildly cool to palpation but thighs warm
+Skin:  well-demarcated maculopapular rash overlying right axilla 
+improved
+Neuro:  CN II-XII intact, ___ strength ___ bilaterally, 
+grossly normal sensation 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:35PM BLOOD WBC-14.6*# RBC-4.03* Hgb-12.5* Hct-37.2* 
+MCV-92 MCH-31.0 MCHC-33.6 RDW-14.6 RDWSD-48.8* Plt ___
+___ 12:35PM BLOOD Neuts-85.6* Lymphs-5.9* Monos-7.8 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-12.47*# AbsLymp-0.86* 
+AbsMono-1.14* AbsEos-0.00* AbsBaso-0.02
+___ 12:35PM BLOOD Glucose-395* UreaN-30* Creat-1.6* Na-134 
+K-5.0 Cl-97 HCO3-21* AnGap-21*
+___ 12:35PM BLOOD ALT-79* AST-63* AlkPhos-117 TotBili-0.7
+___ 01:31PM BLOOD cTropnT-0.01
+___ 12:35PM BLOOD proBNP-4288*
+___ 12:35PM BLOOD Albumin-3.6 Calcium-9.3 Phos-2.6* Mg-2.0
+___ 12:50PM BLOOD Lactate-2.1*
+
+DISCHARGE LABS
+==============
+___ 06:10AM BLOOD WBC-9.4 RBC-3.60* Hgb-10.7* Hct-32.6* 
+MCV-91 MCH-29.7 MCHC-32.8 RDW-14.7 RDWSD-48.7* Plt ___
+___ 06:10AM BLOOD Glucose-189* UreaN-37* Creat-1.3* Na-138 
+K-4.3 Cl-98 HCO3-25 AnGap-19
+___ 06:10AM BLOOD ALT-118* AST-60* AlkPhos-129 TotBili-0.4
+___ 06:10AM BLOOD Calcium-9.8 Phos-3.7 Mg-1.9
+
+IMAGING
+========
+___ RUQUS: 
+The hepatic parenchyma appears diffusely echogenic consistent 
+with steatosis. Other forms of liver disease and more advanced 
+liver disease including steatohepatitis or significant hepatic 
+fibrosis/cirrhosis cannot be excluded on this study. 
+No other abnormality is identified on this ultrasound of the 
+abdomen 
+
+___ CXR:
+Compared to chest radiographs since ___, most recently ___. 
+ Lung volumes are much lower exaggerating mild pulmonary edema 
+and mild 
+cardiomegaly, however mediastinal veins are more distended and 
+unless this is a supine radiograph, that indicates elevated 
+central venous pressure or 
+volume.  The only focal pulmonary abnormality, heterogeneous 
+peribronchial 
+opacification in the right lower lobe is unchanged since ___.  This 
+could be atelectasis or very small region of pneumonia.  No 
+pneumothorax. 
+
+___ CT head:
+No acute intracranial process. 
+
+MICROBIOLOGY
+===============
+___ 2:20 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+      ESCHERICHIA COLI.    >100,000 CFU/mL. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+         PREDOMINATING ORGANISM INTERPRET RESULTS WITH CAUTION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___ 3:10 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      ESCHERICHIA COLI. 
+         FINAL SENSITIVITIES. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM NEGATIVE ROD(S). 
+      Reported to and read back by ___, ___ @ 
+06:04AM
+      (___). 
+
+ 
+Brief Hospital Course:
+___ yo M with history of CAD, CKD, bladder cancer s/p ileal 
+conduit/urostomy with recurrent UTI and  gallbladder carcinoma 
+s/p cholecystectomy and partial hepatectomy presenting with 
+increasing lethargy, and confusion, found to have multifocal 
+pneumonia on CXR, pyelonephritis, E.coli septicemia, acute on 
+chronic systolic heart failure, and acute on chronic renal 
+failure. 
+
+#E.coli urosepsis: Patient has long history of recurrent UTI and 
+has previously grown out MRSA and Enterococcus. Urine culture 
+and blood culture from ___ were found to have E.coli growth. 
+He was initially treated with vancomycin ___ 
+cefepime (___). On ___, he triggered for tachypnea to 
+48 and increased confusion and was transferred to the ICU. In 
+the ICU, antibiotic coverage was narrowed to ceftriaxone 
+(___) based on urine and blood culture growing 
+pansensitive E.coli. He was transferred to the floor on ___ 
+and a midline was placed for antibiotic administration. He will 
+complete 14 day course of ceftriaxone after discharge (last day 
+___.
+
+#Multifocal pneumonia: CXR ___ showed evidence of ill-defined 
+opacities in the mid to lower lungs noted bilaterally, L>R, 
+concerning for multifocal pneumonia. This is likely new 
+pneumonia given previous CAP (___) was found to be a lower 
+lobe pneumonia but unclear picture as patient also presented 
+with pulmonary edema. Patient was transferred to the ICU after 
+he had tachypnea and increased confsion. He was initially 
+treated with cefepime but narrowed to ceftriaxone in the ICU 
+after improvement in respiratory status. Azithromycin 
+(___) was added when he had fever to 103.2 overnight on 
+___. 
+
+#Acute on chronic kidney failure: Patient presented with Cr of 
+1.6 up from baseline of 1.1-1.2 initially caused by prerenal 
+azotemia from sepsis and secondarily by cardiorenal syndrome in 
+the setting of volume overload. With diuresis, Cr downtrended to 
+1.2-1.3 at the time of discharge. 
+
+#Transaminitis: LFTs downtrended to ALT/AST 118/60 on discharge. 
+On admission, ALT 137 AST 89 Alk phos 138 with normal Tbili 0.7 
+up from baseline normal LFTs. Likely congestive hepatopathy 
+given volume overload and secondary to ceftrriaxone. RUQ U/S 
+notable only for steatosis. Of note, the patient takes a lot of 
+over the counter supplements, and this should be addressed on 
+the outpatient setting.  
+
+#Acute Metabolic Encephalopathy: Encephalopathy and delirium 
+improved significantly with IVF, treatment of infection, and 
+increased metoprolol. Encephalopathy secondary to delirium and 
+infection significantly improved with treatment of infection as 
+well.
+
+#Ectopy/nonsustained ventricular tachycardia: Patient developed 
+significant ectopy in the setting of infection on ___. 
+Cardiology recommended increasing metoprolol to TID dosing with 
+improvement in amount of ectopy seen on telemetry. 
+
+# Type II DM: Blood glucose is elevated this admission. Last 
+HbA1c 7.4% and patient has refused treatment in the outpatient 
+setting. Likely worsened in the setting of infection. Insulin 
+sliding scale was used in the hospital.
+
+CHRONIC ISSUES 
+====================
+#CAD: continued home ASA 81 and Metoprolol 12.5mg TID
+#HLD: continued home atorvastatin 20mg 
+#HTN: hold lisinopril in the setting ___
+#Glaucoma: continued Brimonidine Tartrate 0.15% Ophth BID and  
+Latanoprost 0.005% Ophth. Soln
+#normocytic anemia: stable. colonoscopy ___ unremarkable. 
+#osteopenia: continued home calcium and vitamin D
+
+  
+# ADVANCE CARE PLANNING
+- Code Status: FULL (Confirmed)
+- HCP: ___ 
+___: Daughter 
+Phone number: ___ 
+
+TRANSITIONAL ISSUES:
+====================
+[] SUPPLEMENTS: Please address over the counter supplements as 
+patient presented with transaminitis.
+[] LAB WORK: Please check LFT and CHEM10 on ___.
+[] CONGESTIVE HEART FAILURE: Patient presented with fluid 
+overload and last echo was ___. Consider repeat 
+echocardiogram in the outpatient setting. Fluid overload was 
+thought to be secondary to fluid resuscitation in the setting of 
+sepsis; if he develops persistent fluid overload consider 
+standing diuresis in the outpatient setting.
+[] MEDICATION CHANGES: 
+NEW MEDICATIONS: CEFTRIAXONE (___)
+CHANGED MEDICATIONS: Metoprolol was increased from BID to TID 
+because of increased ectopy in setting of infection. 
+STOPPED MEDICATIONS: Lisinopril was stopped in setting of sepsis 
+and ___. Blood pressure on discharge was 110's/70's. Consider 
+restarting this medication if hypertension is noted in the 
+outpatient setting.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO BID:PRN pain 
+2. Ascorbic Acid ___ mg PO TID 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 20 mg PO QPM 
+5. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+6. Calcium Carbonate 500 mg PO TID 
+7. Cyanocobalamin 1000 mcg PO DAILY 
+8. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+9. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+10. Lisinopril 5 mg PO DAILY 
+11. Metoprolol Tartrate 12.5 mg PO BID 
+12. Multivitamins 1 TAB PO DAILY 
+13. Vitamin B Complex 1 CAP PO DAILY 
+14. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  CefTRIAXone 2 gm IV Q 24H 
+Last dose ___.  Metoprolol Tartrate 12.5 mg PO TID  
+3.  Acetaminophen 650 mg PO BID:PRN pain  
+4.  Ascorbic Acid ___ mg PO TID  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 20 mg PO QPM  
+7.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  
+8.  Calcium Carbonate 500 mg PO TID  
+9.  Cyanocobalamin 1000 mcg PO DAILY  
+10.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID  
+11.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Vitamin B Complex 1 CAP PO DAILY  
+14.  Vitamin D 1000 UNIT PO DAILY  
+15. HELD- Lisinopril 5 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until further instructed by your 
+physician
+
+ 
+___:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Urosepsis (pyelonephritis and E. Coli bacteremia)
+Acute on Chronic Congestive Heart Failure
+Acute on Chronic Kidney Disease
+Transaminitis
+Ectopy
+
+SECONDARY DIAGNOSIS
+===================
+Type II DM 
+CAD
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.
+
+You were admitted to ___ because you had a urinary tract, 
+blood, and lung infection. We treated you for antibiotics. You 
+also had a heart failure exacerbation and had fluid in your 
+lungs and legs. We gave you a diuretic, which is a medication 
+that helps you urinate and your breathing improved. Your heart 
+also had an abnormal heart rhythm and we increased one of your 
+heart medications. 
+
+You should continue with antibiotics and continue with your 
+rehab! You should also follow up with your primary care doctor 
+and urologist.
+
+We wish you the very best,
+Your care team at ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-28 | hadm_id=27702670
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ male with history of bladder cancer s/p ileal 
+conduit/urostomy and gallbladder carcinoma s/p ccy/partial 
+hepatectomy presents with three days of worsening 
+weakness/dizziness. Pt reports several months of feeling 
+fatigued as well as ___ weakness which he believes is primarily 
+secondary to hip pain. On review of records, he has a h/o hip 
+pain which was evaluated by orthopedics and felt to be secondary 
+to a right gluteus medius/minimus muscle strain in tendinopathy. 
+He states his ___ weakness and hip pain has improved with ___.
+
+Pt states he went golfing last week and then experienced 
+worsening fatigue. He noted his urine output in his urostomy 
+bag, which is normally clear yellow, was dark and cloudy. He has 
+also believes he may have had some subjective fevers at home as 
+well. In the setting of feeling unwell for several days, he 
+thinks he may have lost up to 10 lb. Denies cough, SOB, 
+wheezing, CP, n/v/d. No abdominal pain or change in bowel 
+habits. No recent travel or sick contacts. Per family members, 
+patient appeared somewhat confused and fatigued. Pt was seen by 
+his physician who obtained labs, significant for positive UA. 
+
+In the ED, initial vitals: 102.9 60 166/45 24 95% ra  
+-Labs were signficant for wbc ct 11.8, h/h 12.6/36.3, Cr 1.5, 
+trop 0.01, lactate 2.3. UA with many bacteria, mod leuks, pos 
+nitrites. 
+-Imaging signficant for CXR with relatively low lung volumes, 
+which accentuate the bronchovascular markings. Given this, 
+subtle bibasilar opacities may relate to vascular crowding, 
+however, underlying infection cannot be excluded in the 
+appropriate clinical setting. 
+-Pt was noted to have frequent NSVT ___ sec runs) on arrival. 
+Cardiology was consulted who recommended to treat primary 
+infection, no indication for anti-arrythmics.
+-Pt was given 1L NS, zosyn and tylenol.
+-On transfer, vitals were:  99.5 87 110/46 16 98% Nasal Cannula 
+
+On arrival to the MICU, pt states he is feeling well. Denies any 
+CP, SOB, abd pain, n/v.  
+
+Of note, he was last hospitalized in ___ with presumed 
+urosepsis (urine/blood cx not positive that admission). Prior 
+cx's include MRSA, Enterococcus, Pan sensitive E coli, Pan 
+sensitive klebsiella oxytoca. 
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies headache, sinus tenderness, congestion. Denies cough, 
+shortness of breath, or wheezing. Denies chest pain, chest 
+pressure, palpitations, or weakness. Denies nausea, vomiting, 
+diarrhea, constipation, abdominal pain, or changes in bowel 
+habits.  Denies rashes or skin changes.  
+
+ 
+Past Medical History:
+Coronary artery disease 
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit 
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___ 
+Glaucoma
+Osteopenia
+Recurrent UTIs and bacteremias: MRSA, Enterococcus, Pan 
+sensitive E coli, Pan sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+Vitals: 99.8, 118/60, 72, 98% on RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, dry MM
+NECK: supple, JVP not elevated 
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, no MRG 
+ABD: soft, non-tender, non-distended, urostomy bag draining dark 
+yellow urine, stoma pink and patent; well healed surgical scar
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  no rashes or lesions
+NEURO: AOx3, ___ upper and lower extremity strength; mildly 
+tremulous on exam 
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: Tm 98.4, 134/75, 76, 20, 96%RA
+General:  Pleasant, obese elderly male in NAD, A&Ox3
+HEENT:  Anicteric sclera, MMM
+CV:  RRR w/o m/r/g
+Lungs:  Clear to auscultation
+Abdomen:  Urostomy bag in place over stoma without erythema or 
+purulence, some mucus in the collection bag.
+Ext:  No edema
+
+ 
+Pertinent Results:
+==== ADMISSION LABS ====
+
+___ 01:35PM BLOOD WBC-9.1 RBC-4.04* Hgb-12.7* Hct-37.6* 
+MCV-93 MCH-31.3 MCHC-33.7 RDW-13.6 Plt ___
+___ 01:35PM BLOOD Neuts-69.0 ___ Monos-8.1 Eos-0.3 
+Baso-0.3
+___ 01:35PM BLOOD UreaN-26* Creat-1.4* Na-142 K-3.8 Cl-104 
+HCO3-27 AnGap-15
+___ 01:35PM BLOOD ALT-33 AST-29 CK(CPK)-44* AlkPhos-82 
+TotBili-0.6
+___ 01:35PM BLOOD Albumin-4.1 Calcium-11.3* Phos-3.7 Mg-1.9 
+Cholest-121
+___ 08:40PM BLOOD Lactate-2.3*
+
+==== PERTINENT LABS ====
+
+___ 08:33PM BLOOD WBC-11.8* RBC-3.95* Hgb-12.6* Hct-36.3* 
+MCV-92 MCH-31.9 MCHC-34.7 RDW-13.5 Plt ___
+___ 07:02AM BLOOD ___-9.0 RBC-3.55* Hgb-11.5* Hct-32.6* 
+MCV-92 MCH-32.3* MCHC-35.1* RDW-13.4 Plt ___
+___ 07:02AM BLOOD Glucose-187* UreaN-20 Creat-1.3* Na-140 
+K-3.9 Cl-103 HCO3-26 AnGap-15
+___ 01:35PM BLOOD %HbA1c-6.7* eAG-146*
+
+==== MICRO ====
+
+___ C.difficile PCR: NEGATIVE
+
+___ Blood Culture: No growth to date
+
+___ Urine Culture: No growth (final)
+
+URINE CULTURE FROM ___ (Finalized ___: 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed skin/genital flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      KLEBSIELLA OXYTOCA.    >100,000 ORGANISMS/ML.. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      GRAM POSITIVE BACTERIA.    >100,000 ORGANISMS/ML.. 
+         Alpha hemolytic colonies consistent with alpha 
+streptococcus or
+         Lactobacillus sp. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA OXYTOCA
+                             |          ESCHERICHIA COLI
+                             |          |   
+AMPICILLIN------------                8 S
+AMPICILLIN/SULBACTAM--  =>32 R        4 S
+CEFAZOLIN-------------  =>64 R      <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    32 S     <=16 S
+PIPERACILLIN/TAZO-----              <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+==== IMAGING ====
+
+EKG (___):
+Marked resting sinus tachycardia with atrial premature beats. 
+Frequent 
+ventricular premature beats and a five beat run of non-sustained 
+ventricular tachycardia at a rate of about 160. Left atrial 
+abnormality. Intraventricular conduction delay with left axis 
+deviation. Non-specific ST-T wave changes. Cannot exclude prior 
+inferior wall myocardial infarction. Cannot exclude anterior 
+wall myocardial infarction in the presence of the 
+intraventricular conduction delay. Compared to the previous 
+tracing of ___ non-sustained ventricular tachycardia is now 
+seen. Clinical correlation is suggested. 
+
+CXR (___):
+Relatively low lung volumes, which accentuate the 
+bronchovascular markings. Given this, subtle bibasilar opacities 
+may relate to vascular crowding, however, underlying infection 
+cannot be excluded in the appropriate clinical setting. If 
+clinical concern persists, suggest dedicated PA and lateral 
+views when patient able.
+
+TTE (___):
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity is mildly 
+dilated. There is mild regional left ventricular systolic 
+dysfunction with probable inferior hypokinesis. The remaining 
+segments contract normally (LVEF = 40-45%). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. There 
+is no aortic valve stenosis. No aortic regurgitation is seen. 
+Trivial mitral regurgitation is seen. There is no pericardial 
+effusion. 
+IMPRESSION: Suboptimal study. Mild regional left ventricular 
+systolic dysfunction, c/w CAD. Compared with the prior study 
+(images reviewed) of ___, the findings are similar.  
+
+EKG (___):
+Resting sinus tachycardia. Compared to the previous tracing of 
+___ 
+abnormalities are as reported including frequent ventricular 
+premature 
+beats with a single ventricular couplet. Non-sustained 
+ventricular tachycardia is not noted on the present tracing. P-R 
+interval prolongation, especially considering the heart rate. 
+Clinical correlation is suggested. 
+
+CXR (___):
+As compared to previous radiograph of 1 day earlier, increased 
+lung volumes are associated with improved aeration at both lung 
+bases.  No other relevant changes. 
+
+RENAL ULTRASOUND (___):
+Normal kidneys bilaterally.  No perinephric abscess identified.
+
+ 
+Brief Hospital Course:
+___ male with history of bladder cancer s/p ileal 
+conduit/urostomy and gallbladder carcinoma s/p cholecystectomy 
+and partial hepatectomy who presented with three days of 
+worsening weakness/dizziness, subsequently found to have sepsis 
+from a urinary source.
+
+# Sepsis: On admission, patient met ___ SIRS criteria with 
+fevers and leukocytosis. Presumed source was urinary given 
+positive UA and h/o urosepsis in past, as well as predisposition 
+to UTI due to his urostomy. CXR could not rule out infection 
+however no clinical signs of pneumonia such as cough or SOB. 
+Initially admitted to MICU given hypotension to mid-80s systolic 
+blood pressure. His hypotension was readily responsive to 2L of 
+normal saline. He was treated with vancomycin and zosyn given 
+prior urine culture data dating back to ___ with various 
+organisms including Klebsiella (zosyn sensitive), MRSA, 
+enterococcus, and pan-sensitive E.coli. This admission, his 
+urine culture grew Klebsiella oxytoca (resistant only to 
+ampicillin/sulbactam) and pan-sensitive E.coli. He was therefore 
+switched from vanc/zosyn to ciprofloxacin PO on ___. Bilateral 
+renal ultrasound on ___ revealed no evidence of perinephric 
+abscess. Blood cultures were without growth at time of 
+discharge.
+
+# Non-Sustained Ventricular Tachycardia: Patient had multiple 
+runs of NSVT on arrival to ED, likely triggered by sepsis. 
+Cardiology was consulted and recommended outpatient stress test 
+with imaging once the patient recovers from his acute illness. 
+They also recommended re-initiation of his beta blocker once 
+hemodynamically stable from his sepsis. His metoprolol was 
+subsequently restarted on ___. The patient's ectopy became 
+notably less frequent with treatment of his sepsis and 
+improvement in his clinical condition. TTE revealed no 
+significant changes from his prior study. He will undergo an 
+outpatient cardiac stress test with imaging to be arranged by 
+his cardiologist Dr. ___.
+
+==== TRANSITIONAL ISSUES ====
+
+# NSVT
+- Follow up appointment with Dr. ___ on ___ at 
+which time an outpatient stress test with imaging can be 
+scheduled (as per the recommendations of the inpatient 
+cardiology consult service)
+
+# Sepsis
+- Patient will complete a total of 14 days of antibiotics for 
+his urosepsis (___) and was discharged on ciprofloxacin PO
+
+# Systolic CHF:
+- Patient's lisinopril was held during his admission due to soft 
+blood pressures. Please re-assess the indications for this 
+medication at follow up.
+
+CODE: Full (confirmed)  
+EMERGENCY CONTACT HCP: ___ (___, ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ascorbic Acid ___ mg PO TID 
+2. Aspirin 81 mg PO DAILY 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+4. Calcium Carbonate 500 mg PO TID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Vitamin B Complex 1 CAP PO DAILY 
+7. Lisinopril 5 mg PO DAILY 
+8. Metoprolol Tartrate 12.5 mg PO BID 
+9. Acetaminophen 650 mg PO BID:PRN pain 
+10. Atorvastatin 20 mg PO QPM 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Cyanocobalamin 1000 mcg PO DAILY 
+13. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+14. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+
+ 
+Discharge Medications:
+1. Outpatient Physical Therapy
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 20 mg PO QPM 
+4. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+5. Calcium Carbonate 500 mg PO TID 
+6. Cyanocobalamin 1000 mcg PO DAILY 
+7. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+8. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+9. Metoprolol Tartrate 12.5 mg PO BID 
+10. Multivitamins 1 TAB PO DAILY 
+11. Vitamin B Complex 1 CAP PO DAILY 
+12. Vitamin D 1000 UNIT PO DAILY 
+13. Ciprofloxacin HCl 500 mg PO Q12H Duration: 11 Days 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*22 Tablet Refills:*0
+14. Acetaminophen 650 mg PO BID:PRN pain 
+15. Ascorbic Acid ___ mg PO TID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Sepsis arising from a urinary source
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ on ___ with progressive weakness. 
+You were found to have sepsis which originated from a urinary 
+tract infection. You were treated with antibiotics and fluids 
+and have made an excellent recovery. You are now ready for 
+discharge home where you will receive home physical therapy to 
+help you regain your strength.
+
+It was a pleasure to take care of you during your hospital stay.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-21 | hadm_id=29159385
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p 11 hour Cystectomy 
+ 
+Major Surgical or Invasive Procedure:
+s/p 11 hour Cystectomy 
+ 
+History of Present Illness:
+A ___ year old gentleman with a history of high grade 
+transitional cell carcinoma of the bladder diagnosed ___ after 
+episodes of gross hematuria. His metastatic work up has been 
+negative thus far. He is currently s/p an 11 hour radical 
+cystoprostatectomy with regional node dissection and ileal 
+conduit.  
+.  
+His 11-hour operative course was significant for ~1800mL of 
+blood loss, 8 liters of Crystalloid, 500mL of albumin and 2 
+units of pRBCs. 
+ 
+Past Medical History:
+TIAs, R Carotid Endarterectomy ___  
+Obstructive Sleep Apnea  
+Duodenal Ulcer  
+Hypertension  
+Gout  
+Glaucoma  
+
+ 
+Social History:
+___
+Family History:
+No family history of GU Cancer 
+ 
+Pertinent Results:
+___ 07:05AM BLOOD WBC-15.6*# RBC-3.18* Hgb-9.8* Hct-29.2* 
+MCV-92 MCH-30.8 MCHC-33.6 RDW-14.4 Plt ___
+___ 07:05AM BLOOD Glucose-147* UreaN-16 Creat-0.9 Na-138 
+K-4.4 Cl-103 HCO3-27 AnGap-12
+___ 10:00PM BLOOD Albumin-2.6* Calcium-7.7* Phos-1.5*# 
+Mg-1.7
+ 
+Brief Hospital Course:
+The patient was admitted to the Urology service after undergoing 
+cystectomy and creation of an ileal conduit on ___.  Please 
+see the dictated operative note for details.  He was initially 
+admitted to the ICU, where he was kept intubated overnight and 
+extubated in the AM.  His ICU course was essentially 
+uncomplicated.  He did have one night of delirium and confusion 
+that required administration of haldol.  This resolved in the AM 
+and did not occur again in his hospitalizion. 
+
+He was transferred to the floor, where he he progressed well, 
+slowly advancing his diet after passage of flatus and ambulating 
+with the help of ___.  On ___, he was noted to have 
+significant drainage of clear serous fluid from the lower aspect 
+of his midline abdominal wound.  An ostomy bag was placed over 
+the wound, with output > 1L/day.  This fluid was sent for 
+creatinine, which was noted to be significantly elevated, highly 
+suspicious for urine leak.  A CT Urogram was performed on 
+___ which demonstrated extravasation of contrast around the 
+ileal conduit.  The exact location of the leak could not be 
+localized.  
+
+On ___, a loop-o-gram was performed under fluouroscopy in an 
+attempt to localize the urine leak.  Unfortunately, the leak 
+could not be localized.  On ___, a left antegrade 
+nephrostogram was performed, which demonstrated that the left 
+ureteroileal anastamosis was intact and without a leak.  The 
+scan did demonstrate a persistent extravasation of contrast 
+which once again, could not be localized.  
+
+On ___, repeat L antegrade nephrostogram and L PCN removal 
+was performed, which again demonstrated a leak that could not be 
+localized.  A urethral catheter was placed to drain the 
+abdominal cavity.  At first, this drained significantly, and the 
+fluid was sent for creatinine, which was consistent with urine.  
+A catheter was also placed into the ileal loop to decompress the 
+loop.  This drained significantly, and also significantly 
+reduced the amount of drainage from the abdominal drain.  In 
+fact, creatinine checks of the abdominal drain after catheter 
+decompression of the loop were NOT consistent with urine (all 
+creatinines were <1.5).  
+
+The patient's urine leak was therefore managed conservatively 
+with catheter decompression of the loop.  Multiple CT Urograms 
+were performed to evaluate the urine leak, which reduced 
+significantly before discharge.  The ostomy appliance was 
+changed before discharge, and the catheter in the urostomy was 
+replaced and sutured to the ostomy appliance.  Strict 
+instructions were given to the rehab facility not to manipulate 
+the ostomy appliance or the catheter decompressing the loop.  Of 
+onte, three days before discharge, the output from the pt's 
+abdominal drain appeared milky.  It was sent for triglycerides, 
+which was elevated > 110, consistent with a small chylous leak.  
+However, the volume of leak/day was significantly < 500 cc, and 
+was therefore considered not to be clinically significant.  
+Nevertheless, the patient was instructed to eat a low-fat diet 
+high in medium-chain triglycerides.  Before discharge, the 
+patient completed a seven day course of ceftriaxone for empiric 
+prophylaxis against forming infected fluid collections in the 
+pelvis.  The pt remained afebrile throughout his 
+hospitalization.  On discharge to rehab, he was walking without 
+difficulty, including traversing stairs, his urostomy was 
+draining well with catheter decompression, and his urethral 
+catheter was removed.  He was given instructions to call Dr. 
+___ office to arrange a f/u appt the ___ after 
+discharge, at which point his ostomy appliance would be changed 
+with the help of the ostomy nurse.  
+ 
+Medications on Admission:
+Lumigan 0.03% 1 gtt ___  
+Alphagan 0.15% 1 gtt ___ BID  
+HCTZ 12.5mg PO Daily  
+Lisinopril 20mg PO Daily  
+Metoprolol 12.5mg PO BID  
+Ranitidine 150mg PO BID  
+Simvastatin 20mg PO Daily  
+MVI 1 tab PO daily  
+Vitamin C 1g PO Daily  
+B Complex 1 tab PO Daily  
+Calcium + Vit D3 500mg/200International Units PO BID  
+
+ 
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+4. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours).  
+6. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bladder cancer
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Rehab:
+1. Please do not manipulate the foley catheter that is in his 
+ileal conduit - this is essential to his treatment and should 
+not be manipulated.  His ostomy appliance will be changed at his 
+next urology outpatient appointment.  Please do not change it 
+until then, or unless there is an emergency.
+2. Please walk with patient daily at last four times.
+3. Please keep the ostomy bag to gravity drainage to a foley bag 
+at all times unless the pt is being transported.  
+4. Please call if there is any drainage from his midline 
+abdominal wound.
+5. Please call if the pt's creatinine is increasing > 1.2, as 
+this may be an indication of an ongoing urine leak
+6. Please check the pt's serum creatinine every other day.
+
+-Please resume all home meds
+
+-Do not drive while taking oxycodone. Please take Tylenol in 
+addition to oxycodone, and transition to Tylenol as pain 
+improves.
+
+-You may shower, but do not immerse incision, no tub 
+baths/swimming.
+
+-Small white steri-strips bandages will fall off in ___ days, 
+you may remove at that time if irritating.
+
+-Call if incision becomes markedly more red, swollen, or begins 
+to drain purulent fluid, or for fever more than 101.5.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-27 | hadm_id=29252108
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with h/o bladder cancer s/p cystoprostatectomy
+with ileal loop conduit, gallbladder cancer sp resection, cyber 
+knife and chemo, chief complaint of generalized weakness and a 
+shaky LLE. Pt went for surveillance CT torso w/ contrast on 
+___. Since then has felt progressively weaker, unable to 
+walk without holding onto something which is an acute change. 
+Left leg has felt "shaky" and he has gotten winded easily with 
+exertion. He has noticed his urine looking darker and cloudier. 
+Notes poor PO intake over last two days.
+
+Denies fevers, chills, SOB, CP, HA, dizziness, back pain, bowel 
+incontinence, diarrhea.
+
+In the ED, initial vitals were:  99.7 99 137/47 20 100%. 
+Urine/blood cx sent. UA dirty. Cr 2.2 (baseline 1.2-1.4). CT 
+head neg. Received 2L IVF, 1g CTX. Lactate 3.4->1.7 with fluids.
+   
+Vitals prior to transfer 99.3 108 166/84 18 96% RA.  
+
+On the floor, pt symptoms are unchanged from before. His urine 
+looks lighter since getting IVF, sediment is at baseline.   
+ 
+Past Medical History:
+Coronary artery disease (cath ___: 1. Coronary angiography 
+demonstrated a right dominant system. The LMCA 
+was patent. The LAD revealed mid 40%, DIAG 50% and diffuse 
+distal distal disease in the large septal. The LCx with no 
+significant disease. The RCA with mid 20% stenosis.) 
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit (recent surveillance CT 
+torso neg).
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___ ((recent 
+surveillance CT torso neg)
+Glaucoma
+Osteopenia
+Recurrent UTIs and bacteremias: MRSA, Enterococcus, Pan 
+sensitive E coli, Pan sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+
+Vitals: 99.5 150/96 130 26 96% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MM slightly dry, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD or bruits  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Tachy rate, with premature beats noted overlying regular 
+rhythm, normal S1 + S2, aortic flow murmur, no rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly, surgical 
+scars noted, ostomy is pink, draining cloudy yellow urine with 
+mucous (per pt mucous is baseline). No CVA tenderness  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: R elbow with circumferential erythema in the shape of a 
+tourniquet, erythematous patches noted in bilateral axillae with 
+underlying hyperpigmentation, abd binder band is tight with 
+liner excoriation and erythema on the left flank.  
+Neuro: A+Ox3, CN II-XII intact, strength ___ in BUE/BLE, 
+sensation intact to light touch throughout, straight leg raise 
+neg, no spinal tenderness or stepoffs.
+Rectal: Nml tone, scant non-bloody stool noted in rectal vault, 
+no masses  
+
+DISCHARGE PHYSICAL EXAM:
+
+Vitals: 98.3 98.7 142/72 89 20 96% RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD or bruits  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Tachy rate, with premature beats noted overlying regular 
+rhythm, normal S1 + S2, aortic flow murmur, no rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly, surgical 
+scars noted, ostomy is pink, draining cloudy yellow urine with 
+mucous (per pt mucous is baseline). 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: R elbow with circumferential erythema in the shape of a 
+tourniquet, erythematous patches noted in bilateral axillae with 
+underlying hyperpigmentation, abd binder band is tight with 
+liner excoriation and erythema on the left flank, improving.  
+Neuro: A+Ox3, CN II-XII grossly intact, strength ___ in BUE/BLE, 
+sensation intact to light touch throughout
+Rectal: Nml tone, scant non-bloody stool noted in rectal vault, 
+no masses  
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 11:58AM   PLT COUNT-180
+___ 11:58AM   NEUTS-73.4* LYMPHS-15.4* MONOS-10.6 EOS-0.1 
+BASOS-0.5
+___ 11:58AM   WBC-10.4# RBC-4.06* HGB-12.7* HCT-38.5* 
+MCV-95 MCH-31.4 MCHC-33.1 RDW-13.0
+___ 11:58AM   CALCIUM-8.9 PHOSPHATE-2.8 MAGNESIUM-2.0
+___ 11:58AM   GLUCOSE-239* UREA N-40* CREAT-2.2* SODIUM-136 
+POTASSIUM-5.5* CHLORIDE-98 TOTAL CO2-23 ANION GAP-21*
+___ 12:18PM   LACTATE-3.4*
+___ 12:18PM   ___ COMMENTS-GREEN TOP
+___ 01:45PM URINE  AMORPH-MOD
+___ 01:45PM URINE  RBC-1 WBC-17* BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 01:45PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-7.5 
+LEUK-MOD
+___ 01:45PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 01:45PM URINE  UHOLD-HOLD
+___ 01:45PM URINE  OSMOLAL-462
+___ 01:45PM URINE  HOURS-RANDOM CREAT-81 SODIUM-44 
+POTASSIUM-28 CHLORIDE-33
+___ 04:14PM   LACTATE-1.6
+___ 07:30PM   PLT COUNT-165
+___ 07:30PM   WBC-9.8 RBC-3.95* HGB-12.3* HCT-37.5* MCV-95 
+MCH-31.1 MCHC-32.7 RDW-13.1
+___ 07:30PM   CALCIUM-8.5 PHOSPHATE-1.8* MAGNESIUM-1.8
+___ 07:30PM   GLUCOSE-219* UREA N-31* CREAT-1.6* SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-22 ANION GAP-15
+___ 11:16PM   LACTATE-2.2*
+___ 11:16PM   TYPE-MIX PO2-121* PCO2-34* PH-7.42 TOTAL 
+CO2-23 BASE XS--1
+
+DISCHARGE LABS:
+
+___ 07:00AM BLOOD WBC-5.5 RBC-3.71* Hgb-11.4* Hct-35.7* 
+MCV-96 MCH-30.8 MCHC-32.0 RDW-13.1 Plt ___
+___ 07:00AM BLOOD Glucose-167* UreaN-21* Creat-1.4* Na-139 
+K-4.1 Cl-104 HCO3-27 AnGap-12
+___ 07:00AM BLOOD Calcium-8.8 Phos-2.6* Mg-2.2
+___ 06:07PM BLOOD Lactate-1.7
+
+MICROBIOLOGY:
+
+___ 11:50 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+___ 1:45 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+STUDIES:
+
+Cardiovascular ReportECGStudy Date of ___  6:06:10 ___
+ 
+Sinus tachycardia. Left bundle-branch block. Frequent 
+ventricular premature
+beats. Compared to the previous tracing the rate has increased.
+
+CHEST TWO VIEWS, ___
+ 
+FINDINGS:  PA and lateral views of the chest.  There are faint 
+bibasilar
+opacities, potentially due to atelectasis.  Superiorly, the 
+lungs are clear. 
+The cardiomediastinal silhouette is within normal limits, top 
+normal in size. 
+Atherosclerotic calcification is seen at the aortic arch.  No 
+acute osseous
+abnormality is identified.  Surgical clips seen in the right 
+upper quadrant.
+ 
+IMPRESSION:  No acute cardiopulmonary process.
+
+CT head non-contrast ___:
+
+FINDINGS:
+ 
+There is no evidence of hemorrhage, edema, mass effect, or large 
+vascular
+territorial infarction.  Prominent ventricles and sulci suggest 
+age related
+global atrophy.  Minimal subcortical white matter hypodensities 
+are
+nonspecific but likely sequelae from chronic small vessel 
+ischemic disease,
+unchanged.  The basal cisterns appear patent and there is 
+preservation of
+gray-white matter differentiation.  
+ 
+No fracture is identified.  There is moderate mucosal thickening 
+of the
+bilateral ethmoid air cells.  The patient is status post prior 
+sinus surgery. 
+The remaining visualized paranasal sinuses, mastoid air cells, 
+and middle ear
+cavities are clear.  The globes are unremarkable.  
+ 
+IMPRESSION:
+ 
+No evidence of acute intracranial process.  
+
+ 
+Brief Hospital Course:
+___ year old M w/ history of transitional cell CA sp 
+cystoprostatectomy with ileal loop conduit ___, in 
+remission), gallbladder carcinoma s/p ___, 
+cyberknife and chemo (coompleted in 
+___, recurrent UTIs and bacteremia, who presents with 
+generalized weakness, unstable gait, found to have positive UA, 
+likely consistent with UTI/urosepsis.  
+
+#Urosepsis: Pt with h/o of recurrent UTIs/bacteremia from ileal 
+conduit. Prior cx's include MRSA, Enterococcus, Pan sensitive E 
+coli, Pan sensitive klebsiella oxytoca. He presented with 
+generalized weakness, difficulty ambulating, a positive UA, 
+relative leukocytosis, and ___ SIRS criteria. Cultures from 
+blood/urine from this admission never grew out but this was 
+presumed to be recurrent urosepsis. He clinically improved 
+significantly with 6L IVF resuscitation empiric coverage with 
+vancomycin/cefepime. Lactate trended down. There was no CVA 
+tenderness to suggest perinephri abscess. He was transitioned to 
+PO Bactrim to complete a 2 week course.
+
+# SIRS criteria: Felt to likely be ___ recurrent urosepsis as 
+above. There was no e/o pna on CXR. No diarrhea to suggest 
+Cdiff. Skin findings were not c/w cellulitis. No neuro findings 
+or back pain to suggest epidural abscess. No headache to suggest 
+meningitis. Not on steroids so AI was felt to be unlikely. SIRS 
+criteria resolved with IVF and antibiotics as above.
+
+___: Cr 2.2 on presentation (baseline: 1.0-1.4). FeNa 0.88, 
+likely representing pre-renal azotemia in the setting of poor PO 
+intake and sepsis. There may have been a component of contrast 
+induced nephropathy as received contrast dose on ___. Improved 
+to 1.4 at discharge with IVF and supportive measures, with mml 
+urine output. 
+
+# Unstable gait: Head CT was neg. Neuro exam was non-focal, no 
+back pain or spinal tenderness on exam, rectal tone was wnl. He 
+had spinal imaging 2 days prior to admission which showed spinal 
+DJD. Gait difficulties were felt to likely be ___ systemic 
+illness and hypovolemia. Pt was able to ambulate without 
+difficulty prior to discharge.
+
+# Skin findings: Elbow and axillae erythema were c/w contact 
+dermatitis. Excoriations were noted under the abdominal binder 
+on his left flank. Given Triamcinalone to contact dermatitis 
+areas and Bactroban to excoriations.
+
+# CAD: Cath in ___ with diffuse but no critical dx. Denied 
+CP/SOB, EKG was non-ischemic. It was unclear why pt stopped his 
+statin. Held home metoprolol and lisinopril on admission given 
+sepsis but restarted these at discharge. Continued home aspirin.
+
+#HTN: BP stable during this admission. As above, held home 
+metoprolol and lisinopril on admission given sepsis but 
+restarted these at discharge.
+
+#Glaucoma: Continued home eye drops. 
+  
+#Gallbladder Carcinoma: sp resection in ___, cyberknife and 
+chemo (completed in ___. Stable with low ___ and no 
+evidence of disease progression per recent CT.  
+
+#Bladder Cancer: s/p bladder resection with ileal conduit in 
+___. No e/o recurrence on CT recently.  
+
+Transition issues:
+- Outpt PCP ___ as above
+- Complete a 2 week course of Bactrim through ___ 
+- ___ pending blood cultures 
+- Consider restarting statin as outpatient if patient is able to 
+tolerate
+ 
+Medications on Admission:
+1. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+2. Lisinopril 10 mg PO DAILY 
+3. Metoprolol Tartrate 12.5 mg PO BID 
+4. Multivitamins 1 TAB PO DAILY 
+5. bimatoprost .03 % ophthalmic QHS 
+6. Calcium Carbonate 500 mg PO TID 
+7. Aspirin 81 mg PO DAILY 
+8. Vitamin B Complex 1 CAP PO DAILY 
+9. Ascorbic Acid ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+4. Calcium Carbonate 500 mg PO TID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Vitamin B Complex 1 CAP PO DAILY 
+7. bimatoprost .03 % ophthalmic QHS 
+8. Lisinopril 10 mg PO DAILY 
+9. Metoprolol Tartrate 12.5 mg PO BID 
+10. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 11 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*22 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+Sepsis
+Possible recurrent urinary tract infection
+Acute kidney injury
+
+Secondary diagnoses:
+S/p Ileal conduit
+Hypertension
+Glucose intolerance
+H/o bladder cancer
+H/o gallbladder cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___. You were admitted 
+with an infection, possibly from your urinary tract, although we 
+never identified a source. You were given IV fluids and 
+antibiotics and started to feel better. We are discharging you 
+to complete a 2 week course of antibiotics for this possible 
+urinary tract infection.
+
+Please keep all of your followup appointments.
+
+Best wishes, 
+
+Your ___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14374967-DS-26 | hadm_id=29950824
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with h/o bladder cancer s/p cystoprostatecyom 
+with ileal loop conduit, gallbladder cancer sp resection, cyber 
+knife and chemo, and frequent UTIs who presents with lethargy 
+for 1 day. Pt states he was in his usual state of health, very 
+active at work, when he started to feel lethargic yesterday 
+afternoon after work. He came home and slept for most of the 
+day. He reports feeling generalized body weakness, sweats, some 
+bilateral hip pain, which he often feels when he has had UTIs in 
+the past. He reports eating and drinking very little all day 
+yesterday and subsequently noted decreased urine output. Denies 
+any burning, no urinary urgency, no frequency, no suprapubic 
+pain, no fevers at home, no chills.  
+.  
+In the ED, initial VS were T 99.4 HR 93 BP 171/77 16 99% RA. He 
+was given 2L IVF, tylenol, and ciprofloxacin. He was sleepy but 
+fully arousable. Exam was nonfocal. Labs significant for WBC 
+12.0, lactate 3.0, Creat 1.6 (baseline 1.0-1.4). Given 2L IV 
+fluid. UA showed leukos and bacteria. Vitals prior to transfer: 
+T101.9 HR102 BP 154/84 20 98%2L.  
+.  
+Upon transfer to the floor, pt reports feeling stronger then 
+earlier. He is noticed to be rigoring. Notes that he has had 
+UTIs in the past, most recently in ___. Prior UTI bugs: E 
+coli pan sensitive, MRSA and enterococcus (both found in blood 
+cx and urine cx, throught to originate from UTI in ___, pan 
+sensitive klebsiela oxytoca.  
+.  
+ROS: Denies headache, vision changes, rhinorrhea, congestion, 
+sore throat, cough, shortness of breath, chest pain, abdominal 
+pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+Past Oncologic History:
+In ___, he underwent a cystoprostatectomy with ileal loop 
+conduit and regional lymph node dissection for T3, N0, M0 
+transitional cell bladder carcinoma.  A subsequent surveillance 
+CT in ___ showed gallbladder wall thickening. MRCP showed 
+concern for gallbladder cancer.  An exploratory laparotomy on 
+___ revealed a likely cancer and resection was accomplished 
+in segments IVB and V of the liver along with a portal 
+lymphadenectomy.  The final pathology showed a moderately 
+differentiated adenocarcinoma of the gallbladder invading the 
+paramuscular connective tissue, pT2.  CA ___ was 287 
+preoperatively.  He elected to begin single agent adjuvant 
+therapy with Xeloda in ___ of this year.  After six doses, he 
+developed chest pain at rest.  A cardiac catheterization was 
+performed and it showed diffuse but low-grade cardiac disease 
+and no critical lesions.  The Xeloda was discontinued and on the 
+planned day one of Gemzar, he was hospitalized for MRSA 
+bacteremia with a likely source in the urine.  He completed a 
+four-week course of vancomycin and then underwent CyberKnife 
+treatment to the right upper quadrant from ___ to ___.  
+He was started on adjuvant single agent Gemzar on ___ at a 
+1000 mg/m2; days 1, 18, and 15.  The dose was reduced by 10% for 
+cycle two because of grade III thrombocytopenia.  His last dose 
+of gemzar was ___. 
+.
+Other Past Medical History:  
+Coronary artery disease
+Hypercholesterolemia
+Glucose intolerance
+Hypertension
+Remote hx bladder ca s/p ileal conduit.
+S/p right carotid endarterectomy in ___
+Gallbladder carcinoma s/p cholecystectomy ___
+Glaucoma
+Osteopenia
+Recurrent UTI: MRSA, Enterococcus, Pan sensitive E coli, Pan 
+sensitive klebsiella
+
+ 
+Social History:
+___
+Family History:
+- Sister who developed breast cancer in her ___  
+- Sister with thyroid disease  
+- Brother with diabetes  
+- Mother died in ___ of MI  
+- Father died in ___ of Alzheimer's disease  
+ 
+Physical Exam:
+Admission Exam:
+VS - Temp 99.6 F, 132/60 BP , 60 HR , 18 R ,99 O2-sat % RA  
+GENERAL - NAD, comfortable, appropriate, rigoring  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no JVD, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - distant heart sounds, RRR, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no rebound/guarding, has urostomy in 
+place, no erythema of wound.  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+LYMPH - no cervical LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout  
+
+Discharge exam:
+T 97.8, BP 130/58, HR 64, 96-100%RA
+Comfortable, nad 
+Cardiac: RRR< no mrg
+Pulm: ctab, no crr
+Abd: soft, nt, nd, pos bs, urostomy draining clear urine
+Ext: no pedal edema, no calf tenderness
+
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 05:01PM   LACTATE-1.7
+___ 11:10AM   WBC-12.0*# RBC-3.98* HGB-12.9* HCT-36.9* 
+MCV-93 MCH-32.3* MCHC-34.8 RDW-14.8
+___ 11:10AM   NEUTS-86.8* LYMPHS-6.6* MONOS-6.2 EOS-0.1 
+BASOS-0.4
+___ 11:17AM   LACTATE-3.0*
+
+CXR ___:
+Single frontal view of the chest was obtained. Relative density 
+over the right costophrenic angle is felt to most likely be due 
+to overlying 
+soft tissue and technique. No definite focal consolidation, 
+large pleural 
+effusion or pneumothorax is seen. Cardiac and mediastinal 
+silhouettes are 
+stable. There is persistent mild elevation of the right 
+hemidiaphragm. 
+
+Urine culture: contaminate
+
+Blood cultures from ___ and ___ pending
+
+ 
+Brief Hospital Course:
+___ M history of transitional cell CA sp cystoprostatectomy with 
+ileal loop conduit ___, in remission), gallbladder carcinoma 
+s/p ___, cyberknife and chemo (coompleted in 
+___, recurrent UTIs, who presents with generalized weakness, 
+fever, found to have positive UA, likely consistent with UTI.  
+.  
+UTI: Pt with fevers, generalized weakness, bilateral hip pain, 
+rigors, leukocytosis and positive UA, with lactate=3, suggestive 
+of UTI. Pt was started on empiric therapy with vancomycin and 
+cefepime. Pt has abnormal GU anatomy, putting him at increased 
+risk for complicated UTIs. He has history of MRSA, enterococcus, 
+klebsiella and E. coli UTIs. Pt's prior klebsiella and E coli 
+UTIs have all been sensitive to cipro. Urine cultures came back 
+contaminated. He was switched to PO levofloxacin and will 
+continue for 10 more days (total 14 day course of antibiotics). 
+Pt symptoms improved and he was afebrile several days prior to 
+discharge. Pt will follow up with urology outpatient to discuss 
+benefit of prophylactic antibiotics given his history of 
+recurrent UTIs.
+.  
+___: Pt with Cr 1.6 (baseline: 1.0-1.4). Likely pre-renal in 
+setting of poor PO's and UTI. Given 2 L IVF in the ED. Cr 
+improved to 1.1 at time of discharge.
+.  
+Tachycardia: Pt initially with HR in the low 100s and in sinus 
+tachycardia, likely ___ acute infection and low volume status. 
+Pt was given IVF and tachycardia resolved.     
+.  
+Anemia: HCT 37 on admission, after getting aggressive IVF-> HCT 
+ranged from ___ and was stable. Baseline ___. Recent anemia 
+panel unremarkable with ferritin, iron, B12 and folate all wnl.  
+
+.  
+CAD: Pt had chest pain while taking Xeloda chemotherapy in 
+___. He had cardiac cath which showed diffuse disease but no 
+critical lesion. The xeloda was then switched to Gemzar.  
+Continued ASA 81, metoprolol tartate 12.5mg BID and simvastatin 
+20. Initialy held the lisinopril in setting ___ and ___ 
+restarted the day prior to discharge.
+.  
+HTN: Continue metoprolol tartate 12.5mg BID. Initialy held but 
+then restarted lisinopril 10mg.  
+.  
+GERD: Ranitidine 150mg PRN for reflux symptoms.  
+.  
+Glaucoma: continued home eye drops. 
+.  
+Gallbladder Carcinoma: sp resection in ___, cyberknife and 
+chemo (completed in ___. Stable with low ___ checked in 
+___ and no evidence of disease progression, per recent Rad 
+Onc note in ___.  
+.  
+#Bladder Cancer: s/p bladder resection with ileal conduit in 
+___.  
+Stable, per recent visit with Dr ___ month 
+
+Pending Labs:
+-Blood cultures from ___ and ___
+
+Transition of Care:
+-Full code, daughter ___ is proxy
+-Pt ___ with Urology outpatient to discuss prophylactic 
+antibiotics for UTIs.
+
+ 
+Medications on Admission:
+Bimatoprost 0.03% 1 drop to each eye qhs  
+Brimonidine 0.15% each eye BID  
+Lisinopril 10  
+Metoprolol tartate 12.5mg BID  
+Ranitidine 150mg daily prn  
+Simvastatin 20  
+Tylenol ___ prn BID  
+Vit C 1000 daily  
+ASA 81  
+Calcium Vit D (___)  
+MVT  
+B complex ___ 
+
+ 
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+2. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+3. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+6. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One 
+(1) Tablet, Chewable PO BID (2 times a day).  
+7. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+8. ascorbic acid ___ mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+9. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+10. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID PRN 
+() as needed for heartburn, chest pain.  
+11. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+12. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+14. bimatoprost 0.03 % Drops Sig: One (1)  Ophthalmic at 
+bedtime: 1 drop to each eye at night.  
+15. Tylenol ___ mg Tablet Sig: Two (2) Tablet PO twice a day as 
+needed for pain.  
+16. multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+17. B Complex     Capsule Sig: One (1) Capsule PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Sinus Tachycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for an Urinary tract 
+infection. You were given antibiotics through your veins. You 
+were then switched to oral antibiotics, levofloxacin, which you 
+will take for 10 more days. Your symptoms improved.
+
+Medication Changes:
+START: Levofloxacin, continue this medication for 10 more days
+
+Please resume your regular home medications as usual.
+It was a pleasure providing care for you.
+We have arranged folllow up appointments with someone from your 
+primary care office, Dr ___, as well as Dr. ___ to discuss 
+how to prevent future urinary tract infections.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,508 @@
+===== DISCHARGE NOTE =====
+note_id=12445603-DS-9 | hadm_id=24625267
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope, palpitations
+ 
+Major Surgical or Invasive Procedure:
+___ - Direct current cardioversion
+
+ 
+History of Present Illness:
+This is a ___ F with history of recurrent vasovagal syncope, 
+afib s/p ___ transferred from ___ 
+after a syncopal episode. Patient reports that last night at 
+1:30 AM she had severe gas pains (she has been having 
+intermittant diarrhea for the past few weeks). After moving her 
+bowels, she became lightheaded. She has a history of syncope 
+since she was a teenager, and this was consistent with her 
+typical episodes. She tried to brace herself, but fell and lost 
+consciousness (she thinks only for a few minutes). She did 
+strike her head. Upon awakening, immediately had episode of 
+vomiting and diarrhea. She denies any further vomiting or 
+diarrhea through the course of the day today. She denies any 
+recent chest pain, dyspnea on exertion, leg swelling, orthopnea. 
+ 
+
+This morning, she reports feeling "not right" and noticed new 
+palpitations. She went to ___ to rule out head 
+trauma. At ___, initial vitals were 106/86, 137, 27, 
+97%/RA. EKG showed afib with RVR.  
+Of note, she previously had episode of afib during pregnancy, 
+and was DC cardioverted at that time. During that episode, she 
+had palpitations similar to what she felt this morning. She was 
+given 20mg IV diltiazem and 60mg PO diltiazem and started on 
+heparin gtt. Cardiology there recommended cardioversion. She 
+requested transfer to ___ as she had been seen by cardiology 
+here previously.  
+
+In the ___ ED intial vitals were: 97.6 110 118/66 18 98% RA. 
+CTA chest negative for pulmonary embolism, but was suggestive of 
+pulmonary hypertension. CT head without evidence of intracranial 
+abnormality.  
+On the floor, patient reports ongoing palpitations and feeling 
+generally weak. Reports pain and looseness of left canine tooth 
+(had previous root canal on that tooth). 
+ 
+Past Medical History:
+- syncope: felt to be vasovagal, ___ episodes per year since 
+approximately age ___  
+- subclinical hypothyroidism during pregnancy  
+- depression/anxiety  
+- hx of afib during pregnancy s/p DC cardioversion ___  
+ 
+Social History:
+___
+Family History:
+Father with diabetes and hypertension. Brother with diabetes and 
+arrhythmia. Mother with heart murmur and osteopenia. Maternal 
+grandfather with diabetes ___ and CAD in his ___. Maternal 
+grandmother with breast cancer in her late ___. Maternal great 
+aunt with breast cancer also postmenopausal. Paternal 
+grandmother was deceased at ___, had colon cancer. No ovarian 
+cancer, only one sibling.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals- 98.4, 121/77, 91, 18, 96%/RA  
+General- Alert, oriented, no acute distress  
+HEENT- Abrasion on left temple, bruising of face. Sclera 
+anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- irregularly irregular, no murmurs  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+
+DISCHARGE PHYSICAL EXAM:
+Vitals- 98.0, 97/66, 81, 20, 97%RA  
+General- Alert, oriented, no acute distress  
+HEENT- Abrasion on left temple, ecchymoses around left eye. 
+Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- RRR, normal s1/s2, no m/r/g  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 02:40PM BLOOD WBC-9.9# RBC-4.70 Hgb-13.5 Hct-41.3 
+MCV-88 MCH-28.6 MCHC-32.5 RDW-13.4 Plt ___
+___ 02:40PM BLOOD Neuts-70.4* ___ Monos-4.6 Eos-0.8 
+Baso-0.8
+___ 02:40PM BLOOD ___ PTT-150* ___
+___ 02:40PM BLOOD Glucose-155* UreaN-14 Creat-1.0 Na-140 
+K-3.5 Cl-105 HCO3-22 AnGap-17
+___ 02:40PM BLOOD Calcium-9.1 Phos-2.6* Mg-2.2
+___ 02:38PM BLOOD Lactate-1.2
+
+INTERVAL LABS
+___ 06:30AM BLOOD TSH-7.0*
+___ 06:30AM BLOOD T4-4.3* T3-84 Free T4-1.0
+
+DISCHARGE LABS
+___ 06:35AM BLOOD WBC-7.7 RBC-4.64 Hgb-13.9 Hct-41.5 MCV-89 
+MCH-30.0 MCHC-33.6 RDW-13.7 Plt ___
+___ 06:35AM BLOOD Glucose-94 UreaN-10 Creat-0.9 Na-139 
+K-4.6 Cl-106 HCO3-24 AnGap-14
+
+MICRO
+None
+
+IMAGING
+CT Head ___
+No acute intracranial abnormality. No fracture.  
+
+CTA Chest ___
+1. No pulmonary embolism. 
+2. Evidence of pulmonary arterial hypertension. 
+
+TTE ___
+The left atrium is mildly dilated. The interatrial septum is 
+aneurysmal. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF >55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. There is no mitral valve prolapse. 
+There is borderline pulmonary artery systolic hypertension. 
+There is no pericardial effusion. 
+
+IMPRESSION: Normal global and regional biventricular systolic 
+function. Atrial septal aneurysm without color Doppler evidence 
+of PFO/ASD
+ 
+Brief Hospital Course:
+___ F with history of recurrent vasovagal syncope, afib s/p ___ 
+___ transferred from ___ after a 
+syncopal episode found to have atiral fibrillation with RVR. 
+
+ACTIVE ISSUES
+# Syncopal episode
+Patient reports ___ year history of syncope, which is felt to be 
+vasovagal in nature, and this episode (particularly prodrome) 
+was similar to her previous episodes. Likely triggered by 
+discomfort from abdominal cramping and diarrhea. Patient does 
+report head strike and LOC, but head CT without signs of 
+bleeding or fracture, neuro exam non-focal. This was less likely 
+related to her afib, as she denies having any palpitations prior 
+to syncopal episode and does report symptoms of lightheadedness. 
+ No further syncopal events during the hospitalization.  
+
+# Afib with RVR
+Unclear etiology.  CTA today was negative for PE, but was 
+suggestive of pulmonary hypertension. Most recent echo ___ 
+showed only interatrial septal aneurysm. She was started on a 
+heparin drip.  Patient had successful direct current 
+cardioversion and was discharged in sinus rhythm.  Had repeat 
+TTE which showed atrial septal aneurysm with EF >55%.  She was 
+transitioned to rivaroxaban with a plan of 3 weeks of treatment. 
+
+
+# Hypothyroidism
+Patient found to have TSH on admission of 7.0.  She was started 
+on levothyroxine 25mg daily.
+
+# Gas and increased frequency of bowel movements
+Ongoing for several weeks and is thought to be related to 
+Zoloft, which she started a few months ago. Did have episode of 
+vomiting, but this was right after syncopal episode and has not 
+recurred. No infectious signs/symptoms. Chem panel unremarkable. 
+ 
+
+CHRONIC ISSUES
+# Depression 
+- Her home Zoloft was continued.
+
+Transitional Issues:
+- Patient will need to take rivaroxaban 20mg daily for 3 weeks.
+- Patient found to have elevated TSH on admission and was 
+started on levothyroxine.  She will need repeat TSH in ___ 
+weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 100 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+ 
+Discharge Medications:
+1. Sertraline 100 mg PO DAILY 
+2. Levothyroxine Sodium 25 mcg PO DAILY 
+RX *levothyroxine 25 mcg 1 tablet(s) by mouth DAILY Disp #*30 
+Tablet Refills:*1
+3. Rivaroxaban 20 mg PO DAILY 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth IN THE 
+EVENING, DAILY Disp #*30 Tablet Refills:*0
+4. Multivitamins 1 TAB PO DAILY 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+1. Syncope (vasovagal)
+2. Atrial fibrillation with rapid ventricular response
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the Internal Medicine service at ___ 
+___ on the medicine service 
+regarding management of your atrial fibrillation (atypical heart 
+rhythm). ___ were treated with rate controlling medications, but 
+on ___ underwent a cardioversion which was successful and 
+___ are in normal sinus rhythm. ___ will remain on a blood 
+thinner, an oral medication called rivaroxaban, and will 
+continue this for 3-weeks and see your cardiologist in 1-week 
+following discharge.
+ 
+Please call your doctor or go to the emergency department if:
+* ___ experience new chest pain, pressure, squeezing or 
+tightness.
+* ___ develop new or worsening cough, shortness of breath, or 
+wheezing.
+* ___ are vomiting and cannot keep down fluids, or your 
+medications.
+* If ___ are getting dehydrated due to continued vomiting, 
+diarrhea, or other reasons. Signs of dehydration include: dry 
+mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* ___ see blood or dark/black material when ___ vomit, or have a 
+bowel movement.
+* ___ experience burning when ___ urinate, have blood in your 
+urine, or experience an unusual discharge.
+* Your pain is not improving within 12 hours or is not under 
+control within 24 hours.
+* Your pain worsens or changes location.
+* ___ have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+* ___ develop any other concerning symptoms.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12445603-DS-8 | hadm_id=29908656
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+palpitations
+ 
+Major Surgical or Invasive Procedure:
+electrical cardioversion
+
+ 
+History of Present Illness:
+___ year old G2P0 female at 23 weeks and 3 days with history of 
+hypothyroidism presents with complaints of palpitations. She 
+describes palpitations starting at about 8:30 this morning, 
+describing it as a shaking sensation in her chest. She had 
+initially awoke this morning at 6:00 AM, felt uneasy, and went 
+back to sleep. She awoke again at 730, and had a small cup of 
+___ caffeinated coffee (as she has done for 6wks). No other 
+changes to her habits. She denies any chest pain, shortness of 
+breath, or dizziness. On presentation to the emergency room, she 
+was found to be in new Afib with RVR with heart rate in the 
+130s. She received diltiazem 10mg IV x1 and 20mg IV x1 with 
+heart rate slowing initially to the ___, but then heart rate 
+gradually increased back up into the 120-130's. She was given 
+diltiazem 30 mg POx1 following the two doses of IV dilt. Her 
+blood pressure has been stable, her systolics ranging 98-117. 
+She continues to feel palpitations. In the ED, she also received 
+3L of fluids. She is troponin negative x1. U/a was clean. Obgyn 
+and cardiology evaluated the patient in the emergency room, 
+tentative plan is to cardiovert in the AM.  
+.  
+Her vitals on transfer are: 106/80, HR 100-120, 25, 100%RA.  
+.  
+Of note, the patient has a history of hypothyroidism diagnosed 
+___ ago when she was having difficulty conceiving. She was 
+started on Levothyroxine 50mcg and has continued on that dose. 
+Her last TSH check was 2mos ago.  
+.  
+On review of systems, s/he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, syncope or presyncope.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, - Dyslipidemia, - 
+Hypertension  
+2. CARDIAC HISTORY: none  
+-CABG: none  
+-PERCUTANEOUS CORONARY INTERVENTIONS: none  
+-PACING/ICD: none  
+3. OTHER PAST MEDICAL HISTORY:  
+- hypothyroidism - ___ TSH 1.2, diagnosed ___ ago, on 
+levothyroxine 50mcg daily  
+
+ 
+Social History:
+___
+Family History:
+Maternal grandmother - breast cancer  
+Great aunt - breast cancer  
+Father - HTN  
+___ grandfather - HTN  
+___ grandfather - DM, MI  
+Brother - borderline DM, has an "arrhythmia" treated with beta 
+blocker  
+
+ 
+Physical Exam:
+VS: 97.7 120/73 70 20 99%RA  
+GENERAL: Pregnant woman in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple, no LAD  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Gravid. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+___ 01:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 12:32PM   GLUCOSE-96 K+-4.1
+___ 12:15PM   GLUCOSE-98 UREA N-9 CREAT-0.6 SODIUM-136 
+POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-20* ANION GAP-13
+___ 12:15PM   estGFR-Using this
+___ 12:15PM   cTropnT-<0.01
+___ 12:15PM   CALCIUM-9.7 PHOSPHATE-3.4 MAGNESIUM-1.8
+___ 12:15PM   TSH-2.4
+___ 12:15PM   T4-6.7 T3-170 FREE T4-0.71*
+___ 12:15PM   WBC-10.9 RBC-4.25 HGB-12.9 HCT-37.6 MCV-89 
+MCH-30.4 MCHC-34.3 RDW-14.1
+___ 12:15PM   NEUTS-80.9* LYMPHS-13.6* MONOS-3.8 EOS-1.0 
+BASOS-0.7
+___ 12:15PM   PLT COUNT-294
+
+___ ECHO: The left atrium is elongated. The interatrial 
+septum is aneurysmal. No evidence of interatrial shunt found by 
+color Doppler. Left ventricular wall thicknesses and cavity size 
+are normal. Overall left ventricular systolic function is normal 
+(LVEF>55%). Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic regurgitation. 
+The mitral valve appears structurally normal with trivial mitral 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion.  
+ 
+Brief Hospital Course:
+___ year old G2P0 (23+3) female with history of hypothyroidism 
+presenting with new Afib with RVR.  
+.  
+#. Afib with RVR - The patient presented with symptomatic afib 
+with RVR of new onset that am. This was considerd to be possibly 
+due to added physiologic stress of pregnancy, or other unknown 
+cause. Thyroid studies were done and found the patient to be 
+slightly hypothyroid. Patient has a CHADS score of 0, has no 
+history of CHF, HTN, age>___, DM, or prior CVA. She was given 
+diltiazem in the ED with good response however became 
+tachycardic again. In discussion with high risk OB, it was 
+determined that cardioversion is the first line intervention in 
+pregnant women with a.fib. The patient was therefore admitted 
+overnight and rate controlled with diltiazem. ASA was not given 
+as it is a Category D risk in pregnancy. She had cardioversion 
+resulting in return to normal sinus rhythm. Fetal heart tones 
+were checked before and after procedure by ___ and were found to 
+be appropriate. TTE was done subsequent to cardioversion and 
+showed enlarged R atrium with aneurysmal septum. Echo was 
+otherwise normal. Because the patient had symptomatic a. fib and 
+was cardioverted so quickly, it was not felt necessary to 
+anticoagulate her. She will be followed-up in cardiology clinic. 
+
+.   
+#. Pregnancy - The patient was 23 weeks and 3 days pregnant on 
+admission. She was continued on prenatal vitamins, fetal heart 
+tones were monitored BID and found to be normal, obgyn was aware 
+of pt and followed during electrocardioversion.  
+.  
+#. Hypothyroidism: Patient's TSH was found to be 2.4 and free T4 
+was found to be 0.71. This was thought to represent 
+hypothyroidism given free T4 is the most accurate reflection of 
+thyroid function during pregnancy. Synthroid was increased to 
+75mcg daily. The patient was scheduled with follow-up with new 
+PCP in ___. 
+.  
+.  
+PROPHYLAXIS: Did not receive ppx as pt was ambulating.  
+.  
+CODE: Full code  
+.  
+COMM: patient  
+.  
+
+ 
+Medications on Admission:
+levothyroxine 50 mcg daily  
+prenatal vitamins-iron fumarate-FA  
+
+ 
+Discharge Medications:
+1. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO once a 
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Prenatal vitamins
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Atrial Fibrillation with RVR
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+   It was a pleasure participating in your care. You were 
+admitted for new onset of atrial fibrillation. You were given 
+medications to decrease your heart rate and then you underwent 
+electrical cardioversion which returned your heart to normal 
+rhythm. You had an echocardiogram which showed elongation of 
+your left atrium. This should be followed up in cardiology 
+clinic. You also had your thyroid function tested and were found 
+to be slightly hypothyroid. Your levothyroxine was increased to 
+75mcg daily and will continue to be followed by your PCP. 
+    Please call if you again develop palpitations, if you have 
+increased lightheadedness, dizziness, shortness of breath, or 
+any other problems that concern you. 
+*************
+The following medication has been CHANGED:
+Levothyroxine 75mcg daily
+ 
+Followup Instructions:
+___

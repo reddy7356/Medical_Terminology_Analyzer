@@ -1,0 +1,65 @@
+===== DISCHARGE NOTE =====
+note_id=18386011-DS-11 | hadm_id=24781887
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left hip pain
+ 
+Major Surgical or Invasive Procedure:
+Left hip surgical dislocation, head-neck osteoplasty, rim trm
+ 
+History of Present Illness:
+___ is a ___ year-old gentleman with a long history of left hip 
+pain.  He failed non-operative treatment and provided informed 
+consent for operative intervention
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+positive impingement test
+ 
+Pertinent Results:
+___ 06:56PM   WBC-14.2*# RBC-4.25* HGB-12.6* HCT-37.5* 
+MCV-88 MCH-29.6 MCHC-33.6 RDW-12.9
+ 
+Brief Hospital Course:
+___ was admitted in stable condition following left hip 
+surgical dislocation, osteoplasty, and rim trim.  He tolerated 
+the procedure well.  He progressed with ___, and was eventually 
+cleared for discharge.  His wound remained dry, he was afebrile, 
+and tolerating PO medication at the time of discharge
+ 
+Medications on Admission:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left hip impingement
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Keep wound clean and dry
+___ MD for fever >101.5 or wound drainage
+ 
+Followup Instructions:
+___

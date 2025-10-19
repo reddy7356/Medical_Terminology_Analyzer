@@ -1,0 +1,1501 @@
+===== DISCHARGE NOTE =====
+note_id=14199730-DS-22 | hadm_id=22210663
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lantus U-100 Insulin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right leg pain
+ 
+Major Surgical or Invasive Procedure:
+Irrigation and debridement of right tibia ___
+right tibia I&D, hardware removal, npwt ___
+Washout right knee septic arthritis, Incision and drainage 
+tibia, negative pressure wound therapy with instillation ___
+PICC placement ___
+dobhoff ___
+right tibia I&D ___
+right tibia washout, medial gastroc flap, skin graft, placement 
+of antibiotic spacer tibia ___
+ 
+History of Present Illness:
+___ is a ___ year old woman with diabetes, peripheral 
+vascular disease, Alzheimer disease, history of provoked DVT/PE 
+w filter and AC, and history of upper GI bleed who presents to 
+the ED with fever, cough, and vomiting. She was last at ___ in 
+___. The patient was recently at ___ for a right tib/fib 
+fracture with ORIF. She was discharged to ___ and had 
+been clinically about the same until the past couple days when 
+she developed vomiting. Nutrition had been an issue even before 
+her last hospitalization, but since yesterday she has vomited 
+several times which is new for her. ___ also recorded a 
+fever of ___ F. She remains oriented to person, place, and month 
+(baseline) but had not reported any other symptoms to ___ 
+___. Staff there reported coughing, but the patient's daughter 
+had not noticed any when she visited. 
+
+In the ED VS were WNL, but she was found to have a leukocytosis 
+to 15 and ___ with Cr of 1.8. She received 1 L NS. U/A with 
+bacteria and WBCs but lots of epis (she was treated with 3 days 
+of ceftriaxone for E. coli last admission). CXR without a clear 
+infectious process.
+
+On arrival to the floor, however, we discovered after removing 
+her RLE brace and dressing that purulent fluid is draining from 
+the ORIF incision. She also has what appears to be a pressure 
+wound on the lateral RLE from the brace. Pus was expressed from 
+the incision and sent for culture.
+
+ROS: Unable to obtain accurate ROS secondary to dementia 
+(patient seemed to be answer with "yes" for every question). She 
+winced with pain when manipulating her leg, however.
+ 
+Past Medical History:
+-hyperlidemia 
+-diabetes
+-insomnia
+-hypertension
+-macular degeneration
+-dementia 
+-osteoarthtis 
+-peripheral vascular disease
+-tib/fib fracture ___ s/o orif
+-DVT/PE s/p IVC filter ___
+-diastolic heart failure
+-rectal prolapse
+-pvd
+-chronic pain on chronic opioids
+ 
+Social History:
+___
+Family History:
+-denies hx of colon cancer
+
+ 
+Physical Exam:
+Exam:
+Vital signs: 
+Today 13:55 
+98.7 
+88 
+142/77 
+20 
+98% RA 
+GENERAL: Awake, not in acute distress
+EYES: Anicteric sclera
+ENT: Ears and nose without visible erythema, masses, or trauma.
+MMMs
+CV: RRR, no murmur
+RESP: lungs clear to auscultation bilaterally without wheezes or
+crackles
+GI: Abdomen soft, non-distended, non-tender to palpation.  
+MSK: Purulent fluid draining from ORIF incision. Tender to
+palpation in this area. 4.5x 2 CM wound under brace on lateral
+aspect of leg
+SKIN: stasis changes of lower legs
+NEURO: Able to report name, place, and month. Said her birth 
+year
+for the year. Conversing. Daughter says she is close to baseline
+though seems more fatigued
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+Temp: 98.5 (Tm 99.3), BP: 124/65 (124-157/62-73), HR: 74 
+(74-93), RR: 22 (___), O2 sat: 95% (91-95), O2 delivery: Ra 
+CV: RRR with interspersed extra beats, II/VI systolic murmur at
+USB
+PULM: CTAB in anterior fields
+ABD: soft, NT, ND
+EXT: RLE wrapped in gauze, c/d/I, with large brace overlying,
+both feet wrapped in gauze c/d/I including at heels, further 
+exam
+deferred due to discomfort; 1+ pitting edema in upper and lower
+extremies b/l, in thighs, and in sacrum
+SKIN: LUE donor site no longer with any ___ discharge, open to 
+air
+ 
+Pertinent Results:
+ADMISSION LABS:
+============
+___ 10:20AM BLOOD WBC-15.8* RBC-4.01 Hgb-11.1* Hct-36.6 
+MCV-91 MCH-27.7 MCHC-30.3* RDW-15.7* RDWSD-52.0* Plt ___
+___ 10:20AM BLOOD Neuts-81.2* Lymphs-8.5* Monos-9.0 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-12.82* AbsLymp-1.35 
+AbsMono-1.42* AbsEos-0.00* AbsBaso-0.03
+___ 05:10PM BLOOD ___
+___ 10:20AM BLOOD Glucose-320* UreaN-35* Creat-1.8*# Na-144 
+K-5.7* Cl-107 HCO3-24 AnGap-13
+___ 10:23AM BLOOD Lactate-1.6 Creat-1.7* K-4.0
+___ 02:00PM URINE Color-Yellow Appear-Cloudy* Sp ___
+___ 02:00PM URINE Blood-SM* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-TR* Bilirub-NEG Urobiln-4* pH-6.0 Leuks-LG*
+___ 02:00PM URINE RBC-9* WBC->182* Bacteri-MOD* Yeast-NONE 
+Epi-38
+___ 05:41PM URINE CastHy-19*
+___ 11:00AM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+INTERVAL LABS:
+==========
+___ 05:47AM BLOOD ALT-<5 AST-7 LD(___)-207 AlkPhos-127* 
+TotBili-0.3
+___ 05:47AM BLOOD proBNP-1218*
+___ 05:47AM BLOOD Albumin-1.8* Calcium-7.4* Phos-2.8 Mg-1.9 
+Iron-14*
+___ 05:47AM BLOOD calTIBC-86* VitB12-803 Ferritn-189* 
+TRF-66*
+___ 12:09PM BLOOD CRP-GREATER TH
+___ 04:30AM BLOOD CRP-131.6*
+
+DISCHARGE LABS:
+===========
+___ 03:35AM BLOOD WBC-8.8 RBC-2.77* Hgb-7.4* Hct-26.1* 
+MCV-94 MCH-26.7 MCHC-28.4* RDW-17.2* RDWSD-59.2* Plt ___
+___ 03:35AM BLOOD ___
+___ 03:35AM BLOOD Glucose-123* UreaN-14 Creat-0.6 Na-146 
+K-4.0 Cl-109* HCO3-29 AnGap-8*
+___ 04:21AM BLOOD ALT-6 AST-9 LD(LDH)-245 AlkPhos-135* 
+TotBili-0.5
+___ 03:35AM BLOOD Calcium-8.0* Phos-2.6* Mg-2.3
+___ 05:47AM BLOOD calTIBC-86* VitB12-803 Ferritn-189* 
+TRF-66*
+___ 04:47AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-POS*
+___ 04:59AM BLOOD CRP-117.4*
+
+MICROBIOLOGY:
+===========
+Blood cultures:
+___ were positive for 
+MRSA
+subsequently ___ had no growth
+
+ SENSITIVITIES: MIC expressed in MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+Urine:
+___ 5:41 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+      PSEUDOMONAS AERUGINOSA.    OF TWO COLONIAL MORPHOLOGIES. 
+         >100,000 CFU/mL. 
+         PREDOMINATING ORGANISM INTERPRET RESULTS WITH CAUTION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+
+___  URINE CULTURE (Final ___:  YEAST.    
+10,000-100,000 CFU/mL. 
+
+Wound:
+___ 9:00 am TISSUE      RIGHT TIBIA #1. 
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI IN 
+PAIRS. 
+      Reported to and read back by ___ ___ 1330 ___. 
+
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    HEAVY GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+         This isolate is presumed to be resistant to clindamycin 
+based on
+         the detection of inducible resistance . 
+      ENTEROCOCCUS SP..    RARE GROWTH. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+   FUNGAL CULTURE (Final ___:    NO FUNGUS ISOLATED. 
+
+Culture from ___ grew the same.
+
+___ 9:40 am SWAB      RIGHT LEG LATERL COMPARTMENTS. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 9:00 am TISSUE      RIGHT TIBIA #3. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI IN 
+PAIRS. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      Reported to and read back by ___ ___ 1330 ___. 
+
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+      ENTEROCOCCUS SP..    SPARSE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------   <=2 S
+PENICILLIN G----------     2 S
+VANCOMYCIN------------ <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+   FUNGAL CULTURE (Final ___:    NO FUNGUS ISOLATED. 
+
+Other:
+___ 7:51 am MRSA SCREEN     Site: NARIS (NARE)
+      Source: Nasal swab. 
+ MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+___  C. difficile PCR (Final ___: NEGATIVE. 
+
+IMAGING:
+=======
+CXR ___
+There is tortuosity of the thoracic aorta, stable.  There has 
+been improvement
+of the subsegmental atelectasis within the mid lung zones 
+bilaterally.  No
+large pleural effusions, overt pulmonary edema, or 
+pneumothoraces are seen.
+
+U/S SOFT TISSUE ___
+No evidence for organized collection.  Edema and swelling only.
+
+TIB/FIB AP LATERAL ___ 
+No evidence of bony lysis or periosteal reaction.
+
+KNEE AP LAT OBLIQUE ___
+No evidence for lysis or joint effusion.  Soft tissue swelling 
+above the patella.
+
+TTE ___
+IMPRESSION: Suboptimal image quality. No 2D echocardiographic 
+evidence for endocarditis.
+The aortic valve is slightly suspicious however. It is thickened 
+and also has mild AI. The image quality is not sufficient to 
+considerably reduce the probability of endocarditis in this 
+patient with high pretest probability.
+Compared with the prior TTE (images reviewed) of ___ , 
+the findings are similar. The aortic valve structure is similar 
+reducing making visualized changes more likely to be age related 
+rather then due to a small vegetation.
+
+CXR ___
+The tip of the right PICC line projects over the cavoatrial 
+junction.
+
+CXR ___
+Improved right pleural effusion.  Persistent small left pleural 
+effusion and stable, significant left lower lobe collapse.
+
+CXR ___
+Lungs are low volume with moderate cardiomegaly.  The widened 
+cardiomediastinal silhouette is stable.  Bilateral effusions 
+right greater than left are unchanged.  No pneumothorax is seen. 
+ Small bilateral effusions are stable.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with diabetes, PVD, 
+provoked DVT, hx upper GI bleed, Alzheimer disease, recent 
+admission for tib/fib fracture s/p ORIF ___, acute DVT/PE w 
+filter, who was admitted on ___ with fever, cough, and vomiting, 
+found to have infection from tib/fib incision draining pus, s/p 
+OR ___ for I&D/wound vac placement and OR on ___ for R tibia I&D 
+and hardware explant, repeat I&D ___, gastroc muscle flap 
+placed ___, with hospital course complicated by MRSA 
+bacteremia, intraoperative cultures growing MRSA and VSE, and 
+___ UTI, ongoing hospitalization in the setting of wound 
+management, pseudomonas wound infection, malnutrition, and goals 
+of care.
+
+TRANSITIONAL ISSUES:
+====================
+[] No artificial nutrition, but still full code (see goals of 
+care discussion below)
+
+[] Wound care/plastic surgery recs:
+-No need for knee immobilizer
+-xeroform and dry dressing to be changed every other day to knee 
+wound by nursing 
+-Continue dilute acetic acid wet to dry dressings TID to RLE 
+lateral wound. Rehab to place wound vac once resolution of ___ 
+___ staining. Do not place black sponge over exposed
+tendon. Place adaptic in between tendon and vac sponge. 
+-L thigh donor site : QD betadine paint 
+
+[] Please have patient follow up with Dr. ___ in clinic 
+in ___ weeks for wound check. Call ___ if not heard 
+back about an appointment. 
+
+[] Follow up blood sugars qachs at ___, consider restarting 
+insulin NPH or sliding scale at low dose if BG elevated (was 
+being downtitrated in hospital given poor PO intake, on 3U NPH 
+at breakfast here, but stopping and restarting home metformin at 
+discharge)
+
+[] Vancomycin 1000 mg IV q24hr  Cefepime 2 IV q 12, Projected 
+End Date: ___
+[] Weekly vancomycin trough (next one is on ___
+[] ANTIBIOTIC DOSING/LAB MONITORING:
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+WEEKLY: CBC with differential, BUN, Cr, Vancomycin trough, CRP
+All questions regarding outpatient parenteral antibiotics after 
+discharge should be directed to the ___ R.N.s at 
+___ or to the on-call ID fellow when the clinic is 
+closed. 
+
+[] Discharged on warfarin 1mg daily, stable on this regimen. 
+Recommend checking INR ___ and adjusting dose accordingly
+
+[] Monitor weights and volume status and consider restarting 
+home torsemide if gaining weight/become fluid overloaded on exam 
+(stopped at discharge as she remained euvolemic and did not 
+require torsemide, likely due to poor PO intake)
+
+ACUTE ISSUES:
+=============
+#Tib/fib incisional MRSA/VSE infection, septic arthritis
+Patient presented to the ED with fever, cough, and vomiting, 
+found to have infection from tib/fib incision draining pus, 
+taken to OR ___ for I&D and wound vac placement with orthopedics 
+and briefly on ortho service. Wound cultures grew MSRA and VSE. 
+She went back to the O.R. ___ for right tibial I&D and hardware 
+explant. Plastic surgery was consulted given poor wound 
+coverage. She returned to the O.R. for right knee septic 
+arthritis washout, tibia I&D, negative pressure wound therapy 
+with instillation ___, and lastly a washout ___ with 
+orthopedics which looked clean. Her final surgery was a gastroc 
+flap and skin graft using L thigh tissue ___ with plastic 
+surgery. She had 5 days of bedrest while the wound vac was in 
+place. This was removed ___. Pain control was achieved with 
+Acetaminophen, home Fentanyl patch, and gabapentin. She will be 
+unable to ambulate on the RLE given hardware removal. She 
+remained in a knee immobilizer with plans to be wheelchair 
+bound. Initial discussion with orthopedics and family had been 
+for hardware replacement after completion of antibiotics but 
+patient preferred to not have another surgery (see below).
+
+#High grade MRSA bacteremia
+Blood cultures ___ were 
+positive for MRSA and subsequently had no growth. ID was 
+consulted. TTE did not show definite endocarditis but there was 
+thickening on the aortic valve. TEE was not pursued because it 
+would not change her management. Vancomycin was started, D1 
+considered ___, the day of the last washout, projected end date 
+___. RUE PICC was placed ___. Vancomycin dosing remained 
+stable at 1g Q24H. She will need weekly Vancomycin trough, CRP, 
+CBC/diff, BUN/Cr and ID followup.
+
+#Likely psuedomonas wound infection 
+Developed ___ film and prurulence over RLE wound and LLE donor 
+site. Due to high clinical concern for pseudomonas, was started 
+on cefepime (___). ID and plastics were consulted and she is 
+s/p debridement with plan for continuing cefepime until ___.
+
+# GOC
+# Severe Malnutrition 
+# Aspiration risk
+Multiple goals of care discussions and family meetings were held 
+to clarify patient's wishes in the setting of her prolonged 
+hospitalization and severe malnutrition, anorexia, poor PO 
+intake, electrolyte abnormalities. Dobhoff was placed ___ for 
+temporary supplemental nutrition. Patient pulled the Dobhoff out 
+___ and ultimately family and patient made the decision not to 
+replace any feeding tubes, though replacement of temporary 
+feeding tube and PEG tube placement were considered. Geriatrics 
+was consulted to help clarify GOC. Patient stated that she would 
+not want to have a PEG tube or to undergo another surgery with 
+orthopedics and would be okay with being in a wheelchair. Plan 
+for discharge to ___ to complete antibiotics. Mirtazapine was 
+uptitrated to assist with appetite. Code status discussion on 
+___:
+
+"Met with son and HCP, ___ to discuss overall goals and to sign
+MOLST form prior to discharge to ___ in the coming days.
+Reviewed with ___ what we had discussed earlier and also with
+patient's niece, ___: that she was taking in very little food
+and fluid. This poor intake was due to her dementia and was
+irreversible. Said that amount of food she was taking in would
+not sustain her for long, and would lead to decreased wound
+healing, kidney injury, low blood pressure, eventually likely 
+her
+death. Confirmed that ___ did not feel the patient wanted a PEG
+tube, he again confirmed very clearly she did not want a feeding
+tube and all family members in agreement. He understood that
+without this the patient would continue to decline, likely over
+weeks. He understood, and said, yes, when it is her time it is
+her time. 
+
+Then brought up code status, and reviewed MOLST. I had brought
+this up earlier and he and ___ were going to talk about it. 
+He
+said they had discussed and they would "like to resuscitate 
+her."
+I reviewed what CPR and intubation meant. I said that in her
+condition, which is progressive, I did not think she would
+benefit from these measures if something so catastrophic 
+happened
+that required these measures. I reviewed that she has limited
+time left, and if something catastrophic happened like this, and
+we were successful in reviving her, it might mean she would 
+spend
+the lsat days of her life in the ICU on machines. He understood
+this, but said he thought she would still like to try this, and
+then make the decision to withdraw at that time. 
+
+Based on this discussion kept code status "full code." MOLST 
+form
+signed with CPR, intubation, but NO artificial nutrition."
+
+#Leukocytosis
+Patient had intermittent leukocytosis which peaked at 19.8 
+shortly after admission, then reoccurred in the setting of 
+multiple surgeries. She had repeat infectious workup which was 
+unrevealing. Resolved at time of discharge.
+
+#Multiple pressure ulcers 
+Patient had multiple unstageable coccyx ulcers present on 
+admission, developed bilateral left and right posterior heel 
+ulcers which were followed by wound nursing. Right ankle wound 
+was debrided to fascia by plastic surgery. Due to inadequate 
+nutrition (see above) and bed bound status. She has multiple 
+risk factors for poor wound healing and these should be 
+monitored closely. 
+
+#Hypoxia
+Patient had intermittent hypoxia early in the hospital course 
+which improved with IV Lasix, suspect combination of fluid 
+overload atelectasis.
+
+#Loose Stool
+Started in close proximity to starting tube feeds and standing 
+miralax. C diff was negative.
+
+___
+Creatinine was 1.8 on admission, thought prerenal from poor PO 
+intake and sepsis. Diuretics were held and she improved to 
+baseline around 0.4-0.5 She had one minor ___ after receiving 
+multiple doses of IV Lasix. Renal function was stable 
+subsequently.
+
+___ UTI: 
+UA positive on admission, started ceftriaxone, switched to 
+cefepime (D1 = ___, 7d course, last day
+___.
+
+#Hypernatremia 
+Sodium peaked at 153 soon after admission, likely decreased PO 
+intake. Improved with D5W and tube feeds.
+
+#Anasarca 
+She became total body fluid overloaded due to poor nutrition as 
+above. Albumin <2 last check despite
+getting TFs. Also was on mIVF previously. Diuresis was limited 
+by fluctuations in electrolytes.
+
+#Acute on Chronic Normocytic Anemia, stable
+Hb baseline around 9, no prior iron studies, suspect AoCI. 
+Worsened from multiple surgeries, acute illness, and frequent 
+phlebotomy. She received 3 blood transfusions this 
+hospitalization, most recent ___.
+
+#Acute Pulmonary Embolism:
+#Left Femoral Common Vein DVT:
+Presented with supratherapeutic INR in setting of recently 
+increased warfarin dosing from 2 mg to 3 mg on ___ at rehab. She 
+received 5 mg IV Vitamin K on ___ and anticoagulation was then 
+held. She initially required a heparin drip for bridging back to 
+warfarin given ___, then remained therapeutic for days without 
+any anticoagulation, likely ___ poor nutrition as above. She 
+then had a lovenox bridge back to warfarin. She had IVF filter 
+placed on previous hospitalization which per ___ (does not want 
+further invasive procedures) will not be removed. Due to rising 
+INR, prior to discharge her warfarin was decreased to 1mg daily 
+(was held 2 days prior to discharge), likely due to poor 
+nutrition. 
+ 
+#Family Communication
+Prior difficulties with niece ___ yelling at staff early in 
+hospitalization, subsequently not a problem with improved 
+communication. Son ___ is primary HCP with ___ as the 
+alternatie but they share decision making. SW was consulted for 
+family coping.
+
+#HTN
+Initially held home Hydralazine, Lisinopril, Nifedipine to 
+decrease pill burden and as patient was not taking PO well. 
+Resumed home Hydralazine when patient was able, and then added 
+amlodipine.
+
+#Chronic Diastolic CHF: 
+Held home Torsemide 5 mg daily to reduce pill burden and 
+initially for ___. Received PRN IV Lasix 20 mg. It was difficult 
+to get accurate weights due to immobility and difficult to 
+obtain accurate output due to incontinence. Torsemide held on 
+discharge with poor intake. 
+
+#Rectal prolapse 
+Patient has history of rectal prolapse, reduced last 
+hospitalization by colorectal surgery. Had spontaneous prolapse 
+and resolution once this hospitalization. Colorectal was 
+consulted but it had resolved by the time of their assessment. 
+No concern for ischemia and patient seemed asymptomatic.
+
+CHRONIC ISSUES:
+===============
+#DM
+Last admission staff spoke with PCP who reported she is a 
+brittle diabetic and her diabetic regimen has been liberalized 
+to avoid hypoglycemia at the expense of tight control. She was 
+continued on home NPH 10 initially, decreased to 5u QAM after 
+feeding tube was removed, maintained ISS, and held trulicity and 
+metformin. Avoided lantus per PCP due to hypoglycemia. Insulin 
+was downtitrated to 3U given decreased PO intake and 
+hypoglycemia and stopped at discharge (patient to go back on 
+home metformin).
+
+#Dementia: 
+Continued Donepezil, delirium precautions, ramelteon HS. Started 
+and uptitrated Mirtazapine.
+
+#Chronic back pain: Continued home fentanyl patch, gabapentin, 
+Tylenol
+
+#PVD: Continued statin, ASA
+
+#GERD: Continued Pantoprazole, briefly IV when patient was not 
+taking PO
+
+Greater than 30minutes spent on discharge planning and 
+cordination. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Atorvastatin 40 mg PO QPM 
+3. Donepezil 10 mg PO QHS 
+4. Fentanyl Patch 12 mcg/h TD Q72H 
+5. Gabapentin 100 mg PO BID 
+6. HydrALAZINE 20 mg PO TID 
+7. Losartan Potassium 50 mg PO BID 
+8. Pantoprazole 40 mg PO Q24H 
+9. Torsemide 5 mg PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+11. NIFEdipine (Extended Release) 60 mg PO DAILY 
+12. Polyethylene Glycol 17 g PO DAILY 
+13. Ramelteon 8 mg PO QHS 
+14. Warfarin 3 mg PO DAILY16 
+15. MetFORMIN (Glucophage) 500 mg PO DAILY 
+16. Docusate Sodium 100 mg PO BID 
+17. Potassium Chloride 20 mEq PO DAILY 
+18. PreserVision AREDS-2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY 
+19. Vitamin D ___ UNIT PO EVERY 2 WEEKS (___) 
+20. Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+21. Bisacodyl 10 mg PR PRN Constipation - Second Line 
+22. Fleet Enema (Saline) ___AILY:PRN constipation 
+23. Milk of Magnesia 30 mL PO Q3DAYS:PRN Constipation - First 
+Line 
+24. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Acetic Acid 0.25% Irrig. Soln 1 Appl TP TID wet to dry to 
+RLL posterior decubitus    
+2.  amLODIPine 10 mg PO DAILY  
+3.  CefePIME 2 g IV Q12H  
+4.  Mirtazapine 30 mg PO QHS  
+5.  OxyCODONE Liquid 5 mg PO Q6H:PRN Pain - Moderate 
+RX *oxycodone 5 mg/5 mL 5 ml by mouth q6hprn Disp #*45 
+Milliliter Milliliter Refills:*0 
+6.  Povidone Iodine ___ Strength 1 Appl TP ASDIR  
+7.  Vancomycin 1000 mg IV Q 24H  
+8.  Acetaminophen (Liquid) 325-650 mg PO Q6H:PRN Pain - 
+Mild/Fever  
+9.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+10.  Ramelteon 8 mg PO QHS:PRN breakthrough insomnia after 
+mirtazapine 
+Should be given 30 minutes before bedtime  
+11.  Warfarin 1 mg PO DAILY16  
+12.  Docusate Sodium 100 mg PO BID  
+13.  Donepezil 10 mg PO QHS  
+14.  Fentanyl Patch 12 mcg/h TD Q72H  
+15.  HydrALAZINE 20 mg PO TID  
+16.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+17.  Pantoprazole 40 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Tib/fib incisional MRSA/VSE infection, septic arthritis
+High grade MRSA bacteremia
+___ soft tissue infection
+Severe Malnutrition 
+Aspiration risk
+Leukocytosis
+pressure ulcers 
+___ UTI
+Hypernatremia
+Anasarca
+
+Secondary:
+Rectal prolapse 
+Dementia
+Hypertension
+Chronic diastolic heart failure
+IDDM
+Chronic pain
+
+ 
+Discharge Condition:
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came back to the hospital because of an infection growing 
+from the place where you had surgery to fix your broken leg. The 
+infection affected your whole body and made you very sick. 
+
+While you were in the hospital you had cultures of your 
+infection and your blood that grew a bacteria called MRSA 
+(Staph) and you are receiving antibiotics called Vancomycin for 
+this.
+
+You also had a number of surgeries to clean out the infection 
+and take away the infected metal and replace muscle over the 
+infected area to help it heal. You will not be able to walk on 
+your leg because of this. Your wound also developed some 
+drainage consistent with an infection called pseudomonas. You 
+are receiving an antibiotic called Cefepime for this.
+
+Your nutrition suffered a lot and you had a feeding tube placed 
+to help you heal. After some discussion, it was decided that you 
+would not want to live with a permanent feeding tube, so we 
+stopped doing this and let you eat whenever you want.
+
+When you leave the hospital, please:
+- See below for your medicines and followup
+
+It was an absolute pleasure caring for you and we wish you the 
+best,
+Your ___ Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14199730-DS-21 | hadm_id=25920996
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lantus U-100 Insulin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall, ___ pain
+ 
+Major Surgical or Invasive Procedure:
+ORIF right bicondylar tibial plateau fracture
+IVC filter placement
+
+ 
+History of Present Illness:
+___ is a ___ year old woman with diabetes, peripheral
+vascular disease, Alzheimer's, history of provoked DVT, history
+of upper GI bleed, who was transferred to the ___ ED from
+___ after sustaining a fall with tib/fib fracture.
+
+The history was obtained from the patient's family and records,
+since she is unable to provide a reliable account. She had
+reportedly been in her usual state of health yesterday evening.
+her son ___ visited her in the evening, and she did not seem to
+have any new symptoms or difficulty ambulating with her walker.
+She reportedly did all her normal activities during the day. 
+Around 11 ___ she had a fall and pulled her alarm. She lives at 
+an
+assisted living in ___. Her family suspects that the 
+socks
+she was wearing were slippery, leading to a mechanical fall,
+although this is uncertain. She has had two other falls in the
+recent past. She was brought to ___, where she
+underwent a trauma evaluation that revealed a proximal tib/fib
+fracture (see full details of work-up below). While in the
+___ she was reportedly satting 92% on room air, which 
+is
+her baseline, with a normal appearing CXR. She did received a 
+500
+cc bolus of D5 containing fluids due to hypoglycemia while in 
+the
+ED. She was transferred to ___ for further orthopedic
+evaluation. 
+
+In the ___ ED vitals were: afebrile, HR ___, BP
+110s-210s/50s-110s, RR ___, satting 95-100% on RA-2L. Labs 
+were
+notable for leukocytosis (12.8 80% PMN), negative troponin,
+normal lytes, and pyuria. She was noted to have wheezing and
+reportedly satting 87% on 1 L, requiring 2L to maintain sats in
+___. She was evaluated by trauma surgery and orthopedics in the
+ED. In addition to her right knee pain she also endorsed 
+shoulder
+pain. While in the ED she reportedly have a brief, 
+self-resolving
+episode of tachycardia to 130s, possibly afib, for which she
+received 5 mg IV metoprolol. Her CXR appeared wet, and he also
+received duonebs, Lasix 20 mg, Tylenol, morphine, and sublingual
+NTG. Orthopedic placed a splint to her R leg but decided to hold
+off on surgery given the hypoxia and concern for CHF. 
+
+I interviewed the patient and her family upon arrival to the
+floor. The patient endorsed dyspnea, although the family stated
+that she appeared to be at her baseline and that she had not
+seemed dyspneic at any time leading up to her presentation or
+since her presentation that they perceived. The patient stated
+that she had pain "all over", but particularly in the left
+shoulder, back, and right leg. She states overall it was
+improving. She denied chest or abdominal pain. She denied
+dysuria. 
+
+I reviewed the case with ___, the patient's PCP, 
+who
+states that the patient has no history of CHF. 
+ 
+Past Medical History:
+-hyperlidemia 
+-diabetes
+-insomnia
+-hypertension
+-macular degeneration
+-dementia 
+-osteoarthtis 
+-peripheral vascular disease
+
+ 
+Social History:
+___
+Family History:
+-denies hx of colon cancer
+
+ 
+Physical Exam:
+DISCHARGE EXAM:
+GENERAL: Alert and in no apparent distress, slightly tremulous
+EYES: Anicteric, pupils pinpoint ~1-2 mm
+ENT: Ears and nose without visible erythema, masses, or trauma.
+MMMs
+CV: irregular rhythm
+RESP: clear air entry bilaterally with mild scattered crackles,
+no wheezing
+GI: Abdomen soft, non-distended, non-tender to palpation.  
+GU: No suprapubic tenderness, Foley with medium yellow urine
+MSK: Splint in place over R leg, able to move toes bilaterally,
+mild left shoulder TTP without significant worsening upon 
+passive
+range of motion
+SKIN: stasis changes of left lower leg, small skin tear of left
+shin
+EXTR: cool feet, symmetric, mild edema of left foot, unable to
+assess right foot due to splint
+NEURO: Alert, interactive, answers questions apprporiately
+although she is only partially oriented (able to states she is 
+in
+hospital after given choices, knew it was 20-something rather
+than 19-something only when prompted, knows she lives on ___), face symmetric, gaze conjugate with EOMI, speech
+fluent, hand grip intact bilaterally, bilateral toe movement
+grossly symmetric
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+GEN: alert, pleasant
+CV: normal rate, normal S1S2
+RESP: CTAB, no w/r/r
+GI: soft, NT/ND, NABS. 
+MSK: RLE bandages CDI. Distal sensation is intact and pulses
+dopplerable. 
+Ext: trace edema in b/l ___
+SKIN: No rashes or ulcerations noted, + rectal prolapse without
+skin tear or bleeding noted
+NEURO: awake, interactive, AOx2 (self and place, not date) 
+PSYCH: pleasant and appropriate affect
+ 
+Pertinent Results:
+Admission labs
+___ 04:25AM BLOOD WBC-12.8* RBC-4.25 Hgb-12.0 Hct-39.5 
+MCV-93 MCH-28.2 MCHC-30.4* RDW-15.3 RDWSD-51.8* Plt ___
+___ 04:25AM BLOOD ___ PTT-31.8 ___
+___ 04:25AM BLOOD Glucose-182* UreaN-10 Creat-0.8 Na-144 
+K-4.0 Cl-107 HCO3-24 AnGap-13
+___ 04:25AM BLOOD Calcium-8.7 Phos-3.8 Mg-1.7
+
+IMAGING
+CXR ___ IMPRESSION:  Moderate cardiomegaly with increase in 
+moderate pulmonary edema and small bilateral pleural effusions.
+
+TTE ___
+IMPRESSION: Biatrial enlargement. Moderate LVH with small, 
+underfilled LV cavity. Normal LV function. Moderately dilated RV 
+with severe RV dysfunction. Severe TR and severe pulmonary HTN.
+Mild AR. Mildly dilated aorta.
+
+CTA ___ IMPRESSION: 
+1.   Subsegmental pulmonary embolism the right upper lobe apical 
+branch.
+2.   Enlarged main, right and left pulmonary arteries consistent 
+with history of pulmonary artery hypertension.  No evidence of 
+right heart strain. 3.   Pulmonary edema and moderate bilateral 
+pleural effusions.
+
+- KNEE XR ___: 
+1. Stable comminuted, displaced, and moderately impacted 
+bicondylar tibial plateau fracture, Schatzker class 6, in 
+unchanged alignment. 2. Comminuted, mildly impacted proximal 
+fibular head and neck fracture is better evaluated on recent CT 
+lower extremity, however appears grossly unchanged. 3. Stable 
+large lipohemarthrosis 
+
+- LENIS ___: Left common femoral vein deep venous thrombosis.
+
+- V/Q SCAN ___: 1. Patchy bilateral ventilation defects are 
+consistent with airway disease. Notably, there is a significant 
+defect in the left lower lobe which could represent a mucous 
+plug.  2. Perfusion defect in the right upper lobe may represent 
+prior documented subsegmental PE.  There are no additional V/Q 
+mismatch to suggest additional PE. 
+
+ 
+Brief Hospital Course:
+___ is a ___ hx IDDM2, PVD, Alzheimer's, provoked 
+DVT, transferred from ___ after mechanical fall with tib/fib 
+fracture with hypoxia, found to have PE, DVT, chronic dCHF, and 
+RV failure.
+
+# Proximal RLE tibial platuea fracture: 
+Transferred from CHA with fracture in setting of fall. 
+Originally seen by ortho and placed in cast. Given medical 
+issues below, required extensive pre-operative evaluation for 
+___, PE, DVT, RV failure and was ultimately deemed a high risk 
+candidate by cardiology and medicine. Underwent tibial plateau 
+fracture ORIF on ___ with regional blocks and MAC in place of 
+general anesthesia and tolerated the procedure well without need 
+for intubation. There were no complications and she improved in 
+the post-operative period.  She is touch down weight bearing 
+(TDWB) in the right lower extremity in an unlocked ___. ___ 
+evaluated her and recommended discharge to rehab. 
+
+# Acute Hypoxic Respiratory Failure
+# Acute Pulmonary Embolism:
+# Left Femoral Common Vein DVT:
+# Acute on Chronic Diastolic CHF: 
+Patient was hypoxic on transfer from OSH. CTA performed and 
+demonstrated a small distal PE in RUL and she was subsequently 
+started on a heparin gtt. ___ demonstrated a large left common 
+femoral vein DVT. Echocardiogram demonstrated high PASP/pHTN out 
+of proportion to PE size, with RV free wall dilation and 
+hypokinesis. She was diuresed for acute on chronic diastolic 
+CHF. Given high-risk cardiac morbidities, evaluated by 
+cardiology pre-op.  Cardiology recommended V/Q scan to evaluate 
+between chronic left sided dCHF or CTEPH as cause of pulmonary 
+HTN - test favored the former. An IVC filter was placed to 
+reduce embolism of high risk DVT while off anticoagulation for 
+surgery. Post-operatively, she was transitioned from heparin to 
+Rivaroxaban.  She developed a small amount of rectal bleeding 
+while on Rivaroxaban so was subsequently switched to Coumadin 
+for improved control and option of reversal.  As this DVT/PE was 
+likely provoked in the setting of fracture, she will require at 
+least 3 months of anticoagulation.
+
+# Acute on Chronic Diastolic CHF: 
+As above, TTE with LVH, normal LV function, moderately dilated 
+RV with severe RV
+global free wall hypokinesis. Severe TR and severe pulm HTN 
+(PASP 61), Mild AR. RV pressures and hypokinesis out of 
+proportion to PE size, and as V/Q scan without other significant 
+perfusions defects, suspect elevated PASP is due to chronic left 
+sided failure. She was initially treated with iv Lasix and then 
+transitioned to home torsemide.
+
+# Rectal bleeding 
+# Rectal Prolapse
+Small blood clots seen per rectum on ___. Hemoglobin 
+remained stable.  She has a known history of rectal prolapse. 
+Colorectal surgery was called to evaluate and reduce rectal 
+prolapse.  They recommended an adequate bowel regimen to ensure 
+soft BMs.  The bleeding per rectum was small and thus, 
+anticoagulation was not stopped.  Colorectal Surgery did not 
+feel any surgical intervention was warranted at this time.
+
+# HTN: Persistently elevated this admission. Continued home 
+losartan and home hydralazine. She was started on nifedipine 
+which was titrated to 60 mg daily and her hydralazine was 
+titrated down to 10 mg TID. Plan to taper hydralazine as able.
+
+# IDDM2: ___ prior MD discussion with her PCP she is ___ brittle 
+diabetic and her diabetic regimen had been liberalized to avoid 
+hypoglycemia at the expense of tight control. She was thus kept 
+on a liberal sliding scale while hospitalized with most FSBS in 
+the 200s. While hospitalized home NPH, trulicity, and metformin 
+were held.
+
+# Demand Ischemia
+# Type 2 MI: On admission patient had mild troponin leak in 
+setting of tachycardia, PE, and acute on chronic diastolic CHF. 
+Troponins peaked to 0.10 --> 0.07. EKG without clear ischemic 
+changes. Continued on aspirin, statin, and blood pressure agents 
+as anove. 
+
+# Asymptomatic Bacteruria: Unclear if patient had urinary 
+symptoms on admission. UCX with E. Coli s/p 3 days CTX 
+___. IUC removed without issue. 
+
+# PVD: continued statin, ASA
+
+# Alzheimer's dementia: Maintained on delirium precautions. Home 
+donepezil continued.
+
+# Chronic pain: continued home fentanyl patch, Tylenol, and 
+gabapentin. Additional pain meds given as needed 
+
+TRANSITIONAL ISSUES
+[] INR check daily until stable -- currently on Coumadin 2 mg 
+q1800
+[] Call ___ to arrange follow up with Orthopedic 
+Surgery ___, NP for suture removal between 
+___ 
+[] Monitor blood pressure - taper/titrate hydralazine as 
+tolerated
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PreserVision AREDS-2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY 
+2. Potassium Chloride 20 mEq PO DAILY 
+3. Pantoprazole 40 mg PO Q12H 
+4. MetFORMIN (Glucophage) 500 mg PO DAILY 
+5. Losartan Potassium 50 mg PO BID 
+6. HydrALAZINE 20 mg PO TID 
+7. Gabapentin 100 mg PO BID 
+8. Fentanyl Patch 12 mcg/h TD Q72H 
+9. Donepezil 10 mg PO QHS 
+10. Atorvastatin 40 mg PO QPM 
+11. Aspirin 81 mg PO DAILY 
+12. Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+13. Vitamin D ___ UNIT PO EVERY 2 WEEKS (___) 
+14. Torsemide 5 mg PO DAILY 
+15. HumuLIN N NPH Insulin KwikPen (insulin NPH isoph U-100 
+human) 20 U SC DAILY 
+16. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin 
+3.  NIFEdipine (Extended Release) 60 mg PO DAILY  
+4.  Polyethylene Glycol 17 g PO DAILY  
+5.  Ramelteon 8 mg PO QHS 
+Should be given 30 minutes before bedtime  
+6.  Warfarin 2 mg PO DAILY16  
+7.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
+8.  Aspirin 81 mg PO DAILY  
+9.  Atorvastatin 40 mg PO QPM  
+10.  Donepezil 10 mg PO QHS  
+11.  Fentanyl Patch 12 mcg/h TD Q72H  
+12.  Gabapentin 100 mg PO BID  
+13.  HydrALAZINE 20 mg PO TID  
+14.  Losartan Potassium 50 mg PO BID  
+15.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+16.  Pantoprazole 40 mg PO Q12H  
+17.  Potassium Chloride 20 mEq PO DAILY 
+Hold for K >  
+18.  PreserVision AREDS-2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY  
+19.  Torsemide 5 mg PO DAILY  
+20.  Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+ 
+21.  Vitamin D ___ UNIT PO EVERY 2 WEEKS (___)  
+22. HELD- HumuLIN N NPH Insulin KwikPen (insulin NPH isoph U-100 
+human) 20 U SC DAILY  This medication was held. Do not restart 
+HumuLIN N NPH Insulin KwikPen until blood sugars will tolerate
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right bicondylar tibial plateau fracture
+Left common femoral DVT
+Subsegmental PE
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___
+
+You were admitted after a fall and found to have a fracture in 
+your R leg.  You underwent surgery to fix the fracture.  You 
+were also found to have low oxygen levels caused by a pulmonary 
+embolism (blood clot in your lungs), as well as a blood clot in 
+your leg. You were started on a blood thinner and a diuretic.  
+An IVC filter was placed to reduce your risk of recurrent PE.
+
+Please follow-up with your primary care doctor and with the 
+orthopedic surgeon after discharge.
+
+It was a pleasure taking care of you at ___!
+-- Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14199730-DS-20 | hadm_id=27516050
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+coffee ground emesis
+ 
+Major Surgical or Invasive Procedure:
+EGD with enteroscopy
+
+ 
+History of Present Illness:
+The patient is an ___ year old female with multiple medical 
+problems including diabetes, dementia, peripheral vascular 
+disease who presented to ___ on ___ with 
+coffee ground emesis and melana. 
+.
+Regarding the GI bleed, she was found to have a hematocrit of 20 
+(on ___ was 41). She had an EGD on ___ that showed duodenal 
+erosion with stigmata of recent bleeding but no active bleeding. 
+Biopsy revealed active chronic gastritis but negative for H. 
+pylori. However, she had an episode of hematemesis with 
+hematocrit drop to 19 to repeat EGD done on ___. This showed 
+adherent blood and inflammation throughout the stomach. A single 
+25mm pedunculated polyp with no bleeding was found in the ___ 
+part of the duodenum/proximal jejunum out of reach to be 
+resected. On ___ she had "fresh blood per rectum" and so a 
+tagged RBC scan was obtained but was unremarkable. On ___ 
+patient had a melanotic stool so transfer to ___ for push 
+enteroscopy was pursued. Since that time her hematocrit has 
+remained stable ~27. She has been switched to PO PPI BID and a 
+mechanical soft diet. She has received a total of 9 units of 
+blood. 
+.
+Her hospital course was complicated by right axillary DVT 
+provoked by PICC placement. The PICC was removed and since then 
+RUE pain ansd swelling have significantly decreased. She 
+reported bilateral lower extremity swelling and pain so 
+bilatearl lower extremity U/S was obtained that demosntrated 
+right popliteal and gastrocnemius vein DVT.  Vascular surgery 
+was consulted recommended obtaining hematology c/s given 
+multiple clots raising possibility for underlying 
+hypercoagulable disorder.  Hematology was consulted - "little 
+suggestion of occult malignancy or heriditary cause for 
+thrombophilia and these episodes have been provoked." No IVC 
+filter was placed. No systemic anticoagulation was started. 
+.
+She currently denies chest pain, dyspnea, dizziness. She 
+endorses right lower extremity pain over the past several days. 
+She endorses more long-standing left lower extremity pain. 
+.
+Reviw of systems:  
+(+) Per HPI  
+(-) Denies fever, chills. Denies headache. Denies cough, 
+shortness of breath. Denies chest pain. Denies nausea, vomiting, 
+or abdominal pain. No recent change in bowel or bladder habits. 
+No dysuria. Denies arthralgias or myalgias.  
+
+ 
+Past Medical History:
+-hyperlidemia 
+-diabetes
+-insomnia
+-hypertension
+-macular degeneration
+-dementia 
+-osteoarthtis 
+-peripheral vascular disease
+
+ 
+Social History:
+___
+Family History:
+-denies hx of colon cancer
+
+ 
+Physical Exam:
+Vitals: 99.2  129/58  77  18  99%RA  
+General: comfortable
+HEENT:  anicteric sclera
+CV:  S1, S2 regular rhythm, normal rate
+chest: left subclavian
+Lungs: unlabored, CTA bilaterally
+Abdomen:  soft, non-tender, non-distended
+GU: no foley
+Ext:  trace edema ___ extremity
+Neuro: alert, oriented self only
+
+ 
+Pertinent Results:
+LABS:  
+-___ HCT: 28.5, platlet: 218, WBC: 10.9
+___ 10:05AM BLOOD WBC-8.6 RBC-3.13* Hgb-8.9* Hct-28.6* 
+MCV-91 MCH-28.5 MCHC-31.2 RDW-15.4 Plt ___
+ 
+OSH LOWER EXTEREMITY U/S:
+-DVT in right popliteal  and gastrocnemiusos veins
+-no DVT in left lower extremity
+-incidental finding of hypoechoic mass with hyperechoic hilium 
+in left groin measuring 1.1x1.5cm c/w lymph node but clinical 
+correlation suggested
+
+Endoscopy result
+Diverticulum in the third part of the duodenum
+Polyp in the fourth part of the duodenum, not biopsied in the 
+setting of recent reported bleeding
+Two lymphangectasias were noted in the third portion of the 
+duodenum
+Thickened antral fold with superficial erosions in the 
+pre-pyloric region (biopsy)
+Otherwise normal EGD to mid jejunum
+
+___ 06:40AM BLOOD WBC-6.8 RBC-3.49* Hgb-9.6* Hct-31.1* 
+MCV-89 MCH-27.7 MCHC-31.0 RDW-15.5 Plt ___
+___ 06:15AM BLOOD WBC-6.7 RBC-3.41* Hgb-9.3* Hct-30.7* 
+MCV-90 MCH-27.2 MCHC-30.2* RDW-15.5 Plt ___
+___ 06:28AM BLOOD WBC-7.7 RBC-3.21* Hgb-9.0* Hct-28.9* 
+MCV-90 MCH-28.0 MCHC-31.2 RDW-15.6* Plt ___
+___ 07:45AM BLOOD WBC-8.3 RBC-3.25* Hgb-9.2* Hct-29.4* 
+MCV-90 MCH-28.3 MCHC-31.4 RDW-15.4 Plt ___
+___ 10:05AM BLOOD WBC-8.6 RBC-3.13* Hgb-8.9* Hct-28.6* 
+MCV-91 MCH-28.5 MCHC-31.2 RDW-15.4 Plt ___
+___ 06:25AM BLOOD WBC-10.6 RBC-3.21* Hgb-9.3* Hct-29.4* 
+MCV-91 MCH-28.9 MCHC-31.7 RDW-15.5 Plt ___
+___ 12:30AM BLOOD WBC-10.7# RBC-3.26*# Hgb-9.2*# Hct-29.3*# 
+MCV-90 MCH-28.3 MCHC-31.5 RDW-15.8* Plt ___
+___ 06:40AM BLOOD ___ PTT-104.4* ___
+___ 06:15AM BLOOD ___ PTT-80.1* ___
+___ 06:28AM BLOOD ___ PTT-94.8* ___
+___ 07:45AM BLOOD ___ PTT-81.1* ___
+___ 12:30AM BLOOD ___ PTT-33.4 ___
+___ 06:15AM BLOOD Glucose-182* UreaN-6 Creat-0.7 Na-141 
+K-3.8 Cl-104 HCO3-31 AnGap-10
+___ 06:28AM BLOOD Glucose-166* UreaN-5* Creat-0.8 Na-144 
+K-3.9 Cl-106 HCO3-32 AnGap-10
+___ 07:45AM BLOOD Glucose-126* UreaN-5* Creat-0.7 Na-146* 
+K-3.1* Cl-105 HCO3-34* AnGap-10
+___ 10:05AM BLOOD Glucose-292* UreaN-7 Creat-0.7 Na-143 
+K-3.4 Cl-105 HCO3-32 AnGap-9
+___ 06:25AM BLOOD Glucose-222* UreaN-11 Creat-0.7 Na-142 
+K-3.6 Cl-102 HCO3-31 AnGap-13
+___ 06:25AM BLOOD ALT-16 AST-14 AlkPhos-83 TotBili-0.8
+___ 06:25AM BLOOD Calcium-8.1* Phos-3.4 Mg-2.0 Iron-14*
+___ 06:25AM BLOOD calTIBC-195* Ferritn-43 TRF-150*
+.
+Pathology:
+PATHOLOGIC DIAGNOSIS:
+
+Antral fold biopsy:
+
+a. Chronic inactive gastritis.
+
+b. Immunostains for H. pylori are negative.
+.
+EGD
+Impression: Diverticulum in the third part of the duodenum
+Polyp in the fourth part of the duodenum, not biopsied in the 
+setting of recent reported bleeding
+Two lymphangectasias were noted in the third portion of the 
+duodenum
+Thickened antral fold with superficial erosions in the 
+pre-pyloric region (biopsy)
+Otherwise normal EGD to mid jejunum 
+Recommendations: No evidence of active bleeding. 
+Await pathology results. 
+Recommend colonoscopy to determine source of melena if 
+consistent with patients goals of care.
+ 
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN:
+___ year old female with multiple medical problems including 
+diabetes, dementia, peripheral vascular disease who presented to 
+___ on ___ with coffee ground emesis and 
+melana concerning for upper GI bleed. She has had two upper 
+endoscopies demonstrating duodenal erosion and duodenal polyp 
+but without active bleeding source identified. Remained 
+hemodynamically stable with HCT stable while on anticoagulaiton. 
+
+  
+# ACUTE BLOOD LOSS ANEMIA: Hematocrit stable during 
+hospitalization.
+
+# GASTROINTESTINAL BLEED NOS: Patient had endoscopy with 
+enteroscopy to mid jejunum and there was no clear evidence of 
+bleeding source.  Spoke with family regarding their wish for 
+colonoscopy and they did not feel that was within her goals of 
+care.   She did not have any further hematochezia or melena 
+during her hospitalization.   She was initially on an IV PPI, 
+but this was stopped after no further evidence of bleeding was 
+found. 
+
+# LOWER EXTREMITY DVT:  She was found to have a right popliteal 
+and gastrocnemius vein DVT. This is likely provoked in the 
+setting of immobilization. She was seen by hematology at 
+___ who felt there was little suggestion of 
+heriditary cause for thrombophilia.  After EGD did not reveal a 
+source of bleeding, she was put on a heparin drip with coumadin 
+to treat her DVT and coumadin started on ___.  Family opted 
+for reattempting anticoagulation (knowing risks of 
+anticoagulation) instead of opting for filter. Pt did not have 
+any evidence of bleeding while on anticoagulation. IV Heparin 
+was discontinued ___ and warfarin which had been dosed at 4mg 
+was decreased to 2mg given INR 2.8. ___ will need ongoing INR 
+monitoring and warfarin dosage adjustement. WOuld consider 
+treatment for at least 3 months for a provoked event.
+
+# Low grade fevers noted on ___.  Patient had central 
+subclavian line placed at ___ and this was 
+removed.  Blood cx drawn and Ucx sent althought patient without 
+any urinary symptoms. Work up was unrevealing and pt did not 
+have recurrent fever. Pt did not have any pulmonary symptoms.   
+Fevers may have been from dvt.
+
+# H/o TIA and peripheral vascular disease: restarted aspirin 81 
+mg on ___
+ 
+# DIABETES:   Reduced dose of NPH
+
+#HYPERTENSION:  Her hydralazine was continued, but lasix and ___ 
+held given recent bleed. Lasix was not restarted at discharge. 
+Would monitor pt to consider if needed in outpt setting after 
+stablity ensured.
+.
+#DEMENTIA:  Continued donepezil.
+.
+#HYPERLIPIDEMIA:  Continued statin
+.
+#CHRONIC PAIN:   Continued her fentanyl patch, oxycodone and 
+gabapentin.  
+
+ NURSE PRACTITIONER FROM ___  THe NP is 
+___ and ___ number is ___ and her email is 
+___
+
+. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. NPH 20 Units Breakfast
+NPH 10 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+2. Furosemide 20 mg PO DAILY 
+3. HydrALAzine 20 mg PO Q8H 
+4. OxycoDONE (Immediate Release)  2.5 mg PO QAM 
+5. Fentanyl Patch 12 mcg/h TD Q72H 
+6. Atorvastatin 40 mg PO HS 
+7. Donepezil 10 mg PO HS 
+8. Gabapentin 100 mg PO BID 
+9. Pantoprazole 40 mg PO Q12H 
+10. OxycoDONE (Immediate Release)  5 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO HS 
+2. Donepezil 10 mg PO HS 
+3. Fentanyl Patch 12 mcg/h TD Q72H 
+4. Gabapentin 100 mg PO BID 
+5. HydrALAzine 20 mg PO Q8H 
+6. OxycoDONE (Immediate Release)  2.5 mg PO QAM 
+RX *oxycodone 5 mg ___ capsule(s) by mouth twice a day Disp 
+#*10 Capsule Refills:*0
+7. OxycoDONE (Immediate Release)  5 mg PO QHS 
+8. NPH 15 Units Breakfast
+NPH 8 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+9. Pantoprazole 40 mg PO Q12H 
+10. Warfarin 2 mg PO DAILY 
+11. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+DVT
+GI bleeding 
+dementia
+diabetes
+chronic pain
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted from another hospital for treatment of a blood 
+clot in your leg and for evaluation of bleeding. You underwent 
+an endoscopy which did not reveal any source of bleeding. You 
+were started on blood thinner medication which you tolerated 
+well. You will need to continue this medication (warfarin) after 
+discharge.
+ 
+Followup Instructions:
+___

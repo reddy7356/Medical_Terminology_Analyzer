@@ -1,0 +1,321 @@
+===== DISCHARGE NOTE =====
+note_id=17351900-DS-16 | hadm_id=28779975
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cephalexin / fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+clotted fistula
+ 
+Major Surgical or Invasive Procedure:
+Fistulogram and angioplasty ___
+
+ 
+History of Present Illness:
+___ male with a history of ESRD on HD ___, DM2, HTN, 
+hx
+PE, sarcoidosis, depression (SI ___ who presents with concern
+for clotted fistula of the right upper extremity. Patient states
+he had some discomfort in the right arm. He presented to 
+dialysis
+where there was no palpable or audible thrill in the fistula.
+Patient's last hemodialysis session was ___. He has
+otherwise felt well. Denies chest pain, palpitations, shortness
+of breath, abdominal pain, vomiting, diarrhea, ___ edema. He does
+still make a small amount of urine. 
+
+In the ED, initial vitals:  98.8  88  138/71   17  95% RA. 
+Vitals
+remained stable in ED.
+ 
+- Labs notable for:  Cr stable around 2.5 since arrival. K
+initially 5.8, now 4.2.
+
+- Imaging notable for: CXR w/ pulmonary nodule, but no c/f
+infection. AV fistulogram ordered.
+ 
+- Patient was given: home meds
+
+- Consults: ___, awaiting fistulogram. Renal consulted, no urgent
+indication for HD at this time, will schedule HD after
+fistulogram.
+ 
+On arrival to the floor, pt asx. Endorses above hx. Also states
+that recently treated 3x for PNA at ___, had CT
+chest that demonstrated L lung mass that was biopsied. Has
+appointment to f/u results beginning of ___.
+
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative less otherwise noted in the HPI.  
+
+ 
+Past Medical History:
+- ESRD: chemically induced per patient by seroquel. He has a
+right upper arm brachial basilic AV fistula created by ___ on ___. The basiic vein was transposed on
+___. He underwent AVF banding for steal syndrome in ___ with ___.
+- Hypertension
+- hyperlipidemia
+- Type 2 Diabetes (chemically induced per patient by
+sero___)
+- thyroid disease (sub-total thyroidectomy in ___- no
+supplement)
+- Horse shoe kidney
+- Right subsegmental PE ___,
+- Sarcoidosis
+- Depression(hx of SI in ___.
+ 
+Social History:
+___
+Family History:
+strong family hx of cancer, including lung cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+======================== 
+VS: 98.1 PO 141 / 87 L Sitting 80 20 96 Ra  
+GENERAL: Pleasant, lying in bed comfortably, AOx3  
+HEENT: atraumatic, MMM, EOMI, PERRL
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema  
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact  
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 703)
+    Temp: 98.4 (Tm 98.6), BP: 100/61 (100-135/61-76), HR: 84
+(78-93), RR: 18, O2 sat: 97% (94-97), O2 delivery: ra   
+GENERAL: alert, NAD
+HEENT: atraumatic, anicteric sclerae
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended
+EXT: Warm, well perfused, no lower extremity edema, RUE fistula
+w/ palpable thrill
+NEURO: Alert, oriented, motor and sensory function grossly 
+intact
+SKIN: No significant rashes 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:55PM BLOOD WBC-7.3 RBC-4.35* Hgb-13.6* Hct-41.6 
+MCV-96 MCH-31.3 MCHC-32.7 RDW-14.5 RDWSD-50.6* Plt ___
+___ 06:55PM BLOOD Neuts-67.1 ___ Monos-6.5 Eos-2.9 
+Baso-0.7 Im ___ AbsNeut-4.88 AbsLymp-1.63 AbsMono-0.47 
+AbsEos-0.21 AbsBaso-0.05
+___ 06:55PM BLOOD Glucose-175* UreaN-32* Creat-2.5* Na-138 
+K-6.6* Cl-108 HCO3-22 AnGap-8*
+___ 06:55PM BLOOD Calcium-8.6 Phos-3.3 Mg-2.1
+___ 07:53PM BLOOD K-5.8*
+___ 08:45PM URINE Color-Straw Appear-Clear Sp ___
+___ 08:45PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-1000* Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 
+Leuks-NEG
+___ 08:45PM URINE RBC-0 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+
+INTERVAL LABS:
+==============
+___ 07:15AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 07:15AM BLOOD HCV Ab-NEG
+
+DISCHARGE LABS:
+===============
+___ 05:17AM BLOOD WBC-5.8 RBC-4.31* Hgb-13.5* Hct-40.3 
+MCV-94 MCH-31.3 MCHC-33.5 RDW-14.0 RDWSD-48.0* Plt ___
+___ 05:17AM BLOOD Glucose-140* UreaN-22* Creat-2.0* Na-140 
+K-3.8 Cl-103 HCO3-21* AnGap-16
+___ 05:17AM BLOOD Calcium-8.5 Phos-2.5* Mg-2.2
+
+MICROBIOLOGY:
+=============
+___ 8:28 pm STOOL     CONSISTENCY: LOOSE      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic 
+strains of C.
+      difficile and detects both C. difficile infection (CDI) 
+and
+      asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of 
+CDI or
+      carriage.
+
+IMAGING AND REPORTS:
+====================
+CHEST (PA & LAT) ___
+2 cm nodular opacity projects over the left lower lobe, 
+difficult to discern if truly pulmonary or possibly pleural 
+based.  Recommend nonemergent chest CT for further evaluation 
+for concern for pulmonary nodule.
+RECOMMENDATION(S):  Nonemergent chest CT to further evaluate 2 
+cm nodular
+opacity projecting over the left lower chest/lung.
+
+AV FISTULOGRAM ___
+FINDINGS:
+1. Complete thrombosis of the right upper extremity AV fistula 
+to the level of the outflow vein.
+2. Outflow vein stenosis with improvement following angioplasty 
+to 8 mm.
+3. Satisfactory appearance of the arterial anastomosis. No 
+in-graft or central venous stenosis.
+IMPRESSION: 
+Satisfactory restoration of flow following chemical and 
+mechanical
+thrombolysis with a good angiographic and clinical result.
+ 
+Brief Hospital Course:
+___ male with a history of ESRD on HD ___ who 
+presented with a clotted fistula. He underwent fistulogram and 
+angioplasty on ___ with restoration of flow, and underwent HD 
+on ___.
+
+ACUTE ISSUES:
+=============
+# ESRD on HD MWF
+# Clotted fistula:
+Presented with clotted RUE fistula with last HD session prior to 
+admission on ___. Initially hyperkalemic which 
+normalized after receiving dextrose/insulin on ___. 
+Electrolytes and creatinine remained stable w/o dialysis for ___ 
+days. Underwent fistulogram and angioplasty on ___ which showed 
+complete thrombosis of the right upper extremity AV fistula to 
+the level of the outflow vein. Flow improved s/p angioplasty. 
+Underwent HD on ___. Given the stability of his 
+electrolytes/Cr, he was discharged with plan to resume ___ HD on 
+___ as an outpatient.
+
+# Diarrhea
+Patient reported watery diarrhea x2 weeks. C.diff was negative. 
+His diarrhea was improving at time of discharge.
+
+# L lung mass: per pt, had CT scan that demonstrated mass, s/p
+biopsy. Does not know results. Has appointment scheduled at ___ in beginning of ___. Respiratory status stable on RA.
+
+CHRONIC ISSUES:
+===============
+# DM2: Held home glipizide while inpatient. Continued home 
+glargine, placed on HISS.
+# HTN: continued amlodipine 10mg
+# HLD: continued home statin
+# Depression: continued home paroxetine, Seroquel QHS
+# Chronic pain: continued home gabapentin, cyclobenzaprine PRN,
+# Anxiety: continued home clonazepam 0.5mg prn, temazepam 30 mg 
+qhs prn
+
+TRANSITIONAL ISSUES:
+====================
+[] Consider diarrhea workup if it does not improve.
+[] Please administer Hepatitis B vaccine series as he is 
+nonimmune.
+[] Patient may have enough residual function to come off 
+dialysis, but patient reported he failed a trial off dialysis 
+___ volume overload. Consider a trial off HD as an outpatient.
+[] Please ensure patient follows-up at ___ for lung mass 
+workup.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxepin HCl 50 mg PO HS 
+2. Lisinopril 2.5 mg PO DAILY 
+3. Cyclobenzaprine 5 mg PO TID:PRN back spasm 
+4. PARoxetine 40 mg PO DAILY 
+5. GlipiZIDE XL 5 mg PO BID 
+6. Temazepam 30 mg PO QHS:PRN anxiety 
+7. QUEtiapine Fumarate 100 mg PO QHS 
+8. Simvastatin 5 mg PO QPM 
+9. Gabapentin 400 mg PO TID 
+10. amLODIPine 10 mg PO DAILY 
+11. ClonazePAM 0.5 mg PO TID:PRN anxiety 
+12. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+13. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+14. Glargine 20 Units Breakfast
+Glargine 20 Units Bedtime
+
+ 
+Discharge Medications:
+1.  Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+2.  Glargine 20 Units Breakfast
+Glargine 20 Units Bedtime 
+3.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB  
+4.  amLODIPine 10 mg PO DAILY  
+5.  budesonide-formoterol 160-4.5 mcg/actuation inhalation BID  
+6.  ClonazePAM 0.5 mg PO TID:PRN anxiety  
+7.  Cyclobenzaprine 5 mg PO TID:PRN back spasm  
+8.  Doxepin HCl 50 mg PO HS  
+9.  GlipiZIDE XL 5 mg PO BID  
+10.  Lisinopril 2.5 mg PO DAILY  
+11.  PARoxetine 40 mg PO DAILY  
+12.  QUEtiapine Fumarate 100 mg PO QHS  
+13.  Simvastatin 5 mg PO QPM  
+14.  Temazepam 30 mg PO QHS:PRN anxiety  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Clotted AV Fistula
+
+SECONDARY DIAGNOSIS
+===================
+End stage renal disease on hemodialysis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for a clotted fistula. 
+ 
+What was done for me while I was in the hospital?  
+- ___ fixed the clotted fistula and you got dialysis through it 
+before you left.  
+
+What should I do when I leave the hospital?  
+- Continue attending all of your scheduled dialysis sessions and 
+taking all your prescribed medications.  
+ 
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

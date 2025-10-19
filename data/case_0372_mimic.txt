@@ -1,0 +1,209 @@
+===== DISCHARGE NOTE =====
+note_id=18459916-DS-6 | hadm_id=26861845
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right temporal cavernous malformation
+ 
+Major Surgical or Invasive Procedure:
+___ - Right temporal craniotomy for resection of right 
+temporal cavernous malformation
+
+ 
+History of Present Illness:
+___ is a ___ year old female with a history of 
+seizures and a known right temporal cavernous malformation who 
+presented electively on ___ for a right temporal craniotomy 
+for resection of the right temporal cavernous malformation.
+
+ 
+Past Medical History:
+- attention deficit disorder
+- history of seizures
+- status post knee surgery
+ 
+Social History:
+___
+Family History:
+No family history of cavernous malformation.
+ 
+Physical Exam:
+On Discharge:
+-------------
+General:
+
+Vital Signs: T 98.6F, HR 72, BP 101/63, RR 24, O2Sat 98% room 
+air
+
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex
+Pupils: Pupils equal, round, and reactive to light
+Extraocular Movements: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No     
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+
+        Trapezius   Deltoid   Biceps   Triceps   Grip
+Right5           5         5        5         5
+Left5           5         5        5         5
+
+        IP   Quadriceps   Hamstring   AT   ___   Gastrocnemius
+Right5    5            5           5    5     5
+Left5    5            5           5    5     5
+
+[x]Sensation intact to light touch
+
+Surgical Incision: 
+[x]Clean, dry, intact 
+[x]Sutures
+ 
+Pertinent Results:
+Please see ___ Record for relevant laboratory and 
+imaging results. 
+ 
+Brief Hospital Course:
+___ year old female with a right temporal cavernous malformation.
+
+#Right Temporal Cavernous Malformation
+Patient went to the operating room on ___ for a right 
+temporal craniotomy for resection of the right temporal 
+cavernous malformation. The procedure was uncomplicated. Please 
+see separately dictated operative report by Dr. ___ 
+further details. Patient was extubated in the operating room and 
+recovered in the PACU. Patient was transferred to the step down 
+unit postoperatively for close neurologic monitoring. Patient 
+was advised to hold her home birth control medication for one 
+week postoperatively as it interacts with an anesthesia reversal 
+agent that she received. On ___, patient was neurologically 
+intact. She was afebrile with stable vital signs, ambulating 
+independently, tolerating a diet, voiding and stooling without 
+difficulty, and her pain was well controlled with oral pain 
+medications. She was discharged home with no needs in stable 
+condition on ___. She will have her sutures removed ___ 
+days postoperatively and will follow-up with Dr. ___ ___ 
+weeks postoperatively.
+
+#History of Seizures
+Patient was continued on her home Keppra 500mg twice daily.
+
+#Anemia
+Patient's hemoglobin and hematocrit were low postoperatively. 
+They were trended once daily throughout her hospitalization and 
+remained stable.
+
+#Dispostion
+Patient was discharged home with no needs in stable condition on 
+___. 
+ 
+Medications on Admission:
+- dextroamphetamine/amphetamine 10mg by mouth once daily
+- drospirenone/ethinyl estradiol 3mg/0.03mg by mouth once daily
+- levetiracetam 500mg by mouth twice daily
+ 
+Discharge Medications:
+- acetaminophen 325-650mg by mouth every 6 hours as needed for 
+pain
+- dextroamphetamine/amphetamine 10mg by mouth once daily
+- docusate sodium 100mg by mouth twice daily as needed for 
+constipation
+- levetiracetam 500mg by mouth twice daily
+- tramadol 50mg by mouth every 6 hours as needed for pain for 7 
+days
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right temporal cavernous malformation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory, independent.
+ 
+Discharge Instructions:
+Call Your Neurosurgeon If You Experience:
+- Any neurological issues, such as changes in vision, speech, or 
+movement.
+- Redness, swelling, or drainage from your surgical incision.
+- Any problems with medications, such as lethargy, nausea, or 
+vomiting.
+- Fever greater than 101.5 degrees Fahrenheit.
+- Headaches not relieved with prescribed medications.
+
+Activity:
+- Start to resume all activities as you tolerate, but start 
+slowly and increase at your own pace.
+- Do not operate any motorized vehicle after surgery, you can 
+get more details about this at the time of your suture removal.
+
+Medications: 
+- Please do not take your birth control for one week after 
+surgery. You may resume it on ___. Please follow-up with 
+your primary care provider with any questions or concerns.
+
+Surgical Incision Care:
+- Keep your surgical incision clean and dry.
+- Do not use shampoo until your sutures are removed. 
+- When you are allowed to shampoo your hair, let the shampoo run 
+off the surgical incision line. Gently pad the surgical incision 
+with a towel to dry.
+- Do not rub, scrub, scratch, or pick at any scabs on the 
+surgical incision line.
+- You will need your sutures removed ___ days after surgery.
+
+Postoperative Experiences: Physical
+- You may experience jaw pain on the same side as your surgery, 
+this goes away after about a month.
+- You may experience constipation. Constipation can be prevented 
+by:
+  - Drinking plenty of fluids.
+  - Increasing fiber in your diet by eating prunes, vegetables, 
+fiber rich breads or cereals, and fiber supplements.
+  - Exercising.
+  - Using over the counter laxatives or bowel stimulants as 
+needed. Please stop taking if you experience loose stools or 
+diarrhea.
+- Fatigue, which will slowly resolve over time.
+- Numbness or tingling in the area of the surgical incision. 
+This can take weeks or months to fully resolve.
+- Muffled hearing in the ear near the surgical incision.
+- Low back pain or shooting pains down the legs, which should 
+resolve with increased activity.
+
+Postoperative Experiences: Emotional
+- You may experience depression. Symptoms of depression can 
+include:
+  - Feeling “down” or sad.
+  - Irritability, frustration, and confusion.
+  - Distractibility.
+  - Lower self esteem.
+  - Relationship challenges.
+  - Insomnia.
+  - Loneliness.
+- If you experience these symptoms, please contact your primary 
+care provider, who can make a referral to a psychologist or 
+psychiatrist.
+ 
+Followup Instructions:
+___

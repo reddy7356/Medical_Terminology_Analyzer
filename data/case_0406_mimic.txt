@@ -1,0 +1,462 @@
+===== DISCHARGE NOTE =====
+note_id=18695614-DS-19 | hadm_id=20105292
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ female with infected left foot blister
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female with DM1, neuropathy and multiple diabetic 
+foot ulcers, as well as rhematoid arthritis on prednisone, MTX 
+and florinef, directly admitted from ___ for 
+infected foot ulcer. Patient reports that the ulcer was noticed 
+by her home health aide earlier this week. She denies recent 
+trauma, denies fever, chills, nausea, vomiting, diarrhea, rash, 
+or foot pain. She has had no recent antibiotic use except for 
+pre-dental work some months ago. 
+ 
+Past Medical History:
+1. Type I Diabetes: ___ year history complicated by peripheral 
+neuropathy and diabetic foot ulcers
+2. Rheumatoid arthritis: ___ year history status post surgery for 
+repair of carpal tunnel, left knee, shoulder, hands, and various 
+toes
+3. Question Sjogren's syndrome
+4. Chronic malabsorption of unknown etiology
+5. Iron deficiency anemia with recent normal colonoscopy
+ 
+Social History:
+___
+Family History:
+Mother with type ___ DM. Maternal grandfather with myocardial 
+infarction at ___.  No history of cancer.
+ 
+Physical Exam:
+Vitals: T:98.1 BP:171/76 P: R: SaO2:  
+General: Elderly female, awake, alert, NAD, pleasant, 
+appropriate, cooperative.  
+HEENT: PERRL, EOMI. MMM.  
+Neck: supple, no significant JVD.  
+Pulmonary: Lungs CTA bilaterally, no wheezes  
+Cardiac: RR, nl S1 S2, no murmurs appreciated  
+Abdomen: soft, NT, ND, normoactive bowel sounds  
+Extremities: Right foot with 1+ non-pitting edema, no erythema 
+or skin breakdown. Left foot with erythematous ulceration with 
+drainage across the plantar surface, with erythematous skin up 
+to the ankle.  
+Skin: no other rashes or lesions noted.  
+Neurologic: Alert, oriented x 3. Able to relate history without 
+difficulty. Cranial nerves ___ intact.  
+
+ 
+Pertinent Results:
+___ 01:05PM BLOOD WBC-6.5 RBC-3.04* Hgb-9.8* Hct-28.8* 
+MCV-95 MCH-32.3* MCHC-34.1 RDW-15.0 Plt ___
+___ 05:44AM BLOOD WBC-4.6 RBC-3.14* Hgb-10.0* Hct-29.0* 
+MCV-92 MCH-31.7 MCHC-34.4 RDW-14.6 Plt ___
+___ 01:05PM BLOOD Glucose-137* UreaN-14 Creat-0.8 Na-141 
+K-4.5 Cl-103 HCO3-29 AnGap-14
+___ 05:44AM BLOOD Glucose-82 UreaN-19 Creat-0.8 Na-139 
+K-4.4 Cl-104 HCO3-26 AnGap-13
+___ 01:05PM BLOOD Calcium-9.4 Phos-2.7 Mg-2.0 Iron-29*
+___ 01:05PM BLOOD calTIBC-202* VitB12-252 Folate-GREATER TH 
+Ferritn-390* TRF-155*
+___ 1:10 pm FOOT CULTURE      Source: foot wound. 
+
+   WOUND CULTURE (Preliminary): 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+         Please contact the Microbiology Laboratory (___) 
+immediately if
+         sensitivity to clindamycin is required on this 
+patient's isolate. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN G---------- =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+Foot XRAY:
+HISTORY: Diabetes, chronic ulcers, left foot cellulitis. 
+  
+FINDINGS: Three views of the left foot are compared to ___. 
+There is no significant interval change compared to the prior 
+study. Prior osteotomies of the fourth and fifth metatarsals are 
+present. There are stable prominent degenerative changes of the 
+first TMT joint which may be related to prior trauma. There is 
+no new obvious lucency to suggest osteomyelitis, and no new 
+fracture deformity is seen. The soft tissues are edematous. 
+  
+IMPRESSION: Stable examination of the left foot. No new evidence 
+of fracture or osteomyelitis. 
+
+ 
+Brief Hospital Course:
+1. Cellulitis/Foot ulcer: Clinical appearance on admission was 
+is of a mild cellulitis and infected blister. Patient afebrile 
+and no systemic symptoms during hospitalization.  She was 
+started on IV Vancomycin, PO cipro and flagyl because she is at 
+high risk for serious infection as she is on immunosuppression, 
+has multiple hospitalizations, diabetes and history of MSSA and 
+MRSA, as well as history of osteomyelitis in the right foot.  We 
+took cultures of the wound, blood, urine, blood.  The wound grew 
+MRSA and all else was negative. Foot Xray showed no evidence of 
+fracture or osteomyelitis. She was transitioned to PO 
+Doxycycline for total 10 day course.  She was followed by the 
+podiatry team in house who recommended felted foam w/post-op 
+shoe, daily dressing changes and wet to dry dressings.  The 
+patient was seen by physical therapy who recommended short term 
+rehab. 
+  
+2. Diabetes Mellitus type 1 with complication: Complications of 
+peripheral neuropathy and chronic foot ulcer. Patient was 
+continued on home glargine and SSI, as well as lyrica for 
+peripheral neuropathy. 
+  
+3. Rheumatoid Arthritis: Patient was continued on her home 
+prednisone.  She was also given leucovorin 10mg po once because 
+she had taken her methotrexate the morning prior to admission.  
+We spoke with her rhematologist who recommended stopping MTX 
+while infection was ongoing.  We explained this to the patient. 
+
+4. Anemia: Chronic with history of b12 deficiency. Iron studies 
+appeared to be consistent with chronic disease. 
+  
+5 Urinary Incontinence: Patient on long acting detrol at home, 
+we don't have it in house so we we continued her on 2mg po BID 
+regular Detrol. 
+  
+6. Hypertension: Patient on unknown doses of lisinopril and 
+metoprolol. We started her on lisinopril 5  and metoprolol 12.5  
+and her blood pressure was well controlled..  
+ 
+7. Depression: Stable.  Continued patient on home citalopram and 
+cymbalta. 
+  
+8. C.diff - Pt developed ___ days of diarrhea, loose stools 
+about 2 BMs each day. No abdominal pain. She was discharged on a 
+two week course of Flagyl.
+ 
+Medications on Admission:
+ALENDRONATE [FOSAMAX] - (Prescribed by Other Provider) - Dosage  
+
+uncertain  
+CITALOPRAM [CELEXA] - (Prescribed by Other Provider) - 20 mg  
+Tablet - onr Tablet(s) by mouth once daily  
+INSULIN GLARGINE [LANTUS] - (Prescribed by Other Provider) - 100 
+ 
+unit/mL Solution - 6 units once daily at bedtime  
+INSULIN LISPRO [HUMALOG] - (Prescribed by Other Provider) - 100  
+
+unit/mL Solution - sliding scale  
+LEUCOVORIN CALCIUM - (Prescribed by Other Provider) - Dosage  
+uncertain  
+METHOTREXATE SODIUM [METHOTREXATE (ANTI-RHEUMATIC)] -  
+(Prescribed by Other Provider) - 2.5 mg Tablets, Dose Pack - 7  
+Tablets(s) by mouth once weekly on ___  
+PREDNISONE - (Prescribed by Other Provider) - 5 mg Tablet - one  
+
+Tablet(s) by mouth every other day  
+ACETAMINOPHEN [TYLENOL ARTHRITIS] - (Prescribed by Other  
+Provider) - 650 mg Tablet Sustained Release - two Tablet(s) by  
+mouth twice daily  
+ASCORBIC ACID [VITAMIN C] - (Prescribed by Other Provider) -  
+Dosage uncertain  
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - (Prescribed by Other  
+Provider) - Dosage uncertain  
+MULTIVITAMIN - (Prescribed by Other Provider) - Tablet - one  
+Tablet(s) by mouth once daily  
+Cymbalta 60 mg po daily  
+Lyrica 25 mg po qHS  
+
+ 
+Discharge Medications:
+1. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. Pregabalin 25 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+5. Prednisone 5 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY 
+(Every Other Day).  
+6. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).  
+9. Detrol LA 4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO at bedtime.  
+10. Insulin Glargine 100 unit/mL Cartridge Sig: Six (6) units 
+Subcutaneous at bedtime: please continue your insulin sliding 
+scale as directed prior to this hospitalization.  
+11. Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO 
+Q12H (every 12 hours) for 7 days: last day ___.  
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO three 
+times a day for 2 weeks.  
+13. Insulin
+Please follow attached insulin schedule with both sliding scale 
+and fixed doses.
+14. Tylenol ___ mg Tablet Sig: ___ Tablets PO every eight (8) 
+hours as needed for pain.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Cellulitis
+Infected foot ulcer
+Diabetes type 1 with complication of peripheral neuropathy
+Hypertension
+Rheumatoid Arthritis
+Depression
+
+ 
+Discharge Condition:
+Stable.
+
+ 
+Discharge Instructions:
+You came to the hospital with an infected foot.  The podiatry 
+team saw you here.  We started you on IV antibiotics and you 
+improved.  We then transitioned you to oral antibiotics.  Your 
+foot XRAY showed now evidence of an infection in your bone.  Our 
+physical therapists saw you and recommended short term rehab 
+until your foot recovers.
+.
+We made the following changes to your medications:
+Doxycycline 100 po twice daily for 7 more days (last day 
+___
+We spoke with your rheumatologist and you should STOP 
+Methotrexate until your infection is improved (after you follow 
+up with your podiatrist).
+.
+Please follow up with your podiatrist, your rhematologist, and 
+your primary care doctor as below.
+.
+If you have worsening pain in your foot, if you notice more 
+redness, swelling or skin breakdown, if you have fever, chills, 
+nausea, vomiting, diarrhea or any other symptom that is 
+concerning to you, please call your doctor or come to the 
+emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18695614-DS-20 | hadm_id=21127822
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hypoglycemia
+ 
+Major Surgical or Invasive Procedure:
+Cataract eye surgery
+ 
+History of Present Illness:
+This is a ___ year old woman who lives by herself and manages her 
+diabetes but with frequent hypoglycemic episodes recenlty. She 
+just had a catarct eye surgery and was admitted to our service 
+for monitoring because of fears of recurrent hypoglycemia. 
+During the last weekend, she had a possible prolonged 
+hypoglycemic episode that resulted in unconsciousness for hours, 
+according to her daughter assessment. The ___ and the 
+mother refuse to live together and the patient refuses to move 
+to a facility. She does not have ___. She fell multiple times in 
+the past and had hip fecture. She takes Lantus ___ Units in the 
+AM and a sliding scale. His dose was reduced but her blood 
+glucose fluctuates. She eats several small meals a day but she 
+has lost her appetite and her meals are inconsistent. She had no 
+dementia. She uses a walker at basline. She currently denies any 
+symptoms except for chronic right hip pain. All remaining 
+systems were reviewed and symptoms were negative.  
+ 
+Past Medical History:
+1. Type I Diabetes: ___ year history complicated by peripheral 
+neuropathy and diabetic foot ulcers
+2. Rheumatoid arthritis: ___ year history status post surgery for 
+repair of carpal tunnel, left knee, shoulder, hands, and various 
+toes
+3. Question Sjogren's syndrome
+4. Chronic malabsorption of unknown etiology
+5. Iron deficiency anemia with recent normal colonoscopy
+ 
+Social History:
+___
+Family History:
+Mother with type ___ DM. Maternal grandfather with myocardial 
+infarction at ___.  No history of cancer.
+ 
+Physical Exam:
+General: Elderly female, awake, alert, NAD, pleasant, 
+appropriate,cooperative.  
+HEENT: eye patch on the right  
+Neck: supple, no significant JVD.  
+Pulmonary: Lungs CTA bilaterally, no wheezes  
+Cardiac: RR, nl S1 S2, no murmurs appreciated  
+Abdomen: soft, NT, ND, normoactive bowel sounds  
+Extremities: Right foot with 1+ non-pitting edema, no erythema  
+or skin breakdown. 
+Skin: no other rashes or lesions noted.  
+Neurologic: Alert, oriented x 3. Able to relate history without 
+difficulty. Cranial nerves ___ intact
+ 
+Pertinent Results:
+None
+ 
+Brief Hospital Course:
+This is a ___ year old woman who lived by herself and managed her 
+diabetes but with frequent hypoglycemic episodes recently. She 
+just had a cataract eye surgery and was admitted to our service 
+for monitoring because of fears of recurrent hypoglycemia.  The 
+daughter and the mother refused to live together and the patient 
+refused to move to a nursing facility. She did not have ___. She 
+took Lantus ___ Units in the AM and a sliding scale. She ate 
+several small meals a day but she has lost her appetite and her 
+meals were inconsistent. She was monitored for hypoglycemia 
+using FSBG and insulin regimen was adjusted accordingly. I 
+consulted the social worker, ___, and case manager regarding her 
+needs at home, home safety evaluation, and to run 
+discussions/arrangements regarding ___ and/or changing living 
+situation to a nursing facility. The patient was reluctant to 
+change her living situation. She was competent and had no signs 
+of dementia. She understood the risk of silent hypoglycemia at 
+home including death. Her daughter was present during all of 
+these discussions and she understood the risk of hypoglycemia. 
+During her hospitalization, she had episodes of hypoglycemia and 
+hyperglycemia. She was seen by her Endocrinologist. Blood tests 
+ruled out DKA. She was discharged home based on her request. I 
+stressed the need for a placement in nursing home. However, she 
+continued to refuse placement. 
+ 
+Medications on Admission:
+Cymbalta 60
+Celexa 30
+Detrol La 4
+folic ___
+Ferrous 325
+Florinef 0.1
+Lyrica 25 
+ca-vit d 
+prinivil 5 
+lantus 8 in AM
+SS insulin
+Enbrel 25 twice a week
+
+ 
+Discharge Medications:
+1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. Citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  
+3. Detrol LA 4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO Daily ().  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+6. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Pregabalin 25 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: Three (3) 
+Tablet, Chewable PO TID (3 times a day) as needed for acid.  
+11. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical 12 HOURS ON 12 HOURS 
+OFF ().  
+12. Enbrel 25 mg Kit Sig: One (1) dose Subcutaneous twice a week 
+().  
+13. Insulin Glargine 100 unit/mL Cartridge Sig: Eight (8) untis 
+Subcutaneous once a day.  
+14. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for Pain.  
+15. Insulin Lispro 100 unit/mL Solution Sig: ASDR Units 
+Subcutaneous three times a day: Please refer to the sliding 
+scale provided to you. .  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Hypoglycemia
+Type 1 diabetes
+Cataract
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+You were admitted because of fears of hypoglycemia after your 
+cataract surgery. We arranged for visiting nurse services at 
+your home with occupational therapy. Please consider placement 
+in a nursing home as you are at increased risk of hypoglycemia 
+and its related complications including death at home. You 
+refused placement in a nursing home. We discussed this with your 
+daughter who agreed with the plan understanding the risk of 
+hypoglycemic episodes at home. 
+ 
+Followup Instructions:
+___

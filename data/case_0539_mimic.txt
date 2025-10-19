@@ -1,0 +1,411 @@
+===== DISCHARGE NOTE =====
+note_id=16294652-DS-3 | hadm_id=23375258
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Exertional chest pain 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___
+Urgent Coronary artery bypass grafts x3 (Left internal mammary 
+artery > left anterior descending, Saphenous vein graft > obtuse 
+marginal 2, Saphenous vein graft > right coronary artery 
+Endovascular saphenous vein harvest right lower extremity ___
+
+ 
+History of Present Illness:
+___ year old man with pmh of HTN, dyslipidemia and remote 
+smoking, with exertional chest pain x 2 months. Worsening chest 
+pain this weekend. Was seen by his PCP ___. Referred for 
+cardiac work-up. He had positive stress
+echo today and then taken for cardiac cath wich showed three 
+vessel disease and very tight proximal LAD stenosis.  Cardiac 
+surgery evaluation is requested. 
+
+ 
+Past Medical History:
+Hypertension
+hyperlipidemia
+history of colonic adenoma.
+ 
+Social History:
+___
+Family History:
+Younger brother has had a heart valve
+replacement.  There is no premature coronary disease in the
+family or sudden cardiac death.
+ 
+Physical Exam:
+On Admission:
+Vital signs: Blood pressure 166/80, heart rate 78, weight 185
+pounds, oxygen saturation 97% room air.
+General: pleasant male sitting on exam table, no distress
+HEENT: anicteric sclerae, clear oropharynx
+Neck: normal jugular venous pressure, carotids 3+ with normal
+upstroke and without bruits
+Cardiac: regular rate and rhythm, normal S1 and split S2, no
+murmurs, rubs or gallops
+Pulm: clear lungs bilaterally
+Abdomen: soft, non-tender, no masses or bruits
+Extremities: warm and well perfused, no clubbing or edema, 3+
+pulses throughout
+Neuro: CNs ___ intact
+Psych: mood is good and affect appropriate
+
+Discharge Examination 
+24 HR Data (last updated ___ 1244)
+    Temp: 97.9 (Tm 98.8), BP: 117/69 (112-127/67-81), HR: 74 
+(74-104), RR: 16 (___), O2 sat: 98% (94-98), O2 delivery: Ra, 
+Wt: 181.44 lb/82.3 kg
+Fluid Balance (last updated ___ @ 759)
+  Last 8 hours  Total cumulative -170ml
+    IN: Total 180ml, PO Amt 180ml
+    OUT:  Total 350ml, Urine Amt 350ml
+  Last 24 hours  Total cumulative 130ml
+    IN: Total 480ml, PO Amt 480ml
+    OUT:  Total 350ml, Urine Amt 350ml
+
+General: NAD 
+Neurological: A/O x3 Moves all extremities Follows commands
+HEENT:  PEERLA
+Cardiovascular: RRR  no murmur or rub 
+Respiratory: CTA  No resp distress  
+GI/Abdomen: Bowel sounds + Soft ND NT
+Extremities: 
+Right Upper extremity   Warm  Edema none  
+Left Upper extremity    Warm  Edema none   
+Right Lower extremity   Warm  Edema trace 
+Left Lower extremity    Warm  Edema trace  
+Pulses:
+DP             Right: P      Left: P
+___             Right: P      Left: P
+Radial         Right: P      Left: P
+
+Sternal: CDI Sternum stable No erythema or drainage 
+Lower extremity: Right EVH no erythema or drainage 
+
+ 
+Pertinent Results:
+___
+Echocardiogram 
+Left Ventricle - Stroke Volume:   53 ml/beat       
+Aorta - Annulus:   2.2 cm   <= 3.0 cm   
+Aorta - Sinus Level:   3.5 cm   <= 3.6 cm   
+Aorta - Sinotubular Ridge:   2.8 cm   <= 3.0 cm   
+Aorta - Ascending:   3.4 cm   <= 3.4 cm   
+Aortic Valve - LVOT VTI:   14       
+Aortic Valve - LVOT diam:   2.2 cm       
+  
+Findings   
+LEFT ATRIUM: No mass/thrombus in the ___. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler. 
+LEFT VENTRICLE: Normal LV wall thickness. Overall normal LVEF 
+(>55%). 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+AORTA: Normal ascending aorta diameter. Simple atheroma in 
+descending aorta. No thoracic aortic dissection. 
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+___ VALVE: Normal tricuspid valve leaflets. Mild [1+] TR. 
+PERICARDIUM: No pericardial effusion. 
+ 
+Conclusions   
+Pre-bypass 
+ No mass/thrombus is seen in the left atrium or left atrial 
+appendage. No atrial septal defect is seen by 2D or color 
+Doppler. Left ventricular wall thicknesses are normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. There 
+are simple atheroma in the descending thoracic aorta. No 
+thoracic aortic dissection is seen. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion. 
+There is no aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. The tricuspid valve appears normal. There 
+is mild tricuspid regurgitation. There is no pericardial 
+effusion. 
+
+ Post-bypass
+ The patient is on a phenylephrine infusion and is A paced.
+ Biventricular function is normal with no regional wall motion 
+abnormalities.
+ No aortic dissection.
+ Remainder of exam is unchanged.   
+
+CXR ___
+Compared to chest radiographs ___: 
+Previous left lower lobe collapse has improved.  Small bilateral 
+pleural 
+effusions are stable.  Minimal left pneumothorax unchanged.  
+Normal 
+postoperative cardiomediastinal silhouette. 
+
+Preoperative workup 
+___ Imaging CHEST (PRE-OP PA & LAT) 
+IMPRESSION:   
+No comparison.  The lung volumes are normal.  Normal size of the 
+cardiac 
+silhouette.  Normal hilar and mediastinal contours.  No 
+pneumonia, no 
+pulmonary edema, no pleural effusions.  No pathological 
+calcifications.  Mild scoliosis of the thoracic spine. 
+
+___ Cardiovascular ___ MD ___ 
+___: Chest pain (R07.9), CAD with unstable angina 
+(I25.110)
+Access: Right Radial Artery 
+Coronary Description
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is a 99% stenosis in the 
+proximal segment. There is a 30% stenosis in the mid segment.
+The Septal Perforator, arising from the proximal segment, is a 
+small caliber vessel.
+The ___ Diagonal, arising from the proximal segment, is a small 
+caliber vessel.
+The ___ Diagonal, arising from the mid segment, is a small 
+caliber vessel. There is a 50% stenosis in the ostium.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. There is an 80% stenosis in the mid segment.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. There is a 99% stenosis in the proximal 
+segment.
+The SinoAtrial, arising from the proximal segment, is a small 
+caliber vessel.
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel.
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel.
+Complications: There were no clinically significant 
+complications.
+Findings
+• Three vessel coronary artery disease.
+Recommendations
+• CABG evaluation.
+
+___ Cardiovascular Stress Echo Report 
+CONCLUSION:
+Indication: This ___ year-old male with hypertension and 
+hyperlipidemia was referred for a stress test for evaluation of 
+his exertional chest pain and nonspecific ST segment changes.
+Medications: valsartan 80 mg ___, hydrochlorothiazide 12.5 mg ___, 
+simvastatin 20 mg ___ 165 mg ___
+Type of stress/symptoms: The patient had no symptoms at 
+rest/prior to stress. The patient exercised on a modified ___ 
+treadmill (3 min stages) protocol for 7 min 0 sec ___ METS) 
+representing a fair exercise
+capacity for age and gender. The test was stopped due to rapidly 
+progressive anterior chest discomfort (peak exercise ___ and 
+ischemic ST changes. In response to stress, the patient had 
+anginal type pain beginning at 4.8 min of exercise (heart rate 
+120bpm; systolic blood pressure 194mmHg)that resolved at 4.0 min 
+(heart rate 82bpm; systolic blood pressure (170mmHg) of 
+recovery.
+Hemodynamics: There was resting systolic hypertension. At rest, 
+the blood pressure was 170/88 mmHg and the heart rate was 73 
+bpm. In response to stress, the heart rate increased to 130 bpm 
+(88 % APMHR) with a
+peak systolic blood pressure of 194 mmHg (peak rate-pressure 
+product = ___.
+ECG: The resting ECG showed sinus rhythm with diffuse 
+nonspecific ST segment changes. At peak exercise, the stress ECG 
+showed showed 1.5-2 mm horizontal ST segment depression 
+inferolaterally and ___levation in aVR and V1. A downsloping ST segment morphology was 
+noted in recovery and persisted until 12 minutes post-exercise. 
+During stress there were rare atrial premature beats and 
+occasional ventricular premature beats with one ventricular 
+couplet.
+Rest Echo: Resting echo images demonstrated mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional left ventricular systolic function and normal 
+global systolic function. The visually estimated resting left 
+ventricular ejection fraction is 60-65%. Tissue Doppler suggests 
+an inceased left
+ventricular filling pressure (PCWP greater than 18mmHg). The 
+right ventricular cavity size is normal with normal free wall 
+motion. There is no pericardial effusion. Doppler demonstrates 
+no aortic valve stenosis, trace aortic regurgitation, trivial 
+mitral regurgitation and no resting left ventricular outflow 
+tract gradient. The resting pulmonary artery systolic pressure 
+could not be estimated.
+Stress Echo: Echo images were acquired within 64 sec post stress 
+at heart rates of 117 to 104 bpm. These demonstrated new 
+regional left ventricular systolic dysfunction with extensive 
+severe hypokinesis of the mid
+to distal anterior wall, septum, and apical ___ of the LV c/w 
+LAD territory ischemia The remaining left ventricular segments 
+augment appropriately. The E/e' was 18 at seconds after exercise 
+and represents and an increase compared to resting baseline. 
+This suggests an increase in left ventricular filling pressure 
+with exercise and c/w exercise-induced diastolic dysfunction. 
+There was appropriate augmentation of right
+ventricular free wall motion.
+FINDINGS:
+LEFT VENTRICLE (LV): Mild symmetric LVH. Normal LV cavity size. 
+Normal resting regional function. Normal
+LVEF (>55%) No resting LVOT gradient.
+RIGHT VENTRICLE (RV): Normal cavity size. Resting RV function 
+normal.
+AORTIC VALVE (AV): No stenosis. Trace aortic regurgitation.
+MITRAL VALVE (MV): Trivial mitral regurgitation.
+TRICUSPID VALVE (TV): Physiologic tricuspid regurgitation. 
+Resting pulmonary artery systolic pressure undetermined.
+PERICARDIUM: No pericardial effusion.
+
+Labs: 
+
+___ 04:26AM BLOOD WBC-9.9 RBC-3.24* Hgb-9.7* Hct-28.1* 
+MCV-87 MCH-29.9 MCHC-34.5 RDW-14.0 RDWSD-44.6 Plt ___
+___ 10:00AM BLOOD WBC-9.0 RBC-5.08 Hgb-15.8 Hct-42.9 MCV-84 
+MCH-31.1 MCHC-36.8 RDW-13.7 RDWSD-42.1 Plt ___
+___ 05:00PM BLOOD ___ PTT-71.4* ___
+___ 04:26AM BLOOD Glucose-103* UreaN-29* Creat-1.0 Na-141 
+K-3.9 Cl-103 HCO3-25 AnGap-13
+___ 10:00AM BLOOD UreaN-26* Creat-1.1 Na-145 K-4.2 Cl-103 
+HCO3-29 AnGap-13
+___ 05:14AM BLOOD ALT-12 AST-17 LD(LDH)-171 AlkPhos-59 
+TotBili-1.4
+___ 04:26AM BLOOD Phos-2.4* Mg-2.0
+___ 05:14AM BLOOD Mg-2.2 Cholest-138
+ 
+Brief Hospital Course:
+Presented for stress echocardiogram which was noted to be 
+positive and was referred to cardiac catheterization.  Cardiac 
+catheterization revealed significant coronary artery disease and 
+cardiac surgery was consulted.  He was admitted and preoperative 
+workup.  On ___ he was taken to the operating room and underwent 
+coronary artery bypass graft, see operative report for further 
+details.  He was taken to the intensive care unit for post 
+operative management.  Later that evening he was weaned from 
+sedation, awoke neurologically intact and was extubated without 
+complications.  POD 1 his CT were removed after being placed on 
+water seal and he remained in the intensive care unit on 
+neosynephrine that was weaned off by the evening of post 
+operative day one.  POD 2 he was started on betablocker and 
+diuretic. He was seen by physical therapy for strength and 
+mobility with recommendation for home. Additionally foley was 
+removed he was able to void but was noted for high post void 
+residual was started on Flomax and required straight 
+catheterization once.  POD 3 his epicardial wires were removed, 
+he was voiding and increasing in ambulation 
+POD 4 he was clinically stable and discharged home with services 
+
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Valsartan 80 mg PO DAILY 
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. Hydrochlorothiazide 12.5 mg PO DAILY 
+5. Aspirin 162 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Mylanta 30 cc oral DAILY:PRN 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+4.  Furosemide 20 mg PO DAILY 
+RX *furosemide [Lasix] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*5 Tablet Refills:*0 
+5.  Magnesium Oxide 400 mg PO DAILY 
+RX *magnesium oxide 400 mg 1 capsule(s) by mouth once a day Disp 
+#*5 Capsule Refills:*0 
+6.  Metoprolol Tartrate 75 mg PO Q8H 
+RX *metoprolol tartrate 50 mg 1.5 tablet(s) by mouth every eight 
+(8) hours Disp #*135 Tablet Refills:*1 
+7.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q6H:PRN Pain: 
+moderate/severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*10 Tablet Refills:*0 
+8.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+9.  Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl 150 mg 1 capsule(s) by mouth once a day Disp 
+#*30 Capsule Refills:*0 
+10.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+11.  Aspirin EC 81 mg PO DAILY  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Mylanta 30 cc oral DAILY:PRN heartburn  
+do not take within 2 hours of zantac   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary revascularization 
+Anemia acute blood loss 
+Thrombocytopenia secondary to blood loss and pump
+
+Secondary diagnosis 
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with acetaminophen and oxycodone 
+Sternal Incision - healing well, no erythema or drainage
+Right Leg EVH - healing well, no erythema or drainage
+Edema trace
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+ 
+Please - NO lotion, cream, powder or ointment to incisions
+ 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+ 
+No driving for approximately one month and while taking 
+narcotics
+
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+
+No lifting more than 10 pounds for 10 weeks
+
+Encourage full shoulder range of motion, unless otherwise 
+specified
+ 
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

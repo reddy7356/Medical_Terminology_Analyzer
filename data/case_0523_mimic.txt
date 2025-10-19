@@ -1,0 +1,247 @@
+===== DISCHARGE NOTE =====
+note_id=15686877-DS-7 | hadm_id=28189878
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ceftriaxone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Ongoing diarrhea
+ 
+Major Surgical or Invasive Procedure:
+colonoscopy ___
+
+ 
+History of Present Illness:
+___ h/o AF, hypertension, asthma, and colitis diagnosed ___ years 
+ago by colonoscopy (not on treatment aside from ___ 
+imodium), history of antibiotic-associated C. diff in ___, and 
+recently re-diagnosed with C. difficile colitis in early ___, now presenting with diarrhea. Patient hospitalized at ___ 
+___ ___, diagnosed with UTI and enteritis, 
+discharged on ___ for UTI, uncertain cause of enteritis. 
+Symptoms persisted and he re-presented to ___ ___. 
+Stool positive for C. diff, started on PO vancomycin and sent 
+home from the ED on oral medication but symptoms persisted, so 
+his GI physician replaced vancomycin with fidaxomicin, which he 
+has been taking for the last 5 days. His stool frequency had 
+improved significantly, but on the night prior to admission he 
+had 4 episodes of diarrhea, prompting him to present to the 
+___ ED. Has mild diffuse abdominal pain. No melena or 
+hematochezia. Denies chest pain shortness of breath nausea or 
+vomiting. In the ED, vitals and labs unremarkable aside from 
+mild ALT elevation. CT abdomen with "long continuous segment of 
+terminal ileum that demonstrates wall thickening with a straight 
+appearance suggesting intramural fat and without acute 
+inflammation. Findings are consistent with chronic inflammation, 
+differentials would include inflammatory and ischemic 
+etiologies. Chronic infection is considered less likely. No 
+evidence of colitis."
+
+Started on PO Vanco IV Flagyl and admitted for further 
+workup/treatment.
+
+ROS is positive as above, plus notes some mild lower extremity 
+edema that his cardiologist worked up with echo which was 
+normal. Has also had a 15 pound weight loss over the last month 
+while he's been feeling ill with poor appetite. Finally, he has 
+had epigastric abdominal pain that is bandlike and radiates to 
+the back, for which he had a CT 6 months ago that was 
+unremarkable, per his report. No jaundice and full review of 
+systems otherwise negative except for above.
+ 
+Past Medical History:
+-A Fib, HTN
+-Asthma
+-Nephrolithiasis
+-Colitis: Diagnosed with colitis by colonoscopy ___ years ago but 
+only has diarrhea ___ for which he takes Imodium. Sounds 
+like possibly microscopic colitis as he reports his GI doctor 
+said his mucosa was normal "pink" appearing. His last 
+colonoscopy was ___ and reportedly was normal. 
+-Esophageal stricture: Has had EGD with dilatation. Another same 
+procedure is planed for near future. 
+-Antibiotic-induced C. Diff colitis in ___
+
+-Cholecystectomy
+-TURP
+-Inguinal hernia repair
+ 
+Social History:
+___
+Family History:
+No family history of colon cancer. Parents died of "old age."
+ 
+Physical Exam:
+-Vitals: reviewed, afebrile
+-General: NAD, laying comfortably in bed 
+-HEENT: atraumatic, normocephalic, moist mucus membranes, PERRL, 
+EOMi
+-Cardiovascular: RRR, no murmur 
+-Pulmonary: clear b/l, no wheeze 
+-GI: Soft, nontender, nondistended, bowel sounds present
+-GU: no foley, no CVA/suprapubic tenderness 
+-MSK: No pedal edema, no joint swelling 
+-Skin: No rashes, ulcerations, or jaundice
+-Neuro: no focal neurological deficits, CN ___ grossly intact 
+-Psychiatric: appropriate mood and affect 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 04:50AM BLOOD WBC-8.3 RBC-5.28 Hgb-15.6 Hct-47.2 MCV-89 
+MCH-29.5 MCHC-33.1 RDW-13.1 RDWSD-42.8 Plt ___
+___ 04:50AM BLOOD Glucose-90 UreaN-9 Creat-0.9 Na-141 K-4.3 
+Cl-104 HCO3-24 AnGap-13
+___ 04:50AM BLOOD ALT-66* AST-39 AlkPhos-70 TotBili-0.6
+___ 04:50AM BLOOD Lipase-22
+___ 04:50AM BLOOD Albumin-3.9
+___ 04:50AM BLOOD Digoxin-0.6
+___ 05:08AM BLOOD Lactate-1.7
+
+DISCHARGE LABS
+___ 06:29AM BLOOD WBC-6.1 RBC-4.54* Hgb-13.6* Hct-41.0 
+MCV-90 MCH-30.0 MCHC-33.2 RDW-13.0 RDWSD-43.1 Plt ___
+___ 06:29AM BLOOD Glucose-81 UreaN-8 Creat-0.9 Na-144 K-4.2 
+Cl-106 HCO3-27 AnGap-11
+
+IMAGING/STUDIES
+-CT A/P with IV contrast (no PO): 1. Long continuous segment of 
+terminal ileum demonstrates wall thickening with a straight 
+appearance suggesting intramural fat and without acute 
+inflammation.  Findings are consistent with chronic 
+inflammation,  differentials would include inflammatory and 
+ischemic etiologies.  Chronic infection is considered less 
+likely. 2. No evidence of colitis. 
+
+-Colonoscopy: Diverticulosis of the sigmoid colon. Normal mucosa 
+in the colon (biopsy). The terminal ileum was evaluated for 
+about 40 cm. Abnormal mucosa with erythema was noted between 
+20-40cm into the terminal ileum. (biopsy). Otherwise normal 
+colonoscopy to terminal ileum
+ 
+Brief Hospital Course:
+___ h/o A fib, HTN, and colitis of uncertain etiology with 
+recently diagnosed C. difficile 2 weeks ago (with ongoing
+symptoms despite PO vancomycin then switched to fidaxomicin with 
+initial improvement) who presented with worsening diarrhea.
+
+1. Diarrhea and terminal ileitis h/o C diff and colitis unknown 
+etiology
+-Patient initially diagnosed with C diff ___ following 
+antibiotics for UTI discharged on PO vancomycin that was changed 
+to fidoxamicin ___ due to persistent diarrhea and then 
+presented ___ with continued diarrhea.  Very unusual not to 
+respond to appropriate C diff treatment. Also would expect C 
+diff to cause colitis and not terminal ileitis. CRP 5.  
+Appreciate GI recommendations with suspicion noninfectious cause 
+of colitis s/p colonoscopy ___.  They will follow up biopsy 
+results with him ?Crohn's disease and discuss treatment.  Okay 
+to stop C diff antibiotics given full 2 week treatment followed 
+by negative test.  Hold ranitidine given increased risk of C 
+diff.   Continue cholestyramine for diarrhea, which can be 
+increased to 8mg BID.  He can also use immodium for diarrhea.  
+
+2. Weight loss
+-15 pound weight loss this month in setting of initial N/V, 
+diarrhea, and poor appetite most likely related to GI process. 
+If this persists after diarrheal process is reversed, PCP ___ 
+need to consider further workup. 
+
+3. Orthostatic hypotension
+-Drop in diastolic blood pressure by 10 with standing.  Concern 
+for iatrogenic-induced hypotension and dizziness with 
+colonoscopy prep (volume depletion) despite being on IV fluids. 
+Give bolus of NS and increase IV fluid rate. 
+
+4. A fib RVR
+-Well-controlled A fib with RVR during colonoscopy likely due to 
+procedure and volume depletion.  Give IV fluids and continue 
+digoxin (level ok), propafenone, and aspirin 325mg.   Defer to 
+PCP/cardiology why he is not on anticoagulation. 
+
+Chronic Medical Problems
+1. Back pain, chronic: evaluated by CT 6 months ago and stable. 
+Lipase is normal and CT with IV contrast demonstrates no 
+pancreatic lesions.
+2. HTN: continue lisinopril
+3. Asthma: Continue Advair 500/50 BID.
+4. Esophageal stricture/GERD: s/p dilations in the past due for 
+another. He is supposed to be on ranitidine (though doesn't have 
+GERD symptoms and may be due to h/o esophagitis), but will hold 
+this in the setting of C. diff.
+
+>30 minutes spent on discharge planning 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Lisinopril 5 mg PO DAILY 
+3. Propafenone HCl 150 mg PO TID 
+4. Digoxin 0.125 mg PO DAILY 
+5. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+6. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+7. Ranitidine Dose is Unknown  PO BID 
+8. Cholestyramine 4 gm PO BID 
+
+ 
+Discharge Medications:
+1.  LOPERamide 2 mg PO QID:PRN diarrhea  
+can take up to 4 times/day w/ diarrhea - goal 1 bowel movement 
+per day  
+RX *loperamide 2 mg 1 tab by mouth up to 4 times per day as 
+needed Disp #*60 Capsule Refills:*0 
+2.  Cholestyramine 8 gm PO BID 
+okay to increase to 8mg twice per day if diarrhea continues  
+RX *cholestyramine (with sugar) 4 gram 2 powder(s) by mouth 
+twice a day Refills:*0 
+3.  Aspirin 325 mg PO DAILY  
+4.  Digoxin 0.125 mg PO DAILY  
+5.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+6.  Lisinopril 5 mg PO DAILY  
+7.  Propafenone HCl 150 mg PO TID  
+8.  Vitamin D ___ UNIT PO 1X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colitis
+Diarrhea 
+A fib
+Orthostatic hypotension 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted with diarrhea being treated for C diff.  You 
+were evaluated by the Gastroenterologist team who felt that your 
+diarrhea was not due to C diff.  You had a colonoscopy ___ and 
+will follow up the results with them.  In the meantime you can 
+use cholestyramine and immodium to control your diarrhea.  If 
+you continue to have diarrhea ensure you are well-hydrated. 
+
+It was a pleasure taking care of you. 
+-Your ___ team
+
+It was a pleasure taking care of you.
+-Your ___ team 
+ 
+Followup Instructions:
+___

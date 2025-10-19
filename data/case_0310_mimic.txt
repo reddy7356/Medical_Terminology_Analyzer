@@ -1,0 +1,243 @@
+===== DISCHARGE NOTE =====
+note_id=17350445-DS-18 | hadm_id=21940869
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillin V
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomtiting 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ ___ type 1 DM, HTN, HPL,  HTN  for eval of nausea and 
+vomiting. Patient states that he was in his usual state of good 
+health until about 2 days prior to presentation, had a lack of 
+appeptite and generally felt unwell without any specific 
+symptoms. He noticed that his sugars were gradually increasing 
+in the 300s accompanied by nausea and vomitting.  He denies 
+diarrhea or abdominal pain, fevers or chills, no rash or cough. 
+He endorses mild sore throat, but no ther infectious symtpoms. 
+He has not been able to tolerate PO for the past 2 days. He has 
+not made any adjustments to his insulin regimen, despite 
+decreased PO intake, and denies any skipped doses.  He states he 
+had one previous episode of DKA ___ years ago, unclear precipitant 
+at that time.
+
+In the ED inital vitals were 98.2 100 131/78 16 99% ra. Inital 
+labs were notable CBC w/ WBC 22., Hct 52.2 ( baseline 
+40-44),chem notable for Na 136 K 4.0, CL 91, HCO3 24, Cr 1.1 ( 
+baseline) AG of 21, CES neg x 1,  VBG pH 7.46 pCO2 33 pO255 HCO3 
+24 BaseXS, Lactate:2.5 ,UA notable for 1000 glu, 10 ketones, no 
+leuks or nitrites. CXR was notable for lienar opacity at the 
+right base, likely atelectasis. He was given 2L NS, 1L Na, 1L NS 
+w/40meq KCl 250cc/hr, insulin gtt started at 7units/ hr, no 
+bolus,  zofran 4mg IVx 2, reglan 10mg IV x 1. FSBG prior to 
+transport from ED was 167, and insulin gtt was discontinued
+
+On arrival to the MICU, the patient continues to feel nauseous. 
+denies any fever sweat or chills, no further episodes of emesis 
+since arrival to the ED.  
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath, or wheezing. 
+Denies chest pain, chest pressure, palpitations, or weakness. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+or changes in bowel habits. Denies dysuria, frequency, or 
+urgency. Denies arthralgias or myalgias. Denies rashes or skin 
+changes
+ 
+Past Medical History:
+1.Type 1 diabetes- followed at ___ diagnosed with type 1 
+diabetes  at age ___. last A1c 8.8% ___
+2.  Hypertension:  
+3.  Hypercholesterolemia
+4. Diabetic retinopathy:
+5. dumping syndrom dx on GE study in ___. no 
+gastroparesis
+6. hx of ischemic right colon s/p right hemicolectomy in ___
+7.  Hypothyroidism
+8.  Hypogonadism
+9.  BPH:- not on meds
+10.  Right undescended testis:  Mr. ___ is not performing
+testicular self-examination
+
+ 
+Social History:
+___
+Family History:
+( per OMR note) Mother died of lung cancer at age ___.  She was a 
+smoker.  Father died at age ___ of MI.  He had hypertension.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals: T: 98.5  BP:140/76  P:93 R: 18 O2:96% RA
+fingerstick 132  
+General: ill appearing male in NAD
+HEENT:   Mucous membs moist,
+Neck: JVP non elevated
+CV:  S1/S2 Regular Rate and Rhythm, no murmurs/gallops 
+appreciated
+Lungs: Clear to auscultation bilaterally, no 
+wheezes/rales/ronchai
+Abdomen: Soft, nontender, normoactive bowel sounds
+GU: no foley
+Ext:  Warm/cool no peripheral edema peripheral pulses 2+ ___
+Neuro: AO x 3 MAE
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 02:40PM BLOOD WBC-22.2*# RBC-5.96 Hgb-17.8 Hct-52.2* 
+MCV-88 MCH-29.9 MCHC-34.1 RDW-13.6 Plt ___
+___ 02:40PM BLOOD Neuts-89.6* Lymphs-4.1* Monos-5.5 Eos-0.5 
+Baso-0.2
+___ 02:40PM BLOOD Glucose-309* UreaN-19 Creat-1.1 Na-136 
+K-4.0 Cl-91* HCO3-24 AnGap-25*
+___ 07:32PM BLOOD ALT-17 AST-13 CK(CPK)-146 AlkPhos-66 
+TotBili-1.8*
+___ 07:32PM BLOOD Calcium-8.8 Phos-2.7 Mg-1.7
+___ 04:06PM BLOOD ___ Rates-/18 FiO2-21 pO2-55* 
+pCO2-33* pH-7.46* calTCO2-24 Base XS-0 Intubat-NOT INTUBA
+___ 04:06PM BLOOD Lactate-2.5*
+
+PERTINENT LABS
+
+___ 02:40PM BLOOD Glucose-309* UreaN-19 Creat-1.1 Na-136 
+K-4.0 Cl-91* HCO3-24 AnGap-25*
+___ 07:32PM BLOOD Glucose-126* UreaN-16 Creat-0.9 Na-140 
+K-4.8 Cl-104 HCO3-26 AnGap-15
+___ 09:59PM BLOOD Glucose-197* UreaN-14 Creat-0.9 Na-139 
+K-5.2* Cl-104 HCO3-24 AnGap-16
+___ 01:56AM BLOOD Glucose-168* UreaN-13 Creat-0.8 Na-138 
+K-4.2 Cl-104 HCO3-25 AnGap-13
+___ 05:52AM BLOOD Glucose-272* UreaN-12 Creat-0.9 Na-137 
+K-4.4 Cl-104 HCO3-25 AnGap-12
+---------
+___ 02:40PM BLOOD cTropnT-<0.01
+___ 07:32PM BLOOD CK-MB-3 cTropnT-<0.01
+---------
+___ 04:06PM BLOOD ___ Rates-/18 FiO2-21 pO2-55* 
+pCO2-33* pH-7.46* calTCO2-24 Base XS-0 Intubat-NOT INTUBA
+___ 10:27PM BLOOD ___ pO2-46* pCO2-45 pH-7.36 
+calTCO2-26 Base XS-0
+___ 02:14AM BLOOD ___ pO2-53* pCO2-42 pH-7.39 
+calTCO2-26 Base XS-0
+___ 04:06PM BLOOD Lactate-2.5*
+___ 02:14AM BLOOD Lactate-0.___KA – The precipitant was unclear although possibly due to 
+dehydration secondary to emesis.   He endorses compliance with 
+insulin regimen.  There were no obvious infectious symptoms 
+other than a mild sore throat, which could indicate viral 
+pharyngitis.  There were no other localizing symptoms and his 
+infectious workup was unremarkable.  He did have a signficant 
+leukocytosis but this resolved without antibiotics.  Blood 
+cultures were no growth but not finalized at the time the 
+patient left AMA.  His AG gap was closed on arrival to the FICU. 
+He received  18 unit lantus and then insulin gtt stopped 2hours 
+later while gap was still closed. He was continued  While not 
+taking PO and he was continued on D51/2 NS and  continued on 18 
+units lantus ( home dose 24), with decreased sliding scale.  He 
+was evaluated by the ___ and recommendations were 
+made for his insulin regimen.  At the time he left AMA he was 
+tolerating a regular diet and lantus/insulin sliding scale.  
+
+#Leukocytosis- pt has a signficant leukocytosis at 22 with no 
+clear infectious symptoms as noted above, except for mild sore 
+throat. etiologies could be stress response in the setting of 
+DKA or hemoconcentration ___ t hypovolemia given Hct also 
+significantly elevated  from baseline and gastroperesis can also 
+cause elevated WBC. His white count normalized without 
+antibiotics suggesting stress response from DKA. 
+
+#Hypertension- c/w lisinopril, HCTZ was held during the 
+hospitalization
+
+CHRONIC: 
+# Hypercholesterolemia- ___ profile showed total 
+cholesterol 146, HDL 51, LDL 79, and triglycerides 84.  c/w 
+simvastatin
+
+# chronic constipation s/p colectomy- c/w miralx prn
+
+#Hypothyroidism-last TSH ___ 0.59. c/w levothyroxine
+
+# Hypogonadism- on IM testosterone ___. 
+
+TRANSITIONAL: 
+Per report, the patient left AMA overnight due to insomnia. 
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+hold for SBP < 100 
+2. Aspirin 325 mg PO DAILY 
+3. Cialis *NF* (tadalafil) 5 mg Oral prn 60 min before 
+intercourse 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. Lisinopril 10 mg PO DAILY 
+hold for SBP < 100 
+6. Hydrochlorothiazide 12.5 mg PO DAILY 
+hold for SBP  < 100 
+7. Simvastatin 20 mg PO DAILY 
+8. testosterone enanthate *NF* 200 mg/mL Injection q ___ weeks 
+9. Glargine 24 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Levothyroxine Sodium 100 mcg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Simvastatin 20 mg PO DAILY 
+5. Cialis *NF* (tadalafil) 5 mg Oral prn 60 min before 
+intercourse 
+6. testosterone enanthate *NF* 200 mg/mL Injection q ___ weeks 
+7. Aspirin 325 mg PO DAILY 
+8. Glargine 16 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+DKA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital and found to be in DKA. The 
+cause was not clear but may be due to a viral infection. You 
+were given IVF and insulin and your DKA resolved. You were seen 
+by the ___ diabetes service. You decided to leave against 
+medical advice on ___ prior to getting final insulin 
+recommendations. Please follow up with your doctor as soon as 
+possible.
+
+ 
+Followup Instructions:
+___

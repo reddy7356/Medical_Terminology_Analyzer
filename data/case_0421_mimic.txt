@@ -1,0 +1,1320 @@
+===== DISCHARGE NOTE =====
+note_id=13853529-DS-20 | hadm_id=21033743
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough
+ 
+Major Surgical or Invasive Procedure:
+___
+Right thoracotomy and tracheobronchoplasty with mesh and 
+bronchoscopy with lavage.
+
+ 
+History of Present Illness:
+___ with TBM s/p stent placement with good improvement in
+symptoms, now with removal of stents 6 weeks ago. Reports today
+that he has had minimal return of symptoms since stent removal,
+reports that he was able to walk from ___ to clinic
+(appx 1 mile) without coughing or shortness of breath. However 
+he
+says that he is still feeling "crummy", with shortness of 
+breath,
+fatigue after 6 hours of work preventing him from returning to
+full-time work, and difficulty sleeping. He says that these
+symptoms are better than they were before the stents were 
+placed,
+but not by much. He has not had a bad coughing spell however in 
+2
+weeks.
+
+ 
+Past Medical History:
+Pneumonia ___ (hosp in ___, hosp x 6 in ___ yr  
+GERD/LPR  
+Paradoxical Vocal Fold Motion  
+Small lung nodules  
+Kidney stone, s/p retrieval surgery  
+s/p umbilical hernia repair in his mid ___  
+Tracheobronchomalacia
+
+ 
+Social History:
+___
+Family History:
+Mother - ___
+
+ 
+Physical Exam:
+BP: 122/76. Heart Rate: 78. Weight: 264.6 (With Clothes; With
+Shoes). Height: 71 (With Shoes). BMI: 36.9. Temperature: 97.9. 
+O2
+Saturation%: 98.
+       
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Neck supple/NT/without mass
+[x] Trachea midline [x] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P     [x] Excursion normal     [x] No fremitus
+[x] No egophony    [x] No spine/CVAT
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [x] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] Strength intact/symmetric    [x] Sensation intact/ symmetric
+[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact
+[x] Cranial nerves intact   [ ] Abnormal findings:
+
+MS     
+
+        
+[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl
+[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl
+[x] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl
+[x] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           
+[] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [x ] Abnormal findings:
+abrasions from scratching ankles
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
+
+ 
+Pertinent Results:
+                     WBC  RBC   Hgb   Hct  MCV MCH  MCHC  RDW 
+RDWSD Plt Ct 
+___ 04:33     8.4  3.63* 10.7* 33.3* 92 29.5 32.1  13.7 
+46.0  255 
+___ 04:22     9.1  3.50* 10.4* 32.5* 93 29.7 32.0  13.8 
+47.2* 236 
+___ 04:27    11.2* 3.36* 10.0* 31.3* 93 29.8 31.9* 13.9 
+47.5* 227 
+___ 03:28    14.9* 3.55* 10.6* 34.1* 96 29.9 31.1* 14.5 
+51.0* 199 
+___ 02:34    22.4* 4.01* 12.0* 38.2* 95 29.9 31.4* 14.2 
+49.6* 205 
+___ 21:24    22.8* 4.26* 12.7* 40.6  95 29.8 31.3* 14.2 
+49.3* 227 
+___ 03:32    17.6* 4.24* 12.8* 38.5* 91 30.2 33.2  13.8 
+45.8  242 
+___ 00:59                      39.5*             
+___ 16:50    27.7* 4.54* 13.6* 39.5* 87 30.0 34.4  13.4 
+42.4  236 
+
+                Glucose  UreaN Creat Na  K   Cl HCO3 AnGap 
+___ 04:33    921   24*  1.0  135 4.1 ___ 
+___ 04:22    951   23*  1.1  136 3.6  99 26  15 
+___ 04:27    941   23*  1.0  134 4.1  97 29  12 
+___ 03:28    931   34*  1.5* 129* 4.7 95* 25 14 
+___ 13:25    124*1 37*  1.7* 131* 4.5 98 23  15 
+___ 02:34    136*1 36*  2.1* 132* 5.0 97 22  18 
+___ 21:24    142*1 34*  2.2* 133  5.1 98 21* 19 
+___ 15:50    142*1 36*  2.6* 136 5.9* ___ 
+___ 09:34    143*1 31*  2.6* 137 5.5* 103 20* 20 
+___ 03:32    134*1 25*  1.8* 135 5.2* 102 20* 18 
+___ 16:50    ___  136 4.7  102 19* 20 
+
+___ CXR :
+Comparison to ___.  The right postoperative chest tube 
+is in 
+unchanged position.  Lung volumes have decreased, with an 
+increase in extent of the bilateral areas of atelectasis.  
+Moderate cardiomegaly.  No pneumothorax. 
+
+___ Renal U/S:
+Normal renal ultrasound
+
+___ CXR :
+  Comparison to ___.  Displaced right-sided rib 
+fractures are better appreciated than on the previous 
+radiograph.  Small right pleural effusion.  Moderate 
+cardiomegaly.  Retrocardiac atelectasis.  Mild pulmonary edema 
+is present.  No evidence of pneumothorax. 
+
+___ CXR :
+Normal postoperative appearance of the mediastinum. No evidence 
+of 
+pneumothorax. 
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the hospital and taken to the Operating 
+Room where she underwent a right thoracotomy and 
+tracheobronchoplasty with mesh and bronchoscopy with lavage. He 
+tolerated the procedure well and returned to the TSICU extubated 
+and in stable condition.  He maintained stable hemodynamics and 
+his pain was controlled with an epidural.  His chest tube 
+drained minimally and had no air leak.  He had some issues with 
+desaturations and increased congestion during the night of 
+surgery and was treated with nebulizers, additional oxygen and 
+chest ___.  His main problem was related to pain control and his 
+epidural infusion at that point was split.  His pain control 
+improved but he still had issues and was then placed on oral 
+Dilaudid along with the Bupivicaine epidural.  Although he has 
+stable BP intra and post op, he developed ___ with a creatinine 
+of 1.8 on post op day #1 and a peak of 2.6 on post op day #2.  
+His baseline was 1.0.  The renal service followed him closely.  
+A renal ultrasound was normal without obstruction and his urine 
+sediment was consistent with ATN.  His urine output remained 
+adequate along with his blood pressure and the creatinine began 
+to trend down on post op ay #3.  His ___ drain was removed and 
+his pain decreased.  He was subsequently transferred to the 
+Surgical floor for further management.
+
+As he was urged to increase his activity, pain control became an 
+issue. He required increased dosed of Dilaudid along with 
+scheduled Tramadol and Tylenol.  He was then able to use his 
+incentive spirometer and cough and deep breath effectively.  His 
+room air saturations were 96% and he continued to use his home 
+CPAP mask at ___.  ___ also helped with relieving his 
+congestion. His right thoracotomy site was healing well along 
+with the chest tube site but he developed extensive erythema on 
+his right flank, well below his thoracotomy incision and chest 
+tube site.  he was afebrile, had a normal WBC and the area was 
+non tender but given the extent and the blanching throughout, he 
+was placed on Keflex for a 7 day course.  The area was circled 
+and slowly receded.
+
+He continued to improve from a pulmonary standpoint and his 
+renal function returned to baseline by ___ with a 
+creatinine range of 1.0-1.1.  He was discharged to home on 
+___ with ___ services and will follow up in the Thoracic 
+Clinic in 2 weeks. He will also call his PCP for ___ follow up 
+appointment in ___ weeks.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID 
+2. Mirtazapine 7.5 mg PO QHS 
+3. Tiotropium Bromide 1 CAP IH DAILY 
+4. Ranitidine 300 mg PO QHS 
+5. TraMADOL (Ultram) 50 mg PO BID:PRN pain 
+6. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+7. Omeprazole 20 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN 
+wheezing 
+10. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Mirtazapine 7.5 mg PO QHS 
+2. Ranitidine 300 mg PO QHS 
+3. Tiotropium Bromide 1 CAP IH DAILY 
+4. Acetaminophen 1000 mg PO Q6H 
+5. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*2
+6. Guaifenesin ER 1200 mg PO Q12H 
+RX *guaiFENesin  1 tab by mouth twice a day Disp #*60 Tablet 
+Refills:*1
+7. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth once a 
+day Disp #*30 Packet Refills:*2
+8. albuterol sulfate 90 mcg/actuation INHALATION Q4H:PRN 
+wheezing 
+9. Aspirin 81 mg PO DAILY 
+10. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+11. Omeprazole 20 mg PO DAILY 
+12. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID 
+13. Vitamin D ___ UNIT PO DAILY 
+14. Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+RX *ipratropium-albuterol 0.5 mg-3 mg (2.5 mg base)/3 mL 1 neb 
+INH four times a day Disp #*56 Ampule Refills:*2
+15. TraMADOL (Ultram) 100 mg PO QID:PRN pain 
+RX *tramadol 50 mg ___ tablet(s) by mouth four times a day Disp 
+#*110 Tablet Refills:*0
+16. Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 capsule(s) by mouth four times a day 
+Disp #*24 Capsule Refills:*0
+17. HYDROmorphone (Dilaudid) 8 mg PO Q3H:PRN PAIN  
+RX *hydromorphone 4 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*160 Tablet Refills:*0
+18. Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 by mouth twice a day Disp #*60 
+Capsule Refills:*2
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Tracheobronchomalacia.
+___
+Right flank cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for surgery on your airway 
+and you've recovered well. You are now ready for discharge.
+
+* Continue to use your incentive spirometer 10 times an hour 
+while awake along with your flutter valve. Also continue your 
+nebulizers to help with congestion and wheezing.
+
+* Check your incisions daily and report any increased redness or 
+drainage.   Cover the area with a gauze pad if it is draining.
+
+* You will continue to need pain medication once you are home 
+but you can wean it over a few weeks as the discomfort resolves. 
+ Make sure that you have regular bowel movements while on 
+narcotic pain medications as they are constipating which can 
+cause more problems.  Use a stool softener or gentle laxative to 
+stay regular.
+
+* No driving while taking narcotic pain medication.
+
+* Take Tylenol  ___ mg every 6 hours in between your narcotic.  
+
+
+* You had some trouble with your kidney function during your 
+hospitalization but its back to normal now. You should follow up 
+with your PCP ___ ___ weeks for a full evaluation. Do not take 
+any medications that can harm your kidney. 
+
+* Continue to stay well hydrated and eat well to heal your 
+incisions
+
+* Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+ * No tub bathing, swimming or hot tubs until incision healed
+ * No lotions or creams to incision site
+
+* Walk ___ times a day and gradually increase your activity as 
+you can tolerate.
+
+Call Dr. ___ ___ if you experience:
+ -Fevers > 101 or chills
+ -Increased shortness of breath, chest pain or any other 
+symptoms that concern you.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13853529-DS-21 | hadm_id=21879884
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+proximal descending colon adenocarcinoma
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic resection of the splenic flexure
+
+ 
+History of Present Illness:
+___ w/ a history of transverse colon cancer detected on routine 
+screening colonoscopy presents for Laparoscopic Resection of 
+Splenic Flexure. 
+ 
+Past Medical History:
+Pneumonia ___ (hosp in ___, hosp x 6 in ___ yr  
+GERD/LPR  
+Paradoxical Vocal Fold Motion  
+Small lung nodules  
+Kidney stone, s/p retrieval surgery  
+s/p umbilical hernia repair in his mid ______  
+Tracheobronchomalacia
+
+ 
+Social History:
+___
+Family History:
+Mother - ___
+
+ 
+Physical Exam:
+VS: AVSS
+Gen: well appearing male, NAD
+HEENT: no lymphadenopathy, moist mucous membranes
+Lungs: CTAB, breathing comfortably on room air
+Heart: rrr, distal pulses in tact throughout
+Abd: soft, nt, nd, laparoscopic port sites C/D/I
+Incisions: cdi
+Extremities: wwp
+ 
+Pertinent Results:
+___ 06:46AM BLOOD WBC-14.6* RBC-3.73* Hgb-11.2* Hct-34.5* 
+MCV-93 MCH-30.0 MCHC-32.5 RDW-13.7 RDWSD-46.5* Plt ___
+___ 06:46AM BLOOD Glucose-101* UreaN-8 Creat-1.1 Na-137 
+K-3.9 Cl-100 HCO3-25 AnGap-16
+___ 06:46AM BLOOD Calcium-8.3* Phos-2.4* Mg-1.8
+ 
+Brief Hospital Course:
+Mr. ___ presented to ___ holding at ___ on ___ for the 
+aforementioned procedure. He tolerated the procedure well 
+without complications (Please see operative note for further 
+details). After a brief and uneventful stay in the PACU, the 
+patient was transferred to the floor for further post-operative 
+management.  
+Neuro:  Pain was well controlled on IV pain medications. As 
+tolerated, he was transitioned to PO pain control. 
+CV: Vital signs were routinely monitored during the patient's 
+length of stay. 
+Pulm:  The patient was encouraged to ambulate, sit and get out 
+of bed, use the incentive spirometer, and had oxygen saturation 
+levels monitored as indicated. Mr. ___ was directed to use his 
+CPAP overnight while sleeping. Due to increasing abdominal pain 
+with deep respirations, he declined to use his CPAP overnight on 
+___. He had an episode of Acute Hypoxia and Hypercarbia 
+early AM on ___ requiring oxygen by non-rebreather face mask, 
+Duoneb treatment. He received an ABG and CXR demonstrating a 
+left lower lobe atelectasis vs. pneumonia collection. He was 
+placed on empiric antibiotic coverage for several days and his 
+serial CXR showed improvement after the patient began more 
+judicious use of his CPAP while sleeping. Antibiotics were 
+discontinued and the patient was continuously monitored for 
+oxygen desaturations. Triggered on ___ AM. No further 
+respiratory issues for the duration of his stay. 
+
+GI: The patient was initially kept NPO after the procedure. The 
+patient was later advanced to and tolerated a regular diet at 
+time of discharge. 
+GU: Patient had a Foley catheter that was removed at time of 
+discharge. Urine output was monitored as indicated. At time of 
+discharge, the patient was voiding without difficulty.  
+
+ID:  The patient's vital signs were monitored for signs of 
+infection and fever. The patient was started on/continued on 
+antibiotics as indicated.
+
+Heme: The patient had blood levels checked post operatively 
+during the hospital course to monitor for signs of bleeding. The 
+patient had vital signs, including heart rate and blood 
+pressure, monitored throughout the hospital stay.  
+
+On ___ the patient was discharged to home. At discharge, 
+he/she was tolerating a regular diet, passing flatus, voiding, 
+and ambulating independently. He will follow-up in the clinic in 
+___ weeks. This information was communicated to the patient 
+directly prior to discharge.  
+
+Include in Brief Hospital Course for Every Patient and check of 
+boxes that apply:  
+Post-Surgical Complications During Inpatient Admission:  
+[ ] Post-Operative Ileus resolving w/o NGT  
+[ ] Post-Operative Ileus requiring management with NGT  
+[ ] UTI  
+[ ] Wound Infection  
+[ ] Anastomotic Leak  
+[ ] Staple Line Bleed  
+[ ] Congestive Heart failure  
+[ ] ARF  
+[ ] Acute Urinary retention, failure to void after Foley D/C'd  
+[ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter  
+[ ] DVT  
+[ ] Pneumonia  
+[ ] Abscess  
+[x] Acute Hypoxia and Hypercarbia; treated, monitored and 
+resolved
+
+Social Issues Causing a Delay in Discharge:  
+[ ] Delay in organization of ___ services  
+[ ] Difficulty finding appropriate rehab hospital disposition.  
+[ ] Lack of insurance coverage for ___ services  
+[ ] Lack of insurance coverage for prescribed medications.  
+[ ] Family not agreeable to discharge plan.  
+[ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+[x] No social factors contributing in delay of discharge.  
+ 
+Medications on Admission:
+Aspirin 81 mg PO DAILY  
+Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+Mirtazapine 7.5 mg PO QHS  
+Omeprazole 20 mg PO DAILY  
+Ranitidine 300 mg PO QHS  
+Tiotropium Bromide 1 CAP IH DAILY  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*50 Tablet Refills:*0 
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*12 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID:PRN narcotic induced 
+constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth bid prn Disp 
+#*24 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth q4h prn Disp #*28 
+Tablet Refills:*0 
+5.  Aspirin 81 mg PO DAILY  
+6.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+7.  Mirtazapine 7.5 mg PO QHS  
+8.  Omeprazole 20 mg PO DAILY  
+9.  Ranitidine 300 mg PO QHS  
+10.  Tiotropium Bromide 1 CAP IH DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+colon adenocarcinoma: mass of the splenic flexure 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after a laparoscopic resection 
+of the splenic flexure of your colon for surgical management of 
+your colon cancer. You have recovered from this procedure well 
+and you are now ready to return home. Samples from your colon 
+were taken and this tissue has been sent to the pathology 
+department for analysis. You will receive these pathology 
+results at your follow-up appointment. If there is an urgent 
+need for the surgeon to contact you regarding these results they 
+will contact you before this time. You have tolerated a regular 
+diet, are passing gas and your pain is controlled with pain 
+medications by mouth. You may return home to finish your 
+recovery.  
+ 
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected. However, if you notice that you are passing bright red 
+blood with bowel movements or having loose stool without 
+improvement please call the office or go to the emergency room 
+if the symptoms are severe. If you are taking narcotic pain 
+medications there is a risk that you will have some 
+constipation. Please take an over the counter stool softener 
+such as Colace, and if the symptoms do not improve call the 
+office. If you have any of the following symptoms please call 
+the office for advice or go to the emergency room if severe: 
+increasing abdominal distension, increasing abdominal pain, 
+nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or extended constipation.  
+ 
+You have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures and a skin glue called 
+Dermabond. These are healing well however it is important that 
+you monitor these areas for signs and symptoms of infection 
+including: increasing redness of the incision lines, 
+white/green/yellow/malodorous drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. Please call the office if you develop any 
+of these symptoms or a fever. You may go to the emergency room 
+if your symptoms are severe.  
+
+You may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips) instead of 
+Dermabond, these will fall off over time, please do not remove 
+them. Please no baths or swimming for 6 weeks after surgery 
+unless told otherwise by your surgical team.
+ 
+You will continue your 7-day course of the antibiotic Augmentin; 
+please take this as written on the bottle. You will also be 
+prescribed a narcotic pain medication called oxycodone. This 
+medication should be taken when you have pain and as needed as 
+written on the bottle. This is not a standing medication. You 
+should continue to take Tylenol for pain around the clock and 
+you can also take Advil. Please do not take more than 3000mg of 
+Tylenol in 24 hours. Do not drink alcohol while taking narcotic 
+pain medication or Tylenol. Please do not drive a car while 
+taking narcotic pain medication.
+  
+No heavy lifting greater than 6 lbs for until your first 
+post-operative visit after surgery. Please no strenuous activity 
+until this time unless instructed otherwise by Dr. ___, Dr. 
+___ Dr. ___.  
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities. 
+
+Good luck!
+
+-your surgery team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13853529-DS-22 | hadm_id=23191458
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+redness and pain around umbilical wound, found to have 
+Entercutaneous fistula on admission to ___
+ 
+Major Surgical or Invasive Procedure:
+Placement Of PICC line.
+
+Opening of midline wound at bedside.
+
+ 
+History of Present Illness:
+Per Colorectal Surgery Admission Note:
+
+HPI: ___ w COPD s/p laparoscopic resection splenic flexure for
+stage II (pT3N0) adenoCA ___ now returns w abdominal pain and
+chills x 2 days. Patient underwent procedure ___ w subsequent
+discharge to home on ___. Course was notable for treatment of
+LLL PNA but was otherwise unremarkable. Was doing well at home
+until two days prior to admission when he noted increasing
+abdominal pain and chills. Describes pain as initially mild but
+then progressed to moderate/severe. Primarily located in R
+abdomen and at midline. Given these symptoms was seen at OSH ED
+(___ Ctr) on ___. While in ED had elevated WBC
+(13k) and CT scan c/f anastomotic leak. Xfer to ___ for 
+further
+management. 
+
+On surgery eval, patient reports pain as described above.
+Tolerating diet though appetite poor. Passing flatus and
+approximately 2 loose BMs per day. Denies fever, chest pain,
+shortness of breath, cought, nausea, vomiting, blood per rectum,
+wound drainage, dysuria or other concerning symptoms. 
+
+ 
+Past Medical History:
+Pneumonia ___ (hosp in ___, hosp x 6 in ___ yr  
+GERD/LPR  
+Paradoxical Vocal Fold Motion  
+Small lung nodules  
+Kidney stone, s/p retrieval surgery  
+s/p umbilical hernia repair in his mid ______  
+Tracheobronchomalacia
+
+ 
+Social History:
+___
+Family History:
+Mother - ___
+
+ 
+Physical Exam:
+General: mood anxious and upset, pain controlled, ambulating, 
+fistula output controlled, ambulating without difficulty
+VSS
+Neuro: A&OX3
+Cardio/Pulm: RRR, no increased work of breathing
+ABD: EC fistula at umbilical incision, pink colon visible, 
+liquid brown stool from fistula, pouched with ostomy appliance
+___: No lower extremity edema
+ 
+Pertinent Results:
+___ 05:26AM BLOOD WBC-11.7* RBC-4.09* Hgb-11.8* Hct-37.0* 
+MCV-91 MCH-28.9 MCHC-31.9* RDW-13.2 RDWSD-44.0 Plt ___
+___ 05:33AM BLOOD WBC-11.9* RBC-4.10* Hgb-12.0* Hct-37.5* 
+MCV-92 MCH-29.3 MCHC-32.0 RDW-13.2 RDWSD-44.5 Plt ___
+___ 05:14AM BLOOD WBC-11.6* RBC-3.95* Hgb-11.4* Hct-36.2* 
+MCV-92 MCH-28.9 MCHC-31.5* RDW-13.3 RDWSD-44.9 Plt ___
+___ 06:00AM BLOOD WBC-13.7* RBC-4.08* Hgb-12.0* Hct-36.9* 
+MCV-90 MCH-29.4 MCHC-32.5 RDW-13.2 RDWSD-43.8 Plt ___
+___ 05:30AM BLOOD WBC-11.5* RBC-3.87* Hgb-11.1* Hct-35.2* 
+MCV-91 MCH-28.7 MCHC-31.5* RDW-13.3 RDWSD-43.8 Plt ___
+___ 06:55AM BLOOD WBC-10.5* RBC-3.94* Hgb-11.5* Hct-35.6* 
+MCV-90 MCH-29.2 MCHC-32.3 RDW-13.2 RDWSD-44.1 Plt ___
+___ 04:16AM BLOOD WBC-9.3 RBC-3.81* Hgb-11.2* Hct-34.6* 
+MCV-91 MCH-29.4 MCHC-32.4 RDW-13.3 RDWSD-44.6 Plt ___
+___ 06:30PM BLOOD WBC-10.0 RBC-3.70* Hgb-10.7* Hct-33.3* 
+MCV-90 MCH-28.9 MCHC-32.1 RDW-13.4 RDWSD-44.3 Plt ___
+___ 08:50AM BLOOD WBC-14.7* RBC-3.64* Hgb-10.8* Hct-33.3* 
+MCV-92 MCH-29.7 MCHC-32.4 RDW-13.6 RDWSD-46.0 Plt ___
+___ 05:26AM BLOOD Glucose-90 UreaN-26* Creat-1.1 Na-140 
+K-4.6 Cl-105 HCO3-24 AnGap-16
+___ 05:33AM BLOOD Glucose-86 UreaN-20 Creat-1.1 Na-137 
+K-4.8 Cl-102 HCO3-22 AnGap-18
+___ 05:14AM BLOOD Glucose-90 UreaN-19 Creat-1.0 Na-139 
+K-4.8 Cl-104 HCO3-25 AnGap-15
+___ 06:00AM BLOOD Glucose-102* UreaN-19 Creat-1.0 Na-138 
+K-4.3 Cl-101 HCO3-24 AnGap-17
+___ 05:30AM BLOOD Glucose-94 UreaN-22* Creat-1.0 Na-138 
+K-4.4 Cl-105 HCO3-22 AnGap-15
+___ 06:55AM BLOOD Glucose-116* UreaN-13 Creat-0.9 Na-138 
+K-4.1 Cl-105 HCO3-22 AnGap-15
+___ 04:16AM BLOOD Glucose-110* UreaN-9 Creat-1.0 Na-137 
+K-4.2 Cl-103 HCO3-22 AnGap-16
+___ 08:34AM BLOOD Glucose-108* UreaN-10 Creat-1.1 Na-139 
+K-4.4 Cl-102 HCO3-28 AnGap-13
+___ 08:50AM BLOOD Glucose-86 UreaN-16 Creat-1.0 Na-137 
+K-4.0 Cl-98 HCO3-25 AnGap-18
+___ 05:26AM BLOOD Calcium-9.1 Phos-3.4 Mg-2.2
+___ 05:33AM BLOOD Calcium-9.3 Phos-4.2 Mg-2.3
+___ 08:57AM BLOOD Albumin-3.4* Iron-36*
+___ 05:14AM BLOOD Calcium-9.2 Phos-4.4 Mg-2.2
+___ 06:00AM BLOOD Calcium-9.0 Phos-3.8 Mg-2.2
+___ 06:55AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.2
+___ 04:16AM BLOOD Calcium-8.5 Phos-3.4 Mg-2.2
+___ 08:57AM BLOOD calTIBC-218* VitB12-390 Folate-10.4 
+Ferritn-352 TRF-168*
+___ 06:30PM BLOOD calTIBC-160* VitB12-347 Folate-10.4 
+Ferritn-687* TRF-123*
+___ 08:57AM BLOOD Triglyc-184*
+___ 06:30PM BLOOD Triglyc-187*
+___ 08:57AM BLOOD 25VitD-26*
+___ 06:30PM BLOOD 25VitD-33
+ 
+CT ABD & PELVIS WITH CONTRAST Study Date of ___ 1:59 ___ 
+IMPRESSION: 
+1. Oral contrast leaking around the colectomy anastomosis and in 
+communication 
+with a cutaneous fistula. 
+2. IMV thrombosis is new since the ___ EXCH PERPHERAL W/O PORT Study Date of ___ 3:32 ___ 
+IMPRESSION:  
+Successful placement of a 46 cm right arm approach double lumen 
+PowerPICC with tip at the superior cavoatrial junction.  The 
+line is ready to use. 
+  
+
+ 
+Brief Hospital Course:
+On admission, Mr ___ was noted to have erythema around the 
+umbilical inicision. He had increasing pain and was quite 
+uncomfortable. We started Unasyn intravenously. The incision was 
+opened at the bedside. Gad was heard escaping from the midline 
+wound and had a feculent odor. He was given intravenous pain 
+medication. The patient was not febrile and did not have an 
+elevated white blood cell count. He remained NPO and was 
+hydrated intravenously. It was suspected that this was a 
+developing enterocutaneous flistula. Over the remander of the 
+day, the wound unfortunately started to put out stool. He had 
+significant pain at the site of the fistula. A repeat CT scan of 
+the abdomen was ordered because he continued to have significant 
+pain at the site of the fistula and right lower quadrant which 
+showed contrast leaking from the fistula and an IMV thrombus. No 
+further intervention was needed at the site of the fistula as 
+the pain improved. We started gabapentin for burning pain in the 
+skin around the incision which was effective. Over all, he was 
+doing well and the fistula output was controlled and the 
+pouching system was containing the output. The overall plan will 
+be to discharge him home, NPO with TPN for nutritional support 
+with close follow-up. It is hoped that the fistula may 
+spontaneously heal on its own, however, Dr. ___ the 
+patient know it is likely that he will need surgery to take the 
+fistula down. Now is not the optimal time to do this. We will 
+follow him closely. She is allowed ice chips, gum, and hard 
+candy for comfort. He will be discharged home on prophylactic 
+Lovenox as recommended by Dr. ___. 
+ 
+Medications on Admission:
+MEDS: Albuterol 90 mcg PRN, Symbicort 160 mcg-4.5 mcg 2 puffs  
+ daily, Mirtazapine 7.5 mg PO qHS, Omeprazole 20 mg PO qAM,  
+ Ranitidine 300 mg PO qHS, Spiriva 1 puff daily, HandiHaler 18 
+mcg  
+ 1 puff daily, Triamcinolone Cream 0.1% Topical PRN, ASA81 mg PO 
+ 
+ daily, Vitamin D3 ___ U PO daily  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild Duration: 7 
+Days 
+do not take more than 3000mg of Tylenol in 24 hours or drink 
+alcohol while taking this medication 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*55 Tablet Refills:*0 
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 14 Days 
+
+take for 14 days 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*14 Tablet Refills:*0 
+3.  Enoxaparin Sodium 30 mg SC Q12H Duration: 30 Days 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 30 mg/0.3 mL 30 mg subcutaneous every twelve (12) 
+hours Disp #*60 Syringe Refills:*0 
+4.  Gabapentin 300 mg PO TID 
+please take this medication until surgical follow-up 
+appointments 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times a day 
+Disp #*42 Capsule Refills:*0 
+5.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Severe 
+do not drink alcohol or drive a car while taking this medication 
+
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*40 Tablet Refills:*0 
+6.  LOPERamide 2 mg PO TID 
+RX *loperamide 2 mg 1 tablet by mouth three times a day Disp 
+#*100 Tablet Refills:*0 
+7.  Mirtazapine 7.5 mg PO QHS  
+8.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+9.  Albuterol Inhaler 1 PUFF IH Q4H:PRN wheezing  
+10.  Aspirin 81 mg PO DAILY  
+11.  Omeprazole 20 mg PO DAILY  
+12.  Tiotropium Bromide 1 CAP IH DAILY  
+13.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP PRN skin 
+irritation  
+14.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Enterocutaneous Fistula After 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the inpatient colorectal surgery service 
+after discharge from the hospital after your colectomy from 
+colon cancer. Unfortunately, you have developed a connection 
+between the connection in your colon made during the surgery 
+(the anastomosis) and your skin. This is called an 
+enterocutaneous fistula. This is similar to having a colostomy. 
+The treatment for this will be to not eat or drink at home, 
+although, occasional ice chips are ok and keep track of the 
+output. We will give you time to see if your body will heal this 
+connection on its own. If this does not heal, a surgery to 
+repair the fistula will be organized. You will see us in clinic 
+to re evaluate. You will go home with TPN for nutritional 
+support. Please continue to care for the fistula has you have 
+been instructed by the Ostomy nursing staff. This is a very 
+tough time, however, it is very important to give your body time 
+to heal to have the most optimal outcome from the surgery you 
+will need to repair the fistula if that is what is needed. 
+
+There is a PICC line in your arm which we will use to give you 
+the TPN. It is very important that the line is monitored for 
+infection: redness at the site, increased pain at the site, 
+drainage of grey/white/green drainage from around where the PICC 
+line is incerted into your arm, or swelling of your arm. Please 
+call if you have any of these symptoms. The visiting nurses ___ 
+care for the picc line. You should call them for issues with the 
+line such as if the dressing is dirty or is peeling off. No 
+swimming or baths. Cover the line with plastic wrap for showers.
+
+You also were found to have a small blood clot in one of the 
+___ in your abdomen near the site where the pieceof your colon 
+was removed. This is very common after this surgery, however, 
+when a blood clot forms the body is prone to clot and we need to 
+give medication to prevent that from happening. You will take 
+lovenox for one month at home. It is important to work with the 
+nurses to learn how to give yourselves these injections into the 
+skin as instructed by the nursing staff. Please monitor yourself 
+for signs of bleeding while taking this medication: weakness, 
+dizziness, fast heart rate, bruising, feeling faint, bloody 
+stool from the fistula. If you notice any of these things please 
+call our office. 
+
+You will also be prescribed pain medication. You were strted on 
+a new medication called gabapentin and this has helped with the 
+burning pain. You will be given enough of this to get you 
+through to your follow-up appointment. Please do not drink 
+alcohol while taking narcotic pain medications. Do not drive a 
+car while taking narcotic pain medications. You may also take 
+Tylenol for pain, do not take more than 3000mg of Tylenol in 24 
+hours or drink alcohol while taking. 
+
+Do not take Zantac (Ranitidine) with your other medications. 
+
+Please call us with any questions. We look forward to seeing you 
+in follow-up.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13853529-DS-19 | hadm_id=23597818
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p IP stent placement for tracheobronchomalacia
+- Neurology: increased somnolence, L sided weakness
+
+ 
+ 
+Major Surgical or Invasive Procedure:
+___: Dynamic flexible bronchoscopy 2) Rigid Bronchoscopy 3) 
+Stent placement x3 - LMS (14x30mm UF uncovered), RMS/BI (14x40mm 
+UF uncovered) and Distal Trachea (20x40 UF uncovered) 4) Balloon 
+Dilatation
+ 
+History of Present Illness:
+___ hx acid reflux, presumed asthma, adm s/p IP stenting for 
+TBM.  
+ Pt suffered sudden-onset SOB, hoarseness and cough/stutter 
+starting ___ I/s/o PNA. He has had frequent hospitalizations 
+since with presumed COPD or infections. The former was found not 
+to be true on evaluation by Dr. ___ at ___. He had ENT eval 
+there and found to have LPR, paradoxical vocal fold motion 
+disorder and multiple cranial neuropathies (7, 11, 13 on L). 
+Hospitalized ___ requiring intubation for apnea. Flex bronch 
+showed possible TBM, severe bronchomalaciai in the bilateral 
+subsegmental bronchi. He was evaluated by IP for TBM. Today, per 
+anesthesia s/o he underwent dynamic flex bronch with +diagnosis 
+of TBM with stents placed into trachea, R & L mainstem bronchi. 
+He was brought to the PACU in stable condition, but had fever to 
+102.9 ___s new tachycardia. He also had a new 3L O2 
+requirement. Post-procedure CXR was clear. Transfer VS were: 
+102.9 118 133/80 15 95%3L.  
+ On the floor, patient is awoken for this interview, very sleepy 
+but awakens to voice, AAOx3. He speaks with a hoarse voice and 
+complains of a HA. His breathing, though, "is the best its been 
+in years." Denies CP, pressure. Does endorse feeling warm. 
+Patient wishes to return to sleep.  
+
+On the floor, patient is awoken for this interview, very sleepy 
+but awakens to voice, AAOx3. He speaks with a hoarse voice and 
+complains of a HA. His breathing, though, "is the best its been 
+in years." Denies CP, pressure. Does endorse feeling warm.
+
+Interval history: 830am trigger for nursing concern. Patient 
+somnolene w/ AMS, diff speaking with ? R visual field cut + left 
+sided sensory and motor weakness. Code stroke called. Head CT 
+did not show clear evidence of infarct/bleed. Pending transfer 
+to ___. 
+Neurology:
+Mr. ___ is a ___ M w severe tracheobronchomalacia s/p
+tracheal and main stem bronchi stenting procedure on ___ on
+whom a code stroke is called for increased somnolence and L 
+sided
+weakness.
+Per report, Mr. ___ underwent an uncomplicated tracheal and
+bilateral mainstem bronchi stenting procedure on ___. While 
+the
+procedure is sometimes done as an outpatient procedure, he was
+observed overnight and treated for pain control. He did receive
+several anesthetic agents and paralytics during the procedure. 
+He
+developed a mild SIRS response (fever, tachycardia, and 
+temporary
+O2 requirement) which is not uncommon following his procedure. 
+He
+was empirically fovered with vancomycin and cefepime. For pain
+control, he received codeine 30mg at 7:30PM on ___, and
+tramadol 50mg at 8:30AM on ___ (note - Tramadol is a long-time
+home medication as well for LBP).
+At 7:30AM on ___, he was evaluated by his primary team and
+noted to be doing extremely well. He was brightly awake, eating
+breakfast, and speaking normally. The team had hoped to 
+discharge
+him later in the afternoon.
+At ~8:30AM, he was give a dose of Tramadol for pain control and
+the RN did feel that he was slightly more somnolent. At around
+9AM, nursing triggered him for worsening somnolence and 
+decreased
+RR to 7, though saturations remained stable. A CODE STROKE was
+called shortly thereafter when the team noticed some left sided
+weakness.
+
+NIHSS was 6 at the time of neurology first evaluation for
+decreased LOC, L NLFF, LUE and LLE drift, dysarthria, and L
+sensory loss. A ___ did not show any evidence of early 
+infarct.
+A CTA did not show any clear vessel cutoffs. After discussion
+with Dr. ___ pulmonary attending who performed
+the procedure), there were felt to be no contraindications to
+tPA. Attending neurologist, Dr. ___ the risks and
+benefits of tPA with Mr. ___ and his wife, who agreed to
+treatment with tPA.
+
+Due to airway concerns and possible need for intubation, Mr. 
+___
+was transferred to the neuro ICU. tPA bolus was given at 
+10:49AM,
+followed by infusion.
+
+ 
+Past Medical History:
+Pneumonia ___ (___ in ___, hosp x 6 in ___ yr  
+GERD/LPR  
+Paradoxical Vocal Fold Motion  
+Small lung nodules  
+Kidney stone, s/p retrieval surgery  
+s/p umbilical hernia repair in his mid ___  
+Neurology:
+- severe tracheobronchomalacia s/p stenting on ___
+- multiple hospitalizations for PNA
+- small lung nodules
+- GERD
+- nephrolithiasis, s/p retrieval surgery
+- s/p umbilical hernia repair
+
+ 
+Social History:
+___
+Family History:
+Mother - ___
+
+ 
+Physical Exam:
+***Admission Exam***
+ADMISSION PHYSICAL EXAM:  
+VS: Tm 102.9 Tc 98.0 BP 109/69(96-132/66-77) HR 89 (83-114) RR 
+18 (___) O2 Sat 94 (94-98) on 3L CPAP  
+General: Sleepy, awakes easily, AAOx3, hoarse voice, NAD  
+HEENT: NCAT, EOMI, PERRLA, anicteric sclera, clear OP, MMM  
+Neck: Supple, JVP not elevated  
+CV: Tachycardic, regular, no r/g/m  
+Lungs: Inspiratory and expiratory wheezes noted bilaterally, 
+some RLL crackles noted, symmetric lung movement.    
+Abdomen: Obese, soft, NT, positive bowel sounds in all four 
+quadrants
+Ext: WWP, pedal pulses 2+ bilaterally no edema  
+Neuro: Face symmetric, hoarse voice, moves all four extremities 
+on command 
+Neurology Admission Exam:
+VITAL SIGNS
+- at time of trigger: T98.0 BP153/92 HR76 RR7 Sat95RA
+- previously: T98.0 BP90s/60s HR90-100 RR18 ___
+GEN - obese male, somnolent, hyperstartle to arousal
+HEENT - NC/AT, MMM
+NECK - short, thick; full ROM
+CV - RRR
+RESP - decreased rate, increased WOB, stridorous, coughing
+ABD - obese, soft, NT, ND
+EXTR - atraumatic, WWP
+
+___ Stroke Scale - Total [6]
+1a. Level of Consciousness - 1
+1b. LOC Questions - 0
+1c. LOC Commands - 0
+2. Best Gaze - 0
+3. Visual Fields - 0
+4. Facial Palsy - 1
+5a. Motor arm, left - 1
+5b. Motor arm, right - 0
+6a. Motor leg, left - 1
+6b. Motor leg, right - 0
+7. Limb Ataxia - 0
+8. Sensory - 1
+9. Language - 0
+10. Dysarthria - 1
+11. Extinction and Neglect - 0
+
+NEUROLOGY EXAMINATION:
+MS - Sleepy but rouses to voice. Answers orientation questions
+correctly. Obeys simple commands. Speech is hypophonic though 
+not
+clearly dysarthric. Speech is sparse. Naming, reading,
+repetition, and comprehension intact. No evidence of apraxia or
+neglect.
+
+CN - [II] PERRL 5->3 brisk. +BTT bilaterally. [III, IV, VI] 
+EOMI,
+no nystagmus. [V] V1-V3 without deficits to light touch
+bilaterally. [VII] Subtle L NLFF and ?delayed activation of L
+hemiface, with good activation. [VIII] Hearing intact to voice.
+[IX, X] Palate elevation symmetric. [XI] SCM/Trapezius strength
+___ bilaterally. [XII] Tongue midline with full ROM.
+
+MOTOR - Normal bulk and tone. Brisk and full activation of right
+hemi-body, able to hold against gravity without difficulty.
+Downward drift of LUE and LLE when held against gravity.
+
+SENSORY - Reports decrement to light touch and PP over left 
+face,
+arm, and leg.
+
+REFLEXES - 
+=[Bic] [Tri] [___] [Quad] [Gastroc]
+L 2      2      2      2        2
+R 2      2      2      2        2
+Plantar response mute bilaterally.
+
+COORD - No evidence of dysmetria on FNF bilaterally.
+
+GAIT - Deferred. 
+
+Neurology Discharge Exam:
+Physical exam with functional aspects which include "the bobbing 
+up and down of his left arm (without pronation), and the giveway 
+weakness of his left arm and leg."
+ 
+Pertinent Results:
+***Admission Labs***
+___ 10:20PM   GLUCOSE-102* UREA N-17 CREAT-1.2 SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-103 TOTAL CO2-22 ANION GAP-17
+___ 10:20PM   estGFR-Using this
+___ 10:20PM   CALCIUM-9.0 PHOSPHATE-2.4* MAGNESIUM-1.7
+___ 10:20PM   WBC-20.9* RBC-4.60 HGB-13.9 HCT-41.2 MCV-90 
+MCH-30.2 MCHC-33.7 RDW-13.2 RDWSD-42.7
+___ 10:20PM   NEUTS-87.4* LYMPHS-6.4* MONOS-4.4* EOS-0.8* 
+BASOS-0.5 IM ___ AbsNeut-18.06* AbsLymp-1.32 AbsMono-0.90* 
+AbsEos-0.17 AbsBaso-0.11*
+___ 10:20PM   PLT COUNT-232
+___ 10:20PM   ___ PTT-29.1 ___
+
+***Imaging Studies***
+
+1. CTA head: No evidence of acute intracranial hemorrhage. No 
+evidence of aneurysm greater than 3 mm, dissection or vascular 
+malformation, or significant luminal narrowing. Normal CT 
+perfusion. Multiple stable prominent mediastinal lymph nodes. 
+Paranasal sinus disease. 
+ 
+2. CT head: ___: No acute intracranial hemorrhage or 
+territorial infarct on noncontrast head CT. 
+
+3. MRI Brain: No acute infarct or other acute intracranial 
+abnormality. Paranasal sinus disease, as described above. 
+ 
+
+***Discharge Labs***
+___ 09:20AM BLOOD WBC-7.7 RBC-4.58* Hgb-13.7 Hct-41.5 
+MCV-91 MCH-29.9 MCHC-33.0 RDW-13.1 RDWSD-43.4 Plt ___
+___ 01:33PM BLOOD WBC-14.1* RBC-4.46* Hgb-13.7 Hct-41.1 
+MCV-92 MCH-30.7 MCHC-33.3 RDW-13.2 RDWSD-44.5 Plt ___
+___ 10:20PM BLOOD WBC-20.9* RBC-4.60 Hgb-13.9 Hct-41.2 
+MCV-90 MCH-30.2 MCHC-33.7 RDW-13.2 RDWSD-42.7 Plt ___
+___ 09:20AM BLOOD Neuts-62.8 ___ Monos-6.9 Eos-8.6* 
+Baso-0.7 Im ___ AbsNeut-4.84# AbsLymp-1.59 AbsMono-0.53 
+AbsEos-0.66* AbsBaso-0.05
+___ 10:20PM BLOOD Neuts-87.4* Lymphs-6.4* Monos-4.4* 
+Eos-0.8* Baso-0.5 Im ___ AbsNeut-18.06* AbsLymp-1.32 
+AbsMono-0.90* AbsEos-0.17 AbsBaso-0.11*
+___ 09:20AM BLOOD Plt ___
+___ 01:33PM BLOOD Plt ___
+___ 01:33PM BLOOD ___ PTT-27.8 ___
+___ 10:20PM BLOOD Plt ___
+___ 10:20PM BLOOD ___ PTT-29.1 ___
+___ 09:20AM BLOOD Glucose-122* UreaN-15 Creat-1.1 Na-139 
+K-4.1 Cl-102 HCO3-23 AnGap-18
+___ 01:33PM BLOOD Glucose-85 UreaN-16 Creat-1.2 Na-137 
+K-4.0 Cl-103 HCO3-24 AnGap-14
+___ 10:20PM BLOOD Glucose-102* UreaN-17 Creat-1.2 Na-138 
+K-4.1 Cl-103 HCO3-22 AnGap-17
+___ 09:20AM BLOOD Calcium-9.2 Phos-2.7 Mg-1.9
+___ 01:33PM BLOOD Calcium-8.6 Phos-3.6 Mg-2.1 Cholest-178
+___ 10:20PM BLOOD Calcium-9.0 Phos-2.4* Mg-1.7
+___ 01:33PM BLOOD %HbA1c-5.4 eAG-108
+___ 01:33PM BLOOD Triglyc-145 HDL-45 CHOL/HD-4.0 
+LDLcalc-104
+___ 03:07AM BLOOD Vanco-16.1
+___ 09:14AM BLOOD Type-ART pO2-88 pCO2-37 pH-7.44 
+calTCO2-26 Base XS-0
+___ 09:14AM BLOOD Lactate-0.___ hx acid reflux, presumed asthma, admitted s/p IP stenting 
+for TBM, transferred with +SIRS criteria and found to have 
+concerns initially for acute stroke s/p TPA administration, 
+final diagnosis of acute stress reaction and not stroke.
+
+#Difficulty speaking and somnolence: At 830am on ___, Mr. ___ 
+triggered secondary to nursing concern for somnolence and change 
+in mental status. The medicine team evaluated Mr. ___ and ___ 
+him to be in an altered mental state compared with his initial 
+morning exam. He was also found to have some asymmetric facial 
+weakness, left arm and leg sensory and motor deficits with a 
+potential right visual field cut. Code STROKE was called at this 
+time. Head CT did not show clear evidence of infarct/bleed. 
+Intravenous tPA was administered and he was subsequently 
+transferred to the SICU.  
+
+# Fever, Tachycardia, Hypoxemia: Per report, Interventional 
+pulmonary was not concerned for sepsis, though he did initially 
+meet ___ SIRS criteria with hypoxemia; he may have had SIRS 
+physiology from airway manipulation and inflammation versus 
+evolving PNA from newly opened airways. Initial DDx for this 
+fever includes post-surgical causes such as atelectasis, 
+pneumonia, aspiration, infection at site of stenting. There is 
+potential concern for late-appearing PTX but concern is low 
+given no transbronchial biopsy. He was covered broadly initially 
+with Vancomycin and Cefepime with fluids administered.
+
+#S/p stenting for tracheobronchomalacia: Patient suffered 
+sudden-onset SOB, hoarseness and cough/stutter starting ___ in 
+the setting of pneumonia. He has had frequent hospitalizations 
+since with presumed COPD or infections. The former was found not 
+to be true on evaluation by Dr. ___ at ___. He had ENT eval at 
+___ as well and was found to have LPR. He was evaluated by IP 
+for TBM. He underwent dynamic flex bronch with +diagnosis of TBM 
+with stents placed into trachea, R & L mainstem bronchi.
+
+# GERD/LPR: Continued home Omeprazole 20 mg PO DAILY and home 
+Ranitidine 300 mg PO/NG DAILY
+
+----------
+Neurology:
+
+# Somnolence and left sided weakness: Code stroke called, he was 
+then given tPA, and transferred to the ___ for respiratory 
+monitoring. Imaging was unrevealing. Exam was thought to have 
+lumbar radiculopathy components, as well as functional aspects 
+as detailed in the physical exam section. Blood was well 
+controlled for a goal of normotension. Stroke w/u with lipid 
+panel and A1C within range. Aspirin was not
+started as ischemia was excluded and exam was mostly functional. 
+He was evaluated by ___ who recommended outpatient physical 
+therapy. He was discharged home with IP follow up.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ranitidine 300 mg PO DAILY:PRN acid reflux 
+2. TraMADOL (Ultram) 50 mg PO BID:PRN pain 
+3. Omeprazole 20 mg PO DAILY 
+4. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN SOB, 
+wheeze 
+5. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Omeprazole 20 mg PO DAILY 
+2. Ranitidine 300 mg PO DAILY:PRN acid reflux 
+3. TraMADOL (Ultram) 50 mg PO BID:PRN pain 
+4. Vitamin D ___ UNIT PO DAILY 
+5. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN SOB, 
+wheeze 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+tracheobronchomalacia s/p tracheal and main stem bronchi stent 
+___
+left sided weakness, acute stress reaction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the Medicine Service on ___ for a planned 
+pulmonary stent in the setting of your known 
+tracheobronchomalacia.  That procedure was uncomplicated and 
+successful, however, the morning after your procedure you were 
+noted to be lethargic with left sided weakness.   There was 
+concern for the possibility of acute stroke, and since you had 
+no indication to the medication to treat acute stroke (TPA) it 
+was given to you acutely.   Fortunately, we did MRI and CT scan 
+that showed you did not have a stroke.  You were monitored 
+briefly in the ICU, where your exam improved significantly.  We 
+are confident that you did not have a stroke during this 
+admission.  As we discussed with you here, we think that the 
+weakness you developed was the result of an acute stress 
+reaction rather than a transient ischemic attack (TIA).  The 
+body manifests acute stress in all sorts of different manners, 
+and in your case, symptoms presented with acute left weakness.  
+We had you evaluated by physical therapy who felt you were safe 
+for discharge home.
+
+Please follow up in interventional pulmonary clinic as below.  
+We will arrange Stroke Clinic follow up for you with Dr. ___ 
+___ contact you with that information on ___.
+ 
+Followup Instructions:
+___

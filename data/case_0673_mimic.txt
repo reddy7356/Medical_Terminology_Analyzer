@@ -1,0 +1,539 @@
+===== DISCHARGE NOTE =====
+note_id=16145177-DS-13 | hadm_id=20075180
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+PEPPERS
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Diagnostic laparoscopy.
+2. Lysis of adhesions.
+3. Drainage of abscess.
+
+ 
+History of Present Illness:
+Pt is ___ y/o F with h/o atrial fibrillation who presents
+with worsening lower abdominal pain for past week and a half.  
+Pt
+did have diarrhea earlier in the week, but currently is feeling
+constipated.  No nausea/vomiting.  Pt also denies fevers but is
+having chills.  Pt presented to ___ where she was 
+noted
+to be hypotensive with BP in ___ and in atrial fibrillation.  Pt
+was resuscitated with 7L crystalloid prior to being transferred
+to ___ ED.  Last colonoscopy was more than ___ years ago.  Pt
+did have right breast lumpectomy for DCIS earlier in the week. 
+ 
+Past Medical History:
+PMH: 
+- Chronic atrial fibrillation
+- Hypertension.
+PSH:
+- Tonsillectomy.
+- Appendectomy.
+- D&C.
+- Fibroid ablation.
+-S/P Right breast lumpectomy for DCIS
+-S/P Reexploration R breast for more tissue sampling
+ 
+Social History:
+___
+Family History:
+Aunt with breast cancer.  Father with lung cancer.  Brother with 
+prostate cancer.
+
+ 
+Physical Exam:
+Temp 97.8  P ___  BP 98/60  R 16  SaO2 98% RA
+Gen: no acute distress
+Heent: no scleral icterus
+neck: supple
+Lungs: clear
+Heart: irregular rate and rhythm
+abd: soft, nondistended, moderately tender in lower abdomen
+rectal: no masses, guaiac negative
+Extrem: no edema
+
+ 
+Pertinent Results:
+___ 03:35AM   WBC-7.3 RBC-3.14*# HGB-8.7*# HCT-26.2*# 
+MCV-84 MCH-27.7 MCHC-33.2 RDW-14.5
+___ 03:35AM   NEUTS-79.7* BANDS-0 LYMPHS-15.2* MONOS-4.3 
+EOS-0.7 BASOS-0.2
+___ 03:35AM   PLT COUNT-279
+___ 03:35AM   GLUCOSE-128* UREA N-12 CREAT-0.7 SODIUM-140 
+POTASSIUM-3.3 CHLORIDE-109* TOTAL CO2-22 ANION GAP-12
+
+___ CT Abd/pelvis :There is an irregular fluid collection in 
+the pelvis with fluid surrounding the sigmoid colon.  The 
+findings are likely due to
+perforated diverticulitis and abscess formation.  The abscess 
+appears
+multilocular about 7 cm in diameter.  
+
+___ CT Abd/pelvis :
+1. Bilateral pleural effusions with associated compressive 
+atelectasis.  
+2. Some decrease in size of the main multiloculated pelvic fluid 
+collection secondary to perforated sigmoid diverticulum.Smaller 
+pockets of air and gas are seen surrounding the sigmoid colon.  
+Again, the collection is not amenable to transcutaneous 
+drainage. 
+
+ 
+Brief Hospital Course:
+Mrs. ___ was evaluated by the Acute Care team in the 
+Emergency Room and subsequently admitted to the SICU for further 
+management od her perfforated sigmoid diverticulitis as she was 
+hypotensive and in rapid atrial fibrillation.  As she was fluid 
+resuscitated her heart rate and blood pressure returned to 
+normal.  She maintained NPO, bowel rest and IV antibiotics as a 
+conservative treatment.  Her WBC was rising and her pain was 
+controlled with narcotics.
+
+Interventional Radiology was then consulted about drainage of 
+her pelvic abscess but felt the area was too difficult to reach. 
+A deciision was made to continue conservative treatment another 
+day to see if she improved.  Unfortunately her WBC continued to 
+rise and her abdominal pain persisted.  She was taken to the 
+Operating Room on ___ and underwent an exploratory 
+laparotomy with lysis of adhesions and drainage of pelvic 
+abscess.  She tolerated the procedure well and returned to the 
+SICU in stable condition.  She did require reintubation after 
+arriving in the SICU as she was hypoventilating but was easily 
+extubated the following day.
+
+Following transfer to the surgical floor on ___ she 
+continued to make steady progress.  She remained afebrile and 
+her WBC was normal.  Her antibiotics were changed from IV Zosyn 
+and Vancomycin to oral Cipro and Flagyl on ___.
+
+Her creatinine was noted to be elevated to 1.4, she was given IV 
+fluid bolus and labs were re-checked. Her other electrolytes 
+were repleted as indicated. A renal ultrasound on ___ showed 
+no obstruction. Her repeat Cr was 1.3 on ___ pm. She wished to 
+go home at this time and she was ready for discharge on ___, 
+with follow-up at ___. Patient was ambulating, tolerating 
+diet at this time. 
+
+It was noted that her TSH was elevated (7.2) during her hospital 
+stay which she will need repeated as an outpatient during her 
+follow up with her PCP.
+ 
+Medications on Admission:
+aspirin 325 mg daily
+Plavix 75 mg daily
+albuterol 90 mcg 2 puffs q4h prn sob
+fluticasone 220 mcg 2 puffs daily
+hctz 25 mg daily
+metoprolol 100 mg bid
+
+ 
+Discharge Medications:
+1. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+2. metronidazole 500 mg Tablet Sig: ___ Tablets PO Q8H (every 8 
+hours): thru ___.
+Disp:*27 Tablet(s)* Refills:*0*
+3. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours): thru ___.
+Disp:*18 Tablet(s)* Refills:*0*
+4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___  Inhalation every four (4) hours as needed for shortness of 
+breath or wheezing.  
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Complicated diverticulitis with abscess
+2. Acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital with abdominal pain due to a 
+small hole on your colon. You eventually required operative 
+drainage as bowel rest and antibiotics alone were ineffective.
+* Currently you have improved and are able to tolerate a regular 
+diet and stay well hydrated.
+* Your right abdominal drain remains in place and should be 
+emptied daily, noting the amount, color and consistency of the 
+drainage.  Write the amounts down daily and bring this with you 
+to your next appointment.
+* You also need to follow up with Dr. ___ radiation 
+oncology.  The treatments won't start right away but you will 
+meet with him on ___ and discuss a plan.
+* If you develop any increased redness or drainage from your 
+abdominal drain OR if you have fevers > 101, more abdominal pain 
+or any new concerns please call your doctor or return to the 
+Emergency Room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16145177-DS-14 | hadm_id=21004301
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+PEPPERS
+ 
+Attending: ___
+ 
+Chief Complaint:
+perforated diverticulum
+ 
+Major Surgical or Invasive Procedure:
+___ Sigmoidectomy, end colostomy (___)
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS: 
+___ w/hx of perforated diverticulitis now presenting for sigmoid
+colectomy after undergoing lap washout/abx course. 
+
+ 
+Past Medical History:
+PMH: 
+- Chronic atrial fibrillation
+- Hypertension.
+PSH:
+- Tonsillectomy.
+- Appendectomy.
+- D&C.
+- Fibroid ablation.
+-S/P Right breast lumpectomy for DCIS
+-S/P Reexploration R breast for more tissue sampling
+ 
+Social History:
+___
+Family History:
+Aunt with breast cancer.  Father with lung cancer.  Brother with 
+prostate cancer.
+
+ 
+Physical Exam:
+Physical examination upon admission:  ___
+
+FOCUSED PHYSICAL EXAMINATION:  
+GENERAL: NAD
+HEENT: MMM
+HEART: RRR  
+LUNGS: bibasilar decreased breath sounds 
+ABD: soft, appropriately tender, incisions c/d/i, ostomy site 
+c/d
+GU: deferred
+MSK/EXT: warm and perfused with 2+ distal pulses; MAE; able to
+flex knees bilaterally; ___ plantarflexion/dorsiflexion
+
+On discharge ___:
+
+97.8 82 130/68 16 97% RA
+
+Gen: NAD, A&O
+Chest: CTA bilaterally
+Abd: soft, appropriately tender at incisions, incision OTA with 
+staples, stoma pink, + stool output
+Extr: warm, pink, well-perfused, +PP
+ 
+Pertinent Results:
+___ 05:17AM BLOOD WBC-6.3 RBC-3.57* Hgb-10.4* Hct-31.7* 
+MCV-89 MCH-29.1 MCHC-32.7 RDW-15.1 Plt ___
+___ 05:25AM BLOOD WBC-6.0 RBC-3.17* Hgb-9.4* Hct-28.1* 
+MCV-89 MCH-29.5 MCHC-33.3 RDW-14.7 Plt ___
+___ 04:13PM BLOOD WBC-7.5 RBC-3.21* Hgb-9.4*# Hct-27.4* 
+MCV-85 MCH-29.4 MCHC-34.5 RDW-14.4 Plt ___
+___ 05:10AM BLOOD WBC-6.6 RBC-2.59*# Hgb-7.3*# Hct-22.5* 
+MCV-87 MCH-28.4 MCHC-32.7 RDW-14.7 Plt ___
+___ 03:33PM BLOOD Hct-26.1*
+___ 05:17AM BLOOD Plt ___
+___ 05:17AM BLOOD ___ PTT-ERROR* ___
+___ 05:06AM BLOOD ___
+___ 06:35AM BLOOD ___ PTT-26.4 ___
+___ 05:17AM BLOOD Glucose-128* UreaN-12 Creat-1.0 Na-142 
+K-4.2 Cl-106 HCO3-30 AnGap-10
+___ 05:06AM BLOOD Glucose-159* UreaN-15 Creat-1.1 Na-140 
+K-4.3 Cl-105 HCO3-29 AnGap-10
+___ 05:25AM BLOOD Glucose-108* UreaN-17 Creat-1.3* Na-139 
+K-4.2 Cl-104 HCO3-28 AnGap-11
+___ 05:10AM BLOOD Glucose-147* UreaN-21* Creat-1.4* Na-141 
+K-4.3 Cl-107 HCO3-27 AnGap-11
+___ 03:33PM BLOOD Na-144 K-4.2 Cl-108
+___ 05:17AM BLOOD Calcium-8.6 Phos-2.7 Mg-1.8
+___ 05:25AM BLOOD Calcium-8.7 Phos-3.2 Mg-2.0
+___ 05:10AM BLOOD Calcium-8.1* Phos-3.1 Mg-2.1
+___ 12:12PM BLOOD Hgb-10.7* calcHCT-32
+___ 10:36AM BLOOD Hgb-10.6* calcHCT-32
+___ 12:12PM BLOOD ___
+
+___:  Chest x-ray:
+
+Moderate cardiomegaly is chronic. Lung volumes are once again 
+quite low.  
+There are no areas of consolidation. There is mild residual 
+edema in the 
+right lung and plate-like atelectasis at the left base. Pleural 
+effusions are small if any. No pneumothorax. Nasogastric tube 
+passes into the upper 
+stomach. No pneumothorax. 
+
+___:  chest x-ray:
+
+Greater opacification at the base of the right lung could be due 
+to worsening atelectasis. Low lung volumes also exaggerate mild 
+cardiomegaly, probably unchanged. Left upper lung grossly clear. 
+Pleural effusions are small if any on the right. No 
+pneumothorax. 
+
+  
+
+ 
+Brief Hospital Course:
+___ year old female presented for elective sigmoid resection 
+following episode ___ diverticulitis requiring 
+laparoscopic washout.  Intra-operatively patient demonstrated 
+active disease in the pelvis with multiple pockets of purulence 
+in the pelvis.  Presence of this active disease and difficult 
+dissection precluded primary anastomosis. An epidural catheter 
+was placed pre-operatively for control of her post-operative 
+pain.  Following surgery, the patient was admitted to the acute 
+care surgery service on ___ and had an elective sigmoid 
+resection with ___ procedure.  The patient tolerated the 
+procedure well and was brought to the PACU in stable condition 
+before transfer to the floor.  
+
+Her post operative course was complicated by hypotension to SBP 
+___ on floor in setting afib w RVR.  Epidural rate decreased and 
+patient given fluids and IV metoprolol. She also was reported to 
+have a hematocrit of 22 and required packed red blood cells. Her 
+blood pressure improved slightly, but she continued in afib  
+necessitating ICU transfer on POD #1.  In the ICU, the patient 
+was monitored and continued on intravenous lopressor.   When 
+tolerating po's on POD #2, the patient was started on home 
+medication regimen at half dose.  As this proved effective 
+patient transferred to the surgical floor.   
+
+Patient completed post-op course of cephalexin. On POD #3, she 
+resumed her coumadin, but was reported to have an elevated INR 
+and her coumadin was held for the remainder of her 
+hospitalization.  On the day of discharge on ___, INR remained 
+elevated at 3.5, but stable and downtrending. She was discharged 
+with instructions to follow up with her PCP and have an INR 
+recheck on ___.
+Her vital signs remained stable and she was afebrile. She 
+reported nausea and her flagyl and ciprofloxacin were 
+discontinued and the nausea resolved.  She slowly advanced from 
+clears to a regular diet.  The ostomy nurse was consulted and 
+provided instruction and supervision in the management of her 
+ostomy.  Her ostomy was functioning well with stool and gas 
+output.
+
+Vital signs have been stable and she has been afebrile.  She has 
+tolerated a regular diet. Her white blood cell count has 
+normalized at 6.3 and her hematocrit at 31.7. Her pain is well 
+controlled with an oral pain regimen and she is out of bed 
+ambulating independently.
+
+She is preparing for discharge home with follow-up scheduled 
+with her PCP ___ ___ to follow her INR and scheduled follow 
+up in in ___ clinic on ___.
+
+ 
+Medications on Admission:
+___: metoprolol 100mg'', diltiazem ER 120mg', coumadin 5mg 
+ 
+Discharge Medications:
+1. diltiazem HCl 120 mg Capsule, Extended Release Sig: One (1) 
+Capsule, Extended Release PO DAILY (Daily).  
+2. metoprolol tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID 
+(2 times a day).  
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.  
+4. oxycodone 5 mg Tablet Sig: ___ Tablets PO every four (4) 
+hours as needed for pain: may cause sedation.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+diverticulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital to have a part of your colon 
+resected related to diverticulitis.  You had a colostomy as part 
+of your procedure. Because you had a large fluid requirement 
+after the procedure, you were transferred to the intensive care 
+unit where you were closely monitored. Your coumadin was 
+resumed, but you were found to have an elevated INR, and it has 
+been held until it returns to baseline.  Your blood work and 
+vital signs are stable and you are preparing for dishcarge home 
+with the following instructions.  You will need to have your INR 
+monitored and follow up with your PCP at the appointment 
+scheduled for you below.  Do not take your coumadin until your 
+PCP tells you it is okay to resume it. You are being discharged 
+with the following instructions:
+
+ACTIVITY:
+ 
+Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+You may climb stairs. 
+You may go outside, but avoid traveling long distances until you 
+see your surgeon at your next visit.
+Don't lift more than ___ lbs for 6 weeks. (This is about the 
+weight of a briefcase or a bag of groceries.) This applies to 
+lifting children, but they may sit on your lap.)
+You may start some light exercise when you feel comfortable.
+You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first.
+ 
+HOW YOU MAY FEEL: 
+ 
+You may feel weak or "washed out" for 6 weeks. You might want to 
+nap often. Simple tasks may exhaust you.
+You may have a sore throat because of a tube that was in your 
+throat during surgery.
+You might have trouble concentrating or difficulty sleeping. You 
+might feel somewhat depressed.
+You could have a poor appetite for a while. Food may seem 
+unappealing.
+All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+Your incision may be slightly red around the staples. This is 
+normal.
+You may gently wash away dried material around your incision.
+It is normal to feel a firm ridge along the incision. This will 
+go away.
+Avoid direct sun exposure to the incision area.
+Do not use any ointments on the incision unless you were told 
+otherwise.
+You may see a small amount of clear or light red fluid staining 
+your dressing or clothes. If the staining is severe, please call 
+your surgeon.
+You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+Ove the next ___ months, your incision will fade and become 
+less prominent.
+Your staples should be removed by the visiting nurses between 
+the dates of ___ and ___.
+
+YOUR BOWELS:
+Constipation is a common side effect of medicine such as 
+Percocet or codeine. If needed, you may take a stool softener 
+(such as Colace, one capsule) or gentle laxative (such as milk 
+of magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+If you go 48 hours without stool or gas in your ostomy bag, call 
+your surgeon.
+After some operations, diarrhea can occur. If you get diarrhea, 
+don't take anti-diarrhea medicines. Drink plenty of fluids and 
+see if it goes away. If it does not go away, or is severe and 
+you feel ill, please call your surgeon.
+ 
+ 
+PAIN MANAGEMENT:
+It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+Your pain should get better day by day. If you find the pain is 
+getting worse instead of better, please contact your surgeon.
+You will receive a prescription from your surgeon for pain 
+medicine to take by mouth. It is important to take this medicine 
+as directied. Do not take it more frequently than prescribed. Do 
+not take more medicine at one time than prescribed.
+Your pain medicine will work better if you take it before your 
+pain gets too severe.
+Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+Remember to use your "cough pillow" for splinting when you cough 
+or when you are doing your deep breathing exercises.
+If you experience any of the folloiwng, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently.
+If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+ 
+DANGER SIGNS:
+Please call your surgeon if you develop:
+- worsening abdominal pain
+- sharp or severe pain that lasts several hours
+- temperature of 101 degrees or higher
+- severe diarrhea
+- vomiting
+- redness around the incision that is spreading
+- increased swelling around the incision
+- excessive bruising around the incision
+- cloudy fluid coming from the wound
+- bright red blood or foul smelling discharge coming from the 
+wound
+- an increase in drainage from the wound
+ 
+Followup Instructions:
+___

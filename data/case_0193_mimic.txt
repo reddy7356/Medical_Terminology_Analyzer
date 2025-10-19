@@ -1,0 +1,310 @@
+===== DISCHARGE NOTE =====
+note_id=19609140-DS-10 | hadm_id=22964495
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  
+ ___ year old male with history of HTN, T2DM, PVD, EtOH abuse 
+presented with hypertensive emergency in setting of medication 
+non-compliance with mild pulmonary edema and NSTEMI. 
+
+Patient endorsed non-compliance with medications since ___ 
+due to going through a hard time losing his father and inability 
+to make it to see his PCP, who no longer wants to see him 
+because of frequent no shows. He noted a headache since ___ 
+that is intermittent, new and not associated with focal 
+neurologic changes. He presented to the hospital due to chest 
+pressure and dyspnea with exertion. Has a history of a medically 
+managed MI and positive stress test in the past. Denied rest 
+pain, nausea, vomiting, or light-headedness. He also did note 
+that he has been having some recurrent claudication in his 
+bilateral lower extremities. Denied changes in urination or 
+weakness. 
+ 
+In ED initial VS:  98.0 67 ___ 2L NC. Briefly on NRB, 
+but no documented desaturations.
+Exam:  Unremarkable
+Labs significant for:  troponin of 0.10, BNP 2400, WBC 12.3, 
+Lactate 1.9, Cr 1.0
+Patient was given:  Ntiro gtt, titrated up to 2 and then down to 
+1.5 mcg/kg/min. Also Lasix 40 mg IV. 
+
+ 
+Past Medical History:
+PVD - L leg stent, R leg bypass.
+HLD
+HTN
+CAD  - medically managed MI and positive stressed managed 
+medically.
+T2DM 
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VITALS:  Reviewed in Metavision
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP elevated to ~ 9cm, no LAD. Negative HJR. 
+LUNGS: crackles in bilateral bases otherwise CTA  
+CV: Regular rate and rhythm, normal S1 S2, ___ holosystolic 
+murmur at the apex, but no rubs or gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses on R and 1+ on L, no 
+clubbing, cyanosis. 1+ pitting edema at ankles  
+SKIN:  No rashes
+NEURO:  CN's intact. No focal weakness. 
+ 
+
+DISCHARGE PHYSICAL EXAM:
+VITALS: 24 HR Data (last updated ___ @ 807)
+    Temp: 97.7 (Tm 98.6), BP: 157/98 (140-179/84-105), HR: 69
+(68-84), RR: 16 (___), O2 sat: 98% (91-98), O2 delivery: Ra,
+Wt: 178.2 lb/80.83 kg  
+Admission weight: 82 kg
+Fluid Balance (last updated ___ @ 808) 
+  Last 8 hours  Total cumulative -235ml
+    IN: Total 240ml, PO Amt 240ml
+    OUT:  Total 475ml, Urine Amt 475ml
+  Last 24 hours  Total cumulative -1615ml
+    IN: Total 1760ml, PO Amt 1760ml
+    OUT:  Total 3375ml, Urine Amt 3375ml  
+GENERAL: alert and interactive, NAD, sitting upright in bed,
+moving easily without distress
+HEENT: NC/AT, PERRL,EOMI, sclera anicteric, MMM
+NECK: JVP ~ 5 cm
+CARDIAC: RRR, no m/r/g 
+LUNGS: CTAB, no wheezes or crackles 
+ABDOMEN: soft, non-distended, non-tender to palpation, no 
+rebound
+or guarding
+EXTREMITIES: no lower extremity edema
+SKIN: warm, well-perfused, no rashes
+NEUROLOGIC: A/Ox3, CN II-XII intact, moving all four extremities
+with purpose
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 10:29AM   LACTATE-1.9
+___ 10:15AM   GLUCOSE-147* UREA N-11 CREAT-1.0 SODIUM-144 
+POTASSIUM-4.0 CHLORIDE-104 TOTAL CO2-25 ANION GAP-15
+___ 10:15AM   estGFR-Using this
+___ 10:15AM   cTropnT-0.10*
+___ 10:15AM   CK-MB-3 proBNP-2434*
+___ 10:15AM   WBC-12.3* RBC-4.64 HGB-15.4 HCT-44.8 MCV-97 
+MCH-33.2* MCHC-34.4 RDW-14.7 RDWSD-51.2*
+___ 10:15AM   NEUTS-68.9 LYMPHS-16.4* MONOS-8.1 EOS-5.5 
+BASOS-0.8 IM ___ AbsNeut-8.48* AbsLymp-2.01 AbsMono-0.99* 
+AbsEos-0.67* AbsBaso-0.10*
+___ 10:15AM   PLT COUNT-257
+
+RELEVANT RESULTS RESULTS:
+___ 11:28PM   cTropnT-0.16*
+___ 03:50PM   cTropnT-0.13*
+___ 10:15AM BLOOD CK-MB-3 proBNP-2434*
+
+ECHO ___:
+Moderate to severe mitral regurgitation. Moderate pulmonary 
+artery systolic hypertension. Mild symmetric left ventricular 
+hypertrophy with preserved regional/global biventricular 
+systolic function. Mild right ventricular cavity dilation with 
+preserved free wall motion. Mildly dilated ascending aorta. 
+Increased PCWP.  
+
+___
+CXR: The interstitial abnormality has worsened and could 
+represent pulmonary edema. Cardiomediastinal silhouette is 
+stable.  There are no pleural effusions.  No pneumothorax is 
+seen 
+
+DISCHARGE LABS:
+  
+___ 06:15AM BLOOD WBC-11.3* RBC-4.09* Hgb-13.6* Hct-40.9 
+MCV-100* MCH-33.3* MCHC-33.3 RDW-15.0 RDWSD-53.1* Plt ___
+___ 06:15AM BLOOD Glucose-137* UreaN-15 Creat-0.8 Na-140 
+K-3.8 Cl-99 HCO___ AnGap-14
+___ 03:00PM BLOOD CK-MB-2 cTropnT-0.10*
+___ 06:15AM BLOOD Calcium-8.7 Phos-2.6* Mg-2.___ year old male with history of HTN, T2DM, PVD, EtOH abuse 
+presented with hypertensive emergency in setting of medication 
+non-compliance with mild pulmonary edema and NSTEMI. 
+
+# H/o HTN
+# Hypertensive Emergency: Presented with systolics in the 220's 
+with NSTEMI and pulmonary edema. Medication non-compliance after 
+the passing of his father. Started on a nitro gtt in ED with 
+quick improvement, SBP's down to 168. No neurologic symptoms 
+with correction of hypertension. Patient endorsed non-compliance 
+with blood pressure medications since ___. He stated that 
+his prior PCP terminated him from her office ___ making 
+appointments. His blood pressures were controlled with home 
+lisinopril 40 mg daily, home imdur 60 mg daily, and 45 mg 
+nifedipine BID. HCTZ 25 mg was added. Medications should be 
+titrated as an outpatient to minimize medications, but maximize 
+dosages for goal SBP < 130 in setting of prior non-compliance. 
+
+# Acute Hypoxemic Respiratory Failure: 
+# Acute Heart Failure with Preserved Ejection fraction
+# Pulmonary edema 
+# Severe mitral regurgitation 
+Mild-Moderate pulmonary edema in setting of hypertensive 
+emergency and elevation of BNP. Responded well to afterload 
+reduction and Lasix. TTE completed that showed severe MR, thus 
+afterload reduction and volume reduction beneficial. Sent home 
+on HCTZ 25 mg daily for volume management. Euvolemic on 
+discharge. 
+
+# NSTEMI: Likely T2 NSTEMI in setting of hypertensive emergency 
+and medication non-compliance. Treated with metoprolol and 
+lisinopril. Metoprolol uptitrated from home dose. Would likely 
+benefit from an outpatient stress test and based on the result 
+possibly a non-urgent cath.
+
+CHRONIC ISSUES
+-----------------
+# IDDM: held home metformin while inpatient
+
+# PVD: Changed to 81 mg ASA
+
+# HLD: Continued high dose statin
+
+# Tobacco Use: Nicotine patch
+
+TRANSITIONAL ISSUES:
+====================
+[] Please establish care with a primary care doctor. An 
+appointment request has been made with Dr. ___ ___ 
+___ at 1:40 pm. 
+[] Please repeat CMP to ensure stable creatinine and 
+electrolytes after diuretic changes
+[] Attempt to consolidate cardiac meds as possible as he is on 
+an extensive regimen and has history of non-compliance
+[] Patient should have stress test arranged as he had an NSTEMI 
+on admission and likely has underlying CAD and may require 
+non-urgent catherization. 
+
+Discharge weight: 80.8 kg
+Discharge Cr: 0.8 
+
+HCP: ___ ___
+Code: Full (discussed w/ patient) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. NIFEdipine (Extended Release) 60 mg PO DAILY 
+5. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+8. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Hydrochlorothiazide 25 mg PO DAILY 
+RX *hydrochlorothiazide 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+2.  Nicotine Patch 14 mg TD DAILY:PRN Craving's 
+RX *nicotine 14 mg/24 hour 1 patch daily Disp #*28 Patch 
+Refills:*0 
+3.  varenicline 0.5 mg oral DAILY 
+Day 1->3 0.5 mg daily
+Day 4->7 0.5 mg twice daily
+Day 8 onwards: 1 mg twice daily 
+RX *varenicline [Chantix Starting Month Box] 0.5 mg (11)-1 mg 
+(42) 1 tablets(s) by mouth daily Disp #*1 Dose Pack Refills:*0 
+4.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+5.  Metoprolol Succinate XL 150 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1.5 tablet(s) by mouth daily 
+Disp #*45 Tablet Refills:*0 
+6.  NIFEdipine (Extended Release) 30 mg PO BID 
+RX *nifedipine [Afeditab CR] 30 mg 1 tablet(s) by mouth twice 
+daily Disp #*60 Tablet Refills:*0 
+7.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0 
+8.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+9.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+10.  MetFORMIN (Glucophage) 1000 mg PO BID 
+RX *metformin [Glucophage] 1,000 mg 1 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*0 
+11.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypertension
+Non-ST elevation myocardial infarction 
+Alcohol abuse 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because your blood pressures 
+were elevated which was causing difficulty in breathing. 
+
+What happened while you were here?
+- You went to the intensive care unit to lower your blood 
+pressure
+- You received medicine to help decrease extra fluid you 
+accumulated 
+
+What do you need to do when you go home?
+- You are being set up to see Dr. ___ in her primary care 
+clinic on ___ at 1:40 pm. Although she has 
+started the facilitation of this appointment, please call the 
+primary care office (Healthcare Associates ___ to 
+ensure this appointment is confirmed. 
+- Please obtain an upper extreity blood pressure cuff and take 
+your blood pressures 1 hr after medications 2x daily
+- Your blood pressure medications were changed and you will 
+require labs to be drawn on ___ this week at your primary 
+care appointment. 
+- Please take all of the medications prescribed below. 
+
+It was a pleasure taking care of you!
+Your ___ Care Team. 
+
+ 
+Followup Instructions:
+___

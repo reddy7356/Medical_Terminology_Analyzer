@@ -1,0 +1,484 @@
+===== DISCHARGE NOTE =====
+note_id=12533422-DS-16 | hadm_id=21221370
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin / Labetalol / Cytomel / fenofibrate / Lopid / Norvasc 
+/ Lipitor / Zocor / Crestor / Zetia / codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypertensive emergency, chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ F PMHx HTN, CAD c/b MI s/p DES to LAD (___), 
+hypothyroidism who initially presented to ___ after fall now 
+with hypertensive emergency, chest pain transferred to the CCU 
+for ongoing management.
+
+Per patient, she was in her usual state of health. On ___, she 
+was carrying her grocery cart down the stairs when she "blacked 
+out" and fell down the stairs. Per a friend, this was a 
+mechanical fall where she slipped on the stairs. She struck her 
+face. She was taken by EMS to the ___. At ___, 
+she had CT scans of her head, cervical spine, facial bones, and 
+torso which were reportedly negative. She was transferred to the 
+___ ER for further management
+ 
+In the ED initial vitals were: 72 212/62 100% RA  
+No EKG was obtained  
+Labs notable for:
+-Cr 1.5 (unclear baseline)
+-Trop-T: <0.01 ___, 1500) 
+Imaging:
+-CXR without acute abnormality
+-Knee, forearm, and arm x-rays without evidence of fracture
+Patient was given:  
+-Clonidine 0.5mg po x2
+-Tylenol/ibuprofen
+-Ciprofloxacin for presumed UTI
+
+She was evaluated by ___ in the ER; it was determined she was 
+unsafe to return home alone and she was admitted to ___ for 
+rehab screening.
+Overnight on the floor, she remained HDS. Her BP were elevated 
+to SBPs 180s but improved with her home BP meds. In the AM on 
+___, she developed acute substernal chest pain, rated ___, 
+non-radiating. Her SBP was noted to be 280 in the left arm. She 
+received IV hydral 5mg IV x1, 10mg x1, 20mg x1, SLN x2, 
+clonidine 0.5mg x1, and IV dilaudid. Her SBP dropped acutely to 
+SBP 130. ECG was obtained which showed STE in avR, V2, diffuse 
+ST depressions. MERIT and Cardiology were consulted for further 
+recommendations, and the decision was made to transfer her to 
+the CCU
+
+On arrival to the CCU: patient reports ongoing substernal chest 
+pain and diffuse body pain. She also reports nausea with 
+spitting up. She denies headache, lightheadedness, confusion. 
+
+On questioning re: her fall, she remembers walking down the 
+stairs with her grocery cart, but does not remember anything 
+further.
+ 
+Past Medical History:
+-HTN; difficult to control, had episode of hypertensive 
+emergency treated at ___ approx. ___ years ago
+-CAD c/b MI with x1 stent to LAD (___)
+-___'s thyroiditis (___)
+-Colitis
+-Cochlear hydrops
+-Meniere's disease
+ 
+Social History:
+___
+Family History:
+No reported cardiac history 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+HEENT: (+) large facial hematoma over L cheekbone/ecchymoses 
+into chin, L eye swollen and weeping, no dental injuries, 
+PERRL/EOMI.
+Neck: supple, no LAD
+CV: tachycardia, (+) SEM at RUSB
+Lungs: CTAB
+Abd: soft, non-distended, multiple ecchymoses especially over 
+left hip into abdomen
+Extrem: WWP, (+) multiple ecchymoses over bilateral ___, (+) 
+edema of right ___ finger
+Neuro: CNII-XII grossly intact, moves all extremities 
+passively/actively although limited ___ pain, sensation grossly 
+inact
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: T98.7 BP153-168/45-48; BP max 195/75 7pm HR54-58 RR18 99RA 
+GEN: Pleasant, well appearing elderly female in NAD
+HEENT: (+) improving large facial hematoma over L cheekbone / 
+ecchymoses into chin, L eye swollen and weeping, no dental 
+injuries, PERRL/EOMI. MMM. OP wnl. 
+Neck: Supple, no LAD, no JVP elevation.
+CV: RRR; ___ early peaking systolic ejection type murmur 
+consistent with aortic sclerosis 
+Lungs: CTAB, no wheezes/crackles/rhonchi. 
+Abd: soft, non-distended, normoactive BS, multiple ecchymoses 
+especially over left hip into abdomen
+Extrem: WWP, (+) multiple ecchymoses over bilateral ___, full ROM 
+right wrist. 
+Neuro: CNII-XII grossly intact, moves all extremities 
+passively/actively. Grossly normal strength and sensation.
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 12:26AM   ___ PH-7.43 COMMENTS-GREEN TOP 
+___ 12:26AM   GLUCOSE-117* LACTATE-1.5 NA+-138 K+-4.4 
+CL--105 TCO2-21
+___ 12:26AM   HGB-14.9 calcHCT-45 O2 SAT-79 CARBOXYHB-3 MET 
+HGB-0
+___ 12:26AM   freeCa-1.09*
+___ 12:13AM   UREA N-33* CREAT-1.5*
+___ 12:13AM   estGFR-Using this
+___ 12:13AM   LIPASE-40
+___ 12:13AM   cTropnT-<0.01
+___ 12:13AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 12:13AM URINE  HOURS-RANDOM
+___ 12:13AM URINE  HOURS-RANDOM
+___ 12:13AM URINE  GR HOLD-HOLD
+___ 12:13AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 12:13AM   WBC-16.8* RBC-4.74 HGB-14.4 HCT-43.8 MCV-92 
+MCH-30.4 MCHC-32.9 RDW-13.3 RDWSD-45.2
+___ 12:13AM   ___ PTT-29.7 ___
+___ 12:13AM   PLT COUNT-381
+___ 12:13AM   ___
+___ 12:13AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 12:13AM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-300 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-SM 
+
+___ 12:13AM URINE  RBC-19* WBC-39* BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 12:13AM URINE  HYALINE-1*
+___ 12:13AM URINE  MUCOUS-RARE
+
+IMAGING/STUDIES: 
+================
+
+CXR ___
+Heart and mediastinum are normal.
+Low lung volumes.  There is prominence of the pulmonary 
+vasculature, without frank edema. No focal opacities to suggest 
+pneumonia.  There is bibasilar atelectasis. No definite pleural 
+effusion. No acute fractures.
+ 
+___ XRay R hand:
+No fractures or dislocations.
+
+___ XRay R forearm:
+No fracture or dislocation.
+
+___ XRay Bilateral knee:
+No fracture or dislocation.
+
+___ CT Head w/o Contrast:
+1. No acute intracranial abnormality on noncontrast head CT.  
+Specifically nointracranial hemorrhage.2. Involutional changes 
+and likely chronic microvascular ischemic changes.3. Expected 
+evolution of a partially visualized left cheek hematoma and soft 
+tissue swelling overlying the left cheek and left forehead.
+
+___ Xray R hand: 
+No fractures or dislocations.
+
+ 
+DISCHARGE LABS: 
+==============
+___ 07:30AM BLOOD WBC-8.9 RBC-3.64* Hgb-11.3 Hct-35.4 
+MCV-97 MCH-31.0 MCHC-31.9* RDW-15.4 RDWSD-54.5* Plt ___
+___ 08:05AM BLOOD Glucose-105* UreaN-44* Creat-1.1 Na-135 
+K-5.8* Cl-109* HCO3-10* AnGap-22*
+___ 07:30AM BLOOD Calcium-9.6 Phos-4.3 Mg-2.3
+___ 11:12AM BLOOD K-5.0 calHCO3-13*
+
+MICRO: 
+=======
+___ 4:07 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    10,000-100,000 CFU/mL. 
+         PRESUMPTIVE IDENTIFICATION. 
+      GRAM POSITIVE BACTERIA. 
+         >100,000 CFU/mL Alpha hemolytic colonies consistent 
+with alpha
+         streptococcus or Lactobacillus sp. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------  =>64 R
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+___ F PMHx HTN, CAD c/b MI s/p DES to LAD (___), 
+hypothyroidism who initially presented to ___ after fall now 
+with hypertensive emergency, chest pain.
+
+#HTN emergency: patient with reported difficult to control BP, 
+with hypertensive emergency likely ___ not receiving her home 
+medications and severe pain. Concern for evidence of end-organ 
+damage with elevated Cr (baseline per outpatient records appears 
+to be 1.6-7). EKG showed dynamic changes, but trp negative x3. 
+She required admission to CCU for titration of blood pressure 
+medication. Patient also required intermittent nitro gtt for BP 
+control. EKG changes resolved with blood pressure control. Blood 
+pressure medications were titrated and final regimen is:
+- clonidine 0.5 Q6 hours
+- ramipril 10 mg daily
+- metoprolol XL 50mg daily (pre-admission atenolol was 
+discontinued)
+- chlorthalidone 25 mg PO daily (new medication)
+- Imdur 60 mg daily (new medication)
+
+# Chest pain: 
+# Coronary artery disease s/p LAD stent (___):
+Patient w/CAD s/p LAD stent (___). ECG showed dynamic changes 
+in the setting of hypertensive emergency, specifically with STE 
+in avR, V1 and diffuse ST depressions. Trops negative x1. Recent 
+cath (___) without severe disease. Serial EKGs showed 
+improvement in ST changes once BP normalized. Troponins were 
+negative x 3. Heparin gtt was not started ___ recent trauma. 
+NCHCT negative for hemorrhage or infarct. Patient was given 325 
+mg ASA at onset of htn emergency and then 81 mg ASA daily. Given 
+patient's report of severe allergy to statin, this was not 
+given. Patient switched from atenolol to metoprolol as noted 
+above.
+
+# ?UTI: 
+# ESBL:
+Patient initially received CTX for UA concerning for UA. 
+However, patient had been asymptomatic and UCx <10^5 cfus ESBL. 
+CTX discontinued and foley catheter removed. Patient maintained 
+on contact precautions per hospital policy for ESBL.
+
+# Multiple injuries s/p fall: patient with reported mechanical 
+fall, s/p trauma evaluation negative for acute fracture. Pain 
+control with po Tylenol/oxycodone/IV dilaudid PRN initially and 
+weaned to Tylenol PRN. Patient will need hand specialty 
+follow-up for ongoing right hand ttp to ensure no carpal 
+fracture. ___ evaluated and recommended the patient could be 
+discharge home w/ home ___. 
+
+# Non gap and elevated anion gap metabolic acidosis: AG 16, HCO3 
+11. Outpatient labs indicate prior normal bicarb levels. Renal 
+consulted during hospitalization. Unclear etiology; suspect 
+arginine as contributor as well as Tylenol.  No clear evidence 
+of GI bicarbonate losses.  Lactate wnl and urine w/o evidence of 
+ketones. Discontinued arginine iso of acidosis and recommend 
+follow-up as outpatient. 
+
+---------------
+CHRONIC ISSUES: 
+---------------
+
+# Colitis: Patient continued on home mesalamine PR. She had 
+intermittent constipation initially, but then standing bowel 
+regimen of Bisacodyl ___AILY, Miralax daily, Senna and 
+Colace improved constipation. 
+
+# Hypothyroidism: Continued on home regimen of tirosant: 
+Tirosint *NF* (levothyroxine) 25 mcg oral 3X/WEEK (___) 
+Tirosint *NF* (levothyroxine) 50 mcg oral 4X/WEEK (___) 
+
+# Sinus bradycardia: Chronic issue for the patient. She remained 
+HDS, asx. HR appropriately increases with exercise.
+
+TRANSITIONAL ISSUES  
+===========================  
+[] Please check bicarb to ensure resolution off arginine 
+[] Please consider outpatient work up for causes of secondary 
+hypertension 
+[] Please note patient had right thumb/scaphoid tenderness post 
+fall for which initial XRAY negative for acute fracture 
+including follow up 1week post XRAY. Please refer for Hand 
+Clinic follow up if clinically indicated. Pain resolved prior to 
+discharge. 
+[] Patient with history of migraine with aura, previously 
+improved with atentolol. She was switched to metoprolol in 
+hospital, please continue to monitor for recurrence of 
+migraines.
+[] Consider pMIBI or continued cardiac w/u for dynamic changes 
+with hypertensive episodes to assess area of fixed 
+hypoperfusion.
+[] Patient presented with DNR/DNI following discussion with PCP, 
+she elected to reverse code status after extensive discussion in 
+the hospital. Please continue ongoing discussion with patient 
+outpatient.
+# CODE: Full Code (confirmed with patient)
+# CONTACT/HCP:  ___ (son) ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Astepro (azelastine) 0.15 % (205.5 mcg) nasal BID 
+2. Atenolol 50 mg PO QHS 
+3. balsalazide 1500 mg oral BID 
+4. Butalbital Compound-Codeine (codeine-butalbital-ASA-caff) 
+___ mg oral Other 
+5. CloNIDine 0.2 mg PO Q12H 
+6. CloNIDine 0.3 mg PO Q12H 
+7. LORazepam 0.5 mg PO Q8H:PRN anxiety 
+8. Meclizine 25 mg PO PRN dizziness 
+9. Mesalamine (Rectal) 1000 mg PR PRN diarrhea 
+10. Omeprazole 20 mg PO BID 
+11. Ramipril 10 mg PO DAILY 
+12. Tirosint (levothyroxine) 25 mcg oral 3X/WEEK 
+13. Tirosint (levothyroxine) 50 mcg oral 4X/WEEK 
+14. arginine (L-arginine) 1000 mg oral Q6H 
+15. Loratadine 10 mg PO DAILY 
+16. cranberry ___ mg oral DAILY 
+17. flaxseed 1000 mg oral DAILY 
+18. FloraTummys (L. acidophilus-B. animalis-FOS) 5 billion cell 
+oral DAILY 
+19. Magnesium Citrate 400 mg PO DAILY 
+20. Multivitamins 1 TAB PO DAILY 
+21. Fish Oil (docosahexanoic acid-epa;<br>omega 3-dha-epa-fish 
+oil;<br>omega-3 fatty acids;<br>omega-3 fatty acids-fish 
+oil;<br>omega-3s-dha-epa-fish oil) 3000 mg oral DAILY 
+22. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Chlorthalidone 25 mg PO DAILY 
+RX *chlorthalidone 25 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate [Toprol XL] 50 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+5.  CloNIDine 0.5 mg PO Q6H 
+RX *clonidine HCl 0.1 mg 5 tablet(s) by mouth every six (6) 
+hours Disp #*600 Tablet Refills:*0 
+6.  Astepro (azelastine) 0.15 % (205.5 mcg) nasal BID  
+7.  balsalazide 1500 mg oral BID  
+8.  cranberry ___ mg oral DAILY  
+9.  Fish Oil (docosahexanoic acid-epa;<br>omega 3-dha-epa-fish 
+oil;<br>omega-3 fatty acids;<br>omega-3 fatty acids-fish 
+oil;<br>omega-3s-dha-epa-fish oil) 3000 mg oral DAILY  
+10.  flaxseed 1000 mg oral DAILY  
+11.  FloraTummys (L. acidophilus-B. animalis-FOS) 5 billion cell 
+oral DAILY  
+12.  Loratadine 10 mg PO DAILY  
+13.  LORazepam 0.5 mg PO Q8H:PRN anxiety  
+14.  Magnesium Citrate 400 mg PO DAILY  
+15.  Meclizine 25 mg PO PRN dizziness  
+16.  Mesalamine (Rectal) 1000 mg PR PRN diarrhea  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Omeprazole 20 mg PO BID  
+19.  Ramipril 10 mg PO DAILY  
+20.  Tirosint (levothyroxine) 25 mcg oral 3X/WEEK (___)  
+21.  Tirosint (levothyroxine) 50 mcg oral 4X/WEEK (___)  
+
+22.  Vitamin D ___ UNIT PO DAILY  
+23. HELD- Butalbital Compound-Codeine 
+(codeine-butalbital-ASA-caff) ___ mg oral Other  This 
+medication was held. Do not restart Butalbital Compound-Codeine 
+until you discuss this with your primary care doctor as this can 
+increase your blood pressure.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+- Hypertensive Emergency
+- Acute Kidney Injury on CKD 
+- Mechanical Fall
+- Anion gap metabolic acidosis
+
+SECONDARY DIAGNOSIS:
+- Hypothyroidism 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you had a fall down a 
+flight of stairs. You had imaging and fortunately, you did not 
+have any broken bones. However, you did have a lot of bruising 
+of your hands, face, and ribs. 
+
+While you were in the hospital you had very high blood 
+pressures. You were transferred to the cardiac intensive care 
+unit so your blood pressure could be monitored carefully and 
+better controlled. 
+
+Your blood pressure medications were changed to better control 
+your blood pressures.  We recommend strongly that you stop 
+taking arginine because we think it may be causing acid to build 
+up in your blood. 
+
+Your blood pressure medications are:
+Ramipril 10 mg daily
+Imdur 60 mg daily
+Clonidine 0.5 every 6 hours
+Chlorthalidone 25 mg daily
+Metoprolol 50 mg daily
+
+Now that you are going home you should take all of your 
+medications as prescribed.
+
+Please call your primary care provider ___ to schedule an 
+appointment either that day or for follow up early in the next 
+week.
+Please follow up either with a nephrologist (kidney doctor) at 
+___ or with the nephrologists here at ___.  
+
+Here are some contact numbers:
+___ Nephrology ___
+___ Nephrology ___
+
+Take your blood pressure daily while you are relaxed while 
+seated with your arm at the level of your heart. Record your 
+blood pressures.  
+
+Please seek medical attention if your BP is >200/100, your BP is 
+<90/60, you develop chest pain, trouble breathing, or have 
+changes in your vision.
+
+We wish you the best!
+-Your ___ Care Team
+ 
+Followup Instructions:
+___

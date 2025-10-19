@@ -1,0 +1,479 @@
+===== DISCHARGE NOTE =====
+note_id=17854059-DS-7 | hadm_id=22638689
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis
+Liver biopsy
+ 
+History of Present Illness:
+Pt is a ___ yo woman with PMHx sig. for HTN, only recently 
+started on atenolol 12.5 mg, who was called by PCP to go to the 
+Emergency Department. Pt had first seen her PCP ___ ___ for 
+mucous in her urine. Pt had a U/A sig. for lg ___, 7 WBC (but 9 
+epi) and was started on a 7 day course of levofloxacin. CXR then 
+showed no consolidation. WBC returned 17.1. Pt reported that the 
+mucous in her urine had not resolved with the antibiotics. She 
+denied any dysuria, urinary frequency, or back pain. On labs, pt 
+was noted to have worsening leukocytosis (17.1->22.9), 
+hypercalcemia, and hyponatremia and was directed to go to the 
+ED.  
+.  
+In the ED, VS: T 97.7, HR 85, BP 170/98, R18, O2 sat 99RA. CXR 
+showed new consolidation in LLL. Pt received azithro 500 mg, 
+ceftriaxone 1 gm. Pt received 500 cc of NS.  
+.  
+ROS: Pt noted extreme fatigue starting ___ weeks ago. She has 
+not had the energy to get out of bed much, had stopped grocery 
+shopping, cooking. She lives with 2 of her children. She denies 
+any fever, chills, night sweats. She has noted gradual weight 
+loss in the past few years. She has also noted persistently dry 
+mouth and drinks about 12 cups of water a day. She denies cough, 
+SOB, CP, palpitations, abd pain, N/V/D/C. She has noted swelling 
+in her feet bilaterally. She also reports that her feet have 
+been cold the last few months.  
+ 
+Past Medical History:
+Hypertension
+Pt has never had a mammogram, colonoscopy. 
+ 
+Social History:
+___
+Family History:
+Daughter with malignant fibroids; no other h/o cancer. Mother 
+with CHF. Father with angina. 
+ 
+Physical Exam:
+T 98.2 BP 135/72 HR 79 RR 18 O2 sat 97% RA  
+Gen: Older, cachetic woman in no acute distress, A&Ox3  
+HEENT: conjunctiva clear, sclera nonicteric, MM slightly dry  
+Neck: supple, no thyromegaly or thyroid nodules noted  
+Onc: no cervical, supraclavicular, axillary, inguinal LAD noted; 
+no breast masses noted.  
+CV: RRR, ?S3 at L lower  
+Lungs: Decreased BS at RLL, otherwise clear  
+Abd: +BS, soft, nontender, mildly distended, firmness noted on R 
+side ?hepatomegaly  
+Back: no CVAT  
+Ext: 2+ pedal edema at the feet to trace on calves, faint DP 
+pulses, cool to touch bilaterally, good capillary refill  
+Neuro: CNs II-XII grossly intact, MS ___ in BUEs and BLEs, DTRs 
+2+/4 except 1+/4 in L patellar, down going babinski in L and 
+equivocal on R, no gross sensory deficits.  
+ 
+Pertinent Results:
+Admission labs:
+___ 04:25PM   WBC-23.5* RBC-5.75* HGB-13.8 HCT-42.9 MCV-75* 
+MCH-24.0* MCHC-32.2 RDW-14.5
+___ 04:25PM   NEUTS-88.8* BANDS-0 LYMPHS-6.7* MONOS-3.6 
+EOS-0.6 BASOS-0.3
+___ 04:25PM   PLT COUNT-377
+___ 04:25PM   GLUCOSE-118* UREA N-24* CREAT-0.9 SODIUM-125* 
+POTASSIUM-5.0 CHLORIDE-86* TOTAL CO2-25 ANION GAP-19
+___ 04:25PM   CALCIUM-11.0* PHOSPHATE-2.5* MAGNESIUM-1.9
+.
+Imaging:
+CHEST (PA & LAT)  ___
+IMPRESSION: Findings suspicious for a left lower lobe pneumonia 
+best visualized on the lateral radiograph. Followup radiography 
+following therapy is recommended to assure and document 
+resolution.
+.
+CT TORSO W/CONTRAST  ___ 
+IMPRESSION:
+1. Replacement of the normal hepatic parenchymal by innumerable 
+lesions, measuring up to 11.3 cm, worrisome for hepatocellular 
+carcinoma.
+2. Multiple faint densities in both lungs may represent focal 
+areas of scar. However, at least one nodule in the left upper 
+lobe has a discrete appearance and attention is recommended on 
+followup studies to exclude pulmonary metastasis.
+3. Nonspecific thickening of the left adrenal gland, which may 
+represent hyperplasia. However, again, attention is recommended 
+on followup studies.
+4. Lytic focus in the T8vertebral body. An osseous metastasis 
+cannot be excluded.
+5. Left thyroid nodule, which can be correlated with ultrasound 
+if clinically indicated. 
+
+Liver, targeted needle core biopsies:
+     Poorly differentiated adenocarcinoma (see note).
+ Note:  Immunohistochemical stains of the tumor are positive for 
+cytokeratin 7, CAM5.2 and CKAE1/AE3. HepPar1 demonstrates 
+intense staining of non-neoplastic hepatocytes, but does not 
+stain the tumor cells (interpreted as representing high 
+background staining). Unabsorbed (polyclonal) CEA demonstrates a 
+focal canalicular pattern of staining (which is not obvious on 
+CD10), however, this most likely represents staining of 
+entrapped hepatocytes. ___ stains predominantly entrapped bile 
+ducts.  TTF-1, S100, Mart 1, HMB45, mammoglobin and GCDFP are 
+all negative. Interpretation of the immunostains is difficult 
+overall secondary to the admixed normal hepatic elements; all 
+controls are satisfactory.
+ These findings support a diagnosis of poorly differentiated 
+adenocarcinoma of pancreatic or biliary origin, including an 
+intrahepatic cholangiocarcinoma. Given the absence of staining 
+for TTF-1, metastasis from a lung primary is less likely. 
+Further correlation with clinical and radiologic findings is 
+recommended.  
+
+Labs on Discharge:
+
+___  WBC-23.0* RBC-5.49* Hgb-13.1 Hct-42.0 MCV-77* 
+MCH-23.8* MCHC-31.0 RDW-16.1* Plt ___
+___  Glucose-89 UreaN-20 Creat-0.7 Na-130* K-4.6 Cl-90* 
+HCO3-27 AnGap-___/P: ___ yo woman with pmhx sig. for HTN who presents with 
+fatigue, failure to thrive, leukocytosis, hyponatremia, 
+hypercalcemia, and elevated lactate found to have large liver 
+mass, consistent with metastatic pancreatic cancer.  
+  
+#) Liver mass: Albumin low at 3.0 on admission but other 
+synthetic function wnl. Heme/onc followed during this admission. 
+Ascites fluid cytology negative for malignancy. ___ positive 
+at 426. Pathology results are consistent with pancreatic or 
+other primary GI malginancy with liver metastases. Oncology 
+recommended outpatient followup to further discuss palliative 
+chemotherapy verses initiation of hospice.  Patient's daughter 
+was informed of pathology results and had a lengthy discussion 
+with the oncology team.  Follow up will be arranged by the 
+daughter as she is considering a second opinion. A mammogram was 
+ordered initially in the setting of unknown primary cancer and 
+not performed prior to discharge.  In the setting of these 
+pathology findings, there is no further need for a mammogram. 
+.  
+#) Failure to thrive, fatigue: Primary concern for solid organ 
+malignancy, especially given CT torso findings. 
+Leukemia/lymphoma given persistent leukocytosis was raised but 
+differential without myelo/metas was reassuring. LFTs only mild 
+elevated, with exception of alk phos elevation. Albumin slightly 
+low at 3.0, ___ WNL. TSH mildly elevated, ft4 WNL. Liver 
+biopsy results support primary GI malignancy that is metastatic 
+with very poor prognosis. Patient was continued on ritalin, with 
+patient noting improvement in fatigue. Patient appears to have 
+good apetite, cachexia possibly from lack of access to food at 
+home/hypermetabolic state.  Nutrition followed during this 
+admission and recommended TID supplements with meals.  
+.  
+#) Leukocytosis: Pt recently finished 7 day course of 
+levofloxacin for UTI. Repeat U/A on admission looked improved. 
+CXR showed possible LLL consolidation in setting of pleural 
+effusions; however, pt not complaining of SOB or cough. Pt has 
+no other localizing sxs of infection. Pt remained afebrile. This 
+is most likely reactive leukocytosis in the setting of 
+malignancy instead. UA repeated on ___ in the setting of 
+indwelling foley, showed yeast. Blood cultures from admission 
+negative.   
+.  
+#) Hyponatremia: Improved with IVFs initially, then stopped 
+though urine Na was really low suggesting dehydration. With 
+trial of salt tabs without IVFs, there was little improvement. 
+This is likely combination of volume depletion (improved with 
+IVFs initially) and extra-renal loses given low urine Na 
+(possible third spacing with ascites and pedal edema). ?SIADH 
+with cortisol levels elevated and TSH mildly elevated with fT4 
+wnl. It appears that this has been a chronic problem with 
+hyponatremia noted ___ years ago, suggesting reset osmostat a 
+possibility. Would accept high 120's/130 as appropriate goal NA 
+in this patient. In the setting of improved sodium and net neg 
+of 700cc on ___, discontinued lasix, IVF, and fluid restriction 
+to observe on salt tabs alone and patient found to have decrease 
+in Na from 133 -> 130. It was recommended at the time of 
+discharge to continue 3gm salt daily, resume 1500cc fluid 
+restriction and titrate fluid restriction as sodium requires.   
+.  
+#) Hypercalcemia: Found on admission. Improved with IVFs and has 
+stabilized. Most likely ___ dehydration. Preliminary w/u was 
+performed as outpatient. PTH is acutally normal, which is 
+inappropriately elevated for level of calcium. ___ also be ___ 
+malignancy. SPEP/UPEP were neg. Alk phos was noted to be high 
+previously, suspicious for bony ___, though only 1 bony lesion 
+noted on CT torso. Calcium and phosphate remained stable during 
+the remainder of admission.  
+.  
+#) Peripheral edema: U/A showed no proteinuria. Pt does have 
+mildly low albumin in the setting of poor nutrition. With 
+improved nutritional status, anticipate improvement now that 
+patient has excellent po intake as other synthetic functions of 
+liver are normal.   
+.  
+#) Hypertension: Adequately controlled on current regimen with 
+SBP 110-120. Patient discharged on home atenolol 25 mg dose. 
+.  
+# Bowel Incontinence - Patient initially unclear whether she is 
+unable to make it to the toilet given deconditioning vs. unaware 
+of urge. Use of stool softners likely complicating situation. 
+She denies having this problem prior at home. No neuro deficit 
+to explain findings with no evidence ___ in the L/S 
+spine. Patient reports ability to make it commode on the day 
+prior to discharge.  Decreased use of stool softeners and 
+commode at bedside with further physical therapy will most 
+likely result in resolution of this problem. 
+.  
+#) FEN: Monitored and repleted electrolytes, cardiac diet  
+#) PPx: bowel regimen, heparin sq  
+#) Code: Full - Code status not readdressed after pathology 
+results. 
+#) Communication: ___ (HCP, daughter) ___  
+#) Dispo: to rehab and then likely home hospice.  
+
+ 
+Medications on Admission:
+Atenolol 12.5 mg
+ 
+Discharge Medications:
+1. Methylphenidate 5 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Sodium Chloride 1 gram Tablet Sig: 1.5 Tablets PO BID (2 
+times a day).  
+4. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical BID 
+(2 times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Syndrome of Inappropriate anti-diuretic hormone
+Poorly Differentiated Adenocarcinoma of the GI tract
+Failure to thrive
+.
+Secondary:
+Hypertension
+
+ 
+Discharge Condition:
+Stable, NA of 130
+
+ 
+Discharge Instructions:
+You were admitted with fatigue and abnormal lab values.  Your 
+fatigue is likely due to hyponatremia and malginancy.  You were 
+found to have a mass in your liver on a CT scan of your body.  A 
+liver biospy revealed a cancer of your GI tract that was 
+metastatic.  
+.
+For your fatigue, you were given Ritalin to try to increase your 
+energy level.  Please continue taking twice daily.
+.
+For your hyponatremia (low sodium) you were given salt tablets.  
+Please continue to take 3gm of salt tablets daily.
+.
+Please take your medications as prescribed.
+.
+If you develop fever, shortness of breath, chest discomfort, 
+pain, or any concerning symptoms, please call your primary care 
+physician ___ at ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17854059-DS-8 | hadm_id=29551137
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y/o female with a h/o HTN and newly diagnosed metastatic 
+cancer (either pancreatic or biliary - biopsy from ___ not 
+definitive) who presented to the ED with shortness of breath. 
+She was recently discharged from ___ on ___ when she 
+presented with a new liver mass, ascites, and failure to thrive. 
+She was found to have metastatic cancer and she was discharged 
+to ___. On day of this admission she was 
+found to be acutely hypoxic with sats 77% on RA and 89% on a 
+NRB. She also had an episode of emesis preceding the hypoxia. 
+She has had mild N/V and abdominal distention recently.  
+.
+ED vitals: T 98.8 HR 82 BP 105/62 RR 25 88%NRB. CXR revealed a 
+LLL opacity concerning for pneumonia. She was given vancomycin 1 
+gram IV x 1, zofran, IVF, lasix 20 mg IV x 1, and cefepime 2 g 
+IV x 1. Her code status was discussed with her daughter and the 
+decision was made to proceed with DNR/DNI. She was admitted to 
+the FICU for closer monitoring and possible need for BiPAP. Her 
+initial lactate was 7.2. ABG was 7.50/32/49, repeat 7.45/40/118. 
+U/A was negative. 
+
+ 
+Past Medical History:
+Metastatic Pancreatic CA
+Hypertension
+
+ 
+Social History:
+___
+Family History:
+Daughter with malignant fibroids; no other h/o cancer. Mother 
+with CHF. Father with angina. 
+ 
+Physical Exam:
+Gen: Older, cachetic woman in no acute distress, A&Ox3  
+HEENT: conjunctiva clear, sclera nonicteric, MM slightly dry  
+Neck: supple, no thyromegaly or thyroid nodules noted  
+Onc: no cervical, supraclavicular, axillary, inguinal LAD noted; 
+ 
+no breast masses noted.  
+CV: RRR, ?S3 at L lower  
+Lungs: Decreased BS at RLL, otherwise clear  
+Abd: +BS, soft, nontender, mildly distended, firmness noted on R 
+ 
+side ?hepatomegaly  
+Back: no CVAT  
+Ext: 2+ pedal edema at the feet to trace on calves, faint DP  
+pulses, cool to touch bilaterally, good capillary refill  
+Neuro: CNs II-XII grossly intact, MS ___ in BUEs and BLEs, DTRs  
+
+2+/4 except 1+/4 in L patellar, down going babinski in L and  
+equivocal on R, no gross sensory deficits.  
+
+ 
+Pertinent Results:
+___ ADMISSION LABS:
+CBC:
+WBC-23.6* RBC-5.87* Hgb-13.9 Hct-45.4 MCV-77* MCH-23.7* 
+MCHC-30.6* RDW-17.6* Plt ___ Neuts-89.9* Bands-0 Lymphs-7.6* 
+Monos-2.2 Eos-0.2 Baso-0.2
+.
+___ PTT-30.8 ___
+.
+Glucose-108* UreaN-37* Creat-0.9 Na-134 K-4.6 Cl-94* HCO3-26 
+AnGap-19 Calcium-10.5* Phos-4.7*# Mg-1.9
+.
+ABGs:
+Type-ART pO2-49* pCO2-32* pH-7.50* calTCO2-26 Base XS-1 
+Intubat-NOT INTUBA
+.
+Type-ART FiO2-100 pO2-118* pCO2-40 pH-7.45 calTCO2-29 Base XS-4 
+AADO2-569 REQ O2-92
+.
+___ 09:38PM BLOOD Lactate-7.2*
+___ 09:44PM BLOOD Lactate-7.0* K-4.8
+___ 12:03AM BLOOD Lactate-6.2*
+.
+URINE:
+___ 09:30PM URINE Color-Amber Appear-Clear Sp ___ 
+Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-TR 
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+.
+********************MICRO:
+___ BCx: PND
+___ UCx: PND
+.
+*******************RADIOLOGY
+CXR ___:
+Increased opacity in the left lower lobe particularly the 
+retrocardiac region suspicious for progressing pneumonia.  Mild 
+haziness in the right lower lobe may also reflect infection.
+ 
+Brief Hospital Course:
+PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+
+Evidence of LLL pneumonia on clinical exam and CXR. Recent 
+hospital admission, possible developing infiltrate on prior CXR, 
+pt was covered with 7 day course of vancomycin, cephalosporin.
+ 
+PNEUMONIA, ASPIRATION
+
+Concern for aspiration event given N/V and subsequent hypoxia so 
+also received 7 days of flagyl. Aspiration precautions.
+
+CANCER (MALIGNANT NEOPLASM), PANCREAS VS. BILIARY
+
+Metastatic to liver, lung, and possibly bone. Pt was not 
+interested in chemotherapy. Evidence of ascites on exam which is 
+known from prior admission. 
+ 
+
+LACTIC ACIDOSIS
+
+Likely from malignancy, discussed severity of illness with 
+pt/daughter, pt ___ no further treatment, home to hospice.
+ 
+Medications on Admission:
+1. Methylphenidate 5 mg Tablet Sig: Two (2) Tablet PO BID (2  
+times a day).  
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Sodium Chloride 1 gram Tablet Sig: 1.5 Tablets PO BID (2  
+times a day).  
+4. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical BID  
+(2 times a day).  
+
+ 
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Ativan 1 mg Tablet Sig: One (1) Tablet PO every six (6) hours 
+as needed for pain.
+Disp:*12 Tablet(s)* Refills:*0*
+4. Morphine Concentrate 20 mg/mL Solution Sig: 0.25 ml PO every 
+four (4) hours as needed for pain.
+Disp:*30 ml* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pneumonia
+Metastatic cancer (pancreatic or biliary - not definatively 
+known) to liver and lung
+Malignant ascites
+Malnutrition with cachexia
+
+ 
+Discharge Condition:
+Guarded
+
+ 
+Discharge Instructions:
+You are being discharged from the hospital with hospice care.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,442 @@
+===== DISCHARGE NOTE =====
+note_id=11965133-DS-16 | hadm_id=29264143
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Pentasa / Imigran
+ 
+Attending: ___
+ 
+Chief Complaint:
+myalgias, abdominal pain, fevers
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy with biopsies ___
+
+ 
+History of Present Illness:
+___ M with history of Crohn's disease, NASH/EtOH cirrhosis
+(followed by Dr. ___, recent diagnosis of PSC at ___ presenting with worsening RUQ pain, anorexia, malaise. 
+
+Patient reports that he first developed liver related symptoms 
+in
+___ when he was living in ___ and had acute onset of
+jaundice, itching, presented to a hospital for these symptoms 
+and
+was treated (not sure with what) and had resolution of symptoms.
+Following this, he had no issues until ___ when he developed
+recurrence of RUQ pains, jaundice, anorexia, and was diagnosed
+with NASH/EtOH cirrhosis. At that time he stopped drinking
+completely and was without any further s/s related to his liver
+until about three-four weeks prior to this admission. 
+
+___ weeks ago, he developed worsening RUQ pain, anorexia, dark
+urine, weight loss. He states these symptoms generally are worst
+in the morning, associated with very poor appetite, nausea, 1
+episode of vomiting. They improve in the afternoon. He has lost
+about 10 lbs since the onset of these symptoms. 
+
+He presented with these symptoms to ___ where he was
+admitted from ___. There, he was noted to have 
+transaminitis
+with LFTs ranging from 1100-1300. He underwent cross-sectional
+imaging reportedly with CT and MRI, and had a liver biopsy, was
+diagnosed with PSC and was subsequently discharged on prednisone
+taper and referred to liver at our hospital. 
+
+The day of current presentation, he came in because of worsening
+burning RUQ pain, myalgias, poor appetite. His appointment with
+liver at ___ set for ___ but felt he couldn't wait that
+long due to persistent symptoms. Formed stools q3d, no bloody or
+jet black stools, no diarrhea. No recent antibiotics or travel.
+
+No history of ascites, hepatic encephalopathy, SBP, varices. Has
+never been on any medications for his cirrhosis. 
+
+In the ED, labs were notable for:
+-- CBC within normal limits 
+-- Chem7 with Cr 1.1, HCO3 20
+-- LFTs elevated at AST/ALT 421/992, AP 418, T bili 2.7 (direct
+2.0), alb 4.1 
+-- Coags: INR 1.0 
+-- Lactate 1.4 
+- RUQ U/S within normal limits 
+- Patient was given: 1L NS, pantoprazole, morphine 4mg 
+
+On arrival to the floor, patient endorses history described
+above. 
+ 
+Past Medical History:
+Crohn's disease: diagnosed at age ___, reportedly treated with
+prednisone at that time with complete remission of symptoms. Per
+patient and his wife, apart from a flare in ___, he has
+otherwise been without any symptoms from his Crohn's (has 
+normal,
+non bloody bowel movements, no abdominal pain). Despite this he
+has had evidence of Crohn's on multiple colonoscopies and as a
+result has been on various immunosuppressants- previously 
+trialed
+on Pentasa (no benefit), switched to azathioprine (severe side
+effects), prednisone, budesonide, and most recently was
+recommended to start Remicade and was planning to initiate this
+soon. 
+ 
+Social History:
+___
+Family History:
+No history of liver disease, reports that his father was just
+diagnosed with Crohn's in his ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: ___ 1838 Temp: 98.0 PO BP: 119/75 R Sitting HR: 60 RR:
+16 O2 sat: 94% O2 delivery: Ra 
+GENERAL: NAD, pleasant 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, tender to palpation in RUQ with minimal
+hepatomegaly, tender in LUQ with palpable splenomegaly. 
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose. No
+asterixis. 
+SKIN: warm and well perfused, no excoriations or lesions, no
+jaundice. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 2316)
+    Temp: 98.3 (Tm 98.7), BP: 106/68 (104-120/68-76), HR: 55
+(55-64), RR: 18 (___), O2 sat: 97% (95-97), O2 delivery: RA,
+Wt: 170.4 lb/77.29 kg  
+GENERAL: NAD, pleasant 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera
+NECK: supple, no LAD, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, soft, non-tender to palpation in all 4
+quadrants 
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose. No
+asterixis. 
+SKIN: warm and well perfused, no excoriations or lesions, no
+jaundice. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 10:13AM   WBC-9.1 RBC-4.80 HGB-14.7 HCT-42.6 MCV-89 
+MCH-30.6 MCHC-34.5 RDW-13.4 RDWSD-43.9
+___ 10:13AM   NEUTS-81.6* LYMPHS-7.2* MONOS-10.3 EOS-0.3* 
+BASOS-0.3 IM ___ AbsNeut-7.44* AbsLymp-0.66* AbsMono-0.94* 
+AbsEos-0.03* AbsBaso-0.03
+___ 10:13AM   GLUCOSE-108* UREA N-11 CREAT-1.1 SODIUM-141 
+POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-20* ANION GAP-16
+___ 10:13AM   ALT(SGPT)-992* AST(SGOT)-421* ALK PHOS-418* 
+TOT BILI-2.7* DIR BILI-2.0* INDIR BIL-0.7
+___ 10:13AM   ALBUMIN-4.1 CALCIUM-9.7 PHOSPHATE-4.3 
+MAGNESIUM-2.1
+___ 10:13AM   AMA-NEGATIVE Smooth-NEGATIVE
+___ 10:13AM   ___ CRP-11.7*
+___ 10:13AM   IgG-693* IgA-260 IgM-46
+
+DISCHARGE LABS
+==============
+___ 06:38AM BLOOD WBC-9.3 RBC-5.03 Hgb-15.5 Hct-45.7 MCV-91 
+MCH-30.8 MCHC-33.9 RDW-13.2 RDWSD-43.9 Plt ___
+___ 06:38AM BLOOD ___ PTT-31.4 ___
+___ 06:38AM BLOOD Glucose-119* UreaN-16 Creat-1.0 Na-141 
+K-4.8 Cl-103 HCO3-26 AnGap-12
+___ 06:38AM BLOOD ALT-441* AST-155* AlkPhos-375* 
+TotBili-1.1
+___ 06:38AM BLOOD Calcium-9.5 Phos-4.2 Mg-2.1
+
+RELEVANT IMAGING
+=================
+RUQ U/S ___
+Normal abdominal ultrasound. No evidence of biliary dilatation, 
+splenomegaly, or main portal vein thrombosis.
+
+OSH MRCP ___
+Liver: the liver demonstrates a stable configuration with 
+hypertrophy of the left hepatic lobe and a shrunken right 
+hepatic lobe. There is diffuse fatty infiltration of the liver. 
+No enhancing mass. The spleen is within normal limits. 
+Biliary: Gallbladder is nondistended. common bile duct is not 
+dilated measuring approximate 5mm in diameter. No filling 
+defects to suggest choledocholithiasis. No identifiable areas of 
+structuring or bleeding along the CBD. The intrahepatic biliary 
+ducts are suboptimally evaluated on MRCP images ___ motion 
+artifact. No definite areas of structuring or beading of the 
+duct within the confined of motion artifact. 
+IMPRESSION: 
+stable appearance of liver from ___
+Mild fatty infiltration of the liver
+Common bile duct within normal limits measuring 5mm. MRCP images 
+are considered suboptimal secondary to respiratory motion 
+artifact. No definite areas of structuring or beading of the 
+biliary ducts within the confines of motion artifact. Follow up 
+ERCP is a consideration to better evaluate the bile ducts. 
+
+MRCP ___
+1. T1 hyperintense filling defects within common hepatic duct, 
+consistent with clot or stones, with mild left intrahepatic 
+biliary ductal dilatation.  No irregularity of the biliary tree 
+to suggest large duct PSC. 
+2. Marked atrophy of the right hepatic lobe with compensatory 
+hypertrophy of the left hepatic lobe and caudate. 
+3. Moderate distention of the gallbladder with mild wall edema 
+and mucosal 
+irregularity, as well as edema tracking along the course of the 
+CBD.  Findings raise concern for acute cholecystitis.  
+Correlation with clinical symptoms is recommended, and HIDA 
+could be considered for further evaluation. 
+4. 1.9 cm cystic lesion along the base of the cecum, likely an 
+appendiceal 
+mucocele.  Surgical consultation (outpatient follow-up) is 
+recommended. 
+  
+RECOMMENDATION(S): 
+1. Consider HIDA scan for further evaluation of possible early 
+acute 
+cholecystitis. 
+2. Surgical consultation (outpatient follow-up) is recommended 
+for probable appendiceal mucocele. 
+
+HIDA SCAN ___
+Normal hepatobiliary scan.  No evidence of acute cholecystitis.
+
+MR ENTEROGRAPHY ___
+No evidence of active inflammatory bowel disease.
+
+PROCEDURES
+==========
+COLONOSCOPY ___
+Normal mucosa was noted in the whole colon. Multiple cold 
+forceps biopsies were performed for histology in the whole 
+colon. Few small ulcerations with no bleeding were noted in the 
+terminal ileum. Multiple cold forceps biopsies were performed 
+for histology. A 2x2 cm raised lesion over appendiceal orifice 
+which appeared submucosal was carefully evaluated. Multiple cold 
+forceps biopsies were performed for histology. A single sessile 
+4mm non-bleeding polyp of benign appearance was found in the 
+rectum. A single-piece polypectomy was performed using a cold 
+forceps. The polyp was completely removed and retrieved.
+ 
+Brief Hospital Course:
+___ year old man with history of Crohn's disease (recently 
+started on prednisone for endoscopic e/o disease), reported 
+EToH/NASH cirrhosis (followed by Dr. ___ without 
+prior decompensation, recent diagnosis of PSC after 
+hospitalization at ___ (where he underwent MRCP 
+and biopsy), who presented with worsening abdominal pain, 
+anorexia, dark urine, weight loss, and labs with mixed 
+cholestatic pattern/hepatitis. He was treated for suspected 
+cholangitis, and given stability to mild improvement in his LFTs 
+while inpatient and improvement in his abdominal pain, he was 
+discharged for further workup as an outpatient.
+
+TRANSITIONAL ISSUES
+===================
+[] Please obtain pathology slides from his recent liver biopsy 
+at ___. The slides were sent to ___ for read, but we 
+would like our own ___ pathologists to review the slides to 
+help clarify the etiology of his underlying liver disease.
+-- BWH path needed fax from ___ for permission to forward 
+the slides (this was done, faxed to ___, attn: ___ or 
+___.
+-- ___ in the pathology department at ___ can be reached at 
+___. She currently has the slides but could not be 
+reached despite multiple attempts to call while the patient was 
+in house.
+-- If these slides cannot be obtained, he will likely need a 
+repeat liver biopsy.
+-- He carries diagnosis of ?ETOH/NASH/autoimmune cirrhosis 
+(though conflicting data to support), ?PSC vs autoimmune 
+hepatitis. Suspect that biopsy (as above) will help with 
+diagnostic uncertainty.
+
+[] He was discharged on cipro and flagyl for suspected 
+cholangitis, with plans for a 14 day total course (last day 
+___.
+
+[] The patient will need repeat liver function tests within 1 
+week of discharge. The results will be faxed to the ___ liver 
+center.
+
+ACTIVE ISSUES
+=============
+#PSC +/- autoimmune hepatitis 
+#Suspected cholangitis 
+Patient with hx of recurrent episodes of RUQ pain, jaundice, 
+anorexia, first in ___, subsequently in ___ and now again in 
+last month. No IVDU, recent travel, other exposures; no alcohol 
+use since ___. He reported with these symptoms recently to ___. 
+___ where he was found to have elevated transaminases to 
+1000s, and imaging + biopsy findings consistent with PSC. After 
+discharge from ___ he developed worsening symptoms and so 
+re-presented here for further care. On admission, he had mild 
+RUQ pain, but was without jaundice, asterixis, nausea, or 
+vomiting. MRCP on ___ showed no irregularity of the biliary 
+tree to suggest large duct PSC; but marked atrophy of the right 
+hepatic lobe with compensatory hypertrophy of the left hepatic 
+lobe and caudate. Autoimmune workup was notable for low IgG and 
+IgM, otherwise with normal IgA, and negative ___, AMA, ___, 
+ALKM. He was treated for suspected cholangitis, and his LFTs 
+mildly improved (though were still elevated at time of 
+discharge), and his pain significantly improved. He was 
+discharged on cipro/flagyl, with plans for a ___espite multiple attempts to obtain the pathology slides 
+from his recent admission to ___ (which were subsequently 
+sent to ___), we were unable to reach the pathologist at ___ 
+currently in possession of the slides. Given improvement in his 
+symptoms and stability in his LFTs, he was discharged with plans 
+for close outpatient follow up. If the slides cannot be 
+obtained, he will likely need a repeat liver biopsy for further 
+diagnostic clarification.
+
+#Reported Hx of Alcoholic/NASH Cirrhosis
+Per OSH records, patient has a history of fatty liver disease 
+and
+cirrhosis. Per OSH notes, "Liver biopsy ___ without cirrhosis
+F2/4, more consistent with acute alcoholic hepatitis. Fibroscore
+showed F4 fibrosis. More recent fibroscore with minimal 
+steatosis
+and minimal fibrosis." Will need to obtain slides from recent 
+liver biopsy, as above. If he does truly carry a diagnosis of 
+cirrhosis, he has no known prior decompensations. No ETOH use 
+since ___, though he was previously drinking 3 beers most days, 
+and occasionally ___ beers on weekends for ___ years.
+
+#Crohn's Disease
+Diagnosed at age ___, reportedly treated with prednisone at 
+that time with complete remission of symptoms. Per patient and 
+his wife, apart from a flare in ___, he has otherwise been 
+without any symptoms from his Crohn's (has normal, non bloody 
+bowel movements, no abdominal pain). Despite this he has had 
+evidence of Crohn's on multiple colonoscopies and as a result 
+has been on various immunosuppressants- previously trialed on 
+Pentasa (no benefit), switched to azathioprine (severe side 
+effects), prednisone, budesonide, and most recently was 
+recommended to start Remicade and was planning to initiate this 
+soon. Colonoscopy ___ showed small distal ileal ulcerations, 
+but normal colon. MR enterography showed no evidence of active 
+inflammation. His prednisone (which had been started a week 
+before admission) was stopped this admission, and at the time of 
+discharge, arrangements were being made for him to be seen in 
+outpatient ___ clinic.
+
+#Appendiceal mucocele seen on MRCP
+Seen by CRS, they will schedule elective appendectomy as an 
+outpatient, given potential for malignant transformation in the 
+future.
+
+CORE MEASURES:
+==============
+# CODE: FULL (confirmed)
+# CONTACT: HCP is wife ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*20 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 
+eight (8) hours Disp #*30 Tablet Refills:*0 
+3.  TraMADol 50 mg PO Q6H:PRN Pain - Severe Duration: 4 Days 
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*12 Tablet Refills:*0 
+4.Outpatient Lab Work
+Please obtain CBC, coags, BMP, and LFTs by ___ and fax 
+results to the ___ at ___.
+ICD10: ___.0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS 
+================= 
+Acute cholangitis 
+Acute hepatitis 
+ 
+SECONDARY DIAGNOSES 
+=================== 
+Crohn's disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to participate in your care.
+
+WHY WAS I ADMITTED?
+You were having abdominal pain, and had abnormal liver function 
+tests.
+
+WHAT HAPPENED WHILE I WAS HERE?
+
+- You were treated for an infection in your bile system (called 
+cholangitis) with antibiotics.
+
+- You had an MRI of your bile system, which showed that you have 
+an "appendiceal mucocele", which should be removed after you 
+leave the hospital (as this has a risk of becoming cancerous in 
+the future).
+
+- You had a colonoscopy which showed some small ulcerations at 
+the end of your small intestines, but your colon looked normal. 
+Some samples were sent for biopsy.
+
+- You had an MRI of your bowels, which showed no signs of active 
+inflammatory bowel disease in your GI tract. We stopped your 
+prednisone, and you should not restart it when you leave the 
+hospital.
+
+WHAT SHOULD I DO WHEN I GET HOME?
+
+- Please continue taking your antibiotics as prescribed. You 
+should continue taking the ciprofloxacin and metronidazole 
+(Flagyl) for 10 more days as directed, until all pills are gone.
+
+- Please see the ___, the IBD center, and the 
+colorectal surgery team as an outpatient when you leave the 
+hospital. We are working to schedule these appointments for you.
+
+- Please call the ___ at ___ if you develop 
+worsening abdominal pain or new jaundice, and consider coming 
+back to the emergency room.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Liver Team
+ 
+Followup Instructions:
+___

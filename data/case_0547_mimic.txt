@@ -1,0 +1,1191 @@
+===== DISCHARGE NOTE =====
+note_id=14139501-DS-5 | hadm_id=21291625
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+heparin / morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+Upper Endoscopy
+Capsule Endoscopy
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with a history HTN, diabetes, recurrent 
+DVTs
+on Coumadin, CKD not yet on HD (awaiting renal transplant),
+adrenal hyperplasia b/l adrenelectomy, and recent colonoscopy
+with polyp removal presenting with BRBPR and left-sided flank
+pain. 
+
+He reports rectal bleeding started around 1800 ___, and he has
+had about 8 bloody bowel movements since. He had a colonoscopy
+___ with polyp removal c/b BRBPR at that time. He also notes
+Left-sided flank pain radiating to his umbilicus, ___ and
+constant. He says this feels like his previous kidney stone 
+pain.
+Also reports nausea and palpitations, but denies vomiting, chest
+pain, SOB.
+
+Of note, he was recently admitted for similar complaints (___) at which time a colonoscopy was done that showed no source
+of bleeding. His abdominal pain at that time was attributed to
+post-polypectomy electrocoagulation syndrome.
+His colonoscopy prior to this admission on ___ did show tubular
+and sessile serrated adenomas which were removed.
+
+In the ED, initial VS were: 98.7 80 193/91 20 97% RA
+Exam notable for: 
+CV: RRR, no mrg 
+Pulm: CTAB 
+Abd: Soft, diffuse mild pain to palpation, +CVA tenderness on
+left. Rectal exam w/o stool in rectal vault, no obvious 
+bleeding,
+no external hemorrhoids. 
+Labs showed: Hgb 10.9 -> 9.4, INR 3.0, Cr 5.0 (near baseline)
+Imaging showed: 
+-CT A/P w/o contrast:
+1. Unchanged bilateral punctate nonobstructing renal calculi. No
+hydronephrosis or calculi.
+2. Diverticulosis without evidence of diverticulitis. No 
+specific
+findings to
+explain bright-red blood per rectum.
+3. Unchanged left renal cysts, 1 of which may have a septation
+and may be
+evaluated on non emergent ultrasound.
+4. Diffuse hepatic steatosis.
+Consults: GI
+Patient received: IV PPI, 1L LR, dilaudid 0.5 x 3, fludrocort,
+hydrocort, IV vitamin K and tylenol
+Transfer VS were: 98.2 81 156/84 16 100% RA
+
+On arrival to the floor, patient reports the above history.  He
+is in ___ abdominal pain and asks for something stronger than
+tylenol.  He had two bowel movements (dark with bright red blood
+on top) this morning.  He denies fevers, chills, dysuria,
+hematuria, chest pain, SOB, nausea/vomiting. 
+ 
+Past Medical History:
+- CKD Stage V undergoing evaluation for renal transplantation 
+(possible LRRT with brother as donor)
+- refractory HTN ___ adrenal hyperplasia
+- chronic herpes meningitis on valacyclovir
+- recurrent DVT on lifelong AC
+- h/o LLE compartment syndrome c/b rhabdomyolysis s/p 
+fasciotomies
+- pre-diabetes
+- h/o nephrolithiasis
+
+- s/p bilateral open adrenalectomy for refractory HTN 
+(?pheochromocytoma), in childhood and at age ___ (___ ___
+- s/p lap appendectomy ___ ___
+- s/p L shoulder surgery ___
+- s/p LLE fasciotomies for compartment syndrome (___)
+- s/p multiple b/l knee surgeries
+ 
+Social History:
+___
+Family History:
+- father deceased h/o colon cancer with brain metastases
+- mother deceased from COPD
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS:  ___ 1026 Temp: 97.6 PO BP: 133/79 L Lying HR: 77 RR: 
+18
+O2 sat: 94% O2 delivery: Ra 
+GENERAL: Overweight Caucasian male, tired and uncomfortable
+appearing.  
+HEENT: Sclerae anicteric, MMM.
+CV: RRR, normal S1/S2, no murmurs, gallops, or rubs
+PULM: Lungs CTAB
+GI: abdomen soft, nondistended, diffusely tender (worst in
+RUQ/LUQ) without rebound or guarding.  No hepatosplenomegaly.  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ dorsalis pedis pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+  
+
+DISCHARGE PHYSICAL EXAM
+24 HR Data (last updated ___ @ 822)
+    Temp: 98.0 (Tm 98.8), BP: 156/78 (156-171/73-99), HR: 56
+(56-65), RR: 18 (___), O2 sat: 97% (93-97), O2 delivery: Ra  
+GENERAL: Overweight Caucasian male, sitting up in NAD
+HEENT: Sclerae anicteric, MMM.
+CV: RRR, normal S1/S2, no murmurs, gallops, or rubs
+PULM: Lungs CTAB
+GI: abdomen soft, nondistended, mildly tender in LUQ/LLQ with no
+rebound or guarding.  No hepatosplenomegaly.  
+EXTREMITIES: no cyanosis, clubbing, trace edema bilaterally
+PULSES: 2+ dorsalis pedis pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 02:24AM BLOOD WBC-8.5 RBC-3.08* Hgb-9.4* Hct-27.5* 
+MCV-89 MCH-30.5 MCHC-34.2 RDW-14.6 RDWSD-46.9* Plt ___
+___ 10:05PM BLOOD ___ PTT-56.2* ___
+___ 10:05PM BLOOD Glucose-155* UreaN-55* Creat-5.0* Na-147 
+K-4.2 Cl-109* HCO3-20* AnGap-18
+___ 06:17AM BLOOD Calcium-8.2* Phos-5.6* Mg-1.8
+
+PERTINENT INTERVAL LABS
+========================
+___ 02:24AM BLOOD WBC-8.5 RBC-3.08* Hgb-9.4* Hct-27.5* 
+MCV-89 MCH-30.5 MCHC-34.2 RDW-14.6 RDWSD-46.9* Plt ___
+___ 06:17AM BLOOD WBC-9.2 RBC-2.68* Hgb-7.9* Hct-24.2* 
+MCV-90 MCH-29.5 MCHC-32.6 RDW-14.5 RDWSD-47.0* Plt ___
+___ 02:08PM BLOOD WBC-7.1 RBC-2.34* Hgb-6.9* Hct-21.1* 
+MCV-90 MCH-29.5 MCHC-32.7 RDW-14.6 RDWSD-48.0* Plt ___
+___ 08:59PM BLOOD WBC-8.6 RBC-2.92* Hgb-8.6* Hct-25.7* 
+MCV-88 MCH-29.5 MCHC-33.5 RDW-14.3 RDWSD-45.7 Plt ___
+___ 01:43AM BLOOD WBC-10.7* RBC-2.77* Hgb-8.3* Hct-25.2* 
+MCV-91 MCH-30.0 MCHC-32.9 RDW-14.3 RDWSD-47.9* Plt ___
+___ 04:53AM BLOOD WBC-9.2 RBC-2.64* Hgb-7.8* Hct-24.0* 
+MCV-91 MCH-29.5 MCHC-32.5 RDW-14.6 RDWSD-48.0* Plt ___
+___ 03:20PM BLOOD WBC-7.7 RBC-2.63* Hgb-7.7* Hct-23.6* 
+MCV-90 MCH-29.3 MCHC-32.6 RDW-14.6 RDWSD-46.8* Plt ___
+___ 04:59AM BLOOD WBC-6.6 RBC-2.47* Hgb-7.5* Hct-22.0* 
+MCV-89 MCH-30.4 MCHC-34.1 RDW-14.6 RDWSD-46.9* Plt ___
+___ 03:30PM BLOOD WBC-6.2 RBC-2.30* Hgb-7.1* Hct-21.1* 
+MCV-92 MCH-30.9 MCHC-33.6 RDW-14.6 RDWSD-48.7* Plt ___
+___ 06:45AM BLOOD WBC-7.0 RBC-2.21* Hgb-6.9* Hct-20.5* 
+MCV-93 MCH-31.2 MCHC-33.7 RDW-14.7 RDWSD-50.0* Plt ___
+___ 05:45PM BLOOD WBC-8.2 RBC-2.73* Hgb-8.2* Hct-25.1* 
+MCV-92 MCH-30.0 MCHC-32.7 RDW-15.8* RDWSD-53.0* Plt ___
+___ 03:45PM BLOOD WBC-7.7 RBC-2.62* Hgb-7.7* Hct-23.8* 
+MCV-91 MCH-29.4 MCHC-32.4 RDW-16.0* RDWSD-52.3* Plt ___
+___ 06:02AM BLOOD WBC-5.8 RBC-2.29* Hgb-6.6* Hct-21.1* 
+MCV-92 MCH-28.8 MCHC-31.3* RDW-15.9* RDWSD-52.5* Plt ___
+___ 07:52PM BLOOD WBC-6.1 RBC-2.48* Hgb-7.3* Hct-22.3* 
+MCV-90 MCH-29.4 MCHC-32.7 RDW-15.6* RDWSD-50.7* Plt ___
+___ 04:41AM BLOOD WBC-7.9 RBC-2.58* Hgb-7.4* Hct-23.1* 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-15.5 RDWSD-50.1* Plt ___
+___ 06:46PM BLOOD WBC-7.7 RBC-2.77* Hgb-8.2* Hct-25.0* 
+MCV-90 MCH-29.6 MCHC-32.8 RDW-15.7* RDWSD-51.0* Plt ___
+___ 05:05AM BLOOD WBC-7.7 RBC-2.70* Hgb-8.1* Hct-24.1* 
+MCV-89 MCH-30.0 MCHC-33.6 RDW-15.5 RDWSD-49.7* Plt ___
+___ 09:15PM BLOOD WBC-7.5 RBC-2.73* Hgb-8.2* Hct-24.3* 
+MCV-89 MCH-30.0 MCHC-33.7 RDW-15.4 RDWSD-49.1* Plt ___
+___ 05:53AM BLOOD WBC-6.8 RBC-2.68* Hgb-7.9* Hct-23.8* 
+MCV-89 MCH-29.5 MCHC-33.2 RDW-15.4 RDWSD-49.5* Plt ___
+___ 03:30PM BLOOD WBC-7.2 RBC-2.74* Hgb-8.0* Hct-24.4* 
+MCV-89 MCH-29.2 MCHC-32.8 RDW-15.6* RDWSD-49.1* Plt ___
+___ 06:25AM BLOOD WBC-6.9 RBC-2.82* Hgb-8.2* Hct-24.8* 
+MCV-88 MCH-29.1 MCHC-33.1 RDW-15.1 RDWSD-48.2* Plt ___
+___ 03:24PM BLOOD WBC-7.7 RBC-2.78* Hgb-8.3* Hct-24.6* 
+MCV-89 MCH-29.9 MCHC-33.7 RDW-15.2 RDWSD-48.8* Plt ___
+
+___ 06:45AM BLOOD Ret Aut-2.6* Abs Ret-0.06
+___ 05:11AM BLOOD %HbA1c-6.6* eAG-143*
+___ 06:45AM BLOOD calTIBC-260 Ferritn-72 TRF-200
+___ 04:59AM BLOOD Triglyc-484*
+
+IMAGING
+=======
+
+___ CT ABDOMEN PELVIS
+IMPRESSION:   
+1. Unchanged bilateral punctate nonobstructing renal calculi.  
+No 
+hydronephrosis or obstructing ureteric calculi. 
+2. Diverticulosis without evidence of diverticulitis.  No 
+specific findings to explain bright-red blood per rectum. 
+3. Unchanged left renal cysts, one of which may have a septation 
+and may be evaluated on non emergent renal ultrasound. 
+4. Diffuse hepatic steatosis. 
+
+___ UPPER ENDOSCOPY
+1. normal stomach
+2. normal duodenum
+3. erythema in the gastroesophageal junction compatible with 
+esophagitis, other
+
+___ CAPSULE ENDOSCOPY
+Summary:
+- Normal capsule endoscopy
+- Poor prep in the proximal jejunum. Lesions could have been
+missed
+
+___ CT ABDOMEN PELVIS 
+IMPRESSION:   
+1. No retroperitoneal hematoma. 
+2. Stable nonhemorrhagic trace pericardial effusion. 
+3. Stable bilateral punctate nonobstructing renal stones. 
+4. Diverticulosis without evidence of acute diverticulitis. 
+5. Hepatic steatosis. 
+6. Stable left renal cysts, one of which may have a septation. 
+This could be further evaluated on nonemergent renal ultrasound. 
+
+
+DISCHARGE LABS
+==============
+___ 06:34AM BLOOD WBC-6.2 RBC-3.06* Hgb-8.9* Hct-27.0* 
+MCV-88 MCH-29.1 MCHC-33.0 RDW-15.0 RDWSD-48.8* Plt ___
+___ 06:34AM BLOOD ___
+___ 06:34AM BLOOD Glucose-151* UreaN-48* Creat-5.0* Na-145 
+K-3.8 Cl-106 HCO3-24 AnGap-15
+___ 06:34AM BLOOD Calcium-8.7 Phos-4.3 Mg-1.8
+ 
+Brief Hospital Course:
+___ is a ___ with a history HTN, paroxysmal AFib, 
+diabetes, recurrent DVTs on Coumadin, CKD (awaiting renal 
+transplant), adrenal hyperplasia b/l adrenelectomy, recent 
+colonoscopy with polyp removal presenting with BRBPR and 
+left-sided flank pain. Presented with a drop in his hemoglobin 
+from 9.4 to 7.9 (baseline in the ___ range), and punctate 
+nonobstructing kidney stones. Workup negative for bleeding 
+source. 
+
+ACUTE ISSUES:
+===============
+#BRBPR:
+#Anemia: Pt presented with recurrent BRBPR with supratherapeutic 
+INR. Differential initially included hemorrhoids, AVMs vs. less 
+likely diverticular bleeding
+or polyps. INR reversed w/ IV vitamin K 10 mg in the ED. 
+Warfarin was subsequently held. He remained HD stable throughout 
+his hospital course, and initially did not have any BRBPR after 
+admission. In total he required 3 units PRBC. Given hemodynamic 
+stability and 2 recent colonoscopies with no bleeding source 
+prior to admission, GI team deferred colonoscopy. He had upper 
+endoscopy and capsule endoscopy with no evidence of bleeding. 
+Retic count elevated, iron slightly low. CT abd/pelv with no e/o 
+RP bleed or other bleeding source. Hemolysis labs unremarkable. 
+He was started on 8000 units of Epogen three times weekly given 
+CKD. On ___ pt was being prepped for discharge but had one 
+episode of hematochezia, so stayed overnight. HH remained 
+stable. Colorectal surgery was consulted for evaluation of 
+hemorrhoids, and deferred intervention given no active bleeding. 
+Patient was discharged with PCP and GI followup, with plan to 
+reinitiate warfarin without bridging. He was counseled on 
+symptoms of GI bleed and when to return to the hospital. 
+Hemoglobin on discharge 8.9.
+
+#Anticoagulation:
+#?HIT: 
+# Multiple DVT on lifelong anticoagulation: We have no 
+documented evidence of HIT, but pt and wife say he has had 
+issues with low platelets and heparin in the past. However, his 
+wife is positive he has been on lovenox since having the 
+platelet issue after being on a heparin gtt. Hematology progress 
+note from ___ under
+external records tab says patient at some point was 
+anticoagulated with fondaparinux due to question sensitivity to 
+heparin in the past. THis note also recommends lifelong 
+anticoagulation I/s/o multiple DVTs, although hypercoagulable
+workup was negative and all 3 DVTs had potential triggers (L 
+calf trauma, immobilization I/s/o meningitis, long car trip). 
+Given uncertainty re: heparin allergy/HIT, heparin products were 
+avoided. We discussed starting an argatroban drip with patient 
+and wife once his blood counts were stable to see if he would 
+re-bleed, but they deferred and preferred to restart patient's 
+warfarin without a bridge. We did send a PF4 antibody, which was 
+within normal limits but does not rule HIT out. 
+
+#L flank pain: Noted to have small, nonobstructing calculi on 
+CT, but otherwise no radiographic findings to explain symptoms. 
+UA with small blood. No e/o CT scan from ___ of any concerning 
+pathology. Pt has a h/o kidney stones, and he said pain felt 
+similar. He required several days of IV narcotics and requested 
+IV fluids. After several days he says he passed a small stone 
+(not witnessed by RN or MD), and subsequently did not require 
+any further IV narcotics. Continued home bentyl, pregablin, 
+amitriptyline. 
+
+#AF: Pt with episode of AF with RVR evening of ___, does not 
+appear in ___ medical history but he says he has had it 
+previously, "four times in my life". Now back to NSR. 
+CHA2DS2-VASc 4. Warfarin was held I/s/o bleed. Continued home 
+propranolol, did not switch to metoprolol given paroxysmal 
+nature of AF and the fact that pt has been on propranolol for 
+years with good BP control. Warfarin restarted on discharge. If 
+patient cannot tolerate anticoagulation going forward because of 
+recurrent GI bleed, may consider ___ procedure to reduce 
+stroke risk with AFib. 
+
+# HTN ___ adrenal hyperplasia
+# Adrenal insufficiency: BP meds were initially held i/s/o GI 
+bleed. Pt subseqently with repeated episodes of HTN with 
+SBP>180. He says he is typically much better controlled at home. 
+Improved with resolution of complete home regimen as below:
+- Continue amLODIPine 10 mg PO DAILY 
+- Continue CloNIDine 0.3 mg PO BID 
+- Continue Fludrocortisone Acetate 0.2 mg PO BID 
+- restarted home Propranolol 80 mg PO BID
+- Continue Hydrocortisone 20 mg PO QAM 
+- Continue Hydrocortisone 10 mg PO QHS 
+
+CHRONIC ISSUES:
+===============
+
+# CKD Stage V undergoing evaluation for renal transplantation 
+(possible LRRT with brother as donor). No current indications
+for RRT. ___ remained stable. 
+
+TRANSITIONAL ISSUES
+===================
+[] if patient cannot tolerate anticoagulation going forward, may 
+be candidate for Watchman procedure to reduce stroke risk with 
+AFib. 
+[] please check CBC at upcoming PCP appointment to ensure 
+stability (hemoglobin on discharge 8.9)
+
+#CODE: Full (presumed)
+#CONTACT: Name of health care proxy: ___ 
+Relationship: Spouse 
+Phone number: ___ 
+Cell phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amitriptyline 10 mg PO QHS 
+2. amLODIPine 10 mg PO DAILY 
+3. CloNIDine 0.3 mg PO BID 
+4. Fludrocortisone Acetate 0.2 mg PO BID 
+5. Hydrocortisone 20 mg PO QAM 
+6. Hydrocortisone 10 mg PO QHS 
+7. Multivitamins 1 TAB PO DAILY 
+8. Pantoprazole 40 mg PO Q12H 
+9. Pregabalin 100 mg PO BID 
+10. Propranolol 80 mg PO BID 
+11. Warfarin 5 mg PO 1X/WEEK (___) 
+12. Warfarin 2.5 mg PO 6X/WEEK (___) 
+13. ValACYclovir 500 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amitriptyline 10 mg PO QHS  
+2.  amLODIPine 10 mg PO DAILY  
+3.  CloNIDine 0.3 mg PO BID  
+4.  Fludrocortisone Acetate 0.2 mg PO BID  
+5.  Hydrocortisone 20 mg PO QAM  
+6.  Hydrocortisone 10 mg PO QHS  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Pantoprazole 40 mg PO Q12H  
+9.  Pregabalin 100 mg PO BID  
+10.  Propranolol 80 mg PO BID  
+11.  ValACYclovir 500 mg PO DAILY  
+12.  Warfarin 5 mg PO 1X/WEEK (___)  
+13.  Warfarin 2.5 mg PO 6X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+GI Bleed
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had blood in your stool
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You received blood transfusions for low blood counts
+- You had an upper endoscopy and a capsule (camera) endoscopy 
+that did not show any bleeding
+- You were seen by the colorectal surgery team about your 
+hemorrhoids, and they did not feel you needed surgery 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- If you notice any further bleeding, please call your doctor or 
+go to the emergency department
+- Please make sure to go to your ___ appointment on 
+___ at 2pm
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14139501-DS-3 | hadm_id=21478688
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+heparin / morphine
+ 
+Attending: ___
+ 
+___ Complaint:
+acutely worsening abdominal pain s/p screening colonoscopy and 
+polypectomy
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with h/o recurrent DVT on coumadin, 
+refractory HTN ___ adrenal hyperplasia s/p b/l adrenalectomy, 
+Stage V CKD undergoing renal transplant evaluation now p/w 
+acutely worsening abdominal pain s/p screening colonoscopy and 
+polypectomy. Patient underwent screening colonoscopy this AM as 
+part of his surgical evaluation for renal transplantation. He 
+underwent multiple polypectomies for several benign appearing 
+sessile polyps at the appendiceal orifice, cecum, transverse and 
+sigmoid colon. Shortly after procedure completion, he began 
+developing aching RLQ abdominal pain that has since 
+significantly worsened and has now migrated throughout his lower 
+abdomen. Given concern for colonic perforation, he was 
+immediately sent to the ED for imaging.
+
+On arrival, patient was afebrile and hemodynamically stable 
+though complained of significant abdominal pain, nausea and some 
+SOB. His initial CXR was negative for free air and labs were 
+notable for a mild leukocytosis of 12.7 and baseline Cr of 5.0. 
+Colorectal Surgery has been asked to evaluate the patient for 
+possible colonic perforation given concerning abdominal exam.
+ 
+Past Medical History:
+- CKD Stage V undergoing evaluation for renal transplantation 
+(possible LRRT with brother as donor)
+- refractory HTN ___ adrenal hyperplasia
+- chronic herpes meningitis on valacyclovir
+- recurrent DVT on lifelong AC
+- h/o LLE compartment syndrome c/b rhabdomyolysis s/p 
+fasciotomies
+- pre-diabetes
+- h/o nephrolithiasis
+
+- s/p bilateral open adrenalectomy for refractory HTN 
+(?pheochromocytoma), in childhood and at age ___ (___ ___
+- s/p lap appendectomy ___ ___
+- s/p L shoulder surgery ___
+- s/p LLE fasciotomies for compartment syndrome (___)
+- s/p multiple b/l knee surgeries
+ 
+Social History:
+___
+Family History:
+- father deceased h/o colon cancer with brain metastases
+- mother deceased from COPD
+
+ 
+Physical Exam:
+At discharge:
+
+P/E:
+VS: VSS
+GEN: WD, WN in NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR, No JVD
+PULM:  normal excursion, no respiratory distress
+ABD: soft, moderately distended, tenderness to palpation RLQ,
+decreased from previous.
+EXT: WWP, no CCE, 2+ B/L radial
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+ 
+Pertinent Results:
+See OMR for all lab and imaging results.
+ 
+Brief Hospital Course:
+Summary: ___ h/o DVT on AC, adrenal hyperplasia s/p b/l 
+adrenalectomy, CKD awaiting renal transplant p/w acute abdominal 
+pain s/p screening colonoscopy/polypectomy w/o perforation on 
+imaging. Treated with abx, bowel rest, fluids for possible 
+postpolypectomy electrocoagulation syndrome.
+
+Mr. ___ presented to the ED following screening colonoscopy 
+and polypectomy. A portable CXR and CT abd/pelvis were 
+subsequently obtained, with no signs of perforation. The patient 
+was started on IV zosyn while made NPO on IVF and bowel rest. 
+Over the next two days the patient's pain subsequently decreased 
+and he was started on a regular diet. He tolerated this well 
+with continued observation given his ___ medical issues and 
+current steroid treatment. 
+
+By HD 3 the patient was stable and prepared for discharge. He 
+was ambulating well, voiding, and his pain was greatly 
+diminished. He plans on following up with GI and his 
+___ clinic as he was restarted on Coumadin with a 110 
+mg daily Lovenox bridge prior to discharge for his hx of 
+recurrent DVTs. He has an appointment to follow up in 3 days 
+time. He will also be discharged with Augmentin for antibiotic 
+coverage for a seven day course. He may follow up with the 
+colorectal surgery clinic if any issues arise. At this time the 
+patient has expressed understanding and readiness for discharge. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fludrocortisone Acetate 0.2 mg PO BID 
+2. Hydrocortisone 20 mg PO QAM 
+3. Pregabalin 100 mg PO BID 
+4. Propranolol 80 mg PO BID 
+5. CloNIDine 0.3 mg PO BID 
+6. Warfarin 2.5 mg PO 6X/WEEK (___) 
+7. Hydrocortisone 10 mg PO QHS 
+8. Warfarin 5 mg PO 1X/WEEK (___) 
+9. amLODIPine 10 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. ValACYclovir 500 mg PO DAILY 
+12. Pantoprazole 40 mg PO Q12H 
+13. Amitriptyline 10 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 500 mg-125 mg 1 tablet(s) by 
+mouth Every twelve (12) hours (twice per day) Disp #*14 Tablet 
+Refills:*0 
+2.  Enoxaparin Sodium 110 mg SC Q24H 
+Discuss bridge with PCP-take until INR therapeutic 
+RX *enoxaparin 120 mg/0.8 mL ___ injection SC daily Disp #*10 
+Syringe Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+Decrease in dose and frequency as pain decreases. 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*10 Tablet Refills:*0 
+4.  Amitriptyline 10 mg PO QHS  
+5.  amLODIPine 10 mg PO DAILY  
+6.  CloNIDine 0.3 mg PO BID  
+7.  Fludrocortisone Acetate 0.2 mg PO BID  
+8.  Hydrocortisone 20 mg PO QAM  
+9.  Hydrocortisone 10 mg PO QHS  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  Pantoprazole 40 mg PO Q12H  
+12.  Pregabalin 100 mg PO BID  
+13.  Propranolol 80 mg PO BID  
+14.  ValACYclovir 500 mg PO DAILY  
+15.  Warfarin 2.5 mg PO 6X/WEEK (___)  
+16.  Warfarin 5 mg PO 1X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Possible postpolypectomy electrocoagulation syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital following a polypectomy with 
+concern for potential perforation. You were scanned without 
+evidence of perforation. You were given bowel rest, intravenous 
+fluids, and antibiotics. Your pain has subsequently improved 
+after conservative management. You are tolerating a regular 
+diet, passing gas and your pain is controlled with pain 
+medications by mouth.
+ 
+If you have any of the following symptoms please call the office 
+for advice or go to the emergency room if severe: increasing 
+abdominal distension, increasing abdominal pain, nausea, 
+vomiting, inability to tolerate food or liquids, prolonged loose 
+stool, or extended constipation.
+
+Please take your antibiotics for a total of 7 days.
+
+Please follow up with the colorectal surgery clinic if any 
+issues arise. You may reach us at ___.
+
+Please also follow up with your gastroenterologist Dr. ___ 
+___ PCP regarding this visit. Please continue to monitor your 
+INR as per your previous routine.
+
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14139501-DS-6 | hadm_id=23134035
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+morphine
+ 
+Attending: ___
+ 
+Chief Complaint:
+recurrent chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac cath: ___
+.
+___ Coronary Artery bypass Grafting x 2 (LIMA-LAD, SVG-RCA), 
+Valve-sparing aortic root replacement (30mm Valsalva graft), 
+MAZE procedure, ___ ligation
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ old male with end-stage
+renal disease, paroxysmal atrial fibrillation off of
+anticoagulation, recurrent DVTs, and recently abnormal screening
+coronary CT who is presenting with recurrent chest pains.
+
+Over the last 1 to 2 weeks, the patient has been having
+left-sided chest pains.  He thinks they are sometimes associated
+with an irregular heart rhythm, but sometimes they are not.  He
+thinks the chest pains may be worse when lying flat.  At times
+the chest pains wake him up from sleep.  We will have basic labs
+he has not been active recently as he just had a foreign body
+removed from the dorsum of his foot and is now on crutches. 
+However, he does not note any particular significance in chest
+pain severity when he is active.
+
+He notes no issues with medications.  His chest pain is also
+associated with some shortness of breath.
+
+Beyond issues noted above, Mr. ___ denies any worsening
+dyspnea, palpitations, syncope, claudication-type symptoms or
+transient neurologic issues.  All other ROS negative.
+
+ 
+Past Medical History:
+1. ESRD due to compartment syndrome/?rhabodmyolysis ___, now
+on ___ HD since ___ via right AVF (s/p 2 stents)
+2. 3-vessel CAD diagnosed by CTA, most severe in the RCA and OM1
+3. Ostial LAD aneurysm, aortic root aneurysm at the sinus of
+Valsalva
+4. Paroxysmal Atrial fibrillation - paroxysmal, diagnosed in
+___, currently not on anticoagulation due to GI bleeding
+5. Moderate aortic regurgitation
+6. Prior DVTs
+7. Adrenal insufficiency ___ bilateral adrenalectomy for
+bilateral adrenal hyperplasia now on hydrocortisone and
+fludrocortisone
+8. Hypertension
+ 
+Social History:
+___
+Family History:
+Parents both have hypertension. Brother had MI at age ___ and ___ 
+but was smoker. Father had atrial fibrillation, no SCD. 
+ 
+Physical Exam:
+ADMISSION PE:
+Vitals:
+BP: 127/75
+Heart Rate: 60
+O2 Saturation%: 96
+Weight: 243.4 (With Clothes; With Shoes)
+Weight: 243.41 lbs
+Appears comfortable.  Mood and affect appropriate.  JVP 6 cm and
+falls upon inspiration.  No carotid bruits. No thyromegaly.
+Regular rhythm, normal S1 and normally-split S2.  No S3/4 or
+pathological murmurs. Clear lungs. Soft, nontender abdomen
+without hepatomegaly.  No pedal edema.  Symmetric pedal pulses,
+no brachiofemoral delay.  Dorsum of left foot with prior 
+incision
+site for foreign body removal with no surrounding erythema,
+induration, or pus.
+
+EKG: Sinus bradycardia ___elay with no significant
+interval or ST abnormalities.  
+
+Discharge Exam: expired
+ 
+Pertinent Results:
+Echo ___
+CONCLUSION:
+The left atrial volume index is SEVERELY increased. The right 
+atrium is moderately enlarged. There is no
+evidence for an atrial septal defect by 2D/color Doppler. The 
+estimated right atrial pressure is ___ mmHg.
+There is moderate symmetric left ventricular hypertrophy with a 
+SEVERELY increased/dilated cavity. There is
+suboptimal image quality to assess regional left ventricular 
+function. Overall left ventricular systolic function is
+normal. Quantitative biplane left ventricular ejection fraction 
+is 60 % (normal 54-73%). There is no
+resting left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with normal free wall motion.
+Tricuspid annular plane systolic excursion (TAPSE) is normal. 
+The aortic sinus is moderately dilated with
+moderately dilated ascending aorta. The aortic arch is mildly 
+dilated with a mildly dilated descending aorta.
+The aortic valve leaflets (?#) are mildly thickened. There is no 
+aortic valve stenosis. There is at least
+moderate [2+] aortic regurgitation. The mitral valve leaflets 
+appear structurally normal with no mitral valve
+prolapse. There is trivial mitral regurgitation. The pulmonic 
+valve leaflets are normal. The tricuspid valve
+leaflets appear structurally normal. There is physiologic 
+tricuspid regurgitation. The pulmonary artery systolic
+pressure could not be estimated. There is a small pericardial 
+effusion. There are no 2D or Doppler
+echocardiographic evidence of tamponade.
+IMPRESSION: Suboptimal image quality. Moderately dilated 
+ascending aorta. At least moderate
+aortic regurgitation. Severely dilated left ventricle.
+.
+Carotid Ultrasound
+IMPRESSION:  
+  
+Right ICA <40%  stenosis. 
+Left ICA <40%  stenosis. 
+.
+
+ 
+Brief Hospital Course:
+Course on the medicine service ___
+In summary, Mr. ___ is a ___ year old male with adrenal
+insufficiency due to bilateral adrenalectomy for bilateral
+adrenal hyperplasia, paroxysmal atrial fibrillation off
+anticoagulation, recurrent DVT's (and possible history of HIT)
+who was admitted for progressive, stuttering chest pain over two
+weeks. Coronary angiogram (___) revealed multi-vessel CAD.
+
+# Multi-vessel coronary artery disease
+The patient presented with progressive, stuttering atypical 
+chest
+pain, with coronary angiogram demonstrating multi-vessel 
+coronary
+artery disease (aneurysmal proximal LAD + 70% lesion; 60% RCA
+lesion). No acute culprit lesion that clearly explains the new
+chest pain, though his syndrome could certainly be related to 
+his underlying obstructive CAD. Of note, TTE demonstrated LVEF
+60%, but severely dilated ___ 7.6cm) with 5.2cm asc. aorta and
+moderate aortic insufficiency. Carotis showed <40% stenosis of
+bilateral ICAs. Plan for surgical revascularization (+ AR
+replacement and AVR) on ___.
+- Aspirin 81mg daily
+- Atorvastatin 80mg daily
+- Continue home propranolol (pt. does not want to be 
+transitioned
+to more robust BP med e.g. carvedilol)
+- Goal HR 60-70's, Goal SBP<130
+- Start nitroglycerin drip PRN for chest pain.
+- Continue to hold plavix
+- Plan for surgical revascularization later this week (+ aortic
+root replacement/AVR)
+- **He will require stress dose steroids prior to OR given
+adrenal insufficiency --> will coordinate with CT surgery**
+
+# Aortopathy with aortic insufficiency
+He has an aortic root aneurysm (5.2cm) and moderate AR per
+report. 
+- Surgery ___
+
+# Paroxysmal atrial fibrillation
+Not anticoagulated given history of bleed. Briefly flipped in
+afib while on HD, now back in sinus rhythm
+- Readdress post surgery
+
+# History of ?HIT 
+Given concern for prior ?HIT, consulted hematology as patient
+will require anticoagulation during cardiopulmonary bypass.-
+Appreciate hematology recommendations.
+
+# ESRD 
+-Continue scheduled HD
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+Course on Cardiac Surgery service ___
+
+The patient was brought to the Operating Room on ___ where 
+he underwent CABG x 2, valve sparing Aortic Root replacement, 
+Maze, ___ ligation with Dr. ___.  
+Initially, had only LIMA-LAD graft, but noted to have
+RV dysfunction coming off CPB and had RCA graft placed. Course 
+was still complicated coming off CPB with cardiogenic shock, 
+vasoplegia, bleeding, as well as episodes of Vfib. Was left with 
+open chest and taken to the ICU. Hyperkalemic, started on CVVH 
+through left groin vascath. Ventricular fibrillation on arrival 
+requiring shock and amiodarone. On milrinone for RV support, 
+multiple pressors and pacing in vasoplegic and cardiogenic 
+shock. Lactate continued to rise.
+TEE performed which revealed severe RV failure with preserved LV 
+function.  
+RVAD placed at bedside by Dr. ___.  Continued to require 
+significant support. 
+Lactate continued to rise- up to 15mmol/L. ACS consulted for 
+consideration of ex-lap.
+Family present at bedside. On discussion among family, 
+Intensivist team, Dr. ___, Heart Failure- family 
+declined ex-lap. Decision made to invoke comfort measures. Mr. 
+___ expired at 16:49 with his family by his bedside.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fludrocortisone Acetate 0.2 mg PO QAM 
+2. Hydrocortisone 20 mg PO QAM 
+3. Pregabalin 100 mg PO BID 
+4. Propranolol 80 mg PO BID 
+5. CloNIDine 0.2 mg PO BID 
+6. Amiodarone 200 mg PO QAM 
+7. Multivitamins 1 TAB PO QAM 
+8. rOPINIRole 1 mg PO QPM 
+9. ValACYclovir 500 mg PO QAM 
+10. melatonin 10 mg oral QHS:PRN 
+11. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+12. Clopidogrel 75 mg PO QAM 
+13. Pantoprazole 40 mg PO BID 
+14. Cephalexin 500 mg PO Q12H 
+15. Hydrocortisone 10 mg PO QPM 
+16. Docusate Sodium 200 mg PO BID 
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+Aortic Insufficiency
+Aortic Root Aneurysm
+Hyperkalemia
+Cardiogenic Shock
+RV failure
+ESRD, on HD 
+History of DVTs and PE
+HITT
+Paroxysmal Atrial fibrillation  
+Moderate aortic regurgitation. 
+Adrenal insufficiency ___ bilateral adrenalectomy for bilateral
+adrenal hyperplasia now on hydrocortisone and fludrocortisone. 
+LLE compartment syndrome s/p adrenal surgery
+Hypertension
+Esophageal varices while on prednisone
+
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14139501-DS-4 | hadm_id=26309822
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+heparin / morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain and BRBPR
+ 
+Major Surgical or Invasive Procedure:
+CLS on ___
+
+ 
+History of Present Illness:
+___ with a history HTN, diabetes, DVT (on
+AC), CKD (awaiting renal transplant), and adrenal insufficiency,
+who presents with sudden onset right lower quadrant abdominal
+pain after colonoscopy done on ___, diagnosed with
+postpolypectomy syndrome (discharged on ___, now comes back
+with abdominal pain and BRBPR. 
+
+The patient presented after his colonoscopy on ___ with severe
+___ in intensity abdominal pain in the right lower quadrant 
+that
+was radiating to the left, prompting an admission. CT scan at
+that time was negative for perforation and he was thought to 
+have
+postpolypectomy syndrome. He was managed conservatively with
+bowel rest, pain medications and antibiotics. His pain improved
+to ___ in severity prior to discharge and he was passing
+flatus with BM's. 
+
+The patient now states that he had under exaggerated his pain
+prior to his discharge last ___ so that he could get to his
+sons (or ___ game. He continues to have ___ right 
+lower
+quadrant abdominal pain that radiates to the left lower 
+quadrant.
+Additionally, since ___, he's been having ___ bowel
+movements that are dark in color and surrounded by blood at the
+edges. He's continued to have these bowel movements into
+yesterday, thereby prompting him to present again to the
+hospital.
+ 
+Past Medical History:
+- CKD Stage V undergoing evaluation for renal transplantation 
+(possible LRRT with brother as donor)
+- refractory HTN ___ adrenal hyperplasia
+- chronic herpes meningitis on valacyclovir
+- recurrent DVT on lifelong AC
+- h/o LLE compartment syndrome c/b rhabdomyolysis s/p 
+fasciotomies
+- pre-diabetes
+- h/o nephrolithiasis
+
+- s/p bilateral open adrenalectomy for refractory HTN 
+(?pheochromocytoma), in childhood and at age ___ (___ ___
+- s/p lap appendectomy ___ ___
+- s/p L shoulder surgery ___
+- s/p LLE fasciotomies for compartment syndrome (___)
+- s/p multiple b/l knee surgeries
+ 
+Social History:
+___
+Family History:
+- father deceased h/o colon cancer with brain metastases
+- mother deceased from COPD
+
+ 
+Physical Exam:
+GENERAL: NAD. Comfortable  
+Eyes: Anicteric without conjunctival injection  
+ENT: MMM. No oral lesions  
+NECK: supple.  
+___: RRR, no m/r/g  
+LUNGS: CTAB, no w/r/c  
+ABDOMEN: soft, locally tender in RLQ/LLQ areas, nondistended,
+normoactive bowel sounds, no rebound or guarding  
+SKIN: Warm. Dry.
+ 
+Pertinent Results:
+___ 06:50PM BLOOD WBC-10.0 RBC-3.57* Hgb-10.7* Hct-31.7* 
+MCV-89 MCH-30.0 MCHC-33.8 RDW-14.5 RDWSD-46.9* Plt ___
+___ 06:50PM BLOOD Glucose-114* UreaN-47* Creat-4.8* Na-144 
+K-4.0 Cl-107 HCO3-23 AnGap-14
+___ 06:50PM BLOOD ALT-25 AST-19 AlkPhos-89 TotBili-0.3
+___ 05:59AM BLOOD Calcium-9.0 Phos-4.9* Mg-2.1
+___ 07:16PM BLOOD ___ pO2-51* pCO2-42 pH-7.36 
+calTCO2-25 Base XS--1
+
+CLS
+no active bleeding found
+Grade ___/P
+1. No evidence of colonic perforation.  No etiology identified 
+for bright red 
+blood per rectum. 
+2. Unchanged hepatic steatosis. 
+3. Left-sided renal cystic lesions are incompletely 
+characterized on this 
+exam, but most likely represent cysts.  Prior study recommended 
+non emergent 
+renal ultrasound. 
+4. Bilateral, punctate nonobstructing renal stones are unchanged 
+compared to 
+prior. 
+
+DISCHARGE LABS
+
+___ 05:45AM BLOOD WBC-6.5 RBC-3.29* Hgb-9.6* Hct-28.8* 
+MCV-88 MCH-29.2 MCHC-33.3 RDW-13.7 RDWSD-44.3 Plt ___
+___ 05:45AM BLOOD Glucose-150* UreaN-35* Creat-4.5* Na-137 
+K-4.0 Cl-102 HCO3-22 AnGap-13
+___ 05:45AM BLOOD Calcium-8.3* Phos-4.4 Mg-2.0
+ 
+Brief Hospital Course:
+# Post-polypetctomy bleeding
+Pt had increased bleeding risk given warfarin use, and 
+additionally,
+enoxaparin given his GFR. 
+- GI consulted, no source of bleeding found on colonoscopy. Pt's 
+diet was advanced to regular on day of discharge. He was still 
+having mild abd TTP but felt it had improved. GI wanted to keep 
+him until the pain completely resolved but he preferred to go 
+home to take care of his daughter who is special needs. 
+Outpatient follow up was scheduled.  
+- PO PPI BID given lower likelihood of upper source.
+- Held warfarin and enoxaparin while bleeding but restarted 
+these on day of discharge (had >24h with no melena or brbpr)
+
+# Abdominal pain
+Most likely post-polypectomy electrocoagulation syndrome. Low 
+suspicion for infection or perforation given unremarkable CAT 
+scan. 
+- Continued standing acetaminophen 1g PO TID
+- Oxycodone for mod to severe pain
+- IV Dilaudid for breakthrough
+- Continued Pregabalin 100 mg PO BID 
+- instructed to finish course of amoxicillin when discharged and 
+take Tylenol and bentyl for pain.
+- obtained blood and stool cultures - still pending on day of 
+discharge
+
+CHRONIC/STABLE PROBLEMS:
+
+# DVT on lifelong anticoagulation
+Last DVT was years ago
+- Hold warfarin
+- Hold enoxaparin
+- restarted on day of discharge
+
+# CKD Stage V undergoing evaluation for renal transplantation 
+(possible LRRT with brother as donor).  No current indications
+for RRT, ___ actually slightly below recent baseline.
+- Monitor lytes and volume status
+- Outpatient nephrology follow-up
+
+# HTN ___ adrenal hyperplasia
+# Adrenal insufficiency
+- Continue amLODIPine 10 mg PO DAILY 
+- Continue CloNIDine 0.3 mg PO BID 
+- Continue Fludrocortisone Acetate 0.2 mg PO BID 
+- Hold Propranolol 80 mg PO BID 
+- Continue Hydrocortisone 20 mg PO QAM 
+- Continue Hydrocortisone 10 mg PO QHS 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. amLODIPine 10 mg PO DAILY 
+2. CloNIDine 0.3 mg PO BID 
+3. Fludrocortisone Acetate 0.2 mg PO BID 
+4. Propranolol 80 mg PO BID 
+5. ValACYclovir 500 mg PO DAILY 
+6. Warfarin 2.5 mg PO 6X/WEEK (___) 
+7. Warfarin 5 mg PO 1X/WEEK (___) 
+8. Multivitamins 1 TAB PO DAILY 
+9. Amitriptyline 10 mg PO QHS 
+10. Pantoprazole 40 mg PO Q12H 
+11. Pregabalin 100 mg PO BID 
+12. Hydrocortisone 20 mg PO QAM 
+13. Hydrocortisone 10 mg PO QHS 
+14. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+15. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Moderate 
+RX *acetaminophen [8 Hour Pain Reliever] 650 mg 1 tablet(s) by 
+mouth four times daily Disp #*60 Tablet Refills:*0 
+2.  DICYCLOMine 20 mg PO QID 
+RX *dicyclomine 20 mg 1 tablet(s) by mouth four times daily Disp 
+#*60 Tablet Refills:*0 
+3.  Amitriptyline 10 mg PO QHS  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H - please finish ___.  CloNIDine 0.3 mg PO BID  
+7.  Fludrocortisone Acetate 0.2 mg PO BID  
+8.  Hydrocortisone 20 mg PO QAM  
+9.  Hydrocortisone 10 mg PO QHS  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+12.  Pantoprazole 40 mg PO Q12H  
+13.  Pregabalin 100 mg PO BID  
+14.  Propranolol 80 mg PO BID  
+15.  ValACYclovir 500 mg PO DAILY  
+16.  Warfarin 5 mg PO 1X/WEEK (___)  - ok to restart this
+17.  Warfarin 2.5 mg PO 6X/WEEK (___)  - ok to 
+restart this
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Postpolypectomy bleeding and electrocautery syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital with blood in your stool and 
+lower abdominal pain. A colonoscopy was performed but 
+gastroenterology was unable to find a source for your bleeding. 
+
+___ also have abdominal pain that they believe is related to the 
+removal of your polyps. We treated it with Tylenol and oxycodone 
+and should resolve within the next few weeks. We have set up a 
+PCP and gastroenterology appointment for ___ - they will call 
+___ to schedule it. ___ should also complete your 7 day course 
+of augmentin
+ 
+Followup Instructions:
+___

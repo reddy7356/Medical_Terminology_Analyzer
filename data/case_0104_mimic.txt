@@ -1,0 +1,745 @@
+===== DISCHARGE NOTE =====
+note_id=16437493-DS-7 | hadm_id=28293963
+
+ 
+Name:  ___.            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfonamides / Toradol
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopy
+
+ 
+History of Present Illness:
+HPI: Pt is ___ yo m with CAD s/p MI, s/p CABG, s/p stents, HTN, 
+DM, h/o GIB, p/w transferred from ___ with chest 
+pain.
+He has had chest pain since yesterday 3am, intermittent,lasts 
+30min to 1 hour, sharp located in the middle of his chest 
+radiated to left shoulder. nothing makes it worse or better. 
+Occasionally radiating to his back. He woke up with this pain. 
+He was feeling very tired and decided to drink some alcohol to 
+help him feel better. + palpitations. No diaphoresis. He has not 
+been taking plavix and aspirin over last 4 months after having 
+GI bleeding complications. He reports about 6 transfusions since 
+then. On arrival to OSH was intoxicated (ETOH 234) at ___ 
+___, sent under ___. CE OSH Ck 50, Trop I 0.03.
+.
+Per his report, recently admittted to ___ for an MRSA 
+pneumonia for which he has been receiving antibiotics until 1 
+week ago. Givne this recent health problems, he has not been 
+very active. HOwever, he reports that prior to that he could 
+walk ___ bloocks, go up stairs 1 flight without any significant 
+difficulties.
+.
+In the ED, VS T??, HR 63, Bp 110/75, RR 16. Sat s98% 2L. Pt c/o 
+chest pain, which was relieved with morphine. EKG showed new TWI 
+in V1 and V2. He had a CTA negative for PE or disection.
+.
+Pt currently feel ok although still chest disconfort ___. He 
+was seen by ___ resident upon arrival to floor for chest pain. 
+EKG with t wave pseudonormalization on v2. Discussed with cards 
+- heparin, plavix started.
+
+EKG:
+1) ___. NSR, normal axes. t wave inversion v1. 
+no st changes. RVH
+2) ___ ED: NSR, HR 63, t wave inversion v2. and flatening t 
+wave I, aVL compared to prior. R ventricular hypertrophy
+3) ___: 7 am. NSR, HR 69. T normalized t wave on v2 with <1mm 
+st elevation. ___
+
+ 
+Past Medical History:
+DM II
+HTN
+Diastolic dysfunction by ___ echo
+Anti-K antibody (from multiple transfusions in past)
+Depression / Anxiety
+Subtotal gastrectomy at age of ___ for perforated ulcer
+GIB in setting of stress ulcers s/p MVA
+CAD: s/p MI ___
+-CABG X 3: LIMA TO LAD, SVG TO DIAG, SVG TO RCA (___)
+-STENT TO RCA
+-PTCA OM1 (___)
+-CATH ___: 100% RCA + 100% SVG TO RCA
+-PTCA OF OM1 RESTENOSIS (___)
+- last cath ___: 3VD, patent LIMA, occluded SVG-RCA and 
+SVG-diag,
+DES placed to LCX
+-hypercholesterolemia
+- s/p cholecystectomy
+- hiatal hernia
+ 
+Social History:
+___
+Family History:
+adopted, not aware of his biological family history
+ 
+Physical Exam:
+Vitals: T 98.1 BP101/62 HR 68 RR 18 O2 96RA
+Gen: non apparent distress
+HEENT: dry oral mucose. oropharinx clear
+Neck: no LAD, no JVD
+Cardio: s1-s2 normal, RRR, soft systolic murmur RUSB
+Resp: decreased bases. + crackles R base
+Abd: BS+ , soft, non tender, non distended.
+Ext: no edema
+Rectal: guiac negative.
+ 
+Pertinent Results:
+___ 10:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 10:30PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:30PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 10:30PM URINE  HOURS-RANDOM
+___ 01:07AM   PLT COUNT-155
+___ 01:07AM   NEUTS-54.4 ___ MONOS-4.0 EOS-3.6 
+BASOS-0.6
+___ 01:07AM   WBC-4.0 RBC-4.93 HGB-12.0* HCT-37.1* MCV-75*# 
+MCH-24.3*# MCHC-32.3 RDW-13.8
+___ 01:07AM   ASA-NEG ETHANOL-83* ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 01:07AM   CK-MB-NotDone
+___ 01:07AM   cTropnT-<0.01
+___ 01:07AM   CK(CPK)-47
+___ 01:07AM   estGFR-Using this
+___ 01:07AM   GLUCOSE-233* UREA N-7 CREAT-0.7 SODIUM-133 
+POTASSIUM-3.8 CHLORIDE-99 TOTAL CO2-26 ANION GAP-12
+___ 09:30AM   CK-MB-NotDone cTropnT-<0.01
+___ 09:30AM   CK(CPK)-60
+___ 01:35PM   PTT-84.2*
+___ 05:50PM   CK-MB-NotDone cTropnT-<0.01
+___ 05:50PM   CK(CPK)-44
+___ 09:21PM   PTT-61.6*
+
+===
+X ray 
+IMPRESSION:
+1. Right lower lobe opacity, favoring atelectasis, increased in 
+conspicuity
+when compared to prior radiographs dating back to ___. Given
+the longstanding nature of this finding, a CT for further 
+investigation may be
+warranted, particularly to exclude the possibility of an 
+endobronchial lesion.
+2. Interval resolution of opacity in the left mid lung.
+===
+INDICATION: ___ man with chest pain. Rule out PE and 
+dissection.
+ 
+TECHNIQUE: CTA chest without and with IV contrast.
+ 
+COMPARISONS: None.
+ 
+CTA CHEST: There is mild cardiomegaly. There are atherosclerotic
+calcifications of the coronary arteries. There is no evidence of 
+aortic
+dissection. There is normal filling of the pulmonary arterial 
+vasculature
+without evidence of pulmonary embolism. Evaluation of 
+subsegmental branches
+is limited due to patient motion.
+ 
+There is no pericardial effusion. There is right lower lobe 
+rounded
+atelectasis with tethering of the pleura and proliferation of 
+adjacent fat
+suggesting chronicity. There is moderate centrilobular emphysema 
+with upper
+lobe predominance, more severe in the right lung. The esophagus 
+is patulous.
+There is a small axial hiatal hernia. Small mediastinal nodes do 
+not meet
+size criteria for pathologic enlargement. Non-contrast images 
+through the
+upper abdomen do not reveal any acute abnormalities. The patient 
+is status
+post cholecystectomy.
+ 
+BONE WINDOWS: Patient is status post midline sternotomy. No 
+suspicious lytic
+or sclerotic lesions are identified.
+ 
+IMPRESSION:
+ 1. No evidence of aortic dissection. No evidence of PE. 
+Evaluation of
+subsegmental branches is limited due to patient motion.
+ 2. Discoid opacity in the right lower lobe with pleural 
+tethering, probably
+representing rounded atelectasis. A followup chest CT in 6 
+months is
+recommended to assess stability.
+ 3. Moderate centrilobular emphysema with upper lobe 
+predominance, more severe
+in the right lung.
+ ==
+CATH
+COMMENTS:     
+1.  Selective coronary angiography of this right dominant system
+revealed 2 vessel coronary artery disease.  The LMCA had no
+angiographically apparent flow limiting epicardial coronary 
+artery
+disease.  The LAD had a 90% stenosis at the origin which was 
+supplied by
+the ___.  The ___ had a patent stent.  The RCA was totally 
+occluded at
+the origin with a distal segment which filled by collaterals.
+2.  Arterial conduit angiography revealed an LIMA-LAD which was 
+patent
+with diffuse distal disease and a patent distal stent.  The 
+SVG-RCA was
+completely occluded.
+3.  Resting hemodynamics revealed normal systemic arterial 
+systolic and
+diastolic blood pressures with SBP 132 mmHg and DBP 60 mmHg.
+ 
+ 
+FINAL DIAGNOSIS:    
+1. Two vessel coronary artery disease.
+2. Normal systemic arterial systolic and diastolic blood 
+pressures.
+===
+Upper endoscopy ___
+Findings:
+Esophagus:Normal esophagus.
+Stomach:
+Lumen:Evidence of a previous sub-total gastrectomy with 
+gastrojejunal anastomosis was seen. Both limbs of the BII were 
+explored without any pathology.  
+Mucosa:Mild erythema of the mucosa was noted at the 
+anastomosis. Cold forceps biopsies were performed for histology 
+at the anastomosis. 
+Impression:Previous sub-total gastrectomy of the stomach
+Erythema at the anastomosis (biopsy)
+Otherwise normal EGD to both limbs of gastrojejunostomy
+Recommendations:Return to inpt ward
+Follow-up biopsies
+Additional notes:No source for the patient's symptoms was found 
+on this exam. 
+
+ 
+Brief Hospital Course:
+A/P: Pt is ___ yo m with CAD s/p MI, s/p CABG, s/p stents, HTN, 
+DM, h/o GIB, p/w intermittent chest pain and EtOH intoxication.
+.
+#) Chest pain: Pt with extensive cardaic history, so at 
+high-risk for ischemic pain. Currently in ___ chest pain. His 
+current chest pain is not exertional in nature but still high 
+risk given his report that it migh be similar to prior chest 
+pain when he required intervention. CTA r/o PE or disection. He 
+also was noticed to have dinamic t wave changes on v1-v2. 
+Heparin IV and plavix load were given. Cardiology was consulted. 
+Given history of stopping aspirin and plavix 4 months ago, and 
+description of similar symptoms with prior anginal episodes, 
+there was concern for possible stent stenosis - patient was 
+taken for elective cardiac catheterization. Cardiac cath showed 
+patent stent.  Aspirin and plavix were continued. Imdur was 
+added to his antianginal regimen. Patient always complaint of 
+burning sensation mid chest associated with epigastriac 
+abdominal pain. Given the negative cardiac work up, a GI 
+evaluation was performed as below
+.
+# Abdominal pain: Patient also complained of abdominal pain, 
+worse day after cardiac catheterization. His physical exam was 
+always benign. IV morphine was used initially, but patient 
+persitently ask for more pain medications given worsening pain. 
+LFT's, amilase, lipase were normal. Pain medications were 
+changed to Morphine PO standing dose obtaining improvement in 
+pain control.
+
+Given unexplained etiology of abdominal and chest discomfort and 
+also to help in the decision of continuation of plavix and 
+aspirin (given history of GI bleeding per patient report without 
+clear work up) an upper endoscopy was obtained. It showed 
+previous sub-total gastrectomy of the stomach and erythema at 
+the anastomosis (biopsy). No other abnormalities were found.
+.
+By time of discharge patient pain was well control with morphine 
+po, PPi and sucralfate.
+.
+#) DM: patient was monitor on insulin sliding scales.
+.
+#) h/o GIB: HCT remained stable during his admission. Guiac 
+negative on admission. 
+.
+#) HTN: stable. Ace inhibitor and betablockers were continued.
+.
+#) Psych: at OSH, he had been on ___ for depression and 
+EtOh abuse.  Patient  denied suicidal ideation here. he states 
+that he would never consider killing himself despite the 
+problems he has at home. Since he was transferred to ___ on 
+___, psychiatric service was consulted.
+No evidence of suicidal ideation was found and ___ was 
+lifted. Recomendations were to continue with current psych meds 
+and outpatient follow up.
+.
+# Anemia: microcitic anemia. Iron studies revealed normal values 
+except for low ferritin. Reviewing past records, his hcts ___ 
+___ has been int he mid 30's with low MCV. His reticulocite 
+count corrected for his hct is in the low side and suggest low 
+BM response. This in combination of low platelets and leukopenia 
+may warrant further hematology work up.
+
+#Leukopenia: Last WBC 3 on discharge. CBC should be checked on 
+his next visit to check for stability.
+
+ 
+Medications on Admission:
+Sertralin 100 mg day
+Doxepin 1 tab 100 ad day
+Trazodone 100 mg qhs.
+Aspirin 325 mg daily (not taking)
+Tamsulosin 0.4 mg qhs
+Atorvastatin 20 mg daily
+Lisinopril 5 mg daily
+Clonazepam 1 mg tid prn
+Sucralfate 1 gram QID
+Metoprolol Tartrate 50 mg bid
+Pantoprazole 40 mg bid
+Clopidogrel 75 mg daily (not taking)
+Insulin Glargine 35U QH
+ 
+Discharge Medications:
+1. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Doxepin 25 mg Capsule Sig: Four (4) Capsule PO HS (at 
+bedtime).  
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+8. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for anxiety. Tablet(s) 
+11. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times 
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+12. Morphine 15 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+13. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Non cardiac chest pain.
+Abdominal Pain.
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You were admitted with chest pain. 
+Your cardiac catheterization did not show any new abnormalities.
+Your endoscopy only showed some mild inflammation. Otherwise was 
+normal.
+You should continue your aspirin and plavix until you talk to 
+your cardiologist.
+Please discuss with your PCP the need for further 
+Gastrointestinal follow up to work up your prior GI bleeding and 
+your abdominal pain.
+
+If shortness of breath, chest pain, or worsening abdominal pain, 
+call your PCP or come to the emergency department.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16437493-DS-8 | hadm_id=28577997
+
+ 
+Name:  ___.            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfonamides / Toradol
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo male CAD/CABG p/w left CP sharp ___ radiates to his pacer 
+and SOB x 3h PTA started with mild exertion, associated with 
+sensation of decreased HR, BP and lightheadedness. Patient 
+denies related diaphoresis, nausea, LOC or head trauma. Of note 
+patient reports BG in 300s for past week. (+) dyspnea on 
+exertion 10 ft today and has been increasing over the past 1mo. 
+Patient has not been taking his medications, 70% of them, due to 
+financial reasons.  
+.  
+Of note patient dropped hood of car on his hand 2 weeks prior 
+and still has hand pain with grasping.  
+.  
+NTG, ASA in field. CXR cl. In ED, triage vitals Temp 99.1 HR 86 
+BP 126/90 RR 16 O2 sat 100 RA, Vitals on transfer temp 98.4 HR 
+66 BP 173/76 RR 15 O2 sat 100% 2LNC. no EKG changes, lungs 
+clear. Patient came to ED from substance abuse rehab 
+(benzodiazepine withdrawal) per report, but patient denies and 
+states he has been living in assisted living. Patient with 
+negative cardiac biomarkers. Cardiology consulted and 
+recommended adding plavix, heparin with plan to cardiac cath vs 
+stress test. Dilaudid IV for pain control in ED. Chest pain free 
+at time of transfer.  
+.  
+Upon arrival to floor ___ CP mid-sternum, radiating to the LUQ, 
+and to L shoulder, sharp, no diaphoresis/n/v. Given extensive 
+history patient was started on heparin gtt.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, pulmonary embolism, myalgias, joint pains, cough, 
+hemoptysis. He denies recent fevers, chills or rigors. He denies 
+exertional buttock or calf pain. Pt. reports having had 
+colonoscopy ___ years ago with multiple polyps removed, no 
+malignancy.  
+.  
+ROS is positive for weight loss of ~ ___ lbs over past 6mo, no 
+nightsweats, chills, cough, fevers. He has hx of black stools 
+intermittently, no constipation or changes in stool character.  
+.  
+All of the other review of systems were negative.  
+.  
+*** Cardiac review of systems is notable for absence of chest 
+pain, paroxysmal nocturnal dyspnea, change in chronic ankle 
+edema, palpitations, syncope or presyncope. (+) 2 pillow 
+orthopnea.  
+
+ 
+Past Medical History:
+-DM II  
+-HTN  
+-Diastolic dysfunction by ___ echo  
+-Anti-K antibody (from multiple transfusions in past)  
+-Depression / Anxiety  
+-Subtotal gastrectomy at age of ___ for perforated ulcer, 
+subsequent chronic Fe defficiency anemia  
+-GIB in setting of stress ulcers s/p MVA  
+-CAD: s/p MI ___  
+--CABG X 3: LIMA TO LAD, SVG TO DIAG, SVG TO RCA (___)  
+--STENT TO RCA  
+--PTCA OM1 (___)  
+--CATH ___: 100% RCA + 100% SVG TO RCA  
+--PTCA OF OM1 RESTENOSIS (___)  
+--hypercholesterolemia  
+-- s/p cholecystectomy  
+-- hiatal hernia  
+-DVT, ___  
+-COPD  
+-Pancreatic Atrophy due to EtOH abuse  
+-Chronic pain syndrome  
+-BPH  
+.
+Cardiac Risk Factors: (+)Diabetes, (+)Dyslipidemia, 
+(+)Hypertension  
+.  
+Cardiac History: CABG, in ___ anatomy as follows: LIMA TO LAD, 
+SVG TO DIAG, SVG TO RCA  
+.  
+Percutaneous coronary intervention, in ___ anatomy as follows: 
+right dominant system revealed 2 vessel CAD. The ___ had no 
+angiographically apparent flow limiting epicardial coronary 
+artery  
+disease. The LAD had a 90% stenosis at the origin which was 
+supplied by the LIMA. The LCx had a patent stent. The RCA was 
+totally occluded at the origin with a distal segment which 
+filled by collaterals. 2. Arterial conduit angiography revealed 
+an LIMA-LAD which was patent with diffuse distal disease and a 
+patent distal stent. The SVG-RCA was completely occluded.  
+.  
+Pacemaker placed ___.  
+
+ 
+Social History:
+___
+Family History:
+adopted, not aware of his biological family history
+ 
+Physical Exam:
+VS - 97.2F 156/86 65 100% 3L on initial exam, with 
+re-examination:  
+VS - 96/58 65 16 93% RA  
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pale, no cyanosis of the oral mucosa. No xanthalesma.  
+Neck: Supple with JVP of 7 cm.  
+CV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. 
+ 
+Chest: Resp were unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+Abd: Soft, NT, obese. No HSM or tenderness. No abdominial 
+bruits.  
+Ext: No c/c/e. Left hand: mult bruises, ttp snuff box, and 
+superior to radial notch.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+Rectal: stool in vault, heme negative on guiac.
+.  
+Pulses:  
+Right: Carotid 2+ DP 2+  
+Left: Carotid 2+ DP 2+ 
+
+ 
+Pertinent Results:
+Labs on admission and discharge:
+___ 08:10PM BLOOD WBC-2.9* RBC-4.46* Hgb-9.3* Hct-30.1* 
+MCV-68* MCH-20.9*# MCHC-30.9* RDW-14.9 Plt ___
+___ 09:10AM BLOOD WBC-3.4* RBC-4.60 Hgb-9.7* Hct-31.1* 
+MCV-68* MCH-21.0* MCHC-31.1 RDW-14.9 Plt ___
+.
+___ 09:10AM BLOOD ___ PTT-66.2* ___
+.
+___ 08:10PM BLOOD Glucose-212* UreaN-10 Creat-0.6 Na-137 
+K-4.3 Cl-100 HCO3-30 AnGap-11
+___ 09:10AM BLOOD Glucose-126* UreaN-9 Creat-0.6 Na-140 
+K-4.1 Cl-101 HCO3-36* AnGap-7*
+.
+___ 08:10PM BLOOD CK(CPK)-67
+.
+___ 09:10AM BLOOD ALT-17 AST-19 LD(LDH)-164 CK(CPK)-53 
+AlkPhos-66 Amylase-37 TotBili-0.4
+.
+___ 03:10PM BLOOD CK(CPK)-49
+___ 08:10PM BLOOD cTropnT-<0.01
+___ 09:10AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 03:10PM BLOOD CK-MB-NotDone cTropnT-PND
+.
+___ 09:10AM BLOOD Ferritn-PND TRF-PND
+___ 09:10AM BLOOD Iron-PND
+.
+___ 11:35PM URINE Color-Straw Appear-Clear Sp ___
+___ 11:35PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-250 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+.
+CXR on admission:
+.
+IMPRESSION: 
+1. No significant interval change in the appearance of the 
+chest. Persistent linear opacities within the right lower lobe, 
+compatible with atelectasis and/or scarring, with stable small 
+right pleural effusion. 
+.
+2. Interval placement of dual-chamber pacemaker with leads in 
+satisfactory 
+positions in the right atrium and right ventricle. 
+ 
+Brief Hospital Course:
+Patient is a ___ y/p M with CAD s/p CABG and multiple stents 
+(last ___ at ___, Cypher (2.5x18mm) drug eluting stent) 
+presenting with sudden onset CP, abdominal pain w/o significant 
+EKG changes.  
+.  
+#. CAD (chest and abdominal pain): given extensive history 
+patient was initially tx w/ heparin gtt with concern for ACS.  
+Upon further history obtained after admission, and given 
+relative hypotension ___ 95mmHg) and hx of GIBs and atypical 
+nature of the pain (unrelieved, radiating to abdomen, no 
+diaphoresis, n/v, response to morphine and dialudid), his 
+heparin was discontinued.  His CEs were negative x2 (troponins < 
+0.01) and his CKs remained < 67.  PE was felt to be unlikely 
+given no risk factors and his ambulatory saturation was > 97%.  
+It is possible that this is representation of his angina off his 
+medications, thus he was restarted on his home regimen, 
+including isosorbide mononitrate.  He was also continued on ASA, 
+Statin, BB.  His Plavix was continued as well and a decision to 
+discontinue this was deferred to primary cardiologist, Dr. 
+___.  Alternatively, this may be related to his abodminal 
+pain (see below).  For pain, patient received his methadone, 
+20mg x1, as well as one dose of PO morphine, 20mg.  His pain 
+improved signficantly.  He had no DOE with ambulation.  His PPI 
+was increased to BID dosing.    
+.  
+# Abdominal pain. Patient w/ hx of GERD, hiatal hernia and 
+gastritis in the past, not taking his medications. Also has 
+chronic abd. pain due to pancreatic atrophy due to EtOH abuse 
+which is likely contributing. Most likely pain is hiatal hernia 
+and gastritis. No evidence of GIB currently, HCT at baseline per 
+PCP ___ 34, never required transfusions. His PPI was increased to 
+BID, he was continued on Sucralfate 1g QID.  His LFTs were wnl, 
+as was his amylase and lipase.  His abdominal exam at time of 
+discharge was benign.  Follow up with GI was arranged for him.
+.  
+# Anemia, microcytic, chronic. HCT remained within 30 - 31 
+range.  Hx due to poor absorption s/p gastrectomy. Hx of wt. 
+loss is concerning for colon cancer or another malignancy. EGD 
+last year showing gastritis only. Guiac negative. Unlikely to 
+have good absorption of PO Fe given sucralfate and gastrectomy. 
+CXR w/o evidence of malignancy.  He will likely require 
+intravenous Fe infusions, Fe studies were pending at time of 
+discharge and will require follow up (discussed with PCP), 
+however his ferritin in ___ was 23.  He will require age 
+appropriate cancer screeening, including repeat colonoscopy for 
+his weight loss.  
+. 
+#. Depression / Anxiety. Appeared euthymic and without suicidal 
+ideation. He was continued on sertraline, trazadone, clonazepam. 
+    
+.  
+#. Chronic pain syndrome. Abdominal source. Pain Meds confirmed 
+Community Health Care ___, pt 1770. Discussed w/ PCP 
+(seen patient once, Cardiology and GI) doctors. Patient w/ very 
+fragmented care and has hx of drug seeking behavior.  
+One dose of PO morphine while inpatient, resumed methadone.    
+.  
+#. HL: Restarted statin.  Lipid status currently unknown.     
+.  
+#. HTN: Was hypertensive on admission, however this normalized 
+with restartof  lisnipril, isosorbide, in addition to BB.  Had 
+transient episode of asymptomatic hypotension.    
+.  
+#. DM2: Continued on lantus and HISS, held neurontin given 
+episode lightheadedness which can be SE, however restarted at 
+time of discharge.  This lightheadedness wil require outpatient 
+evaluation.    
+.  
+#. BPH: Continued tamsulosin.
+ 
+Medications on Admission:
+Sertraline 100 mg day  
+Trazodone 150 mg qhs.  
+Aspirin 81 mg daily Not taking  
+Tamsulosin 0.4 mg qhs  
+Atorvastatin 80 mg daily (not taking)  
+Lisinopril 5 mg daily (missing from list, taking per pt)  
+Clonazepam 1 mg tid prn (QID per pt)  
+Sucralfate 1 gram QID not taking  
+Metoprolol Tartrate 25 mg bid  
+Pantoprazole 40 mg bid (only taking daily)  
+Clopidogrel 75 mg daily (not taking)  
+Insulin Glargine 25U QH + HISS  
+Morphine 20 mg 1 tab Q6H prn pain  
+Isosorbide Mononitrate 30 mg SR daily (not taking)  
+Neurontin 600 mg daily  
+NTG 0.4 mg prn not taking  
+Zantac daily not taking  
+
+ 
+Discharge Medications:
+1. Sertraline 100 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Trazodone 50 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime).
+Disp:*90 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+5. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times 
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+9. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. Insulin Glargine 100 unit/mL Solution Sig: ___ (25) 
+units Subcutaneous at bedtime.  
+12. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO HS (at bedtime).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+13. Neurontin 600 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+14. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1)  
+Sublingual once a day.
+Disp:*30 tablets* Refills:*2*
+15. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+16. Zantac  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Atypical chest pain, abdominal pain
+Secondary: CAD, Diastolic dysfunction, HL, Diabetes
+
+ 
+Discharge Condition:
+Stable, free of pain.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with chest pain and abdominal pain. 
+Because of your heart history, you were evaluated for a heart 
+attack.  Your tests came back negative.  Your pain improved with 
+restarting of your medications.  It is very important that you 
+take your medications.
+
+There were no other changes made to your medications, you were 
+simply restarted on the medications you were prescribed prior. 
+Please see attached list for a complete list of your 
+medications.
+
+Because you have a significant anemia (low red blood cell count) 
+you will require further evaluation to ensure that you do not 
+have a malignancy.  You have been made appointments with Dr. 
+___ Dr. ___.
+
+Should you have recurrent chest pain, shortness of breath, 
+unusual sweating, nausea, vomiting, worsening abdominal pain, or 
+any other symptom concerning to you, please call your primary 
+care doctor or go to the emergency room.
+ 
+Followup Instructions:
+___

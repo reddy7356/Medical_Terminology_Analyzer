@@ -1,0 +1,457 @@
+===== DISCHARGE NOTE =====
+note_id=14835060-DS-12 | hadm_id=24181123
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Penicillins
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+6L Paracentesis ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 02:00PM BLOOD WBC-10.8* RBC-2.05* Hgb-8.0* Hct-25.0* 
+MCV-122* MCH-39.0* MCHC-32.0 RDW-17.2* RDWSD-78.9* Plt ___
+___ 02:00PM BLOOD Neuts-76.5* Lymphs-14.7* Monos-7.7 
+Eos-0.5* Baso-0.1 Im ___ AbsNeut-8.24* AbsLymp-1.58 
+AbsMono-0.83* AbsEos-0.05 AbsBaso-0.01
+___ 02:00PM BLOOD ___
+___ 02:00PM BLOOD UreaN-14 Creat-1.0 Na-136 K-4.4 Cl-99 
+HCO3-22 AnGap-15
+___ 02:00PM BLOOD ALT-13 AST-35 AlkPhos-84 TotBili-3.8* 
+DirBili-1.5* IndBili-2.3
+___ 02:00PM BLOOD TotProt-7.4 Albumin-2.4* Globuln-5.0* 
+Phos-3.2 Mg-2.2 Iron-78
+___ 04:05PM BLOOD Lactate-1.6
+
+Other Pertinent Labs/Micro
+============================
+___ 06:30PM ASCITES TNC-175* RBC-1762* Polys-10* Lymphs-32* 
+Monos-36* Eos-1* Mesothe-5* Macroph-16*
+___ 06:30PM ASCITES TNC-175* RBC-1762* Polys-10* Lymphs-32* 
+Monos-36* Eos-1* Mesothe-5* Macroph-16*
+___ 06:30PM ASCITES TotPro-1.8 Glucose-114
+___ 6:30 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count, if 
+applicable. 
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+Transplant Work-up Labs
+===========================
+___ 02:00PM BLOOD Iron-78 calTIBC-69* Ferritn-3333* TRF-53*
+___ 03:37PM BLOOD VitB12-1092* Folate-16
+___ 05:00PM BLOOD Cholest-67 Triglyc-68 HDL-16* CHOL/HD-4.2 
+LDLcalc-37
+___ 02:00PM BLOOD TSH-1.2 Free T4-1.2
+___ 05:00PM BLOOD 25VitD-14*
+___ 07:25AM BLOOD GGT-26
+___ 05:00PM BLOOD HAV Ab-NEG
+___ 02:00PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 02:00PM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 05:00PM BLOOD CEA-1.0 PSA-0.10
+___ 02:00PM BLOOD ___ AFP-2.4
+___ 02:00PM BLOOD IgG-2340* IgM-117
+___ 05:00PM BLOOD CMV IgG-NEG CMV IgM-NEG CMVI-There is n 
+EBV IgG-POS* EBNA-POS* EBV IgM-NEG EBVI-Results in MEASIgG-POS* 
+MUM IgG-POS* RUB IgG-POS* TOX IgG-NEG TOXI-If acute i VZV 
+IgG-POS* Trep Ab-NEG
+___ 02:00PM BLOOD HIV Ab-NEG
+___ 02:00PM BLOOD Ethanol-NEG
+___ 02:00PM BLOOD tTG-IgA-21*
+___ 02:00PM BLOOD HCV Ab-NEG
+___ 02:00PM BLOOD ALPHA-1-ANTITRYPSIN- 224  H  (reference 
+83-199)      
+___ 07:25AM BLOOD Phosphatidylethanol ___ 
+___ 05:00PM BLOOD ANTI-LIVER-KIDNEY-MICROSOME ANTIBODY-PND
+___ 05:00PM BLOOD HERPES SIMPLEX VIRUS 1 AND 2 ANTIBODY 
+IGM-PND
+___ 07:25AM BLOOD QUANTIFERON-TB GOLD-PND
+___ 10:04PM URINE Color-Yellow Appear-Clear Sp ___
+___ 10:04PM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 10:04PM URINE RBC-2 WBC-3 Bacteri-NONE Yeast-NONE Epi-0
+___ 10:04PM URINE CastHy-124*
+___ 10:04PM URINE Mucous-OCC*
+___ 10:04 pm URINE      Source: ___. 
+      SPECIMEN NOT PROCESSED DUE TO: Urinalysis had insufficient 
+pyuria
+      (<=10 WBCs/hpf).  Please see ___ “UA w/reflex Culture 
+protocol”
+      for more information.  If there is a reason why this 
+patient’s urine
+      culture should be run despite the urinalysis findings, and 
+it is
+      within 72 hours from when the specimen was received by the 
+lab, order
+      an “Add-on” urine culture. You will be required to 
+document the
+      reason for overriding the reflex protocol. 
+                              **NOT PROCESSED**
+___ 10:04PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+IMAGING/STUDIES
+=================
+CXR (___)
+Small left pleural effusion with probable compressive left lower 
+lobe
+atelectasis.
+
+RUQUS (___)
+1. Limited Doppler assessment.  Within this limitation, reversal 
+of flow within the portal vein with no evidence of portal vein 
+thrombosis.
+2. Cirrhotic liver morphology with moderate to large volume 
+ascites.
+3. Left pleural effusion
+
+EKG (___)
+Sinus rhythm 
+Left atrial enlargement 
+Nonspecific T abnormalities, lateral leads 
+Prolonged QT interval (QTc 512)
+No previous ECGs available
+
+TTE (___)
+NON-DIAGNOSTIC STUDY- CANNOT ASSESS VALVULAR STRUCTURE/FUNCTION 
+OR RIGHT VENTRICULAR MORPHOLGY DUE TO POOR ACOUSTIC WINDOWS. 
+Overall left ventricular systolic function is normal (greater 
+than 55%).
+Ascites is seen.
+RECOMMEND: If clinically indicated, a cardiac MRI or TEE is 
+suggested for further evaluation of cardiac structure and 
+function.
+
+MRI Liver W&W/O Contrast (___)
+No focal suspicious liver lesions identified. 
+IMPRESSION: 
+-The liver has a cirrhotic morphology and there is evidence of 
+portal hypertension with moderate volume ascites and 
+recanalization of the umbilical vein. 
+-Rapid signal loss from the liver is suggestive of iron 
+deposition. 
+-Moderate-sized left pleural effusion. 
+
+DISCHARGE LABS
+===============
+___ 04:30AM BLOOD WBC-8.2 RBC-2.27* Hgb-8.3* Hct-24.9* 
+MCV-110* MCH-36.6* MCHC-33.3 RDW-22.0* RDWSD-87.6* Plt ___
+___ 04:30AM BLOOD ___ PTT-37.8* ___
+___ 04:30AM BLOOD Glucose-106* UreaN-17 Creat-1.0 Na-139 
+K-4.1 Cl-101 HCO3-28 AnGap-10
+___ 04:30AM BLOOD ALT-31 AST-98* AlkPhos-147* TotBili-3.9*
+ 
+Brief Hospital Course:
+SUMMARY
+=============
+___ man with no PMH admitted from clinic with ascites, 
+c/f new decompensated cirrhosis and was initiated on transplant 
+work-up. There were concerns for possible Wernicke's 
+encephalopathy given possible confabulation, mild nystagmus and 
+malnutrition, treated with IV thiamine. Otherwise, had anemia 
+requiring transfusion without evidence of overt bleed.
+
+TRANSITIONAL ISSUES:
+====================
+[] unable to perform HFE genotype test as inpatient; please 
+order outpatient given suspicion on MRI liver
+[] If he is appropriate outpatient transplant candidate: will 
+need dental, PFTs, cardiac MRI (not able to see windows on TTE) 
+ABG to round out workup
+[] Phosphatidylethanol (___) sent ___, follow-up as outpatient
+[] Reports of potential unsafe home situation - if being 
+considered for transplant, patient will likely have to move in 
+with sister or sister/other family member will have to move in 
+with him
+[] Will need to meet with ___ as an outpatient; ideally 
+would meet with ___ with his sister present.
+[] Nadolol discontinued given only grade 1 varices on last EGD - 
+this is not an indication for beta-blocker ppx.
+[] Urology follow up if persistent urtethral bleeding as 
+outpatient for cystourethroscopy
+[] ___ipro for tx of presumed UTI recommended by 
+urology
+[] BPs were borderline low this admission (90s/50s) so patient 
+was started on midodrine 5mg TID, titrate as needed outpatient.
+[] Was not ___ immune on admission so received ___ vaccine ___ 
+dose prior to discharge.
+[] Will need to follow up with hepatology after 
+multidisciplinary appointment (pending at ___).
+[] Patient unable to get PFTs with ABG while impatient as part 
+of his transplant workup. Please schedule PFTs as outpatient
+
+Discharge MELD: 20
+Discharge Cr: 1.0
+Discharge Hgb: 8.3
+Discharge Na: 139
+Discharge Weight: 170 lbs (not dry)
+
+ACUTE ISSUES:
+=============
+# Cirrhosis of unclear etiology d/b ascites, grade 1 esophageal 
+varix
+MELD 24 on admission--> 20 on dc. Patient presented to clinic 
+with nausea, vomiting, shortness of breath, and ascites 
+concerning for decompensated cirrhosis. AST/ALT wnl, however 
+Tbili slightly elevated. RUQUS with Doppler negative for 
+thrombus. Diagnostic paracentesis in ED ___ without evidence of 
+SBP. Started liver transplant work-up while inpatient, however 
+patient has psychosocial barriers (see discharge summary, but 
+mostly home social support) and will complete workup as 
+outpatient. Had LVP with 6L removed ___. Was started on 
+diuretic titrated to PO 120mg Lasix, Spironolactone 300mg. No 
+evidence of overt GIB. Last EGD done ___ at ___ 
+showed Grade 1 Varices in distal esophagus. Nadolol was given no 
+need for ppx. INR was elevated, had PO vitamin K challenge with 
+mild improvement in INR. Continued on home MVI, folic acid, and 
+thiamine as well as 2g Na diet. ___ clinic was contacted at 
+discharge and will reach out to pt with appointment. Following 
+___ appointment he will eventually need to follow up with Dr 
+___.
+
+# Transplant Work-up
+MELD ranged ___. Serologies were sent with several pending at 
+time of discharge. MR ___ was notable for signal loss 
+suggestive of iron deposition. Echo was non-diagnostic, 
+therefore Cardiac MR ___ likely need to be done as outpatient. 
+Otherwise, HFE genotyping was unable to be sent while inpatient, 
+however hemochromatosis remains on differential given MRI and 
+___ heritage. Will need HFE genotype as outpatient.
+
+# Macrocytic Anemia
+Hemoglobin 8.0 on admission. Iron labs with elevated ferritin 
+consistent with anemia of chronic disease in setting of 
+cirrhosis. B12 elevated and folate wnl. Required 1u pRBC on ___ 
+for Hgb 6.8, no evidence of overt bleed. ___ was sent given 
+macrocytosis. Required 2 units of PRBCs this admission for 
+chronic anemia (last ___.
+
+#Urethral bleeding
+On ___ patient was noted to have blood that appeared to be 
+coming from the urethra and associated with dysuria. UA on 
+admission without blood and there was low suspicion for bladder 
+bleeding. Urology was consulted and while official etiology was 
+unclear, they thought bleeding might be due to stone or UTI. He 
+does not have known risk factors but urine GC/chlamydia was sent 
+as STI screening and was pending on discharge; HIV negative. At 
+recommendation of urology he will undergo 14 day course of UTI 
+tx with ciprofloxacin for presumed UTI. His bleeding and pain 
+stopped after 1 day of abx and he was counseled to follow up 
+with urology as an outpatient if his bleeding/pain continued 
+after abx course.
+
+CHRONIC/RESOLVED ISSUES:
+==========================
+# c/f Wernicke Encephalopathy
+Collateral obtained from family raised concerns for 
+confabulation and patient had sublte nystagmus on exam (unclear 
+baseline) At risk given poor nutrition and alcohol use. Treated 
+with 5 day course of IV thiamine and discharged on PO thiamine 
+and multivitamin. Patient was AAOx3 on discharge and believed to 
+be at his neurologic baseline with no deficits.
+
+# Hyponatremia - resolved
+Likely hypovolemic iso poor PO intake. Received albumin during 
+admission and encouraged PO intake with overall improvement and 
+stabilization of Na.
+
+# Leukocytosis - resolved
+Presented with leukocytosis (neutrophil predominance). Likely in 
+setting of inflammation from cirrhosis. Pt afebrile. No evidence 
+of SBP on dx paracentesis or PNA on CXR. WBC decreased within 
+few days and remained wnl.
+=
+=
+=
+=
+=
+=
+================================================================
+TRANSPLANT WORK-UP:
+LABORATORY STUDIES:
+[x] Albumin daily + MELD labs ___, LFTs, Bili, alk phos)
+[x] Hepatitis A Antibody - negative
+[x] Hepatitis B Surface Antibody, antigen, core - negative
+[x] Hepatitis C Antibody - negative
+[x] Treponemal test - negative
+[x] Alpha-fetoprotein - 2.4
+[/] Herpes Simplex Virus 1 and 2 Antibody IgM
+[x] HIV 1 & 2 AB - negative
+[x] Rubella IgG Antibody - positive
+[x] Rubeola IgG Antibody - positive
+[x] TSH - 1.2
+[x] Thyroxine, Free (T4) - 1.2
+[-] CA ___ - ONLY if +primary sclerosing cholangitis
+[x] Iron 78, TIBC 69, Ferritin 3333
+[x] Toxoplasma IgG antibody - negative
+[!] IgG, IgM, IgA levels - IgG 2340, IgM 117
+[x] CEA - 1.0
+[x] ___ - negative
+[x] AMA - negative
+[x] ___ - negative
+[/] LMK antibodies
+[x] A1AT - 224 H
+[x] Lipid Panel - chol 67, ___ 68, HDL 16, LDL 37
+[x] Type and Screen x 2 - ABO and Rh type
+[x] CBC + diff
+[x] Chem-10
+[x] CMV IgG/IgM Antibody Panel - negative
+[x] Mumps IgG Antibody - positive
+[!] Varicella Zoster (VZV) IgG Antibody - positive
+[x] EBV Antibody Panel - IgG+, IgM-
+[x] Vitamin D 25 Hydroxy - 14
+[x] TOX: Ethanol
+[x] UTOX: Amphetamines, Barbiturates, benzodiazepines, cocaine, 
+methadone, opiates, oxycodone (no need to order marijuana)
+[x] LFTs + GGT
+[/] QuantiFERON-TB Gold - if indeterminate reorder it, if 
+indeterminate x 2 then will need TB treatment post-transplant
+[x] UA complete w/reflex
+[ ] ABG
+[-] If HBsAg positive, get HBV DNA and genotype
+[-] If HCV Ab positive, get HCV RNA and genotype
+[-] If HIV positive, CD4 count and HIV VL
+[-] if fulminant liver failure, HAV IgM, HBcIgM, ceruloplasmin, 
+peripheral blood smear, uric acid. If allergic to sulfa, test 
+for G6PD deficiency
+STUDIES/CONSULTS
+[ ] Dental evaluation (order panorex FIRST, then call dental 
+consult)
+[x] Abd CT with liver volume OR MRI abdomen w/wo contrast
+[!] Echo (TTE) - non-diagnostic given poor windows
+   [  ] will need cardiac MRI
+[ ] PFTs (to be done outpatient ok)
+[x] EKG - LAE, QTc 512
+[x] CXR AP/Lat (NOT portable)
+[x] If Male>___, PSA - 0.1
+[-] PAP ___ for women ___ years
+[x] Colonoscopy Age >___ (OSH) - localized mild inflammation with 
+erosions and erythema in the rectum, and few diverticula in 
+sigmoid colon
+[/] Cardiac MRI (for those with hemochromatosis)
+[-] >65 diabetic, NASH need cardiac stress tests
+[ ] DEXA if obstructive reason for cirrhosis
+[ ] ENT evaluation of mouth oropharynx and neck for head or neck 
+cancer if smoking history with work-up to be determined by ENT 
+(usually see Dr. ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nadolol 20 mg PO DAILY 
+2. Spironolactone 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 250 mg PO Q12H Duration: 12 Doses 
+RX *ciprofloxacin HCl [Cipro] 250 mg 1 tablet(s) by mouth twice 
+a day Disp #*24 Tablet Refills:*0 
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+3.  Furosemide 120 mg PO DAILY 
+RX *furosemide 40 mg 3 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*1 
+4.  Midodrine 5 mg PO TID 
+RX *midodrine 5 mg 1 tablet(s) by mouth three times a day Disp 
+#*90 Tablet Refills:*0 
+5.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Vitamins and Minerals]  1 
+tablet(s) by mouth once a day Disp #*30 Tablet Refills:*0 
+6.  Thiamine 100 mg PO TID ___ tx 
+Duration: 2 Weeks 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth three 
+times a day Disp #*300 Tablet Refills:*0 
+7.  Thiamine 100 mg PO DAILY 
+to start ___ 
+RX *thiamine HCl (vitamin B1) [Vitamin B-1] 100 mg 1 tablet(s) 
+by mouth once a day Disp #*30 Tablet Refills:*0 
+8.  Vitamin D ___ UNIT PO 1X/WEEK (FR) 
+RX *ergocalciferol (vitamin D2) 50,000 unit 1 capsule(s) by 
+mouth once a week Disp #*4 Capsule Refills:*0 
+9.  Spironolactone 300 mg PO DAILY 
+RX *spironolactone [Aldactone] 100 mg 3 tablet(s) by mouth 
+Qdaily Disp #*90 Tablet Refills:*0 
+10.Rolling Walker
+DX: R26.8 
+PX: good
+___: 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: Cirrhosis (etiology unclear) decompensated by 
+ascites,grade 1 varices
+
+SECONDARY DIAGNOSIS: Anemia
+                     Coagulopathy
+                     Leukocytosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for expedited transplant 
+work-up.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You had several blood tests and imaging studies to initiate 
+transplant work-up
+- You had a 'paracentesis' where 6L of fluid was removed from 
+your abdomen
+- You were seen by a nutritionist and recommended to drink ___ 
+Ensures per day
+- You were started on diuretics to help get rid of the extra 
+fluid from your body
+- You improved and were ready to leave the hospital.
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?
+- You must never drink alcohol again
+- Please enroll in AA and work with your primary care doctor to 
+determine the best strategy to help you stay sober
+- Take all of your medications as prescribed (listed below)
+- Keep your follow up appointments with your doctors
+- Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight changes by more 
+than 3 pounds
+- Please stick to a low salt diet and monitor your fluid intake
+- If you experience any of the danger signs listed below please 
+call your primary care doctor or come to the emergency 
+department immediately.
+
+It was a pleasure participating in your care. We wish you the 
+best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

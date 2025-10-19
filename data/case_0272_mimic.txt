@@ -1,0 +1,325 @@
+===== DISCHARGE NOTE =====
+note_id=14474175-DS-19 | hadm_id=26007774
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___ placement
+
+ 
+History of Present Illness:
+___ year old male, with h/o HTN, presents with dyspnea on 
+exertion which began one week ago. Patient experienced dyspnea 
+and dizziness ___ minutes while in the shower, ___ minutes 
+following working out in the gym. He had recently started a new 
+exercise regimen. Patient also noticed new onset dyspnea while 
+climbing 2 flts of stairs at work. Endorses extreme fatigue 
+while exercising, and an episode of L arm tingling, hand 
+coolness, and occasional espisodes of mild chest pressure, not 
+associated with exertion, and fleeting L-sided chest "twinges" 
+which he has had for years. He also has had ___ episodes of 
+palpitations over the past ___ years, which have lasted approx 2 
+days and are associated with drinking wine and coffee, and large 
+meals. He sought medical care for these episodes and was 
+reassured they were benign. 
+
+Patient went to his PCP yesterday, and was found to have new Q 
+waves/nonspecific changes on EKG (compared to ___ EKG) and was 
+sent to CHA. Trop at CHA were neg x1. CTA at CHA showed 4.2 cm 
+dilated proximal aorta, and given family h/o fatal dissection at 
+age ___, Pt was transferred here for further evaluation. 
+
+In the ED, Pt was seen by Thoracic Surgery who felt that the 
+pain was not due to the aneurysm. He was asymptomatic. He was 
+placed into obs for a stress test, which showed ___epressions inferolaterally and >___lev in avR and V1.
+ 
+Labs were notable for CBC: Hct 38.9 Chem 7: K 3.1 Cr 0.8; INR 
+1.0; Trop 0.01 x2 
+ 
+In the ED, initial vitals were Temp: 97.9 HR: 65 BP: 136/85 
+Resp: 18 O(2)Sat: 96
+ 
+
+On arrival to the floor, Patient is has no complaints, other 
+than occasional fleeting (lasting seconds) "twinges", in 
+different areas of his chest, which he has had for years . 
+Denies chest pressure, pain, palpitations, dyspnea, or other 
+symptoms.
+ 
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough,  Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No dysuria. Denies arthralgias 
+or myalgias. Ten point review of systems is otherwise negative.  
+
+
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Father w/fatal aortic dissection in ___. Mother with rheumatic 
+fever w/valvular disease, died of CHF at ___. 
+
+half brother with recent CABG
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 97.6  138/96  63  18  97%RA
+General: NAD, comfortable, pleasant
+HEENT: NCAT, PERRL, EOMI
+Neck: supple, no JVD
+CV: regular rhythm, no m/r/g
+Lungs: CTAB, no w/r/r
+Abdomen: soft, NT/ND, BS+
+Ext: WWP, no c/c/e, 2+ distal pulses bilaterally
+Neuro: moving all extremities grossly 
+ 
+DISCHARGE PHYSICAL EXAM:
+VS: 97.9 140/96 70 20 99RA 
+GENERAL: NAD, alert, interactive
+HEENT: NC/AT, sclerae anicteric
+LUNGS: CTAB, otherwise no w/r/r
+HEART: RRR, no m/r/g
+ABDOMEN: NT, ND
+EXTREMITIES: WWP, no c/c/e
+NEURO: awake, A&Ox3
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:10PM   GLUCOSE-103* UREA N-14 CREAT-0.8 SODIUM-141 
+POTASSIUM-3.3 CHLORIDE-102 TOTAL CO2-29 ANION GAP-13
+___ 07:10PM   estGFR-Using this
+___ 07:10PM   cTropnT-<0.01
+___ 07:10PM   WBC-7.2 RBC-4.63 HGB-13.8* HCT-38.9* MCV-84 
+MCH-29.8 MCHC-35.4* RDW-12.8
+___ 07:10PM   NEUTS-53.6 ___ MONOS-6.8 EOS-2.6 
+BASOS-0.8
+___ 07:10PM   PLT COUNT-165
+___ 07:10PM   ___ PTT-25.7 ___
+
+TROPONINS:
+___ 07:10PM BLOOD cTropnT-<0.01
+___ 01:15AM BLOOD cTropnT-<0.01
+___ 08:00AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:40AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 04:00PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:00PM BLOOD cTropnT-<0.01
+
+INTERIM LABS:
+___ 06:40AM BLOOD Triglyc-131 HDL-40 CHOL/HD-5.8 
+LDLcalc-164*
+
+DISCHARGE LABS:
+___ 06:25AM BLOOD WBC-7.0 RBC-4.33* Hgb-12.5* Hct-36.7* 
+MCV-85 MCH-28.8 MCHC-34.0 RDW-12.6 Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-90 UreaN-13 Creat-0.8 Na-143 
+K-4.0 Cl-108 HCO3-27 AnGap-12
+___ 06:25AM BLOOD Mg-1.9
+
+IMAGING/STUDIES
+
+___ Cardiac Cath
+Findings
+ESTIMATED blood loss: 3 cc
+Hemodynamics (see above):
+Coronary angiography:  right dominant
+LMCA: 
+LAD:  mildly calcified mid LAD 70% at first diagonal origin, 80%
+mildly calcified mid diagonal in branch with moderate diffuse
+disease up to 50%
+LCX:  40% proximal, 80% moderately calcified OM1, 50% OM2
+RCA:  40% proximal, 40% distal, 40% PDA
+
+Interventional details
+Change for XB4.0 guide.  Pressure wire of LAD positive with FFR
+0.74.Drug coated ___ of diagonal with 2.25 by 12 Promus 
+Premier
+postdilated with 2.25 balloon with good result.  Drug coated
+___ of LAD with 3.0 by 16 Promus Premier postdilated to 3.25 
+mm
+with good result.  Angiomax used.  Angioseal used.
+
+Assessment & Recommendations
+ 1. ASA 81 mg daily indefinitely and Ticagrelor 90 mg twice 
+daily
+for one year.
+ 2. OK for discharge later today.
+ 3. Staged PCI of OM1 in few weeks.
+
+___ Exercise Stress Test
+EXERCISE RESULTS 
+
+ 
+  
+RESTING DATA 
+EKG:  SINUS, NSSTTWS   
+HEART RATE:  63 BLOOD PRESSURE:  130/88 
+  
+PROTOCOL ___ - TREADMILL 
+STAGE TIME SPEED ELEVATION HEART BLOOD RPP 
+  (MIN) (MPH) (%) RATE PRESSURE   
+1 ___ 1.7 10 97 144/80 ___ 
+2 ___ 2.5 12 118 160/80 ___ 3.4 14 131 178/78 ___ 
+  
+TOTAL EXERCISE TIME:  7.7 % MAX HRT RATE ACHIEVED:  76 
+ 
+SYMPTOMS: NONE   
+ST DEPRESSION: ISCHEMIC PEAK INTENSITY: 1.5-2 MM 
+HORIZONTAL/DOWNSLOPING STD   ___ MM STE 
+  TIME HR BP RPP 
+ONSET: 4.75 EX ___ 
+RESOLUTION: 7 REC 68 142/88 9656 
+ 
+  
+INTERPRETATION: This ___ year old man with recent diagnosis of a 
+non-disecting ascending aorta measuring 4.2 cm was referred to 
+the lab 
+from the ER following negative serial markers for ischemia to 
+evaluate 
+atypical chest discomfort. The patient exercised for 7.7 minutes 
+of a 
+___ protocol and was stopped for ST segment changes and 
+systolic BP 
+approaching 180 mmHg in setting of aortic aneurysm. The 
+estimated peak 
+MET capacity was 9 which represents an average functional 
+capacity for 
+his age. No arm, neck, back or chest discomfort was reported by 
+the 
+patient throughout the study. At peak exercise, there was 1.5-2 
+mm 
+horizontal/downsloping STD in the inferolateral leads and 1 mm 
+and 2 mm 
+STE in V1 and avR, respectively. The STE resolved within 4 
+minutes of 
+recovery and the STD by minute 7 of recovery with rest. The 
+rhythm was 
+sinus with one apb and vpb with one atrial couplet. Appropriate 
+hemodynamic response to exercise and recovery. 
+IMPRESSION: Ischemic EKG changes in the absence of angina. 
+Normal 
+hemodynamic response to exercise. 
+ 
+
+ 
+Brief Hospital Course:
+___ year old male, with h/o HTN, presents with dyspnea on 
+exertion which began one week ago, transferred from CHA after 
+CTA showed 4.2 cm dilated aorta, and found to have ETT 
+concerning for unstable angina.
+
+# CAD: Patient presented with new onset dyspnea, and was 
+evaluated for cardiac etiology. Patient had an abnormal ETT with 
+___epressions inferolaterally and >___lev avR, V1. 
+Troponins were negative. Cardiac catheterization showed mid-LAD, 
+and diagonal with 70 and 80% occlusion, respectively. 
+Drug-eluding stents were placed. Patient will have a followup 
+PCI for an OM1 occlusion in approximately 2 weeks. Patient was 
+started on Ticagrelor, Simvastatin, ASA, Metoprolol and he will 
+continue his home lisinopril.  
+
+# Vasovagal Events: Patient had two vasovagal events, 
+characterized by diaphoresis, mild dyspnea, and lightheadedness. 
+The first while having an IV placed in the ED and the second 
+after having his cardiac catheterization. These two episodes 
+resolved spontaneously. EKG done during the second event showed 
+no significant changes and evaluation for cardiac etiology was 
+negative.  
+
+# HTN:Patietn was continued on his home lisinopril. He was 
+started on Metoprolol 25mg qdaily. His home HCTZ was 
+discontinued.
+ 
+# Proximal aorta dilation: CTA at OSH shows 4.2 cm proximal 
+aortic dilation. 
+- Seen by Thoracic Surg: no intervention at this time
+
+# Anemia: Hct 38.9. Possibly secondary to vegetarian diet. 
+Consider further evaluation as an outpatient, including iron 
+studies.
+ 
+
+TRANSITIONAL ISSUES:
+#Follow up Cardiology
+#Follow up PCP
+___ further work-up for anemia
+#Proximal aortic dilation of 4.2 cm: no intervention at this 
+time
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO QAM 
+2. Lisinopril 5 mg PO QAM 
+
+ 
+Discharge Medications:
+1. Lisinopril 5 mg PO QAM 
+RX *lisinopril 5 mg 1 tablet(s) by mouth q a.m. Disp #*30 Tablet 
+Refills:*0
+2. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet,chewable(s) by mouth qdaily Disp #*30 
+Tablet Refills:*0
+3. Atorvastatin 80 mg PO DAILY 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth qdaily Disp #*30 
+Tablet Refills:*0
+4. TiCAGRELOR 90 mg PO BID 
+Do NOT stop taking this medication without first seeing your 
+Cardiologist. 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet extended release 24 
+hr(s) by mouth qdaily Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Coronary Artery Disease ___ placement x2
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with shortness of breath. You 
+had a cardiac stress test and cardiac catheterization  and were 
+found to have coronary artery disease. You had two drug-eluding 
+stents placed. You will  need to take a new medication, 
+ticagrelor (which you will need to take for one year), aspirin, 
+as well as your blood pressure medications. Your 
+hydrochlorathiazide was discontinued, a new medication, 
+metoprolol, was started, and should continue to take your home 
+lisinopril. You also had two "vasovagal" events during your 
+admission, which resolved. Please take your medications as 
+prescribed and follow up at the medical appointments listed 
+below.
+ 
+Followup Instructions:
+___

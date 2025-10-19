@@ -1,0 +1,349 @@
+===== DISCHARGE NOTE =====
+note_id=12486181-DS-17 | hadm_id=23622676
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS: ___ male with pmhx of GERD 
+and BPH who presents with episode of syncope. Pt states he went 
+for a long walk this morning with his wife (for multiple miles), 
+subsequently did not drink any water, came home, started cooking 
+(and still hadnt eaten), then was eating lunch, after lunch he 
+was sitting down when he began feeling lightheaded. He describes 
+the lightheadedness as similar to when he works out at the gym 
+and doesnt drink water. He says he subsequently passed out and 
+was awoken by his wife. He says that his wife said he shook a 
+little, but that he did not lsoe continence. He said he felt 
+fine afterwards, but a little dehydrated. 
+ 
+In the ED, initial vitals were: 98 60 90/58 98% RA. Labs were 
+significant for Lactate:1.5, Cr 1.3, Trop-T: <0.01. Pt received 
+2L NS and was admitted for workup of syncope.
+
+Vital signs prior to transfer 98 63 97/51 18 100% RA.
+ 
+On the floor, vs were 115/51 HR 66 RR 18 100 % on RA. sitting BP 
+112/60 HR 64 standing BP 108/56 HR 68.  
+
+ 
+Past Medical History:
+ Low back pain/arthritis.
+ Benign prostatic hypertrophy.
+ Gastroesophageal reflux symptoms.
+ History of tuberculosis status post treatment.
+ Colon Cancer T1N0, s/p right colectomy, no h/o chemotherapy
+
+ 
+Social History:
+___
+Family History:
+His family history is notable for his father who had pancreatic 
+cancer and his mother who had heart failure. 
+
+ 
+Physical Exam:
+Admission Exam:
+
+On the floor, vs were 115/51 HR 66 RR 18 100 % on RA. sitting BP 
+112/60 HR 64 standing BP 108/56 HR 68. 
+General: Alert, oriented, no acute distress. REading magazine in 
+bed.   
+HEENT: Sclera anicteric, wet tongue and buccal gutter, 
+oropharynx clear, EOMI, PERRL.   
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal s1 and s2 over aortic, 
+pulmonic, tricuspid and mitral valves. 
+Lungs: Clear to auscultation bilaterally on anterior and 
+posterior chest.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding.  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally. On gait exam, 
+could walk tandem, on tip toes. Negative romberg. In fact, when 
+sped up instructions, patient actually walked on tip toes with 
+arms outstreched with eyes closed with no support.   
+
+Discharge Exam:
+
+TC 97 bp 105-107/57/55 HR 52-62 (on standing BP 106/60 HR 56) 
+pulse ox 100 RA RR 18
+General: Alert, oriented, no acute distress. REading magazine in 
+bed.   
+HEENT: Sclera anicteric, wet tongue and buccal gutter, 
+oropharynx clear, EOMI, PERRL.   
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal s1 and s2 over aortic, 
+pulmonic, tricuspid and mitral valves. 
+Lungs: Clear to auscultation bilaterally on anterior and 
+posterior chest.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding.  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally. On gait exam, 
+could walk tandem, on tip toes. Negative romberg. no pronator 
+drift.  
+
+ 
+Pertinent Results:
+Lab Results On admission:
+
+___ 03:50PM BLOOD WBC-6.2 RBC-4.30* Hgb-14.1 Hct-40.0 
+MCV-93 MCH-32.8* MCHC-35.3* RDW-13.7 Plt ___
+___ 03:50PM BLOOD Glucose-101* UreaN-26* Creat-1.3* Na-140 
+K-3.9 Cl-103 HCO3-23 AnGap-18
+
+On discharge:
+
+___ 05:25AM BLOOD WBC-5.4 RBC-4.03* Hgb-13.1* Hct-37.9* 
+MCV-94 MCH-32.5* MCHC-34.6 RDW-13.7 Plt ___
+___ 05:25AM BLOOD Glucose-87 UreaN-20 Creat-1.0 Na-140 
+K-4.3 Cl-105 HCO3-29 AnGap-___RIEF HOSPITAL COURSE
+
+___ male presents with episode of syncope. He hiked a 
+few hours with his wife in the morning and subsequently felt 
+lightheaded after not drinking watre in the morning. Later in 
+the day, after eating lunch, he sat down and syncopized; per 
+wife no head strike; per pt no urinary or bowel incontinence. 
+Was brought to ED from EMT because B/P was high 90's systolic. 
+
+ACTIVE ISSUES
+# Syncope: Upon further history taking, patient notes he run 
+110-100' systolic BP routinely, and works out in a gym 2 X a 
+week (and reports feeling lightheaded during strenuous activity 
+with little water intake). Overnight telemetry on patient showed 
+no events. Orthostatic taken overnight were negative. Given lack 
+of cardiac disease, history of dehydration and post-prandial 
+event, patient likely had a vaso-vagal event precipitated by a 
+combination of hypovolemic hypotension and post-prandial 
+hypotension.
+
+TRANSITIONAL ISSUES
+# Syncope: Per pcp, may consider stopping home tamsulosin as may 
+cause pt to feel lightheaded or dizzy
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Finasteride 5 mg PO DAILY 
+2. Oxybutynin 5 mg PO TID 
+3. Zolpidem Tartrate 5 mg PO HS:PRN INSOMNIA 
+4. Ranitidine 150 mg PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO HS 
+
+ 
+Discharge Medications:
+1. Omeprazole 20 mg PO DAILY 
+2. Finasteride 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Ranitidine 150 mg PO DAILY 
+5. Oxybutynin 5 mg PO TID 
+6. Tamsulosin 0.4 mg PO HS 
+7. Zolpidem Tartrate 5 mg PO HS:PRN INSOMNIA 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Vasovagal syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were brought to the hospital because you lost consciousness 
+after eating a large meal. After being brought to the hospital, 
+and being evaluated overnight, with a thorough history and 
+physical by our physicians and cardiac monitoring overnight, we 
+determined the reason for your loss of consciousness was likely 
+due to vaso-vagal syncope. We ask you to follow up with your PCP 
+as needed. 
+
+We wish you all the best!
+
+-Your ___ Care team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12486181-DS-16 | hadm_id=29854371
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Tussionex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right inguinal hernia
+ 
+Major Surgical or Invasive Procedure:
+Right inguinal hernia repair with mesh
+
+ 
+History of Present Illness:
+___ year-old man who noticed 2 weeks of pain in his right groin 
+with a golf ball sized bulge that became more prominent with 
+activity. Occasionally he noted nausea but no vomiting. He does 
+note some irregular bowel movements (constipation) over the past 
+several months. He denies any melena or blood in his stool. He 
+also experiences some crampy abdominal pain which is not 
+associated with food intake. 
+ 
+Past Medical History:
+1.  Low back pain/arthritis.
+2.  Benign prostatic hypertrophy.
+3.  Gastroesophageal reflux symptoms.
+4.  History of tuberculosis status post treatment.
+
+ 
+Social History:
+___
+Family History:
+His family history is notable for his father who had pancreatic 
+cancer and his mother who had heart failure. 
+ 
+Physical Exam:
+Temperature 97.7 / HR 63 BP 102/68 RR 16 SaO2 97%/RA
+
+General: AAOx3, NAD
+Pulmonary: CTAB. No r/r.
+CV: Normal S1 and S2. No m/r/g.
+Abdomen: Bowel sounds present. 3 laparascopic incisions, 
+banadaged, c/d/i. No rebound tenderness or guarding. Mildly 
+diffuse TTP.
+Extremities: 2+ pulses. No c/c/e.
+
+ 
+Pertinent Results:
+None.
+ 
+Brief Hospital Course:
+___ year-old man admitted for a right inguinal hernia repair. 
+Post-operatively he has been doing well and ambulating. Pain has 
+been controlled with oral medications including oxycodone and 
+Tylenol. He is tolerating a regular diet without any nausea or 
+vomiting. He has passed some gas, but no bowel movements as yet. 
+His Foley was discontinued post-operative day 1 and he has since 
+voided. He is on his home medications. Vital signs remained 
+stable throughout his hospitalization. He was discharged home 
+with prescription for oxycodone and colace, and has scheduled 
+follow-up with Dr. ___. 
+ 
+Medications on Admission:
+asa 81, flomax 0.4, prilosec 20, ranitidine 150, finasteride 5  
+
+ 
+Discharge Medications:
+1. oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed for fever/pain: No more than 4g every 24 
+hours. Tablet(s) 
+3. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+7. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO once a day. 
+8. colace 100mg bid 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-R inguinal hernia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call the surgery clinic for the following:
+-Temperature greater than 101.4F
+-Increasing redness, swelling, pain at the incision sites
+-Inability to tolerate food or drink
+-Persistent nausea or vomiting
+
+Incision Care:
+*Please call your surgeon or go to the emergency department if 
+you have increased pain, swelling, redness, or drainage from the 
+incision site.
+*Avoid swimming and baths until cleared by your surgeon.
+*You may shower and wash incisions with a mild soap and warm 
+water.  Gently pat the area dry.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+.
+General Discharge Instructions:
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication.  Please take any 
+new medications as prescribed.
+Please take the prescribed analgesic medications as needed.  You 
+may not drive or heavy machinery while taking narcotic analgesic 
+medications.  You may also take acetaminophen (Tylenol) as 
+directed, but do not exceed 4000 mg in one day.
+Please get plenty of rest, continue to walk several times per 
+day, and drink adequate amounts of fluids.  Avoid strenuous 
+physical activity and refrain from heavy lifting greater than 20 
+lbs., until you follow-up with your surgeon, who will instruct 
+you further regarding activity restrictions.  Please also 
+follow-up with your primary care physician.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,525 @@
+===== DISCHARGE NOTE =====
+note_id=18311140-DS-18 | hadm_id=23279453
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Coumadin / Aggrenox
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea, atrial fibrillation 
+ 
+Major Surgical or Invasive Procedure:
+AV junction ablation
+Placement of single ventricle pacer
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F w/hx of afib, tachy-brady syndrome, MR, 
+dilated CM (EF 30%), who presented to the ED today with a HR of 
+160 in atrial fibrillation and a history of worsening SOB and 
+DOE. She states that over the past 2 weeks she has had worsening 
+DOE and starting on the day of presentation (___) she had 
+SOB while at rest. She has had increasing orthopnea without PND. 
+She denies having these symptoms in the past. She denies chest 
+pain, palpitations, abdominal pain, N/V, diarrhea. She endorses 
+leg swelling L>R for the past 1 week. She was recently admitted 
+___ due to dizziness afib with RVR and was evaluated 
+for possible MVR and pacemaker implantation. She was deamed not 
+a good surgical candidate for her moderate MR by CT surgery. She 
+was not a candidate for BiV ICD but was scheduled to undergo EP 
+study with afib ablation for ___ by Dr. ___.  
+.  
+She initially presented to ___ where she 
+was in atrial fibrillation with a rate of 160. She was given 
+Diltiazem 15mg IV X 1, then started on a Diltiazem gtt at 
+5mg/hr. She was given Lasix 60mg IV X 1 and diuresed 3600ml to 
+this. She was sent to ___ ED for referral for EP study and 
+ablation.  
+.  
+In the emergency department, initial vitals: 98.7 90 171/93 18 
+100. She was given no further medications and admitted.  
+.  
+On arrival to the floor, she feels anxious from the transport 
+process. She reports that her SOB is markedly improved compared 
+to arrival to ___. She denies chest pain, pressure 
+or palpitations.  
+.  
+Review of systems:  
+(+) Per HPI also + for cough and recent URI.  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied chest pain or tightness, palpitations. Denied 
+nausea, vomiting, diarrhea, constipation or abdominal pain. No 
+recent change in bowel or bladder habits. No dysuria. Denied 
+arthralgias or myalgias.  
+
+ 
+Past Medical History:
+-AF, tachy-brady syndrome
+-Diabetes
+-dyslipidemia
+-hypertension
+-mitral regurgitation
+-TIA, L arm paresthesias ___
+-s/p appendectomy and cholestectomy many
+years ago, 
+-2 broken ankles- right pinned, 
+-umbilical hernia repair
+-Bilat cataract
+ 
+Social History:
+___
+Family History:
+mother with enlarged heart, MI and DM 
+ 
+Physical Exam:
+VS: BP 143/88 HR 96 RR18 98% RA  
+___: obese woman, anxious  
+HEENT: No scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck 
+Supple, No LAD. JVP = 10cm  
+CARDIAC: irregularly irregular. Normal S1, S2. No m/r/g.  
+LUNGS: Bilateral crackles to mid-lung fields posteriorly. No 
+wheezing or rhonchi.  
+ABDOMEN: NABS. Soft, NT, ND. No HSM  
+EXTREMITIES: 2+ perpipheral edema of lower extremities 
+bilaterally to the thighs. LLE slightly more swollen than RLE. 
+No calf tenderness, negative Homens' sign, 2+ dorsalis pedis/ 
+posterior tibial pulses.  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. ___ strength throughout. ___ reflexes, 
+equal ___. Gait assessment deferred  
+
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 08:00PM   GLUCOSE-50* UREA N-16 CREAT-1.2* SODIUM-137 
+POTASSIUM-3.8 CHLORIDE-98 TOTAL CO2-29 ANION GAP-14
+___ 08:00PM   CALCIUM-9.6 PHOSPHATE-3.6 MAGNESIUM-2.0
+___ 05:10AM   WBC-9.0 RBC-4.11* HGB-11.9* HCT-35.5* MCV-86 
+MCH-28.9 MCHC-33.5 RDW-15.7*
+
+Cardiac Enzymes:
+
+___ 11:25PM   cTropnT-<0.01
+___ 11:25PM   CK-MB-5 proBNP-___*
+___ 11:25PM   CK(CPK)-110
+___ 05:10AM   CK-MB-NotDone cTropnT-<0.01
+___ 05:10AM   CK(CPK)-92
+
+ECG ___: atrial fibrillation at 79bpm. LAD. nl intervals. 
+No ST changes. TW inversions in V1-V6. Compared to prior ECG 
+___, T wave inversions are new.  
+
+Imaging:
+CXR (___): IMPRESSION: Interval placement of pacemaker with 
+single lead terminating within the right ventricle. No 
+pneumothorax. Decreased bilateral pleural effusions. 
+
+CXR (___): IMPRESSIONS: Cardiomegaly with interstitial 
+edema and bilateral small pleural effusions. Right medial 
+basilar likely atelectasis, although underlying consolidation 
+not excluded. Low lung volumes. 
+
+PREVIOUS DATA: 
+.  
+ECHO ___:  
+The left atrium is markedly dilated. The right atrium is 
+moderately dilated. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size. There is moderate global 
+left ventricular hypokinesis (LVEF = 30%). Right ventricular 
+chamber size and free wall motion are normal. The ascending 
+aorta is mildly dilated. The aortic arch is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. The mitral valve leaflets are mildly 
+thickened. Moderate (2+) mitral regurgitation is seen. There is 
+mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion.  
+IMPRESSION: Moderate global left ventricular systolic 
+dysfunction. Moderate mitral regurgitation. Mild pulmonary 
+hypertension.  
+.  
+Cardiac Cath ___ (___):  
+Normal coronary arteries.  
+Globally hypokinetic left ventricle. EF 24%. 3+ mitral 
+regurgitation.  
+Elevated right heart filling pressures.  
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ F with a hx of atrial fibrillation, 
+tachy-brady syndrome, CHF with EF 30%, DM who presented with 
+atrial fibrillation and CHF.  
+.  
+#. Afib RVR: Shortness of breath on admission likey secondary to 
+Afib with RVR. She was comfortable after 60mg IV Lasix at the 
+OSH. Unclear precipitant to her afib with RVR; however she has a 
+history of symptomatic dizziness with afib. Rate initially 
+controlled on diltiazem gtt, then successfully transitioned to 
+PO metoprolol only prior to her procedure. She ultimately had an 
+AVJ ablation and pacer placement. It was only possible to place 
+single lead, so she is still in atrial fibrillation and V paced 
+at 80. She reported a history of rash with Coumadin and 
+Aggatroban, and therefore was not anticoagulated prior to 
+admission. However, upon further questioning, patient stated she 
+has not had allergic reaction to warfarin, only to brand name, 
+coumadin. Prior to procedure she was anticoagulated on heparin. 
+She was then started on warfarin (given CHADS2 of 6) without any 
+complications. She received 10mg on first night, then 7.5mg. She 
+was discharged on 5mg daily. She will have her INR followed by 
+her PCP, ___.  She was also instructed to continue her 
+keflex for a total 3 day course. She will have a pacer 
+interrogation next week.
+
+#. Acute on chronic Systolic congestive heart failure, EF 30%: 
+There was likely some component of CHF to Ms. ___ 
+presentation, given her physical exam and good response to 
+lasix. Her outpatient lasix was increased from 20mg daily to 
+40mg daily. In addition, toprol XL was increased from 50mg to 
+100mg. She was continued on ACEi. She was continued on statin, 
+niacin, ASA. She will f/u with Dr. ___ as outpatient.
+.  
+#. DM: continued glyburide
+
+ 
+Medications on Admission:
+Lasix 20mg PO qday  
+Lisinopril 5mg PO qday  
+Toprol XL 50mg PO qday  
+Simvastatin 10mg PO qHS  
+Glyburide 2.5mg PO QID  
+Aspirin 81mg PO qday  
+Niacin SR 1,000mg PO qday  
+Flaxseed Oil  
+
+ 
+Discharge Medications:
+1. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+3. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Niacin 500 mg Capsule, Sustained Release Sig: Two (2) 
+Capsule, Sustained Release PO DAILY (Daily).  
+6. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) as needed for ___ implant for 1 days: Please take until 
+___.
+Disp:*4 Capsule(s)* Refills:*0*
+7. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+Disp:*60 Tablet(s)* Refills:*2*
+8. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours.  
+9. Outpatient Lab Work
+Please have INR and chem 10 checked on ___. It will 
+be followed up by Dr. ___. 
+10. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+1. Atrial Fibrillation with rapid ventricular response
+2. Acute on chronic systolic congestive heart failure
+
+SECONDARY DIAGNOSIS:
+1. Diabetes Mellitus Type II
+2. s/p transient ischemic attack
+3. Dyslipidemia
+4. Hypertension
+
+ 
+Discharge Condition:
+Stable vital signs, afebrile, ambulatory
+
+ 
+Discharge Instructions:
+You were admitted to ___ on ___ because of your atrial 
+fibrillation (abnormal heart rhythm). We did a procedure to burn 
+out the area that conducts the abnormal rhythm, and placed a 
+pacer as well. Your symptoms improved markedly by the time of 
+discharge. You were started on warfarin to prevent strokes from 
+blood clots that could form in your heart. You should take this 
+medicine everyday. You will need to have your INR checked on 
+___. This is a blood test to check the level of 
+blood thinner. You will have this checked at Dr. ___, 
+and Dr. ___ is aware.
+
+Your medication changes are as follows:
+-START taking warfarin daily. 
+-CHANGE from metoprolol XL 50mg a day to metoprolol XL 100mg a 
+day.
+-INCREASE your lasix from 20mg a day to 40mg a day.
+-CONTINUE taking keflex (antibiotic) until ___.
+
+Because you have a diagnosis of congestive heart failure, you 
+should do the following:
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs in 3 day.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2 liters.
+
+Please return to the ER or call your doctor if you develop chest 
+pain, shortness of breath, new rash/sensation that your throat 
+is closing up, fever>100.4, bloody/black stools, or any other 
+symptoms concerning to you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18311140-DS-17 | hadm_id=23699033
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizziness
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo F c PMH AF, tachy/brady syndrome, dilated cardiomyopathy 
+(EF = 30%), DM2, MR presents as OSH transfer originally to CTS 
+for fatigue and increasing dizziness, being evaluated for mitral 
+valve replacement.  The patient was referred from ___ 
+___, where she had frequent admissions for 
+dizziness, with a history of atrial fibrillation and tachy-brady 
+syndrome.  On presentation, she was found to be in AF c RVR to 
+130s and 140s.  She was stated on dilt gtt for HR control, after 
+which her HR normalized.  She refused anticoagulation with 
+coumadin due to intolerance (nausea and vomiting).  She also had 
+refused cardiac catheterization in the past for evaluation of 
+CAD as an etiology of her cardiomyopathy for long-term, but 
+agreed to it at ___.  ___ @ ___ revealed essentially normal 
+coronary arteries.  She had recently stopped digoxin due to 
+symptomatic bradycardia.  Additionally, she felt that a recent 
+pharmacy change had caused her to feel unwell with taking 
+lisinopril, so she discontiuned it.  CTA did not show any 
+evidence of PE/PNA with some cardiomegaly.  She reported some 
+mild increase in her lower extremity edema over the past week or 
+so and was diuresed c lasix.  She was referred here for 
+evaluation for an ICD/PPM for tachybrady syndrome, and for 
+possible MVR.
+.  
+On review of systems, s/he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.
+ 
+Past Medical History:
+-AF, tachy-brady syndrome
+-Diabetes
+-dyslipidemia
+-hypertension
+-mitral regurgitation
+-TIA, L arm paresthesias ___
+-s/p appendectomy and cholestectomy many
+years ago, 
+-2 broken ankles- right pinned, 
+-umbilical hernia repair
+-Bilat cataract
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. 
+ 
+Physical Exam:
+VS: T= 98.1 BP= 134-158/56-96 HR= 67-122 RR= 18 O2 sat= 96-99% 
+RA
+___: WDWN WF in NAD. Oriented x3. Mood, affect appropriate.  
+
+HEENT: NCAT. EOMI, OP clear, MMM.
+NECK: Supple with JVP of 6 cm.  
+CARDIAC: Distant heart sounds.  Irregular rhythm, normal rate.  
+Nl S1S2 with no appreciable mrg.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. No femoral bruits.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ 
+ 
+Pertinent Results:
+___ 09:25PM BLOOD WBC-8.5 RBC-4.91 Hgb-13.6 Hct-41.2 MCV-84 
+MCH-27.6 MCHC-32.9 RDW-14.9 Plt ___
+___ 06:15AM BLOOD ___ PTT-26.7 ___
+___ 06:15AM BLOOD Glucose-117* UreaN-15 Creat-0.9 Na-139 
+K-4.0 Cl-101 HCO3-28 AnGap-14
+___ 09:25PM BLOOD %HbA1c-9.5*
+___ 09:25PM BLOOD Albumin-4.1
+___ 06:15AM BLOOD Calcium-9.5 Phos-3.9 Mg-2.3
+___ 09:25PM BLOOD ALT-41* AST-42* LD(LDH)-229 AlkPhos-84 
+Amylase-88 TotBili-0.6
+___ 11:54PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+UCx (___): No growth.
+CXR: IMPRESSION: 
+1. No pneumonia. 
+2. Cardiomegaly. 
+.
+EKG: Atrial fibrillation. Consider left ventricular hypertrophy 
+by voltage in lead aVL. Minor ST-T wave abnormalities. No 
+previous tracing available for comparison.  
+.
+TTE (___): The left atrium is markedly dilated. The right 
+atrium is moderately dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. There is 
+moderate global left ventricular hypokinesis (LVEF = 30%). Right 
+ventricular chamber size and free wall motion are normal. The 
+ascending aorta is mildly dilated. The aortic arch is mildly 
+dilated. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. The mitral valve leaflets are 
+mildly thickened. Moderate (2+) mitral regurgitation is seen. 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion.
+.
+IMPRESSION: Moderate global left ventricular systolic 
+dysfunction. Moderate mitral regurgitation. Mild pulmonary 
+hypertension.
+.
+CAROTID U/S: Impression: Right ICA stenosis <40%.  Left ICA 
+stenosis <40%.
+ 
+Brief Hospital Course:
+# DCM - EF 30% by TTE ___.  Per recs, patient is not a good 
+candidate for BiV pacer, as her QRS < 100 msec and therefore 
+shows little evidence of dyssynchrony.  No evidence of volume 
+overload or other heart failure symptoms at this time.
+- Continued BB, lasix.  Restarted patient on lisinopril as she 
+does not list a true allergic reaction / idiosyncratic reaction 
+to the medication.  Instructed patient to stop medication if she 
+does have a reaction to the medication.
+- Patient was switched from atenolol to metoprolol succinate as 
+this has a better indication for heart failure.
+.
+# AF/tachybrady - Patient is currently in AF with HR ranging 
+from ___ - 120s.  Given her tachy/brady syndrome and impaired 
+EF, may be of benefit to place ICD/pacer eventually.  After 
+discussion with Dr. ___ was felt that first an EP study 
+for possible ablation would be tried as outpatient.
+- Follow up with ___ clinic for ablation study next week.
+.
+# MR - Per CTS, patient is not a good surgical candidate for MVR 
+at this time.  TTE ___ only showed moderate MR.
+.
+# DM2 - SSI.
+# HLP - Continue statin.
+# HTN - SBP 130s - 150s.
+ 
+Medications on Admission:
+simva 20
+glyburide 2.5 qid
+atenolol 25
+lasix 20
+asa 81
+niacin 1000
+flaxseed
+ 
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+4. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+5. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO four times a 
+day.  
+6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Niacin 1,000 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO once a day.  
+8. Flaxseed Oil  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: atrial fibrillation
+Secondary Diagnoses:
+1. tachy/brady syndrome
+2. diabetes mellitus, type 2
+3. hyperlipidemia
+4. hypertension
+5. dilated cardiomyopathy
+6. mitral regurgitation
+7. history of transient ischemic attack
+8. cataracts
+
+ 
+Discharge Condition:
+Good, without chest pain or shortness of breath.
+
+ 
+Discharge Instructions:
+You were seen at ___ for evaluation of mitral valve 
+replacement and/or implantable cardioverter/defibrillator 
+placement.  After discussion with our cardiothoracic surgeons, 
+it was felt that you should not receive mitral valve replacement 
+at this time.
+
+Additionally, we felt that there was no need to place a ICD at 
+this time, but that you could benefit from an ablation study, 
+which examines the conduction circuits in your heart and 
+potentially removes abnormal ones.  Dr. ___ cardiac 
+electrophysiologist, will contact you in the near future to 
+schedule this procedure.
+
+The following medications were changed:
+DISCONTINUED atenolol
+ADDED metoprolol succinate, as this is a better medication for 
+heart failure
+ADDED lisinopril, as this is an important medication for heart 
+failure
+
+If you experience palpitations, dizziness, chest pain, shortness 
+of breath, or any other worrisome symptoms, please contact your 
+PCP or go to the Emergency Department.
+ 
+Followup Instructions:
+___

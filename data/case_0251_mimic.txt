@@ -1,0 +1,429 @@
+===== DISCHARGE NOTE =====
+note_id=16255598-DS-13 | hadm_id=22213323
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Aspirin / Advair Diskus / Flonase / Percocet / Flovent Diskus / 
+Nexium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Carcinoma of the Colon
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic right colectomy
+
+ 
+History of Present Illness:
+The patient is a ___ year old female who presented with the 
+diagnosis of a tumor in the hepatic flexure for laproscopic 
+colectomy. She did not have any clinic sins or symptoms of 
+obstruction, but the was concern that the tumor may cause 
+obstruction because of its size and location. 
+ 
+Past Medical History:
+status post laproscopic cholecystectomy
+obesity
+asthma
+bursitis
+iron deficiency anemia
+Grave's disease
+ 
+Social History:
+___
+Family History:
+Her father died of prostate cancer.  Her mother
+has a history of polyps, but is otherwise healthy, and she 
+denied
+any health problems of her siblings.
+
+ 
+Physical Exam:
+On admission:
+
+Gen- AOx3, NAD
+HEENT-  NCAT
+Neck- Supple, without mass, nodes, or thyromegaly.  
+Pulm- CTAB
+CV- S1/S2 w/o MGR
+Abd- soft, NTND. well healed laproscopic scars in upper and 
+lower abdomen
+Ext- No C/C/E
+Neuro- CN II-XII intact, b/l symmetric strength and sensation
+
+On Discharge:
+Gen- AOx3, NAD
+HEENT-  NCAT
+Neck- Supple, without mass, nodes, or thyromegaly.  
+Pulm- CTAB
+CV- S1/S2 w/o MGR
+Abd- soft, NTND. laproscopic wounds are CDI w/o surrounding 
+erythema
+Ext- No C/C/E
+Neuro- CN II-XII intact, b/l symmetric strength and sensation
+
+ 
+Pertinent Results:
+___ 08:19PM   POTASSIUM-3.7
+___ 08:19PM   MAGNESIUM-2.2
+___ 08:19PM   HCT-28.8*
+ 
+Brief Hospital Course:
+The patient was admitted post-operatively after laproscoic right 
+colectomy.  She was stable post-op, and transferred to the 
+floor. Her post-op care followed the colectomy pathway. Her pain 
+was controlled with morphine PCA then transitioned to vicodin 
+once she was tolerating oral medications. Her diet was advanced 
+slowly as tolerated. At the time of discharge, she was 
+tolerating a regular diet and had regained bowel function. She 
+was discharged to home on post-op day #3 in good condition.
+ 
+Medications on Admission:
+Methimazole
+albuterol inhaler
+ 
+Discharge Medications:
+1. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+every ___ hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+2. Methimazole 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+Tablet(s) 
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colon Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for a colectomy.  You had an 
+uneventful recovery and were discharged on post operative day 
+#3. You may continue to take a regular diet.  Take stool 
+softeners as needed for 1 bowel movement per day. While taking 
+narcotic pain mediciations, do not drive or operate heavy 
+machinery. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16255598-DS-14 | hadm_id=23669486
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Advair Diskus / Flonase / Percocet / Flovent Diskus / 
+Nexium Packet
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weakness, fatigue, poor PO intake.
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+___ with h/o metastatic colon CA to the liver and lung, not 
+currently on treatment, who presents with two weeks of weakness 
+and fatigue.  She has otherwise been feeling well.  No chest 
+pain, dyspnea, abdominal pain, nausea, vomiting, diarrhea, or 
+black/bloody stools. No dysuria. Family has noticed some 
+jaundiced sclerae recently.
+ 
+In the ED, initial VS were notable for hypotension.  She was 
+given 3L NS with improvement in her hypotension.  While in the 
+ED she also triggered for tachycardia to 130.  The episodes were 
+transient and not captured on EKG, but reportedly were narrow 
+complex, regular and had a sudden onset on telemetry.  She was 
+asymptomatic during the episodes.  She was given zofran, 
+lorazepam and KCl while in the ED.  CTA was ordered to r/o PE 
+given tachycardia and hx of malignancy, + ddimer and was 
+negative.  Head CT showed no e/o metastatic disease.  RUQ US 
+showed little change with multiple liver mets and no change in 
+the caliber of the CBD.  CXR showed diffuse pulmonary mets.  
+Labs were notable for a K of 3.0, tbili of 25.8, transaminitis 
+and elevated alk phos as well as a gap acidosis.
+
+On arrival to the MICU, pt has no complaints.  She states that 
+she has not urinated since arrival and is refusing a foley. 
+
+ 
+Past Medical History:
+status post laproscopic cholecystectomy
+obesity
+asthma
+bursitis
+iron deficiency anemia
+Grave's disease
+
+Oncologic history (per ___:  
+- Ms. ___ is a ___ female who underwent her 
+first colonoscopy, which was also done for iron deficiency 
+anemia, on which was found a large mass at the hepatic flexure.  
+
+The pathology showed at least high-grade dysplasia.  
+- She presented to Dr. ___ for evaluation on 
+/___ and on ___ was taken for a laparoscopic right 
+colectomy. On this, she was found to have a T3 N2b colon 
+adenocarcinoma. Of note, it is KRAS mutation positive.  
+- CT Torso performed on ___ showed metastatic disease to the 
+liver and lungs.  
+- She commenced FOLFOX on ___.  
+- She developed darkening of her gums and tongue as well as cold 
+
+sensitivity without numbness leading to cessation of Oxaliplatin 
+
+therapy.  
+- She received one dose of FOLFIRI on ___  
+- She started on FLOX on ___  
+-She had progression of her disease on a CT dated ___.  
+- She started on irinotecan at a three weeks schedule with her 
+first dose on ___.  
+- She was changed to a weekly Irinotecan regimen and Avastin was 
+added on ___  
+
+- ___ started Regorafenib at 80 mg daily on days 1 
+through 21 of a 28-day cycle.
+- ___ stopped regorafenib due to worsening LFTs with 
+plan to start capecitabine as only option for therapy (not 
+candidate for other phase 1 trials given elevated LFTs)
+ 
+Social History:
+___
+Family History:
+Her father died of prostate cancer.  Her mother has a history of 
+polyps, but is otherwise healthy, and she denied any health 
+problems of her siblings.
+ 
+Physical Exam:
+Admission PE:
+Vitals: T:98.4 BP:102/68 P:92 R:26 O2:96% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera icteric, MMM, oropharynx clear, EOMI, PERRL  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema, no calf tenderness  
+Neuro: aaox3, CNII-XII intact, ___ strength upper/lower 
+extremities, grossly normal sensation, 2+ reflexes bilaterally, 
+gait deferred, finger-to-nose intact  
+
+DISCHARGE PHYSICAL EXAM:
+Patient expired.
+ 
+Pertinent Results:
+Admission Labs:
+___ 07:45PM   LACTATE-4.3*
+___ 07:40PM   GLUCOSE-111* UREA N-20 CREAT-0.9 SODIUM-135 
+POTASSIUM-3.0* CHLORIDE-87* TOTAL CO2-29 ANION GAP-22*
+___ 07:40PM   ALT(SGPT)-84* AST(SGOT)-332* CK(CPK)-202* ALK 
+PHOS-636* TOT BILI-25.8* DIR BILI-17.2* INDIR BIL-8.6
+___ 07:40PM   LIPASE-12
+___ 07:40PM   CK-MB-2 cTropnT-<0.01
+___ 07:40PM   ALBUMIN-3.0* CALCIUM-9.6 PHOSPHATE-2.5* 
+MAGNESIUM-2.8*
+___ 07:40PM   WBC-8.4 RBC-4.68 HGB-14.2 HCT-41.3 MCV-88 
+MCH-30.2 MCHC-34.3 RDW-15.6*
+___ 07:40PM   NEUTS-72* BANDS-8* LYMPHS-16* MONOS-3 EOS-1 
+BASOS-0 ___ MYELOS-0 NUC RBCS-1*
+___ 07:40PM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL 
+POIKILOCY-1+ MACROCYT-OCCASIONAL MICROCYT-NORMAL POLYCHROM-1+ 
+TARGET-1+
+___ 07:40PM   PLT SMR-UNABLE TO  PLT COUNT-ERROR
+___ 07:40PM   ___ PTT-34.7 ___
+.
+>> IMAGING:
+===========
+CT head: Multiple calcific foci are noted throughout the brain 
+and without surrounding edema, most likely representing dural 
+calcifications.  However, CT is low in sensitivity for 
+evaluation for masses and if clinical suspicion is high, MRI is 
+the recommended study of choice. 
+.
+RUQ U/S: Little change in comparison to prior study with 
+heterogeneous echotexture of the liver consistent with known 
+metastatic disease. The common bile duct remains stable at 9 mm. 
+
+.
+CTA chest:
+1. Limited study due to contrast timing demonstrates no large 
+central pulmonary embolus. 
+2. Innumerable pulmonary metastases throughout bilateral lungs 
+have increased in soft tissue density as well as in number. 
+These findings are suggestive of worsening metastatic disease. 
+3. The visualized portion of the upper abdomen again 
+demonstrates numerous lesions throughout the liver. There is, 
+however, evidence of new perihepatic small ascites suggestive of 
+worsening metastatic disease. 
+
+___
+CXR
+IMPRESSION:   
+Diffuse pulmonary metastases.  No acute cardiopulmonary 
+abnormality otherwise demonstrated. 
+
+___ MRI ABDOMEN
+IMPRESSION: 
+1.  Limited examination as described above.  Innumerable 
+metastatic lesions throughout all hepatic lobes appear 
+progressed since ___. 
+2.  Interval progression of multifocal intrahepatic biliary 
+ductal dilatation which suggests a more diffuse process. 
+3.  Moderate perihepatic and perisplenic ascites is also new 
+since ___. 
+
+EKGs
+====
+___
+Sinus rhythm. Leftward axis. Left ventricular hypertrophy. 
+Non-specific 
+repolarization abnormalities. Compared to the previous tracing 
+of ___ the findings are similar but repolarization 
+abnormalities are slightly more prominent and may be related to 
+left ventricular hypertrophy or ischemia. 
+Rate PR QRS QT/QTc P QRS T 
+93 170 94 388/445 28 -24 6 
+ 
+___
+Sinus tachycardia. Non-specific repolarization abnormalities. 
+Compared to the previous tracing the rate has increased. Voltage 
+criteria for left ventricular hypertrophy are no longer seen. 
+Repolarization abnormalities are similar.  
+Rate PR QRS QT/QTc P QRS T 
+128 186 98 292/411 46 -14 81 
+ 
+___
+Sinus tachycardia. Non-specific repolarization abnormalities. 
+Compared to the previous tracing the contour of ST segment 
+depression is slightly changed. Clinical correlation is 
+suggested.  
+Rate PR QRS QT/QTc P QRS T 
+133 154 94 304/431 45 -14 63 
+ 
+Brief Hospital Course:
+>> BRIEF HOSPITAL COURSE
+========================
+___ yo female with metastatic colon CA to liver and lung who 
+presented to the ED with fatigue, paroxysmal SVT, hypokalemia 
+and worsening hyperbilirubinemia, briefly admitted to the ICU 
+with tachycardia, now transferred to floor for further 
+monitoring, work up of hyperbilirubinemia, potassium repletion 
+and goals of care discussions. Given her hyperbilirubinemia, the 
+Hepatology team was consulted and recommended MRI, which showed 
+innumerable metastases to the liver. Her clinical status 
+continued to worsen due to hepatic encephalopathy, a family 
+meeting was held, and she was made CMO. Her hepatic 
+encephalopathy progressed, and she passed away ___.
+
+>> ACTIVE ISSUES:
+=================
+#) Altered mental status in the setting of liver dysfunction: 
+Mental status was steadily worsening throughout hospital course. 
+Given extremely elevated bilirubin and worsening innumerable 
+hepatic metastatic lesions, this is most likely due to hepatic 
+encephalopathy. CBD was normal in caliber on recent ultrasound. 
+Hepatology was consulted and recommended MR imaging to evaluate 
+for reversible causes of hepatic dysfunction. No revsible causes 
+were found (evidence of intrahepatic dilatation). She did not 
+respond considerably to rifaximin or lactulose. Given her 
+worsening mental status, a family meeting was held and her code 
+status was changed to CMO. She continued to have worsening 
+mental status as her hospital course progressed, and she passed 
+away ___.
+
+#) Metastatic colon cancer: She has metastatic disease with 
+significant worsening of bilirubin in the last 2 weeks, likely 
+due to progression of liver metastases. Per oncology notes, she 
+is not eligible for further clinical trials but she is 
+interested in pursuing further care, unclear how much she 
+understands regarding her prognosis. She was taking regorafenib 
+briefly as outpatient, but stopped d/t transaminitis. 
+Capecitabine therapy was the only therapy she was eligible for, 
+and the plan was to slowly transition her to more comfort care 
+measures. She passed away ___, likely due to 'innumerable' 
+hepatic lesions and worsening liver disease.
+
+>> TRANSITIONAL ISSUES
+======================
+- Emergency contact: ___ (___) daughter and HCP.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob, wheezing 
+2. Citalopram 20 mg PO DAILY 
+3. EpiPen *NF* (EPINEPHrine) 0.3 mg/0.3 mL Injection prn 
+allergic reaction 
+4. Hydrochlorothiazide 12.5 mg PO DAILY 
+Hold for SBP<100 
+5. Lorazepam 0.5 mg PO Q4H:PRN anxiety 
+6. Nasonex *NF* (mometasone) 50 mcg/actuation NU daily 
+7. Montelukast Sodium 10 mg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Ondansetron 8 mg PO Q8H:PRN n/v 
+10. Potassium Chloride 20 mEq PO DAILY Duration: 24 Hours 
+11. Prochlorperazine 10 mg PO Q6H:PRN n/v 
+12. regorafenib *NF* 40 mg Oral daily 
+160 mg days ___ of each 28 day cycle 
+13. Calcium Carbonate 500 mg PO DAILY 
+14. Vitamin D ___ UNIT PO DAILY 
+15. Docusate Sodium 100 mg PO DAILY:PRN constipation 
+16. Ferrous Sulfate 325 mg PO DAILY 
+17. Loperamide 2 mg PO QID:PRN diarrhea 
+18. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+Patient expired.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Patient expired.
+ 
+Discharge Condition:
+Patient expired.
+ 
+Discharge Instructions:
+Patient expired.
+ 
+Followup Instructions:
+___

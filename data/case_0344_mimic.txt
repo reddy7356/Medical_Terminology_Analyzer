@@ -1,0 +1,105 @@
+===== DISCHARGE NOTE =====
+note_id=16761619-DS-4 | hadm_id=21340777
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p fall out of chair with left leg pain
+ 
+Major Surgical or Invasive Procedure:
+___:  Removal of hardware and IM nail left hip
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female who on ___ fell getting 
+out of a chair.  She was taken to ___ and 
+found to have a left femoral neck fracture around old hardware.  
+She was then transferred on ___ to the ___ for further 
+care.
+ 
+Past Medical History:
+s/p L hip fixation (universal slotted stainless steel nail) 
+___ years ago
+HTN
+Eczema
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+Upon admission
+
+Alert and oriented
+
+Cardiac:  Regular rate
+Chest:  Lungs clear bilaterally
+Abdomen:  Soft non-tender non-distended
+Extremities:  LLE, mild erythmia, shortened, no rotation, 
++pulses/sensation.
+ 
+Brief Hospital Course:
+Ms. ___ presented to the ___ on ___ via transfer from 
+___ with a femoral neck fracture around 
+old hardware.  She was admitted, consented, and prepped for 
+surgery.  Later that day she was taken to the operating room and 
+underwent a removal of her left femur hardware and TFN to her 
+left hip fracture.  She tolerated the procedure well, was 
+extubated, transferred to the recovery room, and then to the 
+floor.  On the floor she was seen by physical therapy to improve 
+her strength and mobility.
+
+The rest of her hospital stay was uneventful with her lab data 
+and vital signs within normal limits and her pain controlled.  
+She is being discharged today in stable condition.
+ 
+Medications on Admission:
+Lasix
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left femoral neck fracture
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Continue to be weight bearing as tolerated on your left leg.
+
+Continue to take your lovenox injections as instructed for a 
+total of 4 weeks after surgery
+
+Please take all your medications as prescribed
+
+If you have any increased redness, drainage, or swelling, or if 
+you have a temperature greater than 101.5, please call the 
+office or come to the emergency department.
+Physical Therapy:
+Activity:  As tolerated
+ Left lower extremity:  Full weight bearing
+
+Treatments Frequency:
+Staples/sutures out 14 days after surgery 
+ 
+Followup Instructions:
+___

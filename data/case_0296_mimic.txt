@@ -1,0 +1,337 @@
+===== DISCHARGE NOTE =====
+note_id=19742322-DS-12 | hadm_id=27084745
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+PCI ___
+ 
+History of Present Illness:
+___ yo M with history of BPH presented with anterior STEMI found 
+to have proximal LAD occlusion s/p DES x1 to LAD complicated by 
+stent thrombosis requiring balloon angioplasty, admitted to CCU 
+for post STEMI monitoring.
+
+Patient reports for the past month he has been having substernal 
+burning while jogging. He visited with his PCP and scheduled ___ 
+non urgent stress test. This morning around 10:30 AM patient was 
+driving to work and developed excruciating ___ substernal non 
+radiating pain. He was able to walk into his office and 
+described the pain as worse with ambulation. He immediately had 
+a friend call ___ and was brought to ___. EMS administered 
+fentanyl, aspirin, nitroglycerin x4 and Zofran.
+
+In the ED initial vitals were:  HR 82 BP: 122/62 O(2)Sat: 92
+
+EKG: NSR HR 66 Left axis RBBB STE elevations anterolaterally
+
+Patient was immediately taken to the cath lab where he was found 
+to have proximal LAD occlusion s/p DES x1 LAD, complicated by 
+stent thrombosis requiring balloon angioplasty.
+
+On arrival to the CCU patient reports chest pain has resolved. 
+He feels well and has no complaints. 
+
+ 
+Past Medical History:
+No cardiac history. 
+BPH, kidney stones, erectile dysfunction 
+ 
+Social History:
+___
+Family History:
+Mother died of MI @ age ___. Brother MI and stent at age ___.
+ 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+===========================
+VS: Reviewed in metavision  
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAM:
+===========================
+VS: 98.3F 110/60 HR86 RR18 98%RA 
+GENERAL: Well developed, well nourished in NAD. 
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis 
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===========================
+___ 12:30PM   GLUCOSE-150* UREA N-17 CREAT-1.0 SODIUM-139 
+POTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-21* ANION GAP-15
+___ 12:30PM   CALCIUM-8.3* PHOSPHATE-3.2 MAGNESIUM-2.0
+___ 11:29AM   ___ PO2-49* PCO2-38 PH-7.42 TOTAL CO2-25 
+BASE XS-0
+___ 11:29AM   GLUCOSE-137* LACTATE-1.9 NA+-137 K+-6.5* 
+CL--106
+___ 11:29AM   HGB-14.2 calcHCT-43 O2 SAT-82 CARBOXYHB-3 MET 
+HGB-0
+___ 11:29AM   freeCa-1.02*
+___ 11:13AM   UREA N-17 CREAT-1.1
+___ 11:13AM   estGFR-Using this
+___ 11:13AM   LIPASE-42
+___ 11:13AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 11:13AM   WBC-10.6* RBC-4.48* HGB-13.6* HCT-41.7 MCV-93 
+MCH-30.4 MCHC-32.6 RDW-15.2 RDWSD-51.7*
+___ 11:13AM   ___ PTT-23.2* ___
+___ 11:13AM   PLT COUNT-322
+___ 11:13AM   ___
+
+IMAGING
+======================
+CATH ___
+Interventional Details
+Emergency coronary angiography demonstrated reocclusion of the 
+previously placed proximal LAD stent with extensive thrombus. 
+After administering additional IV heparin and tirofiban, the LAD 
+lesion was crossed with a .014 Prowater wire. Thrombectomy was 
+attempted but could not be passed. We then redilated the LAD 
+stent with a 3.5 mm balloon, re-establishing antegrade flow. 
+IVUS was then performed which demonstrated underexpansion of the 
+ostial portion of the stent. We then redilated the LAD ostium
+with a 4.0 mm and a 4.5 mm NC balloon up to 20 atm. Repeat IVUS 
+then demonstrated good stent expansion without any residual 
+dissection. The final angiographic result demonstrated 0% 
+residual stenosis, normal flow, and no residual dissection. The 
+previously noted 60% long mid LAD lesion did not appear flow 
+limiting and was not treated.
+Impressions:
+Successful emergency re-PTCA of proximal LAD stent thrombosis, 
+treated with successful IVUS-guided repeat PTCA
+
+___ CXR
+There is no evidence of pneumonia, pulmonary edema, pleural 
+effusion or 
+pneumothorax. 
+  
+___ TTE
+There is moderate regional left ventricular systolic dysfunction 
+with severe hypokinesis to akinesis of the anteroseptal, 
+anterior, and distal septal and lateral walls, and apex. The 
+apex appears trabeculated. A left ventricular thrombus is not 
+seen, but cannot exclude a small thrombus in the apex. The 
+remaining segments contract normally (LVEF = 40 %). Overall left 
+ventricular systolic function is mildly depressed. Right 
+ventricular chamber size and free wall motion are normal. Trace 
+aortic regurgitation is seen. Trivial mitral regurgitation is 
+seen. There is an anterior space which most likely represents a 
+prominent fat pad. 
+
+ Compared with the prior study (images reviewed) of ___, 
+left ventricular systolic function is similar.  
+
+___ CXR
+Lungs are clear.  Small bilateral effusions are seen.  Heart 
+size is Mildly  enlarged but unchanged.  No pneumothorax is 
+seen.  Cardiomediastinal silhouette is stable. 
+
+INTERVAL LABS
+======================
+___ 12:19AM BLOOD CK-MB-294* cTropnT-10.54*
+___ 06:27AM BLOOD CK-MB-177* cTropnT-7.21*
+___ 06:27AM BLOOD %HbA1c-5.4 eAG-108
+___ 06:27AM BLOOD Triglyc-170* HDL-65 CHOL/HD-3.6 
+LDLcalc-134*
+
+DISCHARGE LABS
+======================
+___ 07:32AM BLOOD WBC-13.4* RBC-4.18* Hgb-12.6* Hct-38.6* 
+MCV-92 MCH-30.1 MCHC-32.6 RDW-15.1 RDWSD-50.7* Plt ___
+___ 07:32AM BLOOD Plt ___
+___ 07:32AM BLOOD Glucose-97 UreaN-17 Creat-1.1 Na-142 
+K-4.0 Cl-103 HCO3-21* AnGap-18
+___ 07:32AM BLOOD Calcium-8.7 Phos-2.4* Mg-2.___ yo M with history of BPH presented with anterior STEMI found 
+to have proximal LAD occlusion s/p DES x1 to LAD complicated by 
+stent thrombosis requiring balloon angioplasty admitted to CCU 
+for post STEMI monitoring.
+
+ACUTE ISSUES:
+=======================
+#ANTERIOR STEMI
+No prior cardiac history, presented with severe substernal chest 
+pain of one hour, found to have STE in V3-V5. Taken to cath lab 
+and found to have proximal LAD occlusion and received DES x1 to 
+LAD. Immediately after the procedure he developed recurrent 
+chest pain and persistent STE EKG changes, so another 
+catheterization was performed, which showed in stent thrombosis 
+requiring balloon angioplasty. After cath had recurrent CP 
+similar to presentation in terms of location and character, and 
+again associated with nausea/diaphoresis/SOB. He also developed 
+hypoxia with a new O2 requirement of ___ O2/min. CXR showed 
+vascular congestion supporting possibility of flash pulmonary 
+edema given worsened EF from LAD infarct, and he received IV 
+Lasix with good effect. No STE or PR depressions on serial EKG. 
+Bedside echo ruled out pericardial effusions, free wall rupture, 
+or papillary rupture without signs of MR that could explain 
+flash edema. He was briefly on tirofiban and his symptoms 
+improved, presumed to be due to post-MI pericarditis. A1c 5.4, 
+LDL 134. Formal TTE with EF 48%, diffuse LV hypokinesis. Pt 
+continued to have SOB on inspiration, likely ___ to side effect 
+of ticagrelor, so ticagrelor was discontinued and he was 
+re-loaded with Plavix and continued on daily plavix. He was also 
+started on atorvastatin, aspirin, metroprolol and an Lisinopril.
+
+___
+Cr to peak of 1.3, Baseline Cr ~ 1.0. Likely multifactorial with 
+lack of PO intake, contrast load and initiation of ACE. 
+Creatinine was 1.1 on the day of discharge. 
+
+#Leukocytosis and cough. Patient remained afebrile and with no 
+consolidation on chest x-ray, but did have a cough and 
+leukocytosis. He was started on five days of azithromycin (D1: 
+___ for CAP. 
+
+CHRONIC ISSUES:
+================
+#BPH:
+-Continue tamsulosin
+
+TRANSITIONAL ISSUES:
+======================
+[] NEW MEDS: metoprolol XL 50mg daily, lisinopril 5mg daily, 
+Plavix 75mg daily, atorvastatin 80mg daily
+[] Antibiotic course for CAP: Azithromycin through ___
+[] Cardiac rehab referral
+[] Consider stress testing to evaluate for significance of 
+remaining CAD
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamsulosin 0.4 mg PO BID 
+2. TRIAzolam 0.25 mg PO QHS:PRN insomnia 
+3. Aspirin 81 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth every night Disp 
+#*30 Tablet Refills:*0 
+2.  Azithromycin 250 mg PO Q24H Duration: 4 Doses 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*4 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Guaifenesin-CODEINE Phosphate ___ mL PO Q6H:PRN cough 
+Duration: 8 Doses 
+RX *codeine-guaifenesin [Coditussin AC] 10 mg-200 mg/5 mL ___ 
+mL by mouth every 6 hours as needed for cough Refills:*0 
+5.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+6.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+7.  Aspirin 81 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Tamsulosin 0.4 mg PO BID  
+10.  TRIAzolam 0.25 mg PO QHS:PRN insomnia  
+11.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+==================
+STEMI
+
+Secondary diagnosis
+==================
+Acute kidney injury 
+Community acquired pneumonia 
+Flash pulmonary edema
+Benign prostatic hypertrophy 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___!
+
+WHY WERE YOU ADMITTED?
+-You were admitted because you were having chest pain and you 
+were found to be having a heart attack.
+
+WHAT HAPPENED IN THE HOSPITAL?
+-You were taken to the cath lab and had a stent placed to open 
+one of the arteries in your heart that was clogged.
+-You were monitored in the CCU and then on the general 
+cardiology ward to make sure you didn't have any complications 
+after your procedure.
+-You developed a cough and were discharged on antibiotics for 
+possible pneumonia.
+
+WHAT SHOULD YOU DO AT HOME?
+-You should take your new medications which include: Plavix, 
+metoprolol, lisinopril and atorvastatin as prescribed. Please do 
+not stop taking your aspirin or Plavix, these are very important 
+medications
+-Continue taking azithromycin for 4 more days after your 
+discharge. The last day of antibiotics will be ___.
+-Please take your home medications as you were previously. 
+-Please follow up with you new cardiologist, Dr. ___ 
+your PCP.
+
+Thank you for allowing us be involved in your care, we wish you 
+all the best!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

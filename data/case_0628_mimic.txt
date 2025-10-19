@@ -1,0 +1,286 @@
+===== DISCHARGE NOTE =====
+note_id=17850007-DS-15 | hadm_id=28093687
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Trauma:  pedestrian struck
+
+small SAH
+Grade 2 liver laceration
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old pedestrian who was struck by MVC. Presented to ___ 
+and was found to have a small traumatic SAH on the right in the 
+Slyvian fissure. His blood alcohol on arrival was 292. He was 
+also found to have a liver laceration for which he is being 
+managed on the acute care surgery service. 
+
+ 
+Past Medical History:
+elevated blood ETOH level upon admission
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+PHYSICAL EXAM: upon admission:  ___:
+
+O: AVSS
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: reactive        EOMs
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, intermittently combative.
+Intoxicated.
+Orientation: Oriented to person, place (hosp), and date.
+Language: Speech thickened.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils round and reactive to light, L pupil ___, R pupil 
+2-1.
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch.
+Toes downgoing bilaterally
+
+ 
+Pertinent Results:
+___ 11:00AM BLOOD WBC-5.8 RBC-4.63 Hgb-13.9* Hct-41.7 
+MCV-90 MCH-29.9 MCHC-33.2 RDW-13.5 Plt ___
+___ 11:20PM BLOOD Hct-39.4*
+___ 03:15AM BLOOD WBC-5.3 RBC-4.82 Hgb-14.7 Hct-43.6 MCV-91 
+MCH-30.5 MCHC-33.7 RDW-13.8 Plt ___
+___ 11:00AM BLOOD Plt ___
+___ 07:26AM BLOOD ___ PTT-34.7 ___
+___ 03:15AM BLOOD ___ 07:26AM BLOOD Glucose-62* UreaN-16 Creat-1.0 Na-142 
+K-4.1 Cl-104 HCO3-22 AnGap-20
+___ 03:15AM BLOOD UreaN-16 Creat-1.2
+___ 07:26AM BLOOD Calcium-8.7 Phos-4.3 Mg-2.4
+___ 03:15AM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 03:38AM BLOOD pO2-83* pCO2-41 pH-7.37 calTCO2-25 Base 
+XS--1 Comment-GREEN
+___ 03:38AM BLOOD freeCa-1.11*
+
+___: chest x-ray:
+
+No acute cardiopulmonary process.
+
+___:  CT of the head:
+
+Probable small subarachnoid hemorrhage in the right temporal 
+lobe along the sylvian fissure. 
+
+___:  cat scan of the chest:
+
+.  Bilobed hypodensity at the junction of hepatic segments I, 
+VI, and VII 
+measuring 6.6 x 4.3 x 4.7 cm has features more suggestive of a 
+hemangioma 
+rather than laceration, though this is incompletely assessed on 
+this 
+single-phase study.  Benignity is supported by lack of adjacent 
+capsular 
+defect or subcapsular/perihepatic hematoma.  If there is any 
+clinical 
+suspicion for bleed, an MRI could be considered for more 
+definitive diagnosis. 
+2.  A hyperenhancing focus along the periphery of segment 
+VII/VIII does not have an associated hematoma, likely a small 
+perfusional shunt. 
+3.  Markedly enlarged and heterogeneous left thyroid lobe 
+warrants correlation with thyroid function tests and US 
+evaluation for possible FNA. 
+
+___:  right knee x-ray:
+
+No fracture or dislocation. 
+  
+Mild degenerative changes within the lower lumbar spine and at 
+the right knee.
+
+___:  right femur:
+
+ No fracture or dislocation.
+
+___: right knee:
+
+No fracture or dislocation. 
+  
+Mild degenerative changes within the lower lumbar spine and at 
+the right knee.
+
+___:  thyroid US:
+
+ -Large dominant heterogenous nodule within the mid/ lower pole 
+of left 
+thyroid, approximately 7 cm, with small internal cystic 
+elements. A 
+nonemergent ultrasound-guided fine needle aspiration is 
+recommended, when 
+clinically appropriate. 
+
+  
+
+  
+
+  
+
+ 
+Brief Hospital Course:
+___ Year old male with unknown PMHx presented s/p pedestrian 
+struck and ETOH as trauma team activation. Evaluation for 
++change in MS and ___ pain. CT head showed right temporal lobe 
+subarachnoid hemorrhage, FAST ultrasound was negative for free 
+fluid, Patient was given Haldol for agitation and CT imaging and 
+labs were obtained. CT a/p positive for grade II hepatic 
+laceration. Neuro surgery consult obtained for SAH and patient 
+admitted to TSICU for SAH and liver laceration. Patient remained 
+unchanged and hemodynamically stable in the ED, ETOH labs +292, 
+GCS 14. The patient was started in CIWA scale and given keppra 
+prophylaxis with close neurological and blood pressure 
+monitoring and serial hematocrits.  
+the patient remained stable and there were signs of bleeding or 
+neurological change. His mental status was clear and he showed 
+no signs of alcohol withdrawal. Tertiary exam was negative for 
+any additional injuries. The patient was transferred out of the 
+TSICU to the floor in good condition. He was seen by ___ and OT 
+and cleared for home without services. His diet was advanced and 
+he was tolerating a regular diet without any difficulties. He 
+was voiding adequate amounts of urine without difficulty. He was 
+encouraged to mobilize out of bed and ambulate as tolerated, 
+which she was able to do independently. His pain level was 
+routinely assessed and well controlled at discharge with an oral 
+regimen as needed. Neck CT revealed an incidental finding of an 
+enlarged thyroid, so a thyroid US and a thyroid FNA was 
+obtained. The patient was discharged on HD#3. The patient 
+received discharge teaching and follow-up instructions with 
+understanding verbalized and agreement with the discharge plan. 
+He had follow-up with neurology and to see a surgeon to discuss 
+a thyroidectomy as an outpatient. 
+ 
+Medications on Admission:
+Zyrtec
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H:PRN pain 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0
+2. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0
+3. LeVETiracetam 500 mg PO BID 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*24 Tablet Refills:*0
+4. Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+5. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0
+6. Outpatient Physical Therapy
+Right Knee:
+Functional mobility assessment and training, therex
+(LAQs, seated knee flexion self-PROM), hardening/conditioning, 
+pt education
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Trauma:  pedestrian struck
+
+right temporal lobe SAH
+grade 2 liver laceration
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after you were struck by a 
+motor vehicle. You had a small bleed in your head and a small 
+liver laceration.  You were monitored in the intensive care unit 
+for your neurological status.  Your vital signs have been 
+stable. You were evaluated by physical therapy and and 
+occupational therapy and have been cleared for discharge home 
+with outpatient physical therapy. 
+
+*AVOID contact sports and/or any activity that may cause injury 
+to your abdominal area for the next ___ weeks.
+ 
+*If you suddenly become dizzy, lightheaded, feeling as if you 
+are going to pass out go to the nearest Emergency Room as this 
+could be a sign that you are having internal bleeding from your 
+liver or spleen injury.
+ 
+*AVOID any blood thinners such as Motrin, Naprosyn, Indocin, 
+Aspirin, Coumadin or Plavix for at least ___ days unless 
+otherwise instructed by the MD/NP/PA.
+
+Call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. 
+ 
+Followup Instructions:
+___

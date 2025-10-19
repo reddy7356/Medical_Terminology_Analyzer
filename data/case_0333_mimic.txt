@@ -1,0 +1,640 @@
+===== DISCHARGE NOTE =====
+note_id=15097651-DS-6 | hadm_id=26694269
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin / ampicillin / Bactrim / Ceclor / latex / Lorabid / 
+Pediazole / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rectal Bleeding
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy
+ 
+History of Present Illness:
+___ year old female with epilepsy, autism spectrum disorder who 
+was discharged from ___ after presenting with hematochezia, 
+was scheduled for a colonscopy from that admission, but has been 
+having one week of crampy abdominal pain  along with ___ 
+episodes of diarrhea daily  with bright red blood. On the day of 
+presentation she describes feeling jittery. The patient denies 
+fevers with her pain, although she notes some nausea she has not 
+vomited. Since her discharge, she has been to the ED multiple 
+times for identical complaints. 
+
+Patient reports an approximate 20lb weight loss due to abdominal 
+pain over the month prior to admission. She reports her diarrhea 
+is brown with flecks of red blood.
+
+In the ___ ED, her initial vitals were 99, 110, 114/72, 18, 
+100%. She received Maalox, donnatal, lidocaine jelly and NS. Her 
+stool was noted as blood flecked with GAUIAC +. Her tachycardia 
+improved in the ED with the IV fluids.
+ 
+Past Medical History:
+-Depression. Patient has been hospitalized at least twice for
+suicide attempt/suicidal ideation.
+-Migraine headaches
+-Autism
+-Constipation
+-History of abdominal wall infection in ___
+-s/p breast reduction surgery
+-ADHD
+-Hypothyroidism
+-Asthma
+-History of sciatica
+-Pseudotumor cerebri
+ 
+Social History:
+___
+Family History:
+Mother - CVA, HTN, glaucoma, thyroid d/o, GERD, arthritis, 
+asthma
+Grandmother - thyroid d/o
+ 
+Physical Exam:
+ROS:
+ GEN: - fevers, - Chills, + 20lb Weight Loss
+ EYES: - Photophobia, - Visual Changes
+ HEENT: - Oral/Gum bleeding
+ CARDIAC: - Chest Pain, - Palpitations, - Edema
+ GI: - Nausea, - Vomitting, + Diarrhea, + Abdominal Pain, - 
+Constipation, + Hematochezia
+ PULM: - Dyspnea, - Cough, - Hemoptysis
+ HEME: - Bleeding, - Lymphadenopathy
+ GU: - Dysuria, - hematuria, - Incontinence
+ SKIN: - Rash
+ ENDO: - Heat/Cold Intolerance
+ MSK: - Myalgia, - Arthralgia, - Back Pain
+ NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+Remainder of 10-point ROS negative
+ 
+
+PHYSICAL EXAM:
+
+VSS: 97.7, 105/73, 83, 18, 99%%
+ GEN: NAD
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions
+ PUL: CTA B/L
+ COR: RRR, S1/S2, - MRG
+ ABD: markedly tender in epigastrium, - rebound, - guarding, ND, 
++BS, - CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Non-Focal
+ 
+Pertinent Results:
+___ 10:20PM BLOOD WBC-9.9 RBC-4.67 Hgb-13.6 Hct-40.0 MCV-86 
+MCH-29.1 MCHC-34.0 RDW-13.7 RDWSD-42.5 Plt ___
+___ 10:20PM BLOOD Neuts-55.6 ___ Monos-5.7 Eos-3.6 
+Baso-0.4 Im ___ AbsNeut-5.51 AbsLymp-3.44 AbsMono-0.57 
+AbsEos-0.36 AbsBaso-0.04
+___ 10:20PM BLOOD Glucose-79 UreaN-11 Creat-0.8 Na-140 
+K-4.6 Cl-106 HCO3-22 AnGap-12
+___ 10:20PM BLOOD ALT-15 AST-23 AlkPhos-71 TotBili-0.4
+___ 10:20PM BLOOD Lipase-41
+___ 10:20PM BLOOD Albumin-4.2
+___ 10:20PM BLOOD CRP-13.5*
+
+Colonoscopy: Linear ulcerations in the rectum without any 
+evidence of active colitis.  Remainder of colon is normal.  
+Pathology consistent with normal colonic mucosa.
+
+Discharge labs:
+___ 06:37AM BLOOD WBC-6.9 RBC-4.33 Hgb-12.4 Hct-35.9 MCV-83 
+MCH-28.6 MCHC-34.5 RDW-13.3 RDWSD-40.4 Plt ___
+___ 06:08AM BLOOD Glucose-78 UreaN-6 Creat-0.8 Na-142 K-4.2 
+Cl-107 HCO3-21* AnGap-14
+___ 07:27AM BLOOD ALT-13 AST-15 LD(LDH)-184 AlkPhos-62 
+TotBili-0.3
+___ 06:37AM BLOOD Calcium-8.9 Phos-3.1 Mg-1.___ year old female with epilepsy, autism spectrum disorder who 
+was discharged from ___ after presenting with hematochezia, 
+was scheduled for a colonscopy from that admission, but has been 
+having one week of crampy abdominal pain along with ___ episodes 
+of diarrhea daily with bright red blood. 
+
+ACUTE/ACTIVE PROBLEMS:
+# Rectal Bleeding
+# Persistent Diarrhea: Patient is well-known to me from her 
+prior hospitalization.  At that time she presented with 
+abdominal pain, rectal bleeding, and diarrhea.  During her 
+hospitalization she had minimal stool output and no rectal 
+bleeding.  In that setting a colonoscopy was deferred by GI.  
+Reassuringly her imaging was without any evidence of bowel 
+inflammation.  Given her persistence of symptoms with now 
+extending beyond the month she is in the category for persistent 
+diarrhea.  The patient underwent a colonoscopy on ___ which was 
+notable for linear ulcerations in the rectum for which biopsies 
+were obtained and were unremarkable.  The remainder of the 
+colonic mucosa was unremarkable.  Her diet was advanced and she 
+reported persistence of diarrhea with normal labs.  Twice daily 
+psyllium wafers were introduced with improvement in her symptoms 
+as a bulking agent.  She will have both PCP and outpatient GI 
+follow-up.
+
+# Epigastric abdominal Pain: The patient has epigastric 
+abdominal pain that is associated with nausea and vomiting.  
+Particularly with p.o. intake.  This may represent her 
+gastroparesis versus peptic ulcer disease.  She has no evidence 
+of active bleeding.  She was encouraged to eat small meals and 
+was continued on her home promotility agents as well as her home 
+PPI and ranitidine.  Her pain was controlled with liquid 
+Tylenol. 
+
+# Chronic stable Asthma
+- Continued home albuterol and fluticasone furoate inhaler.
+
+# Depression: 
+- Continued home aripirazole 20mg qhs, citalopram 40mg qhs,
+quetiapine 100mg qhs 
+
+# ADHD: 
+- Continued home Adderall XR 60mg daily
+
+# Hypothyroidism: 
+- Continued home levothyroxine 75mcg daily, TSH 1.4
+
+# Chronic migraine: 
+- Hold homed naratriptan 1mg daily:PRN as non formulary
+
+# GERD: 
+- Continued home omeprazole 40mg daily, and ranitidine 300mg qhs
+
+# Epilepsy: 
+- Continued home topiramate 100mg daily
+
+# Allergic rhinitis: 
+- Continued home loratidine 10mg daily
+
+TRANITIONAL ISSUES:
+[] The patient was provided with a work letter as the patient's 
+mother reported that she would be unable to return to work while 
+having diarrhea.  The work letter is through her follow-up 
+appointment.  Please evaluate the ability to return to work.
+[] Please monitor nausea as well as diarrhea.  To date 
+infectious workup has been unrevealing for her diarrhea as well 
+as a normal colonoscopy (with exception of small linear 
+ulcerations) and normal biopsies.  She is currently on psyllium 
+wafers twice daily as a stool bulking agent.
+
+Greater than 30 minutes was spent in care coordination and 
+counseling on the day fo discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH BID:PRN Wheezing 
+2. Albuterol Inhaler ___ PUFF IH Q4H:PRN Wheezing 
+3. Amphetamine-Dextroamphetamine XR 60 mg PO DAILY 
+4. ARIPiprazole 20 mg PO QHS 
+5. Citalopram 40 mg PO QHS 
+6. Docusate Sodium 100 mg PO DAILY 
+7. Erythromycin 250 mg PO ___ AFTER BREAKFAST AND LUNCH 
+8. Levothyroxine Sodium 75 mcg PO DAILY 
+9. Loratadine 10 mg PO DAILY 
+10. Naproxen 500 mg PO BID:PRN Pain - Moderate 
+11. Omeprazole 40 mg PO DAILY 
+12. QUEtiapine Fumarate 100 mg PO QHS 
+13. QUEtiapine Fumarate 25 mg PO DAILY:PRN emotional upset 
+14. Ranitidine 300 mg PO QHS 
+15. Topiramate (Topamax) 100 mg PO DAILY 
+16. Metoclopramide 10 mg PO QIDACHS nausea 
+17. Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+
+18. Arnuity Ellipta (fluticasone furoate) 100 mcg/actuation 
+inhalation DAILY 
+19. naratriptan 1 mg oral DAILY:PRN migraine 
+
+ 
+Discharge Medications:
+1.  Acetaminophen (Liquid) 1000 mg PO Q8H:PRN Pain - Mild 
+  Reason for PRN duplicate override: discontinuing the other 
+2.  Psyllium Wafer 1 WAF PO BID Diarrhea 
+RX *psyllium  1 Wafer by mouth twice a day Disp #*30 Wafer 
+Refills:*0 
+3.  Albuterol 0.083% Neb Soln 1 NEB IH BID:PRN Wheezing  
+4.  Albuterol Inhaler ___ PUFF IH Q4H:PRN Wheezing  
+5.  Amphetamine-Dextroamphetamine XR 60 mg PO DAILY  
+6.  Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+ 
+7.  ARIPiprazole 20 mg PO QHS  
+8.  Arnuity Ellipta (fluticasone furoate) 100 mcg/actuation 
+inhalation DAILY  
+9.  Citalopram 40 mg PO QHS  
+10.  Docusate Sodium 100 mg PO DAILY  
+11.  Erythromycin 250 mg PO ___ AFTER BREAKFAST AND LUNCH  
+12.  Levothyroxine Sodium 75 mcg PO DAILY  
+13.  Loratadine 10 mg PO DAILY  
+14.  Metoclopramide 10 mg PO QIDACHS nausea  
+15.  Naproxen 500 mg PO BID:PRN Pain - Moderate  
+16.  naratriptan 1 mg oral DAILY:PRN migraine  
+17.  Omeprazole 40 mg PO DAILY  
+18.  QUEtiapine Fumarate 100 mg PO QHS  
+19.  QUEtiapine Fumarate 25 mg PO DAILY:PRN emotional upset  
+20.  Ranitidine 300 mg PO QHS  
+21.  Topiramate (Topamax) 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diarrhea
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms ___, 
+
+You were admitted to the hospital with diarrhea and underwent a 
+colonoscopy that did not reveal to cause of your diarrhea. You 
+were found to have 2 small ulcers in your rectum but the biopsy 
+did not show a cause for your bleeding or diarrhea. Please take 
+your medications as directed and follow up with your PCP.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15097651-DS-5 | hadm_id=28163334
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin / ampicillin / Bactrim / Ceclor / latex / Lorabid / 
+Pediazole / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, bloody diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of epilepsy,
+autism spectrum disorder, who presented to the ___ for 
+diarrhea
+and BRBPR. Patient has multiple recent ED visits for abdominal
+pain. 
+
+On ___ she presented to ___ ED for 10 days of diffuse
+abdominal pain, nausea, vomiting, watery diarrhea. She was
+discharged from the ED after fluid resuscitation and Zofran
+administration. She was also prescribed a 5 day course of
+macrobid for a UTI.
+
+On ___ she presented to ___ ED for abdominal pain and BRBPR.
+She reports 2 medium volume episodes of bloody stool. Denies
+lightheadedness, dizziness, chest pain, palipitations. She was
+found to have scant guaiac positive stool in the rectal vault.
+She had a Hgb of 13.9. She was discharged from the ED with the
+recommendation to follow up with the GI clinic.
+
+On ___, she saw GI, who recommended presentation to the ED. She
+currently endorses abdominal pain of 4 day duration. Associated
+with nausea, vomiting, watery and bloody diarrhea. Stooling up 
+to
+10 times daily. She is unable to tolerate PO. Endorses 
+subjective
+fevers and  chills. Denies chest pain, palpitations.
+
+In the ED: Patient was tachycardic and started on IV fluids. 
+
+Initial vital signs were notable for:
+Temp 98.5 | HR 107 | BP 112/83 | RR 18 | SpO2 100% RA 
+
+Exam notable for:
+Tachycardia.
+Tender abdomen in RUQ, LUQ, midepigastric regions
+Heme negative stool.
+
+Labs were notable for:
+WBC 9.9 | Hgb 13.8 | Plt 314
+Chem 7 WNL except for bicarb of 20
+Coags WNL
+UA positive for 7 WBCs, few bacteria, 17 epithelials
+
+Studies performed include: None
+
+Patient was given:
+LR @125cc/hr
+4mg IV Zofran x1
+1000mg IV acetaminophen x1
+
+Consults: None
+
+Vitals on transfer:
+Temp 98.0 | HR 87 | RR 16 | BP 107/70 | SpO2 100% RA
+
+Upon arrival to the floor, she endorses nausea and abdominal
+pain, somewhat alleviated by Zofran she received in ED. She
+endorses some lightheadedness when she sits up.
+
+ 
+Past Medical History:
+-Depression. Patient has been hospitalized at least twice for
+suicide attempt/suicidal ideation.
+-Migraine headaches
+-Autism
+-Constipation
+-History of abdominal wall infection in ___
+-s/p breast reduction surgery
+-ADHD
+-Hypothyroidism
+-Asthma
+-History of sciatica
+-Pseudotumor cerebri
+ 
+Social History:
+___
+Family History:
+Mother - CVA, HTN, glaucoma, thyroid d/o, GERD, arthritis, 
+asthma
+Grandmother - thyroid d/o
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+==========================
+VITALS: Temp 98.2 | BP 120/83 | HR 91 | RR 16 | SpO2 98% RA  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. EOMI. Sclera anicteric. Pink conjunctiva. Dry 
+mucous
+membranes.
+CARDIAC: Normal rate and rhythm. Normal S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds. Soft, non distended. Tender to
+palpation diffusely, worst in LUQ/epigastrium/RUQ. No rebound or
+guarding. No organomegaly.
+EXTREMITIES: Warm. No clubbing, cyanosis, or edema. Pulses
+DP/Radial 2+ bilaterally.
+NEUROLOGIC: AAOx3. Motor and sensory grossly symmetric and 
+intact
+throughout.
+
+DISCHARGE PHYSICAL EXAM:
+==========================
+VITALS: 97.4 PO 98 / 69 114   100 ra
+GEN: Awake, alert, no acute distress. High pitched voice, 
+pleasant.
+HEENT: NC/AT, EOMI, moist MM
+CV: Normal rate, regular rhythm, no m/r/g appreciated
+PULM: CTAB
+Abd: Nontender, no rebound or guarding
+Ext: WWP, no c/c/e
+Neuro: AO x 3, moves all 4 extremities symmetrically and with 
+purpose, normal gait
+ 
+Pertinent Results:
+LAB RESULTS ON ADMISSION:
+=========================
+___ 03:18PM BLOOD WBC-8.3 RBC-4.66 Hgb-13.9 Hct-39.8 MCV-85 
+MCH-29.8 MCHC-34.9 RDW-14.4 RDWSD-43.9 Plt ___
+___ 03:18PM BLOOD Neuts-56.6 ___ Monos-5.5 Eos-2.6 
+Baso-0.4 Im ___ AbsNeut-4.71 AbsLymp-2.89 AbsMono-0.46 
+AbsEos-0.22 AbsBaso-0.03
+___ 03:18PM BLOOD ___ PTT-27.8 ___
+___ 03:18PM BLOOD Glucose-92 UreaN-9 Creat-0.8 Na-144 K-4.1 
+Cl-110* HCO3-19* AnGap-15
+___ 06:16AM BLOOD ALT-12 AST-16 LD(LDH)-178 AlkPhos-66 
+TotBili-0.4
+___ 07:50AM BLOOD Lipase-40
+___ 06:45AM BLOOD Calcium-9.1 Phos-2.8 Mg-1.9
+___ 06:16AM BLOOD TSH-1.4
+___ 06:16AM BLOOD CRP-13.7*
+___ 06:16AM BLOOD SED RATE-6
+
+DISCHARGE LABS:
+================
+___ 07:50AM BLOOD WBC-5.5 RBC-4.49 Hgb-13.2 Hct-38.4 MCV-86 
+MCH-29.4 MCHC-34.4 RDW-13.8 RDWSD-43.1 Plt ___
+___ 07:55AM BLOOD Glucose-79 UreaN-7 Creat-0.7 Na-142 K-4.2 
+Cl-107 HCO3-21* AnGap-14
+___ 07:50AM BLOOD ALT-18 AST-23 LD(LDH)-155 AlkPhos-77 
+TotBili-0.3
+___ 07:55AM BLOOD Calcium-9.1 Phos-2.8 Mg-1.7
+
+MICROBIOLOGY:
+=============
+___ 10:09 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Pending): 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+ 
+___ STOOL C. difficile PCR-FINAL NEGATIVE 
+___ URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING:
+========
+CT A/P ___:
+No acute process within the abdomen pelvis.  Specifically, no CT 
+evidence of active inflammation in the small or large bowel.  If 
+there is persistent clinical concern for inflammatory bowel 
+disease, MR enterography on an outpatient basis would be more 
+sensitive for assessment. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old lady with past medical history 
+most notable for gastroparesis and GERD, who presents with a 2 
+week episode of diarrhea, initially watery then bloody, nausea, 
+vomiting, and inability to keep down PO. Her other medical 
+history is notable for autism spectrum disorder, and epilepsy.
+
+# Bloody Diarrhea, likely infectious
+Unclear if this represents acute diarrhea versus continuation of 
+prior episode >2 weeks ago which would place her in the 
+persistent diarrhea category. Initially had planned for 
+inpatient colonoscopy, but she had no further episodes of 
+diarrhea while in house. Spontaneous resolution suggests 
+possible protracted gasteroenteritis of viral or bacterial 
+etiology. Stool cultures were negative (though campylobacter 
+pending on discharge). C diff was negative. CRP of 13 and ESR in 
+normal range could be consistent with infectious process. CT A/P 
+without evidence of enteritis or colitis, and, this, in 
+conjunction with rapid improvement, lowers suspicion for IBD- 
+although we note that study was without oral contrast. Ischemic 
+colitis less likely given young age. At this time, yield of 
+inpatient colonoscopy is low, and she will need to follow up 
+with GI as an outpatient. Patient had 2 episodes of loose stool 
+on day of discharge which was thought likely due to resuming a 
+regular diet.
+
+# Nausea, vomiting
+# Gastroparesis Flare
+Patient with known history of gastroparesis. Initially home 
+erythromycin held, restarted on D1 of hospitalization, increased 
+to BID on day of discharge. She required intermittent zofran for 
+nausea and ultimately IV, then PO reglan, which she will 
+continue at home for ___ days. At time of discharge she was 
+advanced to a gastroparesis diet which she tolerated well. 
+
+===============
+CHRONIC ISSUES:
+===============
+# Asthma: Continued home albuterol. Home fluticasone furoate 
+inhaler (non-formulary).
+# Depression: Continued home aripirazole 20mg qhs, citalopram 
+40mg qhs, quetiapine 100mg qhs 
+# ADHD: Continue home Adderall XR 60mg daily
+# Hypothyroidism: Continued home levothyroxine 75mcg daily, TSH 
+1.4
+# Chronic migraine: Held home naratriptan 1mg daily:PRN as 
+nonformulary
+# GERD: Continued home omeprazole 40mg daily, ranitidine 300mg 
+qhs
+# Seizure d/o: Continued home topiramate 100mg daily
+# Allergic rhinitis: Continued home loratidine 10mg daily
+# Chronic constipation: Held home docusate i/s/o diarrhea
+
+TRANSITIONAL ISSUES:
+====================
+[] Follow up with GI as outpatient
+[] F/u campylobacter stool culture
+[] Increased erythromycin to 250 mg BID
+[] We note that patient reports taking excedrin daily, which may 
+contribute to medication overuse headache. The risk of this was 
+discussed with patient. 
+[] Note patient on multiple QTc prolonging medications; QTc at 
+discharge 438
+
+Greater than 30 minutes was spent in care coordination and 
+counseling on the day of discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN Wheezing 
+2. Albuterol 0.083% Neb Soln 1 NEB IH BID:PRN Wheezing 
+3. ARIPiprazole 20 mg PO QHS 
+4. Citalopram 40 mg PO QHS 
+5. Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+6. Amphetamine-Dextroamphetamine XR 60 mg PO DAILY 
+7. Erythromycin 250 mg PO QHS 
+8. Arnuity Ellipta (fluticasone furoate) 100 mcg/actuation 
+inhalation DAILY 
+9. Levothyroxine Sodium 75 mcg PO DAILY 
+10. Naproxen 500 mg PO BID:PRN Pain - Moderate 
+11. naratriptan 1 mg oral DAILY:PRN 
+12. Omeprazole 40 mg PO DAILY 
+13. QUEtiapine Fumarate 100 mg PO QHS 
+14. QUEtiapine Fumarate 25 mg PO DAILY:PRN emotional upset 
+15. Topiramate (Topamax) 100 mg PO DAILY 
+16. Ranitidine 300 mg PO QHS 
+17. Docusate Sodium 100 mg PO DAILY 
+18. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoclopramide 10 mg PO QIDACHS nausea Duration: 3 Days 
+RX *metoclopramide HCl 10 mg 1 tablet by mouth before meals and 
+bedtime Disp #*20 Tablet Refills:*0 
+2.  Erythromycin 250 mg PO ___ AFTER BREAKFAST AND LUNCH 
+RX *erythromycin 250 mg 1 tablet(s) by mouth after breakfast and 
+lunch Disp #*60 Tablet Refills:*0 
+3.  Albuterol 0.083% Neb Soln 1 NEB IH BID:PRN Wheezing  
+4.  Albuterol Inhaler ___ PUFF IH Q4H:PRN Wheezing  
+5.  Amphetamine-Dextroamphetamine XR 60 mg PO DAILY  
+6.  Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+ 
+7.  ARIPiprazole 20 mg PO QHS  
+8.  Arnuity Ellipta (fluticasone furoate) 100 mcg/actuation 
+inhalation DAILY  
+9.  Citalopram 40 mg PO QHS  
+10.  Levothyroxine Sodium 75 mcg PO DAILY  
+11.  Loratadine 10 mg PO DAILY  
+12.  Naproxen 500 mg PO BID:PRN Pain - Moderate  
+13.  naratriptan 1 mg oral DAILY:PRN migraine  
+14.  Omeprazole 40 mg PO DAILY  
+15.  QUEtiapine Fumarate 100 mg PO QHS  
+16.  QUEtiapine Fumarate 25 mg PO DAILY:PRN emotional upset  
+17.  Ranitidine 300 mg PO QHS  
+18.  Topiramate (Topamax) 100 mg PO DAILY  
+19. HELD- Docusate Sodium 100 mg PO DAILY  This medication was 
+held. Do not restart Docusate Sodium until you stop having loose 
+stools
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute diarrhea, likely infectious
+Dehydration
+Gastroparesis flare
+Abdominal pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?  
+You came to the hospital because you had frequent episodes of 
+bloody diarrhea and you were unable to keep down food.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+You were seen by our GI doctors. ___ CT scan of your belly was 
+performed which did not show any evidence of inflammatory bowel 
+disease. You stopped having diarrhea, and you were able to 
+tolerate food.
+Our GI doctors thought about performing a colonoscopy, but as 
+you improved on your own, this was not needed while you were 
+hospitalized!
+
+You started medicine to help with the gastroparesis and the 
+stomach doctors ___ to schedule an appointment soon.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments. Specifically, you will need to follow up with the 
+GI doctors.
+
+___ wish you the best!
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

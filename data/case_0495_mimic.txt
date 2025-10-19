@@ -1,0 +1,2010 @@
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-24 | hadm_id=20031861
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___
+ 
+Chief Complaint:
+fevers
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ ___ y/o M w/ hx HTN, neuropathy, s/p CVA with resultant
+hemiplegia and pseudobulbar and bulbar findings also with
+dysarthria and dysphagia, bilateral vocal fold atrophy, a right
+vocal fold paresis, secondary muscle tension dysphonia,
+wheelchair bound p/w fever.
+
+Patient initially presented to urgent care today for his fever 
+of
+102.9°F at home. He took Tylenol at 3 ___.  Was febrile at ___ to
+100.6F up to ___.  
+
+Patient states sx ongoing x1 day PTA, c/o fever, denies CP, SOB,
+nausea, vomiting, HA, diarrhea, dysuria, frequency.
+
+Found to have a UTI at urgent care. Unable to obtain IV access 
+at
+___.  
+
+Denies any flank pain, hematuria, chest pain or shortness of
+breath. Last received Tylenol at 9 ___.
+
+Prior cultures were checked but he has not had any prior 
+positive
+urine cultures.
+
+ 
+Past Medical History:
+*S/P STROKE                                                     
+DYSARTHRIA                                                      
+DYSPHAGIA                                                       
+HEMIPLEGIA                                                      
+HYPERTENSION                                                    
+SNORING                                                         
+NEUROPATHY                                                      
+PUPULAR LESION                                                  
+___                                                   
+___ ___ ___                                           
+H/O NEPHROLITHIASIS                                             
+H/O DIABETES TYPE II                                            
+H/O HYPERTRIGLYCERIDEMIA                                        
+H/O OBESITY                                                     
+H/O REHAB   
+ 
+Social History:
+___
+Family History:
+Mother   ___     LUNG CANCER  in ___, smoker; TRANSIENT 
+ISCHEMIC  ATTACK    
+ 
+Physical Exam:
+Admission exam
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: left arm and lower extremity atrophy, able to lift left arm
+to gravity but not under pressure, full strength in RLE/RUE, 
+able
+to wiggle toes on both feet, note contracture of ___ toe of
+left foot in flexion, slurred speech with sounds of upper 
+airways
+secretion difficulties, cranial nerves intact but left shoulder
+raise is weaker on left that right, note a gaze deficit on right
+lateral gaze, decreased smile on left side
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, speech fluent, moves all limbs, see MSK
+above for more detail
+PSYCH: pleasant, appropriate affect
+
+Discharge exam
+***
+ 
+Pertinent Results:
+Admission labs
+___ 07:40PM BLOOD WBC-11.9*# RBC-4.38* Hgb-13.1* Hct-40.5 
+MCV-93 MCH-29.9 MCHC-32.3 RDW-13.2 RDWSD-45.0 Plt ___
+___ 07:40PM BLOOD Glucose-153* UreaN-16 Creat-0.9 Na-140 
+K-3.2* Cl-104 HCO3-26 AnGap-10
+
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT:  ___ y/o M w/ hx HTN, HLD, neuropathy, s/p 
+CVA with resultant hemiplegia and pseudobulbar and bulbar 
+findings also with dysarthria and dysphagia, bilateral vocal 
+fold atrophy, a right vocal fold paresis, secondary muscle 
+tension dysphonia, wheelchair bound p/w fever.
+
+ACUTE/ACTIVE PROBLEMS:
+#Sepsis ___ Klebsiella UTI (mostly ___, resist to 
+ampicillin-sulbactam and intermed to nitrofurantoin) - Pt 
+presented with fever and leukocytosis with positive UA. Sepsis 
+resolved within 24h of initiation of IV antibiotics with 
+resolution of leukocytosis but pt continued to have intermittent 
+breakthrough fevers. Pt was without breakthrough fevers for >24h 
+prior to discharge, temp curve improved. Renal US was *neg* for 
+hydro-uretero-nephrosis or any other e/o obstructive calculus. 
+S/p IVF repletion.
+
+#Chronic anticoagulation, supratherapeutic on admission - INR 
+3.2 on admission, subsequently therapeutic per daily labs 
+throughout the rest of hospitalization, goal INR ___, received 3 
+mg daily throughout.
+
+#Thrombocytopenia - patient plt count fluctuates, sometimes low, 
+more often WNL, may be related to sepsis, recommend monitoring 
+at this time. 138K on ___, trended down to 98K on ___, back up 
+to 143K by ___.
+
+#Hypokalemia of 3.2, repleted in ED, subsequently WNL.
+
+CHRONIC/STABLE PROBLEMS:
+#Chronic anemia - baseline Hgb 12.6, now 12.5, no overt source 
+of bleeding, likely related to chronic illness, monitor
+#HTN - BP stable, continue antiHTN meds
+#HLD - continue statin
+#Does *not have T2DM - Per record, dx has been removed, pt not 
+being monitored for it. Last a1c 5.5 on ___.
+#neuropathy - not currently on medical control, monitor
+
+# Hx CVA with resultant hemiplegia and pseudobulbar and bulbar 
+findings also with dysarthria and dysphagia, bilateral vocal 
+fold atrophy, a right vocal fold paresis, secondary muscle 
+tension dysphonia, wheelchair bound. Pt maintains outpatient 
+follow up ___ times per month for voice/swallow exercises.
+
+#Oropharyngeal dysphagia - heart healthy diet w/ consistency 
+ground, Honey prethickened liquids meds crushed in puree
+
+#upper airway secretions - continue Glycopyrrolate home med PRN
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO QHS 
+2. ClonazePAM 0.5 mg PO QHS 
+3. dextromethorphan-quinidine ___ mg oral BID 
+4. Doxazosin 4 mg PO HS 
+5. Glycopyrrolate 1 mg PO TID:PRN secretions 
+6. Lisinopril 40 mg PO DAILY 
+7. Atorvastatin 40 mg PO QPM 
+8. Ketoconazole Shampoo 1 Appl TP ASDIR 
+9. Warfarin 3 mg PO DAILY16 
+10. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+11. nystatin 100,000 unit/gram topical BID 
+12. Docusate Sodium 100 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 11 Doses 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*11 Tablet Refills:*0 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3.  Atenolol 25 mg PO QHS  
+4.  Atorvastatin 40 mg PO QPM  
+5.  ClonazePAM 0.5 mg PO QHS  
+6.  dextromethorphan-quinidine ___ mg oral BID  
+7.  Docusate Sodium 100 mg PO BID:PRN constipation  
+8.  Doxazosin 4 mg PO HS  
+9.  Glycopyrrolate 1 mg PO TID:PRN secretions  
+10.  Ketoconazole Shampoo 1 Appl TP ASDIR  
+11.  Lisinopril 40 mg PO DAILY  
+12.  nystatin 100,000 unit/gram topical BID  
+13.  Warfarin 3 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pyelonephritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___
+
+You were admitted for fevers and found to have a urinary tract 
+infection which also caused an initial period of stress on the 
+body called sepsis. The sepsis resolved promptly with initiation 
+of IV antibiotics and the UTI has continued to respond 
+throughout the hospitalization.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-19 | hadm_id=20112244
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Double vision, vertigo, unbalanced
+ 
+Major Surgical or Invasive Procedure:
+Tracheostomy placement
+PEG tube placement
+
+ 
+History of Present Illness:
+___ is a ___ M with a h/o DM, HTN, HLD, BPPV who 
+presents with sudden onset nausea, slurred speech, nystagmus, 
+clumsiness at noon on ___. The patient was at home ___ his 
+normal state of health at symptom onset. He called his wife when 
+the symptoms started and laid down to rest on the couch. When 
+his wife arrived home 1.5 hours later she noted slurred speech 
+and "wiggling eyes." At that time the patient wished to wait it 
+out to see if the symptoms would resolve on their own. They did 
+not and he presented to ___ around 5pm. At ___ he 
+had a CT of the head which was concerning for right transverse 
+sinus thrombosis. He then had an MRI/MRV of the brain, which 
+showed bilateral cerebellar infarcts and a right thalamic 
+infact. He was transferred to ___. His symptoms have been 
+constant since onset and has not had any significant worsening. 
+They do not seem to be blood pressure or position dependent.
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysphagia, lightheadedness, tinnitus or 
+hearing difficulty. Denies difficulties producing or 
+comprehending speech. Denies focal weakness, numbness, 
+parasthesiae. No bowel or bladder incontinence or retention. 
+Denies difficulty with gait.
+
+On general review of systems, the pt denies recent fever or 
+chills. No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath. Denies chest pain or tightness, 
+palpitations. Denies nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No recent change ___ bowel or bladder habits. No 
+dysuria. Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+BPPV
+HTN
+HLD
+ 
+Social History:
+___
+Family History:
+___: No h/o strokes, clotting disorders. Mother died of lung 
+cancer (smoker)
+ 
+Physical Exam:
+ADMISSION EXAM
+97.7 81 134/81 20 98% 2L 
+GEN: Awake, cooperative, NAD.
+HEENT: NC/AT, anicteric, MMM, no lesions noted ___ oropharynx
+RESP: Non-labored
+CV: RRR
+ABD: soft, NT/ND
+EXT: No edema, no cyanosis
+SKIN: no rashes or lesions noted.
+
+NEURO EXAM:
+MS:
+Alert, oriented x 3.
+Able to relate history without difficulty.
+Attentive
+Language is fluent with intact repetition and comprehension.
+Normal prosody.
+There were no paraphasic errors.
+Dysarthric.
+Able to follow both midline and appendicular commands.
+No evidence of apraxia or neglect.
+
+CN:
+II:
+PERRLA 3 to 2mm and brisk.
+III, IV, VI: EOMI, no nystagmus. Normal saccades.
+V: Sensation intact to LT.
+VII: Facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate rise symmetric.
+XI: Trapezius and SCM ___ bilaterally.
+XII: Tongue protrudes midline.
+
+Motor:
+Normal bulk, tone throughout. Mild drift of RUE with 
+outstretched
+arms, no pronation.
+No adventitious movements. No asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L   ___   ___  ___    ___      5   5
+R   ___   ___  ___    ___      5   5
+
+Sensory: No deficits to light touch, proprioception throughout.
+No extinction to DSS.
+
+Reflexes:
+  ___ Tri ___ Pat Ach
+L  ___     2   1
+R  ___     2   1
+Toes upgoing bilaterally
+
+Coordination:
+Ataxia on FNF R>L. Mild ataxia bilaterally on HKS.
+
+=========================================================
+DISCHARGE EXAMINATION:
+VItals: Tm 99.8 Tc 98.4 BP 133-152/73-92 HR ___ RR ___ POX 
+95% on 35% FiO2
+GEN: Awake, cooperative
+HEENT: Trach with trach mask ___ place
+CV: RRR s1 s2
+PULM: bibasilar dry crackles on anterior auscultation.
+ABD: soft, NT/ND, + PEG ___ place, c/d/i, non erythematous
+EXT: No edema, no cyanosis
+
+NEURO EXAM:
+MS:  Alert, regards to examiner.  Nods yes/no appropriately. 
+Does not vocalize.  Able to follow commands to squeeze right 
+hand, show two fingers, lift right arm & leg. He is also playing 
+word finds with his wife and communicating via yes no options.
+
+CRANIAL NERVES:
+II: 3 mm reactive sluggish pupils bilaterally
+III, IV, VI: skew deviation. Right eye midline on primary gaze 
+with minimal movements (minimal downgaze is present).  Left eye 
+is exotropic on primary gaze with restricted movements (he 
+adducts and only partially abducts).  
+V: Sensation intact to light touch.
+VII: Left lower facial droop.
+VIII: Hearing intact
+IX, X: + cough, gag
+XI: Trapezius and SCM ___ bilaterally.
+XII: Tongue midline.
+
+MOTOR: Normal bulk.  Tone is decreased ___ left upper and lower 
+extremities, normal on the right.  RUE/RLE moves to command ___ 
+throughout.  LLE with trace toe wiggle and quad activation with 
+concerted effort.  LUE with trace shoulder movement, otherwise 
+plegic on this left arm.  Right side with full strength. 
+
+SENSORY: Intact to light touch on both arms and legs
+
+Reflexes: Right arm brisker than the left. Crossed adduction on 
+tapping left patellar.  Toes upgoing bilaterally
+ 
+Pertinent Results:
+======================================
+ADMISSION LABS:
+___ 07:58AM   WBC-13.9* RBC-4.45* HGB-13.8* HCT-41.2 MCV-93 
+MCH-31.1 MCHC-33.5 RDW-12.3
+___ 07:58AM   PLT COUNT-262
+___ 09:10PM   GLUCOSE-142* UREA N-9 CREAT-0.8 SODIUM-141 
+POTASSIUM-3.1* CHLORIDE-101 TOTAL CO2-28 ANION GAP-15
+___ 09:10PM   CALCIUM-9.3 PHOSPHATE-1.5* MAGNESIUM-1.9
+___ 09:10PM   PTT-49.9*
+___ 07:58AM   CK(CPK)-256
+___ 07:58AM   CK-MB-3 cTropnT-<0.01
+
+URINE: 
+___ 02:37PM URINE Color-Yellow Appear-Clear Sp ___ 
+Blood-NEG Nitrite-NEG Protein-NEG Glucose-150 Ketone-TR 
+Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+======================================
+
+DISCHARGE LABS:
+___ 03:05AM BLOOD WBC-15.1* RBC-4.05* Hgb-12.5* Hct-38.0* 
+MCV-94 MCH-31.0 MCHC-33.0 RDW-12.8 Plt ___
+___ 09:24AM BLOOD ___ PTT-61.0* ___
+___ 03:05AM BLOOD Glucose-182* UreaN-17 Creat-0.9 Na-138 
+K-4.0 Cl-100 HCO3-31 AnGap-11
+___ 03:05AM BLOOD Calcium-10.0 Phos-4.4 Mg-2.1
+___ 09:20AM BLOOD ALT-34 AST-29 AlkPhos-55 TotBili-0.4
+
+URINE: 
+___ 11:17AM URINE Color-Straw Appear-Clear Sp ___ 
+Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG 
+Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+======================================
+
+MICROBIOLOGY: 
+___ URINE URINE CULTURE- no growth.
+
+___ 1:15 am SPUTUM      Source: Endotracheal. 
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+   RESPIRATORY CULTURE (Final ___: 
+      SPARSE GROWTH Commensal Respiratory Flora. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         ____________________________________                    
+         STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+.
+.
+.
+.
+.
+.
+.
+.
+................................................................
+
+___ 2:18 pm SPUTUM      Source: Endotracheal. 
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      1+    (<1 per 1000X FIELD):   MULTIPLE ORGANISMS 
+CONSISTENTWITH     
+                                    OROPHARYNGEAL FLORA. 
+   RESPIRATORY CULTURE (Final ___: 
+      SPARSE GROWTH Commensal Respiratory Flora. 
+
+___ Blood Culture, Routine-PENDING INPATIENT 
+___ Blood Culture, Routine-PENDING INPATIENT 
+___ URINE CULTURE (Final ___:    NO GROWTH.
+
+===========================================================
+IMAGING: 
+
+CTA Head and Neck ___:
+1. Subtle small scattered small hypodensities within the 
+cerebellum and 
+brainstem, better evaluated on recent prior MRI of the head, 
+consistent with acute infarctions ___ the posterior circulation. 
+2. Complete occlusion of the mid to distal basilar artery with 
+absence of 
+right superior cerebellar and anterior inferior cerebellar 
+arteries. There is severe atherosclerotic disease of the left 
+vertebral artery and basilar artery with irregularity of the V4 
+segment of the left vertebral artery. Findings are consistent 
+with complete occlusion secondary to severe atherosclerotic 
+disease. 
+3. Diffuse irregularity ___ the intracranial arteries, 
+particularly at the 
+right M2 segment and bilateral carotid siphons, without evidence 
+of high-grade narrowing. 
+4. Diffuse moderate atherosclerosis of the neck vasculature with 
+narrowing of the bilateral internal carotid artery origins, 22% 
+on the right and 10% on the left, but NASCET criteria. 
+
+TTE ___
+The left atrial volume index is mildly increased. No atrial 
+septal defect or patent foramen ovale is seen by 2D, color 
+Doppler or saline contrast with maneuvers. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size 
+and global systolic function (LVEF>60%). Due to suboptimal 
+technical quality, a focal wall motion abnormality cannot be 
+fully excluded. Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis. No aortic regurgitation is seen. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion. 
+IMPRESSION: Suboptimal image quality. Normal global 
+biventricular systolic function. No cardiac source of embolism 
+seen. No pathologic valvular abnormalities..
+
+ECHO ___
+Sinus rhythm. Left atrial abnormality. A-V conduction delay. 
+Compared to the previous tracing of ___ no diagnostic 
+interim change. 
+  
+NCHCT ___
+Redemonstrated is hyperdensity of the basilar artery, 
+particularly 
+at the terminus with extensive calcification, consistent with 
+patient's known  thrombus within the basilar artery.  There 
+appears to be interval progression of hypodensity along the 
+midbrain and cerebellum, concerning for worsening ischemia ___ 
+these regions.  No acute hemorrhage is identified.  The basilar 
+cisterns are patent.  There is no evidence of herniation. No 
+acute fracture is identified.  Secretions are seen ___ the 
+oropharynx. There is mucosal thickening of the maxillary sinuses 
+bilaterally.  The frontal sinuses and sphenoid sinuses 
+demonstrate mild air-fluid levels and mucosal thickening. The 
+mastoid air cells and middle ear cavities are clear. IMPRESSION: 
+Interval progression of hypodensity ___ the midbrain and 
+cerebellum is concerning for worsening ischemia.  No evidence of 
+herniation. 
+
+CXR ___: Compared to the prior radiographs the lung volumes are 
+stable. There is no focal opacity, pleural effusion or 
+pneumothorax. The cardiomediastinal contours are stable. 
+
+CXR ___: 
+___ comparison with the earlier study of this date, of the 
+endotracheal tube has been removed and replaced with a 
+tracheostomy tube that appears to be well as positioned without 
+evidence of complication. The patient is somewhat oblique when 
+compared to the previous study. This may account for the 
+apparent increased opacification at the right base. There does 
+appear to be some relative elevation of the right 
+hemidiaphragmatic contour.  A ___ the appropriate clinical 
+setting, the possibility of volume loss ___ the right lower lung 
+could be considered. 
+
+CXR ___: 
+Tracheostomy tube appears ___ unchanged position. As does 
+right-sided PICC 
+line. The lungs remain clear with no focal consolidation to 
+suggest pneumonia. Central pulmonary vasculature is full but 
+less so than on the ___ film and no peripheral edema is 
+evident. 
+ 
+Brief Hospital Course:
+___ HOSPITAL COURSE
+
+Mr. ___ was admitted to the neurology ICU after being found to 
+have a basilar artery thrombus resulting ___ several small 
+ischemic strokes, ___ the bilateral cerebellar hemispheres as 
+well as a right thalamic infarct, and question of right 
+transverse sinus thrombosis on MRV (now thought to simply be a 
+fenestration).
+
+He was started on a heparin gtt for PTT goal of 50-70. He was 
+placed with HOB flat with goal BP 140-180. He did well 
+initially, on exam with gaze-evoked nystagmus bilaterally, and 
+bilateral ataxia, although full strength. However, around 5pm on 
+the day of admission, he was found to be somnolent with new 
+onset skew deviation (left eye down and right eye with severely 
+restricted eye movements), pinpoint pupils and left-sided 
+weakness. Neosynephrine was started for goal SBP 180-200. He was 
+taken for STAT NCHCT and CTA and neurosurgery was called. NCHCT 
+showed new midbrain/pontine infarcts, and CTA was unchanged. 
+Neurosurgery did not want to intervene given the time frame 
+since onset and the very high risk of embolizing more thrombus 
+with manipulation.  Lipid panel showed LDL 81. HbA1c 7.0%. TTE 
+wnl.
+
+___ the setting of the new infarct, he developed worsening 
+repiratory status and by ___ had acute desaturations to the ___ 
+requiring intubation.  BAL done on ___ grew out pan-sensitive 
+coag positive staph aureus and he was placed on IV antibiotics 
+(vanc/cefepime weaned to levofloxaxin)  He remained intubated on 
+minimal ventilator settings but an attempt at extubation ___ 
+failed.  He is s/p trach/PEG on ___.  
+
+He was off pressor since ___, maintaining sBP > 140's.  Exam 
+continued to improve and he was transferred to the floor on ___. 
+  
+
+========================================
+
+STROKE NEUROLOGY FLOOR COURSE (by systems)
+
+# NEUROLOGY: 
+With regards to his stroke, he continued to show improvement 
+with signs of subtle movement on the left side.  He would also 
+engage with the examiner (please see above for most recent 
+exam).  For anticoagulation, he was maintained on heparin gtt 
+(PTT goal 50-70) and coumadin was started with first dose given 
+___.  His INR was 1.9 on discharge (not at goal of ___.  PLease 
+stop heparin once INR ___. His blood pressure goals were 
+liberalized to 110-180 and he did not require medications to 
+achieve this.  His activity level was liberalized as well. His 
+atorvastatin was continued.  
+
+# ___ :
+His home antihypertensives were not restarted give liberal blood 
+pressure goals of 110-180.  He was maintained on atorvastatin.  
+Systemic anticoagulation as described above.
+
+# PULMONARY: 
+Trach was placed ___ ICU. His Levofloxacin was continued to treat 
+his known MSSA PNA.  This should continue through ___. 
+
+# ID: 
+He did spike a fever on ___ (with leukocytosis that had remained 
+___ during entire hospital course).  Repeat panculture and CXR 
+did not show new infection and PNA was not seen on CXR.  
+Antibiotics were not rebroadened and there were no subsequent 
+fevers.  He continued on Levofloxacin at time of discharge.  
+Blood cultures were negative x 48hrs at time of discharge (other 
+work-up returned negative as final result). 
+
+# NUTRITION: PEG was placed ___ ICU.  He continued to tolerate 
+tube feeds 
+
+# ACCESS: PICC on right arm
+
+=============================================
+
+TRANSITIONAL ISSUES: 
+1) Continue heparin gtt with goal PTT 50-70 as part of a bridge 
+to therapeutic INR (___).  Once INR therapeutic, please STOP 
+heparin drip.
+2) Please check INR daily until 3 consecutive INRs are between 
+___ and then can check INR every third day. 
+3) Continue levofloxacin through ___ for treatment of MSSA PNA
+4) Respiratory care for trach
+5) Tube feeding recommendations are enclosed ___ this packet
+6) Stroke neurology follow-up with Dr. ___.
+     Department: NEUROLOGY
+     When: ___ at 2:00 ___
+     With: ___
+     Building: ___
+     Campus: ___ Best Parking: ___
+
+====================================================
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (x) 
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(x) Yes 
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes 
+4. LDL documented (required for all patients)? (x) Yes (LDL = 
+81) 
+5. Intensive statin therapy administered? (x) Yes atorvastatin 
+40mg 
+6. Smoking cessation counseling given? (x) No [if no, reason: 
+(x) non-smoker 
+7. Stroke education given (written form ___ the discharge 
+worksheet)? (x) Yes (stroke education = personal modifiable risk 
+factors, how to activate EMS for stroke, stroke warning signs 
+and symptoms, prescribed medications, need for followup)
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes 
+9. Discharged on statin therapy? (x) Yes 
+10. Discharged on antithrombotic therapy? (x) Yes - systemic 
+Anticoagulation
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) Yes 
+====================================================
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. lisinopril-hydrochlorothiazide 40-25 mg oral DAILY 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain/fever 
+2. Atorvastatin 40 mg PO DAILY 
+3. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+4. Docusate Sodium 100 mg PO BID constipation 
+5. Heparin IV 
+     No Initial Bolus
+     Initial Infusion Rate: 2100 units/hr
+     Start: ___, First Dose: 1600 
+     Check PTT Q6hrs. Goal 50-70. 
+6. Insulin SC Sliding Scale Fingerstick QACHS, HS
+       Insulin SC Sliding Scale using REG Insulin
+7. Levofloxacin 750 mg IV Q24H Duration: 3 Days Through ___. Milk of Magnesia 30 mL PO Q6H:PRN constipation 
+9. Nystatin Oral Suspension 5 mL PO QID 
+10. Senna 8.6 mg PO BID constipation 
+11. Warfarin 7.5 mg PO DAILY16 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+- Basilar thrombosis 
+- Ischemic stroke (infarcts ___ the cerebellum, pons, and 
+midbrain)
+- MSSA pneumonia
+- Hypertension
+- Diabetes mellitus
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were hospitalized due to symptoms of slurred speech, 
+dizziness, difficulty moving your eyes, and left sided weakness. 
+These symptoms were the result of an ACUTE ISCHEMIC STROKE, a 
+condition ___ which a blood vessel providing oxygen and nutrients 
+to the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result ___ a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+___ order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+High blood pressure
+High cholesterol
+Diabetes
+
+We are changing your medications as listed below. 
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). ___ particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- sudden partial or complete loss of vision
+- sudden loss of the ability to speak words from your mouth
+- sudden loss of the ability to understand others speaking to 
+you
+- sudden weakness of one side of the body
+- sudden drooping of one side of the face
+- sudden loss of sensation of one side of the body
+- sudden difficulty pronouncing words (slurring of speech)
+- sudden blurring or doubling of vision
+- sudden onset of vertigo (sensation of your environment 
+spinning around you)
+- sudden clumsiness of the arm and leg on one side or sudden 
+tendency to fall to one side (left or right)
+- sudden severe headache accompanied by the inability to stay 
+awake
+
+It was a pleasure providing you with care during this 
+hospitalization.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-21 | hadm_id=20691165
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal hematoma
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ on Coumadin for hx of recurrent CVAs, most recently R
+ponto-medullary infarct who initially was scheduled to undergo
+left inguinal hernia repair on ___ with pre-operative
+Coumadin to ___ who now presents with 11cm right 
+sided
+anterior rectus sheath hematoma. Patient was evaluated for
+___ for left inguinal incarcerated hernia, which was reduced
+and subsequently followed in general surgery clinic. As noted
+earlier, he initially had an elective repair scheduled on
+___ with Dr. ___. He was taken off Coumadin on ___, and started on Lovenox injections BID. Patient noticed
+a small subcutaneous hematoma on ___, which progressively
+enlarged into ___. He presented to the ED on 
+___
+with these complaints and was found to have a stable Hct of 39,
+ultrasound was done in the ED demonstrating a 8.8 cm collection
+in the right lower abdomen. Patient was discharged from the ED.
+However, patient's wife states that there was progression in the
+hematoma, with new overlying ecchymosis. 
+ 
+Past Medical History:
+- Basilar thrombosis with resultant infarcts in the cerebellum,
+pons, and midbrain
+- Hypertension
+- Diabetes mellitus
+- HLD
+ 
+Social History:
+___
+Family History:
+- No h/o strokes, clotting disorders
+- Mother died of lung Ca (smoker)
+ 
+Physical Exam:
+Physical exam on admission:
+Vitals: Stable
+General: AAOx3
+HEENT: EOMI
+Cardiac: Normal S1, S2
+Respiratory: Breathing comfortably on room air
+Abdomen: Tense right abdomen, with overlying ecchymosis, left
+abdomen soft. No rebound or guarding
+
+Discharge Physical Exam:
+VS: 98.2, 73, 106/62, 18, 98%ra
+GEN: AA&O x 3, NAD, calm, cooperative. +dysarthria & dysphonia
+CHEST: Clear to auscultation bilaterally, occasional cough
+ABDOMEN: Right medial abdominal hematoma, decreasing in size 
+from outline, fading ecchymosis, firm and tender on palpation 
+but improved per patient
+EXTREMITIES: Warm, well perfused, pulses palpable, - edema
+ 
+Pertinent Results:
+___ 07:15AM BLOOD Hct-31.5*
+___ 03:45PM BLOOD Hct-33.1*
+___ 10:15AM BLOOD WBC-7.5 RBC-3.74* Hgb-11.1* Hct-34.2* 
+MCV-91 MCH-29.7 MCHC-32.5 RDW-12.5 RDWSD-41.8 Plt ___
+___ 05:21AM BLOOD WBC-8.0 RBC-3.60* Hgb-10.9* Hct-33.1* 
+MCV-92 MCH-30.3 MCHC-32.9 RDW-12.7 RDWSD-42.5 Plt ___
+___ 10:40PM BLOOD WBC-7.9 RBC-3.99* Hgb-12.0* Hct-36.8* 
+MCV-92 MCH-30.1 MCHC-32.6 RDW-12.5 RDWSD-41.7 Plt ___
+___ 06:15AM BLOOD WBC-7.7 RBC-4.27* Hgb-12.8* Hct-39.1* 
+MCV-92 MCH-30.0 MCHC-32.7 RDW-12.4 RDWSD-41.3 Plt ___
+___ 10:40PM BLOOD Glucose-103* UreaN-13 Creat-0.8 Na-145 
+K-4.1 Cl-109* HCO3-30 AnGap-10
+___ 06:15AM BLOOD Glucose-89 UreaN-12 Creat-0.6 Na-142 
+K-3.3 Cl-109* HCO3-29 AnGap-7*
+
+___ Abdominal US
+Complex multiloculated fluid collection largely subcutaneous 
+collection measures up to 8.8 cm in the right lower quadrant and 
+appears to extend deep within anterior abdominal wall soft 
+tissues.  This likely represents hematoma although 
+infection/superinfection cannot be excluded. 
+
+___ Abd CT
+Large right anterolateral abdominal wall subcutaneous tissue 11 
+cm hematoma with associated induration of surrounding 
+subcutaneous tissues which extends posteriorly along the right 
+flank.  There is no intra-abdominal extension. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the General Surgical Service on 
+___ for evaluation and treatment of an abdominal hematoma.  
+Admission  abdominal/pelvic CT revealed a large right 
+anterolateral abdominal wall subcutaneous tissue 11 cm hematoma 
+but had no intra-abdominal extension. The patient was 
+hemodynamically stable. He was admitted for serial HCTs 
+(36.8->33) with the plan to transfuse if hemodynamically 
+unstable or hematocrit continued to drop, with possible ___ 
+angiogram to find source. 
+.
+Hematocrit was stable and the patient remained stable with no 
+signs of ongoing bleeding. Coumadin was restarted. Diet was 
+progressively advanced as tolerated to a regular diet with good 
+tolerability. The patient voided without problem. During this 
+hospitalization, the patient was seen by Physical Therapy, who 
+cleared him to be discharged home with home ___. The patient was 
+adherent with respiratory toilet and incentive spirometry, and 
+actively participated in the plan of care with the help and 
+support of his wife. ___ boots were used during this stay.
+.
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The site of the abdominal hematoma was 
+softer than on admission with slowly resolving ecchymosis. The 
+patient was tolerating a regular diet, at his baseline of 
+activity, voiding without assistance, and denied pain.  The 
+patient was discharged home with ___ services and would resume 
+his normal INR monitoring. The patient and his wife received 
+discharge teaching and follow-up instructions with understanding 
+verbalized and agreement with the discharge plan.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Warfarin 3 mg PO 3X/WEEK (___) 
+4. Warfarin 6 mg PO 3X/WEEK (___) 
+5. Lisinopril 20 mg PO DAILY 
+6. Nuedexta (dextromethorphan-quinidine) ___ mg oral BID 
+7. Glycopyrrolate 1 mg PO TID 
+8. Doxazosin 4 mg PO HS 
+9. ClonazePAM 0.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Atenolol 50 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. ClonazePAM 0.5 mg PO DAILY 
+4. Doxazosin 4 mg PO HS 
+5. Glycopyrrolate 1 mg PO TID 
+6. Lisinopril 20 mg PO DAILY 
+7. Nuedexta (dextromethorphan-quinidine) ___ mg oral BID 
+8. Warfarin 3 mg PO 2X/WEEK (MO,TH) 
+9. Warfarin 6 mg PO 5X/WEEK (___) 
+10. Acetaminophen 650 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Abdominal wall hematoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ for 
+management of a hematoma of your abdominal wall after Lovenox 
+injections. We monitored your blood count and exam, and you 
+remained stable. We restarted your Coumadin on ___ at your 
+home dose. You have had no episodes of bleeding and are ready 
+for discharge home. 
+
+Please follow these instructions to ensure an uneventful and 
+speedy recovery:
+
+*AVOID any activity that may cause injury to your abdominal area 
+for the next ___ weeks.
+ 
+*If you suddenly become dizzy, lightheaded, feeling as if you 
+are going to pass out go to the nearest Emergency Room as this 
+could be a sign that you are having more bleeding in your 
+abdominal wall.
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-23 | hadm_id=23029881
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bridging anticoagulation 
+ 
+Major Surgical or Invasive Procedure:
+___: Left and right medialization laryngoplasty with Gore-Tex
+___: Open exploration of neck and evacuation of hematoma
+
+ 
+History of Present Illness:
+___ is a ___ man with HTN, s/p CVA with resultant hemiplegia 
+and pseudobulbar and bulbar findings also with dysarthria and 
+dysphasia, bilateral vocal fold atrophy, a right vocal fold 
+paresis, secondary muscle tension dysphonia who needs ENT 
+surgical intervention on ___. He is directly admitted to 
+medicine for bridging anticoagulation prior to planned surgery 
+on ___. Reportedly, unable to do Lovenox so admitted for 
+Heparin infusion. His last dose of Warfarub was ___ 
+and his last INR was ___ yesterday checked at home.
+ 
+He has no significant complaints at this time. No fevers, 
+chills, nausea, vomiting, bleeding or bruising. Wife reports 
+diarrhea recently. 
+ 
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, 
+constipation or abdominal pain. No dysuria. Denies arthralgias 
+or myalgias. Otherwise ROS is negative.
+   
+                                                    
+
+ 
+Past Medical History:
+*S/P STROKE                                                     
+DYSARTHRIA                                                      
+DYSPHAGIA                                                       
+HEMIPLEGIA                                                      
+HYPERTENSION                                                    
+SNORING                                                         
+NEUROPATHY                                                      
+PUPULAR LESION                                                  
+HOME SERVICES                                                   
+ADVANCE CARE PLANNING                                           
+H/O NEPHROLITHIASIS                                             
+H/O DIABETES TYPE II                                            
+H/O HYPERTRIGLYCERIDEMIA                                        
+H/O OBESITY                                                     
+H/O REHAB   
+ 
+Social History:
+___
+Family History:
+Mother   ___     LUNG CANCER  in ___, smoker; TRANSIENT 
+ISCHEMIC  ATTACK    
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 97.8 ___ / 91 58 18 93 RA 
+Pain Scale: ___
+General: Patient appears overall well, chronically debilitated 
+but not acutely unwell. Alert, oriented and in no acute distress 
+ 
+HEENT: Sclera anicteric, MMM, poor dentition, oropharynx clear  
+Neck: supple, JVP low, no LAD appreciated
+Lungs: Clear to auscultation bilaterally, moving air well and 
+symmetrically, no wheezes, rales or rhonchi appreciated  
+CV: Regular rate and rhythm, S1 and S2 clear and of good 
+quality, no murmurs, rubs or gallops appreciated
+Abdomen: soft, non-tender, non-distended, normoactive bowel 
+sounds throughout, no rebound or guarding
+Ext: Warm, well perfused, full distal pulses, no clubbing, 
+cyanosis or edema    
+Neuro: Slow speech with dysphonia, alert and oriented x 3. 
+Severe dysarthria. Right eye with eye patch. INtact strength on 
+the right side although some limitation in proximal movement of 
+the right arm. Nrisk reflexes 3+ on the left leg, but no clonus. 
+Decreased sensation with left arm.
+
+DISCHARGE EXAM: 
+Vital Signs:  AF 110s-140s/70s-80s ___ 92-98% on 3L
+Tele: rates now ___
+GEN: Alert, NAD
+HEENT: Baseline mild L facial droop
+NECK: dressing surrounding neck c/d/i, ecchymosis surrounding 
+prior drain site, steristrips
+CV: RRR, no m/g/r
+PULM: expiratory rhonchi vs upper airway sounds, with air entry 
+bilaterally
+GI: S/NT/ND
+Extr: no edema
+NEURO: Baseline L sided hemiparesis; Notable dysphonia and 
+dysarthria
+PSYCH: normal range of affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:45PM BLOOD WBC-7.1 RBC-4.42* Hgb-13.2* Hct-40.4 
+MCV-91 MCH-29.9 MCHC-32.7 RDW-12.8 RDWSD-42.8 Plt ___
+___ 10:45PM BLOOD ___ PTT-36.3 ___
+___ 10:45PM BLOOD Glucose-169* UreaN-15 Creat-0.8 Na-144 
+K-3.2* Cl-106 HCO3-26 AnGap-12
+___ 10:45PM BLOOD Calcium-8.9 Phos-3.0 Mg-1.8
+
+DISCHARGE LABS:
+___ 07:40AM BLOOD WBC-11.2* RBC-4.19* Hgb-12.6* Hct-38.7* 
+MCV-92 MCH-30.1 MCHC-32.6 RDW-12.8 RDWSD-43.1 Plt ___
+___ 07:40AM BLOOD ___
+___ 07:40AM BLOOD Glucose-87 UreaN-10 Creat-0.6 Na-145 
+K-3.9 Cl-103 HCO3-31 AnGap-11
+
+WBC trend:
+7 -> 7 -> 16 -> 16 -> 13 -> 12 -> 8 -> 10 ->11
+
+CXR (___) - IMPRESSION: 
+In comparison with the study of ___, there are 
+lower lung
+volumes.  Cardiac silhouette is within normal limits and there 
+is minimal
+indistinctness of pulmonary vessels that could represent small 
+of a shin in
+pulmonary venous pressure.  Opacification at the left base most 
+likely
+represents atelectatic changes with possible small effusion.
+
+CXR (___) - FINDINGS:
+Over left lower lung field increased opacification is seen 
+concerning for
+aspiration or worsening pneumonia
+No signs of pulmonary edema.
+The cardiomediastinal silhouette is within normal limits .
+No pleural effusion.
+IMPRESSION:
+Left lower lung opacification concerning for aspiration / 
+pneumonia.
+
+ 
+Brief Hospital Course:
+___ y/o M with PMHx HTN, s/p CVA with resultant hemiplegia and 
+pseudobulbar and bulbar findings also with dysarthria and 
+dysphasia, bilateral vocal fold atrophy, a right vocal fold 
+paresis, secondary muscle tension dysphonia who was admitted for 
+bridging anticoagulation with heparin gtt in the setting of 
+planned ENT surgical intervention on ___. Post-operative course 
+complicated by bleeding and hematoma formation, requiring return 
+to the OR, as well as overt aspiration. Despite recommendations 
+for NG or PEG for alternative feeding route, the patient 
+adamantly declined, as he had these in the past and it was not 
+consistent with his goals of care. This was discussed 
+extensively with him and his wife on numerous occasions.
+
+# PRIOR BRAINSTEM STROKE / VOCAL CORD ATROPHY: With hemiplegia, 
+bulbar and pseudobulbar findings, as well as bilateral vocal 
+cord atrophy and right vocal cord paresis, admitted for planned 
+medialization laryngoplasty left and right. He was admitted for 
+perioperative bridging with heparin gtt. Underwent bilateral 
+medialization laryngoplasty ___. Was placed back on heparin gtt 
+and Coumadin post-operatively; however, this was complicated by 
+bleeding / hematoma. He is now s/p evacuation of hematoma and JP 
+drain placement. H/H since stable. He was restarted on 
+anticoagulation and bridged back to coumadin. He received 1 week 
+of augmentin/unasyn post-op. His drain was pulled on ___. He 
+continued to struggle with phonation post-op, although this may 
+improve over time per ENT. He will f/u with ENT in clinic. He 
+has steristrips in place, which will fall off over time. 
+
+#Anticoagulation:
+Became supratherapeutic (3.3 from 2.0 the prior day) once 
+restarted on home coumadin dose (6 mg 4x weekly, 3 mg 3x 
+weekly). Coumadin held on ___ and restarted at 3 mg on  ___. 
+INR 2.7 on ___. Antibiotics and being NPO probably contributed. 
+Patient has home POC INR machine at home and will titrate 
+closely, working with ___ clinic. For now recommended 3 mg 
+daily, although pending values over upcoming days may return to 
+closer to home dosing.
+
+# ASPIRATION: Noted to have several episode of coughing and 
+severe desaturation after eating. He was seen by ___ who noted 
+aspiration and recommended NPO. The patient was not in agreement 
+with NGT or PEG. Therefore, he was placed on IVFs while NPO. No 
+significnt suspicion for pneumonia, likely because patient 
+already on augmentin at time of aspiration event and lacked a 
+clinical picture suggestive of infection. Swallowing was 
+reassessed after several days but not found to be improved. 
+Patient preferred to eat with risk of aspiration rather than 
+consider feeding tube. Made recommendations for safest modified 
+diet considering this preference after multiple extensive 
+discussions (honey/ground diet, aspiration precautions, 
+continued SLP therapy at home)
+
+# HYPERTENSION
+# Bradycardia
+Continued lisinopril. Atenolol reduced from 50 to 25 due to 
+bradycardia, which subsequently improved from ___ to 
+___. BP remained in 110s-150s, may need further titration as 
+outpatient.
+
+# HLD: On statin.
+
+#Thrombocytopenia:
+Mild. Slightly improved during admission. Follow-up as 
+outpatient
+
+#Leukocytosis:
+Worsening on HD3, subsequently improved although mildly elevated 
+at time of discharge. Low suspicion for infection. Can monitor 
+as outpatient
+
+========================================
+Transitional issues:
+(1) close monitoring of INR and close communication with 
+___ clinic about dose adjustments (patient checks INR at 
+home with POC machine and discusses with ___ clinic) - for 
+now is on 3 mg daily, but will likely require uptitration back 
+toward prior dosing of ___
+(2) honey thickened/ground diet, aspiration precations, home SLP 
+therapy. Contined discssions as outpatient abot goals of care 
+and nutrition.
+(3) follow-up with primary care scheduled and ENT follow-p to be 
+schedled
+(4) repeat CBC in follow-up given mild thrombocytopenia and mild 
+lekocytosis
+(5) evaluation of drain wound (R neck) in follow-up; steristrips 
+can be allowed to fall off on their own
+
+========================================
+>30 minutes spent in patient care and coordination of discharge 
+on day of discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxazosin 4 mg PO HS 
+2. Lisinopril 40 mg PO DAILY 
+3. Glycopyrrolate 1 mg PO TID:PRN secretions 
+4. ClonazePAM 0.5 mg PO QHS 
+5. Atenolol 50 mg PO QHS 
+6. dextromethorphan-quinidine ___ mg oral BID 
+7. Warfarin 6 mg PO 4X/WEEK (___) 
+8. Warfarin 3 mg PO 3X/WEEK (___) 
+9. Atorvastatin 40 mg PO QPM 
+10. Ketoconazole Shampoo 1 Appl TP ASDIR 
+11. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Atenolol 25 mg PO QHS  
+2.  Warfarin 3 mg PO DAILY16  
+3.  Warfarin 3 mg PO DAILY16  
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  Atorvastatin 40 mg PO QPM  
+6.  ClonazePAM 0.5 mg PO QHS  
+7.  dextromethorphan-quinidine ___ mg oral BID  
+8.  Docusate Sodium 100 mg PO BID:PRN constipation  
+9.  Doxazosin 4 mg PO HS  
+10.  Glycopyrrolate 1 mg PO TID:PRN secretions  
+11.  Ketoconazole Shampoo 1 Appl TP ASDIR  
+12.  Lisinopril 40 mg PO DAILY  
+13.  nystatin 100,000 unit/gram topical BID  
+14.Home Oxygen
+Home O2.  Length of need for O2: 99 months. 2 L continuous O2 at 
+rest and with ambulation. Include concentrator and portables. 
+Diagnosis hypoxia: 799.02. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+History of stroke
+Vocal Cord Atrophy / Paresis
+Aspiration/Dysphagia
+Hypoxia
+Low platelets
+Low heart rate
+
+ 
+Discharge Condition:
+Alert and interactive, but with significant dysphonia. Reduced 
+functional status from his baseline. Hemodynamically stable. 
+
+ 
+Discharge Instructions:
+You presented to the hospital for heparin bridging in 
+anticipation of your planned ENT surgery. Your postoperative 
+course was complicated by bleeding requiring repeat surgery. 
+Your course was also complicated by episodes of aspiration. 
+Because of this aspiration, you were made NPO and placed on IV 
+fluids. After several days, we reassessed your swallowing and 
+found that you were still aspirating. Based on your preference 
+to absolutely avoid a feeding tube of any sort and to take the 
+risk of aspirating with eating food, we recommended that you 
+take a modified diet with honey thickened liquids and ground 
+solids. We also recommend supplemental oxygen until your oxygen 
+levels have recovered.
+
+You INR rose very quickly when restarted on coumadin, most 
+likely because of your antibiotics and reduced oral intake. 
+Therefore for now we have reduced your dosing to 3 mg daily. 
+However this will likely be increased in the future, and over 
+the next ___ weeks you should monitor closely and be in close 
+communication with your ___ clinic. 
+
+Of note we reduced your atenolol dose due to low heart rates. 
+Your blood pressures have been overall in a reasonable range 
+despite this change, but you should continue monitoring the 
+blood pressure and if elevated then you may need a different 
+blood pressure medication instead.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-20 | hadm_id=23860278
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness, dysarthria
+ 
+Major Surgical or Invasive Procedure:
+PEG placement
+
+ 
+History of Present Illness:
+per Dr. ___ admission note:
+Mr. ___ is a ___ M w PMHx of HTN, HLD, DM, and basilar 
+thrombosis with resultant infarcts in the cerebellum, pons, and 
+midbrain ___ ___ who is transferred to ___ for new 
+worsening dysarthria and right sided weakness.
+
+Mr. ___ was hospitalized at ___ from ___ to ___ 
+after presenting with a basilar artery thrombus resulting in 
+several small ischemic strokes in the bilateral cerebellar 
+hemispheres and R thalamus. During that complicated hospital 
+stay, Mr. ___ was initially managed in the ICU with 
+anticoagulation for his basilar artery thrombus. Unfortuantely, 
+he developed new mibrain and pontine infarctions. He was 
+severely debilited and underwent trach and PEG on ___. He was 
+discharged on coumadin for his basilar artery thrombus. He was 
+then switched to apirin 325mg one month ago after a repeat CTA 
+was stable.  
+Mr. ___ is accompanied by his wife, who provides the below 
+history. She states that on ___, Mr. ___ had an episode of 
+diarrhea but was otherwise well. The diarrhea persisted on ___ 
+and he asked to take a nap in the early afternoon. When he awoke 
+from his nap, his wife noted that he appeared generally weaker 
+and had difficulty eating his lunch - it took a great effort to 
+chew and swallow and he was also drooling quite a bit. She also 
+notes that his speech was ever so slightly more dysarthric (she 
+can usually understand approximately 90% of what he says, on 
+___ it was 80%). Mr. ___ also complained of a headache a 
+that time which is very unusual for him. Ms. ___ then called 
+EMS, and Mr. ___ presented to ___ with 
+worsening dysarthria and weakness. A ___ performed in the ED 
+there was without hemorrhage or obvious signs of new stroke. He 
+was admitted to the hospital after neurology noted chronic L 
+sided weakness and new RUE/RLE UMN weakness and noted they 
+recommended an MRI for further evaluation.  
+
+On the morning of ___, Mrs. ___ states that she thinks Mr. 
+___ was ever so slightly improved from the day prior. He was 
+able to take is breakfast without too much difficult and he did 
+well working with ___. His speech was also nearly back to 
+baseline. She does note that he had a low grade temperature that 
+day to 100.7.
+
+At around noon, however, she noticed a worsening in Mr. ___ 
+condition. He was drooling, unable to chew his lunch, and unable 
+to suck through a straw for liquids. She also reports that his 
+speech began to get much worse at this time. From noon until 4PM 
+he continued to worsen, becoming weaker and more dysarthric. She 
+estimates that at its worst, she could only understand 10% of 
+what he was saying at that he was speaking one word or even one 
+letter at a time.
+
+Mr. ___ did have an MRI at ___ at approximately 
+4PM on ___. MRI demonstrated show new small L midbrain 
+infarct; MRA redemonstrated know cerebrovascular disease. He was 
+subsequently transferred to ___ as he has received his prior 
+neurology care here.
+
+Mr. ___ is unable to participate in full ROS, pertinent 
+findings are noted above.
+ 
+Past Medical History:
+- Basilar thrombosis with resultant infarcts in the cerebellum,
+pons, and midbrain
+- Hypertension
+- Diabetes mellitus
+- HLD
+ 
+Social History:
+___
+Family History:
+- No h/o strokes, clotting disorders
+- Mother died of lung Ca (smoker)
+ 
+Physical Exam:
+===========
+ADMISSION EXAM
+===========
+VS T98.2 BP186/115 HR85 RR22 Sat93%RA
+GEN - Awake, cooperative, 
+HEENT - NC/AT, eye patch over R eye, preferentially rotates head
+~30 degrees to his left, thick secretions in oropharynx
+NECK - Supple, no nuchal rigidity
+RESP - +upper airway noise
+CV - RRR, warm and well perfused
+ABD - soft, nontender, nondistended
+SKIN - red ?petechial rash over R hand
+ 
+Neurologic Exam:
+
+MENTAL STATUS
+Alert and oriented x3. Severe dysarthria limits ability to
+participate in history or give verbal responses during
+examination. Speech is slow and slurred, c/b inability to clear
+secretions. Does provide additional history detail and wife
+reports no concerns regarding his MS.
+
+___ NERVES
+II: PERRL 2->1mm and brisk bilaterally. VFF to confrontation. 
+III, IV, VI: R eye w restricted ROM in all directions, L eye
+unable to abduct or adduct fully (new)
+V: Facial sensation intact to light touch, temperature
+VII: ?new R lower facial droop
+VIII: Hearing intact to voice
+IX, X: ?decreased elevation of R palate
+XI: ___ strength in SCM bilaterally
+XII: Tongue protrudes in right of midline but has full ROM
+ 
+MOTOR
+Increase tone in LUE and LLE. Decreased tone in RUE and RLE.
+ Delt Bic Tri WrE FFl FE   IP Quad Ham TA ___
+L  ___  ___   4+   5   4+  5    5     5 
+R  ___  ___   3    ___    5     5 
+ 
+REFLEXES
+    Bi  Tri  ___  Pat  Ach
+L   2+   2+    2+    2    3 ___ beats of clonus)
+R   2+   2+    2+    2    1
+- Toes are upgoing bilaterally
+- Pectoralis Jerk absent, crossed adductors are absent 
+- +R grasp
+ 
+SENSORY:
+Difficult to assess in patient with severely impaired 
+communication. Responds to light touch throughout. ?Decreased 
+sensation with some allodynia on the left arm.
+
+COORDINATION:
++Dysmetria with L FNF, per wife: "worse than baseline". Also 
+dysmetric on the R, but complicated by weakness.
+
+GAIT: wheelchair bound
+
+=================================
+Discharge physical exam = Awake & alert. Sitting in bed wearing 
+eye patch ___ diplopia. Emotially lable & cries easily. 
+Dysarthric/anarthric. Limited abduction of the left eye. Left 
+eye down & in at rest. Flat left NLF. Lt UE ___ ___ ___ 
+distally. Lt ___ ___ ___ ___ distally. Moves Rt side well. + 
+BS. Mild abdominal tenderness. PEG site clean. No tenderness.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:31AM BLOOD WBC-11.1*# RBC-4.39* Hgb-13.3* Hct-37.5* 
+MCV-86 MCH-30.3 MCHC-35.4* RDW-13.3 Plt ___
+___ 01:31AM BLOOD Neuts-81.9* Lymphs-10.4* Monos-6.0 
+Eos-1.4 Baso-0.2
+___ 01:31AM BLOOD ___ PTT-32.4 ___
+___ 01:31AM BLOOD Glucose-115* UreaN-7 Creat-0.7 Na-144 
+K-2.8* Cl-106 HCO3-25 AnGap-16
+___ 01:31AM BLOOD ALT-12 AST-15 CK(CPK)-74 AlkPhos-79 
+TotBili-1.3
+___ 01:31AM BLOOD Calcium-9.2 Phos-3.5 Mg-1.8 
+
+DISCHARGE LABS: 
+___ 04:08AM BLOOD WBC-10.5 RBC-4.36* Hgb-13.3* Hct-38.7* 
+MCV-89 MCH-30.4 MCHC-34.3 RDW-13.7 Plt ___
+___ 04:08AM BLOOD ___ PTT-58.4* ___
+___ 04:08AM BLOOD Glucose-123* UreaN-18 Creat-0.7 Na-141 
+K-3.5 Cl-103 HCO3-32 AnGap-10
+
+STROKE RISK FACTORS:
+Cholest-66
+Triglyc-83 
+HDL-24 
+CHOL/HD-2.8 
+LDLcalc-25
+
+%HbA1c-5.7 eAG-117
+TSH-1.1
+
+IMAGING:
+MR/MRA head (___)
+IMPRESSION: 
+1. Slightly increased size of the brainstem infarct compared to 
+MRI from ___, with a new area of infarct just 
+inferior to the pons in the right pontomedullary junction 
+(series 6, image 8).
+2. Limited MRA due to patient motion. Occlusion of the basilar 
+artery and near complete occlusion of the V4 segment of the left 
+vertebral artery are similar to MRA from ___. The 
+superior cerebellar and posterior cerebral arteries are not 
+visualized on the current MRA, although resolution is limited on 
+the current study and no infarcts are identified within these 
+territories on current MRI. If there is a need to evaluate the 
+intracranial vasculature with better resolution, CTA could be 
+considered.
+
+XR Elbow (___)
+FINDINGS: 
+ 
+There is soft tissue swelling over the olecranon.  This is 
+nonspecific but could reflect olecranon bursitis.  Lateral view 
+is oblique, limiting assessment for joint effusion. No acute 
+fracture or bone lesion is seen. Joint spaces appear preserved.
+
+ 
+Brief Hospital Course:
+# NEURO: ___ was transferred from ___ with 
+symptoms of worsening dysarthria and a new pontine stroke 
+demonstrated on MRI. His symptoms were at first attributed to 
+hypoperfusion due to hypotension in the setting of known basilar 
+artery thrombus, but upon review of records from his 
+hospitalization prior to transfer there was no recorded 
+hypotension. Despite maintaining permissive hypertension during 
+the current admission he had the subsequent expansion of his 
+infarct, demonstrated on repeat MRI. He was thus started on 
+heparin gtt as bridge to coumadin. He will need to remain on 
+coumadin until his outpatient Vascular Neurology followup. His 
+risk factors were again measured and his LDL was 25 and A1c was 
+5.7%. He failed his swallow study due to severe dysphagia so a 
+PEG tube was placed. He was evaluated by ___ and OT who 
+recommended acute rehab to address his right sided weakness and 
+ataxia as well as his severe dysarthria. On ___ he started 
+Coumadin, but will be discharged to rehab on heparin drip (goal 
+PTT 50-70, no boluses) until INR therapeutic. His home Aspirin 
+325mg daily was stopped in hospital due to alternate use of 
+anticoagulation; will consider restarting at outpatient 
+neurology follow-up. 
+
+# CARDIOVASC: Permissive hypertension was maintained for 
+majority of hospitalization, then home meds (lisinopril and 
+atenolol) were restarted. On discharge he was still 
+intermittently hypertensive to SBP 150s-180s. Thus, increased 
+atenolol from 25mg daily to 50mg daily (home dose) on day of 
+discharge. Will need BP monitoring at rehab to aim for final 
+goal SBP 130-140. 
+
+# PSYCH: Patient was intermittently tearful and depressed during 
+hospitalization, with a pseudobulbar affect at time. This may 
+have been some degree of post-stroke depression but also suspect 
+symptoms are pseudobulbar secondary to involvement of mibrain 
+and pons in stroke. Started fluoxetine 10mg daily during 
+hospitalization. 
+
+# RHEUM: He developed swelling over his left elbow concerning 
+for olecranon bursitis. He was evaluated by rheumatology who 
+performed a joint aspiration which confirmed bursitis. This was 
+managed with supportive care. 
+
+-----------------
+TRANSITIONS OF CARE:
+- Needs daily INR monitoring while uptitrating Coumadin 
+- Goal SBP 130-140, may need antihypertensives uptitrated, 
+increased Lisinopril from 20mg daily to 30mg daily on discharge 
+(___)
+
+====================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (x) Yes [performed 
+and documented by admitting resident] – () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(x) Yes - () No
+
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+
+4. LDL documented (required for all patients)? (x) Yes (LDL = 
+25) - () No
+
+5. Intensive statin therapy administered? () Yes - (x) No [if 
+LDL >= 100, reason not given: ____ ]
+(intensive statin therapy = simvastatin 80mg, simvastatin 
+80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, rosuvastatin 
+20mg or 40mg, for LDL >= 100)
+
+6. Smoking cessation counseling given? () Yes - (x) No [if no, 
+reason: (x) non-smoker - () unable to participate]
+
+7. Stroke education given (written form in the discharge 
+worksheet)? (x) Yes - () No
+(stroke education = personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup)
+
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No [if no, reason not assessed: ____ ]
+
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >= 100 
+or on a statin prior to hospitalization, reason not discharged 
+on statin: ____ ]
+
+10. Discharged on antithrombotic therapy? () Yes [Type: () 
+Antiplatelet - () Anticoagulation] - () No
+
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) Yes - () No [if no, reason not 
+discharge on anticoagulation: ____ ] - () N/A
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO QPM 
+2. Doxazosin 4 mg PO HS 
+3. Lisinopril 20 mg PO QHS 
+4. ClonazePAM 0.5 mg PO QHS 
+5. Atenolol 50 mg PO QHS 
+6. Aspirin 325 mg PO QHS 
+7. Docusate Sodium 100 mg PO DAILY:PRN constipation 
+
+ 
+Discharge Medications:
+1. Atenolol 50 mg PO QHS 
+2. Atorvastatin 40 mg PO QPM 
+3. ClonazePAM 0.25 mg PO QHS 
+4. Acetaminophen 650 mg PO Q6H:PRN pain/fever 
+5. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+6. Fluoxetine 10 mg PO DAILY 
+7. Heparin IV 
+No Initial Bolus
+Initial Infusion Rate: 1800 units/hr
+Start: Today - ___, First Dose: 1100 
+Goal PTT 50-70. 
+NO BOLUSES.  
+8. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+9. Miconazole Powder 2% 1 Appl TP BID:PRN rash 
+10. Warfarin 5 mg PO DAILY16 
+11. Doxazosin 4 mg PO HS 
+12. Lisinopril 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Basilar artery occlusion with infarction
+s/p PEG tube
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+Discharge physical exam = Awake & alert. Sitting in bed wearing 
+eye patch ___ diplopia. Emotially lable & cries easily. 
+Dysarthric/anarthric. Limited abduction of the left eye. Left 
+eye down & in at rest. Flat left NLF. Lt UE ___ ___ ___ 
+distally. Lt ___ ___ ___ ___ distally. Moves Rt side well. + 
+BS. Mild abdominal tenderness. PEG site clean. No tenderness.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were hospitalized due to symptoms of slurred speech and 
+right-sided weakness resulting from an ACUTE ISCHEMIC STROKE, a 
+condition in which a blood vessel providing oxygen and nutrients 
+to the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+ - basilar artery thrombus
+ - high blood pressure
+ - high cholesterol
+ - diabetes
+
+We are changing your medications as follows:
+- restarting coumadin
+
+Please take your other medications as prescribed.
+
+Please followup with Neurology and your primary care physician 
+as listed below.
+
+It was a pleasure providing you with care during this 
+hospitalization.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16053405-DS-22 | hadm_id=23951249
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left inguinal hernia 
+ 
+Major Surgical or Invasive Procedure:
+Left inguinal hernia repair 
+ 
+History of Present Illness:
+___ year old  with hx of basilar infarct presenting to the 
+hospital for pre operative anticoagulation management. Patient 
+had procedure scheduled back in ___ but had to be admitted 
+to the hospital due to a 11 cm right rectus sheath hematoma due 
+to bridging therapy with lovenox. Patient hematoma is now 
+resolving and the patient was advised to discontinue the lovenox 
+and restart his Coumadin anticoagulation. The patient prior to 
+arrival to the hospital the
+Coumadin was holded on ___ as indicated by Dr. ___ in 
+his ___ clinic. Patients wife indicates that on the 
+morning of admission the patients INR was 1.9
+
+ 
+Past Medical History:
+- Basilar thrombosis with resultant infarcts in the cerebellum,
+pons, and midbrain
+- Hypertension
+- Diabetes mellitus
+- HLD
+ 
+Social History:
+___
+Family History:
+- No h/o strokes, clotting disorders
+- Mother died of lung Ca (smoker)
+ 
+Physical Exam:
+Physical exam:
+Vitals: T BP HR RR O2Sat 
+General: AAOx3, NAD
+HEENT: EOMI, CN ___ intact 
+Cardiac: RRR, Normal S1, S2
+Respiratory: Breathing comfortably on room air, CTAB
+Abdomen: Incision site is non-tender, non-erythematous, and 
+flat. Tense right abdomen from previous hematoma but no 
+overlying ecchymosis, left abdomen soft. No rebound or guarding. 
+
+Ext: Warm and well perfused. No evidence of cyanosis or 
+clubbing. 
+ 
+Pertinent Results:
+___ 05:20PM   ___ PTT-37.6* ___
+___ 05:20PM   PLT COUNT-185
+___ 05:20PM   WBC-6.4 RBC-4.45* HGB-13.3* HCT-41.5# MCV-93 
+MCH-29.9 MCHC-32.0 RDW-12.6 RDWSD-43.1
+___ 05:20PM   CALCIUM-9.2 PHOSPHATE-3.6 MAGNESIUM-2.0
+___ 05:20PM   estGFR-Using this
+___ 05:20PM   GLUCOSE-84 UREA N-13 CREAT-0.7 SODIUM-144 
+POTASSIUM-3.6 CHLORIDE-107 TOTAL CO2-31 ANION GAP-10
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___ and was started on a 
+heparin drip. Once PTT was therapeutic, he was evaluated by 
+anesthesia and taken to the operating room for a left inguinal 
+hernia repair. There were no adverse events in the operating 
+room; please see the operative note for details.  Pt was 
+extubated, taken to the PACU until stable, then transferred to 
+the ward for observation. He was bridged with heparin onto 
+warfarin. On POD #3, patient had an episode of hypotension to 
+70/40. He received a 1000 mL LR bolus and blood work was sent 
+for CBC and electrolytes. He responded well to the fluid bolus 
+and his blood pressure returned to baseline. INR on ___ was 
+subtherapeutic on ___, patient was discharged from the 
+hospital on a lovenox bridge and will follow up with his primary 
+care provider ___ ___.  
+
+Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was managed with PO oxycodone.
+ 
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet and incentive spirometry were encouraged throughout 
+hospitalization. 
+
+GI/GU/FEN: Postoperatively, patient was able to tolerate a 
+regular diet. Patient's intake and output were closely 
+monitored. On POD #3 patient had an episode of hypotension to 
+70/40. He received a 1000 mL bolus of LR, to which he responded 
+well and returned to baseline.    
+
+ID: The patient's fever curves were closely watched for signs of 
+infection, of which there were none.
+
+HEME: The patient's blood counts were closely watched for signs 
+of bleeding, of which there were none. Preoperatively, warfarin 
+was held and patient was started on a heparin drip. 
+Postoperatively, patient was bridged with heparin back onto 
+warfarin and discharged on a lovenox bridge. 
+
+Prophylaxis: The patient received a heparin drip and ___ dyne 
+boots were used during this stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+and hemodynamically stable.  The patient was tolerating a diet, 
+voiding without assistance, and pain was well controlled.  The 
+patient received discharge teaching and follow-up instructions 
+with understanding verbalized and agreement with the discharge 
+plan.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atenolol 50 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. ClonazePAM 0.5 mg PO DAILY 
+4. Doxazosin 4 mg PO HS 
+5. Glycopyrrolate 1 mg PO TID 
+6. Lisinopril 20 mg PO DAILY 
+7. Nuedexta (dextromethorphan-quinidine) ___ mg oral BID 
+8. Warfarin 3 mg PO 2X/WEEK (MO,TH) 
+9. Warfarin 6 mg PO 5X/WEEK (___) 
+10. Acetaminophen 650 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Atenolol 50 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. ClonazePAM 0.5 mg PO DAILY 
+5. Doxazosin 4 mg PO HS 
+6. Glycopyrrolate 1 mg PO TID 
+7. Lisinopril 20 mg PO DAILY 
+8. Nuedexta (dextromethorphan-quinidine) ___ mg oral BID 
+9. Warfarin 3 mg PO 2X/WEEK (MO,TH) 
+10. Warfarin 6 mg PO 5X/WEEK (___) 
+11. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0
+12. Enoxaparin Sodium 80 mg SC TWICE A DAY 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 80 mg/0.8 mL 1 syringe subcutaneous twice a day 
+Disp #*30 Syringe Refills:*0
+13. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0
+14. Senna 17.2 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 capsule by mouth twice a day 
+Disp #*30 Capsule Refills:*0
+15. Tamsulosin 0.4 mg PO DAILY 
+RX *tamsulosin [Flomax] 0.4 mg 1 capsule(s) by mouth at bedtime 
+Disp #*30 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left inguinal hernia 
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Non-ambulatory (baseline) 
+ 
+Discharge Instructions:
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+ 
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+ 
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water. Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own. 
+Please remove any remaining strips ___ days after surgery. 
+ 
+ 
+Followup Instructions:
+___

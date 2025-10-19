@@ -1,0 +1,419 @@
+===== DISCHARGE NOTE =====
+note_id=17779332-DS-10 | hadm_id=22890632
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headache 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with history of DM, HTN and HLD, who presented 
+to ___ with complaint of new headache with N/V, 
+transferred to ___ upon finding of a sellar mass on head 
+imaging. He developed a R sided headache with photophobia at 
+10pm on night prior to presentation. He rarely gets headaches, 
+and this was the most severe one that he has experienced. Came 
+on suddenly as he was going to bed at ___ severity, increased 
+to ___ and kept him awake all night. In the morning, the 
+headache became holocephalic and was associated with nausea and 
+vomiting. He presented to the ___ where his VS 
+were 97.6, 186/100, 60, 22, 99%RA. Labs were notable for normal 
+chemistry, WBC 7.5, H/H 13.9/39.5. CT head found 1.2 AP x 2.1 
+transverse sellar mass and he was transferred for neurosurgical 
+evaluation. 
+
+Upon transfer to ___ ED, vital signs were: 97 52 166/77 16 98% 
+RA. 
+Patient was given Morphine, dilaudid and hydrocort 100mg. 
+Evaluated by neurosurgery who recommended admission to medicine 
+with MRI and endocrine/ophtho consults. 
+
+On arrival to the floor, VS are 98, 179/84, 65, 20, 99% RA. He 
+reports the pain subsided somewhat in the ED, but is coming 
+back. No current nausea. Has ongoing photophobia. Denies any 
+diplopia, vision loss, scotomas or change in olfactory function. 
+Has intention tremor at baseline ___ year now, but has felt more 
+unstable in the past day. Reports that he started 3 new 
+medications through his PCP ___, does not recall what they 
+are. Otherwise, no sick contacts, no recent illnesses. Travel to 
+___ in ___, no camping or unusual exposures he can 
+recall. No fevers/chills, abdominal pain, change in bowel 
+function. No CP or SOB. 
+ 
+Past Medical History:
+DM
+HTN
+HLD
+Chronic back pain
+
+ 
+Social History:
+___
+Family History:
+Father and brother MI, lung cancer in uncle
+
+ 
+Physical ___ exam:
+Vitals- 98, 179/84, 65, 20, 99% RA
+General: alert, interactive. Photo-averse. Appears uncomfortable
+HEENT: sclera anicteric, conjunctiva clear. PERRLA. EOMI without 
+nystagmus. 
+Neck: supple, no meningus. No LAD
+CV: RR, no murmurs
+Lungs: clear bilaterally
+Abdomen: soft, obese, non-tender, non-distended. Bowel sounds 
+present
+GU: no foley
+Ext:  warm, well perfused. 2+ ___ pulses
+Neuro: Awake, oriented x3. Fluid speech, no dysarthria or word 
+finding difficulties. 
+
+Cranial Nerves:
+I: Not tested
+II: PERRLA, visual fields intact 
+III, IV, VI: Extraocular movements intact without nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+___ strength ___ UE and ___: mild dismetria on finger-nose, heel-shin
+
+EXAM ON DISCHARGE:
+ALERT AND ORIENTED X 3
+DOUBLE VISION
+MOTOR INTACT THROUGHOUT
+ 
+Pertinent Results:
+___ CTA head/neck
+IMPRESSION: 
+1.  No acute intracranial hemorrhage.  No evidence of an 
+intracranial 
+aneurysm. 
+2.  Questionable focal cortical hypodensity in the left insula, 
+versus volume averaging artifact.  If the patient has neurologic 
+symptoms concerning for an acute infarction, then MRI should be 
+obtained for further evaluation.  This was discussed over the 
+telephone by Dr. ___ with Dr. ___ at 2:37 p.m. on ___, 10 minutes after discovery of this finding. 
+3.  Mild atherosclerosis of the proximal internal carotid 
+arteries and of the left carotid siphon without flow-limiting 
+stenosis.  Atherosclerosis with mild narrowing of the 
+supraclinoid right internal carotid artery distal to ophthalmic 
+artery origin.  Mild atherosclerosis of the A1 segment of the 
+right anterior cerebral artery and M1 segment of the right 
+middle cerebral artery. 
+4.  Abnormal soft tissue density within the sella, suggesting 
+pituitary 
+enlargement or mass.  Recommend further evaluation by dedicated 
+pituitary MRI. 
+5.  Enlargement of the main pulmonary artery, indicating 
+pulmonary 
+hypertension.  Prominent upper mediastinal lymph nodes, 
+measuring up to 10 mm. 
+6.  Multilevel cervical spinal stenosis due to degenerative 
+disease, which may be better assessed by a dedicated cervical 
+spine MRI, if clinically warranted. 
+
+___  MRI pituitary
+FINDINGS:  There is a right-sided hypoenhancing sellar 
+suprasellar mass 
+measuring 1.5 x 1.7 cm with mass effect on the optic chiasm on 
+the right.  No definite extension into the cavernous sinus is 
+seen.  There is displacement of the cavernous ICA, but no 
+encasement. 
+IMPRESSION:  Findings suggestive of a pituitary macroadenoma in 
+the right 
+aspect of the sella as described. 
+
+ 
+Brief Hospital Course:
+___ year old man with history of DM, HTN, HLD presenting with an 
+acute severe headache and finding of sellar mass.
+
+#Sellar mass: Found on CT upon workup for new headache, with MRI 
+confirmation of macroadenoma compressing optic chiasm. Uncertain 
+of etiology and uncertain if related to headache given acute 
+presentation for a usually slow growing macroadenoma without e/o 
+bleed. Non-focal exam except mild dysmetria on admission. On 
+hospital day 2, he developed diplopia and findings of new CNIII 
+and VI palsies. Due to evolving neurologic exam, the patient was 
+transferred to the neurosurgical service. 
+- Endocrine hormonal workup: PRL, TSH/T4/T3 negative. IGF1 
+pending. Ordered stat cortisol prior to beginning hydrocort. 
+Ordered for am cortisol, testosterone, LH/FSH. 
+- IV ketorolac and APAP prn. Reserve narcotics for breakthrough, 
+per neuro
+
+#DM: 
+- hold home metformin
+- QACHS CBGs and Humalog SSI
+
+#HTN: 
+- Home HCTZ, Propanolol and lisinopril
+
+#HLD: 
+- home statin
+
+# Code: Full code, confirmed
+# Emergency Contact: Sister-in-law ___: ___
+Brother ___ ___
+
+On ___, Mr. ___ was transferred to the Neurosurgery service 
+for further management.  The patient underwent full visual field 
+testing with opthalmology.  Findings were consistent with 
+incomplete third nerve palsy in the right eye, likely due to 
+cavernous sinus involvement with the pituitary adenoma.  
+
+Over the next two days, Mr. ___ remained neurologically 
+stable.  Discussions with Neurosurgery and ENT were held to plan 
+for operative treatment of Mr. ___ sellar lesion.  
+
+He was discharged home with directions to call our office to 
+confrim the date of his surgery. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 500 mg PO Q6H:PRN pain 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+4. Lisinopril 40 mg PO DAILY 
+5. MetFORMIN (Glucophage) 500 mg PO BID 
+6. Atorvastatin 40 mg PO DAILY 
+7. GlipiZIDE 5 mg PO DAILY 
+8. propranolol 60 mg oral daily 
+9. Terazosin 1 mg PO HS 
+10. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. GlipiZIDE 5 mg PO DAILY 
+2. MetFORMIN (Glucophage) 500 mg PO BID 
+3. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+4. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+5. Atorvastatin 40 mg PO DAILY 
+6. Hydrochlorothiazide 25 mg PO DAILY 
+7. Lisinopril 40 mg PO DAILY 
+8. Propranolol 60 mg ORAL DAILY 
+9. Terazosin 1 mg PO HS 
+10. Acetaminophen 500 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diplopia
+Sellar lesion
+CN III, VI palsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___ on ___ after you presented with 
+headaches and sensitivity to light (photophobia).  On further 
+imaging, you were found to have a sellar (pituitary) lesion.  
+
+You are now being discharged with the following instructions:
+
+Transphenoidal Excision of Tumor
+
+Dr. ___
+
+ 
+
+ 
+
+¨     Take your pain medicine as prescribed.
+
+¨     Exercise should be limited to walking; no lifting, 
+straining, or excessive bending.
+
+¨     Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+
+¨     Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+
+¨     Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17779332-DS-11 | hadm_id=26181420
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pituitary macroadenoma
+ 
+Major Surgical or Invasive Procedure:
+___ Endoscopic transphenoidal pituitary resectomy for tumor
+
+ 
+History of Present Illness:
+Elective admission for a transphenoidal resection
+ 
+Past Medical History:
+DM
+HTN
+HLD
+Chronic back pain
+
+ 
+Social History:
+___
+Family History:
+Father and brother MI, lung cancer in uncle
+
+ 
+Physical ___:
+Upon discharge:
+xxxxxxxxx
+ 
+Pertinent Results:
+___xpected postoperative appearance after transsphenoidal 
+resection of a sellar mass. 
+
+___ Pathology:
+1.  Pituitary tumor, biopsy:
+Findings consistent with adenoma with extensive necrosis.
+
+2.  Pituitary tumor, excision:
+Findings consistent with adenoma with extensive necrosis.
+
+Note: Given the extensive necrosis, immunostains for hormonal 
+markers
+will not be performed
+ 
+Brief Hospital Course:
+Patient was elective admitted and underwent a transphenoidal 
+resection for a pituitary macroadenoma. The patient tolerated 
+the procedure well and recovered in the PACU. A head CT was done 
+that did not reveal a post operative hemorrhge. 
+
+An endocrine consult was called and serum sodiums were followed 
+closely and remained stable.  ENT removed patients nasal packing 
+on ___ and patient was discharged home on ___.
+
+ 
+Medications on Admission:
+GlipiZIDE 5 mg PO DAILY, MetFORMIN (Glucophage) 500 mg PO BID 
+TraMADOL (Ultram) 50 mg PO Q6H:PRN pain, Albuterol Inhaler 2 
+PUFF IH Q6H:PRN sob, Atorvastatin 40 mg PO DAILY, 
+Hydrochlorothiazide 25 mg PO DAILY, Lisinopril 40 mg PO DAILY, 
+Propranolol 60 mg ORAL DAILY, Terazosin 1 mg PO HS. 
+Acetaminophen 500 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+2. Atorvastatin 40 mg PO DAILY 
+3. Hydrochlorothiazide 12.5 mg PO DAILY 
+4. Lisinopril 40 mg PO DAILY 
+5. Propranolol LA 60 mg PO DAILY 
+6. Terazosin 2 mg PO HS 
+7. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth ___ h Disp #*45 Tablet 
+Refills:*0
+8. Docusate Sodium 100 mg PO BID constipation 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pituitary macroadenoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Transphenoidal Excision of Tumor
+Dr. ___
+
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Continue Sinus Precautions for an additional two weeks.  This 
+means, no use of straws, forceful blowing of your nose, or use 
+of your incentive spirometer. 
+ 
+
+CALL YOUR DOCTOR IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, or drainage.
+•It is normal for feel nasal fullness for a few days after 
+surgery, but if you begin to experience drainage or salty taste 
+at the back of your throat, that resembles a “dripping” 
+sensation, or persistent, clear fluid that drains from your nose 
+that was not present when you were sent home, please call. 
+•Fever greater than or equal to 101° F.
+•If you notice your urine output to be increasing, and/or 
+excessive, and you are unable to quench your thirst, please call 
+your endocrinologist. 
+
+ 
+Followup Instructions:
+___

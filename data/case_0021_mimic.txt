@@ -1,0 +1,506 @@
+===== DISCHARGE NOTE =====
+note_id=15107144-DS-7 | hadm_id=20138568
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Iodine; Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+NSTEMI
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization (diagnostic)
+Tooth extraction (#11)
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o male with a h/o rheumatic heart disase, 
+severe AS, HTN, and hyperlipidemia who presented initially to an 
+OSH ED with severe SOB and was then transferred to the ___ ED 
+when there was a concern for possible STEMI. Of note, the pt 
+recently had left carotid stenting on ___. Post-procedure, 
+he was instructed to keep his BP 110-170, taking Sudafed at home 
+if his BP decreased. About ___ days after his procedure, he 
+noted increasing SOB and DOE. He denied any CP. He presented to 
+___ with the above complaints. He was started on a nitro 
+gtt and given combivent nebs, Lasix 80 IV x 1, solumedrol 125 mg 
+IV x 1, ativan 1 mg IV x 1, morphine 4 mg IV x 1, ASA 325 mg PO, 
+and Lopressor 5 mg IV x 1. Because of his respiratory distress, 
+he was placed on BiPAP ___. A non-contrast CT scan was 
+performed to r/o aortic dissection. It revealed moderate B/L 
+pleural effusions. She was then transferred to the ___ ED for 
+further evaluation.  
+
+OSH vitals on presentation: BP 146/80 HR 80 RR 16 100% on BiPap. 
+Question of STE on EKG, CPK 521, Troponin 23.4, BNP 1328, and 
+WBC 21. At the ___ ED, he was started on a heparin gtt. Vitals 
+on presentation were T 98.5 HR 76 BP 112/69 RR 12 92% 4LNC.  
+
+Of note, after his carotid stenting procedure, he developed a 
+new rash on his trunk. He was treated with prednisone, thought 
+to be ___ to dye allergy.  
+
+ 
+Past Medical History:
+Severe AS
+Rheumatic heart disease
+HTN
+Hyperlipidemia
+CRI, unknown baseline
+Stroke/TIA x 2
+Clean cath at ___ in ___
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+General Appearance: Well nourished, No acute distress
+
+Eyes / Conjunctiva: PERRL
+
+Head, Ears, Nose, Throat: Normocephalic
+
+Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), 
+(Murmur: Systolic), SEM, best heart RUSB, radiating to the 
+carotids
+
+Peripheral Vascular: (Right radial pulse: Present), (Left radial 
+pulse: Present), (Right DP pulse: Present), (Left DP pulse: 
+Present)
+
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: 
+Crackles : ___ up lung fields, No(t) Wheezes : )
+
+Abdominal: Soft, Non-tender, Bowel sounds present, Distended, 
+No(t) Tender: 
+
+Extremities: Right: 1+, Left: 2+
+
+Skin:  Not assessed, Rash: on trunk, maculopapular
+
+Neurologic: Attentive, A/O x 3. CNs II-XII grossly intact. 
+Sensation intact. Good ROM and strength in all 4 extremities.
+
+ 
+Pertinent Results:
+___ 05:33PM   CK(CPK)-241*
+___ 05:33PM   CK-MB-22* MB INDX-9.1* cTropnT-1.59*
+___ 05:33PM   GLUCOSE-145* UREA N-53* CREAT-1.9* SODIUM-139 
+POTASSIUM-3.6 CHLORIDE-99 TOTAL CO2-27 ANION GAP-17
+___ 09:13AM   WBC-10.9 RBC-3.43* HGB-10.5* HCT-29.4* MCV-86 
+MCH-30.5 MCHC-35.6* RDW-15.1
+___ 01:14AM   CK(CPK)-452*
+___ 01:14AM   CK-MB-41* MB INDX-9.1*
+___ 01:14AM   cTropnT-1.91*
+
+CATH ___:
+1. Three vessel coronary artery disease. 
+2. Moderate-to-severe aortic stenosis. 
+3. Marked elevation of biventricular filling pressures. 
+
+ECHO ___: 
+Suboptimal image quality. LV wall thicknesses are normal. 
+Regional LV systolic dysfunction consistent with coronary artery 
+disease. Diastolic dysfunction. There is aortic stenosis which 
+is at least moderate and may be severe (valve not well seen and 
+Doppler interrogation only possible from suprasternal view). The 
+mitral valve is not well seen but does not appear to be 
+rheumatic, there is no mitral stenosis. Moderate pulmonary 
+artery systolic hypertension.  
+
+CXR ___:
+1. Bilateral atelectasis and retrocardiac opacities, for which 
+repeat PA and lateral were recommended if there is concern for 
+aspiration or pneumonia. 
+2. Pulmonary edema. 
+
+CXR PA/LAT ___:
+1. Small left pleural effusion. 
+2. No pneumonia. No CHF. 
+
+VENOUS MAPPING ___:
+Patent bilateral greater saphenous veins with very large 
+diameters on the right and small diameters on the left. 
+
+PANOREX: no official read
+
+ 
+Brief Hospital Course:
+___ y/o male with a h/o rheumatic heart disase, severe AS, HTN, 
+and hyperlipidemia who presented with worsening SOB, determined 
+to have a NSTEMI and left sided heart failure.
+
+NSTEMI/left-sided heart failure - Pt presented to OSH with 
+worsening SOB, without CP, and responded fairly wellthought to 
+have had plaque rupture, resulting in ischemia and diastolic 
+dysfunction, and in the setting of fixed AS developed pulmonary 
+edema. Pt was medically managed with Aspirin 325mg, plavix 75mg, 
+lipitor 80mg and heparin drip. Beta-blocker was initially held.
+
+Pt underwent cardiac catheterization which showed: 1. Three 
+vessel coronary artery disease. 2. Moderate-to-severe aortic 
+stenosis. 3. Marked elevation of biventricular filling 
+pressures.  Based on these findings, recommendation was made to 
+undergo CABG with AVR once recovered from recent carotid stents. 
+Pt agreed and underwent screening by CT surg as well as multiple 
+pre-op studies and dental work (removal of two teeth). Cardiac 
+enzymes continued to trend down and pt was discharged home to 
+continue course of plavix, to be stopped 4 days prior to 
+surgery. 
+
+HYPERTENSION - Initially held beta-blocker and ACE-inhibitor and 
+restarted once renal function improved and CHF better 
+controlled. 
+
+HYPERLIPIDEMIA - Pt switched to Lipitor 80 mg in the acute 
+setting (on Zocor as outpatient).
+ 
+S/P LEFT CAROTID STENT - Pt had history of stroke/TIA, but had 
+persistently normal neuro exams throughout the admission. 
+
+ 
+Medications on Admission:
+Plavix 75 mg PO daily
+ASA 325 mg PO daily
+Atenolol-Chlorthalidone 100/25 mg PO daily
+Lisinopril 10 mg PO daily
+Allopurinol unknown dose
+Zocor 10 mg PO daily
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+5. Allopurinol ___ mg Tablet Sig: Two (2) Tablet PO once a day.  
+
+6. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: One (1) 
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+7. Outpatient Lab Work
+Serum creatinine, urine analysis and urine culture to be done on 
+___ at ___.  The results need to be sent to 
+your Cardiac surgeon.
+8. Amoxicillin 500 mg Tablet Sig: One (1) Tablet PO twice a day 
+for 7 days.
+Disp:*13 Tablet(s)* Refills:*0*
+9. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day:  
+.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Non ST Elevation Myocardial Infarction
+
+Secondary:
+Systolic Congestive Heart Failure, EF 40-45%
+Hypertension
+Urinary Tract Infection
+Hyperlipidemia
+Coronary Artery Disease
+Acute Renal Failure
+Aortic Stenosis
+
+ 
+Discharge Condition:
+BUN=43
+Creat=1.6
+Hct=30.4
+WBC=7.0
+BP=116/67
+HR=89
+Otherwise stable, ambulating, and pain free.  Six hours after 
+receiving Amoxacillin, no wheezing, rashes, fever or other 
+symptoms.
+
+ 
+Discharge Instructions:
+You had a heart attack and some fluid accumulated in your lungs 
+because your heart was not working well. You had a cardiac 
+catheterization which showed severe aortic stenosis (a stiff 
+arotic valve in your heart) and blockages in 3 of your arteries 
+that feed blood to your heart. You will need surgery to bypass 
+these arteries and fix your aortic valve. A tooth was pulled in 
+preperation for the surgery. You had evidence of bacteria in 
+your urine that needs treatment.  You should complete a 7 day 
+course of amoxacillin for this.  You will need to get repeat 
+urine studies, as well as repeat blood work done on ___.  The 
+results should be sent to your cardiac surgeon.  Otherwise, your 
+pre-operative work up is complete.
+You should stop taking plavix on ___, as well as get repeat 
+labs, in preparation for your surgery on ___. 
+New Medicines:
+1. Atorvastatin is taking the place of Pravastatin
+2. Furosemide and Toprol is taking the place of 
+Atenolol/Chlorthalidone.
+3. You have been restarted on Plavix and should continue to take 
+this until ___.
+4. Your dose of lisinopril is lower (2.5 mg from 10 mg).
+.
+Please call Dr. ___ you have any chest pain or pressure, 
+trouble breathing, nausea, sweating or any other unusual 
+symptoms. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15107144-DS-8 | hadm_id=26833378
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins / Iodine; Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+___ Aortic Valve Replacement (23mm ___, 
+Coronary Artery Bypass Graft x 4 (Left internal mammary artery 
+to Left anterior descinding, Saphenous vein graft to Diagonal, 
+Saphenous vein graft to Obtuse Marginal, Saphenous vein graft to 
+Posterior descending artery)
+ 
+History of Present Illness:
+___ y/o male who presented to OSH in ___ with severe shortness 
+of breath and intially treated medically. He was then 
+transferred to ___ for further care. During that admission he 
+was ruled in for a myocardial infarction and underwent cardiac 
+cath. Cath revealed severe three vessel coronary disease. Echo 
+and also showed severe aortic stenosis. Referred for cardiac 
+surgery.
+ 
+Past Medical History:
+Aortic Stenosis, Coronary Artery Disease s/p Myocardial 
+Infarction ___, Hypertension, Hyperlipidemia, Rheumatic heart 
+disease, Chronic renal insufficiency, Stroke x 2, Right Carotid 
+stenosis, s/p Left Carotid stent ___
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admission:
+HR: 72 Resp: 12 B/P: 117/74 Height: ___ Weight: 195 lbs.
+Gen: NAD
+Skin: Unremarkable
+HEENT: Unremarkable
+Neck: Full ROM
+Chest: Lungs CTA bilaterally
+Heart: RRR ___ systolic murmur
+Abd: Soft, non-tender, non-distended. +BS x4 quadrants.
+Extremities: warm and well perfused.
+Varicosities: right lower extremity varicose veins.
+Neuro: Grossly non-focal.
+
+At Discharge:
+VS:Temp: 97, BP: 152/82, HR: 78 SR, RR: 20 O2 sat: 96% on RA.
+Gen: NAD
+Skin: Grossly in tact.  Mid sternal incision clean/dry/intact, 
+no redness, swelling or drainage. Left leg incision open to air 
+with steri strips. No redness, swelling or drainage.
+HEENT: Conjunctiva pink, MMM.
+Neck: full ROM
+Chest: Lungs diminished at bases bilaterally.
+Heart: RRR, no murmurs, gallops or rubs.  
+Abd: Soft, non-tender, slightly distended.  Last BM ___.
+Ext: +3 Lower extremity edema.  
+Neuro: Grossly non-focal.
+ 
+Pertinent Results:
+___ Echo: Prebypass: 1. No atrial septal defect is seen by 2D 
+or color Doppler. 2. There is mild regional left ventricular 
+systolic dysfunction with hypokinesia of the apex, mid and 
+apical portions of the inferior wall.. Overall left ventricular 
+systolic function is mildly depressed (LVEF= 45 %). 3. Right 
+ventricular chamber size and free wall motion are normal. 4. 
+There are three aortic valve leaflets. There is severe aortic 
+valve stenosis (area <0.8cm2). Moderate (2+) aortic 
+regurgitation is seen. 5. The mitral valve leaflets are 
+moderately thickened. Moderate to severe (3+) mitral 
+regurgitation is seen. Post Bypass: 1. Patient is being AV paced 
+and receiving an infusion of epinephrine. 2. Biventricular 
+systolic function is unchanged. 3. Bioprosthetic valve seen in 
+the aortic position. The valve appears well seated and the 
+leaflets move well. Trace central aortic insufficiency present. 
+4. Moderate mitral regurgitation present. 5. Aorta is intact 
+post decannulation.
+___ 04:25PM   UREA N-21* CREAT-1.0 CHLORIDE-114* TOTAL 
+CO2-23
+___ 04:25PM   WBC-14.3* RBC-2.70* HGB-8.2* HCT-23.0* MCV-85 
+MCH-30.4 MCHC-35.8* RDW-15.2
+___ 04:25PM   PLT COUNT-155
+___ 04:25PM   ___ PTT-46.6* ___
+___ 08:50AM BLOOD WBC-8.2 RBC-3.56* Hgb-10.6* Hct-31.0* 
+MCV-87 MCH-29.7 MCHC-34.2 RDW-15.3 Plt ___
+___ 02:39AM BLOOD ___ PTT-36.9* ___
+___ 08:50AM BLOOD Plt ___
+___ 08:50AM BLOOD Glucose-120* UreaN-31* Creat-1.2 Na-137 
+K-4.1 Cl-98 HCO3-28 AnGap-15
+
+___ ___ M  ___  ___ 
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 3:24 ___ 
+
+ 
+  
+___ FA6A ___ SCHED 
+CHEST (PA & LAT)   Clip # ___   
+Reason: eval for pneumothorax s/p chest tube removal  
+ 
+
+ 
+UNDERLYING MEDICAL CONDITION: 
+   ___ year old man s/p CABG  
+REASON FOR THIS EXAMINATION: 
+   eval for pneumothorax s/p chest tube removal  
+
+ 
+ 
+Final Report 
+HISTORY: Chest tube removal, to evaluate for pneumothorax. 
+  
+FINDINGS: In comparison with study of ___, the left chest tube 
+has been 
+removed. There is a small apical pneumothorax that was 
+apparently present on 
+the previous examination. 
+  
+Otherwise little change in the appearance of the heart and 
+lungs. 
+  
+___. ___ 
+___: FRI ___ 5:31 ___ 
+ 
+  Imaging Lab 
+ 
+
+ 
+Brief Hospital Course:
+Mr. ___ was a same day admit after undergoing pre-operative 
+work-up during prior admission. On day of admission he was 
+brought to the operating room where he underwent an aortic valve 
+replacement and coronary artery bypass graft x 4. Please see 
+operative report for surgical details. In summary he had an AVR 
+(#23mm ___ pericardial) and CABG(LIMA-LAD, SVG-OM, 
+SVG-Diag, SVG-PDA)with a bypass time of 112min and a cross clamp 
+time of 92min. There were no OR complications.  Following 
+surgery he was transferred to the CVICU for invasive monitoring 
+in stable condition.  He remained hemodynamically stable in the 
+immediate post-op period.  Sedation weaned and he was 
+successfully extubated.  He was transferred to the step down 
+unit on POD#2.  His activity was gradually inceased and 
+medications where adjusted.  Of note, he had intermittent atrial 
+fibrillation treated with amiodarone and subsequently started on 
+coumadin.  On POD#6 he was ready for discharge to Life Care at 
+___.
+
+ 
+Medications on Admission:
+Aspirin 325mg qd, Atenolol-Chlorthalidone 100/25mg qd, 
+Lisinopril 10mg qd, Allopurinol, Zocor 10mg qd
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+3. Warfarin 1 mg Tablet Sig: as directed Tablet PO DAILY 
+(Daily): Target INR 1.5-2.0. ___ dose 5mg.  
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for carotid stent.  
+6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed.  
+7. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain.  
+8. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+9. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+DAILY (Daily) as needed for constipation.  
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily): 
+hold if K+ is > 4.5.  
+12. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day): 400 BID for one week, then 400 daily for one week, then 
+200 daily.  
+13. Insulin Regular Human 100 unit/mL Solution Sig: sliding 
+scale  Injection Q AC and HS.  
+14. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day): Hold if HR < 55 and SBP < 100.  
+15. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): Hold for SBP <100.  
+16. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day: 40mg 
+BID for 2 weeks, then 40 mg daily.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x ___
+Myocardial Infarction
+PMH: Myocardial Infarction ___, Hypertension, Hyperlipidemia, 
+Rheumatic heart disease, Chronic renal insufficiency, Stroke x 
+2, Right Carotid stenosis, s/p Left Carotid stent ___
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or 
+swimming 
+Monitor wounds for infection - redness, drainage, or increased 
+pain 
+Report any fever greater than 101 
+Report any weight gain of greater than 2 pounds in 24 hours or 5 
+pounds in a week 
+No creams, lotions, powders, or ointments to incisions 
+No driving for approximately one month 
+No lifting more than 10 pounds for 10 weeks 
+Please call with any questions or concerns ___
+ 
+Followup Instructions:
+___

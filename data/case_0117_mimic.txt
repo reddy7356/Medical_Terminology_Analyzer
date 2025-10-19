@@ -1,0 +1,534 @@
+===== DISCHARGE NOTE =====
+note_id=16122692-DS-6 | hadm_id=23389508
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Iodine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+1. Abdominal pain
+2. Chills
+ 
+Major Surgical or Invasive Procedure:
+___: Endoscopic retrograde cholangiopancreatography 
+
+ 
+History of Present Illness:
+Patient is a ___ female with h/o NIDDM who was in ___ 
+until 4d ago when developed non-bilious emesis and diarrhea for 
+2 days duration.  Symptoms
+subsided and were replaced 2 days ago with epigastric abdominal 
+pain, radiating to RUQ and to her back.  Noted increased burping 
+but no longer any emesis. Positive chills but no fevers.  
+Presented to ___ last night where labs noted elevated 
+lipase and bilirubin, suggestive of gallstone pancreatitis, with 
+CT showing choledocholithiasis as well.  Given Zosyn and 
+transferred to ___ for potential ERCP.  Pt reports decreased 
+abdominal pain since beginning transfer, currently almost 
+pain-free.
+
+ 
+Past Medical History:
+PMH: 
+1. CAD
+2. HTN
+3. Hypercholesterolemia
+4. NIDDM
+5. Hypothyroidism
+6. Anxiety
+7. Renal CA
+
+PSH: 
+1. CABG ___
+2. Right nephrectomy
+3. Right hemithyroidectomy
+4. Right breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Significant for DM, CAD, no cancers nor gallstones.
+
+ 
+Physical Exam:
+On Admission: 
+VS: T 98.4,  HR 106, BP 156/66,  RR 18,  98% on RA
+___: A&Ox3, NAD, visibly anxious and tremulous
+Lungs: CTAB
+CV: RRR.  Well-healed sternotomy scar.
+Abdomen: Soft, ND, minimally tender epigastrium/RUQ without 
+rebound or guarding.  Well-healed R subcostal scar (which pt 
+says is from her nephrectomy) without hernia.
+Extr: WWP sans c/c/e
+
+On Discharge:
+VS: T 98.4, HR 71, BP 130/60, RR 18, 96% RA
+___: NAD, comfortably lying in bed 
+Heart: RRR, no m/r/g
+Lungs: CTAB
+Abdomen: Soft, nondistended, nontender. Old right subcostal scar 
+well healed.
+Extr: Warm , 2+ peripheral pulses, no c/c/e
+
+ 
+Pertinent Results:
+___ 03:30AM   WBC-9.8 RBC-3.98* HGB-11.8* HCT-33.0* MCV-83 
+MCH-29.6 MCHC-35.7* RDW-14.6
+___ 03:30AM   NEUTS-91.7* LYMPHS-6.3* MONOS-1.8* EOS-0.2 
+BASOS-0.1
+___ 03:30AM   PLT COUNT-262
+___ 03:30AM   ___
+___ 03:30AM   TSH-1.7
+___ 03:30AM   cTropnT-<0.01
+___ 03:30AM   LIPASE-1865*
+___ 03:30AM   ALT(SGPT)-90* AST(SGOT)-92* CK(CPK)-43 ALK 
+PHOS-211* TOT BILI-2.1*
+___ 03:30AM   POTASSIUM-3.2*
+___ 03:30AM   GLUCOSE-212* UREA N-47* CREAT-2.9* SODIUM-138 
+POTASSIUM-3.3 CHLORIDE-106 TOTAL CO2-15* ANION GAP-20
+
+___ EKG: Sinus rhythm. Possible inferior-posterior 
+myocardial infarction of 
+indeterminate age. Diffuse non-diagnostic repolarization 
+abnormalities. No 
+previous tracing available for comparison.  
+
+___ GALLBLADDER ULTRASOUND:
+IMPRESSION: 
+1. Cholelithiasis and choledocholithiasis. There is a 9-mm stone 
+in the 
+mid-to-distal duct, with the common bile duct measuring up to 9 
+mm both at the porta and the head of the pancreas, which 
+suggests the possibility of more distal choledochal stones as 
+well. There is associated intrahepatic ductal dilation, but no 
+pancreatic ductal dilation.  
+2. There is no gallbladder wall thickening, distention of the 
+gallbladder, or pericholecystic fluid to suggest acute 
+cholecystitis 
+
+___ ERCP: 
+Impression: Papilla major was buldging and located at the edge 
+of a diverticulum. Stone at the lower third of the common bile 
+duct, otherwise normal biliary tree. A sphincterotomy was 
+performed. Stone was extracted using a balloon. 
+
+___ 06:20AM BLOOD WBC-4.9 RBC-3.36* Hgb-9.9* Hct-27.6* 
+MCV-82 MCH-29.3 MCHC-35.7* RDW-14.6 Plt ___
+___ 06:20AM BLOOD Glucose-185* UreaN-31* Creat-2.2* Na-143 
+K-3.4 Cl-113* HCO3-18* AnGap-15
+___ 06:20AM BLOOD ALT-77* AST-66* AlkPhos-195* TotBili-0.8
+___ 06:20AM BLOOD Calcium-8.1* Phos-2.5* Mg-1.9
+
+___ CHEST X-RAY:
+ 
+Brief Hospital Course:
+The patient was admitted to the ___ Surgical Service for 
+evaluation of the aforementioned problem. On ___, the 
+patient underwent Endoscopic Retrograde 
+Cholangiopancreatography, which went well without complication 
+(reader referred to the Operative Note for details). A single 5 
+mm stone that was causing partial obstruction of the common bile 
+duct was extracted. The patient arrived on the floor NPO, on IV 
+fluids and antibiotics, and IV Dilaudid prn for pain control. 
+Night after procedure patient developed rapid atrial 
+fibrillation with HR 120-140s, patient received 5mg of Lopressor 
+IV x 2, her heart rate was converted to regular. Patient was 
+re-started on home dose of: Diovan, Amlodipine and Metoprolol. 
+Patient's heart rate and rhythm was monitored with telemetry 
+unit and remained regular and sinus. Patient's Aspirin 325 mg PO 
+qday was hold since ERCP, and should be not taken for 5 days 
+after procedure, patient can restart her Aspirin on ___. On 
+next day after ERCP, patient felt better, she denied pain. Diet 
+was advanced to regular, and patient tolerated well. IV 
+antibiotics was discontinued. Follow up with PCP was scheduled. 
+Patient was discharged home in stable condition. 
+.
+During this hospitalization, the patient ambulated early and 
+frequently, was adherent with respiratory toilet and incentive 
+spirometry, and actively participated in the plan of care. The 
+patient received subcutaneous heparin and venodyne boots were 
+used during this stay. The patient's blood sugar was monitored 
+regularly throughout the stay; sliding scale insulin was 
+administered when indicated. Lab work was routinely followed; 
+electrolytes were repleted when indicated.
+.
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled. The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+1. ASA 325 mg PO qday
+2. Amlodipine 10 mg PO qday
+3. Diovan 160 mg Po qday
+4. Crestor 10 mg PO qday
+5. Glyburide 5 mg PO qday
+6. Levothyroxine 75 mcg PO qday
+7. Metoprolol 100 mg PO bid
+
+ 
+Discharge Medications:
+1. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+4. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+5. Glyburide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Crestor 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Tylenol ___ mg Tablet Sig: ___ Tablets PO every six (6) hours 
+as needed for pain/headache.  
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Cholelithiasis and choledocholithiasis
+2. Gallstone pancreatitis
+3. Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ Discharge Instructions:
+Please resume all regular home medications except Aspirin , 
+unless specifically advised not to take a particular medication. 
+Please do not take Aspirin x 5 days following discharge (7 days 
+from date of ERCP).  Restart Aspirin after 5 days from discharge 
+date. Also, please take any new medications as prescribed.
+Please check your blood surgar every four hours while you are 
+taking antibiotics (ciprofloxacin).
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16122692-DS-7 | hadm_id=23647998
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Iodine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vaginal bleeding for 2 days
+ 
+Major Surgical or Invasive Procedure:
+2 units of PRBCs
+Dialysis
+ 
+History of Present Illness:
+___ year old female ___ End Stage Renal Disease (ESRD) on 
+hemodialysis s/p right nephrectomy for renal cancer 
+(metastatic), CAD s/p 4v CABG who presents with vaginal bleeding 
+x 2 days.
+
+Bleeding started ___ morning, BRB, no clots, used pads to 
+control bleeding all day, soaked through at least 10. Stopped in 
+pm went to sleep, started again on ___ morning. Denies HA, 
+dizziness, lightheadedness, palpitations. Came to ED at ___ 
+___ vaginal mass was noted on exam. Per report: 
+Hemoglobin/hematocrit was ___ down from ___ on ___, Cr 1.9 
+(baseline 1.5), INR 2.3. Given 3 units FFP, 10mg vit K IV, 1 
+unit PRBCs. VSS with HR ___ and sBPs 120s. Transferred to ___ 
+for further workup of vaginal mass.
+
+On arrival to the ED VS were T 97.8 HR 78 BP 134/54 RR 16 SpO2 
+100% 2L. Exam notable for fungating, friable mass in the vaginal 
+vault, possibly extending from the cervix. Hct was 22.8, stable 
+from her pre transfusion hct at ___. She was type and 
+crossed for four units of PRBCs, but did not have a transfusion. 
+Pelvic U/S showed degenerating calcified fibroids, enlarged left 
+ovary, concerning for malignancy though it was a limited study 
+as the patient refused a transvaginal U/S. Gynecology was 
+consulted and recommended admission to medicine, with gyn-onc 
+consult and pelvic MRI. VS on transfer were T 98.1po HR 85 BP 
+116/47 HR 16 SpO2 97% ra.
+
+On arrival to the floor, patient is comfortable with no 
+complaints. She has minimal bleeding from the vagina, and is 
+mostly anxious about the MRI. 
+ 
+Past Medical History:
+PMH: 
+Renal CA: metastases to bone, thyroid, had nephrectomy, on HD, 
+s/p radiation
+CAD/ CABG
+HTN
+Hypercholesterolemia
+NIDDM
+Hypothyroidism
+Anxiety
+
+PSH: 
+1. CABG ___
+2. Right nephrectomy
+3. Right hemithyroidectomy
+ 
+Social History:
+___
+Family History:
+Significant for DM, CAD, no cancers nor gallstones.
+
+ 
+Physical Exam:
+Admission Exam:
+
+VS: 96.5 138/58 84 18 99/ra
+GENERAL: lying in bed, NAD
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.
+NECK: Supple, no thyromegaly, no JVD, no carotid bruits.
+HEART: RRR, ___ SEM radiates to carotids, abdomen
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout. 
+
+Discharge Exam:
+Vital signs stable
+GENERAL: no acute distress
+HEART: Regular rate and rhythm, soft systolic ejection murmur
+LUNGS:Clear to auscultation bilaterally
+ABDOMEN: Soft, non distended, appropriate tenderness to 
+palpation, +bowel sounds, laparoscopic incisions 
+clean/dry/intact. No rebound/guarding.
+EXTREMITIES: non tender/non edmeatous. Chronic skin changes
+GU: vaginal packing removed with good hemostasis noted 
+ 
+Pertinent Results:
+___ 02:00PM BLOOD WBC-3.8* RBC-2.64*# Hgb-8.4* Hct-22.6* 
+MCV-85 MCH-31.9# MCHC-37.3* RDW-15.1 Plt ___
+___ 02:00PM BLOOD Neuts-69.7 ___ Monos-3.9 Eos-1.0 
+Baso-0.5
+___ 02:00PM BLOOD ___ PTT-22.2 ___
+___ 02:00PM BLOOD Glucose-168* UreaN-38* Creat-3.8*# Na-139 
+K-5.1 Cl-104 HCO3-25 AnGap-15
+___ 07:45AM BLOOD Calcium-7.1* Phos-5.0*# Mg-2.1
+___ 02:50PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE 
+HBcAb-NEGATIVE
+___ 02:50PM BLOOD HCV Ab-NEGATIVE
+___ 05:30AM BLOOD WBC-5.4 RBC-3.02* Hgb-9.4* Hct-25.8* 
+MCV-85 MCH-31.1 MCHC-36.4* RDW-14.8 Plt ___
+___ 05:30AM BLOOD WBC-5.4 RBC-3.02* Hgb-9.4* Hct-25.8* 
+MCV-85 MCH-31.1 MCHC-36.4* RDW-14.8 Plt ___
+___ 07:25AM BLOOD WBC-4.3 RBC-2.98* Hgb-9.1* Hct-25.2* 
+MCV-84 MCH-30.5 MCHC-36.1* RDW-14.8 Plt ___
+___ 02:31PM BLOOD WBC-6.6 RBC-3.11* Hgb-9.5* Hct-27.1* 
+MCV-87 MCH-30.5 MCHC-35.1* RDW-14.5 Plt ___
+___ 05:55AM BLOOD WBC-6.3 RBC-3.02* Hgb-9.2* Hct-26.1* 
+MCV-87 MCH-30.6 MCHC-35.3* RDW-14.3 Plt ___
+
+___ 06:10AM BLOOD ___ PTT-21.5* ___
+___ 05:30AM BLOOD Glucose-84 UreaN-41* Creat-4.0*# Na-140 
+K-4.2 Cl-103 HCO3-25 AnGap-16
+___ 07:25AM BLOOD Glucose-114* UreaN-30* Creat-3.1* Na-140 
+K-3.6 Cl-101 HCO3-28 AnGap-15
+___ 02:31PM BLOOD Glucose-189* UreaN-28* Creat-3.5* Na-138 
+K-4.0 Cl-100 HCO3-28 AnGap-14
+___ 05:55AM BLOOD Glucose-99 UreaN-33* Creat-3.9* Na-139 
+K-4.5 Cl-99 HCO3-27 AnGap-18
+
+Pelvic US ___:
+IMPRESSION:
+1. The patient deferred transvaginal examination. Endometrium 
+not
+definitively visualized though area thought to represent 
+endometrium appears homogeneous and measures 3 mm.
+2. Significantly enlarged left ovary with a 2.3 cm simple cyst. 
+Given
+postmenopausal state, this is concerning for malignancy. Could 
+be better
+evaluated with a transvaginal examination if patient amenable at 
+later date or possibly MRI. Recommend GYN consult/referral.
+
+Pelvic MRI ___:
+IMPRESSION:
+1. Solid-appearing ovarian mass measuring 2.7 x 2.2 cm in the 
+left ovary.
+Vascularity not assessed without intravenous contrast.
+2. 2.2-cm cyst in left ovary.
+3. Fibroid uterus.
+4. Sigmoid diverticulosis.
+5. 4-cm heterogenous lesion in the right iliac bone may 
+represent a
+previously treated lesion; correlation with prior imaging would 
+be extremely helpful.
+6. Heterogenous soft tissue deposit adjacent to the coccyx 
+incompletely
+evaluated on this study but could represent either a resolving 
+hematoma or a hemorrhagic metastasis. Again correlation with 
+previous imaging is essential.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year olf femaleinitially admitted to the 
+Internal Medicine service at ___ for management of ESRD and 
+further work up of a vaginal mass/bleeding. Gyn Oncology was 
+consulted regarding the vaginal mass and she subsequently 
+underwent an examination under anesthesia, laparoscopic
+bilateral salpingo-oophorectomy by Gyn Onc and excision of 
+suburethral mass by Urology. Please see Dr. ___ 
+report for further details regarding the procedure. Ms. 
+___ brief hospital course is as follows:
+
+# Vaginal Mass/Bleeding: Patient was monitored with q6 Hct 
+initially, which were stable in the mid to high ___ after 
+transfusion of 1U of PRBCs. Patient had no acute episodes of 
+bleeding. Imaging studies revealed a left ovary with a 2.3 cm 
+simple cyst but did not further characterize the vaginal mass. A 
+CA-125 was checked and found to be 10. Through consultation with 
+the gyn/onc team, the patient was prepped for a biopsy under 
+anesthesia to better characterize the mass. On ___, Ms. 
+___ underwent an exam under anesthesia which revealed a 
+posterior urethral mass which was resected by urology. The 
+Gyn-Oncology team performed a laparoscopic
+bilateral salpingo-oophorectomy. Final pathology was pending at 
+discharge. Ms. ___ will follow up with her outpatient 
+oncologist and Dr. ___. 
+
+# Metastatic RCC s/p nephrectomy: Pa  Following discussions with 
+the hematology and oncology team, the decision was made to hold 
+the patient's Votrient (as prescribed by outpatient oncologist) 
+given the side effect of bleeding.  Efforts were also made to 
+obtain Votrient from the patient's nephew. 
+
+# CAD s/p CABG: was stable during admission on home regimen. 
+Held ASA given bleed.  We continued Amlodipine, Hydralazine, 
+Metoprolol, Crestor, although hydralazine dose was reduced. 
+Despite previous INR report, following discussion with 
+outpatient provider, Dr. ___, patient is not on coumadin.
+
+# DM: initially hypoglycemic because of oral hypoglycemics in 
+renal failure.  Patient was continued on a diabetic diet with 
+ISS.
+
+# Hypothyroidism: Stable, continued levothyroxine while 
+inpatient. 
+
+ 
+Medications on Admission:
+- Levothyroxine 100 mcg PO DAILY
+- Amlodipine 10 mg PO DAILY
+- Metoprolol Tartrate 100 mg PO BID
+- Hydralazine 75 mg PO tid
+- Glyburide 5 mg PO DAILY
+- Crestor 10 mg PO DAILY
+- ASA 81mg PO daily 
+- Votrient
+ 
+Discharge Medications:
+1. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO QAM (once 
+a day (in the morning)).  
+2. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+Tablet(s) 
+3. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+4. rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+6. oxycodone-acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain: Each tablet has 325mg of 
+acetaminophen. Do not take over 4000mg in 24 hours.
+Disp:*30 Tablet(s)* Refills:*0*
+7. hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+8. calcium carbonate 500 mg calcium (1,250 mg) Tablet Sig: One 
+(1) Tablet PO four times a day for 3 days: Take with meals .
+Disp:*12 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urethral mass, Ovarian mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for further evaluation of a vaginal mass. This 
+was removed in the operating room. Because of the location of 
+the mass, we needed to place a catheter in your bladder to let 
+the area heal. This should be removed on ___ by your primary 
+care doctor at 9:30 AM.
+You also were found to have a mass on your left ovary. This was 
+removed laparoscopically through small incisions on your 
+abdomen. We will not have the pathology results for several 
+days. 
+
+You were continued on dialysis while here. The nephrologists 
+would like for you take calcium supplementation until you follow 
+up with your nephrologist on ___. You should continue this 
+medication, and make sure your home dialysis doctor knows about 
+it. 
+
+You were not given Votrient while inpatient due to bleeding. Do 
+not take your Votrient until you follow up with your oncologist, 
+who will decide when to restart it. 
+
+Medication changes:
+You were previously taking Hydralazine 75mg every 8 hours, you 
+will now be taking Hydralazine 25 mg every 8 hours. Please 
+discuss this further with your primary care physician.
+You were previously taking Votrient. Do not take this medication 
+until you discuss it further with your oncologist. 
+ 
+Followup Instructions:
+___

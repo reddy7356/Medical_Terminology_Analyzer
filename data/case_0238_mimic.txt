@@ -1,0 +1,291 @@
+===== DISCHARGE NOTE =====
+note_id=19199746-DS-17 | hadm_id=23007403
+
+ 
+Name:  ___                 ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+naproxen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+Suturing of parietal scalp laceration
+
+ 
+History of Present Illness:
+Mr. ___ was admitted to ___ 
+after a fall down 20 stairs. He was found by family, positive 
+for alcohol. He was brought in as a trauma to ___ and found to 
+have a left subdural hematoma w/ 4 mm shift, left temporal 
+subarachnoid hemorrhage, right posterolateral rib fractures ___, 
+C6 spinous process fracture, C7 transverse process fracture, a R 
+frontal subgaleal hematoma, and a variety of nonoperative facial 
+fractures. He was intubated at the scene for airway protection 
+and admitted to the Trauma Surgical ICU.
+
+ 
+
+ 
+Past Medical History:
+Previous L stroke with R weakness ___, but can move all 
+extemities at baseline; HTN, HLD, carotid stenosis 
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+VS: T97.6 P 76 BP 171/78 RR 20 02 95%RA
+Constitional: nad
+Neuro: alert and oriented x 1
+Cardiac: regular rate and rhythm, NL S1,S2
+Resp: clear to auscultation, bilaterally
+Abd: soft, non-tender, non-distended, no rebound 
+tenderness/guarding
+Ext: no edema or tenderness, bilaterally
+ 
+Pertinent Results:
+___ 05:47AM BLOOD WBC-10.3* RBC-2.75* Hgb-8.4* Hct-27.0* 
+MCV-98 MCH-30.5 MCHC-31.1* RDW-16.0* RDWSD-55.4* Plt ___
+___ 05:47AM BLOOD Glucose-116* UreaN-17 Creat-0.6 Na-136 
+K-3.4 Cl-101 HCO3-23 AnGap-15
+___ 05:47AM BLOOD Calcium-8.2* Phos-3.6 Mg-2.2
+___ 02:08AM BLOOD Triglyc-162*
+___ 03:07PM BLOOD Osmolal-312*
+___ 01:15AM BLOOD Type-ART pO2-100 pCO2-49* pH-7.47* 
+calTCO2-37* Base XS-10
+___ 01:15AM BLOOD freeCa-1.16
+
+___
+CT CHEST W/CONTRAST; CT ABD & PELVIS WITH CONTRAST:
+IMPRESSION:  
+1. Fractures of the posterior and lateral right ___ ribs. 
+2.  Left lower lobe consolidation may reflect atelectasis and/or 
+aspiration. 
+
+CT C-SPINE W/O CONTRAST  
+IMPRESSION:  
+Nondisplaced C6 spinous process fracture and left C7 transverse 
+process/superior facet fracture. 
+
+CT HEAD W/O CONTRAST:
+IMPRESSION:  
+1.  Left subdural hematoma causing 4 mm rightward shift of 
+midline structures A more nodular component is seen, and an 
+epidural hematoma cannot be excluded. 
+2.  Small amount of left temporal subarachnoid hemorrhage. 
+3.  Multiple facial, calvarial, and nasal bone fractures.  
+Associated blood in the paranasal sinuses. 
+4.  Large right frontal subgaleal hematoma. 
+5.  Hypodensity along the left frontal and parietal lobes 
+suggestive of prior infarct with possible wallerian 
+degeneration. 
+
+___
+CHEST (PORTABLE AP):
+IMPRESSION: 
+1. Satisfactory position of endotracheal and enteric tubes. 
+2. Multiple right-sided rib fractures without pneumothorax or 
+pleural 
+effusion. 3. Bilateral airspace opacification likely reflecting 
+aspiration. 
+
+CT HEAD W/O CONTRAST
+IMPRESSION: 
+1. No significant interval change in the size of the left 
+subdural hematoma and associated 4 mm rightward shift of the 
+midline structures. 
+2. Stable left temporal subarachnoid hemorrhage. 
+3. Interval increase in hemorrhagic opacification of the 
+maxillary sinuses, sphenoid sinuses, and near complete 
+opacification of the ethmoid air cells. 
+4. Multiple fractures as previously described. 
+5. Old tissue loss in the left temporal lobe.  White matter 
+hypodensity of uncertain significance may be better assessed 
+with comparison to old imaging studies or with MR. 
+
+___:
+ECG
+Baseline artifact. Possible atrial fibrillation with a rapid 
+ventricular 
+response. ST-T wave changes laterally but could be consistent 
+with ischemia. Clinical correlation is suggested. Compared to 
+the previous tracing of ___ the presence of atrial 
+fibrillation is new. Other findings are similar 
+
+___:
+VIDEO OROPHARYNGEAL SWALLOW:
+IMPRESSION:  
+Aspiration with nectar thick liquids. 
+
+___:
+CTA HEAD W&W/O C & RECONS:
+IMPRESSION: 
+1. Occlusion of the left internal carotid artery just distal to 
+its 
+bifurcation with short segments of irregular reconstitution in 
+the cavernous and supra clinoid segments. 
+2. Linear filling defect in the left vertebral artery at C5, 
+which may be 
+artifactual or may represent a focal dissection. 
+3. Focal atherosclerotic calcifications in the right distal 
+intradural 
+vertebral artery, which may cause short-segment occlusion or 
+severe stenosis. 
+4. Interval evolution of the left cerebral convexity subdural 
+hematoma with stable local mass effect and left-to-right midline 
+shift.  No new hemorrhage. 
+5. Unchanged fractures of the right nasal bones, right frontal 
+calvarium, 
+right zygoma, left C7 transverse process, and C6 spinous 
+process. 
+6. Acute to subacute appearing fractures of the right first 
+through fourth ribs. 
+  
+___
+UNILAT UP EXT VEINS US RIGHT:
+IMPRESSION:  
+No evidence of deep vein thrombosis in the right upper 
+extremity. 
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to ___ 
+after a fall down 20 stairs. He was found by family, positive 
+for alcohol. He was brought in as a trauma to ___ and found to 
+have a left subdural hematoma w/ 4 mm shift, left temporal 
+subarachnoid hemorrhage, right posterolateral rib fractures ___, 
+C6 spinous process fracture, C7 transverse process fracture, a R 
+frontal subgaleal hematoma, and a variety of nonoperative facial 
+fractures.  The patient was evaluated by Plastic and 
+Neurosurgery upon arrival without any emergent operative 
+intervention recommended, however, the patient was to remain on 
+sinus and c-spine precautions with collar at all times, no 
+logroll; scalp laceration sutured.  He was intubated at the 
+scene and remained intubated and sedated in the intensive care 
+unit.  On HD1, the patient had GPC in his sputum as was started 
+on vancomycin and zosyn, which was transitioned to vancomycin 
+and ceftriaxone and continued through HD4; antibiotics were 
+adjusted to ciprofloxacin due a positive U/A.  He remained 
+intubated until HD5 when he was successfully extubated; he had 
+also been weaned from pressors and was requiring a 
+antihypertensives. SLP performed an evaluation, however, the 
+patient has signs of aspiration and was kept NPO.  He 
+subsequently desaturated to the ___, had worsening pulmonary 
+edema on CXR and was only intermittently responsive to 
+intravenous furosemide, therefore, he required reintubation; at 
+the time of reintubation, the patient became hypotensive, again 
+requiring a levophed gtt.  Given events and leukocytosis, 
+ciprofloxacin was discontinued and vancomycin/Zosyn was 
+restarted to treat presumed aspiration PNA. The patient remained 
+intubated as family declined PEG/trach ___ the patient's wishes 
+and he made DNR.  On HD12, the patient was successfully 
+extubated; seven day cefepime course completed and subsequent 
+sputum cultures negative.  Tube feedings were continued at this 
+time and the patient required free D5W and free water boluses 
+due to hypernatremia.  SLP re-evaluated the patient and cleared 
+him for honey thick liquids and pureed solids with 1:1 
+monitoring.  
+
+On HD14, given ongoing hemodynamic stability, the patient was 
+transferred to the surgical ward.  He remained oriented to self 
+with periods of confusion and agitation which self-resolved.  
+Tube feedings were cycled and eventually discontinued as the 
+patient tolerated a modified consistency diet; PICC was removed 
+prior to discharge.  Of note, he did require replacement of a 
+Foley as he was unable to void.  Physical therapy continued to 
+treat patient and recommended rehab; please see page 3 for 
+assessment.  The patient did report vision changes overnight on 
+HD.  Neurology was consulted and the patient underwent a head 
+CTA; Neurology recommendations included holding Plavix for one 
+month total and outpatient follow-up. On HD20, the patient was 
+discharged to rehab with the c-collar in place at all times.  He 
+will follow-up with ophtamology, plastic surgery and neurospine 
+as scheduled.  
+ 
+Medications on Admission:
+- Gemfibrozil 600 BID  
+- Folic acid 1 mg daily  
+- Metoprolol tartarate 50mg BID  
+- Amlodipine 5 mg daily  
+- Lisinopril 10 mg daily  
+- Clopidogrel 75 mg daily  
+- Pravastatin 40 mg daily  
+- Citalopram 40 mg daily  
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H pain 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q8H 
+3. Amlodipine 10 mg PO DAILY 
+4. Artificial Tear Ointment 1 Appl BOTH EYES PRN dry eyes 
+5. Artificial Tears Preserv. Free ___ DROP RIGHT EYE Q4H:PRN dry 
+eye 
+6. Bisacodyl 10 mg PO/PR DAILY:PRN constipaton 
+7. Citalopram 40 mg PO DAILY 
+8. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+9. Docusate Sodium (Liquid) 100 mg PO BID 
+10. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+11. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+12. Heparin 5000 UNIT SC TID 
+13. HydrALAzine ___ mg IV Q6H:PRN SBP>160 
+14.  NPH 5 Units Q12H
+Insulin SC Sliding Scale using REG Insulin
+15. Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN wheezing 
+16. Labetalol 300 mg PO TID 
+17. Lisinopril 40 mg PO DAILY 
+18. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN pain 
+19. Senna 8.6 mg PO BID constipation 
+20. Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush 
+21. Levofloxacin 750 mg PO Q24H Duration: 3 Days 
+last day ___ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Trauma: s/p fall down stairs:
+
+C6 spinous process fx  
+R post & lat rib ___ fx  
+L SDH w/ 4mm shift  
+L temporal SAH  
+Multiple facial and nasal bone fx  
+L C7 transverse superior facet fx  
+R parietal scalp lac  
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after a fall down stairs.  You 
+sustained a bleed to your head, rib fractures, a fracture to a 
+segment of your back, facial fractures, and a right parietal 
+scalp laceration.  You were admitted to the intensive care unit 
+for managment.  
+ 
+Followup Instructions:
+___

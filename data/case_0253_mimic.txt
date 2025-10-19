@@ -1,0 +1,373 @@
+===== DISCHARGE NOTE =====
+note_id=16926005-DS-6 | hadm_id=22612071
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Heavy vaginal bleeding
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old G4P1 with heavy vaginal bleeding for 4 days prior to 
+admission. She reported large clots and changing a pad 4 times 
+per hour over that time. Mild cramps. She endorsed dizziness and 
+fatigue. Denied chest pain, shortness of breath. She had never 
+had bleeding this heavy before. Her LMP was ___. She 
+normally has regular, monthly menses. 
+
+ 
+Past Medical History:
+POB/GYNH: 
+- G3P1, full term SVD, TAb/D+C x2, Ectopic pregnancy s/p right 
+lsc salpingectomy
+- Denies abnormal Paps
+- Hx chlamydia in past 
+- Sexually active with one male partner, not using 
+contraception.
+- Denies hx fibroids, ovarian cysts
+
+PMH: Denies
+
+PSURGH: 
+- LSC right salpingectomy
+
+Meds: Motrin prn
+
+All: NKDA
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+Physical Exam on admission: 
+VS: T-98.4  HR-113 -> 96  BP-137/52  RR-19  O2-100% 
+Gen: NAD
+CV: RRR, HR approx 100 bpm
+Abd: soft, nontender
+Pelvic: normal appearing external genitalia, interlabial folds, 
+urethral meatus. Speculum exam reveals normal vagina approx 50 
+cc of clot clear from vault, slow ooze of bright red blood from 
+the cervix. 
+ 
+Pertinent Results:
+___ 01:00PM   HCT-26.5*#
+___ 12:15AM   HGB-6.2* HCT-20.2*
+___ 09:40PM   HCG-LESS THAN 
+___ 06:00PM   GLUCOSE-96 UREA N-11 CREAT-0.7 SODIUM-142 
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-33* ANION GAP-8
+___ 06:00PM   estGFR-Using this
+___ 06:00PM   WBC-12.4* RBC-3.21* HGB-7.7*# HCT-25.2* 
+MCV-79* MCH-23.9*# MCHC-30.3*# RDW-13.9
+___ 06:00PM   NEUTS-61.1 ___ MONOS-3.4 EOS-0.7 
+BASOS-0.5
+___ 06:00PM   PLT COUNT-314
+___ 05:35PM URINE  HOURS-RANDOM
+___ 05:35PM URINE  UCG-NEGATIVE
+___ 05:35PM URINE  UHOLD-HOLD
+___ 05:35PM URINE  COLOR-YELLOW APPEAR-SLCLDY SP ___
+___ 05:35PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 05:35PM URINE  RBC->182* WBC-3 BACTERIA-NONE YEAST-NONE 
+EPI-3
+___ 05:35PM URINE  MUCOUS-MOD
+
+Pelvic u/s (prelim): 10 cm uterus, several small fibroids likely 
+present in the uterus, the largest of which is seen in the 
+posterior fundus. Endometrial strip = 4mm. 
+ 
+Brief Hospital Course:
+On ___, Ms. ___ presented to the emergency department 
+with heavy vaginal bleeding, thought to be due to anovulatory 
+bleeding. She was admitted to the Gynecology service on ___ 
+to monitor her symptoms and for a blood transfusion for a 
+hematocrit of 20.2. She was hemodynamically stable on admission. 
+
+
+Her hospital course was uncomplicated. She received 2 units of 
+packed red blood cells and was started on medroxyprogesterone 
+acetate 10 mg PO DAILY. Her follow up hematocrit following the 
+transfusion was 26.5. 
+
+On hospital day one, she remained hemodynamically stable and was 
+discharged home with instructions to schedule outpatient follow 
+up.
+ 
+Medications on Admission:
+Motrin PRN
+ 
+Discharge Medications:
+1. Necon ___ (28) (norethindrone-ethin estradiol) ___ mg-mcg 
+oral daily  
+Take 3 pills daily from ___
+Take 2 pills daily from ___
+Take 1 pill daily ___ onward 
+RX *norethindrone-ethin estradiol [Necon ___ (28)] 1 mg-35 mcg 
+1 tablet(s) by mouth daily Disp #*2 Box Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abnormal uterine bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the gynecology service after an episode of 
+abnormal uterine bleeding for which you required transfusion of 
+two units of packed red blood cells. We are sending you home 
+with a birth control pill taper (this has hormones that will 
+help regulate your bleeding).
+Take 3 pills daily from ___
+Take 2 pills daily from ___
+
+Take zofran (odansetron) as needed for nausea that may occur as 
+a result of taking these pills. 
+Take 1 pill daily from ___ onwards 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16926005-DS-7 | hadm_id=25747262
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+heavy vaginal bleeding
+ 
+Major Surgical or Invasive Procedure:
+Blood transfusion
+
+ 
+History of Present Illness:
+CC: heavy vaginal bleeding
+ 
+HPI: ___ yo G4P1021 with T2DM who presents to the ED with heavy
+vaginal bleeding. Last two months has had heavier menses, 
+however
+it has been substantially heavier in the last 7 days with 
+passage
+of large clots. Was going through ___ tampons/pads every half
+hour to an hour. Has Mirena IUD in place, which was placed for
+treatment of heavy AUB in ___ when she was seen by Dr. ___ 
+___
+NP ___ for this same complaint. At that time her hct
+was as low as 20 at one point, requiring 2 units of pRBC
+transfusion. She subsequently recived a Mirena IUD by ___ ___. She reports improved bleeding pattern in terms of
+heaviness and fewer days of menses. Denies any pain. 
+
+ 
+Past Medical History:
+ 
+OBHx: G4P1
+- SVD x1
+- TAB x2, D&C x2
+- Ectopic pregnancy, s/p lsc R salpingectomy, ___ at ___
+ 
+GynHx:
+- Denies abnormal Pap
+- History of chlamydia ___
+ 
+PMH: 
+- Chronic anemia due to heavy abnormal uterine bleeding, on Fe 
+- T2DM HgA1C 7.9 (___), started on 500 mg metformin
+
+PSH: 
+- LSC R salpingectomy for ectopic pregnancy 
+- D&C x2 
+
+Meds: 
+- Mirena IUD
+- Metformin 500 mg daily
+ 
+All: NKDA 
+ 
+
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+___ ___ Temp: 98.0 PO BP: 131/80 HR: 96 RR: 16 O2 sat: 
+100%
+O2 delivery: RA 
+___ ___ Intake Description: NPO 
+___ 0751 ___ pad: 35% staining, new pad placed 
+
+Physical Exam:
+General: NAD, comfortable
+CV: RRR
+Lungs: CTAB
+Abdomen: soft, non-distended, non-tender to deep palpation
+throughout
+GU: pad with no blood
+Extremities: no edema, no TTP, pneumoboots in place bilaterally 
+ 
+Pertinent Results:
+___ 08:00PM BLOOD WBC-10.1* RBC-3.90 Hgb-8.5* Hct-28.2* 
+MCV-72* MCH-21.8* MCHC-30.1* RDW-18.0* RDWSD-46.7* Plt ___
+___ 08:00PM BLOOD Neuts-60.5 ___ Monos-4.0* 
+Eos-0.7* Baso-0.6 Im ___ AbsNeut-6.12* AbsLymp-3.42 
+AbsMono-0.40 AbsEos-0.07 AbsBaso-0.06
+___ 12:06AM BLOOD WBC-10.5* RBC-3.15* Hgb-6.8* Hct-22.7* 
+MCV-72* MCH-21.6* MCHC-30.0* RDW-17.8* RDWSD-46.7* Plt ___
+___ 12:06AM BLOOD Neuts-61.2 ___ Monos-4.5* 
+Eos-0.6* Baso-0.4 Im ___ AbsNeut-6.40* AbsLymp-3.45 
+AbsMono-0.47 AbsEos-0.06 AbsBaso-0.04
+___ 06:10AM BLOOD WBC-11.8* RBC-3.88* Hgb-9.0* Hct-29.2* 
+MCV-75* MCH-23.2* MCHC-30.8* RDW-18.6* RDWSD-50.3* Plt ___
+___ 01:45PM BLOOD WBC-13.6* RBC-4.33 Hgb-10.0* Hct-32.1* 
+MCV-74* MCH-23.1* MCHC-31.2* RDW-17.8* RDWSD-47.8* Plt ___
+___ 08:00PM BLOOD ___ PTT-35.7 ___
+___ 01:45PM BLOOD ___ PTT-35.5 ___
+___ 01:45PM BLOOD ___
+___ 08:00PM BLOOD Glucose-93 UreaN-15 Creat-0.6 Na-141 
+K-4.0 Cl-105 HCO3-24 AnGap-12
+___ 01:45PM BLOOD Glucose-136* UreaN-9 Creat-0.6 Na-137 
+K-4.0 Cl-100 HCO3-26 AnGap-11
+___ 01:45PM BLOOD Calcium-9.3 Phos-3.1 Mg-1.7 Iron-396*
+___ 01:45PM BLOOD calTIBC-429 Ferritn-37 TRF-330
+___ 01:45PM BLOOD %HbA1c-6.8* eAG-148*
+___ 08:00PM URINE Color-Yellow Appear-Clear Sp ___
+___ 08:00PM URINE Blood-LG* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 08:00PM URINE RBC-2 WBC-1 Bacteri-NONE Yeast-NONE Epi-1
+___ 08:00PM URINE Mucous-FEW*
+___ 08:00PM URINE UCG-NEGATIVE
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology service 
+for management of abnormal uterine bleeding. 
+
+*) Abnormal uterine bleeding 
+A transvaginal US on ___ showed a 9.7 cm uterus with a 15mm 
+thick heterogeneous endometrium endometrium and anechoic fluid 
+within the endometrium at the fundus; her previously placed IUD 
+was not visualized, suggesting IUD expulsion. Her urine HCG was 
+negative. She was anemic with a baseline Hct of 28 on initial 
+presentation to the ED. Her Hct nadired at 22.7 on ___, and 
+she was transfused 2 units of pRBCs in the ED with an 
+appropriate rise in her Hct to 29.2. She was treated with IV 
+tranexamic acid on ___, and was subsequently continued on a 
+regimen of PO tranexamic acid ___ mg TID x 5 days. her Hct 
+remained stable for the remainder of her admission, and her 
+vaginal bleeding significantly improved to light spotting s/p IV 
+tranexamic acid. She was therefore discharged home with 
+outpatient follow up and prescription for a 5 day course of PO 
+tranexamic acid. 
+
+*) Contraception: 
+Her IUD was found to be expelled on pelvic US. She declined 
+contraceptive counseling during her admission and plans to 
+re-address contraception with her primary GYN provider as an 
+outpatient.   
+
+*) Microcytic anemia
+She was found to have microcytic anemia with an MCV of 72 on 
+admission. Iron studies on ___ were within normal limits, 
+suggesting acute blood loss as the etiology for her anemia. 
+
+*) T2DM
+She was continued on her home metformin 500 mg daily. Her blood 
+glucose was monitored with 2 hour pre- and post-prandial 
+fingersticks. Her fingersticks were found to be elevated ranging 
+from 190s-220s in the setting of HgbA1c 6.9%. 
+
+ 
+Medications on Admission:
+Metformin
+Mirena IUD
+ 
+Discharge Medications:
+1.  Tranexamic Acid Oral Solution 1300 mg PO TID Duration: 5 
+Days 
+RX *tranexamic acid ___ mg 2 tablet(s) by mouth three times a 
+day Disp #*15 Tablet Refills:*0
+RX *tranexamic acid ___ mg 2 tablet(s) by mouth q 8 hours Disp 
+#*28 Tablet Refills:*0 
+2.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abnormal uterine bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology service for heavy vaginal 
+bleeding. You have recovered well and the team believes you are 
+ready to be discharged home. Please call Dr. ___ office with 
+any questions or concerns. Please follow the instructions below.
+
+General instructions:
+* Take your medications as prescribed.
+* You may eat a regular diet.
+* You may walk up and down stairs.
+
+Call your doctor for:
+* fever > 100.4F
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+
+ 
+Followup Instructions:
+___

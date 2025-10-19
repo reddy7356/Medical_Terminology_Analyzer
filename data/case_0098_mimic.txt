@@ -1,0 +1,1747 @@
+===== DISCHARGE NOTE =====
+note_id=16717933-DS-11 | hadm_id=20525743
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+piperacillin / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Foot wound
+ 
+Major Surgical or Invasive Procedure:
+Right foot wound debridement down to bone ___
+Angioplasty right external iliac ___
+Thoracentesis ___
+Chest tube placement ___ and removal ___
+Mediastinal lymph node biopsy  ___
+
+ 
+History of Present Illness:
+This is a ___ with a past medical history significant 
+for T2DM complicated by neuropathy, nephropathy, ESRD on HD 
+___, neuropathy and diabetic wounds s/p multiple amputations 
+who presented from ___ for worsening plantar 
+heel ulceration. The patient reported that he was unsure how 
+long this wound had been present, but reported that it had been 
+a long time-- upwards of years. The patient did report that he 
+has noticed an increase in the amount of drainage and 
+foul-smelling
+odor from the wound recently. He was seen was an outpatient in 
+the ___ clinic on ___ and the ulcer was excisionally 
+debrided of necrotic and nonviable tissue down to and including 
+the level of the deep fascia. He was subsequently referred to 
+the
+___ ED due to concern for deep tissue infection and IV 
+antibiotics. 
+
+Upon arrival to the ED at ___, the patient was afebrile and 
+his vitals were stable and within normal limits. He was resting 
+comfortably and in no pain. He had labs done which were within 
+normal limits with the exception of a Cr of 4.0, HgB 11.1, and 
+INR 1.4. He had a foot XR showing loss of cortical detail at the 
+distal aspect of the cuboid, potentially concerning for 
+osteomyelitis as well as significant deformity of the hindfoot 
+appears grossly unchanged with large heel soft tissue defect. 
+The patient was started on Linezolid and Ceftazidime. Wound 
+aerobic/anaerobic cult & gram stain were sent as well as Blood
+cultures. 
+
+Podiatry was consulted and evaluated the patient and felt the R 
+plantar foot wound was grossly infected w/ significant fibrotic/ 
+necrotic tissue with deep probing to calcaneus, and surrounding 
+erythema. Podiatry performed a deep swab for culture. Their team 
+recommended admission to medicine for IV abx and felt he would 
+benefit from a debridement in the OR but before vascular 
+optimization as he is a known vasculopath w/ hx of L AKA and 
+multiple other amputations. Vascular Surgery was also consulted
+and recommended admission to medicine for antibiotics and 
+podiatry intervention as well as non-invasives. 
+ 
+Upon arrival to the floor, the patient reports that he is still 
+experiencing some soreness of his right foot, but otherwise 
+feels well. He is upset that it took him so long to get a room 
+on the medical floor. He would like to eat. He denies fevers, 
+chills, chest pain, shortness of breath, leg/stump pain. 
+Otherwise, the patient endorses the above history.  
+ 
+Past Medical History:
+- Cirrhosis
+- COPD
+- Hep C
+- afib
+- ESRD on HD
+- Diabetes mellitus, type 2 complicated by peripheral 
+  neuropathy, nephropathy
+- Hypertension
+- Hyperlipidemia
+- Left AKA
+- H/o CVA ___ w no residual deficits
+ 
+Social History:
+___
+Family History:
+- Brother diagnosed with DM and passed away in his ___ from 
+  unknown cause. 
+- Father had colon cancer and had a heart attack in ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital signs:
+T 97.8 BP 154 / 81 HR 101 RR  16 O2 Sat 97 Ra 
+
+General: Alert and oriented. Conversant. 
+HEENT: Sclera anicteric. PERRLA, EOMI. +Moist mucous membranes
+without lesions or thrush. 
+Neck: JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally.
+CV: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, non-distended
+Ext: There is a malodorous, large necrotic ulcer which probes to 
+
+bone. L AKA with no obvious ulcerations.
+Neuro: Absence of touch sensation bilaterally from mid shin to 
+toes, medial > lateral sensation deficit. 
+Psych: Patient agitated and upset. 
+
+DISCHARGE PHYSICAL EXAM
+========================
+GENERAL:  NAD
+RESP:  Diminished BS/some crackles in R base at site of pleural
+effusion
+___:  RRR no MRG
+GI:  soft, NTND
+EXT:  warm, no edema. all digits on left hand amputated. 2 and
+___ digit amputated right hand. L BKA. R ankle wrapped in clean
+gauze. Fistula on L arm with soft thrill
+NEURO:  Alert/conversant, oriented to situation but speaks with
+long pauses, a degree of cognitive impairment is evident  
+ACCESS: PIV
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 03:20PM BLOOD WBC-7.0 RBC-3.61* Hgb-11.1* Hct-34.3* 
+MCV-95 MCH-30.7 MCHC-32.4 RDW-13.5 RDWSD-46.0 Plt ___
+___ 03:20PM BLOOD Neuts-54.5 ___ Monos-11.3 Eos-2.3 
+Baso-0.7 Im ___ AbsNeut-3.82 AbsLymp-2.16 AbsMono-0.79 
+AbsEos-0.16 AbsBaso-0.05
+___ 03:20PM BLOOD ___ PTT-35.2 ___
+___ 03:20PM BLOOD Glucose-107* UreaN-20 Creat-4.0* Na-144 
+K-3.8 Cl-99 HCO3-29 AnGap-16
+___ 10:14AM BLOOD Albumin-4.2 Calcium-8.5 Phos-3.5 Mg-2.2
+___ 03:20PM BLOOD %HbA1c-5.1 eAG-100
+___ 03:35PM BLOOD Lactate-1.2
+
+PATHOLOGY:
+==========
+Reports being finalized, verbal reports as mentioned in hospital 
+course
+
+PLEURAL FLUID
+------------------
+___ 02:47PM PLEURAL TotProt-4.2 LD(LDH)-110
+___ 02:47PM PLEURAL TNC-1214* RBC-2999* Polys-2* Lymphs-73* 
+Monos-16* Macro-9*
+___ 08:37AM PLEURAL TotProt-3.7 Glucose-95 LD(LDH)-176 
+Cholest-33 Triglyc-55 ___
+___ 08:37AM PLEURAL TNC-656* ___ Polys-31* 
+Lymphs-63* Monos-5* Eos-1*
+
+FLOW CYTOMETRY IMMUNOPHENOTYPING ___
+The following tests (antibodies) were performed: Kappa, Lambda, 
+and CD antigens 2, 3, 4, 5, 7, 8, 10, 11c, 19, 20, 23, 34, 38, 
+45, and 56.
+
+RESULTS:
+10-color analysis with CD45 vs. side-scatter gating is used to 
+evaluate for lymphoma.
+Approximately 70.1% of total acquired events are evaluable 
+non-debris events.
+The viability of the analyzed non-debris events, done by 7-AAD 
+is 98.5%.
+CD45-bright, low side-scatter gated lymphocytes comprise 81.9% 
+of total analyzed events.
+B cells comprise 22.4% of lymphoid-gated events.
+B cells demonstrate monoclonal kappa light chain restriction. 
+They co-express pan-B cell markers CD19 and CD20. They do not 
+express any other characteristic antigens including CD5, CD10, 
+CD11c, CD23, CD34 and CD38.
+T cells comprise 66.6% of lymphoid gated events and express 
+mature lineage antigens (CD3, CD5, CD2, and CD7).
+Non-specific loss of CD7 is seen in a minor subset of cells.
+T cells have a CD4:CD8 ratio of 2.8.
+CD56 positive, CD3 negative natural killer cells represent 7.5% 
+of gated lymphocytes. They co-express CD2, CD7 and CD8 (subset).
+A discrete plasma cell population is not identified.
+
+INTERPRETATION
+Immunophenotypic findings consistent with involvement by a CD5 
+negative/CD10 negative and kappa restricted B-cell lymphoma. 
+Correlation with clinical and other ancillary findings is 
+recommended. A biopsy of a pathologically enlarged lymph node or 
+submission of another sample for cytogenetics work-up could be 
+considered. Flow cytometry immunophenotyping may not detect all 
+abnormal populations due to topography, sampling or artifacts of 
+sample preparation.
+
+MICROBIOLOGY
+===============
+___ 7:00 am SEROLOGY/BLOOD
+
+                            **FINAL REPORT ___
+
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+      Reference Range: Non-Reactive. 
+__________________________________________________________
+___ 8:37 am FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+      PLEURAL FLD. 
+
+                            **FINAL REPORT ___
+
+   Fluid Culture in Bottles (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 8:37 am PLEURAL FLUID      PLEURAL FLD. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+__________________________________________________________
+___ 2:47 pm PLEURAL FLUID
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+IMAGING/STUDIES
+================
+
+FOOT XR ___
+IMPRESSION: 
+Loss of cortical detail at the distal aspect of the cuboid, 
+potentially concerning for osteomyelitis.  Significant deformity 
+of the hindfoot appears grossly unchanged with large heel soft 
+tissue defect.
+
+RIGHT LOWER EXTREMITY VENOUS MAPPING ___
+FINDINGS: 
+RIGHT:
+The great saphenous vein is patent. Vein diameters are as 
+follows: Proximal:
+4.9 mm
+Mid thigh: 5.3 mm
+Distal thigh: 5 mm
+Popliteal fossa: 4.8 mm
+Proximal calf:  2.4 mm
+Mid calf: 3.7 mm
+Distal calf:  3.0 mm
+ 
+The small saphenous vein is patent. Vein diameters are as 
+follows:
+Proximal:  4.7 mm
+Mid:  4.2 mm
+Distal:  3.5 mm
+ 
+IMPRESSION: 
+ 
+Patent GSV and SSV in the right lower extremity.  Measurements 
+are above.
+
+RIGHT UPPER EXTREMITY VENOUS MAPPING ___
+RIGHT:
+The cephalic vein measures 0.32 cm at the wrist, 0.33 cm at the 
+distal forearm, 0.27 cm at the mid forearm, 0.45 cm at the 
+antecubital fossa, 0.43 cm at the proximal arm, 0.33 cm at the 
+mid arm and 0.43 cm at the distal arm. The basilic vein measures 
+0.44 cm at the forearm, 0.43 cm at the antecubital fossa, 0.42 
+cm at its mid portion, and 0.39 cm at the proximal portion.
+ 
+IMPRESSION: 
+ 
+The right cephalic and basilic veins are patent.  Measurements 
+are above.
+
+ABI REST ONLY ___
+FINDINGS: 
+On the right side, monophasic doppler waveforms are seen in the 
+right femoral, superficial femoral, popliteal, and posterior 
+tibial arteries.
+The right ABI was 0.38.  Low pulse volume recordings are noted 
+in the distal extremity.
+IMPRESSION: 
+Severe multilevel (aortoiliac, right SFA and right tibial) 
+arterial
+insufficiency.
+
+CTA ABDOMEN/PELVIS WITH RUNOFF ___
+
+1. Abdominal aorta:No stenosis.
+2. Celiac axis: No stenosis.
+3. SMA: No stenosis.
+4. ___: Severe stenosis (70-99%).
+5. Renal arteries: Left: Severe stenosis (70-99%).; Right: Mild 
+stenosis
+(<50%).
+6. Left common iliac: Mild stenosis (<50%).
+7. Right common iliac: Mild stenosis (<50%).
+8. Left external iliac: Moderate stenosis (50-69%).
+9. Right external iliac: Moderate stenosis (50-69%).
+10. Left internal iliac: Moderate stenosis (50-69%).
+11. Right internal iliac: Moderate stenosis (50-69%).
+CTA run-off RLE:
+ 
+1. Common femoral artery: Moderate stenosis (50-69%).
+2. Superficial femoral artery: Severe stenosis (70-99%).
+3. Deep femoral artery: Moderate stenosis (50-69%).
+4. Popliteal artery: Severe stenosis (70-99%).
+5. Anterior tibial artery: No stenosis.
+6. Posterior tibial artery: No stenosis.
+7. Peroneal artery: No stenosis.
+8. Dorsalis pedis: No stenosis.
+CTA run-off LLE:
+ 
+1. Common femoral artery: Moderate stenosis (50-69%).
+2. Superficial femoral artery: Severe stenosis (70-99%).
+3. Deep femoral artery: Severe stenosis (70-99%).
+There is no abdominal aortic aneurysm. There is severe calcium 
+burden in the
+abdominal aorta and great abdominal arteries.
+ 
+LOWER CHEST: Large volume of right pleural effusion with 
+thickening and mild
+enhancement of pleural for which infectious etiology is 
+considered. There is
+associated atelectasis of the lung.
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout. There
+is no evidence of focal lesions. There is no evidence of 
+intrahepatic or
+extrahepatic biliary dilatation.  The gallbladder is edematous
+ 
+PANCREAS: Marked inflammatory stranding is seen in the upper 
+abdominal
+mesentery as well as surrounding the pancreatic head.  There is 
+no stone or
+obstructive lesion noted.  There is no mass.  No pancreatic 
+ductal dilatation.
+ 
+SPLEEN: The spleen is within upper limit of normal size normal 
+size , without
+evidence of focal lesions.  Small accessory spleen is noted.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The kidneys are atrophic.  1.7 cm exophytic lesion 
+arising from the
+midpole of right kidney incompletely characterize.  1.9 cm 
+markedly enhancing
+left lower pole renal lesion is suspicious for renal cell 
+carcinoma.  There is
+no hydronephrosis.  There is no perinephric abnormality.
+ 
+GASTROINTESTINAL: Small bowel loops demonstrate normal caliber, 
+wall thickness
+and enhancement throughout.  There is sigmoid diverticulosis..
+ 
+ 
+RETROPERITONEUM: Multiple mesenteric and retroperitoneal 
+lymphadenopathy are
+seen measuring up to 1.5 cm.
+ 
+PELVIS: The urinary bladder is collapsed.  There are pelvic 
+sidewall and
+inguinal lymphadenopathy measuring up to 1.4 cm.  There is no 
+free fluid in
+the pelvis.
+ 
+REPRODUCTIVE ORGANS: The visualized reproductive organs are 
+unremarkable.
+ 
+BONES: The bone is demineralized and multiple lytic lesions are 
+seen in the
+pelvis, indeterminate.  There are left acetabular subchondral 
+cyst and
+Schmorl's nodes in the vertebral body.
+ 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.
+ 
+IMPRESSION:
+
+1. Large volume of right pleural effusion with thickening and 
+mild enhancement
+of pleural for which infectious etiology is considered. There is 
+associated
+atelectasis of the lung.
+2. Marked inflammatory stranding is seen in the upper abdominal 
+mesentery as
+well as surrounding the pancreatic head likely 
+inflammatory/pancreatitis.
+Please correlate clinically and lipase level.
+3. Large right inguinal hernia containing nonobstructed loop of 
+small bowel.
+4. Markedly enhancing left renal lower pole mass measuring 1.9 
+cm suspicious
+for renal cell carcinoma.
+5. Extensive lymphadenopathy involving the abdomen and pelvis 
+might be
+infectious or neoplastic in etiology.
+6. Lytic lesions are seen in bony pelvis, indeterminate.
+7. Small volume of ascites.
+8. Diverticulosis.
+
+CT CHEST ___
+IMPRESSION: 
+ 
+Mediastinal lymphadenopathy and moderate pleural effusion with 
+pleural
+enhancement could be malignant or inflammatory.
+Diffuse ground-glass opacities in the lung, most pronounced to 
+the right,
+probably mild pulmonary edema.
+ 
+RECOMMENDATION(S):  Diagnostic thoracentesis, if not already 
+performed.
+
+THORACENTESIS ___
+IMPRESSION: 
+Uneventful and successful drainage of a right pleural effusion.  
+Microbiology,
+cytology, pleural analysis and pleural chemistry are pending.
+Thickened pleura, likely due to a fibrotic reaction.
+
+CXR ___
+IMPRESSION: 
+1.  Moderate right basilar pneumothorax following placement of 
+pigtail catheter.  Interval improvement of right pleural 
+effusion.
+
+CT GUIDED LN BIOPSY ___
+IMPRESSION: 
+ 
+Technically successful CT-guided left periaortic lymph node 
+biopsy.  3 cores
+in formalin sent to pathology.  No immediate complications.
+
+CT HEAD ___
+IMPRESSION: 
+No acute intracranial abnormality.
+Brain parenchymal atrophy.
+Probable right frontal bone fibro-osseous lesion, clinical 
+follow-up recommended.
+
+MRI HEAD ___
+1. No acute findings.
+2. Chronic small-vessel ischemic change, brain parenchymal 
+atrophy.
+
+DISCHARGE LABS
+================
+___ 05:30AM BLOOD WBC-13.1* RBC-3.77* Hgb-11.7* Hct-35.8* 
+MCV-95 MCH-31.0 MCHC-32.7 RDW-14.3 RDWSD-49.9* Plt ___
+___ 05:30AM BLOOD Plt ___
+___ 05:30AM BLOOD Glucose-102* UreaN-46* Creat-6.2*# 
+Na-130* K-4.6 Cl-88* HCO3-26 AnGap-16
+___ 05:30AM BLOOD Calcium-7.5* Phos-5.7* Mg-2.2
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+==================
+___ man with a past medical history significant for T2DM 
+complicated by neuropathy, nephropathy, ESRD on HD ___, and 
+diabetic wounds s/p multiple amputations who presented from ___ 
+___ for worsening plantar heel ulceration with 
+concern for soft tissue infection and osteomyelitis. As detailed 
+below, he underwent debridement by podiatry, lower extremity 
+angioplasty by vascular surgery, and was transitioned to oral 
+Augmentin with some evidence of wound healing prior to 
+discharge. On preoperative imaging for vascular surgery he was 
+incidentally found to have a pleural effusion which tested 
+positive for B-cell lymphoma on cytology, bone marrow biopsy 
+confirming lymphoplasmacytic lymphoma. He remained stable and 
+was discharged on Augmentin with plan for outpatient PET-CT, 
+possible lung biopsy, and oncology followup. 
+
+ACUTE/ACTIVE PROBLEMS: 
+=============================
+# Right Foot Soft Tissue Infection/Osteomyelitis 
+Patient presented from his outpatient podiatrist with concerns 
+for a deep soft tissue infection & osteomyelitis of his right 
+foot. The ulcer was excisionally debrided of necrotic and 
+nonviable tissue down to and including the level of the deep 
+fascia on ___ by his primary podiatrist prior to 
+presentation to the ED. Upon arrival to the ED, the patient was 
+stared on antibiotics with Linezolid and Ceftazidime given his 
+other antibiotic allergies. Upon further questioning, patient's 
+documented allergy to vancomycin was an irritation when given 
+through peripheral IV. He did not have any rash, throat closing, 
+tongue swelling, or difficulty breathing. Given this, vancomycin 
+was administered with HD, and linezolid discontinued, with 
+addition of metronidazole for anaerobic coverage pending culture 
+results.
+
+He went back to the OR with podiatry on ___ for additional 
+debridement, which revealed no pus, but not much bleeding. More 
+cultures were sent, and wound vac was not placed. He had 
+angioplasty of the external iliac ___ with vascular surgery, 
+however no stents were placed due to patient's inability to 
+tolerate the procedure due to itchiness. 
+
+Micro during this admission notable for beta strep/bacteroides 
+(swab ___ and MSSA (tissue ___. Unfortunately, Mr. ___ 
+had GI upset when taking Flagyl by mouth. Due to his listed 
+allergies, this limited his choice and antibiotics. Although 
+ertapenem daily would have been an option, this would have 
+required PICC placement, and the patient already with a left 
+upper extremity fistula. He was not amenable to this idea. Upon 
+further questioning, the patient's allergy to penicillin was 
+deemed questionable, and so he underwent graded challenge with 
+ampicillin, and successfully received augmentin. He is to 
+continue these antibiotics for 6 weeks but ID will follow up 
+with him as an outpatient. 
+
+# Peripheral Vascular Disease 
+The patient has a history of peripheral vascular disease which 
+is likely contributing to the above ulcer/infection. Vascular 
+surgery was consulted in the ED and recommended non-invasive 
+imaging, IV antibiotics, and podiatry intervention. Of note, 
+angiogram in ___ showed moderate iliac, femoropopliteal and 
+tibial arterial occlusion. He was recommended for angiography 
+with intervention which the patient declined and left AMA prior 
+to any intervention being done. At that time he was started on 
+an ASA, statin, however he does not take these as an outpatient 
+due to his perception that they hurt him. 
+
+He is status post angioplasty of the external iliac artery on 
+___. Unfortunately the patient did not tolerate the whole 
+procedure, so further angioplasty could not be performed. Stents 
+were not placed, given the patient's nonadherence to 
+medications, and his inability to tolerate the procedure. A week 
+into his hospitalization, he began to be compliant with his 
+aspirin and statin. 
+
+# Lymphoplasmacytic lymphoma
+CT abdomen and pelvis obtained for planning of vascular 
+procedure on ___ showed right pleural effusion with 
+thickening, inflammatory stranding in the upper abdominal 
+mesentery, and surrounding pancreatic head, markedly enhancing 
+left renal lower pole mass, and extensive lymphadenopathy 
+involving abdomen and pelvis, as well as lytic lesions in bony 
+pelvis. CT chest was then obtained to examine for metastases. It 
+showed diffuse lymphadenopathy, pleural thickening and pleural 
+effusion, which was tapped by thoracentesis by ___ on ___, 
+followed by chest tube placement by IP on ___ with 
+para-aortic lymph node biopsy by ___ ___. Flow cytometry of 
+pleural fluid revealed B cell lymphoma; para-aortic LN biopsy 
+was, however, normal on pathologic examination. He was 
+transferred to the heme-onc service where he underwent bone 
+marrow biopsy, revealing lymphoplasmacytic lymphoma. Plan for 
+outpatient PET-CT for staging purposes, then potential 
+transbronchial lung mass/node biopsy by IP depending on what PET 
+shows (because would need to assess for transformation to high 
+grade lymphoma). Did not start any treatment this 
+hospitalization. Has scheduled ___ clinic appointment next 
+___ with Dr. ___ at ___.
+
+# Encephalopathy
+Early on in admission Patient with subacute change in 
+personality, was less argumentative, and with poor memory and 
+hypersexual behavior. This was very far from his baseline per 
+his family and not consistent with even prior hospitalizations. 
+Although first noted after ___ guided lymph node biopsy, during 
+which he received a total of 75 mcg fentanyl, per family and 
+nursing he has had a change in personality over the last few 
+days. Initial concern for lingering effects of fentanyl given 
+stage renal disease, toxic metabolic encephalopathy, or 
+difficulty with adjustment after finding out he has cancer. Head 
+CT was performed on ___, which was negative for acute 
+pathology. MRI ___ also negative for acute abnormality. His 
+personality changes resolved spontaneously on ___, 
+consistent with delirium.
+
+#SOB/Diaphoresis: 
+Patient with an episode of SOB/diaphoresis ___ of ___ in the 
+setting of significant episode of nausea and emesis. With the 
+extent of his vascular disease, he is highly likely to have at 
+least some degree of CAD. His SOB/diaphoresis has not recurred, 
+and his cardiac enzymes were stable. He refused ECG, and began 
+to feel better stopping p.o. Flagyl.
+
+# Medication Reconciliation
+# Medication nonadherence
+The patient presented with a list of medications and he was 
+unsure which ones he was on or filling. His list included both 
+an ACEi (Lisinopril) and ___ (Olmesartan) which were both 
+held given unclear fill history and indication. The patient's 
+med list also states he is on simvastatin-- it is unclear why he 
+would not be on atorva or rosuva given severity of his vascular 
+disease. Patient reports that he uses ___ in ___ on ___ 
+Street, however when we called that ___, he only used it to fill 
+antibiotics and calcium. Per patient, he does not take any other 
+medications at home, because he distrusts that they are good for 
+him. He has agreed to take the antibiotics, but greatly 
+distrusts that other medications are good for him. 
+
+CHRONIC ISSUES
+=================
+#ESRD on HD (MWF): 
+He received dialysis while in-house per his regular schedule.
+
+#Atrial Fibrillation: 
+Patient has a CHADsVASc 5. He is not on anticoagulation at home 
+(confirmed with pt.). Rates controlled on presentation, and 
+patient refusing telemetry, so discontinued. He has refused 
+anticoagulation in the past and is not interested in starting 
+now. Sent home with metoprolol succinate for rate control. 
+
+#Type II DM 
+Hemoglobin A1c 5 on admission, and patient refusing 
+fingersticks. 
+
+#HTN
+Although antihypertensives were on his medication list, patient 
+denied taking any medications other than outpatient, and refused 
+all antihypertensives while in house. 
+
+# Hyperlipidemia
+Patient is written for home statin, although has never filled 
+the prescription. He was written for statin while in house, but 
+continually refused. 
+
+# Cirrhosis
+# Hep C
+Follows w/ ___ clinic as outpatient at ___. He was not 
+on any medications for his cirrhosis prior to presentation. No 
+signs of decompensation/ascites/or encephalopathy at this time. 
+Baseline LFTs on admission were within normal limits. 
+
+# Behavioral Issues
+# Adjustment disorder
+On previous admissions and at outpatient appointments, the 
+patient intermittently declined labs and was frequently verbally 
+abusive to staff. Psychiatry previously evaluated the patient 
+and felt he met criteria for an adjustment disorder and a 
+chronic neurocognitive disorder due to his medical 
+comorbidities. 
+
+TRANSITIONAL ISSUES
+====================
+[] Wound care for foot osteomyelitis as below:
+ Site: R Foot 
+ Cleansing agent: Saline
+ Dressing: Gauze- moist to dry
+ Change dressing: qday
+ Comment: Betadine, gauze, Kerlix, and light ACE to be performed 
+by ___.
+ NWB to R foot (patient able to place weight on
+ forefoot for transfers)
+[] f/u with podiatry 1 week post discharge (appointment 
+scheduled)
+[] Possible RCC (1.9 cm) based on enhancement pattern on CTAP. 
+Seems more likely lymphoma based on Occham's Razor but may 
+warrant further workup at discretion of outpatient provider
+[] Patient is to complete 6 weeks of augmentin, potential end 
+date ___
+ with ID follow up as above
+[] ___ PET-CT 7:30 AM for lymphoma staging
+[] IP should arrange ___ appointment to see patient for 
+possible lung bx 
+[] ATTN Primary care: please consider high-intensity statin and 
+anticoagulation, neither of which the patient is on (admittedly 
+probably because of his own refusal to take medications)
+
+Amox-clav 500 mg q24h (administer after HD session on HD days)
+Start Date: ___
+Projected End Date: ___ (6 weeks)
+
+Labs:
+ATTN: ___ CLINIC - FAX: ___
+Weekly
+CBC with differential, BUN, Cr, AST, ALT, Total Bili, ALK PHOS, 
+CRP
+
+The ___ will schedule follow up and contact the patient or 
+discharge facility. All questions regarding outpatient 
+antibiotics after discharge
+should be directed to the ___ R.N.s at 
+___ or to the on-call ID fellow when the clinic is 
+closed. 
+
+#CODE: FULL CODE, Presumed (Patient did not wish to engage in 
+code status discussion) 
+#CONTACT: Sister (___): ___. Sister-in-law ___ 
+___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Calcium Acetate 667 mg PO TID W/MEALS 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q24H 
+RX *amoxicillin-pot clavulanate 500 mg-125 mg 1 tab-cap by mouth 
+once a day Disp #*26 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Metoprolol Succinate XL 50 mg PO DAILY atrial fibrillation 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+4.  Simvastatin 40 mg PO QPM 
+RX *simvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+5.  Calcium Acetate 667 mg PO TID W/MEALS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+===================
+Soft tissue infection, right foot
+B cell lymphoma
+
+SECONDARY DIAGNOSES
+========================
+Peripheral vascular disease
+End-stage renal disease on hemodialysis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+-Your podiatrist sent you to the hospital, because they were 
+concerned about the wound in the right foot
+
+What happened while you were in the hospital?
+-They cleaned out the wound in your right foot (debridement) in 
+the operating room
+-You were started on antibiotics to help fight the infection in 
+your foot.
+-Vascular surgery team opened up one of the arteries in your 
+leg, so that more blood can get to your foot.  They did not 
+place a stent.  This procedure was difficult for you to 
+tolerate, and so they did not open up all the arteries.
+-You had a CT scan done that showed some areas concerning for 
+cancer.
+-You had a biopsy done of the lymph nodes in your chest, and you 
+had this fluid drained from around your lungs.  This showed that 
+you have a type of cancer called B cell lymphoma
+-The cancer doctors (___) recommended that you come in 
+___ morning for a PET-CT scan to see if there is lymphoma in 
+other places in your body, and to come in ___ for a clinic 
+visit with Dr. ___ new oncologist). 
+
+What should you do once you leave the hospital?
+-You should continue to take your antibiotics for the next 6 
+weeks.
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+
+We wish you all the best!
+- Your ___ Care Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16717933-DS-8 | hadm_id=24247626
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PODIATRY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right heel ulcer 
+ 
+Major Surgical or Invasive Procedure:
+Right ulcer Excision
+Exostectomy of right foot
+
+ 
+History of Present Illness:
+The pt was admitted for exostectomy to right heel with ulcer. Pt 
+had a previous infection which had been I&D'd back in ___. Pt's course had been complicated with infection and a 
+prominent plantar heel bone that was causing continous pressure 
+to the area of ulceration. A decision was made to admit pt for 
+IV antibiotics and rehabilitation following the ulcer excision 
+and exostectomy.
+
+ 
+Past Medical History:
+Type 2 Diabetes  
+Chronic Renal Insufficiency, baseline 2.3  
+HTN  
+Hyperlipidemia  
+CVA in ___  
+R Charcot Foot  
+Peripheral Neuropathy  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+AVSS
+RRR
+CTAB
++BS, NT,ND
+Right foot with plantar ulcer, undermined. No erythema. No 
+purulent drainage.
+
+ 
+Pertinent Results:
+___ 06:05AM BLOOD WBC-7.8 RBC-3.74* Hgb-12.5* Hct-36.6* 
+MCV-98 MCH-33.3* MCHC-34.1 RDW-12.9 Plt ___
+___ 07:15AM BLOOD WBC-8.8 RBC-3.86* Hgb-12.5* Hct-37.5* 
+MCV-97 MCH-32.3* MCHC-33.3 RDW-13.1 Plt ___
+___ 06:30AM BLOOD WBC-11.3* RBC-3.88* Hgb-12.8* Hct-37.8* 
+MCV-98 MCH-32.9* MCHC-33.7 RDW-13.0 Plt ___
+___ 06:15AM BLOOD WBC-11.1* RBC-3.83* Hgb-12.9* Hct-36.8* 
+MCV-96 MCH-33.8* MCHC-35.1* RDW-13.1 Plt ___
+___ 11:58AM BLOOD WBC-13.6*# RBC-4.09* Hgb-13.9* Hct-39.7* 
+MCV-97 MCH-34.1* MCHC-35.1* RDW-13.1 Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 06:30AM BLOOD Plt ___
+___ 06:15AM BLOOD Plt ___
+___ 11:58AM BLOOD Plt ___
+___ 11:58AM BLOOD ESR-59*
+___ 06:05AM BLOOD Glucose-92 UreaN-22* Creat-2.8* Na-139 
+K-3.9 Cl-106 HCO3-22 AnGap-15
+___ 07:15AM BLOOD Glucose-87 UreaN-23* Creat-3.1* Na-135 
+K-3.7 Cl-103 HCO3-19* AnGap-17
+___ 06:30AM BLOOD Glucose-84 UreaN-26* Creat-3.2* Na-137 
+K-3.6 Cl-106 HCO3-19* AnGap-16
+___ 06:15AM BLOOD Glucose-73 UreaN-28* Creat-3.0* Na-137 
+K-3.2* Cl-105 HCO3-19* AnGap-16
+___ 11:58AM BLOOD Glucose-114* UreaN-24* Creat-2.9* Na-137 
+K-3.6 Cl-106 HCO3-19* AnGap-16
+___ 06:05AM BLOOD Calcium-8.6 Phos-4.5 Mg-2.1
+___ 07:15AM BLOOD Calcium-9.0 Phos-4.4 Mg-2.3
+___ 06:30AM BLOOD Calcium-8.3* Phos-4.4 Mg-1.8
+___ 06:15AM BLOOD Calcium-8.0* Phos-3.9 Mg-1.7
+___ 03:00PM BLOOD Cholest-164
+___ 11:58AM BLOOD Albumin-3.2* Calcium-8.4 Phos-3.9 Mg-1.8
+___ 03:00PM BLOOD %HbA1c-4.9
+___ 03:00PM BLOOD Triglyc-95 HDL-87 CHOL/HD-1.9 LDLcalc-58
+___ 03:00PM BLOOD PTH-51
+___ 11:58AM BLOOD CRP-13.7*
+
+ 
+Brief Hospital Course:
+The pt was admitted SDA s/p ulcer excision and exostectomy. Pt 
+was being follwed at OSH clinic. The surgery was perform without 
+complications. A JP drain was placed within the 
+incisionFollowing the exostectomy, Pt's incision site remain 
+well coapted. Dressings were cjahes daily with betadine. Pt had 
+been drowing MRSA and resistant E coli. There were sensitive to 
+vancomycin and zosyn. Culture results from this admission showed 
+MRSA. Pt remin afebrile through hospital course. On HD3 JP drain 
+pulled. HD4 Site of drain was closed with one suture.  Area at 
+middle of incision had a gap, one suture was removed and 
+replaced with two sutures. Pt was discharged with ___ services 
+following an uneventful course at the hospital.
+ 
+Medications on Admission:
+Aggrenox ___ mg',Metoprolol XL 100 mg',Amlodipine 5 mg', 
+Lisinopril 20 mg',Simvastatin 40 mg',Benicar 40 mg',folic acid 1 
+mg',potassium 20 mEq daily,Prandin 0.5 mg ac, rolaids for low 
+Calcium 
+ 
+Discharge Medications:
+1. Repaglinide 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).  
+2. Olmesartan 20 mg Tablet Sig: Two (2) Tablet PO daily ().  
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+6. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 hr 
+Sig: One (1) Cap PO BID (2 times a day).  
+7. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed.
+Disp:*21 Tablet(s)* Refills:*0*
+8. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Linezolid ___ mg Tablet Sig: One (1) Tablet PO twice a day 
+for 3 weeks.
+Disp:*42 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Right ulcer Excision
+Exostectomy of right foot
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please resume all your medications. A script for antibiotics has 
+been dispensed. You will take this for 3 weeks. You will follow 
+up with Dr. ___ in 1 week. He will deteremine if you need 
+to continue antibiotics for more than 3 weeks. Please ensure to 
+remain Non weightbearing in a surgical on your right foot. 
+
+Please visit the nearest ED if you notice fevers, chills, night 
+sweats, nausea, vomitting, redness, swelling, pus draining from 
+your wound
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16717933-DS-9 | hadm_id=24906298
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+acute renal failure, infected R foot
+ 
+Major Surgical or Invasive Procedure:
+R foot debridement X 2 with implantation of antibiotic coated 
+beads
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yoM with CKD stage ___, DM, h/o right foot 
+ulcers who presented today to the ___ ED for evaluation. Per 
+the patient, he was seen recently here by his renal physician, 
+who noted that his blood pressure was low (and also, per notes, 
+that his Cr was elevated from baseline). He was advised to see 
+his PCP, which he did today, and who referred him to the 
+___. He notes that he has been feeling very well and has no 
+specific complaints, including any trouble with his heel. He 
+does report that two weeks ago, the patient had a bout of 
+ongoing nausea/vomiting which lasted until recently.  
+.  
+At the ___ ED, the pt was found to have an elevated WBC 
+count, ARF and was orthostatic with an SBP of 85 on standing. 
+There was concern for an acute infection of his right heel. He 
+was given IVF, then transferred to ___ where he is followed by 
+podiatry. The podiatry service evaluted him in the ED and 
+planned to take him to the OR for a heel intervention. On 
+arrival in the OR, the pt was found to be in AF with RVR to the 
+140s with an SBP again in the ___. The pt's foot was quickly 
+evaluated and emergent intervention was felt not to be 
+necessary. He was started on a NeoSynephrine drip and with this 
+his BP rose to the 130s; he continued to be completely 
+asymptomatic. In an attempt at HR control, the pt was given a 
+total of 10 mg IV metoprolol with little response. The 
+NeoSynephrine was able to to be weaned at this point with little 
+change in BP. IV diltiazem was then utilized, with the pt coming 
+under good HR control after 10 mg IV. He was given 30 mg 
+diltiazame PO x 2, and then one addition 10 mg IV dose prior to 
+transfer to the medical floor (MICU admission had initially been 
+considered, however it was felt the patient was stable for floor 
+managment).  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+Type 2 Diabetes  
+Chronic Renal Insufficiency, baseline 2.3  
+HTN  
+Hyperlipidemia  
+CVA in ___  
+R Charcot Foot  
+Peripheral Neuropathy 
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Vitals: T 98.9 P ___ R 16 98/70 100% on 2L  
+Gen: Well appearing adult male, no acute distress.  
+HEENT: PERRL, EOMI. Dry MM. Conjunctiva well pigmented.  
+Neck: Supple, without adenopathy or JVD. No tenderness with 
+palpation.  
+Chest: CTAB anterior and posterior.  
+Cor: Normal S1, S2. RRR. No murmurs appreciated.  
+Abdomen: Soft, non-tender and non-distended. +BS, no HSM.  
+Extremity: Right heel ulceration with surrounding erythema 
+noted. No clear lymphangitis. Otherwise warm, without edema. 2+ 
+DP pulses bilat.  
+Neuro: Alert and oriented. CN ___ intact. Motor strength intact 
+in all extremities. Sensation intact grossly.  
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+
+___ 04:00PM   WBC-20.8*# RBC-3.73* HGB-11.7* HCT-34.6* 
+MCV-93# MCH-31.3# MCHC-33.7 RDW-14.1
+___ 04:00PM   NEUTS-88.1* LYMPHS-6.7* MONOS-4.6 EOS-0.4 
+BASOS-0.2
+___ 04:00PM   PLT COUNT-579*#
+___ 04:00PM   ___ PTT-32.5 ___
+___ 04:00PM   TSH-2.2
+___ 04:00PM   CK-MB-2 cTropnT-0.02*
+___ 04:00PM   CK(CPK)-24*
+___ 04:00PM   GLUCOSE-101 UREA N-56* CREAT-5.3* SODIUM-131* 
+POTASSIUM-3.7 CHLORIDE-100 TOTAL CO2-10* ANION GAP-25*
+___ 04:17PM   LACTATE-1.5
+___ 12:00AM   CK-MB-NotDone cTropnT-0.02*
+___ 12:00AM   CK(CPK)-17*
+
+STUDIES
+R foot x-ray ___ - Charcot changes in the hindfoot with soft 
+tissue swelling and air within the adjacent soft tissues is 
+highly suggestive of infection. A bone scan would help confirm 
+this. 
+
+CXR ___ - No acute cardiopulmonary process
+
+R foot x-ray ___ - Since the previous study, there has been 
+partial resection of the calcaneus and debridement of the 
+posterior heel. There is also antibiotic impregnated beads 
+placed in the surgical bed. There is again seen a retained 
+metallic screw within the calcaneus. 
+
+Renal U/S ___. No sonographic evidence for obstruction, 
+mass, or nephrolithiasis. 
+2. No sonographic evidence for renal artery stenosis. 
+
+TTE ___ - The left atrium is dilated. The right atrium is 
+moderately dilated. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic regurgitation. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion.   
+
+LABS ON DISCHARGE:
+WBC 8.9  Hgb 7.9  Hct 23.8  Plts 488
+Na 137  K 3.2 (repleted 20 meq KCL)  Cl 104  HCO3 16  BUN 49  Cr 
+5.5 (down from 5.8 the day prior)  Glu 137
+Ca 8.3  Mg 1.7  Phos 6.___ year old male with DM, CKD, prior CVA and known right Charcot 
+foot presents with infected right heel, new AF with RVR, and 
+acute on chronic renal failure.  
+.  
+1) Right heel osteomyelitis: In the setting of previously known 
+right Charcot foot. Transferred from OSH ED to ___ for 
+management of right heel ulcer and infection. Upon arrival to 
+the OR, pt found to be in atrial fibrillation with rapid 
+ventricular response. Procedure was aborted and admitted to 
+medicine. Upon medical stabilization of atrial fibrillation and 
+acute on chronic renal failure (see below), the patient went 
+back to the OR on ___ for debridement of the R heel ulcer and 
+implanatation of antibiotic coated beads. Wound cultures 
+revealed GNRs, GPC, and Bacteriodes fragilis. Calcaneal tissue 
+removed from the OR revealed acute osteomyelitis. Blood cultures 
+were negative. He was then started on IV vancomycin and zosyn, 
+renally dosed, and will need to complete a 6 week course of 
+antibiotics. A PICC was placed. Given renal failure, vancomycin 
+will need to be dosed by level for goal of ___. He was taken 
+back to the OR on ___ by podiatry for another debridement. A 
+dressing change was performed by podiatry the morning after and 
+he was placed in a bivalve cast in slight plantar flexion 
+position the following day. He will need daily dressing changes 
+per page 1 recommendations by podiatry. He will f/u with his 
+podiatrist, Dr. ___, as an outpatient.
+.
+2) Leukocytosis: Likely from heel infection. Blood cx no growth, 
+urine culture revealed E. Coli sensitive to zosyn, and calcaneal 
+tissue from the OR showed signs of acute osteomyelitis. He was 
+treated with IV vancomycin and zosyn as above and will need to 
+complete a 6 week course for osteomyelitis.
+.
+3) Atrial fibrillation: No previously known history of atrial 
+fibrillation. Rate controlled with uptitration of metoprolol. 
+TSH wnl and ruled out MI with 3 sets of negative CEs. TTE 
+revealed dilated LA and RA. Given CHADS score of 4, he was 
+started on anti-coagluation on ___ after surgical management of 
+osteomyelitis as above. He was transferred to a LTAC for heparin 
+drip bridge onto coumadin. He also remained on aggrenox. He was 
+seen by his outpatient cardiologist Dr. ___ 
+follow-up with as an outpatient for consideration of a 
+cardioversion and possible initiation of amiodarone. Per Dr. 
+___, LFTs and a TSH were checked and pending upon 
+discharge.
+
+4) Acute on chronic renal failure: Cr 5.3 on admission, peaked 
+to 5.8, and was 5.5 at the time of discharge. He was seen by the 
+renal consultants who initially thought the patient may have 
+been pre-renal and have ATN, possibly from poor forward flow 
+state from afib with RVR, as his urine sediment did reveal muddy 
+brown casts. UA initially showed FeNa of 1.6, then progressed to 
+3, then 7 during course of hospitalization. Renal U/S with 
+dopplers showed no signs of renal artery stenosis, vein 
+thrombosis, or hydronephrosis. UA showed sterile pyuria and 
+culture with e.coli sensitive to zosyn, which pt was already 
+receiving for osteomyelitis. Renal did not feel pt needed acute 
+hemodialysis, but will likely need dialysis in the future. Outpt 
+ACEI and ___ held. He was started on Al(OH)3 X 3 days for 
+hyperphosphatemia and then transitioned onto sevelamer. He was 
+also started on daily iron and may need epogen in the future. He 
+is to follow-up with Dr. ___ as an outpatient.
+
+5) Normocytic Anemia: No signs of blood loss.  Likely 
+hemoconcentrated on admission. Renal disease also likely 
+contributing to anemia. No transfusions were needed and the 
+patient was started on iron supplementation as above. 
+.  
+6) AG Metabolic Acidosis: Likley from chronic renal failure. He 
+was started on bicitra per renal recommendations.
+.  
+7) HTN: Had borderline BP in setting of infection, ARF and new 
+AF. Held ACEi and ___ given renal failure. Also held amlodipine 
+while metoprolol was being uptitrated. 
+.  
+8) EtOH abuse: Per pt, last drink several days prior to 
+admisison, and thus withdrawal felt to be fairly unlikely. 
+However, he was initially closely monitored on a CIWA scale with 
+valium prn. There were no signs of alcohol withdrawal during 
+hospitalization. He was started on a daily MVI, thiamine, and 
+folate. Given h/o EtOH abuse and coumadinization, cardioversion 
+was discussed as an option for the pt with his cardiologist as 
+above. He will f/u with his cardiologist as an outpatient.
+.  
+9) DM2: HbgA1c from ___. Placed on HISS. 
+.  
+10) h/o CVA: Neuro exam stable. Continued home Aggrenox. ___ 
+consider switching to EC aspirin given coumadin in future.
+
+Full code
+ 
+Medications on Admission:
+Amlodipine 5 mg daily  
+Aggrenox ___ daily  
+Folic acid 1 mg daily  
+lisinopril 20 mg daily  
+Toprol XL 100 mg daily  
+olmesartan 40 mg daily  
+Prandin 0.5 mg before each meal  
+simvastatin 40 mg daily  
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day): hold for sbp < 100, hr < 55.  
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+7. Aluminum Hydroxide Gel 600 mg/5 mL Suspension Sig: Five (5) 
+ML PO TID W/MEALS (3 TIMES A DAY WITH MEALS) for 2 days.  
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. Sodium Bicarbonate 650 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+10. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.  
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+12. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed.  
+13. Acetaminophen 500 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain, fever.  
+14. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q6H (every 6 hours) as needed for pain.  
+15. Humalog 100 unit/mL Solution Sig: per attached insulin 
+sliding scale units Subcutaneous qachs.  
+16. Zosyn 2.25 gram Recon Soln Sig: One (1) recon soln 
+Intravenous every eight (8) hours for 6 weeks: day 1 ___, to 
+complete 6 week course to stop on ___.  
+17. Vancomycin 1,000 mg Recon Soln Sig: One (1) gram Intravenous 
+dose by vanc level for 6 weeks: Please dose for vanc level < 20. 
+Goal trough levels ___. 
+Day 1 ___, to complete 6 week course on ___.  
+18. ___ line care
+___ line care per routine
+19. Heparin Flush 10 unit/mL Kit Sig: Two (2) ml Intravenous 
+prn: PICC, heparin dependent: Flush with 10mL Normal Saline 
+followed by Heparin as above daily and PRN per lumen.  
+20. Heparin, Porcine (PF) 25,000 unit/10 mL Solution Sig: per 
+attached heparin drip guidelines ML Intravenous continuous: To 
+continue until INR therapeutic between ___ for 2 days.  
+21. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 
+hr Sig: One (1) Cap, Multiphasic Release 12 hr PO twice a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+R heel osteomyelitis
+Atrial fibrillation with rapid ventricular response
+Acute on chronic renal failure
+
+Secondary Diagnosis:
+Diabetes mellitus, type 2 complicated by peripheral neuropathy, 
+nephropathy
+Hypertension
+Hyperlipidemia
+h/o CVA
+
+ 
+Discharge Condition:
+Good, afebrile, vital signs stable. 
+
+ 
+Discharge Instructions:
+You were admitted with a diabetic foot infection that required 2 
+surgeries and will need long-term IV antibiotic therapy. During 
+this hospitalization, you were also noted to have worsening of 
+your kidney function and developed a rapid, irregular heart beat 
+called atrial fibrillation. You will need to take a blood 
+thinner called coumadin for the irregular heartbeat. 
+
+The following changes were made to your medication regimen:
+1) You will need to take two antibiotics called vancomycin and 
+zosyn for a total of 6 weeks for your foot infection.
+2) You were started on a blood thinner called coumadin for your 
+irregular heartbeat. You will also be on another medication 
+called heparin until your coumadin levels become therapeutic.
+3) You were started on a daily multivitamin, thiamine, and 
+folate.
+4) You were started on a heart medication called metoprolol to 
+help control your heart rate and blood pressure.
+5) We are holding your amlodipine.
+6) We are also holding your lisinopril and olmesartan, other 
+blood pressure medications, given your kidney failure.
+7) You were started on a medication called aluminum hydroxide to 
+decrease the amount of phosphorus in your blood. You will only 
+take 3 days total of this medication.
+
+Please call your doctor or return to the emergency room if you 
+experience any of the following: fever > 101, worsening R foot 
+pain or drainage, palpitations, lightheadedness, chest pain, or 
+increasing confusion.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16717933-DS-10 | hadm_id=27919722
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin / piperacillin / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right foot pain
+ 
+Major Surgical or Invasive Procedure:
+___ right foot debridement to bone
+___ Lower extremity angiogram
+___ R foot debridement, ___ and ___ metatarsal resection
+
+ 
+History of Present Illness:
+___ with hx of DM2 c/b neuropathy and nephropathy, hx of above 
+knee amputation of the left leg (___), multiple skin and soft 
+tissue infections (MRSA, MSSA, pseudomonas), ESRD (on 
+hemodialysis) who presented to the ED from dialysis with 
+concerns for right foot infection. He says that over the past 2 
+months, he noticed a foul odor from his foot. At that time, he 
+first noticed an ulcer on his pinky toe. He also mentioned that 
+the area was very itchy. He uses a wheelchair and stated he 
+sustained a fall last week and called the ambulance to help with 
+getting him up to the chair. He did not present to the ED at 
+that time. He endorses frequent falls ___ the past because of 
+loss of balance when he transfers from his bed to wheelchair. 
+Otherwise, no other trauma that he recalls to the area. 
+
+Patient stated that he last saw his podiatrist 4 months ago for 
+a callus on his right foot that was debrided then. During his 
+most recent podiatry visit, he stated that his blood sugars had 
+been relatively controlled and stated that they typically ranged 
+between 90 and 120 mg/dL. At the time he denied any recent 
+wounds or ulcerations. 
+
+He denies any fever or chills or weakness. He did have some 
+nausea and vomited this morning. He has a home nurse that 
+changes his wound dressing and bathes him daily. 
+
+___ the ED, he was given Acetaminophen 1000 mg, IV Morphine 
+Sulfate 4 mg, and IV Levofloxacin 750 mg. He also had an x-ray 
+of the foot that showed probable osteomyelitis involving the 
+proximal phalanx of the pinky toe. Soft tissue gas appears 
+localized to the site of lateral forefoot ulcer. 
+
+Podiatry was also consulted and recommended admission to 
+medicine as pt is on dialysis due to ESRD. 
+
+ 
+Past Medical History:
+cirrhosis
+COPD
+Hep C
+afib
+ESRD on HD
+Diabetes mellitus, type 2 complicated by peripheral neuropathy, 
+nephropathy
+Hypertension
+Hyperlipidemia
+left AKA
+h/o CVA ___ w no residual deficits
+ 
+Social History:
+___
+Family History:
+Brother diagnosed with DM and passed away ___ his ___ from 
+unknown cause. Father had colon cancer and had a heart attack 
+last year.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+========================
+Vitals: T: 97.7 BP: 114/70 P: 83 R: O2: 100 RA 
+General: Alert and oriented. Noticeably itching.
+HEENT: Sclera anicteric
+Neck: supple, JVP not elevated, no LAD
+Lungs: Soft crackles at the left lung base with decreased breath 
+sounds on the left.
+CV: Irregularly irregular rhythm with no murmurs.
+Abdomen: soft, non-tender, non-distended
+Ext: There is a malodorous, large necrotic ulcer which probes to 
+bone. L AKA with no obvious ulcerations.
+Skin: Multiple black and bleeding scabs along the right lower 
+extremity, extending from knee to toes. 
+Neuro: Absence of touch sensation bilaterally from mid shin to 
+toes, medial > lateral sensation deficit. Patient easily 
+agitated and defensive. 
+
+DISCHARGE PHYSICAL EXAM 
+=======================
+Vitals: 98.1 PO 127 / 74 86 18 100 ra
+General: Chronically ill appearing
+HEENT: Sclera anicteric
+Refused lung/heart exam saying "they're fine"
+Ext: Right lower extremity wrapped ___ non-soaked bandaging. 
+Dressings intact. L AKA with no obvious ulcerations.
+Skin: Multiple black and bleeding scabs along the right lower 
+extremity, extending from knee to toes.
+Psych: Patient easily agitated and defensive. 
+ 
+Pertinent Results:
+Admission Labs
+==============
+___ 12:56PM   LACTATE-2.0
+___ 12:35PM   GLUCOSE-118* UREA N-13 CREAT-2.9*# SODIUM-135 
+POTASSIUM-3.7 CHLORIDE-93* TOTAL CO2-26 ANION GAP-20
+___ 12:35PM   estGFR-Using this
+___ 12:35PM   ALT(SGPT)-5 AST(SGOT)-24 CK(CPK)-29* ALK 
+PHOS-102 TOT BILI-1.2
+___ 12:35PM   CALCIUM-9.3 PHOSPHATE-2.2* MAGNESIUM-2.1
+___ 12:35PM   CRP-170.1*
+___ 12:35PM   WBC-15.0*# RBC-3.28*# HGB-10.0*# HCT-29.2* 
+MCV-89 MCH-30.5 MCHC-34.2 RDW-13.9 RDWSD-45.5
+___ 12:35PM   NEUTS-87.2* LYMPHS-5.9* MONOS-5.6 EOS-0.3* 
+BASOS-0.3 IM ___ AbsNeut-13.04* AbsLymp-0.88* AbsMono-0.84* 
+AbsEos-0.04 AbsBaso-0.04
+___ 12:35PM   PLT COUNT-185#
+
+IMAGING: 
+========
++ X-ray FOOT AP,LAT & OBL RIGHT ___
+Impression: Large soft tissue ulcer along the lateral forefoot 
+with probable osteomyelitis involving the proximal phalanx of 
+the pinky toe. Soft tissue gas appears localized to the site of 
+lateral forefoot ulcer 
+
++ Arteriogram ___
+
+EXAMINATION: ART EXT (REST ONLY) INDICATION: ___ year old man 
+with L AKA here with diabetic ulcers of the right ___ and ___ 
+met head// ?vascular disease TECHNIQUE: Noninvasive evaluation 
+of the arterial system of the right lower extremities was 
+performed with Doppler signal recordings, pulse volume 
+recordings and segmental limb the pressure measurements. 
+COMPARISON: Lower extremity arterial Doppler ultrasound (PVR) ___ FINDINGS: On the right side, monophasic doppler 
+waveforms were seen at the right femoral, popliteal, posterior 
+tibial and dorsalis pedis arteries. There was previously a 
+triphasic waveform seen at the right femoral level. The right 
+ABI is 0.6 ___n above knee amputation was reported for 
+the left lower extremity. Pulse volume recordings of the right 
+lower extremity demonstrate diffuse loss of the dicrotic notch 
+signal with short amplitude from the ankle through the digits.
+
+MICRO: 
+======
+___ 9:15 pm TISSUE      RIGHT FIFTH METATARSAL. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+
+   TISSUE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         This culture contains mixed bacterial types (>=3) so an
+         abbreviated workup is performed. Any growth of 
+P.aeruginosa,
+         S.aureus and beta hemolytic streptococci will be 
+reported. IF
+         THESE BACTERIA ARE NOT REPORTED, THEY ARE NOT PRESENT 
+___ this
+         culture. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+
+   ANAEROBIC CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         Mixed bacteria are present, which may include anaerobes 
+and/or
+         facultative anaerobes. The presence of B.fragilis, 
+C.perfringens,
+         and C.septicum is being ruled out. 
+      BACTEROIDES FRAGILIS GROUP.    MODERATE GROWTH. 
+         OF TWO COLONIAL MORPHOLOGIES.  BETA LACTAMASE POSITIVE. 
+
+
+___ 1:50 pm SWAB      Source: R foot. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS ___ CLUSTERS AND ___ 
+SHORT
+      CHAINS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   WOUND CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         This culture contains mixed bacterial types (>=3) so an
+         abbreviated workup is performed. Any growth of 
+P.aeruginosa,
+         S.aureus and beta hemolytic streptococci will be 
+reported. IF
+         THESE BACTERIA ARE NOT REPORTED, THEY ARE NOT PRESENT 
+___ this
+         culture. 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   0.5 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      BACTEROIDES FRAGILIS GROUP.    MODERATE GROWTH. 
+         OF TWO COLONIAL MORPHOLOGIES.  BETA LACTAMASE POSITIVE. 
+
+
+DISCHARGE LABS:
+===============
+___ 06:10AM BLOOD WBC-5.2 RBC-2.82* Hgb-8.1* Hct-25.2* 
+MCV-89 MCH-28.7 MCHC-32.1 RDW-14.7 RDWSD-46.2 Plt ___
+___ 06:10AM BLOOD Glucose-93 UreaN-20 Creat-4.5* Na-126* 
+K-3.8 Cl-88* HCO3-26 AnGap-16
+___ 06:10AM BLOOD Calcium-8.4 Phos-3.2 Mg-1.8
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of 
+diabetes type 2, severe peripheral vascular disease, diabetic 
+kidney disease on  ESRD admitted ___ with severe 
+infection of R foot, found to have acute osteomyelitis with 
+concern for associated necrotizing fasciitis, status post R 
+foot excisional debridement, with concern for underlying 
+vascular disease, on day of discharge leaving against medical 
+advice after declining additional antibiotics and vascular 
+intervention, discharged home with plan for additional IV 
+antibiotic course to be given at dialysis 
+
+# R foot acute osteomyelitis with associated soft tissue 
+infection
+# Necrotizing fasciitis
+Patient presented from dialysis with severe infection of R 
+foot, found to have acute osteomyelitis with concern for 
+associated necrotizing fascitis, status post R foot excisional 
+debridement, with concern for underlying vascular disease.  He 
+was started on broad spectrum antibiotics, 
+dapto/aztreonam/clinda due to reported allergy to 
+cephalosporins; per ID recommendations, patient underwent 
+cefazolin challenge without allergy--he was switched to IV 
+Cefazolin (to be given with HD) and PO Flagyl. Culture and bone 
+biopsy results grew mixed bacterial flora, bacteroides, and 
+MSSA. He clinically improved.  He was recommended for vascular 
+management as below, but left against medical advice as below.  
+He was evaluated by physical therapy and cleared for home. He 
+was discharged with plan for Cefazolin to be administered at 
+outpatient ___ facility through ___ and take po Flagyl 
+at home through ___.  Wound vac to be managed by ___ with 
+podiatry follow up. Patient also scheduled for OPAT follow-up 
+
+# Peripheral Vascular Disease - The patient has a history of 
+peripheral vascular disease but was not on medication prior to 
+presentation. Given concern that vascular disease contribute to 
+ulcer above, vascular was consulted. Angiogram showed moderate 
+iliac, femoropopliteal and tibial arterial occlusion. He was 
+recommended for angiography with intervention.  Treatment of 
+vascular disease was hindered by patient behavioral issues as 
+below, including his declining of vascular intervention. 
+Medically optimized with initiation of ASA, statin. Ultimately, 
+the patient will need elective outpatient angiogram with 
+possible intervention. He left AMA prior to angio intervention 
+on ___. He was encouraged to follow-up with vascular ___. He 
+may also follow-up with his established vascular surgeon.
+
+# Behavioral Issues
+# Adjustment disorder
+Patient intermittently declined labs and was frequently verbally 
+abusive to staff.  Psychiatry evaluation suggested an adjustment 
+disorder on top of chronic neurocognitive disorder due to his 
+medical comorbidities.  On assessment by team, patient able to 
+demonstrate understanding of his clinical situation and state 
+risks and benefits of potential treatment options.  On day of 
+discharge, he declined 
+vascular surgery angiography, and then left against medical 
+advice before a dose of IV antibiotics.  
+
+#ESRD on HD (___ @ ___: Patient continued on HD during 
+hospital course.
+
+#Atrial Fibrillation: 
+CHADsVASc 5. Patient reports he is not on stroke prophylaxis at 
+home. Rates controlled this admission 
+
+#Cirrhosis
+# Hep C
+Follows w/ ___ clinic as outpatient. He was not on any 
+medications for his cirrhosis prior to presentation. 
+
+TRANSITIONAL ISSUES: 
+====================
+# NEW MEDICATIONS: ASA 81 mg daily (for PVD), atorvastatin 40 mg 
+daily (for PVD), MetroNIDAZOLE 500 mg PO Q8H and cefazolin 
+2g (mon, wed post HD) and cefazolin 3g (fri post HD) through 
+___.
+[] Patient tolerated cefazolin during this hospital course and 
+showed no signs of allergy to cephalosporins. Patient did have 
+nausea/vomiting to meropenem. 
+[] Patient not on anticoagulation for afib; would continue to 
+discuss ongoing need for anticoagulation. 
+[] Patient did not want to engage ___ code status discussions. 
+Please continue to address as outpatient.
+[]Patient left AMA on ___ as he was refusing inpatient 
+antibiotics (willing to get them at HD as above).  Demonstrated 
+knowledge of risk of infection with 
+missing day of antibiotics.
+# CONTACT: Sister (___): ___. Of note, patient is ___ 
+the process of determining a new HCP but he has not decided 
+yet.  (his brother, who was his HCP recently died, and he has 
+not decided yet).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*0 
+3.  CeFAZolin 3 g IV POST HD (FR) 
+RX *cefazolin ___ dextrose (iso-os) 1 gram/50 mL 3 g IV ___ 
+Disp #*3 Intravenous Bag Refills:*0 
+4.  CeFAZolin 2 g IV POST HD (MO,WE)  
+5.  MetroNIDAZOLE 500 mg PO Q8H 
+Do not drink alcohol while on this medicine. 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 
+eight (8) hours Disp #*114 Tablet Refills:*0 
+6.Outpatient Lab Work
+Weekly CRP, CBC with diff, BUN/Cr: 
+Dates: ___
+
+ICD-9: 730.27
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+ID RNs: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+# R foot acute osteomyelitis with associated soft tissue 
+infection
+# Necrotizing fasciitis
+# Peripheral vascular disease
+# ESRD on HD 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Why was I ___ the hospital?
+- You had a serious infection of your right foot
+
+What happened while I was ___ the hospital?
+- You were given antibiotic medicine to treat the infection
+- You had surgery to remove the infection and part of your foot
+
+What do I do now that I am leaving the hospital? 
+- Please take all of your medicines exactly as prescribed
+- Please follow-up with your doctors ___ instructions below)
+- Please continue to go to dialysis to take your antibiotic 
+medicine
+
+You left against medical advice as you demonstrated knowledge of 
+missing a day of antibiotics.  Please follow up with your 
+providers at dialysis on ___.
+
+We Wish You The Best,
+- Your ___ Team
+ 
+Followup Instructions:
+___

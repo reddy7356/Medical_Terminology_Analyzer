@@ -1,0 +1,383 @@
+===== DISCHARGE NOTE =====
+note_id=18595414-DS-7 | hadm_id=20661888
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Isopropyl alcohol ingestion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMHx significant for major depressive disorder & PTSD, 
+alcohol abuse without any history of withdrawal seizures, who 
+presented with ingestion of hand sanitizer. The patient lives in 
+a group home for patients with substance abuse, and reported 
+that he drank 2 bottles of hand sanitizer earlier on the day of 
+admission. He denied any other alcohol or drug use and denies 
+IVDU.
+
+In the ED, initial vital signs were: T 97.7, HR 75, BP 125/81, 
+RR 18, 95% RA. Exam in the ED was unremarkable. Labs were 
+notable for Na 146, mildly elevated; lactate 3.0; EtOH 148; osms 
+339; normal osmolar gap at 7, and normal anion gap of 16. Tox 
+screen was positive for ethanol (___) and benzodiazepines. EKG 
+showed NSR with QRS of 113 that decreased to 96 on repeat. 
+Non-contract head CT showed no evidence of acute intracranial 
+hemorrhage or mass, but evidence of acute/chronic sinus disease. 
+Patient was given 2L of NS, IV Thiamine 300mg, followed by 200mg 
+PO, Diazepam 20 mg IV, then 10mg IV x2, Haloperidol 2.5 mg IV, 
+Ibuprofen 800 mg PO ONCE, Folic Acid 1 mg PO ONCE. Vitals on 
+transfer were T 97.6, P ___, BP 131/76, RR 22, 97% RA. 
+
+Upon arrival to the floor, the patient reports that he's feeling 
+better. He explains that he relapsed at his group home and drank 
+2 bottles of hand sanitizer. He shows no signs of regret. He 
+reports some fevers and chills initially, followed by diarrhea, 
+and visual and auditory hallucinations. Upon further 
+questioning, patient reports that he has had some significant 
+family troubles in the past few years and has been having 
+trouble coping with everything that has happened in his life. He 
+wants to get into a dual diagnosis program such as the on at 
+___ so that he can be properly treated.
+ 
+Review of Systems:  
+per HPI  
+
+ 
+Past Medical History:
+Alcohol abuse
+Depression
+PTSD
+ 
+Social History:
+___
+Family History:
+Depression in aunts and uncles.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: 98.1, 143/88, 108, 20, 99%RA 
+GENERAL: AOx3, NAD
+HEENT: NCAT. PERRL.  Oropharynx clear.
+NECK: No cervical LAD.
+CARDIAC: RRR, no murmurs/rubs/gallops.
+LUNGS: CTAB.  No wheezes, rhonchi or rales. 
+BACK: No CVA tenderness. 
+ABDOMEN: Obese, mildly distended, non-tender to deep palpation 
+in all four quadrants. Normal bowels sounds.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses 2+ 
+bilaterally.
+NEUROLOGIC: CN2-12 intact.  ___ strength througout.  Normal 
+sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals:  99.1, 118-147/63-80, 85-105, ___, 94-97RA 
+GENERAL: AOx3, NAD, sad and anxious 
+HEENT: Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact.  No 
+conjunctival pallor or injection, sclera anicteric and without 
+injection. Deaf in L ear. Moist mucous membranes, poor 
+dentition.  Oropharynx is clear. 
+NECK: Thyroid is normal in size and texture, no nodules.  No 
+cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate, no murmurs/rubs/gallops.  
+No JVD.
+LUNGS: Minimal left basilar crackles.
+ABDOMEN:  Normal bowels sounds, distended and tender to deep 
+palpation in lower right and lower left quadrants. Negative 
+peritoneal signs or ___ sign. Tympanic to percussion. Liver 
+and spleen margins not appreciated.
+EXTREMITIES: No clubbing, cyanosis, or edema, no sign of 
+atrophy/hypertrophy. Pulses DP/Radial 2+ bilaterally.
+SKIN: No evidence of ulcers, rash or lesions suspicious for 
+malignancy
+NEUROLOGIC: CN2-12 intact.  ___ strength throughout.  Normal 
+sensation.  Mild ataxia and dysmetria (finger to nose test), 
+dysdiadochokinesia (pronation/supination test)—consistent with 
+yesterday.  Gait is wide based. Cannot perform heel-toe walking.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:15AM   PLT COUNT-100*
+___ 12:15AM   NEUTS-41.1 ___ MONOS-10.9 EOS-4.0 
+BASOS-1.3* IM ___ AbsNeut-1.97 AbsLymp-2.03 AbsMono-0.52 
+AbsEos-0.19 AbsBaso-0.06
+___ 12:15AM   WBC-4.8 RBC-4.17* HGB-12.2* HCT-36.2* MCV-87 
+MCH-29.3 MCHC-33.7 RDW-15.3 RDWSD-47.9*
+___ 12:15AM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-POS* barbitrt-NEG tricyclic-NEG
+___ 12:15AM   OSMOLAL-339*
+___ 12:15AM   ALBUMIN-3.6 CALCIUM-7.8* PHOSPHATE-3.9 
+MAGNESIUM-1.8
+___ 12:15AM   LIPASE-19
+___ 12:15AM   ALT(SGPT)-24 AST(SGOT)-44* ALK PHOS-93 TOT 
+BILI-0.5
+___ 12:15AM   estGFR-Using this
+___ 12:15AM   GLUCOSE-90 UREA N-9 CREAT-0.6 SODIUM-146* 
+POTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-26 ANION GAP-16
+___ 12:31AM   LACTATE-3.0*
+___ 12:40AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 12:40AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 12:40AM URINE  bnzodzpn-POS* barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 12:40AM URINE  HOURS-RANDOM
+___ 10:45AM   GLUCOSE-93 UREA N-8 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.3 CHLORIDE-106 TOTAL CO2-20* ANION GAP-19
+___ 01:28PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-POS* barbitrt-NEG tricyclic-NEG
+___ 01:28PM   ACETONE-SMALL OSMOLAL-320*
+___ 01:28PM   GLUCOSE-151* UREA N-7 CREAT-0.8 SODIUM-143 
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-24 ANION GAP-17
+
+DISCHARGE/PERTINENT LABS:
+=========================
+___ 08:28AM BLOOD WBC-8.3 RBC-4.37* Hgb-12.8* Hct-38.3* 
+MCV-88 MCH-29.3 MCHC-33.4 RDW-15.7* RDWSD-49.3* Plt ___
+___ 08:28AM BLOOD Glucose-109* UreaN-8 Creat-1.0 Na-136 
+K-3.3 Cl-98 HCO3-24 AnGap-17
+___ 08:28AM BLOOD Calcium-8.6 Phos-3.8 Mg-1.7
+___ 08:31AM BLOOD VitB___-___ Folate-9.3
+___ 09:45AM BLOOD HIV Ab-Negative
+___ 04:02PM BLOOD Lactate-1.7
+
+MICROBIOLOGY:
+=============
+___ 12:40 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ 2:35 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative).
+
+IMAGING:
+========
+HEAD CT W/O CONTRAST (___):
+1.  Study is mildly degraded by motion. 
+2.  Within limits of study, no evidence of acute intracranial 
+hemorrhage. 
+3. Within limits of this motion degraded, noncontrast 
+examination, no definite evidence of intracranial mass. 
+4. Interval progression of paranasal sinus disease concerning 
+for acute and chronic sinusitis, as described.
+
+CXR (___):
+1. Left mid lung pneumonia. 
+2. Right lateral pleural thickening versus a trace right pleural 
+effusion. 
+ 
+Brief Hospital Course:
+___ with PMHx significant for major depressive disorder, PTSD, 
+and alcohol abuse, presenting for ingestion of hand sanitizer at 
+his group home.
+
+# Isopropyl alcohol ingestion/Alcohol abuse/Suicidal Ideations: 
+Patient reports drinking 3x20oz hand sanitizer (isopropyl 
+alcohol) over the course of 3 days PTA. On admission, he was 
+hemodynamically stable. Patient was difficult to arouse with 
+significantly unintelligible, slurred speech, but was endorsing 
+suicidal ideations. Patient had no electrolyte abnormalities on 
+admission, and anion and osmolar gap were within normal limits 
+and remained so throughout his stay. EKG remained unchanged. 
+Patient recovered from his intoxication and was admitted under 
+___ with a 1:1 sitter. There was some concern for 
+continued altered mental status, and Wernicke's encephalopathy, 
+so the patient was started on high-dose thiamine 500mg IV TID, 
+and ultimately there was lesser suspicion for ___'s 
+encephalopathy in discussion with psychiatry such that he was 
+felt to be safe for transition to oral thiamine at discharge. 
+His mental status improved shortly after being transferred to 
+the floor and subsequently returned to normal. He remained 
+severely depressed. He was placed on a CIWA scale, but was not 
+scoring. He was connected with social work, who met with him and 
+provided him with resources to participate in the PAATHS program 
+at ___ (___), which is a walking clinic that 
+can provide him with resources for treatment of alcohol abuse 
+and help him find a shelter. He was provided with a cab voucher 
+to go to ___ following discharge. Social work also gave him the 
+contact information of the intake coordinator at "___ for 
+Promise", a residential treatment program, who is awaiting his 
+call for an informal assessment over the phone and possible 
+placement. At discharge, the patient was not endorsing SI or HI, 
+and was cleared by psychiatry and toxicology. He reports wanting 
+to join a treatment program to help him with his recovery.
+
+# Pneumonia:
+Patient complained of a new cough on ___, with exam notable 
+for minimal left basilar crackles. Patient afebrile, with normal 
+oxygen saturation on room air. CXR was done and showed evidence 
+of a left lower lobe infiltrate highly suggestive of pneumonia. 
+Patient was started on a 7-day course of levofloxacin for 
+treatment of pneumonia (7 days chosen versus 5 days, given 
+possible sinusitis, see below). QTc was stable at discharge.
+
+# Acute on Chronic Sinusitis:
+On admission, head CT showed evidence of interval progression of 
+paranasal sinus disease concerning for acute and chronic 
+sinusitis. Patient also reports several episodes of epistaxis on 
+___ and ___, likely in the setting of thrombocytopenia. 
+Reports no recent trauma or rhinotillexis. Given concomitant 
+pneumonia, plan was to extend course from 5 days to 7 days to 
+cover possible bacterial sinusitis.
+
+# Thrombocytopenia: 
+Patient found to have a platelet count of ~ 100k. Possibly 
+related to marrow suppression due to alcohol abuse. No evidence 
+of significant liver disease on recent CT abdomen/pelvis to 
+explain thrombocytopenia. Basic work-up, including HCV Ab and 
+HIV Ab, unrevealing. Platelet count remained stable. Plan to 
+follow-up with repeat CBC as outpatient and evaluation by PCP.
+
+# Depression: 
+Patient with a known history of anxiety and MDD currently on 
+treatment with citalopram and trazodone. Medications initially 
+held at the time of admission given toxic ingestion, but 
+subsequently restarted following clearance from toxicology and 
+psychiatry.
+
+# Pain management: 
+Patient previously evaluated in the ED for left-sided rib 
+fracture and was reporting severe pain. Pain was adequately 
+managed with standing acetaminophen (<2g/day) and lidocaine 
+patch.
+
+# Elevated Creatinine: 
+Patient had an elevation in creatinine to 1.2, up form his 
+baseline of 0.6-0.9. FENa of 2.7%, however, no evidence 
+supporting ATN, AIN, or an underlying glomerulonephritis. Plan 
+is for outpatient follow-up with PCP.
+
+# Concern for STIs: 
+Patient is not currently sexually active, but requested STI 
+testing. He does not report any genital rashes, ulcers, or 
+discharge. HIV and HCV serologies done and were negative. 
+
+TRANSITIONAL ISSUES:
+====================
+# Patient was found to have a left lower lobe pneumonia and was 
+started on a course of levofloxacin 750 mg for 7 days (last day 
+___
+# Patient was found to have a creatinine of 1.1-1.2 up from his 
+baseline of 0.6-0.9. Requires follow-up within ___ weeks.
+# Patient was found to have evidence of maxillary sinusitis 
+(acute on chronic). This will be adequately treated with a 7-day 
+course of Levofloxacin.
+#Patient needs repeat of his labs within a week to monitor the 
+Creatinine and platelets.
+
+# Emergency Contact: ___ (___) 
+# Code Status: Full
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 30 mg PO DAILY 
+2. TraZODone 150 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth Daily Disp #*60 Tablet 
+Refills:*2 
+2.  Levofloxacin 750 mg PO Q24H 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth Daily Disp #*7 
+Tablet Refills:*0
+RX *levofloxacin 750 mg 1 tablet(s) by mouth once a day Disp #*6 
+Tablet Refills:*0 
+3.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth Daily Disp #*60 Tablet 
+Refills:*2 
+4.  Thiamine 500 mg IV Q8H Duration: 3 Days 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth Daily 
+Disp #*60 Tablet Refills:*2 
+5.  Citalopram 30 mg PO DAILY  
+6.  TraZODone 150 mg PO QHS  
+7.Outpatient Lab Work
+Blood for: CBC/diff, CHEM10
+Please fax to Dr. ___ at ___.
+
+ICD10 Codes: D69.6, N17.9
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+==================
+Isopropyl Alcohol Ingestion
+Suicidal Ideation
+Community Acquired Pneumonia
+
+SECONDARY DIAGNOSES:
+====================
+Major Depressive Disorder
+Anxiety
+Traumatic epistaxis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you. You were admitted to the 
+___ because you had ingested 
+hand sanitizer and you were having suicidal ideations. You were 
+monitored and given fluids and supportive care to prevent any 
+damage that might be caused by this toxic product. You did well 
+throughout your stay and did not require any intensive care. The 
+psychiatry team evaluated you and did not recommend admission to 
+an in-patient psychiatry unit.
+
+The social worker met with you and provided you with resources 
+to connect with the PATHS program at ___ 
+(___), which is a walking clinic that will provide you with 
+resources for treatment of alcohol abuse and help you find a 
+shelter. You were provided with a cab voucher to go to BMC 
+following discharge. We also gave you the contact information of 
+the intake coordinator at "Place for Promise", please call them 
+for an informal assessment over the phone.
+
+You were also noted to have a mild pneumonia for which you were 
+started on antibiotics. You will have to continue taking the 
+antibiotic called levofloxacin for a total duration of 7 days 
+(last ___.
+
+We wish you the best of luck with your recovery.
+
+___ Care Team
+ 
+Followup Instructions:
+___

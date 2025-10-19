@@ -1,0 +1,659 @@
+===== DISCHARGE NOTE =====
+note_id=18219132-DS-17 | hadm_id=23766938
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / clonidine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+NOne
+ 
+History of Present Illness:
+HMED ATTG ADMIT NOTE
+.
+DATE ___
+TIME 0320
+.
+PCP ___. 
+Location: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+.
+___ yo F with pmhx significant for morbid obesity, HTN, HLD, GERD 
+and OSA who presents to the ED from ___ office complaining of 
+abdominal pain.
+.
+Symptoms began ___ am with LLQ pain while bending over 
+that radiated to back.  Pain described as "gas-like".  Pain 
+increased throughout the morning and involved the entire 
+abdomen.  Patient left work early and took milk of magnesia.  
+Had a BM without any change in pain.  On ___ had BM and 
+passed gas with marked improvement in pain.  Patient then went 
+to previously scheduled PCP appt who sent patient to the ED to 
+rule out appendicitis.  
+.
+Currently reports pain has improved to mild bilateral lower 
+quadrant ache.  Back pain has completely resolved.  Also with 
+urgency, no dysuria.  Denies any nausea, vomiting, fevers, 
+brbpr, melena, cp or sob.  Reports poor po intake over past two 
+days.
+.
+ED: 97.2  41P  119/67  18  98%RA -> decreased bp to 84/45 
+responded to 1L of NS with sbp in 100s.  HR in ___ which is 
+baseline.  CT a/p unremarkable.  Given cipro 400 po for positive 
+UA.  Morphine 5mg.
+.
+ROS as per HPI, 10 pt ROS otherwise negative
+ 
+Past Medical History:
+HTN
+HLD
+Morbid obesity - being considered for bariatric surgery
+GERD
+Impaired glucose tolerance
+Diverticulosis
+H. pylori 
+OSA does not tolerate CPAP
+Spinal stenosis
+Migraines
+Bradycardia
+
+ 
+Social History:
+___
+Family History:
+Mother deceased from ___.  Father deceased from colon cancer.
+ 
+Physical Exam:
+VS  98.0  43P  20RR  115/70  100%RA
+Appearance: alert, NAD, obese
+Eyes: eomi, perrl, anicteric
+ENT: OP clear s lesions, mmd, no JVD, neck supple
+Cv: +s1, s2  -m/r/g, no peripheral edema, 2+ dp/pt bilaterally
+Pulm: clear bilaterally
+Abd: soft, obese, mild lower quadrant abdominal tenderness, no 
+distension, +bs, no rebound/guarding
+Msk: strength intact
+Neuro: cn ___ grossly intact, no focal deficits
+Skin: no rashes
+Psych: appropriate, pleasant
+Heme: no cervical ___
+
+ 
+___ Results:
+___ 06:40PM   PLT COUNT-199
+___ 06:40PM   NEUTS-61.3 ___ MONOS-5.5 EOS-1.9 
+BASOS-0.7
+___ 06:40PM   WBC-5.4 RBC-4.53 HGB-13.2 HCT-40.2 MCV-89 
+MCH-29.1 MCHC-32.8 RDW-13.7
+___ 06:40PM   LIPASE-44
+___ 06:40PM   ALT(SGPT)-20 AST(SGOT)-22 ALK PHOS-64 TOT 
+BILI-0.3
+___ 06:40PM   estGFR-Using this
+___ 06:40PM   GLUCOSE-116* UREA N-12 CREAT-0.8 SODIUM-137 
+POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-30 ANION GAP-11
+___ 07:34PM URINE  MUCOUS-RARE
+___ 07:34PM URINE  RBC-3* WBC-28* BACTERIA-FEW YEAST-NONE 
+EPI-2
+___ 07:34PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-LG
+___ 07:34PM URINE  COLOR-Straw APPEAR-Clear SP ___
+.
+___ EKG: 41 sinus brady, LAD, Q V1, TWF lateral leads, 
+unchanged ___
+.
+___ CT a/p with contrast:
+No acute intra-abdominal process.  No findings to explain 
+patient's symptoms.
+.
+___ CXR: read pending
+
+ 
+Brief Hospital Course:
+___ yo F with pmhx significant for morbid obesity, HTN, HLD, GERD 
+and OSA who is admitted with lower abdominal pain and fluid 
+responsive hypotension and urinary tract infection.
+.
+#UTI: The patient endorsed urinary urgency with lower abdominal 
+pain with UA showing few WBC and bacteria. She was treated with 
+cefetriaxone and then transitioned to oral ciprofloxacin with 
+plan for seven day course. Urine culture in the Emergency 
+Department was contamined with mixed flora. 
+.
+#HYPOTENSION: The patient had isolated BP of ___ in ED, 
+which was fluid responsive and has maintained blood pressure 
+with systolic in low 100s (per OMR sheets blood pressure rangers 
+100-130) on the medicine floor. She remained afebrile, with 
+normal respiratory rate, normal WBC count (no SIRS criteria at 
+this time). AM cortisol was within normal limits. Her EKG 
+revealed sinus bradycardia with a rate in the ___, which is 
+chronic. She was encouraged to maintain adequate hydration. Her 
+chlorathalidone at restarted at discharge. Her atenolol was held 
+given her borderline blood pressure and bradycardia. Recommended 
+follow up with PCP for consideration to restart. 
+.
+#LOW BACK PAIN: Patient endorsed intermittent bilateral lower 
+abdominal pain with sacroiliac and paraspinallumbar back pain 
+that was better after bowel movement and worse with standing. 
+Pyelonephritis was considered but exam not c/w CVA tenderness 
+and CT abdomen was unremarkable. It was considered that this was 
+referred back from lumbar spine. She had an L-spine plain film 
+that was without fracture. She had no red flag symptoms at this 
+time. We discussed pain control with tylenol ATC, oxycodone PRN, 
+and flexeril PRN. She will follow up with primary care physician 
+and if persists for ___ weeks or develops red flag symptoms 
+recommend further imaging.
+.
+#LIVER CYSTS: Incidentally noted on CT abdomen, similar compared 
+to u/s performed in ___. This was discussed with the patient 
+and family on ___. 
+.
+#RENAL CYST: Noted to have possible small renal cyst on CT 
+abdomen. This was discussed with the patient on ___. 
+.
+CHRONIC: 
+#SINUS BRADYCARDIA: History of sinus bradycardia, asymptomatic, 
+chronic and stable
+#HYPERLIPIDEMIA: continue pravsastatin 
+#GERD: continue ranitidine
+#POSITIVE H.PYLORI: Found on outpt labs, outpt f/u with plan for 
+urea breath test
+FULL CODE
+___ (sister) ___
+Letter sent to PCP ___
+.
+TRANSITIONAL: 
+-f/u final read L. spine plain film
+-f/u blood pressure and consider restart second agent 
+-f/u lower back pain and if persistent or develop red flag sx 
+consider MRI 
+-f/u liver and renal cyst with imaging in the future to ensure 
+stability
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from Patient.
+1. Atenolol 100 mg PO DAILY 
+2. Chlorthalidone 25 mg PO DAILY 
+3. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+4. Vitamin D 50,000 UNIT PO 1X/WEEK (TH) 
+5. Pravastatin 80 mg PO DAILY 
+6. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+7. Ranitidine 150 mg PO BID 
+8. Nortriptyline 10 mg PO HS:PRN insomnia 
+9. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Ranitidine 150 mg PO BID 
+2. Pravastatin 80 mg PO DAILY 
+3. Nortriptyline 10 mg PO HS:PRN insomnia 
+4. Multivitamins 1 TAB PO DAILY 
+5. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+6. Chlorthalidone 25 mg PO DAILY 
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (TH) 
+8. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+9. Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days 
+RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth twice a 
+day Disp #*10 Tablet Refills:*0
+10. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q6hrs Disp #*10 Tablet 
+Refills:*0
+11. Cyclobenzaprine 5 mg PO BID:PRN low back pain 
+RX *cyclobenzaprine 5 mg 1 tablet(s) by mouth three times a day 
+Disp #*10 Tablet Refills:*0
+RX *cyclobenzaprine 5 mg 1 tablet(s) by mouth twice a day Disp 
+#*8 Tablet Refills:*0
+12. Acetaminophen ___ mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+UTI
+Musculoskelatal low back pain 
+Bradycardia 
+Liver cyst
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure to participate in your care. You were admitted 
+to the hospital with low blood pressure. You were given IV 
+fluids and your blood pressure improved to normal.  Your 
+atenolol was stopped as your blood pressure and heart rate were 
+low. Please follow up with your primary care physician regarding 
+___ this medication. It is important for you to stay 
+well hydrated while it is hot outside. 
+.
+You reported urinary urgency and lower abdominal pain. You were 
+found to have a urinary tract infection on urinalysis. You were 
+started on antibioitcs. You will continue antibiotics for 
+another five days. A CT scan of your abdomen was normal. 
+.
+You reported lower back in addition to the abdominal pain. This 
+pain could be due to the urinary tract infection or could be 
+musculoskeletal low back pain. You had an X-ray of your lower 
+back that did not show a vertebral fracture. You were given pain 
+medication for your back pain. We discussed that in the majority 
+of patients with mechanical lower back pain there is improvement 
+in symptoms over days to several weeks. You can take tylenol and 
+oxycodone and flexeril for pain. Please follow up with your 
+primary care physician for ongoing management. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18219132-DS-19 | hadm_id=28099339
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Codeine / clonidine / Hydromorphone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Reflux
+ 
+Major Surgical or Invasive Procedure:
+___: lap hiatal hernia repair LINX placement
+
+ 
+History of Present Illness:
+ Ms. ___ is a ___ yo female who is s/p hiatal hernia
+repair and sleeve gastrectomy w/ total weight loss of 59.8lbs.
+After hiatal hernia repair and sleeve gastrectomy, her acid
+reflux had resolved and she was without symptoms for nearly ___
+years. Over the past 6 months, patient reports that her reflux
+has returned and she experiences frequent coughing, 
+regurgitation
+of food, and sudden vomiting without warning. Since last visit,
+pt had esophageal manometry, which was normal per the ___ 
+3.0
+classification. Also had a 48-hour BRAVO, which showed an 
+overall
+increased amount of acid reflux- ___ was 31.0.
+
+Pt states that she was recently prescribed trazodone and
+sertraline, but has not started them yet. Denies recently
+respiratory infections. No fever, chills, sweats. States she has
+shortness of breath w/ her reflux. Has a dry cough. Has chest
+pain, attributes this to heartburn. Reflux interferes with her
+sleep, needs to sleep at a 45 degree angle. Nexium has been
+helpful, but does not provide complete relief. States she has
+gained weight- about 15lbs over the past 9 months. Is still very
+interested in anti-reflux surgery.
+
+ 
+Past Medical History:
+HTN
+HLD
+Morbid obesity - herniarepair and sleeve gastrectomy w/ total 
+weight loss of 59.8lbs
+-GERD
+Impaired glucose tolerance
+Diverticulosis
+H. pylori 
+OSA does not tolerate CPAP
+Spinal stenosis
+Migraines
+Bradycardia
+
+ 
+Social History:
+___
+Family History:
+Mother deceased from ___.  Father deceased from colon cancer.
+ 
+Physical Exam:
+Vital signs normal and stable
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: normal rhythm and rate, S1 and S2 no murmurs, 
+PULM: breathing comfortably, no audible wheezing
+ABD: Soft, nondistended, nontender, no rebound or guarding, no 
+palpable masses, incisions with dermabond well approximated,
+non-erythematous, no drainage or fluctuance
+Ext: No ___ edema, ___ warm and well perfused
+ 
+Pertinent Results:
+none
+ 
+Brief Hospital Course:
+Ms. ___ underwent laparoscopic hiatal hernia repair snd 
+INX placement. She tolerated the procedure well and recovered in 
+the PACU without issues. She voided and her pain was well 
+controlled. on POD0, she was tolerating a soft diet. She 
+remained hemodynamically stable throughout her hospitalization. 
+On ___, she was discharged home with a plan to advance diet as 
+tolerated over the next few weeks. She will follow up in clinic. 
+She understood this plan and was comfortable with discharge. She 
+understands that if she has any further questions or concerns to 
+give our office a call. 
+ 
+Medications on Admission:
+1.  Acetaminophen 1000 mg PO Q8H when able to tolerate PO  
+2.  Nexium 40 mg PO DAILY  
+5.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H when able to tolerate PO  
+2.  Nexium 40 mg PO DAILY  
+3.  Nitrofurantoin (Macrodantin) 100 mg PO Q6H Duration: 5 Days 
+RX *nitrofurantoin macrocrystal 100 mg 1 capsule(s) by mouth 
+every six (6) hours Disp #*20 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*6 Tablet Refills:*0 
+5.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Reflux Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear. Ms. ___,
+
+You had recurrent and refractory reflux, now s/p lap hiatal 
+hernia repair LINX placement, which you tolerated well. You are 
+now ready for discharge
+
+ Call Dr. ___ ___ if you experience:
+ -Fevers > 101 or chills
+ -Difficult or painful swallowing
+ -Nausea, vomiting.
+ -Increased shortness of breath
+
+ Pain
+ -Take Tylenol ___ every 8 hours on a standing basis (even if 
+you don't have pain) over the next ___ days to reduce opiod use
+ -Take stool softners while taking narcotics
+ -No driving while taking narcotics
+
+ Activity
+ -Shower daily. Wash incision with mild soap and water, rinse, 
+pat dry
+ -No tub bathing, swimming or hot tubs until incision healed
+ -No lotions or creams to incision
+ -Walk ___ times a day for ___ minutes increase to a Goal of 
+30 minutes daily
+
+ Diet:  soft solids as tolerates
+
+ Eat small frequent meals. Sit in chair for all meals. Remain 
+sitting up for ___ minutes after all meals
+
+ NO CARBONATED DRINKS
+
+ 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18219132-DS-18 | hadm_id=28872510
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Codeine / clonidine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Morbid obesity
+ 
+Major Surgical or Invasive Procedure:
+1. Laparoscopic gastric sleeve.
+2. Laparoscopic repair of hiatal hernia.
+
+ 
+History of Present Illness:
+The patient presents to the ___ Bariatric Program with 
+concerns for obesity and multiple comorbid related conditions.  
+As part of her evaluation she was noted to have a small hiatal 
+hernia.  She understands the risks, benefits and alternatives to 
+gastric sleeve which is her preferred procedure.  Particularly, 
+she understands the risks of worsening reflux, nausea, 
+obstruction, leaks, bleeding and need to convert to a gastric 
+bypass.  She is highly motivated and agrees to diet, exercise 
+and support group.  She also has a very supportive sister.  The 
+patient agrees to diet, exercise, support group, and lifelong 
+followup.  She understands the operation is relatively new to 
+___ and to the ___.
+
+ 
+Past Medical History:
+HTN
+HLD
+Morbid obesity - being considered for bariatric surgery
+GERD
+Impaired glucose tolerance
+Diverticulosis
+H. pylori 
+OSA does not tolerate CPAP
+Spinal stenosis
+Migraines
+Bradycardia
+
+ 
+Social History:
+___
+Family History:
+Mother deceased from ___.  Father deceased from colon cancer.
+ 
+Physical Exam:
+Gen: Well appearing NAD
+CV: RRR, no MRG
+Pulm: CTAB
+Abd: Soft, not tender, not distended JP drain removed
+Ext: Warm, well perfused.
+ 
+Pertinent Results:
+___ 11:50AM   HCT-38.0
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___. Pt was evaluated by 
+anaesthesia and taken to the operating room for laparoscopic 
+sleeve gastrectomy. There were no adverse events in the 
+operating room; please see the operative note for details.
+Pt was extubated, taken to the PACU until stable, then 
+transferred to the ward for observation.
+ 
+Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was initially managed with a PCA and then 
+transitioned to oral Roxicet once tolerating a stage 2 diet.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored. On telemetry 
+it was noted that she had paroxysms of SVT. An ekg was ordered, 
+TSH was checked, and cardiology was consulted who recommended an 
+echo. All exams were within normal limits. The patient had no 
+further complications for the rest of her hospital course.
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization. The pt was maintained on 
+CPAP overnight for known sleep apnea.
+GI/GU/FEN: The patient was initially kept NPO with a 
+___ tube in place for decompression.  On POD2, the NGT 
+was removed and an upper GI study was negative for a leak, 
+therefore, the diet was advanced sequentially to a Bariatric 
+Stage 3 diet, which was well tolerated. Patient's intake and 
+output were closely monitored.  JP output remained 
+serosanguinous throughout admission; the drain was removed prior 
+to discharge.
+ID: The patient's fever curves were closely watched for signs of 
+infection, of which there were none.
+HEME: The patient's blood counts were closely watched for signs 
+of bleeding, of which there were none.
+Prophylaxis: The patient received subcutaneous heparin and ___ 
+dyne boots were used during this stay and was encouraged to get 
+up and ambulate as early as possible.
+ 
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a stage 3 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+atenolol 25 mg tablet
+cyclobenzaprine 10 mg tablet
+fluticasone 50 mcg/actuation 2 sprays intranasal once daily 
+levothyroxine 50 mcg tablet 1 tablet daily 
+nortriptyline 10 mg capsule prn
+pravastatin 80 mg tablet at bedtime 
+Cholecalciferol (vitamin D3) 1,000 unit capsule a day 
+multivitamin with minerals capsule one Tablet a day 
+ranitidine 150 mg BID
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg PO DAILY 
+crushed 
+2. OxycoDONE-Acetaminophen Elixir ___ mL PO Q6H:PRN pain 
+RX *oxycodone-acetaminophen [Roxicet] 5 mg-325 mg/5 mL ___ tsp 
+by mouth Q4-6H Disp #*600 Milliliter Refills:*0
+3. Ranitidine (Liquid) 150 mg PO BID 
+RX *ranitidine HCl 15 mg/mL 2 tsp by mouth twice a day Disp 
+#*600 Milliliter Refills:*0
+4. Ursodiol 300 mg PO BID 
+RX *ursodiol 300 mg 1 capsule(s) by mouth twice a day Disp #*30 
+Capsule Refills:*5
+5. Cyclobenzaprine 10 mg PO TID:PRN pain 
+6. Levothyroxine Sodium 50 mcg PO DAILY 
+7. Nortriptyline 10 mg PO HS 
+8. Pravastatin 80 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Docusate Sodium (Liquid) 100 mg PO BID 
+RX *docusate sodium 50 mg/5 mL 2 tsp by mouth twice a day Disp 
+#*400 Milliliter Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Morbid obesity
+Obstructive sleep apnea
+Hypertension
+Hiatal hernia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions: Please call your surgeon or return to 
+the emergency department if you develop a fever greater than 
+101.5, chest pain, shortness of breath, severe abdominal pain, 
+pain unrelieved by your pain medication, severe nausea or 
+vomiting, severe abdominal bloating, inability to eat or drink, 
+foul smelling or colorful drainage from your incisions, redness 
+or swelling around your incisions, or any other symptoms which 
+are concerning to you.
+
+Diet: Stay on Stage III diet until your follow up appointment. 
+Do not self advance
+diet, do not drink out of a straw or chew gum.
+
+Medication Instructions:
+Resume your home medications, CRUSH ALL PILLS.
+You will be starting some new medications:
+1.  You are being discharged on medications to treat the pain 
+from your operation. These medications will make you drowsy and 
+impair your ability to drive a motor vehicle or operate 
+machinery safely. You MUST refrain from such activities while 
+taking these medications.
+2. You should begin taking a chewable complete multivitamin with 
+minerals. No gummy vitamins.
+3. You will be taking Zantac liquid ___ mg twice daily for one 
+month. This medicine prevents gastric reflux.
+4. You will be taking Actigall 300 mg twice daily for 6 months. 
+This medicine prevents you from having problems with your 
+gallbladder.
+5. You should take a stool softener, Colace, twice daily for 
+constipation as needed, or until you resume a normal bowel 
+pattern.
+6. You must not use NSAIDS (non-steroidal anti-inflammatory 
+drugs) Examples are Ibuprofen, Motrin, Aleve, Nuprin and 
+Naproxen. These agents will cause bleeding and ulcers in your 
+digestive system.
+
+Activity:
+No heavy lifting of items ___ pounds for 6 weeks. You may 
+resume moderate exercise at your discretion, no abdominal 
+exercises.
+
+Wound Care:
+You may shower, no tub baths or swimming. 
+If there is clear drainage from your incisions, cover with 
+clean, dry gauze. 
+Your steri-strips will fall off on their own. Please remove any 
+remaining strips ___ days after surgery.
+Please call the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites. 
+
+ 
+Followup Instructions:
+___

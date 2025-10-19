@@ -1,0 +1,944 @@
+===== DISCHARGE NOTE =====
+note_id=17512370-DS-9 | hadm_id=22190649
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet / Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain with bloody bowel movements
+ 
+Major Surgical or Invasive Procedure:
+___: Flex-Sig 
+___: Flex-Sig with biopsy
+___: Laparoscopic converted to open abdominal colectomy with 
+end ileostomy
+
+ 
+History of Present Illness:
+___ year old F with Crohn's on Asacol who presents with abdominal 
+pain, nausea, and diarrhea. Pt recently placed on two steroid 
+tapers due to oral ulcers. When she tapered off her steroids 
+less than a week ago, she developed abdominal pain, nausea, 
+vomiting and diarrhea. Reports watery diarrhea. Minimal blood. 
+No fevers or chills. Abdominal pain mainly in L side. 
+
+Says last flare was in ___, though she does have mild pain 
+intermittently. Pt trialed on Remicade in ___ but had some 
+pulmonary side effects and has been on oral and prn rectal 
+mesalamine.  Followed by Dr. ___ at ___.
+
+ROS: negative except as above
+ 
+Past Medical History:
+PMH:
+- Crohn's colitis
+- Polyarthropathy - hands, elbows, knees and ankles.
+- Hypertension
+- GERD
+- Gastroparesis
+- R iritis/episcleritis
+
+PSH:
+- 1L lower GI bleed from sigmoid ulcer ___
+- Cholecystectomy ___
+- C-section x2
+- Ectopic pregnancy
+- Total abdominal hysterectomy and unilateral (L) 
+salpingo-oophorectomy ___
+ 
+Social History:
+___
+Family History:
+No family history of IBD.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: 97.8 126/78 76 18 96%RA
+Gen: uncomfortable, NAD
+HEENT: no oral ulcers, anicteric
+CV: rrr, no r/m/g
+Pulm: clear bl
+Abd: tender in LLQ, hyperactive bowel sounds, soft
+Ext: no edema
+Neuro: alert and oriented x 3
+
+DISCHARGE PHYSICAL EXAM:
+Upon discharge, the patient had stable vital sings. Her VAC was 
+intact over her midline incision. Her JP site dressing was 
+c/d/i. Her ostomy was healthy appearing with liquid stool 
+output. Her exam was otherwise unchanged from admission. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 02:55PM   WBC-13.5*# RBC-4.73 HGB-13.9 HCT-39.4 MCV-83# 
+MCH-29.4 MCHC-35.3* RDW-12.9
+___ 02:55PM   PLT COUNT-367
+___ 02:55PM   CRP-113.6*
+___ 02:55PM   GLUCOSE-90 UREA N-12 CREAT-0.9 SODIUM-137 
+POTASSIUM-3.3 CHLORIDE-101 TOTAL CO2-23 ANION GAP-16
+___ 02:55PM   ALT(SGPT)-14 AST(SGOT)-12 ALK PHOS-78 TOT 
+BILI-0.9
+___ 02:55PM   LIPASE-32
+___ 02:55PM   ALBUMIN-3.6 CALCIUM-9.4 PHOSPHATE-2.9 
+MAGNESIUM-1.9
+___ 02:55PM   ___ PTT-25.2 ___
+___ 03:06PM   LACTATE-1.2
+
+___ 03:35PM URINE  RBC-0 WBC-26* BACTERIA-FEW YEAST-NONE 
+EPI-14
+
+___ Quantaferon-Gold: NEGATIVE
+___ TPMT: 17 (WNL)
+
+MICROBIOLOGY:
+====================
+___ Blood culture x 1 set: No growth (FINAL)
+___ C. diff: NEGATIVE
+___ Urine culture: No growth
+___ C. diff: NEGATIVE
+___ CMV viral load: CMV DNA NOT detected.
+.
+.
+IMAGING:
+==================
+___ CT Abdomen/Pelvis: 
+1. Acute left hemi-colitis likely due to acute Crohn's flare. No 
+signs of complication. 
+2. Spondylolysis and spondylolisthesis at L5-S1. 
+.
+___ KUB
+IMPRESSION:
+Unremarkable exam.
+.
+___ Flexible Sigmoidoscopy
+Findings:
+Mucosa:Diffuse ulceration, granularity and erythema were noted 
+in the rectum, sigmoid colon and descending colon. These 
+findings are compatible with Crohn's disease. Cold forceps 
+biopsies were performed for histology at the rectum.
+Impression:
+Ulceration, granularity and erythema in the rectum, sigmoid 
+colon and descending colon compatible with Crohn's disease 
+(biopsy)
+.
+___ CT Abdomen/Pelvis
+IMPRESSION:
+1. Improved transverse and descending colitis.
+2.  Spondylolysis of L5-S1 with grade 1 spondylolisthesis.
+.
+___ Abdominal X-Ray
+IMPRESSION:
+Mild distention of the transverse colon minimally increased from 
+prior study with no evidence of obstruction.
+.
+PATHOLOGY:
+===================
+___ Flex-Sig biopsy
+Chronic mildly active colitis.
+Note: No granulomata or dysplasia identified
+ 
+Brief Hospital Course:
+___ yo F with Crohn's, previously well maintained on mesalamine, 
+who presented ___ with nausea, abdominal pain and bloody BM's.  
+Admitted to Medicine for evaluation and management. Had elevated 
+ESR/CRP and left-sided colitis seen on CT scan, overall c/w 
+Crohn's disease with acute exacerbation.  C. difficile negative, 
+so was started on IV Solumedrol per GI rec (___).  CRP 
+responded accordingly, but continued to have severe cramping 
+pain and bloody diarrhea when tried to eat.  Underwent flex-sig 
+which did show active colitis, biopsy taken showing mild chronic 
+active colitis.  Her Crohn's history is notable for extra-GI 
+manifestations of arthropathy and scleritis.  She had previously 
+been on Remicade, but this was stopped due to pulmonary side 
+effects.  Hep B serologies suggest she is Hep B immune.  TPMT 
+was WNL, Quant-Gold was NEGATIVE. Labs remained stable.  
+Cortifoam was added for relief from tenesmus.  Pt. improved 
+slowly and was able to advance to a low-residue diet.  However, 
+she then decompensated, with worsening abdominal pain and bloody 
+BM's.  She was ruled out for C. diff a ___ time and a CT was 
+obtained, which ruled out abscess.  She was then started on IV 
+cyclosporine infusion, and although feeling better on IV 
+cyclosporine, her CRP continued to rise.  A CMV viral load was 
+sent and was negative.  Colorectal Surgery was also consulted 
+for possible colectomy.  She was maintained on heparin SQ for 
+DVT prophylaxis for IBD flare. Flex sigmoidoscopy was repeated 
+on ___ showing few punched out ulcers and findings consistent 
+with colitis. Biopsy was taken with resultant CMV negative on 
+immunostain.
+
+Since patient was not improving with medical therapy alone, 
+decision was made to intervene surgically. Patient was taken to 
+the OR on ___ where she underwent laparoscopic converted to 
+open total abdominal colectomy with end ileostomy. The procedure 
+was converted to open due to a distended colon that made 
+exposure difficult. 
+Patient tolerated the procedure well. At the conclusion of the 
+case, a Prevena vac was placed over the midline incision, 
+surgical drain at the LLQ and a ___ drain in the rectum. 
+After a brief and uneventful stay in the recovery room, patient 
+was transferred to the surgical service for post-operative care.
+
+Post-op, patient was kept NPO with IVF. Pain was controlled on 
+PCA. Patient received IV hydrocortisone post-op, which was 
+tapered in subsequent days. Diet was gradually advanced starting 
+POD1, and patient was tolerating a regular diet on POD2. Both 
+Foley catheter and rectal ___ drain were removed on POD2. 
+Once tolerating oral intake, medications were transitioned to 
+oral form. Pain regimen consistent of Dilaudid, Tylenol, and 
+gabapentin. Patient was started on prophylactic Lovenox on POD3. 
+
+
+Patient was discharged on POD7 to home with ___ services. At 
+time of discharge, pain was well-controlled on oral medications. 
+Patient was tolerating a regular diet, ambulating independently, 
+voiding, and producing stool via the ostomy. She was discharged 
+on prophylactic Lovenox. On day of discharge, prednisone had 
+been tapered down to 5 mg, which was to be continued for another 
+3 days after which dose would be decreased to 2.5 mg raily for 3 
+days. Patient will follow up with Ostomy Nurse ___ 
+___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lidocaine Viscous 2% 15 mL PO BID:PRN pain 
+2. Mesalamine 2400 mg PO BID 
+3. Mesalamine (Rectal) ___AILY 
+4. Omeprazole 40 mg PO DAILY 
+5. PredniSONE 10 mg PO DAILY 
+6. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY 
+7. triamcinolone acetonide 0.1 % dental BID 
+
+ 
+Discharge Medications:
+1. PredniSONE 5 mg PO DAILY 
+Take 2 tabs (5 mg) for 3 days ___ - ___
+Take 1 tab (2.5 mg) for 3 days (___) 
+Tapered dose - DOWN 
+RX *prednisone 2.5 mg 2 tablet(s) by mouth once a day Disp #*9 
+Tablet Refills:*0
+2. Acetaminophen 1000 mg PO Q8H:PRN pain 
+3. Enoxaparin Sodium 40 mg SC DAILY 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+Take for 30 days following surgery 
+RX *enoxaparin 40 mg/0.4 mL 40 mg Daily Disp #*28 Syringe 
+Refills:*0
+4. Gabapentin 300 mg PO BID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth twice a day Disp 
+#*60 Capsule Refills:*0
+5. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg 1 - 2 tablet(s) by mouth every 
+four (4) hours Disp #*30 Tablet Refills:*0
+6. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY 
+7. Lidocaine Viscous 2% 15 mL PO BID:PRN pain 
+8. Omeprazole 40 mg PO DAILY 
+9. triamcinolone acetonide 0.1 % dental BID 
+10. Mesalamine 2400 mg PO BID 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Crohn disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+___ were admitted to the hospital for an acute exacerbation of 
+your Crohn's disease, which required surgical treatment. ___ 
+underwent an open total abdominal colectomy with end ileostomy. 
+___ have recovered from this procedure well and ___ are now 
+ready to return home. Samples from your colon were taken and 
+this tissue has been sent to the pathology department for 
+analysis. ___ will receive these pathology results at your 
+follow-up appointment. If there is an urgent need for the 
+surgeon to contact ___ regarding these results they will contact 
+___ before this time. ___ have tolerated a regular diet, passing 
+gas and your pain is controlled with pain medications by mouth. 
+___ may return home to finish your recovery.
+
+___ have a new ileostomy. The most common complication from a 
+new ileostomy placement is dehydration. The output from the 
+stoma is stool from the small intestine and the water content is 
+very high. The stool is no longer passing through the large 
+intestine which is where the water from the stool is reabsorbed 
+into the body and the stool becomes formed. ___ must measure 
+your ileostomy output for the next few weeks. The output from 
+the stoma should not be more than 1200cc or less than 500cc. If 
+___ find that your output has become too much or too little, 
+please call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if ___ notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as Gatorade. Please monitor yourself for signs and symptoms 
+of dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a 
+regular diet with your new ileostomy. However it is a good idea 
+to avoid fatty or spicy foods and follow diet suggestions made 
+to ___ by the ostomy nurses.
+
+___ monitor the appearance of the ostomy and stoma and care 
+for it as instructed by the wound/ostomy nurses. ___ stoma 
+(intestine that protrudes outside of your abdomen) should be 
+beefy red or pink, it may ooze small amounts of blood at times 
+when touched and this should subside with time. The skin around 
+the ostomy site should be kept clean and intact. Monitor the 
+skin around the stoma for bulging or signs of infection listed 
+above. Please care for the ostomy as ___ have been instructed by 
+the wound/ostomy nurses. ___ will be able to make an appointment 
+with the ostomy nurse in the clinic 7 days after surgery. ___ 
+will have a visiting nurse at home for the next few weeks 
+helping to monitor your ostomy until ___ are comfortable caring 
+for it on your own.
+
+___ have a long vertical incision on your abdomen that is closed 
+with staples. This incision is covered with a VAC dressing. When 
+this is removed, it can be left open to air or covered with a 
+dry sterile gauze dressing if the staples become irritated from 
+clothing. The staples will stay in place until your first 
+post-operative visit at which time they can be removed in the 
+clinic, most likely by the office nurse. Please monitor the 
+incision for signs and symptoms of infection including: 
+increasing redness at the incision, opening of the incision, 
+increased pain at the incision line, draining of 
+white/green/yellow/foul smelling drainage, or if ___ develop a 
+fever. Please call the office if ___ develop these symptoms or 
+go to the emergency room if the symptoms are severe. ___ may 
+shower, let the warm water run over the incision line and pat 
+the area dry with a towel, do not rub.
+
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by your surgical team. ___ may gradually 
+increase your activity as tolerated but clear heavy exercise 
+with your surgical team.
+
+___ will be prescribed a small amount of the pain medication 
+oxycodone. Please take this medication exactly as prescribed. 
+___ may take Tylenol as recommended for pain. Please do not take 
+more than 4000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication.
+
+Thank ___ for allowing us to participate in your care! Our hope 
+is that ___ will have a quick return to your life and usual 
+activities. Good luck!
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17512370-DS-10 | hadm_id=22341294
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet / Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+obstruction 
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic ileostomy takedown with ileorectal anastomosis, 
+diverting loop ileostomy and parastomal hernia repair.
+
+ 
+History of Present Illness:
+Per Colorectal Surgery Consult Note
+
+HPI: ___ hx of ileocolonic and ___ chrons s/p sub-total
+colectomy and end ileostomy in ___ stopped in late ___ biologic
+therapy due to upper respiratory side effects now presents with
+obstructive symptoms and para-stomal hernia. Patient reports 
+that
+was doing well with slightly increased rectal mucus discharge
+since coming off the vedo until ___ when developed right 
+lower
+quadrant firmness around ostomy, decreased output, and 
+increasing
+bloating and nausea. These have increased over the last two 
+days.
+Denies any fevers or chills. Has not had ostomy output since 
+this
+morning. No vomiting but nausea. She describes similar symptoms
+once previously with hardness around ostomy that self-resolved.
+She has had a peristomal hernia as long as ___ years ago that was
+seen on MRI. Since coming off vedo some increased bloody rectal
+discharge and urgency but no blood ostomy output, weight loss, 
+or
+change in ostomy output. 
+
+ 
+Past Medical History:
+PMH:
+- Crohn's colitis
+- Polyarthropathy - hands, elbows, knees and ankles.
+- Hypertension
+- GERD
+- Gastroparesis
+- R iritis/episcleritis
+
+PSH:
+- 1L lower GI bleed from sigmoid ulcer ___
+- Cholecystectomy ___
+- C-section x2
+- Ectopic pregnancy
+- Total abdominal hysterectomy and unilateral (L) 
+salpingo-oophorectomy ___
+ 
+Social History:
+___
+Family History:
+No family history of IBD.
+ 
+Physical Exam:
+d/c physical exam
+
+General: Doing well, tolerating a regular diet, pain controlled, 
+ambulating
+VSS
+Neuro: A&OX3
+Cardio/Pulm: no chest pain or shortness of breath
+Abd: laparoscopic incision clean dry and intact, abdomen soft 
+and nondistended
+ 
+Pertinent Results:
+___ 06:49AM BLOOD WBC-12.0* RBC-4.12 Hgb-12.3 Hct-37.5 
+MCV-91 MCH-29.9 MCHC-32.8 RDW-12.5 RDWSD-41.4 Plt ___
+___ 07:00AM BLOOD WBC-9.4 RBC-3.94 Hgb-11.8 Hct-36.0 MCV-91 
+MCH-29.9 MCHC-32.8 RDW-12.3 RDWSD-41.1 Plt ___
+___ 07:33AM BLOOD WBC-9.2 RBC-4.03 Hgb-11.8 Hct-36.6 MCV-91 
+MCH-29.3 MCHC-32.2 RDW-12.3 RDWSD-41.1 Plt ___
+___ 07:10AM BLOOD WBC-9.2 RBC-3.86* Hgb-11.5 Hct-35.3 
+MCV-92 MCH-29.8 MCHC-32.6 RDW-12.5 RDWSD-41.8 Plt ___
+___ 08:15AM BLOOD WBC-8.2 RBC-3.88* Hgb-11.5 Hct-35.5 
+MCV-92 MCH-29.6 MCHC-32.4 RDW-12.2 RDWSD-41.1 Plt ___
+___ 07:29AM BLOOD WBC-7.0 RBC-3.78* Hgb-11.3 Hct-35.5 
+MCV-94 MCH-29.9 MCHC-31.8* RDW-12.4 RDWSD-42.7 Plt ___
+___ 07:13AM BLOOD WBC-5.6 RBC-4.23 Hgb-12.7 Hct-39.6 MCV-94 
+MCH-30.0 MCHC-32.1 RDW-12.2 RDWSD-42.2 Plt ___
+___ 07:30AM BLOOD WBC-5.2 RBC-4.67 Hgb-13.9 Hct-42.9 MCV-92 
+MCH-29.8 MCHC-32.4 RDW-12.3 RDWSD-41.1 Plt ___
+___ 07:26AM BLOOD WBC-8.8 RBC-4.69 Hgb-14.2 Hct-42.9 MCV-92 
+MCH-30.3 MCHC-33.1 RDW-12.5 RDWSD-41.1 Plt ___
+___ 11:50AM BLOOD WBC-13.3* RBC-5.00 Hgb-14.9 Hct-45.2* 
+MCV-90 MCH-29.8 MCHC-33.0 RDW-12.3 RDWSD-40.5 Plt ___
+___ 06:49AM BLOOD Glucose-111* UreaN-7 Creat-0.7 Na-140 
+K-4.1 Cl-99 HCO3-26 AnGap-15
+___ 07:00AM BLOOD Glucose-125* UreaN-6 Creat-0.6 Na-138 
+K-4.1 Cl-99 HCO3-27 AnGap-12
+___ 07:33AM BLOOD Glucose-126* UreaN-6 Creat-0.6 Na-137 
+K-4.2 Cl-97 HCO3-29 AnGap-11
+___ 07:10AM BLOOD Glucose-117* UreaN-8 Creat-0.6 Na-142 
+K-3.8 Cl-100 HCO3-29 AnGap-13
+___ 07:30AM BLOOD Glucose-104* UreaN-14 Creat-0.8 Na-140 
+K-3.8 Cl-98 HCO3-28 AnGap-14
+___ 07:29AM BLOOD Glucose-127* UreaN-17 Creat-0.8 Na-139 
+K-4.1 Cl-103 HCO3-27 AnGap-9*
+___ 07:13AM BLOOD Glucose-119* UreaN-15 Creat-0.9 Na-140 
+K-4.9 Cl-105 HCO3-26 AnGap-9*
+___ 07:30AM BLOOD Glucose-135* UreaN-11 Creat-0.8 Na-141 
+K-4.7 Cl-105 HCO3-26 AnGap-10
+___ 07:26AM BLOOD Glucose-139* UreaN-12 Creat-1.0 Na-140 
+K-4.5 Cl-104 HCO3-25 AnGap-11
+___ 06:49AM BLOOD Calcium-8.9 Phos-4.4 Mg-2.0
+___ 07:00AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.1
+___ 07:33AM BLOOD Calcium-8.6 Phos-3.8 Mg-1.8
+___ 07:10AM BLOOD Calcium-8.3* Phos-3.3 Mg-2.0
+___ 07:30AM BLOOD Calcium-8.8 Phos-3.0 Mg-2.0
+___ 07:29AM BLOOD Calcium-8.0* Phos-2.2* Mg-2.2
+___ 08:21PM BLOOD Mg-1.7
+___ 07:30AM BLOOD Calcium-8.8 Phos-3.3 Mg-2.0
+___ 07:26AM BLOOD Calcium-9.1 Phos-4.4 Mg-2.0
+
+ CT ABD & PELVIS WITH CONTRAST Study Date of ___ 10:51 AM 
+
+IMPRESSION: 
+  
+  
+1. Rim-enhancing, hypodense, parastomal collection, measuring 
+6.3 x 5.5 x 6.0 
+cm.  This collection is most consistent with a postoperative 
+seroma, however, 
+superimposed infection is possible.  If desired, this collection 
+is amenable 
+to aspiration under ultrasound. 
+2. Additional 3 cm thin rim-enhancing, hypodense collection in 
+the central 
+pelvis likely represents postoperative seroma and again 
+superimposed infection 
+is possible. 
+3. Ileo-colonic anastomosis appears intact. 
+4. Edema of the distal ileum is likely due to recent obstruction 
+and surgery. 
+
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted with a bowel obstruction related to a 
+parastomal hernia which did not resolve with conservative 
+management and she was taken to the operating room with Dr. 
+___ on ___. Please see operative report for surgical 
+details. She was transferred back to the inpatient unit 
+postoperatively. The nasogastric tube was remove. She then had 
+intermitted return of bowel function, she would tolerate clears 
+and then have additional nausea. A nasogastric tube was never 
+replaced. On ___ she had demonstrated bowel function and 
+tolerated a regular diet. All medications were by mouth. She was 
+discharged home ___. She was supported by the nursing staff 
+and ostomy team during her admission. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+2. Calcium Carbonate 500 mg PO QID:PRN reflux 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+do not take more than 3000mg of Tylenol in 24 hours or drink 
+alcohol while taking 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*45 Tablet Refills:*0 
+2.  Enoxaparin Sodium 40 mg SC DAILY 
+please take for 22 more days 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous once a day Disp 
+#*22 Syringe Refills:*0 
+3.  LOPERamide 2 mg PO BID 
+RX *loperamide 2 mg 1 tablet by mouth twice a day Disp #*60 
+Tablet Refills:*1 
+4.  Psyllium Wafer 1 WAF PO BID 
+RX *psyllium  1 wafer by mouth twice a day Disp #*1 Box 
+Refills:*1 
+5.  Calcium Carbonate 500 mg PO QID:PRN reflux  
+6.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Crohn's disease, parastomal hernia with obstruction.
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital after a with a bowel 
+obstruction related to a parastomal hernia. Unfortunately, this 
+did not resolve with conservative measures and ___ required 
+surgery to fix this issue. Dr ___ your prior 
+ileostomy however, he was unable to reattach your bowel and had 
+to make a new ileostomy to allow this area to heal which will be 
+reversed in the future. ___ have had a long post-operative 
+recover however, ___ are now ready to return home. Samples of 
+tissue were taken and this tissue has been sent to the pathology 
+department for analysis. ___ will receive these pathology 
+results at your follow-up appointment. If there is an urgent 
+need for the surgeon to contact ___ regarding these results they 
+will contact ___ before this time. ___ have tolerated a regular 
+diet, are passing gas and your pain is controlled with pain 
+medications by mouth. ___ may return home to finish your 
+recovery.
+
+___ will be discharged home on Lovenox injections to prevent 
+blood clots after surgery. ___ will take this for 30 days after 
+your surgery date. This will be given once daily. Please follow 
+all nursing teaching instruction given by the nursing staff. 
+Please monitor for any signs of bleeding: fast heart rate, 
+bloody bowel movements, abdominal pain, bruising, feeling faint 
+or weak. If ___ have any of these symptoms please call our 
+office for advice or seek medical attention if there is an 
+emergency. Avoid any contact activity while taking Lovenox. 
+Please take extra caution to avoid falling.
+
+Please monitor your bowel function closely. 
+___ have an ileostomy. The most common complication from an 
+ileostomy placement is dehydration. The output from the stoma is 
+stool from the small intestine and the water content is very 
+high. The stool is no longer passing through the large intestine 
+which is where the water from the stool is reabsorbed into the 
+body and the stool becomes formed. ___ must measure your 
+ileostomy output for the next few weeks. The output from the 
+stoma should not be more than 1200cc or less than 500cc. If ___ 
+find that your output has become too much or too little, please 
+call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if ___ notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as Gatorade. Please monitor yourself for signs and symptoms 
+of dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a 
+regular diet with your new ileostomy. However it is a good idea 
+to avoid fatty or spicy foods and follow diet suggestions made 
+to ___ by the ostomy nurses.
+___ monitor the appearance of the ostomy and stoma and care 
+for it as instructed by the wound/ostomy nurses. ___ stoma 
+(intestine that protrudes outside of your abdomen) should be 
+beefy red or pink, it may ooze small amounts of blood at times 
+when touched and this should subside with time. The skin around 
+the ostomy site should be kept clean and intact. Monitor the 
+skin around the stoma for bulging or signs of infection listed 
+above. Please care for the ostomy as ___ have been instructed by 
+the wound/ostomy nurses. ___ will be able to make an appointment 
+with the ostomy nurse in the clinic 7 days after surgery. ___ 
+will have a visiting nurse at home for the next few weeks 
+helping to monitor your ostomy until ___ are comfortable caring 
+for it on your own.
+
+If ___ have any of the following symptoms please call the office 
+for advice ___:
+fever greater than 101.5
+increasing abdominal distension
+increasing abdominal pain
+nausea/vomiting
+inability to tolerate food or liquids
+prolonged loose stool
+extended constipation
+inability to urinate
+
+Incisions:
+___ have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures. These are healing well 
+however it is important that ___ monitor these areas for signs 
+and symptoms of infection including: increasing redness of the 
+incision lines, white/green/yellow/malodorous drainage, 
+increased pain at the incision, increased warmth of the skin at 
+the incision, or swelling of the area.
+___ may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips), these will fall off 
+over time, please do not remove them. Please no baths or 
+swimming until cleared by the surgical team.
+Pain
+It is expected that ___ will have pain after surgery and this 
+pain will gradually improved over the first week or so ___ are 
+home. ___ will especially have pain when changing positions and 
+with movement. ___ should continue to take 2 Extra Strength 
+Tylenol (___) for pain every 8 hours around the clock for 7 
+days. If these medications are not controlling your pain to a 
+point where ___ can ambulate and preform minor tasks, ___ should 
+take a dose of the narcotic pain medication Oxycodone. Please 
+take this only if needed for pain. Do not take with any other 
+sedating medications or alcohol. Do not drive a car if taking 
+narcotic pain medications.
+
+Activity
+___ may feel weak or "washed out" for up to 6 weeks after 
+surgery. No heavy lifting greater than a gallon of milk for 3 
+weeks. ___ may climb stairs. ___ may go outside and walk, but 
+avoid traveling long distances until ___ speak with your 
+surgical team at your first follow-up visit. Your surgical team 
+will clear ___ for heavier exercise and activity as the observe 
+your progress at your follow-up appointment. ___ should only 
+drive a car on your own if ___ are off narcotic pain medications 
+and feel as if your reaction time is back to normal so ___ can 
+react appropriately while driving.
+Thank ___ for allowing us to participate in your care! Our hope 
+is that ___ will have a quick return to your life and usual 
+activities.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17512370-DS-11 | hadm_id=23224155
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet / Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Crohn's disease, ileostomy takedown 
+ 
+Major Surgical or Invasive Procedure:
+Ileostomy takedown
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of Crohn's 
+colitis with a recent ileostomy takedown with ileorectal 
+anastomosis and diverting loop ileostomy. She is followed by Dr. 
+___ in GI who recommended loading her with a dose of 
+vedolizumab prior to ileostomy takedown. She received the 
+loading medication on ___ and surgery was scheduled for 
+___.
+ 
+Past Medical History:
+PMH:
+- Crohn's colitis
+- Polyarthropathy - hands, elbows, knees and ankles.
+- Hypertension
+- GERD
+- Gastroparesis
+- R iritis/episcleritis
+
+PSH:
+- 1L lower GI bleed from sigmoid ulcer ___
+- Cholecystectomy ___
+- C-section x2
+- Ectopic pregnancy
+- Total abdominal hysterectomy and unilateral (L) 
+salpingo-oophorectomy ___
+ 
+Social History:
+___
+Family History:
+No family history of IBD.
+ 
+Physical Exam:
+Discharge Exam:
+
+VS: 98.8, 136/82, 87, 18, 96%/RA 
+GEN: WD, WN in NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR, No JVD
+PULM:  normal excursion, no respiratory distress
+ABD: soft, NT, ND, no mass, no hernia
+EXT: WWP, no CCE, 2+ B/L radial
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+WOUND: oozy with SS at the ostomy site 
+
+ 
+Pertinent Results:
+___ 07:18AM BLOOD WBC-12.2* RBC-4.38 Hgb-12.9 Hct-39.8 
+MCV-91 MCH-29.5 MCHC-32.4 RDW-13.9 RDWSD-45.9 Plt ___
+___ 11:25AM BLOOD WBC-12.8* RBC-4.34 Hgb-12.8 Hct-38.7 
+MCV-89 MCH-29.5 MCHC-33.1 RDW-13.7 RDWSD-44.6 Plt ___
+___ 09:28PM BLOOD WBC-14.5* RBC-4.38 Hgb-12.9 Hct-38.4 
+MCV-88 MCH-29.5 MCHC-33.6 RDW-13.4 RDWSD-43.3 Plt ___
+___ 07:18AM BLOOD Glucose-111* UreaN-13 Creat-0.8 Na-140 
+K-4.2 Cl-103 HCO3-24 AnGap-13
+___ 11:25AM BLOOD Glucose-111* UreaN-14 Creat-0.9 Na-140 
+K-4.2 Cl-101 HCO3-25 AnGap-14
+___ 09:28PM BLOOD Glucose-156* UreaN-16 Creat-1.0 Na-139 
+K-3.9 Cl-101 HCO3-21* AnGap-17
+___ 07:18AM BLOOD Calcium-8.8 Phos-2.4* Mg-2.1
+___ 11:25AM BLOOD Calcium-9.0 Phos-3.9 Mg-2.2
+___ 09:28PM BLOOD Calcium-9.2 Phos-3.9 Mg-1.9
+ 
+Brief Hospital Course:
+Ms. ___ presented to ___ holding at ___ on ___ for 
+an ileostomy takedown. She tolerated the procedure well without 
+complications (Please see operative note for further details). 
+After a brief and uneventful stay in the PACU, the patient was 
+transferred to the floor for further post-operative management.
+
+Neuro: Pain was well controlled on Tylenol with dilaudid for 
+breakthrough pain.
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. Had good pulmonary 
+toileting, as early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+
+GI: The patient was initially kept NPO after the procedure. She 
+did experience some post-operative nausea that quickly resolved. 
+The patient was later advanced to and tolerated a regular diet 
+at time of discharge. Patient's intake and output were closely 
+monitored
+
+GU: The patient was voiding without difficulty throughout 
+hospitalization.
+
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever of which there was none. 
+
+Heme: The patient had blood levels checked daily during their 
+hospital course to monitor for signs of bleeding. The patient 
+received subcutaneous heparin and ___ dyne boots were used 
+during this stay, she was encouraged to get up and ambulate as 
+early as possible. 
+
+On ___, the patient was discharged to home. At discharge, 
+she was tolerating a regular diet, passing flatus,  voiding, and 
+ambulating independently. She will follow-up in the clinic in 
+___ weeks. This information was communicated to the patient 
+directly prior to discharge.
+
+Post-Surgical Complications During Inpatient Admission:
+
+[ ] Post-Operative Ileus resolving w/o NGT
+[ ] Post-Operative Ileus requiring management with NGT
+[ ] UTI
+[ ] Wound Infection
+[ ] Anastomotic Leak
+[ ] Staple Line Bleed
+[ ] Congestive Heart failure
+[ ] ARF
+[ ] Acute Urinary retention, failure to void after Foley D/C'd
+[ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+[ ] DVT
+[ ] Pneumonia
+[ ] Abscess
+[x] None
+
+Social Issues Causing a Delay in Discharge:
+
+[ ] Delay in organization of ___ services
+[ ] Difficulty finding appropriate rehab hospital disposition.
+[ ] Lack of insurance coverage for ___ services
+[ ] Lack of insurance coverage for prescribed medications
+[ ] Family not agreeable to discharge plan.
+[ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+[x] No social factors contributing in delay of discharge.
+
+ 
+Medications on Admission:
+Vedolizumab 300 Q8w
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+2.  HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Moderate 
+Please take lowest effective dose  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Crohn's colitis, ileostomy takedown
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the hospital after an ileostomy takedown. 
+You have recovered from this procedure well and you are now 
+ready to return home. You are tolerating a regular diet, passing 
+gas and your pain is controlled with pain medications by mouth. 
+
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable; however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patient’s to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected however, if you notice that you are passing bright red 
+blood with bowel your please seek medical attention. If you are 
+passing loose stool without improvement please call the office 
+or go to the emergency room if the symptoms are severe. If you 
+are taking narcotic pain medications there is a risk that you 
+will have some constipation. Please take an over the counter 
+stool softener such as Colace, and if the symptoms does not 
+improve call the office. It is also not uncommon after an 
+ileostomy takedown to have frequent loose stools until you are 
+taking more regular food however this should improve.
+
+The muscles of the sphincters have not been used in quite some 
+time and you may experience urgency or small amounts of 
+incontinence however this should improve. If you do not show 
+improvement in these symptoms within ___ days please call the 
+office. Occasionally, patients will need to take a medication to 
+slow their bowel movements as their bodies adjust to their new 
+normal, however, please contact our office for instructions 
+prior to taking any medications. If you experience any of the 
+following symptoms please call the office or go to the emergency 
+room if severe: increasing abdominal distension, increasing 
+abdominal pain, nausea, vomiting, inability to tolerate food or 
+liquids, prolonged loose stool, or constipation.
+
+You have a small wound where the old ileostomy once was. This 
+should be covered with a dry sterile gauze dressing. The wound 
+no longer requires packing with a gauze strip. Please monitor 
+the incision for signs and symptoms of infection including: 
+increasing redness at the incision, opening of the incision, 
+increased pain at the incision line, draining of 
+white/green/yellow/foul smelling drainage, or if you develop a 
+fever. Please call the office if you develop these symptoms or 
+go to the emergency room if the symptoms are severe. You may 
+shower, let the warm water run over the wound line and pat the 
+area dry with a towel, do not rub. Please apply a new gauze 
+dressing after showering.
+
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by your surgical team. You may gradually 
+increase your activity as tolerated but clear heavy exercise 
+with your surgical team.
+
+You will be prescribed a small amount of the pain medication 
+oxycodone. Please take this medication exactly as prescribed. 
+You may take Tylenol as recommended for pain. Please do not take 
+more than 3000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication.
+
+Our hope is that you will have a quick return to your life and 
+usual activities. Thank you for allowing us to participate in 
+your care! 
+
+ 
+Followup Instructions:
+___

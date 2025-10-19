@@ -1,0 +1,165 @@
+===== DISCHARGE NOTE =====
+note_id=13392033-DS-20 | hadm_id=27970408
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Found down by wife with right deviated gaze in emesis and 
+unresponsive
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This is a ___ y/o very active gentleman that was last seen in his
+usual state of health at 7am on the morning of admission by his 
+wife. She heard
+some noises in the garage at 8 am and her along with her son
+found the patient slumped over some weights at 8am. He was 
+minimally
+responsive with right gaze deviation. He was taken to an outside
+facility for care. He had one episode of N/V there and was noted
+to have a BP of 202/123. A CT of the head revealed a large Left
+Thalamic bleed with midline shift and extension to the fourth
+ventricle. Patient was transferred to ___ for further care
+ 
+Past Medical History:
+HTN
+Bilateral Catract surgery
+Hx of peptic ulcer disease s/p partial gastrectomy 
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+97.1 P: 47 BP 145/82 R: 16  SaO2:  99% CMV
+
+Gen: Intubated. Patient arrived w/out a cervical collar.
+HEENT: Pupils:3 to 2mm bilaterlly         EOMs: UA
+Corneals : weak bilaterally
+Cough Strong
+Neck: Trauma collar placed on my arrival
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Recall: ___ objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Unable to asses
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Unable to asses
+IX, X: Palatal elevation symmetrical.
+XI: Unable to Asses
+XII: UA.
+
+Motor: Localizes with right upper extremity briskly, moves left
+lower extremity spontaneously and with stimulation. Right upper
+and lower extremity plegic.
+
+ 
+Pertinent Results:
+___ 11:05AM   WBC-11.3* RBC-4.66 HGB-13.1* HCT-41.5 MCV-89 
+MCH-28.0 MCHC-31.5 RDW-14.4
+___ 01:30PM   GLUCOSE-155* UREA N-16 CREAT-0.9 SODIUM-135 
+POTASSIUM-5.2* CHLORIDE-100 TOTAL CO2-26 ANION GAP-14
+___ 11:05AM   ___ PTT-23.8 ___
+___ 11:05AM   ___ 12:45PM   cTropnT-<0.01
+___ 01:30PM   PHENYTOIN-7.5*
+___ 01:30PM   CK-MB-3 cTropnT-0.09*
+___ 08:21PM   CK-MB-3 cTropnT-0.09*
+
+IMAGING
+
+HEAD CT
+Left basal ganglia and left intrathalamic hemorrhage with 
+extension into the left and right lateral ventricles and new 
+extension into the fourth ventricle. 
+
+CT C-SPINE: Mild multilevel degenerative change. No acute 
+fractures.
+
+MRI/MRA BRAIN
+1. Large left basal ganglia/lentiform nucleus acute hemorrhage. 
+No definite evidence of an underlying AVM or mass lesion, though 
+evaluation is limited due to edema and mass effect from this 
+large hematoma. 
+2. Multiple foci of susceptibility are seen throughout both 
+cerebral 
+hemispheres and cerebellum most consistent with amyloid 
+angiopathy. 
+
+ 
+Brief Hospital Course:
+Mr ___ was admitted to the surgical intensive care unit 
+intubated under the neurosurgical service. 
+On neurologic examination, he was unarousable even off sedation, 
+with spontaneous movement of the left side, hemiparesis of the 
+right side, and no withdrawal to painful stimuli throughout. 
+Brainstem reflexes were intact. 
+Patient remained hypertensive in the ICU requiring a Nicardipine 
+gtt 24 hours after admission. His exam improved slightly on day 
+2 with eye opening to nox and attempts to flex on his right to 
+nox stimuli. However, this was the best his exam became, and he 
+seemed to deteriorate after this. Multiple repeat head CT scans 
+showed stable size of bleed, with stable intraventricular blood. 
+
+Neurosurgery opted not to intervene and patient was transferred 
+to neuro ICU service. 
+An MRI/MRA was done to look for an underlying lesion or vascular 
+anomoly. This showed extensive microbleeds consistent with 
+amyloid angiopathy. This, combined with HTN, was the likely 
+cause of this large bleed. 
+ICH scale was ___, giving him a 72-97% chance of mortality 
+within 30 days. 
+After extensive discussion with his entire family including wife 
+and children, decision was made to make him comfort measures 
+only. He was extubated ___ at 9pm. 
+Palliative care consult was involved. Patient expired on 
+___ at 10:11 am.
+ 
+Medications on Admission:
+Citalopram 20mg QD, Valium 5mg
+prn, Namenda, Simvastatin, Isosorbide.
+
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

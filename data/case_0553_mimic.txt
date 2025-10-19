@@ -1,0 +1,309 @@
+===== DISCHARGE NOTE =====
+note_id=14540631-DS-5 | hadm_id=20654695
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+ 
+History of Present Illness:
+___ y.o. community dwelling M hx of developmental delay and MS
+presenting ___ 3 falls 6 days ago. Pt reports feeling 
+lgihtheaded
+when he gets out of bed which improves when he lays down. Denies
+LOC or head trauma. Small laceration on R elbow. + L chest
+"emptyness" which has since resolved. + palpitations. + L neck
+numbness when bending over which made him come in today. +
+decreased energy. No overt chest pain, shortness of breath, sick
+contacts, foreign travel, recent instrumentation. He does not
+have URI sx such as cough, nor rhinorhea. He also does not 
+report
+abdominal pain, nausea, vomiting or diarrhea. He has never had a
+colonoscopy. He does not report dysuria. He also does not report
+n/v/d. Pt has hx of MS and he had not been treated. His family
+has noticed he has decreased strength and energy overall. +23 lb
+weight loss over past 10 months. + fever in ED. No rashes. He 
+has
+a sunburn from sitting out in the sun all day. 
+
+ 
+Past Medical History:
+PMH
+HYPERLIPIDEMIA    
+HYPERTENSION   
+KIDNEY STONES   
+LEFT KNEE SURGERY   
+STRABISMUS   
+TD ___   
+MULTIPLE SCLEROSIS   
+DEVELOPMENTAL DELAY   
+COGNITIVE IMPAIRMENT   
+H/O PERINATAL ANOXIA/ENCEPHALOPATHY 
+
+ 
+Social History:
+___
+Family History:
++for heart disease and HTN
+
+ 
+Physical Exam:
+VS: T = 98.2, BP = 161/101 P = 89  RR = 18 O2Sat on  99% on
+GENERAL:  Well appearing sunburnt male
+Nourishment: good
+Grooming: good  
+Mentation: alert, speaking in full sentences  
+2. Eyes: [] WNL 
+EOMI without nystagmus, Conjunctiva: clear, PERRL B/l
+3. ENT [] WNL
+[X] Moist  [] Endentulous  [] Ulcers  [] Erythema  [] JVD ____ 
+cm
+[] Dry  [X] Poor dentition  [] Thrush  [] Swelling  [] Exudate
+4. Cardiovascular [] WNL
+[X] Regular  [] Tachy  [X] S1 [X] S2 [+] Systolic Murmur     
+___,
+Location: LLSB
+[] Irregular  []Brady []S3  [] S4  [] Diastolic Murmur    /6,
+Location:
+[X] Edema RLE  None 
+[X] Edema LLE None 
+2+ dpp b/l
+[] Vascular access  [X] Peripheral [] Central site:
+5. Respiratory [X]WNL
+[X] CTA bilaterally  [ ] Rales  [ ] Diminshed
+6. Gastrointestinal [ ] WNL
+[X] Soft [-] Rebound [] No hepatomegaly  [X] Non-tender [] 
+Tender
+[] No splenomegaly
+7. Musculoskeletal-Extremities [] WNL
+[ ] Tone WNL  [X ]Upper extremity strength ___ and symmetrical  
+[
+]Other:
+[ ] Bulk WNL    [X] Lower extremity strength ___ and symmetrica 
+[
+] Other:
+8. Neurological [X] WNL
+[X] Alert and Oriented x 3 [ ] Romberg: Positive/Negative  [ ] 
+CN
+II-XII intact  [X] Normal attention  [ ] FNF/HTS WNL [] 
+Sensation
+WNL  [ ] Delirious/confused  [ ] Asterixis Present/Absent  [ ]
+Position sense WNL
+[ ] Demented  [ ] No pronator drift  [] Fluent speech
+9. Integument  [] WNL
++ sunburn
+[X] Warm  
+10. Psychiatric [] WNL
+[X] Appropriate [] Flat affect [] Anxious [] Manic [] 
+Intoxicated
+[X] Pleasant [] Depressed [] Agitated [] Psychotic 
+. 
+
+ 
+Pertinent Results:
+___ 08:15PM BLOOD WBC-8.5 RBC-2.27*# Hgb-6.7*# Hct-19.8*# 
+MCV-88 MCH-29.6 MCHC-33.9 RDW-15.0 Plt ___
+___ 10:30AM BLOOD WBC-5.9 RBC-2.43* Hgb-7.1* Hct-21.0* 
+MCV-86 MCH-29.3 MCHC-33.9 RDW-16.1* Plt ___
+___ 05:15PM BLOOD WBC-6.0 RBC-2.63* Hgb-7.7* Hct-22.5* 
+MCV-86 MCH-29.3 MCHC-34.3 RDW-16.2* Plt ___
+___ 07:25AM BLOOD WBC-5.6 RBC-2.53* Hgb-7.3* Hct-22.1* 
+MCV-88 MCH-28.9 MCHC-33.0 RDW-16.3* Plt ___
+___ 06:25AM BLOOD WBC-6.6 RBC-2.82* Hgb-8.3* Hct-25.0* 
+MCV-88 MCH-29.4 MCHC-33.3 RDW-15.5 Plt ___
+___ 06:30AM BLOOD WBC-7.6 RBC-2.88* Hgb-8.5* Hct-25.6* 
+MCV-89 MCH-29.7 MCHC-33.4 RDW-14.9 Plt ___
+___ 08:15PM BLOOD Plt ___
+___ 10:30AM BLOOD Plt ___
+___ 05:15PM BLOOD Plt ___
+___ 07:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:30AM BLOOD Plt ___
+___ 08:15PM BLOOD Ret Aut-12.2*
+___ 08:15PM BLOOD Glucose-112* UreaN-18 Creat-0.9 Na-140 
+K-3.2* Cl-100 HCO3-30 AnGap-13
+___ 06:25AM BLOOD Glucose-94 UreaN-15 Creat-0.9 Na-140 
+K-3.8 Cl-107 HCO3-25 AnGap-12
+___ 07:25AM BLOOD ALT-16 AST-18 AlkPhos-72 TotBili-0.4
+___ 08:15PM BLOOD LD(LDH)-239
+___ 08:15PM BLOOD Iron-23*
+___ 08:15PM BLOOD calTIBC-437 Hapto-235* Ferritn-15* 
+TRF-336
+___ 08:38PM BLOOD Lactate-1.1
+
+EGD:
+Birth ___ ___ years)Instrument:___-___ ___
+Indications:Dyspepsia
+Anemia
+Gastrointestinal bleeding
+Procedure:The procedure, indications, preparation and potential 
+complications were explained to the patient, who indicated his 
+understanding and signed the corresponding consent forms. A 
+physical exam was performed. The patient was administered 
+moderate sedation. Supplemental oxygen was used. The patient was 
+placed in the left lateral decubitus position and an endoscope 
+was introduced through the mouth and advanced under direct 
+visualization until the third part of the duodenum was reached. 
+Careful visualization of the upper GI tract was performed. The 
+procedure was not difficult. The patient tolerated the procedure 
+well. There were no complications.
+Findings:
+Esophagus:
+Protruding LesionsA fungating and ulcerated bleeding 3 cm mass 
+of malignant appearance was found at the lower third of the 
+esophagus and gastroesophageal junction. The mass caused a 
+partial obstruction. The scope traversed the lesion. Cold 
+forceps biopsies were performed for histology at the lower third 
+of the esophagus and gastro-esophageal junction. 
+Stomach:Normal stomach.
+Duodenum:Normal duodenum.
+Impression:Mass in the lower third of the esophagus and 
+gastroesophageal junction (biopsy)
+Otherwise normal EGD to third part of the duodenum
+Recommendations:Remain NPO.
+Obtain CT torso for staging and thoracic surgery consult.
+
+___  ___
+ ___
+Department of Pathology
+                               Patient Name: ___ 
+___
+___  ___   ___ MRN: ___
+Surgical Pathology voice:      Birth Date: ___ Age: ___ Y 
+Sex: M
+___
+Surgical Pathology Facsimile:
+ ___
+Cytology voice: ___
+
+Date of Procedure: ___  ___ #: ___
+Date Specimen(s) Received:     Patient Location: 
+Gastroenterology -
+___                     ST4
+Date Reported: ___      Ordering Provider: ___, 
+MD
+                               Responsible Provider: ___ 
+___, MD
+
+___ to:   ___ MD;   ___ MD
+
+                   SURGICAL PATHOLOGY REPORT - Final
+
+PATHOLOGIC DIAGNOSIS:
+ Lower third esophageal mass, mucosal biopsies:
+
+Adenocarcinoma, at least intramucosal, arising in a background 
+of
+___ esophagus with dysplasia.
+
+The tumor is well differentiated in this mucosal biopsy sample.
+
+Note: Dr. ___ is notified of the diagnosis by 
+telephone by
+Dr. ___ on ___ at 17:38.
+
+CLINICAL HISTORY:
+Dyspepsia. Anemia. Gastrointestinal bleeding.
+
+GROSS DESCRIPTION:
+The specimen is received in one formalin-filled container 
+labeled with
+the patient's name, ___.", the medical record
+number, and is additionally labeled "lower third esophagus 
+mass". It
+consists of multiple pink-red tissue fragments measuring up to 
+0.3 cm
+which are entirely submitted in cassette 1A.
+.
+
+ 
+Brief Hospital Course:
+___ year old male with h/o cerebral palsy, MS, presented with 
+syncopal episodes and profound anemia. 
+
+Active Issue: 
+# Acute Blood Loss Anemia secondary to Esophageal 
+Adenocarcinoma. The patient was admitted to ___ and received 
+Transfused 4 units and Hgb jumped from 19 to 25 and remained 
+stable. While in house he was noted to have a distal esophageal 
+mass which upon EGD was found to be a malignant adenocarcinoma 
+in the setting of Barretts esophagus. Oncology and thoracics 
+were consulted. For staging, CT of chest and abd were performed 
+(see above). 
+
+# Urinary Retention: Did have difficulty with urination and had 
+to be straight cath. This resolved by the time of discharge.
+.
+Chronic Issues:
+# HTN: The patient was continued on his B-blocker while in house 
+although his diuretic was held on discharge,
+.
+# HL: The patient was continued on a statin.
+.
+# Mulitple Scleoris: No active issues.
+.
+# Cerebral Palsy: No active issues
+.
+Transitional Issues:
+- The patient was set up to have an outpatient EUS, PET and 
+follow-up in ___ clinic. The patients PCP was updated 
+during the patients hospital course.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 100 mg PO DAILY 
+2. Pravastatin 40 mg PO DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Pravastatin 40 mg PO DAILY 
+RX *pravastatin [Pravachol] 40 mg 1 tablet(s) by mouth daily 
+Disp #*14 Tablet Refills:*0
+2. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth Daily Disp 
+#*14 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- Esophageal Cancer
+- Chronic Blood Loss Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with low blood levels and were found 
+to have a GI bleed coming from a mass in your esophagus. This 
+was found to be an esophageal cancer for which you will need 
+very close follow-up. 
+
+Please continue to take all of your other medications as 
+prescribed. Please hold your diuretic.
+ 
+Followup Instructions:
+___

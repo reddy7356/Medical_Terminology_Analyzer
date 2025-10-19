@@ -1,0 +1,119 @@
+===== DISCHARGE NOTE =====
+note_id=12288808-DS-19 | hadm_id=23784701
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ G1P1 ___ s/p SVD presents to GYN triage with fever
+and chills.  Tmax at home of 102.6. Took Tylenol at home. 
+Reports
+lower abdominal pain. Minimal lochia, less than a period.  She
+denies URI sx, SOB, cough, breast engorgement/erythema, n/v,
+diarrhea, constipation, dysuria, calf tenderness.
+
+ROS: otherwise negative
+
+ 
+Past Medical History:
+PMH: h/o HTN years ago treated with HCTZ
+PSH: denies
+OBHx: G1P1, uncomplicated SVD on ___
+GYNHx: denies
+
+ 
+Social History:
+denies T/D/E
+ 
+Physical Exam:
+On admission:
+T 101.3, HR 92, BP 148/68 -> 130/70, RR 20, O2sat 97%/RA
+Gen: A&O, NAD
+CV: RRR
+Resp: CTAB
+Breast: symmetric, non-tender, no engorgement, erythema or 
+masses
+Abd: +BS, soft, ND, fundal tenderness, no rebound or guarding
+Ext: calves nontender bilaterally, no edema
+Pelvic: normal external genitalia, normal vaginal mucosa,
+perineal laceration well healing without edema or drainage, 
+scant
+lochia
+BME: small AV uterus, +uterine tenderness, no CMT, no adenexal
+masses or tenderness
+.
+On discharge:
+Afebrile, vital signs stable
+Gen: NAD, comfortable
+CV: RRR
+Resp: CTAB
+Abd: soft, ND, appropriately tender, no rebound or guarding
+ 
+Pertinent Results:
+___ 11:24PM BLOOD WBC-16.3* RBC-3.52* Hgb-11.1* Hct-32.5* 
+MCV-92 MCH-31.5 MCHC-34.2 RDW-13.3 RDWSD-44.7 Plt ___
+___ 11:24PM BLOOD Neuts-88.4* Lymphs-5.5* Monos-5.1 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-14.42* AbsLymp-0.90* 
+AbsMono-0.84* AbsEos-0.05 AbsBaso-0.05
+___ 07:31AM URINE Color-Yellow Appear-Clear Sp ___
+___ 07:31AM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG
+___ 07:31AM URINE RBC-86* WBC-80* Bacteri-NONE Yeast-NONE 
+Epi-1
+.
+___ 7:31 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+ 
+Brief Hospital Course:
+___ G1P1 was readmitted on ___ s/p SVD with postpartum fever 
+likely due to endometritis given fundal tenderness and no other 
+localizing symptoms. She had no evidence of URI, pneumonia, 
+mastitis or UTI. She was hemodynamically stable and had no 
+evidence of sepsis. Bedside ultrasound at the time of admission 
+did not show evidence of retained products. She received IV 
+antibiotics for 24 hours afebrile with clinical improvement. She 
+was then discharged home with outpatient follow up. 
+
+ 
+Medications on Admission:
+tylenol
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+post partum endomyomytritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+call for increased pain, fever or bleeding
+ 
+Followup Instructions:
+___

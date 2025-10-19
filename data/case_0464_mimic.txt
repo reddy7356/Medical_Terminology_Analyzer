@@ -1,0 +1,238 @@
+===== DISCHARGE NOTE =====
+note_id=17155204-DS-21 | hadm_id=28365862
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with afib on sotalol, 
+HLD, HTN, with recent stress test showing reversible ischemic 
+defect awaiting elective catheterization at ___ on ___ p/w 
+chest pain.  
+His symptoms initially started two evenings ago with 
+palpitations which persisted for a few hours in addition to 
+frequent urination. No chest pain. He took an extra half dose of 
+Sotalol, used his CPAP and then went back to bed. He was able to 
+sleep for a few hours, but then developed right sided neck pain. 
+Given his recent stress test results, his son took him to the ED 
+at ___.  
+At ___, yesterday morning he then developed 
+substernal chest pain, radiating to bilateral chest. Pain is 
+constant but waxes and wanes in severity. Denies any associated 
+N/V, no recent fevers, chills, or diarrhea. He did recently come 
+back from ___ on ___. He states that earlier when he had 
+this pain burping seemed to relieve his symptoms.  
+At ___, ___ were reportedly negative x2, and CTA 
+was also negative. Copies of these reports from ___ are 
+pending, though he did come with paperwork showing:  
+___ 14:52 Tn <.01  
+Given his plans for cardiac cath at ___, he was transferred to 
+___ ED.  
+In the ED, initial vitals were: T 98.0 P 70 BP 159/99 R 14 O2Sat 
+97% RA  
+- Labs were significant for normal CBC, normal chem 7, Tn <.01.  
+
+- Imaging revealed a normal CXR per my read.  
+Upon arrival to the floor, pt continues to have some chest 
+discomfort. He requests another blanket, and would like to try 
+something for GERD. He also requests his Lorazepam.  
+
+ 
+Past Medical History:
+-anxiety  
+-HLD  
+-consipation  
+-depression  
+-lumbar disc displacement  
+-sleep apnea  
+-cervical radiculopathy  
+-BPH  
+-atrial fibrillation  
+-scrotal varices  
+ 
+Social History:
+___
+Family History:
+-father: stroke  
+-mother: heart failure  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals: 97.4 ___ 100% RA  
+General: Alert, oriented, no acute distress, pleasant  
+HEENT: Sclera anicteric, EOMI  
+Neck: Supple, JVP not elevated  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: alert, oriented
+
+DISCHARGE PHYSICAL EXAM:
+Vital Signs: T 97.7F BP ___ P ___ R ___ SaO2 
+97%/RA Weight 97.7
+General: Alert, oriented, no acute distress, pleasant  
+HEENT: Sclera anicteric, EOMI  
+Neck: Supple, JVP not elevated  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: alert, oriented
+
+ 
+Pertinent Results:
+SIGNIFICANT LABS:
+___ 11:40PM BLOOD WBC-5.5 RBC-4.91 Hgb-14.5 Hct-42.4 MCV-86 
+MCH-29.6 MCHC-34.3 RDW-14.4 Plt ___
+___ 11:30PM BLOOD Neuts-54.8 ___ Monos-6.1 Eos-2.0 
+Baso-0.9
+___ 11:40PM BLOOD ___ PTT-30.3 ___
+___ 11:40PM BLOOD Glucose-93 UreaN-16 Creat-0.8 Na-143 
+K-3.6 Cl-104 HCO3-27 AnGap-16
+___ 11:40PM BLOOD CK-MB-<1
+___ 11:40PM BLOOD cTropnT-<0.01
+___ 07:35AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 07:35AM BLOOD Calcium-9.3 Phos-2.9 Mg-2.1
+___ 11:32PM BLOOD Glucose-80 Na-144 K-4.3 Cl-106 calHCO3-21
+
+IMAGING:
+___ CXR: No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old gentleman with afib on sotalol, 
+HLD, HTN, with recent stress test showing reversible ischemic 
+defect awaiting elective catheterization at ___ on ___ p/w 
+chest pain.  
+
+# Chest Pain: most likely etiology gastrointestinal. Troponins 
+negative x3 and EKG without changes. CTA was negative at 
+___ for PE. Symptoms improved with belching and Maalox. 
+Omeprazole was increased from 20 to 40 daily and the patient was 
+discharged with Rx for Maalox and simethicone. Also sent with 
+nitroglycerin, in the event of angina, and lorazepam for anxiety 
+component. Patient will undergo scheduled cardiac 
+catheterization on ___. 
+
+# AF: sinus rhythm. Pt takes an aspirin daily but no other 
+anti-coagulants. Continued sotalol 40 mg BID and aspirin 81 
+daily. 
+
+# Polyuria: Pt reported recently polyuria. Likely in the setting 
+of BPH as UA negative. Will follow up with PCP. 
+
+# CAD: recent stress test showed reversible ischemic defect 
+awaiting elective catheterization at ___ on ___ p/w chest 
+pain. Aspirin and statin continued. SL nitroglycerin provided to 
+patient. 
+ 
+# GERD: omeprazole increased from 20 to 40 daily, given GI as 
+likely etiology of chest pain. Maalox and simethicone also 
+provided for dyspepsia. 
+
+# Anxiety/Insomnia  - continued lorazepam 
+
+TRANSITIONAL ISSUES
+- Planned elective cardiac catheterization at ___ on ___.
+- Increased omeprazole from 20mg daily to 40mg daily, discharged 
+with simethicone. 
+- Discharged with nitroglycerin prn. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Potassium Chloride 10 mEq PO DAILY 
+4. Simvastatin 20 mg PO QPM 
+5. Sotalol 40 mg PO BID 
+6. Lorazepam 1 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0
+3. Simvastatin 20 mg PO QPM 
+4. Sotalol 40 mg PO BID 
+5. Potassium Chloride 10 mEq PO DAILY 
+6. Lorazepam 1 mg PO Q8H:PRN insomnia, anxiety 
+RX *lorazepam 1 mg 1 tab by mouth every 8 hours Disp #*30 Tablet 
+Refills:*0
+7. Maalox/Diphenhydramine/Lidocaine 15 mL PO QID:PRN indigestion 
+
+RX *alum-mag hydroxide-simeth [Maalox Maximum Strength] 400 
+mg-400 mg-40 mg/5 mL 15 mL by mouth every 4 hours Refills:*0
+8. Simethicone 40-80 mg PO QID:PRN gas 
+RX *simethicone [Gas Relief] 80 mg 1 tab by mouth every 4 hours 
+Disp #*60 Tablet Refills:*0
+9. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.4 mg 1 tablet(s) sublingually every 5 
+minutes Disp #*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+========
+GERD
+Chest pain
+
+Secondary:
+==========
+Afib 
+CAD
+Anxiety
+Insomnia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___:
+
+It was a pleasure taking part in your care during your 
+hospitaliztion at ___. You came in with chest pain. We did a 
+cardiac work up to make sure this was not related to your heart 
+and your test result were normal. The pain was likely due to 
+gastric acid causing reflux. We increased your medication for 
+acid (omeprazole) an you improved. We also started you on 
+medication for bloating and gas pain (simethicone). Please 
+follow up with your primary care doctor in the next week.
+
+We wish you all the Best!!
+ 
+Followup Instructions:
+___

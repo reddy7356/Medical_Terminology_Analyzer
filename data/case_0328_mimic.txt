@@ -1,0 +1,702 @@
+===== DISCHARGE NOTE =====
+note_id=19051689-DS-20 | hadm_id=25742207
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall from wheelchair
+ 
+Major Surgical or Invasive Procedure:
+___ C6-C7
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with non-rheumatic
+aortic valvular disease otherwise unspecified, aortic aneurism
+without surgical intervention, CKD unspecified stage, GIB, PVD,
+and dementia who presented after sustaining a mechanical fall
+from his wheelchair, resulting in a C4 fracture and C6-7 disk
+disruption.
+ 
+Past Medical History:
+CAD s/p CABG ___
+AAA - stable 4cm
+Dementia - unspecified
+Possible history of GI bleed (no clear records)
+Hip fracture ___
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS:98.2 | 112/78 | 82 | 18 | 98% 2L 
+General: Patient is slow to respond to questions and possibly 
+hard of hearing. Did respond to yes and no questions with 
+significant prompting.
+HEENT: PERRLA, No oral lesions. Laceration to bridge of nose and 
+erythema dependent perorbital erythema.
+Neck: Dressing in place
+CV: RRR, S1, S2 no murmurs rubs or gallops appreciated
+Lungs: Crackles in lower lobes. Transmitted upper airway sounds 
+throughout
+Abdomen: Soft non-tender non distended
+GU: Foley in place
+Ext: Warm well profused, distal pulses 2+ throughout
+Neuro: Moves all extremities. No focal deficits.
+
+DISCHARGE EXAM:
+VS: 98.4 ___ 18 93-97% RA 
+General: Pleasant elderly gentleman that is alert and 
+conversive. Some slurred speech. Sitting comfortably in bed 
+during interview.
+HEENT: Patient without dentures, moist mucus membranes, PERRLA   
+
+Neck: Supple
+CV: RRR, no m/r/g
+Lungs: CTAB
+Abdomen: soft, nontender, nondistended, no HSM appreciated  
+GU: Deferred
+Ext: WWP, no ___ edema 
+Neuro: Arousable and responds to commands. No focal deficits 
+noted.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:45PM BLOOD WBC-6.9 RBC-4.55* Hgb-13.8 Hct-42.9 
+MCV-94 MCH-30.3 MCHC-32.2 RDW-12.9 RDWSD-44.9 Plt ___
+___ 01:45PM BLOOD ___ PTT-29.5 ___
+___ 01:45PM BLOOD Glucose-111* UreaN-21* Creat-1.2 Na-138 
+K-4.3 Cl-99 HCO3-26 AnGap-17
+___ 01:45PM BLOOD Calcium-8.2* Phos-3.8 Mg-2.1
+
+INTERVAL LABS
+=============
+___ 12:57PM BLOOD WBC-11.9* RBC-3.95* Hgb-12.2* Hct-36.9* 
+MCV-93 MCH-30.9 MCHC-33.1 RDW-13.2 RDWSD-45.2 Plt ___
+___ 05:55AM BLOOD WBC-8.3 RBC-3.94* Hgb-12.1* Hct-36.5* 
+MCV-93 MCH-30.7 MCHC-33.2 RDW-13.4 RDWSD-45.6 Plt ___
+___ 04:20AM BLOOD WBC-10.2* RBC-3.73* Hgb-11.3* Hct-34.9* 
+MCV-94 MCH-30.3 MCHC-32.4 RDW-13.2 RDWSD-45.1 Plt ___
+___ 06:20AM BLOOD WBC-7.0 RBC-3.37* Hgb-10.5* Hct-32.3* 
+MCV-96 MCH-31.2 MCHC-32.5 RDW-13.4 RDWSD-47.1* Plt ___
+___ 12:57PM BLOOD Neuts-85.7* Lymphs-7.1* Monos-5.7 
+Eos-0.7* Baso-0.3 Im ___ AbsNeut-10.24* AbsLymp-0.85* 
+AbsMono-0.68 AbsEos-0.08 AbsBaso-0.03
+___ 04:58AM BLOOD ___ PTT-80.2* ___
+___ 02:04AM BLOOD ___ PTT-27.4 ___
+___ 06:20AM BLOOD ___ PTT-50.5* ___
+___ 12:57PM BLOOD Glucose-133* UreaN-19 Creat-1.1 Na-134 
+K-4.2 Cl-103 HCO3-19* AnGap-16
+___ 04:20AM BLOOD Glucose-112* UreaN-22* Creat-1.2 Na-143 
+K-3.7 Cl-104 HCO3-21* AnGap-22*
+___ 09:25AM BLOOD Glucose-88 UreaN-28* Creat-1.2 Na-147* 
+K-3.7 Cl-110* HCO3-20* AnGap-21*
+___ 04:10PM BLOOD Glucose-120* UreaN-26* Creat-1.1 Na-147* 
+K-3.7 Cl-111* HCO3-25 AnGap-15
+___ 06:55PM BLOOD CK(CPK)-349*
+___ 06:55PM BLOOD CK-MB-16* MB Indx-4.6 cTropnT-2.14*
+___ 10:40AM BLOOD CK-MB-9 cTropnT-2.19*
+___ 06:11AM BLOOD CK-MB-5 cTropnT-3.38*
+___ 05:55AM BLOOD Calcium-7.7* Phos-2.9 Mg-1.8
+___ 05:55AM BLOOD Albumin-3.3* Calcium-7.7* Phos-2.7 Mg-1.8
+___ 06:57AM BLOOD Calcium-8.0* Phos-3.1 Mg-2.0
+___ 06:11AM BLOOD %HbA1c-5.2 eAG-103
+___ 06:11AM BLOOD Triglyc-115 HDL-39 CHOL/HD-4.5 
+LDLcalc-112
+___ 06:11AM BLOOD TSH-3.5
+
+DISCHARGE LABS
+==============
+___ 06:00AM BLOOD WBC-10.0 RBC-3.79* Hgb-11.6* Hct-35.5* 
+MCV-94 MCH-30.6 MCHC-32.7 RDW-13.2 RDWSD-45.1 Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-103* UreaN-17 Creat-1.0 Na-140 
+K-3.8 Cl-102 HCO3-24 AnGap-18
+___ 06:00AM BLOOD Calcium-8.1* Phos-3.2 Mg-1.7
+
+MICRO
+======
+___ 1:24 pm BLOOD CULTURE      #1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 10:47 am SWAB     Site: URETHRA      Source: Urethral. 
+
+                            **FINAL REPORT ___
+
+   Chlamydia trachomatis, Nucleic Acid Probe, with Amplification 
+(Final
+      ___:    Negative for Chlamydia trachomatis by 
+___ System,
+      APTIMA COMBO 2 Assay. 
+
+   NEISSERIA GONORRHOEAE (GC), NUCLEIC ACID PROBE, WITH 
+AMPLIFICATION
+      (Final ___:    Negative for Neisseria gonorrhoeae by 
+PANTHER
+      System, APTIMA COMBO 2 Assay.
+
+___ 10:47 am SWAB      Source: Urethral. 
+
+   VIRAL CULTURE: R/O HERPES SIMPLEX VIRUS (Preliminary): 
+      No Herpes simplex (HSV) virus isolated.
+
+IMAGING
+========
+___ MRI C-SPINE W/CONTRAST:
+FINDINGS:  
+  
+The study is moderately limited by motion artifact. 
+  
+There is extensive prevertebral edema from the craniocervical 
+junction through 
+the T3-T4 level. 
+  
+There is a minimally displaced fracture of the C4 anterior 
+superior corner, as 
+seen on the preceding CT, with marrow edema parallel to the 
+anterior superior 
+endplate of C4.  Disruption of the anterior longitudinal 
+ligament is suspected 
+at this level, though evaluation is limited by motion artifact.  
+There is 
+edema between the laminae of C3 and C4 bilaterally, extending to 
+the margins 
+of the facet joints, but without extension into the interspinous 
+ligament or 
+spinous process.  The facet joints remain well aligned.  
+Cervical vertebral 
+bodies are also well aligned. 
+  
+There is a small nondisplaced fracture of the C7 anterior 
+superior corner, as 
+seen on the preceding CT, with associated disruption of the 
+anterior 
+longitudinal ligament.  There is also marrow edema parallel to 
+the anterior 
+superior endplate of C7 and extending in a parasagittal plane 
+into the central 
+vertebral body, with central disruption of the superior endplate 
+demonstrate 
+on the preceding CT, consistent with a nondisplaced fracture. 
+  
+There is minimal edema in the anterior aspect of the C4-C5 disc, 
+which may be 
+either posttraumatic or degenerative, as there is loss of disc 
+height and 
+endplate degenerative changes. 
+  
+C2-C3:  Small disc protrusion does not contact the spinal cord 
+or 
+significantly narrow the spinal canal.  No significant neural 
+foraminal 
+narrowing. 
+  
+C3-C4:  Small disc protrusion indents the ventral thecal sac and 
+mildly 
+remodels the ventral spinal cord with mild to moderate spinal 
+canal narrowing. 
+Neural foramina are not well assessed due to motion artifact. 
+  
+C4-C5: Broad-based central endplate osteophyte ridge moderately 
+narrows the 
+spinal canal with ventral spinal cord flattening.  At least 
+moderate bilateral 
+neural foraminal narrowing by uncovertebral and facet 
+osteophytes. 
+  
+C5-C6:  Central broad-based disc protrusion with endplate 
+osteophytes, larger 
+on the right than left, contact the right ventral spinal cord.  
+Spinal canal 
+narrowing is only mild.  At least moderate right neural 
+foraminal narrowing by 
+uncovertebral and facet osteophytes. 
+  
+C7-T1:  Posterior endplate osteophyte ridge, larger on the left 
+than right, 
+indents the ventral thecal sac without spinal cord contact.  At 
+least moderate 
+left neural foraminal narrowing by uncovertebral and facet 
+osteophytes. 
+  
+C7-T1:  Minimal anterolisthesis.  Small central disc protrusion 
+without spinal 
+canal or neural foraminal narrowing. 
+  
+Evaluation of spinal cord signal on sagittal T2 weighted images 
+is limited by 
+motion artifact.  No cord signal abnormalities are seen on axial 
+T2 weighted 
+images.  Diffusion-weighted images demonstrate no evidence for 
+cord contusion 
+or infarction. 
+  
+The cerebellar tonsils are normally positioned.  Axial T2 
+weighted images 
+demonstrate volume loss in bilateral cerebellar hemispheres was 
+prominent 
+fissures, and a small chronic infarction a left cerebellar 
+hemisphere, as seen on the ___ CT head. 
+  
+IMPRESSION: 
+  
+1. Motion limited exam. 
+2. C4 anterior superior corner fracture with disruption of the 
+anterior 
+longitudinal ligament.  Edema between the laminae of C3 and C4 
+bilaterally, 
+abutting the posterior aspects of the facet joints, without 
+facet joint 
+disruption or extension into the spinous processes/interspinous 
+ligament.  No 
+spondylolisthesis. 
+3. C7 anterior superior corner fracture extending into the 
+central vertebral 
+body, with disruption of the anterior longitudinal ligament. 
+4. Edema in the anterior aspect of the C4-C5 disc may be 
+posttraumatic or 
+degenerative. 
+5. Prevertebral edema from the craniocervical junction through 
+T3-T4. 
+6. No evidence for spinal cord signal abnormalities. 
+7. Multilevel cervical degenerative disease. 
+
+___ PLAIN RADIOGRAPH C-SPINE:
+FINDINGS:  
+  
+Interval anterior C6-C7 fusion with plate, screws, interbody 
+spacer.  Fracture 
+of the anterior superior corner of C4 vertebral body.  
+Prevertebral soft 
+tissue edema is more prominent compared with prior radiograph.  
+Degenerative 
+changes cervical spine.  There is minimal retrolisthesis of C3 
+on C4, similar. 
+Temperature probe in the hypopharynx.  Oral tube in place.  
+Surgical hardware 
+elsewhere. 
+  
+IMPRESSION:  
+  
+C6-C7 anterior fusion.  Fracture anterior C4 vertebral body.  
+
+___ ECG:
+ 
+Atrial fibrillation with a rapid ventricular response. Right 
+bundle-branch 
+block. Premature ventricular complex. Possible old anteroseptal 
+myocardial 
+infarction. Low voltage in the limb leads. No previous tracing 
+available for 
+comparison.  
+TRACING #1 
+
+___ CXR:
+IMPRESSION:  
+  
+No previous images.  Cardiac silhouette is within upper limits 
+of normal in 
+this patient with intact midline sternal wires.  Mild 
+engorgement and 
+indistinctness of pulmonary vessels is consistent with some 
+elevation of 
+pulmonary venous pressure.  The left hemidiaphragm and 
+costophrenic angle are 
+not well seen, suggesting some layering effusion with 
+compressive atelectasis 
+at the base.  No evidence of acute focal pneumonia, though this 
+would be 
+difficult T definitely exclude in the appropriate clinical 
+setting, especially 
+in the absence of a lateral view. 
+
+___ TTE:
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thicknesses are normal. The left ventricular 
+cavity size is normal. There is severe regional left ventricular 
+systolic dysfunction c/w CAD in mid LAD distribution (wrap 
+around LAD). Diastolic function could not be assessed. Right 
+ventricular chamber size and free wall motion are normal. The 
+number of aortic valve leaflets cannot be determined. There is 
+no aortic valve stenosis. The mitral valve leaflets are mildly 
+thickened. Mild to moderate (___) mitral regurgitation is seen. 
+The pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion. 
+
+IMPRESSION: Severe regional systolic dysfunction c/w CAD in the 
+LAD distribution.
+
+___ CTA HEAD AND NECK:
+FINDINGS:  
+  
+NONCONTRAST CT HEAD:  There is no intra or extra-axial mass 
+effect, acute 
+hemorrhage or acute large territorial infarct.  Prominent 
+ventricles and sulci 
+suggest age-related involutional changes.  Periventricular and 
+subcortical 
+white matter hypodensities are nonspecific, though likely 
+sequelae of chronic 
+small vessel ischemic disease.  Rounded hypodensities in the 
+bilateral basal 
+ganglia likely reflect old lacunes. Encephalomalacia in the left 
+cerebellar 
+hemisphere is consistent with prior infarct. 
+  
+CTA HEAD: Focal 2 mm outpouching within the C6 segment of the 
+left internal 
+carotid artery could represent aneurysm or infundibulum (3:250). 
+ Moderate 
+atherosclerotic calcification addition and narrowing of the 
+right petrous and 
+lacerum internal carotid artery.  Extensive atherosclerotic 
+calcification of 
+the bilateral cavernous through supraclinoid internal carotid 
+arteries results 
+in bilateral mild to moderate narrowing.  The right A1 segment 
+is generally 
+hypoplastic.  Otherwise, vessels of the circle of ___ and 
+their principal 
+intracranial branches are patent without evidence of occlusion 
+or high-grade 
+stenosis. 
+  
+CTA NECK:  There is a 3 vessel arch.  The left vertebral artery 
+is occluded 
+throughout much of its cervical course with focal reconstitution 
+in scattered 
+V2 segments throughout its cervical course, reconstitutes in the 
+proximal 
+portion of the V3 segment via muscular collaterals (series 3, 
+image 208-9), 
+and is again completely occluded in the mid-to-distal portions 
+of the V4 
+segment. Focal 2 mm outpouching in the distal V4 segment just 
+before joining 
+the basilar artery (3:236) most compatible with remnant V4, 
+although a small 
+aneurysm is not entirely excluded.  Atherosclerotic 
+calcification of the right 
+vertebral artery origin results in at least moderate narrowing.  
+Otherwise, 
+the right vertebral artery and common carotid arteries are 
+patent throughout 
+their cervical course without evidence of occlusion, high-grade 
+stenosis, 
+dissection or aneurysm formation.  Moderate calcified plaque at 
+the bilateral 
+carotid bifurcation.  There is approximately 50% stenosis of the 
+right 
+cervical internal carotid artery by NASCET criteria.  There is 
+approximately 
+10% stenosis of the left cervical internal carotid artery by 
+NASCET criteria.  
+Extensive atherosclerotic calcification of the bilateral 
+subclavian arteries 
+are noted, resulting in mild to moderate narrowing throughout 
+most of their 
+visualized course. 
+  
+Right innominate artery stent is patent. Extensive 
+atherosclerotic 
+calcification of the great vessels with chronic ulcerated 
+plaques within the 
+aortic arch and proximal descending thoracic aorta. 
+  
+OTHER:  Bilateral peribronchovascular and ground-glass 
+opacities, 
+predominantly within the left upper lobe, suggest infectious 
+etiology. 
+Partially visualized bilateral nonhemorrhagic pleural effusions 
+with 
+associated atelectasis. Moderate paraseptal and centrilobular 
+emphysema.  
+Prominent mediastinal lymph nodes, likely reactive.  Thyroid 
+gland is 
+unremarkable without discrete nodule.  There is no cervical 
+lymphadenopathy by 
+size criteria 
+  
+IMPRESSION: 
+  
+  
+1. Focal 2 mm outpouching within the C6 segment of the left 
+internal carotid 
+artery present aneurysm or infundibulum. 
+2. Focal 2 mm outpouching of the basilar artery at the left V4 
+bifurcation, 
+most likely represents remnant V4 artery.  Aneurysm is not 
+entirely excluded 
+but considered much less likely. 
+3. Near complete occlusion of the left vertebral artery 
+throughout its 
+cervical course with scattered short focal reconstitution in V2 
+segments with 
+reconstitution at the V3 segment from muscular collaterals with 
+subsequent 
+reocclusion within the mid-to-distal portions of the V4 segment. 
+
+4. 50% stenosis of the right and 10% stenosis of the left 
+cervical internal 
+carotid arteries by NASCET criteria. 
+5. Extensive atherosclerotic disease with chronic ulcer plaques 
+of the aorta 
+and proximal descending thoracic aorta.  Additional prominent 
+atherosclerotic 
+disease as described above. 
+6. Bilateral peribronchovascular ground-glass opacities 
+predominantly within 
+the left upper lobe, suggestive of infectious etiology. 
+7. Bilateral nonhemorrhagic pleural effusions with associated 
+atelectasis.
+
+___ MRI HEAD W/O CONTRAST:
+FINDINGS:  
+  
+The sagittal T1 weighted images are severely degraded by motion 
+artifact. 
+  
+Moderate prominence of the ventricles and sulci is unchanged and 
+consistent 
+with global atrophy.  There is no evidence of hemorrhage, edema, 
+mass, mass 
+effect, or acute infarction.  Confluent and scattered punctate 
+periventricular 
+and subcortical white matter FLAIR hyperintensities are 
+nonspecific but likely 
+sequelae of chronic microangiopathy in a patient this age.  A 
+cluster of small 
+T2 hyperintense foci in the basal ganglia bilaterally following 
+the signal 
+intensity of CSF on all sequences likely represent prominent 
+perivascular 
+spaces.  Lack of flow related signal of the left V3 segment and 
+portions of 
+the left V4 segment corresponding to findings on CTA of ___.  The 
+remainder of the principal intracranial vascular flow voids are 
+preserved.  
+There is fluid signal in a few left mastoid air cells.  The 
+orbits are 
+unremarkable. 
+  
+IMPRESSION:  
+  
+1.  No evidence of hemorrhage, edema, mass, mass effect, or 
+acute infarction. 
+  
+2.  Moderate global atrophy and chronic white matter changes 
+likely 
+representing small vessel ischemic disease. 
+
+___ CXR:
+IMPRESSION:  
+  
+Heart size and medius sternum are stable.  The patient is after 
+aortic valve 
+replacement.  Lungs overall clear.  There is no appreciable 
+pleural effusion 
+or pneumothorax. 
+ 
+
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ y/o with a reported h/o non-rheumatic 
+aortic valvular disease otherwise unspecified, history of cabg, 
+aortic aneurism without surgical intervention, CKD unspecified 
+stage, GIB, PVD, and dementia who initially presented to the 
+hospital with three weeks of increasing chest pain with exertion 
+and a mechanical fall from his wheelchair.
+
+His fall resulted in a fracture of C4 and disruption of the 
+C6-C7 disk. He underwent fusion of C6-C7 and was being 
+discharged to rehab when he was found to have Afib with RVR to 
+the 160's. He was then transferred to medicine for further care.
+
+#Afib with RVR: On ___ Mr. ___ was in pain with a heart 
+rate of 160's with Afib on EKG. He was given IV metoprolol 5mg 
+with resolution the heart rate to the 100's and chest pain. He 
+was started on oral metoprolol and remained rate controlled 
+throughout his stay. He was started on apixiban when he was able 
+to tolerate PO medications.
+
+#NSTEMI: During the evaluation of RVR, patient was found to have 
+troponin of 1.75. The history of 3 weeks of increasing 
+exertional chest pain was elicited and a history of hypotension 
+during his operation followed by pain "all over" in the PACU. It 
+is likely that he had an NSTEMI (and/or demand ischemia during 
+his Afib with RVR). He was medically managed, including with a 
+heparin gtt for 48 hours. He had an echocardiogram which showed 
+an LVEF of 23% and anteroseptal hypokinesis. Given his 
+comorbidities and DNR/DNI status, catheterization was not felt 
+to be appropriate. He was continued on his metoprolol which he 
+tolerated well, and did not have any additional chest pain 
+episodes while in the hospital.
+
+#TIA: On the morning of ___ Mr. ___ was found to have a 
+left sided facial droop and was disarthric. A code stroke was 
+called and a CTA and MRI did not find any clots or bleeding. He 
+quickly regained some of his ability to speak and had 
+improvement in his facial droop. However, he continued to have 
+some difficulty swallowing for several days which continued to 
+improve and ultimately he was discharged to rehab on a pureed 
+diet with thin liquids (meds crushed and given in applesauce). 
+With a believed cardiac source and given a history of Afib, he 
+was started on the above anticoagulation.
+
+#Hypernatremia: Mild, persistently elevated sodium. Most likely 
+due to inadequate free water intake. He was given ___ NS as 
+needed until his PO intake increased. He was able to maintain a 
+normal sodium without requiring any additional IVF prior to 
+discharge.  Discharge sodium 140.
+
+===================
+TRANSITIONAL ISSUES
+===================
+Medications Started: Apixaban 5 mg PO/NG BID, Aspirin 81 mg 
+PO/NG DAILY, Atorvastatin 80 mg PO/NG QPM, Metoprolol Tartrate 
+25 mg PO/NG BID, Lisinopril 5 mg PO/NG DAILY 
+- Patient to follow up in Orthopedic Spine clinic with Dr. 
+___. Call ___ to schedule
+- Please check chem 10 within ___ days of discharge to make sure 
+patient is able to meet his nutritional needs with PO intake.
+- Please monitor PO intake, and encourage PO intake
+- Please monitor BP as patient started on ACEi Lisinopril this 
+admission
+- Consider switching metoprolol tartrate 25mg BID to metoprolol 
+succinate 50mg once daily if and when he is able to tolerate 
+taking pills w/o needing them crushed
+- Please monitor for ability to void. Foley removed on day of 
+discharge
+
+Code: DNR/DNI confirmed, has MOLST
+
+Name of health care proxy: ___ 
+Relationship: daughter 
+Phone number: ___ 
+Cell phone: ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+2. Bisacodyl 10 mg PO DAILY:PRN constipation 
+3. Docusate Sodium 100 mg PO BID 
+4. melatonin 3 mg oral QHS 
+5. Milk of Magnesia 30 mL PO Q12H:PRN constipation 
+6. Ondansetron 4 mg PO Q8H:PRN nausea 
+7. Guaifenesin-Dextromethorphan 10 mL PO Q4H:PRN Cough 
+8. Mineral Oil Dose is Unknown  PR DAILY:PRN Constipation 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Apixaban 5 mg PO BID  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Docusate Sodium 100 mg PO BID  
+6.  Lisinopril 5 mg PO DAILY  
+7.  Metoprolol Tartrate 25 mg PO BID  
+8.  Miconazole Powder 2% 1 Appl TP TID groin rash  
+9.  Mineral Oil ___ mL PO DAILY:PRN Constipation  
+10.  Bisacodyl 10 mg PO DAILY:PRN constipation  
+11.  Guaifenesin-Dextromethorphan 10 mL PO Q4H:PRN Cough  
+12.  melatonin 3 mg oral QHS  
+13.  Milk of Magnesia 30 mL PO Q12H:PRN constipation  
+14.  Ondansetron 4 mg PO Q8H:PRN nausea  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+-disc disruption at C6-7 and a C4 compression fracture.
+-NSTEMI
+-TIA
+
+Secondary Diagnosis:
+-Dysphagia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital for a fall from you wheelchair and were 
+found to have a neck fracture and damage to your the discs in 
+your neck. You underwent a surgery to fix this.
+
+During your stay you had a rapid heart rate and a myocardial 
+infarction (heart attack). You have been started on medications 
+to help keep that from happening again.
+
+Also during your stay, you had a transient ischemic attack 
+("TIA") which caused a sudden loss of function in your speech 
+and swallowing. You are recovering from this well, but will need 
+further rehab.
+
+You were started on a blood thinner, called Apixaban, to help 
+prevent blood clots and hopefully prevent further strokes or 
+TIA's.
+
+Below are the instructions from you surgeon.
+
+ACTIVITY: DO NOT lift anything greater than 10 lbs for 2 weeks 
+following your surgery. 
+
+___ times a day you should go for a walk for ___ minutes as 
+part of your recovery. You can walk as much as you can tolerate. 
+
+You will be more comfortable if you do not sit or stand more 
+than ~45 minutes without changing positions.
+
+BRACE: You have been given a brace. This brace should be worn 
+for comfort when you are walking. You may take it off when 
+sitting in a chair or while lying in bed.
+
+WOUND: Remove the external dressing in 2 days. If your incision 
+is draining, cover it with a new dry sterile dressing. If it is 
+dry then you may leave the incision open to air. Once the 
+incision is completely dry, (usually ___ days after the 
+operation) you may shower. Do not soak the incision in a bath or 
+pool until fully healed. If the incision starts draining at any 
+time after surgery, cover it with a sterile dressing. Please 
+call the office. 
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+
+All of our best,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

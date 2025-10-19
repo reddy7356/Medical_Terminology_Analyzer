@@ -1,0 +1,842 @@
+===== DISCHARGE NOTE =====
+note_id=13576993-DS-13 | hadm_id=26353633
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / doxycycline / Flagyl / Bactrim / fentanyl
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue, Failure to Thrive
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ Ms. ___ is a ___ woman with stage IVB high-grade
+Mullerian carcinoma w/ peritoneal involvement and mets to liver,
+and bone complicated by tumor-enteric fistula, pelvic abscess,
+and B. fragilis bacteremia s/p neoadjuvant carboplatin and
+paclitaxel (per ___ followed by interval cytoreductive
+surgery then 2 cycles ___ with recurrence, started on
+single-agent doxorubicin, now completed 3 cycles and palliative
+radiation therapy to hip/spine and WBRT for
+carvarial/pachymeningeal disease, who was planned to start
+pemetrexed, but has been thrombocytopenic, and who presented to
+___ on ___ w/weakness and dehydration.
+
+ On arrival to the floor,  she appears well. She says that she
+felt well last ___. But on ___ and yesterday, she felt 
+very
+tired and unable to do any basic chores around the house. She
+visited ___ ER for fatigue. Re: Dehydration, she feels
+like she is doing well. She drinks enough liquids and her urine
+color is pale yellow. Other than general tiredness, she has no
+focal symptoms.
+
+ 
+ REVIEW OF SYSTEMS:  
+ A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.  
+ 
+Past Medical History:
+PMH:
+- Lyme disease ___
+- history of benign dura mater turmor as child
+- Denies hypertension, diabetes, cardiovascular disease, asthma,
+thromboembolic disease
+
+PSH: 
+- ganglion cyst excision
+- benign dura mater tumor excision 
+- abdominoplasty
+- breast implants
+
+POB: G0
+
+PGYN: 
+- LMP ___, denies postmenopausal bleeding
+- Not currently sexually active 
+- Bioidentical hormonal replacement therapy for ___ years
+perimenopause
+- Remote history of abnormal Pap smear in her ___, unsure if 
+LEEP
+was performed; last Pap ___ neg per patient
+- Denies history of pelvic infections or sexually transmitted
+infections
+- Denies history of fibroids or cysts
+ 
+Social History:
+___
+Family History:
+- Maternal grandmother with breast cancer diagnosed age ___, died 
+of stroke
+- No known family history of uterine, ovarian, cervical or colon 
+cancer
+ 
+Physical Exam:
+ADMISSION PE:
+
+ Vitals:  106/70. t98.4. 98% on RA. HR 103.
+ GENERAL:  comfortable
+ HEENT:  NC AT. NAD
+ NECK:  Soft NT ND
+ LUNGS:  CTAB. No crackles or wheezes
+ CV:  RRR s1 and S2 normal. No MRG
+ ABD:  Soft NT
+ EXT:  No edema
+ SKIN:  WNL
+ NEURO:  No focal deficits
+ ACCESS:  R port (not accessed at this time)
+
+DISCHARGE PE:
+
+Deceased
+ 
+Pertinent Results:
+Deceased
+ 
+Brief Hospital Course:
+___ with stage IVB high-grade Mullerian carcinoma w/ peritoneal 
+involvement and mets to liver, and bone complicated by 
+tumor-enteric fistula, pelvic abscess, and B. fragilis 
+bacteremia s/p neoadjuvant carboplatin and paclitaxel (per 
+___ followed by interval cytoreductive surgery then 2 cycles 
+___ with recurrence, started on
+single-agent doxorubicin, now completed 3 cycles and palliative 
+radiation therapy to hip/spine and WBRT for 
+carvarial/pachymeningeal disease, who was planned to start
+pemetrexed, but has been thrombocytopenic, and who presented to 
+___ on ___ w/weakness and dehydration subsequently 
+transferred to ___. Dehydration improved with pain. 
+Thrombocytopenia persistent, however main issue became pain 
+control. Meeting held with primary oncologist and decision made 
+to transition to DNR/DNI, however the patient developed 
+worsening pain lactic acidosis, as well as concern for rapid 
+progression of her baseline disease. After discussions with 
+primary team, decision made to transition patients care to CMO. 
+She passed at 955AM on ___ with her family at her bedside. 
+Autopsy declined. Outpatient providers and oncology team 
+informed.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Mirtazapine 15 mg PO QHS 
+3. Ondansetron 4 mg PO Q8H:PRN nausea 
+4. Prochlorperazine 5 mg PO Q8H:PRN  nausea use second, if 
+ondansetron not effective 
+5. LORazepam 0.5-1 mg PO Q4H:PRN anxiety/insomnia 
+6. Senna 8.6 mg PO BID:PRN  constipation 
+7. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+
+ 
+Discharge Medications:
+None-deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13576993-DS-11 | hadm_id=27929801
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Penicillins / Sulfa (Sulfonamide Antibiotics) / 
+doxycycline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+s/p ___ guided paracentesis; ___ guided omental biopsy
+ 
+History of Present Illness:
+___ yoF G0 who presented as a transfer from ___ 
+___ to the ___ ED on ___ with acute onset RLQ and 
+epigastric pain, found to have likely metastatic cancer of 
+possible ovarian origin on imaging, now directly admitted to the 
+Gyn Oncology service ___ the setting of worsening abdominal pain,
+nausea and vomiting. The patient was seen by Dr. ___ ___ ___ 
+___ clinic yesterday as an outpatient, noted to have 
+significant abdominal distension ___ the setting of likely 
+ascites. Her abdominal pain had worsened since the weekend when 
+she was evaluated ___ the ED. She became more nauseated over the 
+course of this past week and had multiple episodes of emesis, 
+the last of which was this morning. She was taking 10mg of 
+oxycodone Q6H for the pain, with intermittent relief. She has 
+not had a bowel movement for at least three days and does not 
+believe she has been passing gas. She denies urinary symptoms, 
+but thinks her urine has been very dark ___ appearance, might 
+have blood ___ it,
+however she is unsure. She denies fevers or chills. She denies 
+vaginal bleeding or vaginal discharge. She endorses some mild 
+shortness of breath, however, feels improved since earlier 
+today. She denies chest pain or chest pressure, denies feeling 
+her heart race. She denies headache or dizziness. Up until this 
+past ___ she felt completely well, aside from some 
+intermittent back pain.
+
+Of note, the decision was made to directly admit the patient to 
+the hospital following ___ guided paracentesis today. She is now 
+s/p paracentesis, drained 1L of purulent/feculent material. 
+Drain left ___ place. Prior to drainage, air noted throughout 
+abdomen on US with concern for possible tumor enteric fistula 
+vs. bowel perforation. 
+ 
+Past Medical History:
+PMH:
+- Lyme disease ___
+- history of benign dura mater turmor as child
+- Denies hypertension, diabetes, cardiovascular disease, asthma,
+thromboembolic disease
+
+PSH: 
+- ganglion cyst excision
+- benign dura mater tumor excision 
+- abdominoplasty
+- breast implants
+
+POB: G0
+
+PGYN: 
+- LMP ___, denies postmenopausal bleeding
+- Not currently sexually active 
+- Bioidentical hormonal replacement therapy for ___ years
+perimenopause
+- Remote history of abnormal Pap smear ___ her ___, unsure if 
+LEEP
+was performed; last Pap ___ neg per patient
+- Denies history of pelvic infections or sexually transmitted
+infections
+- Denies history of fibroids or cysts
+ 
+Social History:
+___
+Family History:
+- Maternal grandmother with breast cancer diagnosed age ___, died 
+of stroke
+- No known family history of uterine, ovarian, cervical or colon 
+cancer
+ 
+Physical Exam:
+Admission Exam:
+VS 98.2 HR110 BP 95/63 -> 132/75 RR18 O2Sat 96% on RA
+GEN: NAD, lying on back ___ bed
+CV: RRR
+R: No respiratory distress on RA, decreased breath sounds at
+bilateral bases
+Abd: mildly firm throughout all four quadrants, ___ drain ___ 
+place
+___ RLQ with tan colored purulent drainage, mildly TTP ___ LLQ
+otherwise mostly nontender to palpation, nonperitoneal, no
+rebound or guarding
+GU: deferred
+Ext: WWP, no edema bilaterally
+
+Discharge Exam:
+VS: 98.1 104/70 82 18 95RA
+JP drainage over past 24 hrs 275cc
+___: laying ___ bed, NAD  
+HEENT: NC/AT, EOMI, PERRL, MMM  
+CARDIAC: RRR, normal S1 & S2, without murmurs, S3 or S4  
+LUNG: clear to auscultation, no wheezes or rhonchi  
+ABD: +BS, distended, NT, no rebound or guarding, drain on right 
+side with light greenish/brown output 
+EXT: No lower extremity pitting edema  
+PULSES: 2+DP pulses bilaterally  
+NEURO: A&O x 3, CN II-XII intact  
+SKIN: Warm and dry, without rashes 
+ 
+ 
+Pertinent Results:
+LABORATORY STUDIES ON ADMISSION
+=======================================
+___ 01:25PM BLOOD WBC-18.5* RBC-3.68* Hgb-10.7* Hct-32.7* 
+MCV-89 MCH-29.1 MCHC-32.7 RDW-14.7 RDWSD-48.4* Plt ___
+___ 10:30AM BLOOD ___ PTT-26.9 ___
+___ 05:35PM BLOOD Glucose-105* UreaN-55* Creat-1.0 Na-135 
+K-4.9 Cl-98 HCO3-22 AnGap-20
+___ 05:35PM BLOOD ALT-44* AST-111*
+___ 05:35PM BLOOD Calcium-8.8 Phos-3.4 Mg-3.4*
+
+OTHER PERTINENT LABORATORY STUDIES
+=======================================
+___ 07:10AM BLOOD ___ 03:45PM ASCITES ___ RBC-0 Polys-0 Lymphs-0 
+Monos-0
+
+DISCHARGE LABOARTORY STUDIES
+=======================================
+___ 05:03AM BLOOD WBC-40.5* RBC-2.75* Hgb-8.1* Hct-25.9* 
+MCV-94 MCH-29.5 MCHC-31.3* RDW-18.1* RDWSD-60.3* Plt ___
+___ 05:03AM BLOOD ___ PTT-27.2 ___
+___ 05:03AM BLOOD Glucose-114* UreaN-12 Creat-0.4 Na-136 
+K-4.2 Cl-100 HCO3-27 AnGap-13
+___ 05:03AM BLOOD ALT-20 AST-35 LD(LDH)-372* AlkPhos-398* 
+TotBili-0.2
+___ 05:03AM BLOOD Calcium-7.5* Phos-3.4 Mg-1.9
+
+MICROBIOLOGY
+========================================
+___ 5:40 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      BACTEROIDES FRAGILIS.    BETA LACTAMASE POSITIVE. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___. ___ @ ___ 
+ON
+      ___. 
+      GRAM NEGATIVE ROD(S). 
+
+___ 9:20 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 12:41 pm SWAB     Site: PERITONEAL      COLLECTED ON A 
+SWAB. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CHAINS. 
+      1+    (<1 per 1000X FIELD):   YEAST(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   WOUND CULTURE (Final ___: 
+      WORK-UP PER ___ ___ (___) AND REPORT LEVOFLOXACIN 
+___. 
+      MIXED BACTERIAL FLORA. 
+         This culture contains mixed bacterial types (>=3) so an
+         abbreviated workup is performed. Any growth of 
+P.aeruginosa,
+         S.aureus and beta hemolytic streptococci will be 
+reported. IF
+         THESE BACTERIA ARE NOT REPORTED, THEY ARE NOT PRESENT 
+___ this
+         culture. 
+      ESCHERICHIA COLI.    SPARSE GROWTH. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      ___ ALBICANS, PRESUMPTIVE IDENTIFICATION.    SPARSE 
+GROWTH. 
+      YEAST, PRESUMPTIVELY NOT C. ALBICANS.    SPARSE GROWTH. 
+      VIRIDANS STREPTOCOCCI.    SPARSE GROWTH. 
+      STREPTOCOCCUS ANGINOSUS (___) GROUP.    SPARSE GROWTH. 
+
+         CLINDAMYCIN MIC >= 1.0 MCG/ML. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          VIRIDANS STREPTOCOCCI
+                             |          |          STREPTOCOCCUS 
+ANGINOSUS (MI
+                             |          |          |   
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+CLINDAMYCIN-----------           <=0.25 S          R
+ERYTHROMYCIN----------                2 R      =>8 R
+GENTAMICIN------------   <=1 S
+LEVOFLOXACIN----------<=0.12 S        1 S      0.5 S
+MEROPENEM-------------<=0.25 S
+PENICILLIN G----------           <=0.06 S   <=0.06 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+VANCOMYCIN------------              0.5 S      0.5 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      Mixed bacteria are present, which may include anaerobes 
+and/or
+      facultative anaerobes. The presence of B.fragilis, 
+C.perfringens, and
+      C.septicum is being ruled out. 
+      CLOSTRIDIUM PERFRINGENS.    MODERATE GROWTH. 
+      BACTEROIDES FRAGILIS GROUP.    MODERATE GROWTH. 
+         BETA LACTAMASE POSITIVE. 
+
+___ 7:10 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING
+=========================================
+CT A/P ___:  
+ 1.  There is extravasation of enteric contrast into the right 
+side of the large abdominal fluid and gas collection indicative 
+of a bowel perforation. Although not well defined, the leak 
+appears most likely from adjacent small bowel and less likely 
+from adjacent ascending colon or cecum.  A pigtail catheter is 
+coiled ___ the dependent portion of this fluid collection. 
+ 2.  Large pelvic mass concerning for ovarian or uterine 
+malignancy with peritoneal carcinomatosis, distant 
+lymphadenopathy, hepatic lesions, and osseous sclerotic foci 
+compatible with diffuse metastases. 
+ 3.  Cholelithiasis, diverticulosis, and bilateral simple renal 
+cysts. 
+   
+CT A/P ___:
+1. Right-sided pigtail within a large rim enhancing loculated 
+intra-abdominal fluid-gas collection, known to be draining 
+purulent fluid. 
+2. Enlarged, heterogeneous pelvic mass, likely uterine or 
+adnexal, with central low-density areas possibly representing 
+necrosis, with loculated intra-abdominal ascites and diffuse 
+peritoneal carcinomatosis.  Possible tumor erosion and 
+perforation through the right uterine fundal wall. 
+3. Enlarged mesenteric, retroperitoneal, and pelvic lymph nodes, 
+extensive omental caking, hepatic masses, and diffuse osseous 
+sclerotic foci compatible with widespread metastases. 
+4. The constellation of findings are suggestive of a gynecologic 
+malignancy.  A recent omental biopsy is pending. 
+
+___: Final pathology  
+Morphology and immunoprofile are compatible with a gynecological 
+primary site (ovary, fallopian tube, or endometrium), favor high 
+grade serous carcinoma.
+
+ 
+Brief Hospital Course:
+___ w/out significant PMHx admitted w/ severe abdominal pain and 
+found to have stage IV high-grade serous ovarian cancer 
+(metastatic to the liver, bone, and peritoneum) c/b bowel 
+microperforation (s/p drain placement) and B. fragiles 
+bacteremia (on vanc/flagyl/aztreonam), who was initiated on 
+carboplatin (without paclitaxel) on ___, which she tolerated 
+well.
+
+#High grade serous mullerian tumor
+Pt has newly diagnosed stage IV serous ovarian cancer with mets 
+to the liver, bone and peritoneum.  Tumor markers included: 
+CA-125 at OSH (over 700), ___ (147;
+nl ___. There were extensive discussion with her primary 
+oncologists, gynecology/oncology, and colorectal surgery 
+regarding management, and whether to pursue upfront surgery, 
+which poses risks of further perforation and damage to an 
+already friable bowel versus upfront chemotherapy.  Per the 
+surgery services, it seems the bowel perforation is not likely 
+amenable to surgical repair without significant risk and 
+morbidity.  Therefore, chemotherapy was pursued.  For high grade 
+serous mullerian tumor, treatment traditionally consists of 
+double agent carboplatin and paclitaxel.  However, this carries 
+the risk of neutropenia, and her bowel perforation puts her at 
+increased risk for systemic infection.  Therefore, after 
+extensive discussion with the patient and her primary 
+oncologist, the patient proceeded with single agent carboplatin 
+(___), which she has tolerated without adverse effect.  
+Carboplatin was dose reduced by 33%. Also started on neupogen on 
+___ to prevent neutropenia ___ setting of intraabdominal 
+infection. Planning to continue neupogen to complete a 10-day 
+course (last day ___. She has outpatient GYN Onc follow up w/ 
+Dr. ___ Oncology followup w/ Dr. ___. Plan is to 
+continue chemotherapy for now, w/ possible upcoming debulking 
+and bowel repair operation. Pt is to continue antibiotics until 
+that operation.
+
+#Bowel microperforation/tumor enteric fistula/Secondary 
+peritonitis
+On admission, patient underwent ___ guided paracentesis draininag 
+1L of purulent/feculent material, concerning for a tumor enteric 
+fistula versus bowel perforation. Following drainage of 
+approximately 1 liter of purulent/feculent ascites, a drain was 
+left ___ place.  She underwent two upsizing procedures ___ and 
+___ to address both reduction ___ drainage and leakage around 
+the drainage site, respectively. Follow-up CT imaging ___ and 
+___ with both oral and rectal contrast demonstrated concern 
+for a bowel perforation, likely ___ the small bowel. A 
+significant amount of intraperitoneal fluid was also noted on 
+imaging. Colorectal surgery was consulted ___ light of the bowel 
+perforation to assess the need and safety for surgery to perform 
+either a diversion or resection and ostomy. Given the patient's 
+stable status and ___ light of her metastatic disease, surgery 
+was not recommend. To manage her bowel perforation, she was made 
+NPO with PPN on ___ and TPN initiated on ___ and she was 
+placed on an antibiotic course (see below). During admission, 
+she remained afebrile, with minimal abdominal pain, but with 
+continued abdominal drainage of fluid (~300-600cc/day).
+
+#Secondary peritonitis & B.fragilis bacteremia: 
+Paracentesis culture showed many organisms all sensitive to 
+levofloxacin, and patient found to have B. fragilis bacteremia 
+as well. For infections, pt was initially on 
+vanc/flagyl/aztreonam IV then switched to PO flagyl/levofloxacin 
+___ (which she will continue indefinitely).
+
+#Nutrition: 
+PPN was started on ___ w/ transition to TPN ___ after ___ 
+placed. Cycled down to 18 hours by discharge. She was not cycled 
+to 12 hours because of episodes of hypoglycemia during the day. 
+She was advanced to juice, which she tolerated well and improved 
+her BGS. 
+
+TRANSITIONAL ISSUES
+1. Pt scheduled for f/u w/ Dr. ___ Gynecology ___ 
+and w/ Dr. ___ Oncology
+2. Pt to continue TPN at night. She should be continued at 18 
+hours for now, since she experienced episodes of hypoglycemia 
+during the day with cycling down her TPN. Pt needs close 
+monitoring of her BGS every 4 hours.
+3. Pt to continue having juice as tolerating. Could consider 
+re-imaging ___ 3 weeks and consider advancing diet at that time.
+4. Pt needs close monitoring of the drain output. Once the drain 
+output is less than 10cc/day for 3 days ___ a row, she may have 
+the drain removed by Interventional Radiology. 
+5. Pt needs to have drain flushed forward with 5 cc towards the 
+body and 5 cc towards the bag with sterile saline TID. 
+6. If catheter stops draining suddenly: Check that the stopcock 
+is open. Remove dressing carefully and inspect to make sure that 
+there is no kink ___ the catheter. Inspect to be sure that there 
+is no debris blocking the catheter. If there is, then firmly 
+flush 5 cc of sterile saline into the catheter.
+7. Consider allergy consult for penicillin desensitization as 
+outpatient
+8. Patient will have weekly lab draws on ___ for TPN 
+management at ___ (please see TPN order for fax number)
+ 
+Medications on Admission:
+Oxycodone 10mg Q6
+Colace prn
+ 
+Discharge Medications:
+1. Filgrastim 300 mcg SC Q24H Duration: 10 Doses 
+RX *filgrastim [Neupogen] 300 mcg/0.5 mL 300 mcg SC Q24H Disp 
+#*5 Syringe Refills:*0
+2. Octreotide Acetate 100 mcg SC Q8H 
+RX *octreotide acetate 100 mcg/mL (1 mL) 100 mcg SC every eight 
+(8) hours Disp #*40 Syringe Refills:*0
+3. Levofloxacin 500 mg PO Q24H 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+4. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0
+5. Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush 
+6. Acetaminophen ___ mg PO Q6H:PRN pain 
+7. Docusate Sodium 100 mg PO BID 
+8. Lorazepam 1 mg PO QHS:PRN insomnia 
+RX *lorazepam 1 mg 1 tablet by mouth prn: anxiety/insomnia Disp 
+#*15 Tablet Refills:*0
+9. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q6hr prn: pain Disp #*30 
+Tablet Refills:*0
+10. Senna 8.6 mg PO BID:PRN constipation 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+stage IV serous ovarian cancer 
+Bacteroides fragiles bacteremia
+Secondary bacterial peritonitis
+Bowel perforation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the Oncology service at ___ 
+___ given your new diagnosis of ovarian 
+cancer and your recent severe abdominal pain. You underwent 
+multiple procedures while admitted to the hospital, including a 
+paracentesis and a biopsy of the omentum. You were found to have 
+an infection ___ your abdomen likely from a small hole ___ your 
+bowels. You had a procedure done to place a drain ___ this 
+infection to allow the fluid to drain. You were also started on 
+broad spectrum IV antibiotics and transitioned to oral 
+antibiotics. After discussion with oncology, gyn oncology and 
+colorectal surgery, it was decided to start treatment with 
+chemotherapy. You were also started on a medication called 
+neupogen/filgrastim to prevent your blood counts from going too 
+low with the chemotherapy and allow your immune system to 
+continue fighting your infection. Due to the hole ___ your 
+bowels, you were unable to eat solid food. You were started on 
+nutrition ___ your IV and you will continue this at home. 
+
+You will follow up with GYN oncology as well as medical oncology 
+after discharge to determine the best next steps (see below 
+"recommended follow-up" section for further details).
+
+Sincerely,
+
+Your ___ team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13576993-DS-12 | hadm_id=28408273
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Penicillins / doxycycline / Flagyl
+ 
+Attending: ___
+ 
+Chief Complaint:
+stage IV high grade mullerian carcinoma
+ 
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy, extensive lysis of adhesions, 
+supracervical hysterectomy, bilateral salpingo-oophorectomy, 
+radical debulking of pelvic tumor. Rectosigmoid resection with 
+end-colostomy, and splenic flexure mobilization by Dr. ___ 
+___ the colorectal service.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with stage IVB high-grade
+Mullerian carcinoma metastatic to peritoneum, liver, and bone.
+During her initial presentation, she had a bowel perforation
+diagnosed on CT and had an ___ drain placed. Further imaging was
+suggestive of a tumor-enteric fistula and pelvic abscess.  She
+had an omental biopsy on ___, which pathology showing a 
+high
+grade Mullerian carcinoma. Due to the concern about risk to her
+GI tract with surgery, chemotherapy was initiated and she
+completed her third cycle of carboplatin and paclitaxel on
+___. She was maintained on TPN due to her fistula. She did
+have a PICC related DVT, treated with Lovenox. Her CA-125
+downtrended from 707 at time of diagnosis to 18 on ___. 
+
+A restaging CT torso was performed on ___. The CT chest
+showed known diffuse bony metastasis in the chest wall and 
+spine,
+no pulmonary nodules or adenopathy. The CT abdomen/pelvis showed
+interval decrease in omental nodularity, pelvic mass, and liver
+hypodensity. There were persistent rim enhancing pelvic fluid
+collections, decreased from prior studies. There was no
+extravasation of contrast from bowel. There was no pelvic or
+inguinal lymphadenopathy. 
+
+Due to good response to chemotherapy, decision was made to 
+proceed with debulking surgery.
+ 
+Past Medical History:
+PMH:
+- Lyme disease ___
+- history of benign dura mater turmor as child
+- Denies hypertension, diabetes, cardiovascular disease, asthma,
+thromboembolic disease
+
+PSH: 
+- ganglion cyst excision
+- benign dura mater tumor excision 
+- abdominoplasty
+- breast implants
+
+POB: G0
+
+PGYN: 
+- LMP ___, denies postmenopausal bleeding
+- Not currently sexually active 
+- Bioidentical hormonal replacement therapy for ___ years
+perimenopause
+- Remote history of abnormal Pap smear in her ___, unsure if 
+LEEP
+was performed; last Pap ___ neg per patient
+- Denies history of pelvic infections or sexually transmitted
+infections
+- Denies history of fibroids or cysts
+ 
+Social History:
+___
+Family History:
+- Maternal grandmother with breast cancer diagnosed age ___, died 
+of stroke
+- No known family history of uterine, ovarian, cervical or colon 
+cancer
+ 
+Physical Exam:
+On day of discharge:
+Afebrile, vitals stable
+No acute distress
+CV: regular rate and rhythm
+Pulm: clear to auscultation bilaterally
+Abd: soft, appropriately tender, nondistended, incision 
+clean/dry/intact, no rebound/guarding; ostomy pink and patent 
+with stool and gas in bag
+___: nontender, nonedematous
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the gynecologic oncology service after 
+undergoin exploratory laparotomy, extensive lysis of adhesions, 
+supracervical hysterectomy, bilateral salpingo-oophorectomy, 
+radical debulking of pelvic tumor, rectosigmoid resection with 
+end-colostomy, and splenic flexure mobilization. Please see the 
+operative report for full details. Of note, she had an estimated 
+blood loss of 800mL and received 3 units of packed red blood 
+cells intraoperatively. Her hematocrit was trended and remained 
+stable during her recovery course.  
+
+Her post-operative course is detailed as follows. Immediately 
+postoperatively, her pain was controlled with a TAP block and 
+Dilaudid PCA. Her diet was slowly advanced, and she was 
+restarted on her home TPN to supplement her nutritional intake. 
+Her foley was removed and she voided spontaneously. Her bowel 
+function slowly returned, and by ___ she was producing stool 
+and gas in ostomy bag. Nutrition saw her daily and provided TPN 
+recommendations. On ___, her TPN was stopped and she was 
+maintained on a regular diet with Ensure supplementation. She 
+was successfully transitioned to PO oxycodone, ibuprofen, and 
+acetaminophen with pain well-controlled. Her wound vac remained 
+in place for 7 days, and was removed on ___ before discharge. 
+During her hospital course, she received enoxaparin 60mg Q12, 
+consistent with her prior anticoagulation regimen for 
+PICC-associated DVT.
+
+By ___, she was tolerating a regular diet, voiding 
+spontaneously, ambulating independently, and pain was controlled 
+with oral medications. She was producing gas and stool into 
+ostomy bag. She was then discharged home in stable condition 
+with outpatient follow-up scheduled.
+
+ 
+Medications on Admission:
+Enoxaparin Sodium 60 mg SC Q12H Take until ___ removed
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q6H:PRN pain 
+Do not drink or drive while taking. 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*50 Tablet Refills:*1
+2. Enoxaparin Sodium 60 mg SC Q12H 
+Take until PICC removed. 
+RX *enoxaparin 60 mg/0.6 mL 60 mg SC every 12 hours Disp #*30 
+Syringe Refills:*1
+3. Ibuprofen 600 mg PO Q6H:PRN pain 
+Take with food. 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*50 Tablet Refills:*1
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+Do not drink or drive while taking. 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*50 Tablet Refills:*0
+5. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*50 Tablet Refills:*1
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Stage IV high grade mullerian carcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+.
+You were admitted to the gynecologic oncology service after 
+undergoing the procedures listed below. You have recovered well 
+after your operation, and the team feels that you are safe to be 
+discharged home. Please follow these instructions: 
+. 
+Abdominal instructions:  
+* Take your medications as prescribed.  
+* Do not drive while taking narcotics.  
+* Do not combine narcotic and sedative medications or alcohol.  
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.  
+* No strenuous activity until your post-op appointment.  
+* Nothing in the vagina (no tampons, no douching, no sex) for 12 
+weeks.  
+* No heavy lifting of objects >10 lbs for 6 weeks.  
+* You may eat a regular diet.
+* It is safe to walk up stairs.  
+.
+Incision care:  
+* You may shower but do not scrub incision. No bath tubs for 6 
+weeks.  
+* Your staples will be removed at your follow-up visit listed 
+below.  
+.
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.  
+
+
+ 
+Followup Instructions:
+___

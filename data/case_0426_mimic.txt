@@ -1,0 +1,331 @@
+===== DISCHARGE NOTE =====
+note_id=19353175-DS-11 | hadm_id=20582072
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+LLE weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+The patient is a ___ year old gentleman with HTN, HLD, DM II 
+(recently diagnosed), trigeminal neuralgia, severe 
+osteoarthritis s/p bilateral hip replacement, per report "spot" 
+on prior brain MRI about one year ago, at least several weeks of 
+LLE weakness presenting after MRI spine read as lesions raising 
+concern for demyelination. 
+
+Patient reports that as part of his work-up for trigeminal 
+neuralgia, he had an MRI brain at ___. Diagnosed with right 
+sided V2/V3 trigeminal neuralgia in ___. Had MRI at ___ 
+in ___ and ___ with T2 hyperintensities in the periventricular 
+region concerning for demyelination and involving the trigeminal 
+nerve. 
+
+On review of ___ medical record, it seems he also had an 
+MRI C spine in ___ which showed some lesions 
+possibly concerning for demyelination. He does not recall this 
+study and did not have additional work-up thereafter. 
+
+Patient came in to the ___ ED on ___ with report of LLE 
+weakness, possibly worsening over the 2 days prior to 
+presentation after a fall on ___. Patient then in 
+retrospect mentioned that he had been prescribed naproxen in 
+___ and was beginning to have some gait difficulties 
+then. On examination in the ED on ___ patient was found to 
+have left IP, left hamstring and possible subtle left TA 
+weakness; was able to stand but had difficulty with hip and knee 
+flexion and ankle dorsiflexion so would walk with knee extended 
+and sort of shuffling his left LLE, with a limp. At that time, 
+the entirety of patient prior imaging history (and prior C spine 
+MRI in ___ at ___ was unknown. He had an MRI entire spine 
+without contrast with the thought that he may have spine 
+degenerative changes and weakness may be due to disc and 
+degenerative disease. MRI spine without contrast initial read 
+was read as moderate to severe degenerative changes with 
+multi-level disc disease and foraminal narrowing. Patient was 
+discharged with plan for spine clinic evaluation and neurology 
+urgent care. 
+
+Final MRI spine read ___ was read as degenerative changes 
+but also with some multi-level short-segment cord signal 
+abnormalities concerning for demyelination (C3-C4, T2-T3 and 
+T3-T4). As such, patient was referred back to the ___ ED for 
+MRI spine with contrast. 
+
+He reports that since ___, there have been no significant 
+changes and no new symptoms. No new falls, no worsening weakness 
+over the last day. 
+
+ 
+Past Medical History:
+DMII diagnosed per patient about one month ago
+HTN
+HLD
+Severe osteoarthritis s/p bilateral hip replacements (left more
+than ___ years ago, right in ___, shoulder and hand and back
+pain/cracking
+Trigeminal neuralgia
+
+ 
+Social History:
+___
+Family History:
+Mother with rheumatoid and osteoarthritis. 
+ 
+Physical Exam:
+***ADMISSION EXAM***
+Vitals: T: 98.5 HR: 79 BP: 153/73 RR: 20 SaO2: 98% RA 
+General: NAD  
+HEENT: NCAT, no oropharyngeal lesions, neck supple  
+___: RRR, no M/R/G  
+Pulmonary: CTAB, no crackles or wheezes  
+Abdomen: Soft, NT, ND, +BS, no guarding  
+Extremities: Warm, no edema  
+
+Neurologic Examination:  
+MS: Awake, alert, oriented x 3. Able to relate history without 
+difficulty. Attentive, able to name ___ backward without 
+difficulty. Speech is fluent with full sentences, intact 
+repetition, and intact verbal comprehension. Naming intact. No 
+paraphasias. No dysarthria. Normal prosody. No apraxia. No 
+evidence of hemineglect. No left-right confusion. Able to follow 
+both midline and appendicular commands. 
+Cranial Nerves - PERRL 3->2 brisk. VF full to number counting. 
+EOMI, no nystagmus. V1-V3 without deficits to light touch 
+bilaterally. No facial movement asymmetry. Hearing intact to 
+finger rub bilaterally. Palate elevation symmetric. 
+SCM/Trapezius strength ___ bilaterally. Tongue midline.  
+Motor - Normal bulk and tone. No drift. No tremor or asterixis.
+Left IP has significant difficulty raising off of the bed; at 
+one point patient with less than full effort as determine by + 
+Hoover but when full effort is 4+/5- 
+   [Delt] [Bic] [Tri] [ECR] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     4+   5     4+    5-    5    
+ R   5     5     5     5     5    5     5     5     5    
+Sensory - No deficits to light touch or temperature bilaterally. 
+No extinction to DSS. 
+
+DTRs:  absent in bilateral biceps, brachioradialis, quadriceps, 
+and gastrocs; Plantar response flexor bilaterally.  
+
+Coordination - No dysmetria with finger to nose testing 
+bilaterally or with right HKS; has difficulty with left HKS 
+given weakness. 
+Gait - Able to stand with help from arms pushing off to stand; 
+able to maintain standing position and support weight. Walks 
+with a limp keeping left knee extended and shuffling foot a bit 
+along the floor given difficulty with hip and knee flexion.
+
+***DISCHARGE EXAM***
+Neurologic: 
+-MS: alert, oriented, attentive. language fluent. follows 
+commands. 
+-CN: pupils 4->3 b/l, EOMI, no nystagmus. face symmetric. palate 
+elevates symmetrically. tongue midline. 
+-Motor
+   [Delt] [Bic] [Tri] [ECR] [FEx] [IP] [Quad] [Ham] [TA] [Gas]
+ L   5      5     5     5     5    3     4+     3    2     3
+ R   5      5     5     5     5    5     5      5    5     5
+-Sensory: intact to LT
+-Reflexes: trace in arms. in legs, left patellar reflex 0, vs 2 
+on right. toes mute bilaterally
+-Coordination: FTN intact, deferred HTS given left leg weakness
+-Gait: narrow based, good initiation, steppage gait on left leg
+ 
+Pertinent Results:
+___ 11:25PM   ___ PTT-30.3 ___
+___ 11:25PM   GLUCOSE-93 UREA N-9 CREAT-0.7 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-21* ANION GAP-20
+
+MRI head ___
+IMPRESSION:
+1. Innumerable white matter lesions in bilateral cerebral 
+hemispheres, pons,
+and medulla are overall unchanged in number and distribution as 
+compared to
+prior examination.  There is no associated slow diffusion or 
+enhancement.
+2. Please refer to recent cervical spine MRI dated ___ for full
+description of spinal cord lesion.
+
+MRI c/t-spine ___
+IMPRESSION:
+1. Corresponding enhancement of the T2-T3 spinal cord lesion, 
+suggestive of
+acute demyelinating lesion.
+2. Additional C3-C4 and T3-T4 spinal cord lesions seen on the 
+prior study do
+not demonstrate corresponding enhancement.
+3. Please refer to dedicated spine MRI dated ___ for 
+additional
+details, including multilevel degenerative changes.
+
+MRI c/t-spine ___
+IMPRESSION:
+1. Multiple short-segment spinal cord lesions at C3-C4, T2-T3 
+and T3-T4
+levels.  Findings are suggestive of demyelinating process.  If 
+clinically
+concerned for an acute demyelinating process, a follow up 
+contrast-enhanced
+study could be obtained.
+2. No evidence of cord compression.
+3. Multilevel degenerative changes of the spine, with moderate 
+lumbar spinal
+canal stenosis and multilevel neural foraminal stenosis, as 
+detailed above.
+
+ 
+Brief Hospital Course:
+Patient came in to the ___ ED on ___ with what was 
+initially documented as "several weeks of LLE weakness" but upon 
+further clarification with the patient, was actually only 2 days 
+of left leg weakness, possibly worsening recently with a fall on 
+___. On examination in the ED on ___ patient was 
+found to have left IP, left hamstring and possible subtle left 
+TA weakness; was able to stand but had difficulty with hip and 
+knee flexion and ankle dorsiflexion. At that time, the entirety 
+of patient prior imaging history (and prior C spine MRI in ___ 
+at ___ was unknown. He had an MRI entire spine without 
+contrast with the thought that he may have spine degenerative 
+changes and weakness may be due to disc and degenerative 
+disease. MRI spine without contrast initial read was read as 
+moderate to severe degenerative changes with multi-level disc 
+disease and foraminal narrowing. Patient was discharged with 
+plan for spine clinic evaluation and neurology urgent care. 
+
+Final MRI spine read ___ was read as degenerative changes 
+but also with some multi-level short-segment cord signal 
+abnormalities concerning for demyelination (C3-C4, T2-T3 and 
+T3-T4). As such, patient was referred back to the ___ ED for 
+MRI spine with contrast. 
+
+On evaluation by the inpatient neurology service, the patient 
+also reported 1 month of worsening of the trigeminal neuralgia 
+symptoms and urinary urgency following the time course of the 
+LLE weakness. On review with neuroradiology of his previous ___ MRI and comparison to the MRI obtained on ___, there 
+was radiographic evidence of dissemination across time and space 
+of the lesions concerning for demyelination. As a result, IV 
+steroid therapy was started and repeat MRI head was ordered 
+which showed Innumerable white matter lesions in bilateral 
+cerebral hemispheres, pons, and medulla overall unchanged in 
+number and distribution as compared to prior. The findings were 
+most consistent with MS, and therefore an LP was deferred. 
+Methylprednisolone led to improvement of his strength especially 
+in his left distal leg.
+
+Transitional Issues
+#Neurology
+[ ] Patient discharged on prednisone taper
+[ ] Follow up in ___ clinic
+
+#PCP
+[ ] Routine follow up for type II diabetes.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OXcarbazepine 1200 mg PO BID 
+2. Gabapentin 1200 mg PO TID 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. amLODIPine 5 mg PO DAILY 
+5. Atorvastatin 20 mg PO QPM 
+6. Losartan Potassium 100 mg PO DAILY 
+7. Naproxen 500 mg PO BID PRN 
+8. OXcarbazepine 1200 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*5 
+2.  PredniSONE 60 mg PO DAILY Duration: 2 Doses 
+This is dose # 1 of 5 tapered doses
+RX *prednisone 20 mg 3 tablet(s) by mouth daily Disp #*6 Tablet 
+Refills:*0 
+3.  PredniSONE 40 mg PO DAILY Duration: 3 Doses 
+This is dose # 2 of 5 tapered doses
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*6 Tablet 
+Refills:*0 
+4.  PredniSONE 20 mg PO DAILY Duration: 3 Doses 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 3 of 5 tapered doses
+RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*3 Tablet 
+Refills:*0 
+5.  PredniSONE 10 mg PO DAILY Duration: 3 Doses 
+This is dose # 4 of 5 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth daily Disp #*3 Tablet 
+Refills:*0 
+6.  PredniSONE 5 mg PO DAILY Duration: 5 Doses 
+This is dose # 5 of 5 tapered doses
+RX *prednisone 5 mg 1 tablet(s) by mouth daily Disp #*5 Tablet 
+Refills:*0 
+7.  amLODIPine 5 mg PO DAILY  
+8.  Atorvastatin 20 mg PO QPM  
+9.  Gabapentin 1200 mg PO TID  
+10.  Losartan Potassium 100 mg PO DAILY  
+11.  MetFORMIN (Glucophage) 500 mg PO BID  
+12.  Naproxen 500 mg PO BID PRN  
+13.  OXcarbazepine 1200 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Multiple Scelerosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ for leg weakness. You underwent  
+imaging of your head which showed lesions that were most 
+consistent with MS; therefore, we believe your symptoms are due 
+to multiple sclerosis. 
+We treated you with intravenous steroids.
+
+Your medications were adjusted as follows:
+START prednisone (and taper):
+60 mg daily for 2 days
+40 mg daily for 3 days
+20 mg daily for 3 days
+10 mg daily for 3 days
+ 5 mg daily for 5 days
+Then stop prednisone 
+
+Please take your medications as instructed.
+You have follow up scheduled as mentioned below. 
+
+It was a pleasure taking care of you.  
+
+Best, 
+Your ___ team. 
+ 
+Followup Instructions:
+___

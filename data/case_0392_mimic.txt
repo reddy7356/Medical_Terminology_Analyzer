@@ -1,0 +1,632 @@
+===== DISCHARGE NOTE =====
+note_id=12689121-DS-4 | hadm_id=27414059
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Plavix / Atorvastatin
+ 
+Attending: ___
+ 
+___ Complaint:
+Chest pressure.
+ 
+Major Surgical or Invasive Procedure:
+1. Cardiac Catherization 
+ 
+History of Present Illness:
+___ yo female with history of HTN, HL, and CAD s/p PCI with 
+stents ___ years ago presents with substernal chest pressure. She 
+notes that she is tired at baseline, but that she has felt 
+extreme fatigue x3-4weeks. She has also noticed lightheadedness 
+and dizziness and suffered a mechanical fall about ___ weeks 
+ago. During this time, she also noticed a sensation of SOB, but 
+never had increased work of breathing. Three days ago she saw 
+her PCP for this reason and at that point EKG revealed new T 
+wave changes different from baseline. D dimer was normal. She 
+was scheduled for an outpt stress test on ___. However, she 
+developed substernal chest pressure around noon after unloading 
+groceries. She notes this was less in severity and a different 
+type of pain than the last time she had chest pain when she was 
+stented. In ___, she had a painful band like sensation under 
+her breasts and around her flanks, and was found to have a 95% 
+LAD stenosis. She denies radiation of pain, SOB, but notes 
+lightheadedness. This chest pain lasted for two hours until she 
+arrived in the emergency room and layed down. Of note, she 
+recently stopped statin therapy in ___. She was on Lipitor for 
+a while until she stopped in ___ for leg cramps. She has also 
+tried simvastatin and another statin, but not pravastatin.  
+.  
+In the ED, initial vitals were 97.4 84 137/79 15 100% RA. Labs 
+and imaging significant for EKG with TWI in V1-V3, no ST 
+changes. CXR was within normal limits. Patient was given 
+aspirin. She was guaiac negative and started on a heparin gtt. 
+She was subsequently chest pain free. Vitals on transfer were 68 
+123/83 13 95% on RA. On arrival to the floor, the patient is 
+nervous but chest pain free.  
+.  
+Cardiac review of systems is notable for DOE after ___ blocks 
+which is new for the patient as she previously could walk 
+without restriction. She denies paroxysmal nocturnal dyspnea, 
+orthopnea, ankle edema, palpitations, syncope or presyncope.  
+.  
+ROS:  
++mild nausea, facial discomfort  
+-F/C, cough, vomiting, diarrhea, constipation, abdominal pain, 
+trouble urinating, visual changes, headache, any prior history 
+of stroke, TIA, deep venous thrombosis, pulmonary embolism, 
+bleeding at the time of surgery, myalgias, joint pains, cough, 
+hemoptysis, black stools or red stools.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Dyslipidemia, +Hypertension  
+2. CARDIAC HISTORY: Coronary artery disease  
+-CABG:  
+-PERCUTANEOUS CORONARY INTERVENTIONS: Bare metal stent in LAD in 
+___ when she had a catheterization that showed 95% mid-LAD 
+stenosis  
+-PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY:  
+Hypertension  
+Hyperlipidemia  
+Crohn's disease  
+Chronic facial neuralgia s/p stereotactic ablation of the 
+trigeminal ganglion that did not work  
+Hypothyroidism  
+Osteoporosis  
+.  
+PSH:  
+carpal tunnel release  
+bilateral breast augmentation in ___  
+radiofrequency ablation  
+surgical treatment for left elbow fracture  
+ 
+Social History:
+___
+Family History:
+Father died of coronary artery disease at age ___. Her mother 
+died of vascular dementia and pneumonia. One of her first 
+cousins has a genetic syndrome causing hypercholesterolemia. No 
+family history of arrhythmia, cardiomyopathies, or sudden 
+cardiac death; otherwise non-contributory.  
+
+ 
+Physical Exam:
+Upon admission:
+VS: 98.0 133/64 72 18 100% on RA 59.5kg  
+GENERAL: WDWN female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple without JVD.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: +BS, soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: Trace ___ edema bilaterally to ankles.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Right: Carotid 2+ DP 2+ ___ 2+ Left: Carotid 2+ DP 2+ ___ 
+2+  
+.
+At discharge:
+VS: 98.0 101/51 58 18 98% on RA 59.4kg  
+GENERAL: WDWN female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple without JVD.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: +BS, soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: Trace ___ edema bilaterally to ankles.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Right: Carotid 2+ DP 2+ ___ 2+ Left: Carotid 2+ DP 2+ ___ 
+2+  
+ 
+Pertinent Results:
+Labs during admission:
+___ 01:00PM BLOOD WBC-4.8 RBC-4.49 Hgb-14.4 Hct-41.9 MCV-93 
+MCH-31.9 MCHC-34.2 RDW-12.4 Plt ___
+___ 01:00PM BLOOD Neuts-63.3 ___ Monos-5.7 Eos-2.9 
+Baso-1.1
+___ 01:00PM BLOOD ___ PTT-22.6 ___
+___ 01:00PM BLOOD Glucose-94 UreaN-16 Creat-0.7 Na-141 
+K-4.3 Cl-101 HCO3-32 AnGap-12
+___ 07:20AM BLOOD Calcium-9.4 Phos-4.0 Mg-2.3 Cholest-243*
+___ 07:20AM BLOOD Triglyc-43 HDL-81 CHOL/HD-3.0 
+LDLcalc-153*
+
+Cardiac Enzymes:
+___ 01:00PM BLOOD cTropnT-<0.01
+___ 08:55PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:20AM BLOOD CK-MB-3 cTropnT-<0.01
+
+Imaging:
+___ EKG: NSR at 78, TWI in V1-V3, TW flattening in III and 
+aVF, STD in V4-V5
+
+___ CXR: Both lungs appear well inflated with no focal 
+consolidation, pleural effusion or pneumothorax. The cardiac, 
+mediastinal and hilar contours are within normal limits. 
+Incidental note is made of bilateral breast implants. 
+IMPRESSION: No evidence of acute cardiopulmonary process. 
+
+___ cardiac cath: 1. Coronary angiography in this right 
+dominant system 
+demonstrated no angiographically apparent disease.  The LMCA, 
+LAD, CX 
+and RCA had no angiographically apparent disease.  The stent in 
+the 
+mid-LAD was patent.  2.  Limited resting hemodynamics revealed 
+normal 
+systemic arterial blood pressures with a central aortic pressure 
+of 
+99/42 mmHg.  3.  Left ventriculography revealed a normal LVEF. 
+
+___ TTE: The left atrium is normal in size. The estimated 
+right atrial pressure is ___ mmHg. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is normal 
+(LVEF>55%). Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve leaflets are mildly 
+thickened. The estimated pulmonary artery systolic pressure is 
+normal. There is a trivial/physiologic pericardial effusion.   
+ 
+Brief Hospital Course:
+___ yo female with history of HTN, HL, and CAD s/p PCI with 
+stents ___ years ago presents with substernal chest pressure and 
+EKG changes that were similar to that of her prior ACS. This was 
+concerning for ACS or instent restenosis of her prior LAD lesion 
+however cardiac cath was normal.  
+.  
+# CORONARIES: History of CAD with prior 95% LAD stenosis s/p 
+stenting in ___. Her risk factors include HTN, HL, 
+postmenopausal female, and recently stopping her statin therapy. 
+She has had DOE for the past month, which may be an anginal 
+equivalent. She presented with chest pain with T wave changes on 
+EKG.  However, troponin was negative x3 and cardiac cath was 
+within normal limits.  She was continued on aspirin 81 daily, 
+started on metoprolol succinate 12.5mg daily, and pravastatin 
+20mg.  She will follow up with Dr. ___ as an outpatient. 
+.  
+# PUMP: No history of heart failure and last cath revealed EF 
+63% in ___. However, she has lower extremity edema on exam 
+likely a result of amlodipine. TTE within normal limits.  
+.  
+# RHYTHM: Normal sinus rhythm on EKG.  She was monitored on 
+telemetry.  
+.  
+# Hypertension: Stable.  Amlodipine was discontinued.  She was 
+continued on valsartan with metoprolol.
+.  
+# Hyperlipidemia: Previously on multiple statins with 
+intolerance, namely leg cramps.  She was started on pravastatin 
+20mg which she has not previously tried as her LDL was found to 
+be 153.  Her outpatient providers should watch for the 
+development of myalgias as an outpatient.
+.  
+# Crohn's Disease: Stable without symptoms.  She was continued 
+on her home regimen on pentasa, keflex, vitamin d, and iron.
+.  
+# Hypothyroidism: Stable without symptoms.  Continued 
+levothyroxine.
+.  
+# Chronic trigeminal neuralgia: Minimal pain during admission.  
+She was continued on her home regimen of methadone, cymbalta, 
+zoloft, and carbamazepine suppositories.
+.  
+# Osteoporosis: She was continued on calcium and vitamin d.
+.  
+# Code Status: During this admission, she was confirmed full 
+code, with no prolonged measures.
+ 
+Medications on Admission:
+Methadone 10 mg TID  
+Zoloft 200 mg Daily  
+carbamazepime suppository 175mg q4h - patient has home med  
+Cymbalta 40 mg daily  
+aspirin 81 mg Daily  
+calcium citrate-vitamin D3 315 mg-200 2 Tablet(s) Twice Daily  
+ergocalciferol (vitamin D2) 50,000 unit q2weeks  
+iron 40 mg daily  
+Multivitamin one Tab daily  
+amlodipine-valsartan 5 mg-320 mg 1 Tab daily  
+levothyroxine 88 mcg Daily  
+Pentasa 500 mg Cap 3 capsules am, 2 capsules noon, 3 capsules 
+evening  
+Keflex ___ mg Once Daily  
+ 
+Discharge Medications:
+1. carbamazepine (bulk)     Powder Sig: One Hundred ___ 
+(175) mg Miscellaneous Q4H (every 4 hours).  
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: 
+___ Tablet Extended Release 24 hr PO once a day.
+Disp:*15 Tablet Extended Release 24 hr(s)* Refills:*2*
+6. mesalamine 250 mg Capsule, Extended Release Sig: Six (6) 
+Capsule, Extended Release PO BID (2 times a day): In the AM and 
+the ___.  
+7. mesalamine 250 mg Capsule, Extended Release Sig: Four (4) 
+Capsule, Extended Release PO DAILY12 (): at noon.  
+8. multivitamin     Capsule Sig: One (1) Capsule PO once a day.  
+
+9. cephalexin 250 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+10. pravastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+11. valsartan 320 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1) 
+Capsule PO q2weeks.  
+13. calcium citrate-vitamin D3 315-200 mg-unit Tablet Sig: One 
+(1) Tablet PO twice a day.  
+14. methadone 10 mg Tablet Sig: One (1) Tablet PO three times a 
+day.  
+15. sertraline 100 mg Tablet Sig: Two (2) Tablet PO once a day.  
+
+16. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Chest Pain, Coronary Artery Disease, 
+Hyperlipidemia
+Secondary Diagnosis:  Crohn's Disease, Chronic Facial Neuralgia, 
+Hypertension
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Chest pain free.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your stay here at 
+___. 
+
+You were admitted to ___ with chest pain. You had a cardiac 
+catherization that showed no obstructing lesions in your 
+coronary arteries.  There was no narrowing of your known stents 
+to explain the pain.  The pain may be due to a spasm of your 
+blood vessels that feed the heart. 
+
+The following changes were made to your medications:
+START: Metoprolol succinate 12.5 mg by mouth daily. 
+START: Pravastatin 20 mg by mouth daily at night. 
+STOP: Amlodipine 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12689121-DS-5 | hadm_id=28977862
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Plavix / Atorvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Crampy abdominal pain, found to have a SBO and Crohn's Flare
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo female with history of HTN, HL, CAD s/p PCI with stents ___ 
+years ago and Crohn's Disease of the terminal ileum diagnosed in 
+___ who presents with 8 hrs of crampy, diffuse abdominal pain 
+associated with nausea, but no emesis. The patient also reports 
+chills, but no documented fevers. The pain began abruptly around 
+8PM on the night of admission. Seh described the pain as 8 out 
+of 10 that was bandlike around the mid abdomen. The patient says 
+that her usual Crohn's flare pain is sharp in the RLQ. The 
+patient notes that the pain was slightly improved by using a 
+hotpack, and was made slightly worse with movement. The patient 
+had a BM around 2AM that she said was formed, nonbloody, 
+non-mucous. The patient had associated nausea with this pain, 
+but no emesis. She also described anorexia. The patient took a 
+dose of oral Cipro at home, but when the pain did not improve, 
+she came to the ED at 4AM. 
+.
+In the ED, initial vs were: 97.8 76 144/75 16 100%. The patient 
+was given morphine and zofran. She underwent a CT abd/pelvis 
+that showed focal colitis of the terminal ileum consistent with 
+her Crohns and a transition point of SBO in the lower pelvis. 
+The patient did not have an NGT placed.
+.
+On the floor, the patient describes her pain as still a 7 out of 
+10 in the same distribution. She is still slightly nauseous, but 
+this improved with Zofran. On ROS, she describes increased 
+fatigue x 2 days and chronic R facial neuropathic pain that has 
+been present for many years. Otherwise, the patient looks 
+comfortable.
+ 
+Past Medical History:
+-PERCUTANEOUS CORONARY INTERVENTIONS: Bare metal stent in LAD in 
+___ when she had a catheterization that showed 95% mid-LAD 
+stenosis  
+Hypertension  
+Hyperlipidemia  
+Crohn's disease  
+Chronic facial neuralgia s/p stereotactic ablation of the 
+trigeminal ganglion  
+Hypothyroidism  
+Osteoporosis  
+
+PSH:  
+carpal tunnel release  
+bilateral breast augmentation in ___  
+radiofrequency ablation  
+surgical treatment for left elbow fracture  
+ 
+Social History:
+___
+Family History:
+Father died of coronary artery disease at age ___. Her mother 
+died of vascular dementia and pneumonia. One of her first 
+cousins has a genetic syndrome causing hypercholesterolemia. No 
+family history of arrhythmia, cardiomyopathies, or sudden 
+cardiac death; otherwise non-contributory.  
+
+ 
+Physical Exam:
+ON ADMISSION:
+Vitals: T: 98.6 BP: 130/66 P: 75 R: 18 O2: 99% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, dry MM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Crackles at bases R>L, no wheezes, no dullness to 
+percussion 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, TTP mostly in LLQ with some refered pain to 
+umbilical area, slightly hypoactive BS, no rebound/guarding
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema   
+Neuro: nonfocal
+
+ON DISCHARGE:
+Vitals: 98.3 (Tmax 98.5) 108/50 61 16 95%RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, dry MM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, no 
+dullness to percussion 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen:Mildly tender to palpation on suprapubic area, no 
+rebound or guarding.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema   
+Neuro: nonfocal
+
+ 
+Pertinent Results:
+Admission Labs
+
+___ 05:50AM BLOOD WBC-9.6# RBC-4.83 Hgb-14.9 Hct-43.6 
+MCV-90 MCH-30.7 MCHC-34.0 RDW-12.1 Plt ___
+___ 05:50AM BLOOD Neuts-87.5* Lymphs-7.5* Monos-3.0 Eos-1.6 
+Baso-0.4
+___ 05:50AM BLOOD Glucose-149* UreaN-18 Creat-0.7 Na-134 
+K-8.4* Cl-98 HCO3-30 AnGap-14
+___ 05:50AM BLOOD ALT-28 AST-63* LD(LDH)-795* AlkPhos-82
+___ 08:15AM BLOOD Albumin-3.2* Calcium-8.0* Phos-2.9 Mg-2.0 
+Iron-101
+___ 08:15AM BLOOD calTIBC-229* Ferritn-84 TRF-176*
+
+DISCHARGE LABS
+
+___ 07:15AM BLOOD WBC-3.9* RBC-3.82* Hgb-11.8* Hct-35.5* 
+MCV-93 MCH-30.8 MCHC-33.2 RDW-11.9 Plt ___
+___ 07:15AM BLOOD Glucose-99 UreaN-5* Creat-0.6 Na-144 
+K-3.5 Cl-104 HCO3-34* AnGap-10
+___ 08:15AM BLOOD ESR-14
+___ 06:50AM BLOOD CRP-11.9*
+___ 08:15AM BLOOD CRP-22.8*
+
+CT abd:
+IMPRESSION: 
+  
+1. Distal ileitis, in a pattern consistent with active Crohn's 
+disease, 
+leading to small bowel obstruction with transition point in the 
+low pelvis.  Although narrowing and acute inflammation are 
+present, the possibility of a more chronic underlying stricture 
+with acute on chronic inflammatory process is not excluded. No 
+evidence of perforation, abscess formation, or development of 
+fistulous tract. 
+  
+2. No evidence of acute appendicitis. 
+
+ 
+Brief Hospital Course:
+Ms ___ is a ___ yo F with a h/o Crohns ileitis c/b 
+infrequent flares who presents after sudden onset of crampy abd 
+pain, nausea, and anorexia and found to have active terminal 
+ileitis and SBO.
+
+1. SBO/ Ileitis
+The patient presented to the ED after 8 hours of crampy, diffuse 
+abdominal pain that she described as different than her typical 
+Crohn's flare. In the ED, the patient had a CT scan that showed 
+active terminal ileitis consistent with Crohns, but also a high 
+grade SBO with a transition point at the level of the pelvis. On 
+the floor, the patient was made NPO, she was given IVFs, IV 
+morphine, and IV zofran. The patient was not having emesis, so 
+an NGT was not necessary for gastric decompression. GI was 
+consulted and they recommended IV cipro and flagyl, but they did 
+not think that steroids were necessary because the patient's 
+inflammatory markers were not that elevated. On HD#1 she passed 
+flatus and had 2 episodes of non-bloody diarrhea and noted 
+feeling hungry. Her abdominal exam showed improvement in her 
+tenderness hence she was advanced to a clear liquid diet and 
+restarted on her home PO pain medication. She endorsed mild 
+cramping and nausea with the clear liquid diet and was 
+encouraged to advance slowly. On HD#2 she was transitioned to a 
+regular diet, PO Cipro Flagyl and per GI recommendation will go 
+home with a ___. Neuropathic Facial pain
+This is a chronic problem for Ms. ___ and was exacerbated 
+by the fact that she was kept strictly NPO on hospital day 0. A 
+pain consult was called and an attempt to manage her pain on IV 
+morphine was unsuccessful. On hospital day #2 she was started on 
+her PO medications of cymbalta, sertraline, carbamezapine, and 
+methadone and her pain was better controlled.
+
+3. Anemia
+She was found to have a HCT of 34 on her initial labs, Iron 
+studies was consistent with anemia of chronic inflammation and 
+no intervention was done.
+
+4. Hypertension
+Her Exforge was held throughout the hospitalization and she 
+remained normotensive. 
+She was discharged on no anti-hypertensives and advised to 
+follow up with her PCP regarding management.
+
+Transition of care issues: 
+Re-evaluate the need for anti-hypertensive
+The patient had follow-up with both her PCP and with her 
+gastroenterologist, Dr. ___
+ 
+___ on Admission:
+Calcium two tablets BID
+Zoloft 200mg Qday
+Carbamazepine 175mg suppository Q4hrs
+Gabapentin 500mg split over the day
+Cymbalta 40mg Qday
+Methadone 10mg TID
+Exforge ___ Qday
+Aspirin 81mg Qday
+Pentassa 1500mg QAM, 1000mg QPM, 1500mg Qevening
+Colace 100mg 6 caps by mouth QHS
+Levothyroxine 100mcg Qday
+Iron 325mg Qday
+Vitamin D 50,000 u Qmonth
+MVI
+Keflex ___ Qday
+ 
+Discharge Medications:
+1. carbamazepine (bulk)     Powder Sig: One (1) suppository 
+Miscellaneous Q4H (every 4 hours).  
+2. sertraline 100 mg Tablet Sig: Two (2) Tablet PO once a day.  
+3. Calcium Antacid  Oral
+4. gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+5. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO HS (at 
+bedtime).  
+6. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. methadone 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+8. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 6 days.
+Disp:*12 Tablet(s)* Refills:*0*
+11. metronidazole 500 mg Tablet Sig: One (1) Tablet PO three 
+times a day for 6 days.
+Disp:*18 Tablet(s)* Refills:*0*
+12. mesalamine 500 mg Capsule, Extended Release Sig: Three (3) 
+Capsule, Extended Release PO twice a day: Once in the morning 
+and once in the evening.  
+13. mesalamine 500 mg Capsule, Extended Release Sig: Two (2) 
+Capsule, Extended Release PO Qday at 4PM.  
+14. Colace 100 mg Capsule Sig: ___ Capsules PO at bedtime.  
+15. Vitamin D  Oral
+16. multivitamin  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Small Bowel Obstruction/ Terminal Ileitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain that was 
+determined to be a result of an obstruction of the small bowel 
+likely secondary to your Crohn's Disease. While you were here, 
+we initially kept you without food, gave you fluids, and IV 
+medications. As your pain improved and you were passing gas, we 
+were able to successfully restart your diet and your home 
+medications. Your pain was very much improved on discharge. I 
+just want to reiterate that you may not feel 100% for a few 
+days. Please take it slowly with your diet and also with your 
+activity.
+
+You will continue the cipro and flagyl for 10 days total. After 
+that finishes, you can start back on your Keflex. We also have 
+held your ExForge while here and your BP have been normal. You 
+can check your BP at home and restart the med if it is high, or 
+you can wait and discuss with your doctor. I would hold your 
+Iron pill until you are passing regular stools, as this can make 
+you more constipated.
+
+If you develop worsening abdominal pain, nausea, or vomiting, 
+please call Dr. ___.
+
+The following medication was STARTED:
+Cipro 500mg by mouth every 12 hours for 6 more days (last dose 
+on ___
+Flagyl 500mg by mouth every 8 hours for 6 more days (last dose 
+on ___
+.
+The following medications were HELD:
+Keflex - please restart (after you finish your cipro flagyl) on 
+___
+ExForge - please restart if you measure 2 or more blood 
+pressures over 130/80 at home
+ 
+Followup Instructions:
+___

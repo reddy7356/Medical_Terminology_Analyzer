@@ -1,0 +1,228 @@
+===== DISCHARGE NOTE =====
+note_id=14728792-DS-7 | hadm_id=28293254
+
+ 
+Name:  ___                ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Neck and back pain
+ 
+Major Surgical or Invasive Procedure:
+Anterior/posterior cervical fusion with instrumentation C4-7
+ 
+History of Present Illness:
+___ was intoxicated, fell down stairs and found in ___ bank. 
+Not
+intubated, brought to OSH where per report found to have old
+vertebral compression fractures at L5 and T1, and a spinous
+process fracture at C5. 
+In our emergency ward, patient is still inebriated, but with
+purposful movement of BUE, and moving BLE to command. There was
+reduced rectal tone in trauma survey, and upon my repeat
+evaluation.
+
+ 
+Past Medical History:
+Unknown
+Patient not cooperative with questions.
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: reactive        EOMs not follow commands to
+assess, but moving eyes in all directions.
+
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: inebriated and drowsy
+Orientation: too inebriated to answer questions
+Motor:
+___ finger flexion and extension bilaterally; ___ triceps and 
+biceps bilaterally
+___ strength bilateral lower extremities throughout
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Propioception intact
+Toes downgoing bilaterally
+Rectal exam: reduced sphincter tone
+ 
+Pertinent Results:
+MR ___ SPINE W/O CONTRAST ___ 
+1. Mild spondylolisthesis and degenerative changes in the 
+cervical spine 
+result in moderate spinal canal narrowing at C4-5 and C5-6. The 
+spinal cord is edematous from C3-4 through C5-6, suggesting a 
+contusion. 
+  
+2. Extensive prevertebral edema in the cervical spine. Mild 
+marrow edema 
+associated with the known fracture of the anterior superior 
+corner of the C6 vertebral body. Apparent marrow edema in the C4 
+and C5 vertebral bodies, suggesting contusions, since no 
+fracture lines are seen on the preceding cervical spine CT scan. 
+
+  
+3. Edema in the C5 spinous process related to the known 
+fracture. Edema in 
+the C4-5 interspinous ligaments, and adjacent to the tip of the 
+C6 spinous 
+processes. 
+  
+4. Chronic compression fracture of the T7 vertebral body. 
+Multilevel disc 
+disease in the thoracic spine, without cord compression or cord 
+edema. 
+  
+5. Severe compression fracture of the L1 vertebral body with 
+retropulsion and moderate spinal canal narrowing, but no 
+compression of the conus medullaris or conus edema. Marrow edema 
+within the L1 vertebral body suggests an acute or 
+acute-on-chronic fracture. 
+  
+6. Degenerative disease in the lower lumbar spine with severe 
+spinal canal 
+narrowing and severe right neural foraminal narrowing at L4-5. 
+
+ 
+Brief Hospital Course:
+___ y/o M intoxicated, s/p fall down stairs into snow bank. He 
+was brought to OSH with h/o old compression fx T1 and L5. He was 
+seen to have cord contusion at C3-4 through C5-6 on MRI as well 
+as L1 compression fracture. He was placed in c-collar and 
+admitted to ICU for monitoring. Exam was weak in BUE 
+distal>proximal. On ___, patient was stable, a TLSO brace was 
+ordered for his L1 compression fracture. 
+He was consented for a circumfrential fusion C4-7 with 
+instrumentation for his fracture and stenosis.
+Post-operatively he was given pain medication and antibiotics.  
+A hemovac drain was placed intraoperatively and was removed POD 
+#2 from his posterior decompression and fusion.  He failed a 
+voiding trial and the foley was replaced.  This will be managed 
+at rehab.
+He was febrile overnight on POD #3 and a fever workup was 
+negative.  Incentive spirometer was encouraged and he 
+deffervessed.  He was discharged in good condition and will 
+follow up with Dr. ___ in 10 days.
+ 
+Medications on Admission:
+Gabapentin
+simvastatin
+HCTZ
+albuterol
+ipratropium bromide
+ 
+Discharge Medications:
+1. gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+4. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as 
+needed for wheezing.  
+5. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+6. sodium chloride 0.65 % Aerosol, Spray Sig: ___ Sprays Nasal 
+QID (4 times a day) as needed for patient comfort.  
+7. bacitracin zinc 500 unit/g Ointment Sig: One (1) Appl Topical 
+BID (2 times a day).  
+8. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+9. oxycodone 10 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO Q12H (every 12 hours).  
+10. diazepam 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for spasms.  
+11. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Central cord syndrome
+L1 compression fracture
+C6 fracture
+Cord contusion
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+•Do not smoke.
+•Keep your wound(s) clean and dry / No tub baths or pool 
+swimming for two weeks from your date of surgery.
+•If you have steri-strips in place, you must keep them dry for 
+72 hours.  Do not pull them off. They will fall off on their own 
+or be taken off in the office.  You may trim the edges if they 
+begin to curl.
+•No pulling up, lifting more than 10 lbs., or excessive bending 
+or twisting.
+•Limit your use of stairs to ___ times per day.
+•Have a friend or family member check your incision daily for 
+signs of infection.
+•If you are required to wear one, wear your cervical collar or 
+back brace as instructed.
+•You may shower briefly without the collar or back brace; 
+unless you have been instructed otherwise.
+•Take your pain medication as instructed; you may find it best 
+if taken in the morning when you wake-up for morning stiffness, 
+and before bed for sleeping discomfort.
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc. unless directed by your 
+doctor.
+•Increase your intake of fluids and fiber, as pain medicine 
+(narcotics) can cause constipation. We recommend taking an over 
+the counter stool softener, such as Docusate (Colace) while 
+taking narcotic pain medication.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING:
+
+•Pain that is continually increasing or not relieved by pain 
+medicine.
+•Any weakness, numbness, tingling in your extremities.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, and drainage.
+•Fever greater than or equal to 101° F. 
+•Any change in your bowel or bladder habits (such as loss of 
+bowl or urine control). 
+
+Physical Therapy:
+Activity:   Activity:  Out of bed w/ assist
+ Thoracic lumbar spine:   when OOB
+ Cervical collar:   At all times
+
+Treatment Frequency:
+Please continue to inspect the incisions daily
+ 
+Followup Instructions:
+___

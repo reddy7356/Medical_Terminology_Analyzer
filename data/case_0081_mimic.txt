@@ -1,0 +1,213 @@
+===== DISCHARGE NOTE =====
+note_id=14298291-DS-15 | hadm_id=29100802
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cymbalta / Neurontin / Topamax
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea/dizziness
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ PMH of HTN and cerebral ___ transferred from ___ 
+___ for hypertensive emergency. She has been seen there 3x in 
+last two weeks for intractable nausea and dizziness. These 
+symptoms have been present for the last six months or so. She 
+reports she is extreme anxiety regarding why she
+continues to have nausea and vomiting given her history of brain 
+aneurysm. 
+
+Today, she presented to a scheduled outpt GI appt for small 
+bowel follow through but BP 190/103 despite taking atenolol. She 
+had n/v  associated with full body flushing, chest pains, 
+headaches. She was sent to the ED. CT head was negative. ECG 
+with new TWI in aVL and V2, troponin elevated to 0.08. She was 
+given ASA, given SLN with lower of diastolic to 100, and 
+transferred to ___ ED for further workup.
+
+Of note, recent pressures in clinic ___ w/ some dizziness on 
+atenolol 50 qd. PCP changed to 25 bid.
+
+In the ED, initial vitals: 98.0 68 176/110 16 98% ra  
+Labs were significant for negative serum tox, urine tox positive 
+for opiates, but no amphetamines or cocaine. K 3.1, Trop 0.03, 
+UA w/ protein 30, glu 150, ket 10. Atrius cardiology was 
+consulted and did not think she was having an acute ischemic 
+event. She was given zofran and ativan for nausea, toradol for 
+chest pain, and tylenol for fever. She was started on an esmolol 
+gtt with 500mcg bolus and 50mcg/kg/min. Her drip was titrated up 
+to 200mcg/kg/min. Also got 4L IVFs total (2L at OSH, 2L here).
+On transfer, vitals were:  101.6 60 165/86 17 96% RA
+
+On arrival to the MICU, pt complains of mild headache, denies 
+nausea or chest pain (only associated w/ vomiting per pt).
+ 
+Past Medical History:
+TOBACCO DEPENDENCE  
+PAIN SYNDROME - CHRONIC 
+Anxiety states 
+Headache, migraine  
+History of cerebral aneurysm repair- treated in ___ and then 
+another coiled in ___.
+Depression 
+Allergic rhinitis 
+Asthma, mild intermittent 
+HTN (hypertension) 
+
+ 
+Social History:
+___
+Family History:
+Father died of lung cancer at ___. No hx of aneurysms.
+ 
+Physical Exam:
+GENERAL: Alert, oriented, no acute distress, odd affect, face 
+and neck appear flushed  
+HEENT: Sclera anicteric, MMM, oropharynx clear, L pupil 1-2mm > 
+R pupil  
+NECK: supple  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: fine red peticheal rash to R hand and wrist, ecchymosis to 
+more proximal wrist. Facial and neck flushing ends at base of 
+neck, fairly well demarcated. 
+NEURO: strength ___ throughout, sensation symmetric to light 
+touch
+
+ 
+Pertinent Results:
+LABS:
+=======
+___ 03:14PM BLOOD WBC-4.8 RBC-4.93 Hgb-15.0 Hct-44.6 MCV-91 
+MCH-30.4 MCHC-33.6 RDW-14.4 Plt ___
+___ 05:57AM BLOOD WBC-8.0 RBC-4.49 Hgb-13.6 Hct-41.1 MCV-92 
+MCH-30.3 MCHC-33.1 RDW-14.5 Plt ___
+___ 03:14PM BLOOD Glucose-130* UreaN-9 Creat-0.7 Na-135 
+K-3.1* Cl-95* HCO3-25 AnGap-18
+___ 05:57AM BLOOD Glucose-112* UreaN-16 Creat-0.6 Na-135 
+K-3.5 Cl-102 HCO3-23 AnGap-14
+___ 03:14PM BLOOD cTropnT-0.03*
+___ 11:24PM BLOOD cTropnT-0.07*
+___ 04:12AM BLOOD CK-MB-4 cTropnT-0.05*
+
+STUDIES:
+=========
+___ Renal U/S: Normal renal ultrasound. Normal renal Doppler.
+___ Echo: The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. Mild symmetric left 
+ventricular hypertrophy with normal cavity size, and global 
+systolic function (biplane LVEF = 73 %). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are structurally 
+normal. There is no mitral valve prolapse. Trivial mitral 
+regurgitation is seen. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved biventricular cavity size and global/regional systolic 
+function.
+ 
+Brief Hospital Course:
+___ w/ PMH of HTN and cerebral ___ transferred from ___ 
+___ for hypertensive emergency, BPs 190s/100s. 
+
+#Hypertensive emergency: Trop 0.08 was at ___, trended 
+down. UA w/ mild protein and glucose may represent end organ 
+damage as well given normal UA ___. Atrius records show that 
+patient was normotensive a few months ago. An esmolol drip was 
+started in the ED without significant effect on the patient's 
+blood pressure. Captopril and labetalol were started, and the 
+patient's pressures were 140s/90s monitored for 24 hours. Her 
+captopril was converted to lisinopril at discharge. A workup for 
+secondary hypertension was started. Renal ultrasound with 
+doppler was normal. Echo showed moderate LVH but was otherwise 
+unremarkable. Urine metanephrines and renin/aldosterone were 
+sent off and will need to be followed up as an outpatient. She 
+will follow up with her PCP.
+
+#Fever: single fever to 101.6, afebrile thereafter. No 
+leukocytosis. UCx negative. BCx no growth at discharge.
+
+#Hypokalemia: 3.1 in the ED. Has had low K in the past, 3.2 when 
+checked on ___ and ___. Likely due to nausea/vomiting. Resolved 
+w/ repletion.
+
+#Nausea/vomiting: Chronic, being worked up by outpatient GI w/ 
+upper GI follow through. Gave ativan prn. Will continue w/u as 
+outpatient.
+
+#Cerebral aneurysms: Recent MRI w/ new 3mm left ICA aneurysm. No 
+signs of bleed on multiple recent CT heads. F/u w/ neurosurgery 
+as outpatient.
+   
+# Communication: Patient, ___ (husband/HCP) 
+___  
+# Code: Full  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO BID 
+2. Fluoxetine 40 mg PO DAILY 
+3. Ibuprofen 400 mg PO Q8H:PRN headache 
+
+ 
+Discharge Medications:
+1. Fluoxetine 40 mg PO DAILY 
+2. Labetalol 400 mg PO TID 
+RX *labetalol 200 mg 2 tablet(s) by mouth three times a day Disp 
+#*180 Tablet Refills:*0
+3. Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+4. Ibuprofen 400 mg PO Q8H:PRN headache 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypertensive emergency
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It has been a pleasure taking care of you in the hospital. You 
+were admitted for very high blood pressures. You were monitored 
+closely in the intensive care unit and two new blood pressure 
+medications were started. A number of blood tests were sent to 
+look for rare causes of high blood pressure. You should follow 
+up with your primary care doctor on the results of these tests 
+and to titrate your blood pressure medications as needed.
+ 
+Followup Instructions:
+___

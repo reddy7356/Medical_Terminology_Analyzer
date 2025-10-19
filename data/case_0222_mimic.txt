@@ -1,0 +1,484 @@
+===== DISCHARGE NOTE =====
+note_id=19827577-DS-3 | hadm_id=24329975
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfonamides
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+ 
+History of Present Illness:
+___ y/o female with h/o HTN, DM, recently discharged from ___ 
+on ___ for DOE with plans for outpatient work-up, p/w 
+intermittent chest pain and shortness of breath for ___ weeks. 
+She describes the chest pain as substernal, burning, ___ in 
+severity, with radiation to her back. She has noticed the pain 
+with less severity over the past few weeks, but yesterday, at 
+6pm, noted that it was more severe and came to the ED for 
+evaluation. At that time, the pain had come on at rest and was 
+relieved with time. The episode lasted <30min, and was also 
+associated with diaphoresis. Again, at 6pm while in the ED, she 
+had the same chest pain at the same intensity with diaphoresis. 
+EKG was done and noted to have no change. She was noted to have 
+a temperature of 100.7 at that time and tylenol was given (no 
+cultures drawn). Chest pain has not been associated 
+N/V/radiation. It is not positional or pleuritic.  
+.  
+In addition, patient has had SOB for the past ___ weeks. It has 
+gotten to the point that she becomes dyspnic after walking from 
+one room to another in the house. She notes no reproducible 
+chest pain with walking/associated shortness of breath. She 
+notes no swelling/pain in ___, and states she takes lasix for BP 
+(not fluid overload). She notes no cough, and no palpitations.  
+.  
+Also of note, patient was admitted at ___ from 
+___ w/ rhabdo from gemfibrozil and atovastatin, though 
+her baseline creatinine appears to be around 1.1-1.3.  
+.  
+In the ED, initial vitals were 98.4, 167/43, 58, 12, 100% RA. 
+She received ASA upon arrival. She had two sets CE negative. CTA 
+negative for PE or dissection. PMIBI showed reversible defects 
+in LAD. She was febrile to 100.___nd received 
+tylenol for her fever but no cultures. She was hypertensive in 
+160's to 170's systolic, but did not receive home BP regimen.  
+.  
+.  
+Her ROS is negative for nausea/vomiting/diarrhea. She denies 
+urinary symptoms. No abdominal pain. No HA/blurry vision. 
+Otherwise as above.  
+
+ 
+Past Medical History:
+- Diabetes Mellitus Type II c/b retinopathy  
+- Hypertension  
+- Hyperlipidemia  
+- Chronic Renal Insufficiency (baseline 1.1-1.3 in our system, 
+reportedly down to 0.8-0.9 after resolution of rhabdo in ___ 
+ 
+- Right sided retinal detachment  
+- Rhabdo in ___  
+
+ 
+Social History:
+___
+Family History:
+Father with "heart problems" 
+ 
+Physical Exam:
+VS: 99.3, 190/80, 88, 18, 99% RA  
+GENERAL: WDWN female in NAD.  
+NECK: Supple with flat JVP  
+CARDIAC: regular rate, II/VI SEM  
+LUNGS: crackles in b/l bases  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: 2+ DP pulses b/l  
+
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 09:32PM   GLUCOSE-146* UREA N-34* CREAT-1.5* SODIUM-137 
+POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-24 ANION GAP-15
+___ 09:32PM   WBC-6.3 RBC-3.86* HGB-10.3* HCT-30.5* MCV-79* 
+MCH-26.6* MCHC-33.7 RDW-13.5
+___ 09:32PM   NEUTS-67.2 ___ MONOS-3.8 EOS-2.9 
+BASOS-1.2
+___ 09:32PM   PLT COUNT-227
+___ 09:32PM   CK(CPK)-130
+___ 09:32PM   cTropnT-0.02*
+___ 09:32PM   CK-MB-4
+___ 03:00AM   CK(CPK)-108
+___ 03:00AM   CK-MB-4 cTropnT-0.01
+___ 10:35PM URINE  ___ BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 10:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-  
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+
+Imaging:
+CHEST, PA AND LATERAL: The heart is upper limits of normal in 
+size, with a mildly unfolded aorta. The lungs are clear. No 
+pleural effusion or pneumothorax is identified.
+
+CTA torso:
+IMPRESSION: 
+1. No evidence of aortic dissection. 
+2. Dependent atelectases in the lung bases. 
+3. A 3-mm pulmonary nodule in the right middle lobe. In the 
+absence of any risk factors for intrathoracic malignancy, no 
+further followup for this is necessary. Otherwise, followup 
+chest CT in 12 months. 
+4. Small hiatal hernia. 
+5. Moderately distended bladder. 
+6. Right thyroid nodule. 
+
+P-MIBI:
+1. Probable reversible, medium sized, mild perfusion defect 
+involving the LAD territory in the setting of breast 
+attenuation. 
+2. Normal left ventricular cavity size and systolic function. 
+
+C. Cath:
+FINAL DIAGNOSIS:     
+1. No obstructive coronary artery disease. 
+2. Elevated left sided filling pressures. 
+3. Severe hypertension. 
+4. Normal bilateral renal arteries. 
+
+ 
+Brief Hospital Course:
+___ y/oF with diabetes and HTN presenting with progressive 
+dyspnea on exertion and chest pain, as well as reversible 
+defects in LAD distribution on P-MIBI.  
+.  
+# Noncardiac Chest pain: On admission, patient with dyspnea on 
+exertion (chronic x weeks) and chest pain, as well as reversible 
+lesion in LAD on P-MIBI. Concern for unstable angina in light of 
+two episodes pain at rest. She had three sets cardiac enzymes 
+negative, and ECG with old LBBB, no ST/T-wave changes. She was 
+prehydrated and received mucomyst in light of renal failure, and 
+then had cardiac catheterization. Cardiac catheterization was 
+normal (see above), and there was no evidence of renal artery 
+stenosis. She will continue to be worked up as an outpatient for 
+her shortness of breath.
+.  
+# Acute on Chronic Renal Insufficiency - Creatinines of 0.8 to 
+0.9 upon d/c from ___ in ___, but baseline of 1.1-1.3 
+in our system. On admission, creatinine of 1.5, likely secondary 
+to dehydration. On discharge, creatinine improved to 1.2.  Home 
+ACEi, ___, and lasix were continued on discharge.
+.  
+# Diabetes:  Covered with humalog sliding scale while inpt. Home 
+oral hypoglycemics restarted on discharge. 
+.  
+# Hypertension: Patient with SBP in 190's upon arrival to the 
+floors, likely in the setting of not receiving BP meds in ED. 
+SBP's improved to 120's-150's during hospitalization with 
+resumption of home regimen. Metoprolol and doxazosin were 
+switched to single agent carvedilol, and patient tolerated well. 
+Unclear why patient on diltiazem instead of amlodipine, and 
+reason for both ACEi and ___, in the setting of lisinopril not 
+maxed out dose. Could also consider switching from lasix to HCTZ 
+as outpatient if no contraindication. Should follow up with PCP 
+regarding hypertensive meds, but no other changes other than 
+change to carvedilol were made on this discharge.
+
+# Pulmonary nodule: 3mm pulm nodule on CTA. Recommended that in 
+the absence of malignancy risk (which she does not appear to 
+have), no further imaging needed. Otherwise requires f/u CT in ___ 
+year.
+
+ 
+Medications on Admission:
+1. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: Two (2)  
+
+Capsule, Sustained Release PO DAILY (Daily).  
+2. Doxazosin 1 mg Tablet Sig: Three (3) Tablet PO BID (2 times a 
+ 
+day).  
+3. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+4. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Irbesartan 150 mg Tablet Sig: One (1) Tablet PO daily ().  
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO QAM  
+(once a day (in the morning)).  
+7. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO QPM  
+(once a day (in the evening)).  
+8. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Lisinopril 30 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+Tablet(s)  
+11. Glucotrol 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+ 
+Discharge Medications:
+1. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: Two (2) 
+Capsule, Sustained Release PO DAILY (Daily).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+4. Carvedilol 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Glucotrol 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+9. Irbesartan 150 mg Tablet Sig: One (1) Tablet PO daily ().  
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Atypical Chest Pain, Hypertension
+Secondary: Hyperlipidemia, Type II Diabetes Mellitus
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with chest pain. You had a 
+stress test that was concerning for disease in your coronary 
+vessels. You underwent coronary catheterization that showed that 
+your heart vessels were patent and thus no intervention was 
+needed. Notably, you did have elevated blood pressure requiring 
+us to make changes to your medication regimen.
+
+NEW MEDICATIONS:
+-Carvedilol 25mg twice a day
+
+STOP MEDICATIONS:
+-Doxazosin
+-Metoprolol
+
+If you experience any chest pain, shortness of breath, fevers or 
+any other concerning symptoms please contact your primary care 
+physician or come to the emergency department for evaluation.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19827577-DS-2 | hadm_id=26840715
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfonamides
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o female with h/o HTN, DM, recently admitted to ___ 
+from ___ with rhabdo from combination gemfibrozil and 
+atorvastatin, now presenting with progressive dyspnea on 
+exertion over the last ___ weeks. She has noted difficulty now 
+climbing stairs, and has had about three episodes where she has 
+exerted herself that she must stop and sit down to catch her 
+breath. Her daughter has also noted at times that she becomes 
+dyspneic while talking on the telephone, and is concerned that 
+she could be having heart trouble.  
+She has not had any chest pain or pleurisy. She does not recall 
+being on heparin injection sc while admitted, but denies any leg 
+swelling or leg discomfort. She has not previously had stress 
+testing or echocardiogram; a recent ECG from ___ showed 
+Left Bundle Branch Block pattern though there was no prior for 
+comparison.  
+She presented to her PCP's office today for evaluation. She had 
+an O2 sat of 98% noted there, and after ambulation for several 
+passes through the office she did not desaturate and remained 
+98% according to her daughter who was present. She was referred 
+to ___ for further evaluation.  
+Her ROS is notable for occasional nausea, though no vomiting or 
+other GI symptoms. She has had no fevers, rigors, skin changes. 
+She had edema in her legs after discharge, but that was noted to 
+be associated with cessation of lasix, which has now improved 
+since restarting. No real history of cough.  
+In the ED, vital signs were initially: 98.3 63 156/36 16 99 
+174/67  
+She currently is resting comfortably  
+
+ 
+Past Medical History:
+- Diabetes c/b retinopathy  
+- Hypertension  
+- Hyperlipidemia  
+- Renal Insufficiency  
+- right sided retinal detachment  
+Recent admission for rhabdo: highest CK 15,335 on ___, 320 on 
+___.  
+Cr peaked at 1.6, and trended down to 0.8-0.9 on discharge, 
+though increaed again to 1.3 on ___.  
+
+ 
+Social History:
+___
+Family History:
+Unclear, most family is from ___. No known history of clotting 
+disorders or premature CAD. 
+ 
+Physical Exam:
+VS: 98.4 162/64 60 16 99% RA FSG 152  
+GEN:The patient is in no distress and appears comfortable  
+SKIN:No rashes or skin changes noted  
+HEENT:No JVD (~6cm), neck supple, No lymphadenopathy in 
+cervical,  
+posterior, or supraclavicular chains noted.  
+CHEST:Lungs are notable for bibasilar crackles, the left side 
+which extend in the outer lung fields midway on inspiration.  
+CARDIAC: Regular rhythm; Soft S1, Louder S2. No murmur.  
+ABDOMEN: Non-distended, and soft without tenderness  
+EXTREMITIES:no peripheral edema, warm without cyanosis  
+NEUROLOGIC: Alert and appropriate. CN II-XII grossly intact 
+
+ 
+Pertinent Results:
+CBC
+___ 05:15PM BLOOD WBC-6.9 RBC-4.19* Hgb-11.1* Hct-33.8* 
+MCV-81* MCH-26.5* MCHC-32.8 RDW-13.5 Plt ___
+___ 06:15AM BLOOD WBC-5.4 RBC-3.95* Hgb-10.1* Hct-31.8* 
+MCV-81* MCH-25.6* MCHC-31.8 RDW-13.5 Plt ___
+___ 05:15PM BLOOD Neuts-71.1* ___ Monos-3.0 Eos-1.5 
+Baso-0.5
+___ 06:15AM BLOOD ___ PTT-25.5 ___
+
+CHEMISTRY
+___ 05:15PM BLOOD Glucose-316* UreaN-30* Creat-1.4* Na-135 
+K-4.1 Cl-99 HCO3-25 AnGap-15
+___ 06:15AM BLOOD Glucose-74 UreaN-22* Creat-1.2* Na-144 
+K-3.9 Cl-107 HCO3-28 AnGap-13
+
+CARDIAC ENZYMES
+___ 05:15PM BLOOD CK(CPK)-131
+___ 12:00AM BLOOD CK(CPK)-107
+___ 06:15AM BLOOD CK(CPK)-92
+___ 05:15PM BLOOD cTropnT-0.02*
+___ 12:00AM BLOOD CK-MB-3 cTropnT-0.03*
+___ 06:15AM BLOOD CK-MB-NotDone cTropnT-0.02*
+___ 05:15PM BLOOD CK-MB-4 proBNP-357
+
+URINE
+___ 08:30PM URINE Color-Yellow Appear-Clear Sp ___
+___ 08:30PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-250 Ketone-NEG Bilirub-NEG Urobiln-0.2 pH-5.0 Leuks-LG
+___ 08:30PM URINE RBC-0 ___ Bacteri-OCC Yeast-NONE 
+___
+
+CHEST X-RAY ___: IMPRESSION: No consolidation or edema
+ 
+Brief Hospital Course:
+# Dyspnea on Exertion  - Mrs. ___ was admitted from the ED for 
+dyspnea on exertion.  On further questioning after admission, 
+patient was noted to be fatigued for approxamately 3 months with 
+some dyspnea with exertion present after discharge for treatment 
+of rhabdomyolysis in ___.  She has not recieved formal 
+physical therapy since discharge and dyspnea only present ___ 
+times per week.  Exam with no signs of volume overload.  Chest 
+x-ray with no acute abnormalities.  Serial cardiac enzymes 
+negative. EKG with LBBB, prolonged PR interval, but unchanged 
+from EKG in ___.  Oxygen saturation on ambulation never 
+decreased below 98% on room air.  Patient's family requested 
+discharge so that she could attend her grandson's wedding.  Echo 
+and P-MIBI pharmacologic stress are to be done as outpatient.  
+Primary Care Physician was notified via email of the plan of 
+care.  
+.
+# Renal Insufficiency  - Baseline unclear, however, it has been 
+noted to be as low as 0.8 to 0.9 at the end of her 
+hospitalization for rhabdo. Baseline from ___ records appears 
+to be 1.1.-1.4.  Patient was discharged with creatining of 1.2, 
+which was likely her baseline.  Lasix initially held by 
+nightfloat, but patient was discharged on home medications, 
+unchanged.
+.
+# Diabetes:  Ordered humalog sliding scale while inpatient, 
+discharged on home regimen. 
+.
+# Hypertension:  Continued avapro and metoprolol.  Discharged on 
+home regimen.
+
+ 
+Medications on Admission:
+Diltiazem 360mg SR po daily  
+Doxaxosin 3mg PO BID  
+Alendronate 70mg PO weekly  
+Furosemide 20mg PO daily  
+Irbesartan (avapro) 150mg PO daily  
+Metoprolol Tartrate 50mg PO qAM, 100mg PO qPM  
+Sitagliptin (Januvia) 50mg PO daily  
+Lisinopril 30mg PO BID  
+Aspirin 81mg PO daily  
+
+ 
+Discharge Medications:
+1. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: Two (2) 
+Capsule, Sustained Release PO DAILY (Daily).  
+2. Doxazosin 1 mg Tablet Sig: Three (3) Tablet PO BID (2 times a 
+day).  
+3. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+4. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Irbesartan 150 mg Tablet Sig: One (1) Tablet PO daily ().  
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO QAM 
+(once a day (in the morning)).  
+7. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO QPM 
+(once a day (in the evening)).  
+8. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Lisinopril 30 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. 
+Tablet(s) 
+11. Glucotrol 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Dyspnea on exertion
+
+Secondary Diagnosis:
+1. Diabetes
+2. Hypertension
+
+ 
+Discharge Condition:
+Hemodynamically Stable.  Good oxygen saturation.  
+
+ 
+Discharge Instructions:
+You were admitted to the hospital on recommendation from your 
+PCP due to fatigue and shortness of breath.  You were observed 
+overnight.  Lab tests confirmed that you did not have a heart 
+attack.  You are being discharged to have further work-up of 
+your shortness of breath and fatigue as an outpatient.  Your 
+primary care physician has been notified of this plan and it is 
+important that you follow-up with her on ___, ___.
+
+Changes in Medications:
+NONE, please take all medications as previously prescribed
+
+If you experience chest pain, loss of concoiusness, worsening 
+shortness of breat, fever, blood in your urine or stool, or any 
+other symptom that concerns you, please contact your primary 
+care physician or go to the nearest emergency room for 
+evaluation.
+ 
+Followup Instructions:
+___

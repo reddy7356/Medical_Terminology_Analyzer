@@ -1,0 +1,205 @@
+===== DISCHARGE NOTE =====
+note_id=18077571-DS-7 | hadm_id=29323423
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+concern for uti
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This ___ yo female with foley and known history of recurrent UTI 
+last culture positive for proteus two weeks ago that was treated 
+with iv imipenem now returns with prulent urine but no fever. 
+per nursing home note pt "did not look so good and was some what 
+sob although sating well". her urine was noted to be milky white 
+and she was therefore sent to the er. in er, ua revealed mod 
+leuk and pos nitrite with ___ wcc and mod bact. mildly 
+elevated wcc. she's pan-cutlured in er and started on iv 
+ceftriaxone and admitted for further management. on the floor 
+urine clean appearing. pt's comfortable no complaint. 
+ 
+Past Medical History:
+ms  
+uti  
+htn  
+trigeminal neuralgia  
+l nephrectomy  
+hyperlipidemia  
+dementia  
+r hip fracture and repair  
+tia  
+ventral hernia  
+
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+temp 98.7, hr 81/min, bp 132/70, rr 16/min, sats 95% on ra  
+comfortable at rest, no apaprent distress  
+neck supple, no jvd  
+rrr, nl s1+s2, no m/r/g  
+ctab, nl effort  
+___ soft, non tender, nl bs  
+no o/c/c  
+a&o x 3, cns ___ grossly intact.  
+
+ 
+Pertinent Results:
+___ 1:50 pm URINE     Site: CATHETER
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed fecal flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML.. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------     8 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------     8 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+
+ 
+Brief Hospital Course:
+UTI -indwelling catheter with recent proteus and course of 
+imipenam with change in UA, +/- systemic symptoms though no 
+fever or elevated WBC. urine culture returned >100K proteus. She 
+was initially placed on CEFTRIAXONE in the ER which she 
+tolerated. She will complete a 10 day course of IV CEFTRIAXONE 
+for presumed continued urinary tract infection in the setting of 
+indwelling foley.
+She will be discharged back to her nursing home to complete 5 
+more days of iv ceftriaxone.
+
+Here other chronic medical problems were stable
+Medicine reconcillation was done to the best of our knowledge, 
+In brief: there were no changes to her pre-admission 
+medications.
+her only new medicine is IV ceftriaxone for 5 days and then 
+stop.
+
+ 
+Medications on Admission:
+Per NH notes: 
+
+vit C 500 mg BID
+tylenol prn pain or fever
+ipratropium-albuterol  neb q6hr prn
+lorazepam 0.25 mg prn for anxiety
+trazodone 25 mg po daily for agitation
+Milk of magnesia prn 30 ml is no BM x 48 hours
+bisacodyl prn
+fleet enema prn
+oyst cal with vit D 500 mg TID with meals
+Vicodin ___ 1 tab TID
+Vicodin prn q8hr for pain
+senna 2 tabs daily in pm
+aricept 10 mg bedtime
+bisacodyl 
+mirtazapine 15 mg bedtime
+multivitamin 1 tab daily
+ASA 325 mg daily
+effexor 112.5 mg qAM
+colace 100 mg BID
+gabapentin 100 mg TID
+ensure tid
+supplement pudding tid
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+2. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed for wheezing or dyspnea.  
+4. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: 
+One (1)  Inhalation Q6H (every 6 hours) as needed for wheezing 
+or dyspnea.  
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for anxiety.  
+6. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily) as 
+needed for agitation.  
+7. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).  
+8. Venlafaxine 37.5 mg Capsule, Sust. Release 24 hr Sig: Two (2) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+9. Venlafaxine 75 mg Capsule, Sust. Release 24 hr Sig: 0.5 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+10. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+11. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+12. Os-Cal 500 + D 500 (1,250)-400 mg-unit Tablet, Chewable Sig: 
+One (1) Tablet, Chewable PO three times a day: with meals.  
+13. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+14. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+16. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets 
+PO Q8H (every 8 hours) as needed for pain.  
+17. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+18. Ceftriaxone-Dextrose (Iso-osm) 1 gram/50 mL Piggyback Sig: 
+One (1)  Intravenous Q24H (every 24 hours) for 5 days.  
+19. Pneumococcal 23-ValPS Vaccine 25 mcg/0.5 mL Injectable Sig: 
+One (1) ML Injection ASDIR8 (ASDIR).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+uti -indwelling catheter
+
+ 
+Discharge Condition:
+improved, afebrile, no complaints, clear urine
+
+ 
+Discharge Instructions:
+complete iv antibiotics as prescribed.
+there were no other changes to your previous medications
+ 
+Followup Instructions:
+___

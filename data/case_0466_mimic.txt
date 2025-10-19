@@ -1,0 +1,638 @@
+===== DISCHARGE NOTE =====
+note_id=19250641-DS-13 | hadm_id=20965206
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending: ___
+ 
+___ Complaint:
+LLQ abdominal pain  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with h/o diverticulosis and 
+diverticulitis per report several years ago presenting with LLQ 
+abdominal pain x ___ days associated with fever to 101.6 today, 
+chills, and decreased appetite. Describes pain as crampy, ___, 
+intermittent, worse with any movement, and similar to prior 
+episode of diverticulitis. Last BM yesterday was normal without 
+melena, hematochezia or diarrhea. She had taken 600mg ibuprofen 
+at home with mild relief. She saw her PCP today, Dr. ___ 
+was noted to have elevated WBC and ? ST changes so was sent to 
+ED. She also had some nonspecific ST changes in clinic which 
+were not present on ECG in ED.  
+.  
+In the ED, initial VS were: 98.2 90 134/71 16 98  
+Patient was given Ciprofloxacin 400mg IV, Flagyl 500mg, Ativan 
+and Morphine. She had CT consistent with diverticulitis. Vitals 
+on transfer were 99.2 88 140/51 76 97%RA  
+.  
+On the floor, pt reports pain now ___.
+.
+Review of systems:  
+(+) Per HPI  
+(-) Denies recent weight loss or gain. Denies headache, sinus 
+tenderness, rhinorrhea or congestion. Denied cough, shortness of 
+breath. Denied chest pain or tightness, palpitations. Denied 
+nausea, vomiting, diarrhea, constipation or abdominal pain. No 
+recent change in bowel or bladder habits. No dysuria. Denied 
+arthralgias or myalgias.   
+
+ 
+Past Medical History:
+Diverticulosis  
+Diverticulitis treated with PO abx as outpatient several years 
+ago per pt report  
+L kidney complex cyst  
+Gallstones  
+Asthma, recently on PO steroids  
+Lyme Disease ___
+ 
+Social History:
+___
+Family History:
+Mother with renal cell carcinoma. Father with a history of 
+colonic polyps. Paternal grandparent with colon cancer. No 
+family history of IBD
+ 
+Physical Exam:
+Vitals: T:99.1 BP:128/70 P:95 R:18 O2:96%RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, TTP LLQ, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CN ___ intact. AAOx3
+
+Exam at discharge:
+afebrile,  BP 120s/70s  HR ___  98% RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, mildly TTP LLQ, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly; improved abdominal exam 
+ 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CN ___ intact. AAOx3
+
+ 
+Pertinent Results:
+___ 07:30PM   ___ PTT-28.2 ___
+___ 07:30PM   PLT COUNT-320
+___ 07:30PM   NEUTS-77.0* LYMPHS-13.8* MONOS-7.2 EOS-1.8 
+BASOS-0.3
+___ 07:30PM   WBC-18.9*# RBC-4.69 HGB-14.4 HCT-41.2 MCV-88 
+MCH-30.6 MCHC-34.9 RDW-13.2
+___ 07:30PM   estGFR-Using this
+___ 07:30PM   GLUCOSE-95 UREA N-18 CREAT-1.0 SODIUM-136 
+POTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-24 ANION GAP-16
+___ 07:31PM   LACTATE-1.1
+___ 06:25AM   PLT COUNT-270
+___ 06:25AM   NEUTS-73.4* LYMPHS-15.0* MONOS-8.9 EOS-2.4 
+BASOS-0.3
+___ 06:25AM   WBC-14.3* RBC-4.31 HGB-12.7 HCT-38.3 MCV-89 
+MCH-29.5 MCHC-33.2 RDW-13.7
+___ 06:25AM   CALCIUM-8.9 PHOSPHATE-3.5 MAGNESIUM-1.8
+___ 06:25AM   GLUCOSE-120* UREA N-13 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-104 TOTAL CO2-24 ANION GAP-15
+
+White count trend  20 -> 18.9 -> 14.3 -> 11.7 -> 11.6
+
+Blood cultures from ___ and ___ continue to be pending.
+
+CT abdomen/pelvis:
+IMPRESSION:  
+1. Acute sigmoid diverticulitis with some fluid adjacent to the 
+inflamed 
+diverticulum. No drainable fluid collection or frank abscess at 
+this time. 
+  
+2. Gallbladder is filled with noncalcified stones. Gallbladder 
+wall 
+thickening at the neck and wall thickening and 
+narrowing/stricture at the 
+fundus, stable since ___, likely represents chronic 
+cholecystitis but 
+underlying neoplasm can not be excluded. 
+  
+3. Stable liver and renal cyst and hyperenhancing liver lesion 
+most compatible with hemangioma. 
+  
+4. Large fibroid uterus, 8 cm in diameter, little change from 
+prior. 
+
+ 
+Brief Hospital Course:
+Assessment and Plan: ___ year old female with h/o diverticulosis 
+noted on colonoscopy one year ago and diverticulitis in past now 
+presenting with LLQ abdominal pain and history, physical 
+andimaging c/w uncomplicated diverticulitis  
+.  
+# Diverticulitis:  No perforation, abscess, fistula or 
+obstruction to suggest complicated.  Exam notable for absence of 
+peritoneal signs, pain improving.  White count improved through 
+course.  Patient initially was managed with bowel rest, IVF and 
+IV cipro and flagyl.  As her exam and white count improved, diet 
+was reintroduced, and tolerated well.  The patient did not 
+require medication for pain control.  The patient was discharged 
+on ___ with the intent to complete a 10 day course of PO 
+ciprofloxacin and metronidazole.
+.
+# Gallbladder thickening on CT:  Gallbladder is filled with 
+noncalcified stones. Gallbladder wall thickening at the neck and 
+wall thickening and narrowing/stricture at the fundus, stable 
+since ___, likely represents chronic cholecystitis.  Patient 
+had no evidence, although the interpreter "could not exclude 
+underlying neoplasm".  The patient will follow up with her PCP.
+.  
+# Asthma: Currently asymptomatic. Continued flovent and 
+albuterol prn  
+.  
+# FEN: IVF, replete electrolytes  
+.  
+# Prophylaxis:  
+-DVT ppx with SC heparin  
+-Bowel regimen  
+-Pain management with  
+.  
+# Access: peripherals  
+.  
+# Code: Confirmed full but would not want heroic measures if 
+circumstances were irreversible  
+.  
+# Communication: Patient 
+ 
+Medications on Admission:
+Multivitamin PO daily  
+Omega 3 fatty acids  
+Albuterol prn  
+Flovent 110mcg in BID  
+Lecithin  
+Had been on prednisone 2 weeks prior 
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+2. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+3. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q6H (every 6 hours) as needed for SOB.  
+4. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 1 weeks.
+Disp:*15 Tablet(s)* Refills:*0*
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) for 1 weeks.
+Disp:*25 Tablet(s)* Refills:*0*
+6. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+7. Omega-3 Fatty Acids 1,000 mg Capsule Sig: One (1) Capsule PO 
+once a day.  
+8  Lecithin
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+-Diverticulitis
+
+Secondary Diagnoses:
+-Diverticulosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of concern about an 
+episode of diverticulitis and the discomfort and nausea you were 
+having.  We treated you with antibiotics and your symptoms 
+improved.  We are discharging you to complete your recovery.  
+You will continue your antibiotics to help resolve this 
+infection.  You were discharged on ___ in improved 
+condition.
+
+Please see below for your follow up appointments.
+
+The following changes have been to your medications:
+Please continue ciprofloxacin 400 mg by mouth twice a day for 7 
+days
+Please continue metronidazole 500 mg by mouth three times a day 
+for 7 days
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19250641-DS-12 | hadm_id=25796253
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending: ___
+ 
+Chief Complaint:
+fevers and shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yoF w/ a h/o diverticulosis recently admitted with fever and 
+abdominal pain LLQ which lasted about 2 days, no diverticulitis 
+on CT scan, not treated w/ abx and sent home as no source and 
+abdominal pain resolved.  
+
+She states the small rash on her R foot has increased in size 
+slightly. She lives in the ___ area for most of the 
+summer and does wear sandals. Does not remember a tick bite. She 
+does have a dog.  
+ 
+She states that she has had shortness of breath as well. States 
+it was similar to her normal asthma exacerbations but did not go 
+away. SOB was the same with activity or at rest.  
+
+In general she has been very fatigued but denies any specific 
+muscle aches, joint pains, headache, chest pain, rhinorrhea, 
+cough, diarrhea, constipation, blurry vision, facial pain or 
+other symptoms.  
+  
+In the ED CTA was obtained to r/o PE with her SOB, which was 
+negative and she was admitted for further w/u of fever.  
+ 
+Past Medical History:
+Diverticulosis 
+L kidney complex cyst 
+Gallstones  
+Asthma  
+
+ 
+Social History:
+___
+Family History:
+Mother with renal cell carcinoma. Father with a history of 
+colonic polyps. Paternal grandparent with colon cancer. No 
+family history of IBD.
+ 
+Physical Exam:
+VITAL: T 100.4 BP 140/70 HR 70 O2 98% RA  
+GEN: A+Ox3, NAD  
+HEENT: PERRL, EOMI, OP clear, MMM, JVP 10cm  
+CV: RRR, ___ systolic murmur, mid peaking cresc-decresc @ R USB 
+without radiation to carotids, no thrill  
+PULM: CTAB, no wheezes  
+ABD: Soft, NT, ND, +BS, no rebound, no palpable masses or 
+organomegaly  
+EXT: No peripheral edema, no stigmata of endocarditis R lateral 
+foot with erythema, very mild edema, darkening towards center. 
+No induration. + warmth. No pain or tenderness. No discharge. No 
+tinea pedis.
+Skin: a 5 by 3 cm erythematous rash in the xiphoid area and a 3 
+by 3 cm erythematous rash on the right mid back.
+ 
+Pertinent Results:
+___ 08:20AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 08:20AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-SM 
+
+___ 08:20AM URINE  RBC-1 WBC-3 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 06:25AM   GLUCOSE-104 UREA N-7 CREAT-0.9 SODIUM-140 
+POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-28 ANION GAP-12
+___ 06:25AM   ALT(SGPT)-62* AST(SGOT)-67* LD(LDH)-277* 
+CK(CPK)-49 ALK PHOS-196* TOT BILI-0.5
+___ 06:25AM   CK-MB-NotDone cTropnT-<0.01
+___ 06:25AM   ALBUMIN-3.6 CALCIUM-8.7 PHOSPHATE-3.2 
+MAGNESIUM-2.1
+___ 06:25AM   CRP-181.3*
+___ 06:25AM   WBC-6.5 RBC-4.20 HGB-12.4 HCT-36.5 MCV-87 
+MCH-29.6 MCHC-34.0 RDW-13.6
+___ 06:25AM   PLT COUNT-181
+___ 06:30PM   HBsAg-NEGATIVE HBs Ab-NEGATIVE HBc 
+Ab-NEGATIVE HAV Ab-POSITIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE
+___ 06:30PM   HCV Ab-NEGATIVE
+___ 06:30PM   CRP-190.1*
+___ 06:30PM   LACTATE-1.4
+___ 06:30PM   SED RATE-79*
+
+ECHO: No evidence of endocarditis or clinically-significant 
+regurgitant valvular disease. Normal LV wall thickness and 
+global/regional biventricular systolic function.
+
+ 
+Brief Hospital Course:
+___ yo woman presented with rash, fever and shortness of breath.
+
+# Fever: Given clinical presentation of rash, general malaise, 
+fevers, elevated LFTs in the setting of frequent visits to ___ 
+___ patient was presumed to have Lyme disease. Lyme 
+titer sent on previous admission was initially pending and 
+another was redrawn. Pt was started on Doxycycline 100mg PO BID 
+to treat both Lyme and/or Ehrlichiosis and had rapid improvement 
+of multiple areas of rash and became afebrile. She continued to 
+have generalized malaise and some "heaviness in her head". Pt's 
+initial Lyme titer eventually came back negative but due to 
+pretest probability being very high and pt's response, lab 
+result was presumed to be false negative/too early in course of 
+disease.  
+
+Pt was also checked for Legionella urine antigen which was 
+negative, and had blood cultures (no growth) and an 
+echocardiogram that demonstrated no vegetations. 
+
+Pt's LFTs, LDH and fever curve were followed closely thoughout 
+the hospital course. Ms ___ was seen by the infectious 
+disease team, who advised in type and length of treatment. She 
+was discharged to complete a 21-day course of doxycycline.
+
+Her LFTs were elevated at the time of admission and remained 
+slightly elevated at discharge. These should be re-checked as an 
+outpatient and were thought possibly due to Ehrlichiosis.
+
+Ehrlichia and Lyme serologies were pending at the time of 
+discharge.
+ 
+# Shortness of Breath: Pt's SOB was responsive to home regimen 
+with additional prn albuterol nebs and improved after initiation 
+of Doxycycline.
+  
+# EKG changes on admission: slightly early RWP with ST 
+depressions from V2 or V3 - V6. Pt received aspirin in the ED. 
+She had cardiac enzymes negative x3 and a normal echocardiogram. 
+ 
+
+ 
+Medications on Admission:
+Flovent 3 puffs qam  
+Albuterol 2 puffs qam 
+ 
+Discharge Medications:
+1. Fluticasone 110 mcg/Actuation Aerosol Sig: Three (3) Puff 
+Inhalation QAM (once a day (in the morning)).  
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation QAM (once a day (in the morning)).  
+3. Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO 
+Q12H (every 12 hours) for 21 days.
+Disp:*42 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lyme Disease
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with persistent fevers, general malaise, 
+shortness of breath and a rash on your right foot. You also had 
+some mildly elevated liver enzymes and markers of inflammation. 
+This systemic presentation was clinically consistant with Lyme 
+disease even though there was no classic rash or known history 
+of tick bite. You were started on an antibiotic (Doxycycline) to 
+treat the presumed Lyme disease with improvement of your rash. 
+
+On discharge you will need to continue the Doxycycline for a 
+total of 21 days, last dose ___. 
+
+If your weakness continues to not improve or worsen, if your 
+rash persists or worsens, or you have any other questions or 
+concerns, please call your physician or return to the hospital. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19250641-DS-11 | hadm_id=29811088
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fevers and abdominal pain  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yoF w/ a h/o diverticulosis presents with fever and abdominal 
+pain. Her pain has been intermittent x 36 hours prior to 
+admission and fever to 103 today, her pain is stabbing in 
+nature, as severe as ___ and lasts only seconds. She has had 
+two episodes in the ER and multiple episodes over past 36 hours 
+but they seemed to have resolved. In addition she has been 
+nauseas and had a poor appetite x 36 hours without any vomiting. 
+Diarrhea x 1 two days prior to admission, watery and brown 
+without blood, no black stool. No BM today, + flatus, no 
+subjective abd distention. Given that the patient has had these 
+symptoms in the past without diagnosis the patients PCP ___. 
+___ that she be admitted for further observation. 
+The patient states that she has had an episode of diverticulitis 
+in the past (but this has not been documented by a CT scan taken 
+days after she was asymptomatic) and that these symptoms are the 
+same.  
+
+She has been eating out lately very frequently. No sick 
+contacts, and no one she has dined with has had similar 
+symptoms. 
+
+She spends quite a bit of time in ___, last year she had 
+tick bits but she has not noticed any tick bites.  she does take 
+care of a friend's dog on occasions. 
+
+ROS: negative for dysuria, vaginal pain, bleeding or discharge. 
++ Dull frontal HA, resolved currently. No flank pain or 
+tenderness.  
+
+Rare ETOH use and rare nsaid use.  
+
+In the ED the patient's vitals were T 103 BP 103/55 HR 88 RR O2 
+95% RA.  
+She rec'd zofran, ketorolac and tylenol as well as 2 liters of 
+fluid.  
+
+ 
+Past Medical History:
+Diverticulosis 
+L kidney complex cyst 
+Gallstones  
+Asthma  
+
+ 
+Social History:
+___
+Family History:
+Mother with renal cell carcinoma. Father with a history of 
+colonic polyps. Paternal grandparent with colon cancer. No 
+family history of IBD.
+ 
+Physical Exam:
+VITAL: 99.5 HR 92 BP 133/60 RR 18 O2 94% RA  
+GEN: A+Ox3, NAD  
+HEENT: PERRL, EOMI, OP clear, MMM, JVP 10cm  
+CV: RRR, ___ systolic murmur, mid peaking cresc-decresc @ R USB 
+without radiation to carotids, no thrill  
+PULM: CTAB, no W/R/R  
+ABD: Soft, NT, ND, +BS, no rebound, no palpable masses or 
+organomegaly  
+EXT: No peripheral edema, no stigmata of endocarditis  
+ 
+Pertinent Results:
+___ 04:30PM BLOOD WBC-5.7 RBC-4.70 Hgb-14.3 Hct-39.9 MCV-85 
+MCH-30.5 MCHC-36.0* RDW-13.9 Plt ___
+___ 06:55AM BLOOD WBC-6.1 RBC-4.05* Hgb-11.9* Hct-35.1* 
+MCV-87 MCH-29.2 MCHC-33.8 RDW-13.5 Plt ___
+___ 04:30PM BLOOD Neuts-76.9* Lymphs-12.5* Monos-10.2 
+Eos-0.2 Baso-0.3
+___ 04:30PM BLOOD Glucose-135* UreaN-10 Creat-1.0 Na-137 
+K-3.8 Cl-102 HCO3-25 AnGap-14
+___ 04:30PM BLOOD ALT-24 AST-32 LD(LDH)-230 AlkPhos-66 
+TotBili-0.5
+___ 04:36PM BLOOD Lactate-1.2
+
+CT abdomen:
+1. Mild sigmoid diverticulosis without evidence of 
+diverticulitis.
+2. No evidence of appendicitis.
+3. Stable size of large fibroid uterus, with associated mass 
+effect on the
+rectum by large posterior fibroid.
+4. Hypodense lesions in the liver and right kidney, previously 
+characterized
+on MRI as cysts.
+5. Hypervascular lesion in segment VI of the liver, stable since 
+___, likely
+representing FNH.
+6. Stable focal gallbladder wall thickening consistent with 
+adenomyomatosis.
+
+CXR:Lungs are clear bilaterally demonstrating no evidence of 
+pneumonia or CHF. No pleural effusion or pneumothorax is seen. 
+Cardiomediastinal silhouette is normal.
+
+ 
+Brief Hospital Course:
+___ yoF w/ a h/o diverticulosis and asthma presents with 
+diarrhea, nausea, fevers, and LLQ abdominal pain.  
+
+# Abdominal pain: Pt's pain was worked up with CT scan, 
+urinalysis (negative), LFTs, amylase/lipase (normal). Pt was NPO 
+on admission with quick progression to full diet. Stool studies 
+were not sent as diarrhea and pain had resolved. Pt had a 
+history of diverticulosis and previous similar episode with 
+lower abdominal pain and fever with a CT performed after 
+symptomatic resolution, negative for diverticulitis.  Given 
+nausea and diarrhea as well as negative CT scan on this 
+admission, symptoms were attributed to gastroenteritis. 
+
+# Fever:There is no obvious source but because she spend time in 
+the ___, lyme disease or ehrlichial infection is a possibility. 
+Lyme and ehrlichial titers w drawn before discharge.
+  
+# Asthma: Pt denied shortness of breath on admission and  was 
+continued on her home regimen and additional prn nebulizer 
+treatments
+  
+# Heart murmur: Per patient systolic murmur was longstanding. 
+Blood cultures were negative and pt had no stigmata of 
+endocarditis. 
+  
+# Fibroid uterus: Per CT fibroid with "larger mass effect on the 
+rectum" than previous in ___ however no evidence of obstruction 
+given soft abdomen and having bowel movements. Pt  
+
+ 
+Medications on Admission:
+Fluticasone 3 puffs qam  
+Albuterol 2 puffs qam  
+
+ 
+Discharge Medications:
+1. Fluticasone 110 mcg/Actuation Aerosol Sig: Three (3) Puff 
+Inhalation QAM (once a day (in the morning)).  
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation QAM (once a day (in the morning)).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fever, abdominal pain
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain and fever. There was no 
+evidence of diverticulitis or appendicitis on your CAT scan. We 
+sent blood tests, but the results have not returned. We will 
+call you if any of these return positive, and you should follow 
+up with your primary are doctor regarding these results.
+
+We made no changes to your medications.
+
+Please call your doctor or return to the hospital if you 
+experience worsening fevers, continued or worsening abdominal 
+pain, or blood in your stools.
+ 
+Followup Instructions:
+___

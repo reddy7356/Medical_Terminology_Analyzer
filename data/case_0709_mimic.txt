@@ -1,0 +1,398 @@
+===== DISCHARGE NOTE =====
+note_id=16277593-DS-19 | hadm_id=24040964
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right lower extremity ischemia
+ 
+Major Surgical or Invasive Procedure:
+A right common femoral artery to
+anterior tibial artery using in situ greater saphenous vein.
+
+ 
+History of Present Illness:
+The patient is a ___
+gentleman with right lower extremity ischemia.  He previously
+underwent an angiogram on ___, which demonstrated
+occluded or very limited flow through the superficial femoral
+artery, and lousy runoff below the popliteal.  There was
+reconstitution of the anterior tibial artery, and was felt
+that it was appropriate for a bypass especially given the
+patient had available greater saphenous vein. 
+ 
+Past Medical History:
+HTN, hyperlipidemia, GERD, peripheral neuropathy, bronchitis, R 
+CEA (___), R CEA stent (___)
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+GEN: A&Ox3
+RESP: CTAB
+___: RRR
+RLE: wound well healed, no drainage. Dressings c/d/i.
+Ext: Pulses present distally b/l ___
+ 
+Pertinent Results:
+___ 07:10AM BLOOD Hct-35.5* Plt ___
+___ 04:51AM BLOOD Hct-34.5* Plt ___
+___ 03:28AM BLOOD WBC-10.8 Hgb-12.3* Hct-37.4* Plt ___
+___ 01:11PM BLOOD Hgb-12.1*# Hct-36.6*# Plt ___
+___ 07:10AM BLOOD Plt ___
+___ 04:51AM BLOOD Plt ___
+___ 03:28AM BLOOD Plt ___
+___ 01:11PM BLOOD Plt ___
+___ 01:11PM BLOOD ___ PTT-150* ___
+___ 07:10AM BLOOD Na-135 K-4.5 Cl-98
+___ 04:51AM BLOOD UreaN-13 Creat-0.6 Na-134 K-4.1 Cl-99
+___ 03:28AM BLOOD Glucose-136* UreaN-12 Creat-0.7 Na-135 
+K-4.3 Cl-100 HCO3-25 AnGap-14
+___ 01:11PM BLOOD Glucose-143* UreaN-14 Creat-0.7 Na-135 
+K-4.3 Cl-103 HCO3-25 AnGap-11
+___ 01:11PM BLOOD ALT-20 AST-28 AlkPhos-47
+___ 01:11PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 03:28AM BLOOD Calcium-8.1* Phos-3.6 Mg-1.9
+___ 01:11PM BLOOD Calcium-8.3* Phos-4.0 Mg-1.7
+___ 11:45AM BLOOD pO2-204* pCO2-39 pH-7.42 calTCO2-26 Base 
+XS-1 Comment-SOURCE NOT
+___ 10:22AM BLOOD pO2-222* pCO2-39 pH-7.45 calTCO2-28 Base 
+XS-3 Comment-SOURCE NOT
+___ 11:45AM BLOOD Glucose-132* Lactate-2.3* Na-133 K-3.7 
+Cl-104
+___ 10:22AM BLOOD Glucose-141* Lactate-1.9 Na-134 K-3.4 
+Cl-103
+___ 11:45AM BLOOD Hgb-11.5* calcHCT-35
+___ 10:22AM BLOOD Hgb-13.1* calcHCT-39
+___ 11:45AM BLOOD freeCa-1.09*
+___ 10:22AM BLOOD freeCa-1.___ M with right lower extremity ischemia.  He had 
+previously
+underwent an angiogram on ___, which demonstrated
+an occluded or very limited flow through the superficial femoral
+artery, and lousy runoff below the popliteal.  There was
+reconstitution of the anterior tibial artery, and was felt
+that it was appropriate for a bypass especially given the
+patient had available greater saphenous vein. After obtaining 
+surgical consent a right common femoral artery to anterior 
+tibial artery using in situ greater saphenous vein was performed 
+(see procedure not for full details)
+
+Pt. tolerated the surgery without complication and was brought 
+to the surgical floor after a brief stay in the PACU. 
+
+The patients pain was well controlled and his diet was advanced 
+to regular food. His foley was removed and he was able to void 
+appropriately.
+
+On POD 3 he worked with physical therapy and was ambulating out 
+of bed. This continued on POD 4 at which time he was able to 
+walk with a cane. ___ recommended him to go home without a need 
+for additional home ___ at this time. 
+
+At time of discharge pt was in stable condition, with his pain 
+well controlled, and tolerating a regular diet. Of note, his 
+PCP, ___ was also involved in his dispo plan and was made 
+aware of the patients progress. Pt. will follow up with Dr. 
+___ in clinic and will call his office after being 
+discharged to schedule the appointment.
+ 
+Medications on Admission:
+ASA 81mg', Atenolol 25mg (skips dose if BP is below 135), 
+omeprazole 20mg'prn, Nortriptyline 50mg hs
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. Nortriptyline 50 mg PO HS 
+4. Omeprazole 20 mg PO DAILY GERD 
+5. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4-6hrs Disp #*20 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right lower extremity ischemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16277593-DS-18 | hadm_id=24139566
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy
+Lysis of adhesions
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old male with no prior history of an 
+abdominal operation who presents with abdominal pain that 
+started on ___.  He reports that he had sudden onset of 
+diffuse constant dull ache throughout his abdomen with 
+intermittent episodes of left sided sharp crampy pains.  The 
+pain continued throughout the night and he presented to the 
+emergency room at an OSH where he was treated with pain 
+medication and antinausea medication.  His pain resolved and he 
+was discharged home.  There was a sudden return of the pain the 
+following day around noon with greater intensity and associated 
+with more significant distension but also nausea and vomiting 
+(total 3x).  He contacted his PCP at this time and was referred 
+to the ___ emergency room.
+
+Currently, he reports continued abdominal pain mostly located in 
+the left side with persistent nausea and vomiting.  He has not 
+had flatus or a bowel movement since yesterday morning.  He does 
+not recall when his last colonoscopy was performed.
+ 
+Past Medical History:
+HTN, hyperlipidemia, GERD, peripheral neuropathy, bronchitis, R 
+CEA (___), R CEA stent (___)
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+EXAM ON ADMISSION:
+Vitals: 99.3 100 162/69 20 100%  
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, distended, TTP diffusely but LLQ significant, no 
+rebound or guarding, normoactive bowel sounds, no palpable 
+masses
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+.
+EXAM ON DISCHARGE:
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nontender, nondistended, incision c/d/i with staples 
+in place
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+
+ 
+Pertinent Results:
+___ 09:15AM   GLUCOSE-108* UREA N-36* CREAT-1.0 SODIUM-145 
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-30 ANION GAP-14
+___ 09:15AM   CALCIUM-10.1 PHOSPHATE-6.2* MAGNESIUM-1.8
+___ 09:15AM   WBC-15.7* RBC-4.65 HGB-13.6* HCT-43.1 MCV-93 
+MCH-29.3 MCHC-31.6 RDW-13.8
+___ 09:15AM   PLT COUNT-510*
+___ 10:45PM   GLUCOSE-122* UREA N-33* CREAT-1.1 SODIUM-145 
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-33* ANION GAP-17
+___ 10:45PM   ALT(SGPT)-29 AST(SGOT)-38 ALK PHOS-57 TOT 
+BILI-0.5
+___ 10:45PM   ALBUMIN-4.2
+___ 10:45PM   WBC-13.5* RBC-5.06 HGB-14.7 HCT-46.5 MCV-92 
+MCH-29.0 MCHC-31.6 RDW-13.9
+___ 10:45PM   NEUTS-85.5* LYMPHS-8.4* MONOS-4.6 EOS-0.8 
+BASOS-0.7
+___ 10:45PM   PLT COUNT-515*
+___ 10:45PM   ___ PTT-30.1 ___
+___ 06:15AM BLOOD WBC-12.5* RBC-4.49* Hgb-13.4* Hct-42.0 
+MCV-94 MCH-29.9 MCHC-31.9 RDW-13.6 Plt ___
+___ 06:15AM BLOOD Glucose-108* UreaN-27* Creat-0.7 Na-146* 
+K-3.8 Cl-107 HCO3-27 AnGap-16
+___ 06:15AM BLOOD Calcium-8.5 Phos-2.2* Mg-2.1
+.
+CT ABD/PELVIS:
+1.  Findings compatible with closed loop obstruction with two 
+transition points in the left hemipelvis and decompressed distal 
+bowel loops with small bowel dilated proximally up to 4.3 cm.  
+Free fluid in the pelvis and mesentery with thickening of the 
+interposed segment between the transition points could reflect 
+some degree of developing ischemia. 
+2.  No evidence of diverticulitis.   
+3.  Thickening of the left adrenal gland compatible with 
+hyperplasia.  
+ 
+Brief Hospital Course:
+Mr. ___ presented with symptoms concerning for bowel 
+obstruction.  He had a CT scan that was concerning for 
+high-grade, closed-loop obstruction, so he was taken to the 
+operating room for exploratory laparotomy with Dr. ___.  
+The details of the procedure can be found in the operative 
+report.
+
+After the procedure, the patient was extubated and taken to the 
+PACU.  He remained hemodynamically stable and his pain was 
+well-controlled.  He was transferred to the floor, where his 
+vital signs were monitored closely, his pain was controlled with 
+IV pain medications, and he was kept NPO awaiting return of 
+bowel function.  Once the patient began having flatus, his diet 
+was advanced and he was transitioned to PO pain medications.  
+Once he was tolerating a regular diet and his pain was 
+controlled, the patient felt well and was comfortable being 
+discharged.  He will follow up in ___ clinic.
+ 
+Medications on Admission:
+Nortriptyline 50 mg QHS, Aspirin 81 mg daily, Atenolol 12.5 mg 
+daily, Ibuprofen 400 mg Q4-6 hours prn pain, Multivitamin
+
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+3. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain: Do not drive while taking this 
+medication.
+Disp:*40 Tablet(s)* Refills:*0*
+4. nortriptyline 25 mg Capsule Sig: Two (2) Capsule PO HS (at 
+bedtime).  
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. ondansetron HCl 4 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) as needed for nausea.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Closed loop small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.  You were 
+admitted to the hospital because of a bowel obstruction.  You 
+had surgery to relieve the obstruction. 
+
+ACTIVITY: 
+Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.  You may climb stairs. 
+You may go outside, but avoid traveling long distances until you 
+see your surgeon at your next visit. Don't lift more than ___ 
+lbs for 4 weeks. (This is about the weight of a briefcase or a 
+bag of groceries.) This applies to lifting children, but they 
+may sit on your lap. You may start some light exercise when you 
+feel comfortable. You will need to stay out of bathtubs or 
+swimming pools for a time while your incision is healing. Ask 
+your doctor when you can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you. You may 
+have a sore throat because of a tube that was in your throat 
+during surgery. You might have trouble concentrating or 
+difficulty sleeping. You  might feel somewhat depressed.  You 
+could have a poor appetite for a while. Food may seem  
+unappealing. All of these feelings and reactions are normal and 
+should go away in a short time.  If they do not, tell your 
+surgeon.
+ 
+YOUR INCISION:
+Tomorrow you may shower and remove the gauzes over your 
+incisions. The staples will be removed when we see you in 
+clinic.  Your incisions may be slightly red around the stitches. 
+This is normal. You may gently wash away dried material around 
+your incision. Avoid direct sun exposure to the incision area. 
+Do not use any ointments on the incision unless you were told 
+otherwise. You may see a small amount of clear or light red 
+fluid staining your dressing or clothes. If the staining is 
+severe, please call your surgeon. You may shower. As noted 
+above, ask your doctor when you may resume tub baths or 
+swimming.
+ 
+YOUR BOWELS:
+Constipation is a common side effect of narcotic pain 
+medicaitons. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.  If you go 48 hours without a 
+bowel movement, or have pain moving the bowels, call your 
+surgeon. 
+ 
+PAIN MANAGEMENT:
+It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". Your pain 
+should get better day by day. If you find the pain is getting 
+worse instead of better, please contact your surgeon.  You will 
+receive a prescription for pain medicine to take by mouth. It is 
+important to take this medicine as directed. Do not take it more 
+frequently than prescribed. Do not take more medicine at one 
+time than prescribed.
+Your pain medicine will work better if you take it before your 
+pain gets too severe.  Talk with your surgeon about how long you 
+will need to take prescription pain medicine. Please don't take 
+any other pain medicine, including non-prescription pain 
+medicine, unless your surgeon has said its okay.  If you are 
+experiencing no pain, it is okay to skip a dose of pain 
+medicine.  Remember to use your "cough pillow" for splinting 
+when you cough or when you are doing your deep breathing 
+exercises.  If you experience any of the following, please 
+contact your surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+You can resume all your usual home medications.
+ 
+Followup Instructions:
+___

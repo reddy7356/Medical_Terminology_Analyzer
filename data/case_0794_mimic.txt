@@ -1,0 +1,868 @@
+===== DISCHARGE NOTE =====
+note_id=19934835-DS-21 | hadm_id=20668742
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hypothermia, altered mental status
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with HBV, HCV and ESRD ___ HIV on dialysis for ___ years 
+presents with purulent drainage from around the peritoneal 
+dialysis catheter with an exposed cuff.  He dialyzes himself at 
+home and follows up at ___ sporadically.  He presented 
+to ___ today and was sent to ___ ED for the exposed 
+catheter cuff and exit site infection.  The peritoneal dialysis 
+catheter is working and he reports clear output.  
+
+The patient denies fevers, chills, nausea, vomitting, abdominal 
+pain, diarrhea. He does not recall last bowel movement. He 
+reports decreased appetite and weight loss but unsure how much.  
+He was dialyzed last night. 
+
+The patient is a very poor historian.  There is a note in his 
+paperwork from ___ that he was admitted to ___ from ___ 
+to ___ but it does not state why.  The patient reports that 
+it was for infection of his peritoneal dialysis catheter and he 
+was treated with antiobiotics.
+
+On initial evaluation in the ED, the patient was reportedly very 
+somnolent and unresponsive to sternal rub but then aroused 
+without intervention and was able to answer questions.  CD4 
+count was 273 ___ years ago and the patient is reportedly 
+non-compliant with his medications.
+ 
+Past Medical History:
+* HIV
+- diagnosed HIV+ in ___ while he was in ___.  He 
+received political asylum.  He feels his HIV infection was the 
+result of receipt of blood transfusions as a result of injuries 
+sustained while being interrogated in a jail in ___. He 
+sustained several gunshot
+wounds and lacerations, as well as blunt trauma. He reported 
+having CMV retinitis of the R eye that was diagnosed in ___. It 
+was treated with a ganciclovir implant, but was further 
+complicated by chronic pain that resulted in enucleation.  He 
+also had a work up for a pulmonary nodule in ___, that 
+ultimately was felt to be consistent with latent TB infection, 
+and he was treated with 6 months of INH therapy in one report, 
+up to a year in another.  He also had pneumococcal sepsis in 
+___
+* Hepatitis B
+* Venous thromboembolism
+* Depressive disorder & anxiety
+* CMV infection
+* History of tuberculosis
+* chronic kidney disease stage V due to HIV, on peritoneal 
+dialysis, followed at ___ in ___ on ___.
+* Chronic constipation 
+* h/o XRT at ___ for SCC in his left ear 
+* Hypertension
+* Syphilis ___ c/b neurosyphilis, treated with IV 
+penicillin x10days 
+* Hepatitis C antibody positive
+* s/p PD catheter placement ___, numerous HD catheters and AV 
+fistulas; all failed
+
+ 
+Social History:
+___
+Family History:
+Noncontributory to HIV/MS changes
+
+ 
+Physical Exam:
+On admission:
+Vitals: 96.7 (92.8 on repeat) 66 156/98 22 100% 3L  
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: bilateral crackles at lung bases R>L, decreased breath
+sounds
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, some purulence produced with milking 
+of
+skin around catheter, no surrounding cellulitis, no palpable
+masses
+DRE: patient refused
+Ext: RUE/LUE AVF sites thrombosed per patient, LLE/RLE 
+(?removed)
+AVG sites
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 03:30PM BLOOD WBC-3.5* RBC-2.66* Hgb-7.6* Hct-24.0* 
+MCV-90 MCH-28.6 MCHC-31.6 RDW-22.4* Plt Ct-57*
+___ 03:30PM BLOOD Neuts-88* Bands-0 Lymphs-10* Monos-2 
+Eos-0 Baso-0 ___ Myelos-0 NRBC-2*
+___ 06:47PM BLOOD ___ PTT-29.5 ___
+___ 04:00AM BLOOD  WBC-3.1* Lymph-12* Abs ___ CD3%-75 
+Abs CD3-278* CD4%-14 Abs CD4-52* CD8%-58 Abs CD8-214 
+CD4/CD8-0.2*
+___ 03:30PM BLOOD Glucose-101* UreaN-30* Creat-8.9* Na-137 
+K-4.9 Cl-98 HCO3-30 AnGap-14
+___ 03:30PM BLOOD ALT-78* AST-90* LD(LDH)-516* AlkPhos-251* 
+Amylase-104* TotBili-0.2
+___ 04:00AM BLOOD Calcium-7.5* Phos-5.3* Mg-1.9
+___ 03:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+MICROBIOLOGY
+------------
+___ 02:00PM ASCITES  WBC-3* RBC-0 POLYS-0 LYMPHS-68* 
+___ MESOTHELI-16* MACROPHAG-16* OTHER-0
+___ 03:30PM   WBC-3.5* RBC-2.66* HGB-7.6* HCT-24.0* MCV-90 
+MCH-28.6 MCHC-31.6 RDW-22.4*
+.
+___ 2:00 pm PERITONEAL FLUID
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+.
+Blood cultures ___ x 2: pending, no growth to date
+.
+___ 12:55 am SPUTUM     Site: INDUCED
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii).. 
+
+   FUNGAL CULTURE (Preliminary): 
+      GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH
+      OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS. 
+      Specimen is only screened for Cryptococcus species. New 
+specimen is
+      recommended. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+.
+___ 4:00 am IMMUNOLOGY      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   HIV-1 Viral Load/Ultrasensitive (Final ___: 
+      88 copies/ml. 
+.
+___ 2:00 pm SWAB      EXIT SITE DRAINAGE. 
+
+   WOUND CULTURE (Preliminary): 
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    HEAVY GROWTH. 
+.
+IMAGING
+-------
+Chest X-ray on admission: IMPRESSION: Right perihilar hazy 
+opacity which may reflect asymmetric pulmonary edema, but 
+infection also is in the differential. Small bilateral pleural 
+effusions. Limited evaluation of the right lung apex. 
+.
+CT head on admission:
+1. No acute intracranial process.  
+2. Near-complete opacification of the bilateral mastoid air 
+cells, unchanged on the left, but new on the right.   
+3. Increased size and number of lucencies within the calvaria 
+should be 
+correlated clinically with any history of malignancy, and a bone 
+scan can be obtained for further evaluation. This finding was 
+communicated to Dr. ___ by Dr. ___ at 12:20 a.m. via 
+telephone on ___.   
+4. Extensive paranasal sinus disease, as described above.   
+5. Extensive chronic small vessel ischemic disease, not 
+significantly changed compared to ___. 
+.
+CXR ___: 
+As compared to the previous radiograph, there is increased 
+parenchymal opacity in the right perihilar lung areas. Although 
+unilateral pulmonary edema would be more likely than pneumonia, 
+pneumonia cannot be excluded on grounds of the radiologic 
+appearance.  Unchanged size of the cardiac silhouette. Unchanged 
+vascular stent. 
+
+ 
+Brief Hospital Course:
+___ year old ___ male with poorly controlled HIV (last CD4 
+count 273 in ___, in-house level 52), HBV coinfection and a 
+history of longstanding peritoneal dialysis who presented ___ 
+with mental status change, hypotension, and hypothermia.
+.
+ACTIVE ISSUES
+-------------
+# Pneumonia: community acquired pneumonia vs. PCP pneumonia, 
+patient is on prophylactic Bactrim at home.  He presented with 
+hypothermia and altered mental status.  CD4 count was noted to 
+be 52.  Patient was initially on vancomycin/zosyn for empiric 
+coverage, then switched to PO moxifloxacin for planned five day 
+course after blood cultures remained negative.   Chest X-ray 
+showed perihilar opacity.  Patient will continue bactrim 
+prophylaxis upon discharge.  Sputum cultures were obtained but 
+were contaminated.  Infectious disease was consulted and 
+recommended the above antibiotic therapy, as well as continuing 
+prophylactic Bactrim.
+.
+# HIV: CD4 count measured at 52 during admission, viral load 88 
+copies.  Patient was continued on his home HAART regimen, as 
+well as prophylactic Bactrim.  Patient will likely require 
+re-evaluation of his HAART regimen upon discharge.
+.
+# Pancytopenia: patient was noted to be pancytopenic during his 
+hospital stay, and it is unclear if this is chronic.  This may 
+be related to his HIV, or other etiology, however this was not 
+worked up further due to patient's insistence to be transferred 
+to ___.
+.
+# Bradycardia: on ___ patient had a pause on telemetry (8 
+seconds) with transient hypotension to the ___ and hypoxia to 
+the ___ which recovered within seconds.  Later in the evening he 
+had two episodes of bradycardia to the high ___ which was 
+self-limited within seconds and asymptomatic.  Electrolytes, 
+cardiac enzymes and EKG were within normal limits; a cardiology 
+consult was obtained and no further evaluation or intervention 
+was recommended.
+.
+# Head imaging abnormality: patient was noted to have lucencies 
+in the calvarium on head CT.  This was not worked up further due 
+to patient's insistence to be transferred to ___.
+.
+# End-stage renal disease on peritoneal dialysis: patient 
+presented with concern for peritoneal dialysis port site 
+infection, with purulent fluid coming from the site.  Cultures 
+were obtained via diagnostic paracentesis and were preliminarily 
+negative upon discharge.  Patient is on Calcitriol 0.5 and 
+sinacalcet 150 mg daily.  Renal was consulted for performance of 
+peritoneal dialysis while patient was hospitalized.  CBC should 
+be trended for further signs of infection. 
+.
+# Anemia: likely combination of bone marrow suppression as well 
+as chronic kidney disease.  The patient recieved one unit RBCs 
+for Hct 22.9 with an appropriate bump to 26.9.  Epoeitin was 
+held given concern for possible malignancy on head CT.
+.
+INACTIVE ISSUES
+---------------
+# Hypertension: patient is on lisinopril and amolodipine at 
+home.  His home blood pressure medications were resumed after 
+they were initially held due to his presenting sepsis-like 
+picture.
+.  
+TRANSITION OF CARE
+------------------
+# Follow-up: patient will be discharged to ___ per 
+his request.  Patient will require antibiotics to finish course 
+of antibiotics for community acquired pneumonia.  Blood cultures 
+and peritoneal cultures are currently pending and will need to 
+be followed up.  There was also concern for malignancy of CT 
+head that will need to be followed up.  This was not addressed 
+during the ___ hospital stay given his refusal for further 
+work-up.  He should receive CBC and Chem10 every day for 
+monitoring.  Epoietin is being held at the current time due to 
+the concern for malignancy on CT head.  This should be 
+re-evaluated in the near future.
+. 
+# Code status: presumed full
+.
+# CONTACT: patient, ___ (___) ___ 
+.
+
+ 
+Medications on Admission:
+Calcium Carbonate 600''
+Lamivudine 50'
+Epoetin ___ ___ monthly SQ
+Gentamicin cream apply daily to the exit site
+Lisinopril 10'
+Norvasc 10' (hold for hypotension)
+PhosLo 3 tabs with meals 667'''
+Potassium Salts 10'
+Prilosec 20'
+Rocaltrol 0.5 mcg'
+Sensipar 150'
+Viread 300 PO Qweek
+Zerit 15'
+Zyprexa 5'
+ 
+Discharge Medications:
+1. lamivudine 10 mg/mL Solution Sig: Fifty (50) milligrams PO 
+DAILY (Daily).  
+2. calcium carbonate 600 mg (1,500 mg) Tablet Sig: One (1) 
+Tablet PO twice a day.  
+3. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+5. PhosLo 667 mg Capsule Sig: One (1) Capsule PO three times a 
+day: Please give with meals.  
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. calcitriol 0.5 mcg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+8. cinacalcet 30 mg Tablet Sig: Five (5) Tablet PO DAILY 
+(Daily).  
+9. tenofovir disoproxil fumarate 300 mg Tablet Sig: One (1) 
+Tablet PO 1X/WEEK (MO).  
+10. stavudine 15 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+11. olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+12. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+13. moxifloxacin 400 mg Tablet Sig: One (1) Tablet PO daily () 
+for 5 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Community-acquired pneumonia
+Bradycardia
+
+Secondary diagnosis:
+delirium/ metabolic encephalopathy
+HIV/AIDS
+chronic kidney disease stage V, on peritoneal dialysis
+Anemia of chronic disease
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at the ___ 
+___.  You came for further evaluation of altered 
+mental status and hypothermia.  Further testing showed that you 
+had a pneumonia, for which you are being treated with 
+antibiotics.  There was also concern for infection of your 
+peritoneal dialysis insertion site.  Cultures were obtained from 
+this area, and revealed no evidence of infection.  You are now 
+being discharged to ___ for further treatment.  
+Dr. ___ at ___ was contacted and accepted the 
+patient for transfer.
+
+The following changes have been made to your medications:
+
+We STARTED Bactrim
+We STARTED moxifloxacin, which should be taken for five days 
+total
+We STOPPED Epoeitin for the time being, which should be further 
+re-evaluated in the future
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19934835-DS-20 | hadm_id=21367469
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, hypothermia
+ 
+Major Surgical or Invasive Procedure:
+1) Arterial line
+2) Central venous line /femoral line
+3) Patient continued his usual peritoneal dialysis sessions
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old male with HIV, Hepatitis B/C, ESRD 
+on peritoneal dialysis who presented to the ED with abdominal 
+pain, constipation and also feeling dizzy with lightheadedness.  
+Called the ambulance for these symptoms.  Initial VS 91.1F 
+orally, HR 72, BP initially unmeasurable, RR 20 and 100% oxygen 
+saturation on room air.  Exam with clear lungs, RRR, distended 
+abdomen which was soft and full.  He refused a rectal exam.  CT 
+was obtained given abdominal pain and preliminary read was 
+negative for any acute intrabdominal processes.  Right femoral 
+line was placed with some difficulty due to scar tissue.  BP 
+remained difficult to assess given severe vascular disease.  
+Repeat VS soon after presentation revealed temperature 96.1F, 
+75HR, BPs of 59/25-105/47, RR 12, and oxygen saturation was 100% 
+room air.  Fingerstick glucose was 123.  Patient had potassium 
+repleted with 40 mEq K in 1L NS, with 3 additional L NS.  His 
+peritoneal dialysate was sampled and did not reveal evidence of 
+infection.  Denies ever having abdominal pain, but more a sense 
+of constipation and "fullness".  Systolic blood pressures in ED 
+ranged 74--> 68 --> 90 --> 105.  By time of transfer from ED to 
+inpatient setting he was saturating well on RA, eating and 
+requesting more food. Given patient's initial presentation of 
+appearing very unwell, was sent to the ICU for closer 
+monitoring.
+
+Upon arrival in the ICU, denied any complaints except a sense of 
+constipation in his abdomen. Upon ROS, patient denied associated 
+nausea, vomiting, fevers, chills, dizziness,dysuria, rash, 
+dyspnea. Confirms he had decreased oral intake for 4 days in the 
+setting of his constipation and has taken an unknown medication 
+for his constipation in the past.  Also with partial blindness 
+which is his baseline.  States he had one episode of chest pain 
+on day before admission but this improved with sugar as provided 
+in the ED.  Denies any exertional component or pain radiation.
+
+ 
+Past Medical History:
+HIV
+Hepatitis B
+Venous capillary sepsis
+Venous thromboembolism
+Depressive disorder & nervousness
+CMV infection
+History of tuberculosis
+ESRD ___ HIV - on peritoneal dialysis, followed at ___ in 
+___ on ___.
+Chronic constipation - on senna PRN
+h/o XRT at ___ for ___ in his left ear 
+Hypertension
+Syphilis in ___ l___.  CSF showed lymphocytosis.  The 
+patient was treated with intravenous penicillin for ten days.  
+Hepatitis C antibody positive 
+
+SURGICAL HISTORY: 
+PD catheter placement ___, numerous HD catheters and AV 
+fistulas; all failed
+ 
+Social History:
+___
+Family History:
+Noncontributory
+
+ 
+Physical Exam:
+T: unable to obtain initially, BP: 89/64, PR: 67, RR: 13,  O2: 
+100/RA  
+General: Alert, oriented, no acute distress; able to relay 
+history in a coherent fashion
+HEENT: Sclera anicteric, MM mildly dry, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi
+CV: Regular rate and rhythm, distant heart sounds but no 
+appreciable murmurs, rubs, gallops
+Abdomen:  soft, non-tender,  mildly distended, bowel sounds 
+present, no rebound tenderness or guarding; bandaged PD wound in 
+LLQ
+Ext: Warm, nonpalpable distal pulses, no edema; R femoral groin 
+wound noted
+Neuro: CN II-XII grossly intact; A&O x 3
+Skin: Multiple excoriated lesions over entire body, slight 
+crusting; including arms, back
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:15PM   LACTATE-0.9 K+-3.0*
+___ 03:45PM ASCITES  WBC-2* RBC-0 POLYS-8* LYMPHS-17* 
+MONOS-72* MESOTHELI-4*
+___ 01:42PM   LACTATE-3.0* K+-2.4*
+___ 01:30PM   GLUCOSE-93 UREA N-28* CREAT-10.0* SODIUM-137 
+POTASSIUM-2.3* CHLORIDE-94* TOTAL CO2-27 ANION GAP-18
+___ 01:30PM   estGFR-Using this
+___ 01:30PM   CALCIUM-9.2 PHOSPHATE-2.9 MAGNESIUM-1.9
+___ 01:30PM   WBC-2.3* RBC-4.44* HGB-13.3* HCT-40.0 MCV-90 
+MCH-30.1 MCHC-33.3 RDW-17.8*
+___ 01:30PM   NEUTS-65 BANDS-0 ___ MONOS-3 EOS-2 
+BASOS-1 ___ MYELOS-0
+___ 01:30PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 01:30PM   PLT SMR-LOW PLT COUNT-92*
+___ 01:30PM   ___ PTT-31.1 ___
+
+___ BLOOD LABS /HIV CD COUNTS:
+-WBC: 3.0 
+Lymph: 26 
+___: 780 
+CD3%: 78 
+Abs-CD3: 612 
+CD4%: 35 
+Abs-CD4: 273 
+CD8%: 42 
+Abs-CD8: 328 
+CD4/CD8: 0.8 
+
+ENDOCRINE STUDIES:
+___ 06:04PM BLOOD Free T4-1.3
+___ 04:32AM BLOOD TSH-3.6 
+___ 06:04PM BLOOD Cortsol-19.2
+___ 05:29AM BLOOD Cortsol-17.5
+.
+IMAGING:
+
+___ CXR: IMPRESSION: AP chest reviewed in the absence of prior 
+chest radiographs: The patient has had resection of the medial 
+left clavicle, and a vascular graft follows the course of the 
+left subclavian and brachiocephalic veins to the SVC. 
+Mediastinal widening extends to the apices of the chest with 
+thickening of the pleura and may represent treated adenopathy. 
+Heart is mildly enlarged. Lower lungs clear. No pleural 
+effusion. 
+.
+CT ABDOMEN /PELVIS:
+IMPRESSION: 
+1. Cirrhosis with ascites.  
+2. Atrophic native kidneys ___ hyperdense cystic lesions in the 
+left kidney which do not qualify as simple cysts. These lesions 
+should be watched closly on follow-up exams. 
+3. PD catheter in place. 
+4. Probable emphysema at the lung bases. 
+
+___ -CT HEAD WITHOUT CONTRAST:
+1. No definite acute intracranial process. 
+2. Relatively symmetric, confluent low-attenuation in 
+bihemispheric 
+periventricular white matter, most likely representing chronic 
+microvascular 
+infarction, in a patient with these predisposing conditions; 
+there is no 
+evidence of acute vascular territorial infarction. 
+3. Extensive fluid-opacification involving the left mastoid air 
+cells, of 
+uncertain duration and clinical significance; this should be 
+closely 
+correlated clinically. 
+4. Prosthetic right globe with abnormal appearance to the left 
+globe, as 
+detailed above. 
+  
+EKG: Sinus rhythm. P-R interval prolongation. Lateral ST-T wave 
+changes.  Modest QTc interval prolongation. 
+
+MICROBIOLOGY:
+Blood Cultures ___ and ___ all negative to date at 
+time of discharge  
+
+Peritoneal Fluid:
+___ 3:45 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+.
+DISCHARGE LABS:
+
+___ 05:29AM BLOOD WBC-3.5* RBC-3.17* Hgb-9.7* Hct-28.9* 
+MCV-91 MCH-30.6 MCHC-33.6 RDW-18.8* Plt Ct-85*
+___ 05:29AM BLOOD Neuts-68.3 Bands-0 ___ Monos-3.6 
+Eos-2.2 Baso-0.4
+___ 05:29AM BLOOD Plt Ct-85*
+___ 05:29AM BLOOD Glucose-65* UreaN-29* Creat-9.5* Na-142 
+K-3.0* Cl-104 HCO3-28 AnGap-13
+___ 05:29AM BLOOD Calcium-7.8* Phos-4.0 Mg-1.8
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year-old male with HIV, Hep B/C, ESRD on 
+peritoneal dialysis who presented with abdominal pain x 1 day, 
+hypothermia, and hypotension which resolved status-post IVFs.  
+
+Brief MICU Course:
+
+The patient was admitted to the MICU for close observation, 
+although his symptoms of abdominal pain had resolved. His blood 
+pressure did drop to as low as ___ systolic, and he received 2 L 
+NS, and was started on Levophed. He was cultured and covered 
+empirically with Vanco/Zosyn given the hypotension and this was 
+later narrowed to Zosyn alone. He was hypothermic to 92 degrees 
+rectally, and a Bair Hugger was applied. Peritoneal Dialysis was 
+attempted but terminated early given the hypotension. Blood 
+pressure readings were inconsistent so an a-line was placed. 
+Over the course of hospital day 1, the patient's hemodynamics 
+improved and the Levophed was weaned off. TSH and cortisol 
+levels were normal. Throughout this, the patient mentated well 
+and was A&Ox3. On Hospital Day 2 he was called out to the 
+regular medical floor from the ICU for ongoing monitoring. 
+Please see below for problem based summary after transfer to 
+general medical wards. 
+
+Continued course after transfer out of ICU to medical floor:
+
+# Abdominal Discomfort: Continued to deny any active abdominal 
+pain after hospital day 2. Bloated from constipation on 
+admission but he had multiple bowel movements with relief of his 
+sense of "fullness" soon after admission. Oral intake improved 
+daily. Exam revealed a soft, NT abdomen. No noted organisms in 
+peritoneal culture; all cultures NTD thus far, finals pending. 
+Initially had elevated lactate, but this resolved. CT abdomen 
+essentially clear with exception of cirrhosis and ascites and 
+some kidney findings as outlined below. Probably dehydration 
+from admitted poor PO intake promoted constipation. He was 
+monitored with serial abdominal exams. Aggressive bowel regimen 
+with Senna and lactulose given for regularity of bowel 
+movements. 
+.
+# Hypothermia / Hypotension: Low blood pressures have 
+stabilized. Still unclear etiology, although likely from his 
+poor PO intake and some mild dehydration.  Changes in body 
+temperature unlikely endocrinologic in nature as initial 
+cortisol and TSH were within normal limits, repeat a.m. cortisol 
+added on ___ and was also WNL. Some of his borderline low blood 
+pressure shifts may be due to small amount of volume changes 
+with dialysis treatments as well (although PD not HD). Initial 
+infectious workup labs/studies for concerns over looming 
+SIRS/sepsis picture have all been unremarkable to date. History 
+of HIV, HepC, HepB. Latest CD-4 count=273. Leukopenias initially 
+concerning for an acute infection but as he appeared markedly 
+more stable after IVFs and all culture data was unrevealing it 
+was felt hat his low blood cell counts were more likely due to 
+his HIV. Anuric so no urine studies collected. Trended 
+temperatures, improved after he was transferred to the medical 
+floor from the ICU. However, he is still having some more 
+intermittent low temperatures in the ___ range with oral 
+measures. He had a CT head without contrast on the morning of 
+___ to rule out of any hypothamalmic masses/CVAs that may have 
+impacted his ability to self regulate body temperature. Head CT 
+showed no definite acute intracranial process, and relatively 
+symmetric, confluent low-attenuation in bihemispheric 
+periventricular white matter, most likely representing chronic 
+microvascular infarction. Otherwise, it is quite possible that 
+his body temperature is having fluctuations in the setting of 
+his 2L exchanges during peritoneal dialysis with resultant 
+cooling of underlying mesenteric venous bed. Patient's rectal 
+temperature taken on ___ but was too low to register on 
+rectal thermometer which had a cut-off of ___. Vitals today at 
+time of discharge included BPs 98-110/60-80s range, HR 70-100, 
+RR 18 and oxygen saturations at 100% room air.  CXR unremarkable 
+for any acute new infiltrates or PNAs although some subtle 
+perihilar area changes should be followed up on a repeat CT/CXR 
+over the next ___ weeks time. At time of discharge several 
+cultures were also pending, will plan to follow-up final reports 
+and notify ___ staff of any organisms/infections 
+identified. 
+.  
+# Leukopenia: Likely from his HIV history, appears to be a 
+chronic issue. Initial WBC with slight drop from baseline 
+however to 2.3; PMN 65%, now WBCs up to 3 range.  Not 
+neutropenic currently. CD4 is 273.  Trended daily CBC with 
+differential/ANC levels, remained stable. Continue Zosyn for 
+now; will complete 7 day course on ___. 
+  
+# ESRD: Continued peritoneal dialysate regimen with daily 
+exchanges. Euvolemic on exam now. Renal team followed while 
+inpatient. Anuric with his ESRD. Continued on Calcitriol 0.25mcg 
+daily, Sensipar 90mg daily, PhosLo TID, and Epogen. He will 
+resume his ongoing PD sessions on transfer. Last BUN/Cr was 
+___ respectively at time of discharge. 
+.
+#Labile affect: Please note that Mr. ___ was refusing 
+multiple medications during his stay and missed a few doses of 
+his antibiotics and a few of his usual daily medications on 
+___. Also refused a P.M. peritoneal dialysis session on night 
+of ___ as well. Patient is alert and oriented x3 and seems to 
+have capacity so team felt he had right to refuse treatment but 
+made repeated efforts to discourage this behavior by reviewing 
+risks/benefits. Team was considering a psychiatry consult near 
+time of discharge as patient's refusal to collect vitals and 
+accept medications was counter to his effective management. He 
+has a noted PMH of depression and anxiety per records. He seemed 
+to perseverate on going back to ___ and expressed that he 
+feels less anxious at ___ as he has been cared for there in 
+past. He may benefit from formal psychiatric evaluation upon 
+return to ___ if this behavior continues.     
+.
+# Kidney cysts/masses: Please note that routine CT abdomen for 
+workup of abdominal pain showed atrophic native kidneys ___ 
+hyperdense cystic lesions in the left kidney which do not 
+qualify as simple cysts. These lesions should be watched closly 
+on follow-up exams and repeat CT recommended in 2 months.  
+.  
+# HIV: CD4 in ___ was 27, now current CD4 count is up to 
+273. He was continued on outpatient Tenofovir 300mg once weekly. 
+Bactrim DS 1 tab MWF continued. As above, no new acute 
+infections identified. Will plan to follow-up on outstanding 
+final blood culture reports.   
+.  
+# Fluids, Electrolytes & Nutrition: Continued on his peritoneal 
+dialysis; hypokalemia trend noted so he was repleted as needed. 
+Given some magnesium repletion as well prior to discharge. Renal 
+diet provided, good appetite. 
+  
+#Access: Femoral line was placed. Patient with very difficult 
+upper extremity access so team left access with femoral line in 
+place so that he could complete the additional 3 days of his 
+antibiotics. Line appears clean /dry/ intact. Also has left 
+abdominal catheter/peritoneal port for his ongoing peritoneal 
+dialysis sessions.    
+ 
+#Prophylaxis: He was continued on a PPI / Pneumoboots / bowel 
+regimen PRN  
+.  
+#Code Status: DNR/DNI confirmed on admission with patient.
+.  
+
+.  
+
+ 
+Medications on Admission:
+(per CMA service ___  
+Bactrim DS 1 tab MWF  
+Epivir 25mg daily  
+Phoslo 667mg 3 tabs TID with meals  
+Tenofovir 300mg (qWeek per CMA service)  
+Zerit 15mg daily  
+Zyprexa 5mg QHS  
+___ 10000u SC Qweek  
+Omeprazole 20mg Qday  
+Calcitriol 0.25mcg daily  
+Sensipar 90mg daily  
+Senna 2 tabs QHS  
+
+ 
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO MWF (___).  
+2. Lamivudine 100 mg Tablet Sig: 0.25 Tablet PO DAILY (Daily).  
+3. Calcium Acetate 667 mg Capsule Sig: Three (3) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+4. Piperacillin-Tazobactam 2.25 gram Recon Soln Sig: One (1) 
+Recon Soln Intravenous Q8H (every 8 hours) for 3 days: please 
+complete on ___ .  
+5. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) 
+Tablet PO 1X/WEEK (___).  
+6. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+7. Omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+8. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+9. Cinacalcet 30 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+10. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).  
+
+11. Epogen 10,000 unit/mL Solution Sig: One (1)  Injection once 
+a week.  
+12. Stavudine 15 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+13. PhosLo 667 mg Capsule Sig: One (1) Capsule PO three times a 
+day: with meals.  
+14. peritoneal dialysis instructions
+Peritoneal Dialysis Orders:
+
+4 exchanges/24hrs; 2.5% solution; 2L volume; 4 hr dwell time. 
+Please record daily weights, I/Os, effluent appearance daily.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Hypotension
+Hypothermia
+Constipation
+.
+Secondary:
+HIV
+Hepatitis B/C
+End Stage Renal Disease
+
+ 
+Discharge Condition:
+Good. At time of discharge the patient had stable blood 
+pressures, and he had no residual complaints of abdominal pain. 
+Constipation had resolved and he was having regular bowel 
+movements. 
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you here at ___ 
+___. You were admitted with complaints of 
+lightheadedness, low blood pressures, low body temperatures 
+(hypothermia)and abdominal pains. A CT scan imaging study of 
+your abdomen showed no acute new abdominal issues to explain 
+this abdominal pain and your symptoms were likely due to your 
+constipation as you had not had a bowel movement in several 
+days. Once you had medication to help you have a bowel movement 
+you felt better. Multiple lab studies were done and there were 
+no infections found to explain your symptoms. The renal team was 
+called and helped to continue your usual peritoneal dialysis 
+sessions while you were here in the hospital. 
+.
+Please follow-up with your primary doctor as outlined below. 
+If you have any additional abdominal pains, fevers, low blood 
+pressures, feelings of dizziness, diarrhea, more constipation, 
+or any additional health concerns please call your primary 
+doctor or notify your covering medical staff at the ___ 
+___. 
+.
+Medication Instructions:
+Antibiotics for broad coverage were added to your daily regimen 
+for a planned 7 days of therapy. Please continue daily Zosyn as 
+prescribed up until ___. 
+-Otherwise you can continue taking all of your usual medications 
+as previously prescribed. 
+-
+Additional Notes/Instructions:
+Please follow-up with your doctor for ___ repeat CT abdomen in 2 
+months to assess a left sided kidney cystic region that was 
+found on CT. This should be evaluated for any increase in size 
+or signs or concerning features with repeat imaging. 
+
+ 
+Followup Instructions:
+___

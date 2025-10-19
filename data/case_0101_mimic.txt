@@ -1,0 +1,207 @@
+===== DISCHARGE NOTE =====
+note_id=18781219-DS-3 | hadm_id=23736257
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Penicillins / Erythromycin Base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nephrolithiasis
+ 
+Major Surgical or Invasive Procedure:
+___: Placement of LEFT percutaneous nephrostomy tube 
+
+ 
+History of Present Illness:
+___ who 3d ago noticed gross hematuria followed by L flank pain
+and nausea that has waxed and waned but worsened last night at
+which point he had a bout of emesis.  Today he called his ___
+triage and reported these symptoms and was told to come in to be
+evaluated.  A BUN was the only lab checked and was 23.  He was
+sent for a CT scan which revealed a large L UPJ stone and was
+then sent to the ___ ED for a GU consult as recommended by the
+radiology resident who read the study.  His symptoms were
+well-controlled with single dose IM toradol and demerol, and he
+received a 1L bolus.  Upon arrival at ___ no labs were sent, 
+GU
+was consulted, and a CT was obtained which revealed the large
+stone as described above.  The patient was comfortable.  He gave
+a history as above and denied dysuria, hematuria in last 24h,
+shaking chills, fever >99, or prior stone history.
+
+ 
+Past Medical History:
+PMH: (minimal PMH per patient, the below from ___ record)
+LIPOMA 214.9AZ 
+HEARING LOSS, UNSPEC 389.9AB 
+OVERWEIGHT 278.02 
+HERPES SIMPLEX ___ 
+ESOPHAGEAL REFLUX 530.81 
+DERMATITIS - ECZEMATOUS 692.9C 
+HYPERCHOLESTEROLEMIA 272.0BE 
+OTHER OTOSCLEROSIS 387.8 
+___ - LAT HUMERAL 726.32AB 
+Vertigo 780.4A 
+
+ 
+Social History:
+___
+Family History:
+neg for stones
+
+ 
+Physical Exam:
+WdWn male, NAD, AVSS
+Abmdomen soft
+Minimal, resolving flank pain (per patient)
+extremities w/out edema
+PCN in place, urine yellow
+ 
+Pertinent Results:
+CT 12 mm obstructing left UPJ stone with left hydronephrosis and 
+perinephric fat stranding.
+
+___ 08:00AM BLOOD WBC-11.1* RBC-3.80* Hgb-11.5* Hct-33.5* 
+MCV-88 MCH-30.4 MCHC-34.5 RDW-11.7 Plt ___
+___ 11:03PM BLOOD WBC-13.1* RBC-4.08* Hgb-12.6* Hct-35.1* 
+MCV-86 MCH-31.0 MCHC-36.0* RDW-12.1 Plt ___
+___ 08:00AM BLOOD WBC-12.9* RBC-4.16* Hgb-12.8* Hct-36.9* 
+MCV-89 MCH-30.7 MCHC-34.6 RDW-11.8 Plt ___
+___ 03:26PM BLOOD WBC-12.1* RBC-4.24* Hgb-12.9* Hct-37.8* 
+MCV-89 MCH-30.5 MCHC-34.1 RDW-11.9 Plt ___
+
+___ 08:00AM BLOOD Glucose-93 UreaN-15 Creat-1.1 Na-138 
+K-4.1 Cl-101 HCO3-29 AnGap-12
+___ 08:00AM BLOOD Glucose-98 UreaN-15 Creat-1.5* Na-137 
+K-4.5 Cl-100 HCO3-28 AnGap-14
+___ 03:26PM BLOOD Glucose-87 UreaN-17 Creat-1.4* Na-138 
+K-4.1 Cl-101 HCO3-26 AnGap-15
+___ 08:00AM BLOOD Calcium-8.9 Phos-3.0 Mg-2.1
+___ 08:00AM BLOOD Calcium-9.3 Phos-3.1 Mg-2.1
+___ 03:26PM BLOOD Calcium-9.5 Phos-2.7 Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male admitted to urology service after an 
+ED visit a few days prior, ___. He reported gross hematuria 
+followed by LEFT flank pain and nausea that waxed and waned but 
+worsened la ___ during the night at which point he had a bout 
+of emesis. He was admitted to urology and scheduled with 
+Interventional radiology where on hospital day two, ___, he 
+underwent placement of a left percutaneous nephrostomy tube. He 
+tolerated the procedure well and was kept overnight for pain 
+management and observation. On Hospital day 3, post-procedure 
+day 1, he was discharged home with visiting nurse services to 
+facilitate care of his PCN. He was tolerating a regular diet, 
+pain was well controlled with oral analgesics and he no longer 
+had fever, nausea, vomiting. He is given explicit instructions 
+to complete his course of antibiotics and follow-up with Dr. 
+___ definitive stone management and PCN plan. 
+
+ 
+Medications on Admission:
+NONE
+
+ALLERGIES: PCN
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours).  
+2. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+12 mm obstructing left UPJ stone with left hydronephrosis,  
+leukocytosis, symptoms or renal dysfunction (elevated 
+creatinine)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+-You will be discharged home with visiting nurse services to 
+facilitate your care of your PERCUATANEOUS NEPHROSTOMY TUBE.
+
+-please also reference the provided educational handout on 
+caring for your nephrostomy tube (provided by nursing)
+
+-No vigorous physical activity for 2 weeks AND while nephrostomy 
+tube is in place
+
+-Expect to see occasional blood in your urine and to experience 
+urgency and frequency over the next month.
+
+-The kidney stone may or may not have been removed AND/or there 
+may fragments/others still in the process of passing.
+
+-You may experience some pain associated with spasm of your 
+ureter. This is normal. Take the narcotic pain medication as 
+prescribed if additional pain relief is needed.
+
+-Tylenol should be your first line pain medication, a narcotic 
+pain medication has beenprescribed for breakthrough pain >4. 
+Replace Tylenol with narcotic pain medication.
+
+-Max daily Tylenol (acetaminophen) dose is 4 grams from ALL 
+sources, 
+note that narcotic pain medication also contains Tylenol
+
+-Make sure you drink plenty of fluids to help keep yourself 
+hydrated and facilitate passage of stone fragments.
+
+-You may shower but do not bathe or immerse in water.
+
+-Do not drive or drink alcohol while taking narcotics or operate 
+dangerous machinery
+
+-Colace has been prescribed to avoid post surgical constipation 
+and constipation related tonarcotic pain medication. Discontinue 
+if loose stool or diarrhea develops.  Colace is a stool 
+softener, NOT a laxative
+
+-Resume all of your pre-admission medications EXCEPT as 
+otherwise noted.
+
+-Call your urologist’s office for follow-up AND if you have any 
+questions.
+
+-Please complete a full course of antibiotics as prescribed 
+(Ciprofloxacin)
+
+-resume your regular home diet and remember to drink plenty of 
+fluids to keep hydrated and to prevent constipation
+
+-___ medical attention for fevers (temp>101.5), worsening pain, 
+drainage or excessive bleeding from incision, chest pain or 
+shortness of breath.
+
+ 
+Followup Instructions:
+___

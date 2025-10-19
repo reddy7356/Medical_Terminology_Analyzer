@@ -1,0 +1,606 @@
+===== DISCHARGE NOTE =====
+note_id=12419109-DS-6 | hadm_id=22569457
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pleural effusion s/p chest tube placement
+ 
+Major Surgical or Invasive Procedure:
+Tunneled pleural catheter placement - ___
+
+ 
+History of Present Illness:
+___ yo ___ female, never smoker w/ PMH of Stage IIIA
+endometrioid endometrial cancer in ___ s/p TAHBSO with adjuvant
+chemoradiaton, HTN, HLD, osteoporosis who was found to have a L
+sided pleural nodularity and recurrent left side pleural
+effusion. A thoracentesis performed in ___ showed amber
+fluid which has
+returned positive for adenocarcinoma consistent with her prior
+mullerian primary. She is now being admitted on medicine service
+from the interventional pulmonology service after receiving a
+left side tunnel pleural catheter placement today (___)
+because, there was an air leak post-procedurally in the 
+pleurovac
+concerning for PTX.
+
+Initial vitals were: 98.4 PO 147 / 77 85 18 96 RA 0 0   
+
+- Labs notable for:  n/a
+
+- Imaging notable for:  
+___ CXR 12:11 ___
+Further improvement in aeration of the left lung.  No evidence 
+of
+
+pneumothorax.  
+
+___ 10:34 AM CXR 
+Interval placement of a left chest tube with its terminal tip
+projecting over the left apex.  No evidence of pneumothorax 
+
+- IP who recommended admission for this patient s/p procedure
+recommends:
+Observation until air leak resolves
+ 
+On the floor, patient is feeling very well and does not have any
+shortness of breath. She has pain at the chest tube site. 
+
+ 
+Past Medical History:
+- hypertension
+- hyperlipidemia
+- osteoporosis
+- history of postive PPD
+- facial neuropathy
+- post-partum tubal ligation
+
+PAST SURGICAL HISTORY:
+Hysterectomy
+
+ 
+Social History:
+___
+Family History:
+- No known family history of breast, uterine, ovarian,
+cervical or colon cancer
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+========================
+VITALS:  98.4 PO 147 / 77 85 18 96 RA 
+GENERAL: AOx3, NAD. Patient speaks toishanese, a dialect of
+___
+HEENT: MMM, Oropharynx is clear
+NECK: Supple.  
+CARDIAC: RRR. S1 and S2. No murmurs/rubs/gallops. No JVD.  
+LUNGS: Clear to auscultation bilaterally with decreased  breath
+sounds on the left. pleurex in place with c/d/I bandage
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.  
+EXTREMITIES: No clubbing, cyanosis, or edema  
+SKIN: No evidence of ulcers, rash or lesions 
+NEUROLOGIC: CN2-12 intact. ___ strength througout. 
+
+DISCHARGE PHYSICAL EXAM
+========================
+24 HR Data (last updated ___ @ 1533)
+    Temp: 98.2 (Tm 99.1), BP: 133/72 (110-150/72-85), HR: 69
+(67-97), RR: 18 (___), O2 sat: 95% (94-96), O2 delivery: RA,
+Wt: 143.52 lb/65.1 kg  
+GENERAL: AOx3, NAD. Patient speaks toishanese, a dialect of
+___
+HEENT: MMM, Oropharynx is clear
+NECK: Supple.  
+CARDIAC: RRR. S1 and S2. No murmurs/rubs/gallops. No JVD.  
+LUNGS: Clear to auscultation bilaterally with decreased  breath
+sounds on the left. pleurex in place with c/d/I bandage
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.  
+EXTREMITIES: No clubbing, cyanosis, or edema  
+SKIN: No evidence of ulcers, rash or lesions 
+NEUROLOGIC: CN2-12 intact. ___ strength througout. 
+
+ 
+Pertinent Results:
+LABS
+=====
+___ 03:45AM BLOOD WBC-9.2# RBC-3.81* Hgb-11.7 Hct-34.1 
+MCV-90# MCH-30.7 MCHC-34.3 RDW-12.5 RDWSD-41.0 Plt ___
+___ 03:45AM BLOOD ___ PTT-25.4 ___
+___ 03:45AM BLOOD Glucose-143* UreaN-9 Creat-0.7 Na-131* 
+K-4.2 Cl-89* HCO3-27 AnGap-15
+___ 03:45AM BLOOD Calcium-9.1 Phos-3.6 Mg-1.7
+
+IMAGING
+=======
+___ CXR
+
+1- Small left apical pneumothorax is new compared to most recent 
+chest 
+radiograph. 
+2- Persistent small left apical pneumothorax with a left chest 
+tube which is partially in the major fissure. There is a small 
+air-fluid collection in the left major fissure, best seen on 
+lateral projection. No dependent effusion.  The right lung is 
+clear. Heart is markedly enlarged, but unchanged. 
+3- Left-sided chest tube is unchanged.  Small left apical 
+pneumothorax is stable. Subsegmental atelectasis in the left 
+lower lobe has slightly improved. Cardiomediastinal silhouette 
+is stable.  There is mild interstitial edema. 
+
+ 
+Brief Hospital Course:
+___ yo ___ female, never smoker w/ PMH of Stage IIIA 
+endometrioid endometrial cancer in ___ s/p TAHBSO with adjuvant 
+chemoradiaton, HTN, HLD, osteoporosis who was found to have a L 
+sided pleural nodularity and recurrent left side pleural 
+effusion now s/p transpleural catheter placement admitted for 
+air leak post-procedure concerning for a pneumothorax. She had 
+multiple chest x-rays that showed a stable small apical left 
+pneumothorax. 
+
+ACUTE ISSUES:
+=============
+#TPC airleak
+#Small apical pneumothorax
+Patient has air leak in TPC placed ___ for concerns of PTX. 
+Initial CXR without pneumothorax. Three x-rays on ___ showed a 
+stable left apical pneumothorax that was asymptomatic. 
+
+#L-sided pleural effusion
+#Endometrioid endometrial cancer 
+Previous drainage of her L-sided thoracentesis studies were 
+positive for adenocarcinoma consistent with her prior Mullerian 
+primary. 
+
+CHRONIC ISSUES:
+===============
+#Osteoarthritis: 
+Continue home alendronate
+
+#Hypertension: stable
+Continue home amlodipine, atenolol
+
+#Hyperlipidemia: stable
+Continue home simvastatin
+
+#Facial neuropathy: stable
+Continue home carbemazepine
+
+TRANSITIONAL ISSUES
+====================
+[] Ensure follow up with interventional pulmonary for management 
+of tunneled pleural catheter and left apical pneumothorax
+[] Ensure follow up with oncology regarding malignancy
+
+#Health care proxy/emergency contact: Name of health care proxy:
+___ 
+___: Son 
+Phone number: ___ 
+Comments: Daughter ___ ___-
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+2. CarBAMazepine 200 mg PO TID 
+3. Atenolol 100 mg PO DAILY 
+4. Alendronate Sodium 70 mg PO QSUN 
+5. amLODIPine 10 mg PO DAILY 
+6. Simvastatin 40 mg PO QPM 
+7. Calcium 500 + D (calcium carbonate-vitamin D3) 600 mg-400 mg  
+oral BID 
+8. Ranitidine 300 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+2.  Alendronate Sodium 70 mg PO QSUN  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Atenolol 100 mg PO DAILY  
+5.  Calcium 500 + D (calcium carbonate-vitamin D3) 600 mg-400 mg 
+ oral BID  
+6.  CarBAMazepine 200 mg PO TID  
+7.  Ranitidine 300 mg PO QHS  
+8.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Malignant pleural effusion
+Pneumothorax
+
+Secondary:
+Metastatic endometrial cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ after you had a tunneled pleural 
+catheter placed. You had a small pneumothorax (air in the lung 
+where it should not be). This was stable with multiple chest 
+x-rays. The interventional pulmonary physicians felt this was 
+safe to be monitored as an outpatient. 
+
+You will continue your outpatient appointments with oncology and 
+interventional pulmonary as planned.
+
+It was a pleasure taking care of you. We wish you the best in 
+your health.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12419109-DS-5 | hadm_id=26705332
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Endometrial hemorrhage  
+
+ 
+Major Surgical or Invasive Procedure:
+IVC filter placement
+Exploratory laparotomy
+Total abdominal hysterectomy
+Bilateral salpingo-oophorectomy
+Cystoscopy 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with PMH of htn, HLP, "facial nerve pain", who 
+presented to the ED after having heavy vaginal bleeding 
+overnight. The patient presented to the ___ clinic on ___ for 
+an endometrial biopsy following an abnormal pap. Following the 
+biopsy, she had several days of vaginal spotting, and on ___ 
+presented to the ED with heavier bleeding. At that time, the 
+patient was stable with a hct of 32. An ultrasound showed a 
+large blood clot expanding the endometrial cavity measuring 
+approximately 6.7 x 3.0 x 6.1 cm. The patient was discharged 
+home with provera. She was then seen in ___ clinic on  ___ and 
+was scheduled for surgery ___ and uptitrated to 20mg provera 
+for continued vaginal bleeding.
+
+At 2am on ___, the patient woke up with a pad soaked through 
+her underwear and many clots passed, and was feeling very 
+lightheaded, dizzy and unsteady with walking. She presented to 
+the ED.
+
+In the ED, VS: 97.1 HR: 85 BP: 152/80 Resp: 16 O(2)Sat: 99
+
+Notable labs: 
+WBC 11.1 Hgb 10.4 (from 11.7 on ___ Hct 31.3 Plt 220.
+
+The patient was admitted to the gyn service for further 
+management of endometrial bleeding.
+
+The patient underwent CT torso to further image the presumed 
+endometrial cancer and assess for mets, which incidentally 
+showed segmental pulmonary emboli bilaterally, and no evidence 
+of metastatic disease.
+
+The patient was started on a heparin gtt, after which she 
+developed more vaginal bleeding, and had a hgb drop from 10.4 -> 
+8.5, for which she received 1u pRBCs and vaginal packing. The 
+heparin was stopped, and the patient was transferred to the 
+FICU.
+
+On arrival to the FICU, the patient was initially doing well 
+with stable VS. She received 3L IVF. 
+While talking with her family, she complained of feeling sweaty, 
+and then became unresponsive with eye and head jerking and 
+became apneic. Increased vaginal bleeding was noted. A code blue 
+was called. The head of the bed was lowered and her tongue was 
+noted to be blocking her airway. After moving her tongue, the 
+patient again began to spontaneouly breathe, and regained 
+consciousness. Her HR and blood pressure remained stable. The 
+code was cancelled, and the patient quickly was talking with her 
+family again. 
+She reported that prior to this event she had been feeling 
+sweaty, and that her chest was being "crushed". An EKG showed no 
+ST changes. A repeat h/h showed hgb had dropped to 7.0. The 
+patient received 2 additional units of pRBCs. Vital signs 
+remained stable.   
+
+ 
+Past Medical History:
+- hypertension
+- hyperlipidemia
+- osteoporosis
+- history of postive PPD
+- facial neuropathy
+- post-partum tubal ligation
+
+ 
+Social History:
+___
+Family History:
+- No known family history of breast, uterine, ovarian,
+cervical or colon cancer
+
+ 
+Physical Exam:
+On day of admission: 
+Vitals: T: 97.8  BP: 104/69 P: 106 R: 23 O2: 99%RA  
+GENERAL: resting in bed, appears uncomfortable, but in NAD, 
+somewhat diaphoretic and cool
+HEENT: NCAT, EOMI, PEERL
+NECK:  no JVD, no LAD 
+LUNGS: CTAB
+CV: rrr, no murmurs
+ABD: Bowel sounds present, tender to palpation
+GU: Foley in place. Vaginal packing in place with bright red 
+blood noted on pad. 
+EXT: somewhat cool, DP pulses present
+
+On day of discharge:
+Afebrile, vitals stable
+No acute distress
+CV: regular rate and rhythm
+Pulm: clear to auscultation bilaterally
+Abd: soft, appropriately tender, nondistended, incision 
+clean/dry/intact, no rebound/guarding
+___: nontender, nonedematous
+
+ 
+Pertinent Results:
+___ 01:23PM BLOOD WBC-11.5* RBC-3.88* Hgb-11.7 Hct-35.4 
+MCV-91 MCH-30.2 MCHC-33.1 RDW-12.6 RDWSD-41.6 Plt ___
+___ 04:20AM BLOOD Neuts-77.1* Lymphs-13.7* Monos-6.4 
+Eos-1.0 Baso-0.3 Im ___ AbsNeut-8.59* AbsLymp-1.53 
+AbsMono-0.71 AbsEos-0.11 AbsBaso-0.03
+___ 04:20AM BLOOD ___ PTT-25.1 ___
+___ 09:08PM BLOOD ___
+___ 04:20AM BLOOD Glucose-124* UreaN-15 Creat-0.8 Na-138 
+K-4.0 Cl-99 HCO3-27 AnGap-16
+___ 09:08PM BLOOD LD(LDH)-188 TotBili-0.1
+___ 09:08PM BLOOD cTropnT-<0.01
+___ 09:08PM BLOOD Calcium-7.6* Phos-2.7 Mg-1.9
+___ 09:30PM BLOOD Type-ART pO2-115* pCO2-40 pH-7.39 
+calTCO2-25 Base XS-0 Intubat-NOT INTUBA
+
+___ 07:55AM BLOOD WBC-7.9 RBC-2.97* Hgb-9.2* Hct-27.1* 
+MCV-91 MCH-31.0 MCHC-33.9 RDW-13.3 RDWSD-43.5 Plt ___
+___ 07:55AM BLOOD WBC-7.9 RBC-2.97* Hgb-9.2* Hct-27.1* 
+MCV-91 MCH-31.0 MCHC-33.9 RDW-13.3 RDWSD-43.5 Plt ___
+___ 07:55AM BLOOD Glucose-110* UreaN-12 Creat-0.7 Na-137 
+K-4.1 Cl-100 HCO3-27 AnGap-14
+___ 07:55AM BLOOD Calcium-9.1 Phos-4.5 Mg-2.2
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ admitted for vaginal bleeding due to emdometrial 
+cancer complicated by uterine hemorrhage on initiation of 
+heparin gtt who was admitted to ___ for HD instability and 
+incidentally found to have PEs. Patient admitted with plan for 
+urgent ex-lap, TAH, BSO, and cystoscopy for endometrial 
+adenocarcinoma and uterine hemorrhage. 
+
+FICU Course, Hospital Day 1 - ___ Day 2
+
+#Endometrial hemorrhage: Placed on heparin gtt for pulmonary 
+embolisms found during this admission as below. Developed 
+hemorrhage secondary to heparin gtt. Drip was discontinued in 
+the setting of active hemorrhage. The patient required 3L IVF 
+and 4U pRBC's to maintain pressures and H/H. The patient had an 
+IVC filter placed in the setting of pulmonary emboli, and she 
+was then taken urgently for hysterectomy to control her 
+bleeding. Pt received no additional U pRBC's and her H/H and 
+blood pressure were stable post-operatively. She was transferred 
+back to the gyn-onc service.
+
+#Pulmonary Embolisms: Incidental finding of pulmonary emboli 
+involving the right middle and lower lobe segmental arteries 
+seen on CT while being scanned for endometrial bleeding.  She 
+was started on heparin gtt, but in the setting of active uterine 
+bleeding she underwent at IVC filter placement prior to planned 
+hysterectomy as above.
+
+#Altered mental status - Pt had brief episode of 
+unresponsiveness with abnormal eye and lip movements. Likely 
+vasovagal given that feeling sweaty before episdoe, and with 
+known volume loss. Pt also reports having experienced crushing 
+pressure on her chest prior to episode. Abnormal movements not 
+rhythmic, likely represent myoclonic jerks as opposed to 
+seizure. Pt noted to have home prescription for carbamazpine, 
+but clarified to be for facial nerve pain. No history of 
+seizure. EKG wnl's, troponins negative. This was felt to be 
+likely ___ vasovagal response.
+
+Post-operative course, Hospital Day 2 - ___ Day 6
+
+On hospital day 2 Ms. ___ underwent ex-lap, total abdominal 
+hysterectomy, bilateral salpingo-oophorectomy, and cystoscopy 
+for endometrial adenocarcinoma and uterine hemorrhage. Please 
+see the operative report for full details. She tolerated the 
+procedue well and was transferred to the floor.
+
+# Post-op care: Immediately postoperatively, her pain was 
+controlled with IV dilaudid/acetaminophen. Her diet was advanced 
+without difficulty and she was transitioned to PO oxycodone, 
+acetaminophen, and ibuprofen. On post-operative day #1, her 
+urine output was adequate so her Foley catheter was removed and 
+she voided spontaneously.
+
+# Weakness: She complained of weakness and dizziness with 
+standing and physical therapy was consulted. While inpatient she 
+worked with physical therapy and was able to ambulate with the 
+use of a roller walker. She was also found to be symptomatically 
+orthostatic. Given her low/normotensive blood pressures 
+throughout admission her femlodipine was discontinued and her 
+dizziness improved.
+
+# Pulmonary Embolisms: She was maitainted on Lovenox twice daily 
+and was followed by Hematology while inpatient. She has 
+scheduled follow up for further management of her 
+anticoagulation and IVC filter.
+
+By post-operative day #4, she was tolerating a regular diet, 
+voiding spontaneously, ambulating with a roller walker, and pain 
+was controlled with oral medications. She was then discharged 
+home in stable condition with setup for home physical therapy, 
+home nursing, and outpatient follow-up scheduled.
+
+Of note, it was discovered 2 days after dicharge that patient 
+was not sent home with lovenox prescription for anticoagulation 
+therapy for bilateral pulmonary emboli. Patient was notified 
+immediately and a script was sent to her pharmacy. Home ___ was 
+able to provide teaching for first injection. An incident report 
+was filed. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Alendronate Sodium 70 mg PO 1X/WEEK (___) 
+3. Loratadine 10 mg PO DAILY 
+4. Atenolol 100 mg PO DAILY 
+5. CarBAMazepine 200 mg PO BID 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Felodipine 10 mg PO DAILY 
+8. Hydrocortisone Cream 2.5% 1 Appl TP BID 
+9. Mapap (acetaminophen) (acetaminophen) 500 mg oral BID:PRN 
+pain 
+10. MedroxyPROGESTERone Acetate 10 mg PO DAILY 
+11. Ranitidine 300 mg PO DAILY 
+12. Simvastatin 40 mg PO QPM 
+13. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600mg-400 
+intl u  oral BID 
+
+ 
+Discharge Medications:
+1. Outpatient Physical Therapy
+Rolling walker
+
+Diagnosis: Unsteady gait
+Prognosis: Good
+Length: 13 months 
+2. Commode
+Commode 
+
+Diagnosis: Unsteady gait
+Prognosis: Good
+Length: 13 months 
+3. Atenolol 100 mg PO DAILY 
+4. CarBAMazepine 200 mg PO BID 
+5. Ranitidine 300 mg PO DAILY 
+6. Simvastatin 40 mg PO QPM 
+7. Acetaminophen 1000 mg PO Q6H pain, fever 
+Do not take more than 4,000 mg in 24 hrs. 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth Every 6 hours as 
+needed Disp #*50 Tablet Refills:*0
+8. Docusate Sodium 100 mg PO BID 
+Take while you are taking pain medication to prevent 
+constipation. 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth Twice 
+a day as needed Disp #*60 Capsule Refills:*0
+9. Ibuprofen 600 mg PO Q6H pain 
+Take with food. 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth Every 6 hours as 
+needed Disp #*50 Tablet Refills:*0
+10. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN pain 
+Do not drink alcohol or drive while taking this medication. 
+RX *oxycodone [Oxecta] 5 mg 1 tablet(s) by mouth Every 3 hours 
+as needed Disp #*50 Tablet Refills:*0
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Aspirin 81 mg PO DAILY 
+13. Alendronate Sodium 70 mg PO 1X/WEEK (___) 
+14. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600mg-400 
+intl u  oral BID 
+15. Hydrocortisone Cream 2.5% 1 Appl TP BID 
+16. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Endometrial cancer
+
+Final pathology pending
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecologic oncology service after 
+undergoing the procedures listed below. You have recovered well 
+after your operation, and the team feels that you are safe to be 
+discharged home. Please follow these instructions: 
+
+Abdominal instructions:  
+* Take your medications as prescribed.  
+* Do not drive while taking narcotics.  
+* Do not combine narcotic and sedative medications or alcohol.  
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.  
+* No strenuous activity until your post-op appointment.  
+* Nothing in the vagina (no tampons, no douching, no sex) for 8 
+weeks.  
+* No heavy lifting of objects >10 lbs for 6 weeks.  
+* You may eat a regular diet.
+* It is safe to walk up stairs.  
+
+Incision care:  
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision. No bath tubs for 6 weeks.  
+* Your staples will be removed at your follow-up visit.  
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.  
+
+ 
+Followup Instructions:
+___

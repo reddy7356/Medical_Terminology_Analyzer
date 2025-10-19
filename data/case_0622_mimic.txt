@@ -1,0 +1,973 @@
+===== DISCHARGE NOTE =====
+note_id=13341950-DS-23 | hadm_id=21938181
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Demerol / Ativan / Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+palpitations and presyncope
+ 
+Major Surgical or Invasive Procedure:
+none 
+
+ 
+History of Present Illness:
+___ yo female with h/o of paroxysmal atrial fibrillation and SVT 
+(s/p ablation), ARDS and severe bronchiectasis s/p treatment for 
+MRSA pneumonia early ___ who went to her pulmonologist's 
+office today and had sudden onset of SOB, lightheadedness and 
+palpitations. No EKG was performed at the office. By the time 
+she reached the ED, she was in NSR with rates in 80's. Pt 
+reports symptoms resolved by the time she reached the ED. She 
+states that she has been having these symptoms since late ___, 
+with presyncope with position changes, SOB, and palpitations.
+.
+Patient has history of SVT treated with Sotalol and Atenolol. 
+She was treated with Vanco and azithromycin on her last 
+hospitalization and given potential interaction between Azithro 
+and Sotalol to cause QTc prolongation and patient insisting that 
+she remain on Sotalol, she was maintained on both with before 
+and after EKG's showing no change in QT interval. After DC'ing 
+Vanco in ___, she was started on Bactrim
+.
+On arrival to the floor, patient reports feeling well. Denies 
+SOB or palpitations. Anticipates lightheadedness if she were to 
+get out of bed.
+ 
+Past Medical History:
+CARDIAC HISTORY: 
+-SVT (s/p ablation) on Sotalol and Atenolol
+-paroxysmal atrial fibrillation
+
+OTHER PAST MEDICAL HISTORY:
+-ARDS [___] s/p lung biopsy in setting of hospitalization
+for spinal fusion [also w/ MRSA wound infection]
+-Bronchiectasis (noted on CT ___
+-OSA
+-OA
+-Macular degeneration.
+-History of migraines.
+-History of significant anemia that is thought to be due to GI
+losses although this is currently being evaluated.
+-Very mild pharyngeal dysphagia characterized by intermittent
+incomplete epiglottic deflection (video swallow study on
+___
+-Hiatal hernia.
+-Anxiety
+-PSH: spinal fusion, cataract surgery, lung biopsy, 
+cholecystectomy,
+appendectomy and exploratory laparotomy.
+ 
+Social History:
+___
+Family History:
+Mother: MI (___)
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+VS: 98 136/71 60 20 100%2L
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric.
+NECK: Supple, no JVD
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. Bibasilar crackles R>L
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+PHYSICAL EXAMINATION ON DISCHARGE: 
+
+VS: 98.2  142/72  82  18 99%RA
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric.
+NECK: Supple, no JVD
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. Bibasilar crackles R>L
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e.
+ 
+Pertinent Results:
+LABS ON ADMISSION: 
+.
+-EKG (___): normal sinus rhythm, rate 84, q waves in inferior 
+leads (present on old EKG from ___ as well) 
+-Troponin: <0.01 x2 
+-CK: 49
+-CK-MB: 3
+.
+CHEST CT WITHOUT CONTRAST: 
+1. Waxing and waning ground-glass opacities with mild 
+interlobular septal
+thickening, could represent cryptogenic organizing pneumonia or 
+chronic
+eosinophilic pneumonia.
+2. Moderate hiatal hernia.
+.
+LABS ON DISCHARGE:
+.
+___ 06:31AM BLOOD WBC-5.9 RBC-3.47* Hgb-9.7* Hct-30.6* 
+MCV-88 MCH-28.1 MCHC-31.8 RDW-15.1 Plt ___
+___ 06:31AM BLOOD Plt ___
+___ 06:31AM BLOOD Glucose-97 UreaN-11 Creat-0.7 Na-139 
+K-4.4 Cl-105 HCO3-26 AnGap-12
+___ 06:31AM BLOOD Calcium-8.3* Phos-3.6 Mg-2.2
+___ 06:55AM BLOOD TSH-0.___ yo female with h/o of paroxysmal atrial fibrillation and SVT 
+(s/p ablation), ARDS and severe bronchiectasis s/p treatment for 
+MRSA pneumonia early ___ presenting with intermittent 
+lightheadedness, palpitations, and SOB.
+.
+# Presyncope: Pt with symptoms of lightheadedness, palpitations, 
+SOB concerning for symptomatic paroxysmal atrial fibrillation. 
+However, EKG did not capture afib and no events on tele 
+throughout hospitalization, including during exercise when 
+patient reported subjective palpitations. She remained rate 
+controlled in the ___ throughout stay. Because it was 
+possible that her PAF was not captured during hospitalization, 
+she was discharged with ___ of Hearts monitor for follow up. 
+Considered PE but this was deemed extremely unlikely because was 
+not hypoxic and symptoms had been present for weeks. Did have 
+orthostatic hypotension which responded to 2 liters IVF so 
+possible that recent PNA and possible new eosinophilic pneumonia 
+(see problem 2) contributed via insensible losses.  She is on 2 
+beta blockers (sotalol and atenolol) at home which we continued 
+here. She may need echocardiogram as outpatient to assess for 
+valvular disease contributing to presyncope.
+.
+# Pneumonia: Pt with recent MRSA pneumonia treated at end of 
+___, coinciding with onset of presyncopal symptoms. CT chest 
+performed at ED showed new opacities in apical RUL, LLL, and 
+mildly in lateral segment RLL. Her pulmonologist Dr. ___ 
+___ her throughout hospitalization and felt that, given her 
+hiatal hernia, she may be having recurrent aspiration pneumonias 
+but that currently her chest CT was actually much improved since 
+before. She remained afebrile without cough,fever or 
+leukocytosis throughout hospitalization and did not require 
+antibiotics. Oxygen saturation was difficult to monitor.  On 
+finger oximetry, oxygen saturations would record as ___ with 
+ambulation.  However, oxygen saturation with tape oximetry on 
+forehead recorded ___ with ambulation.  Per her pulmonologist, 
+patient often had unreliable finger oximetry readings.  She will 
+follow up with Dr. ___ as an outpatient. 
+.
+# Depression: stable on duloxetine and alprazolam
+.
+# OSA: Pt states that she has been having difficulties with mask 
+settings and has not been using CPAP at home lately. Does not 
+wish to continue CPAP while in house. She will f/u CPAP issues 
+as an outpatient. 
+.
+TRANSITION OF CARE: 
+-Needs echo as outpatient to assess for valvular disease as 
+cause of presyncope
+-___ of Hearts monitor results will be followed up by Dr. 
+___
+ 
+___ on Admission:
+-Sotalol 80 mg Tablet PO BID
+-Atenolol 50mg po QD
+-Alprazolam 0.5mg PO qAM, 0.5mg PO noon, 1 mg PO qHS
+-Pantoprazole EC 40 mg q12 hours
+-Duloxetine EC 40mg po BID
+-Sumatriptan succinate 25mg prn
+-Ipratropium-albuterol ___ mcg/Actuation Aerosol 2 puffs QID 
+prn
+-Hydromorphone 4mg prn
+ 
+Discharge Medications:
+1. sotalol 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+4. alprazolam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day 
+(at bedtime)).  
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+6. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+7. ipratropium-albuterol ___ mcg/Actuation Aerosol Sig: Two 
+(2) Puff Inhalation Q6H (every 6 hours) as needed for SOB.  
+8. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. sumatriptan succinate 25 mg Tablet Oral
+10. hydromorphone  Oral
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Orthostatic hypotension
+Palpitations
+
+Secondary diagnosis:
+SVT s/p ablation
+Paroxysmal Atrial Fibrillation
+Bronchiectasis
+s/p MRSA pneumonia 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you in the hospital.  You were 
+admitted with shortness of breath, dizziness and palpitations. 
+We monitored your heart rhythm and found it to be normal. We 
+found that your blood pressure was low so we gave you fluids and 
+your blood pressure improved. We are sending you home with a 
+___ of Hearts monitor, where you press a button every time you 
+feel palpitations, and hope that this will catch any arrythmia 
+that occurs so it can be treated. At your upcoming appointment 
+with Dr. ___ will review the findings with you and 
+discuss whether changes need to be made to your heart 
+medications. 
+
+We made the following changes to your medications:
+1) ADDED Aspirin 325mg daily 
+
+The medications you are taking (Atenolol 50mg once a day and 
+Sotolol 80mg twice a day) seem to conflict with the doses that 
+your cardiologist prescribed (Atenolol 100mg once a day and 
+Sotolol 120mg twice a day). Please reconcile this with him at 
+your upcoming appointment. 
+
+Please also obtain an echocardiogram at the advice of your 
+cardiologist.
+
+Please attend the follow-up appointments listed below with your 
+primary care doctor ___, your pulmonologist ___ 
+___, and your cardiologist ___. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13341950-DS-21 | hadm_id=23222798
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Demerol / Ativan / Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+MRSA Pneumonia
+ 
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+ 
+History of Present Illness:
+CC: Direct admit for MRSA  
+.  
+HPI: ___ y/o F with hx of ARDS and bronchiectasis who presents 
+for treatment of MRSA PNA. Patient reports that her health has 
+been chronically deteriorating since her MICU admission for ARDS 
+in ___, and she has been experiencing multiple bouts of 
+pneumonia and bronchitis over the past year requiring 
+antibiotics. She also has had multiple spinal surgeries and her 
+mobility has subsequently been significantly decreased as well. 
+She reports markedly decreased exercise tolerance since ___ 
+(used to walk and go shopping without SOB), and her current 
+exercise tolerance is so poor she states she will 'feel like 
+panting' when she walks from her bed to the bathroom (about 20 
+feet).  
+.  
+Patient also reports a recent PNA in ___, for which she 
+received 10 days of antibiotics from her PCP (does not know what 
+kind). Following that course, however, she continued to be 
+breathless and had a cough productive of green phlegm. A CT from 
+chest performed by her pulmonologist Dr. ___ on ___ was 
+conssitent with a bronchiectasis flare, revealing mild 
+progression of peribronchial infiltrate in the lingula with 
+stable areas of bronchiectasis, fibrosis and scarring. She was 
+treated with 10 days of cefuroxime, which did not help her 
+symptoms, so she underwent a BAL on ___, which ultimately 
+revealed a MRSA infection; AFB culture is pending but smear 
+negative. She was started on 14 days of doxycycline on ___, but 
+became nauseated and experienced more SOB after her first dose. 
+She called her pulmonologist, Dr. ___ recommended she be 
+electively direct-admitted to ___ for further treatment of 
+MRSA pneumonia.  
+.  
+On admission, patient feels comfortable and is in no respiratory 
+distress. Of note, patient wishes to be DNR/DNI on this 
+admission due to deterioration of her health status after her 
+past MICU admissions.  
+.  
+Review of systems:  
+(+) fevers to 100, chills, sinus congestion and post nasal drip. 
+chronic cough productive of non-bloody sputum, currently clear. 
+10 lb weeight gain x4 months due to decreased mobility. chronic 
+back pain.  
+(-) Denies headache. Denied chest pain or tightness, 
+palpitations. Denied nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No recent change in bowel or bladder habits. No 
+dysuria. No hemoptysis. 
+ 
+Past Medical History:
+PMH:  
+-ARDS [___] s/p lung biopsy in setting of hospitalization 
+for spinal fusion [also w/ MRSA wound infection]  
+-Bronchiectasis (noted on CT ___  
+-Obstructive apnea.  
+-Osteoarthritis.  
+-Macular degeneration.  
+-History of migraines.  
+-History of significant anemia that is thought to be due to GI  
+losses although this is currently being evaluated.  
+-Very mild pharyngeal dysphagia characterized by intermittent 
+incomplete epiglottic deflection (video swallow study on 
+___  
+-Hiatal hernia.  
+-Status post spinal fusion  
+-SVT s/p ablation  
+-Anxiety  
+.  
+PSH: Notable for cataract surgery, lung biopsy, cholecystectomy, 
+appendectomy and exploratory laparotomy. 
+ 
+Social History:
+___
+Family History:
+She has two siblings, none with pulmonary  
+disease. Her mother died of a myocardial infarction at age ___.  
+Her father died at age ___ after suffering a stroke. 
+ 
+Physical Exam:
+On admission: 
+VS: 98.2 140/87 82 20 98% on RA  
+GA: elderly F AOx3, NAD  
+HEENT: PERRLA. MMM. no LAD. no JVD. neck supple.  
+Cards: PMI palpable at ___ IC space. No RVH. RRR S1/S2 heard. 
+no murmurs/gallops/rubs.  
+Pulm: bronchial breath sounds in bilateral lower lung fields. no 
+wheezing.  
+Abd: soft, NT, +BS. no g/rt. neg HSM. neg ___ sign.  
+Extremities: wwp, no edema. DPs, PTs 2+.  
+Skin: no rashes  
+Neuro/Psych: CNs II-XII intact. ___ strength in U/L extremities. 
+DTRs 2+ ___ (biceps, achilles, patellar). sensation intact to LT, 
+pain, temperature, vibration, proprioception. cerebellar fxn 
+intact (FTN, HTS). gait WNL. uses R hand and gestures in a 
+chorea-like fashion while speaking.  
+.
+On discharge: 
+was 99% on RA resting, 86% on room air with ambulation. 
+Pulmonary exam was unchanged - coarse bs throughout with fine 
+rales, long inspiratory phase. 
+
+ 
+Pertinent Results:
+On admission:
+
+___ 09:30PM BLOOD WBC-9.2 RBC-3.28* Hgb-9.4* Hct-29.6* 
+MCV-90 MCH-28.7 MCHC-31.9 RDW-14.0 Plt ___
+___ 09:30PM BLOOD Neuts-63.1 ___ Monos-4.6 Eos-7.8* 
+Baso-0.6
+___ 09:30PM BLOOD ___ PTT-20.2* ___
+___ 07:35AM BLOOD Ret Man-2.0*
+___ 09:30PM BLOOD Glucose-175* UreaN-13 Creat-0.7 Na-140 
+K-4.4 Cl-102 HCO3-26 AnGap-16
+___ 09:30PM BLOOD ALT-18 AST-22 LD(LDH)-200 AlkPhos-66 
+TotBili-0.2
+___ 09:30PM BLOOD Albumin-3.8 Calcium-8.7 Phos-3.7 Mg-2.0 
+Iron-13*
+___ 09:30PM BLOOD calTIBC-449 VitB12-500 Folate-14.6 
+Ferritn-21 TRF-345
+___ 05:30AM BLOOD Vanco-19.8
+___ 05:42AM BLOOD Vanco-23.0*
+. 
+Blood cx x2: negative
+Urine cx: negative
+. 
+CXR: 
+FINDINGS: Chain sutures and scarring in the right upper lung are 
+seen. There 
+is volume loss in both lower lungs. An air-fluid level seen 
+behind the heart 
+consistent with the patient's known hiatal hernia. Posterior 
+fixation screws 
+are seen projecting over the lumbar spine and posterior plate 
+and screws are 
+seen projecting over the lower cervical spine. 
+  
+IMPRESSION: Chronic changes in the lung. No definite new 
+infiltrate. 
+.
+EKG: 
+Sinus rhythm. Prior inferior myocardial infarction. Mild 
+non-specific 
+ST-T wave abnormalities. No previous tracing available for 
+comparison.  
+.
+On discharge: 
+___ 05:42AM BLOOD WBC-7.2 RBC-2.91* Hgb-8.3* Hct-26.1* 
+MCV-89 MCH-28.3 MCHC-31.7 RDW-13.8 Plt ___
+___ 05:30AM BLOOD Glucose-151* UreaN-17 Creat-0.7 Na-138 
+K-4.1 Cl-103 HCO3-26 AnGap-___/P: ___ with hx of ARDS, bronchiectasis, multiple PNAs and 
+multiple spinal surgeries who presents with shortness of breath 
+and admitted for management of recently diagnosed MRSA PNA.  
+.  
+#Shortness of Breath: Patient was admitted directly at the 
+request of her pulmonologist, Dr. ___, for treatment 
+of MRSA pneumonia. She had a recent bronchoscopy, which grew 
+10k-100,000 organisms/ml. She was started on Vancomycin 1g q12h. 
+CXR showed chronic lung changes - no definite new infiltrate. 
+The patient remained afebrile during admission without new 
+cough. She was seen by respiratory therapy who provided her with 
+an acapella valve. Vancomycin level returned high at 23. The 
+level was discussed with pharmacy who recommended changing the 
+dosing to 750 mg q12h. A PICC line was placed and the patient 
+was discharged to complete a 14-day course. Of note, on the day 
+of discharge, the patient had ambulatory sats of 86% on RA. She 
+was discharged on 2L home oxygen with activity. She reported 
+that her shortness of breath was at her baseline for ~ ___ year. 
+Other etiologies of the dyspnea including sotalol side effect 
+and possible allergic component or ABPA(given periheral 
+eosinophilia) were considered - these were deferred to her 
+outpatient pulmonologist for further evaluation pending failure 
+to improve after treatment of pneumonia. The patient's home 
+nebulizers albuterol/ipratropium were continued. She was also 
+discharged with a prescription for tessalon perles cough 
+suppressant.    
+.  
+# h/o SVT: The patient reported a history of SVT (s/p ablation) 
+and afib (in the setting of back surgery and MRSA pneumonia). 
+The patient's PCP, ___ was contacted who verified the 
+patient's home doses of sotalol 120 mg BID and atenolol 100 mg 
+qday. The issue of significant beta-blockade in a patient with 
+bronchiectasis and chronic dyspnea was discussed with the PCP 
+and pharmacy. During admission the doses of both medications 
+were cut in half without evidence of arrhythmia. However, after 
+discussion with her PCP, she was discharged on her home regimen 
+and was encouraged to have further discussion with her PCP and ___ 
+cardiologist about the most appropriate doses of these 
+medications. Sotalol can commonly cause the sensation of dyspnea 
+and this was discussed with the patient. 
+.  
+# OSA: The patient was provided with a CPAP machine by 
+respiratory therapy and this was used each night. (home settings 
+autoset 8-10 cm H20)  
+.  
+# Anxiety: Continued xanax and cymbalta  
+.  
+# Anemia: Hct was stable ___ today. Iron studies were sent 
+and showed low ferritin at 21. Ferrous sulfate 325 mg qday was 
+started.  
+.  
+# Migraine Headache: Patient complained of a headache throughout 
+the admission. She was treated with Imitrex and dilaudid - both 
+home medications per her.  
+. 
+SubQ heparin was used for DVT prophylaxis. The patient's code 
+status was DNR/DNI (CONFIRMED WITH PATIENT). Communication was 
+with husband ___ ___.   
+
+ 
+___ on Admission:
+ALPRAZOLAM [XANAX] 0.5 mg PO BID (breakfast and dinner)  
+ALPRAZOLAM [XANAX] 1.0 mg PO QHS  
+DULOXETINE [CYMBALTA] 60 mg PO BID  
+FLUTICASONE - 50 mcg Spray, Suspension - 2 spray nasal daily  
+IPRATROPIUM-ALBUTEROL [COMBIVENT] - 18 mcg-103 mcg (90  
+mcg)/Actuation Aerosol - 2 puffs four times a day as needed for  
+
+shortness of breath or wheezing  
+PANTOPRAZOLE [PROTONIX] 40 mg PO BID  
+SOTALOL 120 mg PO BID  
+
+ 
+Discharge Medications:
+1. vancomycin 500 mg Recon Soln Sig: Seven Hundred Fifty (750) 
+mg Intravenous Q 12H (Every 12 Hours) for 11 days: Last day is 
+___.
+Disp:*22 doses* Refills:*0*
+2. alprazolam 0.25 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day).  
+3. alprazolam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day 
+(at bedtime)).  
+4. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) 
+Spray Nasal DAILY (Daily).  
+6. Combivent ___ mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation every six (6) hours as needed for shortness of breath 
+or wheezing.  
+7. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+8. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. sotalol 120 mg Tablet Sig: One (1) Tablet PO twice a day.  
+10. sumatriptan succinate 50 mg Tablet Sig: Two (2) Tablet PO 
+DAILY (Daily) as needed for migraine.  
+11. atenolol 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+12. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for cough.
+Disp:*60 Capsule(s)* Refills:*0*
+13. Oxygen therapy
+Continuous oxygen 2L nasal cannula for COPD, restrictive lung 
+disease, and bronchiectasis
+
+w/ pulse dose for mobility
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+MRSA Pneumonia
+Iron-deficiency anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure caring for you at the ___ 
+___. You were admitted at the request of your 
+pulmonologist to be treated for MRSA pneumonia. We placed a ___ 
+line and started Vancomycin. We are also concerned that your 
+cardiac medications - especially Sotalol - could be contributing 
+to your shortness of breath as it can commonly have this side 
+effect. We spoke with Dr. ___ this concern who will 
+speak with you about this issue on ___. You should also see 
+a cardiologist, whether at ___ or elsewhere. We have included 
+the number for cardiology here below. 
+. 
+We made the following changes to your medications: 
+We STARTED ferrous sulfate for low iron levels
+We STARTED Vancomycin 750 mg q12h for the next ___ days (last day 
+is ___
+We STARTED Tessalon Perles to be used as needed for cough
+We STARTED oxygen (2L nasal cannula) to be used as needed while 
+you are active
+. 
+Your follow-up information is listed below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13341950-DS-22 | hadm_id=28255416
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Demerol / Ativan / Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pneumonia
+ 
+Major Surgical or Invasive Procedure:
+none.
+
+ 
+History of Present Illness:
+___ female with history of chronic bronchiectasis who admitted 
+from pulmonary clinic with complaints with worsening malaise, 
+dyspnea noted to desaturate with ambulation and CT chest 
+demonstrating worsening ground glass opacities consistent with 
+PNA.  
+.  
+Patient presented to clinic today. There exam prompted CT which 
+by report demonstrated findings consistent with PNA and decision 
+made to admit patient for treatment of HCAP with plan for 
+possible bronchoscopy on ___ if patient remains in house.  
+.  
+Upon transfer to the floor, pt reports that she has been feeling 
+unwell since approximately ___, with shortness of breath, 
+palpitations, and mild anxiety. She also reports non-productive 
+cough, though reports sensations of congestion.  
+.  
+ROS: As above. Denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, sore throat, cough, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, 
+melena, hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+PMH:  
+-ARDS [___] s/p lung biopsy in setting of hospitalization 
+for spinal fusion [also w/ MRSA wound infection]  
+-Bronchiectasis (noted on CT ___  
+-Obstructive apnea.  
+-Osteoarthritis.  
+-Macular degeneration.  
+-History of migraines.  
+-History of significant anemia that is thought to be due to GI  
+losses although this is currently being evaluated.  
+-Very mild pharyngeal dysphagia characterized by intermittent 
+incomplete epiglottic deflection (video swallow study on 
+___  
+-Hiatal hernia.  
+-Status post spinal fusion  
+-SVT s/p ablation  
+-Anxiety  
+.  
+PSH: Notable for cataract surgery, lung biopsy, cholecystectomy, 
+appendectomy and exploratory laparotomy. 
+ 
+Social History:
+___
+Family History:
+She has two siblings, none with pulmonary  
+disease. Her mother died of a myocardial infarction at age ___.  
+Her father died at age ___ after suffering a stroke. 
+ 
+Physical Exam:
+Admission:
+GENERAL - anxious appearing woman in mild distress, otherwise 
+comfortable, appropriate, cooperative with exam  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear, 
+nasal exam deferred to patient discomfort  
+NECK - supple, no thyromegaly, no JVD  
+LUNGS - respirations ___ be limited by positioning (pt 
+has difficulty straightening her torso/back ___ spinal stenosis) 
+otherwise CTA bilat with ?decreased breath sounds on left toward 
+axilla, no r/rh/wh, good air movement, resp unlabored, no 
+accessory muscle use, normal phonation  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout
+
+Discharge:
+GENERAL - middle-aged woman in no apparent distress, otherwise 
+comfortable, appropriate, cooperative with exam  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear, 
+nasal exam deferred to patient discomfort  
+NECK - supple, no thyromegaly, no JVD  
+LUNGS - mildly ?decreased breath sounds on left toward axilla, 
+mild crackles over right lower lobe, otherwise no r/rh/wh, good 
+air movement, resp unlabored, no accessory muscle use, normal 
+phonation  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout
+
+ 
+Pertinent Results:
+Admission:
+___ 09:30PM BLOOD WBC-6.0 RBC-3.29* Hgb-9.5* Hct-29.3* 
+MCV-89 MCH-29.0 MCHC-32.5 RDW-17.5* Plt ___
+___ 09:30PM BLOOD Plt ___
+___ 09:30PM BLOOD Glucose-127* UreaN-14 Creat-0.8 Na-138 
+K-4.3 Cl-105 HCO3-21* AnGap-16
+___ 09:30PM BLOOD Calcium-8.5 Phos-3.5 Mg-2.3
+
+Discharge:
+___ 06:25AM BLOOD WBC-6.0 RBC-3.52* Hgb-10.1* Hct-31.6* 
+MCV-90 MCH-28.8 MCHC-32.0 RDW-17.5* Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-108* UreaN-11 Creat-0.8 Na-138 
+K-4.7 Cl-101 HCO3-28 AnGap-14
+___ 06:25AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.2
+
+Imaging:
+CT Chest ___
+___ year old woman with recent acute shortness of breath. History 
+of ARDS and  
+   bronchiectasis with normal CXR at ___ ___. 
+REASON FOR THIS EXAMINATION: 
+   evaluate for pulmonary embolism and acute infiltrate  
+CONTRAINDICATIONS FOR IV CONTRAST: 
+   None. 
+
+ 
+ 
+Final Report 
+INDICATION: Patient with shortness of breath, assess for 
+pulmonary embolus. 
+  
+COMPARISONS: Chest CT of ___. 
+  
+TECHNIQUE: MDCT-acquired contiguous images through the chest 
+were obtained 
+with 2-mm slice thickness with and without intravenous contrast. 
+Coronally 
+and sagittally reformatted images were displayed. 
+  
+FINDINGS: 
+  
+There is no perfusion defect involving pulmonary arterries to 
+suggest 
+pulmonary embolus. The aorta is of normal caliber. There is no 
+evidence of 
+aortic dissection. Mild coronary artery calcifications are 
+redemonstrated.  There is no pericardial effusion. Heart is 
+mildly enlarged. There is no 
+axillary lymphadenopathy. There are numerous mediastinal lymph 
+nodes, none of which meet CT criteria for pathologic 
+enlargement, unchanged.  
+Tracheobronchial tree appears patent to subsegmental levels.  
+  
+Post-surgical changes related to right upper biopsy are 
+redemonstrated with
+local scarring and bronchiectasis. The lingular consolidation 
+appears 
+long-extending. There are diffuse bilateral ground-glass 
+opacities, which 
+appear new from ___ exam. There is no pleural effusion or 
+pneumothorax. 
+
+A 3.4 x 1.9 cm opacity of the right upper lobe is new from prior 
+exam and 
+likely represents an infectious focus. A 7-mm nodular opacity 
+involving the left upper lobe also appears new (2:21). 
+Bibasilar atelectasis is noted. 
+  
+Large hiatal hernia is unchanged. This study is not tailored for 
+
+subdiaphragmatic evaluation; however, visualized portions of 
+upper abdominal organs are unremarkable. Gallbladder is 
+surgically absent. 
+  
+OSSEOUS STRUCTURES:  
+  
+Extensive degenerative joint changes involving the thoracic 
+spine are noted.  Linear lucencies involving bilateral pedicles 
+of the thoracic vertebral body (2:46) are present, which likely 
+correspond to the site of prior hardware 
+placement, unchanged. 
+  
+  
+IMPRESSION: 
+  
+1. No evidence of pulmonary embolus or acute aortic syndrome. 
+  
+2. Diffuse bilateral ground-glass opacities and biapical nodular 
+opacities, are new since ___ exam. These findings are 
+concerning for infection or edema. The lingular consolidation 
+appears long-extending. Post-surgical changes related to right 
+upper lung biopsy with associated bronchiectasis and scarring is 
+stable. 
+  
+3. Large hiatal hernia, unchanged. 
+ 
+
+ 
+Brief Hospital Course:
+___ w/PMHx chronic bronchiectasis admitted from pulmonary clinic 
+with worsening malaise, dyspnea noted to desaturate with 
+ambulation and CT chest demonstrating worsening ground glass 
+opacities consistent with PNA. 
+
+Active issues:
+# PNA on chronic bronchectasis  
+The patient was admitted directly from pulmonary clinic based on 
+her symptom profile and the initial read of her chest CT scan. 
+On arrival to the floor she was slightly anxious and reported 
+dyspnea.  Her oxygen saturation while in bed was 98% on room 
+air, but the patient reported that she still did not feel like 
+she was getting enough air. An order was placed for albuterol 
+and ipratropium nebs in order to improve airflow and ideally 
+reduce her subjective sensation of dyspnea.
+
+As part of her workup for pneumonia, blood and sputum cultures 
+were sent for analysis, as were serum chemistries. Per 
+pulmonology recs, the patient was started on empiric HCAP 
+coverage, which entailed Vancomycin 1000 mg IV Q 12H, Cefepime 2 
+g IV Q8H, and Azithromycin 500 mg PO initially (switched to 
+250mg after first dose). A CPAP was administered to the patient 
+at her home settings.
+
+The next morning, the patient reported that her dyspnea had 
+decreased, and she appeared less anxious.  Per the patient's 
+pulmonologist, Cefepime was discontinued. A PICC line was 
+placed, and after discussion with the patient and her family, 
+she was discharged with home administration of IV vancomycin via 
+___.
+
+# Palpitations  
+The patient has a history of SVT treated with sotalol, and was 
+very direct in stating her wishes to be maintained on this 
+medication in addition to her atenolol.  Given the potential 
+interaction between Azithromycin and Sotalol, the sotalol was 
+initially held while the atenolol was continued. Prior to 
+discharge, the patient was restarted on sotalol with before and 
+after ECGs to ensure that there was no change in the QT 
+interval. The patient was discharged on her original doses of 
+the sotalol and atenolol without further complaint of 
+palpitations.
+
+Chronic issues:
+# OSA  
+CPAP was used at the patient's home settings. There was no 
+change in the course of this condition during the 
+hospitalization.
+
+# Anxiety  
+The patient's home duloxetine and alprazolam doses were 
+continued, and this issue remained stable throughout her stay.
+ 
+Medications on Admission:
+alprazolam 0.25 mg 2 Tablet PO BID, 1mg tablet PO QHS  
+atenolol 100 mg PO daily  
+doxycycline hyclate 100 mg Capsule bid  
+duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two PO BID 
+fluticasone 50 mcg Spray, Suspension bid  
+ipratropium-albuterol 18 mcg-103 mcg (90 mcg)/Actuation Aerosol  
+
+2 puffs four times a day as needed for shortness of breath or 
+wheezing  
+pantoprazole [Protonix]  
+sotalol 120 mg BID  
+sumatriptan succinate  
+
+ 
+Discharge Medications:
+1. Outpatient Lab Work
+Please draw vancomycin trough levels after the third dose and 
+once per week for subsequent dose. Please draw LFTs, CBC, Chem-7 
+concomittantly.
+Please send results to Dr. ___ at ___ pulmonary 
+___.  
+PHONE: ___- LUNG (5864)
+FAX: (___
+2. vancomycin in D5W 1 gram/200 mL Piggyback Sig: Two (2)  
+Intravenous Q 12H (Every 12 Hours).
+Disp:*28 doses* Refills:*0*
+3. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+PICC, heparin dependent: Flush with 10mL Normal Saline followed 
+by Heparin as above daily and PRN per lumen. 
+4. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush 
+Peripheral line: Flush with 3 mL Normal Saline every 8 hours and 
+PRN. 
+5. sotalol 80 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day). 
+ 
+6. azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day 
+for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+7. alprazolam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day 
+(at bedtime)). Tablet(s) 
+8. alprazolam 0.25 mg Tablet Sig: 0.5 Tablet PO AT NOON ().  
+9. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+10. atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+11. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+12. sumatriptan succinate 25 mg Tablet Sig: Four (4) Tablet PO 
+ONCE (Once) as needed for headache for 1 doses.  
+13. alprazolam 0.25 mg Tablet Sig: Two (2) Tablet PO QAM (once a 
+day (in the morning)).  
+14. ipratropium-albuterol ___ mcg/Actuation Aerosol Sig: Two 
+(2)  Inhalation four times a day as needed for shortness of 
+breath or wheezing.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pneumonia (suspected healthcare associated)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital from your pulmonologist's 
+office for shortness of breath and suspicion of a pneumonia. 
+During your stay you were treated with albuterol and ipratropium 
+inhalers in order to make your breathing more comfortable. Per 
+the recommendations of your pulmonologist, you were started on 
+several antibiotics for pneumonia, including azithromycin (by 
+mouth), and vancomycin and cefepime by IV. 
+
+Due to a potentially harmful interaction between azithromycin 
+and sotalol, it was necessary to hold your home dose of sotalol 
+until an electrocardiogram could be taken before and after your 
+sotalol was given.
+
+No changes have been made to your home medications; however, in 
+order to continue your course of antibiotics, it was necessary 
+to administer a PICC line, a type of IV that will allow you to 
+continue receiving IV antibiotics at home. You will receive IV 
+antibiotics at home via the assistance of a ___.
+
+The following medications were added to your medication regimen:
+- Vancomycin 1000mg via IV, twice per day for two weeks
+  - this will be administered by your ___
+- Azithromycin 250 mg by mouth once a day for three more days
+
+In the event that you begin feeling feverish, weak, or short of 
+breath, please contact your doctor, or go to the nearest 
+emergency room.
+ 
+Followup Instructions:
+___

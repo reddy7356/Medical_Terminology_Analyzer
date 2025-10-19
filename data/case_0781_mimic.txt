@@ -1,0 +1,1329 @@
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-21 | hadm_id=20494461
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ M PMH supraglottic larygneal squamous cell carcinoma 
+undergoing chemoRT presenting with N/V. Recently pt treated with 
+cisplatin and had severe resultant nausea so today was given a 
+reduced dose as well as compazine. Despite these measures pt 
+still had significant nasuea with vomiting and was referred to 
+the ED. Of note pt recently admitted ___ for similar 
+presentation of intractable n/v post-chemo. Today the pt denies 
+diarrhea/abdominal pain/f/c. 
+.
+In the eD: AF/VSS. Lytes ok, lactate 0.8. wbc 2.7, hct 36.3, plt 
+133. Pt given ivf, ativan, tylenol and admitted to OMED.
+.
+ROS: as above; otherwise complete ROS negative.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: noticed hoarseness
+- Seen by Dr. ___ in ___ ENT in ___. An 
+endoscopy showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the 
+supraglottic area.  There was also involvement of the epiglottis 
+and the patient underwent further staging scan including a CT 
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no
+regional lymph nodes, but there was also some pre-epiglottic
+extension and also uptake in the sixth rib and L4 of uncertain
+significance
+- ___: C1D1 Cisplatin with concurrent radiation
+ 
+PAST MEDICAL HISTORY: Hemolytic anemia, prior knee scope.
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer. 
+ 
+Physical Exam:
+t 97.5 bp 117/86 hr14 rr18 98%ra
+NAD
+eomi, perrl
+neck supple
+no ___
+chest clear
+rrr
+abd soft, nt, G-tube inplace: dressing c/d/i
+ext w/wp
+neuro: non-focal
+skin: no rash
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:14PM   LACTATE-0.8
+___ 04:10PM   GLUCOSE-139* UREA N-13 CREAT-0.7 SODIUM-134 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-26 ANION GAP-10
+___ 04:10PM   WBC-1.6* RBC-3.77* HGB-11.9* HCT-34.0* MCV-90 
+MCH-31.5 MCHC-34.9 RDW-12.6
+___ 04:10PM   NEUTS-81.5* LYMPHS-15.6* MONOS-2.2 EOS-0.6 
+BASOS-0.1
+___ 04:10PM   PLT COUNT-131*
+___ 08:00AM   UREA N-15 CREAT-0.9
+___ 08:00AM   estGFR-Using this
+___ 08:00AM   CALCIUM-9.3 MAGNESIUM-2.0
+___ 08:00AM   WBC-2.7* RBC-3.87* HGB-12.0* HCT-36.3* MCV-94 
+MCH-31.1 MCHC-33.0 RDW-12.5
+___ 08:00AM   PLT COUNT-134*
+___ 08:00AM   ___ ___
+
+DISCHARGE LABS:
+___ 06:30AM BLOOD WBC-2.2* RBC-3.63* Hgb-11.4* Hct-33.7* 
+MCV-93 MCH-31.4 MCHC-33.9 RDW-12.5 Plt ___
+___ 06:30AM BLOOD Neuts-78.5* Lymphs-13.6* Monos-7.5 
+Eos-0.2 Baso-0.2
+___ 06:30AM BLOOD Glucose-105* UreaN-15 Creat-0.7 Na-137 
+K-4.1 Cl-103 HCO3-28 AnGap-10
+
+MICROBIOLOGY:
+___ 4:30 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+Brief Hospital Course:
+___ yo M with supraglottic squamous cell CA admitted post-chemo 
+with intractable nausea and vomiting.
+.
+Nausea/vomiting: ___ chemo. No clinical suspcicion for infection 
+or obstruction. given IVF hydration and IV anti-emetics with 
+rapid improvement. Tolerating POs prior to discharge. Instructed 
+to continue PO anti-emetics standing for two more days then 
+resume PRN dosing. Will f/u with outpatient oncology within one 
+week.
+
+Cellulitis: G-tube site, diagnosed outpatient and started on 
+Keflex. Per patient improving. Continue Keflex as previously 
+planned.
+
+Supraglottic laryngeal squamous cell CA: on chrmo/XRT. Follow up 
+with oncology within one week.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cephalexin 250 mg PO Q6H 
+2. Dexamethasone 8 mg PO Q12H 
+3. Maalox/Diphenhydramine/Lidocaine 15 mL PO QID:PRN pain 
+4. Lorazepam 0.5 mg PO Q4H:PRN n/v 
+5. Nystatin Oral Suspension 5 mL PO QID 
+6. OLANZapine (Disintegrating Tablet) 5 mg PO BID:PRN n/v 
+7. Prochlorperazine 10 mg PO Q6H:PRN n/v 
+
+ 
+Discharge Medications:
+1. Cephalexin 250 mg PO Q6H 
+2. Dexamethasone 8 mg PO Q12H 
+3. Lorazepam 0.5 mg PO Q4H:PRN n/v 
+4. Maalox/Diphenhydramine/Lidocaine 15 mL PO QID:PRN pain 
+5. Nystatin Oral Suspension 5 mL PO QID 
+6. OLANZapine (Disintegrating Tablet) 5 mg PO BID n/v 
+7. Prochlorperazine 10 mg PO Q6H n/v 
+8. Pantoprazole 20 mg PO Q24H 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+chemotherapy related emesis
+Supraglottic laryngeal squamous cell CA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted with nausea and vomiting, likely related to 
+your chemotherapy. You were given medications for nausea with 
+improvement. You should take your nausea medications (olanzapine 
+and prochlorperazine) standing until ___. Thereafter, you can 
+resume taking them only as needed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-20 | hadm_id=20700825
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___.
+ 
+Chief Complaint:
+intractable nausea/vomiting
+ 
+ 
+Major Surgical or Invasive Procedure:
+___: PEG-tube 
+
+ 
+History of Present Illness:
+HPI: Mr ___ is a ___ yo male with laryngeal cancer treating 
+with chemo-radiation combo therapy C1D7, Cisplatinum last ___ 
+presenting to ___ clinic this AM with intractable nausea, 
+vomiting, lethargy and inability to tolerate PO since ___. 
+Orthostatic in the clinic though not frankly hypotensive. 
+Vomited twice in clinic.
+
+He has been taking compazine 10mg alternating with ativan 1mg 
+without relief at home. He last took ativan at 3am and compazine 
+at 6am. He continues to feel nauseated and vomiting, mostly 
+clear phlegm. Feels he is vomiting so much he is unsure if he is 
+even keeping medications down. No hematemesis He is unable to 
+hold down fluids. He did try the zofran again last night but it 
+gave him another headache, needing tylenol to relieve. He feels 
+light headed and dizzy since yesterday as well. He states his 
+urine is also darker than normal. No dysuria. No diarrhea.
+
+In clinic, vital signs: Lying 133/78 P 71 Afebrile 97.7 100% 
+roomair
+                        Sitting 122/90 P 80
+                        Standing ___ P ___
+IV NS 1 liter over ___ hrs started at 8:45am.
+Medicated with ativan 1mg sl at 9:30am.
+Nl chem7, CBC (if anything, appear a little hemoconcentrated 
+compared to prior). 
+Admitted to ___ for nausea control.
+
+On the floor patient continues to complain of feeling 
+lightheaded and nauseous. Otherwise, no systemic complaints.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: noticed hoarseness
+- Seen by Dr. ___ in ___ ENT in ___. An 
+endoscopy showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the 
+supraglottic area.  There was also involvement of the epiglottis 
+and the patient underwent further staging scan including a CT 
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no
+regional lymph nodes, but there was also some pre-epiglottic
+extension and also uptake in the sixth rib and L4 of uncertain
+significance
+- ___: C1D1 Cisplatin with concurrent radiation
+ 
+PAST MEDICAL HISTORY: Hemolytic anemia, prior knee scope.
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer. 
+ 
+Physical Exam:
+ADMISSION EXAM: 
+============
+Vitals: 98.3 115/62 73 18 98%  
+GENERAL: NAD, appears older than stated age
+HEENT: pupils equal, dry MM  
+CARDIAC: RRR, nl S1/S2, no m/r/g  
+LUNG: CTAB
+ABDOMEN: +BS, NTND, no masses
+EXTREMITIES: WWP, no edema 
+NEURO:  AOx3, ___ strenght in upper and lower extremeties
+SKIN: diffuse frecking/hypopigmentation  
+ 
+DISCHARGE EXAM: 
+===============
+Vitals: 98.2 130/64 61 20 97% RA
+GENERAL: NAD, appears older than stated age
+HEENT: pupils equal, dry MM  
+CARDIAC: RRR, nl S1/S2, no m/r/g  
+LUNG: CTAB
+ABDOMEN: +BS, ND, no masses, PEG-tube in place, with dressing 
+c/d/i, mild tenderness around insertion site, but no rebound, no 
+peritoneal signs
+EXTREMITIES: WWP, no edema 
+NEURO:  AOx3, ___ strenght in upper and lower extremeties
+SKIN: diffuse freckling/hypopigmentation
+ 
+Pertinent Results:
+ADMISSION LABS: 
+============
+___ 08:45AM   GLUCOSE-103* UREA N-22* CREAT-0.9 SODIUM-134 
+POTASSIUM-4.7 CHLORIDE-96 TOTAL CO2-29 ANION GAP-14
+___ 08:45AM   WBC-7.8# RBC-4.91 HGB-15.4 HCT-44.6 MCV-91 
+MCH-31.3 MCHC-34.6 RDW-12.4
+___ 08:45AM   NEUTS-80.1* LYMPHS-11.8* MONOS-6.9 EOS-1.0 
+BASOS-0.1
+___ 08:45AM   PLT COUNT-191
+
+DISCHARGE LABS: 
+===============
+___ 06:10AM BLOOD WBC-4.6 RBC-4.31* Hgb-13.8* Hct-38.8* 
+MCV-90 MCH-32.0 MCHC-35.5* RDW-12.6 Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD ___ PTT-53.0* ___
+___ 06:40AM BLOOD Glucose-109* UreaN-21* Creat-0.8 Na-135 
+K-4.1 Cl-97 HCO3-31 AnGap-11
+___ 06:40AM BLOOD Calcium-9.2 Phos-4.7* Mg-1.9
+ 
+Brief Hospital Course:
+Mr ___ is a ___ yo male with laryngeal cancer treating with 
+chemo-radiation combo therapy, Cisplatinum last ___ 
+presenting to ___ clinic with intractable nausea, vomiting, 
+lethargy and inability to tolerate PO since ___. 
+
+ACUTE ISSUES: 
+============= 
+# N/V: admitted with 24 hours of intractible nausea despite 
+compazine and ativan at home (gets terrible headaches with 
+zofran). Found to orthostatic in ___ clinic, and so admitted 
+for nausea controll and rehydration. Likely chemo/radiation 
+related, no other symptoms concerning for obstruction or 
+infection. Aggresively fluid resusscitated (6L + day of 
+admission), and placed on scheduled compazine, ativan, 
+olanzipine and dexamethasone, with eventual improvement in 
+nausea and abilitity to take PO.  
+
+# Laryngeal Cancer: admitted on C1D7 of Cisplatnum, ___ 
+radiation treatments. Recieved radiation ___. Evaluated by S&S, 
+as he was scheduled to as an outpatient, and while he passed 
+bedside swallow, it was noted he had lost 10lbs since initiating 
+chemotherapy, and so outpatient providers felt ___ PEG-tube needed 
+to be placed. PEG-tube placed ___, and tube feeds were started 
+___, advanced to goal on ___, tolerated well. 
+
+# Pancytopenia: noted only after adequate hydration; likely 
+related to chemotherapy. Stable for duration of hospitalization. 
+
+
+CHRONIC ISSUES: 
+===============
+# GER: continued home ranitidine and pantoprazole
+
+TRANSITIONAL ISSUES: 
+====================
+# Continue tube feeds at home for duration of chemotherapy
+# CODE: FULL CODE
+# EMERGENCY CONTACT: ___ (WIFE) Phone: ___ 
+# Patient was treated with Dexamethasone in house for nausea 
+though discontinued once resolved, he may require a prolonged 
+course of Dexamethasone after next Cisplatinum dosing if nausea 
+not controlled with Ativan/Zyprexa/Compazine. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Ranitidine 150 mg PO DAILY 
+2. Pantoprazole 20 mg PO Q24H 
+3. Lorazepam 0.5 mg PO Q4H:PRN nausea/anxiety 
+4. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+
+ 
+Discharge Medications:
+1. Pantoprazole 20 mg PO Q24H 
+2. Ranitidine 150 mg PO DAILY 
+3. Lorazepam 0.5 mg PO Q4H:PRN nausea/anxiety 
+4. Prochlorperazine 10 mg PO Q4HOURS:PRN Nausea 
+5. OLANZapine (Disintegrating Tablet) 5 mg PO BID:PRN nausea 
+RX *olanzapine 5 mg 1 tablet,disintegrating(s) by mouth twice a 
+day Disp #*30 Tablet Refills:*0
+6. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q4hours Disp #*30 Tablet 
+Refills:*0
+7. Tube Feeds
+Tubefeeding: Jevity1.5 Full strength; 
+Starting rate at Goal rate: 90 ml/hr
+Cycle?: Yes, 16 hours total cycle time
+Residual Check: q4h Hold feeding for residual >= : 200 ml
+Flush w/ 200 ml water q4h
+Duration: 8 weeks
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# PRIMARY: nausea and vomiting related to chemo/radiation
+# SECONDARY: laryngeal cancer, weight loss
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___, 
+    
+It was a pleasure taking care of you at the ___ 
+___. You were admitted for intractible 
+nausea and vomiting with dehydration. You were given IV fluid 
+and additional anti-nausea medications with improvement. You 
+were also noted to have a 10-lb weight loss in the past week. 
+Your outpatient oncologist felt you needed to have a feeding 
+tube placed for the remainder of your chemotherapy, and so you 
+had a PEG-tube placed. Through your PEG-tube you can recieve 
+tube feeds. Your nausea was improved and you were tolerating by 
+mouth food and tube feeds without issue prior to discharge.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-24 | hadm_id=22577062
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___
+ 
+Chief Complaint:
+vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ PMH which includes supraglottic 
+larygneal squamous cell carcinoma dx ___, undergoing 
+chemotherapy and radiation s/p G-tube placement on ___ for 
+nutritional support. He presents to the hospital again with 
+recurrent N/V following his most recent discharge on ___.   He 
+had previously been on a cisplatin chemotherapy regimen which 
+was changed to ___ over the past month with the hope 
+that it would improve his n/v so that he would not need to be 
+admitted.  Following his most recent admission he was offered 
+daily visits at ___ clinic to review symptoms and to 
+recieve IVF if needed.  Pt and wife report he usually has N/V 
+about five days after chemotherapy.  Following his most recent 
+chemo on ___ At home he has been suffering from multiple 
+episodes of N/V starting the night of ___.  He would vomit up 
+clear fluid each time he tried to take his feeds.  He called 
+into clinic and was recommended to go to the ED.  Denies 
+diarrhea, melena, hematochezia. No F/C. Has had chronic cough 
+since cancer diagnosis, denies recent change. Denies CP, SOB, 
+DOE with walking. No dysuria.  
+ 
+In the ED his initial vitals were 98.5 81 135/71 16 100% RA.  
+The ED providers had encouraged him to consider the possibility 
+of returning home with ___ and IVF.  However, the patient stated 
+that he did not feel safe at home.  He was given Ativan and 
+Compazine to control his nausea and was admitted to OMED. 
+        
+
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies blurry vision, diplopia, loss of vision, 
+photophobia. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies chest pain or tightness, palpitations, lower 
+extremity edema. Denies cough, shortness of breath, or wheezes. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+melena, hematemesis, hematochezia. Denies dysuria, stool or 
+urine incontinence. Denies arthralgias or myalgias. Denies 
+rashes or skin breakdown. No numbness/tingling in extremities. 
+All other systems negative.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: noticed hoarseness  
+- Seen by Dr. ___ in ___ ENT in ___. Endoscopy  
+
+showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the  
+supraglottic area. There was also involvement of the epiglottis  
+
+and the patient underwent further staging scan including a CT  
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no  
+regional lymph nodes, but there was also some pre-epiglottic  
+extension and also uptake in the sixth rib and L4 of uncertain  
+significance  
+- ___: C1D1 Cisplatin with concurrent radiation  
+
+PAST MEDICAL HISTORY:  
+Hemolytic anemia ___ s/p rituximab 
+Elevated PTT with positive inhibitor screen and +LA 
+
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer.  
+ 
+Physical Exam:
+=======================
+ADMISSION EXAM
+=======================
+Vitals: T:99 BP:120/63 HR:99 RR:16 02 sat:99%RA  
+GENERAL: NAD, comfortable in chair 
+HEENT: Sclera anicteric, erythema along anterior neck from XRT, 
+dry MM, exudate near uvuela 
+CARDIAC: RRR, no m,r,g  
+LUNG: CTABL  
+ABDOMEN: soft, NT, ND BS+, PEG in place erythema around port 
+site with purulent drainage  
+EXTREMITIES: trace ___ edema, no clubbing 
+PULSES: 2+ radial/DP pulses 
+NEURO: AAOx3, normal gait, no focal deficits  
+
+=======================
+DISCHARGE EXAM
+=======================
+Vitals: 99.5 115/62 85 20 100% RA
+GENERAL: NAD, comfortable
+HEENT: Sclera anicteric, erythema along anterior neck from XRT, 
+dry MM, significant exudates with bloody saliva along soft 
+palate 
+CARDIAC: RRR, no m,r,g  
+LUNG: CTAB  
+ABDOMEN: soft, NT, ND BS+, erythema surrounding g-tube has 
+improved. No discharge. 
+EXTREMITIES: trace ___ edema, no clubbing 
+PULSES: 2+ radial/DP pulses 
+NEURO: AAOx3, no focal deficits  
+ 
+Pertinent Results:
+=======================
+ADMISSION LABS
+=======================
+
+___ 09:55AM   WBC-2.1* RBC-3.25* HGB-10.8* HCT-32.1* 
+MCV-99* MCH-33.2* MCHC-33.7 RDW-16.8*
+___ 09:55AM   NEUTS-77.7* LYMPHS-13.1* MONOS-7.0 EOS-1.5 
+BASOS-0.7
+___ 08:40AM   ___ ___
+___ 09:55AM   GLUCOSE-87 UREA N-11 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.5 CHLORIDE-98 TOTAL CO2-34* ANION GAP-12
+___ 09:55AM   ALT(SGPT)-25 AST(SGOT)-23 ALK PHOS-84 TOT 
+BILI-1.0
+___ 09:55AM   LIPASE-11
+___ 09:55AM   ALBUMIN-3.7
+
+=======================
+DISCHARGE LABS
+=======================
+___ 07:15AM BLOOD WBC-2.9* RBC-3.03* Hgb-10.2* Hct-30.0* 
+MCV-99* MCH-33.8* MCHC-34.1 RDW-16.7* Plt ___
+___ 07:15AM BLOOD Glucose-107* UreaN-11 Creat-0.6 Na-135 
+K-4.4 Cl-96 HCO3-31 AnGap-12
+___ 07:15AM BLOOD Calcium-9.0 Phos-4.1 Mg-1.9
+
+=======================
+STUDIES
+=======================
+CXR
+There is a non-specific opacity overlying overlying the heart on 
+the lateral
+view. Short term followup CXR is recommended if suspicion for an 
+acute
+infection persists. 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ h/o laryngeal ca who unfortunately is 
+being admitted to the hospital with N/V and dehydration after a 
+recent administration of chemotherapy.  
+ 
+#. N/V- Patient's repeated presentations likely related to 
+chemotherapy induced nausea and vomiting which has persisted 
+despite a change in chemotherapy regiment o ___.  His 
+nausea and vomiting had largely resolved by the time he was 
+admitted to the oncology floor.  He was started with a regimen 
+of IV compazine/ativan with zyprexa.  Ativan and zyprexa were 
+the most effective agents.  The patient was transitioned to a PO 
+regimen which was given through the G tube.  He was unable to 
+tolerate PO because of throat pain but his tube feeds were 
+successfully restarted.  However, he had residual nausea with 
+around 1 emesis daily over the next two days.  His TF rate was 
+decreased from 120cc/h to 105cc/h and this issue resolved by 
+time of discharge even though he never had high residuals.  
+ 
+#. Mucositis - Patient had significantly increased throat pain 
+this admission with diffuse exudates across his soft palate down 
+into the throat.  This was likely triggered by his XRT.  
+However, the patient had previously been able to tolerate food 
+or medications PO but was unable to do so this admission because 
+of the pain.  He was treated with local therapy using magic 
+mouthwash, nystatin, and caphosol.  He was sometimes reluctant 
+to take these therapies because of the pain associated with 
+them.  He was given oxycodone and tyelnol through his G tube for 
+the pain.  The remainder of his PO medications were given 
+through the G tube due to throat pain.  
+ 
+#. Fever - The patient had a single temperature of 100.5.  Blood 
+cultures, UA, and CXR were unrevealing for a source of 
+infection.  The patient had a G tube cellulitis which appeared 
+to be responding to treatment.  His fever was attributed to the 
+above mucositis. 
+
+#. Fall - The patient experienced a mechanical fall while trying 
+to reach the bathroom.  He was on significant amounts of 
+oxycodone, zyprexa, and IV ativan at the time which were thought 
+to be the precipitant.  He had head strike without LOC and had 
+no neurologic defecits on exam some a CT head was not obtained.  
+       
+
+# G-tube site infection/cellulits- patient had been on 
+outpatient treatment with Amox/Clav.  He was continued with 
+Amp/Sulbactam upon arrival and transitioned back to Amox/Clav 
+when his vomiting had improved and he was able to tolerate 
+medications by NG tube. 
+ 
+#. Laryngeal ca- Regimen recently changed to ___.  
+Consider changing his antiemetic regimen following further 
+chemotherapy.  
+
+TRANSITIONAL ISSUES:
+-balance between oversedation and adequate nausea control 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OLANZapine (Disintegrating Tablet) 2.5 mg PO TID:PRN nausea 
+2. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+3. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+4. Nystatin Oral Suspension 5 mL PO QID 
+5. Pantoprazole 20 mg PO DAILY 
+6. OxycoDONE-Acetaminophen Elixir ___ mL PO Q6H:PRN pain 
+7. Prochlorperazine 10 mg PO Q6H 
+8. Ranitidine 150 mg PO DAILY 
+9. Amoxicillin-Clavulanate Susp. 500 mg PO Q12H 
+
+ 
+Discharge Medications:
+1. Amoxicillin-Clavulanate Susp. 500 mg PO Q12H 
+2. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+3. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+4. Nystatin Oral Suspension 5 mL PO QID 
+5. OLANZapine (Disintegrating Tablet) 2.5 mg PO TID:PRN nausea 
+6. Prochlorperazine 10 mg PO Q6H 
+7. OxycoDONE-Acetaminophen Elixir ___ mL PO Q6H:PRN pain 
+RX *oxycodone-acetaminophen [Roxicet] 5 mg-325 mg/5 mL ___ ml 
+by mouth or g-tube every six (6) hours Disp #*500 Milliliter 
+Refills:*0
+8. Pantoprazole 20 mg PO DAILY 
+9. Ranitidine 150 mg PO DAILY 
+10. Senna 8.6 mg PO BID constipation 
+hold for loose stools
+ 
+RX *sennosides [senna] 8.6 mg 1 capsule by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+11. Docusate Sodium (Liquid) 100 mg PO BID 
+hold for loose stools 
+RX *docusate sodium 100 mg 1 capsule by mouth twice a day Disp 
+#*60 Capsule Refills:*0
+12. Bisacodyl 10 mg PR HS:PRN constipation 
+hold for loose stool 
+RX *bisacodyl 10 mg 1 suppository(s) rectally at bedtime Disp 
+#*30 Suppository Refills:*0
+13. Caphosol 30 mL ORAL QID 
+RX *saliva substitution combo no.2 [Caphosol]   swish and spit 
+30ml four times a day Disp #*900 Milliliter Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Nausea and vomiting, induced by chemotherapy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you here at ___. You were 
+admitted with vomiting that was likely caused by chemotherapy.  
+You were treated with nausea medications to good effect.  We 
+decreased the rate of your tube feeds at home to help reduce 
+your nausea. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-22 | hadm_id=27427768
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ ADMIT NOTE
+time pt seen & examined: 6pm
+
+cc: N/V
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ man whose PMH includes supraglottic larygneal squamous cell 
+carcinoma dx ___, undergoing chemotherapy (cisplatin, last 
+dose ___, reduced due to prior refractory N/V) and radiation 
+(last dose today), s/p G-tube placement on ___ for nutritional 
+support. Here again with N/V. 
+
+He was discharged from ___ on ___ after admission for 
+refractory N/V. He was treated with IVF hydration and IV 
+antiemetics with improvement, tolerating POs prior to discharge. 
+He was instructed to continue PO antimetics standing for two 
+more days then resume PRN dosing. He did well and was tolerating 
+po for next few days, tolerating tube feeds per his usual 
+schedule (2pm-5am), and he went to work for a few hours on ___. 
+He presented to ___ clinic for scheduled IVF on ___. On the 
+evening of ___ he had two syncopal episodes at home, for which 
+he presented to the ED. He was hydrated with 2L IVF and was 
+monitored overnight. This morning he was discharged from the ED 
+directly to his scheduled XRT, where he had more N/V. He was 
+therefore referred to the ED for mgmt, where vitals were: Temp: 
+100.6 HR: 82 BP: 128/62 Resp: 18 O2Sat: 98%. He was given 
+another 3L IVF, antiemetics, and is now admitted to Medicine for 
+further mgmt (OMED capped). 
+
+Pt and wife report he usually has N/V about five days after 
+chemotherapy, and per his oncology team, this is typical for 
+cisplatin. He also has had recurrent headaches on top/front of 
+his head since starting chemotherapy about one month ago, not 
+always associated with N/V. Denies blurred vision or focal 
+weakness. Some relief with Tylenol ___. Has developed some 
+dysphagia last few days but denies choking or odynophagia. 
+Denies abdominal pain other than mild soreness to left of G-tube 
+site, which has been treated with keflex for cellulitis (last 
+dose yesterday of 10-days course). Still notes purulent material 
+around tube. Denies diarrhea, melena, hematochezia. No F/C. Has 
+had chronic cough since cancer diagnosis, denies recent change. 
+Denies CP, SOB, DOE with walking. No dysuria. Currently reports 
+mild "indigestion" and developed N/V of bilious material during 
+interview. Feels better after episode ended. Still with 
+headache. ROS otherwise noncontributory. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: noticed hoarseness
+- Seen by Dr. ___ in ___ ENT in ___. Endoscopy 
+showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the 
+supraglottic area.  There was also involvement of the epiglottis 
+and the patient underwent further staging scan including a CT 
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no
+regional lymph nodes, but there was also some pre-epiglottic
+extension and also uptake in the sixth rib and L4 of uncertain
+significance
+- ___: C1D1 Cisplatin with concurrent radiation
+ 
+PAST MEDICAL HISTORY: 
+Hemolytic anemia ___
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer. 
+ 
+Physical Exam:
+================
+ADMISSION EXAM
+================
+afeb 120/65 71 18 99% RA
+GEN: alert, well-appearing
+HEENT: dry MM without thrush or mucosal lesions; generalized 
+facial & neck erythema with hyperpigmentation, mild superficial 
+peeling over neck; neck supple
+LUNGS: CTA
+CV: RRR s1s2 
+ABD: ND +BS soft NT, G-tube site with mild surrounding erythema 
+and purulent material
+EXT: no ___ edema, feet warm, 2+ DP pulses
+NEURO: A&O x3, answers questions & follows commands, motor ___ 
+all extremities
+GU: no Foley
+access: PIV
+
+================
+DISCHARGE EXAM
+================
+Vitals: T:98.9 BP:10110s-120s/70s-80s HR:80s-90s RR:16 02 
+sat:97%RA   
+GENERAL: NAD, sitting comfortably in bed
+CARDIAC: RRR, no m,r,g   
+LUNG: CTABL
+ABDOMEN: PEG tube in place, mild erythema near tube site, no 
+purulent drainage, BS+, NT, ND 
+EXTREMITIES: no extremity edema noted  
+PULSES: 2+ radial b/l  
+NEURO: no focal deficits   
+SKIN: mild erythema around PEG tube, no purulent drainage not 
+concerning for infection at this time
+ 
+Pertinent Results:
+================
+ADMISSION LABS
+================
+
+___ 11:14AM   WBC-3.3* RBC-3.89* HGB-12.3* HCT-35.6* MCV-91 
+MCH-31.6 MCHC-34.6 RDW-13.0
+___ 11:14AM   PLT COUNT-160
+___ 11:14AM   NEUTS-70.9* LYMPHS-14.9* MONOS-12.2* EOS-1.6 
+BASOS-0.5
+___ 11:14AM   GLUCOSE-95 UREA N-14 CREAT-0.7 SODIUM-137 
+POTASSIUM-4.7 CHLORIDE-99 TOTAL CO2-31 ANION GAP-12
+___ 11:54AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+
+================
+STUDIES
+================
+CXR PA & LAT: (reviewed)
+FINDINGS:  PA and lateral views of the chest.  Lungs are clear 
+without focal consolidation or effusion.  The cardiomediastinal 
+silhouette is normal. No acute osseous abnormality identified.  
+No free air below the diaphragm. Surgical clips and a rounded 
+hyperdense structure project over the anterior portion of the 
+abdomen.   
+IMPRESSION:  No acute cardiopulmonary process 
+
+___ CT HEAD: No acute intracranial process or evidence of 
+metastatic disease.
+
+================
+DISCHARGE LABS
+================
+
+___ 07:20AM BLOOD WBC-3.1* RBC-3.39* Hgb-10.8* Hct-31.2* 
+MCV-92 MCH-31.8 MCHC-34.6 RDW-13.3 Plt ___
+___ 07:20AM BLOOD Glucose-86 UreaN-16 Creat-0.7 Na-135 
+K-4.3 Cl-98 HCO3-32 AnGap-9
+___ 07:20AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.___SSESSMENT AND PLAN:  A ___ man with supraglottic 
+laryngeal squamous cell cancer, on chemotherapy, status post 
+G-tube placement, presenting with nausea and vomiting.
+
+1.  Nausea and Vomiting:  This is most likely a side effect of
+his chemotherapy regimen with a 5-day delay being typical of
+cisplatin.  He had normal LFTs on ___, so this is
+unlikely be related to a biliary or hepatic process.  He had a 
+CT
+of the head that was not concerning for any acute process that
+would be responsible for neurogenic nausea and vomiting.  His
+symptoms were controlled with Compazine, Ativan and Zyprexa as
+well as promotility agent such as Reglan.  He was able to resume
+a regular diet, and tolerated his tube feeds without difficulty
+with the above antiemetic regimen.  His chemotherapy regimen was
+altered to avoid cisplatin to mitigate the side effects in the
+future.
+
+2.  Laryngeal cancer:  As above, the patient presents with
+recurrent nausea and vomiting likely induced by cisplatin
+chemotherapy.  We are in touch with his outpatient oncologist,
+and we decided to switch his chemotherapy regimen to carboplatin
+and Taxol, which the patient should be able to tolerate with 
+less
+side effects.  He received his first dose of this medication
+while inpatient and did not have any nausea or vomiting 
+following
+his dose.
+
+3.  Nutrition:  The patient has a PEG tube in place.  Nutrition
+was consulted and made recommendations regarding his tube 
+feeding
+regimen, which he was able to tolerate without the need of any
+additional antiemetics.  His PEG tube site did not appear to 
+have any surrounding cellulitis. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+2. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+3. Ranitidine 150 mg PO DAILY 
+4. Nystatin Oral Suspension 5 mL PO QID 
+5. Pantoprazole 20 mg PO DAILY 
+6. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+
+ 
+Discharge Medications:
+1. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+2. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+3. Nystatin Oral Suspension 5 mL PO QID 
+4. Pantoprazole 20 mg PO DAILY 
+5. Ranitidine 150 mg PO DAILY 
+6. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+7. OLANZapine 5 mg PO BID:PRN nausea 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Nausea and vomiting - induced by chemotherapy
+Laryngeal cancer - received chemotherapy while admitted
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ with severe nausea and vomiting 
+after chemotherapy.  Your chemotherapy regimen was changed so 
+that it would be less likely to cause these side effects.  Your 
+nausea and vomiting had resolved at the time of discharge.  
+However, please return if these symptoms return and are severe 
+at home. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-25 | hadm_id=28022830
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: OTOLARYNGOLOGY
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___.
+ 
+Chief Complaint:
+mid-lower lip squamous cell carcinoma
+ 
+Major Surgical or Invasive Procedure:
+excision of mid lower lip SCC and Abbe flap reconstruction
+
+ 
+History of Present Illness:
+___ year-old male with ulceration of the lower lip that was noted 
+at a clinic visit with Dr. ___ on ___. It has 
+gradually increased in size until becoming an open wound, 
+refractory to antiretroviral medications for suspected HSV 
+infection. He now presents for surgical removal of lower lip 
+lesion.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+- ___: noticed hoarseness  
+- Seen by Dr. ___ in ___ ENT in ___. Endoscopy  
+
+showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the  
+supraglottic area. There was also involvement of the epiglottis  
+
+and the patient underwent further staging scan including a CT  
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no  
+regional lymph nodes, but there was also some pre-epiglottic  
+extension and also uptake in the sixth rib and L4 of uncertain  
+significance  
+- ___: C1D1 Cisplatin with concurrent radiation  
+
+PAST MEDICAL HISTORY:  
+Hemolytic anemia ___ s/p rituximab 
+Elevated PTT with positive inhibitor screen and +LA 
+
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer.  
+ 
+Physical Exam:
+Well-appearing, in no acute distress
+Abbe flap from upper lip to lower lip intact
+Incisions c/d/i
+No respiratory distress, no increased work of breathing or 
+accessory muscle use
+ 
+Brief Hospital Course:
+Patient had mid lower lip lesion excision - please see 
+separately dictated op note for details of the procedure. 
+
+Neuro: Patient was transitioned from IV to oral pain 
+medications. Pain was well-controlled and patient was discharged 
+home on liquid oxycodone.
+
+CV: AVSS throughout admission
+
+Resp: Stable, O2 within normal limits on room air
+
+GI: pantoprazole was given during admission. Nutrition was 
+consulted and evaluated the patient for protein and calorie 
+requirements. Speech and swallow was also consulted and 
+recommended the patient for a diet of thin liquids and pureed 
+soft diet, which the patient was instructed to continue at 
+discharge. Patinet had >700 oral intake per straw and syringe.
+
+GU: Patinet had Foley placed in PACU for urinary retention. This 
+was removed on POD1 and the patient voided independently without 
+issue.
+
+Endo: No issues
+
+ID: The patient received perioperative antibiotics as well as 
+Unasyn as an inpatient. This was converted to liquid Augmentin 
+at discharge, and the patient was discharged on a 10-day 
+antibiotics course.
+
+ 
+Medications on Admission:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN pain 
+2. Pantoprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen (Liquid) 650 mg PO Q6H:PRN pain 
+2. OxycoDONE Liquid 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg/5 mL 5 ml by mouth every 4 hours Refills:*0
+3. Pantoprazole 20 mg PO DAILY 
+4. Augmentin
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+mid lower lip squamous cell cancer
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Eat pureed solids and thin liquids, use ensure and protein 
+packets, and supplement for calorie/protein maximization as 
+possible.
+Augmentin liquid x10days
+oxycodone liquid as needed for breakthrough pain.
+Return for clinic follow-up with your surgeon as planned.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11945540-DS-23 | hadm_id=28574204
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ondansetron
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ Mr. ___ is a ___ w/ PMH which includes supraglottic 
+larygneal squamous cell carcinoma dx ___, undergoing 
+chemotherapy and radiation s/p G-tube placement on ___ for 
+nutritional support. Presents to the hospital again with N/V. He 
+was recently discharged from the hospital over the weekend after 
+receiving a ___/ taxol regimen in the hopes this would improve 
+his n/v. He was previously on a cisplatin regimen. Pt and wife 
+report he usually has N/V about five days after chemotherapy. 
+Unfortuately it seems this new regimen has not relieved this 
+unpleasant side effect. At home he has been suffering from 
+multiple episodes of N/V and is very dehydrated. Denies 
+diarrhea, melena, hematochezia. No F/C. Has had chronic cough 
+since cancer diagnosis, denies recent change. Denies CP, SOB, 
+DOE with walking. No dysuria.  
+ 
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies blurry vision, diplopia, loss of vision, 
+photophobia. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies chest pain or tightness, palpitations, lower 
+extremity edema. Denies cough, shortness of breath, or wheezes. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+melena, hematemesis, hematochezia. Denies dysuria, stool or 
+urine incontinence. Denies arthralgias or myalgias. Denies 
+rashes or skin breakdown. No numbness/tingling in extremities. 
+All other systems negative.  
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___: noticed hoarseness
+- Seen by Dr. ___ in ___ ENT in ___. Endoscopy 
+showed a large mass in the supraglottic larynx.  
+- ___: Biopsy showed squamous cell carcinoma in the 
+supraglottic area.  There was also involvement of the epiglottis 
+
+and the patient underwent further staging scan including a CT 
+and a PET scan.  
+- ___: PET scan confirmed the FDG-avid lesions, no
+regional lymph nodes, but there was also some pre-epiglottic
+extension and also uptake in the sixth rib and L4 of uncertain
+significance
+- ___: C1D1 Cisplatin with concurrent radiation
+  
+PAST MEDICAL HISTORY:  
+Hemolytic anemia ___
+ 
+Social History:
+___
+Family History:
+Sister had breast and pancreatic cancer. 
+ 
+Physical Exam:
+===========================
+ADMISSION EXAM
+===========================
+Vitals: T:97.8 BP:110/60 HR:76 RR:16 02 sat:98%RA  
+GENERAL: NAD, comfortable in chair  
+CARDIAC:  RRR, no m,r,g
+LUNG:  CTABL
+ABDOMEN: soft, NT, ND BS+, PEG in place erythema around port 
+site but no evidence of infection, no purulent drainage 
+EXTREMITIES: no ___ edema 
+PULSES: 2+ radial pulses
+NEURO: normal gait, no focal deficits  
+
+===========================
+DISCHARGE EXAM
+===========================
+Vitals: 98.3 110/62 72 18 100ra 
+GENERAL: NAD 
+HEENT: Sclera anicteric, no mucosal bleeding in OP.  Anterior 
+neck erythematous with scaling. Voice hoarse.  
+CARDIAC:  RRR, no m,r,g
+LUNG:  CTABL
+ABDOMEN: soft, NT, ND BS+, PEG in place w/ mild erythema under 
+plastic on port site but no evidence of infection, no purulent 
+drainage 
+EXTREMITIES: no ___ edema 
+PULSES: 2+ radial pulses
+ 
+Pertinent Results:
+===========================
+ADMISSION LABS
+===========================
+
+___ 07:40PM   WBC-3.5* RBC-3.13* HGB-10.3* HCT-29.5* MCV-94 
+MCH-32.9* MCHC-35.0 RDW-14.3
+___ 07:40PM   NEUTS-84.6* LYMPHS-9.0* MONOS-5.6 EOS-0.7 
+BASOS-0.1
+___ 07:40PM   ___ PTT-59.4* ___
+___ 07:40PM   ALBUMIN-3.8 CALCIUM-9.2 PHOSPHATE-4.4 
+MAGNESIUM-2.4
+___ 07:40PM   ALT(SGPT)-19 AST(SGOT)-23 ALK PHOS-66 TOT 
+BILI-0.8
+___ 07:40PM   GLUCOSE-93 UREA N-16 CREAT-0.7 SODIUM-134 
+POTASSIUM-4.6 CHLORIDE-96 TOTAL CO2-32 ANION GAP-11
+
+===========================
+DISCHARGE LABS
+===========================
+___ 07:30AM BLOOD WBC-2.6* RBC-2.92* Hgb-9.4* Hct-27.7* 
+MCV-95 MCH-32.2* MCHC-33.9 RDW-15.0 Plt ___
+___ 07:30AM BLOOD Glucose-115* UreaN-14 Creat-0.5 Na-137 
+K-4.6 Cl-98 HCO3-32 AnGap-12
+___ 07:30AM BLOOD Calcium-9.2 Phos-4.0 Mg-1.9
+
+===========================
+COAGS
+===========================
+___ 07:40PM BLOOD ___ PTT-59.4* ___
+___ 07:25AM BLOOD ___ PTT-65.5* ___
+___ 07:15AM BLOOD ___ PTT-61.0* ___
+___ 07:30AM BLOOD ___ PTT-60.5* ___
+___ 07:15AM BLOOD ___ 07:15AM BLOOD Inh Scr-PND
+ 
+Brief Hospital Course:
+A ___ man with a history of laryngeal cancer readmitted
+to the hospital with nausea and vomiting and dehydration
+following recent administration of chemotherapy.
+
+1.  Nausea and vomiting:  Most likely chemo related, although
+less severe than with his previous regimen of cisplatin.  Given
+that he only presented with one day of vomiting four to five
+times, his outpatient providers decided to continue his current
+regimen of carboplatin and Taxol.  After admission to the
+hospital, the patient's nausea and vomiting were well controlled
+with p.o. antiemetics and he did not have any further episodes 
+of
+nausea or vomiting.  His tube feeds were restarted and he was
+allowed to take clears p.o. and he tolerated this diet without
+any difficulty.
+
+2.  Laryngeal cancer:  The patient received his second dose of
+carboplatin and Taxol while he was admitted on ___. 
+He will require standing antiemetic regimen with taper as
+reproduced below:
+compazine q6hours standing starting day 2 after chemo
+dexamethasone 4mg PO BID starting Day 2 after chemo.
+stading zyprexa bid x 5 days then cont prn as below
+ativan ___ q4-6h prn nausea and standing before bed
+zyprexa 2.5 to ___ disintigrating prn nausea q8hr
+
+3.  Nutrition:  PEG tube was in place and his current home tube 
+feed
+regimen was continued per nutrition recommendations.
+
+4.  Elevated ___ and PTT:  This was initially attributed to
+subcutaneous heparin administration.  His heparin was decreased
+to b.i.d. and then discontinued.  However, his ___ and PTT
+remained prolonged and review of his medical records showed that
+they had been prolonged for as long as he had been tested in our
+hospital system.  A fibrinogen was checked to ensure that there
+was no consumptive process and was normal.  An inhibitor screen
+was sent, especially in consideration of his history of
+autoimmune hemolytic anemia, which was still pending at time of 
+discharge.
+
+TRANSITIONAL ISSUES:
+- followup inhibitor screen and coags
+- close outpatient f/u with orthostatics and hydration as needed
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+2. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+3. Nystatin Oral Suspension 5 mL PO QID 
+4. Pantoprazole 20 mg PO DAILY 
+5. Ranitidine 150 mg PO DAILY 
+6. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+7. OLANZapine 5 mg PO BID:PRN nausea 
+8. OxycoDONE-Acetaminophen Elixir ___ mL PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Dexamethasone 4 mg PO Q12H 
+RX *dexamethasone 4 mg 2 tablet(s) by mouth twice daily Disp 
+#*36 Tablet Refills:*0
+2. OLANZapine (Disintegrating Tablet) 2.5 mg PO TID:PRN nausea 
+RX *olanzapine 5 mg 0.5 - 1 tablet,disintegrating(s) by mouth 
+twice daily Disp #*60 Tablet Refills:*0
+3. Pantoprazole 20 mg PO DAILY 
+RX *pantoprazole 20 mg 1 tablet,delayed release (___) by 
+mouth daily Disp #*30 Tablet Refills:*0
+4. Home oral suction setup for laryngeal cancer
+5. Lorazepam 0.5-1 mg PO Q4H:PRN nausea, anxiety 
+6. Maalox/Diphenhydramine/Lidocaine 30 mL PO QIDACHS mucositis 
+7. Nystatin Oral Suspension 5 mL PO QID 
+8. OxycoDONE-Acetaminophen Elixir ___ mL PO Q6H:PRN pain 
+9. Prochlorperazine 10 mg PO Q6H 
+10. Ranitidine 150 mg PO DAILY 
+11. OLANZapine 10 mg PO DAILY Duration: 5 Days 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Nausea/vomiting, induced by chemotherapy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted with nausea and vomiting that was due to your 
+chemotherapy regimen.  You received your next dose of 
+chemotherapy and will be taking a very aggressive medication 
+regimen to help prevent nausea. 
+ 
+Followup Instructions:
+___

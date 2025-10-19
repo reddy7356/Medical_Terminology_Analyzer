@@ -1,0 +1,531 @@
+===== DISCHARGE NOTE =====
+note_id=11956565-DS-16 | hadm_id=21713423
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / garlic / simvastatin / 
+pravastatin / Zetia
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Difficulty Swallowing, Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ old woman with a history of atrial
+fibrillation on apixaban, HTN, depression, and dysphagia,
+presenting  after an episode of choking sensation.
+
+Last fall, the patient had an episode of choking on a cracker
+requiring the Heimlich maneuver. Since that time, she has been
+seen by multiple providers for choking sensation, dysphagia, and
+hoarseness. Her evaluation has included laryngoscopy which was
+unremarkable, a video swallow which showed trace penetration of
+thin liquids without aspiration but distal esophageal narrowing,
+and barium swallow showing esophageal dysmotility. 
+
+She decided to present for emergency evaluation today after an
+unprompted choking sensation during which she felt as if she
+could not speak. She also has been having increasing frequency 
+of
+dry heaving, which has been treated with ondansetron by her PCP.
+She has lost almost 20 lbs in the pst year. However, she reports
+that she is able to swallow food and has continued to eat 3 full
+meals a day.
+
+In the ED, initial vital signs were T:97.7 HR:74 BP:157/89 RR:18
+98% RA. Labs were notable for WBC 5.4, Hgb 15.6, Plt 160. K
+elevated due to hemolysis, 4.1 on recheck. CT neck showed no
+airway obstruction.
+
+Upon arrival to the floor, the patient endorses the history
+above. She is not currently having any choking sensation. She
+denies any chest pain, dyspnea, abdominal pain, nausea, or
+vomiting. 
+ 
+Past Medical History:
+HTN
+Atrial fibrillation
+Dysphagia
+Depression 
+ 
+Social History:
+___
+Family History:
+Mother with breast cancer and hypertension. Father and brother
+with CAD.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: T 97.9 BP 194/87 HR 83 RR 18 O2 sat 96   
+GENERAL: Alert and interactive. In no acute distress. Appears
+cachetic.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No palpable masses. No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2.3/6
+systolic murmur heard across the precordium.
+LUNGS: Bilateral midfields with decreased air entry. No wheezes,
+rhonchi or rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill less than 2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+DISCHARGE PHYSICAL EXAM
+VITALS: 24 HR Data (last updated ___ @ 1500)
+    Temp: 97.4 (Tm 98.1), BP: 150/82 (117-153/70-82), HR: 76 
+(75-80), RR: 18, O2 sat: 97% (95-97), O2 delivery: Ra, Wt: 84.66 
+lb/38.4 kg  
+GENERAL: Cachectic woman lying in bed in NAD. Hoarse and mildly 
+dysarthric.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM. +tongue fasciculations.
+NECK: No palpable masses. No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. ___ 
+systolic murmur heard across the precordium.
+LUNGS: Bilateral midfields with decreased air entry. No wheezes, 
+rhonchi or rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.
+SKIN: Warm. Cap refill less than 2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout upper and 
+lower extremities. Normal sensation to light touch. Gait is 
+normal. AOx3.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===========================
+___ 04:54PM BLOOD WBC-5.4 RBC-5.04 Hgb-15.6 Hct-46.4* 
+MCV-92 MCH-31.0 MCHC-33.6 RDW-12.9 RDWSD-43.5 Plt ___
+___ 04:54PM BLOOD Neuts-72.8* Lymphs-17.1* Monos-8.6 
+Eos-0.6* Baso-0.7 Im ___ AbsNeut-3.91 AbsLymp-0.92* 
+AbsMono-0.46 AbsEos-0.03* AbsBaso-0.04
+___ 04:54PM BLOOD ___ PTT-34.5 ___
+___ 04:54PM BLOOD Glucose-140* UreaN-21* Creat-0.9 Na-134* 
+K-7.0* Cl-99 HCO3-25 AnGap-10
+___ 04:54PM BLOOD ALT-32 AST-77* AlkPhos-48 TotBili-0.6
+___ 04:54PM BLOOD Albumin-4.2
+
+DISCHARGE LABS
+===========================
+___ 06:28AM BLOOD WBC-4.5 RBC-4.69 Hgb-14.4 Hct-44.4 MCV-95 
+MCH-30.7 MCHC-32.4 RDW-12.7 RDWSD-43.4 Plt ___
+___ 06:28AM BLOOD Glucose-104* UreaN-23* Creat-1.1 Na-140 
+K-4.6 Cl-100 HCO3-27 AnGap-13
+___ 06:28AM BLOOD Calcium-9.9 Phos-3.7 Mg-2.1
+___ 06:33AM BLOOD ALT-23 AST-26 LD(LDH)-221 AlkPhos-52 
+TotBili-0.7
+
+MICRO
+===========================
+___ 6:00 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING
+===========================
+___ CT NECK WITHOUT CONTRAST
+1. No airway obstruction. 
+2. Severe multilevel degenerative changes of the cervical spine. 
+
+
+___ CXR
+IMPRESSION:  
+No acute intrathoracic abnormalities identified.  No definite 
+intrathoracic lesion identified. 
+
+___ EMG
+IMPRESSION: 
+Abnormal study. Together with the clinical history and physical 
+exam, the 
+electrophysiologic data are consistent with a generalized 
+disorder of 
+motor neurons or their axons (as in amyotrophic lateral 
+sclerosis). 
+  
+Incidential note is made of likely median neuropathy at the 
+right wrist, as in carpal tunnel syndrome, which was not fully 
+explored given the focus of this study. 
+
+___ VIDEO SWALLOW STUDY
+1. No evidence of aspiration. 
+2. Penetration with thin and nectar thick liquids. 
+3. Increased pharyngeal residue compared to prior study dated ___. 
+
+___ MRI C SPINE
+1.  Study is moderately degraded by motion. 
+2. Cord compression at C2-3, C3-4, C4-5 and C6-7 without cord 
+signal 
+abnormality or abnormal enhancement within limits of study, as 
+described. 
+3.  Multilevel cervical spondylosis as described, most 
+pronounced at C4-5 and C5-6, where there is moderate to severe 
+vertebral canal narrowing. 
+4. C3-4, C4-5 and C6-7 moderate bilateral, and C5-6 severe right 
+and moderate left neural foraminal narrowing. 
+5. Please see concurrently obtained brain MRI for description of 
+cranial 
+structures. 
+6. Question minimal nonspecific C3 through C7 bilateral 
+paraspinal muscle 
+edema versus artifact. 
+
+___ MRI HEAD
+WET READ:  
+No acute infarct or intracranial hemorrhage. No abnormal 
+enhancement. 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+====================
+___ old woman with a history of atrial fibrillation on 
+apixaban, HTN, depression, and dysphagia, admitted for workup of 
+dysphagia, found to have new diagnosis of ALS.
+
+TRANSITIONAL ISSUES
+====================
+#ALS
+[] F/u new diagnosis of ALS: pt will call for appointment at 
+next ___ clinic on ___. Discharged with script 
+for riluzole 50mg BID.
+[] Consider Palliative Care, Social Work consults.
+[] F/u nutrition, weight. Encourage supplements per Nutrition 
+eval: scandishake BID, magic cup daily, smoothie daily.
+
+#CORD COMPRESSION
+[] MRI C-spine demonstrated cord compression at C2-3, C3-4, C4-5 
+and C6-7 without cord signal abnormality or abnormal 
+enhancement. Per Neurology, appears chronic and not unusual for 
+pt's age. No indication for urgent intervention, could consider 
+further outpatient workup if pt's chronic neck pain is thought 
+to be related to cervical cord compression.
+
+ACUTE ISSUES
+====================
+#Amyotrophic lateral sclerosis
+#Choking sensation
+#Dysarthria
+#Tongue fasciculations
+___ year old woman with a several month history of progressive 
+dysarthria, hoarseness, and to a lesser degree dysphagia. This 
+is superimposed on weight loss in the past 6 months, at least 
+partially stemming from significant anxiety surrounding food 
+intake after an episode in ___ where she choked and required
+the Heimlich maneuver. Prior outpatient workup included barium 
+swallow demonstrating esophageal dysmotility. During this 
+admission, SLP was consulted and video swallow study 
+demonstrated significantly worsened swallow from last evaluation 
+in ___. Neurology was consulted with concern for motor 
+neuron disease given bulbar weakness and tongue fasciculations. 
+Neuro exam notable for hypophonia, tongue fasciculations, 
+wasting of thenar eminence and intrinsic hand muscles, 
+fasciculations of the upper extremities, and diffuse 
+hyperreflexia. Exam and EMG/NCS study consistent with ALS. MRI 
+brain and C-spine without central pathology to explain her 
+symptoms. New diagnosis of ALS was discussed with patient and 
+family by Neuro attending Dr. ___. LFTs wnl, pt was 
+discharged with script for riluzole 50mg BID and plan for follow 
+up in ___ clinic.
+
+#Weakness
+#Severe malnutrition / weight loss
+Patient with cachectic appearance and marked 20 pound weight 
+loss over past year, despite reported adequate PO intake with 
+Ensure supplements. Likely ___ ALS as above, perhaps some 
+element of decreased intake secondary to fearing choking 
+sensation. Per SLP evaluation, safe to continue regular diet 
+with thin liquids with chin tuck pt instructed to select softer 
+foods from the menu and take small bites/sips. Nutrition 
+recommended supplements with scandishake BID, magic cup daily, 
+smoothie daily, multivitamin with minerals. CXR without evidence 
+of aspiration. The possibility of a feeding tube will be 
+considered further in follow-up with neurology. 
+
+CHRONIC ISSUES:
+===============
+# Afib
+Continued home apixaban 5 BID.
+
+# Depression
+Continued home sertraline.
+
+# Hypertension
+Continued home carvedilol, lisinopril.
+
+>30 minutes in patient care and coordination of discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 4 mg PO BID 
+2. Lisinopril 2.5 mg PO BID 
+3. Calcium Carbonate 750 mg PO BID 
+4. CARVedilol 6.25 mg PO BID 
+5. Apixaban 5 mg PO BID 
+6. Omeprazole 20 mg PO DAILY 
+7. Sertraline 12.5 mg PO DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  riluzole 50 mg oral BID 
+RX *riluzole 50 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  Apixaban 5 mg PO BID  
+3.  Calcium Carbonate 750 mg PO BID  
+4.  CARVedilol 6.25 mg PO BID  
+5.  Lisinopril 2.5 mg PO BID  
+6.  Omeprazole 20 mg PO DAILY  
+7.  Ondansetron ODT 4 mg PO BID  
+8.  Sertraline 12.5 mg PO DAILY  
+9.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Amyotrophic lateral sclerosis
+#Dysphagia
+#Dysarthria
+#Tongue fasciculations
+#Weakness
+#Severe malnutrition / weight loss
+#Hypertension
+#Atrial fibrillation
+#Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL? 
+- You were admitted to the hospital because you were losing 
+weight and experiencing choking and coughing sensations.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- A CXR did not show evidence of pneumonia or aspiration.
+- The Speech and Swallow team performed a bedside evaluation and 
+video swallow study. They felt that your swallow was worse than 
+during last evaluation in ___, and in order to prevent 
+aspiration of food into the trachea it is important to tuck your 
+chin while eating.
+- The Neurology team evaluated you and recommended testing 
+including an EMG and MRI. These tests showed that you have 
+Amyotrophic Lateral Sclerosis (ALS).
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- Please start taking a new medication, riluzole, for ALS. 
+Continue to take all your other medicines.
+- Please call the ___ Neurology department at ___ on 
+___ to make an ___ clinic appointment. The next ___ clinic 
+will be on ___. 
+- Please call your PCP ___ (___) to make a 
+follow up appointment in the next ___ weeks.
+- If you are having difficulty sleeping, you can try over the 
+counter melatonin supplements at bedtime.
+
+- Recommendations for safe swallowing:
+1. Continue Regular diet with thin liquids cautiously, selecting
+softer foods from the menu
+2. Medications: Whole with applesauce
+3. Aspiration Precautions:
+     -Use a chin tuck with all food/liquid
+     -Alternate bites/sips
+     -Swallow 2x per bite
+     -Small bites/sips
+
+- Nutrition recommendations:
+1. Oral supplements: scandishake BID, magic cup daily, smoothie
+daily.
+2. Daily multivitamin with minerals. 
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11956565-DS-17 | hadm_id=27106072
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / garlic / simvastatin / 
+pravastatin / Zetia
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+PEG tube placement on ___
+
+attach
+ 
+Pertinent Results:
+___ 05:55AM BLOOD WBC-4.3 RBC-3.93 Hgb-12.3 Hct-38.8 
+MCV-99* MCH-31.3 MCHC-31.7* RDW-12.8 RDWSD-47.3* Plt ___
+___ 05:55AM BLOOD Glucose-92 UreaN-23* Creat-0.8 Na-143 
+K-4.3 Cl-103 HCO3-31 AnGap-9*
+___ 05:55AM BLOOD ALT-14 AST-22 AlkPhos-43 TotBili-0.8
+___ 05:55AM BLOOD Calcium-9.5 Phos-3.4 Mg-2.0
+
+EGD:
+Normal mucosa in the whole esophagus and duodenum. Gastrostomy 
+placed in the stomach antrum. 
+
+Flush PEG tube daily and after each use with 30 mcc of water. Do 
+not place any gauze or other dressing underneath the PEG. Call 
+___ for any PEG related issues that come up after 
+discharge to be seen in PEG clinic. Take a high dose BID PPI 
+orally or via G tube fore 2 weeks, then ok to resume standard 
+daily dose. 
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: 
+___ old woman with recently diagnosed ALS, history of atrial
+fibrillation on apixaban, HTN, depression who presents with
+dysphagia s/p G tube placement, being monitored overnight for
+respiratory status given ALS.
+
+#Severe malnutrition
+#Dysphagia
+G tube placed for dysphagia and malnutrition on ___ with no 
+complications.
+Nutrition was consulted for severe malnutrition and recommended 
+Osmolite 1.5. We trialed ___ a can of this and she tolerated it 
+well. Her daughter learned how to administer this from the RN. 
+The Osmolite will be delivered to her home tomorrow for gravity 
+feeds. She should take thiamine for 5 more days though her risk 
+of refeeding syndrome is low due to only 5 lb weight loss over 
+the past 2 months and replete electrolytes. Pt can continue 
+taking food by mouth for now and will follow up for a repeat 
+outpatient swallow study. 
+
+#ALS
+-cont riluzole
+-close f/u with neurology
+
+#Afib
+-hold apixaban iso recently placed G tube. Can restart apixaban 
+72h after PEG placement ___ pm)
+-cont carvedilol
+
+#HTN
+-cont carvedilol
+
+>30 min spent on discharge planning including face to face time. 
+
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Calcium Carbonate 750 mg PO BID 
+3. CARVedilol 6.25 mg PO BID 
+4. Ondansetron ODT 4 mg PO BID 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. riluzole 50 mg oral BID 
+7. Multivitamins 1 TAB PO DAILY 
+8. estradiol 10 mcg vaginal 1X/WEEK 
+
+ 
+Discharge Medications:
+1.  Lansoprazole Oral Disintegrating Tab 30 mg PO BID acid 
+reflux Duration: 14 Days 
+RX *lansoprazole 30 mg 1 tablet(s) by mouth twice a day Disp 
+#*28 Tablet Refills:*0 
+2.  Thiamine 100 mg PO Q24H Duration: 5 Days 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once 
+daily Disp #*5 Tablet Refills:*0 
+3.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+4.  Calcium Carbonate 750 mg PO BID  
+5.  CARVedilol 6.25 mg PO BID  
+6.  estradiol 10 mcg vaginal 1X/WEEK  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Ondansetron ODT 4 mg PO BID  
+9.  riluzole 50 mg oral BID  
+10.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Severe Malnutrition
+Dysphagia
+ALS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for a PEG tube placement which was successful. 
+We initiated tube feedings with a supplement called Osmolite. 
+This will be delivered to your house in the next ___ hours. You 
+should also take an acid reflux medicine for the next two weeks 
+while you are adjusting to your PEG tube. 
+
+Flush PEG tube daily and after each use with 30 mcc of water. Do 
+not place any gauze or other dressing underneath the PEG. Call 
+___ for any PEG related issues that come up after 
+discharge to be seen in PEG clinic. 
+ 
+Followup Instructions:
+___

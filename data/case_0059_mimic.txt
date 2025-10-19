@@ -1,0 +1,734 @@
+===== DISCHARGE NOTE =====
+note_id=13035333-DS-9 | hadm_id=27867482
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ace Inhibitors / seasonal
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ hx of MI in ___, stable VTach in ___ s/p ICD placement on 
+Coumadin that he reports is for VTach presents with SOB and pain 
+over his ICD.  The patient reported that over for the past 
+couple of weeks, he has noted that he has been increasing SOB 
+with minimal exertion. He reports that his SOB came on while 
+moving a ping pong table and subsequently with moving machinery 
+at work. These activities never previously caused DOE. The 
+patient reported that last week he noted that he was having L 
+sided non exertional CP over his ICD that radiates with numbness 
+and tingling down his left arm. He denied any trauma to that 
+area. This is intermittent and does not always occur with 
+exertion. He denies ever having this sort of CP or DOE 
+previously. When he was having VT he reports that felt 
+different, but cannot elaborate further. He denies any fevers, 
+chills, recent travel, smoking, palpitations, ICD firing, PND, 
+orthopnea, ___ edema, early satiety. He has SLN at home, but 
+never tried taking it for this pain and repors that he has never 
+taken SLN before. He took 81mg aspirin the morning of admission. 
+ 
+
+In the ED intial vitals were: 98.0 63 161/79 18 100%.  Labs were 
+significant for WBC 6.4, H&H 14.6/44.8, Chem7 unremarkable. Trop 
+<0.01. INR 2.3. EKG showed a paced, v sensed vs possibly A 
+paced, Vpaced (difficult to discern if V pacing spikes). CXR no 
+acute intrathoracic process. Patient was given ASA. They wpoke 
+with patient's cardiologist who recommended admission to ___ 
+for rule out and possible cardiac cath. Vitals prior to transfer 
+were: 98.4 61 132/69 16 97% RA.  
+
+On the floor, he denies any symptoms and reports feeling well.
+ 
+ 
+Past Medical History:
+Hypertension  
+MI (___), treated at ___  
+Dyslipidemia  
+stable VTach in ___ s/p ICD placement and on Coumadin
+ 
+Social History:
+___
+Family History:
+Father died at ___ from MI, mother passed away from cancer, aunt 
+and uncle also died from CAD in their ___. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==================
+Vitals- T 98.0  BP 137/68  HR 61  R 20  99%RA  
+General- well-appearing, NAD  
+HEENT- PERRL, EOMI, MMM  
+Neck- unable to visual JVD sitting at 90degrees  
+Lungs- CTAB No wheezes, crackles, rhonchi  
+CV- Nl S1, S2, RRR, No MRG ICD palpated in L upper chest wall 
+without tenderness  
+Abdomen- Soft, NT/ND NABS  
+GU- no foley  
+Ext- warm, well-perfused  
+Neuro- moves all extremities, AOX3 
+
+DISCHARGE PHYSICAL EXAM:
+===================
+Vitals- T 98.2  BP 120/65  HR 60  R 16  100%RA  
+General- well-appearing, NAD, pleasant
+HEENT- PERRL, EOMI, MMM  
+Neck- soft, supple, no JVD  
+Lungs- clear to auscultation bilaterally
+CV- RRR, nl S1 S2, no murmurs, ICD palpable over L upper chest 
+wall very superficial under skin, unable to reproduce tenderness 
+
+Abdomen- +BS, soft, non-tender, non-distended  
+GU- no foley  
+Ext- warm, well-perfused  
+Neuro- moves all extremities, AOX3 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===========
+___ 04:00PM   WBC-6.4 RBC-5.53 HGB-14.6 HCT-44.8 MCV-81* 
+MCH-26.4* MCHC-32.6 RDW-14.1
+___ 04:00PM   NEUTS-71.6* ___ MONOS-7.6 EOS-1.2 
+BASOS-0.9
+___ 04:00PM   PLT SMR-LOW PLT COUNT-122*
+___ 04:00PM   GLUCOSE-76 UREA N-24* CREAT-1.0 SODIUM-138 
+POTASSIUM-5.1 CHLORIDE-101 TOTAL CO2-26 ANION GAP-16
+___ 04:00PM   cTropnT-<0.01
+___ 04:34PM   cTropnT-<0.01
+___ 04:30PM   ___ PTT-41.9* ___
+
+DISCHARGE LABS:
+===========
+___ 05:40AM BLOOD WBC-4.8 RBC-5.26 Hgb-13.9* Hct-42.7 
+MCV-81* MCH-26.4* MCHC-32.5 RDW-14.2 Plt ___
+___ 05:40AM BLOOD Plt ___
+___ 05:40AM BLOOD ___
+___ 05:40AM BLOOD Glucose-94 UreaN-23* Creat-0.9 Na-140 
+K-4.1 Cl-105 HCO3-27 AnGap-12
+___ 01:00AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 05:40AM BLOOD Calcium-9.3 Phos-3.2 Mg-2.2
+
+PERTINENT IMAGING:
+=============
+___  ImagingCHEST (PA & LAT)
+IMPRESSION:  No acute cardiopulmonary process.
+
+___  CardiovascularECG
+Atrial pacing with preserved A-V conduction. Right bundle-branch 
+block with left anterior fascicular block. No major change from 
+the previous tracing.
+ 
+ 
+Brief Hospital Course:
+___ hx of MI in ___, stable VTach in ___ s/p ICD placement on 
+Coumadin that he reports is for VTach presents with SOB and pain 
+over his ICD.  
+
+# DOE: Patient with significant cardiac history with MI 
+presenting with progressive dyspnea on exertion. ICD 
+interrogation was unremarkable.  On further investigation, 
+appears that DOE occurs only with strenuous activity such as 
+heavy lifting. As DOE is relieved with rest there is concern 
+this could be patient's anginal equivalent.  Patient was ruled 
+out for ACS with negative cardiac enzymes as well as EKG that 
+was unchanged from prior.  Patient appeared euvolemic on exam 
+and did not have any history of orthopnea or PND.  Patient was 
+continued on home dose aspirin, metoprolol and furosemide.  
+Patient is discharged to close follow-up with outpatient 
+cardiology for further workup of dyspnea.  
+
+# Left sided chest pain: Patient's ICD appears very superficial 
+under the skin, and patient describes his left sided chest pain 
+as directly overlying the ICD.  This is exacerbated by lifting 
+weights with his left arm as well as reaching his arm overhead, 
+which is a motion frequently required of the patient at work.  
+ACS was ruled out as above.  Patient remained chest free during 
+this admission without intervention.  No events observed on 
+telemetry.  He is advised to exercise caution when performing 
+strenuous activities.  
+
+# VT s/p ICD Placement: Continued on metoprolol, furosemide, 
+digoxin and warfarin.  
+
+# HTN:  Well-controlled during this admission. Continued on 
+metoprolol and furosemide.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO DAILY 
+2. Metoprolol Tartrate 50 mg PO QAM 
+3. Metoprolol Tartrate 25 mg PO QPM 
+4. Warfarin 2.5 mg PO DAILY16 
+5. Digoxin 0.125 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Digoxin 0.125 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Metoprolol Tartrate 50 mg PO QAM 
+4. Metoprolol Tartrate 25 mg PO QPM 
+5. Warfarin 2.5 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+primary diagnosis: chest pain
+secondary diagnosis: coronary artery disease, hypertension, 
+hyperlipidemia, history of ventricular tachycardia s/p ICD 
+placement
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure caring for you while you were admitted to 
+___. You were admitted because you were having chest pain. 
+Your heart was monitored overnight, and your electrocardiogram, 
+and blood tests were reassuring. You did not experience any 
+further chest pain or shortness of breath since admission. 
+
+Please take your medications as prescribed and follow up with 
+your doctors as ___. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13035333-DS-8 | hadm_id=28489921
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+A.C.E Inhibitors
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+- Cardiac catheterization
+- Dual-chamber ICD placement
+
+ 
+History of Present Illness:
+___ year old male with history of MI managed medically in ___ as 
+had non-intervenable lesion, HTN, dyslipedemia presents with 
+hemodynamically stable VT. Patient was outside chipping ice off 
+the sidewalk at 11 am this morning initially asymptomatic 
+suddently felt his heart racing, shortness of breath, and 
+lightheadedness and subsequent chest pain in the setting of 
+palpitations. Patient took 2 nitroglycerin tablets at home with 
+some mild relief however continued to have SOB, palpitations, 
+and lightheadedness.
+.
+On arrival to the ED patient found to be in ventricular 
+tachycardia with HR in 200s with stable BP 100/60s. In the ED 
+they began to push 150 mg of amiodarone but during the 
+administration patient converted to sinus. EP was called in the 
+ED and consulted. Patient remained hemodynamically stable 
+throughout.
+.
+Once rate was controlled, patient was asymptomatic and denied 
+any continued chest pain, shortness of breath, dizziness, 
+palpitations or lightheadedness.
+.
+Other review of systems was negative. Of note, patient's wife is 
+recently deceased and he reports intermittent chest pain with 
+anxiety since then. 
+ 
+Past Medical History:
+Hypertension
+MI (___), treated at ___
+Dyslipidemia
+.
+Cardiac Risk Factors: -Diabetes, +Dyslipidemia, +Hypertension
+.
+Percutaneous coronary intervention: unknown anatomy from ___ 
+catherization in ___, patient does not think that he had an 
+intervention
+ 
+Social History:
+___
+Family History:
+Father died at ___ from MI, mother passed away from cancer, aunt 
+and uncle also died from CAD in their ___. 
+ 
+Physical Exam:
+VS - Temp 99.1, BP 110/66, P 62, R 16, 100% on RA
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva 
+non-injected, no pallor or cyanosis of the oral mucosa. No 
+xanthalesma. no carotid bruits.
+Neck: JVP flat.
+CV: PMI located in ___ intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NT, ND. No HSM or tenderness. No abdominial bruits.
+Ext: No c/c/e.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+ ___ 2+
+Left: Carotid 2+ Femoral 2+ DP 2+ ___ 2+
+ 
+Pertinent Results:
+CHEST AP (___): No acute cardiopulmonary abnormality.
+
+TTE (___):  The left atrium and right atrium are normal in 
+cavity size. The estimated right atrial pressure is ___ mmHg. 
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity is moderately dilated. No masses or thrombi 
+are seen in the left ventricle. LV systolic function appears 
+moderately-to-severely depressed (ejection fraction 30 percent) 
+secondary to extensive apical akinesis with focal dyskinesis; 
+there is sever hypokinesis of the anterior septum and anterior 
+free wall; the posterior wall is also hypokinetic. Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Mild to moderate (___) mitral regurgitation is 
+seen. The estimated pulmonary artery systolic pressure is 
+normal. There is no pericardial effusion.
+
+CARDIAC CATHERIZATION (___):
+1. Severe single vessel and moderate LMCA coronary artery 
+disease, with atherosclerosis elsewhere and diffuse slow flow 
+consistent with microvascular dysfunction.
+2. Normal cardiac index.
+3. Mildly elevated PCW suggestive of mild left ventricular 
+diastolic dysfunction.
+
+MR CARDIAC ___ (___):
+1. Moderate left ventricular enlargement with moderate regional 
+left ventricular systolic dysfunction. There were multiple 
+regional wall motion abnormalities with apical dyskinesis. Basal 
+septal, mid septal, basal ___- septal, mid ___, mid 
+anterior segments, basal inferior and mid inferior segments were 
+hypokinetic. Late gadolinium contrast-enhanced CMR images 
+demonstrating areas of transmural hyperenhancement in the apex 
+and non- transmural hyperenhancement in the mid anterior, mid 
+___- septal and basal ___ segments as described 
+above. The LVEF was moderately decreased at 38%. The effective 
+forward LVEF was moderately decreased at 37%.
+2. Normal right ventricular cavity size and systolic function. 
+The RVEF was normal at 57%.
+3. No significant valvular abnormalities
+4. The indexed diameters of the ascending and descending 
+thoracic aorta were normal. The main pulmonary artery diameter 
+index was borderline increased.
+5. Normal coronary artery origins with no evidence of anomalous 
+coronary arteries. Probable significant proximal LAD stenosis 
+and mid LAD occlusion. Recommend further correlation with 
+coronary angiography.
+
+BILAT LOWER EXT VEINS (___): Acute occlusive thrombus in the 
+right greater saphenous vein, extending to within 1.3 cm of the 
+saphenofemoral junction. Though this thrombus is located within 
+a superficial vein, treatment is often considered given the 
+position.
+
+CHEST PA/LAT ___ right atrial pacer and right 
+ventricular pacemaker leads follow their expected courses 
+continuously from the left axillary pacemaker, new since ___. Lungs are fully expanded and clear, though attenuation of 
+vasculature in the upper lungs suggests edema. Lower lungs 
+clear. Heart size normal. No pleural effusion, mediastinal 
+widening or pneumothorax.
+
+___ 05:50AM BLOOD %HbA1c-5.3
+___ 09:00AM BLOOD Triglyc-26 HDL-61 CHOL/HD-2.4 LDLcalc-80
+___ 09:49PM BLOOD CK-MB-44* MB Indx-9.4* cTropnT-1.52*
+___ 07:00AM BLOOD cTropnT-1.03*
+ 
+Brief Hospital Course:
+___ year-old male with previous anterior MI (___) managed 
+medically, hypertension, hyperlipidemia admitted with chest pain 
+on ___ and found to have NSTEMI and ventricular tachycardia. 
+Hospital course was as follows.
+
+1. NSTEMI:  Patient presented to the emergency department with 
+chest pain. First set of cardiac enzymes was normal. Second 
+troponin 1.5 with CK 466. Wide complex tachycardia was seen on 
+EKG. Patient was taken to cardiac catheterization and no stents 
+were placed; cardiac catheterization demonstrated severe single 
+vessel coronary artery disease, preserved cardiac output, and 
+mild LV diastolic dysfunction. Patient also underwent cardiac 
+MRI; results are above. To optimize medication regimen, statin 
+dose was increased. Patient was continued on aspirin, 
+beta-blocker. Plavix was given briefly. Of note, lipid panel 
+revealed total cholesterol 146, triglycerides 26, HDL 61, LDL 
+80. A1c 5.8.
+
+2. Ventricular tachycardia:  On arrival to the emergency 
+department patient was noted to have a wide complex tachycardia 
+with heart rate 200s, BP 100/60s. In the emergency department he 
+began receiving amiodarone 150mg; this was stopped after the 
+patient converted to a sinus rhythm. Patient remained 
+hemodynamically stable throughout. EP was consulted. The 
+arrhythmia was thought to be secondary to scar tissue from a 
+previous myocardial infarction. Ablation of the scar tissue was 
+not performed in the EP lab given that the arrhythmia could not 
+be provoked. Patient continued to have short, asymptomatic runs 
+of NSVT on telemetry. A dual chamber ICD was placed on ___. 
+Throughout the remainder of the hospital course patient 
+continued to have frequent PVCs but no ventricular tachycardia.
+
+3. Chronic ischemic systolic heart failure:  On TTE patient was 
+noted to have extensive apical akinesis with focal dyskinesis; 
+severe hypokinesis of the anterior septum, anterior free wall, 
+and posterior wall. LVEF 30%. He did not appear fluid overloaded 
+on exam.  An ___ was started. Given the ability to pace with the 
+ICD, his beta-blocker dose was increased to optimize the heart 
+failure medication regimen.
+
+4. Hypertension:  sBP around 100 on admission. ___ was started 
+and beta-blocker dose changed as above. Patient tolerated these 
+changes well.
+
+5. Gout:  Left foot MP joint inflamed. Colchicine was started 
+with little benefit. Prednisone 20mg PO was started for short 
+course with desired effect.
+
+6. Right greater saphenous vein occlusive thrombus:  Incidental 
+finding. Source is not known. Patient was temporarily on heparin 
+drip to bridge to therapeutic coumadin dose. He developed a 
+hematoma at his groin and had mild oozing at the ICD placement 
+site. Heparin therapy was stopped, and the patient was sent out 
+on coumadin therapy with close follow-up.
+ 
+Medications on Admission:
+Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO once a 
+day.
+Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One-half Tablet PO DAILY (Daily).  
+
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day. 
+Tablet(s) 
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Warfarin 5 mg Tablet Sig: One (1) Tablet PO at bedtime: 
+Please take first tablet on ___. On ___ morning, 
+have your blood checked at Dr. ___. Your dose 
+will be readjusted then.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 7 doses.
+Disp:*7 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+- Ventricular tachycardia
+- NSTEMI
+- Gout
+
+Secondary: 
+- Hypertension
+- Coronary artery disease
+- History of myocardial infarction
+- Dyslipidemia
+
+ 
+Discharge Condition:
+Ambulatory. Hemodynamically stable.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with ventricular tachycardia, 
+an abnormal heart rhythm. You were also found to have some 
+damage to your heart, and subsequently underwent a cardiac 
+catherization and an MRI of your heart. For the abnormal rhythm, 
+a defibrillator was placed by the electrophysiology team.
+.
+Your studies in the hospital suggest that you have heart 
+failure, which is an inability of your heart to fully pump blood 
+forward. Because of this, it is very important that you weigh 
+yourself every morning and call your physician if weight 
+increases by 3lbs. Please also adhere to a 2 gram sodium diet 
+and restrict daily fluid intake to 2000ml.
+.
+We also found a blood clot in your right leg. You were 
+temporarily put on an IV blood thinner, and you should start 
+taking an oral blood thinner on ___ night. You have a 
+hematoma (collection of blood) near your groin on the right 
+side. You can use warm compresses for discomfort.
+.
+Your medication regimen has changed. Please review your 
+medication list closely.
+1) Your cholesterol medication was changed to atorvastatin.
+2) The dose and frequency of your metoprolol was changed.
+3) You were started on losartan in the setting of your heart 
+failure and allergy to ACE inhibitors.
+4) You were started on a short course of antibiotics to help 
+reduce the risk of infection at the defibrillator site.
+6) Your aspirin dose was cut in half.
+7) You were started on a blood thinner, coumadin.
+Please review your medication list closely.
+
+Please follow-up with your physicians as listed below.
+
+Please return to the emergency department or call your physician 
+for any worsening chest pain, shortness of breath, abdominal 
+pain, back pain, bleeding or increased tenderness or redness at 
+the defibrillator site, or for any other symptoms that are 
+concerning to you. Also, please contact your doctor for 
+worsening swelling or pain at the groin site.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13035333-DS-7 | hadm_id=29086783
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+A.C.E Inhibitors
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Patient is a ___ YO M with a history of CAD and MI in ___ 
+treated medically who presents today with stuttering chest pain. 
+He states that the symptoms began 5 days prior to admission. He 
+notes that he was shoveling snow that day, but was not doing any 
+more rigorous activity than usual. He states he developed 
+substernal chest pressure radiating to his left shoulder. It was 
+also associated with lightheadedness and he felt "out of focus," 
+though he is not sure if this is ___ the anxiety he felt at the 
+time. He took some NTG he had at home, and symptoms resolved 
+after approximately 2 hours. He then noticed occasional twinges 
+of chest pressure over the next few days lasting up to 45 
+minutes, but not like he had originally felt. He exercised on 
+the treadmill yesterday and the day before without any pressure 
+or symptoms. Then, on the day of admission, he notes pain 
+similar to that 5 days ago: substernal and radiating to his left 
+shoulder. He did not have any NTG, so he came to the ED for 
+further evaluation. He does note that this is similar to the 
+symptoms he felt preceding his MI in ___, but not nearly as 
+severe.  
+.  
+In the ED, patient received SL NTG x3 with relief of symptoms. 
+He denies any current chest pain, shortness of breath, abdominal 
+pain, visual changes, headache, muscle weakness, exertional 
+buttock or leg pain. He denies PND, orthopnea, myalgia, 
+hemoptysis, melena or hematochezia. No dysuria. Also denies 
+fevers, chills, night sweats. No history of stroke, TIA, PE, 
+DVT, or bleeding after surgeries.  
+.  
+
+ 
+Past Medical History:
+H/o hypertension  
+MI in ___ as above at ___  
+.  
+Cardiac Risk Factors: (-)Diabetes, (+)Dyslipidemia, 
+(+)Hypertension  
+.  
+Other Past History: Patient with history of PCI at ___, no 
+records here. Patient states no intervention at that time.  
+
+ 
+Social History:
+___
+Family History:
+Father died at ___ from MI, mother passed away from cancer, aunt 
+and uncle also died from CAD in their ___. 
+ 
+Physical Exam:
+VS - 97.9 135/59 57 16 99% on RA  
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP of 4 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: No c/c/e.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+Labs:
+___ 11:45AM BLOOD WBC-6.2 RBC-5.15 Hgb-14.1 Hct-42.2 MCV-82 
+MCH-27.4# MCHC-33.4 RDW-14.3 Plt ___
+___ 07:00AM BLOOD WBC-4.7 RBC-4.86 Hgb-13.3* Hct-39.6* 
+MCV-82 MCH-27.4 MCHC-33.6 RDW-13.3 Plt ___
+___ 07:00AM BLOOD ___ PTT-28.2 ___
+___ 11:45AM BLOOD Glucose-103 UreaN-23* Creat-1.1 Na-138 
+K-4.4 Cl-100 HCO3-28 AnGap-14
+___ 07:00AM BLOOD Glucose-86 UreaN-21* Creat-1.0 Na-142 
+K-5.0 Cl-103 HCO3-30 AnGap-14
+___ 11:45AM BLOOD CK(CPK)-95
+___ 07:40PM BLOOD CK(CPK)-67
+___ 07:00AM BLOOD CK(CPK)-65
+___ 11:45AM BLOOD cTropnT-<0.01
+___ 07:40PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 07:00AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 07:00AM BLOOD Calcium-9.6 Phos-3.9 Mg-2.3 Cholest-151
+___ 07:00AM BLOOD Triglyc-45 HDL-67 CHOL/HD-2.3 LDLcalc-75
+.
+Studies:
+AP UPRIGHT CHEST X-RAY: The cardiomediastinal silhouette is 
+unremarkable. The lungs are clear. There is no pericardial 
+effusion. The imaged osseous structures are unremarkable.
+IMPRESSION: No acute cardiopulmonary process.
+.
+ECG: Sinus bradycardia with baseline artifact. Right 
+bundle-branch block. 
+Left axis deviation. Left anterior fascicular block. 
+Anteroseptal myocardial infarction. Compared to previous tracing 
+of ___ right bundle-branch block is now present. Otherwise, 
+multiple abnormalities persist without major change.  
+.
+
+ 
+Brief Hospital Course:
+# Chest pain: The patient had 5 days of intermittant pain that 
+did not occur with vigorous exercise (1 hour on the treadmill 
+twice during the 5 days prior to admission).  Chest pain 
+atypical in nature, and was resolved with nitroglycerin in the 
+ED. The patient did not experience any further chest pain while 
+hospitalized.  Three sets of cardiac enzymes were negative.  No 
+ECG changes indicative of new MI during the admission.  ECG 
+during episode of pain and without pain on the floor were 
+unchanged. The patient was continued on his aspirin, metoprolol 
+and statin.  He should follow up with his cardiologist for 
+consideration of a stress test as an outpatient if indicated. 
+.  
+# Hypertension: Patient is on Lopressor at home, breaks one 50mg 
+into three doses over the day.  Also on Lasix as an outpatient, 
+EF 35% in ___.  He was continued on his outpatient regimen 
+and was not hypertensive during his admission.
+.  
+# Pump: Last EF was 35% in ___. On Lasix as above as an 
+outpatient. He was continued on his outpatient regimen.
+.  
+# Thrombocytopenia: No clear baseline. Was 215 in ___. Patient 
+does not seem to be on any medications that would lead to 
+decreased platelets. No reason to suspect DIC.  He should have 
+this followed as an outpatient.
+.
+# Code: FULL  
+
+ 
+Medications on Admission:
+Lopressor 50mg (broken into 3 doses daily)  
+Zocor 40mg daily  
+Lasix 20mg daily  
+ASA 325mg daily  
+
+ 
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+1. Chest pain NOS
+
+Secondary:
+1. Coronary artery disease
+2. Hypertension
+3. Dyslipidemia
+
+ 
+Discharge Condition:
+Hemodynamically stable.
+
+ 
+Discharge Instructions:
+You were admitted with chest pain; labs did not show any 
+evidence of damage to the heart muscles.
+
+You should be sure to follow-up with Dr. ___ at your 
+next scheduled appointment.
+
+Of note, your platelet level was noted to be slightly low; this 
+should be rechecked as an outpatient.
+ 
+Followup Instructions:
+___

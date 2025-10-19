@@ -1,0 +1,1804 @@
+===== DISCHARGE NOTE =====
+note_id=17563305-DS-4 | hadm_id=21418715
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Zocor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+On ___ presented to ___ for 1 week history of 
+generalized weakness
+ 
+Major Surgical or Invasive Procedure:
+___: Right frontal craniotomy and resection
+
+ 
+History of Present Illness:
+Mr ___ is a ___ y/o M with metastatic melanoma s/p resection 
+of abdominal mass and axillary LN dissection who is currently on 
+immunotherapy - nivolumab), known Afib not on AC, Peptic ulcers 
+with prior GI bleed x2 (___), prior PE s/p IVC filter ___, 
+EtOH use, gastric bypass ___, hypothyroidism, who presented to 
+___ for 1 week of generalized weakness, found to be 
+hypotensive not responsive to 2L IVF, started on levophed and 
+transferred to ___.
+
+He was found to have have a sellar and right frontal metastatic 
+lesion. He was taken to the OR for right frontal craniotomy and 
+resection of the metastatic lesion. 
+
+ 
+Past Medical History:
+Gastric bypass
+Shoulder arthritis, rotator cuff injury awaiting surgery
+atrial fibrillation
+diabetes
+alcohol abuse
+fatty liver
+hypertension
+osteoarthritis of the knee
+radial nerve palsy
+sleep apnea
+GI bleed from PUD while on anticoagulation for afib
+ 
+Social History:
+___
+Family History:
+His brother had skin cancer though he does not think it was 
+melanoma.
+ 
+Physical Exam:
+AT DISCHARGE: 
+=============
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time 
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm bilaterally 
+Wearing glasses 
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+Pronator Drift [ ]Yes [x] No     Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+Deltoid BicepTricepGrip
+Right4 44-      5
+Left5 55       5
+
+IPHamATEHLGast
+___
+Left5       5       555
+*Baseline RUE weakness from shoulder injury sustained at work 
+
+Sensation grossly intact to light touch bilaterally
+
+Wound: 
+[x]Clean, dry, intact 
+[x]Staples 
+ 
+Pertinent Results:
+Please refer to ___ for relevant imaging and lab results. 
+ 
+Brief Hospital Course:
+___ yo male with metastatic melanoma now found to have two 
+metastases, one to the sella and a second in the superficial 
+right frontal lobe at the coronal suture.
+The patient is now s/p right frontal craniotomy for resection of 
+the right frontal lesion. 
+
+#Right frontal lesion
+The patient underwent a right frontal craniotomy and resection 
+___ ___. For further details please refer 
+to OMR for brief op note and operative report. Following the 
+procedure the patient was transferred to the PACU for post 
+anesthesia care and monitoring. He was then transferred to the 
+Neuroscience Intermediate Care Unit for overnight surveillance 
+and management. He remained neurologically intact and returned 
+to his baseline. He was assessed by physical therapy and 
+occupational therapy who both recommended discharge to home with 
+home services. Case Management set up ___ services to assess 
+patient at home on ___. 
+The hematology/oncology team was following and agreed that 
+patient had no acute oncological inpatient needs and could be 
+discharged home with outpatient follow up. Appropriate 
+appointments were set up for him and provided in discharge 
+paperwork. 
+On POD ___, he was felt to be neurologically stable and 
+discharged home with outpatient follow up.  
+
+#Adrenal insufficiency
+During the ___ prior admission, Endocrinology started him 
+on hydrocortisone bid. He was subsequently discharged home on 
+Hydrocort BID. He was started on Dexamethasone post operatively, 
+in which he will have a taper dose upon discharge. He will 
+maintain a Dexamethasone 2mg BID dosing until follow up with 
+BTC. Endocrine was made aware/consulted on ___ and confirmed 
+that this was appropriate dosing and not to restart the 
+hydrocort until the dexamethasone was discontinued. The on call 
+fellow was to reach out to ___ primary ___ MD and 
+alert them of changes and for follow up care. 
+He was also hyperglycemic due to steroid usage - requiring 
+intermittent low dose insulin regimen. It was confirmed with 
+Endocrine to not discharge with home insulin regiment, as this 
+is expected to autoregulate with the tapering of the steroid. 
+
+#Liver disease/ETOH use
+Pt had no signs or symptoms of alcohol withdrawal while 
+inpatient. 
+
+#Hypothyroidism
+He was maintained on his home dose of Levothyroxine. 
+
+#Hypogonadism
+#Hypotension 
+Upon assessment of previous discharge medications, it was 
+determined that his home dose of Metoprolol BID was held and he 
+was to follow up with his PCP. He remained intermittently 
+hypotensive while hospitalized, with his Metoprolol being 
+intermittently held. It was discontinued upon discharge and he 
+is to follow up with his PCP on when to restart this medication. 
+
+ 
+Medications on Admission:
+Preadmission medication list: 
+colchicine 0.6 mg capsule. capsule(s) by mouth  
+digoxin 125 mcg tablet. tablet(s) by mouth  
+levothyroxine 75 mcg daily 30 minutes before food
+metoprolol tartrate 50 mg BID 
+omeprazole 20 mg daily 
+torsemide 10 mg every other day 
+cyanocobalamin- Dosage uncertain 
+iron 18 mg once a day 
+
+Unclear if accurate dosing, patient unable to recall medication 
+regimen. Will need to be corroborated by outpatient PCP or 
+pharmacy.
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Codeine Sulfate 15 mg PO Q4H:PRN Severe pain 
+RX *codeine sulfate 15 mg 1 tablet(s) by mouth every four hours 
+as needed Disp #*30 Tablet Refills:*0 
+3.  Dexamethasone 3 mg PO Q6H Duration: 4 Doses 
+This is dose # 2 of 4 tapered doses
+RX *dexamethasone 2 mg 1.5 tablet(s) by mouth every six hours 
+Disp #*3 Tablet Refills:*0 
+4.  Dexamethasone 2 mg PO Q6H Duration: 4 Doses 
+This is dose # 3 of 4 tapered doses
+Tapered dose - DOWN 
+RX *dexamethasone 2 mg 1 tablet(s) by mouth every six hours Disp 
+#*4 Tablet Refills:*0 
+5.  Dexamethasone 2 mg PO Q8H Duration: 3 Doses 
+This is dose # 4 of 4 tapered doses
+Tapered dose - DOWN 
+RX *dexamethasone 2 mg 1 tablet(s) by mouth every eight hours 
+Disp #*3 Tablet Refills:*0 
+6.  Dexamethasone 2 mg PO Q12H 
+This is the maintenance dose to follow the last tapered dose
+Tapered dose - DOWN 
+RX *dexamethasone 2 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+7.  Digoxin 0.125 mg PO QAM  
+8.  Levothyroxine Sodium 100 mcg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  Torsemide 10 mg PO EVERY OTHER DAY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right frontal metastatic lesion 
+Atrial fibrillation 
+Metastatic melanoma  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Brain Tumor
+
+Surgery
+
+* You underwent surgery to remove a brain lesion from your 
+brain. 
+* Please keep your incision dry until your staples are removed. 
+* You may shower at this time but keep your incision dry.
+* It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+* Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+
+* We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+* You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+* No driving while taking any narcotic or sedating medication. 
+* If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+* No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+
+***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+* You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+
+* You may experience headaches and incisional pain. 
+* You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+* You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+* Feeling more tired or restlessness is also common.
+* Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+
+* Severe pain, swelling, redness or drainage from the incision 
+site. 
+* Fever greater than 101.5 degrees Fahrenheit
+* Nausea and/or vomiting
+* Extreme sleepiness and not being able to stay awake
+* Severe headaches not relieved by pain relievers
+* Seizures
+* Any new problems with your vision or ability to speak
+* Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+
+* Sudden numbness or weakness in the face, arm, or leg
+* Sudden confusion or trouble speaking or understanding
+* Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+* Sudden severe headaches with no known reason
+
+***Medications***
+*You will be on a dexamethasone taper. Please take as 
+prescribed. Once the tapered doses are completed, please 
+maintain:
+         Dexamethasone 2mg two times a day
+Until follow up with Brain Tumor Conference team on ___. 
+   If Dexamethasone is to be discontinued at that time, it is 
+recommended to start taking your home dose hydrocort. 
+
+*Your home dose Metoprolol was held on discharge ___ - this 
+will continue to be held for hypotension. 
+Please follow up with your primary care doctor on when to 
+restart this mediation. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17563305-DS-6 | hadm_id=21469055
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zocor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fatigue and weakness
+ 
+Major Surgical or Invasive Procedure:
+R femoral line (removed)
+R IJ central catheter (removed)
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo man with stage 4 metastatic melanoma on
+nivolumab monotherapy, atrial fibrillation, hx of GI bleed (x2,
+___, and PE s/p IVC filter (___) now with recent admission
+in ___ to ___ for new LLE DVT (on apixiban) and cellulitis. 
+He
+presented to ___ on ___ for fatigue, weakness, and was
+found to be in septic shock with GNR in 2x peripheral blood
+cultures, lactate of 9, Cr 1.9. He was also found to be positive
+for c. diff. He was started on vanc/cefepime/flagyl, 
+resuscitated
+in the ICU with fluids and transitioned to the floor. 
+
+On ___, a rapid response was called for hypoxia and A Fib with
+RVR with HR to 200s.  He received 3 x amiodarone, diltiazem. His
+blood pressures became unstable requiring neo, levophed, and
+vasopression and was electrically cardioverted with HR 110s.  
+
+Notably, in ___, he had a CT a/p that showed a large
+right-sided adrenal mass measuring 13x13x10cm appearing 
+unchanged
+from prior CT but with question of compression of IVC for which
+transfer to ___ was planned for evaluation.
+
+On admission to the ___ he is on HFNC, amio drip, and
+vasopressin. Neo and levo were weanted in transit. He reports
+feeling weak and tired. 
+ 
+Past Medical History:
+Gastric bypass
+Shoulder arthritis, rotator cuff injury awaiting surgery
+atrial fibrillation
+diabetes
+alcohol abuse
+fatty liver
+hypertension
+osteoarthritis of the knee
+radial nerve palsy
+sleep apnea
+GI bleed from PUD while on anticoagulation for afib
+
+ 
+Social History:
+___
+Family History:
+His brother had skin cancer though he does not think it was
+melanoma.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+========================
+VS: afebrile, HR 78 in sinus, BP 108/80, on high flow at 55L and
+70% FiO2
+GENERAL: Tired appearing but interactive. In no acute distress.  
+
+HEENT: Sclera anicteric and without injection. MMM.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Bilateral rhonchi at lung bases   
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. Cap refill <2s. Scattered cuts, scabs, bruises   
+NEUROLOGIC: CN2-12 grossly intact. AOx3.  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: 24 HR Data (last updated ___ @ 2312)
+    Temp: 97.8 (Tm 98.8), BP: 117/84 (117-142/72-96), HR: 63
+(63-69), RR: 16 (___), O2 sat: 99% (99-100), O2 delivery: RA,
+Wt: 194.7 lb/88.32 kg  
+GENERAL: In NAD
+HEENT: AT/NC, Sclerae anicteric, MMM, dried lesions overlying
+lips, PERRL, EOMI
+NECK: Supple, normal range of motion. JVP wnl.
+CV: RRR, normal S1/S2, no m/r/g  
+PULM: CTAB, no crackles/wheezes/rhonchi
+ABD: abdomen soft, NT, ND, no organomegaly
+EXT: WWP, 2+ pitting edema b/l  
+SKIN: improving bruising in arms and legs, R groin site w/o
+evidence of expanding hematoma, R upper thigh and buttock with
+stable ecchymosis
+NEURO: A&Ox3, motor and sensation grossly intact
+ACCESS: L Port on chest
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 10:27PM BLOOD WBC-11.5* RBC-2.53* Hgb-8.7* Hct-26.6* 
+MCV-105* MCH-34.4* MCHC-32.7 RDW-15.0 RDWSD-57.7* Plt Ct-20*
+___ 10:27PM BLOOD Anisocy-1+* Poiklo-1+* Macrocy-3+* 
+Polychr-1+* Ovalocy-1+* Schisto-1+* Tear Dr-1+* RBC Mor-SLIDE 
+REVI
+___ 10:27PM BLOOD Glucose-244* UreaN-17 Creat-0.6 Na-132* 
+K-3.4* Cl-102 HCO3-20* AnGap-10
+___ 10:27PM BLOOD ALT-19 AST-47* LD(LDH)-913* AlkPhos-153* 
+TotBili-0.7
+___ 10:27PM BLOOD Albumin-1.8* Calcium-7.3* Phos-3.2 Mg-1.9
+
+IMAGING 
+========
+CT abdomen/pelvis ___:  
+1. High-grade compression of the IVC by a large right adrenal 
+lesion, 
+increased from prior study. Nonocclusive IVC thrombus is 
+unchanged in size. 
+2. Large right adrenal lesion remains stable in size. No 
+evidence of 
+hemorrhage. 
+3. Partially visualized bilateral airspace opacification may 
+represent 
+atelectasis however infection cannot be ruled out. 
+4. 2.9 cm nodule in the right middle lobe and right 
+retroperitoneal nodule are unchanged in size. 
+5. Large bilateral pleural effusions. 
+
+TTE ___:
+CONCLUSION:
+The left atrial volume index is normal. The inferior vena cava 
+diameter is normal. There is mild symmetric left
+ventricular hypertrophy with a normal cavity size. There is mild 
+global left ventricular hypokinesis. Quantitative biplane left 
+ventricular ejection fraction is 45 % (normal 54-73%). Left 
+ventricular cardiac index is low normal (2.0-2.5 L/min/m2). 
+There is no resting left ventricular outflow tract gradient. 
+Normal right ventricular cavity size with normal free wall 
+motion. The aortic sinus diameter is normal for gender with 
+mildly dilated ascending aorta. There is a normal descending 
+aorta diameter. The aortic valve leaflets (3) appear 
+structurally normal. There is no aortic valve stenosis. There is 
+no aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+moderate mitral annular calcification. There is mild [1+] mitral 
+regurgitation. Due to acoustic shadowing, the severity of mitral 
+regurgitation could be UNDERestimated. The pulmonic valve 
+leaflets are not well seen. The tricuspid valve leaflets appear 
+structurally normal. There is physiologic tricuspid 
+regurgitation. The estimated pulmonary
+artery systolic pressure is high normal. There is no pericardial 
+effusion. A left pleural effusion is present.
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal
+cavity size and mild global hypokinesis. Mild mitral 
+regurgitation with normal valve morphology.
+High normal estimated pulmonary artery systolic pressure.
+
+DISCHARGED LABS
+===============
+___ 05:36AM BLOOD WBC-6.6 RBC-2.56* Hgb-8.5* Hct-27.3* 
+MCV-107* MCH-33.2* MCHC-31.1* RDW-17.2* RDWSD-66.5* Plt ___
+___ 05:36AM BLOOD ___ PTT-27.6 ___
+___ 05:36AM BLOOD Glucose-68* UreaN-9 Creat-0.4* Na-140 
+K-3.9 Cl-105 HCO3-28 AnGap-7*
+___ 05:34AM BLOOD ALT-8 AST-16 LD(LDH)-389* AlkPhos-171* 
+TotBili-0.7
+___ 05:36AM BLOOD Calcium-8.1* Phos-3.5 Mg-1.6
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ ___ metastatic melanoma (on nivolumab), 
+AFib, recent DVT (on apixaban) who was transferred from ___ 
+to the ___ ICU for septic shock ___ E. coli bacteremia, course 
+c/b AFib w/ RVR requiring cardioversion, acute hypoxemic 
+respiratory failure, non-occluding IVC clot and IVC compression 
+from R adrenal mass, clinically improved on the floor and ready 
+for rehab. 
+
+TRANSITIONAL ISSUES
+===================
+[] Will complete 14 day course of PO vancomycin (last day ___
+[] Found to have adrenal mass compression of IVC, but no 
+intervention was done ___ thrombocytopenia. Discuss in the 
+outpatient setting role of IVC filter/stenting. 
+
+ACUTE ISSUES
+============
+#E.coli bacteremia
+#Septic shock
+His ___ cultures grew pan sensitive E.coli, which have been 
+negative since then. He completed a 14 day course of ceftriaxone 
+on ___. On ___, the patient was noted to be rigoring and 
+hypotensive on the floor requiring transfer back to the ICU. He 
+was briefly on norepinephrine and was fluid resuscitated. 
+Antibiotics were broadened to vancomycin and cefepime. He 
+subsequently improved. Cultures continued to show no growth and 
+he was transferred back to the floor. His antibiotics were 
+stopped on ___.
+
+#AFib w/ RVR
+He has a history of atrial fibrillation at baseline on digoxin. 
+He presented to OSH w/ rapid AFib, likely due to infection vs. 
+being volume up in the setting of his decompensation after 
+leaving the hospital on ___ was given an amiodarone load at 
+OSH, followed by diltiazem and then was electrically 
+cardioverted for hypotension. He was started on levophed, 
+neosynephrine, and vasopressin briefly but was titrated off 
+shortly after. We checked a digoxin level that was normal and 
+continued his home digoxin, he remained in normal sinus rhythm.  
+His home apixiban was held in the setting of his 
+thrombocytopenia but was restarted once Plt > 50.
+
+#Acute hypoxemic respiratory failure
+His new oxygen requirement was likely due to pleural effusions 
+and volume overload. He was quickly weaned off HFNC and is now 
+on room air or nasal cannula. He is still volume overloaded and 
+would benefit from more diuresis. After diuresis, a repeat CXR 
+showed interval improvement of pleural effusion and vascular 
+congestion. He was diuresed throughout his general oncology 
+floor admission to maintain adequate respiration with a goal of 
+1L net negative.
+
+#Thrombocytopenia
+Platelets dropped from normal range to <20 over the course of 1 
+week. Hematology saw the patient and thought this was due to 
+bone marrow suppression in the setting of septic shock/acute 
+illness along with a history of alcohol use and recent 
+cephalexin use (for cellulitis). TTP, DIC, HIT, and HIV induced 
+thrombocytopenia were ruled out. He received 2 platelet 
+transfusions that he tolerated well. He had a blood smear w/o
+schistocytes. His home apixaban was held until plt > 50.
+
+#C/f adrenal insufficiency
+#Chronic steroid use
+He has a history of adrenal insufficiency d/t immunotherapy and 
+is on chronic hydrocortisone 20 mg qAM and 10 mg qHS. This was 
+felt to have contributed to his shock physiology on admission. 
+He was started on high dose steroids while hypotensive, but 
+tapered back to home dose of steroids by the time of discharge. 
+
+#Non occlusive IVC clot
+#Hx of DVT/PE
+He received a CTA venogram showing increased compression of IVC 
+from an adrenal mass, causing a non-occlusive IVC thrombus. 
+Vascular surgery were consulted inpatient but declined 
+intervention given his clinical comorbidities. If indicated, 
+will need to follow up as an outpatient for IVC filter/stent 
+placement.
+
+#Coagulopathy
+This was thought to be likely nutritional. His admission INR was 
+1.6; it improved with improved PO intake.
+
+# Delirium
+He had intermittent delirium while clinically sick. He was able 
+to be redirected by his brother occasionally, and resolved days 
+before discharge.
+
+#C. diff colitis
+Diagnosed at OSH, not currently having diarrhea. His PO vanc was 
+continued throughout admission, will complete course through 
+___.
+
+#Metastatic melanoma
+Currently on nivolumab monotherapy (C8 ___. His outpatient 
+oncologist Dr. ___ was informed throughout.
+
+#Severe protein calorie malnutrition
+Albumin 1.8 on admission. Nutrition was consulted throughout 
+admission.
+
+CHRONIC ISSUES
+==============
+#DM2
+Pt with improved BG after gastric bypass, not on home meds 
+currently. He was on SSI while on steroids.
+
+#HTN
+Improved after gastric bypass, not on home meds
+
+#Alcohol use disorder
+#NAFLD
+Steatosis but not cirrhosis noted on imaging. Not showing signs 
+of withdrawal.
+
+#Macrocytic anemia
+Likely iso chronic alcohol use, received B12 supplements
+
+#Hypothyroidism
+Continued home levothyroxine
+
+#CODE: Full (presumed)
+#CONTACT: ___ (HCP/brother) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cyanocobalamin 100 mcg PO DAILY 
+2. Digoxin 0.125 mg PO DAILY 
+3. Ferrous Sulfate 325 mg PO DAILY 
+4. Hydrocortisone 10 mg PO QHS 
+5. Hydrocortisone 20 mg PO QAM 
+6. Levothyroxine Sodium 75 mcg PO DAILY 
+7. Multivitamins W/minerals 1 TAB PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Apixaban 10 mg PO BID 
+10. Cephalexin 500 mg PO QID 
+11. Colchicine 0.6 mg PO DAILY:PRN gout flare 
+
+ 
+Discharge Medications:
+1.  Vancomycin Oral Liquid ___ mg PO QID  
+2.  Apixaban 5 mg PO BID  
+3.  Colchicine 0.6 mg PO DAILY:PRN gout flare  
+4.  Cyanocobalamin 100 mcg PO DAILY  
+5.  Digoxin 0.125 mg PO DAILY  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  Hydrocortisone 10 mg PO QHS  
+8.  Hydrocortisone 20 mg PO QAM  
+9.  Levothyroxine Sodium 75 mcg PO DAILY  
+10.  Multivitamins W/minerals 1 TAB PO DAILY  
+11.  Omeprazole 20 mg PO DAILY  
+12. HELD- Cephalexin 500 mg PO QID  This medication was held. Do 
+not restart Cephalexin until you talk with your doctor
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary diagnosis: E.coli bacteremia, atrial fibrillation, acute 
+hypoxemic respiratory failure
+
+Secondary diagnosis: thrombocytopenia, C.diff colitis, adrenal 
+insufficiency, delirium, non-occlusive IVC clot, diabetes 
+mellitus type 2, hypertension, macrocytic anemia, hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+ 
+It was a pleasure caring for you at ___ 
+___.  
+ 
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted for a bacterial blood infection.
+ 
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were started on antibiotics to treat your bacterial blood 
+infection at ___
+- You had trouble breathing and electrical problems with your 
+heart at ___, so you were transferred to the ICU at 
+___, where your heart was shocked and you were given extra 
+oxygen
+- They found a mass on your right adrenal gland, as well as a 
+clot in your IVC filter, and the decision was made to transfer 
+you to ___ ICU for further care
+- At the ___ ICU, you were given more antibiotics for your 
+infection and diarrhea, and received platelets to help boost 
+your counts
+- You were given medications to help control your heart rate
+- After you became stable, you were transferred to the general 
+oncology floor where you continued to receive antibiotics and 
+fluids
+- We started lowering your dose of steroids as well
+- You were feeling better and the physical therapists 
+recommended you get stronger at rehab
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.
+- Be sure to finish your antibiotics completely
+- You will have an appointment with vascular surgery to discuss 
+the clot in your IVC filter
+ 
+We wish you the best!  
+ 
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17563305-DS-5 | hadm_id=22744292
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zocor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L leg swelling and pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o M with PMHx of metastatic melanoma s/p resection of
+abdominal mass, axillary LN dissection, resection of R frontal
+mass with Nsurg, on immunotherapy - most recently nivolumab 
+(C8D1
+___, Afib not on AC, PUD with prior GI bleed x2 (___), PE
+s/p IVC filter ___, gastric bypass ___, hypothyroidism,
+adrenal insufficiency who presents from US appointment with new
+LLE DVT. 
+
+Pt states he has been noticing swelling, and increased pain in
+the LLE for the past week. No numbness/tingling. Eventually
+scheduled US appt and was told to go immediately to an ED after
+they found the DVT on exam. Has been feeling weak for the past
+few weeks as well and felt unsteady earlier today. 
+
+In the ED,
+- Initial vitals:  T97.2, HR 85, BP 154/100, RR 16, O2 sat 98% 
+RA
+
+- Exam notable for:  
+Ext: LLE slightly larger compared to R, slight calf tenderness 
+in
+both legs, slight TTP in L thigh, L foot more edematous compared
+to R, DP pulse intact b/l, LLE also with bandage, skin 
+underneath
+erythematous and edematous
+Neuro: sensation intact in ___ b/l, no focal neuro deficits
+appreciated
+- Labs notable for: WBC 10.7 with 79% PMNs, Hgb 12, MCV 103
+- Imaging notable for:  
+___ US
+IMPRESSION:
+Deep venous thrombosis involving the distal left femoral vein 
+and
+extending into the left common femoral vein. There is no 
+evidence
+of thrombus in the right common femoral vein. The patient has an
+IVC filter.
+
+- Pt was given:  
+___ IV CeFAZolin 1 g
+___ PO Omeprazole 20 mg B
+___ PO/NG Dexamethasone 2 mg 
+___ PO/NG Levothyroxine Sodium 75 mcg  
+___ PO/NG Digoxin .125 mg  
+___ PO/NG Codeine Sulfate 15 mg 
+___ PO/NG Torsemide 10 mg 
+___ IV CeFAZolin 1 g  
+___ PO/NG Codeine Sulfate 15 mg 
+___ PO/NG Rivaroxaban 15 mg 
+
+- Vitals prior to transfer: T 99.1, HR 84, BP 135/80, RR 16, O2
+sat 99% RA.
+
+Upon arrival to the floor, the patient shares that he has been
+feeling weak and sustained a fall a couple weeks ago, and has
+been sitting and sleeping on the couch most of the time since
+then. He also recalls feeling lightheaded when getting up once 
+in
+the past week. He confirms that he first notice left leg 
+swelling
+one week ago. He recalls taking an anticoagulation pill in the
+past that was not warfarin (cannot remember name), but stopped
+after having GI bleeds a few years ago. He has not had any 
+recent
+bloody or dark stools. Denies fever/chills, N/V, CP, SOB,
+pleuritic chest pain, pain with deep breathing. No dysuria or
+current GI complaints. 
+ 
+
+ 
+Past Medical History:
+ONCOLOGIC HISTORY:
+Mr. ___ noted a "blood blister" on his abdomen many years 
+ago
+which resolved on its own.  Then, approximately a year prior to
+presentation, this started to grow again and bled occasionally.
+He was referred by his PCP to dermatology where he saw ___, NP, on ___ with a 2 x 2
+centimeter inflamed plaque with a central ulcer on the right
+abdomen noted.  Biopsy revealed nodular melanoma, present at
+peripheral and deep margins, at least 7.5 mm deep, at least
+___ level 4, ulcerated, 29 mitoses per millimeter squared,
+absent lymphovascular and perineural invasion on the original
+pathology though the specimen was reviewed in our cutaneous
+oncology conference and felt to show lymphovascular invasion. 
+The patient was referred here for further management.  He went 
+on
+to have a wide local excision and sentinel lymph node biopsy on
+___.  This showed residual melanoma to 11 mm depth, 
+2
+of 6 recovered lymph nodes with micrometastases.
+
+Initial staging scans on ___ revealed metastatic disease 
+in
+the left arm, right peritoneum, right adrenal, and left
+infrahilar lymph node consistent with metastatic disease.  Brain
+MRI showed no CNS metastases.  He underwent FNA of the left arm
+nodule on ___ by Dr. ___ melanoma. 
+
+Admitted to ___ with worsening SOB on ___, found 
+to
+have a PE, put on anticoagulation but developed abdominal wall
+hematoma so, IVC filter placed. He has a history of developing 
+GI
+bleed while on anticoagulation in the past for atrial
+fibrillation.
+
+Was initially considered for Clinical Trial but could not be
+enrolled due to elevated LFTs ( likely in the setting of acute
+heavy alcohol use). 
+
+Pembrolizumab 2 mg/kg every 3 weeks started on ___. 
+Progression seen on scans on ___, therefore treatment
+transitioned to ipi/nivo.
+
+He completed 4 cycles Ipi/Nivo with good response and was
+transitioned to nivolumab monotherapy. He was subsequently
+hospitalized with adrenal failure and was found to have
+metastatic disease to the brain. 
+
+Neurosurgery was completed ___. Subsequent imaging revealed
+ongoing abnormalities in the resection base so received CK
+radiation to the site from ___.
+  
+PAST MEDICAL HISTORY:  
+Gastric bypass
+Shoulder arthritis, rotator cuff injury awaiting surgery
+atrial fibrillation
+diabetes
+alcohol abuse
+fatty liver
+hypertension
+osteoarthritis of the knee
+radial nerve palsy
+sleep apnea
+GI bleed from PUD while on anticoagulation for afib
+ 
+Social History:
+___
+Family History:
+His brother had skin cancer though he does not think it was 
+melanoma.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: ___ 1655 Temp: 98.1 PO BP: 139/91 HR: 72 RR: 18 O2 sat:
+97% O2 delivery: Ra 
+GENERAL: Obese man lying in bed in NAD  
+HEENT: AT/NC, Sclerae anicteric, MMM, poor dentition.
+CV: Irregularly irregular rate and rhythm. No murmurs, rubs, or
+gallops.
+PULM: CTAB, no wheezes, rales, rhonchi.
+ABD: Abdomen soft, obese, nontender to palpation, no
+rebound/guarding, no hepatosplenomegaly, well-healed scar.
+EXT: WWP, no cyanosis, 2+ LLE, 1+ RLE
+SKIN: Warm and well perfused, numerous scatter ecchymoses over
+bilateral upper extremities, mild diffuse poorly circumscribed
+erythema over anterior left lower leg with scant amount of clear
+fluid expressed from a 7mm thin papule
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric  
+ACCESS: port
+
+DISCHARGE PHYSICAL EXAM:
+VS: ___ 1500 Temp: 98.9 PO BP: 133/96 HR: 90 RR: 18 O2 sat: 
+95% O2 delivery: RA 
+GENERAL: Obese man lying in bed in NAD  
+HEENT: AT/NC, Sclerae anicteric, MMM, poor dentition.
+CV: Irregularly irregular rate and rhythm. No murmurs, rubs, or 
+gallops.
+PULM: CTAB, no wheezes, rales, rhonchi.
+ABD: Abdomen soft, obese, nontender to palpation, no 
+rebound/guarding, no hepatosplenomegaly, well-healed scar.
+EXT: WWP, no cyanosis, 2+ LLE, 1+ RLE
+SKIN: Warm and well perfused, numerous scatter ecchymoses over 
+bilateral upper extremities, mild diffuse poorly circumscribed 
+erythema over anterior left lower leg
+NEURO: Alert, moving all 4 extremities with purpose, face 
+symmetric  
+ACCESS: port
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:56PM BLOOD WBC-10.7* RBC-3.40* Hgb-12.0* Hct-35.0* 
+MCV-103* MCH-35.3* MCHC-34.3 RDW-14.7 RDWSD-55.1* Plt ___
+___ 07:56PM BLOOD Neuts-79.1* Lymphs-7.6* Monos-7.7 
+Eos-0.0* Baso-0.8 NRBC-0.2* Im ___ AbsNeut-8.48* 
+AbsLymp-0.82* AbsMono-0.83* AbsEos-0.00* AbsBaso-0.09*
+___ 07:56PM BLOOD ___ PTT-24.4* ___
+___ 07:56PM BLOOD Glucose-121* UreaN-11 Creat-0.5 Na-135 
+K-3.7 Cl-93* HCO3-29 AnGap-13
+___ 10:29AM URINE Blood-SM* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 10:29AM URINE RBC-6* WBC-2 Bacteri-FEW* Yeast-NONE 
+Epi-<1
+___ 10:29AM URINE CastHy-1*
+
+DISCHARGE LABS
+___ 05:02AM BLOOD WBC-8.7 RBC-3.42* Hgb-12.2* Hct-35.9* 
+MCV-105* MCH-35.7* MCHC-34.0 RDW-15.0 RDWSD-57.4* Plt ___
+___ 05:02AM BLOOD Neuts-77.0* Lymphs-10.0* Monos-8.0 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-6.69* AbsLymp-0.87* 
+AbsMono-0.70 AbsEos-0.01* AbsBaso-0.03
+___ 05:02AM BLOOD ___ PTT-28.7 ___
+___ 05:02AM BLOOD Glucose-97 UreaN-10 Creat-0.5 Na-140 
+K-3.2* Cl-94* HCO3-32 AnGap-14
+___ 05:02AM BLOOD Albumin-2.9* Calcium-8.3* Phos-3.4 Mg-1.7
+___ 05:02AM BLOOD ALT-12 AST-37 LD(LDH)-491* AlkPhos-163* 
+TotBili-0.6
+
+MICRO
+___ UCx and BCx x2 pending
+
+IMAGING
+___ ___
+Focal DVT of the proximal left femoral vein measuring up to 2.3 
+cm.  No other evidence of DVT in the left lower extremity veins.
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+=================
+Mr. ___ is a ___ man with metastatic melanoma on nivolumab 
+monotherapy, atrial fibrillation not on anticoagulation, history 
+of GI bleed x2 (___) and PE s/p IVC filter (___), now 
+presenting with new LLE DVT.
+
+ACTIVE ISSUES
+================
+#DVT
+Presented with 1 week of LLE pain and swelling in the setting of 
+limited mobility (pt reports recent fall, feeling weak, and 
+having occasional lightheadedness when standing). Found to have 
+DVT of proximal L femoral vein on Doppler ultrasound. History 
+notable for PE in ___ s/p IVC filter placement. He reports 
+being on a DOAC in the past, presumably for afib, which was 
+discontinued in setting of 2 GI bleeds in ___. Rivaroxaban 
+started in the ED on ___, transitioned to apixaban on ___ do 
+to preferable bleeding risk profile. H/H stable after initiation 
+of anticoagulation. 
+
+#Concern for cellulitis
+Received IV cefazolin 1g x2 in the ED for presumed cellulitis of 
+LLE. Exam notable for mild erythema and ulceration of LLE with 
+clear discharge, pain, and swelling which could be related to 
+DVT but will continue empiric non-purulent cellulitis treatment 
+for now with plan for Cephalexin 500mg QID to complete a 10 day 
+course (end date ___. 
+
+#Weakness
+Pt reports weakness a fall ~2 weeks ago while on treadmill. He 
+was referred for physical therapy as an outpatient at home. 
+
+#Melanoma
+Pt has stage IV BRAF WT melanoma s/p resection of abdominal mass 
+and axillary LN dissection, resection of R frontal brain mass, 
+progression of disease on Pembrolizumab then ipi/nivo, now with 
+mixed response on nivolumab monotherapy (C8D1 ___.
+
+#Afib
+Continued home digoxin 0.125mg QD.
+
+#Alcohol use disorder
+#Cirrhosis
+History of cirrhosis likely ___ alcohol use. LFTs wnl except for 
+elevated alk phos and LDH. Did not score on CIWA or require 
+Ativan.
+
+CHRONIC ISSUES
+================
+#Adrenal insufficiency
+Likely ___ immune checkpoint inhibitor therapy. Continued home 
+hydrocortisone 20mg QAM, 10mg QHS.
+
+#Hypothyroidism
+Continued home levothyroxine 75mcg QD.
+
+#HTN
+Pt reports that HTN improved after gastric bypass, currently not 
+on home meds. BP 110s-130s/70s-90s this admission.
+
+#Diabetes
+Pt reports that blood sugars improved after gastric bypass, 
+currently not on home meds. Morning glucose 140s-150s this 
+admission.
+
+#Other home medications
+Continued home omeprazole, multivitamins, iron.
+
+TRANSITIONAL ISSUES
+====================
+[] F/u resolution of DVT on apixaban. Could consider 
+transitioning to lovenox, deferred this admission given 
+significantly higher co-pay.
+[] F/u H/H, melena/hematochezia in 2 weeks on apixaban. 
+[] F/u blood glucose, consider checking A1c.
+[] F/u weakness, falls. Arrangements made for home ___.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Colchicine 0.6 mg PO DAILY:PRN gout flare 
+2. Digoxin 0.125 mg PO DAILY 
+3. Hydrocortisone 10 mg PO QHS 
+4. Hydrocortisone 20 mg PO QAM 
+5. Levothyroxine Sodium 75 mcg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. Cyanocobalamin 100 mcg PO DAILY 
+8. Ferrous Sulfate 325 mg PO DAILY 
+9. Multivitamins W/minerals 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days  
+2.  Cephalexin 500 mg PO QID 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*34 Capsule Refills:*0 
+3.  Colchicine 0.6 mg PO DAILY:PRN gout flare  
+4.  Cyanocobalamin 100 mcg PO DAILY  
+5.  Digoxin 0.125 mg PO DAILY  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  Hydrocortisone 10 mg PO QHS  
+8.  Hydrocortisone 20 mg PO QAM  
+9.  Levothyroxine Sodium 75 mcg PO DAILY  
+10.  Multivitamins W/minerals 1 TAB PO DAILY  
+11.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+========
+Deep vein thrombosis
+Skin and soft tissue infection 
+
+SECONDARY: 
+==========
+METASTATIC MELANOMA 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+ 
+It was a pleasure caring for you at ___ 
+___.  
+ 
+WHY WAS I IN THE HOSPITAL?  
+ - You were admitted for treatment of a blood clot in your leg, 
+known as a deep vein thrombosis (DVT) and a skin infection.
+ 
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+ - You were started on a medication to thin your blood to treat 
+your DVT
+ - You were given antibiotics to treat a possible skin 
+infection. 
+ 
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+ - Continue to take all your medicines and keep your 
+appointments.  
+ - Please call your oncologist or return to the emergency 
+department if you experience any of the danger signs listed 
+below. 
+ 
+We wish you the best!  
+ 
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17563305-DS-3 | hadm_id=25608468
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zocor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with history of stage IV metastatic melanoma s/p resection 
+of
+abdominal mass and ALND on chemotherapy (nivolumab), AF not on
+AC, PUD c/b GI bleed x2 (___), PE s/p IVC filter ___, EtOH
+use, gastric bypass ___, hypothyroidism, DM, HLD, anemia, who
+presented to ___ for 1 week of generalized weakness, found
+to be hypotensive not responsive to 2L IVF, started on levophed
+and transferred to ___.
+
+He reports increased weakness over the last week since 
+undergoing
+chemo on ___, now with trouble getting out of bed. Also
+endorses malaise and chills. He denies any chest pain, SOB,
+cough, abdominal pain, N/V/D, BRBPR, melena, or dysuria. He
+reports has not urinated since yesterday morning. He went to
+___ where he was found to be hypotensive. He was given 2L 
+IV
+fluids with no improvement and started on Levophed for pressure
+support. His lab work was notable for anemia and during the ED
+stay his Hct dropped from 27 to 22.3. He had brown, guaiac
+negative stools and no source of bleeding identified. He was
+transfused 1-unit PRBC. Received Vanc and Ceftaz for empiric
+antibiotics for sepsis coverage. He receives his oncology care
+here at ___ and was transferred for further evaluation.
+
+In the ED, 
+- Initial Vitals:
+
+98.7 98 94/62 22 100% RA
+Later spiked a fever to 101 in the ED 
+ 
+- Exam:
+Exam:
+Chronically ill appearing but not acutely toxic
+Port in upper chest is clean/dry/intact
+RRR
+CTA bilaterally
+Abdomen soft, nontender
+Skin warm and dry
+guaic negative
+AAOx3
+
+- Labs:
+hgb 9.6, wbc 7.1, plt 260, INR 1.8
+Na 135, Cr 2.4, K 4.8, Cl 101, bicarb 22, AG 12
+ALT 5, AST 72, Alk phos 87, T bili 2.4, trop 0.04, albumin 2.4,
+Mg 1.1, Ca 8.1, UA 6 WBC, few bacteria, neg leuks
+VBG, lactate normal
+Utox positive for cocaine
+
+- Imaging:
+Bedside ultrasound - FAST negative, collapsible IVC
+- CT AP
+1. No acute intra-abdominal or intrapelvic findings to correlate
+with the 
+patient's symptoms.  No retroperitoneal bleed.  No focal fluid
+collections 
+within the abdomen or pelvis. 
+2. Generalized mild anasarca and increased mesenteric stranding
+with small 
+amount of intra-abdominal ascites is new from prior, and may be
+secondary to 
+third spacing. 
+3. Overall appearance of metastatic disease is unchanged. 
+4. No change in a 2.5 cm right upper lobe nodule. 
+CXR
+FINDINGS:  
+  
+Mild bibasilar atelectasis more prominent on the right.  There 
+is
+an accessed 
+left chest wall chemo port which terminates at the cavoatrial
+junction.  No 
+focal consolidation.  No pneumothorax.  No pleural effusion.  
+The
+
+cardiomediastinal silhouette is stable.  No acute osseous
+abnormality. 
+  
+IMPRESSION:  
+No acute cardiopulmonary process. 
+
+- Consults: none
+
+- Interventions: Magnesium, 1 L NS, Tylenol, continued on norepi
+0.02
+
+ 
+Past Medical History:
+Gastric bypass
+Shoulder arthritis, rotator cuff injury awaiting surgery
+atrial fibrillation
+diabetes
+alcohol abuse
+fatty liver
+hypertension
+osteoarthritis of the knee
+radial nerve palsy
+sleep apnea
+GI bleed from PUD while on anticoagulation for afib
+ 
+Social History:
+___
+Family History:
+His brother had skin cancer though he does not think it was
+melanoma.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: HR 101, BP 100/60, RR 23, sat 100% RA
+GEN: AOx3, intermittently somnolent
+EYES: ___: no LAD, no JVP
+CV: irregularly irregular, no murmurs, palpable pulses
+RESP: CTAB, no wheezes or crackles
+GI: soft abdomen, nondistended non tender
+MSK: moves all 4 extremities with ease
+SKIN: no jaundice or scleral icterus appreciated, no palmar
+erythema, no rashes, no bruises
+NEURO: moves all extremities with ___ strength, normal sensation
+throughout, aox3
+PSYCH: linear thought process, no reports of hallucinations or
+delusions
+
+DISCHARGE PHYSICAL EXAM
+24 HR Data (last updated ___ @ 845)
+    Temp: 97.7 (Tm 98.3), BP: 119/90 (104-119/70-90), HR: 71
+(71-93), RR: 18, O2 sat: 94% (94-99), O2 delivery: Ra    
+Gen: NAD, A&Ox3 
+HENT: NCAT, MMM, EOMI. Multiple dental caries with several
+missing teeth 
+CV: RRR no mrg 
+Lung: CTAB, breathing comfortably
+Abd: NTND 
+Ext: trace pitting edema to the knee.
+Neuro: A&Ox3
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 03:52AM BLOOD WBC-7.1 RBC-2.73* Hgb-9.6* Hct-29.0* 
+MCV-106* MCH-35.2* MCHC-33.1 RDW-13.8 RDWSD-54.0* Plt ___
+___ 03:52AM BLOOD Neuts-53.2 ___ Monos-15.2* 
+Eos-2.4 Baso-1.3* Im ___ AbsNeut-3.78 AbsLymp-1.93 
+AbsMono-1.08* AbsEos-0.17 AbsBaso-0.09*
+___ 03:52AM BLOOD ___ PTT-40.5* ___
+___ 03:52AM BLOOD Glucose-84 UreaN-24* Creat-2.4* Na-135 
+K-4.8 Cl-101 HCO3-22 AnGap-12
+___ 03:52AM BLOOD ALT-5 AST-72* CK(CPK)-97 AlkPhos-87 
+TotBili-2.4*
+___ 03:52AM BLOOD Albumin-2.4* Calcium-8.1* Phos-3.6 
+Mg-1.1*
+___ 01:36PM BLOOD calTIBC-124* Hapto-14* Ferritn-907* 
+TRF-95*
+___ 01:36PM BLOOD TSH-20*
+___ 05:21PM BLOOD Free T4-1.0
+
+MICRO:
+======
+BCx ___- no growth to date
+
+Urine cx ___- no growth
+
+MRSA- negative
+
+IMAGING:
+========
+CT A/P ___. No acute intra-abdominal or intrapelvic findings to correlate 
+with the 
+patient's symptoms.  No retroperitoneal bleed.  No focal fluid 
+collections 
+within the abdomen or pelvis. 
+2. Generalized mild anasarca and increased mesenteric stranding 
+with small 
+amount of intra-abdominal ascites is new from prior, and may be 
+secondary to third spacing. 
+3. Overall appearance of metastatic disease is unchanged. 
+4. No change in a 2.5 cm right upper lobe nodule. 
+
+CT ABDOMEN ___. Near occlusive likely tumor thrombus within the right hepatic 
+vein 
+extending into the retrohepatic IVC, similar in extent compared 
+to ___ and contiguous with the right adrenal 
+metastasis.  Nonocclusive punctate thrombus in the middle 
+hepatic vein is also similar to prior. 
+2. New moderate bilateral pleural effusions. 
+3. Small volume ascites and diffuse anasarca have both increased 
+compared to prior. 
+4. Spleen is top-normal measuring 13.1 cm. 
+5. 2.8 cm right middle lobe pulmonary nodule consistent with 
+known metastasis is similar to prior.  12.3 cm right adrenal 
+metastasis is similar in size compared to prior.  Porta hepatis 
+lymphadenopathy is similar to ___ but enlarged since ___. 
+
+MR PITUITARY ___ CONTRASTStudy Date of ___ 9:17 ___
+1. Pituitary adenoma measuring up to 1.2 cm in the anterior 
+aspect, similar compared to ___.
+2. Metastatic lesion in the right frontal lobe measuring up to 
+1.9 cm with surrounding edema.
+
+DISCHARGE LABS:
+===============
+
+___ 05:55AM BLOOD WBC-7.3 RBC-2.54* Hgb-8.8* Hct-26.6* 
+MCV-105* MCH-34.6* MCHC-33.1 RDW-14.4 RDWSD-54.9* Plt ___
+___ 05:55AM BLOOD ___ PTT-34.7 ___
+___ 05:55AM BLOOD Glucose-95 UreaN-18 Creat-1.1 Na-137 
+K-4.7 Cl-104 HCO3-23 AnGap-10
+___ 05:55AM BLOOD Albumin-2.4* Calcium-7.9* Phos-4.4 Mg-2.1
+___ 05:55AM BLOOD TSH-15*
+___ 05:55AM BLOOD Free T4-0.8*
+ 
+Brief Hospital Course:
+___ with history of stage IV metastatic melanoma s/p resection 
+of abdominal mass and ALND on chemotherapy (nivolumab), AF not 
+on AC, PUD c/b GI bleed x2 (___), PE s/p IVC filter ___, 
+EtOH use, gastric bypass ___, hypothyroidism, DM, HLD, anemia, 
+who presented to ___ for 1 week of generalized weakness, 
+found to be hypotensive not responsive to 2L IVF, started on 
+levophed and transferred to ___. He was admitted to the ICU 
+for ongoing pressor requirement and shock of unknown etiology as 
+below. He was eventually weaned off and clinically improving so 
+he was called out of the ICU.
+
+ACUTE ISSUES
+===========
+#Adrenal Insufficiency 
+#Hypotension
+Initially thought to be due to poor PO intake resulting in 
+hypovolemia and continued use of diuresis vs sepsis however no 
+infectious source was localized on CXR, CT abd/pelv, or blood 
+culutres. The patient continued to be intermittently hypotensive 
+despite fluid resuscitation. on ___, the patient was noted to 
+have a low random cortisol level. He triggered ___ in the 
+evening for hypotension. He already had a positive cosyntropin 
+stimulation test prior to receiving IV hydrocortisone. The 
+steroids stabilized his blood pressure and he was continued on 
+them around the clock. The etiology of the adrenal insufficiency 
+is unclear, as it may be due to tumor invasion of the R adrenal 
+gland vs nivolumab induced adrenal insufficiency. Panhypopit was 
+a consideration although given the elevated tsh (discussed 
+below) this would not fit. An ACTH level was sent to confirm the 
+diagnosis. Endocrinology was consulted. The patient was also 
+noted to have hypothyroidism and hypogonadism. Pituitary MRI 
+showed a pituitary adenoma measuring up to 1.2 cm in the 
+anterior aspect, similar compared to ___. Ultimately, 
+he was discharged with hydrocort repletion. He will follow up in 
+___ clinic.
+
+#Primary Hypothyroidism ___ Nivolumab
+Patient reportedly takes synthroid at home for treatment of 
+hypothyroidism caused by his nivolumab. His TSH was elevated 
+although it was unclear if the patient was compliant with the 
+medication. He was noted to have an elevated antithyroglobulin 
+antibody level. Endocrine wanted to increase his dose to 100mcg.
+
+#Macrocytic Anemia
+Hemoglobin initially downtrended and then stabilized around 9, 
+believed to be likely initially a component of dilution. CT A/P 
+was without evidence of bleed. Anemia was thought to possibly be 
+related to alcohol or hypothyroidism. Also possibly an element 
+of hemoconcentration in the setting of recent poor PO intake. Hg 
+remained stable throughout the rest of the hospital course.
+
+#Atrial Fibrillation
+Continued digoxin. Held metoprolol while on norepinephrine with 
+plan to restart once
+stabilized
+
+#Melanoma Stage IV
+#New brain metastasis
+Patient has metastatic disease s/p resection of abdominal mass 
+and ALND on chemotherapy. He is on nevolumab C2D1 ___. He 
+is followed by heme/onc and palliative care as outpatient. 
+Pituitary MRI revealed new brain metastasis, for which he will 
+follow up with neuro-onc as an outpatient.
+
+#Myocardial injury
+Thought to be most likely from ___, with no ischemic changes on 
+EKG or reported chest pain, but did have cocaine use so would 
+consider direct cardiotoxic effect vs cocaine induced MI. Repeat 
+troponin downtrending. 
+
+#Acute Kidney Injury 
+Was believed to be most likely pre-renal from poor po intake, 
+though may have also had some renal toxicity from the cocaine. 
+Resolved.
+
+#PE s/p IVC filter ___:
+Continued to monitor
+
+#EtOH Abuse
+He was placed on ___ protocol 
+
+TRANSITIONAL ISSUES: 
+======================
+-Follow-up: Onc, neuro-onc, endocrinology, hepatology, dentistry
+-New medications: Hydrocortisone 20 mg qam and 10 mg qpm (for 
+adrenal insufficiency), MVI, thiamine, Peridex mouth wash BID 
+for 7 days (last day ___.
+-Changed medications: levothyroxine increased to 100mcg daily
+-Held medications: KCl, metoprolol. Please monitor K and BP as 
+an outpatient and consider restarting these medications.
+-Adrenal insufficiency: Likely related to his immunotherapy. 
+Endocrinology started him on hydrocort. Has instructions for 
+stress dose steroids. Needs a med alert bracelet.
+-Intracranial metastasis: New intracranial metastasis found on 
+MRI. His disease has been known progressive as an outpatient. He 
+will follow-up with neuro-onc as an outpatient.
+-Liver disease/ETOH use: Has evidence of alcohol-induced liver 
+damage and small ascites. Will need to continue ETOH cessation 
+management as well as hepatology follow-up.
+-Hypothyroidism: Synthroid was changed to 100 mcg per 
+endocrinology.
+-Hypogonadism: Low DHEA, consider testosterone if symptomatic.
+-Dental carries: He was seen by OMFS at ___ who recommended 
+extraction of multiple teeth and roots.
+and panorex. He should continue Peridex BID for 7days (last day 
+___
+-Consider sleep study evaluation for sleep apnea as patient has 
+had some oxygen desaturations overnight
+-Discharge labs: hgb 8.8, K 3.7, Cr 1.1.
+-Contact: ___ Relationship: brother Phone: 
+___ Cell phone: ___ 
+-Code status: Full
+
+This patient was prescribed, or continued on, an opioid pain 
+medication at the time of discharge (please see the attached 
+medication list for details). As part of our safe opioid 
+prescribing process, all patients are provided with an opioid 
+risks and treatment resource education sheet and encouraged to 
+discuss this therapy with their outpatient providers to 
+determine if opioid pain medication is still indicated.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 50 mg PO BID 
+2. Torsemide 10 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Levothyroxine Sodium 75 mcg PO DAILY 
+5. Potassium Chloride Dose is Unknown  PO DAILY 
+6. Cyanocobalamin Dose is Unknown  PO DAILY 
+7. Digoxin 0.125 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+RX *chlorhexidine gluconate [Peridex] 0.12 % 15 mL twice a day 
+Refills:*0 
+2.  Dexamethasone 4 mg IM ONCE:PRN feels ill and unable to take 
+PO steroids 
+Use if feeling very ill and unable to take oral hydrocortisone 
+due to nausea/vomiting. 
+RX *dexamethasone sodium phosphate 4 mg/mL 4 mg IM once Disp #*4 
+Syringe Refills:*0 
+3.  Hydrocortisone 20 mg PO QAM 
+RX *hydrocortisone 20 mg 1 tablet(s) by mouth every morning Disp 
+#*30 Tablet Refills:*0
+RX *hydrocortisone 20 mg 1 tablet(s) by mouth as directed Disp 
+#*9 Tablet Refills:*0 
+4.  Hydrocortisone 10 mg PO QPM 
+RX *hydrocortisone 10 mg 1 tablet(s) by mouth every afternoon 
+Disp #*30 Tablet Refills:*0 
+5.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+6.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0 
+7.  Levothyroxine Sodium 100 mcg PO DAILY 
+RX *levothyroxine 100 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+8.  Cyanocobalamin 100 mcg PO DAILY  
+9.  Digoxin 0.125 mg PO DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Torsemide 10 mg PO DAILY  
+12. HELD- Metoprolol Tartrate 50 mg PO BID  This medication was 
+held. Do not restart Metoprolol Tartrate until your doctor says 
+it is okay to restart
+13. HELD- Potassium Chloride Dose is Unknown  PO DAILY  This 
+medication was held. Do not restart Potassium Chloride until 
+your doctor says it is okay to restart
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+==================
+Adrenal Insufficiency 
+Hypothyroidism
+Metastatic melanoma
+
+Secondary Diagnosis:
+====================
+Hepatic vein DVT
+Macrocytic anemia
+Dental caries
+Hypogonadism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?
+-You were admitted because your blood pressure was low 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+-We found out your nivolumab has caused your body to not be able 
+to make steroids naturally 
+-We had our endocrinologists see you and they helped us find the 
+right dose of steroids to give you  
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+-Continue to take all your medicines and keep your appointments.
+-Please take your hydrocortisone 20mg in the morning and 10mg in 
+the afternoon. You were given a short term prescription to fill 
+at another pharmacy while your main pharmacy waits to get the 
+medication shipped. Please be sure to call your main pharmacy 
+tomorrow and a few days prior to any refills to be sure that 
+they have your medicine in stock. It is ESSENTIAL that you take 
+your hydrocortisone regularly.
+-Take double steroid dose for two days if you feel sick or have 
+a cold. Furthermore you should triple the dose for three days if 
+you are very ill. 
+-Take intra-muscular Dexamethasone 4mg if you have nausea or 
+vomiting and are unable to take your oral medications and you 
+feel extremely ill. 
+-Please talk to your outpatient doctor about retrieving a 
+medical bracelet indicating you have ADRENAL INSUFFICIENCY.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17563305-DS-7 | hadm_id=27642791
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zocor
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+___ 10:50PM BLOOD WBC-10.7* RBC-3.55* Hgb-10.5* Hct-32.6* 
+MCV-92 MCH-29.6 MCHC-32.2 RDW-17.0* RDWSD-57.2* Plt ___
+___ 10:50PM BLOOD Glucose-64* UreaN-8 Creat-0.6 Na-134* 
+K-4.3 Cl-100 HCO3-25 AnGap-9*
+___ 05:35AM BLOOD ALT-8 AST-26 LD(LDH)-334* AlkPhos-134* 
+TotBili-0.3
+___ 05:35AM BLOOD TSH-3.3
+___ 04:43AM BLOOD Digoxin-0.5*
+
+CT Abdomen/Pelvis w/ Contrast ___ at ___
+1. Increased right adrenal mass measuring up to 15.8 cm, again
+suspicious for primary malignancy or metastatic disease, given
+history of melanoma. The mass invades the IVC, and has mass
+effect on the liver and right kidney.
+2. Stable right posterior pararenal 1.1 cm nodular deposit, also
+concerning for metastatic focus.
+3. Stable heterogenous attenuation of the liver, possibly due to
+mass efect.
+4. Increased right middle lobe 2.2 cm nodule, concerning for
+metastatic disease.
+5. Stable small moderate right pleural effusion and right lung
+base compressive atelectasis versus consolidation. Interval
+resolution of left pleural effusion.
+6. Increased bilateral flank soft tissue swelling.
+7. Small volume pelvic ascites.
+8. Colonic diverticulosis without evidence of acute
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES
+=========================
+- Follow up with Oncology for progression of malignancy.
+- On ciprofloxacin PO (same bioavailability as IV). for GNR 
+bacteremia. Note cultures from ___ health couldn't 
+speciate the GNR in only one sample (failed to grow in both 
+aerobic and anaerobic cultures). Low risk it's not covered by 
+cipro (which covers most GNRs) but patient is aware he needs 
+close monitoring if he spikes in the event organism is not 
+covered by Ciprofloxacin.
+
+Mr. ___ is a ___ male with atrial 
+fibrillation and DVT (on apixaban), adrenal insufficiency, and 
+metastatic melanoma to the brain s/p resection and radiation 
+with plan to
+start clinical trial protocol ___ who presented with 
+abdominal pain, nausea, and fatigue.
+
+# Sepsis (febrile, leukocyrosis)
+# GNR bacteremia
+Pt found to have GNR bacteremia (found in OSH labs) of unclear 
+etiology. This is most likely a GI source, maybe from a GI 
+compromise related to his metastatic cancer, vs dental source. 
+No localizing symptoms except for R abd pain likely ___ pt's 
+mass and non-specific teeth pain. UA negative. LFTs were mildly 
+elevated but not consistent with obstructive cholangitis and 
+___ sign was negative. Initially on empiric vancomycin, 
+ceftriaxine, and flagyl --> narrowed to
+CTX based on GNR bacteremia. ___ at ___ 
+couldn't speciate the final organism as it did not grow both in 
+aerobic and anaerobic cultures. Given such good clinical 
+improvement, the patient was discharged on ciprofloxacin PO 
+(same bioavailability as IV) with plan for 14 day treatment 
+given immune status with malignancy and likely treatment.
+
+# Abdominal Pain:
+# Nausea: Pain may be secondary to enlarging right adrenal mass 
+(read as 15.8 cm at ___, last CT here in ___ noted as 
+12.4 x 10.5 cm). Abdominal CT without acute process. Also could
+consider bone/right met/injury. Pain control with tylenol or 
+tramadol or morphine PRN. Pt reports that he does not handle 
+oxycodone well. 
+
+# Elevated Troponin: Possible type II NSTEMI. Denies cardiac 
+symptoms, including chest pain. EKG reports junctional rhythm 
+with no signs of ACS; Troponin trend was flat
+
+# Metastatic Melanoma:
+# Secondary Neoplasm of Brain:
+# Secondary Neoplasm of Adrenal: Plan was to start clinical 
+trial protocol ___. Email sent to Dr. ___ concern 
+for progression of cancer). Patient being seen in clinic on 
+___
+
+# Atrial Fibrillation: Continued home apixaban. Continued home 
+digoxin. Dig level slightly low but pt is rate controlled; kept 
+same dose of dig
+
+# Secondary Adrenal Insufficiency: Secondary to check 
+pointinhibitor therapy: Doubled dose of hydrocortisone to 30mg 
+qAM and 10mg qPM on admission. Decreased back to home dose prior 
+to dispo
+
+# IVC Thrombus ___ tumor compression
+# DVT/PE: Continued home apixaban. No sign of IVC syndrome on 
+exam.
+
+# Malnutrition: Patient with low albumin and poor PO intake.
+
+# Hypothyroidism
+Continued home levothyroxine
+
+# Anemia in Malignancy: Stable. No evidence of bleeding.
+
+# Alcohol Use Disorder:
+# NAFLD: Steatosis but not cirrhosis noted on imaging. Not 
+showing signs of withdrawal.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Cyanocobalamin 100 mcg PO DAILY 
+3. Digoxin 0.125 mg PO DAILY 
+4. Hydrocortisone 15 mg PO QAM 
+5. Hydrocortisone 5 mg PO QPM 
+6. Levothyroxine Sodium 75 mcg PO DAILY 
+7. Colchicine 0.6 mg PO DAILY:PRN gout flare 
+8. Multivitamins W/minerals 1 TAB PO DAILY 
+9. Omeprazole 20 mg PO DAILY 
+10. Solu-CORTEF (hydrocorTISone Sod Succinate) 100 mg IM PRN 
+11. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+12. iron 18 mg PO DAILY 
+13. melatonin 5 mg PO QHS:PRN insomnia 
+14. DiphenhydrAMINE 50 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day (end date ___ Disp #*20 Tablet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  Apixaban 5 mg PO BID  
+4.  Colchicine 0.6 mg PO DAILY:PRN gout flare  
+5.  Cyanocobalamin 100 mcg PO DAILY  
+6.  Digoxin 0.125 mg PO DAILY  
+7.  DiphenhydrAMINE 50 mg PO QHS:PRN insomnia  
+8.  Ferrous Sulfate 18 mg PO DAILY  
+9.  Hydrocortisone 5 mg PO QPM  
+10.  Hydrocortisone 15 mg PO QAM  
+11.  Levothyroxine Sodium 75 mcg PO DAILY  
+12.  melatonin 5 mg PO QHS:PRN insomnia  
+13.  Multivitamins W/minerals 1 TAB PO DAILY  
+14.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+GNR bacteremia
+Sepsis
+Abdominal pain
+Metastatic melanoma
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted due to not feeling well. You significantly 
+improved on antibiotics. We suspect you had an infection given 
+your blood cultures came back positive from ___. 
+Unfortunately the exact organism couldn't be speciated and we 
+thus treated you with antibiotics that would cover a GNR 
+bacteremia.
+
+Please follow up with your oncologist as planned after 
+discharge.
+
+It was a pleasure being part of your care
+Your  ___ team
+ 
+Followup Instructions:
+___

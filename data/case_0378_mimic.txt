@@ -1,0 +1,220 @@
+===== DISCHARGE NOTE =====
+note_id=13441769-DS-14 | hadm_id=28215087
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ___
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+Arthrocentesis of R knee
+ 
+History of Present Illness:
+___ with no PMH  presented to the ED on ___ with sore throat,
+myalgias, HA, cough, high fevers at home, no flu checked in ED.
+The patient was thought to have bacterial PNA superimposed with
+bibasilar opacities on CXR; staretd on Levaquin, and sent home.
+Came back on ___, febrile, tachy to 114, tachypneic to 28,
+hypoxic to 88% on RA. CXR showed diffuse bilateral infiltrates 
+in
+the LLL, LUL, RML, RUL; started on CTX and azithro, stopped
+Levaquin. The patient's oxygen requirements increased to 5L, and
+vanc was started. The patient was positive for flu A and had
+deferred flu shot. Origional ABG was ___ on ventimask 
+50%,
+tahcypneic to ___, and transferred to MICU. The patient became
+more tahcypniec around 1500 with ___, and the patient was
+intubated around 1800. The patient became dyssynchoronous 
+despite
+versed, fent and prop. He was then paralyzed. Oxygenation
+improved with paralysis to 96% from 70-80, FiO2 100% PEEP 12;
+increased PEEP to 16 VT 450, RR 20, SpO2 95% with an ABG
+7.24/53/152/22.  The patient was never proned but was treated
+with Tamiflu, vanc, CTX, azithro. 
+
+Upon arrival to the ICU, patient was intubated and sedated 
+
+ 
+Past Medical History:
+none 
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+GENERAL: well-nourished man resting in bed in NAD. 
+HEENT: PERRL, OP clear
+CARDIAC: RRR no m/r/g
+PULMONARY: breathing is non-labored. Good air entry with rales
+LLL and RLL
+ABDOMEN: soft non-tender 
+EXTREMITIES: Right knee with palpable mild effusion, No longer 
+warm, no erythema. Very mild
+tenderness to palpation. Patient able to flex knee without
+eliciting significant pain. 
+NEURO: alert and oriented, face symmetric, moving all
+extremities. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+=====================
+___ 12:11AM BLOOD WBC-3.5* RBC-3.83* Hgb-10.7* Hct-33.0* 
+MCV-86 MCH-27.9 MCHC-32.4 RDW-14.8 RDWSD-46.9* Plt ___
+___ 12:11AM BLOOD Neuts-74.8* Lymphs-17.5* Monos-6.6 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-2.61 AbsLymp-0.61* 
+AbsMono-0.23 AbsEos-0.00* AbsBaso-0.00*
+___ 12:11AM BLOOD ___ PTT-21.0* ___
+___ 12:11AM BLOOD Glucose-137* UreaN-11 Creat-1.0 Na-141 
+K-4.8 Cl-106 HCO3-21* AnGap-14
+___ 12:11AM BLOOD ALT-71* AST-87* AlkPhos-54 TotBili-0.6
+___ 06:02PM BLOOD HIV Ab-NEG
+
+MICROBIOLOGY
+======================
+
+RELEVANT STUDIES
+======================
+___ RUQ U/S: 
+1. No signs acute cholecystitis. 
+2. Echogenic liver consistent with steatosis. Other forms of 
+liver disease 
+including steatohepatitis, hepatic fibrosis, or cirrhosis cannot 
+be excluded on the basis of this examination. 
+3. Mild splenomegaly. 
+4. Small bilateral pleural effusions.
+
+___ CT HEAD W/O CONTRAST:
+1. No evidence of an acute intracranial abnormality. 
+2. Small air-fluid level in the sphenoid sinus raising the 
+possibility of 
+developing sinusitis. 
+
+DISCHARGE LABS
+====================== 
+
+___ 07:05AM BLOOD WBC-5.3 RBC-3.84* Hgb-10.6* Hct-32.2* 
+MCV-84 MCH-27.6 MCHC-32.9 RDW-13.4 RDWSD-41.1 Plt ___
+___ 07:05AM BLOOD Glucose-115* UreaN-18 Creat-0.6 Na-144 
+K-4.0 Cl-107 HCO3-25 AnGap-12
+___ 07:05AM BLOOD Mg-2.3 UricAcd-5.7
+___ 05:10PM BLOOD ___ CRP-64.1*
+___ 05:10PM BLOOD HIV Ab-NEG
+
+ESR: ___ year old male with no significant past medical history
+presents to the ICU as a transfer from OSH with acute 
+respiratory
+failure secondary to influenza complicated by ARDS, and new R
+knee effusion likely inflammatory
+
+#Acute Hypoxemic Respiratory Failure; ARDS
+#Flu A positive 
+Positive flu swab at OSH with fevers, respiratory symptoms and
+bilateral hazy opacities on CXR and flu A positive. P/F ratio 
+150
+at lowest consistent with ARDS requiring paralysis and lung
+protective ventilation strategy. Patient self extubated on ___
+as been stable on NC since that time, currently 4L. On Tamiflu
+with low suspicion for superimposed bacterial process at this
+time. Patient without significant volume overload on exam but 
+has
+been receiving diuresis in ICU given pulmonary edema (due to
+capillary leak in setting of ARDS). Currently off o2, doing very 
+well, no need for diuresis.
+
+- continue oseltamivir 75mg BID (day 1 = ___ to complete 7d
+- defer antibiotics at this time 
+
+#Right knee effusion
+Pain with ambulation and moderate effusion of right knee. No
+prior trauma. Effusion is tapped, no crystals, 4k wbc very
+unlikely to be septic. Uric acid only in the 5s so unlikely gout
+flair. Lyme vs GC comes to mind. Lyme titers sent, will get
+GC/chlam tesing, cultures pending. ESR/CRP high, may be hinting 
+at inflammatory arthritis.
+Knee pain improved after tap. Patient freely ambulatory. Would 
+defer further workup to outpatient.
+- continue ibuprofen q8h prn
+- trial ice pack/hot packs
+- ___ culture pending
+
+CHRONIC ISSUES
+=============
+#Elevated Transaminases - resolved
+Low suspicion for shock liver as he has been largely 
+normotensive
+despite transient pressor requirement. Suspect due to viral
+illness. 
+-trend LFT's until improving
+
+BUNDLE: 
+========
+#FEN: Regular diet, No IVF, replete lytes prn 
+#ACCESS: 4 PIV, RIJ now removed    
+#DVT ppx: SQH  
+#CODE STATUS: FULL 
+#CONTACT: Wife ___, ___
+#DISPO: home
+
+___, MD
+___ of Hospital ___ 
+___ 
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth three times a day Disp 
+#*60 Tablet Refills:*0 
+2.  OSELTAMivir 75 mg PO BID 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth twice a day Disp #*4 
+Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Influenza
+R knee effusion
+ 
+Discharge Condition:
+good, ambulatory without assist
+ 
+Discharge Instructions:
+Mr. ___,
+You were admitted to the hospital due to respiratory failure. 
+You were found to have a severe influenza infection and was 
+treated with Tamiflu. Please continue to take Tamiflu for 2 more 
+days to complete a total of 7 days given how severe you flu was.
+Your right knee became swollen, and our orthopedic surgeon took 
+out some fluids. It did not show evidence of bacterial 
+infection, or crystals to suggest gout. Your inflammatory 
+markers are quite high, but that could be from your influenza. 
+There are a few tests pending (lyme, gonococcal, ___, culture) 
+for the knee. Please follow up with your primary care doctor 
+within 1 week, and request records from ___. If any of those 
+results comes back concerning, we will try to contact you and 
+your PCP about them.
+It was a pleasure taking care of you in ___!
+ 
+Followup Instructions:
+___

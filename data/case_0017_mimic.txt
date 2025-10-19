@@ -1,0 +1,468 @@
+===== DISCHARGE NOTE =====
+note_id=17878754-DS-16 | hadm_id=22500323
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+obstruction at ostomy
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic converted to open revision of colostomy, 
+mobilization of splenic flexure, placement of Prevena VAC
+
+ 
+History of Present Illness:
+This is a ___ man who 6 weeks prior,
+underwent a robotic APR for anal cancer.  He presented with a
+large bowel obstruction from a strictured anastomosis, 
+complaining of Abd
+pain, N/V. The patient has had 3 days of decreased ostomy
+output. He also complains of nausea and vomiting. He was
+transferred from ___. There is no fever
+or chills. Attempt was made to see if we can access his 
+colostomy and
+dilate it a little bit, but it was not possible to do. 
+Therefore, the decision was to proceed to an operating room. 
+
+ 
+Past Medical History:
+Otherwise, healthy.
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended distended, tender to palpation. Ostomy 
+in
+place - edematous but pink and viable with red rubber in os,
+bilious liquid drainage in ostomy bag. 
+Ext: WWP
+NEURO: A&Ox3, no focal neurologic deficits
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+WOUND:
+[ ] foley ___________
+[x] ostomy ___________
+[ ] surgical drain ___________
+[ ] prevena ___________
+
+ 
+Pertinent Results:
+___ 04:05PM URINE  HOURS-RANDOM
+___ 04:05PM URINE  UHOLD-HOLD
+___ 04:05PM URINE  COLOR-Straw APPEAR-Hazy* SP ___
+___ 04:05PM URINE  RBC-2 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 04:05PM URINE  MUCOUS-OCC*
+___ 02:10PM   estGFR-Using this
+___ 02:10PM   LIPASE-122*
+___ 02:10PM   ALBUMIN-3.4*
+___ 02:10PM   WBC-7.4 RBC-3.67* HGB-11.2* HCT-34.1* MCV-93 
+MCH-30.5 MCHC-32.8 RDW-12.4 RDWSD-42.2
+___ 02:10PM   NEUTS-69.0 ___ MONOS-7.7 EOS-0.3* 
+BASOS-0.4 IM ___ AbsNeut-5.13 AbsLymp-1.65 AbsMono-0.57 
+AbsEos-0.02* AbsBaso-0.03
+___ 02:10PM   PLT COUNT-444*
+___ 02:10PM   ___ PTT-32.4 ___
+ 
+Brief Hospital Course:
+Mr ___ presented to the emergency department on ___ and 
+was found to have a bowel obstruction at his ostomy site. He was 
+taken to the operating room on ___ for a laparoscopic 
+ileostomy revision that was converted to an open procedure 
+intraoperatively. He tolerated the procedure well without 
+complications (Please see operative note for further details). 
+After a brief and uneventful stay in the PACU, the patient was 
+transferred to the floor for further post-operative management.
+
+Neuro: Pain was well controlled on oxycodone. 
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. Had good pulmonary 
+toileting, as early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+
+GI: The patient was initially kept NPO after the procedure. The 
+patient was later advanced to and tolerated a regular diet at 
+time of discharge. Patient's intake and output were closely 
+monitored
+
+GU: The patient had a Foley catheter that was removed at time of 
+discharge. Urine output was monitored as indicated. At time of 
+discharge, the patient was voiding without difficulty.
+
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever. He was on IV antibiotics while in the 
+hospital prophylactically but showed no sign of infection. 
+
+Heme: The patient had blood levels checked daily during their 
+hospital course to monitor for signs of bleeding. The patient 
+received subcutaneous heparin and ___ dyne boots were used 
+during this stay, he/she was encouraged to get up and ambulate 
+as early as possible. The patient is being discharged on a 
+prophylactic dose of Lovenox. 
+
+On ___, the patient was discharged to home. At discharge, he 
+was tolerating a regular diet, passing flatus,  voiding, and 
+ambulating independently. He will follow-up in the clinic in ___ 
+weeks. This information was communicated to the patient directly 
+prior to discharge.
+
+Post-Surgical Complications During Inpatient Admission:
+[x] Post-Operative Ileus resolving w/o NGT
+[ ] Post-Operative Ileus requiring management with NGT
+[ ] UTI
+[ ] Wound Infection
+[ ] Anastomotic Leak
+[ ] Staple Line Bleed
+[ ] Congestive Heart failure
+[ ] ARF
+[ ] Acute Urinary retention, failure to void after Foley D/C'd
+[ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+[ ] DVT
+[ ] Pneumonia
+[ ] Abscess
+[ ] None
+
+Social Issues Causing a Delay in Discharge:
+[ ] Delay in organization of ___ services
+[ ] Difficulty finding appropriate rehab hospital disposition.
+[ ] Lack of insurance coverage for ___ services
+[ ] Lack of insurance coverage for prescribed medications.
+[ ] Family not agreeable to discharge plan.
+[ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+[x] No social factors contributing in delay of discharge.
+
+ 
+Medications on Admission:
+Docusate Sodium 100 mg PO/NG TID 
+OxyCODONE (Immediate Release) 5 mg PO/NG Q6H:PRN Pain - Moderate 
+Phenazopyridine 100 mg PO TID Duration: 3 Days 
+TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO TID  
+3.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe subcutaneous once a day 
+Disp #*30 Syringe Refills:*0 
+4.  Milk of Magnesia 30 mL PO Q6H:PRN Constipation - First Line  
+
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+6.  Phenazopyridine 100 mg PO TID Duration: 3 Days  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Stomal stricture and stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital after an open revision of your 
+colostomy. You have recovered from this procedure well and you 
+are now ready to return home. Samples of tissue were taken and 
+has been sent to the pathology department. You will receive 
+these pathology results at your follow-up appointment. If there 
+is an urgent need for the surgeon to contact you regarding these 
+results they will contact you before this time. 
+
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to discharge which is 
+acceptable; however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected. However, if you notice that you are passing bright red 
+blood with bowel movements or having large amounts of loose 
+stool without improvement please call the office or go to the 
+emergency room. While taking narcotic pain medications you are 
+at risk for constipation. Please take an over the counter stool 
+softener such as Colace, and if the symptoms do not improve call 
+the office.
+
+If you have any of the following symptoms please call the office 
+at ___:
+
+fever greater than 101.5
+increasing abdominal distension
+increasing abdominal pain
+nausea/vomiting
+inability to tolerate food or liquids
+prolonged loose stool
+extended constipation
+inability to urinate
+
+Incisions:
+
+You have a long vertical surgical incisions on your abdomen. It 
+is important that you monitor these areas for signs and symptoms 
+of infection including: increasing redness of the incision 
+lines, white/green/yellow/malodorous drainage, increased pain at 
+the incision, increased warmth of the skin at the incision, or 
+swelling of the area.
+
+You may shower; pat the incisions dry with a towel, do not rub.  
+If you have steri-strips (the small white strips), they will 
+fall off over time, please do not remove them. Please do not 
+take a bath or swim until cleared by the surgical team.
+
+Pain
+
+It is expected that you will have pain after surgery, this will 
+gradually improve over the first week or so you are home.  You 
+should continue to take 2 Extra Strength Tylenol (___) for 
+pain every 8 hours around the clock. Please do not take more 
+than 3000mg of Tylenol in 24 hours or any other medications that 
+contain Tylenol such as cold medication. Do not drink alcohol 
+while taking Tylenol.  You may also take Advil (Ibuprofen) 600mg 
+every 8 hours for 7 days, please take Advil with food. If these 
+medications are not controlling your pain to a point where you 
+can ambulate and perform minor tasks, you should take a dose of 
+the narcotic pain medication oxycodone.  Please do not take 
+sedating medications or drink alcohol while taking the narcotic 
+pain medication. Do not drive while taking narcotic medications.
+
+Activity
+
+You may feel weak or "washed out" for up to 6 weeks after 
+surgery. Do not lift greater than a gallon of milk for 3 weeks. 
+At your post op appointment, your surgical team will clear you 
+for heavier exercise.  In the meantime, you may climb stairs, 
+and go outside and walk.  Please avoid traveling long distances 
+until you speak with your surgical team at your post-op visit.  
+Again, please do not drive while taking narcotic pain 
+medications. 
+
+You will be discharged home on Lovenox injections to prevent 
+blood clots after surgery. You will take this for 30 days after 
+your surgery date, please finish the entire prescription. This 
+will be given once daily. Please follow all nursing teaching 
+instruction given by the nursing staff. Please monitor for any 
+signs of bleeding: fast heart rate, bloody bowel movements, 
+abdominal pain, bruising, feeling faint or weak. If you have any 
+of these symptoms please call our office or seek medical 
+attention. Avoid any contact activity while taking Lovenox. 
+Please take extra caution to avoid falling.
+
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17878754-DS-15 | hadm_id=28134558
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+ANAL CANCER
+ 
+Major Surgical or Invasive Procedure:
+ABDOMINO-PERINEAL RESECTION ROBOTIC LAPAROSCOPIC, STENT 
+PLACEMENT 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man who presents
+today with his wife and as a ___ interpreter.  He
+unfortunately is scattered regarding his oncologic history. 
+However, it seems that he had concurrently diagnosed prostate 
+and
+urothelial squamous cell cancer in ___.  He underwent
+prostatectomy at ___ and radiation therapy combined
+with one dose of chemotherapy with one month of radiation, 
+though
+it seems on his history, his chemotherapy actually came before
+the radiation.  His radiation was performed at ___ ___.  At ___, he received his
+chemotherapy.  He states he has done well since that time.  He
+has anastomosis of his urethra into his perineum, which he has
+control over.
+
+He states he does not follow up for these issues further.  In
+about ___, he noted a tender anal mass, which was itchy and
+a lump and a little protuberant.  He underwent evaluation, which
+was done by anoscopy at ___ and showed
+an invasive squamous cell cancer, moderately differentiated,
+extending to peripheral specimen edge with the tumor size being
+1.1 cm or pT1.
+
+ 
+Past Medical History:
+Otherwise, healthy.
+ 
+Physical Exam:
+gen: NAD
+cv: rrr
+pulm: nonlabored breathing on room air
+abd: colostomy bag in place; stoma is dark in color when 
+examining the mucosa. Unable to transilluminate the most 
+superficial portion, but with a test tube, able to see pink 
+tissue deeper.
+
+ 
+Pertinent Results:
+___ 06:42AM BLOOD WBC-8.8 RBC-3.76* Hgb-11.5* Hct-35.1* 
+MCV-93 MCH-30.6 MCHC-32.8 RDW-12.5 RDWSD-43.3 Plt ___
+___ 06:30AM BLOOD WBC-9.7 RBC-3.75* Hgb-11.3* Hct-35.2* 
+MCV-94 MCH-30.1 MCHC-32.1 RDW-12.5 RDWSD-43.6 Plt ___
+___ 06:03AM BLOOD WBC-9.9 RBC-3.71* Hgb-11.6* Hct-34.9* 
+MCV-94 MCH-31.3 MCHC-33.2 RDW-13.0 RDWSD-44.7 Plt ___
+___ 06:42AM BLOOD Glucose-93 UreaN-9 Creat-0.8 Na-144 K-4.2 
+Cl-104 HCO3-26 AnGap-14
+___ 06:30AM BLOOD Glucose-96 UreaN-8 Creat-0.8 Na-143 K-4.1 
+Cl-104 HCO3-28 AnGap-11
+___ 06:03AM BLOOD Glucose-93 UreaN-11 Creat-0.8 Na-142 
+K-4.1 Cl-105 HCO3-27 AnGap-10
+___ 06:42AM BLOOD Calcium-8.7 Phos-3.6 Mg-2.0
+___ 06:30AM BLOOD Calcium-8.4 Phos-3.1 Mg-2.0
+___ 06:03AM BLOOD Calcium-8.3* Phos-2.8 Mg-2.0
+___ 09:08PM BLOOD HBsAg-NEG
+___ 09:08PM BLOOD HIV Ab-NEG
+___ 09:08PM BLOOD HCV Ab-NEG
+ 
+Brief Hospital Course:
+Patient underwent ABDOMINO-PERINEAL RESECTION ROBOTIC 
+LAPAROSCOPIC, STENT PLACEMENT. Please see operative note for 
+details. On ___, foley was removed and he voided, and was on 
+clears which he tolerated. On ___, he was ambulating, 
+tolerating crackers. On ___, he was tolerating a regular diet. 
+The mucosa of his stoma appeared necrotic and was not able to be 
+transilluminated, but by inserting a test tube into the stoma 
+and shining a light, pink healthy tissue was appreciated just 
+deep to the mucosa. JP drain was removed. His vitals were 
+stable, ambulating, tolerating diet, voiding, and he was stable 
+for discharge home. Appropriate follow up appointments and 
+instructions were given.
+ 
+Medications on Admission:
+oxycodone prn, Zofran prn
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID  
+2.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe sc once a day Disp #*30 
+Syringe Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*10 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+ANAL CANCER
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+LOVENOX
+You will be discharged home on Lovenox injections to prevent 
+blood clots after surgery. You will take this for 30 days after 
+your surgery date, please finish the entire prescription. This 
+will be given once daily. Please follow all nursing teaching 
+instruction given by the nursing staff. Please monitor for any 
+signs of bleeding: fast heart rate, bloody bowel movements, 
+abdominal pain, bruising, feeling faint or weak. If you have any 
+of these symptoms please call our office for advice or seek 
+medical attention if there is an emergency. Avoid any contact 
+activity while taking Lovenox. Please take extra caution to 
+avoid falling.
+
+--
+
+You have a new colostomy. It is important to monitor the output 
+from this stoma. It is expected that the stool from this ostomy 
+will be solid and formed like regular stool. You should have ___ 
+bowel movements daily. If you notice that you have not had any 
+stool from your stoma in ___ days, please call the office. You 
+may take an over the counter stool softener such as Colace if 
+you find that you are becoming constipated. Please watch the 
+appearance of the stoma (intestine that protrudes outside of 
+your abdomen), it should be beefy red/pink, if you notice that 
+the stoma is turning darker blue or purple, or dark red please 
+call the office for advice. The stoma may ooze small amounts of 
+blood at times when touched but this will improve over time. The 
+skin around the ostomy site should be kept clean and intact. 
+Monitor the skin around the stoma for any bulging or signs of 
+infection listed above. Please care for the ostomy as you have 
+been instructed by the ostomy nurses. ___ the skin around 
+the stoma for any bulging or signs of infection listed above. 
+You will be able to make an appointment with the ostomy nurse in 
+the clinic ___ weeks after surgery. Please call the ostomy 
+nurses clinic number which is listed in the ileostomy/colostomy 
+handout packet given to you by the nursing staff. You will also 
+have a visiting nurse at home for the next few weeks to help 
+monitor your ostomy until you are comfortable caring for it on 
+your own.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,406 @@
+===== DISCHARGE NOTE =====
+note_id=14409048-DS-19 | hadm_id=23842385
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ M with a history of systolic CHF, s/p MVR on 
+coumadin, chronic kidney disease, and dementia who experienced 
+the sudden onset of abdominal pain this morning around 9:00 AM 
+while at his podiatrist's office.  He was referred to the ED 
+where he was noted to have pain out of proportion to exam. He 
+underwent CT scan which did not reveal acute cause of his pain. 
+While in the ED, he had a bowel movement with a small amount of 
+bright red blood, then another with more blood, then a third 
+with more blood. He simultaneously became tachycardic to the 
+120s though maintained his blood pressure. After administration 
+of a dose of IV morphine, his pain resolved.
+.  
+Upon arrival to the ED vitals were: T 96.8, HR 88, BP 116/64, RR 
+16,  100% on RA. He received 4 mg IV morphine for pain and 500 
+cc IVF, after which he dropped O2 sat to upper ___ which 
+improved with deep breaths to mid-90s. GI team was consulted 
+from ED and stated they would consult on patient tomorrow, no 
+urgent intervention unless decompensates. His PCP/cardiologist 
+Dr. ___ was contacted from the ED and recommended giving FFP 
+in the setting of bleed despite his mechanical valve. While in 
+the ED, he received 4 mg IV mophine, 500 cc IVF, IV Zofran, 1 
+unit FFP (started). He was ordered for a unit of pRBCs but did 
+not receive it. Vitals prior to transfer to the MICU were: 
+Afebrile, HR 124, BP 122/80, O2 sat 94% on RA.
+.
+MEDICINE HPI:
+In brief, this is a ___ with dementia, chronic systolic CHF with 
+an EF of ___, Afib and MVR on warfarin, and dementia who 
+presented with BRBPR. He was taken to the ED where he received a 
+bolus of NS 500 mL x1 and became more hypoxic. Given his 
+abdominal pain and bleeding, a CT scan was done of his abdomen 
+and GI and General Surgery were consulted. The CT showed no 
+acute abdominal process and severe cardiomegaly with mixing 
+artifact in the spleen. Given his comorbidities, borderline BP, 
+and risk of bleeding he was admitted to the MICU for further 
+management. In the MICU overnight his H/H were stable and he was 
+ultimately called out to Medicine for further management. Of 
+note, review of notes and history shows that the patient had 
+been having severe abdominal pain, but he does not relate that 
+history.  
+.  
+On the floor he is oriented to person only. He denies any pain 
+or SOB but is on oxygen. He reports that he is thirsty. He 
+cannot fully explain why he is here, but reports "all kinds of 
+problems" as leading to his admission.  
+.  
+Review of Systems:  
+(+) Per HPI  
+(-) Review of Systems: GEN: No fever, chills, night sweats, 
+recent weight loss or gain. HEENT: No headache, sinus 
+tenderness, rhinorrhea or congestion. CV: No chest pain or 
+tightness, palpitations. PULM: No cough, shortness of breath, or 
+wheezing. GI: No nausea, vomiting, + diarrhea. GUI: No dysuria 
+or change in bladder habits. MSK: No arthritis, arthralgias, or 
+myalgias. DERM: No rashes or skin breakdown. NEURO: No 
+numbness/tingling in extremities. PSYCH: No feelings of 
+depression or anxiety. All other review of systems negative.  
+
+ 
+Past Medical History:
+- Chronic systolic CHF (last echo in our system LVEF ___ in 
+___ EF 15%per last discharge summary ___  
+- Dementia  
+- Hyperlipidemia  
+- Paroxysmal atrial fibrillation  
+- Hypertension  
+- Diabetes mellitus type II (diet-controlled, not on meds)  
+- Multiple prior UTI  
+- Multiple prior CVA (last ___  
+- S/p MVR ___ on coumadin)  
+- S/p left inguinal hernia repair (___)  
+
+ 
+Social History:
+___
+Family History:
+- Mother had hypertension and diabetes
+
+ 
+Physical Exam:
+MICU admission:
+GEN: Resting in bed. Responding to questions appropriately, 
+somewhat confused about details of his medical care but states 
+that his daughter helps him.
+HEENT: Conjunctiva are pink. Swelling of left upper eyelid, not 
+botehrsome to patient. Dry mucous membranes.
+NECK: JVP not elevated. 
+PULM: CTA bilaterally, though somewhat poor cooperation with 
+exam
+CARD: Tachycardic to 110s, regular, + mechanical MV sounds
+ABD: Soft, distended somewhat asymetrically above umbilicus, no 
+TTP, + BS, no rebound/guarding
+EXT: Trace pedal edema, palpable DP pulses
+PSYCH: Appropriate, cooperative as able
+
+Medicine Admission:
+VS: T 96.1 P 54 BP 126/52 R 22 945 on 2L NC O2  
+GEN: NAD  
+HEENT: Dry MM, JVP to 10 cm, neck supple, no cervical, 
+supraclavicular, or axillary LAD  
+Cards: Irregular, loud S1, low pitched holosystolic murmur II/VI 
+at the mid left sternal border, PMI difficult to assess 
+?displaced to the anterior axillary line  
+Pulm: No dullness to percussion, bibasilar crackles, no wheezes  
+
+Abd: BS+, soft, NT, no rebound/guarding, liver palpable just 
+below the costal margin  
+Limbs: No ___ edema, no tremors or asterixis  
+Skin: No rashes or bruising  
+Neuro: CNs II-XII intact. ___ strength diffusely, toes up 
+bilaterally, +palmomental but - ___ and ___ frontal 
+signs, reflexes diffusely 1+, gait not assessed  
+
+Discharge:
+GEN: NAD. on RA  
+VS: T 96.2 Tm 98.8 P 70(56-135) BP 114/61 (104-131/61-85) R 21 
+94% on RA  
+HEENT: MMM, no OP lesions, no LAD, JVP 9cm  
+CV: Irregular, II/VI holosystolic murmur, PMI in the axillary 
+line  
+PULM: CTAB  
+ABD: BS+, NTND, no HSM  
+LIMBS: no ___ edema, no tremors or asterixis  
+NEURO: Grossly nonfocal, A and O x 3  
+
+ 
+Pertinent Results:
+Admission
+___ 12:10PM BLOOD ___ PTT-26.3 ___
+___ 12:10PM BLOOD Glucose-133* UreaN-34* Creat-1.6* Na-141 
+K-5.9* Cl-104 HCO3-22 AnGap-21*
+___ 12:10PM BLOOD Albumin-4.7 Calcium-9.2 Phos-4.2 Mg-2.2
+
+Discharge
+___ 06:45AM BLOOD WBC-7.5 RBC-4.04* Hgb-12.8* Hct-37.5* 
+MCV-93 MCH-31.7 MCHC-34.2 RDW-14.5 Plt Ct-75*
+___ 06:45AM BLOOD ___ PTT-27.6 ___
+___ 06:45AM BLOOD Glucose-127* UreaN-40* Creat-1.5* Na-146* 
+K-3.8 Cl-112* HCO3-22 AnGap-16
+___ 06:45AM BLOOD Calcium-8.2* Phos-1.6* Mg-2.1
+
+Cardiac enzymes
+___ 12:10PM BLOOD cTropnT-0.09*
+___ 03:55PM BLOOD cTropnT-0.09*
+___ 08:15PM BLOOD CK-MB-5 cTropnT-0.10*
+___ 03:44AM BLOOD CK-MB-4 cTropnT-0.11*
+___ 12:10PM BLOOD ALT-20 AST-48* AlkPhos-71 TotBili-0.8
+___ 08:15PM BLOOD CK(CPK)-112
+
+Transaminases, amylase, LDH
+___ 03:44AM BLOOD LD(___)-307* CK(CPK)-108 Amylase-132*
+___ 09:35PM BLOOD ALT-22 AST-31 LD(___)-286* Amylase-111*
+
+TTE (Complete) Done ___ at 4:26:22 ___  The interatrial 
+septum is aneurysmal. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity is moderately dilated. 
+There is severe global left ventricular hypokinesis (LVEF = 
+___ %). Overall left ventricular systolic function is severely 
+depressed. Right ventricular chamber size is normal. with normal 
+free wall contractility. The aortic valve leaflets are mildly 
+thickened (?#). There is no aortic valve stenosis. Mild to 
+moderate (___) aortic regurgitation is seen. A mechanical 
+mitral valve prosthesis is present. The transmitral gradient is 
+normal for this prosthesis. No mitral regurgitation is seen. 
+[Due to acoustic shadowing, the severity of mitral regurgitation 
+may be significantly UNDERestimated.] Moderate [2+] tricuspid 
+regurgitation is seen. There is borderline pulmonary artery 
+systolic hypertension. There is no pericardial effusion. 
+Compared with the prior study (images reviewed) of ___, 
+left ventricular systolic function has declined. The severity of 
+aortic regurgitation has increased.  
+
+CT ABD & PELVIS WITH CONTRAST Study Date of ___ 1:51 ___ No 
+suspicious pulmonary nodules or pleural effusions are seen in 
+the imaged lung bases. There is severe enlargement of the heart, 
+predominantly involving the left atrium. The patient is status 
+post mitral valvular replacement. There is no pericardial 
+effusion. The liver enhances homogeneously, without focal 
+lesions. Minimal pneumobilia, especially in the left hepatic 
+lobe, relates to prior history of sphincterotomy. Multiple small 
+gallstones are present, without evidence for acute 
+cholecystitis. The adrenal glands and pancreas are unremarkable. 
+The spleen demonstrates multiple peripheral hypoattenuation 
+areas, which may be related to early phase of the scan or 
+chronic splenic infarcts. There is no perisplenic fluid 
+collection. Both kidneys demonstrate mild cortical atrophy. Both 
+kidneys enhance and excrete contrast symmetrically, without 
+evidence of hydroureteronephrosis or concerning renal masses. 
+There is a small hiatal hernia. The stomach, small and large 
+bowel are unremarkable, without evidence of bowel wall 
+thickening or obstruction. Extensive colonic diverticulosis is 
+seen in the descending and sigmoid colon, without evidence of 
+acute diverticulitis. There is no intra-abdominal free fluid or 
+air. The abdominal aorta is tortuous with moderate 
+atherosclerotic calcification, without aneurysmal dilation. 
+There is no intra abdominal free fluid or air. CT OF THE PELVIS 
+WITH INTRAVENOUS CONTRAST: The urinary bladder is relatively 
+empty with a Foley catheter in place. The prostate gland is 
+enlarged measuring 6.9 x 6.1 x 6.8 cm. The rectum is 
+unremarkable. No significant pelvic lymphadenopathy or free 
+fluid is seen. BONES AND SOFT TISSUES: No bone lesions 
+suspicious for infection or malignancy are detected. IMPRESSION: 
+1. Severe cardiomegaly, especially involving the left atrium. 
+The patient is status post mitral valve replacement. 2. No acute 
+intraabdominal pathology. 3. Cholelithiasis without evidence of 
+acute cholecystitis. 4. Colonic diverticulosis, without evidence 
+of acute diverticulitis. 5. Hypodense areas in the spleen, may 
+represent early mixing artifact versus splenic infarcts. 
+ 
+Brief Hospital Course:
+MEDICINE COURSE:
+___ with chronic systolic CHF EF 30% several years ago, Afib and 
+MVR on warfarin, and dementia admitted with a hematochezia and 
+abdominal pain. It seems likely the hematochezia was due to 
+transient mesenteric ischemia which resolved likely from 
+improved hemodynamics. Colitis or diverticulosis are also 
+possible but less consistent with imaging. Given the patients 
+numerous comorbidities and symptomatic improvement, the care 
+team and family decided to pursue supportive measures rather 
+than invassive procedures to address this issue. He stabilized 
+clinically and was DCed to home with 24 hour supervision by his 
+family with ___ assistance. 
+
+# Hematochezia: Differential includes bleeding diverticuli on 
+warfarin, AVM, UGIB, colitis, and ischemic bowel. Given that he 
+has pain and severe CHF, ischemic bowel seems likely. He has 
+known diverticuli and a relatively high INR, so this too is a 
+possible source of bleeding. UGIB, colitis, and AVM seem less 
+likely given his symptomology and labs. GI and General Surgery 
+consulted. GI recommended outpatient colonoscopy given the 
+clinical scenario. Because of his comorbidities and given his 
+H/H was stable on anticoagulation without any loss of blood or 
+hematochezia, it seems the bleed has resolved and it was decided 
+to proceed with watchful waiting. 
+
+# Abdominal pain: Completely resolved. Could be due to colitis 
+or ischemic bowel. No cholelithiasis on CT and AP is WNL. 
+Lactate normal but AST moderately elevated to 46 on admission. 
+LDH and amylase were elevated to 307 and 132 respectively which 
+suggests bowel ischemia, but could be due to many causes. As 
+above, given his comorbidities it seems unlikely he could 
+tolerate a mesenteric bypass for ischemia or sigmoidectomy for 
+diverticulosis. 
+
+# Hypoxia: Received IVF and FFP in the ED and has very dilated 
+cardiomyopathy. Improved with diuresis. PE is unlikely given INR 
+>3, and ACS was ruled out.  
+
+# Chronic systolic CHF: EF in ___ was 30%. Clinically appears 
+to be having some component of acute on chronic systolic CHF. 
+ECHO this admission showed worsened EF to ___. Continued home 
+Furosemide 40 mg PO ___. Continued home Metoprolol 
+Tartrate 50 mg PO/NG BID. 
+
+# s/p MVR: Very high risk for CVA if subtherapeutic INR. Goal 
+INR is 2.5 to 3.5.  
+.  
+# Afib: Continue warfarin as above and rate control as above  
+.  
+# Troponin leak: On admission had slightly elevated TnT with 
+stable low MB. Likely baseline elevation or demand without true 
+ischemia. 
+
+# Chronic renal insufficiency: Baseline creatinine 1.4 mg/dL in 
+___. Creatinine more or less at baseline at 1.5-1.6 mg/dL as of 
+discharge.
+
+DNR DNI
+
+MICU COURSE:
+Mr. ___ is an ___ gentleman with a systolic CHF, atrial 
+fibrillation, s/p MVR on Coumadin, who presents with a one-day 
+history of abdominal pain and then developed BRBPR in ED. 
+
+1. ABDOMINAL PAIN/GIB: Most likely etiology is episode of 
+ischemic bowel, less likely infectious invasive entorocolitis. 
+Appreciate GI and ACS recs.  CTAP without evidence of colitis. 
+No hemodynamic instability during admission with stable 
+hematocrits. GI consult on admission with decision to hold off 
+on diagnostic or therapeutic interventions.  C.diff toxin ___ 
+negative.  
+
+2. TROPONIN ELEVATION: Troponinemia in setting of CKD with flat 
+MB. If true elevation, more likely manifestation of demand 
+ischemia rather than ACS with plaque rupture. 
+
+3. HYPOXIA: Room air challenge with SaO2 of low ___.  Exam 
+without overt evidence of pulmonary edema or volume overload. 
+Given cardiomegaly and kyphosis, has element of restrictive 
+physiology with V/Q mismatch. CT chest demonstrating 
+cardiomegaly.
+
+4. CHRONIC KIDNEY DISEASE: Unknown baseline; most recent 
+creatinine range 1.0-1.2 in ___. Prerenal etiology is likely in 
+setting of decreased perfusion from GIB.
+
+5. SYSTOLIC CHF: Most recent echocariogram with EF of ___ in 
+___, though more recent discharge summary states 15% (___). He 
+has significant cardiomegaly on CT abdomen. 
+
+6. ATRIAL FIBRILLATION: Tachycardic to 120s (from ___ on 
+arrival). Improved to ___ after 250 mg IV digoxin. Home 
+nodal blocklade restarted during admission.
+
+7. MITRAL VALVE REPLACEMENT: Goal INR 2.5-3.5. Receieved 5 mg PO 
+vitamin K and FFP. Coumadin and heparin initially.
+
+ 
+Medications on Admission:
+- buspirone 10 mg PO Twice Daily 
+- metoprolol tartrate 50 mg Twice Daily 
+- doxazosin 4 mg PO Twice Daily
+- simvastatin 20 mg PO at bedtime
+- warfarin 5 mg Tab Oral 1 Tablet(s) Once Daily on ___ and 
+___   
+- warfarin 5 mg Tab Oral 0.5 Tablet(s) Once Daily on 
+___   
+- furosemide 40 mg Tab Oral once every other day - 
+___
+
+ 
+Discharge Medications:
+1. buspirone 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+3. doxazosin 4 mg Tablet Sig: One (1) Tablet PO twice a day.  
+4. simvastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO every other day.  
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. warfarin 5 mg Tablet Sig: One (1) Tablet PO ___.  
+8. warfarin 5 mg Tablet Sig: 0.5 Tablet PO ___.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+- Ischemic colitis v diverticulosis as a cause of GI bleeding
+- Chronic systolic CHF (EF ___ this admission), ___ III to 
+IV
+
+Secondary
+- Dementia  
+- Hyperlipidemia  
+- Paroxysmal atrial fibrillation  
+- Hypertension  
+- Diabetes mellitus type II (diet-controlled, not on meds)  
+- Multiple prior UTI  
+- Multiple prior CVA 
+- S/p MVR ___ on coumadin)  
+- S/p left inguinal hernia repair (___)  
+- Aortic insufficiency
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___ 
+___. 
+
+You were admitted for abdominal pain and bleeding in your gut. 
+It is likely that this was caused by either low blood flow in 
+your intestines, a diverticuli (a common defect in the wall of 
+the colon which is prone to bleeding), or inflammation in the 
+intestine. We did tests for infectious causes of your symptoms, 
+and these were negative. Ultimately, you improved clinically 
+with supportive care. 
+
+We have not made any changes to your home medications. 
+ 
+Followup Instructions:
+___

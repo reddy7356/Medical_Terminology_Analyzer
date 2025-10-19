@@ -1,0 +1,283 @@
+===== DISCHARGE NOTE =====
+note_id=19201076-DS-11 | hadm_id=29165660
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shaking
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+PCP: 
+Name: ___. 
+Location: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+Email: ___ 
+
+CC:shaking
+
+___ male with a 3 hour episode on the day of admission with 
+bilateral thigh and knee pain.  Soon after this began, he 
+developed shaking in his arms that he attributes to anxiety.  He 
+felt weak and needed to sit down.  He then called his wife bc he 
+was very concerned with these symptoms.  His wife immediately 
+took him to the ER.  On ROS he admits to substernal, 
+non-radiating, slight chest pressure intermitantly during the 
+event.  This was not associated with nausea, vomiting, 
+diaphoresis, lightheadedness or dizziness.  He did take all his 
+medicaiton in the morning and the event happened before eating 
+breakfast. He did not check his blood sugar or his blood 
+pressure during the event. By the time he arrived to the ER his 
+symptoms had resolved. Currently he is asymptomatic. He denies 
+SOB, current chest pain, new weakness, numbness, LH, dizziness.
+
+In ER: (Triage Vitals:97.8 98 124/69 16 100) d dimer elevated. 
+Cr 2.3. V/Q not able to be completed until tomorrow. Had an EKG 
+that revealed new atrial fibrillation.
+
+ROS:  
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia  
+-Eyes: []WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia  
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat  
+-Cardiac: []WNL [x]Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough 
+ 
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Heme/Lymph: []WNL []Bleeding []Bruising []Lymphadenopathy  
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]Discharge []Menorrhagia  
+-Skin: [x]WNL []Rash []Pruritus  
+-Endocrine: []WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance  
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain  
+-Neurological: [x ]WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion []Headache  
+
+ 
+Past Medical History:
+AR,MR 
+hypertension 
+CAD
+DM type II - now taking insulin.
+
+ 
+Social History:
+___
+Family History:
+no FHx of DM
+ 
+Physical Exam:
+VS: as above
+Gen: Well appearing and appears much younger than stated age, no 
+acute distress, awake, alert, appropriate, and oriented x 3 
+Skin: warm to touch, no apparent rashes. 
+HEENT: No conjunctival pallor, no scleral jaundice,  OP clear, 
+no cervical LAD 
+CV:  RRR II/VI SEM at ___. S1, S2. could no appreciate a 
+diastolic murmur. 
+Lungs: clear to auscultation 
+Abd: soft, NT, normal BS 
+Ext: No C/C. Trace ___ edema
+Neuro:  CN ___ intact, strength ___ diffusely, reflexes 2+ at 
+patella and brachial, sensation grossly intact, L>r dysmetria 
+with FNF and rapid alternating movements, gait exam deferred
+
+ 
+Pertinent Results:
+Admission labs:
+CBC 12.7 > 12.8/38.7 < 334
+Chem panel: 134 | 100 | 36 < 150
+            6.1 | 22 | 2.3
+Troponin 0.01 --> 0.03 --> 0.03
+DDimer 1148
+
+CXR
+IMPRESSION: Cardiomegaly without evidence of congestive heart 
+failure.  
+Bibasilar atelectasis. 
+
+(poor quality ECG) AF at 49, normal axis/intervals. no ST 
+changes. 
+
+V/Q scan:
+Ventilation images obtained with Tc-99m aerosol in 8 views 
+demonstrate mild
+central clumping of tracer, and blunting of the posterior 
+costophrenic angles bilaterally.
+ 
+Perfusion images in the same 8 views also show blunting of the 
+posterior
+costophrenic angles bilaterally.
+ 
+Chest x-ray dated ___ shows cardiomegaly without pleural 
+effusion or
+consolidation.
+ 
+The above findings are consistent with a low likelihood of 
+pulmonary embolus.
+ 
+IMPRESSION:
+ 
+1. Low likelihood of pulmonary embolus. 2. Matched blunting of 
+posterior
+costophrenic angles bilaterally may represent atelectasis or 
+small pleural
+effusions.
+
+Discharge labs:
+CBC 11> 12.5/36.5 < 291
+Chem panel: 137 | 100 | 25 < 154'
+            4.7 | 26 | 1.___ with non-specific symptoms of bilateral leg pain and 
+"shaking" along with chest pain.  On admission with bradycardia 
+with ?atrial fibrillation on EKG.
+
+* "Shaking" - On the day following his admission, he did show 
+evidence of L>R dysmetria and given his atrial fibrillation 
+above, there was concern for cerebellar stroke.  The neurology 
+consult service was called and felt his tremors were at baseline 
+and that he likely has essential tremor.  Of note, he did have a 
+L wrist fracture many years ago, that likely accounts for his 
+worsening movement on the L side.  They did not feel that 
+further imaging was warranted.  His shaking episode resolved and 
+did not recur.  He was sent home with ___ services for home ___ 
+eval and home safety evaluation.
+
+* Bradycardia - He was on both diltiazem and metoprolol on 
+admission and given bradycardia, diltiazem was discontinued.  
+His bradycardia improved and he was discharged on metoprolol 
+alone.
+
+* Paroxysmal atrial fibrillation - This was seen on an isolated 
+EKG.  He remained on telemetry during his hospitalization and 
+had no further episodes of AF and stayed in NSR.  Low likelihood 
+of PE on his V/Q scan, TSH was wnl.  No ___ edema to suggest DVT. 
+ He remained on metoprolol on discharged.  This was communicated 
+to his PMD.  Anticoagulation was not started in the hospital and 
+he remained on aspirin during his admission and on discharge.  
+He will need to follow up with his primary care provider.
+
+* Chest pain - on the morning after admission, he explained that 
+his pain was intermittent and when pressure was applied to his 
+chest, this recreated his pain.  He likely had a component of 
+musculoskeletal pain prior to admission.  His repeat EKGs were 
+not suggestive of ischemia.  His troponins remained stable at 
+0.03, which were likely elevated in the setting of his renal 
+failure.  He had no further episodes of chest pain.  
+
+* Coronary artery disease, native vessel - metoprolol, aspirin 
+and statin were continued.
+
+* Diabetes mellitus, type II - Glyburide and metoformin were 
+discontinued based on his kidney disease.  There were not 
+restarted on discharge.  He was instructed to continue his 
+current insulin sliding scale at home and follow up with his PMD 
+at the ___ Center.
+
+* Hypothyroidism - TSH was wnl.  Levothyroxine was continued.
+
+* Leukocytosis - Had no fevers or evidence of infection.  ___ 
+returned to ___ discharge.  Will need monitoring as an 
+outpatient.
+
+* Chronic kidney disease, Stage IV - Worse on admission, but 
+after IVF improved to baseline of 1.7. 
+
+* Hypertension, benign - Diltiazem was stopped given his 
+bradycardia.  Amlodipine 10mg daily was started during his 
+hospitalization.  He was given a prescription for this and 
+encouraged to continue this medication.  Metoprolol was also 
+continued. 
+ 
+Medications on Admission:
+ASPIRIN - 325 MG TABLET (ENTERIC COATED) - ONE EVERY DAY
+DILTIAZEM HCL - 240 mg Capsule,Degradable Cnt Release - 1
+Capsule(s) by mouth once a day
+GLYBURIDE -  (Prescribed by Other Provider) - 1.25 mg Tablet - 1
+Tablet(s) by mouth twice a day
+METFORMIN - 500 mg Tablet - 2 Tablet(s) by mouth qAM
+METOPROLOL TARTRATE - 100 mg Tablet - 1 Tablet(s) by mouth twice
+a day
+SIMVASTATIN - 40 mg Tablet - 1 Tablet(s) by mouth once a day
+SYNTHROID - 75MCG Tablet - ONE EVERY DAY
+
+ 
+Discharge Medications:
+1. insulin
+Please continue your previous insulin regimen prior to admission
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Leg pain
+
+Atrial fibrillation
+Diabetes mellitus
+Coronary artery disease
+Hypothyroidism
+Chronic kidney disease
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with shaking and leg pain that 
+resolved before you came to the floor.  You did have some 
+shaking on initial exam and the neurologists came to evaluate 
+you.  They did not feel that the shaking you have is worse than 
+baseline.  They will see you in follow up here for further 
+evaluation.
+
+Please return to the emergency room if you experience worsening 
+chest pain, shortness of breath, lightheadedness or dizziness.
+
+Medication changes: 
+1. Diltiazem was discontinued
+2. Metformin was discontinued
+3. Amlodipine 10mg daily was started for blood pressure
+4. Glyburide was discontinued
+ 
+Followup Instructions:
+___

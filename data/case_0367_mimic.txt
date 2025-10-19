@@ -1,0 +1,136 @@
+===== DISCHARGE NOTE =====
+note_id=16460144-DS-2 | hadm_id=22328315
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left knee infection
+ 
+Major Surgical or Invasive Procedure:
+___:  I&D left knee with removal of hardware
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man who had a left ACL and 
+meniscus repair on ___.  He presents to the ___ with 
+concerns for a left knee infection.
+ 
+Past Medical History:
+Left ACL reapir ___
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+Upon admission
+
+Alert and oriented
+Cardiac:  Regular Rate Rhythm
+Chest:  Lungs clear bilateraly
+Abdomen:  Soft non-tender non-distended
+Extremities:  LLE +pulses/sensation, No pain with ROM, anterior 
+tibia incision with +erythemia
+ 
+Pertinent Results:
+___ 06:42AM BLOOD WBC-7.6 RBC-4.47* Hgb-12.8* Hct-39.1* 
+MCV-88 MCH-28.7 MCHC-32.8 RDW-12.3 Plt ___
+___ 06:42AM BLOOD Neuts-62.2 ___ Monos-6.0 Eos-4.9* 
+Baso-0.7
+___ 06:42AM BLOOD ___ PTT-32.1 ___
+___ 06:42AM BLOOD ESR-52*
+___ 06:42AM BLOOD ALT-53* AST-27 LD(___)-139 AlkPhos-67 
+Amylase-125* TotBili-0.4
+___ 06:42AM BLOOD Glucose-85 UreaN-14 Creat-1.0 Na-140 
+K-4.5 Cl-103 HCO3-30 AnGap-12
+___ 06:42AM BLOOD ALT-53* AST-27 LD(LDH)-139 AlkPhos-67 
+Amylase-125* TotBili-0.4
+___ 06:42AM BLOOD CRP-91.9*
+___ 09:10PM BLOOD Vanco-7.7*
+___ 08:30AM BLOOD RedHold-HOLD
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ___ on ___ with 
+concern for infection of his left knee.  He was evaluated by the 
+orthopaedic surgery service and admitted.  On ___ he was 
+taken to the operating room and underwent a left tibia wound I&D 
+with removal of hardware.  He tolerated the procedure well, was 
+extubated, transferred to the recovery room, and then to the 
+floor.  On the floor he was seen by infectious disease.  His 
+cultures grew mssa he was placed on nafcillan by id for  6 
+weeks. He had a picc line placed by ir. The rest of his hospital 
+stay was uneventful with his lab data and vital signs within 
+normal limits and his pain controlled.  He is being discharged 
+today in stable condition.  He will have home iv therapy for 
+antibiotics.
+ 
+Medications on Admission:
+denies
+ 
+Discharge Medications:
+1. Outpatient Lab Work
+Please draw weekly CBC with diff, Chem 7, LFT's, ESR, CRP
+Please fax results to Infectious Disease at ___
+2. PICC Care
+Normal Saline Flush ___ daily/prn/SASH
+Heparin Flush 10units/ml daily/prn/SASH
+3. Nafcillin 2 gram Recon Soln Sig: One (1)  Intravenous every 
+four (4) hours for 6 weeks.  
+4. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for Pain.
+Disp:*90 Tablet(s)* Refills:*0*
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left knee infection
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Continue to be weight bearing as tolerated on your left leg with 
+your brace locked in extension
+
+You may continue range of motion of your knee when not weight 
+bearing
+
+Please take all medication as prescribed
+
+If you have any increased redness, draiange, or swelling, of if 
+you have a temperature greater than 101.5, please call the 
+office or come to the emergency department.
+Physical Therapy:
+Activity:  Activity as tolerated
+ Left lower extremity:  Full weight bearing
+ ___ locked in extension when weightbearing
+ AAROM when not weight bearing
+
+Treatment Frequency:
+Dry dressing daily
+ 
+Followup Instructions:
+___

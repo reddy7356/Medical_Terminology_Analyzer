@@ -1,0 +1,317 @@
+===== DISCHARGE NOTE =====
+note_id=15781465-DS-15 | hadm_id=21600352
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+possible rupture of ectopic pregnancy
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic right salpingectomy
+
+ 
+History of Present Illness:
+Patient is a ___ yo G5P1 with a known right tubal ectopic 
+pregnancy who presents with new onset of RLQ pain. Ectopic was 
+diagnosed 8 days ago and she received her 1st dose of 
+methotrexate at that time. Initial HCG was ___. She presented 
+for follow-up yesterday where HCG was noted to be 3000 so she 
+received a 2nd dose of methotrexate. She reports sudden onset of 
+RLQ pain today and was advised to present to the emergency room 
+today where ultrasound findings showed free pelvic fluid 
+consistent with intraabdominal bleeding.
+
+She reports ___ pain currently. Denies lightheadedness, chest 
+pain or palpitations, SOB, N/V, F/C.   Hematocrit is stable at 
+40. The patient was taken to the operating room for definitive 
+management of ectopic pregnancy given new evidence of rupture.
+ 
+Past Medical History:
+OBHx:
+- TAB x 2
+- SAB x 1
+- LTCS x 1
+
+Gyn Hx:
+- History uterine septum resected by Dr. ___.
+- Denies abnormal pap smears or STIs
+
+PMH:
+- Denies
+
+PSH:
+- LTCS x 1
+
+All: None
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+On GYN evaluation:
+VS: 98.8   62/30   18  100% RA
+Gen: Pleasant, appears comfortable, NAD
+CV: RRR
+Lungs: CTAB
+Abd: Soft, diffusely tender palpation particularly on the right
+side
+Ext: No edema, NT
+Pelvic: Limited as patient was in OR holding area but no 
+external
+bleeding
+
+ 
+Pertinent Results:
+___ 04:59PM BLOOD WBC-6.1 RBC-4.59 Hgb-14.4 Hct-40.6 MCV-89 
+MCH-31.5 MCHC-35.5* RDW-12.6 Plt ___
+___ 07:00AM BLOOD WBC-8.4 RBC-4.37 Hgb-13.2 Hct-39.1 MCV-89 
+MCH-30.2 MCHC-33.8 RDW-12.3 Plt ___
+___ 04:59PM BLOOD HCG-2794
+ 
+Brief Hospital Course:
+Ms. ___ a laparoscopic right salpingectomy and 
+evacuation of hemaperitoneum for a ruptured tubal ectopic 
+pregnancy; please see Dr. ___ report for full 
+details. Her postoperative course was uncomplicated, and she was 
+discharged on postoperative day 1 in good condition, voiding and 
+ambulating, tolerating a regular diet, and her pain 
+well-controlled on oral medications. She was instructed to 
+follow up with her OB/GYN.
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for Pain.
+Disp:*60 Tablet(s)* Refills:*0*
+2. oxycodone-acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for Pain.
+Disp:*25 Tablet(s)* Refills:*0*
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation for 5 days: take while taking narcotics 
+to avoid constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ruptured ectopic pregnancy
+hemoperitoneum
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call your doctor for:
+* fever > 100.4
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* redness or drainage from incision
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+General instructions:
+* Take your medications as prescribed.
+* Do not drive while taking narcotics.
+* Do not combine narcotic and sedative medications or alcohol
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs
+* No strenuous activity, nothing in the vagina (no tampons, no 
+douching, no sex), no heavy lifting of objects >10lbs for 2 
+weeks. 
+* You may eat a regular diet.
+
+Incision care:
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision.  No bath tubs for 6 weeks.
+* If you have steri-strips, leave them on. They will fall off on 
+their own or be removed during your followup visit.
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15781465-DS-16 | hadm_id=24324724
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+low fluid
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo G6P1 at 28+5 WGA who is being
+admitted with idiopathic oligohydramnios with AFI 3.2. On ___,
+she presented with DFM and was found to have a low normal AFI of
+~6. She was therefore referred to OB Triage,where she received a
+repeat U/S which showed AFI of 7, normal growth (43%ile) and AGA
+NST, so she was discharged home. ON ___ up US showed an
+AFI of 6.2.  She received BMZ on ___ and ___. 
+
+On ___, she had a very small episode of LOF; SSE showed neg
+pool, nitrazine, and ferning.  
+
+Today, her AFI had further decreased to 3.4, and she continues 
+to
+have poor perception of fetal movement, prompting admission to
+facilitate fetal monitoring.  She denies abdominal
+pain/ctxns/vaginal bleeding, any new LOF, fever, recent
+illnesses. Her only sick contact is her ___ old daughter,
+who has a cough. No recent medication exposures. 
+
+ROS: No change in urine output, but notes increased thirst and
+dry mouth over the past week. Received flu shot last week. 
+Denies
+SOB, chest pain. Denies N/V. Denies pedal edema but notes that
+she has gone up half a shoe size. 
+ 
+
+ 
+Past Medical History:
+PNC:      1)Dating: EDC ___ by early U/S c/w LMP
+          2)Routine testing: B+, antibody neg, RPR NR, rubella
+immune, HbsAg NR, HIV neg;  CF mutation positive, FOB neg.  
+          3)DS risk 1:280 (age related: 1:270); normal female
+karyotype on amnio. 
+          4) beta-complete on: ___
+
+OB Hx: 
+___ 39 wk PLTCS secondary to hx uterine septum removal, 
+TAB x2, 
+Sab x1 with D&C, 
+___ ruptured tubal ectopic after MTX treatment with laproscopic
+R salpingectomy
+
+Gyn Hx: ___ hysteroscopic uterine septum resected
+
+PMH: h/o bulimia, remote h/o ETOH abuse and sober x ___
+
+Surg Hx: D&C, laproscopic R salpingectomy
+
+Social Hx: ___
+Family History:
+NC
+NC
+ 
+Physical Exam:
+VS: T: 98.2, HR: 101. BP: 124/69, RR:18 Sa: 100
+Gen: NAD
+SVE: deferred
+CV: RRR, normal S1,S2, no murmurs, rubs, gallops
+LUNGS: CTAB     
+ABD: soft, gravid, ND/NT
+EXTREMITIES: No edema, no calf tenderness
+FHT: 145, mod var, 10 x 10 accels, variable decel x 1
+Toco: flat 
+
+ 
+Pertinent Results:
+___ 05:07PM   CREAT-0.5
+___ 05:07PM   estGFR-Using this
+___ 05:07PM   ALT(SGPT)-23 AST(SGOT)-15
+___ 05:07PM   URIC ACID-2.0*
+___ 05:07PM URINE  HOURS-RANDOM CREAT-32 TOT PROT-<6
+___ 05:07PM   WBC-16.1*# RBC-3.98* HGB-12.4 HCT-35.6* 
+MCV-89 MCH-31.2 MCHC-34.9 RDW-14.3
+___ 05:07PM   PLT COUNT-218
+___ 05:07PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 05:07PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-150 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+
+ 
+Brief Hospital Course:
+Pt admitted to the antepartum service. NST was reactive and AGA. 
+She was seen by ___ with the following impressions/plan:
+
+___ is a ___ yo G6P1 at 29 weeks with oligohydramnios
+- Discussion about the causes of oligohydramnios was done and
+considering her normal anatomy survey, normal amniocentesis
+results probable causes might be infectious origin,
+uteroplacental insufficiency, idiopathic, undiagnosed genetic
+disorders.
+- We recommend biweekly BPP and NST's
+- We recommend pelvic rest and hydration
+- In the absence of abnormal fetal testing or IUGR, delivery at
+32-34 weeks is advisable.
+
+She was also seen by NICU. 
+
+Given above reassuring testing and MFM consult the pt was 
+discharged home with close outpatient monitoring
+
+ 
+Medications on Admission:
+PNV
+ 
+Discharge Medications:
+PNV
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+oligohydramnios
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for evaluation secondary to oligohydramnios 
+(low amniotic fluid).  You had reassuring fetal testing.  You 
+will need to have twice weekly ultrasounds (biophysical 
+profiles) and NSTs.  Your doctors office ___ contact you with 
+these appointment dates/ times.
+
+Continue to drink plenty of fluids.  Call your doctor if you 
+have any vaginal bleeding, loss of fluid, decreased fetal 
+movement.
+ 
+Followup Instructions:
+___

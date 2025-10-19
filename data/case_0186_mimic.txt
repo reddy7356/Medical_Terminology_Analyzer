@@ -1,0 +1,1041 @@
+===== DISCHARGE NOTE =====
+note_id=16461238-DS-6 | hadm_id=22155944
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Boniva / omeprazole
+ 
+Attending: ___
+ 
+Chief Complaint:
+acute onset L sided weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F w PMHx of prior CVA in ___ and tSAH 
+in ___ who presents to ___ ED with acute onset of left sided 
+weakness. Ms. ___ states that she was well early this morning 
+around 5AM when she got up to take her synthroid. At around 7AM 
+when she awoke to use the bathroom, she states that she was 
+unable to sit herself up, citing weakness in her left arm. She 
+was unable to walk to the bathroom (she does not recall if one 
+leg or both legs
+were weak), so she activated her life alert. EMS arrived and 
+stated that Ms. ___ was lying in her bed, "slumped over" to the 
+left. She was unable to ambulate at that time. She was brought 
+to ___ ED for stroke assessment with
+reported improvement in her symptoms during transport.
+
+Of note, Ms. ___ had a previous ischemic stroke in ___. She is 
+unable to remember the exact presentation but believes that 
+initially her speech may have been effected. She was left with 
+essentially no deficits. 
+
+On ROS, Ms. ___ endorses some recent constipation as well as 
+urinary frequency and dysuria. Otherwise, per HPI.
+ 
+Past Medical History:
+Ataxia s/p fall complicated by ___ ___
+Lacunar stroke - R basal ganglia (in ___
+Takosubo's CMY now resolved with EF = 60%
+Osteoarthritis 
+HYPOTHYROIDISM, UNSPEC 
+HEARING LOSS - CONDUCTIVE & SENSORINEURAL 
+NEUROPATHY - IDIOPATHIC 
+Osteoporosis, senile 
+CERVICAL (NECK) PAIN 
+Macular degeneration, R eye
+Severe stage glaucoma
+ 
+Social History:
+___
+Family History:
+Son had CVA ___
+
+ 
+Physical Exam:
+VS T97.6 HR74 BP166/77 RR18 Sat97RA
+GEN - elderly F, lying on stretcher, NAD
+HEENT - NC/AT, ?xanthelasma over epicanthal folds L>R
+NECK - age appropriate ROM, no meningismus
+CV - RRR
+RESP - normal WOB
+ABD - soft, NT, ND
+EXTR - atraumatic, WWP
+
+___ Stroke Scale - Total [1]
+1a. Level of Consciousness - 0
+1b. LOC Questions - 0
+1c. LOC Commands - 0
+2. Best Gaze - 0
+3. Visual Fields - 0
+4. Facial Palsy - 1
+5a. Motor arm, left - 0
+5b. Motor arm, right - 0
+6a. Motor leg, left - 0
+6b. Motor leg, right - 0
+7. Limb Ataxia - 0
+8. Sensory - 0
+9. Language - 0
+10. Dysarthria - 0
+11. Extinction and Neglect - 0
+
+NEUROLOGICAL EXAMINATION:
+MS - Awake, alert, oriented x3. Attention to examiner easily
+attained and maintained. Concentration maintained when recalling
+months backwards. Recalls a coherent history. Structure of 
+speech
+demonstrates fluency with full sentences, intact repetition, and
+intact verbal comprehension. Content of speech demonstrates
+intact naming (high and low frequency) and no paraphasias. 
+Normal
+prosody. No dysarthria. No apraxia. No evidence of hemineglect.
+No left-right agnosia.
+
+CN - [II] Decrease visual acuity out of R eye secondary to
+macular degeneration; R pupil 1.5 and L pupil 1.25 with trace
+reactivity. [III, IV, VI] EOMI, no nystagmus. [V] V1-V3 without
+deficits to light touch bilaterally. [VII] Face symmetric at 
+rest
+with slightly decreased activation of L lower face with
+volitional smile. [VIII] Bilateral decreased hearing to voice.
+[IX, X] Palate elevation symmetric. [XI] SCM/Trapezius strength
+___ bilaterally. [XII] Tongue midline with full ROM.
+
+MOTOR - Normal bulk and tone. No pronation, no drift.
+[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas]
+  [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]
+L  4+     5     4+    4+    5    4+   5      5     5    5
+R  5      5     4+    5     5    4+   5      5     5    5
+
+SENSORY - Decreased perception of light touch and temperature in
+distal BLE, otherwise intact. Proprioception intact at B/L great
+toes.
+
+REFLEXES - 
+ [Bic] [Tri] [___] [Quad] [Gastroc]
+L 2      2      2      2        2
+R 2      2      2      2        2
+Plantar response flexor bilaterally.
+
+COORD - No dysmetria with finger to nose or heel-shin testing.
+Good speed and intact cadence with rapid alternating movements.
+
+GAIT - Normal initiation. Narrow base. Normal stride length and
+arm swing. Stable without sway. No Romberg.
+
+On discharge:
+Mental status: speaking fluently, relates history well, oriented 
+to person/place/time
+CN: slight L lower facial droop that activates symmetrically, 
+decreased hearing
+Motor exam: 
+[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas]
+  [C5]  [C5]  [C7]  [C6] [T1] [L2]  [L3]  [L5]  [L4] [S1]
+L  4+     5     4    5    5    4     5      5-    5    5
+R  5      5     4+   5    5    4+    5      5     5    5
+
+ 
+Pertinent Results:
+___ 09:47AM   GLUCOSE-122* NA+-136 K+-4.0 CL--101 TCO2-25
+___ 09:44AM   GLUCOSE-126* UREA N-18 SODIUM-136 
+POTASSIUM-4.0 CHLORIDE-101
+___ 09:44AM   ALT(SGPT)-34 AST(SGOT)-27 ALK PHOS-101 TOT 
+BILI-1.0
+___ 09:44AM   cTropnT-<0.01
+___ 09:44AM   CALCIUM-8.9 PHOSPHATE-3.1 MAGNESIUM-2.1 
+CHOLEST-88
+___ 09:44AM   TRIGLYCER-79 HDL CHOL-37 CHOL/HDL-2.4 
+LDL(CALC)-35
+___ 09:44AM   TSH-0.48
+___ 10:47AM   %HbA1c-5.7 eAG-117
+___ 09:44AM   WBC-9.6 RBC-3.62* HGB-12.0 HCT-34.7 MCV-96 
+MCH-33.1* MCHC-34.6 RDW-13.5 RDWSD-47.2*
+___ 09:44AM   NEUTS-77.2* LYMPHS-14.8* MONOS-6.4 EOS-0.7* 
+BASOS-0.3 IM ___ AbsNeut-7.46* AbsLymp-1.43 AbsMono-0.62 
+AbsEos-0.07 AbsBaso-0.03
+___ 09:44AM   PLT COUNT-76*
+___ 09:44AM   ___ PTT-26.0 ___
+___ 09:40AM   CREAT-0.5
+___ 09:44AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 10:30AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 10:30AM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 10:30AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-6.5 LEUK-LG
+___ 10:30AM URINE  RBC-4* WBC->182* BACTERIA-MOD YEAST-NONE 
+EPI-1 TRANS EPI-<1
+___ 10:30AM URINE  MUCOUS-RARE
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with prior CVA in ___ and 
+traumatic SAH who was admitted ___ with acute onset left 
+sided weakness. On exam, she had trace LUE/LLE weakness in UMN 
+pattern and a minor L facial droop. NCHCT showed R subcortical 
+hypodensity in area of prior infarct. MRI head showed acute 
+ischemic infarct in R thalamus. ___ recommends acute 
+rehab. 
+She was transitioned from Aspirin to Clopidogrel 75mg.
+Of note, also had UTI on admission, started on ceftriaxone. WBC 
+continued to rise, transitioned to cefepime. Urine culture 
+showed sensitivity to ceftriaxone and cefepime, transitioned to 
+po cefopodoxime.  
+
+Stroke Workup:
+- Risk factors: HgbA1c 5.7, TSH 0.48, LDL 35
+- NCHCT: no acute intracranial abnormality
+- MRI head: acute lacunar infarct in R thalamus, probably 
+subacute lacunar infarct in R occipital lobe
+- TTE: No intracardiac source of embolism identified. Preserved 
+global and regional biventricular systolic function. Normal 
+pulmonary artery systolic pressure.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 200 mg PO QHS 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Levothyroxine Sodium 88 mcg PO DAILY 
+4. Atorvastatin 10 mg PO DAILY 
+5. Ranitidine 150 mg PO BID 
+
+ 
+Discharge Medications:
+1. Atorvastatin 10 mg PO DAILY 
+2. Gabapentin 200 mg PO QHS 
+3. Levothyroxine Sodium 88 mcg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Ranitidine 150 mg PO BID 
+6. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+7. Bisacodyl 10 mg PO DAILY:PRN constipation 
+8. Clopidogrel 75 mg PO DAILY 
+9. Magnesium Citrate 150 mL PO DAILY:PRN constipation 
+10. Vitamin D ___ UNIT PO DAILY 
+11. Cefpodoxime Proxetil 400 mg PO Q12H Duration: 3 Days 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute ischemic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Neuro: A&O to person, place, time; L UMN pattern weakness, CN 
+exam shows mild L lower facial droop
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+ 
+You were hospitalized due to symptoms of acute onset left sided 
+weakness resulting from an ACUTE ISCHEMIC STROKE, a condition 
+where a blood vessel providing oxygen and nutrients to the brain 
+is blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+ 
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+- prior stroke  
+ 
+We are changing your medications as follows:  
+- plavix 75mg po daily  
+ 
+Please take your other medications as prescribed.  
+ 
+Please followup with Neurology and your primary care physician.  
+
+ 
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+ 
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16461238-DS-4 | hadm_id=25406627
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Head strike
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+frequent falls related to her peripheral neuropathy had a
+mechanical fall when leaving church today.  She attempted to
+reach the railing to move down a step and missed which caused 
+her
+to fall hitting her head in the right temporal region. She had 
+no
+loss of conciousness, but she does endorse nausea since the
+event. She was taken to ___ where she had a ___
+demonstrating a prepontine hemorrhage with extension into the
+fouth ventricle. Transfer to ___ for a neurosurgical 
+evaluation
+was arranged.
+
+ 
+Past Medical History:
+CVA ___
+Idiopathyic peripheral neuropathy
+HTN
+GERD
+Hypothyroidism
+Osteoarthritis
+Hearing Loss 
+Macular degeneration
+Posterior Vitreous detachment 
+Glaucoma
+Thrombocytopenia (has been less than 100)
+
+ 
+Social History:
+___
+Family History:
+Son had CVA ___
+
+ 
+Physical Exam:
+Exam on Admission:
+O: AVSS
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: ___       EOMs
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger
+
+Discharge: 
+Pt is alert, awake, oriented x 3, PERRL, EOM intact, face is 
+symmetric
+She does have a left periorbital eccymosis and edema
+Motor is ___, sensory is intact, no pronator drift
+CV: rrr
+pulm: no accessory muscle use, resonant
+gi: soft, nt/nd
+extr: no c/c/e
+ 
+Pertinent Results:
+___ NCHCT- 1. Increased subarachnoid hemorrhage in the 
+prepontine cistern and increased Preliminary 
+Reportintraventricular hemorrhage. 
+  
+2. Large left subgaleal hematoma has also increased since the 
+previous exam. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitte to the neurosurgery floor on ___ after 
+evaluation in the emergency department. 
+On ___, she had a repeat NCHCT which demonstrated slight 
+increase in blood in the ___ ventricle vs. redistribution. 
+Patient remained intact on exam. ___ was consulted. There 
+recommend acute rehab.  Labs were obtained on ___ which was 
+stable with mild elevation of WBCs to 11.1 likely secondary to 
+acute trauma.  She remains afebrile and is eating a normal diet. 
+ She ambulating with assistance.  No other neurologic issue 
+occurred during her hospital stay. She was accepted for acute 
+rehab and will be discharged in stable condition. 
+ 
+Medications on Admission:
+ASA 81, Levothyroxine, Atrovastatin, Metoprolol, lasix,
+gabapentin, zantac, MVI
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN HA 
+2. Atorvastatin 10 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Furosemide 10 mg PO DAILY 
+5. Gabapentin 200 mg PO HS 
+6. Levothyroxine Sodium 100 mcg PO DAILY 
+7. Metoprolol Succinate XL 25 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Ranitidine 150 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+___ Diagnosis:
+prepontine hemorrhage
+traumatic subarachnoid hemorrhage
+intraventricular hemorrhage
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You have been diagnosised with a traumatic brain injury 
+(traumatic subarachnoid hemorrhage) after your fall.  Make sure 
+that you when ___ get up from sitting position that you take your 
+time.  You may have persistent headache and/or fatigue.  
+
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, or 
+Ibuprofen etc. 
+•You are on Aspirin prior to your injury, you may safely resume 
+taking this on ___.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16461238-DS-5 | hadm_id=27992360
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___ / omeprazole
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+The patient is a ___ year old community dwelling female with h/o
+gait instability, neuropathy who presents s/p fall. She stood up
+to get out of a chair while she was watching the news hours 
+after
+eating. She wanted to put the light on the porch so that the
+tenant who lives below could see to enter her two family home.
+She does not remember having LH or dizziness before the fall. 
+She
+remembers seeing her rheumatologist who refused to inject her
+knee because she felt dizzy. She reports having a good luch and
+breakfast on the day of presentation. She remembers doing 
+laundry
+and folding clothes. She remembers resting things on the stove
+with the plan to make supper prior to the fall. She doesn't
+remember how she fell. She doesn't think that she had
+palpitations, sob, cp prior to the fall. She thinks that she was
+in her general state of chronic health. No urinary or bowel
+incontinence. Thyroid medication recently decreaed from 100 -> 
+88
+mcg.
+Per EMS, a patient's neighbor found the patient sitting on the
+floor, unable to get up. She was confused and unable to 
+recollect
+why they were there. Her confusion lasted ~30 minutes and then
+improved. Pt denies recent med changes apart from levothyroxine
+being decreased. ___ 148. 
+
+In ER: (Triage Vitals: 98.3, 135/68, 66, 16, 97% on RA)
+ Meds Given: ceftriaxone
+Fluids given: 1L NS
+Radiology Studies: head CT/ CXR
+consults called.
+.
+PAIN SCALE: ___ 
+
+ 
+Past Medical History:
+Ataxia s/p fall complicated by ___ ___
+Takosubo's CMY now resolved with EF = 60%
+Osteoarthritis 
+TS
+HYPOTHYROIDISM, UNSPEC 
+HEARING LOSS - CONDUCTIVE & SENSORINEURAL 
+STROKE - LACUNAR 
+NEUROPATHY - IDIOPATHIC 
+TREMOR 
+VOICE DISTURBANCE - OTHER TYPE 
+Osteoporosis, senile 
+SCREENING FOR COLON CANCER 
+CERVICAL (NECK) PAIN 
+Macular degeneration, dry 
+Thrombocytopenia 
+Blepharitis 
+Dry eye syndrome 
+PVD (posterior vitreous detachment) 
+Macular hole 
+Osteoarth NOS-l/leg 
+Severe stage glaucoma 
+Balance disorder 
+DJD (degenerative joint disease) 
+Fracture of olecranon process, right, closed 
+Fall due to stumbling 
+Balance disorder 
+Optic neuropathy, right 
+Glaucoma suspect of both eyes 
+Open angle with borderline findings, low risk 
+Retinal drusen
+
+ 
+Social History:
+___
+Family History:
+Son had CVA ___
+
+ 
+Physical Exam:
+Vitals: T97.7, 148/58, 64, 18, 98RA, orthostatics supine 148/67,
+HR 63, standing 151/69 HR 60
+Gen: Appears comfortable
+CV: RRR, no mgr
+Pulm: CTA bilat
+Abd: soft, nt
+Extrem: warm, no ___ edema
+GU: no foley
+Skin: no rash
+Neuro: A+Ox3, speech fluent
+
+ 
+Pertinent Results:
+___ 08:11PM BLOOD WBC-7.8 RBC-3.58* Hgb-11.8* Hct-34.7* 
+MCV-97 MCH-33.1* MCHC-34.2 RDW-14.9 Plt Ct-69*
+___ 05:45AM BLOOD WBC-6.6 RBC-3.29* Hgb-10.7* Hct-31.8* 
+MCV-97 MCH-32.5* MCHC-33.5 RDW-14.9 Plt Ct-66*
+___ 08:10PM BLOOD ___ PTT-28.0 ___
+___ 08:11PM BLOOD Glucose-116* UreaN-20 Creat-0.5 Na-137 
+K-3.8 Cl-105 HCO3-23 AnGap-13
+___ 05:45AM BLOOD Glucose-91 UreaN-9 Creat-0.4 Na-139 K-3.5 
+Cl-105 HCO3-27 AnGap-11
+___ 06:25AM BLOOD ALT-19 AST-19 LD(LDH)-184 AlkPhos-68 
+TotBili-0.7
+___ 06:25AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.0
+___ 08:11PM BLOOD TSH-0.17*
+___ 08:11PM BLOOD T4-10.3 T3-127
+___ 09:08PM BLOOD Lactate-1.5
+
+___ 8:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML.. 
+         Alpha hemolytic colonies consistent with alpha 
+streptococcus or
+         Lactobacillus sp. 
+
+CXR:Images reviewed by author.
+- no acute cardiopulmonary disease
+.
+
+CT SCAN:Head CT negative.
+.
+NECK CT
+IMPRESSION:  
+  
+1. No evidence of acute fracture or traumatic malalignment. 
+2. Moderate, multilevel degenerative changes of the cervical
+spine, as above. 
+  
+
+ 
+Brief Hospital Course:
+___ yo F with h/o CVA and neuropathy presents with confusion 
+following a fall.
+
+# Confusion: Attributed to post-concussive syndrome. Resolved 
+immediately upon arrival to the floor. 
+
+# Fall: Likely mechanical or neuropathy-mediated. There was no 
+evidence of arrhythmia on telemetry monitoring from ___. 
+The patient was seen by neurology in consultation and they did 
+not feel that there was anything to suggest seizure or TIA.
+
+# Thrombocytopenia: Worse than recent baseline in 100's K. 
+Possibly drug-related and possibly due to ranitidine. Pt was 
+asked to stop ranitidine. No evidence of acute bleeding or 
+hemolysis.
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 10 mg PO DAILY 
+3. diphenoxylate-atropine 2.5-0.025 mg oral QID PRN  diarrhea 
+4. Gabapentin 200 mg PO HS 
+5. Levothyroxine Sodium 88 mcg PO DAILY 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope
+Thrombocytopenia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted after a fall at home. You had some confusion 
+surrounding the fall and you were thought to have a 
+post-concussive syndrome. You were seen by the neurologists 
+here. 
+
+You were also found to have low platelets. This may be the 
+result of ranitidine. Please stop ranitidine. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16461238-DS-3 | hadm_id=29646133
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+ 
+History of Present Illness:
+The patient is an ___ year old female with no significant cardiac 
+history, history of CVA in ___ (w/no deficits) who presents 
+with 1 week of cough and increasing dsypnea and acute onset of 
+chest pain on the day of admission.  The patient states that for 
+the past week she has noticed a non-productive cough and 
+increasing dysypnea on exertion, no fevers. Today she acutely 
+became nauseous and vomited once.  She then began having chest 
+pain that extended across her entire chest.  The pain was 
+non-radiating to the back, neck or arms, rated at ___ in 
+severity and lasted about ___ minutes before she called a 
+friend who called EMS. She denies ever having pain like this 
+before and denies any recent social stressors.
+
+In the ambulence she was treated with nitroglycerin which 
+improved her pain to a ___ in severity.  In the ___ ED, she 
+received a second dose of nitroglycerin and obtained an EKG 
+which was concerning for 1mm ST elevations in the inferiolateral 
+leads and hyperacute T waves in V2-V4.  Given concern for 
+ischemia, she was taken for cardiac catheterization which showed 
+insignificant coronary artery disease and left ventriculogram 
+demonstrated apical ballooning consistent with Takotsubo.
+
+Of note, the patient states that her blood pressure at times 
+ranges from 90-190 systolic with no known cause.  She also 
+endorses times of diaphoresis and heart palpitations while lying 
+in bed. It is unclear how long these symptoms have been going 
+on. 
+
+Upon arrival to the CCU, vital signs: 
+temp 97.5 hr 92 bp 113/74 rr 14 98% on RA
+The patient complains of nausea and vomited once upon arrival, 
+denies any chest pain or difficulty breathing. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Hypertension, No h/o: Diabetes or 
+Dyslipidemia  
+2. CARDIAC HISTORY:  No previous cardiac history
+3. OTHER PAST MEDICAL HISTORY:  
+Idiopathic Peripheral neuropathy
+GERD
+Osteoarthritis
+Hypothyroidism
+Hearing Loss
+Lacunar stroke
+Osteoporosis
+Macular degeneration
+Posterior Vitreous detachment
+Glaucoma
+Thrombocytopenia (has been less than 100)
+ 
+Social History:
+___
+Family History:
+Grandfather diagnosed with "coronary thrombosis", otherwise, no 
+other known family history of cardiac disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: temp 97.5 hr 92 bp 113/74 rr 14 98% on RA
+General:  no acute distress, lying comfortably in bed, 
+conversant
+HEENT: NCAT 
+Neck:  difficult to assess JVD given flat position
+CV:  tachycardia, RRR, normal S1, S2, no murmurs/rubs/gallops
+Lungs:  clear to ascultation anteriorly
+Abdomen:  +BS, soft, nontender, nondistended
+GU:  no foley in place
+Ext:  +DP pulses bilaterally (palpable)
+Neuro:  awake, alert, appropriate
+
+DISCHARGE PHYSICAL EXAM
+Afebrile, vital signs stable, no events on tele
+General:  no acute distress
+HEENT: EOMI, clear oropharynx
+Neck:  no JVD
+CV:  RRR, normal S1, S2, no murmurs/rubs/gallops
+Lungs:  clear to ascultation 
+Abdomen:  +BS, soft, nontender, nondistended
+GU:  no foley in place
+Ext:  +DP pulses bilaterally (palpable)
+Neuro:  awake, alert, appropriate
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:55PM BLOOD WBC-12.5*# RBC-4.27# Hgb-14.2 Hct-41.1# 
+MCV-96 MCH-33.2* MCHC-34.5 RDW-13.4 Plt ___
+___ 07:55PM BLOOD Neuts-80.5* Lymphs-13.5* Monos-4.8 
+Eos-0.6 Baso-0.6
+___ 07:55PM BLOOD ___ PTT-28.1 ___
+___ 07:55PM BLOOD Plt ___
+___ 07:55PM BLOOD Glucose-151* UreaN-19 Creat-0.5 Na-139 
+K-3.6 Cl-104 HCO3-25 AnGap-14
+___ 07:55PM BLOOD CK(CPK)-65
+___ 07:55PM BLOOD CK-MB-7
+___ 07:55PM BLOOD cTropnT-0.10*
+___ 04:29AM BLOOD CK-MB-20* MB Indx-13.6* cTropnT-0.49*
+___ 07:55PM BLOOD Calcium-8.6 Phos-3.4 Mg-2.1
+
+OTHER LABS
+___ 04:29AM BLOOD Triglyc-48 HDL-41 CHOL/HD-2.9 LDLcalc-67
+
+CARDIAC CATHETERIZATION ___
+Hemodynamics (see above):   The left ventricular end diastolic
+pressure was slightly elevated at 18 mmHg. 
+
+Coronary angiography:  right dominant
+
+LMCA:  Normal
+LAD:   The LAD was patent.  It may minimal lumen irregularities
+in the proximal and mid portion.  There were two small diagonal
+branches without disease.   The distal LAD was a smaller caliber
+vessel with 40-50% stenoses. It was patent just to the apex.  
+
+LCX:  The LCX was a large vessel.  It gave rise to a large
+bifurcating OMB with the appearance of a short intramyocardial
+bridge.  The LCX was free of disease.
+
+RCA:  The RCA was a hyperdominant vessel that was free of
+significant disease.
+
+Left ventriculogram demonstrated anterior wall, apical, and
+inferoapical akinesis and dyskinesis consistent with an anterior
+wall myocardial infarction. 
+
+EKG:  NRS @ 100bpm, normal axis, intervals wnl, 1mm ST 
+elevations in II, V4-V5
+
+ECHO ___
+The left atrium is normal in size. No thrombus/mass is seen in 
+the body of the left atrium. No atrial septal defect is seen by 
+2D or color Doppler. The estimated right atrial pressure is ___ 
+mmHg. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. There is moderate regional 
+left ventricular systolic dysfunction with mid to distal/apical 
+hypokinesis to akinesis suggestive of Takotsubo cardiomyopathy. 
+No masses or thrombi are seen in the left ventricle. There is no 
+ventricular septal defect. Right ventricular chamber size is 
+normal. with focal hypokinesis of the apical free wall. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Mild (1+) mitral regurgitation is seen. There is 
+moderate pulmonary artery systolic hypertension. There is an 
+anterior space which most likely represents a prominent fat pad. 
+ 
+
+CXR ___
+An AP single view of the chest has been obtained with patient in 
+
+sitting semi-upright position.  Comparison is made with the next 
+preceding PA and lateral chest examination of ___. 
+ The heart size may have increased slightly, but this finding is 
+uncertain as the present portable AP single chest view inherits 
+a degree of geometric distortion.  Thoracic aorta is unchanged 
+with ordinary ___ but some calcium deposits in the wall 
+at the level of the arch.  There is some degree of perivascular 
+haze in the lung bases and indistinct contours of the pleural 
+sinuses suggestive of some beginning pleural effusion, but there 
+is no evidence of overt central pulmonary parenchymal edema.  No 
+new discrete pulmonary parenchymal infiltrates are noted and no 
+pneumothorax is present in the apical area. 
+  
+On comparison with the previous examination, the findings are 
+consistent with mild degree or early stages of CHF.  A lateral 
+view could be helpful to identify if pleural effusion has 
+accumulated in the posterior pleural sinuses. 
+
+MICROBIOLOGY
+___ 05:49AM URINE Color-Yellow Appear-Clear Sp ___
+___ 05:49AM URINE Blood-SM  Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-MOD
+___ 05:49AM URINE RBC-3* WBC-7* Bacteri-FEW Yeast-NONE 
+Epi-<1
+UCulure negative
+Urine legionella Ag negative
+Blood cx negative to date
+
+DISCHARGE LABS
+___ 06:39AM BLOOD WBC-10.1 RBC-3.76* Hgb-12.4 Hct-36.5 
+MCV-97 MCH-33.1* MCHC-34.1 RDW-13.4 Plt ___
+___ 06:39AM BLOOD Glucose-103* UreaN-14 Creat-0.6 Na-136 
+K-4.2 Cl-102 HCO3-26 AnGap-12
+___ 06:39AM BLOOD Mg-2.___ year old female with no significant cardiac history, history 
+of CVA in ___ (w/no deficits), with 1 week of cough and 
+increasing dsypnea presented with acute chest pain now s/p 
+cardiac cath and found to have Takotsubo cardiomyopathy. 
+
+ACTIVE ISSUES
+# Takotsubo cardiomyopathy
+The patient has no significant cardiac history or caridac risk 
+factors and presented with acute onset of chest pain, nausea and 
+vomiting.  Given concern on EKG for ST elevations and positive 
+troponin, the patient was taken for cardiac catheterization.  
+Cardiac cath showed insignificant coronary artery disease and 
+left ventriculogram demonstrated apical ballooning, consistent 
+with Takotsubo cardiomyopathy.  She has remained hemodynamically 
+stable.  Takotsubo cardiomyopathy was treated with ASA, heparin 
+gtt, metoprolol, and atorvastatin 10 (given normal lipid panel) 
+and she was diuresed for heart failure with improved breathing 
+and decreased crackles on exam. Despite her moderate LV systolic 
+dysfunction and apical hypo- to akinesis, patient declined 
+starting coumadin for thrombus prevention, even after the risk 
+of being thrombus embolization was explained.  She was diuresed 
+for her acute heart failure, and was euvolemic at discharge and 
+HDS. 
+ 
+# Leukocytosis
+Patient found to have leukocytosis of 12.5 with 80.5% 
+neutrophils and presented with a one week history of 
+non-productive cough and increasing dyspnea on exertion.  She 
+denied any fevers at home and had not seen her PCP for this.  
+CXR was concerning for a right middle lobe pneumonia initially.  
+Blood, urine cx and urine Legionella were negative to date.  She 
+was treated for CAP with levaquin 750mg IV q48hrs for 7 day 
+course with last dose given ___ at discharge.
+
+CHRONIC ISSUES
+# Thrombocytopenia
+Patient has a history of thrombocytopenia and it is well 
+documented that her platelet count has been less than 100,000.  
+Was monitored throughout admission and stable
+
+#  Hypothyroidism
+Continued home levothyroxine
+ 
+#  GERD
+Continued home ranitidine
+
+#  Osteoporosis
+Continued home vitamin D
+
+#  Idiopathic Peripheral Neuropathy
+Home gabapentin was initially held and then restarted at home 
+dose. 
+
+TRANSITIONAL ISSUES
+Patient declined starting coumadin for apical hypo to akinesis, 
+after risks benefits explained. 
+Blood cultures ___ NTD x2, pending final at discharge
+ACEI not started as pt's BPs were borderline low in SBP ___ to 
+___ at times, and should be started as outpatient.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vitamin D ___ UNIT PO DAILY 
+2. Ranitidine 150 mg PO BID 
+3. Gabapentin 200 mg PO HS 
+4. Levoxyl (levothyroxine) 88 mcg Oral daily 
+5. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 200 mg PO HS 
+3. Ranitidine 150 mg PO BID 
+4. Vitamin D ___ UNIT PO DAILY 
+5. Levoxyl (levothyroxine) 88 mcg Oral daily 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet extended release 24 
+hr(s) by mouth daily Disp #*30 Tablet Refills:*0
+7. Furosemide 10 mg PO DAILY 
+RX *furosemide 20 mg 0.5 (One half) tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0
+8. Atorvastatin 10 mg PO DAILY 
+RX *atorvastatin 10 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+9. Outpatient Lab Work
+ICD 9 276.9
+Please check chem 7 on ___ 
+send results to ___: ___  Fax: 
+___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+Takotsubo Cardiomyopathy
+
+SECONDARY
+Community-acquired pneumonia
+Thrombocytopenia
+Hypothyroidism
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___.  You came in with 
+chest pain and underwent cardiac catheterization which showed 
+that you were not having a heart attack.  You were diagnosed 
+with Takotsubo cardiomyopathy, which decreases the pumping 
+ability of the heart. This is a condition that usually improves 
+over time. On discharge, your heart rate and blood pressure were 
+stable.
+
+You will need another heart ultrasound in 1 month, to confirm 
+that your heart function is improving. 
+
+You also had a small pneumonia while in the hospital and this 
+was treated with an antibiotic called levofloxacin.
+
+It was a pleasure taking care of you. We wish you a speedy 
+recovery.
+Your ___ team
+ 
+Followup Instructions:
+___

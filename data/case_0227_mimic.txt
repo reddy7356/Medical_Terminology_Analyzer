@@ -1,0 +1,230 @@
+===== DISCHARGE NOTE =====
+note_id=16678576-DS-11 | hadm_id=27178908
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Video-assisted  thoracic surgery left lower lobe
+wedge resection (req general anesthesia, intubation)
+ 
+History of Present Illness:
+Patient is ___ yo male with a history of asthma who presents 
+shortness of breath.  Patient states that his dyspnea began in 
+___.  He had an URI at this time with night sweats, 
+for which he saw his PCP.  In ___, the patient 
+developed another URI.  He was still able to play tennis and 
+maintained his normal activities until ___.  
+.
+At this time, he noticed dyspnea while golfing with friends.  
+Patient then noticed that he had SOB when walking up stairs and 
+would often "pass out" on the top flight.  Patient visited his 
+PCP who gave him a prescription for Pulmicort.  Despite this 
+intervention, he still remained dyspneic on exertion and 
+returned to his PCP one week later, at which time he desated to 
+80% on exertion.  Patient was referred to pulmonary and was 
+bronched on ___.  BAL was negative for malignant cells but 
+showed pulm macrophages, lymphocytes, and squamous cells.
+.
+Patient states that he dyspnea has become progressively worse 
+over the past two weeks.  He is no longer able to walk to his 
+car without becoming short of breath.  He has been having fevers 
+and chills for the past two weeks, and he has lost 30 lbs over 
+the past three months.  He states that he has had night sweats 
+since his first URI in ___, and he has had a cough productive 
+of yellow sputum for the past 3 months.  
+.
+Review of systems is notable for frequent headaches, diarrhea 
+daily, and a rash on his upper arms bilaterally for the last 
+three months.  Patient denies leg swelling, bruising, 
+constipation, dysphagia, increased urinary frequency.  He 
+endorses palpitations.
+.
+In the emergency department, patient's VS were T 98.6, P ___, BP 
+126/77, R 18, O2 90% on RA.  He was placed on 3L of O2.  He was 
+started on Vanc and Levo and then transferred to the BI (CC7) 
+for further workup and evaluation.
+ 
+Past Medical History:
+-mild intermittent asthma since childhood, previously only on
+albuterol; one hospitalization as a child 
+-Allergies to dust, cats, grass
+ 
+Social History:
+___
+Family History:
+Patient's father and sisters are alive and well. Patient's 
+mother recently died from lung cancer
+ 
+Physical Exam:
+VS: T=98.4, BP 134/90, HR 94, R 22, O2 97% on 4L  
+GEN: Pleasant, young man, in NAD  
+HEENT: PERRL, EOMI, No conjunctival pallor. No scleral icterus. 
+OP clear.  
+NECK: Supple, no LAD, no thyromegaly  
+CARDIAC: Tachycardic. RRR. Normal S1, S2. No murmurs, rubs or 
+___.  
+LUNGS: Diffuse rhonchi bilaterally. L>R. Poor air movement 
+bilaterally.  
+ABD: Soft, NT, ND. No HSM  
+EXT: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial 
+pulses.  
+SKIN: Macular rash on medial aspect of upper extremities 
+bilaterally.  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. ___ strength throughout. ___ reflexes, 
+equal ___. Normal coordination. Gait assessment deferred  
+
+ 
+Pertinent Results:
+___ CT
+Rapid progression of diffuse consolidation, most prominent in
+LLL, RLL and lingula. This suggests acute infection superimposed
+on a chronic process (hilar lymph nodes suggests sarcoid).
+Alternatively, a continuing occupational exposure could be
+considered. 
+
+___ CXR
+There is interval increase in the bilateral linear and nodular
+opacities throughout both lungs. There is no pleural effusion or
+pneumothorax. The cardiomediastinal silhouette is unchanged. 
+1. No pneumothorax. 
+2. Significant interval increase in the diffuse reticular 
+nodular
+opacities seen throughout both lungs. 
+
+___ CXR
+There is no pneumothorax. Linear and nodular opacities with the 
+lower lobe predominance have improved in extent, compared to the
+prior radiograph. No large pleural effusion is present. 
+Pulmonary
+vascularity is not increased. 
+
+___ 01:37PM   ANCA-NEGATIVE B
+___ 01:15PM   SED RATE-81*
+___ 01:15PM   GLUCOSE-84 UREA N-14 CREAT-0.7 SODIUM-140 
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-25 ANION GAP-16
+___ 01:15PM   CK(CPK)-31*
+___ 01:15PM   cTropnT-<0.01
+___ 01:15PM   WBC-9.3 RBC-4.73 HGB-14.3 HCT-41.0 MCV-87 
+MCH-30.2 MCHC-34.8 RDW-12.1
+___ 01:15PM   NEUTS-81.8* LYMPHS-12.9* MONOS-4.0 EOS-1.1 
+BASOS-0.2
+___ 01:15PM   PLT COUNT-393
+___ 01:15PM   ___ PTT-25.8 ___
+ 
+Brief Hospital Course:
+Patient is a ___ yo man with a history of asthma who presented 
+with progressive hypoxia.  Ddx included idiopathic lung disease, 
+pneumonia, PE.  Pulmonary embolism seemed unlikely given that 
+the patient is on DVT prophylaxis and had been having these 
+progressive CT changes.
+
+HYPOXIA
+He underwent diagnostic VATS on ___ which he tolerated well 
+with minimal EBL. Chest tube was removed on the morning of 
+___.  Intial pathology read was consistant with Hamman-Rich 
+syndrome.  He was started solumedrol 250 mg q6 on ___.
+On the floor he required ___ NC to keep his sats >93%. On the 
+morning of MICU transfer (___) he was rolling to his side to use 
+a bedside urinal and had increased hypoxia with O2sats ~85%. He 
+was placed on a NRB with improvement in his sats and subjective 
+feeling of dyspnea. A repeat CXR was done. He received an 
+empiric dose of lasix (20 mg IV x1) with adequate urine output. 
+He had transient improvement in oxygenation and was transferred 
+to the MICU on NRB. 
+In the MICU his oxygen saturation was supported ___ % facemask 
+with waxing and waning requirement.  Pressure support 
+ventilation was not required.
+Combivent nebs given Q6 PRN.
+
+POSSIBLE INFECTION
+Given then patient's tenuous residual lung function and acute 
+decompensation, he was also started on emperic pneumonia 
+treatment with Vanc/Levo on ___.  Cultures were negative for 
+AFB, PCP, ___, bacteria.  His vanc was discontinued on 
+___ and restarted on ___.  He was placed on prophylactic 
+Bactrim while on high dose steroids.
+  
+TRANSFER TO ___
+When path returned as consistent with AIP, we discussed his case 
+with the transplant service at our sister ___, ___ 
+___, as well as with their critical care team.  We arranged 
+for urgent transfer for expedited evaluation for possible 
+transplantation, since we felt that this provided the best 
+balance of risks and benefits.
+ 
+Medications on Admission:
+On admission:
+Ibuprofen prn
+Albuterol prn
+
+Upon transfer to MICU on ___:
+Medications on Transfer:
+atrovent neb q6
+tylenol ___ mg q6prn
+albuterol neb q6prn
+levofloxacin 750 mg daily (start ___
+methylprednisolone 125 mg q6
+pantoprazole 40 mg daily
+dilaudid PCA bolus 0.12 mg, q6min:prn, lockout 2 mg daily. no 
+basal
+heparin 5000 sc tid
+insulin sliding scale
+bactrim DS 1 tab 3x/week
+ambien ___ mg qhs:prn
+trazodone 25 mg qhs:prn
+ 
+Discharge Medications:
+HYDROmorphone (Dilaudid) 0.125 mg IV Q4H:PRN Hold for RR<12, 
+sedation  
+Senna 1 TAB PO BID constipation 
+Lorazepam 0.5 mg PO/IV Q6H:PRN anxiety 
+MethylPREDNISolone Sodium Succ 250 mg IV Q6H
+Calcium Carbonate 500 mg PO BID  
+Vancomycin 1000 mg IV Q 12H 
+Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+Zolpidem Tartrate ___ mg PO HS:PRN  
+Heparin 5000 UNIT SC TID  
+traZODONE 25 mg PO HS:PRN 
+Pantoprazole 40 mg PO Q24H  
+Insulin SC  
+Ipratropium Bromide Neb 1 NEB IH Q6H 
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN  
+Levofloxacin 750 mg PO Q24H
+Docusate Sodium 100 mg PO BID
+Acetaminophen 325-650 mg PO Q6H:PRN  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute Interstitial Pneumonia
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Transferred to ___ for continued care and transplant evaluation.
+ 
+                             ___, MPH ___
+ 
+Completed by: ___

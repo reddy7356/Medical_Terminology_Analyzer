@@ -1,0 +1,201 @@
+===== DISCHARGE NOTE =====
+note_id=14889512-DS-9 | hadm_id=26405222
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+rash, thrombocytopenia  
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ without significant PMH, who presented to her PCP ___ ___ 
+weeks of increasing lower extremity peticheal rash after shaving 
+her legs. Also recalls last menstrual period being heavier than 
+previously. otherwise, no obvious bleeding, denies joint pains, 
+melena, hematuria, bleeding gums.  
+.  
+PCP drew labs, and called pt when platlets noted to be 5, pt was 
+sent to ED.  
+.  
+ROS otherwise negative for f/c/ns/visual changes/cp/sob/n/v/abd 
+pain, diarrhea, constipation, melena, dysuria. pt notes +HA 
+today, gradual onset, mild, R>L, somewhat similar to prior 
+migraines (treated by d/c of OCP), no visual changes.  
+.  
+no recent medication changes, has been taking advil 800mg twice 
+daily for 5 weeks for shoulder tendonitis.  
+.  
+In ED VS=98.9 98 117/80 16 98%RA. platlets were noted to be 5, 
+LFTs elevated, HCT ___. UA with small blood, otherwise with 
+multiple epis. CT HEAD prelim showed no obvious ICH. ED spoke 
+with hematology who felt presumptive diagnosis of ITP 
+reasonable, and recommended starting prednisone 60mg po qdaily. 
+Pt otherwise remains asymptomatic.  
+
+ 
+Past Medical History:
+none.  
+h/o c-section without prolonged bleeding.  
+
+ 
+Social History:
+___
+Family History:
+denies FH of blood disorders.  
+
+ 
+Physical Exam:
+VS: 98.11 106/64 9 20 97%RA  
+GEN: NAD  
+HEENT: PERRLA, EOMI, sclera anicteric, OP with few petichae on 
+palette, MMM, no LAD, no carotid bruits. No JVD.  
+CV: regular, nl s1, s2, no m/r/g.  
+PULM: CTA B, no r/r/w.  
+ABD: soft, NT, ND, + BS, no HSM. +petichael rash.  
+EXT: warm, 2+ dp/radial pulses ___, no femoral bruits.  
+NEURO: alert & oriented x 3, CN II-XII grossly intact.  
+SKIN: extensive petichael rash B ___.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+___ 09:05PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:05PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 09:05PM URINE  ___ BACTERIA-OCC YEAST-NONE 
+___ 08:20PM   GLUCOSE-118* UREA N-16 CREAT-0.8 SODIUM-140 
+POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-26 ANION GAP-14
+___ 08:20PM   LD(LDH)-301*
+___ 08:20PM   HAPTOGLOB-86
+___ 08:20PM   WBC-8.3 RBC-3.97* HGB-12.2 HCT-34.1* MCV-86 
+MCH-30.8 MCHC-35.9* RDW-13.9
+___ 08:20PM   NEUTS-38.3* BANDS-0 LYMPHS-55.3* MONOS-3.6 
+EOS-1.9 BASOS-1.0
+___ 08:20PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 08:20PM   PLT SMR-RARE PLT COUNT-6* LPLT-2+
+___ 08:20PM   ___ PTT-25.5 ___
+___ 08:20PM   RET AUT-2.6
+___ 10:25AM   GLUCOSE-92
+___ 10:25AM   UREA N-14 CREAT-0.7 SODIUM-139 POTASSIUM-3.8 
+CHLORIDE-103 TOTAL CO2-26 ANION GAP-14
+___ 10:25AM   estGFR-Using this
+___ 10:25AM   ALT(SGPT)-158* AST(SGOT)-67* ALK PHOS-62 
+AMYLASE-71 TOT BILI-1.0 DIR BILI-0.2 INDIR BIL-0.8
+___ 10:25AM   IRON-77
+___ 10:25AM   calTIBC-347 FERRITIN-77 TRF-267
+___ 10:25AM   ___
+___ 10:25AM   CRP-2.8
+___ 10:25AM   WBC-8.2 RBC-4.36 HGB-13.6 HCT-39.1# MCV-90 
+MCH-31.2 MCHC-34.7 RDW-13.5
+___ 10:25AM   NEUTS-42* BANDS-0 ___ MONOS-7 EOS-3 
+BASOS-0 ATYPS-7* ___ MYELOS-0
+___ 10:25AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 10:25AM   PLT SMR-RARE PLT COUNT-5*# LPLT-3+
+___ 10:25AM   SED RATE-10
+.
+___ Head CT: No acute intracranial abnormality.
+(The right ocular lens is not visualized and not included on the 
+present set of images. To correlate clinically.)
+ 
+Brief Hospital Course:
+___ presenting with 1.5 weeks petichael rash and 
+thrombocytopenia (platlets of 5).  
+.  
+# thrombocytopenia - Definite etiology unclear as yet, but 
+likely post-viral (given atypical leukocytes also on smear), 
+medication induced (NSAIDs), or ITP.  There was no evidence of 
+bleeding noted, and head CT was negative.  Hemolysis labs were 
+negative, and no schistocytes were noted on smear.  Iron studies 
+and B12 were unremarkable.  HIV and hepatitis panel were 
+negative.  Started prednisone empirically.  Platelet count was 
+initally 5, and gradually increased to 15 on the day of 
+discharge.  LFTs were also mildly elevated initially, but 
+trended downward.  Antiplatelet antibody was sent, and was still 
+pending at the time of discharge.  Hematology followed the 
+patient during her hospital course.  She was discharged on 
+prednisone 60mg to be continued until followup with hematology, 
+with plan for a slow taper.  She will have her platelet count 
+checked tomorrow on the oncology floor of ___, and then every 
+other day at her PCP's office at least until her hematology 
+followup appointment.  
+.  
+# HA - Mild, simliar to prior migraines per pt, though no visual 
+changes now. Head CT negative.  Treated with tylenol.  Avoiding 
+NSAIDs given thrombocytopenia.  
+ 
+Medications on Admission:
+advil 400-600mg po bid x 5 weeks for shoulder tendonitis
+ 
+Discharge Medications:
+1. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day): you may take an 
+over-the-counter calcium supplement; for a total of 1200 mg 
+daily - split in 2 or 3 doses.  
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily): take an over-the-counter vitamin D 
+supplement - can be taken all at once.  
+4. Outpatient Lab Work
+Please go to ___ on ___ to have a 
+CBC drawn.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: thrombocytopenia (idiopathic thrombocytopenic 
+purpura vs. drug induced vs. post-viral)
+
+ 
+Discharge Condition:
+good; no evidence of bleeding; 
+
+ 
+Discharge Instructions:
+You have been hospitalized with a low platelet count.  
+
+You should take prednisone daily as prescribed.
+You should take calcium and vitamin D to help protect your 
+bones, especially while you are on prednisone.
+You should avoid taking Advil/Ibuprofen and other NSAIDs.
+
+You should have a CBC (with platelet count) drawn on ___ at 7 
+___ on the ___.  You have been given a 
+prescription for this.  Thereafter you should have a CBC drawn 
+every other day at your PCP's office until you see your 
+hematologist or your PCP. 
+
+If you experience any bleeding, fevers or chills, severe 
+headache, or any other concerning symptoms, please call your 
+doctor or return to the emergency room.
+You also need to mention to your PCP that you had elevated liver 
+function tests.  Your hepatitis B (S Ag/Ab,no C Ab) and C panels 
+were negative.  You should have him check it again in his 
+office. 
+ 
+Followup Instructions:
+___

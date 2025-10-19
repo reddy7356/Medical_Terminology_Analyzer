@@ -1,0 +1,452 @@
+===== DISCHARGE NOTE =====
+note_id=19730337-DS-22 | hadm_id=25003576
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilacor XR / Penicillins / Erythromycin Base / Bactrim / 
+Lotensin / Prochlorperazine / Ismo / ciprofloxacin / Levaquin / 
+contrast iv / nitroglycerin / nitroglycerin
+ 
+Attending: ___
+ 
+___ Complaint:
+biliary obstruction, ?gallstone
+ 
+Major Surgical or Invasive Procedure:
+___ ERCP
+ 
+History of Present Illness:
+This is a ___ y/o female with afib on warfarin s/p PPM, HTN, 
+hypothyroidism, h/p CCY c/b CBD injury requiring RNY 
+choledochojejunostomy, c/b anastomotic biliary stricture s/p 
+dilitation at ___, h/o CBD stone ___ s/p sphincteroplasty 
+and partial removal with placement of ___ biliary drain, 
+now here for an elective ERCP due to concern for recurrent 
+stone.  Per patient, she recently underwent a cholangiogram 
+(approx 4 weeks after the procedure in ___ and this did not 
+show a stone.  However, recent imaging prior to pulling of the 
+biliary drain demonstrated a possible stone, which is why she 
+was referred here for further evaluation.
+
+She underwent a single-baloon assisted ERCP today; no stones or 
+filling defects were noted.  The drain was replaced.  Currently, 
+the patient is comfortable with very mild, ___, crampy abd pain 
+in the LUQ.  No n/v/diarrhea.  No f/c/s.  She notes her drain 
+has had minimal output until today; she notes increased output 
+since the procedure.
+
+12-pt ROS otherwise negative in detail except for as noted 
+above.
+
+ 
+Past Medical History:
+Hypothyroidism 
+HTN
+HLD
+Afib, s/p PPM, on Coumadin
+CVA/TIA with residual aphasia
+s/p tonsillectomy
+s/p open CCY complicated by CBD transection
+s/p RNY choledochojejunostomy (___)
+
+ 
+Social History:
+___
+Family History:
+Daughter died in her ___ from MI.
+Mother died from renal cancer.
+
+ 
+Physical Exam:
+VS: Tc 98.4, 148/80, 84, 18, 99/RA
+General: well-appearing female in NAD, AO x 3
+HEENT: NC/AT, PERRL, EOMI. MMM, OP clear. anicteric sclerae
+Neck: supple
+Chest: CTA-B, no w/r/r
+CV: ___ s1 s2 normal, no m/g/r
+Abd: soft, NT/ND, NABS, no HSM, +biliary drain with yellowish 
+fluid output
+Ext: no c/c/e, wwp
+ 
+Pertinent Results:
+___ 10:19AM   WBC-4.8 RBC-5.19 HGB-13.9 HCT-43.5 MCV-84 
+MCH-26.8* MCHC-32.0 RDW-15.0
+___ 10:19AM   PLT COUNT-160
+___ 10:19AM   ___ PTT-32.5 ___
+___ 10:19AM   LIPASE-43
+___ 10:19AM   ALT(SGPT)-14 AST(SGOT)-28 ALK PHOS-128* 
+AMYLASE-56 TOT BILI-0.8 DIR BILI-0.3 INDIR BIL-0.5
+___ 10:19AM   GLUCOSE-94 UREA N-14 CREAT-0.8 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-24 ANION GAP-17
+
+___ ERCP:
+Normal mucosa in the esophagus 
+Normal mucosa in the stomach 
+After the ___ team pulled the drain back, surgical anatomy 
+consistent with a choledochojejunostomy was seen 
+fluoroscopically and endoscopically. 
+The right and left hepatic ducts were directly imaged 
+endoscopically. Direct cholangioscopy was performed with the 
+enteroscope.   
+Cholangiogram images selectively obtained using balloon pressure 
+cholangiogram of the right anterior/posterior ducts and both 
+left hepatic ducts. On fluoroscopy the intrahepatics were mildly 
+dilated. There were no filling defects in the right/left 
+hepatics ducts, common hepatic duct, or at the bilio-enteric 
+anastomosis. 
+After imaging, the drain was replaced by ___ with endoscopic 
+confirmation of the distal part of the drain in the bowel. 
+Dr ___ Dr ___ the acquisition and 
+interpretation of the fluoroscopic images. The image quality was 
+good.   
+Balloon sweeps were performed of all the visualized ducts and no 
+stones or sludge removed.  
+An impacted stone in a ___ order branch cannot be completly 
+excluded however this is not seen on cholangiography and thus 
+would not be endoscopically removable. 
+ 
+Brief Hospital Course:
+___ yoF with h/o Afib on coumadin s/p PPM, HTN, hypothyroidism 
+and h/o CCY with CBD injury requiring RNY choledochojejunostomy, 
+c/b biliary stricture and CBD stone with placement of ___ 
+biliary drain.  She is now s/p ERCP with no stones noted and 
+replacement of her biliary drain.
+
+# Bile duct obstruction: She underwent ERCP on ___ without 
+complication.  She was not noted to have any CBD stones or 
+filling defects on cholangiogram.  Her bile ducts were mildly 
+dilated.  She then underwent replacement of her biliary drain by 
+___.  She was kept on clears after the procedure overnight and 
+then advanced to a regular diet without complication.  She was 
+given a 5 day course of cipro for prophylaxis.  She should 
+follow up as previously planned with her outside providers.
+
+# Atrial fibrillation, s/p PPM: Her coumadin had been held prior 
+to the procedure and was restarted the day after the procedure 
+at 2.5mg given her concurrent use of cipro.  She was continued 
+on her home metoprolol and diltiazem.
+
+# HTN: Continued home meds
+
+# Hypothyroidism: Continued levothyroxine
+
+TRANSITIONAL ISSUES:
+- Should have INR rechecked in several days.  Discussed this 
+with her PCP who will arrange follow-up
+- Follow-up with outside GI and ___ for management of biliary 
+drain
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Diltiazem Extended-Release 120 mg PO DAILY 
+hold for sbp<100 and hr<60 
+2. Levothyroxine Sodium 75 mcg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Omeprazole 40 mg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. Metoprolol Tartrate 75 mg PO BID 
+hold for sbp<100 and hr<60 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Diltiazem Extended-Release 120 mg PO DAILY 
+3. Levothyroxine Sodium 75 mcg PO DAILY 
+4. Metoprolol Tartrate 75 mg PO BID 
+5. Omeprazole 40 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Warfarin 2.5 mg PO DAILY16 
+8. Ciprofloxacin HCl 500 mg PO Q12H Duration: 4 Days 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice daily Disp 
+#*8 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Biliary obstruction
+Atrial fibrillation
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___.  You were 
+admitted to the hospital after ERCP.  You were restarted on a 
+regular diet which you tolerated well.  You should follow-up as 
+previously planned with your gastroenterologist, interventional 
+radiology, and primary care doctor.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19730337-DS-21 | hadm_id=28401681
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilacor XR / Penicillins / Erythromycin Base / Bactrim / 
+Lotensin / Prochlorperazine / Ismo / ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, s/p ERCP
+ 
+Major Surgical or Invasive Procedure:
+ERCP with sphincteroplasty
+
+ 
+History of Present Illness:
+___ yo F, PMH afib, s/p PPM, on Coumadin, hypothyroidism, HTN, 
+HLD, gallstone disease, s/p CCY in ___, c/b CBD transection, 
+s/p RNY hepatocholedochojejunostomy, with subsequent prolonged 
+chronic abdominal pain, c/b strictures, recent cholangitis 
+(___) at ___, s/p PTC drain (currently capped), found to 
+have common hepatic duct stone, presented for elective 
+enteroscopy today. 
+.
+Single ballon assisted enteroscopy today with fragmentation of 
+stone, however, despite sphincteroplasty, still with one stone 
+fragment left in place.
+.
+Currently feeling well post-procedure.  Denies any active 
+abdominal pain, nausea or vomiting.  Tolerated clear tray.  
+Denies fevers, chills.  Has been in USOH, with chronic abd pain 
+with associated nausea as only symptom.   
+.   
+Review of sytems:  
+(+) chronic epigastric abd pain with associated nausea, chronic 
+aphasia 
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies vomiting, diarrhea, 
+constipation. No recent change in bowel or bladder habits. No 
+dysuria. Denies arthralgias or myalgias.  Ten point review of 
+systems is otherwise negative.
+
+ 
+Past Medical History:
+Hypothyroidism 
+HTN
+HLD
+Afib, s/p PPM, on Coumadin
+CVA/TIA with residual aphasia
+s/p tonsillectomy
+s/p open CCY complicated by CBD transection
+s/p RNY choledochojejunostomy (___)
+
+ 
+Social History:
+___
+Family History:
+Daughter died in her ___ from MI.
+Mother died from renal cancer.
+
+ 
+Physical Exam:
+Vitals: T: 98.2 BP: 139/80 P: 80 R: 18 O2: 99%RA  
+General: NAD, comfortable.  Alert, oriented.  
+HEENT: Sclera anicteric, oropharynx clear  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales. 
+CV: irreg irreg, normal S1 + S2, no murmurs.  Right upper CW 
+pacer pocket, non-TTP.    
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding.  PTC in RUQ, dressing in 
+place, clean, dry, intact.  No surrounding erythema or drainage. 
+ 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin:  no rashes
+Neuro:  AAOx3, aphasia (chronic)
+.
+
+ 
+Pertinent Results:
+Bloodwork: 
+___ 06:20AM BLOOD WBC-6.3 RBC-4.96 Hgb-13.6 Hct-42.9# 
+MCV-87 MCH-27.4 MCHC-31.7 RDW-14.5 Plt ___
+___ 06:20AM BLOOD WBC-6.3 RBC-4.96 Hgb-13.6 Hct-42.9# 
+MCV-87 MCH-27.4 MCHC-31.7 RDW-14.5 Plt ___
+___ 06:20AM BLOOD Glucose-99 UreaN-11 Creat-0.9 Na-143 
+K-4.0 Cl-105 HCO3-26 AnGap-16
+___ 06:20AM BLOOD Calcium-8.7 Phos-3.6# Mg-1.8
+___ 06:20AM BLOOD ___ PTT-32.4 ___
+.
+.
+Single Balloon Assisted ERCP (___)
+Impression:
+Normal esophagus and stomach
+Surgical anatomy consistent with a Roux-en-Y 
+choledochojejunostomy. The biliary limb was marked with SPOT 
+tattoo in the proximal portion.
+Cannulation of the biliary duct was successful and deep with a 
+balloon catheter using a free-hand technique.
+The common hepatic duct stone was fragmented using a balloon. 
+Stone fragments and sludge were extracted successfully using a 
+balloon catheter.
+To promote passage of stone fragments, a sphincteroplasty was 
+performed successfully using a 8 mm CRE balloon under endoscopic 
+and fluoroscopic guidance.   A residual stone fragment could not 
+be extracted because it continued slipping past the extraction 
+balloon just above the anastomosis.
+Otherwise normal SBE assisted ERCP
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN:  
+___ yo F with hx of Afib, HTN, HLD, GB disease s/p complicated 
+CCY, s/p RNY hepatocholedochojejunostomy, recent cholangitis 
+with biliary stricture with PTD, now s/p ERCP for common hepatic 
+duct stone. 
+. 
+# Biliary obstruction / common hepatic bile duct ston
+s/p PTC placed as ___, currently capped.  Now s/p ERCP with 
+successful fragmentation, however, 1 stone fragment remains.  
+Nonetheless, tolerated procedure well with improved abdominal 
+symptoms and was able to tolerate PO diet easily.  She will 
+return in approximately 2 weeks to have a PTC cholangiogram to 
+evaluate for presence of the stone fragment.  Hopefully the 
+stone fragment will have passed and the PTC can be removed.  If 
+stone remains, ___ will attempt ___ removal.  If that 
+remains unsuccessful, ERCP will attempt same day ERCP.  The 
+cholangiogram is currently scheduled for ___ in ___.  She 
+will need to hold her Coumadin for five days prior, starting 
+___.  She was given Ciprofloxacin for prophylaxis given 
+ERCP, and will continue on 3 more days of antibiotics after 
+discharge for a total of 5 days of antibiotic coverage.    
+.  
+# Atrial fibrillation, s/p PPM:
+On coumadin, was held prior to ERCP, but continued on ASA.  
+Well-rate controlled on lopressor.  CHADS2 = 4.  She had no 
+cardiac sx's.  Her Coumadin can be restarted today on discharge. 
+ She will need to f/u with her ___ at her PCP office 
+tomorrow (___) for instructions re: further INR checks and 
+Coumadin dosing.  Her Coumadin will need to held for 5 days 
+prior to her next imaging study / intervention scheduled for 
+___, will need to start holding her Coumadin on ___.  
+___ was d/w her ___ cardiologist, Dr. ___, and he is 
+in agreement.  He does not recommend bridging therapy while off 
+Coumadin.     
+.
+# Hypothyroidism: cont synthroid.
+.
+# HTN: normotensive, cont ___ anti-HTN regimen.  
+.
+# HLD: statin on held given recent cholangitis.  Cont to hold, 
+can f/u as ___.  
+.  
+Transitional Issues:
+1.  Code Status: Full Code
+2.  Anticoagulation management:  Resume Coumadin on discharge, 
+will need to check with PCP ___ on ___ to 
+determine next INR check and further coumadin dosing.  Will need 
+to hold Coumadin 5 days prior to next scheduled imaging study 
+with possible intervention, scheduled for ___, so will need 
+to start holding Coumadin on ___.  No bridging needed.  This 
+has been discussed with her ___ cardiologist, Dr. ___. 
+ 
+3.  complete total of 5 day course of ciprofloxacin for 
+prophylaxis given ERCP
+4.  f/u with ___ for cholangiogram on ___ to determine 
+whether stone has passed (see above for full discussion), may 
+need ERCP if stone fragment remains and ___ unable to remove.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Omeprazole 40 mg PO DAILY 
+3. Metoprolol Tartrate 75 mg PO BID 
+4. Diltiazem Extended-Release 120 mg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. Warfarin 5 mg PO DAILY16 
+7. Levothyroxine Sodium 75 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Diltiazem Extended-Release 120 mg PO DAILY 
+3. Levothyroxine Sodium 75 mcg PO DAILY 
+4. Metoprolol Tartrate 75 mg PO BID 
+5. Omeprazole 40 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Ciprofloxacin HCl 500 mg PO Q12H Duration: 3 Days 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice daily Disp 
+#*6 Tablet Refills:*0
+8. Warfarin 5 mg PO DAILY16 
+please call your ___ tomorrow (___) to schedule 
+your next INR check and further Coumadin dosing.   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: biliary stone
+.
+Secondary:biliary stricture, atrial fibrillation, HTN, 
+hypothyroidism
+.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for an ERCP.  You tolerated the procedure 
+well.  However with improvement in your abdominal symptoms.  
+However, there is still a small stone fragment in your bile 
+ducts.  You will need to return on ___ for a study to determine 
+if the stone has passed.  At that time, if the stone is still in 
+place, you may need another ERCP, so you will have to stop your 
+Coumadin 5 days prior, from ___.  
+.
+Please take all your home meds, and resume your Coumadin.  
+Please contact your ___ clinic at your PCP office directly 
+tomorrow to schedule your next INR check and further Coumadin 
+dosing.
+.
+You will need to complete a course of antibiotics to prevent 
+infection.
+.
+Please take your medications as listed below.
+.
+Please f/u with your physicians as listed below.
+.
+ 
+Followup Instructions:
+___

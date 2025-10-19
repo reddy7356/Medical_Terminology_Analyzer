@@ -1,0 +1,287 @@
+===== DISCHARGE NOTE =====
+note_id=14575782-DS-9 | hadm_id=24816536
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+TRANSIENT ISCHEMIC ATTACKS
+ 
+Major Surgical or Invasive Procedure:
+RIGHT CAROTID ENDARTERECTOMY- Dr. ___ ___
+
+ 
+History of Present Illness:
+___ h/o HTN p/w R eye amaurosis fugax 3 weeks ago and transient 
+left arm and leg numbness and weakness this morning, with CTA 
+head/neck demonstrating high-grade ___ stenosis. Patient 
+reports that 3 weeks ago he was in his usual state of health 
+when he noticed that he had transient R eye vision loss, he 
+described as "curtain being pulled" over the eye. His vision 
+recovered and he attributed the event to his recent cataract 
+surgery in the R eye.  
+
+Today, he reports left arm and left leg weakness/numbness that 
+occurred while he was at work around 10AM and resolved after one 
+minute. He was standing at the time and does reports associated 
+dizziness, having to hold onto railing with his right hand to 
+keep from falling. He denies LOC, headstrike, or changes in 
+speech. He presented to ___ at 12PM, was noted 
+to be neurologically intact with CTA demonstrating ___ stenosis 
+and he was thus transferred to BI. Patient otherwise denies 
+fevers/chills, chest pain/SOB, changes in bowel habits, 
+abdominal pain, dysuria. He denies previous radiation to the 
+neck or neck surgery. 
+ 
+Past Medical History:
+PMHx: HTN
+
+PSHx: ACL repair, back surgery, hernia repair (___), CCY 
+(___), prostate resection (___), cataract surgery
+ 
+Social History:
+___
+Family History:
+Patient denies history of strokes in family.  His mother died of
+complications of a cardiac procedure and father died of cancer. 
+ 
+Physical Exam:
+VS: 97.9 PO 149 / 69 75 17 95 RA
+GENERAL: [x]NAD  []A/O x 3  []intubated/sedated []abnormal
+CV: [x]RRR  [] irregularly irregular []no MRG  []Nl S1S2
+[]abnormal
+PULM: [x]CTA b/l  []no respiratory distress  []abnormal
+ABD: [x]soft  []Nontender  []appropriately tender 
+[]nondistended  []no rebound/guarding  []abnormal
+Neuro: CN ___ intact. ___ strength in UE and ___ bilaterally and
+no pronator drift. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:50PM BLOOD WBC: 6.9 RBC: 4.39* Hgb: 12.2* Hct: 37.4*
+MCV: 85 MCH: 27.8 MCHC: 32.6 RDW: 14.2 RDWSD: 44.___ 
+___ 07:50PM BLOOD Glucose: 100 UreaN: 18 Creat: 1.0 Na: 141
+K: 4.3 Cl: 106 HCO3: 23 AnGap: 12 
+___ 07:50PM BLOOD ALT: 28 AST: 24 AlkPhos: 46 TotBili: 0.6 
+___ 07:50PM BLOOD Albumin: 4.3 Calcium: 9.0 Phos: 3.3 Mg:
+2.1 
+___ 07:50PM BLOOD ASA: NEG Ethanol: NEG Acetmnp: NEG
+Tricycl: NEG 
+
+TCD report:
+ Normal TCD evaluation. There was no evidence of
+vasospasm and no microemboli were seen. Reverse flow pattern
+observed in the ophthalmic artery consistent with
+collateralization in the setting of right carotid high grade
+stenosis
+
+TTE:
+Suboptimal image quality. Normal biventricular cavity sizes and
+regional/global
+biventricular systolic function. No valvular pathology or
+pathologic flow identified. Normal
+estimated pulmonary artery systolic pressure. No definite
+structural cardiac source of embolism
+identified.
+
+___ 05:25AM BLOOD WBC-10.1* RBC-3.89* Hgb-10.9* Hct-33.4* 
+MCV-86 MCH-28.0 MCHC-32.6 RDW-14.7 RDWSD-46.2 Plt ___
+___ 05:02AM BLOOD WBC-10.0 RBC-3.76* Hgb-10.5* Hct-32.1* 
+MCV-85 MCH-27.9 MCHC-32.7 RDW-14.3 RDWSD-44.4 Plt ___
+___ 05:47AM BLOOD WBC-5.1 RBC-4.72 Hgb-13.1* Hct-40.1 
+MCV-85 MCH-27.8 MCHC-32.7 RDW-14.2 RDWSD-44.2 Plt ___
+___ 05:55AM BLOOD WBC-6.6 RBC-4.64 Hgb-12.9* Hct-39.2* 
+MCV-85 MCH-27.8 MCHC-32.9 RDW-14.2 RDWSD-43.8 Plt ___
+___ 07:50PM BLOOD WBC-6.9 RBC-4.39* Hgb-12.2* Hct-37.4* 
+MCV-85 MCH-27.8 MCHC-32.6 RDW-14.2 RDWSD-44.0 Plt ___
+___ 05:55AM BLOOD Neuts-57.4 ___ Monos-10.8 Eos-2.1 
+Baso-0.8 Im ___ AbsNeut-3.79 AbsLymp-1.89 AbsMono-0.71 
+AbsEos-0.14 AbsBaso-0.05
+___ 07:50PM BLOOD Neuts-54.6 ___ Monos-8.2 Eos-1.7 
+Baso-0.4 Im ___ AbsNeut-3.77 AbsLymp-2.41 AbsMono-0.57 
+AbsEos-0.12 AbsBaso-0.03
+___ 05:02AM BLOOD ___ PTT-20.3* ___
+___ 05:25AM BLOOD Glucose-125* UreaN-12 Creat-1.0 Na-144 
+K-4.2 Cl-107 HCO3-22 AnGap-15
+___ 05:02AM BLOOD Glucose-130* UreaN-11 Creat-1.0 Na-141 
+K-4.1 Cl-107 HCO3-25 AnGap-9*
+___ 05:47AM BLOOD Glucose-113* UreaN-18 Creat-1.0 Na-144 
+K-4.5 Cl-107 HCO3-25 AnGap-12
+___ 05:55AM BLOOD Glucose-101* UreaN-16 Creat-1.0 Na-143 
+K-4.6 Cl-107 HCO3-23 AnGap-13
+___ 07:50PM BLOOD Glucose-100 UreaN-18 Creat-1.0 Na-141 
+K-4.3 Cl-106 HCO3-23 AnGap-12
+___ 05:55AM BLOOD ALT-28 AST-25 LD(LDH)-97 CK(CPK)-287 
+AlkPhos-49 Amylase-44 TotBili-0.9
+___ 07:50PM BLOOD ALT-28 AST-24 AlkPhos-46 TotBili-0.6
+___ 05:25AM BLOOD Calcium-8.7 Phos-2.4* Mg-2.1
+___ 05:02AM BLOOD Calcium-8.3* Phos-3.8 Mg-1.8
+___ 05:47AM BLOOD Calcium-9.3 Phos-3.5 Mg-2.2
+___ 05:55AM BLOOD TotProt-6.2* Albumin-4.4 Globuln-1.8* 
+Iron-153 Cholest-165
+___ 07:50PM BLOOD Albumin-4.3 Calcium-9.0 Phos-3.3 Mg-2.1
+___ 05:55AM BLOOD calTIBC-347 Ferritn-134 TRF-267
+___ 05:55AM BLOOD %HbA1c-5.9 eAG-123
+___ 05:55AM BLOOD Triglyc-121 HDL-52 CHOL/HD-3.2 LDLcalc-89
+___ 05:55AM BLOOD TSH-4.0
+___ 05:55AM BLOOD CRP-4.1
+ 
+Brief Hospital Course:
+___ is a ___ year old right handed man with past medical 
+history of hypertension who presented to OSH with L sided 
+weakness, transferred to ___ after CTA at OSH revealed severe 
+right internal carotid stenosis. He disclosed that he also had 2 
+episodes of partial right monocular visual loss lasting several 
+minutes, that he described as "curtain coming down".
+
+Right ICA demonstrated significant stenosis with heterogenous
+plaque. MRI confirmed acute-subacute infarcts in the distal 
+cortex
+in the right MCA territory. Carotid US showed high grade 
+stenosis in the proximal and mid-ICA on the right with PSV up to 
+400cm/s, 80-99% stenosis. Significant
+post-stenotic waveform change. Left ICA with lesser plaque, 
+50-69% by US criteria (PSV 167cm/s). TCD showed reversal of flow 
+(collateralization pattern) of right
+ophthalmic, antegrade flow with good velocities in both right 
+MCA and ACA.
+
+Likely the symptoms he presented with were related to 
+TIA/infarcts that he has been having over the last week. Home 
+lisinopril was held to allow blood pressure to autoregulate. He 
+was started on heparin gtt and then transferred to vascular 
+surgery for CEA procedure.
+
+He is now s/p RIGHT CEA. For details of the procedure, please 
+see the surgeon's operative  note. The patient tolerated the 
+procedure well without  complications and was brought to the 
+post-anesthesia care unit  in stable condition. After a brief 
+stay, the patient was transferred to the vascular surgery floor 
+where he remained 
+through the rest of the hospitalization. 
+
+Post-operatively, he did well without any groin swelling. He was 
+able to tolerate a regular diet, get out of bed and ambulate 
+without assistance, void without issues, and pain was controlled 
+on oral medications alone. He was deemed ready for discharge, 
+and was given the appropriate discharge and follow-up 
+instructions. 
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO DAILY  
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone [___] 5 mg 1 tablet(s) by mouth every four (4) 
+hours Disp #*10 Tablet Refills:*0 
+5.  Lisinopril 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+TRANSIENT ISCHEMIC ATTACKS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+You were admitted to ___ and 
+underwent a RIGHT carotid endarterectomy. You have now recovered 
+from surgery and are ready to be discharged. Please follow the 
+instructions below to continue your recovery: 
+
+WHAT TO EXPECT: 
+ 1. Surgical Incision: 
+• It is normal to have some swelling and feel a firm ridge along 
+the incision 
+• Your incision may be slightly red and raised, it may feel 
+irritated from the staples 
+ 2. You may have a sore throat and/or mild hoarseness 
+• Try warm tea, throat lozenges or cool/cold beverages 
+ 3. You may have a mild headache, especially on the side of your 
+surgery 
+• Try ibuprofen, acetaminophen, or your discharge pain 
+medication 
+• If headache worsens, is associated with visual changes or 
+lasts longer than 2 hours- call vascular surgeon’s office 
+ 4. It is normal to feel tired, this will last for ___ weeks 
+• You should get up out of bed every day and gradually increase 
+your activity each day 
+• You may walk and you may go up and down stairs 
+• Increase your activities as you can tolerate- do not do too 
+much right away! 
+ 5. It is normal to have a decreased appetite, your appetite 
+will return with time 
+• You will probably lose your taste for food and lose some 
+weight 
+• Eat small frequent meals 
+• It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing 
+• To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication 
+
+MEDICATION: 
+• Take all of your medications as prescribed in your discharge 
+
+ACTIVITIES: 
+• No driving until post-op visit and you are no longer taking 
+pain medications 
+• No excessive head turning, lifting, pushing or pulling 
+(greater than 5 lbs) until your post op visit 
+• You may shower (no direct spray on incision, let the soapy 
+water run over incision, rinse and pat dry) 
+• Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area 
+
+CALL THE OFFICE FOR: ___
+• Changes in vision (loss of vision, blurring, double vision, 
+half vision) 
+• Slurring of speech or difficulty finding correct words to use 
+• Severe headache or worsening headache not controlled by pain 
+medication 
+• A sudden change in the ability to move or use your arm or leg 
+or the ability to feel your arm or leg 
+• Trouble swallowing, breathing, or talking 
+• Temperature greater than 101.5F for 24 hours 
+• Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions 
+
+ 
+Followup Instructions:
+___

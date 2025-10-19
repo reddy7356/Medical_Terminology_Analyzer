@@ -1,0 +1,221 @@
+===== DISCHARGE NOTE =====
+note_id=12985386-DS-10 | hadm_id=22396779
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ h/o PCOS, pancreatitis, nephrolithiasis p/w colicky 
+periumbilical and epigastric pain since 2am. She reports the 
+pain is intermittent but sharp, and spreads laterally and 
+upward, associated with nausea and vomiting x several episodes.  
+When she noticed flecks of blood in the vomitus, she presented 
+to the ___ ED for evaluation.  Denies fever, chills, diarrhea, 
+constipation, urinary symptoms, or rectal bleeding.  
+
+Patient was in her usual state of good health until symptom 
+onset at 2am.  She reports having eaten home cooked steak and 
+mushrooms yesterday, denies sick contacts, or recent travel.  
++Flatus today, last BM 4h prior to symptom onset -normal per 
+patient. She has never had a colonoscopy.
+
+ 
+Past Medical History:
+Idiopathic pancreatitis age ___ (6 day hospitalization at ___), 
+nephrolithiasis, mood disorder.
+
+ 
+Social History:
+___
+Family History:
+Unknown - patient was adopted.
+
+ 
+Physical Exam:
+Physical Exam upon admission:
+Temp: 98.2 HR: 96 BP: 115/75 Resp: 16 O(2)Sat: 100 Normal
+Constitutional: Uncomfortable, and actively vomiting clear, 
+nonbloody fluid
+HEENT: Normocephalic, atraumatic Oropharynx within normal limits
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender, Nondistended
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash
+Neuro: Speech fluent
+Psych: Normal mood
+
+Physical Exam upon discharge:
+VS: 98.0, 110/70, 90, 16, 95/RA
+HEENT: EOMI
+CARDIAC: Normal S1, S2. RRR
+PULM: Lungs CTAB. No W/R/R.
+ABDOMEN: Soft/mildly tender to deep palpation/nondistended.
+EXT: + pedal pulses. No CCE. 
+NEURO: AAOx4, normal mentation. 
+
+ 
+Pertinent Results:
+___ 05:26AM BLOOD WBC-8.7 RBC-3.97* Hgb-12.6 Hct-36.8 
+MCV-93 MCH-31.6 MCHC-34.1 RDW-12.1 Plt ___
+___ 07:45AM BLOOD WBC-16.4* RBC-4.70 Hgb-14.6 Hct-42.7 
+MCV-91 MCH-31.1 MCHC-34.2 RDW-12.4 Plt ___
+___ 07:45AM BLOOD Neuts-88.1* Lymphs-8.9* Monos-2.7 Eos-0 
+Baso-0.2
+___ 05:26AM BLOOD Glucose-68* UreaN-10 Creat-0.6 Na-137 
+K-4.0 Cl-103 HCO3-24 AnGap-14
+___ 07:45AM BLOOD Glucose-139* UreaN-14 Creat-0.6 Na-140 
+K-4.2 Cl-104 HCO3-22 AnGap-18
+___ 07:45AM BLOOD ALT-33 AST-29 AlkPhos-103 TotBili-0.2
+___ 05:26AM BLOOD Calcium-8.8 Phos-3.0 Mg-1.8
+___ 05:26AM BLOOD CRP-7.9*
+
+___ PORTABLE ABDOMEN
+IMPRESSION:
+1.  Relatively featureless dilated loop of small bowel in the 
+right abdomen. 
+MRE pending.
+2.  Residual contrast in the bladder and the renal collecting 
+systems two
+hours post-CT scan.  Given that the contrast has remained in the 
+renal
+collecting systems, trend serum creatinine over the next ___ 
+hrs.
+
+___ CT ABDOMEN AND PELVIS
+IMPRESSION:
+Focally abnormal ileum in the pelvis to the right of midline 
+with focally
+dilated loop of small bowel with some fecal material.  An 
+equivocal wall
+thickening.  Normal caliber terminal ileum and right colon.  
+Query very
+early/partial focal obstruction,correlate with history of prior 
+abdominal
+surgery or inflammatory bowel disease.  Internal hernia is not 
+entirely
+excluded.  Also correlate with any recent travel or ingestion of 
+atypical
+cuisine.  Meckel's diverticulum (felt less likely) or underlying 
+lymphoma are
+also in the differential,.  Mesenteric fluid in the region of 
+the abnormal
+small bowel, early ischemia cannot be entirely excluded.  
+Consider MRE for
+further evaluation.
+ 
+Brief Hospital Course:
+This is a ___ year old female that presented to the emergency 
+room  with abdominal pain, nausea and vomiting, leukocytosis, 
+and diffuse abdominal tenderness without overt peritonitis.  She 
+was admitted to the Acute Care Service after CT Scan imaging 
+revealed concern for mesenteric and mural edema in a loop of 
+ileum in the RLQ. The patient was MRE to help differentiate the 
+etiology for the concerning loop of bowel, however she could not 
+tolerate the procedure. She was kept NPO, received IV fluids and 
+had serial abdominal exams. ESR and CRP labs were drawn at the 
+time of admission. Stool studies were ordered however the 
+patient did not have a bowel movement prior to discharge; she 
+was passing flatus. 
+
+The patient was discharged on ___ after her exam improved 
+and she was tolerating a regular diet without experiencing 
+nausea or vomiting. Her lab values were all within normal limits 
+except for a slightly elevated CRP in light of inflammation. A 
+followup appointment with a new Primary Care Physican was 
+scheduled to take place within 1 week of discharge, and the 
+patient was given the ___ clinic's information in case she 
+experienced any new symptoms after discharge. 
+
+ 
+Medications on Admission:
+lamictal
+xanax
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after you experienced 
+abdominal pain. You were treated with IV Fluids and bowel rest, 
+until you underwent an MRE. Because you had difficulty 
+tolerating the procedure, we continued to treat you 
+conservatively and your pain improved. Upon discharge, you were 
+able to tolerate a regular diet and had return of bowel 
+function. 
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+ 
+Followup Instructions:
+___

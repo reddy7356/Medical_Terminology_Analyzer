@@ -1,0 +1,338 @@
+===== DISCHARGE NOTE =====
+note_id=19896163-DS-19 | hadm_id=21087380
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+IV Dye, Iodine Containing / Erythromycin Base
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, nausea / vomiting, pelvic mass
+ 
+Major Surgical or Invasive Procedure:
+1. Exploratory Laparotomy, Total Abdominal Hysterectomy, 
+Bilateral Salpingo-oophorectomy
+2. Intubation
+
+ 
+History of Present Illness:
+The patient is a ___ y/o F with PMHx significant for HTN, asthma, 
+CAD s/p MI in ___, and DM2, who presented with worsening 
+abdominal pain, nausea and vomiting after discharge from an OSH. 
+Patient was found to have a 15 cm RLQ mass at OSH and was 
+initially scheduled for outpatient follow-up with Dr. ___.
+ 
+Past Medical History:
+OBGynHx: G3P3
+SVD x3
+denies abnormal Pap, gyn surgery
+
+PMH:
+T2DM, insulin dependent
+HTN
+hx MI ___ s/p balloon angioplasty complicated by R groin 
+infection requiring vascular surgery, ?no residual heart dz 
+hyperlipidemia 
+asthma
+depression
+
+PSH:
+balloon angioplasty, no stent
+R groin vascular surgery
+LSC CCY
+ 
+Social History:
+___
+Family History:
+Daughter ___ with ovarian CA age ___, s/p surgery, now ___ and 
+healthy
+Brother died of jaw cancer
+No other ovarian, breast, uterine, colon, cancers in family
+ 
+Physical Exam:
+(On admission)
+VS 100.1 96 166/75 20 98%RA
+A&O, NARD, appears stated age
+Heart RRR
+Lungs CTAB, no WRR
+Abd soft, mildly distended with tympany, diffuse TTP mainly RLQ 
+and epigastrium, no R/G, +BS
+Pelvic deferred
+Ext no edema, no calf TTP
+
+ 
+Pertinent Results:
+(On admission)
+.
+Pelvic U/S with Doppler (___): 1. Large complex cystic mass 
+with thick septations and irregular wall in the right adnexa. 
+The lesion is concerning for an ovarian neoplasm such as 
+cystadenocarcinoma and surgical resection has to be considered. 
+2. Both ovaries not identified; cannot exclude torsion. 
+.
+Echocardiogram (___): Normal biventricular cavity sizes with 
+preserved global and regional biventricular systolic function. 
+.
+___: Current study demonstrates new left lower lobe 
+opacity accompanied by pleural effusions that may potentially 
+represent interval development of infectious process or 
+aspiration. No evidence of pneumothorax or evidence of pulmonary 
+edema. 
+
+___: The ET tube tip is 4 cm above the carina. The NG tube 
+tip is in the stomach.  There is still presence of complete 
+consolidation of the left lower lung, but some aeration of the 
+left upper lung is noted with decrease in the mediastinal shift. 
+The right lower lobe consolidation continues to increase and is 
+worrisome for developing infectious process
+
+___: Right PICC line tip is at the level of cavoatrial 
+junction/proximal right atrium and should be pulled back for 
+approximately 1.5 cm. There is significant improvement of the 
+left lung aeration. In contrary there is growing right lower 
+lobe consolidation highly worrisome for pneumonia or aspiration 
+pneumonia. The rest of the findings are unchanged. 
+
+___: Previous left lung collapse has cleared in the left 
+upper lobe and some of the lower, progressive improvement since 
+___. Consolidation in the mid region of the right lung has 
+increased apparently, while consolidation at the base has either 
+improved or is now obscured by posteriorly collected right 
+pleural effusion. Overall, findings point to compromised airway, 
+presumably due to secretions. Mild-to-moderate cardiomegaly and 
+pulmonary vascular congestion with mediastinal venous 
+engorgement also indicate some cardiac decompensation, but I do 
+not see edema. Small pleural effusion may be present 
+on the left as well. ET tube is in standard placement, 
+nasogastric tube 
+passes below the diaphragm and out of view. Right PIC catheter 
+can be traced to the mid SVC. 
+
+___: There is mild-to-moderate cardiomegaly. The lungs are 
+hyperinflated. Small bilateral pleural effusions are larger on 
+the left side. Bibasilar atelectasis are improved. Mild 
+pulmonary congestion has improved. Previously described right 
+apical opacity has improved. There are no new lung 
+abnormalities. Right PICC remains in place. 
+.
+Bilateral LENIS ___: IMPRESSION: No DVT in both lower 
+extremities.
+.
+___ 08:59PM BLOOD WBC-23.3* RBC-4.74 Hgb-15.2 Hct-43.6 
+MCV-92 MCH-32.0 MCHC-34.8 RDW-12.8 Plt ___
+___ 06:35AM BLOOD WBC-25.2* RBC-4.32 Hgb-13.6 Hct-40.1 
+MCV-93 MCH-31.5 MCHC-33.9 RDW-12.9 Plt ___
+___ 06:10PM BLOOD WBC-34.1* RBC-4.12* Hgb-12.8 Hct-39.2 
+MCV-95 MCH-31.1 MCHC-32.6 RDW-12.9 Plt ___
+___ 03:36AM BLOOD WBC-25.7* RBC-4.45 Hgb-13.8 Hct-39.2 
+MCV-88# MCH-31.1 MCHC-35.3* RDW-12.7 Plt ___
+___ 05:10AM BLOOD WBC-15.0* RBC-3.97* Hgb-12.2 Hct-37.6 
+MCV-95# MCH-30.8 MCHC-32.5 RDW-12.7 Plt ___
+___ 06:45AM BLOOD WBC-15.5* RBC-3.85* Hgb-11.7* Hct-36.2 
+MCV-94 MCH-30.4 MCHC-32.3 RDW-12.8 Plt ___
+___ 04:45AM BLOOD WBC-13.9* RBC-3.43* Hgb-10.6* Hct-32.5* 
+MCV-95 MCH-30.8 MCHC-32.6 RDW-13.0 Plt ___
+___ 03:11AM BLOOD WBC-15.9* RBC-3.37* Hgb-10.4* Hct-30.3* 
+MCV-90 MCH-31.0 MCHC-34.4 RDW-13.0 Plt ___
+___ 04:09AM BLOOD WBC-17.5* RBC-3.31* Hgb-10.1* Hct-29.9* 
+MCV-91 MCH-30.7 MCHC-33.9 RDW-13.0 Plt ___
+___ 05:33AM BLOOD WBC-20.3* RBC-3.30* Hgb-10.2* Hct-29.9* 
+MCV-91 MCH-30.8 MCHC-34.0 RDW-13.0 Plt ___
+___ 06:40AM BLOOD WBC-20.6* RBC-3.28* Hgb-9.8* Hct-29.7* 
+MCV-91 MCH-30.0 MCHC-33.1 RDW-13.1 Plt ___
+___ 06:32AM BLOOD WBC-10.6 RBC-3.21* Hgb-9.6* Hct-29.5* 
+MCV-92 MCH-29.8 MCHC-32.5 RDW-13.1 Plt ___
+___ 06:30AM BLOOD WBC-10.9 RBC-3.22* Hgb-9.8* Hct-30.2* 
+MCV-94 MCH-30.5 MCHC-32.4 RDW-13.2 Plt ___
+___ 06:35AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 06:10PM BLOOD CK-MB-1 cTropnT-<0.01
+___ 03:36AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 11:58PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 04:45AM BLOOD cTropnT-<0.01
+___ 06:57AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 07:11PM BLOOD cTropnT-<0.01
+___ 12:52AM BLOOD %HbA1c-14.7* eAG-375*
+___ 10:50AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+___ 10:50AM BLOOD CEA-9.3*
+___ 10:50AM BLOOD HIV Ab-NEGATIVE
+___ 06:40AM BLOOD Vanco-14.9
+___ 07:11PM BLOOD Vanco-22.1*
+___ 10:50AM BLOOD HCV Ab-NEGATIVE
+
+ 
+Brief Hospital Course:
+___ year old female with HTN, asthma, CAD s/p MI in ___, and 
+DM2, who was admitted to the hospital with worsening abdominal 
+pain, nausea and vomiting with right sided pelvic mass. She 
+underwent a total abdominal hysterectomy with BSO for torsed 
+ovarian cyst. 
+
+*) Pulmonary: Ms. ___ post-operative course was complicated 
+by an extended oxygen requirement necessitating admission to the 
+FICU on POD#0 and again on POD# 2. She was ultimately intubated 
+in the FICU and started on IV antibiotics for presumed 
+aspiration and hospital acquired pneumonia. She was ultimately 
+extubated on ___ and her oxygen requirement decreased. On 
+transfer to the floor, she was only requiring nasal canula 
+during the day and CPAP at night. Her pulmonary status continued 
+to improve and she was completely weaned off O2. Medicine was 
+asked to consult to help optimize her COPD. She was started and 
+mainatined on Advair, Spiriva and Albuterol.
+
+*) Infectious Disease: Ms. ___ was diagnosed with a hospital 
+acquired pneumonia and aspiration. She was initially placed on 
+unasyn in the FICU, but transitioned to Cipro/Vanc/Zosyn. Her 
+leukocytosis initially improved, but on ___ her WBC again 
+trended up. ID was asked to consult and the recommendation was 
+made to transition to Vancomycin and Meropenem. Her WBC improved 
+and she remained afebrile. She completed a 12 day course of 
+Vancomycin and 7 day course of Meropenem. She was treated with 1 
+dose of Diflucan for a positive yeast urine culture. Her blood 
+cultures were negative. 
+
+*) Ovarian Mass: She was found to have right ovarian torsion as 
+well as a benign left ovarian mass.  She was treated surgically 
+with TAH-BSO on ___.  She did well from a surgical 
+standpoint post-operatively. She was voiding, ambulating and 
+tolerating a regular diet prior to discharge.
+
+*) Hypertension/Hx of MI: Ms. ___ was started on Metoprolol 
+for hypertension. Her blood pressures remained well controlled. 
+She was also started on a statin and baby ASA for 
+cardio-protection.
+
+*) DM2: Uncontrolled HgbA1C greater than 13%. Her fingersticks 
+were monitored and she was started on an insulin regimen 
+including ___ lantus and humalog with meals. Her blood sugars 
+were under much better control. She will continue this regimen 
+as an outpatient and follow-up with her PCP. 
+
+*) Depression: Patient was initially started on Paxil, but then 
+transitioned to Zoloft 50mg which she stated had worked for her 
+in past. 
+
+*) Tobacco Abuse: we continued a nicotine patch
+
+ 
+Medications on Admission:
+Humalog 75/25, 30AM/40PM
+Paxil 40 daily
+albuterol prn (usually ___ daily)
+Vicodin prn 
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*1*
+2. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*1*
+3. hydromorphone 2 mg Tablet Sig: ___ Tablets PO every ___ hours 
+as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+4. nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*1*
+5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).
+Disp:*1 Disk with Device(s)* Refills:*1*
+6. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*60 Tablet(s)* Refills:*1*
+7. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*1*
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours) as needed for shortness 
+of breath/wheeze.
+Disp:*1 inhaler* Refills:*2*
+9. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+11. lancets     Misc Sig: One (1) lancet Miscellaneous four 
+times a day.
+Disp:*120 lancets* Refills:*1*
+12. Insulin Syringe 1 mL 28 x ___  Syringe Sig: One (1) syringe 
+Miscellaneous four times a day.
+Disp:*120 syringes* Refills:*2*
+13. sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+14. insulin glargine 100 unit/mL Solution Sig: Twenty (20) units 
+Subcutaneous QHS: Patient to take 20 units QHS.
+Disp:*1 vials* Refills:*1*
+15. Humalog 100 unit/mL Solution Sig: ___ units Subcutaneous 
+with meals: Patient to take : 
+9 units with breakfast
+7 units with lunch 
+7 units with dinner.
+Disp:*1 vials* Refills:*1*
+16. FreeStyle Lite Strips     Strip Sig: One (1) strip 
+Miscellaneous four times a day.
+Disp:*120 strips* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Ovarian cyst with torsion
+Pneumonia
+COPD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call your doctor for:
+* fever > 100.4
+* severe abdominal pain
+* difficulty urinating
+* redness or drainage from incision
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+General instructions:
+* Monitor your finger sticks four times daily (prior to each 
+meal and prior to bed). Record these fingersticks and bring this 
+information to your PCP who will help adjust your insulin. 
+* You should take 20 units of Lantus before bed.
+* You will also need to take humalog with meals. With breakfast 
+take
+  9 units, 7 units with lunch and 7 units with dinner. 
+* Take your medications as prescribed.
+* Do not drive while taking narcotics.
+* Do not combine narcotic and sedative medications or alcohol
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs
+* No strenuous activity, no heavy lifting of objects >10lbs for 
+6
+  weeks. 
+* You may eat a regular diet.
+
+Incision care:
+* You may shower and allow soapy water to run over incision; no 
+scrubbing of incision.  No bath tubs for 6 weeks.
+* If you have steri-strips, leave them on. They will fall off on 
+their own or be removed during your followup visit.
+ 
+Followup Instructions:
+___

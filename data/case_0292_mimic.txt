@@ -1,0 +1,173 @@
+===== DISCHARGE NOTE =====
+note_id=13812369-DS-4 | hadm_id=20197972
+
+ 
+Name:  ___.                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 06:40AM BLOOD WBC-6.0 RBC-3.21* Hgb-10.8* Hct-33.4* 
+MCV-104* MCH-33.6* MCHC-32.3 RDW-15.4 RDWSD-58.4* Plt ___
+___ 06:40AM BLOOD ___ PTT-31.6 ___
+___ 06:40AM BLOOD Glucose-78 UreaN-12 Creat-0.5 Na-142 
+K-4.5 Cl-101 HCO3-28 AnGap-13
+___ 08:00PM BLOOD cTropnT-<0.01
+___ 08:00PM BLOOD proBNP-378
+___ 08:00PM BLOOD Calcium-8.9 Phos-3.2 Mg-1.7
+___ 06:40AM BLOOD TSH-2.3
+___ 06:40AM BLOOD T4-8.2 Free T4-1.4
+
+ECHO
+IMPRESSION: Suboptimal image quality. There is no evidence for a 
+right-to-left shunt with
+agitated saline at rest, though there was a lot of patient 
+movement during the study and therefore
+images are suboptimal and not definitive. Mild symmetric left 
+ventricular hypertrophy with normal
+cavity size and regional/global biventricular systolic function. 
+Mild resting mid-cavitary LV
+gradient. No valvular pathology or pathologic flow identified. 
+Normal pulmonary artery systolic
+pressure.
+
+CTA CHEST:
+IMPRESSION: 
+  
+  
+1. No evidence of pulmonary embolism. 
+2. Multiple, bilateral pulmonary nodules, measuring up to 2 mm, 
+for which no 
+dedicated CT follow-up is recommended in a low risk patient, and 
+an optional 
+CT follow-up in 12 months is recommended in a high risk patient. 
+
+3. No substantial change in a intrathoracic multinodular thyroid 
+goiter, with 
+rightward tracheal deviation. 
+  
+RECOMMENDATION(S):  For incidentally detected multiple solid 
+pulmonary nodules 
+smaller than 6mm, no CT follow-up is recommended in a low-risk 
+patient, and an 
+optional CT follow-up in 12 months is recommended in a high-risk 
+patient. 
+
+ 
+Brief Hospital Course:
+___ is a ___ female ___ female with history of 
+thyroid goiter, pancreatic insufficiency, GERD, frequent UTIs 
+who presents from outside hospital with concerns for hypoxia and 
+neck mass
+
+# Hypoxia
+# Neck mass/Goiter
+# Asthma
+# Lung nodules
+Hypoxia resolved.  This occurred incidentally at ___ ___.  
+She had no symptoms other than recent cough.  She has h/o 
+asthma/COPD.  CTA chest noted atelectasis.  ENT evaluated 
+patient's known goiter and didnot think it was contributing to 
+her hypoxia.  TFTs wnl.  It was possible she is having 
+intermittent symptoms, or this was a transient finding related 
+to recent URI, asthma, and atelectasis.  Echo re-assuring (see 
+above).  This was likely due to atelectasis vs recent URI with 
+asthma and resolved.  Goiter is not playing a role.
+- cont nebs, home inhaler at home
+- IS
+- daily 02 sat
+- PCP and ENT follow up as specified in DC paperwork
+- Patient informed of lung nodules and need for repeat CT scan 
+in 12 months, she expressed understanding
+
+GERD:
+cont PPI.  will increase to BID given laryngeal reflux noted
+
+Anxiety: clonazepam home regimen
+
+Neuropathy:
+Gabapentin
+
+Pancreatic insuff:
+Creon
+
+Thrombocytosis:
+ET.  cont hydroxyurea
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation BID 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB 
+3. ClonazePAM 0.5 mg PO QHS:PRN insomnia anxiety 
+4. Gabapentin 100 mg PO QHS 
+5. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN sob 
+6. Creon 12 2 CAP PO TID W/MEALS 
+7. Metoprolol Tartrate 25 mg PO DAILY 
+8. Montelukast 10 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Omeprazole 20 mg PO DAILY 
+11. Hydroxyurea 500 mg PO EVERY OTHER DAY 
+12. Hydroxyurea 1000 mg PO EVERY OTHER DAY 
+
+ 
+Discharge Medications:
+1.  Omeprazole 40 mg PO BID 
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB  
+3.  Aspirin 81 mg PO DAILY  
+4.  ClonazePAM 0.5 mg PO QHS:PRN insomnia anxiety  
+5.  Creon 12 2 CAP PO TID W/MEALS  
+6.  Gabapentin 100 mg PO QHS  
+7.  Hydroxyurea 500 mg PO EVERY OTHER DAY  
+8.  Hydroxyurea 1000 mg PO EVERY OTHER DAY  
+9.  Ipratropium Bromide Neb 1 NEB IH Q6H:PRN sob  
+10.  Metoprolol Tartrate 25 mg PO DAILY  
+11.  Montelukast 10 mg PO DAILY  
+12.  Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypoxia
+Atelectasis
+Goiter
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for evaluation of low oxygen levels.  You were 
+found to have normal oxygen on the floor.  This was likely 
+related to your asthma and lung collapse "atelectasis."  Please 
+focus on deep breathing at home, resume your inhalers, and see 
+your PCP ___ 1 week.
+
+We also recommend that you follow up with ENT doctors regarding 
+your known thyroid goiter.
+ 
+Followup Instructions:
+___

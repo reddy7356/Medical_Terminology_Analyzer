@@ -1,0 +1,218 @@
+===== DISCHARGE NOTE =====
+note_id=17982164-DS-3 | hadm_id=24429637
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization.
+ 
+History of Present Illness:
+___ yo M (cardiology pt of Dr. ___ with CAD s/p LAD stent 
+in ___, cardiomyopathy per pt EF 35-40%, presenting with 
+unstable angina. Pt reports chest pain began at 2am on ___ 
+after dancing. Describes it as dull pressure on left side of 
+chest radiating down arm. He took a total of 3 nitroglycerin 
+tablets with relief of pain. Had two more episodes of chest pain 
+at ___ store, took 2 additional nitroglycerin tablets and 
+presented to ___. EKG showed NSR with anteroseptal Q's 
+and 1 mm STD with TWI in V3-5. Unclear what baseline EKG is as 
+last EKG from ___ was prior to stent. Trops were reportedly 
+negative x 2. He had ___ chest pain and was started on nitro 
+gtt. He was given 325mg aspirin and morphine. Had vagal episode 
+which pt reports was from anxiety (reports hx of vagal 
+episodes); did not lose consciousness. He was given atropine for 
+bradycardia and hypotension at the time. There was some concern 
+that nitro gtt had caused ___ episode, though patient denies.  
+At ___ ___, initial VS were:98.4 55 114/68 16 99%. He was 
+continued on heparin gtt. Nitro gtt was discontinued. He was 
+seen by ___ cardiology with plans for cardiac catheterization 
+tomorrow. He reported continued substernal left-sided 
+discomfort, 0.5/10, upon first arriving to floor. This resolved 
+to ___ soon after initial history was taken. 
+ 
+REVIEW OF SYSTEMS:  
+(+) per HPI  
+(-) fever, chills, rhinorrhea, congestion, sore throat, nausea, 
+vomiting, constipation, BRBPR, melena, hematochezia  
+ 
+Past Medical History:
+CAD s/p anteroseptal MI with BMS to LAD in ___rohn's disease  
+PSC
+Migraine  
+Anxiety disorder  
+Depression  
+
+ 
+Social History:
+___
+Family History:
+Mother: MI (late ___  
+Maternal grandparents: heart disease  
+
+ 
+Physical Exam:
+Upon admission: 
+VS: 97.9 118/70 50 18 100%RA  
+GENERAL: well appearing  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM  
+NECK: supple  
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, 
+no accessory muscle use  
+HEART: RRR, no MRG, nl S1-S2  
+ABDOMEN: normal bowel sounds, soft, non-tender, non-distended, 
+no rebound or guarding, no masses  
+EXTREMITIES: no edema, 2+ pulses radial and dp  
+NEURO: awake, A&Ox3  
+
+At discharge: 
+PE: 64 kg, 98.1 110-118/68-70 46-48 ___ 98%RA  
+GENERAL: well appearing, NAD  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM  
+NECK: supple  
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, 
+no accessory muscle use  
+HEART: RRR, no MRG, nl S1-S2  
+ABDOMEN: normal bowel sounds, soft, non-tender, non-distended, 
+no rebound or guarding, no masses  
+EXTREMITIES: no edema, 2+ pulses radial and dp  
+NEURO: awake, A&Ox3  
+ 
+Pertinent Results:
+Labs: 
+___ 07:00PM BLOOD WBC-8.6 RBC-4.07* Hgb-12.6* Hct-38.7* 
+MCV-95 MCH-30.8 MCHC-32.4 RDW-12.5 Plt ___
+___ 07:00PM BLOOD Neuts-57.5 ___ Monos-7.0 Eos-2.2 
+Baso-1.2
+___ 06:55AM BLOOD WBC-7.9 RBC-4.02* Hgb-12.3* Hct-38.2* 
+MCV-95 MCH-30.6 MCHC-32.1 RDW-12.5 Plt ___
+___ 07:00PM BLOOD ___ PTT-108.0* ___
+___ 11:50PM BLOOD PTT-143.7*
+___ 06:55AM BLOOD ___ PTT-88.8* ___
+___ 07:00PM BLOOD Glucose-107* UreaN-20 Creat-0.9 Na-138 
+K-3.9 Cl-105 HCO3-28 AnGap-9
+___ 06:55AM BLOOD Glucose-78 UreaN-14 Creat-0.8 Na-141 
+K-4.0 Cl-108 HCO3-30 AnGap-7*
+___ 06:55AM BLOOD ALT-49* AST-57* CK(CPK)-40* AlkPhos-225* 
+TotBili-0.9
+___ 07:00PM BLOOD cTropnT-<0.01
+___ 11:50PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:55AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:55AM BLOOD Calcium-9.2 Phos-3.9 Mg-2.1
+
+Micro: none
+
+Imaging: 
+___ cardiac cath: final report pending, but prelim report 
+notes minimal LAD stent restenosis and large RCA aneurysm
+ 
+Brief Hospital Course:
+___ yo male with history of CAD s/p anteroseptal MI with BMS to 
+LAD in ___, systolic heart failure with EF 35-40%, HTN, and HL 
+who presented with his anginal equivalent. 
+
+# Chest pain: Reported several episodes of chest pain, 
+momentarily relieved by nitroglycerin. He reported that he had 
+missed one day of his aspirin/plavix.  EKG showing nonspecific 
+changes (T wave inversions in V2-5, st depressions in V3-5), 
+similar to prior EKGs since ___.  No new EKG changes with 
+troponins negative x3.  There was some concern for stent 
+restenosis, so cardiac catheterization was performed which 
+revealed only mild restentosis of the BMS without acute 
+occlusion.  A large aneurysm of the RCA was also noted.  He was 
+medically optimized with the addition of lisinopril 2.5mg qhs to 
+his current regimen of ASA 81, metoprolol succinate 25mg daily, 
+and plavix 75mg daily.  Medication adherence was strongly 
+stressed.  Metoprolol succinate was continued despite his low 
+resting heart rates, given a recent stress test from ___ 
+___ which showed an excellent cardiopulmonary response to 
+exercise even while on metoprolol.  He is going to follow up 
+with his cardiologist, Dr. ___ week.
+ 
+# Crohn's disease: Well-controlled on asacol. No recent episodes 
+of diarrhea, abd pain, dark or bloody stools. Hct at baseline 
+throughout admission.
+
+# Vagal episode: Reportedly had vagal episode with 
+hypotension/bradycardia while on nitro gtt at OSH (though 
+records unavailable). Per pt, he often has vagal episodes 
+associated with anxiety provoking moments and believes this was 
+the reason. Denies LOC.  
+
+# Depression: Buproprion continued.
+
+# Primary sclerosing cholangitis: Ursodiol continued, bilirubin 
+within normal limits.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Mesalamine ___ 2400 mg PO BID 
+4. Atorvastatin 40 mg PO DAILY 
+5. Ursodiol 600 mg PO BID 
+6. Lorazepam 1 mg PO BID:PRN anxiety 
+7. BuPROPion (Sustained Release) 150 mg PO QAM 
+8. Metoprolol Succinate XL 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY 
+2. BuPROPion (Sustained Release) 150 mg PO QAM 
+3. Clopidogrel 75 mg PO DAILY 
+4. Lorazepam 1 mg PO BID:PRN anxiety 
+5. Mesalamine ___ 2400 mg PO BID 
+6. Ursodiol 600 mg PO BID 
+7. Metoprolol Succinate XL 25 mg PO DAILY 
+8. Lisinopril 2.5 mg PO HS RX *lisinopril 2.5 mg 1 tablet(s) by 
+mouth at bedtime Disp #*30 Tablet Refills:*0
+9. Aspirin 81 mg PO DAILY 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+primary: chest pain
+secondary: coronary artery disease, chronic systolic heart 
+failure
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___ 
+___. You were admitted for evaluation of your arm and 
+chest pain. You went to the cath lab and it revealed a patent 
+stent from your catheterization with no acute occlusion. It is 
+very important you take your medications EVERY DAY, in 
+particular the aspirin and plavix!
+
+DO not stop taking your aspirin and plavix unless specificially 
+instructed to by your cardiologist!
+
+The following changes were made to your medication regimen: 
+START lisinopril 2.5mg at night
+
+Check your heart rates at home, and call your doctor if you 
+experience lightheadedness or dizziness.
+ 
+Followup Instructions:
+___

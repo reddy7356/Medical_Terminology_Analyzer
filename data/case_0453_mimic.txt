@@ -1,0 +1,251 @@
+===== DISCHARGE NOTE =====
+note_id=19103854-DS-15 | hadm_id=27598884
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+palpitations
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with hx of palpitations with prior negative workup 
+presented to ___ with one day of palpitations and 
+associated chest tightness. 
+
+She initially presented to the ___ and was found to have 
+a fast heart beat; the rhythm alternated between sinus 
+tachycardia and a rapid narrow complex tachycardia with rates up 
+to 200. She was started on an esmolol gtt without much 
+improvement, then transitioned to dilt gtt with some 
+improvement. Her labs were notable for an elevated troponin and 
+CKMB, negative d-dimer, negative tox screen. Cardiology was 
+consulted and recommended treating her for ACS and loading her 
+with amiodarone. She was admitted to the ICU for further care.
+
+In the CCU at ___, she was given adenosine with no 
+improvement in her heart rate. She received digoxin as well. She 
+was then continued on a dilt gtt and given amio bolus and gtt. 
+TEE was performed this morning, with EF of 45%. Direct 
+cardioversion was attempted 4 times at 200J without conversion 
+to sinus rhythm. Of note, she recently started taking a dietary 
+supplement for weight loss. 
+
+Due to the patient's elevated troponin and CKMB, there was also 
+concern for type I NSTEMI. She was thereapeutically 
+anticoagulated with lovenox, given 325mg of ASA, 300mg plavix 
+and 80mg atorvastatin. The patient's CK on admission was 4200 
+and CKMB at 265, now downtrending. The patient also complained 
+of muscle pains for months and "difficulty lifting her arms." 
+She was transferred to ___ for further care.
+
+Upon arrival in the CCU, patient's vitals were as follows: BP 
+95/48 HR 147 RR 16 97% on 2L. She appeared calm with good 
+mentation and denied any current dizziness/lightheadedness, SOB, 
+or crushing chest pain. She does report palpitations. She 
+confirms that she has taken four days of HCG dietary 
+supplementation but states that the palpitations began before 
+this. She denies any other illicit drugs but states that she has 
+been drinking more alcohol due to a very stressful divorce. She 
+is now consuming ___ drinks ~4 days per week. 
+
+In addition to the above, review of systems notable for 
+worsening fatigue, exercise intolerance, shoulder/hip pain, 
+tingling in hands/forearms, and cold intolerance. 
+
+ 
+Past Medical History:
+History of palpitations, with previous negative workup by Holter 
+monitor.
+ 
+Social History:
+___
+Family History:
+Mother with atrial fibrillation and sister with "hole in her 
+heart"
+Denies family history of sudden death.
+ 
+Physical Exam:
+ADMISSION:
+VS: BP 95/48 HR 147 RR 16 97% on 2L
+Gen: Pleasant, calm lady lying flat in bed in NAD. 
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.  
+NECK: Supple, No LAD. JVP low.  
+CV:  Tachycardic. normal S1,S2. No murmurs, rubs, clicks, or 
+gallops.
+LUNGS: CTA b/l No wheezes, rales, or rhonchi.  
+ABD: NABS. Soft, NT, ND. No HSM.No abdominal bruits.  
+EXT: WWP, NO erythema/edema. Full distal pulses bilaterally.
+SKIN: tan, No rashes/lesions, ecchymoses.  
+NEURO: A&Ox3. CN ___ grossly intact. Preserved sensation 
+throughout. ___ strength throughout.Inability to raise arms 
+above 90 degree angle due to pain. 
+
+DISCHARGE:
+VS: T: 98.0 BP 90-110's/50-60's HR 74 RR 20 98%RA
+Gen: Pleasant, calm  
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.  
+NECK: Supple, No LAD. JVP low.  
+CV:  RRR normal S1,S2. No murmurs, rubs, clicks, or gallops.
+LUNGS: CTA b/l No wheezes, rales, or rhonchi.  
+ABD: NABS. Soft, NT, ND. No HSM.No abdominal bruits.  
+EXT: WWP, NO erythema/edema. Full distal pulses bilaterally.
+SKIN: tan, No rashes/lesions, ecchymoses.  
+NEURO: A&Ox3. CN ___ grossly intact. Preserved sensation 
+throughout. ___ strength throughout.
+ 
+Pertinent Results:
+DISCHARGE:
+___ 05:30AM BLOOD WBC-9.1 RBC-4.23 Hgb-13.3 Hct-41.0 MCV-97 
+MCH-31.4 MCHC-32.4 RDW-12.8 RDWSD-45.2 Plt ___
+___ 05:30AM BLOOD Glucose-77 UreaN-10 Creat-0.5 Na-141 
+K-3.8 Cl-103 HCO3-27 AnGap-15
+
+ADMISSION:
+___ 11:25PM BLOOD ALT-118* AST-106* CK(CPK)-1115* 
+AlkPhos-51 TotBili-0.3
+___ 05:02AM BLOOD CK-MB-44* MB Indx-5.3 cTropnT-0.03*
+___ 11:25PM BLOOD CK-MB-63* MB Indx-5.7 cTropnT-0.03*
+___ 11:25PM BLOOD TSH-1.8
+___ 06:59AM BLOOD ___
+___ 05:02AM BLOOD RheuFac-8
+___ 11:25PM BLOOD CRP-1.6
+___ 11:25PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+IMAGING/OTHER STUDIES:
+
+Echocardiogram ___
+The left atrium is mildly dilated. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity size is normal. LV systolic 
+function appears mildly-to-moderately depressed (LVEF = 40%) 
+secondary to hypokinesis of the inferior and posterior walls. 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve leaflets are structurally 
+normal. Mild (1+) mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. 
+ 
+Brief Hospital Course:
+___ with hx of palpitations with prior negative workup 
+presented to ___ with one day of palpitations and 
+chest tightness, found to have atrial tachycardia refractory to 
+cardioversion and medical management.
+
+#) Atrial tachycardia: Refractory to intervention at outside 
+hospital including diltiazem drip, digoxin, amiodarone, and 
+cardioversion x4.  Rate controlled here with metoprolol. Tox 
+screen negative.  Responsive to carotid massage.  Negative 
+D-dimer. No PFO on echo, moderately depressed EF (40%). Patient 
+was sent out on metoprolol succinate 100mg daily and will 
+followup with our EP doctors as ___ outpatient. 
+ 
+# Type II MI:  No history of ACS and no major risk factors. 
+Likely tachycardic cardiomyopathy induced demand ischemia. 
+Takasubo's also on the differential given very stressful 
+divorce, but likely better explained by the tachycardia. 
+Negative troponins here. Patient was started on statin at OSH 
+due to concern for CAD, but this was discontinued here in 
+setting of transaminitis and low suspicion for atherosclerotic 
+disease. 
+
+# Muscle weakness: DDx includes medication effect causing 
+myositis, PMR, disuse atrophy, rheumatalogic 
+(poly/dermatomyositis), viral myositis. Inherent myositis 
+unlikely as it is rapidly decreasing. RF normal, TSH normal. CK 
+downtrended over course of admission with initial rheumatologic 
+workup negative suggesting an isolated rhabdomyolysis event with 
+unclear precipitant. 
+
+# Transaminitis: possibly due to statin, possibly muscle 
+enzymes. Downtrended to normal levels upon discharge. 
+
+#Alcohol use: Notes increase use in setting of stressful 
+divorce. Not currently anxious or diaphoretic, no concern for 
+active withdrawal. No need for active CIWA at this time. 
+Continue to counsel patient that excessive alcohol intake is 
+detrimental to her overall health. 
+
+** TRANSITIONAL ISSUES**
+-CODE STATUS: FULL CODE.
+-CONTACT: ___ (friend) ___ 
+- f/u ___
+- f/u HIV
+- F/u with ___ (electrophysiology) for TTE in the 
+next month
+- to consider referral to neurology/rheum if persistent muscle 
+weakness 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Automatic atrial tachycardia
+Muscle weakness
+
+SECONDARY DIAGNOSES
+Transaminitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your stay. You were 
+transferred from ___ for a very fast heart rate. Our 
+electrophysiologists saw you and started you on metoprolol XL 
+100mg, a medication to slow your heart rate. You did well with 
+this medication and you should continue this medication daily at 
+home. Please follow up with Dr. ___ in about a month; 
+please call to make the appointment. 
+
+In addition, you had a lot of muscle weakness that started 
+before your stay. One of your body's markers of muscle breakdown 
+was really elevated, but has come down during your admission. 
+Please follow up with your PCP and determine whether you should 
+see a specialist for further work-up.
+
+We wish you the best!
+Your ___ care team 
+ 
+Followup Instructions:
+___

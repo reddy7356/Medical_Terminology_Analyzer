@@ -1,0 +1,764 @@
+===== DISCHARGE NOTE =====
+note_id=19180532-DS-2 | hadm_id=24624386
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with afib s/p BiV pacer/ICD, CHF EF 20%, aortic stenosis s/p 
+AVR p/w syncope. Pt woke up feeling "unwell" yesterday morning 
+but is unable to describe why and what was wrong. Yesterday 
+afternoon around 3 pm, pt was sitting in chair and felt flushed, 
+the family noted shaking arms and patient lost consciousness x 
+30 seconds, no confusion after waking up. Pt doesn't remember 
+events except for flushing. Felt a little better, went out for 
+dinner around 4 pm, but around 10 pm he had another episode with 
+very similar symptoms. Occured once again an hour later, so pt 
+presented to ED. Pt has had syncope once before; was admitted 
+for syncope at ___ after an unwitnessed fall on ___ pt had 
+been using a hairdryer and doesn't remember what happened after 
+that, but then found himself on the floor. This event was 
+thought to be ___ hypotension. Prior to this he has not had 
+syncope before. Pt notes that ICD has not fired in the past and 
+not during events today. Denies fevers, chills, night sweats, 
+nausea, vomiting, diarrhea, cough or other complaints. Denies 
+any palpitations, dizziness, nausea, chest pain or other 
+symptoms than flushing prior to each of his 3 syncopal events 
+today. No recent medication changes.  
+.  
+Pt initially presented to ___ where reportedly pt had short 
+episode of SVT to 170s, also noted to have several PVC on tele, 
+K was 3.2 at ___. Trop at ___ 0.09. Transferred to ___ ED for 
+further management and EP consult, pt is followed for his 
+pacemaker/ICD here. Initial VS were 98.6 74 96/55 16 100% RA. 
+EKG noted to have paced rhythm at 83 bpm and + PVCs. Pt given 
+magnesium 2 gm IV, K 40 mg PO and IV. CXR with no acute process, 
+mild pulmonary congestion, no infiltrate. BPs in ED noted to be 
+systolics from 89-103/70s. Trop 0.01 in ED.  
+.  
+Currently, pt denies ay complaints, no dizziness, chest pain, 
+shortness of breath or palpitations. Concerned that pacemaker is 
+not working and that it may have contributed to syncope.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. he denies recent fevers, chills or rigors. 
+he denies exertional buttock or calf pain. All of the other 
+review of systems were negative.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, +Dyslipidemia, -Hypertension 
+ 
+2. CARDIAC HISTORY: Cardiomyopathy, LVEF 20%,  
+-CABG:  
+-PERCUTANEOUS CORONARY INTERVENTIONS:  
+-PACING/ICD: s/p BiV ICD ___  
+3. OTHER PAST MEDICAL HISTORY:  
+LBBB  
+Aortic stenosis s/p tissue AVR in ___  
+Atrial fibrillation s/p DC cardioversion in ___ with reversion  
+
+back to AF in ___, last cardioversion ___ Rectal cancer s/p bowel resection and colostomy,  
+chemotherapy and radiation  
+___ Bowel obstruction at ___ possibly related to a hernia s/p  
+surgical repair  
+Blindness of left eye secondary to an injury at age ___  
+Mildly hard of hearing  
+
+ 
+Social History:
+___
+Family History:
+mother and brother with afib. father with CAD and rheumatic 
+fever, died at ___ yo. No family history of cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: 97 100/74 71 18 100% RA  
+GENERAL: WDWN M in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with no JVD  
+CARDIAC: RR, normal S1, S2. ___ systolic murmur at base, No 
+thrills, lifts. No S3 or S4.  
+LUNGS: CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness, ostomy in place with 
+brown stool  
+EXTREMITIES: 1+ pedal edema.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: DP 2+ ___ 2+  
+Left: DP 2+ ___ 2+  
+
+DISCHARGE PHYSICAL EXAMINATION:  
+97.4  102/72 (SBP 93-126) 72  18  99%RA 
+I/O Past 30 Hrs:
+1310/1350
+Wt: 57.5kg (admission wt 59.7kg) 
+GENERAL: NAD. Oriented x3. Positive mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with dynamic JVP 8-10cm H2O 
+CARDIAC: regular rate, normal S1, S2. ___ systolic murmur heard 
+throughout precordium, best in L sternal border and apex with 
+radiation to axilla. No thrills, lifts. No S3 or S4.  
+LUNGS: good air movement, CTAB
+ABDOMEN: Soft, NTND. No HSM or tenderness, ostomy in place with 
+brown stool  
+EXTREMITIES: trace pedal edema bilaterally.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 01:20PM   CK-MB-4 cTropnT-<0.01
+___ 01:20PM   CK(CPK)-49
+___ 01:20PM   GLUCOSE-144* UREA N-27* CREAT-1.1 SODIUM-133 
+POTASSIUM-4.2 CHLORIDE-96 TOTAL CO2-23 ANION GAP-18
+___ 03:40AM   cTropnT-0.01
+___ 03:40AM   WBC-6.3 RBC-4.45* HGB-11.5* HCT-36.9* MCV-83 
+MCH-25.9* MCHC-31.2 RDW-17.4*
+
+PERTINENT OTHER LABS: 
+___ 06:40AM BLOOD WBC-8.3 RBC-5.03 Hgb-13.2* Hct-41.2 
+MCV-82 MCH-26.3* MCHC-32.1 RDW-17.6* Plt ___
+___ 06:40AM BLOOD ___ PTT-41.1* ___
+___ 06:40AM BLOOD Glucose-114* UreaN-28* Creat-1.0 Na-132* 
+K-4.0 Cl-91* HCO3-25 AnGap-20
+___ 01:20PM BLOOD CK-MB-4 cTropnT-<0.01
+___ 06:40AM BLOOD Calcium-9.0 Phos-4.0 Mg-2.0
+___ 06:30AM BLOOD WBC-8.2 RBC-4.69 Hgb-12.2* Hct-38.6* 
+MCV-82 MCH-25.9* MCHC-31.5 RDW-17.4* Plt ___
+___ 06:30AM BLOOD ___ PTT-40.1* ___
+___ 06:30AM BLOOD Glucose-98 UreaN-33* Creat-1.0 Na-134 
+K-3.7 Cl-93* HCO3-29 AnGap-16
+___ 06:30AM BLOOD Calcium-8.7 Phos-3.4 Mg-1.8
+___ 06:30AM BLOOD Digoxin-1.1
+___ 06:30AM BLOOD WBC-9.0 RBC-4.64 Hgb-12.0* Hct-38.9* 
+MCV-84 MCH-25.9* MCHC-30.9* RDW-17.3* Plt ___
+___ 06:30AM BLOOD ___ PTT-42.0* ___
+___ 06:30AM BLOOD Glucose-91 UreaN-37* Creat-1.1 Na-132* 
+K-4.2 Cl-92* HCO3-30 AnGap-14
+___ 06:30AM BLOOD Calcium-8.7 Phos-3.9 Mg-2.1
+
+URINE: 
+___ 07:28AM URINE Color-Yellow Appear-Clear Sp ___
+___ 07:28AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-5.0 Leuks-NEG
+___ 07:28AM URINE RBC-0 WBC-1 Bacteri-NONE Yeast-NONE Epi-1
+___ 07:28AM URINE CastHy-4*
+
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+STUDIES: 
+EKG (___): Ventricular paced rhythm. Compared to the 
+previous tracing of ___ no change. 
+  
+CXR (___): Portable frontal view of the chest demonstrates 
+hyperexpanded lungs. Moderate cardiomegaly is noted with 
+perihilar vascular congestion, progressed from prior. There is 
+no pleural effusion or pneumothorax. Hilar and mediastinal 
+silhouettes are unremarkable. Most superior sternotomy wire 
+appears fractured. Biventricular pacemaker device is in place. 
+IMPRESSION: 
+Moderate cardiomegaly with perihilar vascular congestion, 
+appears progressed from ___ exam. 
+
+ECHO (___): 
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity is severely 
+dilated. There is severe global left ventricular hypokinesis 
+(LVEF = 25 %). No masses or thrombi are seen in the left 
+ventricle. Tissue Doppler imaging suggests an increased left 
+ventricular filling pressure (PCWP>18mmHg). The right 
+ventricular cavity is mildly dilated with focal hypokinesis of 
+the apical free wall. The aortic root is mildly dilated at the 
+sinus level. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. 
+Moderate (2+) mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. Moderate [2+] tricuspid 
+regurgitation is seen. There is moderate pulmonary artery 
+systolic hypertension. There is no pericardial effusion. 
+IMPRESSION: Marked left ventricular cavity dilation with severe 
+global hypokinesis. Right ventricular free wall hypokinesis. 
+Moderate mitral regurgitation. Pulmonary artery systolic 
+hypertension. Dilated ascending aorta. 
+
+CXR Portable (___): 
+FINDINGS: Midline sternotomy wires are unchanged. The 
+pacers/defibrillating improved projecting over the left chest 
+with leads in the right ventricle.  The heart size is enlarged, 
+similar to prior studies. The lungs demonstrate no 
+consolidation, but mild interstitial edema. There is no large 
+pleural effusion or pneumothorax. 
+IMPRESSION: Stable cardiomegaly and interstitial edema 
+compatible with 
+continued heart failure. 
+ 
+Brief Hospital Course:
+==================
+BRIEF HOSPITAL SUMMARY
+==================
+___ with pacemaker/defibrillator, with 3 witnessed episodes of 
+syncope on day of admission.  Upon interrogation of his device, 
+ICD was noted to have fired three times in past week, with a 
+couple times on day of presentation for Vtach, likely at the 
+times the patient syncopized.  The patient was loaded with 
+amiodarone in house, and     
+  
+==================
+ACTIVE ISSUES
+==================
+# Syncope: Pt not orthostatic, likely ___ to ventricular 
+tachycardia / ICD firing per ICD interrogation (see below). No 
+episodes throughout 3 days in house.  
+
+# Ventricular tachycardia: Pacemaker/ICD interrogated on 
+admission demonstrated pt has had 5 shocks in past two weeks, 
+with ___ happening on day of syncopal events.  Syncopal events 
+likely ___ ventricular tachycardia w/ electrical shock.  No 
+further syncopal events while in house.    Initiated amiodarone 
+200mg PO TID (for three weeks) this admission.  Recommend 
+changing to 200mg qd after initial three week load period.  
+Throughout hospitalization, held warfarin and digoxin 
+considering potential interactions with the amiodarone.  With 
+warfarin being held, INR increased from 3.0 to 3.6 to 3.4.  
+Recommend holding warfarin until INR < 3.1, at which time would 
+restart at dose of 2.5mg qd, and titrate closely to INR for goal 
+INR ___ (for afib, also has aortic valve replacement but is 
+porcine).  Throughout hospitalization, has had  frequent PVCs 
+and short non-sustained VT episodes of ___ beats. Pt's 
+electrolytes were low at OSH, kept K+ and Mg+ repleted 
+throughout hospitalization and also observed the patient on 
+continuous telemetry.  
+
+# PUMP: per ___ report last EF 20%, with systolic hypokinesis.  
+echo performed here ___ which showed "The left ventricular 
+cavity is severely dilated. There is severe global left 
+ventricular hypokinesis (LVEF = 25 %)...Tissue Doppler imaging 
+suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). The right ventricular cavity is mildly dilated 
+with focal hypokinesis of the apical free wall. The aortic root 
+is mildly dilated at the sinus level. The ascending aorta is 
+mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. Moderate (2+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. Moderate [2+] tricuspid regurgitation is seen. There 
+is moderate pulmonary artery systolic hypertension."
+Patient had 1+ peripheral edema, JVP 13cm H2O and hilar 
+pulmonary edema upon admission.  Diuresed at 1mg BID bumex (was 
+recently up-titrated to 2mg qd bumex at home), with a net 
+negative balance of -3L over 3 days, and a net weight change of 
+(-2.2kg).  Upon discharge, pedal edema was trace, some mild 
+crackles L lung base and JVP was 8cm H2O. We continued pt's 
+spironolactone and held dig while in house.  Pt was recently 
+d/c'd from ___ for an admission of hypotension and orthostasis 
+(thus our concern over being too aggressive with diuresis) off 
+of ace-inhib and beta-blocker.  Thus we will continue off of 
+these meds, despite his significant systolic heart failure. 
+ 
+
+# Dyspnea: Pt has had tachypnea and dyspnea throughout 
+hospitalization.  No white count, no fevers, no cough, unlikely 
+to be PNA.  Saturations have been >93% on RA and pt has been 
+supratherapeutic INR, unlikely to be PE.  This is most likely 
+___ breathing pattern from severe, acute-on-chronic 
+systolic heart failure, in addition to some compoenent of 
+anxiety secondary to his syncopal, feeling palpitations and 
+shocking episodes.  This usually happens later in the mornings 
+and later in the evenings in a diurnal pattern.  The best way to 
+abort this breathing pattern is to sit the patient up in bed, 
+and to distract the patient or have the patient talk about 
+something.  Deep breathing techniques also work.  The patient 
+was given an incentive spirometer to prevent atelectasis and 
+also ambulated BID-TID while in the hospital.  Pt also had a 
+problem sleeping at night.  Held off on trazadone as pt has 
+arrhythmias and ectopy.  Gave very small doses of ativan (0.25mg 
+PO) qhs to help with his insomnia.  
+
+# CORONARIES: no chest pain, no EKG changes c/w ischemia. 
+Negative cardiac enzymes x2 here. Contionued atorvastatin and 
+aspirin.  We continued the patient's atorvastatin and aspirin 
+while in house. 
+      
+  
+====================
+INACTIVE ISSUES
+====================
+# anemia: per records from ___, baseline Hct low-mid ___, 36.5 
+is near baseline, no signs of active bleeding, monitor Hct  
+
+====================
+Transitional Issues
+====================
+1. F/u INR closely --> would check INR daily and restart 
+coumadin at 2.5mg qd once INR < 3.1.
+2. Continue dose of 1mg Bumex BID (recently was switched to 2mg 
+bumex qd by outpt cardiologist), with close following of 
+electrolytes and creatinine.  
+3. Continue amiodarone 200mg TID load for three-four weeks 
+(until ___, and then transition to 200mg qd.
+4. Close f/u with Drs. ___.
+5. Continue to address goals of care with patient and family.  
+Addressed code status with patient and family and they were 
+comfortable with full code status, although this may not be the 
+most appropriate. 
+6. AT REHAB: Qd to QOD chem 10. Please replete Mg to 2.0 and K 
+to 4.0.  Consider decreasing Bumex if Cr significantly 
+increases. 
+ 
+Medications on Admission:
+Digoxin 0.125 mg p.o. daily  
+Aspirin 81 mg p.o. daily  
+spironolactone 25 mg p.o. daily  
+cholecalciferol 1000 units p.o. daily  
+multivitamin one a day  
+Bumex 2 mg p.o. qd  
+atorvastatin 10 mg p.o. daily  
+warfarin 2.5 mg daily  
+multivitamin  
+ferrous sulfate 
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. cholecalciferol (vitamin D3) 1,000 unit Capsule Sig: One (1) 
+Capsule PO once a day.  
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. ferrous sulfate  Oral
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+10. amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day) for 3 weeks: Continue 200mg TID for three weeks (until 
+___, then switch to 200mg once per day. Tablet(s) 
+11. bumetanide 1 mg Tablet Sig: One (1) Tablet PO twice a day: 
+hold for SBP < 90.  
+12. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day: DO 
+NOT GIVE UNTIL INR < 3.1. Would titrate warfarin to INR.  .  
+13. lorazepam 0.5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) 
+as needed for insomnia: Please give 0.25 if having insomnia. .  
+14. Outpatient Lab Work
+Please check chem 10, including Cr on ___.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary Diagnoses: 
+acute on chronic systolic congestive heart failure
+ventricular tachycardia
+syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you while you were in the 
+hospital.  
+
+You were admitted to the ___ 
+for syncopal episodes. Your ICD device showed that these 
+episodes were associated with a dangerous arrythmia called 
+Ventricular Tachycardia. 
+You were started on a medication called amiodarone to protect 
+your heart from recurrent arrythmias. Your digoxin was stopped.  
+You have very serious systolic heart failure, which was 
+confirmed by an echocardiogram that we performed while you were 
+in the hospital.  
+
+It is imperative that you continue a low-sodium, heart healthy 
+diet, which means less than two grams of sodium per day.      
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+You also had periods of time where you had a fast breathing 
+rate.  This is secondary to your severe heart failure, and 
+improves when you begin speaking with others or thinking about 
+other topics.  This is called ___ breathing pattern.   
+If you have an episode of this, you should sit up in bed, and 
+start discussing a topic with someone in the room. We have 
+worked this breathing up in depth, and there is likely not much 
+else we can do beside the things we are currently doing to help 
+this. 
+
+Medication Changes:
+START:
+Amiodarone- 200mg tablet, take 1 tablet three times a day- this 
+protects your heart from arrythmias through ___, then 
+take 1 tablet once per day thereafter.
+
+CHANGE bumetanide TO 1 mg Tablet Sig: One (1) Tablet PO twice a 
+day: hold for SBP < 90.  
+
+CHANGE warfarin TO 2.5 mg Tablet Sig: One (1) Tablet PO once a 
+day: DO NOT GIVE UNTIL INR < 3.1. Would titrate warfarin to INR. 
+.  
+
+START lorazepam 0.5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) 
+as needed for insomnia: Please give 0.25 if having insomnia.  
+
+STOP:Digoxin
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19180532-DS-3 | hadm_id=27292384
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with h/o dilated cardiomyopathy, AS s/p AVR, a-fib on 
+coumadin, biV pacemaker/ defibrillator, presents with shortness 
+of breath.  This morning, pt was asked for a walk with the nurse 
+at the rehab, and during the walk, he felt "hearting racing", 
+however he continued to walk with the nurse regardless.  He 
+requested to go back to bed, and subsequently felt short of 
+breath and nausea.  Pt denies any chest pain/pressure, 
+diaphoresis, lightheadedness or vomiting.  He has baseline 
+cough, but no acute worsening.  
+The patient states that the shortness of breath progressed 
+throughout the day. He denies recent sickness, congestion, sore 
+throat, fever, chill, rigor, diarrhea.  
+.
+Of note, pt was recently admitted for witness syncope secondary 
+to V-tach and ICD firing.  Pt was loaded with amiodarone during 
+last admission, and was discharged to rehab.  On this admission, 
+his weight was 55.7, down from 57.5.  
+.  
+In the ED, initial vitals were  98.8 89 124/98 36 100% on 
+Non-Rebreather.  Pt received duoneb and 40 mg iv lasix, with 
+improved respiratory status.  Pt was seen by cardiology fellow, 
+who felt that pt was dry and recommended 500 cc iv fluid.  Pt 
+received 250 cc ivf.  
+.  
+Cardiac review of systems is notable orthopnea, dyspnea with 
+limited exertion (some times at rest).  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: -Diabetes, +Dyslipidemia, -Hypertension 
+ 
+2. CARDIAC HISTORY: Cardiomyopathy, LVEF 20%,  
+-CABG:  
+-PERCUTANEOUS CORONARY INTERVENTIONS:  
+-PACING/ICD: s/p BiV ICD ___  
+3. OTHER PAST MEDICAL HISTORY:  
+LBBB  
+Aortic stenosis s/p tissue AVR in ___  
+Atrial fibrillation s/p DC cardioversion in ___ with reversion  
+
+back to AF in ___, last cardioversion ___ Rectal cancer s/p bowel resection and colostomy,  
+chemotherapy and radiation  
+___ Bowel obstruction at ___ possibly related to a hernia s/p  
+surgical repair  
+Blindness of left eye secondary to an injury at age ___  
+Mildly hard of hearing  
+
+ 
+Social History:
+___
+Family History:
+mother and brother with afib. father with CAD and rheumatic 
+fever, died at ___ yo. No family history of cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+Physical Exam:
+Physical EXAM
+VS: 95.9, 97/74, 71, 22, 100% on 4L
+WEIGHT: 55kg
+GENERAL: NAD. Alert and Oriented x3.  
+HEENT: PERRL, MMM, OP clear.  
+NECK: Supple with JVP of 8 cm, no lymphadenopathy.  
+CARDIAC: Irregularly irregular, ___ holosystolic murmur best 
+heart at apex with radiation to axilla
+LUNGS: bilateral crackles heard in lower ___ of lung fields, 
+with partial improvement after coughing
+ABDOMEN: Soft, NTND. no HSM
+EXTREMITIES: 2+ ___ bilaterally, no pitting edema
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. 
+ 
+Pertinent Results:
+___ 08:00PM   GLUCOSE-104* UREA N-49* CREAT-1.3* 
+SODIUM-132* POTASSIUM-4.1 CHLORIDE-91* TOTAL CO2-31 ANION GAP-14
+___ 08:00PM   CK(CPK)-55
+___ 08:00PM   CK-MB-4 cTropnT-<0.01
+___ 08:00PM   CALCIUM-8.4 PHOSPHATE-4.3 MAGNESIUM-2.1
+___ 08:00PM   WBC-6.2 RBC-4.82 HGB-12.2* HCT-39.6* MCV-82 
+MCH-25.3* MCHC-30.9* RDW-17.3*
+___ 08:00PM   PLT COUNT-110*
+___ 08:00PM   ___ PTT-56.6* ___
+___ 02:14PM   ___ PTT-53.6* ___
+___ 01:29PM   TYPE-ART PO2-61* PCO2-29* PH-7.46* TOTAL 
+CO2-21 BASE XS--1 COMMENTS-GREEN TOP
+___ 01:05PM   GLUCOSE-140* UREA N-51* CREAT-1.4* 
+SODIUM-126* POTASSIUM-4.4 CHLORIDE-88* TOTAL CO2-20* ANION 
+GAP-22*
+___ 01:05PM   estGFR-Using this
+___ 01:05PM   ALT(SGPT)-339* AST(SGOT)-251* LD(LDH)-466* 
+CK(CPK)-69 ALK PHOS-87 TOT BILI-3.1*
+___ 01:05PM   CK-MB-5 cTropnT-<0.01 ___
+___ 01:05PM   ALBUMIN-3.6 CALCIUM-8.4 PHOSPHATE-4.2 
+MAGNESIUM-2.3
+___ 01:05PM URINE  HOURS-RANDOM
+___ 01:05PM   WBC-10.0 RBC-5.17 HGB-13.1* HCT-42.4 MCV-82 
+MCH-25.3* MCHC-30.9* RDW-17.4*
+___ 01:05PM   NEUTS-80.4* LYMPHS-13.2* MONOS-5.7 EOS-0.3 
+BASOS-0.3
+
+___ cxr:
+FINDINGS: One portable AP upright view of the chest. Severe 
+cardiomegaly is 
+stable. There is pulmonary vascular engorgement and mild 
+interstitial 
+pulmonary edema, less severe compared to ___. No 
+evidence of 
+pneumonia. There are no pleural effusions or pneumothorax. Left 
+transvenous 
+pacemaker wires are seen in the appropriate position. Median 
+sternotomy clips 
+are in appropriate position. 
+  
+IMPRESSION: Severe cardiomegaly, pulmonary vascular engorgement, 
+and mild 
+interstitial edema consistent with congestive heart failure, 
+less severe 
+compared to ___. 
+
+ 
+Brief Hospital Course:
+___ with h/o dilated cardiomyopathy, AS s/p AVR, a-fib on 
+coumadin, biV pacemaker / defibrillator, presents with shortness 
+of breath from rehab.  
+
+Chronic systolic heart failure:  Patient has ___ Class ___ 
+heart failure. CXR showed slightly improved congestion compared 
+to prior hospitalization CXR prior to discharge. No peripheral 
+edema. Pt's weight 55.2 kg on admission which is improved from 
+prior discharge weight of 57Kg. Pt thought most likely to be 
+euvolemic-mildly intravascularly dry. In the emergency 
+department he was given 250cc bolus. Patient's discharge weight 
+was 55 Kg. He will go to rehab with bumex 1mg daily (previously 
+he was on 1mg BID) and goal is to titrate bumex based on daily 
+weights. 
+
+Shortness of Breath Episodes: Of note, patient has history of 
+SOB episodes which is thought likely to be cheynes stokes 
+breathing from end stage heart failure. These episodes usualy 
+resolve on their own when calming patient down. Dr ___ 
+___ that he be contacted directly if patient has shortness 
+of breath that concerns the staff at rehab so he can help triage 
+patient appropriately. His office: ___.
+
+Transaminitis: Patient has transaminitis consistent with 
+hepatocellular pattern. This is new as LFTs from ___ 
+at ___ were wnl. ___ be secondary to residual abnormality 
+from recent heart failure exacerbation (LFTs not checked at that 
+time).  Also in the differential includes amiodarone toxicity, 
+however this is less likely since amiodarone induced 
+hepatotoxicity often takes several months to appear, not one 
+week. Amiodarone was stopped on this admission. Pt will be 
+followed outpatient by cardiologist to decide when to resume. 
+*REHAB: Check LFTs/Cr in 2 days  on ___ --> fax to Dr. 
+___ office (___). Of note, patient's 
+atorvastatin 10mg was held on this admission and should be held 
+until LFTs resolve.
+
+Acute Renal Failure: Pt baseline Cr 1.1 -> increased to Cr 1.4 
+on this admission. This was thought likely secondary to 
+intravascular volume depletion and pre-renal. He was given 250cc 
+IVF and Cr improved to 1.2 at discharge. Pt's bumex dose was 
+lowered to 1mg daily (was previously on 1mg BID). Recommend 
+checking lytes and renal function on ___ at rehab. 
+*Check LFTs/Cr in 2 days on ___ --> fax to Dr. ___ 
+___ office (___)
+
+History of Ventricular Tachycardia: Pt had recent 
+hospitalization for episodes of VT. He was started on amiodarone 
+200mg TID during that hospitalization. His device was 
+interrogated on this admission and he has not had any episodes 
+of VT since starting the amiodarone. Amiodarone was stopped on 
+this admission in setting of transaminitis. Pt ___ with 
+outpatient cardiologist to decide when to resume.  
+  
+Coronaries: Pt has no evidence of coronary artery disease.  
+Cardiac enzymes negative X2. Continued aspirin 81mg.
+
+Rhythm: BiV pacing, CHADS ___, currently on coumadin.  INR 6.3 
+on day of discharge which is likely elevated Coumadin should be 
+held until INR <3 and at that point would restart coumadin at 
+2mg daily. Pt did not have any bleeding and did not require any 
+FFP or Vit K.
+
+DNR/DNI: Family meeting was held to discuss patient's poor 
+prognosis. Patient and family understand that his illness is 
+advanced and his time is limited. Patient agreed to be DNR/DNI. 
+He is NOT comfort measures only at this time, but he is DNR/DNI.
+
+  
+Transitional Issues For Rehab:
+1)Must check daily weights at rehab
+2)If patient has shortness of breath that is concerning to the 
+staff at rehab, recommend rehab calls Dr ___ office to 
+help triage.
+3)HOLD coumadin until INR <3, would then restart at 2mg daily. 
+Trend INR regularly (every 2 days) until goal ___ and stable on 
+coumadin dose.
+4)Check LFTs/Cr/lytes in 2 days on ___ --> fax to Dr. 
+___ office (___).
+
+ 
+Medications on Admission:
+1. aspirin 81 mg Tablet, Chewable qd.  
+2. spironolactone 25 mg po qd  
+3. cholecalciferol (vitamin D3) 1,000 unit po qd  
+4. multivitamin  po qd 
+5. atorvastatin 10 mg po qd
+6. ferrous sulfate  Oral
+7. docusate sodium 100 mg Capsule bid
+8. senna 8.6 mg Tablet bid prn
+9. acetaminophen 650 q6 prn
+10. amiodarone 200 mg po tid till ___, switch to 200 mg qd 
+afterwards
+11. bumetanide 1 mg bid  
+12. warfarin 2.5 mg po qd  
+13. lorazepam 0.5 mg qhs prn  
+ 
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+8. bumetanide 1 mg Tablet Sig: One (1) Tablet PO once a day: 
+Check daily weights.  
+9. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.  
+10. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for sore throat.  
+11. LFTs/Lytes  Sig: One (1)   ___: Check: AST, ALT, 
+___, Alk phos, Chem 7. Fax to Dr ___: ___.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Chronic stage IV Heart failure
+Acute renal failure
+Transaminitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for some shortness of breath. 
+Your fluid status is actually improved compared to prior since 
+your weight is down (57kg->55kg). You were found to have a 
+little renal failure but your kidney function improved towards 
+your baseline. 
+Your liver enzymes were elevated and this might be from being 
+volume overloaded the the past. 
+For your heart, we encourage you to continue to take amiodarone.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+Medication changes:
+STOP:
+Amiodarone- do not take this until you see Dr ___ his 
+nurse practitioner. 
+Atorvastatin- your liver enzymes are elevated so this should be 
+stopped until they resolve
+
+Coumadin- please stop this until your INR <3. At that point, you 
+may resume at a lower dose of 2.0mg daily
+
+CHANGE:
+Bumex - change bumex from 1mg twice per day to 1mg once per day
+
+Please resume your other medications as usual.
+ 
+Followup Instructions:
+___

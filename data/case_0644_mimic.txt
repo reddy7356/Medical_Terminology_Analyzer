@@ -1,0 +1,415 @@
+===== DISCHARGE NOTE =====
+note_id=16629814-DS-5 | hadm_id=28680279
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Neck pain
+ 
+Major Surgical or Invasive Procedure:
+___ Anterior/posterior cervical fusion with instrumentation 
+C3-7 (by ___
+
+ 
+History of Present Illness:
+Patient is a ___ yo F with h/o HTN, HL, asthma admitted for 
+elective cervical decompression/fusion for spinal stenosis on 
+___. Post-operative course complicated by 1) episode of AMS 
+described by OMR note as alert and oriented though paranoid now 
+resolved 2) UTI by UA, no UCx in OMR s/p 3 days Cipro (___), 
+3) mucous plug which required re-intubation overnight in PACU, 
+extubated ___ with transfer to floor and 4) new A fib with RVR 
+which began on ___ with HR in 160s.  Cardiology was consulted 
+and patient initially responded to IV metoprolol 5 mg with 
+conversion to sinus.  Patient was then changed to diltiazem as 
+it was felt that Beta blocker could be exacerbating underlying 
+asthma, and patient diuresed with 20 mg IV furosemide.  
+Overnight, patient again in RVR, requiring uptitrating of both 
+PO and IV diltiazem.  Patient to undergo TTE this AM.  The 
+patient is now transferred to the medical service for further 
+management of rapid atrial fibrillation.  Cardiology will 
+continue to follow patient.
+.
+Patient reports no prior cardiac history without known CHF, CAD,
+or history of palpitations, unexplained syncope or
+lightheadedness.  She did have an episode of CP in the setting 
+of
+planned knee surgery for which it appears she had a nuclear
+stress test which by her report was normal.  Performed at ___ in ___.
+.
+This AM went into rapid ventricular rate up to the 150s. She was 
+given diltiazem 30mg PO, then extra 30mg PO, then 10mg IVx2. 
+There was an improvement in her rate to ___. She went to 
+get a TTE. Upon return, rate back up to 130s. She was given 10IV 
+and 60PO diltiazem. She is ordered for 40PO and 40IV K for low 
+potassium.
+
+ 
+Past Medical History:
+1. Asthma  
+2. Hypertension  
+3. GERD  
+4. Urinary incontinence- currently on cipro for bladder 
+infection  
+5. Multiple back and hip surgeries  
+6. Hyperlipidemia  
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+ADMISSION EXAM (by orthopedic service)
+A&O X 3; NAD
+RRR
+CTA B
+Abd soft NT/ND
+BUE- good strength at deltoid, biceps, triceps, wrist 
+flexion/extension, finger flexion/extension and intrinics; 
+sensation intact C5-T1 dermatomes; - ___, hyperreflexic 
+symmetrically at biceps, triceps and brachioradialis
+BLE- good strength at hip flexion/extension, knee 
+flexion/extension, ankle dorsiflexion and plantar flexion, 
+___ sensation intact L1-S1 dermatomes; - clonus, reflexes 
+symmetric at quads and Achilles
++ gait imbalance
+.
+DISCHARGE EXAM
+VS: 98.5 (98.7) 156/78 (106-156/66-94) 84 (73-84) 20 95%RA 
+(93-96%RA)
+I/O: NR/1225 BMx1
+General: Alert, oriented, no acute distress.  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, flat neck veins, no LAD  
+Lungs: CTAB
+CV: Regular rate and rhythm, normal S1 + S2, soft systolic 
+murmur at RUSB 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: 1+ edema to the knees 
+Neuro: AOx3, attention intact, neuro exam nonfocal (strength ___ 
+all 4 ext, CN2-12 intact, sensation intact)
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 05:23AM BLOOD WBC-9.3 RBC-3.25* Hgb-10.9* Hct-30.5* 
+MCV-94 MCH-33.5* MCHC-35.7* RDW-12.6 Plt ___
+___ 05:23AM BLOOD Glucose-133* UreaN-14 Creat-0.8 Na-136 
+K-3.5 Cl-100 HCO3-27 AnGap-13
+___ 05:23AM BLOOD Calcium-8.6 Phos-3.4 Mg-1.5*
+.
+RELEVANT LABS:
+___ 01:12PM BLOOD D-Dimer-___*
+___ 09:00AM BLOOD TSH-3.4
+___ 05:22AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 09:00AM BLOOD ALT-21 AST-27 LD(LDH)-177 AlkPhos-66 
+TotBili-0.4
+.
+DISCHARGE LABS:
+___ 05:04AM BLOOD WBC-8.7 RBC-2.89* Hgb-9.3* Hct-28.4* 
+MCV-98 MCH-32.3* MCHC-32.8 RDW-12.8 Plt ___
+___ 05:04AM BLOOD ___ PTT-30.3 ___
+___ 05:04AM BLOOD Glucose-94 UreaN-15 Creat-0.8 Na-137 
+K-3.6 Cl-102 HCO3-24 AnGap-15
+___ 05:04AM BLOOD Calcium-9.7 Phos-4.2 Mg-1.7
+.
+MICROBIOLOGY
+___ Blood cultures x2: no growth
+___ Urine culture: MIXED BACTERIAL FLORA ( >= 3 COLONY 
+TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.
+.
+PATHOLOGY:
+___: Disc C4-C7:
+- Fibrocartilage with degenerative changes.
+- Scant fragments of unremarkable bone.
+.
+IMAGING:
+___ C-spine, 2 views: Two portable views of the C-spine 
+without a radiologist present. Plate with transfixing screws is 
+seen at C4 through C7. No apparent hardware complications. No 
+fractures are noted. No alignment abnormalities are noted. 
+Degenerative changes are seen on initial images which are 
+obscured on final images by surgical hardware. For full details, 
+please refer to operative note.
+.
+___ Chest x-ray, portable: Moderate-to-severe bibasilar 
+atelectasis.
+.
+___ Chest x-ray PA/lat: Severe cardiomegaly is stable. 
+Bibasilar opacities are markedly improved consistent with an 
+improving atelectasis and small pleural effusions. Vascular 
+congestion has resolved. There are no new lung abnormalities. 
+Spinal hardware is in place.
+.
+___ TTE: The left atrium is mildly dilated. The right atrium 
+is moderately dilated. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size. There is mild regional left 
+ventricular systolic dysfunction with mild hypokinesis of the 
+distal anterior wall and septum. The remaining segments contract 
+normally (LVEF = 50%). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+mild pulmonary artery systolic hypertension. There is an 
+anterior space which most likely represents a prominent fat pad.
+IMPRESSION: Mild regional left ventricular systolic dysfunction, 
+c/w CAD. Mild pulmonary hypertension.
+ 
+Brief Hospital Course:
+___ hx asthma, HTN, HLP who presented for elective cervical 
+fusion ___ c/b mucous plugging, UTI, acute episode of AMS 
+(paranoia) and finally afib with RVR.  Transferred to medicine 
+for management of afib and electrolyte repletion. Hospital 
+course complicated by paranoid delirium.
+.
+.
+ACTIVE ISSUES:
+# ___ hospital course:  Ms. ___ was admitted to the 
+___ Spine Surgery Service on ___ and taken to the Operating 
+Room for C4-7 fusion through an anterior approach. Please refer 
+to the dictated operative note for further details. The surgery 
+was without complication and the patient was transferred to the 
+PACU in a stable condition. TEDs/pnemoboots were used for 
+postoperative DVT prophylaxis. Intravenous antibiotics were 
+given per standard protocol. Initial postop pain was controlled 
+with a PCA. On HD#2 she returned to the operating room for a 
+scheduled C3-7 decompression with PSIF as part of a staged 
+2-part procedure. Please refer to the dictated operative note 
+for further details. The second surgery was also without 
+complication and the patient was transferred to the PACU in a 
+stable condition.  While in the PACU she developed hypoxia and 
+required reintubation.  This was thought to be due to a mucous 
+plug.  She was subsequently extubated the following day but 
+developed a delerium with components of paranoia.  She then 
+developed atrial fibrillation with rapid ventricular response, 
+congestive heart failure exacerbation and electrolyte imbalance 
+requiring transfer to the medicine service.
+.
+# Atrial fibrillation: No history of afib or cardiac disease.  
+Ruled out with negative enzymes.  EKG without ishemic changes 
+and enzymes flat.  TSH wnl.  ECHO showed no structural cause for 
+atrial fibrillation but did show an EF of 50% with mild distal 
+anterior wall hypokinesis suggestive of cardiac disease.  
+Initially she was rate controlled with diltiazem, but this was 
+changed to metoprolol when the echo report came back suggestive 
+of CAD.  CHADS 1, therefore given aspirin 325 mg for anticoag. 
+She was in sinus rhythm since ___, monitored on tele 
+throughout.
+.
+# Congestive heart failure/edema: EF 50% with no significant 
+valvular disease.  It was felt by cardiology that her failure 
+was exacerbated by atrial fibrillation (was edematous to the 
+hips with significant crackles and cardiac wheeze on pulmonary 
+exam).  She was diuresed with IV lasix.  Other etiologies for 
+edema were ruled out, including normal albumin and normal renal 
+function.  She was discharged with beta blockers, lisinopril 
+(instead of triamterene/HCTZ) and lasix.
+.
+# ?CAD: her echo was suggestive of cardiac disease.  As she was 
+ruled out by troponins and her EKG was without ischemic changes, 
+no further intervention was undertaken during this 
+hospitalization.  She was started on CAD medications as above.  
+She will need to follow-up with cardiology and schedule an 
+outpatient stress test to further evaluate these echo findings.
+.
+# Delirium: She was noted on multiple occasions to have delerium 
+with predominantly paranoid/delusional features.  Psychiatry was 
+consulted who felt that the paranoia was secondary to delirium, 
+and recommended discontinuing narcotics, and starting 
+risperidone.  She also was found to have a dirty UA with urine 
+culture showing just mixed bacteria, consistent with 
+contamination; however, she was treated with 3 days of 
+cefpodxime, out of concern that a possible UTI was contributing 
+to her delirium. Her delirium was well-controlled after starting 
+risperidone 1 mg PO qHS. Mental status was clear for the three 
+days prior to discharge. Patient may discontinue risperidone 
+over the next few days.
+.
+.
+CHRONIC ISSUES:
+# HTN: Well-controlled. Changed regimen to metoprolol succinate 
+and lisinopril, as described above.
+.
+# Asthma:  Given history of RVR, switched albuterol to 
+ipratropium while in house. Afib resolved. Patient may resume 
+home Advair on discharge.
+.
+# GERD: Continued home omeprazole
+.
+.
+TRANSITIONAL ISSUES:
+# Delirium has cleared for the past three days. Patient may 
+discontinue risperidone soon after arrival to rehabilitation, as 
+long as she shows no signs of recurring confusion or paranoia.
+# Should have outpatient stress test to evaluate for CAD.
+# Code: full
+ 
+Medications on Admission:
+1. Cymbalta- 60 mg daily  
+2. Meloxicam- 15 mg every day  
+3. Lipitor- 10 mg every day  
+4. Aspirin- 81 mg every day  
+5. Omeprazole- 20 mg every day  
+6. Bystolic- 20 mg every day  
+7. Triamterene-Hydrochlorothiazide 37.5 mg-25 mg  
+8. Ciprofloxacin- 500 mg BID  
+9. Acidophilus Oral Capsule  
+10. Advair 500/50 BID
+
+ 
+Discharge Medications:
+1. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig: 
+One (1) inhalation Inhalation BID (2 times a day).  
+4. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO at bedtime.  
+7. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO every 
+eight (8) hours as needed for fever/pain.  
+9. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.  
+10. risperidone 1 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+11. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Cervical stenosis and spondylosis
+.
+Secondary diagnoses
+Atrial fibrillation with rapid ventricular rate
+Congestive heart failure, acute diastolic
+Paranoid delirium
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to participate in your care here at ___ 
+___! You were admitted with spinal 
+stenosis.  You have undergone the following operation: 
+ANTERIOR/POSTERIOR cervical decompression with fusion.  After 
+this, you were noted to have an abnormal heart rhythm called 
+atrial fibrillation, which was treated with a medication called 
+a beta blocker to slow down your heart rate.  
+
+You also had an ultrasound of the heart which showed some mild 
+abnormality in the very bottom portion of your heart.  Due to 
+this, you should have a stress test as an outpatient after 
+discharge from rehab.  You also need to follow-up with a 
+cardiologist.
+
+You also were delirious with very paranoid thoughts.  This was 
+presumed to be secondary to a urinary tract infection, which was 
+treated with an antibiotic (cefpodoxime), and to having a 
+prolonged hospital stay.  At the time of discharge, your 
+symptoms were stable on risperidone.  If you have no further 
+confusion or paranoia at rehab, you may discontinue risperidone.
+
+Please note the following medication changes:
+
+START
+Lisinopril 5 mg by mouth once per day
+Toprol XL 100 mg by mouth once per day
+Aspirin 325 mg by mouth once per day
+Furosemide 20 mg by mouth once per day
+Risperidone 1 mg by mouth at bedtime
+
+Please STOP
+Meloxicam- 15 mg every day  
+Aspirin 81 mg every day  (we increased the dose)
+Bystolic 20 mg every day  
+Triamterene-Hydrochlorothiazide 37.5 mg-25 mg  
+Ciprofloxacin 500 mg BID  
+
+Otherwise please take all medications as prescribed.
+
+ 
+Immediately after the operation:
+-Activity: You should not lift anything greater than 10 lbs for 
+2 weeks. You will be more comfortable if you do not sit or stand 
+more than ~45 minutes without getting up and walking around.
+ 
+-Rehabilitation/ Physical Therapy: 
+___ times a day you should go for a walk for ___ minutes as 
+part of your recovery. You can walk as much as you can tolerate. 
+
+Limit any kind of lifting.
+
+-Diet: Eat a normal healthy diet. You may have some constipation 
+after surgery. You have been given medication to help with this 
+issue.
+ 
+-Brace: You have been given a brace. This brace is to be worn 
+for comfort when you are walking. You may take it off when 
+sitting in a chair or while lying in bed.
+ 
+-Wound Care: Remove the dressing in 2 days. If the incision is 
+draining cover it with a new sterile dressing. If it is dry then 
+you can leave the incision open to the air. Once the incision is 
+completely dry (usually ___ days after the operation) you may 
+take a shower. Do not soak the incision in a bath or pool. If 
+the incision starts draining at anytime after surgery, do not 
+get the incision wet. Cover it with a sterile dressing. Call the 
+office. 
+ 
+-You should resume taking your normal home medications. No 
+NSAIDs.
+ 
+-You have also been given Additional Medications to control your 
+pain. Please allow 72 hours for refill of narcotic 
+prescriptions, so please plan ahead. You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___. We are not allowed to call in or fax narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to your pharmacy. 
+In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.
+ 
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+ 
+
+It is important that you follow up with your doctors after 
+___. Please make appointments with Dr. ___ your 
+primary care doctor, as instructed below.
+
+Wishing you all the best!
+ 
+Followup Instructions:
+___

@@ -1,0 +1,272 @@
+===== DISCHARGE NOTE =====
+note_id=19765492-DS-11 | hadm_id=26981654
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abnormal stress test
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with stenting
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old legally blind male w/ ___ 
+___ Syndrome, a horseshoe kidney, and hypertension sent in 
+by PCP for new anterolateral Qs and TWIs on routine EKG. Patient 
+describes no symptoms over the last month or at the present 
+time. The patient was referred to have stress test at ___ 
+___ following the EKG which showed anteroapical 
+abnomalities. At that point, he was sent here. Initial labs in 
+the ED showed troponin < 0.01. Initial vitals were stable at T 
+97.5 P 85 BP 138/100 R 15 O2SAT 100%RA. CXR showed no acute 
+cardiopulmonary abnormality. He was given lisinopril 10 mg PO x 
+1 and ASA 325 mg PO x 1. He was then admitted to the ___ 
+inpatient cardiology service for possible cardiac 
+catheterization. Vitals on transfer were T 98.0, P ___, BP 
+170/107, R 17, O2SAT 98%RA. On arrival to the floor, patient had 
+no compliants, felt well.
+.  
+On review of systems, he denied any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denied recent fevers, chills, or 
+rigors. He denied exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems was notable for the absence of chest 
+pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, 
+orthopnea, ankle edema, palpitations, syncope, or presyncope.
+ 
+Past Medical History:
+CARDIAC RISK FACTORS: +Hypertension  
+CARDIAC HISTORY: None 
+- Retinitis pigmentosa  
+- ___ Syndrome  
+- Horseshoe kidney, renal function diminished 
+- bladder retention and an undescended left testicle
+ 
+Social History:
+___
+Family History:
+Mother - catheterization with stenting  
+
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:  
+VS: T 98.4 BP 154/98 P 88 RR 16 pOx 99 RA wt 73 kg  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple, w/o LAD 
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 
+or S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominal bruits.  
+EXTREMITIES: No c/c/e.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. Cool 
+and dry to the touch in upper and lower extrem.  
+PULSES: 2+ radial, DP and ___ were 2+ bilaterally. 
+
+PHYSICAL EXAM ON DISCHARGE:
+VS: T 98.7-98.9 BP 112-150/85-108 P ___ RR 16 pOx 99-100 RA, 
+71.5 kg  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate, withdrawn.  
+
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple, w/o LAD 
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3, 
+(+)S4.  
+LUNGS: No chest wall deformities. Resp were unlabored, no 
+accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominal bruits.  
+EXTREMITIES: No c/c/e.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. Cool 
+and dry to the touch in upper and lower extrem. Right femoral 
+cath site c/d/i, w/o bruits, mildly TTP, no evidence of 
+hematoma.  
+PULSES: 2+ radial, DP and ___ were 2+ bilaterally.
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 05:15PM BLOOD WBC-7.0 RBC-4.89 Hgb-14.2 Hct-39.7* 
+MCV-81* MCH-29.1 MCHC-35.8* RDW-14.9 Plt ___
+___ 05:15PM BLOOD Neuts-84.7* Lymphs-10.1* Monos-2.9 
+Eos-1.0 Baso-1.2
+___ 05:15PM BLOOD ___ PTT-29.2 ___
+___ 05:15PM BLOOD Glucose-107* UreaN-30* Creat-1.8* Na-141 
+K-5.5* Cl-105 HCO3-23 AnGap-19
+
+OTHER LABS OF INTEREST:
+___ 05:15PM BLOOD cTropnT-<0.01
+___ 07:10AM BLOOD CK-MB-2 cTropnT-<0.01
+
+___ 07:10AM BLOOD %HbA1c-5.4 eAG-108
+___ 07:10AM BLOOD Triglyc-97 HDL-40 CHOL/HD-3.7 LDLcalc-87
+
+LABS ON DISCHARGE:
+___ 06:20AM BLOOD Hct-36.0* Plt ___
+___ 06:20AM BLOOD UreaN-28* Creat-1.9* Na-143 K-4.0 Cl-107
+
+STUDIES OF INTEREST:
+EKG ___: Baseline artifact. Sinus rhythm. Indeterminate 
+axis. Low voltage. Probable Q waves in leads V1-V2 with ST-T 
+wave abnormalities. Consider age undetermined. Anteroseptal 
+myocardial infarction. Other ST-T wave abnormalities. Clinical 
+correlation is suggested. No previous tracing 
+available for comparison.  
+Rate PR QRS QT/QTc P QRS T 
+ 96 126 82 ___ 105
+
+PA & LAT CXR ___: The cardiac silhouette is normal in 
+size. The aorta is mildly unfolded. The lungs are clear. The 
+pulmonary vascularity 
+is normal. No pleural effusion or pneumothorax is present. There 
+is no focal consolidation. No acute osseous abnormality is 
+visualized. No acute cardiopulmonary abnormality.
+
+CARDIAC CATH ___: Successful PTCA and stenting of the 
+diagonal branch with a 2.5 x 23 mm Promus ___ to 
+2.75 mm (see PTCA comments). Successful right femoral 
+arteriotomy closure with a ___ AngioSeal. FINAL DIAGNOSIS: 
+One-vessel coronary artery disease, Successful PCI of the 
+diagonal branch with a 2.5 x 23 Promus ___ to 2.75, 
+Successful right femoral AngioSeal closure.
+
+POST CATH EKG ___: Sinus rhythm. Since the previous 
+tracing the axis is now left superior. Otherwise, unchanged. 
+Rate PR QRS QT/QTc P QRS T 
+ 75 148 82 ___ 115
+ 
+Brief Hospital Course:
+Patient admitted for possible cardiac catheterization following 
+new changes on outpatient EKG and ischemic changes on outpatient 
+stress test. He described no symptoms over the last 2 weeks or 
+at the current time. Labs and repeat EKG in ED showed troponins 
+< 0.01 and evidence of an old septal infarct (new since 
+___, results that indicated it was highly unlikely that 
+the patient was currently having a myocardial infarction, but 
+that he may have had one in the last year. He was admitted to 
+___ for possible cardiac catheterization.
+
+Cardiac catheterization was done via the right femoral artery 
+and the patient tolerated the procedure well. A stent was placed 
+in the first diagonal artery off of the left anterior descending 
+coronary artery. Post-cath check was done in the evening 
+following the procedure and indicated no signs of a bleed, 
+hematoma, or bruits. The patient was started on the appropriate 
+antithrombotic regimen for discharge and will be following up as 
+an outpatient with both Dr. ___ new cardiologist and 
+Dr. ___ PCP.
+
+Mr. ___ had elevated blood pressures on admission and his 
+hypertensive medication regimen was modified in addition to the 
+new coronary artery disease regimen that we initiated.
+
+Lastly, Mr. ___ has chronic renal insufficiency with a 
+baseline Cr of 1.6-1.8. He was within this baseline during his 
+stay here, but should have a follow-up Cr measurement as an 
+outpatient as we increased his dose of Lisinopril to 20 mg daily 
+from 10 mg daily. A prescription for this blood draw was given 
+on discharge.
+ 
+Medications on Admission:
+Loratadine 10 mg PO daily  
+Lisinopril 10 mg PO daily  
+Flomax 0.4 mg PO daily  
+Calcitriol 0.25 mg PO every OTHER day  
+
+ 
+Discharge Medications:
+1. Outpatient Lab Work
+Please draw creatinine on ___. Fax results to PCP ___. 
+___ at ___. Thank you.
+
+2. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+3. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO EVERY 
+OTHER DAY (Every Other Day).  
+4. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+6. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig: 
+One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+7. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+9. loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, you were admitted to ___ 
+___ for evaluation of your heart. When you were 
+seeing your primary doctor the other day, they noted that you 
+had some new changes on your EKG. At that point, they referred 
+you to have a stress test which looked at your heart's ability 
+to deal with stress. The stress test showed some problems with 
+the blood flow to a certain area of your heart, possibly due to 
+a heart attack that occurred in the recent past. From the stress 
+test, you were referred to ___ where you were admitted to the 
+cardiology service for possible cardiac catheterization. After 
+discussing you case with all of the doctors, your mother, and 
+you, it was decided that we would proceed with the cardiac cath. 
+The procedure went very well and a stent was placed in one of 
+your heart's blood vessels to keep it open and maximize blood 
+flow. You are being discharged to your home today.
+
+The following changes were made to your medication regimen:
+
+-Start Simvastatin 20 mg daily
+-Start Aspirin 325 mg daily
+-Start Plavix 75 mg daily
+-Start Metoprolol succinate 25 mg daily
+-Increase Lisinopril to 20 mg daily
+-Continue Loratadine 10 mg daily  
+-Continue Flomax 0.4 mg daily 
+-Continue Calcitriol 0.25 mg every OTHER day
+
+Mr. ___, it is so very important that you take your 
+Aspirin and Plavix daily. These medication will keep your stent 
+healthy. If you do not take these 2 medications daily, you have 
+a large risk of sustaining another, much larger heart attack. 
+Please do not miss ___ dose.
+ 
+Followup Instructions:
+___

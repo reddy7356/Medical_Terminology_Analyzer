@@ -1,0 +1,945 @@
+===== DISCHARGE NOTE =====
+note_id=12999430-DS-11 | hadm_id=20309607
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Falls, declining executive function
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo with h/o dementia who was brought in by daughter for 
+concern of increased falls in the past week prior to 
+presentation. He has a history of falls. He had been living at 
+home alone but daughter moved in with him after finding him to 
+be not doing well on his own. Falls have all been unwitnessed. 
+No evidence of trauma. He does have some echymoses on his 
+extremities. He has an expressive aphasia at baseline.  
+.
+In the ED, initial vs were: 98.8 73 136/69 26 98%  
+UA with nitrates and bacteria but no leuks. Afebrile. so not 
+treated. CT head negative.  Vitals on transfer 97.1 73 135/52 18 
+100 ra  
+.
+On the floor, patient comfortable. Able to answer yes and no 
+questions and denies pain.  
+ 
+Past Medical History:
+Gout
+___ ___
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Exam on Admission:
+Vitals: T: 96.7 BP: 131/67 P: 76 R: 18 O2: 99 RA  
+General: Alert, oriented to person and not to place or time. 
+Answers questions short yes no answers.  
+HEENT: atraumatic, EOMI, nose non-congested, oropharynx clear  
+Neck: supple, no JVD, no lymphadenopathy  
+Lungs: Bilateral scattered rales, no wheezes, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding  
+Ext: No edema 2+ pulses  
+Neuro: Cranial Nerves II - XII intact, stregth ___ upper 
+extremeties and lower extremeties, sensation equal bilaterally 
+upper and lower extremeties. Reflexes 3+ patella and achilles 
+reflexes.  
+Mental Status: Difficult to assess because of limited speech 
+ability. Oriented to person, but not to place or time.  
+.
+Exam on Discharge, ___:
+Vitals: T 96.6 HR 70 BP 145/73 RR 20 SaO2 97% on RA
+General: sleeping but easily arousable, oriented to person but 
+not to place or time. Answers questions with short yes or no 
+answers. In no apparent distress.
+HEENT: atraumatic, PERLL.
+Neck: supple
+Lungs: B/L expiratory wheezes, but difficult to assess given 
+poor patient compliance.
+CV:  RRR, no murmurs, rubs or gallops.
+Abdomen: soft, nontender, nondistended.
+Ext: Warm and well perfused, no edema, no cyanosis.
+Neuro: has difficult comprehending and following all commands; 
+hearing diminished b/l; strength ___ in upper and lower 
+extremities.
+Mental status: difficult to assess because of limited speech 
+ability. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:25AM BLOOD WBC-7.4 RBC-3.21* Hgb-10.6* Hct-30.9* 
+MCV-96 MCH-33.1* MCHC-34.4 RDW-14.2 Plt ___
+___ 06:25AM BLOOD Glucose-95 UreaN-17 Creat-0.8 Na-140 
+K-4.1 Cl-107 HCO3-24 AnGap-13
+___ 07:25PM BLOOD VitB12-243 Folate-8.8
+___ 07:45PM BLOOD METHYLMALONIC ACID *511 H
+___ 07:45PM BLOOD TSH-1.3
+___ 10:25PM URINE Color-Yellow Appear-Clear Sp ___
+___ 10:25PM URINE Blood-NEG Nitrite-POS Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM
+___ 10:25PM URINE RBC-0 ___ Bacteri-MANY Yeast-NONE 
+Epi-0
+.
+Microbiology:
+___: RPR negative
+___ urine culture: mixed bacterial flora, consistent with 
+skin/genital flora contamination.
+.
+IMAGING: 
+.
+CT HEAD w/o contrast ___:
+IMPRESSION: Chronic atrophy and small vessel disease but no 
+acute 
+intracranial findings. 
+.
+Chest X-ray ___:
+IMPRESSION: 
+Mild atelectasis right lung base. Remainder of the lungs are 
+clear. 
+.
+MRI HEAD ___:
+The axial FLAIR sequence, demonstrates a thin right-sided 
+subdural 
+hematoma along the frontoparietal and temporal regions, 
+extending inferiorly at the right occipital region, there is no 
+evidence of significant mass effect or shifting of the normally 
+midline structures. Additionally, there is a thin subdural 
+hematoma along the left occipital region with no evidence of 
+mass effect, measuring approximately 1-2 mm in thickening and 
+visualized on the sagittal T1 and FLAIR images. No diffusion 
+abnormalities are detected.  Multiple foci of high signal 
+intensity are demonstrated in the subcortical and 
+periventricular white matter on T2 and FLAIR, which are 
+non-specific and may represent chronic microvascular ischemic 
+disease.
+ 
+Brief Hospital Course:
+___ year old man with dementia, aphasia and inability to care for 
+self at home presenting with increasing falls found to be 
+bradycardic on telemetry. 
+.
+1. Falls: The falls have been unwitnessed, but are likely 
+mechanical in nature given the patient's marked gait 
+instability. The patient was found to have vitamin B12 
+deficiency and was started on vitamin B12 supplementation. 
+Neurology was consulted, and felt that symptoms could be 
+consistent with frontotemporal dementia. MRI was performed, 
+which showed a small right subdural hematoma extending from the 
+frontotemporal to the parietal lobe. There was also evidence of 
+microvascular disease. Given concern for subdural hematoma, 
+neurosurgery was consulted but stated that surgical intervention 
+was not recommended as hematoma was small. Neurology agreed with 
+conservative management. 
+.
+2. Bradycardia/paroxysmal AV block: The patient had episodes of 
+bradycardia down in ___ on telemetry but was asymptomatic. 
+Cardiology was consulted and believed that bradycardia was not 
+cause of syncope as patient has been asymptomatic during his 
+episodes. They diagnosed him with paroxysmal AV block (Phase IV 
+heart block) and recommended against pacemaker placement given 
+his dementia. The EP fellow spoke with the family, who agreed 
+with this assessment.
+.
+3. Vitamin B12 deficiency: The patient was found to have a 
+low-normal level of vitamin B12 and a high methylmalonic acid 
+level. He was treated with parenteral vitamin B12 while in the 
+hospital and was discharged on oral vitamin B12. Vitamin B12 
+levels should be monitored after discharge, and the adequatecy 
+of oral supplementation should be assessed.
+.
+4. Subdural hematoma: diagnosed on MRI on ___. Extends from the 
+right frontotemporal lobe to the right parietal lobe. Patient 
+had fallen before admission, so likely this is bleeding that has 
+accumulated from that fall. On initial head CT on ___, the 
+bleeding may have been isodense and therefore not noticed, or it 
+may have been miniscule. On MRI, hematoma was still small but 
+noticeable. It is unlikely that his mental status changes are 
+related to this subdural hematoma. Patient has had no acute 
+changes in mental status over the course of the hospitalization. 
+Neurology was consulted and felt that conservative management 
+would be initial step. Neurosurgery was also consulted and 
+agreed with conservative management as there was no need for 
+surgical intervention and recommended follow up imaging only if 
+there were acute mental status changes.
+.
+5. UA: Patient had UA in ED concerning for UTI with nitrates and 
+bacteria but no WBC. Urine culture from the ED showed Coagulase 
+negative Staphylococcus that were pan-sensitive. Patient has 
+been afebrile without leukocytosis. Repeat UA on ___ showed 
+nitrates and bacteria but urine culture showed mixed flora, 
+consistent with skin/genital contamination. Given patient's lack 
+of fever and symptoms and lack of clinical evidence, antibiotics 
+were not started.
+
+6. Anemia: Patient was anemic with hematocrit in the low 
+thirties/ high ___, which remained stable throughout 
+hospitalization. Iron studies were essentially normal, but the 
+patient was found to have vitamin B12 deficiency. He was started 
+on vitamin B12 supplements.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation.
+Disp:*15 packets* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+4. Vitamin B-12 1,000 mcg Tablet Sig: One (1) Tablet PO once a 
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO twice a 
+day.
+Disp:*120 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Dementia (with Microvascular component)
+Falls
+Right subdural hematoma
+
+ 
+Discharge Condition:
+Discharge condition: stable
+Ambulatory status: unstable gait and high risk for falls, but 
+ambulatory.
+Mental Status: oriented to person and place (hospital) only; 
+communicative but repsonds with yes/no or brief phrases; follows 
+some simple commands; extremely hard of hearing at baseline and 
+requires a few seconds before responding. 
+
+ 
+Discharge Instructions:
+You were admitted on ___ for repeated falls. While in the 
+hospital, you were found to have a slow heart rate and were 
+diagnosed with "phase IV heart block" or intermittent slowing of 
+your heart. The treatment of this is sometimes a pacemaker, but 
+given your other health problems, your family decided not to 
+pursue this option. You also had an MRI of your brain that 
+showed "microvascular infarcts" which are chronic changes that 
+can cause dementia. You also have a small right subdural 
+hematoma - or bruise to your brain - that was managed 
+conservatively and will likely self-resolve. You remained in 
+your usual state of health and were discharged home with 
+services on ___.
+.
+There have been some changes to your medication list:
+START Vitamin B12 1mg daily
+START Docusate Sodium (Colace) 100mg Twice daily
+START Polyethylene Glycol (Miralax) 17g once as needed for 
+constipation
+START Senna 1 tablet twice daily for constipation
+START Acetaminophen  1000mg (2 pills) twice daily
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12999430-DS-10 | hadm_id=26289767
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year-old right-handed man who presents status post a fall 
+down 13 stairs. Fall was unwitnessed. Per pre-hospital report 
+patient was initially awake, confused and not following 
+commands. Trauma survey noted only a 12th rib fracture on the 
+left. Vital signs were normal, tox screen was negative, and his 
+EKG was notable for a right bundle branch block. He was admitted 
+for monitoring. 
+ 
+Past Medical History:
+Gout
+___ ___
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ 
+
+T=97.3
+BP= 131-160/72-69 
+HR= 63-66
+RR= 20
+O2= 99-100% on RA
+___ 98
+
+GENERAL: Pleasant
+HEENT: Normocephalic, atraumatic.  No conjunctival pallor. No
+scleral icterus.  MMM. OP clear.  Neck Supple, No nuchal 
+rigidity
+
+CARDIAC: Irregular rhythm, normal rate. Normal S1, S2. No 
+murmurs
+appreciated.  
+LUNGS: CTAB with diminished air movement at the bases.
+ABDOMEN: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. 
+EXTREMITIES: No edema or calf pain, 1+ dorsalis pedis/posterior
+tibial pulses.  Left ___ digit with apparent old contracture.
+SKIN: No rashes/lesions, ecchymoses. 
+
+Neurologic: 
+-Mental Status: Alert, oriented to hospital, date and year.  
+Able
+to relate history but speech intermittently slow.  Able to name
+the days of the week forward and backward without difficulty. 
+His
+language is fluent with intact repetition and comprehension,
+however his attention did appear to wax and wane at times, as he
+would stare for several seconds before answering questions.  
+There were no errors of speech noticed.  The patient was able to
+name both high and low frequency objects and read without
+difficulty.  Speech was notable for a ___ accent and was
+mildly dysarthric. Able to follow both midline and appendicular
+commands. Pt. was able to register 3 objects although this was
+initially limited by his hearing.  He could not recall any items
+at 5 minutes.  There was no evidence of apraxia or neglect. 
+  
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 2.5 to 2 mm and brisk.  VFF to confrontation. 
+Attempted
+funduscopic exam was unsuccessful due to inability to have the
+patient focus.
+III, IV, VI: Significantly restricted upgaze, no evidence of
+nystagmus.  Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: Diminished blink. No facial droop, facial musculature
+symmetric. 
+VIII: Diminished hearing bilaterally, left > right.
+IX, X: Palate elevates symmetrically.  
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+ 
+-Motor: Normal bulk; no evidence of increased resting tone.
+Parietal drift on R>L.  No adventitious movements, such as
+tremor, noted. No asterixis noted. 
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+L  5    ___   ___  5   5    5  5     5     5   5 
+R  5    ___   ___  5   5    5  5     5     5   5 
+ 
+-Sensory: No deficits to light touch, pinprick, cold sensation 
+or
+vibratory sense; normal proprioception throughout. No extinction
+to DSS. 
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L  3  3    3    3   4 (4 beats of clonus)
+R  3  3    3    3   4 (2 beats of clonus)
+Plantar response was flexor bilaterally. 
+Positive glabellar and possible grasp reflex present.
+ 
+-Coordination: No intention tremor, no slight dysdiadochokinesia
+noted bilaterally. Slight dysmetria on FNF and HKS bilaterally. 
+ 
+
+ 
+Pertinent Results:
+___ 07:36AM   GLUCOSE-100 UREA N-17 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.0 CHLORIDE-109* TOTAL CO2-23 ANION GAP-13
+___ 10:38PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 10:38PM   WBC-7.6 RBC-4.04* HGB-13.0* HCT-39.2* MCV-97 
+MCH-32.1* MCHC-33.1 RDW-12.8
+___ 10:38PM   PLT COUNT-153
+___ 10:38PM   ___ PTT-27.0 ___
+
+CT Head ___
+IMPRESSION: 
+1. No intracranial hemorrhage. No midline shift. 
+  
+2. Bilateral soft tissue densities within the external auditory 
+canals likely cerumen, occlusive on the left. Recommend direct 
+visualization. 
+
+CT c-spine ___
+IMPRESSION: No fracture of the cervical spine. 
+
+CT Chest/Abdomen/Pelvis ___
+IMPRESSION: 
+  
+1. Fracture of the left twelfth rib posteriorly. No splenic 
+laceration. No 
+pneumothorax. 
+  
+2. No injury to the solid organs. 
+  
+3. Cholelithiasis. 
+  
+4. Bilateral fat-containing inguinal hernias. 
+  
+5. Mildly enlarged prostate. 
+  
+  
+
+  
+
+  
+
+ 
+Brief Hospital Course:
+He was admitted to the Trauma service. Because of concern for 
+possible Broca's aphasia a Neurology stroke consult was 
+requested. It was recommended an MR of the brain which showed no 
+evidence of acute infarct seen on diffusion images;mild brain 
+atrophy and moderate periventricular and subcortical changes of 
+small vessel 
+disease identified and no midline shift or hydrocephalus. It was 
+also recommended  
+that he follow-up in the Neurology clinic for further testing 
+and referral to movement disorder clinic given his history of 
+increased falls and high risk for future falls.
+
+His single rib fracture was managed with Tylenol for which he 
+reported provided adequate relief. he will follow up in trauma 
+clinic with a chest xray.
+
+He was evaluated by Physical and Occupational therapy and was 
+recommended for home with services.
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Milk of Magnesia 800 mg/5 mL Suspension Sig: Thirty (30) ML's 
+PO twice a day as needed for constipation.  
+4. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO at bedtime.  
+5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation every six (6) hours as needed for shortness 
+of breath or wheezing.
+Disp:*1 pump* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p Fall
+Left rib fracture
+ 
+Discharge Condition:
+Hemodynamically stable, toelrating a regular diet, pain 
+adequately controlled.
+ 
+Discharge Instructions:
+Return to the Emergency room if you develop any fevers, chills, 
+headaches, dizziness, increased falls, chest pain, shortness of 
+breath, nausea, vomiting, diarrhea and/or any other symptoms 
+that are concerning to you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12999430-DS-13 | hadm_id=26339263
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo M with dementia, h/o falls s/p subdural 
+hematoma/verterbral fx found in his room by elder protective 
+services. Room was in complete disrepair with feces/urine all 
+around room, old food at bedside. Brought to ED.
+
+In ER: (Triage Vitals: 98.9 80 118/55 18 95% RA). CK elevated. 
+Fluids given: 1L D5 with bicard.  Radiology Studies: CT head, 
+c-spine, cxr. social work consulted.
+.
+Disoriented, alert but unable to answer any questions.
+ 
+Past Medical History:
+Dementia - thought to possibly be ___ ___ plus syndrome 
+such as progressive supranuclear palsy
+Subdural hematoma - on MRI ___
+Gout
+MVA - ___lock - no pacemaker given dementia
+Anemia
+Cholelithiasis
+Bilateral fat-containing hernia
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+T 96.6 P 68 BP 114/68 RR 20 O2Sat 97% 2L  
+GENERAL: awake, unable to answer questions appropriately, 
+disoriented
+Eyes: L pupil constricted, R pupil 3mm 
+Ears/Nose/Mouth/Throat: dry MM 
+Neck: supple
+Respiratory: Lungs CTA bilaterally without R/R/W  
+Cardiovascular: Reg S1S2, no M/R/G noted  
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Genitourinary:  ecchymotic penis/scrotum, foley
+Skin: multiple ecchymoses
+Extremities: No C/C/E bilaterally 
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.  
+Neurologic:  
+-mental status: Alert, disoriented. Minimal verbal output. 
+Followed simple commands .
+
+ 
+Pertinent Results:
+Labs at admission:
+___ 04:30PM   WBC-13.6*# RBC-3.39* HGB-11.1* HCT-31.3*# 
+MCV-93 MCH-32.7* MCHC-35.3* RDW-13.8
+___ 04:30PM   NEUTS-85.1* LYMPHS-11.8* MONOS-2.9 EOS-0.1 
+BASOS-0.2
+___ 04:30PM   PLT COUNT-255
+___ 04:30PM   ___ PTT-26.5 ___
+___ 04:30PM   GLUCOSE-113* UREA N-34* CREAT-1.0 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-27 ANION GAP-12
+___ 04:30PM   ALT(SGPT)-71* AST(SGOT)-293* ___ 
+ALK PHOS-124 TOT BILI-0.8
+___ 04:30PM   LIPASE-16
+___ 10:40PM   ___
+___ 10:40PM   CREAT-0.8
+___ 04:30PM   CK-MB-39* MB INDX-0.3
+
+CXR: no infiltrate
+CT head: No acute intracranial process.
+
+Cardiac ECHO ___: 
+Left ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Right ventricular 
+chamber size and free wall motion are normal. Trivial mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+IMPRESSION: Normal biventricular systolic function. Limited 
+study.  
+
+Labs at discharge:
+
+___ 07:40AM BLOOD WBC-7.3 RBC-3.11* Hgb-10.2* Hct-30.4* 
+MCV-98 MCH-32.8* MCHC-33.6 RDW-13.6 Plt ___
+___ 07:40AM BLOOD Ret Aut-1.7
+___ 07:40AM BLOOD Glucose-104* UreaN-18 Creat-0.7 Na-139 
+K-3.9 Cl-106 HCO3-28 AnGap-9
+___ 07:40AM BLOOD CK(CPK)-1369*
+___ 08:15AM BLOOD CK-MB-22* MB Indx-0.2 cTropnT-<0.01 
+proBNP-1185*
+___ 07:40AM BLOOD Calcium-8.1* Phos-2.9
+___ 07:25AM BLOOD calTIBC-160* VitB12-710 Folate-9.4 
+___ Ferritn-413* TRF-123*
+___ 04:43PM BLOOD Glucose-108* Lactate-1.___ yo M with dementia, h/o falls s/p subdural 
+hematoma/verterbral fx found in his room under bed by elder 
+protective services with evidence of rhabdomyolysis.
+
+#Rhabdomyolysis:
+-with aggressive diuresis, CPK improved from 13,000 on admission 
+to 1,300 at discharge. 
+-renal function remained normal
+
+#Cardiac
+-LVEF normal (obtained given age, need for aggressive diuresis, 
+and elevated BNP)
+
+#Dementia 
+- likely Parkinsons plus syndrome likely either progressive 
+supranuclear palsey vs vascular parkinsonism
+- metabolic encephalopathy/delirium in addition due to acute 
+illness improved 
+-Geriatrics consulted and followed the patient - reccommended 
+that given his Parkinsons plus syndrome, if he should need 
+antipsychotic medications to manage agitation he should receive 
+seroquel or risperidone and not haloperidol 
+-social work involved and has been in contact with elder 
+services regarding his failure to thrive at home
+-His PCP's notes here suggest that functional status at home 
+declining, multiple falls. Missed last appointment with his PCP 
+in ___ daughter is his legal guardian,a nd also his caretaker at 
+home
+-heat CT negative for acute changes
+.
+#Leukocytosis
+   -No evidence of ioinfection - neg UA, CXR without infiltrate
+   -Normalized without antibiotics
+   -afebrile currently
+
+#Chronic Anemia
+  -HCT dropped with IV hidration - not unexpected. Returned 
+toward baseline once IVF discontinued
+
+#Swallowing
+-was seen by Speech Pathology. They did not feel that he is at 
+increased risk for aspiration but that he needs assistance with 
+feeding.
+SPEECH THERAPYT RECOMMENDATIONS:
+1. PO diet of thin liquids and regular consistency solids
+2. Meds whole with water as tolerated
+3. 1:1 supervision for meals to assist with feeding
+4. TID oral care
+5. If there are further concerns for aspiration, please 
+reconsult
+for a video swallow
+
+Disposition: LTACH
+
+Time spent on discharge-related activities = 40 minutes
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) ml 
+Injection TID (3 times a day).  
+2. cyanocobalamin (vitamin B-12) 250 mcg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+4. ferrous sulfate 300 mg (60 mg iron)/5 mL Liquid Sig: Five (5) 
+ml PO DAILY (Daily).  
+5. therapeutic multivitamin     Liquid Sig: Five (5) ML PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Rhabdomyolysis
+Metabolic encephalopathy
+Parkinsonian plus syndrome with dementia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted after being found on the floor, unable to get 
+up. You had developed a condition called rhabdomyolysis which 
+improved with intravenous fluids. It was felt by the medical 
+team that you need further medical treatments, medication 
+adjustments, close monitoring by a physician (daily), and 
+intensive physical and occupational therapy. Psychiatry and 
+Neurology evaluations reccommended.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12999430-DS-12 | hadm_id=28905491
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Briefly, this is a ___ with h/o dementia x at least ___ year, 
+expressive aphasia, recent subdural hematoma, paroxysmal AV 
+block, and anemia who presents after a 15-ft fall from the ___ 
+floor of his home. The patient is being transferred from the 
+ortho service because of ongoing placement issues. Upon 
+admission to the ED, a trauma work-up was performed, which 
+revealed new minimally-moderately displaced spinous process 
+fractures of T5-T10 as well as a minimally displaced transverse 
+fracture of T12. The spine team recommended a TLSO brace and no 
+surgery. The ortho team also reports that the patient has had 
+delirium with worsened mental status over the past 2 days and 
+ongoing agitation requiring Haldol and restraints. 
+.  
+On transfer, VS are 97.7  144/58   79  18  99% on RA. The 
+patient is very hard-of-hearing and it is difficult for him to 
+answer questions. He is oriented only to person, thinks he is at 
+the ___. He cannot answer questions 
+about why he was admitted. He denies pain currently.    
+.  
+Review of sytems: Unable to obtain from patient; no fevers since 
+admission 
+ 
+Past Medical History:
+Dementia - ongoing work-up, thought to possibly be ___ 
+___ plus syndrome such as progressive supranuclear palsy
+Subdural hematoma - on MRI ___
+Gout
+MVA - ___lock - no pacemaker given dementia
+Anemia
+Cholelithiasis
+Bilateral fat-containing hernia
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+On transfer to medicine service: 
+.
+VS: 97.7  144/58   79  18  99% on RA  
+GENERAL:  Elderly gentleman sitting in the hallway eating lunch 
+with food spilled on gown; very hard-of-hearing; oriented only 
+to name. Frequently tries to get up despite re-direction.  
+HEENT: Sclera anicteric. Poor dentition. Pupils are small, 
+minimally reactive in hallway, EOMI - but does not track 
+smoothly. MMM. Conjunctiva were pink, no pallor or cyanosis of 
+the oral mucosa.  
+NECK: Supple, JVP not elevated, no bruits  
+CARDIAC: Irregular (?frequent premature beats), prominent S1, 
+quiet S2. No m/r/g. 
+LUNGS: Transmitted upper airway noises. Resp were unlabored, no 
+accessory muscle use. CTAB, no crackles, wheezes or rhonchi. 
+BACK: TLSO brace in place, grimaces with palpation of thoracic 
+spine
+-abrasion on R upper back 
+ABDOMEN: Brace in place. Normoactive bs. Soft, NTND. No HSM or 
+tenderness. 
+EXTREMITIES: No edema. 
+NEURO: oriented x 1; alert; no obvious CN deficits though pt 
+does not follow most commands, EOMI; full strength in bil ___, 
+gait deferred  
+ 
+Pertinent Results:
+Labs/Studies: 
+.
+___ 06:00AM BLOOD WBC-6.5 RBC-2.68* Hgb-8.7* Hct-26.5* 
+MCV-99* MCH-32.3* MCHC-32.6 RDW-13.6 Plt ___
+___ 12:00PM BLOOD ___ PTT-25.5 ___
+___ 06:00AM BLOOD Ret Aut-1.6
+___ 06:00AM BLOOD Glucose-103* UreaN-26* Creat-0.9 Na-141 
+K-4.2 Cl-107 HCO3-24 AnGap-14
+___ 06:00AM BLOOD ALT-20 AST-30 LD(LDH)-301* AlkPhos-71 
+TotBili-0.5 DirBili-0.2 IndBili-0.3
+___ 12:00PM BLOOD Lipase-23
+___ 06:00AM BLOOD Albumin-3.4* Calcium-8.9 Phos-3.7 Mg-2.0
+___ 06:00AM BLOOD Hapto-34
+___ 12:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+Urine culture: negative
+Blood culture x 2: negative
+C.diff x 2: negative
+. 
+___ TSH WNL
+___ B12 243/folate 8.8
+___ Ferritin ___ Lactate 5.4
+.
+___ CXR old 12th rib fx  
+___ CT C-spine no fx  
+___ CT abd/pelvis no acute process  
+___ CT chest minimally-mildly displaced T5-T10 spinous 
+process fx, mildly displaced T12 R transverse fx 
+ 
+Brief Hospital Course:
+___ with h/o dementia x at least ___ year, expressive aphasia, 
+recent subdural hematoma, paroxysmal AV block, and anemia who 
+presents after a 15-ft fall from the ___ floor of his home 
+. 
+# Fall: The patient underwent trauma evaluation in the ED. Spine 
+imaging showed minimally displaced spinous process fractures 
+from T5-T10 as well as a new T12 transverse process fracture. He 
+was initially on the orthopedic surgery service. They 
+recommended against surgery and placed a TLSO brace for comfort 
+to be worn for ___ weeks. He was discharged with ortho follow-up 
+and with home physical therapy as well as a home safety 
+evaluation. His daughter is in the process of obtaining 
+guardianship. Elderly home services was also involved with the 
+case. The patient received standing Tylenol for pain and was 
+discharged on VitD and calcium supplementation as well as plans 
+for standing Tylenol. 
+.  
+# AMS - Head CT was negative. The patient was transferred to the 
+medicine service 2 days prior to discharge because of delirium. 
+The patient's daughter was involved with the patient's care and 
+reported that the patient was at his baseline mental status but 
+that he was more agitated than usual. The patient's pain was 
+treated, restraints were discontinued, he was given headphones 
+to help with the hospital noise and antipsychotic/sedating 
+medications were minimized once transferred to the medicine 
+service. Recent TSH was normal, B12 low normal, and RPR 
+negative. ___ MRI showed small subdural hematoma, which was 
+not visualized on Head CT. Per recent neuro visit, the patient 
+may have ___ plus syndrome such as supranuclear palsy. 
+.  
+#Anemia - The patient's Hct was stable during admission: ranged 
+from ___ with an MCV of 99. Recent iron studies indicated 
+anemia of chronic inflammation. B12 was low normal and 
+supplementation was continued. Recent folate was normal. 
+.
+#H/o AV block: EKG showed SR at 61 w/ frequent PACs, RBBB. 
+Further work-up of this arrhythmia had been performed in the 
+past, however, the patient and family declined pacemaker 
+placement at that time. 
+.
+#Diarrhea: C.diff negative x 2. Resolved prior to the day of 
+discharge.  
+.
+#The patient received SC heparin for DVT prophylaxis. He 
+remained full code during this admission. Communication was with 
+the patient's daughter, ___ cell ___, h: 
+___. 
+ 
+Medications on Admission:
+Miralax
+Colace
+Senna
+VitB12 1000 mcg qday
+ 
+Discharge Medications:
+1. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours).  
+3. Calcium 500 With D 500 mg(1,250mg) -400 unit Tablet Sig: One 
+(1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+Fall w/ T5-T10 spinous process fractures and T12 transverse 
+process fx
+Dementia
+. 
+Secondary: 
+Gout
+Paroxysmal AV Block
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always, oriented only to person at 
+baseline. 
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid 
+(___). 
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+You were admitted for a fall. Imaging studies showed that you 
+had fractured several bones in your spine. They recommend that 
+you remain in the back brace for comfort for at least ___ weeks 
+or until your follow-up appointment. They recommended against 
+surgery. In addition, you have a low red blood cell count - 
+anemia - you should follow-up with your primary care doctor 
+about this issue. While you were in the hospital, your blood 
+counts were low, but stable. 
+. 
+We made the following changes to your medications:
+We STARTED Tylenol ___ mg to be taken every 6 hours until your 
+pain is relieved and your fractures are healed
+We STARTED Calcium w/ Vitamin D to be taken twice per day 
+. 
+Your follow-up appointments are listed below. 
+ 
+Followup Instructions:
+___

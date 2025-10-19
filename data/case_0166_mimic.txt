@@ -1,0 +1,175 @@
+===== DISCHARGE NOTE =====
+note_id=15117554-DS-9 | hadm_id=28020871
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: ___ year-old W with PMH of breast Ca s/p lumpectomy/CTX 
+currently receiving XRT since ___ and asthma who presents with 
+chest pain. She reports sudden onset of non-radiating ___ 
+substernal chest pain yesterday beginning at 11 a.m. Pain is 
+worse with movement and coughing. It was associated with SOB. 
+She has had breast soreness since beginning radiation several 
+weeks ago, which is different from the chest pain. She has been 
+getting daily radiation treatments. This is also unlike her 
+asthma symptoms. Pt denies fever or chills. No cough. Her 
+daughter-in-law has had bronchitis.  
+.  
+In the ED CTA showed no PE. CXR showed atelectasis vs infiltrate 
+and she was given levofloxacin 750 mg. EKG showed no ischemic 
+changes. She was given ASA 325 mg, Morphine 4 mg IV x 2, and 
+tylenol 1 gram. Bedside US showed no pericardial effusion. She 
+spiked a temperature to 102 with HR 114 and decrease in SpO2 to 
+95% on 3L NC; blood cultures were subsequently sent.  
+.  
+This AM, patient still complaining of CP with movement, improved 
+with pain medications.  
+.  
+ROS: Denied rhinorrhea or congestion. No orthopnea, ___ edema. 
+Denied nausea, vomiting, diarrhea, constipation or abdominal 
+pain. No dysuria. Has had headaches for several months, 
+underwent MRI on ___ without masses. + breast soreness as above 
+
+
+ 
+Past Medical History:
+PMH: PCP: ___  
+1) breast cancer - Stage I (T1N0) grade III, ER/PR positive, 
+HER-2/neu negative, s/p L lumpectomy in ___. Initiated 
+Cytoxan/Taxotere chemotherapy ___. Started radiation on 
+___.  
+2) hypothyroidism  
+3) asthma - cold or URI-induced  
+
+ 
+Social History:
+___
+Family History:
+Mother was diagnosed with "breast cancer" at the age of ___, also 
+ 
+has maternal cousin with breast cancer. No premature CAD.  
+
+ 
+Physical Exam:
+Vitals: T: 99.2/99.7 90/52 HR 90-116 20 100% RA  
+General: Awake, alert W with alopecia in NAD, lying flat. 
+Conversant, speaking in complete sentences.  
+HEENT: EOMI. MMM, OP without lesions  
+Neck: supple, no cervical LAD.  
+Pulm: CTABL without wheezes  
+Cardiac: tachy, regular, nl S1/S2  
+Chest: tender to palpation over L breast. no tenderness to 
+palpation over sternum or chest wall. well-healed surgical scars 
+to lateral L breast and axilla.  
+Abdomen: obese, soft, NT/ND, + BS.  
+Ext: No edema b/t.  
+Neurologic:  
+-mental status: Alert & Oriented x 3. Able to relate history 
+without difficulty.  
+
+ 
+Brief Hospital Course:
+Assessment and Plan: ___ year-old F with breast Ca s/p 
+lumpectomy/CTX receiving XRT and asthma who presents with chest 
+pain. Differential includes ACS, pericarditis, radiation 
+costochondritis or soft tissue inflammation, PNA, asthma flare. 
+Now with three sets of cardiac enzymes negative. Had fever in ED 
+with neutrophilic predominance of white count.  
+.  
+* Chest pain: Ruled out for ACS given lack of ECG changes and 
+negative enzymes. Pain exacerbated by movement but not relieved 
+with rest. Fever and tachycardia raise suspicion of infectious 
+process. WBC count normal to low. CTA negative for PE Completed 
+ECHO to r/o pericardial effusion/pericarditis. Pain improved on 
+day 2 of admission. Treated with NSAIDs, tylenol, oxycodone prn. 
+Also provided incentive spirometry and neb treatments which 
+patient reported helped the pain. Therefore discharged with 
+inhaler.
+.  
+* Fever: with 95% neutrophils on white count, most likely 
+infectious. UA negative. CXR and CT Chest with possible left 
+infiltrate. Treated with course of levaquin. 
+ 
+.  
+* Breast Ca: Dr. ___ aware patient in house. Patient 
+completed 1 day of radiation while admitted.  
+.  
+* hypothyrodisim: continued levothyroxine  
+.  
+* anemia: Hct at baseline  
+. 
+*Code Status: Full  
+
+ 
+Medications on Admission:
+Calcium  
+clonazepam 0.5 mg BID prn  
+levothyroxine 88 mcg QDay  
+tylenol prn  
+ventolin prn 
+
+ 
+Discharge Medications:
+1. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+2. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed.  
+3. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Naproxen 250 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours).  
+5. Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily) for 4 doses.
+Disp:*12 Tablet(s)* Refills:*0*
+6. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation three times a day as needed.
+Disp:*1 inhaler* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Community acquired pneumonia
+Secondary: Breast cancer s/p radiation
+
+ 
+Discharge Condition:
+Good, chest pain free, vital signs stable.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with chest pain. This was 
+unlikely to be due to your heart as lab tests and 
+Electrocradiogram were normal. You were treated for an infection 
+with antibiotics. You should complete your prescription. You 
+will also be sent home with an inhaler to be used as needed. 
+This may be due to radiation and you should discuss this with 
+your oncologist.
+.
+Please contact your doctor or return to the emergency room if 
+you develop worrisome symptoms such as worsening chest pain, 
+shortness of breath, numbness or tingling in your arm or jaw.
+.
+ 
+Followup Instructions:
+___

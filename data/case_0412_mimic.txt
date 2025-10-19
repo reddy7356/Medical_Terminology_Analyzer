@@ -1,0 +1,304 @@
+===== DISCHARGE NOTE =====
+note_id=13782556-DS-5 | hadm_id=25017081
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex Gloves / Aspirin / Colchicine / Antihistamine / Quinolones 
+/ Vasodilators,Misc. Classifier / Loratadine / Theophylline / 
+Opioids: Morphine & Related / Cortisone / Azithromycin / Nsaids 
+/ Demerol / Sulfa (Sulfonamide Antibiotics) / Barbiturates / 
+Celexa / Penicillins / Tetracycline / IV Dye, Iodine Containing
+ 
+Attending: ___
+ 
+Chief Complaint:
+tranfer from OSH for diarrhea 
+ 
+Major Surgical or Invasive Procedure:
+R PICC placement
+LIJ placement
+ 
+History of Present Illness:
+From family and OSH notes (no DC summary provided)  
+___ F with CAD, CHF, CVA, ILD, COPD and multiple abdominal 
+surgeries tranfer from OSH for ___ opinion of diarrhea. She had 
+diverticulitis with colovesicular fistula in ___ that required 
+partial colonic resection and an ileostomy. In ___, she had 
+the ileostomy reversed and since then, she has had worsening of 
+her diarrhea. In fact, since ___, she has been admitted to OSH 5 
+times for long hospital stays with extensive work up that has 
+been negative so far. Most recently, she was admitted to OSH 
+___ where workup again has been negative. She has been getting 
+IVF; lasix held. The family requested a transfer to ___ this 
+morning for a ___ opinion at a tertriary care center. Of note 
+this morning, she had flash pulm edema and was given 40mg IV 
+lasix with ___ urine output.  
+.  
+She was transferred to ___ on supplemental oxygen. On arrival 
+to the floor, she required 6LNC and was saturating 88%. ABG 
+showed paO2 of 54. CXR was consistent with significant pulm 
+edema. 40 mg IV lasix was given with 200cc UOP. Her saturation 
+improved on hi flow ___ mask saturating 95%. Of note, her 
+central line is not at the proper place in the Xray. Because of 
+her hypoxia from CHF and likely PNA (leukocytosis, low grade 
+fever, sputum, cough), she was transferred to the MICU for 
+further care.  
+.  
+At the OSH, she was started on sucrulfate for gastritis, reglan 
+for mild gastroparesis and nortyptilline. She was also kept on 
+immodium standing at 4mg BID and psyllium. Her surgeons felt 
+that she had a "short colon". She underwent colonscopy and EGD 
+w/o diagnosis.  
+
+ 
+Past Medical History:
+Diverticulitis with colovesicular fistula with ?perf s/p 
+colectomy and ileostomy, then reversed in ___  
+Gout  
+Hypothyroid  
+Asthma  
+Restritive lung disease  
+CVA ___ (weak hand grip/hand numbness)  
+CAD (?h/o MI ___  
+pAfib  
+HL  
+Htn  
+CHF  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VITALS: HR 89 BP 127/51 SAO2 96% Fio2 100% 
+GEN: in distress, Aox3 but drowsy
+HEENT: JVD to 10cm, no LAD
+RESP: tachpnea, supraclavicular retractions, difficulty 
+speaking, abdominal breathing, diffuse crackles, no wheezes
+___: RRR, no MRG
+ABD: soft, NT/ND, NABS
+EXT: no edema
+ 
+Pertinent Results:
+___ 08:55PM BLOOD WBC-17.8* RBC-3.87* Hgb-11.8* Hct-34.3* 
+MCV-89 MCH-30.4 MCHC-34.3 RDW-14.4 Plt ___
+___ 08:55PM BLOOD Neuts-78.1* Lymphs-12.6* Monos-5.8 
+Eos-3.3 Baso-0.3
+___ 08:55PM BLOOD ___ PTT-35.6* ___
+___ 08:55PM BLOOD Glucose-91 UreaN-5* Creat-0.7 Na-138 
+K-3.1* Cl-98 HCO3-30 AnGap-13
+___ 08:55PM BLOOD ALT-11 AST-21 LD(LDH)-297* CK(CPK)-49 
+AlkPhos-85 TotBili-1.1
+___ 08:55PM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-1318*
+___ 03:40AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 04:18AM BLOOD proBNP-2438*
+___ 04:25AM BLOOD proBNP-4597*
+___ 08:55PM BLOOD Albumin-3.0* Calcium-7.6* Phos-3.2 
+Mg-1.0* Iron-17*
+___ 08:55PM BLOOD calTIBC-207* Ferritn-136 TRF-159*
+___ 03:22AM BLOOD VitB12-203* Folate-8.7
+___ 03:22AM BLOOD TSH-18*
+___ 03:23AM BLOOD IgA-281
+___ 06:41AM BLOOD Vanco-17.6
+___ 04:27AM BLOOD Vanco-19.2
+___ 03:23AM BLOOD tTG-IgA-5
+___ 08:41PM BLOOD Type-ART pO2-54* pCO2-42 pH-7.49* 
+calTCO2-33* Base XS-7
+___ 12:00PM BLOOD Type-MIX pO2-96 pCO2-64* pH-7.26* 
+calTCO2-30 Base XS-0
+.
+
+___ 04:16AM BLOOD WBC-18.6* RBC-3.45* Hgb-10.2* Hct-31.4* 
+MCV-91 MCH-29.5 MCHC-32.3 RDW-14.6 Plt ___
+___ 03:59AM BLOOD Neuts-79.6* Lymphs-13.2* Monos-3.3 
+Eos-3.5 Baso-0.3
+___ 05:41AM BLOOD ___ PTT-34.3 ___
+___ 04:16AM BLOOD Glucose-149* UreaN-15 Creat-0.5 Na-135 
+K-4.4 Cl-100 HCO3-26 AnGap-13
+___ 06:10AM BLOOD ALT-17 AST-18 AlkPhos-105 TotBili-0.3
+___ 04:16AM BLOOD Calcium-8.6 Phos-3.6 Mg-2.2
+.
+___ ECHO
+The left atrium and right atrium are normal in cavity size. No 
+left atrial mass/thrombus seen (best excluded by transesophageal 
+echocardiography). Left ventricular wall thicknesses and cavity 
+size are normal. Regional left ventricular wall motion is 
+normal. Overall left ventricular systolic function is low normal 
+(LVEF 50%). The estimated cardiac index is normal 
+(>=2.5L/min/m2). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets are mildly 
+thickened (?#). There is no aortic valve stenosis. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Trivial mitral regurgitation is seen. There is 
+borderline pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+
+IMPRESSION: Normal biventricular cavity sizes with preserved 
+global and regional biventricular systolic function. Aortic 
+valve sclerosis. 
+.
+___ CT ab/pelvis
+ 
+IMPRESSION: 
+1. Diffusely well-defined ground-glass opacity in the lungs with 
+some of 
+interspersed normal lung likely represent infection or ARDS. 
+2. Areas of edema, one in the right upper quadrant inferior to 
+the liver tip 
+and the surgical anastomosis may represent focal fat necrosis. 
+3. Additional edema in the pelvis superior to the Foley catheter 
+may 
+represent fat necrosis or focal omental infarct. 
+4. Unusual course of small bowel in posterior to the descending 
+colon may be 
+secondary to prior surgery or due to a internal hernia through 
+congenital 
+defect in sigmoid mesocolon (intersigmoid hernia). This does not 
+appear to be 
+at risk for incarceration given the long length under which the 
+small bowel 
+loops run posterior to the descending colon. 
+5. Multiple calcified mediastinal and hilar nodes likely 
+represents sarcoid 
+or less likely old granulomatous disease.  
+.
+___ Wrist XR
+IMPRESSION: Probable "post-traumatic cyst-like defect" in the 
+scaphoid waist, 
+suggesting underlying fracture. This should be correlated 
+clinically and, if 
+warranted for further management, might be further characterized 
+by targeted 
+MDCT (with reformations). 
+.
+___ CXR
+The left internal jugular line tip is at the superior SVC. 
+Cardiomediastinal 
+silhouette is unchanged. There is slight interval additional 
+improvement in 
+the parenchymal opacities that might represent a process of 
+fluctuation of 
+superimposed pulmonary edema giving the more involvement of the 
+lung 
+parenchyma than on for example ___ or ___, 
+although note is 
+made that the improvement of the lung parenchyma may lag after 
+clinical 
+improvement. There is slightly more lucent area in the right 
+suprahilar area 
+that may represent either parenchyma or a pneumatocele that 
+might be further 
+observed on the subsequent studies. 
+
+ 
+Brief Hospital Course:
+___ F with CAD, CHF, CVA, ILD, COPD and multiple abdominal 
+surgeries transfer from OSH for ___ opinion of diarrhea who was 
+admitted to MICU for hypoxia, now s/p intubation and extubation. 
+ Patient’s respiratory distress continued to decline since 
+extubation and she was made comfort measures only and was made 
+comfortable on morphine drip. Antibiotics and steroids were 
+discontinued.  She passed away one day later.
+Additional problem-based hosptial course:
+1. Respiratory distress  
+Etiology is unclear. Initial event was likely related to 
+pneumonia and ARDS. She had improved but then on ___ 
+developed a new WBC. Her underlying lung disease diagnosis is 
+unclear, although she likely has sarcoidosis.  She was continued 
+on cefepime (day ___ and vanco (day ___ therapeutic) 
+until she was made CMO>
+.
+2. Afib: She alternated between afib w/ rvr and sinus rhythm.  
+When in afib, was unable to rate control even w/ dilt and 
+metoprolol.  Amio loaded toward the end of her hospital course 
+as further rate control was precluded by hypotension.
+.
+3. Diarrhea:  No clear etiology defined at her passing.  Stool 
+volume much improved on Vivonex but albumin did not improve.  
+She was started on TPN several days prior to her death.  Has had 
+extensive w/u without diagnosis. Leading diagnosis is short gut 
+("short colon") although short colon does not typically cause 
+diarrhea. Infections have been repeated r/o. Microscopic colitis 
+is under consideration and biopsies are pending at OSH. Gastrin 
+elevated, 5HIAA minimally elevated from OSH; VIP from OSH 
+pending. Pancreatic insufficiency should also be considered.  
+Stool Osm gap 66, more suggestive of a secretory diarrhea. TTG 
+within normal limits; c.diff negative x2.
+.
+4. Wrist pain.  XR c/w fracture but unclear timing.  
+Conservative management given poor prognosis.
+.
+5. Anemia: Unclear etiology but likely multifactorial.  No 
+transfusions during her hospital course.
+.
+6. Gastritis/ GERD: Continued PPI IV 
+
+7. CAD: Not on ASA for unclear reason. Continued plavix per 
+outpatient regimen.
+- held simvastatin when extubated and not tolerating pos.
+.
+8. Hypothyroidism: TSH was 3.71 at OSH and Levothyroxine dose 
+appears to have been decreased from 200mg to 100mg daily.  
+Continued levothyroxine.
+.
+9.Hypotension: Brief episode when on precedex prior to 
+extubation.  Now resolved. 
+ 
+Medications on Admission:
+MEDS at home:  
+Plavix 75  
+Cardizem 240  
+Advair  
+Syntrhoid ___  
+Imodium  
+Singulair 10  
+Zocor 20  
+Spiriva  
+Trazadone 50 OQHS PRN  
+Lasix 40  
+.  
+MEDS AT OSH:  
+Metamucil  
+Advair  
+Spiriva  
+Amlodipine 5  
+Plavix 75  
+Levothyoxine 100  
+singulair 10  
+simvastatin 20  
+dilt 240 bid  
+omeprazole 20 bid  
+heparin 5000 bid  
+lactobacillus 1 bid  
+reglan 10 qAC  
+sulcrafate 2 gram QHS  
+notryptyline 25 qPM  
+Imodium tid  
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+n/a
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+___

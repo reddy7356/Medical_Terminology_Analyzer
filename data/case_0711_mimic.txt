@@ -1,0 +1,310 @@
+===== DISCHARGE NOTE =====
+note_id=15636250-DS-16 | hadm_id=21948565
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Jaundice
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ Ms. ___ is a ___ with GERD, COPD, HTN, HLD, and Lyme disease 
+who presents with jaundice and pruritus.  
+ Her symptoms all began the first week of ___. She 
+initially had severe pruritus, eventually was told by co-workers 
+that she 'looked yellow.' Her PCP, after checking labs and 
+finding Tbili 12, sent her to ___. She was 
+hospitalized ___, and reportedly had normal CT/MRCP. She 
+was told that she had acute hepatitis due to drug toxicity 
+(?Augmentin she had taken ___ in setting of 
+laryngoscopy/polypectomy).  
+
+ Patient had repeat labs after discharge from ___, and was 
+found to have worsening Tbili (23). Her PCP started ___ 
+20mg qd last week due to 1:40 SMA. There has been no improvement 
+in her symptoms, though Tbili has downtrended to 16. 
+Transaminases have been slightly elevated (AST 51, ALT 69, 
+AlkPhos 348). Patient has not yet followed up with GI at ___ 
+___, and she was supposed to have liver biopsy at ___. 
+___ on ___. Patient presents to ___ for a second 
+opinion.  
+
+ 
+Past Medical History:
+ - Dysplastic vocal cord polyp resected ___
+ - Tobacco use (~45 pack-years)
+ - Alcohol use (~5 drinks nightly)
+ - ?COPD  
+ - GERD  
+ - CCY  
+ - Lyme Disease  
+ - D&C in setting of AUB  
+ - HLD  
+ - HTN  
+
+ 
+Social History:
+___
+Family History:
+ Father stroke passed at ___, Mother thyroid cancer/T2DM now ___, 
+Brother esophageal cancer passed at 56  
+
+ 
+Physical Exam:
+ADMISSION EXAM
+==================
+ Vital Signs: 97.9 74 137/63 16 98% RA  
+ General: Alert, irritable, no acute distress. Appears older 
+than stated age.  
+ HEENT: +Scleral icterus. MMM, oropharynx clear, EOMI, PERRL.  
+ Neck: Supple. JVP not elevated. no LAD  
+ CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft. Currently non-tender, non-distended, bowel 
+sounds present, no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII grossly intact, ___ strength upper/lower 
+extremities. No asterixis.  
+ Skin: Diffuse excoriations across all skin surfaces. Jaundiced. 
+Telangiectasias across upper back.  
+ Psych: Labile affect; she is alternatively tearful, angry, and 
+affable over a short period of time. Linear thought process.  
+
+DISCHARGE EXAM
+===================
+Vital Signs: 98.8, 123/71, 62, 16 98 RA 
+General: Alert, jaundiced, NAD. Appears older than stated age.  
+HEENT: +icterus. MMM.
+CV: RRR, no m/r/g.
+Lungs: Non-labored. CTAB. 
+Abdomen: Soft, distended, non-tender.
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: A&O.
+Skin: Diffuse excoriations across all skin surfaces. Jaundiced. 
+No spider angiomata or palmar erythema.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===================
+___ 07:08PM BLOOD WBC-10.6* RBC-2.32* Hgb-7.6* Hct-21.9* 
+MCV-94 MCH-32.8* MCHC-34.7 RDW-21.2* RDWSD-73.1* Plt ___
+___ 07:08PM BLOOD Neuts-85.4* Lymphs-8.1* Monos-5.3 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-9.01* AbsLymp-0.86* 
+AbsMono-0.56 AbsEos-0.01* AbsBaso-0.01
+___ 07:08PM BLOOD ___ PTT-27.4 ___
+___ 02:40PM BLOOD Glucose-201* UreaN-30* Creat-1.2* Na-140 
+K-4.5 Cl-106 HCO3-19* AnGap-20
+___ 02:40PM BLOOD ALT-73* AST-57* AlkPhos-341* 
+TotBili-10.9* DirBili-7.7* IndBili-3.2
+___ 04:50AM BLOOD Albumin-3.0* Calcium-9.0 Phos-3.5 Mg-1.7 
+Iron-130
+
+___ 12:21PM URINE Color-Amber Appear-Hazy Sp ___
+___ 12:21PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-MOD Urobiln-2* pH-6.0 Leuks-NEG
+___ 12:21PM URINE RBC-<1 WBC-2 Bacteri-FEW Yeast-NONE 
+Epi-<1 TransE-<1
+___ 12:21PM URINE CastHy-5*
+
+CHOLESTASIS WORKUP
+=================
+___ 06:40AM BLOOD HBsAg-Negative HBsAb-Negative 
+HBcAb-Negative HAV Ab-Negative IgM HAV-Negative
+___ 06:40AM BLOOD HCV Ab-Negative
+___ 06:40AM BLOOD AMA-NEGATIVE
+___ 04:50AM BLOOD Smooth-NEGATIVE
+___ 06:40AM BLOOD CEA-8.3* AFP-2.3
+___ 04:50AM BLOOD IgG-483* IgA-146 IgM-111
+___ 04:50AM BLOOD IGG SUBCLASSES 1,2,3,4-Test   
+___ 06:40AM BLOOD TSH-3.2
+___ 06:40AM BLOOD Free T4-1.2
+___ 12:21PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+   
+ANEMIA WORKUP
+=================
+___ 06:40AM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ 
+Macrocy-1+ Microcy-NORMAL Polychr-1+ Ovalocy-1+ 
+Target-OCCASIONAL
+___ 04:50AM BLOOD Ret Aut-5.4* Abs Ret-0.12*
+___ 06:40AM BLOOD VitB12-874 Folate-16 Hapto-81
+___ 04:50AM BLOOD calTIBC-254* Ferritn-461* TRF-195*
+
+DISCHARGE LABS
+=================
+___ 05:00AM BLOOD WBC-8.8 RBC-2.29* Hgb-7.5* Hct-23.3* 
+MCV-102* MCH-32.8* MCHC-32.2 RDW-18.4* RDWSD-67.8* Plt ___
+___ 05:00AM BLOOD Glucose-109* UreaN-22* Creat-1.3* Na-141 
+K-4.5 Cl-106 HCO3-23 AnGap-17
+___ 05:00AM BLOOD ALT-76* AST-46* AlkPhos-242* TotBili-7.2*
+___ 05:00AM BLOOD Calcium-8.7 Phos-3.5 Mg-1.7
+
+MICROBIOLOGY
+=================
+See above for viral serologies
+No cultures drawn
+
+IMAGING & STUDIES
+=================
+___ OPINION MR TORSO
+IMPRESSION:  
+1.  Status post cholecystectomy.  No intrahepatic or 
+extrahepatic biliary duct dilatation. 
+2.  3 cm left adrenal adenoma.
+
+ 
+Brief Hospital Course:
+Patient is a ___ female with a past medical history of 
+COPD and recent elevation in her LFTs, particularly her total 
+bilirubin, who presents for evaluation of painless jaundice and 
+pruritus.
+
+The patient was recently evaluated at ___. Records 
+from that admission were reviewed and were significant for 
+downtrending transaminitis and normal MRCP. There was concern 
+that her transaminitis was from a drug-induced liver injury 
+possibly in the setting of taking Augmentin, Tylenol, NSAIDs, 
+and/or alcohol use. Given her continued improvement this seems 
+like a reasonable diagnosis and further workup was deferred. She 
+was started on ursodiol and cholestyramine for pruritus. 
+Prednisone was stopped as we feel it is less likely that this 
+represents an autoimmune hepatitis.
+
+Had incidental findings on OSH imaging to be followed up by PCP.
+
+Transitional issues:
+[] Patient should have LFTs checked before ___ to 
+ensure that they continue to improve.
+[] Recommend listing Augmentin as a possible allergy since most 
+plausible culprit for her liver injury.
+[] Patient should have full workup of anemia (would resend iron 
+studies once liver inflammation has resolved) including 
+colonoscopy if not up to date.
+[] Needs HBV and HAV vaccines
+[] Has dysplastic vocal cord polyp that should be followed up as 
+an outpatient as well as incidental lung nodules and adrenal 
+mass
+[] Consider PFTs and controller medication for COPD
+
+# CODE: Full (presumed)
+# CONTACT: Next of Kin: ___ Phone: ___  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 50 mg PO DAILY 
+2. Nicotine Patch 21 mg TD DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Potassium Chloride 20 mEq PO DAILY 
+5. PredniSONE 20 mg PO DAILY 
+6. Thiamine 100 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+9. HydrOXYzine 50 mg PO Q6H 
+10. MetFORMIN (Glucophage) 500 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Cholestyramine 4 gm PO BID 
+RX *cholestyramine (with sugar) 4 gram 1 powder(s) by mouth 
+Twice a day Refills:*1 
+2.  Sarna Lotion 1 Appl TP QID pruritis 
+RX *camphor-menthol [Sarna Anti-Itch] 0.5 %-0.5 % Apply to skin 
+Up to 4 times a day Refills:*10 
+3.  Ursodiol 300 mg PO TID 
+RX *ursodiol 300 mg 1 capsule(s) by mouth Three times a day Disp 
+#*90 Capsule Refills:*1 
+4.  budesonide-formoterol 160-4.5 mcg/actuation inhalation BID  
+5.  HydrOXYzine 50 mg PO Q6H  
+6.  MetFORMIN (Glucophage) 500 mg PO BID  
+7.  Metoprolol Succinate XL 50 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Nicotine Patch 21 mg TD DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Potassium Chloride 20 mEq PO DAILY  
+12.  Thiamine 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+===================
+Drug-induced liver injury
+Elevated bilirubin with jaundice and pruritus
+
+SECONDARY:
+=================
+Anemia
+Chronic obstructive pulmonary disease
+Tobacco use disorder
+Gastroesophageal reflux disease
+Type 2 diabetes mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you had elevated liver 
+enzymes.  Specifically your bilirubin level was quite high.  We 
+monitor your liver tests and since they were improving without 
+any intervention. As a result, it was not necessary to do a 
+liver biopsy. 
+
+It seems most likely that you suffered some liver damage from a 
+combination of medications including antibiotics, Tylenol, 
+NSAIDs (such as ibuprofen), and alcohol use. We recommend that 
+you list Augmentin (Amoxicillin Trihydrate/Potassium 
+Clavulanate) as one of your possible medication allergies.
+
+You should be cautious about starting any new medications until 
+your liver tests have returned to normal.  You should also 
+abstain from alcohol.
+
+We stopped your prednisone because we think it is less likely 
+that you have autoimmune liver disease.  We started a medication 
+called ursodiol for your itching.
+
+On your outside imaging, you also had incidental findings that 
+will need to be followed up by your primary care physician such 
+as lung nodules, adrenal lesion and vocal cord polyp.
+
+You can follow-up with your primary care doctor and outpatient 
+gastroenterologists as previously scheduled.  If you wish to 
+schedule an appointment at the ___ hepatology office, you can 
+call ___.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ care team
+ 
+Followup Instructions:
+___

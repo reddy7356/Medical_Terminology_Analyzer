@@ -1,0 +1,286 @@
+===== DISCHARGE NOTE =====
+note_id=18159637-DS-9 | hadm_id=25595464
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain 
+mental status change
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ F with pmhx afib, CVA x 2, dementia, hypothyroidism who was 
+originally admitted ___ to the SICU after noting abdominal pain 
+x 4d and decreased responsiveness. In the SICU she was found to 
+have have thrombus in L atrium, left renal artery, and SMA. 
+Radiographic L renal infarction, but bowel "looked good, no sign 
+peritonitis."  
+.  
+She was managed conservatively given lactate was relatively low 
+and interpreted as no evidence of mesenteric ischemia, with NGT, 
+heparin gtt, and pain control. Decision was made by family and 
+pt not to pursue aggressive intervention.  
+.  
+Pt was started on anticoagulation and empiric antibiotics and 
+was going to be transferred to the medicine floor when she was 
+noted to be anuric and unresponsive to verbal stimuli. ___ 
+ABG=7.5/28/100. Per report, this family was called to discuss 
+goals of care. They essentially do not want anything aggressive 
+done including further scans and want her to be comfortable but 
+did not want to completely withdraw care at this time.  
+.  
+Pt transferred from MICU service to medical service for ongoing 
+management of SMA infarction, ___, mental status changes 
+felt likely ___ repeat CVA, and ?PNA (on levaquin/flagyl for 
+PNA, not for abdominal process per MICU team)  
+ 
+Past Medical History:
+1. CVA - x 2, most recently ___.  
+2. Atrial fibrillation, on coumadin.  
+3. Hyperlipidemia  
+4. Hypothyroidism  
+5. Dementia - per daughter at baseline pt is able to converse.  
+
+ 
+Social History:
+___
+Family History:
+No history of stroke, diabetes, coronary artery disease.
+ 
+Physical Exam:
+PE: General: unresponsive to sternal rub  
+VS: 99.3 HR 97(97-146) 132/91(108-181/70-106)  
+HEENT: NCAT, anicteric, no injections, MMM  
+Neck: no LAD or thyromegaly  
+Chest: tacchy, nl s1s2 no mgr  
+lungs: clear anteriorly  
+ABD: +bs, softly distended, no masses, nontender  
+Ext: no cce  
+Neuro: responsive to pain with withdrawl, cold  
+
+ 
+Pertinent Results:
+___ 08:16PM   TYPE-ART PO2-100 PCO2-28* PH-7.50* TOTAL 
+CO2-23 BASE XS-0
+___ 08:16PM   LACTATE-1.0
+___ 06:01PM   PTT-133.3*
+___ 09:03AM   ___ PO2-129* PCO2-34* PH-7.46* TOTAL 
+CO2-25 BASE XS-1 COMMENTS-GREEN TOP 
+___ 09:03AM   LACTATE-1.4
+___ 09:03AM   freeCa-1.07*
+___ 08:52AM   ___ PTT-150* ___
+___ 07:00AM   GLUCOSE-132* UREA N-17 CREAT-1.2* SODIUM-135 
+POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-21* ANION GAP-17
+___ 07:00AM   CALCIUM-8.6 PHOSPHATE-2.1* MAGNESIUM-2.1
+___ 07:00AM   WBC-22.6* RBC-4.31 HGB-11.0* HCT-34.1* 
+MCV-79* MCH-25.7* MCHC-32.4 RDW-14.6
+___ 07:00AM   NEUTS-84* BANDS-3 LYMPHS-10* MONOS-3 EOS-0 
+BASOS-0 ___ MYELOS-0
+___ 07:00AM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-1+ 
+TARGET-1+ BURR-OCCASIONAL ACANTHOCY-OCCASIONAL
+___ 07:00AM   PLT COUNT-345
+___ 10:19PM   ___ PTT-26.3 ___
+___ 08:14PM   LACTATE-3.8*
+___ 08:00PM   GLUCOSE-167* UREA N-22* CREAT-1.5* SODIUM-134 
+POTASSIUM-4.1 CHLORIDE-94* TOTAL CO2-24 ANION GAP-20
+___ 08:00PM   estGFR-Using this
+___ 08:00PM   ALT(SGPT)-46* AST(SGOT)-59* CK(CPK)-29 ALK 
+PHOS-177* AMYLASE-55 TOT BILI-0.7
+___ 08:00PM   LIPASE-16
+___ 08:00PM   CK-MB-NotDone cTropnT-<0.01
+___ 08:00PM   ALBUMIN-3.9 CALCIUM-10.4* PHOSPHATE-2.5* 
+MAGNESIUM-1.5*
+___ 08:00PM URINE  HOURS-RANDOM
+___ 08:00PM URINE  GR HOLD-HOLD
+___ 08:00PM   WBC-23.4*# RBC-5.15 HGB-13.4 HCT-40.7 MCV-79* 
+MCH-25.9* MCHC-32.8 RDW-14.7
+___ 08:00PM   NEUTS-78* BANDS-4 LYMPHS-10* MONOS-7 EOS-0 
+BASOS-0 ___ METAS-1* MYELOS-0
+___ 08:00PM URINE  ___ 08:00PM URINE  ___ BACTERIA-FEW YEAST-NONE 
+___ 08:00PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-500 
+GLUCOSE-TR KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 08:00PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+.
+.
+.
+STUDIES:
+* ___ CT abd/pelvis: Thrombus in the left atrium. Thrombosis of 
+the proximal superior mesenteric artery with distal 
+reconstitution probably through collateral flow. No evidence of 
+small or large bowel wall thickening or adjacent inflammatory 
+change to suggest ischemia. Thrombosis of the left renal artery 
+and associated infarction of the left kidney. Wedge compression 
+deformities of L1 and L3 are probably chronic.  
+* ___ CXR: NG tube in good position. Stable cardiomegaly, mild 
+left lower lobe atelectasis. No evidence of pneumonia or CHF.  
+* ___ Head CT: No acute intracranial hemorrhage or mass effect. 
+Overall similar appearance of the brain compared to ___ with 
+multiple areas of old infarction demonstrated. Please note that 
+MR with diffusion-weighted imaging is more sensitive for 
+evaluation of acute infarction if this is a significant clinical 
+concern. 
+
+ 
+Brief Hospital Course:
+a/p:  ___ yo female with afib, CVA x2, dementia, now with SMA 
+clot, ___, non-enhancing kidney on CT and anuria with 
+unresponsiveness.
+.
+# abdominal pain/hypotension - pt admitted to the surgical 
+service, and found to have thrombus in left renal artery (with 
+complete left renal infarction), and superior mesenteric artery. 
+ She had radiographic L renal infarction.  serial lactates were 
+trending down, and pt was without peritonitis.  She was treated 
+conservatively with antibiotics and NGT decompression and 
+heparin gtt.  she was not felt to require surgical intervention. 
+ her abdominal pain resolved.  She was awaiting transfer to the 
+medical service when her mental status acutely declined as 
+below.  
+. 
+# Altered mental status: Per family, patient's mental status has 
+been declining ever since her last CVA.  Admission CT HEAD 
+showed no acute bleeding, but could not exclude embolic event.  
+She has known clot in SMA, left renal artery and LEFT atrial 
+thrombus (seen on CT superior cuts of CT abd/pelvis) despite 
+anticoagulation with coumadin.  She was placed on heparin during 
+this hospitalization for concern for SMA and renal artery 
+thrombosis.  However on ___ pt's mental status acute declined.  
+She was no longer able to communicate reliable.  Concern was for 
+recurrent stroke given her history of atrial fibrillation and 
+left atrial thrombus as above, in spite of heparin 
+anticoagulation.  Given her acute mental status decline, despite 
+anticoagulation, decision was made with family to change goals 
+of care to DNR/DNI.  Pt's mental status failed to improve after 
+transfer to the MICU, and given goals of care did not include 
+BIPAP or invasive lines or procedures, she was ___ to the 
+medical floor.  Her mental status remained poor.  She was 
+continued on empiric antibiotics for concern for PNA, though CXR 
+was unremarkable.  
+.
+On ___, mental status had failed to improve.  After extensive 
+discussion with both pt's HCP ___ ___ and her 
+son ___ ___, decision was made to change 
+goals of care to comfort measures only, as it was felt that she 
+had likely suffered a recurrent stroke in spite of heparin 
+anticoagulation.  Family clearly did not desire PEG tube 
+placement, and agree that further anticoagulation would not 
+likely alter her prognosis.  Her coumadin was discontinued.  Her 
+urine output declined quickly.  She was evaluated by the pain 
+and palliative care service, placed on a regimen or oral 
+morphine elixir prn, though she did not complain of signficant 
+pain.  she was placed on scopolamine patch to manage secretions. 
+ 
+. 
+Arrangements were made to transfer her to an ___ facility. 
+. 
+# Atrial fibrillation:  h/o atrial fibrillation with known left 
+atrial thrombus despite coumadin, pt was treated with heparin 
+gtt and rate controlled with metoprolol, these were discontinued 
+given her goals of care as above. 
+.
+# Oliguria: likely due to poor po intake, and poor prognosis as 
+above.  decision was made not to pursue PEG tube feeding or 
+intravenous hydration as it was not felt likely to alter her 
+prognosis.  Over the course of ___ her urine output continue 
+to decline to neglible levels.
+.
+# Hypothyroidism: pt initialy continued on 75 mcg levothyroxine, 
+this was d/c'd at discharge given goals of care. 
+.
+# Contact: ___ ___ (health care proxy) and her 
+son ___ ___ ___ speaking). 
+.
+# CODE STATUS:  pt is DNR/DNI, she is comfort measures only. 
+.
+# DISPO: pt was discharged to ___ facility ___ after 
+discussion with ___ at ___ who confirmed discussion with 
+his mother (HCP) at 3PM and confirmed that she will meet pt at 
+the ___ facility. 
+ 
+Medications on Admission:
+(per most recent discharge summary)
+1. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)  
+
+Inhalation Q4H (every 4 hours) as needed.  
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) Inhalation  
+Q6H (every 6 hours) as needed.  
+3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at  
+bedtime).  
+4. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY  
+(Daily).  
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a  
+day) as needed.  
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)  
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)  
+Tablet, Chewable PO TID (3 times a day) as needed.  
+8. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY  
+(Daily).  
+9. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID 
+ 
+(3 times a day).  
+10. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+ 
+11. Valsartan 80 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+12. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2  
+times a day).  
+13. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)  
+Tablet, Delayed Release (E.C.) PO once a day.  
+14. Heparin (Porcine) in D5W 100 unit/mL Parenteral Solution  
+Sig: 650 units/hr Intravenous ASDIR (AS DIRECTED).  
+15. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg  
+
+
+ 
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 
+times a day) as needed.  
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+4. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q6H (every 6 hours) as needed for fever.  
+5. Hyoscyamine Sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual QID (4 times a day).  
+6. Morphine 10 mg/5 mL Solution Sig: ___  PO Q1HR PRN () as 
+needed for titrate to pt comfort (air hunger).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+stroke 
+superior mesenteric artery thrombosis
+renal artery thrombosis
+
+ 
+Discharge Condition:
+poor, comfort measures only, being discharged
+ 
+Discharge Instructions:
+pt was discharged with plan for hospice care.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,301 @@
+===== DISCHARGE NOTE =====
+note_id=17762368-DS-17 | hadm_id=24557098
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ostial LAD lesion
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization ___
+ 
+History of Present Illness:
+___ year old woman admitted on ___ for a ventral hernia repair- 
+surgery uneventful. On POD #3, she developed bilious emesis, 
+with concerns for a small bowel obstruction so she went back to 
+the OR on ___ for exploratory laparoscopy with lysis of 
+adhesions. Patient was successfully extubated but then went into 
+pulmonary edema and was reintubated.  Echo revealed an LVEF of 
+30% with an anteroapical WMA. BNP 10,000. Treated with lasix and 
+then SBP dropped to 70's. Given 1.5 liters of LR and then 
+150cc/hour overnight. Troponin at that time was 7.0. Patient 
+remained hypotensive on ___, so started on Levophed at 
+5mcg/kg/min and taken for cardiac cath (troponin on ___ was 
+4.36).  At OSH, cath showed a tight ostial LAD lesion.  Given 
+this, the patient was transferred to ___ for further treatment 
+given the complexity of her lesion.
+
+Patient was taken to the cath lab at which time her ostial LAD 
+lesion was visualized and a bare metal stent was placed with 
+good effect. Her PCWP at that time was noted to be 24. Notably 
+her hgb dropped from 8.5 to 7.6 after her procedure.  She 
+remained intubated on arrival.  She had a femoral venous and 
+arterial sheath in place. Notably the patient has a possible 
+history of HIT.
+ 
+On arrival to the floor, patient is intubated, sedated, however 
+is able to nod yes/no and denies chest pain.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: no prior history 
+-PERCUTANEOUS CORONARY INTERVENTIONS: no prior 
+3. OTHER PAST MEDICAL HISTORY:  
+-COPD
+-hypothyroidism
+-Psychiatric disorder of unclear etiology, likely bipolar 
+disorder vs schizophrenia complicated by tardive dyskinesia
+-hx of PE
+-HIT
+ 
+Social History:
+___
+Family History:
+Unable to obtain as patient intubated.  
+ 
+Physical Exam:
+Admission physical exam:
+VS: 99.8 118/48 65  20 98 on vent
+General:  obese female, intubated, sedated, arousable to voice
+HEENT:  Unable to appreciate JVD, notable lip smacking
+CV: RRR, no mrg appreciated
+Lungs: course ventilator sounds, unable to appreciate focal 
+rhonchi or rhales
+Abdomen: soft, nt, nd, laparoscopy scars present 
+Ext: 1+ ___ edema to knees bilaterally, no skin mottling
+Skin: dry, without rashes
+Pulses: radial and dp pulses intact bilaterally
+
+Discharge physical exam:
+PHYSICAL EXAMINATION:  
+VS: 99.8 118/48 65  20 98 on vent
+General:  obese female, intubated, sedated, arousable to voice
+HEENT:  Unable to appreciate JVD, notable lip smacking
+CV: RRR, no mrg appreciated
+Lungs: course ventilator sounds, unable to appreciate focal 
+rhonchi or rhales
+Abdomen: soft, nt, nd, laparoscopy scars present 
+Ext: 1+ ___ edema to knees bilaterally, no skin mottling
+Skin: dry, without rashes
+Pulses: radial and dp pulses intact bilaterally
+
+ 
+Pertinent Results:
+Admission labs:
+
+___ 11:47PM   TYPE-ART PO2-123* PCO2-38 PH-7.49* TOTAL 
+CO2-30 BASE XS-6
+___ 09:18PM   GLUCOSE-99 UREA N-14 CREAT-0.6 SODIUM-142 
+POTASSIUM-3.0* CHLORIDE-103 TOTAL CO2-29 ANION GAP-13
+___ 09:18PM   estGFR-Using this
+___ 09:18PM   WBC-6.9 RBC-2.56* HGB-7.6* HCT-22.8* MCV-89 
+MCH-29.6 MCHC-33.2 RDW-13.6
+___ 09:18PM   NEUTS-75.5* LYMPHS-16.8* MONOS-3.9 EOS-3.4 
+BASOS-0.4
+___ 09:18PM   PLT COUNT-329
+___ 08:35PM   TYPE-ART PO2-231* PCO2-35 PH-7.53* TOTAL 
+CO2-30 BASE XS-7 INTUBATED-INTUBATED
+___ 08:35PM   GLUCOSE-101
+___ 08:35PM   HGB-8.5* calcHCT-26 O2 SAT-99
+___ 08:35PM   freeCa-1.02*
+
+Studies
+Cardiac cath ___: report pending
+
+Chest x-ray ___: No previous images.  Endotracheal tube tip 
+lies approximately 3.5 cm above the carina.  Nasogastric tube 
+extends to the upper stomach where it crosses the lower margin 
+of the image. 
+  
+Cardiac silhouette is enlarged and there is evidence of 
+elevation of pulmonary venous pressure.  No definite acute focal 
+pneumonia. 
+  
+Of incidental note is elevation of the right hemidiaphragm. 
+
+TTE ___: The left atrium is normal in size. Left ventricular 
+wall thicknesses are normal. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is moderately 
+depressed (LVEF= 35 %) secondary to extensive apical akinesism 
+and hypokinesis of the anterior septum and anterior free wall. 
+Tissue Doppler imaging suggests an increased left ventricular 
+filling pressure (PCWP>18mmHg). The right ventricular free wall 
+thickness is normal. Right ventricular chamber size is normal. 
+with focal hypokinesis of the apical free wall. The aortic valve 
+is not well seen. The study is inadequate to exclude significant 
+aortic valve stenosis. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. There is an anterior space which most likely 
+represents a prominent fat pad.  
+
+Discharge labs:
+
+___ 07:30AM BLOOD WBC-9.9 RBC-2.60* Hgb-7.7* Hct-22.6* 
+MCV-87 MCH-29.6 MCHC-34.0 RDW-13.9 Plt ___
+___ 07:30AM BLOOD Glucose-103* UreaN-14 Creat-0.7 Na-138 
+K-3.5 Cl-102 HCO3-28 AnGap-___ F with h/o HTN and HLD developed new onset heart failure 
+after ex-lap for SBO, found to have ostial LAD lesion, now s/p 
+cardiac cath with BMS placement.
+
+ACTIVE DIAGNOSES
+
+# OSTIAL LAD LESION: Pt underwent cardiac cath ___ and was 
+found to have ostial LAD lesion.  Successfully stented with drug 
+eluting stent to proximal LAD.  Patient had no other significant 
+lesions present on cardiac cath.  Troponins downtrended.  Groin 
+site was normal after the procedure.
+
+Post-cath, pt received ASA 325mg daily which should be continued 
+for one month and 81 mg daily thereafter.  Also treated with 
+clopidogrel 75mg daily and atorvastatin 80mg daily. The 
+clopidogrel and aspirin need to be given every day without fail 
+to prevent instent restenosis. Do not stop aspirin and 
+clopidogrel for any reason unless it is discussed with 
+outpatient cardiologist. Post-procedure initially held off on 
+beta blockade and ACEI, but started metoprolol and lisinopril 
+when extubated and blood pressure was able to tolerate. 
+
+# Acute congestive heart failure with systolic dysfunction: LVEF 
+30% from OSH echo.  Unclear whether this is just in setting of 
+acute MI while at OSH or whether this was baseline.  Repeat echo 
+___ showed LVEF 35% due to extensive apical akinesism and 
+hypokinesis of the anterior septum and anterior free wall.  TTE 
+also showed increased LV filling pressure.
+
+Pt was placed on 2g sodium diet and strict I/O.  Diuresis was 
+undertaken with furosemide drip, after which she was 
+transitioned to torsemide 20mg PO daily, which was later 
+increased to 40mg daily.  Electrolytes were monitored and 
+repleted as necessary.
+  
+# VENTRAL HERNIA WITH INCARCERATION: s/p lap ventral hernia 
+repair with transection of bowel segment.  Was able to pass gas 
+and had a bowel movement ___.  Had three episodes of diarrhea 
+on/around ___, no C. diff sent but low suspicion for C. diff 
+given normal WBC count.  Lap incision sites were monitored and 
+continued to look normal. Unclear which surgeon performed the 
+procedure at ___ (no info in our records) but pt needs to f/u as 
+an outpatient after discharge. 
+
+# Anemia: admitted after surgery with hct 22, stable since with 
+no evidence of bleeding. Fe studies showed nl retics and 
+Ferritin of 327, indicating likely chronic issue (baseline Hct 
+unknown) with likely blood loss during surgery and cardiac cath. 
+Hct should be rechecked in 1 week and colonoscopy should be 
+considered if hct still low. 
+
+CHRONIC DIAGNOSES
+
+# HTN: home HCTZ was held.  Upon restarting anti-hypertensives, 
+changed regimen to metoprolol and lisinopril as described above 
+due to CAD.
+ 
+# HLD: DCed simvastatin and started atorvastatin 80mg daily 
+given acute MI.
+
+# HYPOTHYROIDISM: Continued levothyroxine.
+
+#COPD: Continued tiotropium and albuterol.  Symbicort non 
+formulary here but substituted with fluticasone-salmeterol 
+in-house and resumed Symbicort at discharge. Pt has outpatient 
+pulmonary appts here at ___ for PFT's and f/u care. 
+
+#BIPOLAR DISORDER: Continued sertraline.  It was unclear whether 
+pt was previously taking Abilify and at what dose, so it was not 
+administered in the hospital setting.
+
+TRANSITIONAL ISSUES
+#s/p DES to LAD: Continue full-dose ASA 325mg x 1 month, then 81 
+mg daily with 75 mg clopidogrel for one full year.
+#Recheck TTE one month after discharge
+# Anemia workup if continues to have low hct after d/c (consider 
+colonoscopy).  
+#Unclear which surgeon performed abdominal surgery at ___ (no 
+info in our records) but pt needs to f/u as an outpatient after 
+discharge. 
+#Reconcile psychiatric medication regimen.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tiotropium Bromide 1 CAP IH DAILY 
+2. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation bid 
+3. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze 
+4. Simvastatin 40 mg PO DAILY 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Sertraline 50 mg PO DAILY 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+8. Potassium Chloride 20 mEq PO BID 
+9. Furosemide 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 100 mcg PO DAILY 
+2. Sertraline 50 mg PO DAILY 
+3. Tiotropium Bromide 1 CAP IH DAILY 
+4. Aspirin EC 325 mg PO DAILY 
+5. Atorvastatin 80 mg PO DAILY 
+6. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze 
+7. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation bid 
+8. Clopidogrel 75 mg PO DAILY 
+9. Lisinopril 2.5 mg PO DAILY 
+10. Metoprolol Succinate XL 25 mg PO DAILY 
+11. Torsemide 40 mg PO DAILY 
+12. Potassium Chloride 20 mEq PO BID 
+Hold for K > 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+Non ST elevation myocardial infarction
+Hypertension
+
+Secondary: Bipolar disorder
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure participating in your care at ___. You were 
+admitted to the hospital for a heart attack and a drug eluting 
+stent was placed in the vessels around your heart to open a 
+blockage. 
+It is extremely important that you take aspirin and clopidogrel 
+(plavix) every day without fail for at least one year. Do not 
+stop taking aspirin or clopidogrel or miss any doses unless Dr. 
+___ that it is OK to do so. 
+
+Please make note of the changes to your home medications on the 
+enclosed list and follow up with your doctors as ___.
+
+ 
+Followup Instructions:
+___

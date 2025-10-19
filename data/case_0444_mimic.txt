@@ -1,0 +1,390 @@
+===== DISCHARGE NOTE =====
+note_id=12131955-DS-14 | hadm_id=28155859
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+silk tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea, decreased activity tolerance, and near
+syncope with exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___: 
+1. Aortic valve replacement with a 21 mm Magna Ease 
+___ pericardial valve.
+2. Mitral valve replacement with a 27 mm Biocor Epic tissue 
+valve.
+3. Aortic root enlargement
+
+ 
+History of Present Illness:
+___ year old male has a history of Hodgkin's disease s/p 
+radiation in his teens and subsequent development of coronary 
+artery disease, s/p off pump CABG x 3 in
+___ (LIMA to LAD, SVG to OM, SVG to PDA). He also has a history
+of radiation induced aortic and mitral regurgitation. He has
+complaints of exertional dyspnea and fatigue. His stress 
+echocardiogram in ___ revealed progression in valvular disease 
+and is now referred for a cardiac catheterization and cardiac 
+surgery evaluation for redo-sternotomy/AVR/MVR. 
+
+ 
+Past Medical History:
+Aortic Stenosis
+Coronary Artery Disease
+Hyperlipidemia (diet controlled/vegan diet) 
+Mild valve regurgitation
+Pleural effusion 
+Mild carotid artery disease
+Hodgkin's disease diagnosed at age ___ with three recurrences s/p
+radiation treatments & chemotherapy
+Chronic hepatitis C/mod liver fibrosis following transfusion
+(currently denied from taking Harvoni and is appealing) 
+Hypothyroidism
+___ resection of lipoma from abdomen
+GERD (controlled by diet)
+Right shoulder necrosis c/b impingement 
+
+Past Surgical History:
+Tonsillectomy
+Cholecystectomy, ___
+
+Past Cardiac Procedures:
+Off Pump CABG (LIMA to LAD, SVG to OM, SVG to PDA) ___
+OM 1 stenting in ___
+RCA Promus stenting x ___ 
+
+ 
+Social History:
+___
+Family History:
+Family History:Premature coronary artery disease- Paternal Uncle
+died from an MI at age ___. Maternal grandfather died from an MI
+in his ___
+ 
+Physical Exam:
+Admission Physical Exam
+Pulse:90 Resp:18  O2 sat:100/RA
+B/P  Right:123/48    Left:114/67
+Height:5'9"   Weight:69.9 kg
+
+General:no distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade __3/6 systolic____
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema [] ___none__
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: bandaged  Left:2+
+DP           Right:0   Left:0
+___           Right: 3+  Left:3+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:present    Left:present
+
+ 
+Pertinent Results:
+TEE ___:
+Conclusions  
+Pre CPB
+The left atrium is moderately dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Regional left ventricular wall motion is normal. Overall 
+left ventricular systolic function is low normal (LVEF 50-55%). 
+[Intrinsic left ventricular systolic function is likely more 
+depressed given the severity of valvular regurgitation.]
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets are severely thickened/deformed. There 
+is severe aortic valve stenosis (valve area <1.0cm2). Severe 
+(4+) aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. There is a 
+minimally increased gradient consistent with trivial mitral 
+stenosis. Moderate to severe (3+) mitral regurgitation is seen. 
+
+Post CPB
+The patient separated from bypass with a phenylephrine infusion.
+A bioprothetic mitral valve is seen in anatomic position. The 
+valve is well seated with no perivalvular leak. The gradient 
+acros the valve is ___ mmHg.
+A bioprothetic aortic valve is seen in anatomic position. The 
+valve is well seated with no perivalvular leak. The residual 
+mean gradient is 13 mmHg.
+Biventricular function is well preserved. There is no sign of 
+aortic injury or dissection. No other significant changes 
+appreciated from prebypass exam.
+
+ 
+
+CHEST CT W/O CONTRAST (___):
+IMPRESSION:   
+1.  Heavily calcified aortic valve, consistent with history of 
+aortic 
+stenosis. Normal caliber thoracic aorta with vascular 
+calcifications as 
+described above.  These images are available for review for 
+preoperative 
+planning.   
+2. Nonspecific pleural and parenchymal scarring in the left 
+lower lobe. 
+  
+
+LABS:
+
+___ 05:06AM BLOOD WBC-9.8 RBC-2.92* Hgb-9.2* Hct-27.2* 
+MCV-93 MCH-31.5 MCHC-33.8 RDW-15.3 Plt ___
+___ 04:49AM BLOOD WBC-16.5*# RBC-3.10* Hgb-10.0* Hct-29.1* 
+MCV-94 MCH-32.2* MCHC-34.4 RDW-15.3 Plt ___
+___ 05:06AM BLOOD ___
+___ 01:20PM BLOOD ___
+___ 02:10AM BLOOD ___ PTT-34.3 ___
+___ 05:06AM BLOOD Glucose-96 UreaN-21* Creat-0.9 Na-132* 
+K-4.5 Cl-98 HCO3-27 AnGap-12
+___ 08:35AM BLOOD Glucose-134* UreaN-21* Creat-1.0 Na-131* 
+K-3.7 Cl-98 HCO3-26 AnGap-11
+___ 02:04AM BLOOD ALT-22 AST-106* LD(LDH)-408* AlkPhos-36* 
+Amylase-39 TotBili-0.6
+___ 04:25PM BLOOD Calcium-7.6* Phos-2.6* Mg-2.0
+.
+___ CXR
+___ ___ M  ___  ___ 
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 10:19 
+AM 
+ 
+  
+___ FA6A ___ 10:19 AM 
+CHEST (PA & LAT)   Clip # ___   
+Reason: follow up Right hydropneumothorax & L pneumothorax and 
+Predi 
+ 
+
+ 
+UNDERLYING MEDICAL CONDITION: 
+   ___ year old man s/p redosternotomy, tiss AVR, tiss MVR, and 
+aortic root  
+   enlargement 
+REASON FOR THIS EXAMINATION: 
+   follow up Right hydropneumothorax & L pneumothorax and 
+Predischarge eval  
+
+ 
+ 
+Final Report 
+EXAMINATION:  CHEST (PA AND LAT) 
+  
+INDICATION:  ___ year old man s/p redosternotomy, tiss AVR, tiss 
+MVR, and 
+aortic root enlargement  // follow up Right hydropneumothorax   
+L pneumothorax 
+and Predischarge eval     follow up Right hydropneumothorax   L 
+pneumothorax 
+and Predi 
+  
+COMPARISON:  Chest radiographs ___ through ___. 
+  
+IMPRESSION:  
+  
+Both the moderate, loculated right apical hydro pneumothorax and 
+the dependent 
+moderate right pleural effusion have increased since ___.  Moderate 
+left pleural effusion is stable. Aside from attendant 
+atelectasis at the base 
+the right lung, and milder atelectasis at the base of the left, 
+lungs are 
+clear.  Heart is normal size. 
+Right jugular line or shunt ends in the right atrium. 
+  
+___, MD electronically signed on ___ ___ 11:55 
+AM 
+ 
+  Imaging Lab 
+ 
+There is no report history available for viewing. 
+.
+
+ 
+Brief Hospital Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent Redo Sternotomy, Aortic valve replacement 
+with a 21 mm Magna Ease ___ pericardial 
+valve, Mitral valve replacement with a 27 mm Biocor Epic tissue 
+valve, and Aortic root enlargement.  Overall the patient 
+tolerated the procedure well and post-operatively was 
+transferred to the CVICU in stable condition for recovery and 
+invasive monitoring.  Additional left chest tube was placed for 
+pneumothorax shortly after ICU arrival. 
+
+POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable, weaned from inotropic and 
+vasopressor support.  Beta blocker was initiated and the patient 
+was gently diuresed toward the preoperative weight.  The patient 
+was transferred to the telemetry floor for further recovery.  
+
+He started ilotycin ointment for eye pain that began after 
+waking from anesthesia.  
+He has had no vision deficits. Discomfort persisted and 
+ophthalmology was consulted.  Lubricating eye drops are 
+recommended.
+
+Chest tube removal was delayed due to high output and recurring 
+pneumothoraces during clamping trials.  His mediastinal chest 
+tubes were removed without difficulty.  His left pleural was 
+removed on POD 5 with small apical residual pneumothorax.  His 
+right pleural tube was removed on POD 8. Follow-up CXRays 
+revealed persistent hydro-pneumothorax.  Thoracic Surgery 
+consulted and followed along.  Diuresis was increased and CXRays 
+followed.  The patient will follow-up withi Thoracic Surgery in 
+2 weeks. 
+
+His temporary pacing wire removal was delayed until POD 4 due to 
+postoperative thrombocytopenia (40K). His HITT result was 
+negative, and platelets spontaneously improved.  He was seen by 
+the Hematology team with suspected etiology of relation to 
+bypass circuit, drug-induced immune thrombocytopenia (most 
+likely due to cephalosporin antibiotic), possibly consumption by 
+bleeding (although did not have massive bleeding) or some 
+combination of all of the above.
+
+He also developed post-operative AFib.  He did convert to SR 
+prior to discharge.  He is rate controlled and will be 
+discharged on Coumadin.  
+He did have scant sternal drainage of the inferior pole.  WBC 
+remained normal and he was afebrile.  He will be discharged with 
+instructions to apply Chloraprep BID.  He will return for a 
+wound check later this week.  Additionally, the left chest tube 
+site continues to drain serous fluid.  The patient will 
+reinforce dressings prn. 
+
+The patient was evaluated by the physical therapy service for 
+assistance with strength and mobility.  By the time of discharge 
+on POD 11 the patient was ambulating freely, the wound was 
+healing and pain was controlled with oral analgesics.  The 
+patient was discharged home in good condition with appropriate 
+follow up instructions.  Cardiac Surgery will follow 
+anti-coagulation for the remainder of the week and Dr. ___ 
+will assume management next ___. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 40 mg PO BID 
+2. Levothyroxine Sodium 100 mcg PO DAILY 
+3. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN cp 
+4. Ramipril 20 mg PO DAILY 
+5. Aspirin 162 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Cyanocobalamin 500 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Cyanocobalamin 500 mcg PO DAILY 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Metoprolol Tartrate 25 mg PO BID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+6. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+7. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*60 Tablet Refills:*0
+8. Warfarin 2 mg PO DAILY16 
+dose to change daily for goal INR ___ 
+RX *warfarin 2 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+9. OxycoDONE (Immediate Release)  5 mg PO Q3H:PRN break thru 
+pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q3h Disp #*60 Tablet 
+Refills:*0
+10. Furosemide 40 mg PO BID 
+RX *furosemide 40 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0
+11. Potassium Chloride 20 mEq PO BID Duration: 24 Hours 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+12. Acetaminophen ___ mg PO Q6H:PRN pain 
+13. Artificial Tears Preserv. Free ___ DROP BOTH EYES PRN dry 
+eyes 
+14. Radiology
+PA/Lateral Chest X-Ray
+___, 2:15pm
+___, Radiology- ___ floor
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+post-op AFib 
+hydro-pneumothorax 
+ 
+Coronary Artery Disease 
+Hyperlipidemia (diet controlled/vegan diet)  
+Aortic stenosis 
+Mild valve regurgitation 
+Pleural effusion  
+Mild carotid artery disease 
+Hodgkin's disease diagnosed at age ___ with three recurrences s/p 
+
+radiation treatments & chemotherapy 
+Chronic hepatitis C/mod liver fibrosis following transfusion 
+(currently denied from taking Harvoni and is appealing)  
+Hypothyroidism 
+___ resection of lipoma from abdomen 
+GERD (controlled by diet) 
+Right shoulder necrosis c/b impingement  
+Past Surgical History: 
+Tonsillectomy 
+Cholecystectomy, ___ 
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema- scant drainage 
+inferior pole of sternotomy
+left chest tube site with serous drainage.
+Edema - trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

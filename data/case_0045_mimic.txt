@@ -1,0 +1,388 @@
+===== DISCHARGE NOTE =====
+note_id=17061254-DS-21 | hadm_id=20082748
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+tremors
+ 
+Major Surgical or Invasive Procedure:
+Deep Brain Stimulator Stage one on left and bilateral Stage 2 on 
+___- by Dr ___
+
+ 
+___ of Present Illness:
+This is a ___ year old patient with history of Parkinsons Disease 
+.  She is staus post right DBS stage one on ___ ___.  The patient presents electively today for Stage 1 DBS 
+on left and DBS stage 2 bilaterally
+ 
+Past Medical History:
+___ disease, osteoporosis, shingles, hysterectomy, vein 
+stripping 
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+on the day of admission ___:
+afebrile, normotensive
+no focal deficits
+
+on day of discharge
+afebrile, SBPs in 150s
+small hematoma on right chest, stable
+dressing clean, dry
+exam unchanged from admission
+ 
+Pertinent Results:
+Labs on Admission:
+
+___ 02:58PM   WBC-5.3 RBC-3.52* HGB-10.9* HCT-33.5* MCV-95 
+MCH-30.9 MCHC-32.4 RDW-13.3
+___ 02:58PM   PLT COUNT-209
+___ 02:58PM   ___ PTT-31.0 ___
+___ 02:58PM   GLUCOSE-108* UREA N-15 CREAT-0.5 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-29 ANION GAP-9
+___ 02:58PM   CALCIUM-8.8 PHOSPHATE-3.7 MAGNESIUM-1.6
+
+Imaging:
+
+MRI brain w/ and w/o contrast ___
+Right-sided deep brain stimulator identified extending to the 
+inferior basal ganglia region.  No abnormalities are seen within 
+the left 
+basal ganglia region.  No edema, mass effect or abnormal 
+enhancement seen. 
+
+MRI brain post op ___
+Status post placement of left-sided deep brain stimulator 
+without 
+evidence of edema, mass effect, acute infarct or abnormal 
+enhancement. 
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with history of Parkinsons Disease 
+who is status post stage 1 DBS on the right on ___.  The 
+patient presented to the hospital today for an elective stage 1 
+DBS on the left and stage 2 bilateral DBS with Dr ___.  The 
+patient tolerated the procedure well.  The post operative MRI 
+was performed and was consistent with expected post operative 
+change and good placement of DBS.   The patient was recovered in 
+the PACU.  She developed a right chest hematoma post op, 
+pressure dressing was placed.  The hematoma did not expand.  
+Patient was evaluated by physical therapy who recommended home 
+with physical therapy.  Ms. ___ will follow up with Dr. 
+___ in clinic and DBS will be turned on.
+
+TRANSITIONS OF CARE:
+- SBPs were in the 150s day of discharge, can follow up with 
+primary care physician for HTN ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amantadine 100 mg PO BID 
+2. Carbidopa-Levodopa (___) 0.25 TAB PO 7 TIMES A DAY 
+3. Azilect *NF* (rasagiline) 1 mg Oral qd parkinsons 
+4. Ropinirole 8 mg PO QAM 
+requip XL extended release 24 hour 
+5. Ropinirole 4 mg PO QPM 
+requip XL extended release 24 hour 
+6. teriparatide *NF* 20 mcg/dose - 600 mcg/2.4 mL Subcutaneous q 
+week 
+
+ 
+Discharge Medications:
+1. Amantadine 100 mg PO BID 
+2. Azilect *NF* (rasagiline) 1 mg Oral qd parkinsons 
+3. Carbidopa-Levodopa (___) 0.25 TAB PO 7 TIMES A DAY 
+4. Ropinirole 8 mg PO QAM 
+5. Ropinirole 4 mg PO QPM 
+6. teriparatide *NF* 20 mcg/dose - 600 mcg/2.4 mL Subcutaneous q 
+week 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Parkinsons Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Instructions for Follow up: Stage 1 on Left Deep Brain 
+Stimulator Placement and Stage ___
+
+•Keep your wound should stay clean and dry until your wound is 
+assessed in our office. No Shower for 7 days.
+•Have a friend or family member check the wound for signs of 
+infection such as redness or drainage daily. 
+•Take your pain medicine as prescribed if needed. You do not 
+need to take it if you do not have pain.
+•Exercise should be limited to walking; no lifting >10lbs, 
+straining, or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•DO not take any anti-inflammatory medicines such as Motrin, 
+Aspirin, Advil, or Ibuprofen etc. until follow up.
+•If you were on a medication such as Coumadin (Warfarin), or 
+Plavix (clopidogrel), or Aspirin, do not take this until 
+discussed in follow up
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17061254-DS-20 | hadm_id=29939264
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+gait and hand writing difficulties
+ 
+Major Surgical or Invasive Procedure:
+DBS stage 1 on ___ ___
+ 
+___ of Present Illness:
+This is a ___ year old female with known ___ disease who 
+electively presented for Stage 1 deep Brain Stimilator with Dr 
+___.
+ 
+Past Medical History:
+___ disease, osteoporosis, shingles, hysterectomy, vein 
+stripping 
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+On the day of ___
+The patient was alert and oriented to person, place, time
+Strength and sensation were full
+EOMs intact
+pupils were equal and reactive bilaterally 4-3mm
+No pronator drift noted. tremors Left > right
+patient has difficulty with transfers off parkinsons medications
+
+On the day of discharge ___
+The patient was alert and oriented to person, place, time
+Strength and sensation were full
+EOMs intact
+pupils were equal and reactive bilaterally 4-3mm
+No pronator drift noted. tremors Left > right
+Overall, her clinical status is unchanged
+ 
+Pertinent Results:
+Radiology Report MR HEAD W/O CONTRAST Study Date of ___ 
+11:04 AM 
+FINDINGS:  There is interval right-sided deep brain stimulator 
+electrode 
+placement.  The electrode is seen traversing from the vertex to 
+the right 
+basal ganglia.  There is no significant hemorrhage.  There is no 
+evidence of 
+acute infarct.  Major vascular flow voids are present.  A small 
+amount of 
+pneumocephalus is noted in the right frontal convexity, an 
+expected 
+post-procedure finding.  There is no shift of normally midline 
+structures.  
+There is mild mucosal thickening in the visualized paranasal 
+sinuses.  The 
+mastoid air cells are clear.  The globes are grossly 
+unremarkable.   
+  
+IMPRESSION:  Interval placement of right-sided deep brain 
+stimulator electrode 
+to the right basal ganglia.  Expected post-procedure changes 
+including a small 
+amount of right-sided pneumocephalus but no evidence of 
+infarction. 
+  
+SELLA TURCICA INTRAOP FLUOROSCOPY
+ 
+FINDINGS: 
+  
+Intraoperative fluoroscopic image demonstrates a deep brain 
+stimulator lead 
+within the ___ the targeting device. 
+  
+TOTAL FLUOROSCOPIC TIME:  70.4 seconds. 
+  
+IMPRESSION: 
+  
+Intraoperative fluoroscopic imaging was provided for deep brain 
+stimulator 
+placement within the sella turcica.   
+
+PRE-OP
+Radiology Report MR HEAD W & W/O CONTRAST Study Date of ___ 
+7:52 AM 
+
+FINDINGS:  There is no mass, edema, or STIR abnormality.  There 
+are no 
+abnormal areas of enhancement.  The ventricles and sulci are 
+unremarkable in size given the patient's age.  No abnormalities 
+of the venous structures are apparent. 
+IMPRESSION:  Unremarkable brain MRI. 
+
+___ 08:33AM   estGFR-Using this
+___ 08:33AM   CREAT-0.5
+___ 12:45PM   ___ PTT-30.6 ___
+___ 12:45PM   PLT COUNT-225
+___ 12:45PM   WBC-4.5 RBC-3.99* HGB-12.5 HCT-38.9 MCV-98 
+MCH-31.3 MCHC-32.0 RDW-13.2
+___ 12:45PM   CALCIUM-9.0 PHOSPHATE-3.4 MAGNESIUM-1.8
+___ 12:45PM   GLUCOSE-98 UREA N-14 CREAT-0.5 SODIUM-139 
+POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-26 ANION GAP-12
+ 
+Brief Hospital Course:
+This is a ___ year old female with history of Parkinsons disease 
+that presents today for elective Stage 1 DBS.  The patient 
+underwent the procedure well and there were no complications.  A 
+immediate post operative MRI was performed and it was consistent 
+with expected post operative findings.  The patient was 
+restarted on her Parkinsons medications in the PACU and 
+recovered from anesthesia.  She was initiated on a clear liquid 
+diet and advanced as tolerated.  The patient was transferred to 
+the floor after recovery from anesthesia in stable condidtion.
+
+On POD day #1, pt was in stable condition on the floor. She was 
+neurologically intact, with findings identical to pre-surgery 
+(bilat hand tremors L > R, oriented x 3). Incision was 
+clean/dry/intact, with dermabond on top. Post-op MRI showed only 
+expected post-op changes. 
+
+Transitional issues:
+Pt will be contacted for stage II of DBS (battery placement) in 
+2 weeks. Her staples will be removed at that time. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amantadine 100 mg PO BID 
+2. Carbidopa-Levodopa (___) 0.25 TAB PO 7 TIMES A DAY 
+3. Azilect *NF* (rasagiline) 1 mg Oral qd parkinsons 
+4. Ropinirole 8 mg PO QAM 
+requip XL extended release 24 HR 
+5. Ropinirole 4 mg PO QPM 
+requip XL extended release 24 hr 
+6. teriparatide *NF* 20 mcg/dose - 600 mcg/2.4 mL Subcutaneous 
+qweek 
+not to be given while in hospital 
+
+ 
+Discharge Medications:
+1. Amantadine 100 mg PO BID 
+2. Azilect *NF* (rasagiline) 1 mg Oral qd parkinsons 
+3. Carbidopa-Levodopa (___) 0.25 TAB PO 7 TIMES A DAY 
+4. Ropinirole 8 mg PO QAM 
+requip XL extended release 24 HR 
+5. Ropinirole 4 mg PO QPM 
+requip XL extended release 24 hr 
+6. teriparatide *NF* 20 mcg/dose - 600 mcg/2.4 mL Subcutaneous 
+qweek 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Parkinsons Disease
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Instructions for Follow up: Stage 1 Deep Brain Stimulator 
+Placement
+
+•Keep your incision closed with disolvable sutures covered by 
+dermabond on the right side of your head. Keep your incision 
+clean and dry. 
+•Have a friend or family member check the wound for signs of 
+infection such as redness or drainage daily. 
+•Take your pain medicine as prescribed if needed. You do not 
+need to take it if you do not have pain.
+•Exercise should be limited to walking; no lifting >10lbs, 
+straining, or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•DO not take any anti-inflammatory medicines such as Motrin, 
+Aspirin, Advil, or Ibuprofen etc. until follow up.
+•If you were on a medication such as Coumadin (Warfarin), or 
+Plavix (clopidogrel), or Aspirin, do not take this at all before 
+your second Stage surgery.
+•Do not drive before your second surgery.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+
+ 
+Followup Instructions:
+___

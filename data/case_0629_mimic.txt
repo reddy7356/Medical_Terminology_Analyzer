@@ -1,0 +1,290 @@
+===== DISCHARGE NOTE =====
+note_id=13302464-DS-9 | hadm_id=27196707
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ PMHx COPD (home baseline ___, recently diagnosed 
+dementia, CVA, chronic back pain, recent hospitalization for 
+COPD exacerbation who presents with cough/SOB from home.  She 
+was admitted on ___ ___ for COPD exacerbation; CXR at 
+the time showed no e/o PNA.  She was discharged on ___ on a 
+steroid taper and a course of doxycycline.  She states that her 
+SOB/cough persisted and presented to her PCP at ___ 
+___ where CT chest showed LLL PNA; she was started on 
+Levaquin on ___ ___s acyclovir for R buttock rash.  
+Because of worsening productive cough and dyspnea with increase 
+of her home O2 requirement to 4L this apst week, she was 
+referred to the ED.  VSS o/n; admission labs were notable for 
+WBC 17.6, H/H 12.7/39.5, plts 251, Na 135, K 5.6 (5.0 on 
+recheck), CO2 27, BUN/Cr ___, lactate 2.3, troponin <0.01.  
+Blood cultures obtained.  CXR showed possible LLL PNA.  She was 
+started on vanc/cefepime and given methylpred 125 mg IV x 1 and 
+duonebs.  O/n, she was transitioned to ceftriaxone/azithromycin. 
+ She had no fevers/chills, but this morning continues to endorse 
+cough productive of green sputum.  She reports that PTA, she was 
+on 20 mg prednisone with plan to transition to 10 mg prednisone 
+daily on ___ per her PCP.
+
+ 
+Past Medical History:
+COPD on 4L NC at home  
+ Chronic back pain  
+ GERD  
+ Depression  
+ Dementia  
+ Hx of CVA  
+ Hx of premalignant polyps  
+
+ 
+Social History:
+___
+Family History:
+Father - throat and stomach cancer  
+ Mother - ___ cancer  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: 98.7 94 124/84 18 98% on 4L NC  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM  
+ Neck: Supple, JVP not elevated  
+ CV: Regular rate and rhythm, normal S1 + S2  
+ Lungs: Cough with deep inspiration, moves air well, scattered 
+end expiratory wheezes  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present  
+
+ GU: No foley  
+ Ext: No edema  
+ Skin: Red ulcerative lesion on right buttock with no current 
+vesicles  
+ Neuro: Grossly intact.  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: 97.9, 112/67, 80, 16, 99% on RA.  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM  
+ Neck: Supple, JVP not elevated  
+ CV: Regular rate and rhythm, normal S1 + S2  
+ Lungs: Cough with deep inspiration, moves air well, no 
+wheezing, L lung basilar crackles  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present  
+
+ GU: No foley  
+ Ext: No edema  
+ Skin: Red ulcerative lesion on right buttock with no current 
+vesicles  
+ Neuro: Grossly intact.  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 06:49PM   GLUCOSE-210* UREA N-19 CREAT-0.8 SODIUM-135 
+POTASSIUM-5.6* CHLORIDE-95* TOTAL CO2-27 ANION GAP-19
+___ 06:49PM   cTropnT-<0.01
+___ 06:49PM   WBC-17.6* RBC-4.42 HGB-12.7 HCT-39.5 MCV-89 
+MCH-28.7 MCHC-32.2 RDW-13.7 RDWSD-44.9
+___ 06:49PM   NEUTS-90.5* LYMPHS-4.8* MONOS-3.0* EOS-0.0* 
+BASOS-0.3 IM ___ AbsNeut-15.94* AbsLymp-0.85* AbsMono-0.53 
+AbsEos-0.00* AbsBaso-0.06
+___ 06:49PM   PLT COUNT-251
+___ 06:50PM   LACTATE-2.3* K+-5.0
+
+MICROBIOLOGY
+============
+___ Blood cultures x 2 pending
+
+___ Urine culture - negative
+
+___ Legionella urinary antigen - negative
+
+STUDIES
+=======
+___ CXR
+FINDINGS:  
+PA and lateral views of the chest provided.   Right lung is 
+clear.  Subtle 
+opacity in the left lower lung could represent a very early 
+pneumonia in the correct clinical setting.  No large effusion or 
+pneumothorax.  The heart appears top-normal in size.  
+Mediastinal contours unremarkable.  Bony structures are intact.  
+No free air below the right hemidiaphragm. 
+  
+IMPRESSION:  
+Possible left lower lobe pneumonia. 
+
+DISCHARGE LABS
+==============
+___ 06:25AM BLOOD WBC-10.2* RBC-3.55* Hgb-10.1* Hct-31.9* 
+MCV-90 MCH-28.5 MCHC-31.7* RDW-13.6 RDWSD-45.0 Plt ___
+___ 06:25AM BLOOD Glucose-140* UreaN-15 Creat-0.7 Na-135 
+K-3.6 Cl-97 HCO3-30 AnGap-12
+___ 06:25AM BLOOD Calcium-9.1 Phos-3.3 Mg-2.___ year old female with history of COPD on 2L NC at home 
+presenting with pneumonia with likely component of COPD 
+exacerbation.  
+
+# Pneumonia: Pt presented with a leukocytosis to 17.6 and LLL 
+opacity on OSH CT (per report) and on CXR at ___. Presentation 
+consistent with CAP.  Patient experienced improvement of her 
+leukocytosis and oxygen requirement (back to baseline) with 
+ceftriaxone/azithromycin.  She was transitioned to levofloxacin 
+with plan for a total 7-day course (d7 on ___.
+
+# COPD exacerbation: Patient had evidence of reactive airway 
+disease on exam consistence with COPD exacerbation in the 
+setting of an acute pneumonia.  The patient was treated with PO 
+prednisone; give her significant underlying COPD, she was 
+discharged on a taper.  Patient was continued on her home 
+Symbicort.
+
+# Right buttock ulcerative lesion: Patient placed on acyclovir 
+by primary care provider for possible herpetic lesion.  
+Continued at discharge. 
+
+# Hx of CVA: Continued home ASA  
+
+# GERD: Continued home omeprazole  
+
+# Depression: Continued home sertraline, amitriptyline, 
+trazadone  
+
+# Chronic back pain: Continued home lidocaine patch  
+
+***TRANSITIONAL ISSUES***
+- Patient to complete 7 day course of levofloxacin (d7 on ___
+- Patient to be discharged on prednisone 40 mg daily until ___, 
+30 mg daily ___, 20 mg daily ___, and 10 mg 
+daily ___
+- Patient to have outpatient follow-up with her outpatient 
+pulmonologist, Dr. ___, at ___ 
+___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q24H 
+2. Tiotropium Bromide 1 CAP IH DAILY 
+3. Sertraline 100 mg PO DAILY 
+4. Diltiazem Extended-Release 180 mg PO BID 
+5. TraZODone 75 mg PO QHS 
+6. Amitriptyline 25 mg PO QHS 
+7. Aspirin 325 mg PO DAILY 
+8. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+9. Multivitamins 1 TAB PO DAILY 
+10. PredniSONE 20 mg PO DAILY 
+11. Albuterol Inhaler 1 PUFF IH Q6H:PRN Wheezing 
+12. Acyclovir 400 mg PO Q8H 
+13. Tessalon Perles (benzonatate) 100 mg oral TID:PRN Cough 
+14. Levofloxacin 750 mg PO Q24H 
+15. Lidocaine 5% Patch 1 PTCH TD QAM 
+
+ 
+Discharge Medications:
+1. Acyclovir 400 mg PO Q8H 
+2. Amitriptyline 25 mg PO QHS 
+3. Aspirin 325 mg PO DAILY 
+4. Diltiazem Extended-Release 180 mg PO BID 
+5. Levofloxacin 750 mg PO DAILY 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*4 
+Tablet Refills:*0
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+7. Multivitamins 1 TAB PO DAILY 
+8. Pantoprazole 40 mg PO Q24H 
+9. PredniSONE 40 mg PO DAILY Duration: 2 Days 
+last day on ___ 
+Tapered dose - DOWN 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*4 Tablet 
+Refills:*0
+10. Sertraline 100 mg PO DAILY 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. TraZODone 75 mg PO QHS 
+13. Guaifenesin-Dextromethorphan 5 mL PO Q6H:PRN cough 
+RX *dextromethorphan-guaifenesin 100 mg-10 mg/5 mL 5 ml by mouth 
+every six (6) hours Refills:*0
+14. Albuterol Inhaler 1 PUFF IH Q6H:PRN Wheezing 
+15. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION BID 
+16. Tessalon Perles (benzonatate) 100 mg oral TID:PRN Cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*60 Capsule Refills:*0
+17. PredniSONE 30 mg PO DAILY Duration: 2 Doses 
+___ 
+RX *prednisone 10 mg 3 tablet(s) by mouth daily Disp #*6 Tablet 
+Refills:*0
+18. PredniSONE 20 mg PO DAILY Duration: 2 Doses 
+___ 
+RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*2 Tablet 
+Refills:*0
+19. PredniSONE 10 mg PO DAILY Duration: 2 Doses 
+___ 
+RX *prednisone 10 mg 1 tablet(s) by mouth daily Disp #*2 Tablet 
+Refills:*0
+20. Outpatient Physical Therapy
+Please provide rollator
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Community-acquired pneumonia
+Chronic obstructive pulmonary disease exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___.  You were admitted to the hospital for pneumonia 
+and ongoing COPD exacerbation.  You were treated with oral 
+steroids and IV antibiotics.  You were also evaluated by 
+physical therapy and we found that your home oxygen requirement 
+improved.  Your labs also suggested that your infection has 
+improved as well.  You will be discharged home with instructions 
+to continue antibiotics and steroids.
+
+Please follow-up with your outpatient providers as instructed 
+below.
+
+Thank you for allowing us to participate in your care.  All best 
+wishes for your recovery.
+
+Sincerely,
+Your ___ medical team
+ 
+Followup Instructions:
+___

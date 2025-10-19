@@ -1,0 +1,552 @@
+===== DISCHARGE NOTE =====
+note_id=16145101-DS-19 | hadm_id=23720184
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+light headedness 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with history of well controlled HIV, asthma, 
+Refsum disease, here with 3 days of lightheadedness occuring 
+when transitioning from sitting to standing, associated with 
+some left sided tingling. Patient reports symptoms occur only 
+when standing up and resolve when sitting back down. ___ 
+episodes/day over past 3 days decreasing in severity, initially 
+involving the entire left side of the body, then more localized 
+to the L chest. Years ago had similar episodes involving the 
+legs, with negative workup by his neurologist (per patient). He 
+has also had zoster in the past, which patietnt stated felt much 
+differently than this episode. Further, he has not experienced 
+any rash or skin vesicles. Episodes not associated with chest 
+pressure/pain, diaphoresis or nausesa. Patient reports some 
+chest congestion last week which had resolved 4 days ago but now 
+appears to be back today, along with some wheezing. No 
+significant sore throat or congestion. No orthopnea, no leg pain 
+or edema.  
+
+No fever. Some increased urinary frequency at night. Referred 
+from ___ clinic for concern for unstable angina. In ___ clinic 
+today he was afebrile, tachy to 110-122, satting 89-93% on RA, 
+BP was 130s/80s and was is not orthostatic.  
+Initial vitals in ED 12:36 2 98.5 110 125/74 18 93%
+ 
+Past Medical History:
+- Refsum's disease (hereditary motor and sensory neuropathy type 
+IV)  
+- HIV infection  
+- Knee replacements, bilateral  
+- Reactive airway disease  
+- Allergic rhinitis (recurrent)  
+- Otitis media (recurrent)  
+ 
+
+ 
+Social History:
+___
+Family History:
+- Sister: ___ disease  
+- Mother: deceased, had metastatic breast cancer and Alzheimer's 
+disease
+- Father: deceased, had throat cancer and had EtOH/smoking 
+history
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS - 20:09 0 100.8 118 140/55 26 97% RA  
+Gen: WD/WN, NAD, AOx3  
+Skin: no generalized rash  
+Oropharynx: no mucositis or thrush seen, good dentition.  
+LN: no cervical lymphadenopathy appreciated  
+Lungs: no rales; exp wheezes loudest on the L anteriorly  
+Cor: normal S1S2; I/VI systolic murmur at LSB; no ___ or rub  
+
+appreciated  
+Abd: BSA; no masses; nontender to palpation; no organomegaly  
+appreciated  
+Ext: trace pre-tibial edema  
+Neuro: CN II-XII intact, strength and sensation grossly intact 
+in all extremities 
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: T98.1 BP 135/63 HR 80 18 100% 2L
+Gen: Appears well. NAD.
+HEENT: Dry mucus membranes.
+CV: RRR. No murmurs.
+Lungs: Diffuse wheezes in both anterior/posterior lung fields.
+Abdomen: Soft/ND/NT. +BS
+Extremities: no edema
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:45PM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD cTropnT-<0.01
+___ 01:45PM BLOOD WBC-7.4# RBC-4.75 Hgb-13.4* Hct-40.6 
+MCV-86 MCH-28.1 MCHC-32.9 RDW-15.1 Plt ___
+___ 01:45PM BLOOD Neuts-71.9* Lymphs-10.5* Monos-6.4 
+Eos-10.6* Baso-0.7
+___ 01:45PM BLOOD Glucose-110* UreaN-12 Creat-0.9 Na-131* 
+K-3.7 Cl-93* HCO3-27 AnGap-15
+___ 06:00AM BLOOD Albumin-3.4* Calcium-8.0* Phos-2.6* 
+Mg-1.7
+___ 07:55PM BLOOD Lactate-3.4*
+___ 01:36PM BLOOD Lactate-1.5
+
+DISCHARGE LABS:
+___ 08:10AM BLOOD WBC-5.2 RBC-4.02* Hgb-11.2* Hct-35.7* 
+MCV-89 MCH-27.9 MCHC-31.4 RDW-15.7* Plt ___
+___ 08:10AM BLOOD Glucose-104* UreaN-12 Creat-0.8 Na-139 
+K-4.3 Cl-100 HCO3-29 AnGap-14
+___ 08:10AM BLOOD Calcium-9.1 Phos-2.8 Mg-2.0
+
+Micro:
+Influenza A/B Negative:
+Viral respiratory panel: pending upon discharge
+
+Imagining:
+___ CXR: Hyperinflated lungs with mild bibasilar 
+atelectasis. 
+
+ 
+Brief Hospital Course:
+The following issues were addressed over the course of the 
+hospital stay:
+
+___ with HIV well controlled, RAD, recent URI with cough and 
+wheezing, presents with episodes of lightheadedness on standing, 
+left side tingling of trunk/shoulder/arm, found to be febrile, 
+tachycardic and rigoring in ED  
+
+#Pneumonia: Fever, tachycardia, mild cough, wheezing. 
+Generalized weakness w/ lactate 3.4 --> 1.5. CXR not convincing 
+for pneumonia but given presentation suspect a viral etiology. 
+Covered for atypicals given HIV status although well controlled. 
+Influenza A/B negative with viral throat culture pending upon 
+discharge as would not change management. Patient treated with 
+levoquin that should continue for a total of 5 days of treatment 
+given immunocompromised and clinically improving with 
+antibiotics.
+
+#Asthma Exacerbation: Treated with prednisone 60 mg x 1 which 
+was discontinued due to two episodes of explosive diarrhea (see 
+below). Patient's ambulatory sat was 97-99% prior to discharge 
+and thus felt that the risk of prednisone outweight potential 
+benefits. However patient instructed if his breathing does not 
+improve within 5 days he may need a prednisone burst in the 
+future. Continued on home asthma meds. Peak flows measured in 
+house were 150 with patient instructed to check peak flows at 
+least 3 times a day and keep a log for his PCP in ___. 
+
+#Diarrhea: patient developed two explosive episodes of diarrhea. 
+These episodes were isolated and did not recur prior to 
+discharge for a c. diff sample to be sent. He had no associated 
+abdominal pain. Patient instructed if he develops severe 
+diarrhea associated with abdominal pain to call primary care to 
+be seen or come to ED.
+
+#Lightheadedness with tingling of L trunk/shoulder/arm. 
+Lightheadedness on standing suggestive of orthostasis, but neg 
+orthostasis on exam. He has had similar episodes in the remote 
+past involving his legs, which raises concern for a neurological 
+etiology given his hereditary neuropathy. He underwent cardiac 
+echo (TTE) on ___ which demonstrated LVEF > 55 %; no 
+valvular disease; mildly dilated aortic root. Mild pulmonary 
+artery systolic hypertension. In the ED trop neg and no EKG 
+changes, making unstable angina unlikely.  Orthostatics negative 
+and symptoms resolved by discharge. No evidence of zoster on 
+exam. Utimately symptoms felt to be due to Rafsum's disease.
+
+#) HIV. Stable on atripla, seen in ___ clinic today. No h/o  
+AIDS defining infection in the past or OI. PPD previously 
+negative in ___.  
+  
+# HTN. stable  
+- continued HCTZ 
+ 
+# Allergy  
+- continued home ___ meds 
+  
+# Refsum Disease c/b polyneuropathy  
+- low fat diet  
+ 
+Transitional issues:
+[ ] f/u on Peak flows as outpatient to ensure improvement of 
+asthma
+[ ] patient may need prednisone taper in future if symptoms do 
+not improve
+[ ] monitor diarrhea
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lorazepam 0.5 mg PO HS:PRN insomnia 
+2. mometasone 50 mcg/actuation nasal qd 
+3. Simvastatin 20 mg PO DAILY 
+4. Montelukast 10 mg PO DAILY 
+5. Multivitamins 1 TAB PO DAILY 
+6. efavirenz-emtricitabin-tenofov ___ mg oral qd 
+7. mometasone 220 mcg (120 doses) inhalation bid 
+8. Ibuprofen 200 mg PO Q8H:PRN arthritis 
+9. albuterol sulfate 90 mcg/actuation inhalation ___ puffs q4-6h 
+sob 
+10. Hydrochlorothiazide 25 mg PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Montelukast 10 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Simvastatin 20 mg PO DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. albuterol sulfate 90 mcg/actuation inhalation ___ puffs q4-6h 
+sob 
+RX *albuterol sulfate 90 mcg 2 puffs IH every ___ hours Disp #*1 
+Inhaler Refills:*0
+6. efavirenz-emtricitabin-tenofov ___ mg oral qd 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+8. Ibuprofen 200 mg PO Q8H:PRN arthritis 
+9. Lorazepam 0.5 mg PO HS:PRN insomnia 
+10. mometasone 50 mcg/actuation nasal qd 
+11. mometasone 220 mcg (120 doses) inhalation bid 
+12. Levofloxacin 750 mg PO DAILY 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Viral pneumonia
+Asthma exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to ___ due to a viral pneumonia and asthma 
+exacerbation. In addition, you were treated with antibiotics 
+give your immunocompromise and high fevers. Your chest x-ray was 
+clear. We decided to stop prednisone for your asthma due to the 
+diarrhea you had prior to discharge. However, since the dirrhea 
+was limited to two episodes and had ceased prior to discharge, 
+it is safe for you to go home with the understanding if this 
+worsens or if you develop abdominal pain please call your 
+primary care physician to be seen sooner. 
+
+It was a pleasure taking care of you here at ___. Please 
+continue to monitor your peak flows at home at least 3 times/day 
+and keep a log. Bring this to your primary care provider's 
+appointment. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16145101-DS-18 | hadm_id=23968657
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with HIV (CD4 225, CD4/CD8 0.4, VL 
+78,000 ___, Refsum's disease, reactive airway disease, 
+restrictive lung disease who presents with dyspnea.  
+
+He complains of increasing dyspnea x 2 weeks with increased 
+albuteral inhaler usage, mostly because of the recent weather 
+change and worsening allergy symptoms.  It was really bad on 
+___ that he was using his albuterol inhaler ever couple of 
+feet that he walks.  He felt better on ___.  However, 
+today, the dypsnea came back, especially with exertion, and he 
+was feeling a little lightheaded.  These happened after he took 
+his morning pills including the new Atripla.  He also feels very 
+dry.  He reports minimal cough, non-productive, similar to 
+post-nasal drip cough.  He reports no chest pain, palpitation, 
+N/V, sick contact, recent travel, recent TB exposure, abdominal 
+pain, fever or chill.  He has never had asthma exacerbation 
+requiring intubation in the past. 
+
+Of note, patient just started his Atripla today.   
+
+Initial ___ VS were 99.4 113 178/86 20 93% RA.  Labs were notable 
+for normal WBC, Hgb 12.3/Hcg 36.7, Plt 173, no left shift, 
+normal chemistry, Phos .3, Crt 0.9, UA negative, lactate 1.3, 
+AST 45, but LFT otherwise normal.  CXR showed ? small LLL 
+consolidation.  EKG showed sinus tachycardia, left axis 
+deviation and right atrial enlargement.  He received albuterol 
+nebs x 2 and ipratropium neb, prednisone 20 mg, and ceftriaxone 
+1 g IV and most of the 500 mg IV azithromycin.  ID fellow was 
+apparently paged from the ___.  Peak expiratory flow was 220 
+after albuterol neb.
+
+ 
+Past Medical History:
+- Refsum's disease (hereditary motor and sensory neuropathy type 
+IV)  
+- HIV infection  
+- Knee replacements, bilateral  
+- Reactive airway disease  
+- Allergic rhinitis (recurrent)  
+- Otitis media (recurrent)  
+ 
+
+ 
+Social History:
+___
+Family History:
+- Sister: ___ disease  
+- Mother: deceased, had metastatic breast cancer and Alzheimer's 
+disease
+- Father: deceased, had throat cancer and had EtOH/smoking 
+history
+
+ 
+Physical Exam:
+Physical exam at admission:
+VS - 99.1, 159/107, HR 114, 95-97% RA, RR 18 
+GENERAL -  well appearing Caucasian male, NAD
+HEENT - PERRLA, OP clear, MMM
+NECK - supple, no LAD, no JVD
+LUNGS - CTAB, no w/c/r, no accessory muscle use
+HEART - regular tachycardic, normal S1 and S2, no m/r/g
+ABDOMEN - soft, NT, ND, BS+, no HSM
+EXTREMITIES - warm, dry, 2+ ___ pulses bilaterally, trace edema 
+to the ankles
+NEURO - A&Ox3, + neuropathy, mostly peripheral, gait is normal, 
+CN III-XII intact, no motor deficit noted.
+
+Physical exam at discharge:
+Vitals: 98.4  150/91  112  20 95%RA
+GENERAL - Alert, interactive, well-appearing in NAD  
+HEENT - PERRLA, EOMI, sclerae anicteric, OP clear  
+HEART - RRR, nl S1-S2, no MRG  
+LUNGS - no use of accessory muscles while breathing, able to 
+speak in full sentences without gasping for air; + prominent end 
+expiratory wheezing in bilateral lungs, worse in middle lobes; 
+no egophony or dullness to percussion noted  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM   
+NEURO - awake, A&Ox3, CNs II-XII grossly intact 
+ 
+Pertinent Results:
+Labs at admission:
+___ 04:55PM BLOOD WBC-5.1 RBC-4.38* Hgb-12.3* Hct-36.7* 
+MCV-84 MCH-28.1 MCHC-33.5 RDW-15.4 Plt ___
+___ 04:55PM BLOOD Neuts-62.3 ___ Monos-5.0 Eos-9.8* 
+Baso-0.6
+___ 04:55PM BLOOD Glucose-105* UreaN-14 Creat-0.9 Na-136 
+K-4.2 Cl-101 HCO3-26 AnGap-13
+___ 04:55PM BLOOD ALT-20 AST-45* AlkPhos-94 TotBili-0.6
+
+Labs at discharge:
+___ 08:10AM BLOOD WBC-4.7 RBC-4.45* Hgb-12.4* Hct-36.9* 
+MCV-83 MCH-28.0 MCHC-33.7 RDW-15.8* Plt ___
+___ 08:10AM BLOOD Glucose-87 UreaN-12 Creat-1.0 Na-138 
+K-3.7 Cl-100 HCO3-29 AnGap-13
+___ 08:10AM BLOOD Calcium-10.0 Phos-2.8 Mg-2.3
+
+IMAGING:
+
+CXR ___:
+Possible focal opacity at the inferior lingula, could represent 
+pneumonia in the correct clinical setting.  Clinical correlation 
+is advised.  
+
+EKG ___:
+Sinus tachycardia with sinus arrhythmia. Otherwise, within 
+normal limits. No major diagnostic interim change from the 
+previous tracing. 
+
+ 
+Brief Hospital Course:
+___ year old gentleman with HIV, Refsum's disease, reactive 
+airway disease, restrictive lung disease who presents to the ___ 
+with dyspnea and lightheadness. There was concern that his 
+dyspnea was due to an acute worsening of his known reactive 
+airway disease. His CXR was suspicious for a possible pneumonia. 
+He was given steroids to help with the reactive airway disease 
+and a course of azithromycin for possible community acquired 
+pneumonia.  
+
+ACTIVE PROBLEMS  
+#) Dyspnea: At presentation the patient reported experiencing 
+dyspnea (worse than his baseline) intermittently for a few days. 
+The patient has a history of reactive airway disease which 
+worsens with weather changes and his seasonal allergies -- this 
+was thought to be at least a contributing factor to his acute 
+worsening dyspnea. In the ___ his oxygen saturation was good on 
+room air and there was no evidence of accessory muscle use with 
+breathing on his initial exam. His CXR in ___ showed a possible 
+infiltrate in the inferior lingula, and given his 
+immunocomropised state (last CD4 225) there was a higher 
+suspicion of an infectious process. He was started on 
+azithromycin and ceftriaxone in the ___ (and later transitioned 
+to azithromycin and cefpodoxime once he got to the general 
+medicine floor). On the medicine floor his exam was remarkable 
+for prominent end expiratory wheezing in bilateral lungs.  He 
+was also given prednisone & albuterol and ipratropium nebulizer 
+treatments for concerns that his reactive airway disease was 
+contributing to his symptoms. Because he did not require 
+supplemental oxygen and he had a low CURB 65 score it was felt 
+that he could be discharged home. He was discharged on a 
+prednisone burst and azithrmycin for a 5 day course.  Urine 
+legionella negative. Blood cultures no growth at time of 
+discharge. 
+  
+#) Lightheadness: The patient reported feeling lightheaded the 
+morning of admission in addition to experiencing dyspnea.  At 
+admission the differential included orthostasis, drug adverse 
+effect (given that he started Atripla the day of admission), or 
+alternatively a primary CNS process given immunocompromised 
+state.  His neuro exam was unremarkable and his lightheadness 
+resolved while he was in the Emergency Department without 
+intervention. CBC, chem 10 and repeat EKGs were unremarkable.  
+He was not orthostatic.  He was monitored on telemetry without 
+any concerning events. His feelings of lightheadness did not 
+reoccur.  Possible that could be related to Atripla although 
+after discussion with ___. ___, this was continued. Further 
+workup of his this lightheadness was deferred to the outpatient 
+setting. 
+
+CHRONIC ISSUES:
+
+# HIV: Last CD4 count was 225. Followed by Dr. ___ as an 
+outpatient. No history of AIDS defining infection in the past.  
+He was started on Atripla on ___. Dr. ___ was 
+contacted via email and agreed with continuing the patient on 
+Atripla. 
+
+# Hypertension: Stable. He was continued on home dose of HCTZ 
+12.5 mg daily -- although the patient reported only taking it 
+when his BP is high or when he has too much salt in his food. He 
+was advised to his medication regularly and as it is prescribed 
+by his PCP.
+
+# Seasonal allergies: Stable -- may have been contributing to 
+his dyspnea. He was continued on his home regimen of nasal 
+fluticasone, fexofenidine and nasal saline flushes.
+
+# Refsum disease c/b polyneuropathy: Stable. On a low fat diet 
+during this admission.
+
+TRANSITIONAL ISSUES:
+[ ] follow up finalization of blood cultures 
+.
+#) CODE STATUS: Full  
+#) CONTACT: patient and HCP ___ ___, 
+___ (work)
+
+ 
+Medications on Admission:
+The Preadmissions Medication list may be inaccurate and require 
+further investigation.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN dyspnea/wheezing 
+2. ATRIPLA *NF* (efavirenz-emtricitabin-tenofov) ___ mg 
+Oral Once a day HIV 
+3. Hydrochlorothiazide 12.5 mg PO DAILY Hypertension 
+4. Lorazepam 0.5 mg PO HS:PRN Insomnia 
+5. Asmanex Twisthaler *NF* (mometasone) 220 mcg (120 doses) 
+Inhalation Twice a day 
+6. Nasonex *NF* (mometasone) 50 mcg/actuation NU Once a day 
+7. traZODONE 50 mg PO HS:PRN Insomnia 
+8. Zolpidem Tartrate 5 mg PO HS:PRN Insomnia 
+9. clemastine *NF* 1.34 mg Oral Daily:PRN Post-nasal drip 
+10. Fexofenadine 60 mg PO BID 
+11. Ibuprofen 400 mg PO Q8H:PRN arthritis 
+12. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Fexofenadine 60 mg PO BID 
+2. Hydrochlorothiazide 12.5 mg PO DAILY Hypertension 
+3. Lorazepam 0.5 mg PO HS:PRN Insomnia 
+4. Multivitamins 1 TAB PO DAILY 
+5. Azithromycin 250 mg PO Q24H 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0
+6. PredniSONE 20 mg PO DAILY 
+RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*3 Tablet 
+Refills:*0
+7. Albuterol Inhaler ___ PUFF IH Q4H:PRN dyspnea/wheezing 
+8. Asmanex Twisthaler *NF* (mometasone) 220 mcg (120 doses) 
+Inhalation Twice a day 
+9. ATRIPLA *NF* (efavirenz-emtricitabin-tenofov) ___ mg 
+Oral Once a day HIV 
+10. clemastine *NF* 1.34 mg Oral Daily:PRN Post-nasal drip 
+11. Ibuprofen 400 mg PO Q8H:PRN arthritis 
+12. Nasonex *NF* (mometasone) 50 mcg/actuation NU Once a day 
+13. traZODONE 50 mg PO HS:PRN Insomnia 
+14. Zolpidem Tartrate 5 mg PO HS:PRN Insomnia 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: bronchitis, dizziness/dehydration
+
+Secondary: HIV, reactive airway disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure to participate in your care at ___ 
+___.  You came to the hospital for 
+shortness of breath and dizziness.  We gave you antibiotics, 
+steroids, nebulizer breathing treatments and IV fluids.
+
+Please keep all of your follow up appointments. Please take all 
+of medications as prescribed.  You will be taking steroids 
+(prednisone) and antibiotics for a few days after leaving the 
+hosptials.
+ 
+Followup Instructions:
+___

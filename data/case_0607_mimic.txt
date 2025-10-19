@@ -1,0 +1,1584 @@
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-13 | hadm_id=22322378
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+Flex Sigmoidoscopy x 2
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with new diagnosis of ulcerative 
+colitis, confirmed during hospitalization from 
+___. He was stabilized on steroids and discharged 
+to home with plan to begin infliximab as an outpatient. 
+Unfortunately, shortly after discharge, and before he had 
+outpatient follow-up, his diarrhea recurred, with up to 15 
+stools per day with varying amounts of blood, prompting him to 
+return to the ED for evaluation. In the ED he was tachycardic, 
+but afebrile and normotensive. GI was consulted and recommended 
+IV steroids and admission for supportive care and initiation of 
+infliximab. He denies HA, CP, SOB, N/V, abdominal pain, 
+tenesmus, rash, joint pain.
+
+ROS: Full 10 point ROS otherwise negative.
+ 
+Past Medical History:
+- Spinal fusion surgery (___) for kyphoscoliosis
+- Mood disorder NOS
+- Sinus surgery (___),
+- Migraines
+ 
+Social History:
+___
+Family History:
+Sister has ulcerative colitis.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS:  Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: No apparent distress.
+EYES: Anicteric and without injection.
+ENT: Ears, nose, and oropharynx without erythema or exudate.
+CV: Regular, S1 and S2, no murmurs or gallops.
+RESP: Lungs clear to auscultation bilaterally without rales,
+rhonchi, or wheezes.
+GI: Abdomen soft, non-distended, non-tender to palpation.
+MSK: BLE warm, without cyanosis or edema.
+SKIN: Warm and well perfused, no excoriations, lesions,  rashes,
+or ulcerations noted.
+NEURO: Alert and oriented x 3, normal attention, speech is
+fluent, verbal comprehension is intact. Face symmetric, gaze
+conjugate and EOMI, gross motor function intact and symmetric in
+all four extremities.
+
+DISCHARGE PHYSICAL EXAM:
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:30AM BLOOD WBC-17.3* RBC-4.36* Hgb-12.8* Hct-39.6* 
+MCV-91 MCH-29.4 MCHC-32.3 RDW-13.4 RDWSD-43.5 Plt ___
+___ 06:30AM BLOOD Neuts-69 Bands-3 Lymphs-13* Monos-13 
+Eos-1 Baso-0 ___ Metas-1* Myelos-0 AbsNeut-12.46* 
+AbsLymp-2.25 AbsMono-2.25* AbsEos-0.17 AbsBaso-0.00*
+___ 06:30AM BLOOD Plt Smr-NORMAL Plt ___
+___ 06:30AM BLOOD Glucose-78 UreaN-10 Creat-0.7 Na-139 
+K-3.8 Cl-97 HCO3-29 AnGap-13
+___ 06:30AM BLOOD ALT-36 AST-15 AlkPhos-52 TotBili-0.2
+___ 06:30AM BLOOD Albumin-3.4* Calcium-8.7 Phos-3.8 Mg-2.2
+___ 06:30AM BLOOD CRP-29.0*
+___ 06:30AM BLOOD CRP-29.0*
+___ 06:46AM BLOOD Lactate-1.8
+
+STUDIES/IMAGING: None
+
+MICRO: 
+- C. diff: NEGATIVE
+- Stool O+P: negative
+- Stool cultures: negative
+
+Pathology ___
+PATHOLOGIC DIAGNOSIS:   1.  Rectosigmoid colon, biopsy: - 
+Chronic moderately active colitis. - No granulomas or dysplasia 
+identified. - Immunohistochemical stain for CMV is negative with 
+adequate controls.
+
+CT abdomen/pelvis w/contrast ___
+
+IMPRESSION: 
+1. Pancolitis, most extensive at the descending and sigmoid 
+colon
+and rectum, 
+suggestive inflammatory versus infectious colitis. 
+2. No evidence of obstruction. 
+
+Sigmoidoscopy ___
+Findings:  
+Mucosa: Diffuse continuous erythema, friability, and ulcerations
+with contact bleeding were noted in the rectum, sigmoid colon 
+and
+descending colon. These findings are compatible with ___ 3
+ulcerative colitis. Cold forceps biopsies were performed for
+histology at the rectosigmoid.  
+Impression: Erythema, friability, and ulcerations in the rectum,
+sigmoid colon and descending colon compatible with ___ 3
+ulcerative colitis (biopsy). Otherwise normal sigmoidoscopy to
+splenic flexure.
+
+KUB ___ - IMPRESSION:  
+No abnormally dilated loops of large or small bowel to suggest 
+obstruction.  
+Moderate fecal load throughout the colon. 
+
+Sigmoidoscopy ___
+Erosions in the sigmoid colon
+Friability, ulceration and erythema in the rectum and sigmoid 
+colon compatible with ulcerative colitis (biopsy)
+Otherwise normal sigmoidoscopy to sigmoid colon 
+
+ 
+Brief Hospital Course:
+___ recent diagnosis of ulcerative colitis admitted for repeat 
+flare symptoms after failing outpatient therapy for ulcerative 
+colitis. He presented with repeat flare symptoms having failed 
+outpatient oral steroid therapy. C. diff negative. Underwent 
+flex sig ___ with biopsies for CMV, which were negative. He 
+was given IV Solumedrol with a noticeable decrease in bloody 
+bowel movements. He was tarted on infliximab initiation on 
+___ and was continued on IV Solumedrol 20 mg IV q8 during 
+hospitalization in addition to infliximab. His CRP continued to 
+decrease with treatment. He was followed by gastroenterology 
+while hospitalized. Colorectal surgery was also consulted during 
+admission given his severe ulcerative colitis and need for 
+future surgical intervention. He received 2 doses of infliximab 
+in house. Despite initial improvement in his symptoms, he had 
+recurrence after steroids were weaned to PO, with flex sig 
+showing ongoing inflammation. Decision was ultimately made to 
+pursue colectomy.
+
+CHRONIC ISSUES
+# Depression/Anxiety: Cont quetiapine, abilify, and lamotrigine.
+
+# Hx of back pain: history of spinal fusion per patient, has
+occasional back pain. Given Tylenol prn and Lidocaine patch prn
+
+Post-operatively the patient was transferred to the inpatient 
+colorectal surgery service. Over the next several days we 
+monitored him closely. When he had ileostomy function we 
+advanced his diet from clear liquids to regular. We continued to 
+slowly taper the steroids. When he was tolerating a regular diet 
+and pain was controlled he was discharged home with nursing 
+services to assist with ileostomy teaching. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ARIPiprazole 4 mg PO DAILY 
+2. BuPROPion XL (Once Daily) 300 mg PO DAILY 
+3. LamoTRIgine 300 mg PO DAILY 
+4. Multivitamins W/minerals 1 TAB PO DAILY 
+5. PredniSONE 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override:  
+do not take more than 3000mg of Tylenol in 24 hours or drink 
+alcohol while taking 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*45 Tablet Refills:*0 
+2.  Enoxaparin Sodium 40 mg SC DAILY Duration: 28 Days 
+Start: ___, First Dose: First Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous once a day Disp 
+#*28 Syringe Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+do not drink alcohol or drive a car while taking this medication 
+
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+4.  PredniSONE 20 mg PO DAILY Duration: 2 Doses 
+please see taper instructions in d/c instructions 
+Tapered dose - DOWN 
+RX *prednisone 5 mg 4 tablet(s) by mouth once a day Disp #*40 
+Tablet Refills:*1 
+5.  ARIPiprazole 4 mg PO DAILY  
+6.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+7.  LamoTRIgine 300 mg PO DAILY  
+8.  Multivitamins W/minerals 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ulcerative Colitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital for a flare in your ulcerative 
+colitis symptoms. ___ were started on high dose IV steroids as 
+well as an anti-inflammatory medication called infliximab. 
+Several infections studies were sent and were all negative. Your 
+symptoms initially improved with this treatment but then 
+recurred. Given ongoing symptoms, ___ ultimately underwent a 
+colectomy.
+
+___ will take the medication Lovenox for a total of 30 days 
+after surgery. Please follow the injection instructions given to 
+___ by the nursing staff. Monitor yourself for signs of bleeding 
+including: feeling weak or faint, fast heart rate, brusing, or a 
+cut that will not stop bleeding. Call with any issues.
+
+___ will be tapering off steroids. ___ will take Prednisone 20mg 
+daily for  2 more days, Prednisone 10mg daily for 3 days, 
+Prednisone 5mg daily for 3 more days, and then stop. During this 
+time ___ should monitor for signs and symptoms of steroid 
+withdrawal including: weakness, dizziess, nausea, vomiting, 
+abdominal pain, extreme fatigue. Call our office with any 
+questions or concerns. 
+
+Please monitor your bowel function closely. If ___ have any of 
+the following symptoms please call the office for advice 
+___:
+fever greater than 101.5
+increasing abdominal distension
+increasing abdominal pain
+nausea/vomiting
+inability to tolerate food or liquids
+prolonged loose stool
+extended constipation
+inability to urinate
+
+___ have a new ileostomy. The most common complication from a 
+new ileostomy placement is dehydration. The output from the 
+stoma is stool from the small intestine and the water content is 
+very high. The stool is no longer passing through the large 
+intestine which is where the water from the stool is reabsorbed 
+into the body and the stool becomes formed. ___ must measure 
+your ileostomy output for the next few weeks. The output from 
+the stoma should not be more than 1200cc or less than 500cc. If 
+___ find that your output has become too much or too little, 
+please call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if ___ notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as Gatorade. Please monitor yourself for signs and symptoms 
+of dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a 
+regular diet with your new ileostomy. However it is a good idea 
+to avoid fatty or spicy foods and follow diet suggestions made 
+to ___ by the ostomy nurses.
+
+___ monitor the appearance of the ostomy and stoma and care 
+for it as instructed by the wound/ostomy nurses. ___ stoma 
+(intestine that protrudes outside of your abdomen) should be 
+beefy red or pink, it may ooze small amounts of blood at times 
+when touched and this should subside with time. The skin around 
+the ostomy site should be kept clean and intact. Monitor the 
+skin around the stoma for bulging or signs of infection listed 
+above. Please care for the ostomy as ___ have been instructed by 
+the wound/ostomy nurses. ___ will be able to make an appointment 
+with the ostomy nurse in the clinic 7 days after surgery. ___ 
+will have a visiting nurse at home for the next few weeks 
+helping to monitor your ostomy until ___ are comfortable caring 
+for it on your own.
+
+Incisions:
+___ have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures. These are healing well 
+however it is important that ___ monitor these areas for signs 
+and symptoms of infection including: increasing redness of the 
+incision lines, white/green/yellow/malodorous drainage, 
+increased pain at the incision, increased warmth of the skin at 
+the incision, or swelling of the area.
+___ may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips), these will fall off 
+over time, please do not remove them. Please no baths or 
+swimming until cleared by the surgical team.
+Pain
+It is expected that ___ will have pain after surgery and this 
+pain will gradually improved over the first week or so ___ are 
+home. ___ will especially have pain when changing positions and 
+with movement. ___ should continue to take 2 Extra Strength 
+Tylenol (___) for pain every 8 hours around the clock and ___ 
+may also take Advil (Ibuprofen) 600mg every hours for 7 days. 
+Please do not take more than 3000mg of Tylenol in 24 hours or 
+any other medications that contain Tylenol such as cold 
+medication. Do not drink alcohol while or Tylenol. Please take 
+Advil with food. If these medications are not controlling your 
+pain to a point where ___ can ambulate and preform minor tasks, 
+___ should take a dose of the narcotic pain medication 
+Oxycodone. Please take this only if needed for pain. Do not take 
+with any other sedating medications or alcohol. Do not drive a 
+car if taking narcotic pain medications.
+Activity
+___ may feel weak or "washed out" for up to 6 weeks after 
+surgery. No heavy lifting greater than a gallon of milk for 3 
+weeks. ___ may climb stairs. ___ may go outside and walk, but 
+avoid traveling long distances until ___ speak with your 
+surgical team at your first follow-up visit. Your surgical team 
+will clear ___ for heavier exercise and activity as the observe 
+your progress at your follow-up appointment. ___ should only 
+drive a car on your own if ___ are off narcotic pain medications 
+and feel as if your reaction time is back to normal so ___ can 
+react appropriately while driving.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-15 | hadm_id=24014277
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+medically refractory UC previously s/p TAC, end ileostomy
+ 
+Major Surgical or Invasive Procedure:
+ileostomy takedown
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old Male with medically refractory UC
+previously s/p TAC, end ileostomy, s/p POD 7 from ___ with
+diverting ileostomy. He called this evening at around 2:20am
+stating that he has been vomiting uncontrollably and unable to
+keep anything down. Based on our advise he presented  to the 
+emergency department at ___ for further evaluation on  
+___. He under went IPAA and ileostomy takedown on  ___
+ 
+Past Medical History:
+- Spinal fusion surgery (___) for kyphoscoliosis
+- Mood disorder NOS
+- Sinus surgery (___),
+- Migraines
+ 
+Social History:
+___
+Family History:
+Sister has ulcerative colitis.
+ 
+Physical Exam:
+ VS: temp: 98.0   BP: 118 / 78   HR: 85   RR:18  O2:97ra  
+ GEN: WD, WN in NAD  
+ HEENT: NCAT, EOMI, anicteric  
+ CV: RRR 
+ PULM: normal excursion, no respiratory distress  
+ ABD: soft, NT, min distention, incision: C/D/I
+ EXT: WWP, no CCE 
+ NEURO: A&Ox3, no focal neurologic deficits  
+ PSYCH: normal judgment/insight, normal memory, normal
+ 
+Pertinent Results:
+___ 10:00AM URINE  HOURS-RANDOM
+___ 10:00AM URINE  UHOLD-HOLD
+___ 10:00AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 10:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-40* BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 10:00AM URINE  RBC-1 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 10:00AM URINE  MUCOUS-RARE*
+___ 03:42AM   LACTATE-1.0
+___ 03:35AM   GLUCOSE-105* UREA N-8 CREAT-0.6 SODIUM-139 
+POTASSIUM-4.6 CHLORIDE-98 TOTAL CO2-25 ANION GAP-16
+___ 03:35AM   ALT(SGPT)-55* AST(SGOT)-32 ALK PHOS-52 TOT 
+BILI-0.4
+___ 03:35AM   LIPASE-24
+___ 03:35AM   ALBUMIN-4.5
+___ 03:35AM   WBC-10.3* RBC-5.15 HGB-14.7 HCT-44.3 MCV-86 
+MCH-28.5 MCHC-33.2 RDW-11.9 RDWSD-37.6
+___ 03:35AM   NEUTS-80.3* LYMPHS-10.0* MONOS-6.2 EOS-2.6 
+BASOS-0.2 IM ___ AbsNeut-8.31* AbsLymp-1.03* AbsMono-0.64 
+AbsEos-0.27 AbsBaso-0.02
+___ 03:35AM   PLT COUNT-339
+___ 03:35AM   ___ PTT-28.6 ___
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with h/o UC refractory to medical 
+
+management, he was admitted on ___ to undergo a 
+laparoscopic proctectomy with ileal pouch anal anastomosis and 
+diverting loop ileostomy and was discharged home on ___.  He 
+called evening of ___ around 2:20am stating that he has been 
+vomiting uncontrollably and unable to
+keep anything down. Based on our advise he presented  to the 
+emergency department at ___ for further evaluation on  
+___. He underwent ileostomy takedown on  ___. He 
+tolerated the procedure well without complications (Please see 
+operative note for further details). After a brief and 
+uneventful stay in the PACU, the patient was transferred to the 
+floor for further post-operative management.  
+ Neuro: Pain was well controlled.
+ CV: Vital signs were routinely monitored during the patient's 
+length of stay.  
+ Pulm: The patient was encouraged to ambulate, sit and get out 
+of bed, use the incentive spirometer, and had oxygen saturation 
+levels monitored as indicated.  
+ GI: The patient was advanced  and tolerated a regular diet 
+right after surgery .  
+ GU: Patient didn't have a Foley catheter. Urine output was 
+monitored as indicated. At time of discharge, the patient was 
+voiding without difficulty.  
+ ID: The patient's vital signs were monitored for signs of 
+infection and fever. The patient was started on/continued on 
+antibiotics as indicated.  
+ Heme: The patient had blood levels checked post operatively 
+during the hospital course to monitor for signs of bleeding. The 
+patient had vital signs, including heart rate and blood 
+pressure, monitored throughout the hospital stay.  
+ On ___, the patient was discharged to home/rehab/etc. At 
+discharge, he/she was tolerating a regular diet, passing flatus, 
+stooling?, voiding, and ambulating independently? He will 
+follow-up in the clinic in ___ weeks. This information was 
+communicated to the patient directly prior to discharge.  
+   
+ Post-Surgical Complications During Inpatient Admission:  
+ [ ] Post-Operative Ileus resolving w/o NGT  
+ [ ] Post-Operative Ileus requiring management with NGT  
+ [ ] UTI  
+ [ ] Wound Infection  
+ [ ] Anastomotic Leak  
+ [ ] Staple Line Bleed  
+ [ ] Congestive Heart failure  
+ [ ] ARF  
+ [ ] Acute Urinary retention, failure to void after Foley D/C'd  
+
+ [ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter  
+ [ ] DVT  
+ [ ] Pneumonia  
+ [ ] Abscess  
+ [x] None  
+ Social Issues Causing a Delay in Discharge:  
+ [ ] Delay in organization of ___ services  
+ [ ] Difficulty finding appropriate rehab hospital disposition.  
+
+ [ ] Lack of insurance coverage for ___ services  
+ [ ] Lack of insurance coverage for prescribed medications.  
+ [ ] Family not agreeable to discharge plan.  
+ [ ] Patient knowledge deficit related to ileostomy delaying 
+dispo  
+ [x] No social factors contributing in delay of discharge. 
+
+ 
+Medications on Admission:
+Medications at Home:
+1.  Acetaminophen 1000 mg PO TID  
+2.  Enoxaparin Sodium 40 mg SC DAILY Duration: 30 Days 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+4.  ARIPiprazole 2 mg PO DAILY  
+5.  BuPROPion 100 mg PO BID  
+6.  LamoTRIgine 150 mg PO BID  
+7.  Loperamide OTC 
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth every four (4) 
+hours Disp #*10 Tablet Refills:*0 
+3.  ARIPiprazole 2 mg PO DAILY  
+4.  BuPROPion 100 mg PO BID  
+5.  Enoxaparin Sodium 40 mg SC DAILY  
+6.  LamoTRIgine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+refractory UC previously s/p TAC, end ileostomy, now s/p IPAA 
+and ileostomy takedown
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after an ileostomy takedown. 
+You have recovered from this procedure well and you are now 
+ready to return home. You have tolerated a regular diet, passing 
+ 
+ gas and your pain is controlled with pain medications by mouth. 
+You may return home to finish your recovery.  
+ Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patient’s to have some decrease in bowel function 
+but your should not have prolonged constipation. Some loose 
+stool and passing of small amounts of dark, old appearing blood 
+are expected however, if you notice that you are passing bright 
+red blood with bowel your please seek medical attention. If you 
+are passing loose stool without improvement please call the 
+office or go to the emergency room if the symptoms are severe. 
+If you are taking narcotic pain medications there is a risk that 
+you will have some constipation. Please take an over the counter 
+stool softener such as Colace, and if the symptoms does not 
+improve call the office. It is also not uncommon after an 
+ileostomy takedown to have frequent loose stools until you are 
+taking more regular food however this should improve.  
+ The muscles of the sphincters have not been used in quite some 
+time and you may experience urgency or small amounts of 
+incontinence however this should improve. If you do not show 
+improvement in these symptoms within ___ days please call the 
+office for advice. Occasionally, patients will need to take a 
+medication to slow their bowel movements as their bodies adjust 
+to the new normal without an ileostomy, you should consult with 
+our office for advice. If you have any of the following symptoms 
+please call the office for advice or go to the emergency room if 
+severe: increasing abdominal distension, increasing abdominal 
+pain, nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or constipation.  
+ You have a small wound where the old ileostomy once was. This 
+should be covered with a dry sterile gauze dressing. The wound 
+no longer requires packing with gauze packing strip. Please 
+monitor the incision for signs and symptoms of infection 
+including: increasing redness at the incision, opening of the 
+incision, increased pain at the incision line, draining of 
+white/green/yellow/foul smelling drainage, or if you develop a 
+fever. Please call the office if you develop these symptoms or 
+go to the emergency room if the symptoms are severe. You may 
+shower, let the warm water run over the wound line and pat the 
+area dry with a towel, do not rub. Please apply a new gauze 
+dressing after showering.  
+ No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by your surgical team. You may gradually 
+increase your activity as tolerated but clear heavy exercise 
+with your surgical team.  
+ You will be prescribed a small amount of the pain medication 
+________. Please take this medication exactly as prescribed. You 
+may take Tylenol as recommended for pain. Please do not take 
+more than 3000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication.  
+ Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities.  
+ Good luck!  
+ ____________________________________________________________  
+ SMALL BOWEL OBSTRUCTION (Conservatively Treated)  
+ You were admitted to the hospital for a small bowel 
+obstruction. You were given bowel rest and intravenous fluids 
+and a nasogastric tube was placed in your stomach to decompress 
+your bowels. Your obstruction has subsequently resolved after 
+conservative management. You have tolerated a regular diet, are 
+passing gas and your pain is controlled with pain medications by 
+mouth. You may return home to finish your recovery.  
+ If you have any of the following symptoms please call the 
+office for advice or go to the emergency room if severe: 
+increasing abdominal distension, increasing abdominal pain, 
+nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or extended constipation.  
+ Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities.  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-12 | hadm_id=25967537
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bloody diarrhea
+ 
+Major Surgical or Invasive Procedure:
+___ EGD
+___ Colonoscopy 
+ 
+History of Present Illness:
+___ with a background history of unspecified mood disorder, 
+presenting with a six week history of diarrhea, with associated 
+mucus and blood per rectum, which has been increasing in 
+frequency over the same time period.
+
+The patient states that his diarrhea began about 1.5 months ago. 
+At that time, he was experiencing diarrhea about ___. Since 
+then, his diarrhea has become more frequent and now he is going 
+about every 2 hours. He describes the diarrhea as watery, 
+bloody, and mucousy. He also reports a vague abdominal 
+discomfort that has also been present over the past few weeks.  
+
+With these symptoms, the patient presented to urgent care and 
+was prescribed ciprofloxacin on ___, which he took for 5 days. 
+However, when his symptoms did not improve, he presented to the 
+ER and was prescribed flagyl for 7 days. However, his symptoms 
+still did not improve. He finally was seen by his PCP and 
+referred to GI. He was seen by Dr. ___ on ___ with plan 
+for colonoscopy ___. However, starting one night prior to 
+admission, the patient has started vomiting immediately after 
+eating. He describes his emesis as non-bloody, non-bilious, and 
+he has been unable to tolerate PO.  
+
+He additionally reports he hasn't been able to sleep more than 
+___ hours due to having to use the bathroom so frequently and 
+that he's been feeling weak due to sleep deprivation. Denies 
+fever, chills. Denies abdominal pain but has had cramping and 
+bloating. Denies chest pain, cough. Denies dysuria.
+ 
+Past Medical History:
+1. Unspecified mood disorder 
+ 
+Social History:
+___
+Family History:
+Sister has ulcerative colitis.
+ 
+Physical Exam:
+===============================
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 97.3  BP 119/78  HR 104  RR 16  SaO2 96% RA 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+RESP: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+___: Soft, non-tender, slightly distended, bowel sounds 
+present, no organomegaly, no rebound or guarding  
+GU: No foley  
+EXTREMITIES: Warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema
+SKIN: Warm, dry, no rashes or notable lesions.   
+NEURO: ___ strength upper/lower extremities, grossly normal 
+sensation  
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 97.6  BP 109/75  HR 95  RR 18  SaO2 95% RA
+GENERAL: sitting up comfortably in bed, no apparent distress  
+HEENT: no conjunctival pallor, anicteric sclera, MMM
+NECK: supple, non-tender, no LAD, no JVD 
+CV: RRR, S1 and S2 normal, no murmurs/rubs/gallops
+RESP: CTAB, no wheeze/crackles, breathing comfortably without 
+use of accessory muscles of respiration
+___: soft, non-tender, no distention, no HSM, BS normoactive
+EXTREMITIES: moving all four extremities with purpose, no lower 
+extremity edema or joint swelling bilaterally  
+NEURO: A/O x3, mood "good" and affect congruent, pleasant and 
+interactive, no gross neurological deficits
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+
+___ WBC-5.8# RBC-3.81* Hgb-11.6* Hct-34.8* MCV-91 MCH-30.4 
+MCHC-33.3 RDW-12.6 RDWSD-41.8 Plt ___
+___ Glucose-170 UreaN-5 Creat-0.6 Na-141 K-4.6 Cl-103 
+HCO3-28 AnGap-10
+___ Calcium-8.6 Phos-3.0 Mg-2.2
+___ CRP-83.4*
+___ URINE  MUCOUS-FEW*
+___ URINE  RBC-3* WBC-1 BACTERIA-NONE YEAST-NONE EPI-<1
+___ URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30* GLUCOSE-NEG 
+KETONE-TR* BILIRUBIN-NEG UROBILNGN-0.2 PH-7.0 LEUK-NEG
+___ URINE  COLOR-Yellow APPEAR-Clear SP ___
+
+======
+MICRO:
+======
+
+___ STOOL                             
+         C. difficile DNA amplification assay: 
+         Negative for toxigenic C. difficile 
+
+___ STOOL     
+         CYCLOSPORA STAIN:           PND at discharge
+         MICROSPORIDIA STAIN:        PND at discharge
+         FECAL CULTURE:              NO SALMONELLA OR SHIGELLA 
+FOUND. 
+         CAMPYLOBACTER CULTURE:      NO CAMPYLOBACTER FOUND. 
+         OVA + PARASITES:            PND at discharge
+         FECAL CULTURE:              NO E.COLI 0157:H7 FOUND. 
+         FECAL CULTURE:              NO VIBRIO FOUND. 
+         FECAL CULTURE:              NO YERSINIA FOUND. 
+
+================
+IMAGING/STUDIES:
+================
+
+___ ABDOMEN X-RAY
+There are at least 3 air-filled loops of small bowel with only 1 
+dilated loop, measuring 3.5 cm. These findings are consistent 
+with a fluid-filled small bowel, but do not meet criteria for a 
+small bowel obstruction. If clinically indicated, consider CT of 
+the abdomen and pelvis for further evaluation. 
+
+___ CT ABDOMEN/PELVIS WITH CONTRAST
+Pancolitis, most extensive at the descending and sigmoid colon 
+and rectum, 
+suggestive inflammatory versus infectious colitis. No evidence 
+of obstruction. 
+
+___ COLONOSCOPY
+Diffuse friability and erythema starting at the rectum with 
+spontaneous bleeding in the colon (biopsy). Otherwise normal 
+colonoscopy to descending colon.
+
+___ EGD
+Normal mucosa in the esophagus. Normal mucosa in the stomach. 
+Normal mucosa in the duodenum (biopsy). Otherwise normal EGD to 
+third part of the duodenum.
+
+___ GI MUCOSAL BIOPSY
+Duodenum biopsy: Duodenal mucosa, within normal limits. 
+Sigmoid colon biopsy: Chronic moderately active colitis.
+Rectum biopsy: Chronic moderately active colitis.
+No granulomata or dysplasia identified.
+
+===========
+OTHER LABS:
+===========
+
+___ HBsAg-NEG HBsAb-POS HBcAb-NEG
+___ CRP-83.4*
+___ CRP-39.4*
+___ CRP-12.6*
+___ CRP-7.8*
+___ CRP-4.6
+___ HCV Ab-NEG
+___ QUANTIFERON-TB GOLD-NEG   
+
+===============
+DISCHARGE LABS:
+===============
+  
+___ WBC-18.6* RBC-4.42* Hgb-12.8* Hct-40.5 MCV-92 MCH-29.0 
+MCHC-31.6* RDW-12.9 RDWSD-42.1 Plt ___
+___ Glucose-129 UreaN-13 Creat-0.7 Na-140 K-5.0 Cl-97 
+HCO___-28 AnGap-15
+___ Calcium-9.3 Phos-4.6* Mg-2.4
+___ CRP-4.___ with a background history of unspecified mood disorder, 
+presenting with a six week history of diarrhea, with associated 
+mucus and blood per rectum, which has been increasing in 
+frequency over the same time period.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Ulcerative colitis
+Patient presented with a 1.5 month history of watery, bloody and 
+mucus like diarrhea, initially occurring one to two times a day, 
+but progressively worsening in frequency and volume. Received a 
+number of courses of antibiotics for possible infectious 
+colitis, with no improvement in symptoms. Seen by Dr. ___ 
+as an outpatient, who recommended a colonoscopy. However, due to 
+subsequent development of non-bloody, non-bilious vomiting, 
+patient was admitted for EGD and colonoscopy. Stool infectious 
+studies and C. diff negative. EGD without abnormality. 
+Colonoscopy with diffuse friability and erythema, starting at 
+rectum, with spontaneous bleeding in the colon. Biopsy of the 
+sigmoid and rectum showing chronic moderately active colitis, 
+without granulomata or dysplasia, consistent with ulcerative 
+colitis. Commenced on IV methylprednisolone with significant 
+improvement in symptoms. Decision was made to transition to oral 
+steroid therapy to facilitate discharge. Plan is to commence 
+biologic therapy as an outpatient. Work-up for this has been 
+negative, including HBV/HCV and quantiferon testing.
+
+======================
+CHRONIC/STABLE ISSUES:
+======================
+
+# Unspecified mood disorder
+Continued home bupropion, aripiprazole and lamotrigine, with 
+close monitoring of patient for mood changes in the setting of 
+high dose intravenous steroid use. 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+- discharge WBC 18.6 (on high dose steroids)
+- discharge Hgb 12.8
+- discharge creatinine 0.7
+- discharge CRP 4.6
+
+MEDICATION CHANGES:
+[] started prednisone 40mg daily
+[] started multivitamin with minerals one tablet daily
+
+[] Follow-up with your PCP as arranged
+[] Follow-up with Dr. ___ further 
+management/treatment of ulcerative colitis
+[] High dose prednisone 40mg without taper until advised to do 
+so by GI
+[] Plan to transition to ___ as outpatient
+[] Would advise considering vitamin D/calcium supplementation if 
+remaining of long term steroids
+
+===================================================
+# CODE STATUS: Full
+# CONTACT: ___, father, number: ___
+ 
+___ on Admission:
+1. ARIPiprazole 4 mg PO DAILY 
+2. BuPROPion XL (Once Daily) 300 mg PO DAILY 
+3. LamoTRIgine 300 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Multi-Vitamin HP/Minerals]  1 
+capsule(s) by mouth Once a day Disp #*30 Capsule Refills:*0 
+2.  PredniSONE 40 mg PO DAILY 
+Do not taper until advised by your GI doctor 
+RX *prednisone 20 mg 2 tablet(s) by mouth Once a day Disp #*60 
+Tablet Refills:*0 
+3.  ARIPiprazole 4 mg PO DAILY  
+4.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+5.  LamoTRIgine 300 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ulcerative colitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY YOU CAME TO THE HOSPITAL
+You were admitted to ___ due to ongoing diarrhea, which was 
+bloody and mucus like.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL
+- You had an endoscopy and colonoscopy to identify a cause for 
+your symptoms
+- Biopsy confirmed that this was likely ulcerative colitis
+- Stool studies were negative for infection
+- You were started on IV steroids, with significant improvement 
+in your symptoms
+- You were transitioned to oral steroids to facilitate your 
+discharge
+- The plan is to commence adalimumab as an outpatient
+
+WHAT YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL
+- You need to follow-up with your PCP as arranged
+- You will receive an appointment to follow up with GI. If you 
+have not heard from them by the end of the week, you are advised 
+to contact Dr. ___ office at: ___
+
+It was a pleasure taking care of you.
+
+Your ___ Healthcare Team
+
+MEDICATION CHANGES:
+[] started prednisone 40mg daily
+[] started multivitamin with minerals one tablet daily
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-16 | hadm_id=26776743
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ w h/o UC s/p lap abdominal colectomy w end ileostomy 
+(___), lap proctectomy w IPAA w DLI (___), & ileostomy 
+takedown (___) who presents w nausea x1 day and NBNB emesis 
+x1 this AM.
+Pt reports feeling well 2 days ago. Yesterday had nausea 
+throughout the day so did not take psyllium but otherwise ate 
+normally. This AM awoke at ~4:30 w nausea & had a large-volume 
+emesis described as gastric contents w a few drops of blood at 
+the very end. Felt relief immediately. Came to ED. 
+Reports mild gas/cramping pain yesterday & today. Last BM was 
+here in the ED this AM, which was perhaps a little more liquid 
+than his usual BMs, though he does note he did not have his 
+psyllium yesterday or today. Has been having ___ BMs/day, has 
+been practicing holding since being instructed to do so at his 
+clinic appointment 3 days ago & does think it's helpful, and has 
+not had any blood in his stools for at least a week. Last ate ~7 
+pm last night. Denies fevers, chills, sick contacts. 
+To recap pt's recent history, he underwent ileostomy takedown 
+___. Was d/c'd home ___. Was seen in ED for ___ 
+___. Was seen in clinic for f/u ___ (3d. ago).
+
+ 
+Past Medical History:
+Past Medical History:
+-Mood disorder NOS  
+-Migraines  
+-Ulcerative colitis 
+
+Past Surgical History:
+-Spinal fusion surgery for kyphoscoliosis (___)
+-Sinus surgery (___)  
+-Laparoscopic abdominal colectomy w end ileostomy ___, VP)
+-Laparoscopic proctectomy w ileal pouch anal anastomosis & 
+diverting loop ileostomy ___, VP)
+-Ileostomy takedown ___, TC)
+
+ 
+Social History:
+___
+Family History:
+(unchanged)
+-Sister has UC. 
+
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals: 97.5, 106, 147/86, 14, 100% RA
+GEN: A&O, NAD, well-appearing
+HEENT: NCAT, EOMI, no scleral icterus, mucus membranes moist
+CV: RRR
+PULM: Breathing comfortably on room air
+ABD: Soft, mild distention (though pt states this is his normal 
+belly), nontender, well-healed R & L lateral trocar sites, 
+umbilical incision still w steri strip in place but dry & w/o 
+signs of infection, RLQ ileostomy site dressing w tiny amount of 
+serous drainage on gauze (pt changes daily, states is unchanged)
+DRE: deferred (pt is in the hall in the middle of the ED core)
+Ext: No ___ edema, 2+ DPs b/l
+
+Discharge Physical Exam:
+VS: 98.2/97.7, 86, 114/69, 16, 98% RA
+GEN: A&O, NAD  
+HEENT: NCAT, EOMI, anicteric  
+CV: RRR 
+PULM: normal excursion, no respiratory distress  
+ABD: Soft, NT, ND. incisions approximated & dry w/o erythema or 
+edema. Former ostomy site granulating, dry, no surrounding 
+erythema or fluctuance.
+EXT: WWP, no CCE 
+NEURO: no focal neurologic deficits  
+PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect
+ 
+Pertinent Results:
+___ 06:16AM BLOOD WBC-7.8 RBC-4.90 Hgb-13.6* Hct-42.0 
+MCV-86 MCH-27.8 MCHC-32.4 RDW-11.9 RDWSD-36.9 Plt ___
+___ 06:35AM BLOOD WBC-4.0 RBC-4.18* Hgb-11.7* Hct-36.5* 
+MCV-87 MCH-28.0 MCHC-32.1 RDW-11.9 RDWSD-37.8 Plt ___
+___ 06:23AM BLOOD WBC-4.2 RBC-3.79* Hgb-10.6* Hct-33.0* 
+MCV-87 MCH-28.0 MCHC-32.1 RDW-11.9 RDWSD-37.8 Plt ___
+___ 06:16AM BLOOD Glucose-107* UreaN-9 Creat-1.0 Na-137 
+K-5.4* Cl-96 HCO3-19* AnGap-22*
+___ 06:35AM BLOOD Glucose-74 UreaN-9 Creat-0.8 Na-139 K-4.1 
+Cl-101 HCO3-26 AnGap-12
+___ 06:23AM BLOOD Glucose-80 UreaN-6 Creat-0.7 Na-142 K-4.2 
+Cl-101 HCO3-28 AnGap-13
+___ 06:16AM BLOOD Albumin-4.7
+___ 06:35AM BLOOD Calcium-9.5 Phos-3.6 Mg-2.1
+___ 06:23AM BLOOD Calcium-9.1 Phos-4.6* Mg-2.0
+___ 06:16AM BLOOD ALT-15 AST-23 AlkPhos-59 TotBili-0.4
+___ 06:34AM BLOOD Lactate-1.3
+
+___ 06:29AM URINE 
+Color-Yellow Appear-Hazy* Sp ___
+Blood-NEG Nitrite-NEG Protein-30* Glucose-NEG Ketone-NEG 
+Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+RBC-0 WBC-1 Bacteri-FEW* Yeast-NONE Epi-0
+CastHy-7* CastCel-101*
+Mucous-MANY*
+URINE CULTURE (Final ___:    NO GROWTH. 
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ___ emergency department on ___ 
+with signs, symptoms, and imaging consistent with a small bowel 
+obstruction. He was made NPO, given IV fluids, and serially 
+examined. Given that his nausea improved and he had no further 
+emesis after admission, a nasogastric tube was not placed. 
+
+On hospital day 2, he was less distended, began to pass flatus, 
+and was without abdominal pain or nausea. Thus, he was given 
+clear liquids, which he tolerated. He was ambulating 
+independently and voiding without issue. 
+
+On hospital day ___, he had a bowel movement. He was given a 
+regular diet, which he tolerated without issue. He was thus 
+discharged to home. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ARIPiprazole 4 mg PO QHS 
+2. BuPROPion (Sustained Release) 100 mg PO BID 
+3. LamoTRIgine 300 mg PO QHS 
+4. LOPERamide ___ mg PO QID:PRN diarrhea 
+5. Psyllium Wafer 1 WAF PO Frequency is Unknown
+6. Lovenox 40 mg SC daily x30 days post-op 
+
+ 
+Discharge Medications:
+1.  ARIPiprazole 4 mg PO QHS  
+2.  BuPROPion (Sustained Release) 100 mg PO BID  
+3.  LamoTRIgine 300 mg PO QHS  
+4.  LOPERamide ___ mg PO QID:PRN diarrhea  
+5.  Psyllium Wafer 1 WAF PO ASDIR  
+6.  Lovenox 40 mg SC daily x30 days post-op 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for conservative management of 
+a small bowel obstruction, most likely caused by scar tissue 
+(adhesions) from your surgeries. Your bowels have recovered and 
+you are now tolerating a regular diet without nausea or pain and 
+are passing gas and having bowel movements. You are now safe to 
+return home to continue your recovery from your recent surgery. 
+
+You should resume your care as you were prior to this 
+hospitalization. This means you can shower but should still not 
+submerge in tubs/pools yet. You should continue to put dry gauze 
+on your prior ileostomy site to keep your clothes clean and dry 
+and prevent rubbing/irritation. You should not lift more than 10 
+pounds for another 4 weeks. You should continue to eat a regular 
+diet as tolerated. You should have all of your previous 
+medications as you were previously taking. You should follow-up 
+in clinic as previously planned. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-14 | hadm_id=28957200
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Ulcerative colitis
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic proctectomy with ileal pouch anal
+anastomosis and diverting loop ileostomy.
+
+ 
+History of Present Illness:
+Mr. ___ presented to clinic in ___  for a visit, status 
+post
+laparoscopic abdominal colectomy with end ileostomy on ___ by Dr. ___.  He reported  doing well since his last 
+appointment.   He denied any fever, chills, nausea, vomiting
+or bleeding.  His appetite and energy were back to baseline.  
+His
+stoma is located in the lower right quadrant, beefy red, without 
+signs of bleeding or trauma with the stoma or
+surrounding it.  Mr. ___ reported he was anxious to get to the 
+next
+surgery.  Physical exam revealed an abdomen soft, non tender, 
+non distended, active bowel sounds. Laparoscopic sites and 
+incision well approximated.  Ileostomy
+located at the lower right quadrant of the abdomen. Stoma
+beefy red with no prolapse or bleeding. He was consented in 
+clinic by Dr. ___  for the creation of a J-pouch with
+diverting ileostomy.  Patient agreed to this plan, his questions
+were answered. On ___ he presented to ___ to undergo 
+Laparoscopic proctectomy with ileal pouch anal anastomosis and 
+diverting loop ileostomy.
+ 
+Past Medical History:
+- Spinal fusion surgery (___) for kyphoscoliosis
+- Mood disorder NOS
+- Sinus surgery (___),
+- Migraines
+ 
+Social History:
+___
+Family History:
+Sister has ulcerative colitis.
+ 
+Physical Exam:
+P/E:  
+ VS: 97.9    128/77  83  18  97 RA  
+ GEN: WD, WN in NAD  
+ HEENT: NCAT, EOMI, anicteric  
+ CV: RRR 
+ PULM: normal excursion, no respiratory distress  
+ ABD: soft, NT, less distention, gas and liquid stool in ostomy, 
+incision c/d/i
+ EXT: WWP, no CCE 
+ NEURO: A&Ox3, no focal neurologic deficits  
+ PSYCH: normal judgment/insight, normal memory, normal
+mood/affect  
+ 
+Pertinent Results:
+___ 07:30AM BLOOD WBC-7.7 RBC-4.39* Hgb-12.6* Hct-39.4* 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-12.0 RDWSD-39.2 Plt ___
+___ 07:09AM BLOOD WBC-10.6* RBC-4.63 Hgb-13.3* Hct-41.5 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-12.2 RDWSD-40.1 Plt ___
+___ 07:34AM BLOOD WBC-10.6* RBC-4.42* Hgb-12.8* Hct-38.5* 
+MCV-87 MCH-29.0 MCHC-33.2 RDW-11.7 RDWSD-37.5 Plt ___
+___ 05:35PM BLOOD WBC-10.4*# RBC-5.30# Hgb-15.2# Hct-47.5# 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-12.0 RDWSD-39.1 Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 07:09AM BLOOD Plt ___
+___ 07:34AM BLOOD Plt ___
+___ 05:35PM BLOOD Plt ___
+___ 07:30AM BLOOD Glucose-88 UreaN-6 Creat-0.8 Na-138 K-4.2 
+Cl-98 HCO3-28 AnGap-12
+___ 07:09AM BLOOD Glucose-98 UreaN-5* Creat-0.8 Na-140 
+K-4.3 Cl-103 HCO3-25 AnGap-12
+___ 07:34AM BLOOD Glucose-91 UreaN-8 Creat-0.7 Na-141 K-4.2 
+Cl-103 HCO3-24 AnGap-14
+___ 05:35PM BLOOD Glucose-152* UreaN-6 Creat-1.0 Na-138 
+K-3.9 Cl-97 HCO3-27 AnGap-14
+___ 07:30AM BLOOD Calcium-9.3 Phos-3.5 Mg-2.1
+___ 07:09AM BLOOD Calcium-9.3 Phos-3.0 Mg-2.1
+___ 07:34AM BLOOD Calcium-9.1 Phos-4.5 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with h/o UC refractory to medical 
+management, he was admitted on ___ to undergo a 
+laparoscopic proctectomy with ileal pouch anal anastomosis and 
+diverting loop ileostomy. He tolerated well the procedure and 
+achieved postoperative milestones on time. He presented high 
+ileostomy output to 1300cc on POD1, improving with medical 
+management until reaching 600cc over 18 hours at the date of 
+discharge. He presented an isolated episode of emesis on POD2, 
+by ___ he denied nausea, had no vomit episodes, WBC decreased 
+to 7 (10), and ileostomy OP improved. He is currently feeling 
+well, pain under control, no nausea, vomit, or GI complaints. He 
+ambulates independently and has reassuring laboratory data. Ha 
+agrees to discharge and will continue care at home. He was 
+discharged with ___ help for ileostomy care, with instructions 
+for daily weights and on a 30 day course of enoxaparin.
+ 
+Medications on Admission:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+2.  Enoxaparin Sodium 40 mg SC DAILY Duration: 28 Days 
+Start: ___, First Dose: First Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous once a day Disp 
+#*28 Syringe Refills:*0 
+3.  *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+4.  PredniSONE 20 mg PO DAILY Duration: 2 Doses 
+please see taper instructions in d/c instructions 
+Tapered dose - DOWN 
+RX *prednisone 5 mg 4 tablet(s) by mouth once a day Disp #*40 
+Tablet Refills:*1 
+5.  ARIPiprazole 4 mg PO DAILY  
+6.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+7.  LamoTRIgine 300 mg PO DAILY  
+8.  Multivitamins W/minerals 1 TAB PO DAILY  
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID  
+2.  Enoxaparin Sodium 40 mg SC DAILY Duration: 30 Days 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC once a day Disp #*30 
+Syringe Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*20 Tablet Refills:*0 
+4.  ARIPiprazole 2 mg PO DAILY  
+5.  BuPROPion 100 mg PO BID  
+6.  LamoTRIgine 150 mg PO BID  
+7. Loperamide OTC as needed per discharge instructions, which 
+were reviewed with the patient
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ulcerative proctitis.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+___ were admitted to ___ for a pouch placement and had a new 
+ileostomy created. 
+
+Ileostomy
+ ___ have a new ileostomy. The most common complication from a 
+new ileostomy placement is dehydration. The output from the 
+stoma is stool from the small intestine and the water content is 
+very high. The stool is no longer passing through the large 
+intestine which is where the water from the stool is reabsorbed 
+into the body and the stool becomes formed. ___ must measure 
+your ileostomy output for the next few weeks. The output from 
+the stoma should not be more than 1200cc or less than 500cc. If 
+___ find that your output has become too much or too little, 
+please call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if ___ notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as Gatorade. Please monitor yourself for signs and symptoms 
+of dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a 
+regular diet with your new ileostomy. However it is a good idea 
+to avoid fatty or spicy foods and follow diet suggestions made 
+to ___ by the ostomy nurses.  
+Please weigh yourself daily and call the office if your weight 
+decreases, as this may also be an indicator of high ostomy 
+output and dehydration.
+ Please monitor the appearance of the ostomy and stoma and care 
+for it as instructed by the wound/ostomy nurses. ___ stoma 
+(intestine that protrudes outside of your abdomen) should be 
+beefy red or pink, it may ooze small amounts of blood at times 
+when touched and this should subside with time. The skin around 
+the ostomy site should be kept clean and intact. Monitor the 
+skin around the stoma for bulging or signs of infection listed 
+above. Please care for the ostomy as ___ have been instructed by 
+the wound/ostomy nurses. ___ will be able to make an appointment 
+with the ostomy nurse in the clinic 7 days after surgery. ___ 
+will have a visiting nurse at home for the next few weeks 
+helping to monitor your ostomy until ___ are comfortable caring 
+for it on your own.  
+
+Goal Ileostomy output is 500-1200cc. Here are general guides. If 
+this does not work for ___, please call the office with any 
+questions or concerns.
+ 1) Start with 1mg of loperamide 4 times a day for ileostomy 
+output >500cc by noon, if by noon ___ have greater than 1000cc 
+___ can take 2mg of loperamide 4 times a day 
+ 2) If the 2 loperamide 4 times a day does not slow down your 
+output to be on tract for <1200cc in 24 hours, please add 2 
+psyllium wafers three times a day 
+ 4) If the loperamide and wafers do not work, ___ can increase 
+your loperamide to 4 tablets 4 times a day. Do not exceed 16mg 
+in 24 hours. 
+ 3) If this does not work, ___ can add opium Max 100/day. ___ 
+will not be prescribed this at discharge, but should call the 
+office if despite 4mg 4 times a day of loperamide and 2 wafers 3 
+times a day your output is above 1200cc per day.  The office 
+will likely have ___ start with 1 drop 3 times a day. ___ can 
+advance by 1 drop a day (1 drop three times a day--> 2 drops 
+three times a day--> 3 drops three times a day). Please titrate 
+slowly so that ___ do not get too thick of output and your 
+output drops below 500cc per day. 
+ 4) Please make sure ___ continue to drink enough fluids to 
+replace at minimum what is coming out of your ostomy. So if ___ 
+are having 1500cc out of your ostomy, ___ need to drink at least 
+1.5L of fluids. 
+Call the office if ___ have any questions or concerns. 
+
+For follow up, please measure and register your WEIGHT EVERY DAY 
+until follow up. Call the office if ___ are losing weight, as 
+this may be a sign of dehydration and result of increased ostomy 
+output
+
+If ___ have any of the following symptoms please call the office 
+for advice ___:  
+ fever greater than 101.5  
+ increasing abdominal distension  
+ increasing abdominal pain  
+ nausea/vomiting  
+ inability to tolerate food or liquids  
+ prolonged loose stool  
+ extended constipation  
+ inability to urinate  
+
+ Incisions:  
+ Your laparoscopic surgical incisions on your abdomen which are 
+closed with internal sutures. These are healing well however it 
+is important that ___ monitor these areas for signs and symptoms 
+of infection including: increasing redness of the incision 
+lines, white/green/yellow/malodorous drainage, increased pain at 
+the incision, increased warmth of the skin at the incision, or 
+swelling of the area.  
+ ___ may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips), these will fall off 
+over time, please do not remove them. Please no baths or 
+swimming until cleared by the surgical team.  
+
+ Pain  
+ It is expected that ___ will have pain after surgery and this 
+pain will gradually improved over the first week or so ___ are 
+home. ___ will especially have pain when changing positions and 
+with movement. ___ may continue to take 2 Extra Strength Tylenol 
+(1000mg) for pain every 8 hours around the clock and ___ may 
+also take Advil (Ibuprofen) 600mg every hours for 7 days. Please 
+do not take more than 3000mg of Tylenol in 24 hours or any other 
+medications that contain Tylenol such as cold medication. Do not 
+drink alcohol while or Tylenol. Please take Advil with food. If 
+these medications are not controlling your pain to a point where 
+___ can ambulate and preform minor tasks, ___ should take a dose 
+of the narcotic pain medication oxycodone. Please take this only 
+if needed for pain. Do not take with any other sedating 
+medications or alcohol. Do not drive a car if taking narcotic 
+pain medications.  
+
+ Activity  
+ ___ may feel weak or "washed out" for up to 6 weeks after 
+surgery. No heavy lifting greater than a gallon of milk for 3 
+weeks. ___ may climb stairs. ___ may go outside and walk, but 
+avoid traveling long distances until ___ speak with your 
+surgical team at your first follow-up visit. Your surgical team 
+will clear ___ for heavier exercise and activity as the observe 
+your progress at your follow-up appointment. ___ should only 
+drive a car on your own if ___ are off narcotic pain medications 
+and feel as if your reaction time is back to normal so ___ can 
+react appropriately while driving.  
+
+Thank ___ for allowing us to participate in your care! Our hope 
+is that ___ will have a quick return to your life and usual 
+activities.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18053084-DS-17 | hadm_id=29722187
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, abdominal pain and distention
+
+ 
+Major Surgical or Invasive Procedure:
+No surgical or invasive procedures on this admission
+
+ 
+History of Present Illness:
+HPI: ___ prior severe ulcerative colitis s/p lap abdominal
+colectomy w end ileostomy (___), lap proctectomy w IPAA w
+diverting loop ileostomy (___), & ileostomy takedown
+(___) presents with nausea and abdominal pain that started
+last night and continued this morning. He vomited today. He has
+not had bowel movements since last night which is unusual for 
+him
+as he usually goes ___ times per day. He had a small bowel
+obstruction with similar presentation in ___ (five months
+ago) that resolved with expectant management. 
+
+ 
+Past Medical History:
+Past Medical History:
+-Mood disorder NOS  
+-Migraines  
+-Ulcerative colitis 
+
+Past Surgical History:
+-Spinal fusion surgery for kyphoscoliosis (___)
+-Sinus surgery (___)  
+-Laparoscopic abdominal colectomy w end ileostomy ___, VP)
+-Laparoscopic proctectomy w ileal pouch anal anastomosis & 
+diverting loop ileostomy ___, VP)
+-Ileostomy takedown ___, TC)
+
+ 
+Social History:
+___
+Family History:
+(unchanged)
+-Sister has UC. 
+
+ 
+Physical Exam:
+Gen: NAD
+CV: RRR
+Pulm: nonlabored breathing on room air
+abd: s, nt, nd
+ 
+Pertinent Results:
+___ 01:49PM   ___ COMMENTS-GREEN TOP 
+___ 01:49PM   LACTATE-1.3
+___ 01:40PM   WBC-8.1 RBC-5.04 HGB-13.4* HCT-42.5 MCV-84 
+MCH-26.6 MCHC-31.5* RDW-13.8 RDWSD-42.5
+___ 01:40PM   NEUTS-76.6* LYMPHS-16.6* MONOS-5.2 EOS-0.4* 
+BASOS-0.2 IM ___ AbsNeut-6.21* AbsLymp-1.35 AbsMono-0.42 
+AbsEos-0.03* AbsBaso-0.___ prior UC s/p lap abdominal colectomy w end ileostomy
+(___), lap proctectomy w IPAA w diverting loop
+___, & ileostomy takedown (___) with prior
+admission for SBO that resolved non-operatively (___) now 
+with
+recurrent signs and symptoms of SBO. KUB confirmed the same. 
+Upon admission, he was well appearing and non-toxic, labs 
+unconcerning for bowel ischemia. He was  admitted to colorectal 
+surgery for bowel rest. On HO1 he remained on bowel rest, doing 
+well. He began having bowel movements and was advanced to a 
+clear diet. On HO2, he was advanced to a regular diet, tolerated 
+it well. He was ambulating, pain well controlled, vitals stable, 
+passing flatus and bowel movements. He was safe and stable for 
+discharge. All appropriate follow up appointments and 
+instructions were given.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ARIPiprazole 4 mg PO DAILY 
+2. BuPROPion (Sustained Release) 100 mg PO BID 
+3. LamoTRIgine 300 mg PO QHS 
+4. LOPERamide ___ mg PO QID:PRN loose stools 
+5. Psyllium Wafer 1 WAF PO DAILY:PRN loose stools 
+
+ 
+Discharge Medications:
+1.  ARIPiprazole 4 mg PO DAILY  
+2.  BuPROPion (Sustained Release) 100 mg PO BID  
+3.  LamoTRIgine 300 mg PO QHS  
+4.  LOPERamide ___ mg PO QID:PRN loose stools  
+5.  Psyllium Wafer 1 WAF PO DAILY:PRN loose stools  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for a small bowel obstruction. 
+You were given bowel rest and intravenous fluids. Fortunately 
+your obstruction resolved after conservative management and you 
+did not require placement of a nasogastric tube or operative 
+management. You are now tolerating a regular diet, passing gas 
+and bowel movements, and your abdominal pain is resolved. You 
+may return to all usual home medications. If you have mild 
+abdominal pain, you may take Tylenol. If you find that you need 
+more than Tylenol to control any abdominal pain in the next few 
+days, please call us to discuss whether you might need to return 
+to the hospital.
+
+If you have any of the following symptoms please call the office 
+for advice or go to the emergency room if severe: increasing 
+abdominal distension, increasing abdominal pain, nausea, 
+vomiting, inability to tolerate food or liquids, prolonged loose 
+stool, or extended constipation.
+
+Our hope is that you will have a quick return to your life and 
+usual activities. Thank you for allowing us to participate in 
+your care!
+ 
+Followup Instructions:
+___

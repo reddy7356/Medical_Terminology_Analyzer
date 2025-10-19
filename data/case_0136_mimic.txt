@@ -1,0 +1,158 @@
+===== DISCHARGE NOTE =====
+note_id=12462414-DS-9 | hadm_id=20542778
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Sepsis
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ man w/ h/o CAD s/p CABG, h/o afib, ETOH cirrhosis, DM, who 
+presented to an OSH on ___ w/ a perforated small bowel, 
+underwent enterectomy & end-ileostomy on ___, post-op course 
+complicated by renal failure, ileus, worsening hepatic failure 
+and mental status changes. He is being transferred to ___ for 
+evaluation of his multi-organ failure--there was question of him 
+having hepatorenal syndrome.  
+Summary of OSH Course:  
+- Pt p/w abd pain. Initially treated conservatively w/ IVF and 
+levo/ flagyl. However, his pain persisted and lactate up to 6.1. 
+ 
+- Pt went for ex lap, which reportedly revealed perforated small 
+bowel. He underwent enterectomy w/ end ileostomy.  
+- Post-op he was extubated. However, he had increasing 
+respiratory distress and required intermittent Bipap. On day of 
+transfer, he was requiring persistent Bipap due to hypoxemia: 
+ABG ___ 50% Fi02 on Bipap. He was intubated prior to 
+transfer to ___.  
+- Pt described as having MS changes ___/ possible hepatic 
+encephalopathy. He reportedly Opened eyes, responded 
+"intermittently" to voice.  
+- He developed acute renal failure of unclear cause. His bumped 
+from 0.48 to 1.58 post-op. OSH was unable to be measure crt on 
+last day or two of his OSH stay ___ elevated bili. Renal US w/ 
+no hydro (per erport).  
+- Pt described as having post-op ileus for which an NGT placed. 
+He was started on TPN b/c ileus.  
+- LFTs notable for Tbili 20.8, up from 6.8 on admission. Direct 
+bili 14.9. AST 85, ALT 49. INR 2.1. Alb 2.4.  
+- Pt noted to have ascites w/ bacteroides uniformis (few) and 
+rare clostridium species (not perfringens) growing in it.  
+- Cdiff test positive from ___ of pt's admission, 
+suggesting he had it prior to presenting.  
+- Pt treated with flagyl/levo from outset of hospital stay 
+(___) and zosyn was added (? ___  
+- Had afib w/ rates up to 140s. Was getting dig for this.  
+- Trop 0.11. EKG unchanged from prior.  
+- Pt developed hypotension. He was started on levophed. Serum 
+cortisol 22.1 (unclear if random level). Lactic acid 2.9 prior 
+to transfer.  
+- Plt 29K (chronically low--for years)  
+- Pt noted to have coagulopathy w/ INR 2.1  
+- Got re-intubated by EMS, AC 550x10/5/100%; on levophed,  
+
+ 
+Past Medical History:
+- CAD s/p CABG  
+- DM  
+- ETOH cirrhosis  
+- Colon cancer s/p resection & radiation  
+- Chronic thrombocytopenia & ? leukonpenia  
+- Group B strep sepsis of unknown source in ___  
+- AAA  
+- HTN  
+- Hypercholesterolemia  
+-GERD  
+-Esophagitis  
+- Echo ___ (OSH) nml LV function, LVH & biatrial enlargement. 
+Mild MR, Mild to mod TR, mild to mod PAH. (EF 64% on MIBI ___  
+
+- EGD ___ showed "diffuse mild inflation at GE junction--not 
+biopsied--and gastritis.  
+- Colonscopy rectal polyp (rsected  
+
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+VS: T: 95.6 HR: 105 BP: 117/62 (on 0.25 levophed) Sat: 92% on AC 
+550x14, 5, 100%  
+Gen: NAD, when sedation wears off pt follows one step commands & 
+shakes his head "no" when asked if he is in pain.  
+HEENT: NCAT, PERRL, sclera icteric  
+Neck: Supple, no LAD, no JVD  
+CV: distant hrt sounds; nml S1/S2, no m/r/g  
+Resp: course breath sounds b/l anteriorly  
+Abdomen: Distended but Soft, absent BS, NT, vertical ~midline 
+surgical incision w/ areas open space where fluid is leaking out 
+___ fell out in those areas), fluid draining appears 
+serosanguinous. Ostomy draining serosainguinous fluid  
+Ext: No c/c/e. DP pulses are 2+ bilaterally  
+Neuro: A + O x 3, CN II-XII grossly intact, Motor ___ both upper 
+and lower extremities  
+Skin: Pink, warm, no rashes  
+
+ 
+Brief Hospital Course:
+___ year-old man with CAD s/p CABG, PAF, reported cirrhosis from 
+ETOH abuse, and chronic thrombocytopenia, ___ s/p enterectomy 
+& end-ileostomy for small bowel perforation, who is transferred 
+with multiorgan failure.  
+.  
+# Shock: Pt presented from OSH already on one pressor with 
+evidence for multisystem organ failure including ARF. Had been 
+intubated prior to transport.  On arrival pt rapidly 
+decompensated with hypotension refractory to IVF and eventually 
+maxed out on 4 pressors.  He was treated broadly with 
+antibiotics, daptomycin, ceftazadime, PO vancomycin, IV flagyl.  
+His lactate continued to elevated and he stopped making urine. A 
+family meeting was held during the day when pt's pressures could 
+not be maintained on max presssors and fluids.  The decision was 
+made not to withdraw care but it was agreed that CPR would not 
+be indicated.  The patient passed away with his family present 
+at ___.  
+ 
+Medications on Admission:
+Dig 0.25mg  
+Toprol Xl 50mg  
+ASA 81  
+PRotonix 40mg  
+? Glyburide  
+
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Sepsis
+Multiorgan failure
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

@@ -1,0 +1,381 @@
+===== DISCHARGE NOTE =====
+note_id=13303843-DS-16 | hadm_id=21519524
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is an ___ yo F who presented to OSH with severe L-sided 
+flank pain after a fall. Per pt, she was walking around outside 
+when she tripped and fell down 4 stairs landing on her side. 
+Struck her nose but did not lose consciousness. Rib xrays at OSH 
+showed nondisplaced fractures of L posterior ribs ___. Due to 
+pt's need for follow by a cardiothoracic surgeon, pt was 
+transferred to ___. Of note, pt has underlying lung 
+malignancy, currently undergoing treatment at ___ with 
+recent Port-a-Cath placement ___.
+
+ 
+Past Medical History:
+-anal fissures
+-HTN
+-hypercholestrolemia
+-hyperlipidemia
+-LUL and RUL lung cancer (finished RXT, now on chemotherapy)
+-abdominal aortic aneurysm, s/p open repair
+-COPD, O2 dependent at baseline
+-arthritis
+-CHF
+-s/p open cholecystectomy
+-type II DM
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+Physical Exam upon discharge:
+VS: 98.5, 94, 97/58, 18, 98%/4L
+Gen: NAD, ambulating around room
+Heent: EOMI, MMM 
+Cardiac: Irregular, rate controlled
+Pulm: Lungs diminished at bases
+Abdomen: Soft/nontender/nondistended
+Ext: + pedal pulses. No CCE
+Neuro: AAOx4, normal mentation.
+ 
+Pertinent Results:
+___ 05:50AM BLOOD WBC-12.9* RBC-2.46* Hgb-6.9* Hct-23.2* 
+MCV-94 MCH-28.2 MCHC-29.8* RDW-20.1* Plt ___
+___ 06:13AM BLOOD WBC-12.2* RBC-2.52* Hgb-7.3* Hct-23.3* 
+MCV-92 MCH-28.9 MCHC-31.3 RDW-20.5* Plt ___
+___ 02:04AM BLOOD WBC-15.0* RBC-2.49* Hgb-7.1* Hct-22.4* 
+MCV-90 MCH-28.7 MCHC-31.8 RDW-20.6* Plt ___
+___ 03:08AM BLOOD WBC-13.7* RBC-2.71* Hgb-7.7* Hct-24.6* 
+MCV-91 MCH-28.5 MCHC-31.4 RDW-20.2* Plt ___
+___ 03:29AM BLOOD WBC-12.9* RBC-2.96* Hgb-8.5* Hct-26.4* 
+MCV-89 MCH-28.6 MCHC-32.1 RDW-19.2* Plt ___
+___ 03:13AM BLOOD WBC-19.4* RBC-3.09* Hgb-8.5* Hct-27.1* 
+MCV-88 MCH-27.6 MCHC-31.4 RDW-17.4* Plt ___
+___ 09:10AM BLOOD WBC-4.8 RBC-2.96* Hgb-8.6* Hct-25.9* 
+MCV-88 MCH-29.0 MCHC-33.1 RDW-15.4 Plt ___
+___ 01:05AM BLOOD WBC-4.6 RBC-3.19* Hgb-9.1* Hct-27.2* 
+MCV-85 MCH-28.5 MCHC-33.4 RDW-15.3 Plt ___
+___ 02:55AM BLOOD Neuts-93* Bands-3 Lymphs-3* Monos-1* 
+Eos-0 Baso-0 ___ Myelos-0
+___ 04:01PM BLOOD Neuts-88* Bands-4 Lymphs-3* Monos-5 Eos-0 
+Baso-0 ___ Myelos-0
+___ 01:05AM BLOOD Neuts-84.2* Lymphs-9.0* Monos-6.4 Eos-0.1 
+Baso-0.3
+___ 05:50AM BLOOD ___
+___ 06:13AM BLOOD ___ PTT-79.9* ___
+___ 04:30PM BLOOD ___ PTT-86.0* ___
+___ 08:12AM BLOOD ___ PTT-123.9* ___
+___ 02:04AM BLOOD ___ PTT-94.3* ___
+___ 12:45PM BLOOD ___ PTT-81.8* ___
+___ 03:08AM BLOOD ___ PTT-74.9* ___
+___ 10:45AM BLOOD ___ PTT-58.2* ___
+___ 11:59AM BLOOD ___ PTT-49.8* ___
+___ 08:15PM BLOOD ___ PTT-30.8 ___
+___ 01:05AM BLOOD ___ PTT-30.6 ___
+___ 05:50AM BLOOD Glucose-152* UreaN-13 Creat-0.9 Na-137 
+K-4.1 Cl-104 HCO3-25 AnGap-12
+___ 06:13AM BLOOD Glucose-158* UreaN-11 Creat-1.0 Na-136 
+K-3.7 Cl-103 HCO3-25 AnGap-12
+___ 02:04AM BLOOD Glucose-60* UreaN-11 Creat-1.1 Na-136 
+K-4.4 Cl-103 HCO3-20* AnGap-17
+___ 03:20PM BLOOD Glucose-234* UreaN-8 Creat-1.0 Na-135 
+K-5.0 Cl-102 HCO3-21* AnGap-17
+___ 02:55AM BLOOD Glucose-273* UreaN-29* Creat-1.5* Na-137 
+K-4.4 Cl-99 HCO3-17* AnGap-25*
+___ 04:01PM BLOOD Glucose-237* UreaN-28* Creat-1.5* Na-134 
+K-4.4 Cl-100 HCO3-16* AnGap-22*
+___ 12:16PM BLOOD Glucose-170* UreaN-27* Creat-1.5* Na-137 
+K-3.8 Cl-101 HCO3-19* AnGap-21*
+___ 06:28AM BLOOD Glucose-147* UreaN-23* Creat-1.0 Na-135 
+K-4.5 Cl-100 HCO3-21* AnGap-19
+___ 01:05AM BLOOD Glucose-234* UreaN-16 Creat-0.8 Na-134 
+K-4.1 Cl-99 HCO3-17* AnGap-22*
+___ 05:50AM BLOOD Calcium-7.9* Phos-3.8 Mg-2.3
+___ 06:13AM BLOOD Calcium-7.8* Phos-3.4 Mg-2.2
+___ 02:04AM BLOOD Calcium-8.1* Phos-2.8 Mg-2.5
+___ 03:20PM BLOOD Calcium-8.1* Phos-2.8 Mg-2.6
+___ 03:08AM BLOOD Calcium-7.7* Phos-2.8 Mg-1.9
+___ 03:29AM BLOOD Calcium-8.3* Phos-2.6* Mg-1.9
+___ 06:30PM BLOOD Calcium-8.4 Phos-2.1* Mg-1.9
+___ 02:50PM BLOOD Digoxin-1.4
+___ 02:04AM BLOOD Digoxin-1.2
+___ 03:29AM BLOOD Digoxin-1.1
+___ 02:54AM BLOOD Digoxin-3.8*
+___ 04:04PM BLOOD Digoxin-3.7*
+
+___   Imaging CHEST (PORTABLE AP) 
+FINDINGS:  There remains complete collapse of the left upper 
+lobe, known to be post-obstructive in this patient with history 
+of central left lung cancer.  Left lower lobe consolidation may 
+represent an infectious pneumonia given appearance on recent CT 
+of two days earlier.  Within the right lung, interstitial edema 
+is present as well as a known cavitarymass in the right upper 
+lobe. 
+
+___BD & PELVIS WITH CO 
+IMPRESSION: 
+New left lower lobe consolidation, concerning for pneumonia.  
+Left lower lobe bronchial secretions suggest aspiration and/or 
+difficulty clearing secretions, which is concordant with known 
+airway obstruction by large left perihilar mass. 
+
+___   Cardiovascular ECHO 
+The left atrium is moderately dilated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Mild to moderate (___) mitral regurgitation is 
+seen. There is mild pulmonary artery systolic hypertension. 
+There is no pericardial effusion. 
+
+IMPRESSION: No cardiac source of embolism seen. Preserved global 
+and regional biventricular systolic function. Mild to moderate 
+mitral regurgitation. Mild pulmonary hypertension.  
+
+___HEST W/CONTRAST 
+IMPRESSION: 
+1.  Large left perihilar mass encasing and occluding the left 
+upper bronchus 
+and nearly occluding the left pulmonary artery.  3.9 cm cavitary 
+right upper 
+lobe mass is consistent with metastasis. 
+2.  Small left-sided pneumothorax. 
+3.  Intra- and extra-hepatic biliary ductal dilatation.  
+Differential 
+considerations include pancreatic metastases or a second primary 
+malignancy.  
+Benign etiologies such as stricture are also possible. 
+4.  Poor perfusion of the multi-cystic right kidney. 
+5.  3.7 cm abdominal aortic aneurysm at the level of the hiatus. 
+ Severe 
+celiac artery stenosis. 
+6.  Findings consistent with chronic aspiration at the left 
+lower lobe. 
+
+___-SPINE W/O CONTRAST 
+IMPRESSION: 
+1.  No evidence for a fracture of the cervical spine. Normal 
+alignment. 
+2.  Multilevel degenerative disease. 
+3.  4.1 cm cavitary spiculated pulmonary mass in the right upper 
+lobe, 
+consistent with the patient's known lung cancer. Left upper lobe 
+collapse, as 
+seen on ___. 
+4.  Carotid atherosclerosis.
+
+___   Imaging CHEST (PORTABLE AP) 
+IMPRESSION: 
+1.  Small left pneumothorax. 
+2.  Left upper lobe collapse.  Left lower opacities better 
+charachterized on subsequent CT. 
+3.  Spiculated right upper lobe mass, better charachterized on 
+subsequent CT. 
+  
+ 
+
+  
+
+ 
+
+ 
+Brief Hospital Course:
+Ms ___ is an ___ year old female with bilateral upper 
+lobe cancer who suffered a fall down four stairs while at home. 
+She presented to the ___ ED where it was discovered that she 
+had a small left-sided pneumothorax, in addition to fractures of 
+the left ribs ___. She was admitted to the hospital for 
+monitoring and pain control. 
+
+Upon admission her pain was well controlled with an oral pain 
+regmimen, with intravenous medication for break through pain. 
+She had a chest xray that revealed a left lower lobe pneumonia. 
+She was started on intravenous zosyn and vancomycin. She was 
+also given lasix to diurese her in the setting of volume 
+overload.  
+
+The patient was transferred to the TSICU with hypotension 
+refractory to fluid. She was tranfused with 1 unit packed red 
+blood cells for a hematocrit of 22.4, and her white blood cell 
+count increased to 14. Due to her rising white blood cell count, 
+a cat scan of abdomen and pelvis was performed and it as 
+negative for any acute process, showing a large stool burden. 
+The patient was started on an aggressive bowel regimen. At this 
+time, a heparin gtt was started for atrial fibrillation. The 
+patient's sputum cultures grew out HAEMOPHILUS INFLUENZAE, and 
+antibiotics were switched to ampicillin. The patient was digoxin 
+loaded, and was given midodrine to prevent hypotension. Due to 
+uncontrolled heart rate, the patient was started on a diltiazem 
+gtt, and coumadin was restarted. 
+
+The patient's heart rate stabilized on oral diltiazem and she 
+was transferred to the surgical floor. Her oral Diltiazem was 
+titrated to 90mg four times a day and the patient's heart rate 
+remained in the ___. The patient was restarted on her home 
+medications, including lasix. Her blood pressure remained in 
+betweeen ___, however the patient was asymptomatic. Her INR 
+was therapeutic and the heparin gtt was discontinued. The 
+patient was tolerating a regular diet, and was given Ensure 
+supplements with meals to provide her with additional nutrition. 
+She was also given Megace to stimulate her appetite.  Her white 
+blood cell count was elevated at 12, however it was stable and 
+she remained afebrile. Her antibiotic course for hospital 
+acquired pneumonia will end ___. Palliative care was 
+following the patient, providing support. The patient was 
+discharged to a rehab facility, with plan to possibly bridge to 
+hospice care in the future. 
+
+ 
+Medications on Admission:
+Lasix 40mg PO daily  
+Metoprolol 25mg PO BID  
+Zocor 80mg PO BID  
+ASA 81mg daily  
+Albuterol nebs 2.5mg INH qid  
+Advair 250/50 BID  
+Combivent MDI PRN qid  
+Spiriva 18mcg daily  
+Guaifenesin AC 5cc qid  
+Colace 200mg daily  
+Milk of magensia 30cc PRN  
+Senna 2mg daily  
+Prozac 20mg daily  
+Vicodin ES tid PRN  
+Compazine PRN  
+MVI  
+
+ 
+Discharge Medications:
+1. Ampicillin 2 g IV Q8H 
+2. Docusate Sodium 200 mg PO DAILY 
+3. Fluoxetine 20 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Acetaminophen 1000 mg PO Q6H 
+6. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB/wheeze 
+7. Albuterol-Ipratropium ___ PUFF IH Q6H:PRN shortness of breath 
+
+8. Diltiazem 90 mg PO Q6H 
+9. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Senna 1 TAB PO DAILY 
+12. Simvastatin 10 mg PO DAILY 
+13. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+GERD symptoms 
+14. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+15. Midodrine 20 mg PO TID 
+16. Pantoprazole 40 mg PO Q24H 
+17. Digoxin 0.125 mg PO DAILY 
+18. Furosemide 40 mg PO DAILY 
+19. Tiotropium Bromide 1 CAP IH DAILY 
+20. OxycoDONE (Immediate Release)  ___ mg PO Q6H:PRN pain 
+21. OLANZapine (Disintegrating Tablet) 2.5 mg PO BID:PRN 
+anxiety/agitation 
+22. Megestrol Acetate 400 mg PO DAILY 
+23. Glargine 10 Units Bedtime
+Insulin SC Sliding Scale using REG Insulin
+24. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 
+25. Lidocaine 5% Patch 1 PTCH TD DAILY 
+26. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+27. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+S/P fall
+Injuries:
+Left ___ Rib Fractures  
+Nasal bone fracture  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to ___ after you fell and sustained left 
+sided rib fractures as well a nasal bone fracture. While you 
+were hospitalized, you were tranferred to the ICU for a low 
+blood pressure and rapid atrial fibrillation. You were started 
+on antiarrythmics, and your heart rate was better controlled. 
+Upon discharge, you were tolerating a regular diet and your rib 
+pain was controlled with an oral pain regimen.  
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+ 
+Followup Instructions:
+___

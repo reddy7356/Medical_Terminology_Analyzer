@@ -1,0 +1,701 @@
+===== DISCHARGE NOTE =====
+note_id=15652508-DS-5 | hadm_id=23229301
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L foot cellulitis with chronic ischemia
+
+ 
+Major Surgical or Invasive Procedure:
+Left Common Iliac Artery Stent
+
+ 
+History of Present Illness:
+This is a ___ year old non-diabetic female smoker who has
+extensive history of PVD that has been managed by vascular
+surgeons in ___. Patient reports that she developed an area
+of redness between her L ___ and ___ toe about ___ weeks ago 
+that
+has gotten worse. Patient has been seen by both her podiatrist
+and vascular surgeon and was put on Cephalexin since ___. She
+reports that the pain has become worse and the redness is
+spreading. She denied any fever/chills/nausea/vomiting. Pt has 
+no
+chest pain/short of breath.
+
+Patient reports that she has had problem with her legs for the
+past ___ years. She complains that she has lots of pain with
+walking and at night. She says that she also has arthritis that
+has been bothering her for the past few years. She describes her
+pain as vaguely dull and occasionally sharp. It's rather
+difficult to discern whether her pain is claudication vs.
+arthritis pain. However, she states that she's able to ambulate
+more than ___ min with a walker.
+
+ 
+Past Medical History:
+- HTN - HLD - TIA in ___ and stroke in ___ - MI ___ on Plavix
+- Carpal tunnel syndrome - Colonic polyps - Intestinal angio - 
+dysplasia - Pneumonia - CHF - L kidney infart - Arthritis - 
+Jaundice - Uterine fibroid - Benign breast tumor
+
+PSHx:
+Right CEA ___, L CEA ___, Redo R CEA ___, Abdominal "vascular 
+bypass", CCY, Appendectomy, Hysterectomy, Tonsillectomy, Thumb 
+unlock, Cataract surgery, L thumb unlocked, L breast biopsy,
+Endoscopy
+
+ 
+Social History:
+___
+Family History:
+Mother died of pancreatic ca at ___
+Daughters with ___ lymphoma
+ 
+Physical Exam:
+vss afebrile
+
+Gen: elderly female, alert/oriented x3, NAD
+HEENT: supple, trach midline, no jvd, no lymphadenopathy
+Chest: clear to auscultation bilat
+CV: RRR, no m/r/g
+Abd: +bs, soft, obese, mult well-healed scars, no m/t/o
+Extrem: no edema of b/l LEs.
+ L foot: erythema involved the ___ toe and distal dorsal
+surface with tenderness, tenderness at the bottom of L heel with
+no visible ulcer/erythema
+ R foot: no lesion but tender at bottom of heel
+
+PULSES:
+  rad fem pop DP ___
+R  p   p   d   d  d
+L  p   p   d   d  n
+
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-6.9 RBC-3.53* Hgb-12.1 Hct-35.9* 
+MCV-102* MCH-34.2* MCHC-33.6 RDW-13.4 Plt ___
+___ 04:27AM BLOOD WBC-4.9 RBC-3.19* Hgb-10.7* Hct-32.8* 
+MCV-103* MCH-33.4* MCHC-32.5 RDW-13.6 Plt ___
+___ 10:10AM BLOOD WBC-5.9 RBC-3.38* Hgb-11.6* Hct-34.9* 
+MCV-103* MCH-34.2* MCHC-33.1 RDW-13.2 Plt ___
+___ 10:10AM BLOOD ___ PTT-24.4 ___
+___ 06:15AM BLOOD Glucose-128* UreaN-16 Creat-1.2* Na-137 
+K-4.1 Cl-102 HCO3-27 AnGap-12
+___ 04:27AM BLOOD Glucose-99 UreaN-27* Creat-1.2* Na-142 
+K-4.2 Cl-106 HCO3-28 AnGap-12
+___ 10:10AM BLOOD Glucose-111* UreaN-30* Creat-1.2* Na-143 
+K-4.5 Cl-105 HCO3-29 AnGap-14
+___ 06:15AM BLOOD Calcium-10.0 Phos-2.8 Mg-1.6
+___ 04:27AM BLOOD Calcium-9.1 Phos-3.1 Mg-2.1
+___ 01:53PM URINE Color-Straw Appear-Clear Sp ___
+___ 01:53PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-TR
+
+___ 11:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+___ 10:45 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+Radiology Report CAROTID SERIES COMPLETE Study Date of ___ 
+10:28 AM  - pending review
+
+CHEST (PRE-OP PA & LAT) Study Date of ___ 3:29 ___ 
+PA AND LATERAL VIEW, CHEST: Lungs are clear without 
+consolidation, pleural 
+effusion or pneumothorax. There is no pulmonary edema. Densely 
+calcified 
+bilateral subclavian artery, left more than right is noted. 
+There is also 
+dense aortic calcifications and aortic arch tortuosity. 
+  
+IMPRESSION: No acute cardiopulmonary process. Dense vascular 
+calcifications. 
+
+ 
+Brief Hospital Course:
+Pt admitted for cellulitis
+
+IV antibiotics
+
+___
+
+OPERATION:
+1. Ultrasound-guided puncture of the right common femoral
+    artery.
+2. Advancement of catheter into the infrarenal abdominal
+    aorta.
+3. Abdominal aortogram.
+4. Ultrasound-guided puncture of the left common femoral
+    artery.
+5. Stent placement at left common iliac artery.
+6. Left lower extremity serial arteriogram.
+
+No complications
+
+c/w IV antibiotics
+
+cellulitis improved
+
+___ / Stable for home
+
+PO antibiotics
+
+Had to have bowel regime to move bowels
+
+ 
+Medications on Admission:
+Atorvastatin 80mg PO daily  
+Clopidogrel 75 mg PO daily  
+Fexofenadine 60 mg PO BID  
+Metoprolol XL 50mg PO daily  
+Verapamil 120 mg PO daily  
+Furoseminde 20mg PO daily  
+Folic acid 1mg PO daily  
+Doxazosin 2mg PO daily  
+Lisinopril 2.5mg PO daily  
+
+ 
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+7. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).  
+8. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) 
+Tablet PO Q12H (every 12 hours) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain.  
+11. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO every six 
+(6) hours as needed for pain.  
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+14. Doxazosin 2 mg Tablet Sig: One (1) Tablet PO once a day.  
+15. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+L foot cellulitis
+LLE ischemia 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Lower Extremity Angioplasty/Stent Discharge Instructions
+
+Medications:
+•Take Aspirin 325mg (enteric coated) once daily 
+•Continue Plavix (Clopidogrel) 75mg once daily
+•Continue all other medications you were taking before surgery, 
+unless otherwise directed
+•You make take Tylenol or prescribed pain medications for any 
+post procedure pain or discomfort
+
+What to expect when you go home:
+It is normal to have slight swelling of the legs:
+•Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•Avoid prolonged periods of standing or sitting without your 
+legs elevated
+•It is normal to feel tired and have a decreased appetite, your 
+appetite will return with time 
+•Drink plenty of fluids and eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•When you go home, you may walk and go up and down stairs
+•You may shower (let the soapy water run over groin incision, 
+rinse and pat dry)
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing or 
+band aid over the area that is draining, as needed
+•No heavy lifting, pushing or pulling (greater than 5 lbs) for 
+1 week (to allow groin puncture to heal)
+•After 1 week, you may resume sexual activity
+•After 1 week, gradually increase your activities and distance 
+walked as you can tolerate
+•No driving until you are no longer taking pain medications
+•Call and schedule an appointment to be seen in ___ weeks for 
+post procedure check and ultrasound 
+
+What to report to office:
+•Numbness, coldness or pain in lower extremities 
+•Temperature greater than 101.5F for 24 hours
+•New or increased drainage from incision or white, yellow or 
+green drainage from incisions
+•Bleeding from groin puncture site
+
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+•Lie down, keep leg straight and have someone apply firm 
+pressure to area for 10 minutes. If bleeding stops, call 
+vascular office ___. If bleeding does not stop, call 
+___ for transfer to closest Emergency Room. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15652508-DS-6 | hadm_id=27929740
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Demerol / morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Ischemic Pain. 
+
+ 
+Major Surgical or Invasive Procedure:
+PROCEDURES:  Ultrasound-guided vascular access, abdominal
+aortogram, cath placement contralateral second-order.
+
+OPERATION:
+1. Ultrasound-guided puncture of right common femoral
+    artery.
+2. Contralateral second-order catheterization of left
+    external iliac artery.
+3. Serial arteriogram of left lower extremity.
+
+PROCEDURE:  Extensive left iliofemoral
+endarterectomy/profundoplasty with saphenous vein
+angioplasty.
+
+ 
+History of Present Illness:
+___ h/o b/l CEAs, unknown "abdominal
+vascular bypass," and L common iliac artery stent placement
+admitted L lower leg ischemia and ulceration. Patient has a 
+known
+history of L leg ischemia, with pain for ___ years and 
+ulceration
+between left ___ toe for ___ years. Followed by vascular
+surgeon in ___. Had unknown right-sided bypass procedure.
+Angiogram ___ demonstrated L SFA occlusion w/ distal
+reconstitution, diffuse tibial disease, and L foot supplied
+through AT; a stent was placed in her left common iliac artery 
+at
+this time. Angiogram at this time demonstrated Has claudication
+in right foot and rest pain in left foot. Has pins and needle
+sensation in left foot. Left foot cold chronically. No numbness
+or weakness in foot.
+
+Also has had daily episodes of falling since last week. Was on
+the floor for several hours after last episodes. Patient denies
+precipitating events, though may have slipped on carpet several
+times. No loss of consciousness. Has brief episodes of 
+dizziness.
+No transient episodes of visual changes, sensory changes, or
+weakness. Carotid ultrasound on ___ demonstrated 60-69%
+stenosis bilaterally.
+
+ 
+Past Medical History:
+- HTN - HLD - TIA in ___ and stroke in ___ - MI ___ on Plavix
+- Carpal tunnel syndrome - Colonic polyps - Intestinal angio - 
+dysplasia - Pneumonia - CHF - L kidney infart - Arthritis - 
+Jaundice - Uterine fibroid - Benign breast tumor
+
+PSHx:
+Right CEA ___, L CEA ___, Redo R CEA ___, Abdominal "vascular 
+bypass", CCY, Appendectomy, Hysterectomy, Tonsillectomy, Thumb 
+unlock, Cataract surgery, L thumb unlocked, L breast biopsy,
+Endoscopy
+
+ 
+Social History:
+___
+Family History:
+Mother died of pancreatic ca at ___
+Daughters with ___ lymphoma
+ 
+Physical Exam:
+PHYSICAL EXAM
+Vital Signs: Temp: 97.5 RR: 18 Pulse: 76 BP: ___  
+Neuro/Psych: Oriented x3, Affect Normal, NAD, abnormal: Thin. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, abnormal: B/l carotid bruits,
+L>R. 
+Nodes: No clavicular/cervical adenopathy, No inguinal 
+adenopathy.
+
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses. 
+Rectal: Not Examined. 
+Extremities: No femoral bruit/thrill, No RLE edema, No LLE 
+Edema,
+No varicosities, abnormal: L foot cyanosis. 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. 
+LUE Radial: P. 
+RLE Femoral: P. Popiteal: D. DP: D. ___: N. 
+LLE Femoral: P. Popiteal: D. DP: N. ___: N. 
+ 
+DESCRIPTION OF WOUND: 2 mm ulcer plantar surface L foot without
+surrounding erythema or drainage
+ 
+
+ 
+Pertinent Results:
+___ 05:41AM BLOOD 
+
+WBC-7.7 RBC-3.48* Hgb-10.8* Hct-30.8* MCV-88 MCH-31.1 MCHC-35.2* 
+RDW-18.0* Plt ___
+
+___ 05:41AM BLOOD 
+
+___ PTT-45.7* ___
+
+___ 05:41AM BLOOD 
+
+Glucose-111* UreaN-24* Creat-1.2* Na-139 K-3.6 Cl-101 HCO3-29 
+AnGap-13
+
+___ 05:17PM 
+
+URINE Color-Straw Appear-Clear Sp ___
+URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG 
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+___ 1:19 am URINE      Source: Catheter. 
+
+URINE CULTURE (Final ___: 
+
+ESCHERICHIA COLI.    PRESUMPTIVE IDENTIFICATION. >100,000 
+ORGANISMS/ML.
+
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ECHO:
+
+Conclusions  
+
+Left ventricular wall thicknesses and cavity size are normal. 
+There is moderate regional left ventricular systolic dysfunction 
+with near-akinesis of the mid- and distal segments of the 
+anterior wall and septum. True LV apex is incompletely 
+visualized, but also appears hypo-/akinetic. The remaining 
+segments contract normally (LVEF = 35%). Right ventricular 
+chamber size is normal. with focal hypokinesis of the apical 
+free wall. The aortic valve leaflets (3) are mildly thickened 
+but aortic stenosis is not present. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. The estimated pulmonary artery systolic pressure is 
+normal. There is no pericardial effusion. 
+
+IMPRESSION: Moderate regional biventricular systolic 
+dysfunction, c/w LAD-territory infarction. Mild mitral 
+regurgitation.
+
+STRESS:
+
+INTERPRETATION: This ___ year old woman with a PMH of PVD and MI 
+___ 
+was referred to the lab prior to peripherial vascular surgery. 
+The 
+patient was infused with 0.142 mg/kg/min of dipyridamole over 4 
+minutes. 
+No arm, neck, back or chest discomfort was reported by the 
+patient 
+throughout the study. There were no significant ST segment 
+changes 
+during the infusion or in recovery. The rhythm was sinus with 1 
+isolated apb and vpb. Appropriate hemodynamic response to the 
+infusion 
+or in recovery. The dipyridamole was reversed with 125 mg of 
+aminophylline IV. 
+
+IMPRESSION: No anginal type symptoms or ischemic EKG changes to 
+pharmacologic stress. Nuclear report sent separately. 
+
+PMIBI:
+
+INTERPRETATION:  
+  
+The image quality is adequate but limited due to soft tissue and 
+motion. There is left arm attenuation in both sets of images, 
+but the arm is across the inferior aspect of the heart inthe 
+stress images. 
+  
+Left ventricular cavity size is normal. 
+  
+Rest and stress perfusion images reveal uniform tracer uptake 
+throughout the left ventricular myocardium.  
+  
+Gated images reveal normal wall motion.  
+  
+The calculated left ventricular ejection fraction is 72% with an 
+EDV of 51 ml.  
+  
+IMPRESSION: 
+  
+1. Normal myocardial perfusion. 
+  
+2. Normal left ventricular cavity size and systolic function. 
+
+HAND FILMS:
+
+1. Concern for a nondisplaced scaphoid waist fracture. 
+  
+2. Generalized demineralization. 
+  
+3. Chondrocalcinosis. 
+
+ 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on ___ 
+and had a multiple procedures, two angiograms and a Extensive 
+left iliofemoral endarterectomy profundoplasty with saphenous 
+veinangioplasty.
+
+The patient tolerated the procedure well. 
+
+Neuro: Post-operatively, the patient received Narcotics with 
+good effect and adequate pain control. When tolerating oral 
+intake, the patient was transitioned to oral pain medications. 
+
+CV: Post op pt had flash pulmonary edema which resulted in a 
+NSTEMI. Pt was diuresed. Had a PMIBI and Stress. See pertinant 
+results. Pt was refusing cardiac cath. CHF EF >55%. Diastolic 
+acute on chronic CHF exaserbation
+
+Pulmonary: See above
+
+GI: Post-operatively, the patient was given IV fluids until 
+tolerating oral intake. Her diet was advanced when appropriate, 
+which was tolerated well. He/She was also started on a bowel 
+regimen to encourage bowel movement.
+
+GU: Foley was removed on POD#3. Intake and output were closely 
+monitored. pt was also found to have UTI. Completed course of 
+cefazolin. Pt on admission ws found to have ARF. Secondary to 
+dehydration. Creatinine was 3.5 on DC 1.2. 
+
+ID: The patient was started on IV cefazolin for UTI, switched to 
+PO. Finished full course. The patient's temperature was closely 
+watched for signs of infection. 
+
+Prophylaxis: The patient received subcutaneous heparin during 
+this stay, and was encouraged to get up and ambulate as early as 
+possible. 
+
+At the time of discharge on POD 16, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled.
+
+ 
+Medications on Admission:
+furosemide 20', folic acid 1', metopropol succ 50', atorvastatin 
+80', clopidogrel 75', fexofenadine 60", verapamil SR 120', ASA 
+81', lisinopril 5', paroxetine 20, Miralax, KCl 
+ 
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+3. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  
+7. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+8. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: 
+One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+10. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+12. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q3H (every 3 
+hours) as needed for pain: prn for pain.  
+14. tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours) 
+as needed for pain.  
+15. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed for SOB.  
+16. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+17. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Flash pulm edema
+Falls   
+Hypotension 
+ARF   
+CHF  - EF >55%    
+UTI  
+PVD  
+Constipation  
+MI
+ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Lower Extremity Bypass Surgery Discharge Instructions
+
+What to expect when you go home:
+1. It is normal to feel tired, this will last for ___ weeks 
+•You should get up out of bed every day and gradually increase 
+your activity each day 
+•Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs 
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+
+2. It is normal to have swelling of the leg you were operated 
+on:
+•Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+•Avoid prolonged periods of standing or sitting without your 
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+•You will probably lose your taste for food and lose some 
+weight 
+•Eat small frequent meals
+•It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+•To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+•No driving until post-op visit and you are no longer taking 
+pain medications
+•Unless you were told not to bear any weight on operative foot: 
+
+•You should get up every day, get dressed and walk
+•You should gradually increase your activity
+•You may up and down stairs, go outside and/or ride in a car
+•Increase your activities as you can tolerate- do not do too 
+much right away!
+•No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+•You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+•Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+•Take all the medications you were taking before surgery, 
+unless otherwise directed
+•Take one full strength (325mg) enteric coated aspirin daily, 
+unless otherwise directed 
+•Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+•Redness that extends away from your incision
+•A sudden increase in pain that is not controlled with pain 
+medication
+•A sudden change in the ability to move or use your leg or the 
+ability to feel your leg
+•Temperature greater than 100.5F for 24 hours
+Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___

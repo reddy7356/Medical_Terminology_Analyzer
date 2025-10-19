@@ -1,0 +1,527 @@
+===== DISCHARGE NOTE =====
+note_id=14912861-DS-3 | hadm_id=25095011
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Sulfasalazine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+The patient has a diagnosis of ulcerative colitis.  Following 
+recurrent relapses he has decided to go forward with elective 
+surgery.
+ 
+Major Surgical or Invasive Procedure:
+___ - Ileoanal pouch/loop ileostomy
+
+ 
+History of Present Illness:
+The patient has a history of ulcerative colitis since prior to 
+___.  He has been on trials of steroids, azothiaprin, cipro, 
+flagyl, remicade but continued to have flares.  
+ 
+Past Medical History:
+Ulcerative Colitis
+ 
+Social History:
+___
+Family History:
+Many family members with UC, Father had polyps and mother had 
+breast CA
+ 
+Physical Exam:
+On day of admission
+T 98.2  HR 75  BP 130/72  RR 12  100%RA
+Gen - thin, young male, alert and oriented
+___- RRR
+Pulm - CTA b/l
+Abd - S/NT/ND
+
+ 
+Pertinent Results:
+___ 01:45PM   WBC-10.0# RBC-4.21* HGB-12.5* HCT-37.5* 
+MCV-89 MCH-29.7 MCHC-33.4 RDW-12.2
+___ 01:45PM   GLUCOSE-175* UREA N-11 CREAT-1.0 SODIUM-139 
+POTASSIUM-3.4 CHLORIDE-103 TOTAL CO2-28 ANION GAP-11
+___ 01:45PM   CALCIUM-8.7 PHOSPHATE-4.2 MAGNESIUM-1.7
+ 
+Brief Hospital Course:
+The patient underwent a ileoanal pouch and loop ileostomy on 
+___.  He tolerated the procedure well, was extubated and 
+transferred to the PACU and then to the surgical floor for 
+continued monitoring.  He was on a PCA for pain relief, remained 
+NPO, IVF for hydration, foley catheter in place.
+
+___ - IVF changed to maint fluids, cont PCA pain medication, 
+foley catheter in place
+
+___ - ___ catheter discontinued, started on sips
+
+___ - started on clear liquid diet, PCA discontinued, started 
+on PO pain medication
+
+___ - continued IVF for high ostomy output, started imodium and 
+metamucil wafers
+
+___ - made NPO due to continued emesis - KUB showed ileus
+
+___ - continued NPO, no episodes of vomiting
+
+___ - ileostomy output decreased, emesis resolved, started on PO 
+diet again
+
+___ - ileostomy output controlled, tolerating PO diet, home 
+regimen for ileostomy care discussed, pain well-controlled, 
+ambulating without assistance, voiding freely; ok to discharge 
+to home with ___ for ostomy care
+ 
+Medications on Admission:
+prednisone 40', protonix 40', ativan prn, MVI, calcium/vitamin 
+D, hydrocortisone enema nightly
+ 
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day).
+Disp:*150 Capsule(s)* Refills:*4*
+3. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+4. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed.
+Disp:*45 Tablet(s)* Refills:*0*
+5. Psyllium 1.7 g Wafer Sig: One (1) Wafer PO DAILY (Daily).
+Disp:*30 Wafer(s)* Refills:*2*
+6. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ulcerative colitis
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, diarrhea 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your skin, or the whites of your eyes become yellow.
+* Your pain is not improving within ___ hours or becoming 
+progressively worse, or inadequately controlled with the 
+prescribed pain medication.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+
+Incision Care:
+*You may shower. Pat incision dry. 
+*Avoid swimming and baths until further instruction at your 
+followup appointment.
+*Leave the steri-strips on. They will fall off on their own, or 
+be removed during your followup.  
+*Please call the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites.
+
+Monitoring Ostomy Output / Prevention of Dehydration:
+*Keep well hydrated.
+*Replace fluid loss from ostomy daily.
+*Avoid only drinking plain water. Include Gatorade and/or other 
+vitamin drinks to replace fluid.
+*Try to maintain ostomy output between 500mL to 1000mL per day. 
+*If Ostomy output exceeds 1 liter, take 4mg of Imodium, repeat 
+2mg with each episode of loose stool. Do not exceed 16mg in 24 
+hours.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14912861-DS-5 | hadm_id=26940180
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Sulfasalazine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ulcerative colitis
+ 
+Major Surgical or Invasive Procedure:
+ileostomy takedown and reanastomosis
+
+ 
+History of Present Illness:
+___ yo M with ulcerative colitis s/p total abdominal colectomy 
+with end ileostomy and J-pouch revisit for ileostomy takedown. 
+The patient with functioning ileostomy and an intact pouchogram. 
+Has been afebrile and tolerating regular diet without 
+complications. 
+
+ 
+Past Medical History:
+Ulcerative Colitis
+ 
+Social History:
+___
+Family History:
+Many family members with UC, Father had polyps and mother had 
+breast CA
+ 
+Physical Exam:
+VSS
+HEENT: NCAT, EOMi, MMM
+Neck: supple, no lymphadenopathy
+Chest: CTA BS
+Cardio: RRR
+Abd: ostomy to right lower quadrant, soft, nd, act bowel sounds
+Ext: no c/c/e, palpable pulses bilaterally
+ 
+Pertinent Results:
+___ 07:05AM BLOOD Glucose-121* UreaN-18 Creat-1.1 Na-136 
+K-4.6 Cl-100 HCO3-28 AnGap-13
+___ 09:14AM BLOOD Na-138 K-4.1 Cl-104
+___ 07:05AM BLOOD Calcium-9.8 Phos-3.6 Mg-2.1
+.
+Pathology Examination 
+Procedure date    ___
+DIAGNOSIS: 
+Ileum, ileostomy closure:
+Segment of ileum with stoma.
+Clinical:  Ulcerative colitis. 
+
+ 
+Brief Hospital Course:
+Patient was taken to the OR by Dr. ___ on ___ for 
+ileostomy takedown and reanastomosis. There were no 
+complications to the procedure. After extubation, he was take to 
+the PACU for monitoring and then to the surgical floors for 
+postoperative recovery. Patient was kept NPO to await for bowel 
+function. Pain was well controlled by PCA. He was started on 
+sips POD1. He regained bowel function POD2, passing flatus and 
+bowel movements. Diet advanced to regular food as patient 
+tolerated without difficulty. His medications were all converted 
+to oral form. Dressing from incision removed and wound appeared 
+clean, dry, intact with staples (to be DC in next clinic visit). 
+Patient discharged home POD3. Bowel regimen reviewed with 
+patient.   
+ 
+Medications on Admission:
+famotidine 20", loperamide 2"", zolpidem prn
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) as needed.  
+2. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+3. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Ulcerative Colitis
+
+ 
+Discharge Condition:
+Stable
+tolerating regular diet
+Pain well controlled with oral medication
+ambulating independently
+ 
+Discharge Instructions:
+General:
+.
+Please call your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, 
+diarrhea or other reasons. 
+* Signs of dehydration include dry mouth, rapid heartbeat or 
+feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your pain is not improving within ___ hours or not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or is changing location or moving to your chest or 
+
+back.
+*Avoid lifting objects > 5lbs until your follow-up appointment 
+with the surgeon.
+*Avoid driving or operating heavy machinery while taking pain 
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+* Please resume all regular home medications and take any new 
+meds 
+as ordered. 
+* Continue to ambulate several times per day.
+* Staples will be removed on next postoperative visit to clinic
+* Keep area dry, pat dry if wet, use gauze for comfort
+.
+Management of diarrhea:
+-Take metamucil wafer or citracel, and imodium as instructed per 
+Dr. ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14912861-DS-4 | hadm_id=29088050
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Sulfasalazine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+The patient re-admitted on the same day he was discharged for 
+abdominal pain, nausea, and vomiting.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with ulcerative colitis discharged on ___ following j 
+ileoanal pouch creation and  loop ileostomy, now presents with 
+nausea, vomiting and abdominal pain since discharge home.  He 
+does not report any fevers, hematemesis, or decreased ostomy 
+output.
+ 
+Past Medical History:
+Ulcerative Colitis
+ 
+Social History:
+___
+Family History:
+Many family members with UC, Father had polyps and mother had 
+breast CA
+ 
+Physical Exam:
+On admission
+T 99.0 HR 79  BP 126/78  RR 16  94% RA
+Gen - thin, young male, alert and oriented
+___- RRR
+Pulm - CTA b/l
+Abd - S / minimally distended / min pain to deep palpation over
+epigastrium
+.
+At Discharge:
+Vitals: T 97.2 HR 85 BP 108/70 RR 16 99% on RA
+GEN: NAD, A/Ox3
+RESP: CTAB
+CV: RRR
+ABD: +BS, soft, NT/ND
+Ostomy with semi-soft brown stool, and gas production, stoma 
+pink & viable.
+Extrem: no c/c/e
+
+ 
+Pertinent Results:
+___ 05:08AM BLOOD WBC-9.4 RBC-4.47* Hgb-13.2* Hct-38.2* 
+MCV-85 MCH-29.4 MCHC-34.5 RDW-11.4 Plt ___
+___ 07:15AM BLOOD WBC-12.0* RBC-4.51* Hgb-13.6* Hct-39.4* 
+MCV-87 MCH-30.1 MCHC-34.4 RDW-11.6 Plt ___
+___ 05:51AM BLOOD Glucose-101 UreaN-17 Creat-0.7 Na-139 
+K-4.2 Cl-106 HCO3-23 AnGap-14
+___ 07:41AM BLOOD Glucose-105 UreaN-20 Creat-1.0 Na-135 
+K-4.0 Cl-98 HCO3-30 AnGap-11
+___ 07:15AM BLOOD Lipase-184*
+___ 05:51AM BLOOD Calcium-8.9 Phos-3.4 Mg-1.9
+___ 05:08AM BLOOD Albumin-4.1 Calcium-9.3 Phos-3.9 Mg-2.4 
+Iron-44*
+___ 07:41AM BLOOD Calcium-8.7 Phos-3.4 Mg-2.4
+___ 05:08AM BLOOD calTIBC-272 Ferritn-123 TRF-209
+___ 03:15PM BLOOD calTIBC-241* Ferritn-114 TRF-185*
+___ 05:08AM BLOOD Triglyc-78
+___ 03:15PM BLOOD Triglyc-88
+.
+___ - IMAGING:CT scan - Prominent static appearing loops of 
+bowel in LUQ  
+likely reflecting a low-grade ileus, no evidence for obstruction 
+ 
+
+___ - Small bowel follow through
+IMPRESSION: Normal although limited views of the esophagus and 
+stomach and duodenum; however, markedly dilated loops of jejunum 
+are noted. The ileum may be collapse or fluid-filled. Findings 
+are consistent with a partial or complete small bowel 
+obstruction
+ 
+Brief Hospital Course:
+The patient was admitted ___.  He was started on IVF, remained 
+NPO, started on reglan and given IV pain medications as needed.
+
+___: Small bowel follow through demonstrated partial 
+obstruction, remained NPO, cont IVF
+
+___: PICC line placed, TPN started
+
+___: cont TPN, sips for comfort
+
+___: CT scan w/PO and IV contrast demonstrating prominent 
+static appearing loops of bowel in the left upper quadrant 
+likely reflecting a low-grade ileus, no evidence for an 
+obstruction at this time.  Continued on TPN, sips, IVF.
+
+___: diet advanced to clears, continued TPN, IVF
+
+___: diet advanced to full liquids, TPN and IVF discontinued
+
+___: Tolerated FULL liquids with crackers. No N/V. Discharged 
+home with FULL liquids, toast and crackers. He will advance diet 
+slowly at home. Instruction provided. He will continue with 
+loperamide for management of loose ostomy output.
+
+ 
+Medications on Admission:
+prednisone 40', protonix 40', ativan prn, MVI, calcium/vitamin 
+D, hydrocortisone enema nightly, loperamid 2mg PO QID, zolpidem
+5mg PO qhs, oxycodone 5 mg PO q4hrs prn, Psyllium 1.7 g Wafer PO
+DAILY, Reglan 10 mg PO QID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for fever or pain: Do not exceed 4000mg in 24 
+hours.  
+2. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day) as needed for increased ostomy output: Do not exceed 16mg 
+in 24 hours. ___ MD.  
+3. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+4. Pepcid 20 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for indigestion.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Ileus
+.
+Secondary:
+remicaide, ulcerative colitis, s/p Ileoanal pouch/loop ileostomy 
+ 
+
+ 
+Discharge Condition:
+Stable
+Tolerating a FULL liquid diet with toast and crackers
+Adequate pain control with oral medication
+
+ 
+Discharge Instructions:
+Please ___ your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, diarrhea 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your skin, or the whites of your eyes become yellow.
+* Your pain is not improving within ___ hours or becoming 
+progressively worse, or inadequately controlled with the 
+prescribed pain medication.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+
+Incision Care:
+*You may shower. Pat incision dry. 
+*Avoid swimming and baths until further instruction at your 
+followup appointment.
+*Leave the steri-strips on. They will fall off on their own, or 
+be removed during your followup.  
+*Please ___ the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites.
+
+Monitoring Ostomy Output / Prevention of Dehydration:
+*Keep well hydrated.
+*Replace fluid loss from ostomy daily.
+*Avoid only drinking plain water. Include Gatorade and/or other 
+vitamin drinks to replace fluid.
+*Try to maintain ostomy output between 500mL to 1000mL per day. 
+*If Ostomy output exceeds 1 liter, take 4mg of Imodium, repeat 
+2mg with each episode of loose stool. Do not exceed 16mg in 24 
+hours.
+
+ 
+Followup Instructions:
+___

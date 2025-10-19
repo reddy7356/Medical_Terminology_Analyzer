@@ -1,0 +1,471 @@
+===== DISCHARGE NOTE =====
+note_id=15189782-DS-7 | hadm_id=29106009
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status, fevers
+
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture
+ 
+History of Present Illness:
+___ man with a history of coronary artery disease status 
+post LAD stent ___ and CABG in ___, hypertension, COPD, daily 
+alcohol use, tobacco use who presents with 2 days of high-grade 
+temperatures and progressive worsening mental status and 
+obtundation.
+
+The history is provided by the patient's wife as the patient is 
+unable to answer any questions.  Approximately 1 week ago the 
+patient had a temperature to 101 along with associated myalgias 
+that resolved with a night of sleep.  He proceeded to feel 
+normal throughout the week.  Yesterday, one day prior to 
+admission, his wife returned home from work at 4 ___ and found 
+the patient covered in blankets saying he was called with 
+Rigors.  He had significant nasal congestion and cough.  The 
+patient went to bed at that time and proceeded to have several 
+coughing fits that were severe during which she would gasp for 
+air.  He was able to tell her he felt fine during that time but 
+otherwise did not speak much.  At 2 AM she awoke to find her 
+husband sweating through the bed, with rigors, and ongoing 
+fever.  He was obtunded and unable to answer any questions or 
+follow any commands.  She noted that he had had fecal 
+incontinence.  She called an ambulance and was taken to ___ 
+___. 
+
+Initial vitals at ___ were temp 101.3, HR 111, RR 22, BP 
+173/118, O2 sat 100% RA. He was noted to be agitated and unable 
+to follow commands.  He was also to note noted to have a 
+maculopapular rash over his pelvis at the belt line with 
+scattered lesions on the trunk and back.  Labs were notable as 
+follows:
+
+WBC: 9.4 
+Hgb: 15.6
+Plt: 173 
+Na 129
+K 3.4 
+Cr. 0.9 
+BUN 10 
+Bicarb 26
+
+AST/ALT: 49/44
+Alk phos 124
+T Bili: 1.6 
+Albumin 3.4 
+Ammonia: 20
+
+VBG: 7.4/___
+Lactate 2.7  -> 1.2 
+
+Serum tox: neg salicylates, acetaminophen, etoh
+
+Procalcitonin: 0.08 (neg) 
+Troponin I 0.06 (neg) 
+UA: sm blood, neg nitrite, leukoycte esterase
+
+LP: 
+#1: 11 WBC (6% neut, 55% lymph, 58% monocyt), 9 RBC
+#2: 15 WBC (5% neut, 37% lymph, 39% monocyte)
+Protein: 132.7 (high)
+Glucose: 74  
+
+He underwent a CT of his head which showed no acute 
+abnormalities, a CT of his torso which showed no acute 
+infection, pulmonary embolism, or other abnormalities.  He had a 
+right upper quadrant ultrasound which showed no evidence of 
+cholecystitis or biliary ductal dilatation.  He also had a chest 
+x-ray and an abdominal x-ray which were unremarkable for any 
+acute finding.  He was initially given vancomycin and Zosyn and 
+this was later broadened to ceftriaxone, ampicillin, and 
+acyclovir at meningitis dosing. He was also given 10mg 
+dexamethasone and PR Tylenol.  He is transferred to ___ 
+___ due to unavailability of ICU beds at ___.
+
+On arrival to ___, vitals were 101.4 ___ 22 96% 2L NC. 
+ He remained obtunded, unable to answer questions the rash is 
+again noted on exam.  He was noted to have rigidity in his 
+muscles as well as a diffuse tremor.  He was given Toradol and 2 
+L of IV fluid and admitted to the medical ICU.
+ 
+On arrival the patient's family endorses the history as above.
+
+ 
+Past Medical History:
+Hypertension
+CAD s/p CATH w/ LAD stenting ___
+COPD
+tobacco use
+EtOH
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: Reviewed in metavision  
+GENERAL: Lying in bed, diffusely tremulous, flushed, unable to 
+follow any commands, no purposeful actions
+HEENT: Sclera anicteric, pupils are equal and reactive
+NECK: JVP not elevated, no obvious nuchal rigidity overall 
+patient resists exam
+LUNGS: Clear to auscultation bilaterally  without overt crackles 
+or wheezes  
+CV: Tachycardic rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: Blanching maculopapular rash noted over the trunk worsened 
+over the waistline with confluent lesions over the pelvis and an 
+area of confluent lesions over the right flank.  Scattered 
+papular lesions over the chest and upper back with a few 
+scattered lesions over the distal extremities but no obvious 
+lesions on the palms and soles
+NEURO: Unable to follow commands, face grossly symmetric, 
+resists opening eyes and mouth.  Pupils are grossly equal.  
+Moving all extremities with coarse tremor in all extremities.  
+12 beats of clonus noted in both ankles.  3+ reflexes 
+throughout.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+General: Alert, oriented, in no acute distress, somewhat
+hard-of-hearing in the R ear.
+HEENT: NC/AT, sclera anicteric, oropharynx clear, MMM. 
+Lungs: Diffuse expiratory>inspiratory rhonchi, diminished breath
+sounds at the right base.
+CV: RRR, S1, S2, no murmurs/rubs/gallops.
+Abdomen: Soft, non-tender to deep palpation, non-distended.
+Ext: No ___ edema.
+Neuro: AOx3, motor exam full to confrontation.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 02:15PM BLOOD WBC-9.0 RBC-4.59* Hgb-14.9 Hct-42.9 
+MCV-94 MCH-32.5* MCHC-34.7 RDW-15.2 RDWSD-51.9* Plt ___
+___ 02:15PM BLOOD Neuts-92.4* Lymphs-5.0* Monos-2.0* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-8.28* AbsLymp-0.45* 
+AbsMono-0.18* AbsEos-0.00* AbsBaso-0.02
+___ 02:15PM BLOOD ___ PTT-19.7* ___
+___ 02:15PM BLOOD Glucose-132* UreaN-9 Creat-0.7 Na-128* 
+K-4.1 Cl-87* HCO3-26 AnGap-15
+___ 02:15PM BLOOD ALT-35 AST-54* LD(LDH)-404* CK(CPK)-284 
+AlkPhos-103 TotBili-1.1
+___ 02:15PM BLOOD cTropnT-<0.01
+___ 02:01AM BLOOD proBNP-6609*
+___ 02:15PM BLOOD Albumin-3.6 Calcium-8.2* Phos-2.3* 
+Mg-1.4*
+___ 02:01AM BLOOD Osmolal-263*
+___ 02:15PM BLOOD TSH-0.42
+___ 02:15PM BLOOD CRP-79.6*
+___ 08:50PM BLOOD HIV Ab-NEG
+___ 02:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+RELEVANT STUDIES:
+=================
+___ CXR PORTABLE AP:
+Linear retrocardiac opacities, which most likely represent 
+atelectasis 
+although early aspiration pneumonitis cannot be excluded. 
+
+___ CXR PORTABLE AP:
+Worsening likely pulmonary edema compared to ___.
+
+___ MR HEAD W/ & W/O CONTRAST: 
+1. Small focus of diffusion signal abnormality in the left 
+occipital lobe is consistent with a subacute infarct. 
+2. 5 mm outpouching from the anterior communicating artery, 
+possibly 
+representing an aneurysm or vascular loop, for which CTA is 
+recommended for further characterization.  No evidence of 
+subarachnoid hemorrhage. 
+3. No abnormal enhancement or other definite evidence of 
+meningitis. 
+4. Paranasal sinus disease and nonspecific mastoid opacification 
+as described. 
+
+___ TTE:
+The left atrium is normal in size. There is no evidence for a 
+right-to-left shunt with agitated saline at rest. The right 
+atrial pressure could not be estimated. There is mild symmetric 
+left ventricular hypertrophy with a normal cavity size. There is 
+moderate regional left ventricular systolic dysfunction with 
+hypokinesis of the anterior wall and anterior septum (see 
+schematic) and preserved/normal contractility of the remaining
+segments. No thrombus or mass is seen in the left ventricle. 
+Quantitative biplane left ventricular ejection fraction is 35 %. 
+Left ventricular cardiac index is low normal (2.0-2.5 L/min/m2). 
+There is no resting left
+ventricular outflow tract gradient. Tissue Doppler suggests a 
+normal left ventricular filling pressure (PCWP less than 
+12mmHg). Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending aorta diameter. The 
+aortic valve leaflets (3) appear structurally normal. There is 
+no aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The tricuspid 
+valve leaflets are mildly thickened. There is physiologic 
+tricuspid regurgitation. The estimated pulmonary artery systolic 
+pressure is borderline elevated. There is no pericardial 
+effusion.
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with moderate regional systolic 
+dysfunction most c/w coronary artery disease (LAD distribution). 
+No right-to-left shunt at rest.
+
+DISCHARGE LABS:
+===============
+___ 06:05AM BLOOD WBC-7.7 RBC-3.92* Hgb-12.8* Hct-37.0* 
+MCV-94 MCH-32.7* MCHC-34.6 RDW-16.2* RDWSD-56.1* Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD UreaN-14 Creat-0.7 Na-142 K-3.8 Cl-100 
+HCO3-27 AnGap-15
+___ 06:05AM BLOOD ALT-94* AST-58* AlkPhos-123 TotBili-0.7
+___ 06:05AM BLOOD Mg-2.___ with history of CAD s/p stents x2 (___) and CABG 
+(___), HTN, COPD, and alcohol use disorder who presented with 
+two days of fever and progressively worsening mental status, 
+likely ___ viral encephalitis. His hospital course was c/b 
+hypoxic respiratory failure requiring intubation, CHF 
+exacerbation, and new afib/aflutter. He was actively diuresed 
+and weaned to room air.
+
+ACUTE ISSUES:
+=============
+#Acute encephalopathy, resolved
+#Viral encephalitis
+___ viremia
+Patient p/w several days of high-grade fevers and AMS to OSH, 
+where he underwent LP with CSF studies showing lymphocytic 
+pleocytosis with elevated protein and normal glucose, suggestive 
+of a viral process. On transfer, repeat CSF studies at ___ 
+were consistent with the above. His exam was also notable for a 
+rash thought to be viral exanthema. He was initiated on empiric 
+vancomycin, CTX, ampicillin, acyclovir, and doxycycline (for 
+possible tick-borne illness); these antibiotics/anti-virals were 
+discontinued with negative infectious work-up and due to c/f 
+doxycycline-induced transaminitis as below. He underwent 
+extensive work-up for causes of meningitis and encephalitis, 
+which was unrevealing other than a positive serum ___ B 
+antibody titer, though of note, CSF enteroviral RNA was 
+negative. ___ CSF Ab and Borrelia mi___ CSF PCR were 
+still pending at the time of discharge. ___ MRI showed no e/o 
+abnormal enhancement c/f meningitis. He was followed by 
+Infectious Disease and Neurology throughout his course. By the 
+time of discharge, he had clinically improved without focal 
+neurological deficits. He was discharged home with home ___.
+
+#Hypoxic respiratory failure
+#Acute-on-chronic systolic heart failure
+Patient required intubation for airway protection in the setting 
+of altered mental status. He was extubated on ___ and initially 
+had O2 requirement of 3L NC. Acute-on-chronic systolic heart 
+failure likely developed in the setting of aggressive IVF 
+resuscitation while in the MICU. TTE on admission showed LVEF 
+35% with RWMA in an LAD distribution with no e/o valvular 
+disease. He was actively diuresed with IV Lasix for pulmonary 
+edema seen on CXR and weaned to RA. In the setting of known 
+HFrEF, he was started on lisinopril, and his home metoprolol was 
+uptitrated. He was discharged on lisinopril 30mg daily and 
+metoprolol succinate 100mg daily.
+
+#Paroxysmal atrial fibrillation/aflutter
+Patient developed afib with RVR to the 150's on ___ c/b 
+hypotension with SBP's in the ___. He has no known history of 
+afib. Arrhythmia likely occurred in the setting of acute illness 
+and volume overload superimposed on known ischemic heart 
+disease. CHADS2-VaSC 5. He was bridged from heparin to 
+rivaroxaban 20mg daily and continued on metoprolol as above.
+
+#Alcohol use disorder
+Patient endorses daily alcohol use with 4 beers and 3 mixed 
+drinks but denies history of withdrawal. S/p phenobarbital 
+taper. He also received thiamine and folate repletion. Patient 
+declined Social Work consult.
+
+#Transaminitis
+AST/ALT noted to be uptrending since ___ with a hepatocellular 
+pattern shortly after initiating empiric doxycycline, c/f 
+drug-induced liver injury. Transaminitis did not improve despite 
+diuresis, less c/w congestive hepatopathy. Doxycycline was 
+discontinued prior to discharge. Please follow up patient's 
+LFT's within a week of discharge.
+
+#Subacute occipital lobe ischemic infarct
+Seen on ___ MRI with unclear etiology. He was started on 
+systemic anticoagulation for c/f embolic event.
+
+#Anterior communicating artery aneurysm
+Noted incidentally on ___ CTA head/neck. Please consider 
+connecting patient with a neurologist for interval imaging and 
+follow-up of anterior communicating aneurysm.
+
+CHRONIC ISSUES:
+===============
+#CAD c/b ischemic cardiomyopathy
+H/o stents placed in ___ and ___, for which he had been on 
+DAPT. Due to need for systemic anticoagulation in the setting of 
+pAF and e/o prior ischemic infarct, he was initiated on 
+rivaroxaban and continued on clopidogrel 75mg daily. ASA was 
+stopped. He continued atorvastatin 80mg qHS and metoprolol and 
+lisinopril as above.
+
+#COPD
+- continued on home mometasone-formoterol inhaler
+
+TRANSITIONAL ISSUES:
+====================
+- For PCP: ___ will follow up on the pending encephalitis studies 
+(___ CSF Ab and Borrelia miyamotoi CSF PCR) and contact you 
+with the results.
+[] Please ensure patient has repeat LFT's within a week of 
+discharge.
+[] Please monitor patient's volume status and start a PO 
+diuretic if overloaded.
+[] Please monitor BP's and uptitrate lisinopril dosing as 
+needed.
+[] Please continue to monitor patient's alcohol use and counsel 
+around cutting down/cessation as needed.
+[] Please consider connecting patient with a neurologist for 
+further follow-up of occipital infarct and anterior 
+communicating aneurysm.
+
+Contact: ___ (wife), ___ 
+Full Code
+
+Time spent coordinating discharge > 30 minutes
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clopidogrel 75 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Dulera (mometasone-formoterol) 200-5 mcg/actuation inhalation 
+BID 
+6. Lidocaine 5% Patch 1 PTCH TD QAM 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Lisinopril 30 mg PO DAILY 
+RX *lisinopril 30 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Multivitamins W/minerals 15 mL PO DAILY 
+RX *multivitamin,tx-minerals  1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+4.  Rivaroxaban 20 mg PO DINNER 
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth at dinner 
+Disp #*30 Tablet Refills:*0 
+5.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0 
+6.  Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 50 mg 2 tablet(s) by mouth once a day 
+Disp #*60 Tablet Refills:*0 
+7.  Atorvastatin 80 mg PO QPM  
+8.  Clopidogrel 75 mg PO DAILY  
+9.  Dulera (mometasone-formoterol) 200-5 mcg/actuation 
+inhalation BID  
+10.  Lidocaine 5% Patch 1 PTCH TD QAM  
+11.Walker
+Rolling walker for acute viral encephalitis (ICD-9 064), 
+prognosis good, length of need 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Acute viral encephalitis
+Acute hypoxic respiratory failure
+Acute-on-chronic systolic heart failure
+Atrial fibrillation/atrial flutter
+Transaminitis
+___ viremia
+
+SECONDARY DIAGNOSES:
+====================
+Alcohol use disorder
+Subacute occipital lobe ischemic infarct
+Anterior communicating artery aneurysm
+COPD
+CAD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You were admitted because of high fevers and a change in your 
+mental state.
+
+What did you receive in the hospital?
+- You had many tests to determine if an infection was causing 
+your symptoms. We believe that a virus may have caused 
+encephalitis, or inflammation of the brain, for which the 
+treatment is supportive (and time to allow you to recover).
+- While you were in the hospital, you were also treated for an 
+irregular heart rhythm, called atrial fibrillation, that 
+developed because of being sick. You were started on a blood 
+thinner called Xarelto/rivaroxaban to decrease the risk of 
+stroke related to blood clots forming in the heart from this 
+irregular rhythm.
+- Because of receiving a lot of fluids while you were sick, you 
+also had extra fluid in your lungs. We gave you a water pill 
+through the IV, a medication that helps get rid of the excess 
+fluid.
+- You were also given a medication called phenobarbital because 
+of concern that you might withdraw from alcohol.
+
+What should you do once you leave the hospital?
+- Please continue to take all of your medications as prescribed.
+- You have follow-up with your primary care doctor and 
+cardiologist.
+- Please weigh yourself every day and call your doctor if your 
+weight increases by more than 3 pounds in one day.
+
+We wish you all the best!
+- Your ___ Care Team 
+ 
+Followup Instructions:
+___

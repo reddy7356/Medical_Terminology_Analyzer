@@ -1,0 +1,1245 @@
+===== DISCHARGE NOTE =====
+note_id=15817721-DS-16 | hadm_id=26444559
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with metastatic (cerebellum)
+___ who presents from clinic with nausea and vomiting.
+
+The patient was in ___ 3 weeks ago where she developed neck
+stiffness and nausea. She went to the ED where she underwent a
+___ which was negative and her neck pain resolved though her
+nausea was persistent. She later developed a UTI for which she
+was treated with Bactrim and developed severe nausea and 
+vomiting
+requiring IV hydration. 
+
+The patient stated that her symptoms had persistent throughout
+the month with intermittent headaches, nausea and vomiting. 
+
+She has had no fevers or chills. No vision changes. No chest 
+pain
+or dyspnea. No abd pain. No dysuria or diarrhea.
+
+She was seen by her oncologist in outpatient follow up today
+where an MRI brain was performed that demonstrated increased 
+size
+of her known cerebellar met and hydrocephalus. She was referred
+to the ED for further evaluation. 
+
+In the ED, the initial vital signs were:
+T 96.8 HR 88 BP 114/84 R 16 SpO2 96% RA
+
+Laboratory data was notable for: 
+Normal Chem10 and LFTs
+TSH 1.5
+Cortisol ___
+Normal CBC
+
+She underwent a LP which demonstrated:
+
+CSF:
+Tube 1 WBC 4 30% PMN 21% Lymph 39% Mono RBC 1610
+Tube 4
+WBC 7 RBC 21 PMN 0 Lymph ___ Mono 49
+Protein 16 Glucose 47
+Opening Pressure 13
+
+The patient received:
+___ 12:40 IV LORazepam 1 mg  
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+- ___: went to Urgent Care given ongoing cough and found to 
+have RUL mass on imaging
+- ___: Had FDG avid 3.1 cm RUL mass with minimal increase in 
+moderate right non hemorrhagic pleural effusion and extensive 
+miliary nodules and focal FDG uptake along T10 vertebral body 
+with associate sclerotic lesion
+-___: IP performed ___ with cytology showing lung 
+adenocarcinoma
+-___: started gefitinib
+-___: ___ #2 for symptomatic recurrent pleural effusion, 
+800cc removed
+-___: right thoracoscopy with pleural biopsy, talc 
+pleurodesis, and tunneled pleural catheter placement
+-___ - ___: admitted for talc pleurodesis
+-___: second talc pleurodesis 
+
+PAST MEDICAL HISTORY (Per OMR, reviewed):  
+-HSV 1
+-H/O Sphenoid sinusitis
+-Skin SCC s/p excision x2
+ 
+Social History:
+___
+Family History:
+Father: colon cancer in his ___, active smoker who quit ___ years 
+before diagnosis and may have had asbestos exposure  
+Mother: skin cancers, when much older was found to have likely 
+metastatic disease in her lungs (unknown primary)  
+Sister: breast cancer at ___, died of pancreatic cancer at ___, MS 
+ 
+Sister: ___ Macroglobulinemia  
+Sister: melanoma  
+Brother: melanoma  
+Maternal uncle: ___ Macroglobulinemia  
+ 
+Physical Exam:
+VITALS: 
+24 HR Data (last updated ___ @ 2330)
+    Temp: 97.8 (Tm 98.2), BP: 126/81 (112-126/62-81), HR: 96
+(80-96), RR: 18 (___), O2 sat: 96% (96%-98%), O2 delivery: RA  
+
+
+GENERAL:  NAD
+HEENT: NC, AT
+EYES: PERRL
+RESP: CTAB, no wheezing, rhonchi or crackles
+___: RRR no MRG
+GI: soft, nontender, nondistended
+EXT: warm, no edema
+NEURO: CN II-XII intact
+
+ 
+Pertinent Results:
+___ 08:20AM BLOOD WBC-8.5 RBC-4.53 Hgb-12.3 Hct-40.5 MCV-89 
+MCH-27.2 MCHC-30.4* RDW-12.7 RDWSD-41.5 Plt ___
+___ 05:54AM BLOOD WBC-4.1 RBC-3.98 Hgb-10.8* Hct-35.6 
+MCV-89 MCH-27.1 MCHC-30.3* RDW-12.7 RDWSD-41.8 Plt ___
+___ 05:46AM BLOOD WBC-4.6 RBC-4.27 Hgb-11.6 Hct-38.3 MCV-90 
+MCH-27.2 MCHC-30.3* RDW-13.0 RDWSD-42.5 Plt ___
+___ 06:09AM BLOOD WBC-4.4 RBC-4.06 Hgb-11.0* Hct-35.9 
+MCV-88 MCH-27.1 MCHC-30.6* RDW-12.8 RDWSD-41.8 Plt ___
+___ 08:20AM BLOOD Neuts-87.2* Lymphs-5.4* Monos-6.6 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-7.43* AbsLymp-0.46* 
+AbsMono-0.56 AbsEos-0.01* AbsBaso-0.02
+___ 06:09AM BLOOD Neuts-56.6 ___ Monos-16.9* 
+Eos-0.5* Baso-0.2 Im ___ AbsNeut-2.49 AbsLymp-1.11* 
+AbsMono-0.74 AbsEos-0.02* AbsBaso-0.01
+___ 06:09AM BLOOD Glucose-83 UreaN-14 Creat-0.6 Na-141 
+K-4.3 Cl-106 HCO3-23 AnGap-12
+___ 08:20AM BLOOD ALT-8 AST-14 LD(LDH)-182 AlkPhos-66 
+TotBili-0.4
+___ 08:20AM BLOOD calTIBC-325 Ferritn-112 TRF-250
+___ 08:20AM BLOOD TSH-1.5
+___ 08:20AM BLOOD Cortsol-36.4*
+
+Cerebrospinal fluid:
+POSITIVE FOR MALIGNANT CELLS.
+Metastatic carcinoma, favor metastasis from patient's known lung 
+adenocarcinoma.
+
+___ 01:43PM CEREBROSPINAL FLUID (CSF) TNC-4 RBC-1610* 
+Polys-30 ___ Macroph-10
+___ 01:43PM CEREBROSPINAL FLUID (CSF) TNC-7* RBC-21* 
+Polys-0 ___ Macroph-15 Lining-1
+___ 01:43PM CEREBROSPINAL FLUID (CSF) TotProt-16 Glucose-47 
+LD(LDH)-64
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with metastatic lung cancer 
+(brain and bone) on osimertinib presents from clinic with 
+persistent nausea/vomiting and found to have progressive 
+hydrocephalus and slight increase in size of cerebellar lesion. 
+
+#NAUSEA/VOMITING
+#SECONDARY MALIGNANCY OF BRAIN (CEREBELLUM)
+#HYDROCEPHALUS:
+An MRI on the day of admission showed a small increase in size 
+of her known cerebellar lesion as well as increasing 
+hydrocephalus and periventricular edema. Her WBC was normal and 
+she was afebrile and hemodynamically stable. A lumbar puncture 
+was performed, which showed no evidence of infection. CSF was 
+sent for cytology, which is still pending at the time of 
+discharge. She was evaluated by radiation oncology, who did not 
+feel that her symptoms were likely to be due to her cerebellar 
+lesion and felt there was no indication for radiation therapy. 
+She was also evaluated by neuro-oncology, who were similarly 
+doubtful that her symptoms were due to her MRI findings. She was 
+treated with Zofran, Compazine and started on 5 days of 4mg PO 
+dexamethasone. She continued to experience mild nausea, relieved 
+by Zofran and dexamethasone. She was evaluated by physical 
+therapy, who felt she may have some vestibular dysfuntion, and 
+recommended outpatient ___ rehab. She had no further 
+episodes of lightheadedness during her admission, which ha 
+previously been occurring ___ times per day. She was discharged 
+with 3 additional days of dexamethasone 4mg daily (5 days 
+total).
+
+#LUNG CANCER:
+Currently being treated with osimertinib. This was held during 
+the first two days of her admission, then restarted.
+
+TRANSITIONAL ISSUES
+=======================
+[] will continue dexamethasone 4mg daily for 3 days
+[] will need ___ rehab as outpatient
+[] CSF cytology pending upon discharge, will need to be followed 
+up by outpatient oncologist
+[] Would continue to monitor EKGs as outpatient while on 
+antiemetics
+[] A cystic structure is noted in the right adnexa measuring 8.0 
+x 8.1 x 7.0 
+cm containing an eccentrically located hyperechoic structure 
+without internal 
+vascularity, incompletely evaluated. While a similar structure 
+has been seen 
+on multiple prior PET-CTs, the appearance on today's study 
+differs from prior 
+ultrasound and MR. ___ cannot be excluded in the setting 
+of known lung 
+cancer. Contrast enhanced pelvic MR is recommended for further 
+evaluation.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. osimertinib 80 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 4 mg PO DAILY 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+2.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *prochlorperazine maleate [Compazine] 10 mg 1 tablet(s) by 
+mouth every six (6) hours Disp #*30 Tablet Refills:*0 
+3.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*30 Tablet Refills:*0 
+4.  osimertinib 80 mg oral DAILY  
+5.Outpatient Physical Therapy
+___ rehab. Lung cancer: ___
+Outpatient Oncologist: 
+___, MD, PHD
+Phone: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hydrocephalus
+Nausea/vomiting
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure taking care of you at ___!
+
+You were admitted to the hospital with nausea, vomiting and 
+lightheadedness. An MRI of your brain demonstrated a slight 
+increase in the size of your known cerebellar lesion as well as 
+an increased amount of cerebral spinal fluid. A lumbar puncture 
+did not reveal any sign of infection. Testing of the cerebral 
+spinal fluid for evidence of cancer is still pending. You were 
+evaluated by the Radiation Oncology team, who did not feel there 
+was any indication for radiation to of your brain. You were 
+given anti-nausea medication and steroids to treat your 
+symptoms. You should continue to take the steroid medication 
+(dexamethasone) for 3 additional days after discharge. You were 
+evaluated by physical therapy, who felt you would benefit from 
+___ rehab.
+
+When you leave, it is important to take your medications as 
+prescribed. It is also important you attend your appointments as 
+listed below. 
+
+We wish you the best of luck!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15817721-DS-14 | hadm_id=27519879
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Observation and pain control s/p thoracoscopy  
+ 
+Major Surgical or Invasive Procedure:
+Right thoracoscopy with pleural biopsy, talc pleurodesis, and 
+tunneled pleural catheter placement ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ never-smoker with EGFR mutated stage 
+IV lung cancer complicated by recurrent right malignant pleural 
+effusion s/p multiple thoracentesis for fluid removal and now 
+s/p right thoracoscopy with pleural biopsy, talc pleurodesis, 
+tunneled pleural catheter placement on ___, who is being 
+admitted to medicine postoperatively for observation and pain 
+control.  
+ 
+On arrival to the floor, pt reports feeling well. Reports 
+improvement in pain control w/PCA. Denies dyspnea.  
+ 
+Past Medical History:
+LUNG CANCER AS BELOW  
+HERPES SIMPLEX I  
+MENOPAUSE  
+SPHENOID SINUSITIS  
+SQUAMOUS CELL CARCINOMA s/p excision x 2  
+Oncologic history is as follows:  
+ - ___: went to Urgent Care given ongoing cough and found to 
+have RUL mass on imaging  
+ - ___: Had FDG avid 3.1 cm RUL mass with minimal increase 
+in moderate right non hemorrhagic pleural effusion and extensive 
+military nodules and focal FDG uptake along T10 vertebral body 
+with associate sclerotic lesion  
+ - ___: IP performed ___ with cytology showing lung 
+adenocarcinoma  
+ - ___: started gefitinib  
+ - ___: ___ #2 for symptomatic recurrent pleural 
+effusion, 800cc removed  
+ 
+Social History:
+___
+Family History:
+Father: colon cancer in his ___, active smoker who quit ___ years 
+before diagnosis and may have had asbestos exposure  
+Mother: skin cancers, when much older was found to have likely 
+metastatic disease in her lungs (unknown primary)  
+Sister: breast cancer at ___, died of pancreatic cancer at ___, MS 
+ 
+Sister: ___ Macroglobulinemia  
+Sister: melanoma  
+Brother: melanoma  
+Maternal uncle: ___ Macroglobulinemia  
+ 
+Physical Exam:
+==============
+ADMISSION
+==============
+Vitals: 98.1 PO 118 / 71 L Lying 76 18 98 3L  
+General: no acute distress  
+HEENT: JVP not elevated  
+Lungs: clear to auscultation anteriorly, no wheezes, rales, 
+rhonchi  
+CV: RRR, normal S1 S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present  
+Ext: Warm, well perfused, no edema  
+Skin: Without rashes or lesions  
+Neuro: Grossly intact.  
+
+=============
+DISCHARGE
+=============
+Vitals:  98.3 115/68 81 18 92% 1L 
+I/Os: 300/375 Chest tube 100 cc   Pleurex ___ cc
+General: no acute distress  
+HEENT: JVP not elevated  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: RRR, normal S1 S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present  
+Ext: Warm, well perfused, no edema  
+Skin: Without rashes or lesions  
+Neuro: Grossly intact
+ 
+Pertinent Results:
+===============
+ADMISSION LABS
+===============
+___ 05:30AM BLOOD WBC-23.9*# RBC-4.80 Hgb-13.9 Hct-43.3 
+MCV-90 MCH-29.0 MCHC-32.1 RDW-12.4 RDWSD-41.0 Plt ___
+___ 05:30AM BLOOD Glucose-154* UreaN-16 Creat-0.6 Na-141 
+K-4.8 Cl-103 HCO3-25 AnGap-18
+___ 05:30AM BLOOD Calcium-9.1 Phos-4.4 Mg-1.9
+
+================
+DISCHARGE LABS
+================
+___ 06:15AM BLOOD WBC-16.7* RBC-4.73 Hgb-13.0 Hct-41.5 
+MCV-88 MCH-27.5 MCHC-31.3* RDW-12.5 RDWSD-40.4 Plt ___
+___ 06:15AM BLOOD Glucose-89 UreaN-15 Creat-0.5 Na-139 
+K-3.5 Cl-99 HCO3-26 AnGap-18
+___ 06:15AM BLOOD Calcium-8.6 Phos-2.5* Mg-2.1
+
+========
+IMAGING
+========
+-CXR ___: In comparison to the prior radiographs, there is 
+been increased in the right sided opacities, worrisome for 
+pneumonia versus asymmetric pulmonary edema versus 
+reaccumulating pleural effusion.  Right-sided chest tube has 
+been slightly retracted from the prior study.  Left lung 
+essentially remains clear. 
+
+-CXR ___: In comparison with the study of ___, there 
+is no change in the degree of pleural fluid with chest tube in 
+place.  No evidence of pneumothorax.  No change in the 
+ill-defined opacity in the right upper lobe which was avid on 
+PET-CT.  The remainder the study is unchanged. 
+
+=========
+MICRO
+=========
+___ 3:55 pm PLEURAL FLUID      RIGHT PLEURALEFFUSION. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      NO FUNGAL ELEMENTS SEEN. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ never-smoker with EGFR mutated stage 
+IV lung cancer complicated by recurrent right malignant pleural 
+effusion s/p multiple thoracentesis for fluid removal and now 
+s/p right thoracoscopy with pleural biopsy, talc pleurodesis, 
+tunneled pleural catheter placement on ___, who is being 
+admitted to medicine postoperatively for observation and pain 
+control. The patient has a history of Stage IV Lung cancer with 
+recurrent pleural effusions. She underwent right thoracoscopy 
+with pleural biopsy, talc pleurodesis, and tunneled pleural 
+catheter placement on ___. She initially required O2, but was 
+quickly weaned to room air. She was initially treated with 
+standing acetaminophen 1000 mg q6h and dilaudid PCA, however the 
+dilaudid PCA made her extremely nauseous with several episodes 
+of emesis. She was transitioned to a morphine PCA which also 
+made her nauseous. Her pain improved and she was able to be 
+weaned off of morphine. Pleural biopsy pending on discharge. Her 
+outpatient oncologist recommended holding home gefitinib for 
+better wound healing until she returned home. She was found to 
+have a leukocytosis due to inflammation in the setting of talc 
+pleurodesis which started trending down on discharge. 
+
+====================
+TRANSITIONAL ISSUES
+====================
+- Patient being discharged with PleurX catheter which needs to 
+be drained daily (being sent home with ___ services for this)
+- Pleural biopsy results pending on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. gefitinib 250 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8h PRN Disp #*15 
+Tablet Refills:*0 
+3.  gefitinib 250 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Recurrent Right Pleural Effusion
+Right Talc Pleurodesis
+Right Pleurx Catheter Placement
+
+Secondary Diagnosis:
+Stage IV lung cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital for pain management after you 
+had the lung procedure performed by Dr. ___.  
+
+The procedure you had is called a Pleurx catheter placement, 
+which means that a small tube (or catheter) was threaded into 
+your chest to drain fluid.
+
+You are being sent home with a Pleurx Catheter Kit. Please 
+follow all instructions and information in the instruction 
+folder of this kit.  If you have further questions please call 
+the office at ___. We will set you up with home 
+nursing to help take care of your Pleurx which should be drain 
+once daily for the next week. 
+
+Please take 1000 mg Tylenol every 6 hours as needed for pain. Do 
+not exceed more than 4 grams in 24 hours. You may go back to 
+your usual activities as well as eat and drink whatever you 
+like. If you have bleeding or drainage from the site, press over 
+the area with a clean washcloth. If the bleeding does not stop, 
+get help right away.
+
+When you go home, please continue to use the incentive 
+spirometer multiple times per day to keep your lungs open. 
+
+Please restart Gefitinib when you return home. Please follow up 
+at the appointments scheduled for you (see below).
+
+It was a pleasure meeting and taking care of you when you were 
+in the hospital.
+
+-Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15817721-DS-17 | hadm_id=29034908
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, unsteady gait, rash
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ PMH of Stage IV NSCLC, with small cell transformation (c/b 
+known leptomeningeal disease) presented from clinic with nausea, 
+unsteady gait, and rash
+
+As per review of outpatient notes, patient seen in clinic today, 
+noted to have progression lung/bone disease on PET, and 
+worsening vomiting/weakness which team felt was ___ 
+leptomeningeal disease. It was noted that patient had not 
+improves despite osimertinib, and patient therefore admitted to 
+try RT or intrathecal chemotherapy as a last option before 
+transitioning to hospice. 
+
+Patient reported that she has ongoing nausea but does not vomit 
+much and is very unsteady/weak on her feet.  She noted that she 
+is no longer able to walk.  Noted that she is had decreased oral 
+intake as a result. Reported that inability to walk is causing 
+complication in light of living on a ___ floor walk up. She 
+noted that she had a rash under her right breast and on her back 
+at the same level, which is not painful/itchy. 
+
+Pt reports that she is resigned to the fact that she is dying 
+does not want to prolong her life with extraordinary measures. 
+She noted that she wants to minimize workup and treatment to 
+conservative things which may improve her symptoms.  She noted 
+that she is DNR/DNI and would not want an ICU transfer under any 
+circumstances.  She noted that she is ultimately interested in
+hospice upon discharge.  Reported that she wants to maximize 
+time with her husband ___ while not being a burden on him. 
+
+Husband ___ noted that his first wife died ___ years ago from 
+cancer on hospice and he is comfortable taking ___ home on 
+hospice in accordance with her wishes.   
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+As per last outpatient ___ clinic note:
+"- ___: went to Urgent Care given ongoing cough and found to
+have RUL mass on imaging
+- ___: Had FDG avid 3.1 cm RUL mass with minimal increase in
+moderate right non hemorrhagic pleural effusion and extensive
+military nodules and focal FDG uptake along T10 vertebral body
+with associate sclerotic lesion
+-___: IP performed ___ with cytology showing lung
+adenocarcinoma
+-___: started gefitinib
+-___: ___ #2 for symptomatic recurrent pleural effusion,
+800cc removed
+-___: right thoracoscopy with pleural biopsy, talc
+pleurodesis, and tunneled pleural catheter placement
+-___ - ___: admitted for talc pleurodesis
+-___: second talc pleurodesis 
+-___ - ___: ED and admission for recurrent effusion, chest
+tube + talc slurry on ___ and ___ complicated by
+post-pleurodesis pneumonitis
+-___: PET showed new FDG avid bone lesions in right sternum,
+right scapula, T5 vertebral body, left iliac wing, right
+acetabulum, possibly left third rib, and right L2 pedicle. 
+-___: bone biopsy, foundation testing of blood showed T709M
+equivical
+-___: start osimertinib
+-___: PET showed mixed response, continued osimertinib 
+-___: liquid biopsy with loss of T790M mutation
+-___: lung biopsy with EGFR-delE746_T751>S (NO EGFR-T790M),
+PIK3CA E545K, PTEN E7*, RB1 splice site 607+1G>A and TP53
+F134fs*14
+-___: continued osimertinib, B12 injection
+-___: PET with mixed resonse, increase in RUL mass
+-___: stop osimertinib C1D1 ___
+-___: C2D1 ___
+-___: PET with decreased size of RUL mass
+-___: C3D1 pemetrexed/pembro
+-___: C4D1 pemetrexed/pembro 
+-___: PET showed increase size and avidity of RUL mass
+-___: C5D1 pemetrexed/pembro   
+-___: C6D1 pemetrexed/pembro
+-___: PET showed increase size of RUL mass
+-___: restarted osimertinib 80mg
+-___: Lung biopsy returned ___
+-___: C1D1 ___
+-___: C2D1 held for neutropenia, zometa given
+-___: C2D1 ___ (dose reduced to ___ AUC 4 for
+neutropenia)
+-___: C3D1 ___ (AUC4)/etoposide
+-___: C4D1 ___ (AUC4)/etoposide
+-___: PET showed  slight interval decrease to 4.1 cm
+right upper lobe mass. 
+-___: PET showed interval increase in RUL mass (4.6 cm) 
+with
+stable bone; MRI brain with stable 3mm unclear etiology
+- ___: admission for FTT, found to have
+hypodrocephalus, CSF with + cytology
+- ___: switched to osimertinib 560mg qweek, dex 4mg daily"
+ 
+PAST MEDICAL HISTORY:  
+Lung Cancer as above
+Herpes Simplex 1
+Menopause
+Sphenoid sinusitis 
+Squamous cell carcinoma s/p excision x2
+
+ 
+Social History:
+___ lives in a ___ floor walk up in ___ with her 
+husband ___ who is her HCP ___. Is a retired ___ 
+(___, ___). No toxic habits. Is confirmed 
+DNR/DNI/No ICU and wants to be discharged on hospice after this 
+admission 
+
+ 
+Physical Exam:
+General: Pleasant Caucasian woman resting in bed comfortably 
+HEENT:  Moist mucus membranes, thrush seen over the bilateral 
+buccal membranes
+CV:  RRR no murmurs
+PULM:  Clear to auscultation bilaterally
+ABD:  Soft, nontender nondistended
+LIMBS: No peripheral edema, no bruising
+SKIN:  Healing, scabbed over herpetic rash over the T6/7 
+dermatome, nontender
+NEURO: Alert and oriented, provides clear history
+ACCESS: PIV
+ 
+Pertinent Results:
+PET ___:
+1. Increase in the size and FDG avidity of the dominant right
+apical mass. 
+2. Increasing FDG avidity of a sclerotic, expansile focus in the
+left T12 posterior elements.  Other sclerotic osseous lesions 
+are
+not FDG avid, possibly reflecting treated metastases. 
+3. Stable adnexal mass with an area of FDG avidity, previously
+characterized as an endometrioma.   
+
+ 
+Brief Hospital Course:
+___ is a ___ year old woman with Stage IV NSCLC, with 
+small cell transformation (c/b known leptomeningeal disease), 
+who presented from clinic with nausea, unsteady gait, and 
+shingles.
+
+Her nausea and unsteady gait is presumed to be from worsening 
+CNS/leptomeningeal disease, for which she received WBRT while 
+admitted. She was also treated with acyclovir for localized 
+shingles. 
+
+#Nausea/unsteady gait
+#Stage IV NSCLC, with small cell transformation (c/b known
+leptomeningeal disease
+
+Nausea/unsteady gait likely ___ leptomeningeal disease. Most 
+recent MRI brain ___ revealed worsening moderate 
+hydrocephalus, periventricular edema, and increasing metastases. 
+
+
+In the past, ___ performed an LP that did not improve 
+symptoms, so therapeutic LP was not pursued. Mrs ___ was very 
+clear that she did not want aggressive interventions or 
+diagnostic testing. She only wanted to receive treatments that 
+had a good chance of symptom management without significant side 
+effects. 
+
+Radiation oncology was consulted and she received WBRT x 5 
+treatments while admitted. She was started on high dose 
+dexamethasone 4 q6, which continued through her radiation 
+treatments and taper to 4 q8 on discharge. She will also start 
+on temozolamide after discharge for consolidation therapy after 
+RT and hope for additional symptom management. 
+
+In regard to her systemic therapy, her osimertinib was 
+discontinued by her primary team. She was seen prior to 
+discharge and she will follow up with Dr ___ next week.
+
+___ be discharged with home ___ services with outpatient 
+palliative care. She is not ready to transition to home hospice 
+at this time, but was aware that she was nearing the end of 
+life. She was aware she has the option to call her ___ company 
+to transition to hospice services with them when this is 
+appropriate.
+
+[ ] Temozolamide to begin ___
+[ ] Follow up with Dr ___ 3 days after discharge
+[ ] Further dexamethasone taper and temozolamide plan to be 
+determined per Dr ___
+[ ] Follow up with outpatient oncology team
+
+# Cancer related fatigue
+She had significant fatigue attributed to her leptomeningeal and 
+metastatic disease. Ritalin was trialed, but after 1 dose, ___ 
+felt confused and not herself, so it was discontinued.
+
+# Shingles
+She had a dermatomal vesicular rash consistent with shingles. 
+She was treated with acyclovir for 7 days given her 
+immunocompromised state from metastatic cancer on chemotherapy
+
+# Thrush
+On the day of discharge, she developed thrush in the setting of 
+high dose steroids. She will complete 7 days of nystatin swish 
+and swallow starting on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dexamethasone 4 mg PO DAILY 
+2. Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+3. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+
+ 
+Discharge Medications:
+1.  Nystatin Oral Suspension 10 mL PO QID Duration: 7 Days  
+2.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole [Protonix] 40 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0 
+3.  Pseudoephedrine 30 mg PO Q8H:PRN sinus pressure 
+RX *pseudoephedrine HCl 30 mg 1 tablet(s) by mouth every 8 hours 
+as needed Disp #*10 Tablet Refills:*0 
+4.  temozolomide 250 mg oral DAILY Duration: 5 Days 
+for 5 days  
+5.  Dexamethasone 4 mg PO Q6H 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+6.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+7.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+# Stage IV NSCLC, with small cell transformation
+# Cancer related fatigue
+# Shingles
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+                             ___ MD ___
+ 
+Completed by: ___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15817721-DS-15 | hadm_id=29113084
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Progressive dyspnea
+ 
+Major Surgical or Invasive Procedure:
+___ ___ Chest Tube Placement
+___ and ___ Pleurodecesis
+___ - Chest Tube removal
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year-old lady with advanced EGFR+ NSCLC 
+complicated by a right-sided malignant pleural effusion s/p 
+pleurodesis currently on gefitib who presents with worsening 
+dyspnea on exertion and cough. 
+
+Three weeks prior to admission she felt "a tug" in her right 
+chest while exercising. Since then she has progressively become 
+short of breath on exertion. She has noticed a mild dry cough 
+over the past week. Over the past 3 days she has been unable to 
+go up the stairs due to her dyspnea. She called Dr. ___
+oncologist, who referred her to the ED for evaluation. 
+
+ED initial vitals were 97.4 87 130/76 18 96% RA  
+Prior to transfer vitals were 97.5 79 108/65 20 95% RA 
+
+Exam in the ED showed: left lung clear to auscultation, right 
+lung with diminished breath sounds from the midfield down, and 
+dullness to percussion there as well. 
+EXT: No lower extremity edema. +2 posterior tibialis pulses 
+bilaterally
+ 
+ED work-up significant for:
+-CBC: 6.6 > 12.9 < 335
+-Chemistry: 139/3.9 | 104/23 | ___
+-CXR: "Appearance of the right pleural effusion, partially 
+loculated pleural effusion has grown since ___. 
+Underlying consolidation in the right lung better assessed on 
+prior PET-CT"
+-CTA Chest: "No pulmonary embolism or acute aortic syndrome. 
+Increased right pleural effusion with increased leftward 
+mediastinal shift compared to PET-CT from ___ 
+
+On arrival to the floor, patient reports feeling well overall 
+except for her dyspnea on exertion. Her cough is minimal and 
+non-productive.
+
+Patient denies fevers/chills, night sweats, headache, vision 
+changes, dizziness/lightheadedness, weakness/numbness, shortness 
+of breath at rest, hemoptysis, chest pain, palpitations, 
+abdominal pain,
+nausea/vomiting, diarrhea, hematemesis, hematochezia/melena, 
+dysuria, hematuria, and rash. 
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was 
+performed and was negative unless otherwise noted in the HPI. 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (Per ___, reviewed): 
+- ___: went to Urgent Care given ongoing cough and found to 
+have RUL mass on imaging
+- ___: Had FDG avid 3.1 cm RUL mass with minimal increase in 
+moderate right non hemorrhagic pleural effusion and extensive 
+miliary nodules and focal FDG uptake along T10 vertebral body 
+with associate sclerotic lesion
+-___: IP performed ___ with cytology showing lung 
+adenocarcinoma
+-___: started gefitinib
+-___: ___ #2 for symptomatic recurrent pleural effusion, 
+800cc removed
+-___: right thoracoscopy with pleural biopsy, talc 
+pleurodesis, and tunneled pleural catheter placement
+-___ - ___: admitted for talc pleurodesis
+-___: second talc pleurodesis 
+
+PAST MEDICAL HISTORY (Per OMR, reviewed):  
+-HSV 1
+-H/O Sphenoid sinusitis
+-Skin SCC s/p excision x2
+ 
+Social History:
+___
+Family History:
+Father: colon cancer in his ___, active smoker who quit ___ years 
+before diagnosis and may have had asbestos exposure  
+Mother: skin cancers, when much older was found to have likely 
+metastatic disease in her lungs (unknown primary)  
+Sister: breast cancer at ___, died of pancreatic cancer at ___, MS 
+ 
+Sister: ___ Macroglobulinemia  
+Sister: melanoma  
+Brother: melanoma  
+Maternal uncle: ___ Macroglobulinemia  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=====================
+VS: 97.9 PO 131/78 76 18 93 RA 
+GENERAL: Well-appearing lady, in no distress lying in bed 
+comfortably.
+HEENT: Anicteric, PERLL, Mucous membranes moist, OP clear.
+CARDIAC: Regular rate and rhythm, normal heart sounds, no 
+murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, decreased breath 
+sounds and dullness in lower half of right hemithorax
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no 
+guarding, no palpable masses, no organomegaly.
+EXT: Warm, well perfused. Trace lower extremity edema. No 
+erythema or tenderness.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII 
+intact. Strength full throughout. Sensation to light touch 
+intact.
+SKIN: No significant rashes.
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VS: 98.2PO 94 / 56 98 18 93 RA 
+GENERAL: NAD
+HEENT: MMM, op clear
+CARDIAC: RRR, normal heart sounds, no
+murmurs, rubs or gallops.
+LUNG: no respiratory distress, decreased breath sounds
+in lower third of right hemithorax
+CHEST: Right CT c/d/I connected to pleurevac to LWS 
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no
+guarding, no palpable masses, no organomegaly.
+EXT: Warm, well perfused. No lower extremity edema. No
+erythema or tenderness.
+NEURO: Grossly intact
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 08:45PM BLOOD WBC-6.6 RBC-4.61 Hgb-12.9 Hct-40.3 MCV-87 
+MCH-28.0 MCHC-32.0 RDW-13.1 RDWSD-42.0 Plt ___
+___ 08:45PM BLOOD Neuts-68.1 Lymphs-17.2* Monos-11.1 
+Eos-2.4 Baso-0.9 Im ___ AbsNeut-4.46 AbsLymp-1.13* 
+AbsMono-0.73 AbsEos-0.16 AbsBaso-0.06
+___ 08:45PM BLOOD Glucose-96 UreaN-19 Creat-0.6 Na-139 
+K-3.9 Cl-104 HCO3-23 AnGap-16
+___ 08:05AM BLOOD ___ PTT-29.1 ___
+___ 08:05AM BLOOD ALT-15 AST-19 LD(LDH)-196 AlkPhos-74 
+TotBili-0.6
+___ 08:05AM BLOOD Albumin-3.6 Calcium-9.1 Phos-4.2 Mg-2.1
+
+DISCHARGE LABS:
+=============
+___ 08:00AM BLOOD WBC-7.5 RBC-4.76 Hgb-13.2 Hct-41.4 MCV-87 
+MCH-27.7 MCHC-31.9* RDW-13.0 RDWSD-41.4 Plt ___
+___ 08:00AM BLOOD Glucose-91 UreaN-16 Creat-0.6 Na-141 
+K-4.3 Cl-103 HCO3-25 AnGap-17
+
+MICROBIOLOGY:
+============
+___ 11:16 am PLEURAL FLUID
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary): 
+
+IMAGING/STUDIES:
+=============
+___ CXR
+FINDINGS: 
+When compared to prior chest x-ray from ___, there has been 
+interval
+progression of the right-sided pleural effusion which is 
+partially loculated
+including some fluid within the fissure.  Underlying 
+consolidation in the
+right lung base is noted as well as opacity in the right 
+paramediastinal
+region as previously noted.  Of note there is no drastic 
+interval change since
+recent PET-CT however direct comparison is limited due to 
+differences in
+technique/positioning.  The left lung is grossly clear.  No 
+acute osseous
+abnormalities.
+ 
+IMPRESSION: 
+Appearance of the right pleural effusion, partially loculated 
+pleural effusion
+has grown since ___.  Underlying consolidation in the 
+right lung
+better assessed on prior PET-CT
+
+___ CTA CHEST
+FINDINGS: 
+The aorta and its major branch vessels are patent, with no 
+evidence of
+stenosis, occlusion, dissection, or aneurysmal formation.  
+Thoracic aorta is
+normal in caliber without evidence of dissection, intramural 
+hematoma nor
+aneurysm.
+ 
+The pulmonary arteries are well opacified to the subsegmental 
+level, with no
+evidence of filling defect to suggest pulmonary embolism.  The 
+main and right
+pulmonary arteries are normal in caliber.
+ 
+There is no supraclavicular, axillary, mediastinal, or hilar 
+lymphadenopathy. 
+The visualized portion of the thyroid appears unremarkable.
+ 
+Again seen is a large loculated right-sided pleural effusion 
+that is increased
+in size from PET CT on ___.  There is an associated 
+leftward shift of
+the mediastinum, slightly increased from prior.  Hyperdensities 
+within the
+effusion inferiorly is compatible with prior talc pleurodesis.  
+There is no
+evidence of pericardial effusion.
+ 
+Again seen is a right upper lobe masslike consolidation abutting 
+the
+mediastinum measuring 3.7 x 1.6 cm (previously 2.1 x 3 cm).  
+This mass appears
+perhaps slightly larger, particularly at its medial aspect.  
+Bilateral diffuse
+micronodules are again seen and unchanged compared to ___,
+although are markedly less conspicuous compared to ___.  Right
+middle and lower lobe atelectasis are again noted.  The airways 
+are patent to
+the subsegmental level.
+ 
+Limited images of the upper abdomen show relatively unchanged 
+hypodensities in
+the liver, which likely represent cysts.  Hyperenhancing focus 
+in segment four
+(2:91) is unchanged compared to ___, potentially 
+altered perfusion
+versus flash filling hemangioma though incompletely 
+characterized.
+ 
+Blastic lesion is unchanged at the superior endplate of T10, 
+which did not
+show FDG avidity on recent PET scan.
+ 
+IMPRESSION:
+1. No pulmonary embolism or acute aortic syndrome.
+2. Increased loculated right pleural effusion with slight 
+increased leftward
+shift of the mediastinum compared to PET-CT on ___.
+3. Right upper lobe soft tissue mass, which is relatively 
+unchanged since ___.  Of note, on recent PET from ___ there is 
+no increased
+FDG uptake though continued followup will be necessary.
+4. Diffuse bilateral micronodules are unchanged compared to ___,
+although are markedly less conspicuous compared to ___.
+5. Unchanged hypodensities in the liver, likely representing 
+cysts. 
+Hyperenhancing focus, unchanged, incompletely characterized 
+though potentially
+flash filling hemangioma or altered perfusion.
+6. Unchanged blastic lesion of the superior endplate of T10, 
+which did not
+show FDG avidity on recent PET scan.
+
+___ CT CHEST W/O CONTRAST
+1. Significant interval improvement in the previously seen large 
+loculated
+right pleural effusion following pleural catheter placement, 
+with small
+residual.  Improved right basilar atelectasis, with mild 
+re-expansion edema in
+the right lung..
+2. A right upper lobe mass.
+3. Diffuse bilateral micronodules are more prominent compared to 
+___,
+have random distribution, arguing for component of infection, 
+possibly
+disseminated.  Component of diffuse metastatic disease or 
+lymphangitic tumor
+spread should be excluded on a follow-up chest CT.
+4. T10 sclerosis is stable, likely metastasis.
+RECOMMENDATION(S):  Follow-up chest CT.
+
+___ Imaging CHEST (PORTABLE AP) 
+Mild cardiomegaly is stable.  There are low lung volumes.  Small 
+to moderate 
+right effusion has increased despite the presence of a right 
+pleural catheter. 
+There is no pneumothorax.  Small lung nodules were better 
+evaluated on prior 
+CT. 
+
+___ Imaging CHEST (PORTABLE AP) 
+In comparison with the study of ___, there probably is 
+slightly more 
+prominence of the opacification in the right hemithorax 
+consistent with 
+substantial effusion and underlying atelectatic changes.  The 
+pigtail catheter 
+remains in place and there is no pneumothorax.  The spiculated 
+mass in the 
+right upper lung was better seen on the CT study of ___, as 
+were the 
+bilateral micro nodules..  In the appropriate clinical setting, 
+it would be 
+difficult to exclude superimposed pneumonia. 
+The left lung appears essentially clear. 
+
+ 
+Brief Hospital Course:
+Mrs. ___ is ___ year old female with PMHx Stage IV NSCLC on 
+Gefitinib since ___ complicated by right malignant pleural 
+effusion s/p thoracenteses and pleurodesis x 2, most recently in 
+___ who presents with progressive dyspnea on exertion and a 
+dry cough for x 1 week found to have a R sided malignant pleural 
+effusion. 
+
+# Loculated right-sided malignant pleural effusion
+Interval increase in effusion since previous imaging is likely 
+etiology of her progressive dypsnea on exertion. CTA Chest 
+negative for pulmonary embolism. Underwent ___ CT placement with 
+IP on ___ and talc pleurodesis on ___ and ___ with stable 
+output. Chest tube was pulled on day of discharge and output was 
+minimal prior to removal.
+
+# Advanced EGFR+ NSCLC:
+Held gefitinib inpatient. Discharged with oncology follow up and 
+plan to continue gefitinib as outpatient.
+
+TRANSITIONAL ISSUES:
+=================
+- f/u with IP on ___ - they will schedule the appointment
+- f/u EGFR mutation from pleural cytologies
+
+# CODE: Full Code, presumed
+# EMERGENCY CONTACT / HCP: Health care proxy chosen: Yes
+Name of health care proxy: ___
+Relationship: husband
+Phone number: ___
+Cell phone: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. gefitinib 250 mg oral DAILY 
+2. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth TID:PRN Disp #*30 
+Capsule Refills:*0 
+2.  gefitinib 250 mg oral DAILY  
+3.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Loculated right-sided malignant pleural effusion
+Advanced EGFR+ NSCLC
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the hospital with shortness of breath.
+
+WHAT WAS DONE FOR ___?
+- ___ had a tube placed to drain fluid from your lung.
+- ___ underwent a procedure called pleurodecis.
+
+WHAT TO DO NEXT?
+- Please follow up with your doctors as ___ and take your 
+medicines as prescribed.
+
+It was a pleasure taking of ___,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

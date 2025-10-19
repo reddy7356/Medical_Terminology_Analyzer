@@ -1,0 +1,227 @@
+===== DISCHARGE NOTE =====
+note_id=14250585-DS-11 | hadm_id=20721065
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Seizure
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ h/o DVT, LMCA stroke w/residual aphasia & R hemiparesis, 
+focal motor seizures on dilantin and h/o GIB sent in from 
+assisted living after witnessed generalized seizure today.  
+
+Limited history of seizure at assisted living but thought to 
+have been generalized by aide who witnessed it and self-resolved 
+after 5 minutes.  ___ 306.  Pt is DNR.
+
+Pt reportedly had second generalized seizure witnessed by ED 
+staff at ~1pm, ___ minutes duration resolved after 2mg IV 
+ativan. Dilantin level found to be low at 6.6, alb 4.0.
+
+Pt also on warfarin with INR 1.4.
+
+ 
+Past Medical History:
+- LMCA stroke ___ yrs ago w/residual aphasia & R hemiparesis,
+focal motor seizures approx 1 focal sz qmo but generalized ___ yrs
+ago
+- osteoarthritis
+- s/p ORIF R hip ___
+- h/o DVT in ___
+- h/o GIB
+- depression
+Family doesn't think she's ever had a heart arrhythmia.  Per
+family member, warfarin was started more recently in ___ when
+she developed complications to her hip surgery including DVT. 
+Unclear duration of her warfarin course but pt has an orthopedic
+surgeon with whom 
+
+Followed by ___ and only recently transferred PCP ___.
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+T- 97.1  BP- 138/74  HR- 102  RR- 16  99 O2Sat 2L
+Gen: frail edlerly lady lying in stretcher, NAD
+HEENT: NC/AT, moist oral mucosa
+Neck: supple, no carotid or vertebral bruit
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: clear to auscultation bilaterally
+aBd: +BS soft, nontender
+ext: no edema, right arm in sling
+
+Neurologic examination:
+MS: asleep but arousable, difficult to keep eyes open but does
+regard.  does not answer questions consistently, apparently
+answers "yes/no" questions at baseline.  not following commands. 
+
+aphasic w/o vocalizations.
+
+CN:
+I: not tested
+II,III: PERRL 4mm to 2mm
+III,IV,V: EOMI w/OCMs, no ptosis. No nystagmus
+V:  sensation V1-V3 to LT difficult to assess
+VII:  R UMN facial weakness
+VIII:  difficult to assess hearing to finger rub 
+IX,X,XI,XII:  declines to open mouth or raise shoulders
+
+Motor/Sensory: Decreased bulk throughout, spastic right arm and 
+increased tone in right leg.  No tremor, asterixis or myoclonus. 
+Lifts left arm antigravity.  Right arm minimal spontaneous 
+movements.  Legs w/d to noxious stim bilaterally.
+
+Reflex: Brisker 2+ on the right, 2 on the left.  Right to 
+upgoing, left downgoing. 
+
+Coordination/Gait/Romberg: unable to assess.
+
+ 
+Pertinent Results:
+___ 10:00AM BLOOD ___ PTT-20.9* Plt Smr-VERY LOW 
+___
+___ 08:05AM BLOOD ___
+___ 10:00AM BLOOD Glucose-137* UreaN-9 Creat-0.8 Na-143 
+K-4.2 Cl-105 HCO3-23 AnGap-19
+___ 09:06AM BLOOD Glucose-90 UreaN-11 Creat-0.7 Na-143 
+K-4.0 Cl-107 HCO3-27 AnGap-13
+___ 10:00AM BLOOD ALT-15 AST-22 LD(LDH)-203 AlkPhos-88 
+TotBili-0.1
+___ 10:00AM BLOOD Albumin-4.0 Calcium-9.0 Phos-3.7 Mg-2.0
+___ 09:06AM BLOOD TSH-1.6
+___ 10:00AM BLOOD Phenyto-6.6*
+___ 06:56PM BLOOD Phenyto-21.6*
+___ 09:06AM BLOOD Phenyto-17.4
+___ 08:05AM BLOOD Phenyto-13.9
+___ 12:25PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 07:20AM BLOOD Phenyto 8.7* 
+___ 07:20AM BLOOD  ___    INR-1.5* 
+
+CXR: No acute cardiopulmonary disease.
+
+Head CT: 
+1. Left sided cystic encephalomalacic changes from remote large 
+left middle cerebral artery territory infarct.
+2. No acute major vascular territorial infarcts are noted. 
+However, considering underlying chronic changes, subtle acute 
+infarcts may be missed, for which MRI is a better modality.
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the Neurology Service for further 
+evaluation. She remained hemodynamically stable throughout her 
+hospital course, which is outlined by problem as follows:
+
+1) Seizures:
+She was loaded with Dilantin in the ED and also started on 
+Keppra. Her Dilantin level after the load was supratherapeutic. 
+Given the drug-drug interactions of Dilantin and Coumadin, it 
+was therefore decided to switch her from Dilantin to Keppra. The 
+Keppra was therefore gradually titrated to 1000mg BID and her 
+Dilantin was allowed to taper down (level 8.7 day prior to 
+discharge). She tolerated the switch to Keppra well and without 
+side effects, and reported no additional seizure events. Should 
+she have increased seizures or concern for seizure activity, the 
+Keppra can be increased to 1250mg or 1500mg PO BID as tolerated. 
+
+
+2) DVT: 
+In the interim, while her dilantin was trending down, the 
+Coumadin was stopped and she was bridged with Lovenox. The INR 
+was also followed (1.5 day prior to discharge) and she will 
+needed it checked regularly as when her Coumadin is restarted.
+
+3) Hypothyroid:
+Her TSH was checked and was normal. She was therefore continued 
+on her home dose of Levothyroxine. 
+
+She is being discharged with stable R hemiparesis and aphasia 
+back to assisted living with ___ services to assist in 
+anticoagulation management. Her PCP's office was contacted and 
+informed of her hospital course. They will see her at her home 
+for follow-up and adjust her Coumadin as needed.
+ 
+Medications on Admission:
+- colace 100mg BID
+- calcium and vit D
+- levoxyl 25mcg QD
+- lipitor 40mg QD
+- sertraline 100mg QD
+- phenytoin 200mg QAM, 100mg QPM per assisted living but 
+supposed
+to be on (200/100 = 300mg daily alternating with 200/200 400mg
+daily
+- warfarin 2mg QD
+
+ 
+Discharge Medications:
+1. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Sertraline 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+7. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous 
+Q12H (every 12 hours): Please continue until transition to 
+Coumadin on ___.
+Disp:*10 * Refills:*2*
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. Coumadin 2 mg Tablet Sig: Two (2) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Seizure
+Old Stroke
+Subtherapeutic INR and DPH levels
+
+ 
+Discharge Condition:
+Stable aphasia and R hemiplegia
+
+ 
+Discharge Instructions:
+1. Please take all medications as prescribed.
+2. OK to increase Keppra to 1250-1500mg BID if has increased 
+seizure events on current dosing.
+3. Please resume Coumadin 2mg PO QD on ___.
+4. Please check the INR on ___ and ___ (titrate dosing for 
+goal 1.5-2.0), and then check INR weekly and send results to the 
+primary care physician.
+ 
+Followup Instructions:
+___

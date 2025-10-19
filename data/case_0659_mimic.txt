@@ -1,0 +1,291 @@
+===== DISCHARGE NOTE =====
+note_id=18820039-DS-16 | hadm_id=21363601
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+peanut / sodium fluoride
+ 
+Attending: ___.
+ 
+Chief Complaint:
+increased seizure frequency
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The pt is a ___ year-old right-handed man who presents with 
+increase in frequency of his typical seizures. He has been on an 
+ambulatory EEG for the past 4 days with one event yesterday, 
+typical of his short seizures, and another today. He was in the 
+passanger seat of their car driving here to get the EEG leads 
+off when he went into a tonic-clonic seizure. He says he was in 
+and out of conciousness during the event, grunting to try and 
+communicate, but doesn't remember the shaking portion. His wife 
+states that his right side was shaking more than the left but 
+both sides were shaking. No tongue biting, head deviation, or 
+incontinence. It lasted less than 5 min but he was tired and out 
+of it afterwards and didn't fully come back to his baseline 
+until almost an hour afterwards. His last event similar to this 
+was ___. 
+
+No recent illnesses, fevers, cough. No recent stressors. He has 
+not been sleeping quite as well because of the EEG leads so does 
+not feel rested this week. No changes in eating habits. 
+Otherwise negative ROS.
+
+Seizure history:
+___ years old had his first grand mal seizure and then he had 
+recurrences every ___ months for ___ years. He had no warning 
+symptoms, bystanders said that he became stiff would go to 
+ground and he would wake up on the ground and talk normally but 
+would be amnesic for a minute or 2 of the postictal event. He 
+was initially on Depakote but without improvement. Then switched 
+to trileptal at ___ with no further seizures just continued 
+minor seizures. Last large seizure was ___.
+
+Small seizures described as he stares, his mouth drops, 
+sometimes he just has speech arrest. He has at least two of 
+these events per month. His most recent was earlier today.
+
+Previous EEGs have suggested a left temporal spike focus. 
+Imaging
+has apparently been negative.
+
+His birth and early development were normal. 
+
+ 
+Past Medical History:
+seizures as above
+ 
+Social History:
+___
+Family History:
+Mother: alive and well
+Father: died of prostate cancer
+Sister: ___ disability, meningitis as child, and 
+seizure disorder
+No other family history of seizures
+ 
+Physical Exam:
+Physical exam on admission:
+
+Vitals: 98.0 HR97 116/82 20 97% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple
+Pulmonary: normal work of breathing, nonlabored
+Cardiac: RRR
+Abdomen: soft, NT/ND
+Extremities: No C/C/E bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  Speech 
+was not dysarthric. Able to follow both midline and appendicular 
+commands. The pt had good knowledge of current events. There was 
+no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis 
+noted. ___ strenght throughout.
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF bilaterally.
+-Gait: Good initiation. Narrow-based, normal stride and arm 
+swing.  
+
+Exam on discharge:
+unchanged from admission
+ 
+Pertinent Results:
+Labs:
+
+___ 10:38AM   WBC-7.2 RBC-5.11 HGB-15.9 HCT-46.2 MCV-90 
+MCH-31.0 MCHC-34.3 RDW-12.5
+___ 10:38AM   NEUTS-66.2 ___ MONOS-6.4 EOS-4.8* 
+BASOS-0.6
+___ 10:38AM   GLUCOSE-96 UREA N-12 CREAT-1.0 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-26 ANION GAP-17
+___ 10:38AM   ALT(SGPT)-32 AST(SGOT)-28 ALK PHOS-85 TOT 
+BILI-0.4
+___ 10:38AM   ALBUMIN-5.2
+___ 10:38AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+
+___ 12:20PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 12:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+___ 12:20PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+
+Keppra 25
+Trileptal 12.3
+
+Imaging:
+
+Chest xray: no acute cardiopulmonary process
+
+MRI brain seizure protocol: normal
+
+EEG ___
+This is a abnormal continuous video EEG monitoring study due to 
+the presence of a single clinical and electrographic seizure on 
+the evening of 
+___. Localization or even lateralization of onset could not 
+be well- 
+determined on EEG, but clinically the patient's head turned 
+toward the right 
+and both arms elevated, with the right arm extended out stiffly, 
+followed by 
+apparent secondary generalization. Interictally, frequent 
+bilateral frontal 
+epileptiform discharges were seen, sometimes in periodic runs 
+lasting up to 
+___ seconds. The background did reach a normal alpha rhythm 
+during 
+wakefulness. 
+
+EEG ___
+This is an abnormal continuous video EEG monitoring study due to 
+
+the presence of frequent generalized, frontally predominant, 
+high amplitude 
+spike and wave discharges, most often with a left frontal 
+predominance. On a 
+rare occasion, they appear to begin in the right frontal region. 
+The 
+discharges are accentuated in sleep. These findings are highly 
+suggestive of 
+a left frontal epileptogenic focus, with a possibility of a 
+second right 
+frontal focus. There are no definite electrographic seizures. 
+The waking 
+background consists of a symmetric ___ Hz posterior dominant 
+rhythm with 
+superimposed beta activity. 
+
+ 
+Brief Hospital Course:
+___ year-old right-handed man who presented with increase in 
+frequency of his typical seizures. Lack of sleep and stress of 
+the ambulatory EEG were likely triggers. No infectious concerns 
+or concerns of compliance. Infectious work up (CBC, UA, CXR) was 
+unremarkable. Keppra level was 25 and Trileptal level 12.3.  As 
+trileptal level was on the lower end of therapeutic, dose was 
+increased from 900mg bid to ___ on admission.  Keppra 
+dose was not changed.  Patient had 2 generalized seizures 
+shortly after admission without return to baseline.  (head turn 
+to the right, right arm extention, lasted < 1 minute) After ___ 
+seizure, he was given Ativan 2mg IV x1.  After the second, he 
+was loaded with Dilantin after which he did not have any more 
+seizures.  Localization or even lateralization of onset could 
+not be well- determined on EEG. Interictally, frequent bilateral 
+frontal epileptiform discharges were seen, sometimes in periodic 
+runs lasting up to ___.  ECG was obtained which showed 
+no conduction abnormalities and Mr. ___ was started on 
+lacosamide 100mg bid which he tolerated well, and Dilantin was 
+discontinued (he has not tolerated it well long term in the 
+past).  On discharge, it was increased to 150mg bid.  He did not 
+have any more seizures after the night of admission.  MRI brain 
+seizure protocol was normal.  He will follow up with Dr. ___ 
+in neurology clinic.
+
+AEDs on discharge: Keppra 1000mg bid, Trileptal 900mg/1200mg, 
+Lacosamide 150mg bid
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Oxcarbazepine 900 mg PO BID 
+2. LeVETiracetam ___ mg PO BID 
+
+ 
+Discharge Medications:
+1. LeVETiracetam ___ mg PO BID 
+2. Oxcarbazepine 900 mg PO QAM 
+RX *oxcarbazepine 300 mg as instructed tablet(s) by mouth twice 
+a day Disp #*210 Tablet Refills:*0
+3. Oxcarbazepine 1200 mg PO QPM 
+4. LACOSamide 150 mg PO BID 
+RX *lacosamide [Vimpat] 150 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+RX *lacosamide [Vimpat] 150 mg 1 tablet(s) by mouth twice a day 
+Disp #*2 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+epilepsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you had seizures which 
+progressed to generalized seizures.  We obtained an MRI scan 
+which on our read appeared stable. We increased your 
+oxcarbazepine dose from 900 mg twice a day to 900 mg in the 
+morning and 1200 mg in the evening. We also started you on a new 
+medication, vimpat. We are providing you the first two doses; 
+you should pick up the rest of the prescription from your home 
+___ tomorrow. You should bring the paper prescription with you 
+to pick up this medication. They anticipate that it will be 
+ready after noon.
+
+Keep in mind that sleep deprivation can help to provoke your 
+seizures. In addition to taking these medications you should try 
+to get a full night's rest every day. We checked levels of your 
+anti-epileptic medications when you arrived to determine if you 
+are on the correct dose. You will follow up with those results 
+in Neurology clinic.
+
+It was a pleasure taking care of you during this 
+hospitalization.
+ 
+Followup Instructions:
+___

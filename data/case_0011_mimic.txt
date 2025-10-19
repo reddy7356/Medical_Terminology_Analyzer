@@ -1,0 +1,343 @@
+===== DISCHARGE NOTE =====
+note_id=17848708-DS-2 | hadm_id=21556813
+
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dysphagia
+ 
+Major Surgical or Invasive Procedure:
+___
+Minimally invasive ___ esophagectomy
+
+___
+Right PICC line placement
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with long
+segment ___ esophagus and T1a esophageal adenocarcinoma. 
+He
+is referred for surgical management.
+
+He was initially diagnosed on evaluation at OS___ for GI bleed
+requiring transfusion. Colonoscopy revealed diverticulosis and
+hemorrhoids. EGD with EUS ___ with Dr. ___ 
+7cm
+segment of ___ esophagus with the Z line at 30 cm from the
+incisors and the upper ends of the gastric folds started at 37 
+cm
+from the incisors. The segment appears grossly thickened and
+irregular. Additionally noted a 8 mm nodule at 35 cm. Biopsy
+demosntrated high grade dysplasia and possible intramucosal
+adenocarcinoma. 
+
+He was brought back on ___ for endoscopic mucosal
+resection of nodule at 35 cm from incisors. Pathology showed a
+T1a adenocarcinoma.  The tumor appeared to invade the muscularis
+mucosa. Mucosa margins were positive. He was therefore referred
+for surgical consultation.
+
+He reports feeling well. Denies any odynophagis,
+dysphagia, or pain. He has had long-standing reflux symptoms,
+managed with over the counter Tums/Rolaid. He denies any chest
+pain, shortness of breath, leg swelling or any history of 
+cardiac
+events. He is able to climb two flights of stairs without issue.
+
+ 
+Past Medical History:
+HTN
+Celiac disease
+GERD x ___ years, with ___ esophagus
+Inguinal hernia repair
+Appendectomy
+ 
+Social History:
+___
+Family History:
+no family history of GI cancer, sister with breast cancer
+
+ 
+Physical Exam:
+: 135/64. Heart Rate: 63. O2 Saturation%: 100. Weight: 219.6
+(With Shoes). Temperature: 97.9. Resp. Rate: 16. Pain Score: 5
+(back). Distress Score: 0.
+
+GENERAL        
+[X] WN/WD  [X] NAD  [X] AAO  [X] obese
+
+HEENT          
+[X] NC/AT   [] EOMI   [] PERRL/A   [X] Anicteric
+[X] OP/NP mucosa normal     [] Tongue midline
+[] Palate symmetric  [X] Neck supple/NT/without mass
+[] Trachea midline [] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[X] CTA/P     [X] Excursion normal     [ ] No fremitus
+[] No egophony   [] No spine/CVAT
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[X] RRR    [X] No m/r/g    [] No JVD   [] PMI nl  [] No edema
+[] Peripheral pulses nl    [] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[X] Soft, obese, upper midline diastasis   [X] NT   [X] ND  [] 
+No
+mass/HSM   
+[ ] Abnormal findings:
+
+GU             [X] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[X] Strength intact/symmetric    [] Sensation intact/ symmetric
+[] Reflexes nl     [] No facial asymmetry [] Cognition intact
+[] Cranial nerves intact   [ ] Abnormal findings:
+
+MS     
+        
+[X] No clubbing   [] cyanosis   [] No edema   [] Gait nl
+[] No tenderness  [] Tone/align/ROM nl   [] Palpation nl
+[] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[X] Cervical nl      [x] Supraclavicular nl     [] Axillary nl
+[] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           
+[X] No rashes/lesions/ulcers
+[] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[X] Nl judgment/insight    [] Nl memory   [] Nl mood/affect
+[ ] Abnormal findings:
+
+ 
+Pertinent Results:
+                    WBC   RBC   Hgb  Hct  MCV  MCH  MCHC  RDW 
+RDWSD Plt Ct 
+___ 06:02    14.4* 3.71* 8.6* 31.2* 84  23.2* 27.6* 20.1* 
+60.1* 381 
+___ 04:20    14.0* 4.05* 8.7* 30.8* 76* 21.5* 28.2* 18.5* 
+50.2* 391 
+___ 06:16    13.0* 4.06* 8.8* 30.7* 76* 21.7* 28.7* 18.3* 
+49.6* 385 
+___ 05:01    10.3* 3.88* 8.3* 29.5* 76* 21.4* 28.1* 18.0* 
+49.0* 350 
+___ 05:50    10.2* 4.28* 9.1* 33.0* 77* 21.3* 27.6* 18.1* 
+49.5* 324 
+___ 05:38     9.8  4.08* 8.7* 31.5* 77* 21.3* 27.6* 17.7* 
+49.2* 280 
+___ 02:09    12.4* 3.65* 7.7* 28.2* 77* 21.1* 27.3* 18.0* 
+50.4* 243 
+___ 02:04    12.0* 4.09* 8.8* 31.8* 78* 21.5* 27.7* 18.0* 
+50.5* 264 
+___ 02:49    12.0* 4.33* 9.4* 32.6* 75* 21.7* 28.8* 17.6* 
+47.5* 307 
+___ 14:44    29.2* 4.84 10.3* 37.1* 77* 21.3* 27.5* 17.8* 
+49.4 472* 
+
+                  Glucose UreaN Creat Na   K   Cl HCO3 AnGap 
+___ 07:47    ___  1402 4.73 ___ 
+___ 04:20    ___  1402 4.53 ___ 
+___ 06:16    ___  1392 4.33 ___ 
+___ 05:01    ___  1432 4.53 ___ 
+___ 05:50    ___  1382 ___  102 
+___ 05:38    ___  1422 4.23 ___ 
+___ 02:09     791   14   0.7  1352 4.53 100 27  8*2 
+___ 02:04    ___  1402 4.73 ___ 
+___ 02:49    144*1  24*  0.9  1382 5.03 ___ 
+___ 14:44    181*1  30*  1.4* 1382 5.8*3 107 20* 114 
+ 
+___ CXR :
+Stable small right apical pneumothorax with unchanged position 
+of the 
+right-sided chest tube.  Low lung volumes with scattered patchy 
+opacities, likely patchy atelectasis, unchanged. Stable position 
+of supporting lines. 
+  
+___ CXR :
+Combination of right basal atelectasis and possible small right 
+pleural 
+effusion unchanged since earlier today.  No detected 
+pneumothorax, right ___ thoracostomy tube in place. 
+Neo esophagus is slightly more dilated with air. 
+Left lung clear.  Heart size normal. 
+  
+___ Chest CT :
+1. Patient is status post ___ esophagectomy, with no 
+evidence of contrast leakage on today's examination. 
+2. Mediastinal lymph nodes are noted, likely reactive. 
+3. New geographic hypoenhancing splenic lesion, likely an 
+infarct. 
+
+___ CT Neck :
+1. Status post esophagectomy.  Gastroesophageal anastomosis and 
+intrathoracic abnormalities are better assessed on the 
+concurrent CT chest. 
+2. No evidence for a fluid collection in the neck. 
+3. Small amount of dependent radiodense contrast in the region 
+of the proximal cervical esophagus, likely retained from the 
+barium swallow performed 3 days prior on ___. 
+4. Multiple nonenlarged bilateral subclavian lymph nodes.  No 
+pathologically enlarged cervical lymph nodes by CT criteria. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the hospital and taken to the 
+Operating Room where he underwent a minimally invasive ___ 
+esophagectomy. He tolerated the procedure well and returned to 
+the PACU in stable condition. He maintained stable hemodynamics 
+and his pain was controlled with an epidural. His nasogastric 
+tube remained in place for decompression of his conduit and his 
+left neck JP was on bulb suction draining a small amount of 
+serous fluid.  His right ___ drain had no air leak and drained 
+a moderate amount of serosanguinous fluid.  He was hydrated with 
+IV fluids and was using his incentive spirometer and a flutter 
+valve. He had better pain control with a split epidural and 
+transferred out of the ICU on post op day #2 to the Surgical 
+floor.
+
+He was very congested and had some difficulty coughing up his 
+secretions despite denying increased pain. He was placed on 
+nebulizers q 4 hrs along with Mucomyst and was eventually able 
+to clear his secretions.  His nasogastric tube was removed on 
+post op day #5 as it migrated out of position and he was soon 
+feeling much better and taking deeper breaths.  His epidural was 
+removed on ___ along with his Foley catheter and his pain 
+continued to be controlled with dilaudid PCA and Tylenol. He was 
+able to void without difficulty. 
+
+A barium swallow was done on ___ and there was concern for 
+a contained leak. He remained NPO and a PICC line was placed for 
+TPN and IV antibiotics. His left neck JP drain remained in place 
+along with his right pleural ___ drain.  He also developed 
+some rapid atrial fibrillation to 170 and although it broke on 
+its own he was treated with IV Metoprolol.  His WBC was 8K and 
+he remained afebrile but he developed a progressive leukocytosis 
+over the next few days of unclear etiology.
+On ___ his WBC was 14K and a CT of the neck and chest was 
+done which showed no evidence of a leak.  He began a liquid diet 
+on ___ and tolerated it well. The drainage in his neck JP 
+was serous as was his ___ drain.  His diet was gradually 
+advanced to soft solids which he took in modest amounts and his 
+IV antibiotics were stopped on ___ and replaced with 
+Augmentin to total a seven day course. 
+
+He continued to look well, remained afebrile and his drains were 
+removed. His WBC continued to rise and his PICC line was removed 
+on ___ as his WBC maxed at 18.5. He continued to tolerate 
+soft foods, had room air saturations of 96% and he was walking 
+frequently around the unit.  His WBC dropped to 13K on ___ 
+and as he continued to look well he was discharged home. He is 
+tolerating sot foods along with Ensure supplements TID and will 
+follow up with DrGangadharan next week with a CBC and CXR prior 
+to the visit. ___ services were also set up for him at 
+discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Lisinopril 20 mg PO DAILY 
+2. Omeprazole 40 mg PO BID 
+3. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanate Susp. 500 mg PO/NG Q8H 
+RX *amoxicillin-pot clavulanate 250 mg-62.5 mg/5 mL 10 ml by 
+mouth every eight (8) hours Disp ___ Milliliter Milliliter 
+Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*2 
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*40 Tablet Refills:*0 
+4.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*0 
+5.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*100 Tablet Refills:*0 
+6.  Lisinopril 20 mg PO DAILY  
+7.  Omeprazole 40 mg PO BID 
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*3 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Esophageal cancer
+Atrial fibrillation (resolved)
+Esophageal anastomotic leak
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Call Dr. ___ ___ if you experience:
+ -Fevers greater than 101 or chills
+ -Increased shortness of breath, cough or chest pain
+ -Nausea, vomiting 
+ -Increased abdominal pain
+ -Drainage or redness from your incisions
+
+ Medication 
+-See medication discharge sheet
+-Take stool softners to prevent constipation
+
+ Activity
+ -Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+ -No tub bathing, swimming or hot tub until incision healed
+ -No driving while taking narcotics
+ -No lifting greater than 10 pounds until seen in follow up
+ -Walk ___ times a day for ___ minutes increase to a Goal of 
+30 minutes daily as tolerated
+
+ Diet:
+ Soft solids as tolerated with Ensure supplements ___ times a 
+day.
+ Eat small frequent meals. Sit up in chair for all meals and 
+remain sitting for ___ minutes after meals
+
+ Daily weights: keep a log of weights and oral intake and bring 
+it with you to your appointment so that your caloric intake can 
+be assessed.
+
+ NO CARBONATED DRINKS
+
+  
+
+ 
+ 
+Followup Instructions:
+___

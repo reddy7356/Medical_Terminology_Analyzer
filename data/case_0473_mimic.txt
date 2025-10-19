@@ -1,0 +1,321 @@
+===== DISCHARGE NOTE =====
+note_id=18759022-DS-18 | hadm_id=24915370
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+jaundice
+ 
+Major Surgical or Invasive Procedure:
+Endoscopy with endoscopic ultrasound and biopsy on ___
+ 
+History of Present Illness:
+___ with DM2, ESRD on HD, CAD, CHF, who presented to ___ 
+___ with 4 months of worsening abdominal pain, weight loss, 
+and jaundice, and found to have multiple hepatic lesions on CT 
+concerning for malignancy. He underwent ERCP on ___ with stent 
+placement despite no notable stricture or obstruction. However 
+bili continued to rise. Repeat CT a/p showed possible posterior 
+duodenal wall thickening. Thus the patient was transferred to 
+___ for EUS with biopsy of duodenal thickening. Also, patient 
+underwent ___ guided liver biopsy on ___ with path results 
+pending on admission to ___.
+
+En route to ___ from ___, the patient experienced 2 
+minutes of fleeting substernal chest pain. It was associated 
+with diffuse abdominal pain as well and improved spontaneously. 
+He was taken to ___ nonetheless, where EKG was c/w 
+prior and troponins were 0.05 (in the setting of ESRD). He was 
+rerouted to ___ through the emergency department, where CP was 
+noted to be resolved, EKG was again stable, and troponins were 
+lower at 0.03 with an MB of 2. He was then admitted to the 
+medicine service.
+
+On arrival, he endorsed nausea and continued abdominal pain, 
+although he is hungry. He reported that prior to transfer he was 
+tolerating clears. He endorseed watery diarrhea, although OSH 
+documentation documents resolution by the end of his hospital 
+course.
+ 
+Past Medical History:
+-ESRD on HD (MWF)  
+-CAD  
+-CHF  
+-DM c/b retinopathy and neuropathy  
+-Chronic anemia  
+-HTN  
+-Depression  
+-GERD/Esophagitis  
+-H/O Osteomyelitis  
+-TIA/CVA  
+-Nonhealing L heel ulcer  
+
+ 
+Social History:
+___
+Family History:
+None per patient. No cancers in the family.
+ 
+Physical Exam:
+Admission exam:
+Vitals- 98.3, 145/53, 97, 20, 97% on RA 
+General- Alert, oriented to person and place but not time, no 
+acute distress  
+HEENT- NCAT. EOMI. L surgical pupil. Sclera icteric. MM dry. OP 
+clear.  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-distended, bowel sounds present. TTP in the 
+left and right lower quadrants. no rebound tenderness or 
+guarding, no organomegaly  
+GU- no foley  
+Ext- R BKA. warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema  
+Neuro- CNs2-12 intact, ___ strength. full sensation.
+Skin - jaundiced. shallow ulceration of the left dorsal foot 
+without purulence or surrounding erythema.
+
+Discharge exam:
+Vitals not checked as patient is CMO.
+General- AAOx1, jaundiced
+HEENT- NCAT. EOMI. L surgical pupil. Sclera icteric. MMM. OP 
+clear.  
+Lungs- Clear to auscultation anterolaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-distended, bowel sounds present. nontender.
+Ext- R BKA. warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema. L foot ulcer bandaged.
+Neuro- CNs2-12 intact, ___ strength. full sensation. Mild 
+asterixis 
+ 
+Pertinent Results:
+Admission labs:
+___ 02:30AM BLOOD WBC-14.0*# RBC-3.58* Hgb-1.03*# Hct-32.0* 
+MCV-93# MCH-31.2# MCHC-33.1 RDW-23.0* Plt ___
+___ 02:30AM BLOOD Neuts-82.6* Lymphs-9.7* Monos-6.5 Eos-0.7 
+Baso-0.4
+___ 07:08AM BLOOD ___ PTT-34.0 ___
+___ 02:30AM BLOOD Glucose-166* UreaN-53* Creat-6.3*# Na-136 
+K-4.8 Cl-94* HCO3-18* AnGap-29*
+___ 02:30AM BLOOD ALT-22 AST-60* AlkPhos-235* TotBili-37.2*
+___ 02:30AM BLOOD CK-MB-2 cTropnT-0.03*
+___ 07:08AM BLOOD CK-MB-2 cTropnT-0.03*
+___ 02:30AM BLOOD Albumin-3.2*
+___ 07:08AM BLOOD Albumin-3.2* Calcium-9.8 Phos-4.5 Mg-2.1
+___ 07:08AM BLOOD Ammonia-75*
+___ 02:46AM BLOOD Lactate-1.8
+
+Discharge labs:
+None
+
+Micro:
+None relevant
+
+Path:
+___ Gastrointestinal mucosal biopsies, two:
+1. Gastric polyp:
+- Fragments consistent with gastric hyperplastic polyp with 
+focal erosion.
+- Additional levels are examined.
+2. "Edematous fold, duodenum":
+- Duodenal mucosa with focal chronic mildly active duodenitis.
+- No deeper/submucosal tissue present for evaluation. Additional 
+levels are examined.
+
+___ Liver, targeted needle core biopsy (___):
+- Neuroendocrine carcinoma (grade 3) involving the liver, see 
+note.
+- Lymphovascular invasion is present
+- Adjacent liver parenchyma with marked cholestasis, bile 
+ductular proliferation and mixed
+inflammatory infiltrate.
+Note: The tumor cells are immunoreactive for pan-cytokeratin, 
+synaptophysin, CD56 and focally
+positive for villin and CDX2. Tumor cells are negative for CK7, 
+CK20, PSA and TTF-1. The tumor
+shows increased mitotic rate ___ HPF). These results were 
+conveyed via telephone to Dr. ___ by Dr. ___ on ___.
+
+Imaging:
+
+From ___
+--------------------
+___ ERCP 
+1. Dilated ducts
+2. No evidenceof masses or stricture
+Plan: follow LFTs, remove stent in ___ weeks, consider liver bx
+
+___ CT A/P:
+1. Persistent multiple hypoenhancing lesions in the R and L 
+hepatic lobes. Findings could represent persistent multiple 
+metastatic tumors or dysplastic nodules in hepatic cirrhosis.
+2. Persistent unchanged marked splenomegaly with multiple 
+hypoenhancing lesions. Differential diagnosis can include 
+multiple metastatic tumors from unknown primary, infiltration 
+with malignant lymphoma or leukemia, or multiple septic emboli.
+3. Persistent unchanged s/p CCY, dilated common hepatic duct, 
+but interval placement of plastic common bile duct.
+4. The current examination with oral constrast shows a possible 
+filling defect in upper descending duodenum posterior wall. Even 
+though findings could represent redundant mucosa, duodenal tumor 
+cannot be excluded. Correlation with endoscopy findings during 
+ERCP is recommended.
+5. No intestinal or colonic obstruction or abdominal 
+inflammation or pneumoperitoneum is seen.
+6. Persistent unchanged markedly atrophic kidneys with probably 
+multiple renal cortical cysts.
+7. No pelvic mass, lesions, abscess, or LAD is seen.
+
+___ CT CHEST
+1. Fan shaped right middle lobe atelectasis and tiny focal 
+anterior medial left lingular lobe atelectasis are seen.
+2. No focal lung mass lesion or mediastinal LAD is seen.
+3. No thoracic aortic aneurysm or dissection is seen.
+
+From ___:
+-------------
+none relevant
+ 
+Brief Hospital Course:
+___ with DM, ESRD on HD, CAD, CHF, who presented to ___ 
+___ with 4 months of worsening abdominal pain, weight loss, 
+and jaundice, and found to have multiple hepatic lesions on CT 
+A/P concerning for malignancy. He underwent ERCP at ___ in 
+___ with stent placement. Bilirubin continued to rise post 
+procedurally. Repeat CT A/P was then done, which confirmed 
+proper stent placement and noted continued presence of 
+multifocal lesions in the liver, as well as duodenal wall 
+thickening. On ___ pt underwent ___ guided liver biopsy. He was 
+transferred to ___ for duodenal wall biopsy and to workup for 
+a primary malignancy. Of note, GI was consulted at ___, who 
+delayed inpatient colonoscopy pending the above biopsy results. 
+
+At ___, pt underwent Endoscopy with US and biopsy of the 
+duodenum showing duodenitis. Liver biopsy from ___ came 
+back on ___, showing neuroendocrine carcinoma. Pt was 
+presented at Tumor Board Conference on ___. Hepatology, 
+Oncology, pathology, and radiology all agreed that the patient 
+was a poor candidate for further intervention given his multiple 
+comorbidities, the aggressive nature of the carcinoma, and the 
+stage. Multiple discussion with the patient and his sons 
+revealed that the patient values his independence and 
+cognitition and would not want to prolong a life of 
+hospitalization and illness. Palliative care was consulted, and 
+the patient was transitioned to ___ focused care.
+
+Of note, many preadmission medications were stopped. Celexa was 
+continued for depression and omperazole for any pain related to 
+gastritis/duodenitis. Rifaximin and lactulose were started to 
+improve hepatic encephalopathy, which was within pt's goals of 
+care. He received oral dilaudid for abdominal pain throughout 
+the hospitalization with good effect, and on the day of 
+discharge was transitioned to oxycodone elixir for ease of 
+administration. He appeared comfortable on day of discharge.
+
+# CODE STATUS: DNR/DNI
+# CONTACT: ___ (son) ___ cell (preferred): 
+___   
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 40 mg PO BID 
+2. Aspirin 81 mg PO DAILY 
+3. ALPRAZolam 0.5 mg PO DAILY:PRN anxiety 
+4. Cinacalcet 30 mg PO BID 
+5. Citalopram 30 mg PO DAILY 
+6. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+7. Amitriptyline 50 mg PO HS 
+8. CloniDINE 0.3 mg PO BID 
+9. Glargine 42 Units Breakfast
+Insulin SC Sliding Scale using UNK Insulin
+10. Oxycodone-Acetaminophen (5mg-325mg) 2 TAB PO ONCE:PRN 
+dialysis 
+
+ 
+Discharge Medications:
+1. Citalopram 30 mg PO DAILY 
+2. Acetaminophen 650 mg PO TID 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*3
+3. Lactulose 30 mL PO QID 
+RX *lactulose 10 gram/15 mL 30 ML by mouth four times a day 
+Refills:*1
+4. Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % (700 mg/patch) Apply 1 Patch Daily Disp #*90 
+Patch Refills:*1
+5. Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg ___ tablet(s) by mouth Daily Disp #*90 
+Tablet Refills:*1
+6. Rifaximin 550 mg PO BID 
+RX *rifaximin [Xifaxan] 550 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+7. Omeprazole 40 mg PO BID 
+8. Lorazepam 0.5-1 mg PO Q2H:PRN anxiety or dyspnea 
+RX *lorazepam 0.5 mg ___ tabs by mouth every two hours Disp #*40 
+Tablet Refills:*0
+9. OxycoDONE Liquid ___ mg PO Q1H:PRN pain or dyspnea 
+RX *oxycodone 5 mg/5 mL ___ mg by mouth every hour Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+==================
+Neuroendocrine carcinoma
+Jaundice
+Hyperbilirubinemia
+Hepatic encephalopathy
+End stage renal disease
+Type 2 diabetes mellitus
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___. You were admitted for 
+further evaluation of lesions on your liver found on a CT scan. 
+The liver biopsy done at ___ came back on ___ 
+and showed evidence of cancer.  After extensive discussions with 
+the oncology and liver service as well as with you and your 
+family about your preferences, it was decided to discharge you 
+to an ___ facility for comfort focused care.  We wish you 
+the best and if we can do anything at all to make you more 
+comfortable please let us know.
+
+We wish you the best,
+
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,605 @@
+===== DISCHARGE NOTE =====
+note_id=13400702-DS-22 | hadm_id=20661634
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+symptomatic biliary colic
+ 
+Major Surgical or Invasive Procedure:
+___: Laparoscopic cholecystectomy
+
+ 
+History of Present Illness:
+___ here with RUQ abd pain that began at 3am today, constant and 
+associated with 5 episodes of emesis. Has had similar episodes 
+before that awake the patient from sleeping but are usually self 
+resolving and are not associated with food. 
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+Admission Physical Exam:
+PE: 98.3 78 131/72 18 99%RA
+General
+
+Discharge Physical Exam: 
+VS: 99.0, 94/58, 84, 18, 94 Ra
+Gen: A&O x3, lying in bed comfortably
+CV: HRR
+Pulm: LS ctab
+Abd: soft, NT/ND. Lap sites closed with gauze dsg, CDI
+Ext: No edema 
+ 
+Pertinent Results:
+Labs:
+
+15.3>----<284
+       34.3
+
+138  102 10
+--------------<135
+4.3   23   0.8
+
+Imaging: 
+RUQUS:
+1. Echogenic liver consistent with steatosis with focal fatty 
+sparing adjacent to the gallbladder. Other forms of liver 
+disease including steatohepatitis, hepatic fibrosis, or 
+cirrhosis cannot be excluded on the basis of this examination.
+2. Cholelithiasis without evidence of cholecystitis.
+ 
+Brief Hospital Course:
+The patient was admitted to the General Surgical Service on ___ 
+for evaluation and treatment of abdominal pain.  Admission 
+abdominal ultra-sound revealed cholelithiasis without evidence 
+of cholecystitis. WBC was elevated at 15.3. Due to her symptoms 
+and elevated leukocytosis, the patient was started on 
+antibiotics and booked for the OR. The patient underwent 
+laparoscopic cholecystectomy, which went well without 
+complication (Please see operative report for details). After a 
+brief, uneventful stay in the PACU, the patient arrived on the 
+floor tolerating clears, on IV fluids, and oral analgesia for 
+pain control.  The patient was hemodynamically stable.
+
+Pain was well controlled. Diet was progressively advanced as 
+tolerated to a regular diet with good tolerability. The patient 
+voided without problem. During this hospitalization, the patient 
+ambulated early and frequently, was adherent with respiratory 
+toilet and incentive spirometry, and actively participated in 
+the plan of care. The patient received subcutaneous heparin and 
+venodyne boots were used during this stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged home without services. 
+The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*25 Tablet Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute cholecystitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with symptomatic biliary 
+colic. You were taken to the operating room and had your 
+gallbladder removed laparoscopically. You tolerated the 
+procedure well and are now being discharged home to continue 
+your recovery with the following instructions.
+ 
+Please follow up in the Acute Care Surgery clinic at the 
+appointment listed below.
+ 
+ACTIVITY:
+ 
+o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+o You may climb stairs. 
+o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o You may start some light exercise when you feel comfortable.
+o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you.
+o  You may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed.
+o  You could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow you may shower and remove the gauzes over your 
+incisions. Under these dressing you have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay).
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o You may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless you were told 
+otherwise.
+o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon. 
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if you take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+o Remember to use your "cough pillow" for splinting when you 
+cough or when you are doing your deep breathing exercises.
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently.
+If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13400702-DS-23 | hadm_id=22879186
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ G5P2 at 30w1d here for a 3-day h/o N/V and right-sided
+abdominal pain. 
+
+Full HPI per ___, ___:
+She reports that her sx started on ___. She woke up and had a
+banana and 2 Tylenol (took for ear pain), went to work and
+developed upper abdominal pain and vomited ___ times. She went
+home and vomited a little more, states it was mostly yellow 
+bile.
+
+Yesterday, she stayed home and continued to not feel well. Her
+pain was more on her right side. She kept down toast, eggs, and 
+a
+small amt of Gatorade. 
+
+At midnight this morning, she started vomiting again ___ times)
+and her right sided pain was worse so she presented to ED, then
+to gyn triage. She denies any fevers, but feels subjective
+chills. no unusual foods, no sick contacts. she denies back 
+pain,
+diarrhea, urinary symptoms, ctxs, lof, or vb. Last BM was ___
+and nl per pt. Pt reports active FM.
+
+Of note, pt currently getting treated for otitis externa, seen 
+by
+ENT on ___. Pt states ear pain improved.
+
+ 
+Past Medical History:
+PNC: 
+*) Dating: ___ ___ by LMP c/w ___ US
+*) O+/Ab-/HIV-/HbsAg-/RPRNR/RI/GC/CT neg/ GBS unk
+*) Random glucose: 135; HbA1c ___ 5.2%; early GLT 134; rpt 
+GLT
+180, nl GTT (___)
+*) nl Hbg electrophoresis
+*) declined aneuploidy screening, nl FFS
+*) ___: s=d, EFW 1656g(77%), ant placenta
+*) Issues: 
+- BMI 42
+- H/o LEEP: followed by term SVD x 2; nl CL at FFS
+
+ObHx: ___
+- G1 term SVD 6# uncomplicated natural child birth (___, ___
+- G2 TAB/D&C
+- G3 term SVD ?8# uncomplicated natural child birth (___, ___
+- G4 TAB/medication
+- G5 current
+
+PMH:
+- cholecystitis, s/p laparoscopic cholecystectomy
+- obesity
+- left ankle fracture
+- scoliosis
+- denies personal history of HTN, asthma, diabetes, bleeding/
+clotting disorders
+
+SurgHx:
+- laparoscopic cholecystectomy (___)
+- D&C
+- ankle surgery for left ankle fracture
+- LEEP
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+___ 2335 Temp: 98.7 PO BP: 105/64 L Lying HR: 103 RR: 18 O2
+sat: 97% O2 delivery: RA Pain Score: ___ Fetal Monitoring: FHR:
+132irregular FM: Present 
+___ Temp: 98.7 PO BP: 100/62 R Sitting HR: 101 RR: 18
+O2 sat: 96% O2 delivery: RA Pain Score: ___ Fetal Monitoring:
+FM: Present 
+
+Gen: [x] NAD
+Resp: [x] No evidence of respiratory distress
+Abd: [x] soft  [x] non-tender 
+Ext: [x] no edema [x] non-tender
+ 
+Pertinent Results:
+___ 06:22AM BLOOD WBC-10.9* RBC-2.94* Hgb-8.1* Hct-25.9* 
+MCV-88 MCH-27.6 MCHC-31.3* RDW-14.8 RDWSD-47.0* Plt ___
+___ 06:05AM BLOOD WBC-15.2* RBC-3.10* Hgb-8.6* Hct-27.0* 
+MCV-87 MCH-27.7 MCHC-31.9* RDW-14.6 RDWSD-46.0 Plt ___
+___ 06:29AM BLOOD WBC-18.1* RBC-3.31* Hgb-9.1* Hct-29.0* 
+MCV-88 MCH-27.5 MCHC-31.4* RDW-14.2 RDWSD-45.1 Plt ___
+___ 07:00AM BLOOD WBC-17.4* RBC-3.56* Hgb-9.9* Hct-30.6* 
+MCV-86 MCH-27.8 MCHC-32.4 RDW-14.2 RDWSD-44.8 Plt ___
+___ 06:22AM BLOOD Neuts-67.5 Lymphs-18.9* Monos-11.4 
+Eos-0.0* Baso-0.2 NRBC-0.3* Im ___ AbsNeut-7.36* 
+AbsLymp-2.06 AbsMono-1.24* AbsEos-0.00* AbsBaso-0.02
+___ 06:05AM BLOOD Neuts-82.5* Lymphs-11.7* Monos-4.2* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-12.53* AbsLymp-1.77 
+AbsMono-0.64 AbsEos-0.00* AbsBaso-0.03
+___ 06:29AM BLOOD Neuts-81.2* Lymphs-12.3* Monos-4.9* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-14.70* AbsLymp-2.22 
+AbsMono-0.89* AbsEos-0.00* AbsBaso-0.04
+___ 07:00AM BLOOD Neuts-75.9* Lymphs-14.0* Monos-9.1 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-13.22* AbsLymp-2.44 
+AbsMono-1.58* AbsEos-0.01* AbsBaso-0.03
+___ 07:00AM BLOOD Glucose-111* UreaN-4* Creat-0.5 Na-136 
+K-3.9 Cl-99 HCO3-18* AnGap-19*
+___ 07:00AM BLOOD ALT-26 AST-25 Amylase-72
+___ 07:00AM BLOOD Lipase-26
+___ 07:00AM BLOOD Calcium-9.1 Phos-2.8 Mg-1.7
+___ 09:35AM URINE Color-Yellow Appear-Clear Sp ___
+___ 09:35AM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-150* Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 09:35AM URINE RBC-2 WBC-2 Bacteri-NONE Yeast-NONE Epi-3
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ G5P2 who was admitted with ruptured 
+appendicitis.  Ultrasound on ___ was notable for "stranding 
+adjacent to the cecum, appendix partially seen, no drainable 
+collection, c/f appendicitis." She had a MRI ___ which was 
+concerning for ruptured acute appendicitis with appendicolith 
+and secondary inflammation 
+of cecal base and terminal ileum, with no drainable collection.  
+She was followed by the acute care surgery team during her stay. 
+Surgery was deferred given ruptured appendicitis, and 
+antibiotics were favored.  She was started on IV zosyn 
+(___) and was transitioned to PO augmentin 875mg BID 
+(___-) for a 10 day course.  She was made betamethasone 
+complete on ___.  She was discharged home in stable conditions 
+with precautions and follow up scheduled.
+ 
+Medications on Admission:
+Ciprodex ear drops
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO/NG Q12H Duration: 10 
+Days 
+please take the full 10 days of antibiotics 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*18 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ruptured appendicitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for abdominal pain and a 
+ruptured appendicitis. You were given betamethasone, a steroid 
+which helps the baby's lungs among other benefits. You were 
+started on antibiotics and your symptoms are improving. You were 
+seen by the general surgery team. Please finish the full course 
+of antibiotics. You are now safe to be discharged home.  
+
+ Please call the office for:  
+ - worsening abdominal pain
+ - Worsening, painful or regular contractions  
+ - Vaginal bleeding  
+ - Leakage of water or concern that your water broke  
+ - Abdominal pain  
+ - Nausea/vomiting  
+ - Fever, chills  
+ - Decreased fetal movement  
+ - Other concerns  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13400702-DS-21 | hadm_id=29592447
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L ankle pain
+ 
+Major Surgical or Invasive Procedure:
+L ankle ORIF (___) - ___
+ 
+History of Present Illness:
+ ___ s/p fall on ice, presenting from Urgent Care with L ankle 
+fx. Pt fell on ice at 5:40PM today while picking up her son from 
+the ___. No HS/LOC. She was seen at Urgent Care, where 
+XRs showed a L ankle fx. She was splinted without reduction and 
+sent to ___ ED. This is an isolated complaint.
+
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+___ fire
++SILT SPN/DPN distributions
++foot warm and well-perfused
+
+ 
+Brief Hospital Course:
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have L ankle fracture and was admitted to the orthopedic 
+surgery service. The patient was taken to the operating room on 
+___ for L ankle ORIF, which the patient tolerated well. For 
+full details of the procedure please see the separately dictated 
+operative report. The patient was taken from the OR to the PACU 
+in stable condition and after satisfactory recovery from 
+anesthesia was transferred to the floor. The patient was 
+initially given IV fluids and IV pain medications, and 
+progressed to a regular diet and oral medications by POD#1. The 
+patient was given perioperative antibiotics and anticoagulation 
+per routine. The patient's home medications were continued 
+throughout this hospitalization. The patient worked with ___ who 
+determined that discharge to home was appropriate. The ___ 
+hospital course was otherwise unremarkable. 
+At the time of discharge the patient's pain was well controlled 
+with oral medications, splint was clean/dry/intact, and the 
+patient was voiding/moving bowels spontaneously. The patient is 
+NWB in LLE in splint and will be discharged on Lovenox x 2 weeks 
+for DVT prophylaxis. The patient will follow up in two weeks 
+with Dr. ___ routine. A thorough discussion was had 
+with the patient regarding the diagnosis and expected 
+post-discharge course including reasons to call the office or 
+return to the hospital, and all questions were answered. The 
+patient was also given written instructions concerning 
+precautionary instructions and the appropriate follow-up care. 
+The patient expressed readiness for discharge. 
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H 
+2. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+3. Enoxaparin Sodium 40 mg SC QHS Duration: 2 Weeks 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC at bedtime Disp #*14 
+Syringe Refills:*0
+4. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*75 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+L ankle fx
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Instructions After Orthopedic Surgery
+- You were in the hospital for orthopedic surgery. It is normal 
+to feel tired or "washed out" after surgery, and this feeling 
+should improve over the first few days to week. 
+- Resume your regular activities as tolerated, but please follow 
+your weight bearing precautions strictly at all times.
+Medicines
+- Resume taking your home medications unless specifically 
+instructed to stop by your surgeon. Please talk to your primary 
+care doctor within the next ___ weeks regarding this 
+hospitalization and any changes to your home medications that 
+may be necessary.
+- Do not drink alcohol, drive, or operate machinery while you 
+are taking narcotic pain relievers (oxycodone/dilaudid).
+- As your pain lessens, decrease the amount of narcotic pain 
+relievers you are taking. Instead, take acetaminophen (also 
+called tylenol). Follow all instructions on the medication 
+bottle and never take more than 4,000mg of tylenol in a single 
+day.
+- If you need medication refills, call your surgeon's office 
+3-to-4 days before you need the refill. Your prescriptions will 
+be mailed to your home.
+- Please take Lovenox for 2 weeks to help prevent the formation 
+of blood clots.
+Constipation
+- Both surgery and narcotic pain relievers can cause 
+constipation. Please follow the advice below to help prevent 
+constipation.
+- Drink 8 glasses of water and/or other fluids like juice, tea, 
+and broth to stay well hydrated.
+- Eat foods that are high in fiber like fruits and vegetables.
+- Please take a stool softener like docusate (also called 
+colace) to help prevent constipation while you are taking 
+narcotic pain relievers. 
+- You may also take a laxative such as senna (also called 
+Senokot) to help promote regular bowel movements. 
+- You can buy senna or colace over the counter. Stop taking them 
+if your bowel movements become loose. If your bowel movements 
+continue to stay loose after stopping these medications, please 
+call your doctor.
+Incision
+- Please return to the emergency department or notify your 
+surgeon if you experience severe pain, increased swelling, 
+decreased sensation, difficulty with movement.
+- You should keep the splint intact/dry/clean until follow up
+- No baths or swimming for at least 4 weeks after surgery.
+- Your staples/sutures will be taken out at your 2-week follow 
+up appointment. No dressing is needed if your wound is 
+non-draining. 
+- You may put an ice pack on your splint.
+Activity
+NWB LLE in splint
+Follow up
+- Please follow up with your primary care doctor regarding this 
+hospitalization
+- Please follow up with your surgeon in 2 weeks for a wound 
+check and general post-operative evaluation.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,373 @@
+===== DISCHARGE NOTE =====
+note_id=12465820-DS-14 | hadm_id=21769756
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dizziness
+ 
+Major Surgical or Invasive Procedure:
+Dual-chamber pacemaker implantation ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old woman with history of HTN, CAD s/p 2
+stents on bisoprolol, and CKD who presented to the ED with
+dizziness, found to have bradycardia and hypotension admitted to
+the CCU for pressor requirement. 
+
+Patient reports she has been feeling slightly dizzy
+intermittently for the past month. This worsened over the past
+week and has been associated with new dyspnea on exertion and
+PND. She denies any chest pain/pressure, n/v, or orthopnea. Her
+dizziness became significantly worse today such that she was
+unsteady on her feet. She also endorsed some numbness in her
+feet. She called EMS who found her to be bradycardic with a HR 
+of
+28, SBP in the ___. She got atropine 0.5 mg x1 and IV fluid ___
+cc bolus. 
+
+She denies any recent changes to her medications or new
+medications. She denies any changes in her life that correspond
+with development of dizziness a month ago. She manages her own
+medications and denies any difficulty taking them or accidental
+overdose. She also notes intermittent burning epigastric pain,
+worst with eating. 
+
+She does have history of a "mini-heart attack" (?NSTEMI) s/p 2
+stents in the ___ ___ years ago. Her family reports
+that she had bradycardia during that time as well, but she also
+had significant chest pain. Her current presentation does not
+feel similar to her presentation at that time.
+
+She has otherwise been well, and denies any fevers, chills,
+n/v/d.  
+ 
+In the ED,  
+
+- Initial vitals were: 98.1 38 114/38 18 98% RA 
+- Exam notable for: Not recorded 
+- Labs notable for: Platelets 116, K 6.6, BUN 30, Cr 1.7, pH
+7.32, CO2 48
+- Studies notable for:  CXR - Right base opacity could be due to
+combination of pleural effusion and atelectasis, but underlying
+consolidation is not excluded. Cardiomegaly. Moderate pulmonary
+vascular congestion. Right paratracheal opacity without
+indentation on the trachea may be due to prominent vasculature,
+but underlying lymphadenopathy is not excluded given lack of
+priors for comparison.
+- Patient was given: Atropine 0.5mg x 1, glucagon 1mg, Dopamine
+gtt, Calcium gluconate, insulin/dextrose, 500cc NS,
+- Cardiology was consulted and recommended:  
+ - empiric glucagon for BB reversal
+ - agree with dopa (block above the node with narrow escape)
+ - reverse electrolyte abnormalities
+ - ICU admission for pressor requirement, BB will need to 
+washout
+and electrolyte derangements will need to be reversed before we
+can consider primary conduction disease. 
+ 
+On arrival to the CCU, her dizziness has resolved. She feels 
+well
+and denies chest pain, palpitations, dyspnea, abdominal pain,
+n/v/d, subjective fevers/chills. Endorses constipation. 
+ 
+
+ 
+Past Medical History:
+- CKD
+- Hypertension 
+- CAD and prior "mini heart attack" (?NSTEMI) in the ___, s/p 2 stents
+ 
+Social History:
+___
+Family History:
+Both parents died of MI. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+===================================
+VS: 98.1, 58, 128/68, 17, 97% on RA
+GENERAL: Well developed, well nourished in NAD. 
+HEENT: Normocephalic, atraumatic. Sclera anicteric. Pupils equal
+and round, minimally reactive to light. Left eye exotropia.   
+NECK: Supple. JVP at clavicle. R IJ in place, no erythema   
+CARDIAC: Bradycardic, irregular rhythm, no murmurs.  
+LUNGS: Respiration is unlabored with no accessory muscle use. No
+crackles/wheezes.  
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No peripheral edema.   
+PULSES: DP pulses palpable and symmetric.  
+NEURO: Alert, answering questions appropriately in ___ 
+
+DISCHARGE PHYSICAL EXAMINATION:  
+===================================
+VS: 98.3F, HR 96, BP 126/73, RR 19, 95% RA 
+GENERAL: Well developed, well nourished in NAD. 
+HEENT: Normocephalic, atraumatic. Sclera anicteric.   
+NECK: Supple. No JVP elevation  
+CARDIAC: regular rhythm, no murmurs. Pacemaker site c/d/I.  
+LUNGS: Respiration is unlabored with no accessory muscle use. No
+crackles/wheezes.  
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. Non-edematous, non-tender 
+PULSES: DP pulses palpable and symmetric.  
+NEURO: alert, answering questions appropriately, moving 
+extremities with purpose
+ 
+Pertinent Results:
+ADMISSION LABS: 
+====================
+___ 03:27PM BLOOD WBC-6.5 RBC-4.18 Hgb-12.5 Hct-39.1 MCV-94 
+MCH-29.9 MCHC-32.0 RDW-12.8 RDWSD-43.7 Plt ___
+___ 03:27PM BLOOD Neuts-68.4 ___ Monos-8.5 Eos-1.2 
+Baso-0.5 Im ___ AbsNeut-4.43 AbsLymp-1.37 AbsMono-0.55 
+AbsEos-0.08 AbsBaso-0.03
+___ 03:27PM BLOOD Glucose-99 UreaN-30* Creat-1.7* Na-137 
+K-6.6* Cl-103 HCO3-22 AnGap-12
+___ 03:27PM BLOOD cTropnT-<0.01
+___ 03:27PM BLOOD Calcium-9.3 Phos-3.4 Mg-1.8
+___ 03:38PM BLOOD ___ pO2-33* pCO2-46* pH-7.32* 
+calTCO2-25 Base XS--2 Comment-GREEN TOP 
+
+PERTINENT LABS: 
+====================
+___ 04:44AM BLOOD TSH-0.93
+
+IMAGING: 
+====================
+CHEST XRAY ___ 
+Right base opacity could be due to combination of pleural 
+effusion and 
+atelectasis, but underlying consolidation is not excluded. 
+  
+Cardiomegaly. Moderate pulmonary vascular congestion. Right 
+paratracheal 
+opacity without indentation on the trachea may be due to 
+prominent 
+vasculature, but underlying lymphadenopathy is not excluded 
+given lack of 
+priors for comparison. 
+
+TTE ___
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler. The estimated right 
+atrial pressure is ___ mmHg. There is normal left ventricular 
+wall thickness with a normal
+cavity size. There is suboptimal image quality to assess 
+regional left ventricular function. The visually estimated left 
+ventricular ejection fraction is 55-60%. Left ventricular 
+cardiac index is low normal (2.0-2.5 L/ min/m2). There is no 
+resting left ventricular outflow tract gradient. Diastolic 
+parameters are indeterminate. The right ventrlcle is not well 
+seen with normal free wall motion. The aortic sinus diameter is 
+normal for
+gender with normal ascending aorta diameter for gender. The 
+aortic arch diameter is normal. The aortic valve leaflets (?#) 
+appear structurally normal. There is no aortic valve stenosis. 
+There is trace aortic regurgitation. The mitral valve leaflets 
+are mildly thickened with no mitral valve prolapse. There is 
+mild [1+] mitral regurgitation. The tricuspid valve leaflets 
+appear structurally normal. There is mild [1+] tricuspid 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is borderline elevated. There is a trivial pericardial effusion.
+
+IMPRESSION: Suboptimal image qualty. Preserved global 
+biventricular systolic function. Mild mitral and tricuspid 
+regurgitation. Borderline pulmonary hypertension.
+
+___ 
+There is a dual lead left-sided pacemaker.  There is unchanged 
+cardiomegaly. There has been improvement of the pulmonary edema. 
+ There is a small right-sided pleural effusion.  There are no 
+pneumothoraces. 
+
+MICROBIOLOGY: 
+====================
+__________________________________________________________
+___ 7:01 pm URINE      TRAUMA. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+__________________________________________________________
+___ 4:18 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 4:03 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+DISCHARGE LABS: 
+====================
+___ 05:00AM BLOOD WBC-8.2 RBC-4.28 Hgb-12.6 Hct-39.0 MCV-91 
+MCH-29.4 MCHC-32.3 RDW-12.5 RDWSD-41.1 Plt ___
+___ 05:00AM BLOOD ___ PTT-25.3 ___
+___ 05:00AM BLOOD Plt ___
+___ 05:00AM BLOOD Glucose-93 UreaN-21* Creat-1.2* Na-136 
+K-5.3 Cl-101 HCO3-24 AnGap-11
+___ 05:00AM BLOOD Calcium-9.3 Phos-3.9 Mg-1.___RIEF HOSPITAL COURSE: 
+======================== 
+Ms. ___ is a ___ year-old woman with history of hypertension, 
+CAD s/p 2 stents, and CKD who presented with dizziness, found to 
+have hypotension and bradycardia felt secondary to sick sinus 
+syndrome. She required atropine in the field and in the 
+emergency department. She was started on dopamine and admitted 
+to the CCU, now status post permanent pacemaker placement on 
+___. 
+
+#CORONARIES: History of 2 stents in the ___, 
+details unknown 
+#PUMP: LVEF 55-60% (___)
+#RHYTHM: sinus rhythm 
+
+ACUTE ISSUES: 
+======================== 
+# Sick sinus syndrome:
+Patient presented with one month of worsening dizziness, 
+initially found to have a junctional rhythm with rates in ___ 
+on EMS evaluation. She received atropine in the field and in the 
+ED, as well as glucagon in the ED (there was a concern for a 
+beta blocker toxicity, but this was later disproven on further 
+history). EKGs were without evidence of ischemia and troponin 
+was negative. She was started on a dopamine drip and admitted to 
+the CCU. Following correction of hyperkalemia and keeping her 
+off a beta blocker, she remained dependent on dopamine with 
+ongoing evidence of sinus node dysfunction. She had permanent 
+pacemaker placed on ___. Weaned off dopamine gtt. Home 
+bisoprolol for history of CAD restarted at discharge. 
+
+# Hypotension: 
+Hypotension on admission was felt secondary to bradycardia. She 
+was kept on a dopamine drip as above. Her hypotension resolved 
+after pacemaker implanted. Her home enalapril was held at 
+discharge due to borderline hyperkalemia and she remained 
+normotensive. 
+
+# Suspected ___ on CKD: 
+Cr. 1.7 on admission (unknown baseline), likely secondary to 
+poor renal perfusion in the setting of hypotension. Her Cr 
+improved with IV fluids and dopamine drip. Per report, she has 
+new diagnosis of CKD and is being worked up at ___. Discharge Cr 
+1.2. 
+
+# Hyperkalemia: 
+Hyperkalemia on admission was felt secondary to ___ on CKD and 
+enalapril. Her K improved with holding home enalapril and 
+resolution of ___. 
+
+# Thrombocytopenia:
+Platelets in 130s since ___ per PCP ___. Patient may 
+benefit from further workup as an outpatient. 
+
+# GERD:
+Continued omeprazole.
+
+TRANSITIONAL ISSUES: 
+======================== 
+DISCHARGE WEIGHT: 73.6 kg
+[] Patient has device clinic follow-up on ___ at 9:40 AM for 
+pacemaker 
+[] Enalapril held at discharge for borderline hyperkalemia and 
+normotension. Consider restarting if potassium continues to 
+normalize. 
+[] Consider outpatient workup for thrombocytopenia. 
+[] Right paratracheal opacity without indentation on the trachea 
+may be due to prominent vasculature, but underlying 
+lymphadenopathy is not excluded given lack of priors for 
+comparison. Recommend outpatient CXR follow-up. 
+
+#CODE: Full code
+#CONTACT/HCP: ___ (grand daughter, not HCP but 
+speaks ___ so is contact person) - ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Omeprazole 40 mg PO DAILY 
+3. Enalapril Maleate 20 mg PO DAILY 
+4. bisoprolol fumarate 5 mg oral DAILY 
+5. Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth every night Disp 
+#*30 Tablet Refills:*0 
+2.  Cephalexin 500 mg PO Q6H Duration: 2 Days 
+to take on ___ and ___  
+RX *cephalexin 500 mg 1 capsule(s) by mouth every 6 hours Disp 
+#*8 Capsule Refills:*0 
+3.  Omeprazole 40 mg PO DAILY  
+4.  Artificial Tears ___ DROP BOTH EYES PRN dry eyes  
+5.  Aspirin 81 mg PO DAILY  
+6.  bisoprolol fumarate 5 mg oral DAILY  
+7. HELD- Enalapril Maleate 20 mg PO DAILY  This medication was 
+held. Do not restart Enalapril Maleate until you follow-up with 
+your primary care physician
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Sick sinus syndrome 
+Acute kidney injury 
+Hyperkalemia 
+Coronary artery disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Ms. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+ 
+Why was I admitted to the hospital?  
+-You were admitted for dizziness
+ 
+What was done for me in the hospital?  
+-You were found to have slow heart rates and low blood pressure. 
+
+-You received medications to improve your blood pressure. 
+-You had a pacemaker placed to keep your heart rates normal 
+ 
+What should I do when I leave the hospital?  
+- Please take all of your medicines as prescribed below. We 
+stopped your enalapril because your potassium levels were high 
+and your blood pressure was normal. 
+- Please follow-up at device clinic for your pacemaker 
+(appointment listed below). 
+- Please follow-up with your primary care physician and 
+cardiologist
+ 
+___ wish you all the best!  
+ 
+Sincerely,  
+Your ___ Treatment Team  
+
+ 
+Followup Instructions:
+___

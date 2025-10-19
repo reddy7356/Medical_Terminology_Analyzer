@@ -1,0 +1,264 @@
+===== DISCHARGE NOTE =====
+note_id=16487246-DS-9 | hadm_id=27777931
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, inferior STEMI
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cath with ___ 1 to mid RCA ___
+ 
+History of Present Illness:
+___ y/o man with no cardiac hx presenting with chest pain after 
+shoveling snow found to have inferior STEMI. Patient was feeling 
+nauseated at work earlier today but thought nothing of it. Went 
+home and shoveled snow for approx 20 minutes then felt chest 
+pressure and shortness of breath. Some nausea and palpitations 
+as well. Patient has experienced similar feelings with exertion 
+recently so he thought he would rest and it would similarly get 
+better but the feelings persisted. His wife did give him a baby 
+aspirin but he took nothing else. After about an hour of 
+persistent symptoms patient agreed to go to the emergency room.
+
+In the ED, patient found to have inferior STEMI and brought to 
+the cath lab. Pretreated with Atropine, aspirin, plavix. Found 
+to have completely occluded mid distal RCA.  Thrombus aspiration 
+with clot removed and recannulized nicely. ___ 1 placed. On 
+integrellin x 12 hours. Also with 40-50% in distal RCA, LCx and 
+diag with <50% disease. 
+ 
+Patient arrives to the floor symptom free. He denies current 
+CP/SOB/N/V/palpitations.
+
+REVIEW OF SYSTEMS:  
+Cardiac review of systems is notable for absence of paroxysmal 
+nocturnal dyspnea, orthopnea, syncope or presyncope.  
+
+Denies any prior history of stroke, TIA, deep venous thrombosis, 
+pulmonary embolism, bleeding at the time of surgery, myalgias, 
+joint pains, cough, hemoptysis, black stools or red stools. 
+Denies recent fevers, chills or rigors. 
+Denies exertional buttock or calf pain. All of the other review 
+of systems were negative.  
+
+ 
+Past Medical History:
+Anxiety
+BPH 
+Reports history of borderline high cholesterol not on treatment
+ 
+Social History:
+___
+Family History:
+Mother with CABG in ___, brother with CABG in early ___. 
+ 
+Physical Exam:
+Admission Physical Exam:
+==================
+Afebrile, vital signs stable (post-cath)
+Gen: NAD, appears stated age
+HEENT:  NCAT, PERRL, EOMI, MMM, oropharynx clear
+NECK: Supple, no JVD, no HJR
+CV: ___ regular rhythm, no appreciable m/g/r
+LUNGS: CTAB
+ABD: Soft, NT, ND
+EXT: no edema, right TR band
+PULSES:  2+ dp/pt and radial b/l
+SKIN: WWP
+NEURO: AAOx3, moving all extremities, light touch sensation 
+intact throughout
+
+Discharge Physical Exam:
+=================
+Gen: NAD, sitting in chair, pleasant and chatty
+HEENT:  ___, sclera anicteric
+NECK: Supple, no JVD
+CV: RRR, no murmurs appreciated
+LUNGS: CTAB
+ABD: Soft, NT, ND
+EXT: no edema, WPP
+PULSES:  2+ dp/pt and radial b/l
+SKIN: WWP, no rashes
+NEURO: AAOx3, moving all extremities, speech is clear
+ 
+Pertinent Results:
+Admission Labs:
+___ 07:05PM BLOOD WBC-6.0 RBC-3.94* Hgb-12.2* Hct-35.6* 
+MCV-90 MCH-31.1 MCHC-34.3 RDW-13.6 Plt ___
+___ 07:05PM BLOOD ___ PTT-26.6 ___
+___ 07:05PM BLOOD UreaN-20 Creat-1.1
+___ 02:06AM BLOOD Glucose-109* UreaN-16 Creat-0.8 Na-137 
+K-3.8 Cl-105 HCO3-22 AnGap-14
+___ 02:06AM BLOOD Calcium-8.4 Phos-3.5 Mg-1.9 Cholest-PND
+___ 07:05PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Pertinent Labs:
+___ 07:05PM BLOOD cTropnT-<0.01
+___ 02:06AM BLOOD CK-MB-303* MB Indx-8.0* cTropnT-8.71*
+___ 02:06AM BLOOD CK(CPK)-3770*
+___ 10:15AM BLOOD CK-MB-239* MB Indx-8.2* cTropnT-7.98*
+___ 10:15AM BLOOD CK(CPK)-2900*
+___ 02:06AM BLOOD %HbA1c-5.6 eAG-114
+___ 02:06AM BLOOD Triglyc-92 HDL-43 CHOL/HD-3.7 LDLcalc-100
+
+Discharge Labs:
+___ 09:00AM BLOOD WBC-5.7 RBC-3.79* Hgb-11.7* Hct-34.1* 
+MCV-90 MCH-30.8 MCHC-34.2 RDW-14.0 Plt ___
+___ 09:00AM BLOOD Glucose-138* UreaN-16 Creat-1.0 Na-139 
+K-3.9 Cl-104 HCO3-25 AnGap-14
+___ 09:00AM BLOOD Calcium-8.7 Phos-3.0 Mg-1.8
+
+Imaging/Reports:
+
+Cardiac Cath ___:
+RCA with total occlusion distally before PDA. THe lesion was 
+crossed with Choice ___, predilated with 2.0 balloon. 
+Thrombectomy was done follwed by stenting with 3.25 mm DES and 
+post dilated to 3.5 with 0% residual and normal flow.
+
+Echo ___:
+Conclusions
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. There is mild 
+regional left ventricular systolic dysfunction with 
+inferior/inferolateral akinesis. The remaining segments contract 
+normally (LVEF = 40%). Right ventricular chamber size is normal 
+with borderline normal free wall function. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. Trace aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. An eccentric, posteriorly-directed jet of mild 
+(1+) mitral regurgitation is seen. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild regional biventricular systolic dysfunction, 
+c/w CAD. Mild ischemic mitral regurgitation. Mild pulmonary 
+hypertension. 
+
+CXR ___:
+Lungs clear.  Heart size normal.  Mediastinal and hilar 
+silhouettes and 
+pleural surfaces unremarkable. 
+
+Micro:
+None
+ 
+Brief Hospital Course:
+___ y/o M with no cardiac hx presenting with chest pain after 
+shoveling snow found to have inferior STEMI. Received DES to 
+mid-distal RCA. 
+
+# ACUTE CORONARY SYNDROME:  No prior cardiac history. 
+Nausea/chest pain in the setting of shoveling snow, found to 
+have inferior STEMI, received DES to mid-distal RCA. . The 
+patient is a Killip Class I indicating 6% mortality based on an 
+updated study in JAMA performed at ___ and ___ 
+___ published in ___. ECHO on ___ showed mild regional left 
+ventricular systolic dysfunction with inferior/inferolateral 
+akinesia, and remaining segments contract normally (LVEF = 40%) 
+. Started on Aspirin 81mg daily, Clopidogrel 75mg daily, 
+Atorvastatin 80mg Daily, Metoprolol Succinate 12.5 mg daily, and 
+SL Nitroglycerin PRN.   He has follow-up in place with Dr. ___ 
+on ___. 
+
+# Bradycardia: Resolved. Patient had RCA infarct which 
+predisposes for bradyarrhytmia, pre-treated with atropine.
+
+# Anxiety: continued on home dose effexor. 
+
+# BPH: continued on home dose tamsulosin. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamsulosin 0.4 mg PO QHS 
+2. Venlafaxine 37.5 mg PO BID 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3
+3. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*11
+4. Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+daily Disp #*15 Tablet Refills:*3
+5. Tamsulosin 0.4 mg PO QHS 
+6. Venlafaxine 37.5 mg PO BID 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain Duration: 3 
+Doses 
+call cards or 911 if having chest pain 
+RX *nitroglycerin [Nitrostat] 0.4 mg 1 tablet(s) sublingually 
+every 5 minutes x3 Disp #*90 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+inferior STEMI s/p DES to the RCA
+Coronary artery disease
+BPH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with a heart attack, and taken emergently to 
+the cardiac catheterization lab where a blockage was identified 
+in the right coronary artery and stented. You recovered well 
+from the procedure and you are now ready for discharge home. 
+
+As discussed you will be given an updated list of your 
+medications including Plavix (for the stent) which you will 
+continue for a year and Aspirin for life. These drugs should 
+only be stopped by your cardiologist. If taken correctly these 
+drugs decrease your risk for another heart attack and 
+hospitalization. 
+
+You will also be given a perscription for nitro tabs which are 
+taken under the tongue ONLY in the event you are having chest 
+pain. You should also call your cardiologist or 911 if you start 
+to have chest pain. This will lower your blood pressure and 
+should not be taken if you have taken any drug for erectile 
+dysfunction in the past 48 hours as it can then cause a 
+dangerous drop in blood pressure. 
+
+You have been scheduled to see your providers including your new 
+cardiologist. 
+
+You will be referred to cardiac rehab after seen and cleared by 
+your cardiologist as an outpatient.
+
+All other activity restrictions per nursing. 
+
+It was a pleasure taking care of you this admission. If you have 
+any questions related to your hospitalization feel free to call 
+the heartline which has been given to you with your discharge 
+paperwork.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,157 @@
+===== DISCHARGE NOTE =====
+note_id=16902298-DS-4 | hadm_id=26098150
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Percocet / Ambien / Aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L carotid stenosis
+ 
+Major Surgical or Invasive Procedure:
+L CEA ___
+PEG placement ___
+
+ 
+History of Present Illness:
+This is a ___ y/o gentleman with a significant PVD history who 
+presents with a new stenosis of his L carotid artery after a 
+prior L CEA. He presents for elective redo L CEA.
+ 
+Past Medical History:
+PMH: DM2 dilated cardiomyopathy - EF 32%, MI, Prior CVA (with 
+deficits reported as L hand sensory deficits) Reflux disease, 
+
+PSH: s/p CABG, s/p R TMA amputation, R ICA complete occlusion, L 
+ICA 90% occlusion w/ prior L CEA, Appendectomy, Tonsillectomy, 
+___: aortogram and ___ angiography
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+T 98  HR 58  BP 126/60  RR 18  98% RA
+
+GEN: NAD, AAOx3
+NEURO: no focal deficits
+CHEST: CTA B/L
+HEART: RRR, S1/S2
+ABD: soft, NT , ND
+___: warm, 1+ edema, R TMA with heel ulcer  
+ 
+Pertinent Results:
+___
+
+138  105  25     AGap=10 
+------------< 127
+4.5  28  0.7  
+
+Ca: 8.1 Mg: 2.0 P: 3.7
+ 
+      10.9 
+12.9   ><  298 
+      32.6  
+
+N:76.1 L:12.9 M:6.9 E:3.4 Bas:0.7 
+ 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the vascular surgey service on 
+___. He underwent a L CEA. (Please see operative note for 
+further details.) Unfortunately, the patient developed a Right 
+sided stroke after the procedure. A CT perfusion scan was 
+performed that showed complete infarction in the territory of 
+the L ACA. The patient was unable to move his right side upon 
+leaving the operating room. Throughout his hospital stay, the 
+patient was unable to speak or move his right side. He would 
+intermittently follow commands using his Left side. He could 
+understand what was being told to him, but could not respond. On 
+POD2, patient began to have RUE convulsions. Neurology was 
+consulted and determined that these were focal partial seizures. 
+The patient was started on keppra, and these symptoms resolved 
+the next day. The patient was started on TPN for nutrition after 
+he failed speech/swallow trial. A PEG tube was placed on ___ 
+___. Physical therapy worked with the patient, and 
+he slowly improved throughout his stay. He was making more 
+audible sounds, and was following commands better. He was still 
+unable to speak or move the right side. Tube feeds were started 
+prior to discharge. Throughout his stay, the patient remained 
+hemodynamically stable. His blood sugars were elevated upon 
+starting TPN. Due to his inability to take po, the patient's 
+oral hypoglycemics could not be administered. ___ was 
+consulted and developed an insulin regimen that were able to 
+keep the patient's blood sugars under good control. Once the PEG 
+was placed, patient was restarted on po meds and was also 
+started on tube feeds. Patient will be discharged to rehab until 
+his neurologic status improves.
+ 
+Medications on Admission:
+Glyburide, Metformin, Lisinopril, Omeprazole, Daptomycin (3 wk 
+course)
+ 
+Discharge Medications:
+1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) 5000U 
+Injection TID (3 times a day).  
+2. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+3. calcipotriene 0.005 % Cream Sig: One (1) Appl Topical BID (2 
+times a day) as needed for psoriasis.  
+4. insulin glargine 100 unit/mL Solution Sig: ___ (35) U 
+Subcutaneous at bedtime.  
+5. Protonix 40 mg Susp,Delayed Release for Recon Sig: Forty (40) 
+mg PO once a day.  
+6. insulin regular human 100 unit/mL Solution Sig: sliding scale 
+ Injection every six (6) hours: please see attached sliding 
+scale.  
+7. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+8. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+10. levetiracetam 500 mg/5 mL (5 mL) Solution Sig: Ten (10) mL 
+PO BID (2 times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p L CEA complicated by L AKA CVA
+s/p PEG placement
+
+ 
+Discharge Condition:
+Discharge Condition: Stable
+Mental status: awake, moves LUE and neck, follows simple 
+commands, unable to formulate words
+
+ 
+Discharge Instructions:
+Mr. ___ is POD 13 from a left carotid endarerectomy. His 
+postoperative cause was complicated by a L ACA CVA. He has 
+regained movement of his LUE and can grunt sounds. He is on 
+Keppra for early posoperative seizures which have been 
+stabilized. He is POD2 from a PEG placement and he is advancing 
+his diet with no problem.
+
+Mr. ___ will need aggressive post-CVA physical therapy.
+ 
+Followup Instructions:
+___

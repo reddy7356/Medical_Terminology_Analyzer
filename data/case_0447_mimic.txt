@@ -1,0 +1,491 @@
+===== DISCHARGE NOTE =====
+note_id=16247397-DS-5 | hadm_id=28104588
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Lipitor / Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+workup of recurrent acute pancreatitis
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopic ultrasound ___
+ 
+History of Present Illness:
+___ year old male with history of acute pancreatitis of unclear 
+etiology (___), CAD s/p stent placement, A-fib s/p 
+cardioversion, HLD, now presenting with recurrent acute 
+pancreatitis and imaging demonstrating a PD dilation, and an 
+IPMN of the head of the pancreas. The patient has in his usual 
+state of health when he began experiencing abdominal pain, 
+located in the epigastrium, band like distribution that started 
+the first week of ___ and gradually worsened. He states the 
+pain is not related to meals/drinks and not associated with 
+fever, nausea, vomiting or diarrhea. The pain precipitated an 
+admission to ___ on ___ after being found to 
+have an elevated lipase to 10.000 during a PCP ___. He was 
+discharged home on ___ after an uneventful hospital stay 
+and laboratory data demonstrating a trend down on his lipase 
+levels. Given a worsening of symptoms, he was readmitted to 
+___ on  ___ and found to have an increase of 
+lipase level to 11.000. A CT abdomen and MRCP performed during 
+this stay demonstrated a diffuse pancreatic duct dilation to 6mm 
+and a lesion within the head of the pancreas consistent with 
+IPMN. The patient has been referred for further evaluation and 
+management.
+ 
+Past Medical History:
+Acute pancreatitis ___, h/o CAD s/p stent to RCA in ___ 
+___ Cath: 50% RCA 50% LAD lesions, patent stent in RCA, h/o 
+A-fib s/p DCCV ___, HLD, kidney stones
+
+ 
+Social History:
+___
+Family History:
+Mother died of ovarian cancer at ___ years old. Two maternal 
+aunts with ovarian cancer. Maternal uncle with pancreatic 
+cancer.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals: 97.9, 58, 101/55, 18, 98% RA
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+
+On discharge, the patient's vital signs were stable. His abdomen 
+was soft, non-tended and non-distended. His exam was otherwise 
+unchanged from admission. 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 04:08AM BLOOD WBC-3.6* RBC-3.76* Hgb-11.6*# Hct-33.5*# 
+MCV-89 MCH-30.9 MCHC-34.7 RDW-13.3 Plt ___
+___ 04:08AM BLOOD Neuts-53.5 ___ Monos-6.8 Eos-6.7* 
+Baso-0.3
+___ 04:08AM BLOOD ___ PTT-29.4 ___
+___ 04:08AM BLOOD Glucose-65* UreaN-10 Creat-0.9 Na-142 
+K-3.7 Cl-105 HCO3-28 AnGap-13
+___ 04:08AM BLOOD ALT-49* AST-34 AlkPhos-76 Amylase-91 
+TotBili-0.7
+___ 04:08AM BLOOD Albumin-3.3* Calcium-9.0 Phos-3.0 Mg-1.6 
+Iron-42*
+___ 04:08AM BLOOD calTIBC-246* Ferritn-112 TRF-189*
+___ 04:08AM BLOOD Triglyc-79
+___ 04:08AM BLOOD Lipase-45
+___ 04:08AM BLOOD CEA-<1.0
+
+MRCP (MR ABD ___ ___ 
+Findings:
+1.  Minimal anterior pancreatic and peripancreatic edema, likely 
+from reported recent episode of mild pancreatitis.  No 
+pseudocyst. 
+2.  11 mm cystic lesion arising from the pancreatic head could 
+represent a small IPMN. While irregularity and mild dilation of 
+the main pancreatic duct of 5 mm could reflect a combined-type 
+IPMN, a side-branch IPMN with 
+superimposed chronic pancreatitis is favored as the downstream 
+duct appears is less prominent. A focal dilated side branch 
+could also be considered. Correlate with EUS and consider 
+followup MRCP to reassess the duct after resolution of reported 
+recent episode of acute pancreatitis. 
+3.  Small calcification or stone arising from the upper pole of 
+the left 
+kidney. No collecting system obstruction. Malrotated right 
+kidney located 
+within the pelvis. 
+4.  Gallbladder fundal adenomyomatosis. 
+ 
+LIVER OR GALLBLADDER US (SINGLE ORGAN) ___
+IMPRESSION:  
+1. No cholelithiasis or gallbladder sludge to explain the 
+patient's 
+pancreatitis. No intra or extrahepatic biliary duct dilation. 
+2. Geographic area of focal fat in the liver. No worrisome liver 
+lesions. 
+3. Partially imaged tiny right pleural effusion. 
+4. Small, but otherwise normal, right kidney. 
+ 
+Brief Hospital Course:
+Mr. ___ was transferred to ___ from ___ on 
+___ for workup of recurrent acute pancreatitis which 
+initially presented as band-like epigastric pain. He was 
+transferred to ___ for concern of a cystic mass seen on MRCP. 
+On Day 1 he underwent EUS on ___ which did not show any 
+mass.  On Day 2 he was advanced to a clear liquid diet but was 
+unable to tolerate and had to be maintained NPO. The following 
+day however, he was tolerating clears and advanced to fulls and 
+ultimately a low-fat regular diet which he tolerated with 
+minimal pain. 
+
+While admitted, Mr. ___ underwent work-up of the cystic 
+lesion seen on his MRCP concerning for IPMN. His endoscopic 
+ultrasound was negative for any mass and was consistent with 
+pancreatitis. His tumor markers were within normal limits. His 
+IgG4 was normal. In regards to his pain, he underwent an 
+ultrasound which did not show gallstones. HIDA with ejection 
+fraction was normal. His pain was well controlled upon 
+discharge. 
+
+The patient was discharged with follow-up with Dr. ___ 
+Dr. ___. Given his family history of pancreatic cancer and 
+ovarian cancer, he was referred for genetics evaluation. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pravastatin 20 mg PO QPM 
+2. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Pravastatin 20 mg PO QPM 
+3. Acetaminophen 1000 mg PO Q6H:PRN pain 
+do not exceed 4000mg of acetaminophen in 24 hrs 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Pancreatitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+General Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid driving or 
+operating heavy machinery while taking pain medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Please maintain a low-fat diet for at least two weeks.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16247397-DS-6 | hadm_id=29815643
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Lipitor / Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest discomfort
+ 
+Major Surgical or Invasive Procedure:
+___ Coronary Artery Bypass Grafting x3
+
+ 
+History of Present Illness:
+___ year old male with a past medical history of dyslipidemia 
+(intolerant of high dose statins) and CAD s/p RCA stenting in 
+___ who has had exertional angina over the past several months. 
+Exercise only stress test was positive for inferolateral ECG 
+changes. He was referred for coronary angiogram
+which revealed two-vessel coronary artery disease (99% mid LAD, 
+70% proximal LAD and 50% in stent restenosis of RCA). He was 
+admitted for additional workup and treatment.
+
+ 
+Past Medical History:
+Acute pancreatitis ___,
+h/o CAD s/p stent to RCA in ___ Cath: 50% RCA 50% LAD 
+lesions, patent stent in RCA)
+h/o A-fib s/p DCCV ___
+HLD
+kidney stones
+
+ 
+Social History:
+___
+Family History:
+Grandfather died from an MI at age ___. 
+Father had his first MI at age ___ and died from another MI at 
+age ___. He
+had CABG at age ___. He also had ___ PAD and carotid artery 
+disease
+s/p revascularization. A brother had an MI in his ___.
+Mother died of ovarian cancer at ___ years old. Two maternal 
+aunts with ovarian cancer. Maternal uncle with pancreatic 
+cancer.
+
+ 
+Physical Exam:
+Admission:
+------------
+General: Awake, pleasant male lying in bed, appears to be in no
+acute distress 
+Neuro: Alert and oriented x3. Pleasant and cooperative. Speech
+clear, appropriate and comprehensible. Tongue midline, smile
+symmetric. Equal and strong hand grasps and foot pushes. 
+HEENT: Neck supple, No JVD noted
+CV: RRR, Normal S1/S2, no systolic/diastolic murmur
+Lungs:LS Clear anteriorly, non-labored. No use of accessory
+muscles noted.
+Abdomen: soft, non-tender, Tolerating POs. 
+PV: WWP, + pedal pulses, No edema, 
+Access sites: Right radial TR band in place soft without 
+bleeding
+or hematoma. +2 radial pulse. CSM WNL.      
+.
+Discharge: 
+Physical Examination:
+General: NAD [x]  
+Neurological: A/O x3 [x] Moves all extremities [x]  Follows
+commands [x] 
+Cardiovascular: RRR [x]  ST
+Respiratory: CTA [x]  No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  Edema   
+Left Upper extremity    Warm [x]  Edema  
+Right Lower extremity   Warm [x]  Edema  none
+Left Lower extremity    Warm [x]  Edema  none
+Pulses:
+DP             Right:   +    Left:+
+___             Right:        Left:
+Radial         Right:   +    Left:+
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] Prevena []
+Lower extremity: Right [x] Left []  CDI [x]
+
+ 
+Pertinent Results:
+Admission:
+----------
+
+___ 11:49AM BLOOD WBC-4.3 RBC-4.28* Hgb-13.6* Hct-40.3 
+MCV-94 MCH-31.8 MCHC-33.7 RDW-13.1 RDWSD-44.9 Plt ___
+___ 11:49AM BLOOD ___
+___ 11:49AM BLOOD Glucose-91 UreaN-14 Creat-1.0 Na-140 
+K-4.1 Cl-106 HCO3-24 AnGap-10
+___ 03:45PM BLOOD ALT-25 AST-26 LD(LDH)-152 AlkPhos-71 
+TotBili-0.4
+___ 11:49AM BLOOD Calcium-8.9 Phos-2.8 Mg-1.9
+___ 11:49AM BLOOD %HbA1c-5.2 eAG-103
+___ 07:10AM BLOOD Triglyc-120 HDL-77 CHOL/HD-2.4 LDLcalc-84
+
+___ Transthoracic echo:
+CONCLUSION:
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is normal left ventricular wall thickness 
+with a normal cavity size. There is mild regional left 
+ventricular systolic dysfunction with hypokinesis of the distal 
+inferior, septal and anterior walls and apex (see schematic) and 
+preserved/normal contractility of the remaining segments. No 
+left ventricular aneurysm is seen. Quantitative biplane
+left ventricular ejection fraction is 48 % (normal 54-73%). Left 
+ventricular cardiac index is low normal(2.0-2.5 L/min/m2). There 
+is no resting left ventricular outflow tract gradient. Normal 
+right ventricular cavity size with normal free wall motion. 
+Tricuspid annular plane systolic excursion (TAPSE) is normal. 
+The aortic sinus diameter is normal for gender with normal 
+ascending aorta diameter for gender. The aortic arch
+diameter is normal with a normal descending aorta diameter. 
+There is no evidence for an aortic arch coarctation. The aortic 
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. There is a
+centrally directed jet of mild [1+] aortic regurgitation. The 
+mitral valve leaflets appear structurally normal with no mitral 
+valve prolapse. There is mild [1+] mitral regurgitation. The 
+pulmonic valve leaflets are normal. The tricuspid valve leaflets 
+appear structurally normal. There is physiologic tricuspid 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with mild 
+regional systolic dysfunction most consistent with single vessel 
+coronary artery disease (mid to distal wraparound LAD 
+distribution).
+Mild aortic regurgitation with mildly thickened leaflets. Mild 
+mitral regurgitation with normal valve morphology.
+
+___ Coronary Angiogram
+------------------
+Coronary Description
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is a 70% stenosis in the 
+proximal segment. There is a 99% stenosis in the mid segment.
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel. There is a 50% stenosis in the ostium.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel.
+The ___ Obtuse Marginal, arising from the proximal segment, is a 
+medium caliber vessel.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. There is a stent in the proximal and mid 
+segments. There is a 50% in-stent restenosis in the proximal 
+segment.
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel.
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel.
+Findings
+• Normal left heart filling pressures.
+• Two vessel coronary artery disease.
+PA LAT ___:
+.FINDINGS: 
+ There are small bilateral pleural effusions as well as left 
+basilar
+atelectasis.  No pneumothorax.  The size of the cardiac 
+silhouette is within
+normal limits.  The patient is post CABG.
+ IMPRESSION: Small bilateral pleural effusions and left lower 
+lobe atelectasis.
+ 
+Discharge Labs:
+___ 04:45AM BLOOD WBC-4.6 RBC-2.88* Hgb-9.1* Hct-27.4* 
+MCV-95 MCH-31.6 MCHC-33.2 RDW-12.9 RDWSD-44.7 Plt ___
+___ 04:45AM BLOOD Glucose-103* UreaN-17 Creat-1.0 Na-143 
+K-4.0 Cl-107 HCO3-25 AnGap-11
+___ 04:45AM BLOOD Mg-1.9
+___ 03:45PM BLOOD %HbA1c-5.2 eAG-103
+ 
+Brief Hospital Course:
+Mr. ___ was admitted under cardiology. Given findings of 
+multi-vessel coronary artery disease, cardiac surgery was 
+consulted and additional evaluation was performed. He remained 
+pain free on medical therapy and was eventually cleared for 
+surgery.
+
+The patient was brought to the Operating Room on ___ where 
+the patient underwent coronary artery bypass grafting by Dr. 
+___ - see operative note for details.  Overall the patient 
+tolerated the procedure well and post-operatively was 
+transferred to the CVICU in stable condition for recovery and 
+invasive monitoring.  
+POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable. The patient remained in the 
+intensive care unit for two days on Neosynephrine for 
+hypotension. Chest tubes were discontinued without complication 
+Once blood pressure normalized, the patient was transferred to 
+the telemetry floor for further recovery. Beta blocker was 
+initiated and the patient was gently diuresed toward the 
+preoperative weight. Pacing wires were removed without 
+complication once patient was tolerating beta blocker. The 
+patient was evaluated by the Physical Therapy service for 
+assistance with strength and mobility.  By the time of discharge 
+on POD 5 the patient was ambulating freely, the wound was 
+healing and pain was controlled with oral analgesics.  The 
+patient was discharged home with ___ services in good condition 
+with appropriate follow up instructions.
+ 
+Medications on Admission:
+1. Ezetimibe 10 mg PO QPM 
+2. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Furosemide 20 mg PO DAILY Duration: 5 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*5 
+Tablet Refills:*0 
+4.  Metoprolol Tartrate 12.5 mg PO TID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+three times a day Disp #*60 Tablet Refills:*1 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate  
+6.  Potassium Chloride 20 mEq PO DAILY Duration: 5 Days 
+to be taken while on Lasix 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth once a day 
+Disp #*5 Tablet Refills:*0 
+7.  Ranitidine 150 mg PO DAILY Duration: 30 Days 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+8.  Senna 17.2 mg PO DAILY:PRN Constipation - First Line 
+hold for loose stools  
+9.  Aspirin EC 81 mg PO DAILY  
+10.  Ezetimibe 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+Dyslipidemia
+Paroxysmal AF
+Wolf ___ White Syndrome
+History of pancreatitis 
+History of kidney stones 
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+No Edema
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+Please - NO lotion, cream, powder or ointment to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

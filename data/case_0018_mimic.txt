@@ -1,0 +1,320 @@
+===== DISCHARGE NOTE =====
+note_id=15178753-DS-13 | hadm_id=24229961
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+mechanical fall
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Patient is a ___ with a PMH of dementia, hypertension, IDDM, s/p 
+unwitnessed mechanical fall at nursing home in room, not using 
+walker (which she uses at baseline) with CT head/neck at ___ 
+that showed "nondisplaced type III odontoid fracture without 
+involvement of the transversarium bilaterally", "possible 
+non-displaced fracture of the left and anterior aspect of the C1 
+ring", "extensive spondylosis of the cervical ___ but without 
+CT evidence of significant neural compression". She was 
+transferred to ___ for ___ eval.
+.
+In the ED, initial vs were: 66 153/90 20 92% ra. Exam showed 
+good rectal tone. Labs were significant for UA consistent with 
+UTI, WBC 24. She was given levofloxacin 500 mg iv, morphine and 
+magnesium. She was seen by ___ in the ED who recommended Hard 
+C-Collar ___). VS prior to transfer were: 97.8, Pulse: 68, 
+RR: 18, BP: 129/55, O2Sat: 98%, O2Flow: 3L.  
+. 
+ 
+Past Medical History:
+HTN
+polycythemia ___
+IDDM
+Dementia
+Atrial fibrillation
+Osteoarthritis
+CAD
+HLD
+Depression
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On Admission:
+Vitals: T: 97.4 BP:108/60 P: 66 R:20 O2:97/RA  
+General: Alert, oriented, no acute distress  AXOx2
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, unable to determine JVD with C-collar in place, no 
+LAD  
+Lungs: Clear to auscultation bilaterally, no crackles  
+CV: Regular rate and rhythm, normal S1 + S2, holosystolic murmur 
+and S3
+Abdomen: soft,  non-distended, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly, mild ___ pain 
+to palpation 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+GU: foley
+Skin: no skin breakdown
+Neuro: non-focal, CNII-XII intact, ___ motor strength, but 
+symmetric, sensation to LT intact throughout
+
+On Discharge:
+Vitals: 97.2 142/62 64 19 94-96% on RA
+General: Alert, oriented, no acute distress  AXOx2
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, unable to determine JVD with C-collar in place, no 
+LAD  
+Lungs: Clear to auscultation bilaterally, no crackles  
+CV: Regular rate and rhythm, normal S1 + S2, holosystolic murmur 
+and S3
+Abdomen: soft, non-distended, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+GU: no foley
+Skin: no skin breakdown
+Neuro: non-focal, CNII-XII intact, ___ motor strength, but 
+symmetric, sensation to LT intact throughout
+ 
+Pertinent Results:
+On Admission:
+
+___ 04:00PM BLOOD WBC-24.0* RBC-5.47* Hgb-11.1* Hct-38.9 
+MCV-71* MCH-20.4* MCHC-28.6* RDW-18.9* Plt ___
+___ 07:20AM BLOOD WBC-14.2* RBC-4.93 Hgb-10.0* Hct-35.4* 
+MCV-72* MCH-20.4* MCHC-28.4* RDW-19.0* Plt ___
+___ 04:00PM BLOOD Neuts-92.7* Lymphs-5.1* Monos-1.3* 
+Eos-0.6 Baso-0.3
+___ 04:00PM BLOOD ___ PTT-33.1 ___
+___ 04:00PM BLOOD Glucose-115* UreaN-29* Creat-1.3* Na-139 
+K-4.5 Cl-103 HCO3-25 AnGap-16
+___ 04:00PM BLOOD cTropnT-<0.01
+___ 05:40PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 05:40PM URINE Blood-NEG Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-MOD
+___ 05:40PM URINE RBC-0 WBC-132* Bacteri-FEW Yeast-NONE 
+Epi-<1
+___ 05:40PM URINE Hours-RANDOM UreaN-830 Creat-109 Na-36 
+K-96 Cl-27
+
+URINE CULTURE (Final ___: 
+      ENTEROBACTER CLOACAE COMPLEX.    >100,000 ORGANISMS/ML.. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROBACTER CLOACAE COMPLEX
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+On discharge: 
+___ 07:30AM BLOOD WBC-17.8* RBC-5.36 Hgb-11.1* Hct-38.1 
+MCV-71* MCH-20.6* MCHC-29.0* RDW-19.0* Plt ___
+___ 07:30AM BLOOD Glucose-133* UreaN-25* Creat-1.3* Na-137 
+K-4.3 Cl-101 HCO3-25 AnGap-15
+ 
+Brief Hospital Course:
+This is a ___ yo female w PMH of dementia, hypertension, IDDM, 
+presents with mechanical fall and transferred from OSH for 
+evaluation of type III odontoid fracture. 
+.
+#. Odontoid fracture: The patient has a type III odontoid 
+fracture after a mechanical fall.  The patient will be required 
+to wear a hard C-Collar ___ J) at all times for 3 month.  ___ 
+take off for hygeine. Pt should be monitored for skin breakdown. 
+She will need to follow-up in ___ in 
+___ clinic with xrays of the ___ (AP, Lateral, Odontoid 
+views).  She should follow up with Dr. ___ in 3 
+months.  Her pain was well control with standing tylenol and 
+oxycodone prn.
+.  
+#. UTI: The patient presented with a symptomatic UTI.  A UA 
+revealed WBC-132, few bacteria and Nitr/leuk positive. On 
+admission urine culture grew Enterobacter Cloaccae complex that 
+preliminarily was pan-senstive, although this species has 
+inducible resistence to ___ generation cephlosporins.  The final 
+sensitivites pending at the time of discharge.  A dose of 
+levofloxacin was given in ED.  She was started on ceftriaxone 
+daily on HOD#1 for 2 doses.  Her symptoms were greatly improved 
+prior to discharge.  She was discharged on Bactrim DS daily for 
+5 additional days.
+.  
+#. IDDM: The patient was started on a Humolog Insulin Sliding 
+scale with a fix dose of lantus 10unit qHS.  Her home dose was 
+14units qHS.  She was discharged on this lower dose since her 
+blood sugars had been well control on this lower dose.
+.
+#. HTN: The patient initial BP on arrival to the floor was 
+108/60 and had a Cr of 1.3.  Her home medications of lasix, 
+amlodipine, and lisinopril were held, until OSH records were 
+obtained.  Her baseline Cr was 1.4-1.5 based on OSH records. She 
+was continued on metoprolol and verapamil on admission. Her BP 
+rose to 160's/60's on HOD#3, and she was restarted on her home 
+dose of lisinopril and lasix.  Amlodipine was discontinued at 
+the time of discharge.  Her baseline Cr was 1.4-1.5 based on OSH 
+records. 
+.
+#. Afib- The patient was found to be in sinus with a LBBB with ___elay.  She was continued on metoprolol and verapamil.
+.
+#. polycythemia ___- Continued her home dose of hydroxurea. 
+. 
+#Leukocytosis: similar to baseline (WBC ___ in the past). 
+Likely related to her underlying polycythemia ___. 
+.
+#CODE: DNR/DNI (per HCP and signed DNR form) 
+ 
+Medications on Admission:
+aspirin 81 mg Tab daily.
+furosemide 20 mg Tab daily.
+hydroxyurea 500 mg tab Once Daily on ___ and ___  
+lisinopril 40 mg Tab once daily
+Toprol XL 50 mg 24 hr Tab once daily.
+Multivitamin daily
+docusate sodium 100 mg Cap once daily
+verapamil ER (HS) 180 mg once daily
+citalopram 10 mg Tab once daily 
+famotidine 20 mg Tab, Rapid Dissolve once daily
+Lantus 100 unit/mL Sub-Q Subcutaneous 14 units Solution(s) Once
+Daily, at bedtime 
+amlodipine 10 mg Tab q.h.s.
+senna 8.6 mg Cap q.h.s.
+simvastatin 5 mg Tab q.h.s.
+Mapap (acetaminophen) 325 mg Tab Oral 2 Tablet(s) Every ___ hrs,
+as needed for pain
+Maalox Advanced 200 mg-200 mg-20 mg/5 mL Oral Susp Oral 30 mls
+Suspension(s) Every ___ hrs, as needed  
+Bisac-Evac 10 mg Rectal Suppository Rectal 1 Suppository q.h.s. 
+prn 
+hydrocortisone acetate 25 mg Rectal Suppository Rectal 1
+Suppository bid prn rectal bleeding
+___ of Magnesia 400 mg/5 mL Oral Susp Oral 30 mls
+Suspension once daily prn constipation
+Novolin R 100 unit/mL Injection  
+
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day) as needed for pain.  
+2. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO every four (4) hours 
+as needed for pain.  
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO 2X/WEEK 
+(___).  
+5. Toprol XL 50 mg Tablet Extended Release 24 hr Sig: One (1) 
+Tablet Extended Release 24 hr PO once a day.  
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. verapamil 180 mg Tablet Extended Rel 24 hr Sig: One (1) 
+Tablet Extended Rel 24 hr PO once a day.  
+9. famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+10. Lantus 100 unit/mL Solution Sig: One (1) 10 units 
+Subcutaneous at bedtime.  
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  
+
+12. Maalox Advanced 200-200-20 mg/5 mL Suspension Sig: One (1) 
+30ml PO every ___ hours as needed for indigestion.  
+13. Bisac-Evac 10 mg Suppository Sig: One (1)  Rectal at bedtime 
+as needed for constipation.  
+14. hydrocortisone acetate 25 mg Suppository Sig: One (1)  
+Rectal twice a day as needed for rectal bleeding.  
+15. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO once a day as needed for constipation.  
+16. insulin
+continue prior Novolin Insulin Sliding Scale
+17. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day: 
+hold if SBP<100.  
+18. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+19. Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO once a 
+day for 5 days: Last day ___.  
+20. citalopram 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+21. simvastatin 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+type III odontoid fracture
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.  You were admitted for a fracture of your neck 
+after a fall.  You have been given medication to control your 
+pain.  You will need to wear a neck collar at all times for 
+likely 3 months.  You can take the collar off for short periods 
+of time for personal hygiene.  You will also need to follow up 
+with follow-up in ___ in ___ 
+clinic.  You will need to follow up with Dr. ___ in 
+___ clinic in 3 months.
+
+We also found that you had a urinary tract infection.  We have 
+treated you with antibiotics and you are now doing better.  
+Please take Bactrim for 5-days more.
+
+Medication Changes:
+START taking Bactrim DS daily for 5-days more
+START taking tylenol ___ mg by mouth three times daily
+START taking oxycodone 2.5 mg by mouth every 4 hours as needed 
+for pain
+REDUCE your lantus to 10 units at night
+STOP taking amlodipine
+
+Please continue to take all your medication as prescribed
+ 
+Followup Instructions:
+___

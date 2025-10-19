@@ -1,0 +1,234 @@
+===== DISCHARGE NOTE =====
+note_id=18632166-DS-17 | hadm_id=23816611
+
+ 
+Name:  ___                     ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Port Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a pleasant ___ w/ HER2 amplified ER/PR+ Invasive 
+Ductal
+Carcinoma pT2N0(i+) of left breast on C1D8 cyclophosphamide and
+doxorubicin who presents w/ two days of port pain, redness over
+port, subjective fevers 2 days ago and yesterday and a sore
+throat. The fevers resolved. She otherwise feels well. She 
+denied
+any ___. Denied any RUE edema or pain
+
+ED ___ 73 BP 122/81 16 99% RA. CT Head revealed no intracranial
+metastatic disease. US revealed obstructive thrombosis of the
+right internal jugular vein. Was started on heparin gtt.
+
+REVIEW OF SYSTEMS:
+10 point ROS reviewed in detail and negative except for what is
+mentioned above in HPI
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: PER OMR
+In ___ patient felt a new mass in her left breast and
+therefore came in for diagnostic imaging on ___. 
+Her left breast showed a new 1.2 cm round mass in the left upper
+outer breast at the site of the palpable abnormality.  Her right
+breast showed a new ___ircumscribed mass in the mid
+central depth with punctate calcifications.  Due to these
+abnormalities in bilateral breasts, she underwent an ultrasound. 
+
+Her left breast revealed a 2 x 1.9 x 1.7 cm irregular
+heterogeneous dense mass seen at 1 o'clock, 9 cm from the mass. 
+When they looked at the rest of her left breast, they found 
+other
+small hypoechogenic lesions throughout the breast.  One of these
+was at 12 o'clock, 5 cm from the nipple measuring 1 x 0.7 x 0.7
+cm.  They also evaluated her lymph nodes and there was a 1.3 cm
+lymph node in her left axilla, which was abnormal.  In her right
+breast at 12 o'clock, 5 cm from the nipple, there is an 
+irregular
+1 x 0.7 x 0.7 hypoechoic lesion.  Due to these findings in
+bilateral breasts, they performed a core needle biopsy on ___ of both breasts and FNA of her lymph nodes.
+
+The pathology from these core needle biopsies revealed in the
+right breast at 12 o'clock, an intraductal papilloma; in the 
+left
+breast at 1 o'clock, invasive ductal carcinoma, grade III,
+triple-positive breast cancer and in the left breast at 3
+o'clock, another intraductal papilloma. 
+
+On ___ she underwent left partial mastectomy and
+sentinel lymph node biopsy which showed a 2.6cm invasive ductal
+carcinoma grade III with micropapillary features (pT2). Margins
+were negative but were <1mm.  Sentinel lymph node showed 
+isolated
+tumor cells (pN0(i+)) she also underwent right breast
+wire-localized excisional biopsy which showed focal atypical
+lobular hyperplasia and papilloma with florid usual ductal
+hyperplasia. 
+ 
+Due to close superior margins she underwent re-excision on ___ which showed DCIS but no invasive carcinoma. 
+
+PAST MEDICAL HISTORY:
+1.  History of STDs, treated with shots.
+2.  Hep B sero-immune.
+3.  Elevated cholesterol.
+4.  Fibrocystic breast tissue.
+5.  Breast cancer.
+
+ 
+Social History:
+___
+Family History:
+She has no family history of breast or ovarian cancer or any
+other cancer.  She is not of ___ descent.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=========================
+General:  NAD, Resting in bed comfortably
+VITAL SIGNS: 98 131/83 63 18 95% ra 148 lbs
+HEENT:  MMM, no OP lesions, right supraclavicular area is full
+without redness, port has a small 2cm bruise over it and is TTP,
+no erythema
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no palpable masses or HSM
+LIMBS: WWP, no ___, no tremors
+SKIN:  No rashes on the extremities
+NEURO:  Grossly normal
+
+DISCHARGE PHYSICAL EXAM
+=========================
+Unchanged from admission physical exam. Notable for some 
+erythema and edema near port
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 07:35PM BLOOD WBC-4.8 RBC-3.93 Hgb-11.5 Hct-35.4 MCV-90 
+MCH-29.3 MCHC-32.5 RDW-12.8 RDWSD-42.4 Plt ___
+___ 07:35PM BLOOD Plt Smr-LOW Plt ___
+___ 10:06PM BLOOD ___ PTT-22.6* ___
+___ 07:35PM BLOOD Glucose-96 UreaN-8 Creat-0.5 Na-137 
+K-5.8* Cl-106 HCO3-20* AnGap-17
+___ 07:35PM BLOOD ALT-15 AST-39 AlkPhos-101 TotBili-0.4
+___ 07:35PM BLOOD Albumin-3.9
+___ 07:40PM BLOOD Lactate-1.5
+
+DISCHARGE LABS
+===============
+___ 06:20AM BLOOD WBC-4.0 RBC-3.98 Hgb-11.6 Hct-35.3 MCV-89 
+MCH-29.1 MCHC-32.9 RDW-12.1 RDWSD-39.4 Plt ___
+___ 12:50PM BLOOD PTT-81.6*
+___ 06:20AM BLOOD Plt ___
+___ 06:20AM BLOOD Glucose-97 UreaN-8 Creat-0.6 Na-138 K-3.5 
+Cl-107 HCO3-24 AnGap-11
+
+IMAGING
+=========
+RUE U/S ___
+Obstructive thrombosis of the right internal jugular vein.
+
+CXR ___
+Low lung volumes with bibasilar atelectasis.
+
+CT head ___
+No evidence of intracranial metastatic disease.  No acute 
+intracranial 
+abnormality detected.  Of note, MRI is more sensitive for the 
+detection of metastases. 
+
+ 
+Brief Hospital Course:
+___ year old female with HER2 amplified ER/PR+ Invasive Ductal 
+Carcinoma pT2N0(i+) of left breast on chemotherapy who presents 
+w/acute RIJ thrombosis.
+
+# RIJ thrombosis
+Patient admitted with port pain and right sided neck swelling 
+and pain, found to have a RIJ thrombus on ultrasound.  She was 
+initially placed on a heparin gtt and then convered to ___.
+
+# Breast Ca
+Will followup outpatient.
+
+TRANSITIONAL ISSUES
+=====================
+- discharged on Lovenox 70mg subq BID (ongoing)
+- will have 2 ___ visits
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+2. Prochlorperazine ___ mg PO Q6H:PRN nausea 
+3. Ondansetron 8 mg PO Q8H:PRN nausea 
+4. Lorazepam 0.5-1 mg PO Q6H:PRN nausea 
+
+ 
+Discharge Medications:
+1. Enoxaparin Sodium 70 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 80 mg/0.8 mL 70 mg subq twice a day Disp #*60 
+Syringe Refills:*0
+2. Lorazepam 0.5-1 mg PO Q6H:PRN nausea 
+3. Ondansetron 8 mg PO Q8H:PRN nausea 
+4. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+5. Prochlorperazine ___ mg PO Q6H:PRN nausea 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+Deep Vein Thrombosis
+Breast Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___.  You 
+came in with neck pain and swelling, likely because you have a 
+blood clot in that area.
+
+You will need to remain on blood thinners (Lovenox injections).  
+You can use warm compresses to the area which will help your 
+pain and discomfort.
+
+Please be sure to followup as below with your oncologist.  DO 
+NOT stop taking Lovenox without discussing with your doctor.
+
+Sincerely, 
+
+Your ___ Physicians
+ 
+___:
+___

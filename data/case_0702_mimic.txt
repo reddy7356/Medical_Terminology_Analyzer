@@ -1,0 +1,810 @@
+===== DISCHARGE NOTE =====
+note_id=18612120-DS-20 | hadm_id=21950269
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Flexeril / Aspirin / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o F with PMHx of DM, HTN, HL who presents today with left 
+lower extremity swelling and erythema that has persisted for 
+approximately one month. Pt reports that was treated with a 
+course of Keflex/Bactrim for similar symptoms at the end of 
+___ and did have improvement in swelling/erythema.  However, 
+over the last ___ days she has had worsening left leg pain and 
+swelling.  She has baseline lower extremity edema that is worse 
+at the end of the day and improves by am and wears TEDs while at 
+work.  She reported 2 days of night sweats, chills and decreased 
+appetite.  She denied any N/V/D, constipation, abd pain, chest 
+pain, shortness of breath or other rashs.
+.
+Initial VS on arrival to the ED: T 97.3 BP 152/81 HR 64 RR 16 
+Sats 100%. Pt had a left lower extremity u/s that was negative 
+for DVT and was given Unasyn 3grams IV prior to transfer to the 
+___.  
+.
+
+ 
+Past Medical History:
+Diabetes type-II  
+Hypertension  
+Hyperlipidemia  
+H/o dermatophytosis  
+H/o onychomycosis  
+Chronic abd pain: on lactulose and PPI, colonoscopy in ___ wnl  
+
+H/o H. pylori  
+LBP: Likely ___ to muscule spasms  
+TMJ  
+Depression  
+S/p L cataract extraction: ___  
+ 
+Social History:
+___
+Family History:
+Mother: hypertension, arthritis, congestive heart failure
+Father: died secondary to to complications of MI
+Children: patient does not know of health problems among her 
+children
+ 
+Physical Exam:
+VS: T 97 BP 129/78 HR 56 RR 18 Sats 97% on RA
+GEN: NAD, comfortable
+HEENT: NCAT, EOMI, no LAD, MMM
+CV: RRR no m/r/g
+RESP: CTAB no wheezes/rales apprec.
+ABD: mildly distended, NTTP, NABS
+EXTR: trace edema on RLE and LLE with 2+ pitting edema tracking 
+to knee, area of warmth and TTP tracks anteriorly, outlined with 
+marker and not extending.
+No fluctuance appreciated.
+ 
+Pertinent Results:
+LABS:
+UCG: Negative 
+.
+Lactate:1.7
+.
+141  104  13  BS 122   AGap=13 
+-------------
+4.2  28  0.7  
+. 
+WBC 5.4 Hgb 11.8 Hct 36 Plts 338 
+ N:47.7 L:46.0 M:4.3 E:1.2 Bas:0.9 
+.
+Left Lower extremity U/S ___: negative for DVT
+
+ 
+Brief Hospital Course:
+1. Cellulitis:  Pt has had recurrent Left lower extremity 
+cellulitis of unclear precipitant that began in ___.  
+She was last treated in ___ and presented with recurrent 
+LLE pain, redness, swelling and night sweats.  The left shin had 
+mild cellulitic changes and tenderness to palpation.  She was 
+treated empirically with Vanc/Unasyn for 48hrs. The erythema and 
+pain improved significantly with antibiotics and elevation.  Pt 
+was transitioned to oral Bactrim/Keflex with the plan of 
+completing a 10 day course. There was some evidence of tinea 
+pedis and pt was started on Clotrimazole topically with plan for 
+podiatry follow up.  Pt was given instructions about foot care 
+and avoiding open toe shoes in an effort to prevent recurrent 
+episodes of cellulitis.  
+
+2. Hypertension: There was some confusion about her medication 
+regimen. Pt had continued on Amlodipine despite the fact that 
+her PCP had stopped it out of concern that it could be 
+contributing to the lower extremity edema.  The medication list 
+was reconciled with family, patient and PCP.  She was continued 
+on Losartan at 25mg daily and amlodipine was stopped.  She was 
+started on Hydrochlorothiazide 25mg daily and will be seen in 
+follow up next week. 
+
+Otherwise, pt was continued on her Metformin and Pravastatin 
+home regimens.
+ 
+Medications on Admission:
+Pravastatin 60mg daily
+Colace 100mg BID
+Amlodipine 10mg daily
+Losartan 25mg daily
+Metformin 500mg daily (had not been taking recently as ran out)
+ 
+Discharge Medications:
+1. Pravastatin 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+2. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Clotrimazole 1 % Cream Sig: One (1) Appl Topical BID (2 times 
+a day) as needed for feet tinea.
+Disp:*qs tube* Refills:*0*
+4. Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+5. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) for 7 days.
+Disp:*21 Capsule(s)* Refills:*0*
+6. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+7. Metformin 500 mg Tablet Extended Rel 24 hr Sig: One (1) 
+Tablet Extended Rel 24 hr PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Cellulitis 
+2. Diabetes Type II
+3. Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with left lower extremity cellulitis and 
+swelling.  You have been treated with antibiotics and will need 
+to continue taking Bactrim & Keflex for another 7 days.  We have 
+noted a fungal rash on your feet that may be contributing to the 
+recurrent cellulitis.  We recommend using topical clotrimazole 
+twice daily for ten days to try and resolve the itching.  Dr. 
+___ will help to coordinate follow up with Podiatry and 
+recommends that you continue to use the compression stockings as 
+much as possible.  
+
+Please note that we have STOPPED the amlodipine as it can 
+contribute to lower extremity swelling.
+START Hydrochlorothiazide 25mg daily which is mild diuretic that 
+will help control blood pressure and decrease swelling.
+START Clotrimazole cream applied topically twice daily
+
+.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18612120-DS-19 | hadm_id=26260070
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Flexeril / Aspirin / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+LLE swelling, erythema 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This is a ___ year old woman with past medical history 
+significant for DM and hypertension who presents today after 
+failing outpatient therapy for cellulitis. Apparently, the 
+patient began to have erythema in the foot and ankle around 3 
+wks ago that has slowly advanced to up the knee. This is 
+associated with itching and burning as well as some swelling. No 
+clear trauma. Approximately 6 days prior to presentation the 
+patient was seen by some her PCP who placed her on a ten day 
+course of cephalexin. Unfortunately, this has led to no 
+improvement in her symptoms and she began to have fevers over 
+the last two days. The patient was seen in GI clinic today who 
+saw her cellulitis and recommended PCP and ___.
+
+In the ___ VS T 97.2, P 75, BP 159/73,RR 16, O2 Sat 98. She 
+received doses of ampicillin/sublactam and vancomycin and was 
+admitted to the floor.
+ 
+Past Medical History:
+Diabetes type-II  
+Hypertension  
+Hyperlipidemia  
+H/o dermatophytosis  
+H/o onychomycosis  
+Chronic abd pain: on lactulose and PPI, colonoscopy in ___ wnl  
+
+H/o H. pylori  
+LBP: Likely ___ to muscule spasms  
+TMJ  
+Depression  
+S/p L cataract extraction: ___  
+ 
+Social History:
+___
+Family History:
+Mother: hypertension, arthritis, congestive heart failure
+Father: died secondary to to complications of MI
+Children: patient does not know of health problems among her 
+children
+ 
+Physical Exam:
+VS: T 97.6, BP 110/60, P 66, RR 20, O2 96% on RA
+Gen: Well appearing, NAD
+HEENT: Normocephalic, anicteric, OP benign, MMM
+Neck: No masses or lymphadenopathy, supple
+CV: RRR, no M/R/G; DP and Radial pulses 2+ bilaterally
+Pulm: Resps unlabored, CTAB
+Abd:Soft, NT, ND, BS+, no organomegaly or masses appreciated
+Extrem: Warm and well perfused, no C/C, erythema and tender to 
+palpation over the left shin from knee to ankle with trace 
+pitting edema (none on left)
+ 
+Pertinent Results:
+LABS:
+
+___ 06:53PM   COMMENTS-GREEN
+___ 06:53PM   LACTATE-2.6*
+___ 06:50PM   GLUCOSE-135* UREA N-14 CREAT-0.7 SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-100 TOTAL CO2-25 ANION GAP-17
+___ 06:50PM   estGFR-Using this
+___ 06:50PM   WBC-6.1 RBC-4.50 HGB-12.5 HCT-36.5 MCV-81* 
+MCH-27.8 MCHC-34.3 RDW-13.3
+___ 06:50PM   NEUTS-51.8 LYMPHS-42.8* MONOS-3.7 EOS-1.4 
+BASOS-0.3
+___ 06:50PM   PLT COUNT-349
+___ 06:50PM   ___ PTT-21.9* ___
+
+UNILAT LOWER EXT VEINS LEFTStudy Date of ___ 9:00 ___
+LEFT LOWER EXTREMITY DVT STUDY: Gray-scale and Doppler sonograms 
+of the left
+common femoral, superficial femoral and popliteal veins 
+demonstrate normal
+venous flow, compressibility and response to augmentation. No 
+intraluminal
+thrombus is identified. A left groin lymph node measures 2.7cm x 
+2.5cm x 1cm.
+Normal color flow is present within the calf veins. IMPRESSION: 
+No evidence of left lower extremity DVT.
+
+Blood Cultures: no growth
+Urine Cultures: no growth
+ 
+Brief Hospital Course:
+___ year old female with diabetes and hypertension presenting 
+with presumed left lower extremity cellulitis after having 
+failed outpatient cephalexin therapy.
+
+1) Cellulitis: Patient's overall presentation and exam 
+consistent with cellulitis. Presumably failure of cephalexin due 
+to resistant organism most likely MRSA. Started on augmentin and 
+vancomycin with good affect, then switched to augmentin and 
+TMP/SMX. Discharged on course of augmentin and TMP/SMX.
+
+2) HTN: Reasonably well controlled on home regimen. Of note, not 
+entirely clear why patient not on ___ given proteinuria and DM, 
+but considered appropriate for outpatient follow up.
+
+3) DM: Insulin sliding scale in house.
+
+4) Hyperlipidemia: Continued on pravastatin.
+ 
+Medications on Admission:
+-Amlodipine 5 mg once a day
+-Metformin 500 mg once a day
+-Ergocalciferol 50,000 unit once weekly
+-METFORMIN 500 mg once a day
+-OMEPRAZOLE 20 mg by mouth qam
+-PRAVASTATIN 40 mg by mouth once a day
+-ACETAMINOPHEN ___ mg Tablet by mouth every six hours PRN
+-ASPIRIN 81 mg once a day
+-DOCUSATE SODIUM 100 mg by mouth twice a day
+-SENNA 8.6 mg Tablet 2 once a day PRN no BM
+ 
+Discharge Medications:
+1. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+3. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+4. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) 
+Tablet PO TID (3 times a day) for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+5. Metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Ergocalciferol (Vitamin D2) 50,000 unit Capsule Sig: One (1) 
+Capsule PO once a week.  
+8. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+NOTE - called pt. to correct above error in bactrim dosing - 
+should have been two tab of bactrim DS PO BID.  See omr note to 
+same from Dr. ___
+
+ 
+___ Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Cellulitis
+
+Secondary:
+Diabetes
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your admission at 
+___. You were admitted for 
+cellulitis. You were treated with antibiotics.
+ 
+We have changed some of your medications during your admission. 
+Please make the following changes:
+ 
+ START taking bactrim as prescribed (twice a day for 6 days)
+ START taking augmentin as prescribed (three times a day for 6 
+days)
+
+We did not change any of your OTHER medications while you were 
+here. Please continue to take all of your previous medications 
+exactly as prescribed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18612120-DS-17 | hadm_id=26402047
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Flexeril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right ankle pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms ___ is a ___ woman with h/o diabetes type-II, HTN, and HL 
+who presents with right foot pain following a fall on ___. The 
+patient states she fell 1.5 weeks ago, injured her ankle, and 
+suffered an abrasion below her right patella. Patient states she 
+just tripped over her foot, causing her to fall.
+
+The patient feels pain in her right foot when bearing weight. 
+She went to see her PCP ___ ___, who advised minimal 
+weightbearing, use of crutches to ambulate, and use 
+acetaminophen or ibuprofen for pain control. She has noticed 
+swelling for about 1 week. The patient has not been able to stay 
+off her foot because she has had to work.
+
+The patient presented to the ED today because the pain and 
+swelling has increased. In the ED, her vitals were T 98.2, BP 
+156/85, HR 70, RR 16, O2 100% RA. Blood cultures x2 were sent, 
+and she was started on 1g vancomycin, 1g ceftriaxone, and 3g 
+unasyn prior to being transferred to the floor.
+
+On ROS, the patient states that she is prone to headaches but 
+does not have one now. She also has chronic back pain. She 
+denies any recent fevers, chills, weight changes, vision 
+changes, changes in bowel or bladder habits, N/V, or mood 
+changes.
+
+ 
+Past Medical History:
+Diabetes type-II
+Hypertension
+Hyperlipidemia
+H/o dermatophytosis
+H/o onychomycosis
+Chronic abd pain: on lactulose and PPI, colonoscopy in ___ wnl
+H/o H. pylori
+LBP: Likely ___ to muscule spasms
+TMJ
+Depression
+S/p L cataract extraction: ___
+ 
+Social History:
+___
+Family History:
+mother: hypertension, arthritis, congestive heart failure
+father: died ___ to complications of MI
+children: patient does not know of health problems among her 
+children
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T 96.9, BP 180/11, HR 64, RR 18, O2 100% RA
+General: NAD, lying in bed
+HEENT: PERRL, EOMI, MMM, OP clear, no LAD
+Cardiac: RRR, S1+S2, no m/r/g, no JVD
+Pulm: LCAB, no wheezes or crackles
+Abd: +BS, soft, NT, ND, no HSM
+Ext: R ankle visibly edematous particularly around lateral 
+malleolus, tender to palpation and manipulation, decreased ROM 
+(plantarflexion>dorsiflexion , inversion>eversion) with passive 
+and active motion, warm, 2+ distal pulse, RLE warm and 
+erythematous ___ up calf, healed abrasion below right 
+patella, LLE WWP with 2+ distal pulse and no edema or erythema
+Neuro: A+Ox3, CN II-XII intact, brisk patellar and 
+brachioradialis reflexes bilaterally
+
+ 
+Pertinent Results:
+Labs upon admission:
+___ 12:59PM   LACTATE-1.4
+___ 12:50PM   GLUCOSE-105 UREA N-15 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-28 ANION GAP-12
+___ 12:50PM   WBC-5.2 RBC-4.20 HGB-11.6* HCT-35.5* MCV-85 
+MCH-27.7 MCHC-32.7 RDW-13.1
+___ 12:50PM   NEUTS-42.0* LYMPHS-51.6* MONOS-4.8 EOS-1.1 
+BASOS-0.5
+
+Labs upon discharge:
+___ 06:25AM BLOOD WBC-4.7 RBC-3.82* Hgb-10.8* Hct-32.2* 
+MCV-84 MCH-28.3 MCHC-33.5 RDW-13.0 Plt ___
+
+IMAGING:
+___ R foot xray: There is hallux valgus metatarsus varus of 
+the first MTP joint as well as degenerative changes. Subchondral 
+cystic changes and spurring are seen at the base of the first 
+proximal phalanx. There are no signs for acute fractures. No 
+bony erosions are present. A plantar spur is seen. 
+
+___ R ankle xray: There is prominent soft tissue swelling, 
+medial greater than lateral. There are no osteochondral lesions. 
+There are no acute fractures or dislocations. No focal lytic or 
+blastic lesions are present 
+
+ 
+Brief Hospital Course:
+___ woman with h/o diabetes, HTN, HL who presents s/p fall with 
+RLE edema and pain.
+
+1. Cellulitis: Patient was admitted with right lower extremity 
+edema, erythema, and pain. Patient had fall prior to 
+presentation with abrasions, this most likely etiology of 
+symptoms is cellulitis. Plain films negative for fracture. She 
+was given ceftriaxone, usasyn, and vancomycin in the ED before 
+being transferred to the floor. Given that patient has 
+comorbidity of diabetes and is at higher risk for MRSA and 
+gram-negative infection, she was switched on augmentin. Patient 
+did not show any concerning signs of resistant infection, such 
+as leukocytosis or fever and thus broader coverage was not 
+necessary. Patient's symptoms improved overnight, and she was 
+discharged home with augmentin, to be completed on ___ after 
+a 10-day course. Her pain was controlled with percocet and 
+ibuprofen.
+
+2. Diabetes: Patient has type-II diabetes and is managed at home 
+on metformin. Her last HbA1c in ___ was 6.7%. She was kept 
+in-house on an ISS and told to restart her metformin when she 
+was discharged home.
+
+3. Hypertension: Patient presented to the floor from the ED with 
+BP 180/100 because she had not taken her daily BP medications. 
+She was restarted on all home meds on the floor, and her SBPs 
+remained in her baseline range of 140s-150. She was discharged 
+without any changed to her antihypertensive regimen.
+
+4. Chronic LBP: Patient has had chronic LBP for many years, 
+which is secondary to spasm. She states that her work makes this 
+much worse, as she is on her feet all day. She was placed on 
+ibuprofen standing with percocet prn for pain control, and this 
+managed her symptoms well.
+
+***PENDING ISSUES FOR F/U***
+1. Cellulitis: Patient should follow-up with her PCP to ensure 
+cellulitis is resolved. Augmentin course scheduled to finish on 
+___.
+
+ 
+Medications on Admission:
+Diltiazem HCl 60mg qd
+Enalapril 5mg qd
+HCTZ 25mg qd
+Metformin 500mg 
+Pravastatin 10mg qd
+Lactulose ___ qd
+Prilosec 20mg qd
+Meclizine 12.5-25mg q6h prn nausea
+Acetaminophen 1000mg tid prn pain
+Ibuprofen 600mg q6h
+
+ 
+Discharge Medications:
+1. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Enalapril Maleate 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+4. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.  
+5. Lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO DAILY 
+(Daily) as needed for constipation.  
+6. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for nausea.  
+7. Pravastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) 
+Tablet PO TID (3 times a day) for 9 days: Please take through 
+___.
+Disp:*26 Tablet(s)* Refills:*0*
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+11. Diltiazem HCl 60 mg Capsule, Sust. Release 12 hr Sig: One 
+(1) Capsule, Sust. Release 12 hr PO once a day.  
+12. Metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Right lower extremity cellulitis
+
+Secondary Diagnosis:
+1. Hypertension
+2. Diabetes
+
+ 
+Discharge Condition:
+Stable: Patient's symptoms are improving on antibiotics
+
+ 
+Discharge Instructions:
+You were admitted with pain and swelling in your right foot. You 
+were found to have an infection of the skin. You were started on 
+antibiotics, called augmentin, to treat the infection.
+
+You should take all the augmentin pills as directed for the next 
+nine days. You should also continue taking all of your other 
+medications.
+
+You were started on a new medication called aspirin to help 
+protect your heart.  You should take one aspirin a day.
+
+You were also started on a new pain medication called percocet. 
+You can take this until your infection gets better. You should 
+not take tylenol while you are taking percocet.
+
+If you notice more swelling, pain, or redness on your right foot 
+or leg, develop a high fever, or notice any nubmness/tingling in 
+your legs, you should call your primary care doctor or return to 
+the Emergency Department.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18612120-DS-18 | hadm_id=27975213
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Flexeril / Aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Endogastroduodenoscopy
+ 
+History of Present Illness:
+___ y.o. female with HTN, DM II p/w abdominal pain since night 
+prior to admission. The patient reports that her abdominal 
+discomfort is primarily present in the epigastric area and that 
+he pain is sharp. Pt report that the pain is constant and cannot 
+name any alleviating or aggravating factors. Pt has not eaten in 
+nearly 24 hrs because of abdominal discomfort with eating.  
+
+Pt endorses a h.o. similar pains x over ___ years. Pt's abdominal 
+discomfort has been attributed to constipation and gas in the 
+past. The patient had admission four months ago at ___ for 
+work-up, that is reportedly (per patient) negative.  
+  
+In the ED, patient's VS were stable. The patient was found to 
+have a CT scan with enteritis (infectious likely versus 
+ischemic). Surgery consulted and not surgical abdomen. Pt 
+received Zofran 4mg and and Morphine 4mg for pain and nausea 
+control. Labs WNL. Urinalysis negative, got CXR and KUB neg.  
+  
+ROS was otherwise essentially negative, unless otherwise 
+specified above. 
+ 
+Past Medical History:
+Diabetes type-II  
+Hypertension  
+Hyperlipidemia  
+H/o dermatophytosis  
+H/o onychomycosis  
+Chronic abd pain: on lactulose and PPI, colonoscopy in ___ wnl  
+
+H/o H. pylori  
+LBP: Likely ___ to muscule spasms  
+TMJ  
+Depression  
+S/p L cataract extraction: ___  
+ 
+Social History:
+___
+Family History:
+Mother: hypertension, arthritis, congestive heart failure
+Father: died secondary to to complications of MI
+Children: patient does not know of health problems among her 
+children
+ 
+Physical Exam:
+Vitals: 98.5, 145/91, 60, 18, 97%RA  
+General: NAD, pleasant, appropriate, cooperative.  
+HEENT: NCAT, EOMI, no scleral icterus, dry MM  
+Neck: supple, no significant JVD or carotid bruits appreciated  
+Pulmonary: Lungs CTA bilaterally, no wheezes, ronchi or rales  
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated  
+Abdomen: soft. Epigastric TTP. Mild RUQ/LUQ TTP. No BLQ 
+tenderness. No rebound. ND. Normoactive bowel sounds, no masses 
+or organomegaly noted  
+Extremities: No edema, 2+ radial, DP pulses b/l  
+Skin: no rashes or lesions noted. 
+
+Discharge exam: unchanged with following exceptions:
+Abdomen: soft, non-tender to palpation.
+ 
+Pertinent Results:
+CT abdomen and pelvis with IV contrast
+COMPARISON: Compared to upper GI series from ___.
+1. Long segment of regular small bowel wall thickening, with 
+adjacent fat
+stranding, and moderate amount of free fluid, with short segment 
+of fibrofatty changes at the distal rectum. Differential 
+diagnosis includes inflammatory enteritis, as initial 
+presentation of Crohn's disease, small vessel vasculitis 
+(undiagnosed connective tissue disorder), infectious enteritis, 
+(although not supported by clinical data), angioedema (less 
+likely due to distribution), hypocoagulability, and less likely 
+lymphoma.
+2. Abnormal thickening of the endometrial cavity in this 
+postmenopausal
+woman. Pelvic ultrasound is recommended to further evaluate this 
+finding.
+Differential diagnosis includes hyperplasia, polyp; cannot rule 
+out neoplasm.
+
+EGD: Normal stomach, duodenum and esophagus.
+ 
+Brief Hospital Course:
+___ y.o. Female with HTN, DM II, history of H. Pylori that was 
+apparently treated who has cramping abdominal pain that has been 
+occurring episodically since ___.  The patient has been having 
+these symptoms since just after she moved to the ___ 
+from ___.  
+
+## Abdominal Pain: The patient was found to have severe cramping 
+abdominal pain and tenderness to palpation at the epigastric 
+region.  CT scan showed stranding and evidence of small bowel 
+enteritis.  GI was consulted and an EGD was performed, which 
+showed normal stomach, esophagus and duodenum with no evidence 
+of an ulcer.  It was noted that the patient's symptoms began 
+immediately after coming to the ___.  Most likely 
+diagnosis is angioedema, secondary to potential c1 esterase 
+deficiency.  The patient's lisinopril was stopped, and her 
+symptoms resolved (probably a coincidence).  Follow-up with GI 
+was arranged to discuss final test results.
+
+## Endometrial thickening: Found incidentally on CT scan.  If 
+clinical picture warrants, this should be followed up as an 
+outpatient with a vaginal ultrasound.
+
+## Benign hypertension: Lisinopril discontinued because of 
+concern that it is causing angioedema.  Amlodipine started in 
+place of it.
+ 
+Medications on Admission:
+Pravastatin 20mg daily  
+Lisinopril 10mg daily  
+Metformin 500mg daily
+ 
+Discharge Medications:
+1. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Angioedema of the small bowel
+
+Secondary: Diabetes, hypertension.
+ 
+Discharge Condition:
+Good, stable
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain.  Because 
+of the severity of your pain, we were concerning about an ulcer 
+and you had a camera inserted down your esophagus to look at 
+your stomach.  Your stomach looked entirely normal, however we 
+took some tissue samples in order to rule out infection.
+
+You had a CT scan of your belly, which showed that there was a 
+lot of fluid and inflammation around your small bowel.  Our 
+stomach doctors came and saw ___, and they believe that this was 
+caused by one of the blood pressure medications that you were 
+on, lisinopril.  For this reason, we sent off several blood 
+tests to confirm this.  You will need to come to see the stomach 
+doctors in their office to get the results of these tests.  
+
+We have taken you off of your lisinopril, and started you on a 
+different medication called amlodipine for your blood pressure.  
+You should not take lisinopril for the time being until you see 
+the stomach doctors.  ___ have made no other changes to your 
+medications.
+
+Please take all medications as prescribed, and keep all of your 
+follow-up appointments.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,731 @@
+===== DISCHARGE NOTE =====
+note_id=17158007-DS-22 | hadm_id=23936243
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath and neck discomfort
+ 
+Major Surgical or Invasive Procedure:
+___ Left heart catheterization and PCI: Severe multivessel 
+disease, including
+distal LAD disease after LIMA touchdown, occluded RCA and 
+subtotally occluded SVG to RCA, and critical proximal LCx 
+disease. Successful Impella supported
+PCI of the LCx, single stent placed.
+
+ 
+History of Present Illness:
+___ w/ hx of HTN/DMII, 3v CAD s/p CABG (___), AV conduction
+disease s/p dual chamber PPM placement (___), who presents as a
+transfer from ___ for neck pain and NSTEMI.
+
+The pt states that last night he experienced sudden onset
+shortness of breath and neck discomfort while getting into bed.
+Per the pt, these symptoms occasionally occur, but typically
+dissipate without any intervention. Last night however, his
+symptoms persisted, prompting him to present to the ___. 
+
+At ___ he was found to have a troponemia to 1.371 ___s
+an elevated BNP. He was given nitropaste and IV Lasix before
+being transferred to ___ for further management of NSTEMI and
+consideration for cardiac catheterization.
+
+In the ED, initial vitals were T 98.6, HR 89, BP 108/78, RR 18,
+O2 98% on 1L.
+
+Labs were notable for: 
+- Leukocytosis of 14.7 (88.4% PMNs)
+- BUN/Cr ___
+- Trop T 0.57, CK 444, MB 52, MBI 11.7
+- proBNP 5247
+
+Studies were notable for:
+- EKG w/ A sensed V paced rhythm, ischemic changes difficult to
+assess in setting of ventricular pacing
+- CXR w/ interval increase in subpleural reticular nodularity in
+bilateral lower lobe  suggestive of interstitial abnormality. 
+
+The patient was given: 243mg ASA.
+
+Cardiology was consulted and advised against starting a heparin
+gtt. The pt was admitted to the cardiology service for further
+management.
+
+On arrival to the floor, the pt endorsed the above history,
+adding that his neck pain had improved and was now ___. He
+endorsed DOE, which he says is chronic, and significantly
+limiting activity. At baseline, he is not able to ambulate 
+beyond
+minimal activity in the house. Further complained of a chronic
+dry cough and calf pain with ambulation. The pt denied CP,
+palpitations, PND/orthopnea, ___ swelling.
+ 
+Past Medical History:
+- HTN
+- HLD
+- Asthma
+- Stroke 
+- GERD
+- Peripheral vascular disease
+- CAD: 3 vessel disease s/p CABG ___
+- AV conduction disease, RBBB s/p dual chamber PPM placement 
+___
+ 
+Social History:
+___
+Family History:
+No family history of cardiovascular disease.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T 97.5, BP 111/80, HR 96, RR 18, O2 97% on RA
+GENERAL: Alert and interactive, NAD
+NECK: JVD elevated 14cm, +HJR
+CARDIAC: RRR, ___ holosystolic murmur, no rubs/gallops
+LUNGS: Scattered expiratory wheezes, trace bibasilar crackles 
+ABDOMEN: Soft, non tender, non distended, BS+
+EXTREMITIES: No peripheral edema, DP intact
+SKIN: Warm and well perfused
+NEUROLOGIC: AOx3, CNII-XII grossly intact, moving extremities,
+gait deferred
+
+DISCHARGE PHYSICAL EXAM:
+========================
+___ 0736 Temp: 97.9 PO BP: 101/70 R Lying HR: 72 RR: 18 O2
+sat: 98% O2 delivery: RA 
+GENERAL: Alert and interactive, NAD
+NECK: JVD ~10cm
+CARDIAC: nl rate, reg rhythm, ___ holosystolic murmur, no
+rubs/gallops
+LUNGS: CTAB
+ABDOMEN: Soft, non tender, non distended, BS+
+EXTREMITIES: No peripheral edema, DP intact
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:45AM BLOOD WBC-14.7* RBC-4.63 Hgb-14.0 Hct-44.0 
+MCV-95 MCH-30.2 MCHC-31.8* RDW-13.0 RDWSD-45.0 Plt ___
+___ 12:45AM BLOOD Neuts-88.4* Lymphs-5.9* Monos-4.8* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-12.95* AbsLymp-0.87* 
+AbsMono-0.71 AbsEos-0.02* AbsBaso-0.04
+___ 12:45AM BLOOD ___ PTT-27.7 ___
+___ 12:45AM BLOOD Glucose-140* UreaN-22* Creat-1.4* Na-135 
+K-5.2 Cl-97 HCO3-24 AnGap-14
+___ 12:45AM BLOOD CK(CPK)-444*
+___ 12:45AM BLOOD CK-MB-52* MB Indx-11.7* proBNP-5247*
+___ 04:06AM BLOOD %HbA1c-5.8 eAG-120
+___ 09:31PM BLOOD Lactate-1.4
+___ 12:45AM BLOOD cTropnT-0.57*
+___ 02:55PM BLOOD CK-MB-34* MB Indx-9.9* cTropnT-1.50*
+
+DISCHARGE LABS
+================
+___ 07:22AM BLOOD WBC-6.8 RBC-3.86* Hgb-11.8* Hct-36.7* 
+MCV-95 MCH-30.6 MCHC-32.2 RDW-13.2 RDWSD-45.1 Plt ___
+___ 07:22AM BLOOD ___ PTT-28.3 ___
+___ 07:22AM BLOOD Glucose-98 UreaN-21* Creat-1.3* Na-140 
+K-4.2 Cl-103 HCO3-24 AnGap-13
+___ 07:22AM BLOOD Calcium-8.7 Phos-2.9 Mg-1.8
+
+PROCEDURES
+==========
+___ Left Heart Catheterization and PCI: Severe multivessel 
+disease, including distal LAD disease after LIMA touchdown, 
+occluded RCA and subtotally occluded SVG to RCA, and critical 
+proximal LCx disease. Successful Impellasupported PCI of the 
+LCx, single stent placed.
+
+___ TTE
+IMPRESSION: Moderate symmetric left ventricular hypertrophy with 
+normal cavity size and mild regional systolic dysfunction c/w 
+CAD in an RCA distribution and dyssynchrony due to pacing. Mild 
+mitral regurgitation. Mild tricuspid regurgitation. Mild 
+pulmonary artery systolic
+hypertension.
+Compared with the prior TTE ___ , the left ventricular 
+systolic function is now mildly depressed.
+
+___ CT Abd/Pelvis
+FINDINGS:  
+  
+LOWER CHEST: There are small bilateral pleural effusions with 
+associated 
+atelectasis.  Areas of subpleural reticular opacities and 
+fibrosis likely due 
+to chronic interstitial lung disease.  Distal lead of cardiac 
+pacer is seen in 
+the right ventricle. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogeneous attenuation 
+throughout.  
+There is no evidence of focal lesions within the limitations of 
+an unenhanced 
+scan.  There is no evidence of intrahepatic or extrahepatic 
+biliary 
+dilatation.  The gallbladder is surgically absent. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions within the limitations of an unenhanced scan.  
+There is no 
+pancreatic ductal dilatation.  There is no peripancreatic 
+stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: Both kidneys are atrophic.  There is no hydronephrosis. 
+ There is no 
+renal mass. 
+  
+GASTROINTESTINAL: Small hiatal hernia is seen. Small bowel loops 
+demonstrate 
+normal caliber and wall thickness throughout.  The colon and 
+rectum are within 
+normal limits. 
+  
+PELVIS: The urinary contain excreted contrast.  Small bladder 
+diverticulum is 
+seen in left posterior bladder (series 2, image 75).  There is 
+no free fluid 
+in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The prostate is enlarged. 
+  
+LYMPH NODES: There are prominent right femoral lymph nodes 
+largest measuring 
+1.4 x 1.5 cm (series 2, image 86) likely reactive.  There is no 
+retroperitoneal or mesenteric lymphadenopathy.  There is no 
+pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Extensive 
+atherosclerotic 
+disease is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture.  
+Midline sternotomy wires are seen.  There is mild compression 
+deformities of 
+the L2 and L5 vertebral bodies.  Extensive degenerative changes 
+are seen in 
+the spine. 
+  
+SOFT TISSUES: Skin defect and packing material are seen in the 
+right groin.  
+Infiltration of subcutaneous fat in the right groin is 
+postprocedural. 
+  
+IMPRESSION: 
+  
+1. No retroperitoneal bleed or hematoma correlating to recent 
+hypotension and 
+decreased hemoglobin levels.  Post-procedure changes along the 
+right groin 
+without evidence of complication. 
+2. Bilateral small pleural effusions with associated 
+atelectasis. 
+3. Chronic interstitial lung disease is partially visualized. 
+4. Small hiatal hernia. 
+
+ 
+Brief Hospital Course:
+___ w/ hx of HTN/DMII, 3 vessel CAD s/p CABG (___), AV 
+conduction disease s/p dual chamber PPM placement (___), who 
+presents as a transfer from ___ with neck pain as 
+an anginal equivalent and found to have NSTEMI. He underwent 
+coronary angiography ___ demonstrating severe multivessel 
+disease, including distal LAD disease after LIMA touchdown, 
+occluded RCA and subtotally occluded SVG to RCA, and critical 
+proximal LCx disease. Underwent successful Impella supported PCI 
+of the LCx. Procedure was complicated by brief cardiogenic shock 
+requiring impella with resolution. Triggered for hypotension on 
+evening of PCI, likely due to anesthesia/vasoplegia, 
+normotensive thereafter. Added back home medications metoprolol 
+and lisinopril and imdur without issue. Rosuvastatin was started 
+at low dose 5mg daily given statin intolerances in past. Day 
+prior to discharge, while walking, telemetry captured him in 
+atrial fibrillation w/ RBBB morphology; this was corroborated by 
+detection of atrial high rate episodes on interrogation by 
+electrophysiology team. He was found to be in AF much more 
+frequently than prior, and started on dose-reduced apixaban.
+
+ACUTE/ACTIVE ISSUES:
+====================
+# NSTEMI s/p stent to LCx ___
+# CAD s/p CABG ___
+Patient presented w/ neck pain and SOB, EKG appeared unchanged 
+in the setting of elevated troponin concerning for anginal 
+equivalent. Trops elevated and downtrending, now s/p LHc with 
+severe multivessel disease, including distal LAD disease after 
+LIMA touchdown, occluded RCA and subtotally occluded SVG to RCA, 
+and critical proximal LCx afterwards thought to be due to 
+anesthetic vasoplegia. He had recovery and was normotensive 
+after. Restarted home meds with good effect. Started 
+rosuvastatin 5mg without complication despite history of 
+myalgias with other statins.
+
+# CHF, new reduced EF 45-50%
+Newly reduced EF noted this admission. No diuresis required as 
+he autodiuresed small amount. Unknown dry weight, weight on 
+discharge was 184 pounds. 
+
+# AF
+On day prior to discharge, he had periods of wide-complex 
+tachycardia while having a bowel movement and later while 
+walking. This was associated with awareness of increased heart 
+rate but no other symptoms. He had EP evaluation and on device 
+interrogation was found to have atrial fibrillation with 
+aberrant conduction. He has been followed by Dr.
+___ will see him day after discharge to follow up 
+increased metoprolol to 75 mg daily. He was also started on 
+apixaban 2.5mg BID (dose reduced for Cr 1.5, age>___, triple 
+therapy with DAPT). Increase from metop tart 25 BID to metop 
+succ 75 daily. 
+
+CHRONIC/STABLE ISSUES:
+======================
+# Hx of AV conduction disease
+# Hx of RBBB - s/p ___ Pacemaker Versa ___ ___ placement 
+in ___.
+
+# HTN - Initially held for catheterization and then resumed home 
+metoprolol, lisinopril, and imdur and increased home metoprolol 
+to 75mg succinate daily on discharge. 
+
+# HLD - On admission not on a statin due to reported 
+intolerance. Started rosuvastatin 5mg daily which he tolerated. 
+
+# DMII - Per report only, not on home insulin or oral 
+antiglyemics. A1C 5.8%.
+
+# Asthma - Provided home albuterol, flovent.
+
+# CKD - Pt admitted w/ Cr 1.4. Review of prior labs 
+demonstrating Cr 1.2-1.5 for the past several years. He remained 
+within his baseline. 
+
+# GERD - Continued on home omeprazole.
+
+TRANSITIONAL ISSUES
+==================
+NEW/CHANGED/STOPPED MEDICATIONS
+- Started apixiban 2.5mg PO BID for atrial fibrillation
+- Increased home metoprolol to XL 75mg daily
+- Started rosuvastatin 5mg PO QPM
+
+[ ] Follow-up rate control, ongoing consideration of apixiban 
+for atrial fibrillation, and rosuvastatin tolerance at 
+cardiology follow-up
+[ ] Repeat electrolytes in 2 weeks after re-starting lisinopril 
+___
+
+# CONTACT: ______), daughter ___
+# DISPO: ___ pending above
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Ipratropium Bromide MDI 2 PUFF IH Q6H:PRN SOB 
+2. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+3. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+4. Aspirin 81 mg PO DAILY 
+5. Clopidogrel 75 mg PO DAILY 
+6. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+7. Lisinopril 10 mg PO QAM 
+8. Lisinopril 20 mg PO QHS 
+9. Metoprolol Tartrate 25 mg PO BID 
+10. Omeprazole 20 mg PO DAILY:PRN GERD 
+
+ 
+Discharge Medications:
+1.  Apixaban 2.5 mg PO BID 
+RX *apixaban [Eliquis] 2.5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Metoprolol Succinate XL 75 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1.5 tablet(s) by mouth once a day 
+Disp #*60 Tablet Refills:*0 
+3.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN Neck/Chest pain 
+RX *nitroglycerin 0.3 mg 1 tablet(s) sublingually Once:PRN Disp 
+#*5 Tablet Refills:*0 
+4.  Rosuvastatin Calcium 5 mg PO QPM 
+RX *rosuvastatin 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+5.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+6.  Aspirin 81 mg PO DAILY  
+7.  Clopidogrel 75 mg PO DAILY  
+8.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+9.  Ipratropium Bromide MDI 2 PUFF IH Q6H:PRN SOB  
+10.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+11.  Lisinopril 10 mg PO QAM  
+12.  Lisinopril 20 mg PO QHS  
+13.  Omeprazole 20 mg PO DAILY:PRN GERD  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: Non-ST elevation myocardial infarction
+
+SECONDARY DIAGNOSIS: Atrial fibrillation, Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You had neck and chest pain that wouldn't go away
+
+What happened while you were in the hospital?
+- You had heart catheterization and the cardiologists found 
+extensive blockages in your vessels, including some in your 
+bypass grafts.
+- They were able to put a stent in your vessel called the "left 
+circumflex artery"
+- Your heart is relying very heavily on this vessel
+- You had low blood pressures after the procedure, likely due to 
+anesthesia, and they got better
+- Your medications were restarted one by one to make sure you 
+did well
+- Your heart went into atrial fibrillation more than it used to, 
+so metoprolol dosing was increased to slow the heart rate, and a 
+new blood thinner apixaban was started to prevent blood clots.
+
+What should you do once you leave the hospital?
+- With the stent, you should take aspirin and plavix EVERY day. 
+Do not miss any doses or the stent could clot off.
+- metoprolol was increased to 75mg daily, extended release 
+version that can be taken once in the morning.
+- Your new medications are:
+---rosuvastatin 5mg daily. Please continue to take this to help 
+prevent future blockages.
+---apixiban 2.5mg twice daily. This is a blood thinning 
+medication to prevent the type of blood clots that can form with 
+atrial fibrillation.
+- If you have any trouble with your medications, let your 
+Cardiologist know.
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17158007-DS-21 | hadm_id=24087159
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Angina
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+coronary artery bypass grafting x 3 (left internal mammary 
+artery grafted to the left anterior descending artery/ saphenous 
+vein grafted to Obtuse Marginal/ Posterior descending artery) on 
+___
+
+ 
+History of Present Illness:
+This is a ___ yo M w/ a history of CAD s/p MI and PCI ___ - 
+___, HTN and athsma who presented w/ three to four months of 
+dyspnea on exertion, now found on cardiac cath to have 3VD and 
+awaiting CABG. 
+The patient reports dyspnea on exertion for the past several 
+months, mostly when he walks for several minutes and it resolves 
+when he is at rest. He denies chest pain, palpitations or 
+syncope. He also reports neck tightness and discomfort in his 
+chest during these episodes. He presented to Dr. ___ on 
+___, who suspected the patient was having recurrence of 
+angina; given his risk factors of HTN and poor lipid control, 
+likely 3VD or LAD disease, so the pt was referred for cardiac 
+cath at ___. His EKG at that time showed sinus rhythm with 
+underlying left atrial abnormality and prolonged PR interval at 
+0.25 seconds. QRS axis is -20º. There are QS complexes in leads 
+III, aVF and a tall R-wave in lead V2 consistent with an old 
+inferior-posterior wall myocardial infarction. Given his stable 
+clinical status, he was not admitted at that time, but started 
+on Imdur 30 to help control his symptoms.  
+
+The pt underwent elective cardiac cathaterization w/ radial 
+access on ___ which was significant for three vessel disease. 
+The patient was subsequently referred for evaluation for CABG.   
+ 
+
+On the floor he was chest pain free and did not report shortness 
+of breath. He had no pain at his radial cath site. No 
+complaints.  
+Cardiac surgery was consulted for coronary artery 
+revascularization.
+ 
+Past Medical History:
+-Hypertension, 
+-Dyslipidemia  
+- s/p PCI at ___ ___ years ago  
+  
+-Bronchitis 
+-s/p bilateral cataract surgery
+-s/p TURP
+ 
+
+ 
+Social History:
+___
+Family History:
+Notable for his brothers who have peripheral vascular disease, 
+and his father who died from a heart attack at ___.
+ 
+Physical Exam:
+Admission Exam:
+VS- 97.9 164/65 87 20 97% on Room O2 
+GENERAL- WA, NAD AO x 3  
+HEENT- NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK- Supple w/ JVP 5-7cm above the RA 
+CARDIAC- PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. ___ systolic murmur. No thrills, lifts. 
+No S3 or S4.  
+LUNGS- No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN- Soft, NTND. No HSM or tenderness. No abdominial bruits. 
+ 
+EXTREMITIES- No c/c/e. No femoral bruits.  
+SKIN- No stasis dermatitis, ulcers, scars, or xanthomas.  
+NEURO: A/Ox3. No focal defecits, CN II-XII intact, 
+strength/sensation intact
+ 
+Pertinent Results:
+___ ECHOCARDIOGRAPHY REPORT
+Left Ventricle - Ejection Fraction:  60% to 70%  >= 55%  
+Findings  
+LEFT ATRIUM: Normal LA size. Good (>20 cm/s) ___ ejection 
+velocity. No thrombus in the ___. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or 
+pacing wire is seen in the RA and extending into the RV. No ASD 
+by 2D or color Doppler. 
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+AORTA: Normal ascending, transverse and descending thoracic 
+aorta with no atherosclerotic plaque. Normal ascending aorta 
+diameter. Normal aortic arch diameter. Normal descending aorta 
+diameter. Simple atheroma in descending aorta. 
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened 
+aortic valve leaflets (3). No AS. Trace AR. 
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+___ VALVE: Normal tricuspid valve leaflets with trivial 
+TR. 
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen. 
+Conclusions  
+PRE-CPB: 1. The left atrium is normal in size. No thrombus is 
+seen in the left atrial appendage. 
+2. No atrial septal defect is seen by 2D or color Doppler. Some 
+increased color flow was seen near the intraatrial septum that 
+probably represents ivc flow. Dr ___ in to evaluate septum.
+3. Left ventricular wall thicknesses and cavity size are normal.
+4. Right ventricular chamber size and free wall motion are 
+normal. 
+5. The ascending, transverse and descending thoracic aorta are 
+normal in diameter and free of atherosclerotic plaque. There are 
+simple atheroma in the descending thoracic aorta. 
+6. There are three aortic valve leaflets. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. Trace aortic regurgitation is seen. 
+7. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. 
+   
+___ 06:05AM BLOOD WBC-16.3* RBC-3.36* Hgb-10.9* Hct-32.0* 
+MCV-95 MCH-32.3* MCHC-33.9 RDW-14.2 Plt ___
+___ 07:00AM BLOOD WBC-17.2* RBC-3.58* Hgb-11.4* Hct-34.4* 
+MCV-96 MCH-31.8 MCHC-33.1 RDW-14.2 Plt ___
+___ 02:27AM BLOOD WBC-12.9* RBC-3.22* Hgb-10.4* Hct-30.3* 
+MCV-94 MCH-32.4* MCHC-34.4 RDW-14.2 Plt ___
+___ 06:18PM BLOOD Hct-30.4*
+___ 02:27AM BLOOD ___ PTT-30.5 ___
+___ 12:33PM BLOOD ___ PTT-38.0* ___
+___ 06:05AM BLOOD UreaN-18 Creat-1.2 Na-129* K-4.1 Cl-89*
+___ 07:00AM BLOOD Glucose-137* UreaN-16 Creat-1.3* Na-130* 
+K-4.2 Cl-92* HCO3-31 AnGap-11
+___ 08:27AM BLOOD Na-135 K-4.2 Cl-103
+___ 02:27AM BLOOD Glucose-121* UreaN-13 Creat-1.3* Na-137 
+K-4.4 Cl-107 HCO3-24 AnGap-10
+___ 08:05AM BLOOD WBC-12.7* RBC-3.53* Hgb-11.4* Hct-33.7* 
+MCV-95 MCH-32.3* MCHC-33.9 RDW-13.8 Plt ___
+___ 08:05AM BLOOD ___ PTT-27.2 ___
+___ 08:05AM BLOOD Glucose-108* UreaN-23* Creat-1.3* Na-131* 
+K-3.7 Cl-92* HCO3-28 AnGap-___ Mr. ___ was taken to the operating room and 
+underwent coronary artery bypass grafting x 3 (left internal 
+mammary artery grafted to the left anterior descending artery/ 
+saphenous vein grafted to Obtuse Marginal/ Posterior descending 
+artery) with Dr. ___. Please see operative report for further 
+details. He tolerated the procedure well and was transferred to 
+the CVICU intubated and sedated. He weaned off pressor support. 
+He awoke neurologically intact and weaned to extubate. 
+Beta-blocker/ASA/ Statin and diuresis were initiated. All lines 
+and drains were discontinued per protocol. POD#1 he transferred 
+to the step down unit for further monitoring. He developed afib 
+and was started on amio and lopressor was incerased as 
+tolerated. He had one episode of  bradycardia during his sleep 
+therefore amio was lowered. He is being discharged on low dose 
+amio taper in combination with lopressor. He was also started on 
+coumadin for his post-op afib. His creat peaked at 1.3 where it 
+still remains. He continues on low dose lasix for contined 
+diuresis. He also remains hyponatremic wth a sodium of 131. He 
+has been free water restricted. He will need a BMP checked in 
+the next ___. He also had a rise in his WBC and was started on 
+cipro for + UA but culture is pending. Physical Therapy was 
+consulted for evaluation of strength and mobility. He continued 
+to progress and on POD#5 he was cleared for discharge to home. 
+All follow up appointments were advised.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+2. Ipratropium Bromide MDI 2 PUFF IH QID 
+3. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+4. Lisinopril 40 mg PO BID 
+5. Metoprolol Tartrate 50 mg PO BID 
+6. Omeprazole 20 mg PO DAILY 
+7. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*1
+2. Ipratropium Bromide MDI 2 PUFF IH QID 
+3. Metoprolol Tartrate 75 mg PO TID 
+RX *metoprolol tartrate [Lopressor] 50 mg 1.5 (One and a half) 
+tablet(s) by mouth three times a day Disp #*120 Tablet 
+Refills:*1
+4. Amiodarone 200 mg PO BID 
+x 1 week ___ 
+RX *amiodarone 200 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*1
+5. Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days 
+RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth twice a 
+day Disp #*10 Tablet Refills:*0
+6. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0
+7. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+8. Potassium Chloride 20 mEq PO Q12H Duration: 7 Days 
+RX *potassium chloride 20 mEq 1 tab by mouth twice a day Disp 
+#*14 Tablet Refills:*0
+9. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0
+10. ___  MD to order daily dose PO DAILY 
+to be ordered daily 
+RX *warfarin [Coumadin] 2 mg as directed tablet(s) by mouth once 
+a day Disp #*90 Tablet Refills:*1
+11. Furosemide 40 mg PO DAILY Duration: 7 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0
+12. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+13. Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+CAD 
+CAD s/p stent ___ years ago at ___
+Hypertension
+Asthmatic bronchitis
+Hard of Hearing
+Past Surgical History:
+Bilateral cataracts
+TURP
+Right ear surgery
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesia
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Leg Right/Left - healing well, no erythema or drainage. 
+Edema 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,177 @@
+===== DISCHARGE NOTE =====
+note_id=16360525-DS-17 | hadm_id=23598272
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+prednisone
+ 
+Attending: ___
+ 
+Chief Complaint:
+Cervical stenosis
+ 
+Major Surgical or Invasive Procedure:
+___ - C3-C6 cervical laminectomies and posterior fusion
+ 
+History of Present Illness:
+___ is a ___ year old female with known cervical 
+stenosis who presented electively on ___ for C3-C6 cervical 
+laminectomies and posterior fusion.
+ 
+Past Medical History:
+- depression
+- hypertension 
+ 
+Social History:
+___
+Family History:
+Significant for neurologic disease, lung disease, intestinal 
+problems, cancer.
+
+ 
+Physical Exam:
+On Discharge:
+-------------
+General: 
+
+Vital Signs: T 98.5F, HR 81, BP 135/84, RR 16, O2Sat 91% on room
+air
+
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+
+        Trapezius   Deltoid   Biceps   Triceps   Grip
+Right   5           4+*       4+       4+        5
+Left    5           4+*       4+       4+        5
+
+        IP   Quadriceps   Hamstring  AT   ___   Gastrocnemius
+Right   5    5            5          5    5     5
+Left    5    5            5          5    5     5
+
+*Pain limited
+
+[x]Sensation intact to light touch
+
+Surgical Incision:
+[x]Clean, dry, intact
+[x]Staples
+ 
+Pertinent Results:
+Please see ___ Record for relevant laboratory and 
+imaging results.
+ 
+Brief Hospital Course:
+___ year old female with cervical stenosis.
+
+The patient presented electively on ___ and was taken to 
+the operating room for C3-C6 cervical laminectomies and 
+posterior fusion. The operation was uncomplicated. Please see 
+___ Record for further perioperative details. The 
+patient was extubated in the operating room and then recovered 
+in the PACU. She was admitted to the floor postoperatively for 
+close neurologic monitoring. A surgical ___ drain was 
+left in place postoperatively and was subsequently removed 
+without complications on ___. Post pull cervical x-rays 
+showed no evidence of retained catheter or hardware 
+complications. The patient was placed in a hard cervical collar 
+given her cigarette smoking. The patient remained neurologically 
+stable postoperatively. On ___, the patient was afebrile 
+with stable vital signs, ambulating independently, tolerating a 
+diet, voiding and stooling without difficulty, and her pain was 
+well controlled with oral pain medications. She was discharged 
+home on ___ in stable condition.
+
+#Disposition
+The patient was discharged home on ___ in stable condition.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. CloNIDine 0.1 mg PO QHS:PRN insomnia 
+2. Gabapentin 800 mg PO TID 
+3. Ibuprofen 800 mg PO Q12H:PRN Pain - Mild 
+4. Lisinopril 20 mg PO DAILY 
+5. Hydrochlorothiazide 12.5 mg PO DAILY
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+Do not exceed 3000mg in 24 hours.  
+2.  Docusate Sodium 100 mg PO BID:PRN Constipation 
+___ discontinue if not constipated.  
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate Duration: 7 Days 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours as 
+needed for pain Disp #*42 Tablet Refills:*0 
+4.  CloNIDine 0.1 mg PO QHS:PRN Insomnia  
+5.  Gabapentin 800 mg PO TID  
+6.  Hydrochlorothiazide 12.5 mg PO DAILY  
+7.  Lisinopril 20 mg PO DAILY  
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cervical stenosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory, independent.
+ 
+Discharge Instructions:
+Surgery:
+- Your surgical incision is closed with staples. You will need 
+staple removal. 
+- Do not apply any lotions or creams to the surgical site. 
+- Please keep your surgical incision dry until removal of your 
+staples.
+- Please avoid swimming for two weeks after staple removal.
+- Call your neurosurgeon if there are any signs of infection 
+like redness, fever, or drainage. 
+
+Activity:
+- You must wear your hard cervical collar at all times. The 
+cervical collar helps with healing and alignment of the fusion. 
+- You may remove your cervical collar briefly for skin care. Be 
+sure not to twist or bend your neck too much while the cervical 
+collar is off. It is important to look at your skin and be sure 
+there are no wounds forming.
+- We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up.
+- You may take leisurely walks and slowly increase your activity 
+at your own pace. ___ try to do too much all at once.
+- No driving while taking any narcotic or sedating medications. 
+- No contact sports until cleared by your neurosurgeon. 
+- Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications:
+- Please do NOT take any blood thinning medications (aspirin, 
+Coumadin, ibuprofen, Plavix, etc.) until cleared by your 
+neurosurgeon.
+- Do not take any anti-inflammatory medications (Advil, aspirin, 
+ibuprofen, Motrin, etc.) until cleared by your neurosurgeon.
+- You may use acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+When To Call Your Neurosurgeon At ___:
+- Severe pain, swelling, redness, or drainage from the surgical 
+incision. 
+- Fever greater than 101.5 degrees Fahrenheit.
+- New weakness or changes in sensation in your arms or legs.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,573 @@
+===== DISCHARGE NOTE =====
+note_id=16692515-DS-12 | hadm_id=23410554
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Aspirin / Metronidazole / Iodine; Iodine 
+Containing / Simvastatin / Ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ h/o HTN, hyperlipidemia, spinal stenosis, OA, dementia, and 
+h/o atypical chest pain (negative pMIBI ___ presented with 
+chest pain one day prior to admission.  Pt stated that CP felt 
+sharp, stabbing, and was nonradiating.  Pt stated that the pain 
+"took my breath away" and that she "jumped out of my chair."
+.
+ROS:
+(+) See above.  Also complaining of long fingernails.
+(-) Nausea, vomiting, diaphoresis, dyspnea.
+.
+ED course:
+# Meds: Reported that CP resolved with 2 SL NTG.
+# EKG: No acute changes.
+ 
+Past Medical History:
+HTN
+Frequent ED/hospital presentation for noncardiogenic atypical CP
+--pMIBI ___ negative
+--Echo ___: LVH, EF > 55%
+Hyperlipidemia  
+Dementia
+Osteoarthritis
+Spinal stenosis  
+Chronic back pain  
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+VS: Tc 97.5, BP 194/80, HR 71, RR 16, O2 sat 99% on RA
+General: NAD, AOx1 (person)
+HEENT: NCAT, PERRL, EOMI, MMM, OP clear, neck supple, no JVD
+Chest: CTAB
+CV: RRR, S1S2, no m/g/r  
+Abd: Soft, NT/ND, BS+
+Ext: No c/c/e
+Neuro: CNII-XII intact
+ 
+Pertinent Results:
+Admission labs:
+.
+___ 05:10PM   cTropnT-<0.01
+___ 05:10PM   D-DIMER-967*
+.
+Imaging:
+.
+# UNILAT LOWER EXT VEINS RIGHT  ___ 7:19 ___: No evidence of 
+DVT.
+.
+# CHEST (PA & LAT)  ___ 7:43 ___: No acute cardiopulmonary 
+process.
+.
+# LUNG SCAN  ___: Low likelihood for pulmonary embolism.
+ 
+Brief Hospital Course:
+___ h/o HTN, dyslipidemia, p/w atypical chest pain, no DVT, 
+negative V/Q scan, no EKG changes; presentation considered 
+likely ___ musculoskeletal chest pain.
+.  
+# Chest pain:  Given clinical history, negative CE, negative 
+EKG, negative DVT, and negative V/Q scan, pt's presentation 
+considered similar to previous history of noncardiogenic 
+atypical chest pain, likely musculoskeletal.  Repeat MIBI was 
+held.  Pt was continued on ASA and discharged with no changes in 
+medication, but counseled to use acetaminophen 1g Q6H if 
+necessary to manage pain.
+.  
+# HTN: Pt continued on home regimen of atenolol, HCTZ, and 
+amlodipine, although unclear whether pt was currently taking 
+this prescribed regimen.  
+.  
+# Overgrown fingernails: Pt and family counseled to cut 
+fingernails, and to maintain basic hygeine to avoid fungal 
+infection.
+.
+# Full code
+ 
+Medications on Admission:
+Amlodipine 5mg daily  
+Atenolol 25mg daily  
+HCTZ 25mg daily  
+ASA 325mg daily  
+Oxybutynin 5mg BID  
+.  
+ALLERGIES: Penicillins / Aspirin / Metronidazole / Iodine; 
+Iodine Containing / Simvastatin / Ibuprofen 
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO twice 
+a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+Musculoskeletal chest wall pain
+.
+Secondary diagnosis
+Dementia
+Hypertension
+Hyperlipidemia
+Osteoarthritis
+Spinal stenosis  
+Chronic back pain
+ 
+Discharge Condition:
+Stable, chest-pain free
+ 
+Discharge Instructions:
+You were admitted to the hospital because you had chest pain, 
+and we were concerned you were having a heart attack.  We 
+evaluated your blood, however, and found no evidence that you 
+had a heart attack.  Based on your laboratories, your EKG, and 
+the history of your symptoms, we believe the pain you felt was 
+related to musculoskeletal chest wall pain.
+.
+We have not changed your medications.
+.
+If you experience any extremely concerning symptoms, please 
+contact your primary care doctor and go immediately to the 
+emergency room.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16692515-DS-14 | hadm_id=24783062
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins / Aspirin / Metronidazole / Iodine; Iodine 
+Containing / Simvastatin / Ibuprofen
+ 
+Attending: ___
+ 
+Chief Complaint:
+Confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___ year-old right-handed woman with a PMH of
+HTN, HLD, DM and a reported prior stroke who was brought to the
+ED by EMS. Per the daughter and EMS, she was sitting when she
+"fell out". She fell forward but did not loose consciousness. 
+The
+daughter is not certain if she fell to the L or R, but EMS
+reported that she fell to the R. Her BS in the field was 154, 
+the
+SBP was in the 140's and her HR was regular and in the 80's.
+There was no history of change in speech, weakness, facial droop
+or other focal deficits. Last known well time 3:30 pm. Time at
+arrival 4:30pm. 
+
+In the ED, IV access was difficult to obtain and an EJ had to be
+placed. CT would not perform a CTA with an EJ or central line,
+requesting a peripheral or Power PICC. As these forms of access
+were not immediately possible she was referred for stat MRI
+rather than CTA. These images are pending.
+
+Of note, she was recently admitted to the medicine service.
+During that time she had an echo which showed an EF of > 70%. 
+ 
+ROS: possible dysuria? Pt reports "it hurts when I pass water, 
+is
+it my kidneys?". Unable to obtain further ROS as pt does not
+answer questions consistently
+
+ 
+Past Medical History:
+PMH: (per OMR)  
+# HTN
+# ? prior stroke
+# Frequent ED/hospital presentations for noncardiogenic atypical 
+
+CP
+--pMIBI ___ negative
+--Echo ___: LVH, EF > 55%
+# Hyperlipidemia  
+# Dementia
+# Osteoarthritis
+# Spinal stenosis  
+# Chronic back pain  
+ 
+Social History:
+___
+Family History:
+Noncontributory.
+ 
+Brief Hospital Course:
+The patient was admitted to neurology service. MRI was negative 
+for stroke. UA showed UTI and the patient improved with cipro.
+ 
+Medications on Admission:
+1. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.
+Disp:*30 Tablet(s)* Refills:*1*
+3. Percocet ___ mg Tablet Sig: One (1) Tablet PO every ___ 
+hours.  
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+5. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO twice 
+a day.
+Disp:*60 Tablet(s)* Refills:*1*
+6. Multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*1*
+7. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+
+ 
+Discharge Medications:
+1. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+UTI
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted to the neurology service. MRI was negative for 
+stroke. You were found to have a urinary tract infection, which 
+was likely what caused the event yesterday.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16692515-DS-13 | hadm_id=29531728
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Aspirin / Metronidazole / Iodine; Iodine 
+Containing / Simvastatin / Ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg swelling.
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Patient is an ___ yo F with history of HTN, hyperlipidemia, 
+dementia, previously admitted for atypical chest pain who 
+presents with bilateral leg swelling.  The patient is a poor 
+historian and is unable to give an accurate history.  However, 
+according to her, she states that her legs have been swollen for 
+sometime.  This makes it difficult to walk.  She is not sure to 
+what extent it is worse.  She says that she sleeps on three 
+pillows at night and cannot breath if she lies flat.  She also 
+complains recently of a sore throat and "hot urine."  She uses a 
+walker at baseline and is limited in her ADLs.  She lives across 
+the street from her daughter, who visits her regularly 
+throughout the day.  There is other involved family as well, 
+including a grandson who helps with expenses.
+.
+I spoke with her grandson on the phone who says that the lower 
+extremity swelling has been a chronic problem.  He told me that 
+there was no acute worsening, and that the call to EMS that 
+prompted this admission was made by another grandson who may 
+have been unaware of the chronicity of the swelling.  When she 
+came to the ED yesterday patient was not complaining of chest 
+pain, dizziness/lightheadeness, or leg pain.
+.
+In the ED, she had vitals T 98.8, HR 81, BP 171/79, 97%RA. EKG, 
+CXR, LENIs were done prior to arriving on floor.
+.
+This morning, she denies any f/c, cough, CP, SOB, positional 
+SOB, abd pain, change in bowel movements.  She eats grits in the 
+AM and does not seem to have any restrictions in diet.  Of note, 
+EMS commented on ill-kept home and disheveled appearance of 
+patient.
+ 
+Past Medical History:
+# HTN
+# Frequent ED/hospital presentations for noncardiogenic atypical 
+CP
+--pMIBI ___ negative
+--Echo ___: LVH, EF > 55%
+# Hyperlipidemia  
+# Dementia
+# Osteoarthritis
+# Spinal stenosis  
+# Chronic back pain  
+ 
+Social History:
+___
+Family History:
+Noncontributory.
+ 
+Physical Exam:
+VS: T 96.5, 130/70, 65, 20, 97% RA
+General: awake, alert, oriented to "hospital" not oriented to 
+city, date
+HEENT: EOMI, anicteric sclera, MMM 
+Neck: supple, no lAD, JVP to 4-5 cm
+Chest: CTAB no wheezes rales or crackles
+CV: RRR nl S1 S2 no m/r/g
+Abd: soft NT/ND + BS no guarding
+Ext: warm, well perfused, bilat ___ edema to below knee.  Pits to 
+___ cm, with assoc ankle venous discoloration.  Chronic venous 
+stasis changes, including skin thickening, induration, and 
+hyperpigmentation from the anterior ankles extending to dorsum 
+of feet bilaterally.  DP pulses were 1+ bilaterally.  TB pulses 
+were not palpable d/t edema.
+Neuro: as per above, CNII-XII intact
+ 
+Pertinent Results:
+___ 03:56PM   CK(CPK)-282*
+___ 03:56PM   CK-MB-7 cTropnT-<0.01
+___ 01:00AM   CK(CPK)-96
+___ 01:00AM   cTropnT-<0.01
+___ 01:00AM   CK-MB-NotDone proBNP-453
+.
+___ 01:00AM   GLUCOSE-95 UREA N-9 CREAT-0.9 SODIUM-141 
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-28 ANION GAP-13
+___ 01:00AM   WBC-4.7 RBC-4.42 HGB-13.3 HCT-39.9 MCV-90 
+MCH-30.0 MCHC-33.3 RDW-13.5
+.
+___ 11:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+URINE CULTURE:  negative to date
+.
+EKG ___: NSR at 63bpm, LAD, poor R wave progression, 
+non-specific STT changes, wide QRS in LBBB pattern, likely LVH, 
+no change compared to tracing from ___.
+.
+CXR ___: IMPRESSION: No acute cardiopulmonary process.
+.
+___ DOPPLER ___:  IMPRESSION: No deep vein thrombosis in the 
+right lower extremity.
+.
+TTE ___:  The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. There is mild symmetric 
+left ventricular hypertrophy. The left ventricular cavity size 
+is normal. Overall left ventricular systolic function is normal 
+(LVEF 70%). Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) are mildly thickened 
+but aortic stenosis is not present. No aortic regurgitation is 
+seen. The mitral valve leaflets are structurally normal. Mild 
+(1+) mitral regurgitation is seen. The left ventricular inflow 
+pattern suggests impaired relaxation. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion. 
+ 
+Brief Hospital Course:
+A/P: ___ with HTN, hyperlipidemia and atypical CP presents with 
+bilateral lower extremity edema
+.
+# LOWER EXTREMITY SWELLING:
+In the ED, patient had lower extremity doppler U/S that showed 
+no DVT.  She was ruled out for MI with cardiac enzymes x2.  
+There were no EKG changes and chest x-ray was normal.  She was 
+given 20mg IV lasix upon arrival to the floor and HCTZ was held. 
+ BNP was normal 453 and only slightly elevated from previous 
+measurement 420 in ___.  D/t concern that the 
+swelling may represent systolic dysfunction we ordered an echo, 
+which showed normal EF of 70% with 1+ MR and possible impairment 
+in ventricular relaxation.  Diastolic dysfunction may be 
+contributing to her lower extremity swelling and symptoms of 
+orthopnea, but it seems more likely that the problem is 
+primarily chronic venous stasis, exacerbated d/t increased 
+vasodilation in the warm weather.  Furthermore it is not clear 
+that there had been an acute worsening of the swelling to prompt 
+this ED visit.  Patient was encouraged to elevate legs whenever 
+possible and wear compression stockings.
+.
+# HYPERTENSION:
+We decided to stop her amlodipine as it may be contributing to 
+the swelling.  In its place we started low dose lisinopril that 
+will likely need uptitration at her outpatient follow-up.  HCTZ 
+and atenolol were continued at time of discharge.
+.
+# LBBB:
+EKG from ___ demonstrates similar pattern.  Her EKGs show 
+variations in pattern, suggestive of conduction dz.  No symptoms 
+to suggest ischemia.  Cardiac enzymes negative as above.
+.
+# DYSURIA:
+Patient was complaining of symptoms of dysuria per nightfloat.  
+A UA was ordered which was completely normal (see above).  As 
+she did not have any complaints during the admission and was 
+urinating without pain, no treatment was given.  This could be 
+readdressed as outpatient with caveat that patient is a 
+questionable historian.
+.
+# SOCIAL SITUATION:
+Social work was consulted due to the EMS report that her house 
+looked "disheveled" upon their arrival.  Social work contacted 
+___ (___) and spoke with pt's case 
+manager, who reported that she was just out to see pt in her 
+home on ___.  Pt lives alone in an apt in ___ 
+and her dtr, ___, lives across the street.  Mrs. ___ 
+reports pt's home was in good order and that family has been 
+very involved/present with pt.  Please refer to ___ 
+note for further details.
+.
+# PHYSICAL THERAPY:
+Patient was seen by physical therapy.  She was cleared to go 
+home with the warning that family should assist with walking, 
+rising from sitting, and moving around the home.  Grandson was 
+made aware and confirmed that daughter will be staying with 
+patient over the weekend.  Patient will have home ___ scheduled 
+for next week.
+.
+# CODE STATUS:
+Discussed with patient but unable to give clear response; also 
+discussed with grandson over phone.  No clear decision at this 
+time but should be re-addressed at oupatient follow-up.
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+2. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.
+Disp:*30 Tablet(s)* Refills:*1*
+3. Percocet ___ mg Tablet Sig: One (1) Tablet PO every ___ 
+hours.  
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+5. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO twice 
+a day.
+Disp:*60 Tablet(s)* Refills:*1*
+6. Multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*1*
+7. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+Lower extremity swelling
+.
+SECONDARY
+Hyperlipidemia
+Hypertension
+Chronic back pain
+Osteoarthritis
+Spinal stenosis
+
+ 
+Discharge Condition:
+Vital signs stable.  Mentating at baseline.
+
+ 
+Discharge Instructions:
+You were admitted for leg swelling.  We were concerned that this 
+may be related to your heart.  Our studies indicate that your 
+heart is functioning normally.  We believe that the swelling in 
+your legs is due to chronic venous insufficiency.  The best 
+treatment for this is leg elevation and compression stalkings.
+.
+We have changed two of your medications.  We have stopped your 
+amlodipine (Norvasc) because we believe it may have been 
+contributing to your leg swelling.  We have started you on 
+another medicine to treat your blood pressure.  This medicine is 
+called Lisinopril.  You will take 5mg of Lisinopril once daily 
+from now on.
+.
+You were seen by physical therapy during this hospitalization.  
+They recommended that you will need help with walking and rising 
+from sitting when you are at home.  We will arrange for you to 
+be seen by physical therapists in your home starting next week.
+.
+You will also have visiting nurses come to your house next week 
+to assist you with your new medications and assess your leg 
+swelling.
+.
+You will have follow-up with ___ on ___ in the 
+___ Center.  Please call ___ if you have 
+any questions regarding this follow-up.
+.
+You should return to the emergency room or call your doctor if 
+you have any new chest pain, light-headedness, or fever.
+ 
+Followup Instructions:
+___

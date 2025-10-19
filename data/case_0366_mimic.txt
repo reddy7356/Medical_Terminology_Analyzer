@@ -1,0 +1,300 @@
+===== DISCHARGE NOTE =====
+note_id=18165773-DS-6 | hadm_id=24277603
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+jaw pain, fatigue
+ 
+Major Surgical or Invasive Procedure:
+Left Heart Catheterization
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo male with history of CAD s/p MI ___ 
+and DM presents with 1 month of jaw pain (anginal equivalent), 
+fatigue especially during a recent golf outing. He has a h/o 
+non-compliance with his BP/DM medications- only taking Labetolol 
+and glyburide (stopped all others). In clinic noted to have new 
+LBBB.  Did endorse episode of jaw pain about 10 days ago while 
+golfing, had to stop after 7 holes.  Pain resolved with rest.  
+Patient relayed fatigue, jaw pain, and general malaise to 
+children, who urged him to seek care.  Had visit at ___ today, 
+noted to have new LBBB compared to prior ECG in ___, and was 
+sent to ED for further eval.
+
+In the ER, vitals were 97.7 70 169/89 18 100 . EKG showed new 
+LBBB. CXR showed clear lungs; mild blunting of L. CP angle 
+(possible small left pleural effusion). Troponin 0.23, CK 70 He 
+was given aspirin en route from OSH and heparin gtt in ED.  He 
+did not receive plavix.
+.
+On evaluation on the floor, pt endorsed fatigue, but denied jaw 
+pain, SOB, fevers/chills, and was otherwise asymptomatic.  He 
+has a h/o MI in ___, symptomatic with chest pain at that time.
+.
+.  
+REVIEW OF SYSTEMS:  
+S/he denies any prior history of stroke, TIA, deep venous 
+thrombosis, pulmonary embolism, bleeding at the time of surgery, 
+myalgias, joint pains, cough, hemoptysis, black stools or red 
+stools. S/he denies recent fevers, chills or rigors. S/he denies 
+exertional buttock or calf pain. All of the other review of 
+systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension 
+ 
+2. CARDIAC HISTORY:  
+-CABG:  -  none
+-PERCUTANEOUS CORONARY INTERVENTIONS:  PCI to non-dominant RCA 
+___ after STEMI in ___
+-PACING/ICD:  -  none
+3. OTHER PAST MEDICAL HISTORY:
+CAD s/p MI ___, see below
+DM
+HTN
+Depression
+HLD
+h/o TIA 
+S1 radiculitis, ___ L5-S1 small disc herniation 
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+.  
+
+ 
+Physical Exam:
+VS: T= 98.1  BP= 174/99  HR= 74  RR= 20  O2 sat=  98% RA  
+GENERAL: pleasant causasian male in NAD. Oriented x3. Mood, 
+affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with no JVD.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+ 
+Pertinent Results:
+___ 02:40PM URINE  SPERM-RARE
+___ 02:40PM URINE  RBC-0 WBC-2 BACTERIA-FEW YEAST-NONE 
+EPI-0 TRANS EPI-<1
+___ 02:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 02:40PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 02:40PM URINE  UHOLD-HOLD
+___ 02:40PM URINE  UHOLD-HOLD
+___ 02:40PM URINE  HOURS-RANDOM
+___ 02:40PM URINE  HOURS-RANDOM
+___ 04:00PM   ___ PTT-25.7 ___
+___ 04:00PM   PLT COUNT-171
+___ 04:00PM   NEUTS-55.1 ___ MONOS-6.8 EOS-2.0 
+BASOS-0.8
+___ 04:00PM   WBC-5.9 RBC-4.37* HGB-13.6* HCT-38.1* MCV-87 
+MCH-31.1 MCHC-35.7* RDW-13.7
+___ 04:00PM   CK-MB-NotDone
+___ 04:00PM   cTropnT-0.23*
+___ 04:00PM   CK(CPK)-70
+___ 04:00PM   estGFR-Using this
+___ 04:00PM   GLUCOSE-172* UREA N-19 CREAT-1.0 SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-103 TOTAL CO2-26 ANION GAP-13
+___ 11:52PM   CK-MB-NotDone cTropnT-0.26*
+___ 11:52PM   CK(CPK)-67
+
+WBC  RBC   Hgb   Hct   MCV MCH  MCHC RDW  Plt Ct 
+5.0  4.37* 13.4* 38.9* 89  30.7 34.5 13.9  173
+
+Glucose UreaN Creat Na   K  Cl  HCO3 AnGap 
+  173     18   1.0  143 4.1 108  30    9
+
+Hb A1c 9
+
+Cholest Triglyc  HDL  CHOL/HD  LDLcalc 
+  198     148     36    5.5      132
+
+ECG:
+Sinus rhythm. Left bundle-branch block. Compared to the previous 
+tracing  
+of ___ left bundle-branch block is new. 
+  
+
+Left Heart Cath (___):
+COMMENTS:      
+1. Selective coronary angiography of this left dominant system 
+revealed 
+three vessel CAD. The LMCA was normal. The LAD was diffusely 
+diseased up 
+to 50% stenosis, with a 70% diagonal stenosis. The LCX had 
+moderate 
+diffuse disease. The RCA was small, non-dominant with diffuse 
+in-stent 
+restenosis. 
+2. Limited resting hemodynamics demonstrated systemic arterial 
+hypertension, with BP of 185/93mmHg. 
+  
+FINAL DIAGNOSIS:     
+1. Three vessel coronary artery disease. 
+
+TTE:
+The left atrium and right atrium are normal in cavity size. 
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size. There is moderate global left ventricular 
+hypokinesis (LVEF = 35-40 %). Right ventricular chamber size is 
+normal. with mild global free wall hypokinesis. The aortic root 
+is mildly dilated at the sinus level. The aortic arch is mildly 
+dilated. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, 
+moderate global biventricular hypokinesis is now present c/w 
+diffuse process (toxin, metabolic, etc., Multivessel CAD is also 
+possible, but is less likely due to the diffuse/global 
+dysfunction)
+
+PA AND LATERAL CHEST RADIOGRAPH: 
+  
+There are low lung volumes but the lung parenchyma appears 
+clear. The 
+cardiomediastinal silhouette and hilar contours are normal 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Brief Hospital Course:
+___ yo male with h/o CAD s/p PCI to RCA ___, presents with jaw 
+pain, fatigue, found to have new LBBB and troponin of 0.23.
+.  
+# CORONARIES:  High suspicion for ACS, troponin (+).  Given 
+history, patient may have had recent event vs. active ischemia.  
+LBBB new from ___, but unclear if new today.  Given history, 
+managed for ACS upon admission.  Patient received ASA, plavix 
+loaded, statin, heparin gtt.  He was also started on metoprolol 
+tartrate and lisinopril for elevated BP.  Left heart cath was 
+performed the following day and showed 3 vessel disease as noted 
+above.  No intervention was perfomed.  The patient did not have 
+recurrence of his symptoms.  He was discharged with ASA, Plavix, 
+statin, ACEi, beta blockade and Metformin.  He will have primary 
+care follow up in two days, and will see Dr. ___ on 
+___.
+.  
+# PUMP: Preserved EF in ___, no evidence of systolic/diastolic 
+dysfunction on exam, although history was consistent with some 
+systolic dysfunction.  TTE obtained after cath did show 
+decreased LVEF of 35-40% with global hypokinesis.  Discharge 
+regimen is noted above.
+.  
+# RHYTHM:  LBBB on ECG.  There were no events on telemetry.  
+Toprol XL was continued at discharge.
+.  
+# h/o Type II DM- Patient was initially covered with SS humalog. 
+ He was discharged with Metformin, glyburide was discontinued.  
+He was encouraged to use his glucometer to monitor his glycemic 
+control.  He has close primary care follow up.
+.  
+CODE: full  
+.  
+COMM:  ___ ___
+
+ 
+Medications on Admission:
+labetolol 1000 mg QAM, 500 mg QPM
+glyburide 5 mg daily
+not taking any other medications as prescribed
+ 
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+6. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: Three (3) 
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Coronary Artery Disease -> 3VD
+Systolic Dysfunction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for chest discomfort. You 
+underwent a procedure to look at the vessels of your heart which 
+showed diffuse disease of the vessels.  You were started on many 
+new medications and it is very important that you comply with 
+these.  You did not have any recurrence of your symptoms that 
+prompted your admission.  You were discharged on ___ in good 
+condition.
+
+Please see below for your follow up appointments.
+
+The following changes have been made to your medications:
+Please stop taking labetalol
+Please stop taking glyburide
+Please start taking Metformin 500 mg twice a day
+Please start taking simvastatin 80 mg daily
+Please start taking Toprol XL 150 mg daily
+Please start taking lisinopril 20 mg daily
+Please start taking Aspirin 325 mg daily
+Please start taking Plavix 75 mg daily
+
+ 
+Followup Instructions:
+___

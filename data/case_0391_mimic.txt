@@ -1,0 +1,446 @@
+===== DISCHARGE NOTE =====
+note_id=17288170-DS-16 | hadm_id=23689899
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bruising 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ woman with a history of paroxysmal atrial
+fibrillation and ITP status post splenectomy presents with
+thrombocytopenia. 
+
+Patient was feeling fine until she bumped her upper thighs with 
+a
+chair and then noticed instant bruising.  She also noticed that
+her left eye became extremely bloodshot and then turned
+completely red.  She was worried that this was a flare of her 
+ITP
+and called her primary care doctor who told her to come in for
+urgent labs.  Her blood was drawn today at outpatient clinic was
+remarkable for platelet count less than 35 and she was advised 
+to
+come to the emergency room. 
+
+Of note she had an admission similar to this a few years ago. 
+During that time she was treated with prednisone, IVIG, and
+Rituxan.  After Rituxan she said that her ITP improved and she
+has been having her platelets checked once a month and they are
+usually in the ___. 
+
+She has ongoing paroxysmal atrial fibrillation for which she is
+closely followed by cardiology.  One month ago she was started 
+on
+apixaban.  She stopped taking the apixaban 4 days ago after she
+noticed the increasing bruising.
+
+On arrival to the emergency room her vitals were T-max 97.9,
+heart rate 73, blood pressure 165/88, respiratory rate 16 
+satting
+100% on room air.  Her labs were notable for a platelet count of
+19 and INR of 1.0 hemoglobin of 13.5.  Her atrias oncologist was
+called and recommended starting 60 mg of prednisone and plan for
+IVIG tomorrow. 
+
+On arrival to the floor she is feeling very well she hopes that
+her platelets will improve quickly and that she will not have to
+stay in the hospital too long.  She denies any other trauma,
+fevers chills, sick contacts, chest pain shortness ___
+ 
+Social History:
+___
+Family History:
+No FHx of hematologic disease  
+Brother - CAD/PVD  
+Father - CAD/PVD  
+Mother - ___ Hyperlipidemia; CVA  
+ 
+Physical Exam:
+ADMISSION EXAM:
+
+VS: T 97.6, BP 155/89, RR 18, O2 95% room air General 
+Appearance:
+pleasant, comfortable, no acute distress
+Eyes: PERLL, EOMI, + conjuctival injection left eye , anicteric
+ENT: no sinus tenderness, MMM, oropharynx without exudate or
+lesions, no supraclavicular or cervical lymphadenopathy, no JVD,
+no carotid bruits, no thyromegaly or palpable thyroid nodules
+Respiratory: CTA b/l with good air movement throughout
+Cardiovascular: irregular, S1 and S2 wnl, no murmurs, rubs or
+gallops
+Gastrointestinal: nd, +b/s, soft, nt, no masses or HSM
+Extremities: Large bruise on upper thighs
+Skin: Large bruising noticed on bilateral upper thighs left
+greater than right 
+neurological: Alert, oriented to self, time, date, reason for
+hospitalization. 
+Psychiatric: pleasant, appropriate affect
+GU: no catheter in place
+
+Patient examined on day of discharge; bruises still present, no 
+palatal petechiae, continues to have a subconjunctival 
+hemorrhage in her left eye.
+ 
+Pertinent Results:
+LABORATORY RESULTS:
+
+___ 06:35PM BLOOD WBC-5.8 RBC-4.26 Hgb-13.5 Hct-40.8 MCV-96 
+MCH-31.7 MCHC-33.1 RDW-13.2 RDWSD-46.4* Plt Ct-19*
+___ 06:14AM BLOOD WBC-2.6* RBC-4.29 Hgb-13.3 Hct-39.4 
+MCV-92 MCH-31.0 MCHC-33.8 RDW-13.1 RDWSD-44.0 Plt Ct-23*
+___ 07:23AM BLOOD WBC-9.5 RBC-4.02 Hgb-12.7 Hct-37.7 MCV-94 
+MCH-31.6 MCHC-33.7 RDW-13.2 RDWSD-45.2 Plt Ct-60*
+___ 07:23AM BLOOD Glucose-84 UreaN-13 Creat-0.8 Na-135 
+K-4.7 Cl-99 HCO3-28 AnGap-8*
+___ 07:23AM BLOOD Calcium-9.1
+___ 06:14AM BLOOD Calcium-9.0 Phos-3.7 Mg-2.___ woman with a history of paroxysmal atrial 
+fibrillation and ITP status post splenectomy presents with 
+thrombocytopenia concerning for flare of ITP.
+
+#Thrombocytopenia
+#ITP
+Presenting with easy bruising found to have a platelet count of 
+19. consistent with known history of ITP. Baseline she reports 
+~60-70.  She received IVIG x 2 doses, and prednisone 60 mg, and 
+her platelets rebounded to 60. She will continue on prednisone 
+60 mg daily, and follow up with her oncologist for an outpatient 
+taper. With unknown duration at this point, holding of TMP-SMX 
+prophylaxis for PCP.
+
+#Paroxysmal atrial fibrillation
+Patient recently started on apixaban, it was initially held in 
+the setting of thrombocytopenia but restarted after platelets 
+reounded.  She was just seen by her cardiologist who at that 
+time stopped atenolol and continued amiodarone and
+Diltiazem.
+
+#Subclinical hypothyroidism
+Patient is being followed closely for elevated TSH, she had her
+TSH checked as an outpatient today and it was elevated at 7 free
+T4 was normal.  She does states she feels fatigued and
+symptomatic and there has been discussion of whether she should
+be started on levothyroxine.  Will defered to her outpatient
+providers 
+
+> 30 minutes spent on discharge activities.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Amiodarone 200 mg PO DAILY 
+3. Diltiazem Extended-Release 120 mg PO DAILY 
+4. Alendronate Sodium 70 mg PO Frequency is Unknown 
+5. Sertraline 50 mg PO DAILY 
+6. Pravastatin 40 mg PO QPM 
+7. Ranitidine 150 mg PO DAILY 
+8. Cyanocobalamin 500 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  PredniSONE 60 mg PO DAILY  
+2.  Alendronate Sodium 70 mg PO QMON  
+3.  Amiodarone 200 mg PO DAILY  
+4.  Apixaban 5 mg PO BID  
+5.  Cyanocobalamin 500 mcg PO DAILY  
+6.  Diltiazem Extended-Release 120 mg PO DAILY  
+7.  Pravastatin 40 mg PO QPM  
+8.  Ranitidine 150 mg PO DAILY  
+9.  Sertraline 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ITP
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms ___, 
+
+You were admitted with a flare of your ITP and decreased 
+platelets, we gave you your prednisone and IVIG to help with 
+this. You platelets improved to 60 on day of discharge. You will 
+have your labs drawn on ___, and follow up with your Atrius 
+hematologist.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17288170-DS-15 | hadm_id=26956527
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Thrombocytopenia 
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of ITP and atrial fibrillation who was sent in 
+from clinic for thrombocytopenia. Pt had routine labs done which 
+showed a platelet count of 1. She noted easy bruising during 
+mammogram last week, but has not had any bleeding of any sort 
+(gums, urine, stool, etc.). No fevers or chills. She was 
+referred to the ED by outpatient providers for further 
+evaluation. Of note, pt has a longstanding history of ITP which 
+is typically responsive, at least transiently, to steroids. She 
+had a splenectomy in ___ which was not successful. She had 
+Rituximab once in ___ which was not successful. She was treated 
+in ___ with a course of steroids for worsening 
+thrombocytopenia, with improvement to 130 (___). At that 
+time, there was consideration of starting rituximab or an 
+alternate therapy if steroids were not successful, but platelet 
+counts improved so this was not needed. She used to take ASA 
+325mg daily for anticoagulation for A-Fib (true anticoag 
+deferred given ITP), but has not had this for several months 
+given ongoing ITP issues.  
+
+In the ED, initial VS were: 98.7 67 144/79 16 98% RA  
+Labs were notable for: Platelets 8. Labs were otherwise normal 
+aside from PTT 52.4.  
+Imaging included: N/A  
+Treatments received: Dexamethasone 40 mg IV  
+ 
+On arrival to the floor, patient reports feeling well, with no 
+bleeding, but some bruising. She asks if I will be initiating 
+IVIG treatment.  ROS otherwise negative in remaining systems. 
+ 
+
+ 
+Past Medical History:
+Immune Thrombocytopenic Purpura  
+Splenectomy
+Atrial Fibrillation
+Hypercholesterolemia
+Osteoporosis  
+Vitamin B12 deficiency  
+Ovarian Cancer 
+Colonic adenoma  
+Hysterectomy
+Oophorectomy 
+appendectomy  
+Tonsillectomy 
+Adenoidectomy  
+Hemorrhoidectomy  
+ 
+Social History:
+___
+Family History:
+No FHx of hematologic disease  
+Brother - CAD/PVD  
+Father - CAD/PVD  
+Mother - ___ Hyperlipidemia; CVA  
+ 
+Physical Exam:
+ON ADMISSION:
+PHYSICAL EXAM:  
+Vital Signs: 98.1, 145 / 85, HR 61, RR 20, 97% RA  
+General: Alert, oriented, no acute distress, pleasant  
+HEENT: Sclera anicteric, MMM, oropharynx with one ecchymosis on 
+right hard palate  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no resp distress  
+Abdomen: Soft, non-tender, non-distended, no organomegaly  
+GU: Deferred, no foley  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Neuro: Grossly intact, normal gait walking around the room  
+Skin: Scattered ecchymoses of ___ ___ and fingers  
+
+ON DISCHARGE: 
+Physical Exam:  
+Vitals- Tm: 98.7 Tc: 97.8 BP: 107-145/55-85 HR: 57-69 RR: ___ 
+O2%: ___
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Ecchymoses noted on the inner and outer proximal lower 
+extremity bilaterally, breasts, and distal upper extremity 
+including the hands. Petechiae noted on in the oropharynx, left 
+upper back, and distal right lower extremity. 
+Neuro- CNs2-12 intact, ___ strength bilaterally.
+ 
+Pertinent Results:
+ON ADMISSION: 
+___ 03:57PM BLOOD WBC-6.1 RBC-4.49 Hgb-14.2 Hct-43.3 MCV-96 
+MCH-31.6 MCHC-32.8 RDW-13.2 RDWSD-47.5* Plt Ct-8*#
+___ 03:57PM BLOOD Neuts-63.3 ___ Monos-9.3 Eos-2.9 
+Baso-1.0 Im ___ AbsNeut-3.86# AbsLymp-1.42 AbsMono-0.57 
+AbsEos-0.18 AbsBaso-0.06
+___ 03:57PM BLOOD ___ PTT-52.4* ___
+___ 03:57PM BLOOD Glucose-167* UreaN-12 Creat-0.9 Na-139 
+K-4.0 Cl-103 HCO3-29 AnGap-11
+___ 08:00AM BLOOD Calcium-9.6 Phos-2.8 Mg-2.0
+
+ON DISCHARGE: 
+___ 07:12AM BLOOD WBC-9.0 RBC-3.98 Hgb-12.8 Hct-37.9 MCV-95 
+MCH-32.2* MCHC-33.8 RDW-13.2 RDWSD-46.3 Plt Ct-26*#
+___ 07:12AM BLOOD Plt Ct-26*#
+___ 07:12AM BLOOD Calcium-8.6 Phos-2.6* Mg-2.3
+
+PERTINENT: 
+___ 03:57PM BLOOD Plt Smr-RARE Plt Ct-8*#
+___ 08:00AM BLOOD Plt Ct-7*
+___ 07:25AM BLOOD Plt Ct-<5*
+___ 07:25AM BLOOD Plt Ct-13*#
+___ 07:12AM BLOOD Plt Ct-26*#
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o woman with a past medical history notable 
+for immune thrombocytopenic purpura and atrial fibrillation who 
+presents to ___ for evaluation of thrombocytopenia. 
+
+#ITP with flare, presenting with recurrent thrombocytopenia: Ms. 
+___ has a ___ year history of immune thrombocytopenic purpura, 
+which is typically responsive to corticosteroids. On admission, 
+she had a platelet count on 1 and was started on a four day 
+course of dexamethesone 40 mg (___). Notably, she had 
+ecchymoses on her breast, inner thighs, and left forearm, as 
+well as petechiae in her oropharynx and back. Her platelet count 
+increased to 8 on day 1, to 7 on day 2, to 5 on day 3, and to 13 
+on day 4. Due to the slow response, hematology was consulted and 
+recommended IVIG. She was treated with two dose of IVIG ___, 
+___, and on day 5, her platelet count had increased to 26. We 
+expect her platelet count will continue to increase after 
+discharge. She will follow up with her primary hematologist a 
+few days after discharge. She did not have any new bruising this 
+hospitalization.
+
+#Atrial Fibrillation: She has a long history of atrial 
+fibrillation with a CHADS2Vasc score of 2. She has previously 
+been on aspirin for antiplatelet therapy, but was discontinued 
+on it a few weeks prior to admission. We did not continue it on 
+this hospitalization due to her thrombocytopenia nor did we 
+restart it on admission. She is rate controlled with atenolol 25 
+mg PO daily and rhythm controlled with amiodarone 100 mg PO 
+daily.
+
+#Elevated PTT: Her PTT was found to be elevated to 52. We are 
+not sure of the etiology, but her PTT has been elevated in prior 
+labs from earlier this year. She did not have any new bleeding 
+on this hospitalization.
+
+Chronic Issues:
+#Hyperlipidemia: We continued home pravastatin 40 mg PO
+#Osteoporosis: We held her home alendronate, but it was 
+continued on discharge.
+
+Transitional Issues: 
+- F/up CBC on ___ in an ___ lab. Dr. ___ will follow 
+the results
+- Elevated PTT on our labs, which seems unchanged from prior 
+results. Recommend workup for causes of elevated PTT, if it has 
+not already been investigated.
+- Please do not take aspirin until your follow up with your 
+outpatient hematologist Dr. ___
+
+#Code: FULL (Confirmed with patient ___ 
+#Communication: ___, ___   
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alendronate Sodium 70 mg PO QTHUR 
+2. Amiodarone 100 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. Pravastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Alendronate Sodium 70 mg PO QTHUR  
+2.  Amiodarone 100 mg PO DAILY  
+3.  Atenolol 25 mg PO DAILY  
+4.  Pravastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Idiopathic thrombocytopenic purpura
+
+Secondary
+H/O Atrial Fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to ___ due to thrombocytopenia with a 
+platelet count of 1, which represents a flare of idiopathic 
+thrombocytopenic purpura. 
+
+We treated ___ with glucocorticoids and intravenous immune 
+globulin (IVIG) and your platelet count improved to 26. We 
+expect that it will continue to improve. 
+
+We were in close communication with your outpatient hematology 
+team and ___ should continue to follow with them. ___ were seen 
+by Dr. ___ as an inpatient. ___ should have your blood drawn 
+on ___ at your local ___ lab, and ___ will see Dr. 
+___ as an outpatient next week for further follow-up. Please 
+do not take Aspirin until ___ see Dr. ___ in follow-up. 
+
+It was a pleasure to take care of ___. We wish ___ all the best.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

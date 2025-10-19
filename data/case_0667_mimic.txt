@@ -1,0 +1,234 @@
+===== DISCHARGE NOTE =====
+note_id=15285136-DS-13 | hadm_id=26662428
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ - Coronary artery bypass grafting x4 with the left
+internal mammary artery to left anterior descending artery, and 
+reverse saphenous vein graft to the posterior descending artery, 
+and sequential reverse saphenous vein graft to the first and 
+second obtuse marginal artery.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with no significant past 
+medical history. Over the last year, he has noted chest 
+discomfort mainly associated with eating. He will eat something 
+and have significant belching. He initially attributed his 
+symptoms to indigestion. Over the last several days his symptoms 
+became worse and were associated with a feeling like he needs to 
+take a deep breath. The discomfort was substernal and resolved 
+on its own within 30 minutes. He spends half the year in ___ 
+and half the year here in the ___ visiting his children. He 
+just drove from ___ a few days ago (18hr journey over two 
+days in the car) to visit family in ___. His 
+daughter-in-law is an internist and he asked her about his 
+symptoms yesterday and she said he should take a baby aspirin 
+and if the pain came back he should go get checked out. His 
+symptoms recurred and were associated with diaphoresis and 
+nausea. He presented to the emergency department for further 
+evaluation. His EKG revealed Q
+waves in II/III/avF and his troponin was 1.7. He was admitted 
+for further evaluation. A cardiac catheterization demonstrated 
+multivessel coronary artery disease. He was referred to Dr. ___ 
+___ surgical revascularization. 
+
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+Father - died of myocardial infarction at age ___
+ 
+Physical Exam:
+Admission Exam:
+
+Vitals:  97.6 66 148/87 18 96%RA
+General:  overweight, well appearing man in NAD
+HEENT:  EOMI, no scleral icterus, MMM
+Neck:  JVD 8cm
+CV:  normal S1/S2, RRR, no MRG
+Lungs: bibasilar crackles, normal respiratory effort 
+Abdomen: +BS, soft, NTND 
+GU:  deferrred
+Extr:  warm, well perfused, no edema, DP pulses 2+ b/l
+Neuro:  AOx3, able to move all extremities grossly, CN2-12 
+grossly intact
+
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 08:50PM BLOOD WBC-6.9 RBC-4.29* Hgb-12.1* Hct-37.3* 
+MCV-87 MCH-28.2 MCHC-32.4 RDW-13.0 RDWSD-40.3 Plt ___
+___ 08:50PM BLOOD Glucose-103* UreaN-22* Creat-1.4* Na-139 
+K-4.4 Cl-103 HCO3-28 AnGap-12
+___ 08:50PM BLOOD cTropnT-<0.01
+___ 02:47AM BLOOD cTropnT-0.21*
+___ 09:38AM BLOOD CK-MB-57* cTropnT-0.43*
+___ 06:55PM BLOOD cTropnT-0.88*
+___ 05:35AM BLOOD CK-MB-20* cTropnT-1.20*
+___ 02:45PM BLOOD CK-MB-11* cTropnT-1.42*
+___ 09:30PM BLOOD CK-MB-7 cTropnT-1.72*
+___ 06:00AM BLOOD cTropnT-1.77*
+___ 05:35AM BLOOD Calcium-8.7 Phos-2.2* Mg-2.0
+___ 07:55AM BLOOD D-Dimer-307
+___ 09:38AM BLOOD %HbA1c-5.3 eAG-105
+___ 09:38AM BLOOD HDL-51 CHOL/HD-3.6
+
+Transthoracic Echocardiogram 
+The left atrium is normal in size. Left ventricular wall 
+thicknesses and cavity size are normal. There is mild regional 
+left ventricular systolic dysfunction with hypokinesis of the 
+basal to mid inferior wall and mid inferolateral wall. The 
+remaining segments contract normally (LVEF = 50 %). Overall left 
+ventricular systolic function is low normal (LVEF 50-55%). 
+Doppler parameters are most consistent with normal left 
+ventricular diastolic function. The right ventricular cavity is 
+mildly dilated with normal free wall contractility. The 
+ascending aorta is mildly dilated. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. Trace 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Mild (1+) 
+mitral regurgitation is seen. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Regional left ventricular 
+systolic dysfunction c/w CAD. Normal right ventricular cavity 
+size and systolic function. Mild right ventricular cavity 
+dilation with preserved systolic function. Mild mitral 
+regurgitation. Mild ascending aorta dilation.  
+
+Cardiac Catheterization 
+Dominance: Right
+The LMCA had no angiographically apparent CAD. The LAD is 
+diffusely diseased with 40% stenosis and
+80% stenosis after D1. The distal mid vessel segment had 80% 
+stenosis. The distal LAD had mild diffuse disease. The Cx has 
+Mid vessel 60% stenosis after OM1. The OM1 has proximal 50% 
+stenosis
+and the OM2 is small with origin 80% stenosis. The RCA had 
+diffuse disease proximal 60-70% stenosis and distal 70% stenosis 
+and diffuse 70-80% stenosis in the PDA. The PL is small with 
+proximal 60%
+stenosis.
+.
+TEE ___- Intra-op TEE, preliminary report:
+Conclusions   
+ Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. There is mild regional left 
+ventricular systolic dysfunction with 50-55%. The inferior and 
+inferoseptal wall is dyskinetic.. Right ventricular chamber size 
+and free wall motion are normal. The right ventricular cavity is 
+mildly dilated There is no aortic valve stenosis. Mild (1+) 
+aortic regurgitation is seen. Mild (1+) mitral regurgitation is 
+seen. There is no pericardial effusion. There is small pleural 
+effusion on the left side.The htoracic aorta is normal in 
+diameter.
+ Post bypass
+ The LVEF is 50-55%.The inferour wall is still dyskinetic. The 
+right ventricular function is normal the right ventricle is 
+mildly dilated.The rest of the exam is unchanged.The thoracic 
+aorta is intact.    
+   Interpretation assigned to ___, MD, Interpreting 
+physician   
+ 
+.
+
+___ 07:55AM BLOOD WBC-4.4 RBC-3.04* Hgb-8.4* Hct-26.8* 
+MCV-88 MCH-27.6 MCHC-31.3* RDW-13.2 RDWSD-43.0 Plt ___
+___ 05:26AM BLOOD WBC-14.4* RBC-3.37* Hgb-9.4* Hct-29.2* 
+MCV-87 MCH-27.9 MCHC-32.2 RDW-13.1 RDWSD-41.3 Plt ___
+___ 01:03PM BLOOD ___ PTT-26.7 ___
+___ 07:55AM BLOOD Glucose-112* UreaN-35* Creat-1.4* Na-141 
+K-4.0 Cl-99 HCO3-32 AnGap-14
+___ 04:34AM BLOOD Glucose-124* UreaN-27* Creat-1.3* Na-135 
+K-4.6 Cl-99 HCO3-28 AnGap-13
+ 
+Brief Hospital Course:
+He was admitted on ___ and underwent routine preoperative 
+testing and evaluation. He remained hemodynamically stable and 
+was taken to the operating room on ___. He underwent 
+coronary artery bypass grafting x 4. Please see operative note 
+for full details. He tolerated the procedure well and was 
+transferred to the CVICU in stable condition for recovery and 
+invasive monitoring. 
+  
+ He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1. He was weaned from inotropic and vasopressor 
+support. Beta blocker was initiated and he was diuresed toward 
+his preoperative weight. He remained hemodynamically stable and 
+was transferred to the telemetry floor for further recovery. He 
+was evaluated by the physical therapy service for assistance 
+with strength and mobility. By the time of discharge on POD 4 he 
+was ambulating, yet deconditioned, the wound was healing, and 
+pain was controlled with oral analgesics. He was discharged to 
+___ Rehab in good condition with appropriate follow 
+up instructions.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain/fever 
+2. Aspirin EC 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Docusate Sodium 100 mg PO BID 
+5. Metoprolol Tartrate 25 mg PO TID 
+6. Furosemide 40 mg PO DAILY Duration: 7 Days 
+7. Potassium Chloride 20 mEq PO DAILY Duration: 7 Days 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal
+Ambulating, deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+1+ edema
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

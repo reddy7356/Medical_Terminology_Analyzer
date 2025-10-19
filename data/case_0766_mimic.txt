@@ -1,0 +1,741 @@
+===== DISCHARGE NOTE =====
+note_id=19454552-DS-9 | hadm_id=21484514
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+metformin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a PMX of DM II, Stage III-IV 
+CKD with recent increase in baseline cr to 4, presenting with 
+worsening shortness of breath during an outpatient nephrology 
+visit. The patient notes worsening dyspnea symptoms over past 
+few days. His PCP had attempted to increase his lasix dose from 
+20mg to 40mg daily wihthout improvement. He endorses orthopnea 
+(sleeps w/ 3+ pillows), PND, dizziness and SOB when ambulating 
+but not at rest. No CP. He feels weak overall.On exam in his 
+nephrologist's office he was noted to have ___ pitting edema up 
+to the thighs. Urine examination showed many muddy brown casts, 
+3+ protein, and sed rate 1.015. Given his worsening symptoms and 
+exam, he was transferred to ED.
+Additionally, he has felt nauseous without any episodes of 
+emesis. No recent fevers, chills, sweats, or diarrhea. He does 
+promote a decreased appetite recently. He has had a chronic 
+non-productive cough which is chronic but worse over last year. 
+Denies any episodes of hempotysis. He has similar admission to 
+the heart failure service in ___ without clear evidence 
+of hf on echo and no evidence of ischemia on stress echo 
+although he only obtained 3.8 mets.
+In the ED, initial vitals were: 99.3 68 181/92 20 100%. Renal 
+saw the patient and recommended routine labs and diuresis. Labs 
+notable for K+ 3.0, Cr 4.8, and BNP 8875. A CXR was read as 
+normal without any pulm edema.He received 60mg PO lasix as well 
+as 40 mEq of potassium for a K of 3.0.
+ 
+Past Medical History:
+1. HTN
+2. HLD
+3. CKD, stage III (baseline Cr 1.8-2.0) 
+4. Anemia (baseline Hct ___
+5. DM2
+
+ 
+Social History:
+___
+Family History:
+Father - died of esophageal cancer. Mother - died of CVA. Sister 
+and brother - DM2. 
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. 
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 98.2, 180/100 P86 20 100% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: Supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+
+DISCHARGE EXAM:
+VS: T 98.2, HR 84, BP 150/82, RR 20, O2 100% RA, I/O ___, 
+orthostatics: BP 150/82 HR 84 --> BP 153/103 HR 82
+General: Alert, oriented, no acute distress
+Neck: Supple, JVP flat, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, nontender, nondistended, no rebound or guarding
+Ext: Warm, well perfused, 2+ pulses. No clubbing, cyanosis, or 
+edema.
+Neuro: CN II-XII grossly intact, moving all extremities
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:45PM BLOOD WBC-8.6# RBC-2.87* Hgb-8.4* Hct-25.2* 
+MCV-88 MCH-29.3 MCHC-33.4 RDW-13.4 Plt ___
+___ 03:45PM BLOOD Neuts-80.0* Lymphs-13.1* Monos-4.6 
+Eos-2.1 Baso-0.3
+___ 03:45PM BLOOD Glucose-161* UreaN-57* Creat-4.8* Na-140 
+K-3.0* Cl-106 HCO3-30 AnGap-7*
+___ 03:45PM BLOOD proBNP-8875*
+___ 03:45PM BLOOD Calcium-7.1* Phos-4.6* Mg-1.6
+
+DISCHARGE LABS:
+___ 05:20AM BLOOD WBC-6.5 RBC-3.00* Hgb-8.9* Hct-26.0* 
+MCV-87 MCH-29.7 MCHC-34.3 RDW-13.0 Plt ___
+___ 05:20AM BLOOD Glucose-119* UreaN-69* Creat-6.2* Na-137 
+K-3.9 Cl-99 HCO3-29 AnGap-13
+___ 05:20AM BLOOD Calcium-7.7* Phos-5.9* Mg-1.8
+
+ADDITIONAL LABS:
+___ 05:30AM BLOOD Ret Aut-1.9
+___ 05:30AM BLOOD ALT-19 AST-18 LD(LDH)-248 AlkPhos-46 
+TotBili-0.3
+___ 12:40PM BLOOD Hapto-7*
+___ 05:30AM BLOOD Triglyc-169* HDL-63 CHOL/HD-4.3 
+LDLcalc-172*
+___ 12:40PM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE 
+HBcAb-POSITIVE
+___ 12:40PM BLOOD C3-105 C4-22
+___ 05:30AM BLOOD HIV Ab-NEGATIVE
+___:40PM BLOOD HCV Ab-NEGATIVE
+
+IMAGING:
+TTE (___): The left atrium is mildly dilated. No atrial 
+septal defect is seen by 2D or color Doppler. The estimated 
+right atrial pressure is ___ mmHg. Left ventricular wall 
+thicknesses and cavity size are normal. There is mild regional 
+left ventricular systolic dysfunction with hypokinesis of the 
+basal and mid inferior segemenst. Overall left ventricular 
+systolic function is normal (LVEF 55-60%). Tissue Doppler 
+imaging suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). The right ventricular free wall thickness is 
+normal. The right ventricular cavity is mildly dilated with 
+normal free wall contractility. Tricuspid annular plane systolic 
+excursion is normal (2.2 cm) consistent with normal right 
+ventricular systolic function. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve leaflets are structurally normal. Moderate (2+) 
+mitral regurgitation is seen, though may be underestimated due 
+to Coanda effect. The pulmonary artery systolic pressure could 
+not be determined. There is a moderate sized pericardial 
+effusion. The effusion appears circumferential. There are no 
+echocardiographic signs of tamponade. 
+IMPRESSION: Mild focal left ventricular systolic dysfunction 
+with overall preserved LV function. Mildly dilated right 
+ventricle with normal function. At least moderate mitral 
+regurgitation. Mild to moderate sized circumferential 
+pericardial effusion without evidence of tamponade physiology. 
+Compared with the prior exam dated ___, overall LV function 
+is slightly more vigorous. Pericardial effusion size is similar. 
+Degree of mitral regurgitation is more prominent (previously 
+mild to moderate). Otherwise, the findings are similar.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of hypertension, 
+type 2 diabetes mellitus, and stage III-IV chronic kidney 
+disease with recent increase in baseline creatinine who 
+presented with worsening renal function and peripheral edema.
+
+==================================================
+ACUTE ISSUES:
+==================================================
+
+# Acute on chronic kidney disease:  Patient's renal function has 
+been progressively worsening over the past seveal months.  Per 
+renal, most likely etiology of decompensation is progression of 
+diabetic nephropathy.  Urine sediment showed no evidence of 
+dysmorphic RBCs or cellular casts that might indicate another 
+superimposed glomerular process, so they did not believe a 
+kidney biopsy was warranted.  Hepatitis serologies and HIV were 
+negative, and complement levels were normal.  Patient's 
+creatinine on discharge was 6.2.
+
+# ___ edema:  Patient met criteria for nephrotic syndrome with 24 
+hour protein of >12,000 and albumin/creatinine ratio of 8.2.  
+Given clear lungs, his edema was most likely secondary to 
+nephrotic syndrome.  Echocardiogram was notable for mildly 
+dilated RV but normal estimated RA pressure (unchanged from 
+prior), so right heart failure was less likely.  Patient was 
+diuresed with lasix (up to 80mg IV bid) and his edema entirely 
+resolved. 
+
+# Hypokalemia:  Potassium was low on admission (K=3) and through 
+the first two days of admission despite potassium 
+supplementation.  Most likely etiology of hypokalemia is 
+potassium wasting from the kidney.  We started him on 
+spironolactone 25mg po daily and his potassium remained stable.  
+  
+
+# Orthostatic hypotension:  Patient had symptomatic orthostatic 
+hypotension on the day prior to discharge, likely secondary to 
+aggressive diuresis and an increase in his anti-hypertensives.  
+Orthostasis resolved with two fluid boluses and a decrease in 
+labetalol and losartan doses. 
+
+==================================================
+CHRONIC ISSUES:
+==================================================
+
+# Hypertension:  Patient's blood pressure was elevated on 
+admission and remained difficult to control.  His metoprolol was 
+increased to 400mg po bid and losartan 50mg po daily was added 
+(his lisinopril was discontinued due to cough).
+
+# Pericardial effusion:  Echocardiogram on ___ revealed a 
+pericardial effusion stable since ___.  There is no obvious 
+explanation for the effusion (possibly related to 
+hypoalbuminemia, BUN not high enough for uremic effusion).  
+Please repeat TTE in two weeks to reassess size of effusion.
+
+# Dyspnea and cough:  Paient endorsed stable orthopnea and DOE 
+but denied resting dyspnea.  He also reported a chronic 
+nonproductive cough.  There was no evidence of congestive heart 
+failure.  It is possible that the pericardial effusion may be 
+causing dyspnea.  We switched his lisinopril to losartan to see 
+if it was ACEi-related.
+
+# Type 2 diabetes mellitus:  Patient's blood sugars were 
+well-controlled on home lantus 20 units qhs and humalog sliding 
+scale with meals.  He appears to have poor insight into his 
+diabetes and it is unclear whether or not he checks his blood 
+sugar at home.  Please continue diabetes education.  
+
+# Low haptoglobin/anemia:  LDH and TBili were normal so it did 
+not appear that patient was hemolyzing.  Liver function tests 
+were otherwise normal.  Low haptoglobin is likely the result of 
+wasting through the kidney.
+
+==================================================
+TRANSITIONAL ISSUES:
+==================================================
+[ ] Please repeat echocardiogram in 2 weeks (___) to 
+evaluate pericardial effusion
+[ ] Furosemide was increased from 40mg po daily to 80mg po 
+daily. Lisinopril was discontinued due to chronic cough and 
+switched to losartan 50mg po daily.  Labetalol was increased 
+from 100mg bid to ___ bid. 
+[ ] Patient is scheduled for a chem 10 next week during 
+follow-up appointment with renal. Please follow up on results. 
+[ ] Please review diabetes education and management.  Patient 
+appears to have poor insight into his diabetes and it is unclear 
+if he is taking his insulin at home.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alavert (loratadine) 10 mg oral daily 
+2. Alaway (ketotifen fumarate) 0.025 % ophthalmic daily 
+3. Glargine 20 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+4. Atorvastatin 40 mg PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+6. Furosemide 40 mg PO DAILY 
+7. Gabapentin 100 mg PO BID 
+8. Labetalol 100 mg PO BID 
+9. Omeprazole 20 mg PO DAILY 
+10. Acetaminophen 325 mg PO Q6H:PRN pain 
+11. Ondansetron 8 mg PO Q8H:PRN nausea 
+12. Aspirin 81 mg PO DAILY 
+13. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg PO Q6H:PRN pain 
+2. Atorvastatin 40 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+5. Glargine 20 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+6. Labetalol 400 mg PO BID 
+RX *labetalol 200 mg 2 tablet(s) by mouth twice a day Disp #*120 
+Tablet Refills:*0
+7. Omeprazole 20 mg PO DAILY 
+8. Ondansetron 8 mg PO Q8H:PRN nausea 
+9. Losartan Potassium 50 mg PO DAILY 
+RX *losartan [Cozaar] 50 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+10. Metoclopramide 5 mg PO QIDACHS 
+RX *metoclopramide HCl 5 mg 1 mg by mouth qid prn Disp #*120 
+Tablet Refills:*0
+11. Spironolactone 25 mg PO DAILY 
+RX *spironolactone 25 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+12. Alavert (loratadine) 10 mg oral daily 
+13. Alaway (ketotifen fumarate) 0.025 % ophthalmic daily 
+14. Aspirin 81 mg PO DAILY 
+15. Furosemide 80 mg PO DAILY 
+RX *furosemide 80 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+16. Gabapentin 100 mg PO Q24H 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Acute on chronic kidney disease
+Nephrotic syndrome
+
+SECONDARY:
+Type 2 diabetes mellitus
+Hypertension
+Hyperlipidemia
+Anemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.  You were 
+admitted for leg swelling.  We found that your kidneys were not 
+working well, most likely related to your diabetes.  We gave you 
+higher doses of your water pill and your leg swelling improved.  
+Your blood pressure was also elevated, so we increased the dose 
+of your blood pressure medication and added an additional blood 
+pressure medication.
+
+Please continue to take your medications as prescribed and keep 
+your follow-up appointments.  It is very important that your 
+blood sugar is well-controlled.  We would like you to see Dr. 
+___ nephrologist) next week.  You will be contacted 
+with an appointment date/time.
+
+Please make sure you eat a low salt diet to prevent fluid 
+accumulation. 
+
+-Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19454552-DS-8 | hadm_id=22001962
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+metformin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea.
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ year old ___ speaking male with CKD, DM2, HTN here from 
+PCP with dyspnea.
+
+Patient states that he has been having dyspnea with exertion for 
+the last 2 months. His dyspnea has not changed at all in 
+serverity or frequency during that time. SOB limited to exertion 
+and generally does not occur at rest. However, last ___ 
+patient noted new episode of PND. Patient notes orthopnea for 
+the last ___ years and sleeps on ___ pillows. He has noticed 
+worsening ___ edema over the last two months as well. Patient 
+denies any CP, palpitations. No fevers, chills, URI sx over the 
+last two months. States that he has a chronic dry cough, which 
+has not acutely changed. 
+
+Patient was seen by his PCP who was concerned about his symptoms 
+and thought he might be having a CHF exacerbation and referred 
+him to the ED.
+ 
+In the ED, initial vitals were 98.7 81 152/88 18 100% RA. Labs 
+notable for Hct 30.1, K 3.1, Mg 1.5, Cr 2.0, alb 2.7, trop 0.02, 
+BNP ___. CXR without evidence of pulmonary edema. Bedside TTE 
+showed small pericardial effusion with poor squeeze.   
+
+On arrival to the floor, patient appears comforatably. Denies 
+any current CP or SOB. States that he is having 
+numbness/tingling that is not painful in his bilateral lower 
+extremities, which is chronic. Otherwise has no focal 
+complaints. 
+ 
+
+ 
+Past Medical History:
+1. HTN
+2. HLD
+3. CKD, stage III (baseline Cr 1.8-2.0) 
+4. Anemia (baseline Hct ___
+5. DM2
+
+ 
+Social History:
+___
+Family History:
+Father - died of esophageal cancer. Mother - died of CVA. Sister 
+and brother - DM2. 
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=========================
+VS: 98.1 180/100 91 18 100% RA pulsus = 10
+General: NAD, comfortable, pleasant
+HEENT: NCAT, PERRL, EOMI
+Neck: Supple, no JVD
+CV: RRR, nl S1 and S2, no m/r/g
+Lungs: CTAB, no w/r/r
+Abdomen: Soft, NT/ND, BS+
+Ext: WWP, trace b/l lower extremity edema, 2+ distal pulses 
+bilaterally
+Neuro: A&Ox3, CN II-XII grossly intact, sensation to light touch 
+grossly intact throughout, strength ___ in all four extremities
+
+DISCHARGE PHYSICAL EXAM
+========================
+VS: 98.2 98.5 158/94 (130-199/86-121) 80 16 98% RA
+Wt: 70.1 (71.1)
+I/O: MN - ___ 24 hr - 780/1200
+General: NAD, comfortable, pleasant
+HEENT: NCAT, PERRL, EOMI
+Neck: Supple, no JVD
+CV: RRR, nl S1 and S2, no m/r/g
+Lungs: CTAB, no w/r/r
+Abdomen: Soft, NT/ND, BS+
+Ext: WWP, trace b/l lower extremity edema, 2+ distal pulses 
+bilaterally
+Neuro: A&Ox3, CN II-XII grossly intact, sensation to light touch 
+grossly intact throughout, strength ___ in all four extremities
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 11:47AM BLOOD WBC-5.1 RBC-3.36* Hgb-10.1* Hct-29.4* 
+MCV-88 MCH-30.2 MCHC-34.5 RDW-14.0 Plt ___
+___ 11:47AM BLOOD Neuts-74.6* Lymphs-15.9* Monos-8.1 
+Eos-1.1 Baso-0.4
+___ 11:47AM BLOOD UreaN-31* Creat-2.0* Na-137 K-3.2* Cl-99 
+HCO3-31 AnGap-10
+___ 11:47AM BLOOD Calcium-7.8* Cholest-244*
+___ 10:44AM BLOOD ALT-17 AST-23 AlkPhos-52 TotBili-0.5
+
+CARDIAC LABS
+===============
+___ 10:44AM BLOOD cTropnT-0.02*
+___ 10:44AM BLOOD CK-MB-4 proBNP-___*
+
+PERTINENT LABS
+===============
+___ 06:10AM BLOOD %HbA1c-6.5* eAG-140*
+___ 11:47AM BLOOD Triglyc-166* HDL-69 CHOL/HD-3.5 
+LDLcalc-142*
+___ 06:40AM BLOOD TSH-1.8
+___ 06:40AM BLOOD ___
+
+DISCHARGE LABS
+===============
+___ 06:10AM BLOOD WBC-3.9* RBC-3.35* Hgb-10.0* Hct-29.0* 
+MCV-86 MCH-29.9 MCHC-34.6 RDW-12.9 Plt ___
+___ 06:10AM BLOOD Glucose-174* UreaN-26* Creat-2.1* Na-138 
+K-3.7 Cl-101 HCO3-31 AnGap-10
+___ 06:10AM BLOOD Calcium-8.1* Phos-4.3 Mg-1.9
+
+STUDIES
+========
+CXR ___:
+Frontal and lateral radiographs of the chest. Lung volumes are 
+low.  There is stable appearance of mild enlargement of the 
+cardiac silhouette which is new from older prior. Likely small 
+left pleural effusion is unchanged with associated atelectasis. 
+No significant right pleural effusion. Slighlyt increased 
+interstitial markings seen without frank pulmonary edema. No 
+focal consolidation or pneumothorax.   
+IMPRESSION: Mild cardiomegaly, which is new since ___, and 
+small left pleural effusion. Pulmonary vascular congestion. 
+ 
+TTE ___:
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thicknesses and cavity size are normal. There 
+is mild regional left ventricular systolic dysfunction with 
+hypokinesis of the basal to mid inferior segments. Doppler 
+parameters are indeterminate for left ventricular diastolic 
+function. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve leaflets are structurally 
+normal. Mild to moderate (___) mitral regurgitation is seen. 
+The pulmonary artery systolic pressure could not be determined. 
+There is a small to moderate sized pericardial effusion. The 
+effusion appears circumferential. There are no echocardiographic 
+signs of tamponade. 
+IMPRESSION: Mild focal left ventricular systolic dysfunction. 
+Mild to moderate mitral regurgitation. Small to moderate 
+pericardial effusion without evidence of tamponade physiology.  
+
+CT CHEST ___:
+1.  Small pericardial effusion.   
+2.  Small bilateral pleural effusions, left greater than right. 
+3.  Pulmonary nodules in the right lung, up to 6 mm.  If the 
+patient is low risk, follow-up CT is recommended in 12 months.  
+If the patient is high risk, follow-up CT is recommended in ___ 
+and ___ months. 
+
+ETT-ECHO ___:
+This ___ yo IDDM man with a PMH of HTN & HLD was referred to the 
+lab for evaluation of 3 months of shortness of breath and 
+lightheadedness. The patient exercised for 2 minutes on ___ 
+protocol and was stopped for a marked drop in systolic BP 
+associated with mild pre-syncope. The estimated peak MET 
+capacity was 3.8 which represents a poor exercise tolerance for 
+his age. The patient denied any arm, neck, back, or chest 
+discomfort or inappropriate dyspnea throughout the procedure. He 
+did however report mild lightheadedness and marked bilateral 
+lower extremity fatigue and soreness at a low workload. The 
+lightheadedness resolved by 2 minutes post-exercise. There were 
+no ST segment changes seen during exercise or recovery. The 
+rhythm was sinus without ectopy. The HR increased with exercise 
+but was overall blunted due to beta blockade. There was a 
+significant drop in SBP at the onset of exercise (122/74 to 
+80/60; confirmed with BP measurements). 
+IMPRESSION: Poor functional exercise capacity. Abnormal BP 
+response to 
+exercise associated with mild lightheadedness at low workload. 
+No 
+significant ST segment changes or anginal symptoms to low 
+workload. 
+Echo report sent separately. 
+
+The patient exercised for 2 minutes 0 seconds according to a 
+___ treadmill protocol ___ METS) reaching a peak heart rate 
+of 85 bpm and a peak blood pressure of 80/palp mmHg. The test 
+was stopped because of a hypotensive response. This level of 
+exercise represents a poor exercise tolerance for age. In 
+response to stress, the ECG showed no ST-T wave changes (see 
+exercise report for details). The blood pressure response to 
+stress was abnormal/hypotensive. There was a blunted heart rate 
+response to stress [beta blockade]. 
+Resting images were acquired at a heart rate of 76 bpm and a 
+blood pressure of 122/74 mmHg. These demonstrated regional left 
+ventricular systolic dysfunction with hypokinesis of the basal 
+half of the inferior wall. The remaining segments contracted 
+well (LVEF = 50 %). Right ventricular free wall motion is 
+normal. There is a small inferolateral pericardial effusion. 
+Doppler demonstrated mild-moderate mitral regurgitation with no 
+aortic stenosis, aortic regurgitation or significant resting 
+LVOT gradient. 
+Echo images were acquired within 33 seconds after peak stress at 
+heart rates of 86 - 76 bpm. These demonstrated no new regional 
+wall motion abnormalities. Baseline abnormalities persist with 
+appropriate augmentation of other segments. There was 
+augmentation of right ventricular free wall motion. 
+IMPRESSION: Poor functional exercise capacity. No ECG changes 
+with 2D echocardiographic evidence of prior myocardial 
+infarction without inducible ischemia to achieved low workload. 
+Abnormal hemodynamic/hypotensive response to physiologic stress. 
+Mild-moderate mitral regurgitation at rest. Small inferolateral 
+pericardial effusion. 
+
+RENAL U/S WITH DOPPLER ___:
+Normal waveforms of the bilateral main renal arteries, with no 
+evidence of renal artery stenosis. 
+ 
+ 
+Brief Hospital Course:
+___ year old ___ speaking male with CKD, DM2, HTN here from 
+PCP with dyspnea found to have small pericardial effusion and 
+hypertension.  
+
+ACUTE ISSUES
+# Dyspnea: Patient without prior diagnosis of CHF, though PCP 
+referred the patient to ___ ED because felt that DOE was 
+concerning for CHF. TTE was done, which showed focal wall motion 
+abnormality in basal and inferior walls, but no evidence of 
+systolic or diastolic dysfunction. Given lack of CHF, the 
+patient's dyspnea was thought to potentially be due to his 
+pericardial effusion, hypersension in the setting of kidney 
+dysfunction, or anginal equivalent. Given the new focal wall 
+motion abnormality and possibility of dyspnea being anginal 
+equivalent, the patient underwent a stress-TTE. He had poor 
+functional exercise capacity with abnormal BP response to 
+exercise associated with mild lightheadedness at low workload. 
+There were no significant ST segment changes or anginal symptoms 
+to low workload. Given that the patient only achieved ___ METS 
+prior to his BP drop, the stress test was non-diagnostic. 
+Outpatient cardiac catheterization can be considered, but was 
+not felt to be necessary at this time. It was thought that the 
+patient's dyspnea was most likely related to his poorly 
+controlled hypertension in the setting of CKD. Pericardial 
+effusion was small and not thought to be contributing to his 
+shortness of breath. Throughout his admission, the patient was 
+maintained on room air. Please see below for further management 
+of HTN and pericardial effusion. 
+
+# Pericardial effusion: Patient with new pericardial effusion of 
+unknown etiology. History has been unrevealing as to cause. CHF 
+initially was the most likely cause, given his elevated BNP and 
+CXR with vascular congestion, but TTE did not indicate systolic 
+or diastolic dysfunction. Next most likely would be uremic, 
+though his BUN/Cr are similar to his baseline. Infectious seems 
+unlikely given that he has no recent history of fevers, chills, 
+other sx. However, the patient does have a chronic dry cough (no 
+hemoptysis) and comes from an area with endemic TB, so this 
+could be a possibility. A PPD was planted on ___ and the 
+patient was instructed to have it read at his PCP's office on 
+___. Other causes could be undiagnosed autoimmune disease or 
+hypothyroidism, but again the patient did not have specific 
+symptoms to suggest this. TSH 1.8. ___ was negative. Neoplastic 
+effusion was also on the general differential, as he does have a 
+smoking history, but seemed a more remote possibility. CT chest 
+was performed, which showed a 6 mm nodule that will require 
+follow-up in 6 months, but no evidence of malignancy. Throughout 
+the patient's stay his pulses was wnl. There was no sign of 
+tamponade by physical exam or TTE and the the patient remained 
+hemodynamically stable throughout his hospital course. 
+
+# HTN: On admission patient with BPs 180/100. Patient unsure of 
+his home medications at the time of admission, but states that 
+he is compliant with the regimen prescribed by his PCP. Throught 
+the early part of the patient's admission his BPs were elevated 
+into 200s/110s, though the patient was asymptomatic throughout. 
+Secondary causes of hypertension were evaluated and renal u/s 
+did not reveal any renal artery stenosis. For increased blood 
+pressure control, amlodipine was increased from 5 to 10 mg QD 
+and chlorthalidone 25 mg PO QD was added. He was also continued 
+on lisinopril 40 mg PO QD. Blood pressure improved prior to 
+discharge, but patient will require further outpatient 
+management of blood pressures and review of mediactions to 
+ensure compliance. 
+
+CHRONIC ISSUES
+# CKD, stage III: Stable. Baseline 1.8-2.0. Cr at discharge 2.1.
+
+# HLD: Stable. Continued atorvastatin.
+
+# Anemia: Stable. Baseline Hct ___. Hct at discharge 29.0. 
+
+# Peripheral neuropathy: Patient with bilateral leg 
+numbness/tingling, which he states is chronic. Patient started 
+on low-dose gabapentin 100 mg PO BID during the admission, given 
+his low GFR. Cr should be monitored as an outpatient and dose 
+should be adjusted accordingly. 
+
+TRANSITIONAL ISSUES
+- Medications added: chlorthalidone 25 mg PO QD, benzonatate 100 
+mg PO TID PRN cough, gabapentin 100 mg PO BID
+- Medications changed: amlodipine increased from 5 mg PO QD to 
+10 mg PO QD
+- Check PPD (L forearm) on ___. 
+- Follow-up: HbA1C.
+- Chest CT was performed, which showed 6 mm RML nodule. Please 
+perform repeat chest CT in 6 months, to ensure stability.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Amlodipine 5 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Aspirin 325 mg PO DAILY 
+5. Glargine Unknown Dose
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+2. Aspirin 325 mg PO DAILY 
+3. Atorvastatin 40 mg PO DAILY 
+4. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+5. Lisinopril 40 mg PO DAILY 
+6. Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0
+7. Chlorthalidone 25 mg PO DAILY 
+RX *chlorthalidone 25 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0
+8. Gabapentin 100 mg PO Q12H 
+RX *gabapentin 100 mg 1 capsule(s) by mouth twice a day Disp 
+#*14 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+1. Hypertension
+2. Pericardial effusion
+Secondary:
+1. Chronic Kidney Disease
+2. Diabetes Mellitus Type 2
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.
+
+You were referred to the ED after you presented to your PCP with 
+shortness of breath. During your stay you were found to have a 
+small fluid collection around your heart, which was likely 
+unrelated to your symptoms. Your blood pressure was difficult to 
+control while in the hospital and some new medications needed to 
+be added. This elevated blood pressure and your kidney disease 
+are likely contributing to your shortness of breath. 
+
+Please continue to take your medications as prescribed. Please 
+follow-up with your PCP and your new cardiologist at the 
+appointments listed below. 
+ 
+Followup Instructions:
+___

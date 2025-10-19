@@ -1,0 +1,279 @@
+===== DISCHARGE NOTE =====
+note_id=17049945-DS-21 | hadm_id=28026144
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Progesterone in Oil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxemic respiratory distress
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old pregnant woman at 6 weeks EGA with 
+a past medical history significant for asthma admitted on ___ 
+for fever, cough, and dyspnea felt to be due to CAP now 
+transferred to the MICU for hypoxemic respiratory distress.  The 
+patient reports that symptoms started 3 days ago with fever to 
+100.7 (ear) and non-productive cough, with progressively 
+worsening dyspnea on minimal exertion such that on the day of 
+admission she had difficulty walking to her bathroom. She does 
+have a history of well controlled asthma, although states that 
+her current symptoms are not consistent with prior asthma flare 
+although dypsnea did improve with albuterol MDI.  She does 
+endorse rhinorrhea and fatigue, but denies any sore throat, 
+myalgias, LBP, sinus congestion, or wheezing.  Her husband had a 
+cough several days ago, but denies any other sick contacts or 
+recent travel.  She initially presented to an OSH ED, where she 
+had a CXR demonstrating bilateral lower lung field opacities 
+(R>L) felt to be CAP and was treated with CTX and azithromycin, 
+and was transferred to ___ for further management.
+.
+Her ___ course has been notable for a persistent tachcyardia, 
+tachypnea, and an increasing oxygen requirement now up to a 15L 
+face mask from 4L on admission.  ABG prior to MICU transfer 
+___ on 50% FM.  Given persistent tachycardia, tachypnea, 
+and increasing oxygen requirement, she was transferred to the 
+MICU for further management.
+.
+Currently, the patient states that her breathing is improved 
+after a neb treatment. She denies any CP, palpitations, ST, HA, 
+LBP, muscle aches, or wheezing.
+
+ 
+Past Medical History:
+1. Asthma. Only requires albuterol with URI's. Under good 
+control  
+on flovent 110mcg 2 puffs bid. No nocturnal awakenings, ICU 
+admissions, inbutations, or ED visits.
+2. B12 deficiency. Had low B12 in 180's in ___ and has been on  
+
+___ since then with normal B12 levels. This was just stopped 
+ 
+when she was changed to prenatal vitamin, was told that it has  
+B12 in it.  
+3. Severely atypical nevus removed from her back. Sees Dr.  
+___, saw her last over the summer.  
+4. Pregnancy - 6 wks EGA with IVF treatments.
+
+ 
+Social History:
+___
+Family History:
+Mother - MI age ___, non-melanoma skin  
+CA, DM. Father - prostate CA, AAA, DM. Maternal aunt/uncle -  
+melanoma. 5 of 8 maternal aunts/uncles with CAD in ___. 4 of 
+ 
+paternal aunts/uncles w/ CAD in ___. MGF - DM. MGM - CAD  
+___. PGM - CAD ___. No family h/o clotting disorders  
+
+ 
+Physical Exam:
+ADMISSION:
+VS: 99.8 105 130/93 37 96% on 50% venturi
+Gen: Labored breathing
+HEENT: MM dry, OP clear, neck supple without LAD
+CV: Tachy S1+S2
+Pulm: Bronchial breath sounds at the bases bilaterally with 
+dullness to percussion. Scattered expiratory wheezes 
+bilaterally.
+Abd: S/NT/ND +bs
+Ext: No c/c/e.
+Neuro: AOx3, CN II-XII intact.
+
+DISCHARGE:
+VS: afebrile, 140s/80s, 70-80, 98% on RA
+GA: AOx3, NAD
+HEENT:  PERRLA. MMM. no LAD. no JVD. neck supple. 
+Cards:  RRR S1/S2 heard. no murmurs/gallops/rubs.
+Pulm: CTAB
+Abd: soft, NT, +BS. no g/r.
+Extremities: wwp, no edema. DPs, PTs 2+.
+Neuro/Psych: CNs II-XII intact. ___ strength in U/L extremities.
+ 
+Pertinent Results:
+RELEVANT AND REPRESENTATIVE LABS:
+CBC and coags:
+-___ 05:40PM BLOOD WBC-27.1*# RBC-4.37 Hgb-14.0 Hct-39.4 
+MCV-90 MCH-32.0 MCHC-35.5* RDW-12.6 Plt ___
+   -___ 05:40PM BLOOD Neuts-77.9* Lymphs-7.6* Monos-2.8 
+Eos-11.6* Baso-0.2
+   -___ 06:24AM BLOOD Neuts-72.9* Lymphs-8.1* Monos-2.6 
+Eos-15.9* Baso-0.3
+-___ 03:35AM BLOOD WBC-20.4* RBC-3.94* Hgb-12.5 Hct-35.5* 
+MCV-90 MCH-31.7 MCHC-35.1* RDW-12.5 Plt ___
+   -___ 03:35AM BLOOD Neuts-84* Bands-1 Lymphs-5* Monos-6 
+Eos-1 Baso-0 ___ Metas-1* Myelos-2*
+-___ 07:20AM BLOOD WBC-14.6* RBC-3.76* Hgb-11.6* Hct-33.9* 
+MCV-90 MCH-30.7 MCHC-34.1 RDW-12.6 Plt ___
+-___ 07:30AM BLOOD WBC-13.8* RBC-3.66* Hgb-11.7* Hct-32.7* 
+MCV-89 MCH-32.1* MCHC-35.9* RDW-12.5 Plt ___
+-___ 04:47AM BLOOD ___ PTT-23.4 ___
+.
+Chem:
+-___ 05:40PM BLOOD Glucose-90 UreaN-8 Creat-0.6 Na-138 
+K-4.0 Cl-103 HCO3-21*
+-___ 03:35AM BLOOD Glucose-140* UreaN-9 Creat-0.6 Na-138 
+K-3.7 Cl-106 HCO3-21* 
+-___ 07:20AM BLOOD Glucose-129* UreaN-14 Creat-0.5 Na-136 
+K-4.1 Cl-103 HCO3-24 
+-___ 07:30AM BLOOD Glucose-75 UreaN-13 Creat-0.6 Na-136 
+K-3.3 Cl-103 HCO3-24
+.
+LFTs
+-___ 06:24AM BLOOD ALT-15 AST-16 LD(LDH)-238 AlkPhos-57 
+TotBili-0.3
+.
+Misc: 
+-___ 04:47AM BLOOD calTIBC-230* Ferritn-185* TRF-177*
+-___ 02:35PM BLOOD ANCA-NEGATIVE B
+-___ 05:40PM BLOOD HCG-7597
+-___ 05:53PM BLOOD Lactate-1.4
+.
+.
+IMAGING:
+.
+TVUS ___:
+Single live intrauterine gestation corresponding to a 
+gestational 
+age of 6 weeks 4 days. 
+.
+CXR ___: 
+Moderate-to-severe pulmonary edema, without evidence of pleural 
+effusions.  Borderline size of the cardiac silhouette. No 
+interval appearance of new parenchymal opacities. 
+.
+SPIROMETRY10:30 AMPre drugPost drug
+  ActualPred%PredActual%Pred%chg
+FVC ___   
+FEV1 ___   
+MMF ___   
+FEV1/FVC ___
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ year old pregnant woman at 6 weeks EGA by 
+IVF with a past medical history significant for asthma admitted 
+on ___ for fever, cough, and dyspnea felt to be due to CAP, but 
+found to have eosinophilic pneumonitis.
+
+# Eosinophilic pneumonitis: Patient's A-a gradient was >180 with 
+potential etiologies including V/Q mismatch, diffusion 
+abnormality, or shunt.  Given absolute eosinophilic count of 
+>3000, fever, and acute shortness of breath, the diagnosis of 
+acute eosinophilic pneumonia was presumptively made.  She was 
+treated with solumedrol 125 Q6H with improvement in symptoms and 
+rapid weaning of supplemental oxygen to room air.  She was also 
+covered for pneumonia initially with vancomycin and 
+levofloxacin, but the regimen was narrowed to a 5 day course of 
+azithromycin, which she completed while hospitalized.  She was 
+also initially treated with oseltamavir, which was discontinued 
+after Influenza DFA returned negative.  Patient was transitioned 
+to prednisone 60 mg daily, and she will continue this dose until 
+follow-up with Dr. ___ as an outpatient.  Her 
+eosinophilic pneumonitis was felt to be secondary to IM 
+progesterone in sesame oil suspension, and progesterone was 
+changed to intravaginal preparation.  She will require PCP 
+prophylaxis if steroid course continues for longer than 1 month, 
+and this will be determined as an outpatient.
+
+# Pregnancy: Intravaginal fetal u/s performed during MICU course 
+demonstrating viable fetus. OB consulted on the patient, and 
+___ was also consulted for blood glucose control (see below). 
+ She will continue intravaginal progesterone as above, and 
+follow-up with OB/Gyn.
+
+# Hyperglycemia: elevated FSBG in the setting of steroid use.  
+Patient was started on sliding scale insulin per ___ recs for 
+goal fingerstick <130 at one hour post-prandial.  She will 
+continue insulin at home and f/u with the Diabetes in Pregnancy 
+Center at ___.
+
+# Asthma: Continued on nebs during admission.
+
+# Code: full
+ 
+Medications on Admission:
+ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - 2 puffs qid prn 
+ 
+FLUTICASONE [FLOVENT HFA] - 110 mcg/Actuation Aerosol - 2 puffs  
+
+twice a day  
+PRENATAL VIT-IRON FUMARATE-FA [PRENATAL VITAMIN] - (Prescribed  
+by Other Provider) - Dosage uncertain  
+PROGESTERONE 50 mg/mL 1 mL QHS at 8:30 pm  
+
+ 
+Discharge Medications:
+1. Prenatal ___ mg-mcg Capsule Sig: One (1) Capsule PO once a 
+day.  
+2. progesterone micronized 8 % Gel Sig: One (1) Appl Vaginal QHS 
+(once a day (at bedtime)) for 4 weeks.
+Disp:*QS gel* Refills:*0*
+3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q6H (every 6 hours) as needed for shortness 
+of breath, wheeze.  
+4. Supplies
+"Humalog Kwik-pen" 1 box of 5 pens
+
+5. Supplies
+Humalog "pen needle" 31x3/16 needle, 200 needles
+
+6. One Touch Delica Lancets     Misc Sig: One (1) lancet 
+Miscellaneous four times a day: fasting and 1hour post-meals.
+Disp:*200 lancets* Refills:*0*
+7. One Touch Test     Strip Sig: One (1) strip Miscellaneous 
+four times a day: fasting and 1hour post-meal.
+Disp:*200 strips* Refills:*0*
+8. prednisone 20 mg Tablet Sig: Three (3) Tablet PO once a day: 
+Take until you see pulmonary doctors.
+Disp:*75 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Eosinophilic pneumonitis
+Hyperglycemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were seen in the hospital for shortness of breath, likely 
+caused by eosinophilic pneumonitis (pneumonia associated with an 
+increase in a white blood cell called eosinophils).  This 
+improved with steroids.  Please continue taking prednisone 60 mg 
+daily until you see Dr. ___ at your followup appointment.
+
+You were also found to have elevated blood sugars after being 
+started on prednisone, which is a common side effect.  Please 
+continue taking insulin with meals as directed.  You should 
+follow up with an endocrinologist at the ___ as 
+indicated below.
+
+Changes to your medications:
+-START taking humalog insulin as directed by ___: 6units 
+before breakfast, 6units before lunch, 7units before dinner
+-START taking prednisone 60 mg daily until you see Dr. ___ taking progesterone IM shots, and START taking 
+progesterone intravaginally daily
+ 
+Followup Instructions:
+___

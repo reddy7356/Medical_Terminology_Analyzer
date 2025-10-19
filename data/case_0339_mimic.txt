@@ -1,0 +1,1196 @@
+===== DISCHARGE NOTE =====
+note_id=13521465-DS-6 | hadm_id=20223900
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with a PMH notable for HTN, prostate cancer 
+s/p radical prostatectomy ___ and ___ disease (diagnosed 
+___, on mesalamine, 6mp, recently completed budesonide taper 
+___ with a known stricture of the distal illeum who 
+presented with abdominal pain, nausea, and vomiting. 
+
+Patient was in his USOH until ___ days PTA when he developed 
+crampy, intermittent abdominal pain progressively getting worse 
+with poor PO intake since ___. He also has had nonbloody emesis 
+and nausea. Passing stool with last bowel movement ___. No 
+flatus passed since ___. 
+
+He denies any dysuria, urinary frequency, hematuria, does note 
+that the urine is darker in color. He denies fevers or chills. 
+He did have some diffuse weakness and paleness today and brief 
+episode of difficulty breathing which has since resolved.  
+
+In the ED initial vitals were: 98.6 95 157/87 16 98% RA  
+- Labs notable for WBC 14.8 with 92.5%N. Chemistry with glucose 
+of 55. Normal LFTs. CRP 32.5. Had emesis x2 in the ED. 
+- Patient was given 4L NS, 1 amp d50, morphine 4mg IV x 2, and 
+zofran.  
+- CT abd/pelvis showed Substantial high-grade bowel obstruction 
+with terminal ileum stricture  
+Vitals prior to transfer were: 98.1 76 147/76 18 99% RA  
+
+On the floor, he complains of ___ LLQ and denies nausea. 
+
+Review of Systems:  
+(+) per HPI  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, BRBPR, melena, hematochezia, 
+dysuria, hematuria.  
+
+ 
+Past Medical History:
+___ disease
+prostate CA s/p radical prostatectomy ___
+Hypertension
+Duodenal ulcers.  
+
+ 
+Social History:
+___
+Family History:
+Cousin with ___ disease
+Pt unsure if other family history of IBD
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+PHYSICAL EXAM:  
+Vitals - T: 98.3 BP: 169/77 HR: 70  RR: 20 02 sat:100% RA  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, ___ sytolic murmur loudest RUSB
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, TTP LUQ, mild voluntary guarding, no 
+rebound tenderness.   
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE PHYSICAL EXAM: 
+Tm 99.0 Tc 97.8 BP 148/73 P 62 R 18  SpO2 100% RA
+I/O: pMN: -/BRP 24hr: ___  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition, NGT in place draining green/brown fluid  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, ___ sytolic murmur loudest RUSB
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, NTTP, +BS, no rebound tenderness or 
+guarding.   
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, moving all extremities, speech fluent  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+ 
+Pertinent Results:
+ADMISSION: 
+___ 11:20PM BLOOD WBC-14.8* RBC-4.71 Hgb-14.5 Hct-43.4 
+MCV-92 MCH-30.7 MCHC-33.4 RDW-14.8 Plt ___
+___ 11:20PM BLOOD Neuts-92.5* Lymphs-3.5* Monos-3.5 Eos-0.3 
+Baso-0.3
+___ 11:20PM BLOOD Glucose-55* UreaN-19 Creat-0.6 Na-139 
+K-4.3 Cl-95* HCO3-28 AnGap-20
+___ 11:20PM BLOOD ALT-14 AST-23 AlkPhos-47 TotBili-0.5
+___ 11:20PM BLOOD Albumin-4.1
+___ 10:28AM BLOOD Calcium-8.7 Phos-3.9 Mg-1.7
+___ 11:20PM BLOOD CRP-32.5*
+
+DISCHARGE: 
+___ 08:05AM BLOOD WBC-9.1 RBC-3.90* Hgb-12.2* Hct-36.1* 
+MCV-93 MCH-31.3 MCHC-33.7 RDW-14.4 Plt ___
+___ 08:05AM BLOOD Glucose-94 UreaN-11 Creat-0.5 Na-136 
+K-4.1 Cl-98 HCO3-29 AnGap-13
+___ 07:53AM BLOOD Calcium-8.7 Phos-2.8 Mg-1.9
+
+PERTINENT RESULTS: 
+___ 06:45AM BLOOD CRP-7.6*
+___ 10:49AM BLOOD Lactate-1.0
+___ 04:37PM BLOOD Lactate-0.4*
+___ 07:29PM BLOOD Lactate-0.5
+___ 08:21AM BLOOD Lactate-0.5
+___ 08:45AM BLOOD Lactate-0.9
+___ 01:09PM BLOOD Lactate-0.8
+
+IMAGING: 
+___BD & PELVIS WITH CO 
+FINDINGS: 
+  
+  
+LOWER CHEST: Moderately severe emphysematous changes of the 
+lower lung bases are noted. 
+  
+ABDOMEN: Liver, pancreas, gallbladder, spleen, adrenals are 
+unremarkable.  Abdominal aorta is moderately affective 
+atherosclerotic disease, but not aneurysmally dilated. 
+  
+There is a high-grade small-bowel obstruction with massively 
+dilated loops of small bowel measuring up to 6.5 cm.  The 
+terminal ileum and initial portions of the cecum and ascending 
+colon are noted to be inflamed with a thickened wall (02:43 and 
+601:17). Point of transition occurs at the start of this 
+inflammation (601:19). Large bowel is relatively collapsed. 
+Appendix unremarkable.  No evidence of pneumatosis.  No 
+hypoenhancing bowel wall. 
+  
+Small amount of abdominal and pelvic free fluid. 
+  
+PELVIS: Bladder is within normal limits.  Multiple surgical 
+clips are seen in the pelvis presumed noted to partial 
+prostatectomy. 
+  
+BONES AND SOFT TISSUES: No suspicious lytic or sclerotic 
+lesions. Significant degenerative changes of the hips right 
+greater the left.  Superior endplate compression deformity of 
+the L1 vertebral body is stable. 
+  
+IMPRESSION:  
+  
+High-grade small bowel obstruction with the transition point 
+beginning at a long segment of inflamed terminal ileum extending 
+into the ascending colon compatible with ___ stricture. 
+  
+Moderately severe emphysematous changes of the lung bases. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+___ Imaging ABDOMEN (SUPINE & ERECT)
+FINDINGS:  
+  
+There are multiple surgical clips seen overlying the pelvis 
+bilaterally.  The imaged portions of the lower lungs shows no 
+evidence of cardiomegaly or pleural effusion.  There is no free 
+intraperitoneal air. There is air seen throughout nondilated 
+segments of small and large bowel. There are few air-fluid 
+levels seen on upright view.  These findings are consistent with 
+provided history of resolving obstruction. 
+  
+IMPRESSION:  
+  
+Air-filled nondilated loops of large and small bowel. No 
+convincing evidence for ongoing obstruction. 
+
+MICRO: 
+___ BCx: NG (final)
+
+     
+
+ 
+Brief Hospital Course:
+Acute Medical Issues: 
+
+# Small bowel obstruction: Patient presented with abdominal 
+pain, nausea, and vomiting, no passage of flatus x3 days. CT ab 
+showed high grade small bowel obstruction at site of previously 
+seen ileal stricture on MRE ___. GI and ACS were consulted, and 
+an attempt was made at medical management, with IVF, NGT 
+decompression, strict NPO, and pain medication. IV solumedrol 20 
+mg q8hrs was added and the patient's home mesalamine and ___ 
+were held. He was also begun on IV cipro/flagyl for ___ 
+flare as below. Serial abdominal exams were performed with 
+significant improvement and the patient's lactate was trended. 
+His diet was advanced on HD3 and he was tolerating a full diet 
+w/low residue by HD 4. There were no clinical signs of 
+peritonitis or laboratory evidence of ischemia. On HD 5, he was 
+switched to PO prednisone 40 mg and PO cipro/flagyl which he 
+tolerated well. 
+
+# ___ disease: CT Ab & P showed high grade obstruction at 
+site of ileal stricture previously noted on MRE ___ as above. 
+The cause of his obstruction was felt to be in part a ___ 
+disease flare and he was treated with IV solumedrol 20 mg q8 
+hrs. His home mesalamine and ___ were stopped. He was discharged 
+on a two week course of prednisone 40 with a 5mg/week taper 
+thereafter. Per GI recommendations, he was restarted on his home 
+___ 75 mg po daily and his home mesalamine was stopped. 
+
+# GERD: Patient complaining of GERD symptoms and started on 
+pantoprazole in house. 
+
+Chronic Medical Issues: 
+
+# Osteoporosis: Patient's vit D and calcium were stopped in 
+hospital due to strict NPO status and restarted on discharge.
+
+Transitional Issues: 
+
+1) Per guidelines, prednisone > 20mg /d for > 4 weeks + second 
+immunosuppressive agent (e.g. ___ is an indication for PCP 
+___. Would consider starting him on tmp/smx po ss daily 
+as an outpatient depending on the course for his prednisone 
+taper and plan re: ___. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Mesalamine ___ mg PO BID 
+2. Mercaptopurine 75 mg PO DAILY 
+3. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral 2 tabslet Daily 
+
+ 
+Discharge Medications:
+1. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral 2 tabslet Daily 
+2. Mercaptopurine 75 mg PO DAILY 
+3. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*28 Tablet Refills:*0
+4. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth 8 Disp #*42 Tablet 
+Refills:*0
+5. PredniSONE 40 mg PO DAILY Duration: 14 Doses 
+Start: ___, First Dose: Next Routine Administration Time 
+your gastroenterologist will continue this taper at follow up 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*24 Tablet 
+Refills:*0
+6. PredniSONE 35 mg PO DAILY Duration: 7 Doses 
+Start: After 40 mg tapered dose 
+your gastroenterologist will continue this taper at follow up 
+RX *prednisone 5 mg 7 tablet(s) by mouth daily Disp #*91 Tablet 
+Refills:*0
+7. PredniSONE 30 mg PO DAILY Duration: 7 Doses 
+Start: After 35 mg tapered dose 
+your gastroenterologist will continue this taper at follow up 
+8. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Discharge Worksheet-Discharge ___, 
+MD on ___ @ 1131
+Primary Diagnosis:
+Small Bowel Obstruction
+Secondary Diagnosis:
+___ disease
+
+ 
+Discharge Condition:
+ 
+Discharge Worksheet-Discharge ___, 
+MD on ___ @ 1131
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Import Discharge Condition
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure caring for you during your hospitalization at 
+___. You were admitted with a small bowel obstruction 
+secondary to a Chron's stricture. You were managed with bowel 
+rest, decompression with an NG tube, IV steroids and 
+antibiotics. Your obstruction improved. We were able to remove 
+the NGT and you were able to tolerate a regular diet at 
+discharge. You should continue to take you steroids and 
+antibiotics at discharge. Your gastroenterologist will continue 
+your taper when you have your follow up appointment. You are 
+being provided with a prescription for 1 month of your steroids. 
+Please ask your gastroenterologist for a prescription for the 
+remainder of your taper at follow up next week
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13521465-DS-4 | hadm_id=23105284
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ h/o crohn's disease on pentasa, prostate cancer who presents 
+with generalized low abdominal pain over the past week.  He 
+describes post-parandial pain that occurs 3hrs after meals and 
+has increased in frequency over the past 24hrs.  His PCP's 
+office referred him to the ED where he had normal vitals and a 
+WBC of 12.4.  He received IV cipro in the ED.
+
+At his worst his abdominal pain was ___.  Currently his pain is 
+___.  He has not had fever/chills, nausea/vomitting, diarrhea, 
+tenesmus, or bloody stools.  He has had unintentional weight 
+loss down to 121 lbs from 137 in ___.  He has less 
+appetite and has had fewer stools down to once a day that remain 
+formed since he has eaten less.
+
+13pt review as per above and negative for cough, chest pain, 
+SOB, new rash, new back pain or weakness
+ 
+Past Medical History:
+#Crohn's disease
+#Prostate Cancer, plans for radical prostatectomy next month
+ 
+Social History:
+___
+Family History:
+pt unsure if h.o IBD
+ 
+Physical Exam:
+afebrile, 120s/60s, 70s
+thin, cacechtic male with visible iliac bones, and spinous 
+process
+no distress, aox3, fluent speech, no focal neuro deficits
+clear breath sounds
+regular s1 and s2
+slight abd pain lateral to umbilicus, L side
+rectal exam: no pain or external fistulas, no melena, minimally 
+positive guaiac on card
+no rebound or guarding
+no peripheral edema
+slight hyperpigmentation L anterior shin
+
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-10.5 RBC-4.35* Hgb-12.9* Hct-37.9* 
+MCV-87 MCH-29.7 MCHC-34.0 RDW-12.6 Plt ___
+___ 06:30AM BLOOD WBC-10.4 RBC-4.31* Hgb-12.7* Hct-37.7* 
+MCV-88 MCH-29.4 MCHC-33.6 RDW-12.4 Plt ___
+___ 06:40AM BLOOD WBC-9.3 RBC-3.94* Hgb-11.7* Hct-34.5* 
+MCV-88 MCH-29.7 MCHC-33.9 RDW-12.5 Plt ___
+___ 06:00AM BLOOD WBC-10.0 RBC-4.01* Hgb-11.9* Hct-35.2* 
+MCV-88 MCH-29.7 MCHC-33.9 RDW-12.5 Plt ___
+___ 04:05PM BLOOD WBC-12.4* RBC-4.59* Hgb-13.6* Hct-39.0* 
+MCV-85# MCH-29.6 MCHC-34.7 RDW-12.6 Plt ___
+___ 04:05PM BLOOD Neuts-88.3* Lymphs-5.8* Monos-5.3 Eos-0.2 
+Baso-0.4
+___ 04:05PM BLOOD ___ PTT-36.4 ___
+___ 06:00AM BLOOD ESR-8
+___ 06:15AM BLOOD Glucose-89 UreaN-5* Creat-0.6 Na-136 
+K-4.3 Cl-99 HCO3-31 AnGap-10
+___ 06:30AM BLOOD Glucose-103* UreaN-4* Creat-0.5 Na-135 
+K-4.1 Cl-99 HCO3-29 AnGap-11
+___ 06:40AM BLOOD Glucose-83 UreaN-5* Creat-0.5 Na-136 
+K-3.7 Cl-98 HCO3-29 AnGap-13
+___ 06:00AM BLOOD Glucose-62* UreaN-10 Creat-0.5 Na-136 
+K-3.8 Cl-97 HCO3-29 AnGap-14
+___ 04:05PM BLOOD Glucose-102* UreaN-15 Creat-0.7 Na-139 
+K-3.7 Cl-98 HCO3-28 AnGap-17
+___ 04:05PM BLOOD ALT-20 AST-24 AlkPhos-49 TotBili-0.3
+___ 04:05PM BLOOD Lipase-20
+___ 06:15AM BLOOD Phos-3.5 Mg-2.0
+___ 06:30AM BLOOD Phos-3.3 Mg-1.8
+___ 06:40AM BLOOD Calcium-8.4 Phos-2.7 Mg-1.7
+___ 06:00AM BLOOD Iron-43*
+___ 04:05PM BLOOD Albumin-3.9
+___ 06:00AM BLOOD calTIBC-170* VitB12-408 Ferritn-664* 
+TRF-131*
+___ 06:40AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+___ 06:00AM BLOOD CRP-55.3* PSA-3.5
+___ 06:40AM BLOOD TPMT GENOTYPE-PND
+___ 06:40AM BLOOD THIOPURINE METHYLTRANSFERASE (TPMT), 
+ERYTHROCYTES-PND
+.
+___ MRE:
+IMPRESSION:  
+1.  Long segment of distal ileum demonstrating wall thickening 
+and hyperemia, compatible with acute-on-chronic Crohn's disease, 
+progressed since ___, with new bowel dilation proximal 
+to this lesion, measuring up to 4 cm. There is progression of 
+oral contrast beyond the transition point at the right 
+mid-abdomen (901:68, 6:5).  
+2.  Multiple skip lesions with active inflammation and wall 
+thickening, 
+consistent with active Crohn's disease.  Bowel between the skip 
+lesions are also mildly dilated.   
+3.  Right perianal fistula or sinus tract is incompletely seen, 
+and likely present on ___.  Correlate with symptoms.  
+If further evaluation is desired, dedicated MR pelvis with 
+perianal fistula protocol could be considered 
+
+ 
+Brief Hospital Course:
+___ with h/o crohn's disease on pentasa, prostate cancer who 
+presented with post-prandial abdominal pain on background of 
+gradual anorexia and weight loss. 
+ 
+#acute on chronic Crohn's disease.  
+#Abdominal Pain: Initially considered a wide differential 
+including PUD, gastritis, IBD flare. However, elevated CRP and 
+MRE findings (skip lesions etc) confirmed acute on chronic 
+Crohns disease. Hepatitis serologies as well as PPD (read 
+___ negative. TPMT was sent and is PENDING at the time of 
+discharge. The GI service was consulted and initially 
+recommended bowel rest, IVF and IV steroids (20mg solumedrol 
+q8hrs). ___ symptoms improved on this regimen and his diet was 
+gradually advanced to a regular low residue diet. OF note, he 
+was evaluated by nutrition to give education on a low residue 
+diet and he was encouraged to drink boost or ensure TID given 
+his weight loss. Pt was continued on pentasa. Upon discharge, 
+___ IV steroids were discontinued and he was started on 9mg of 
+budesonide to take daily at least until his outpatient GI follow 
+up. GI may consider starting ___ if need be in the outpatient 
+setting. If steroids will be prolonged, can consider starting 
+calcium, vitamin D and bactrim for pcp ___. He was continued on 
+mesalamine. 
+.  
+#anemia-no signs of acute bleeding. LIkely due to anemia of 
+chronic disease per labs. Remained stable during admission. Labs 
+revealed anemia of chronic disease. 
+.  
+#Weight loss:  
+Pt reports has been over many years. Pt does not know how much 
+weight he has lost and has not kept track of this. Considered 
+both GI causes as well as known prostate cancer. However, pt has 
+localized prostate ca per urology notation and this is more 
+likely due to known active Crohn's disease. Nutrition was 
+consulted for education and also recommended boost TID. 
+.
+#Prostate Cancer: PSA 3.5 during admission. Pt believed to have 
+localized prostate ca and is already scheduled for an outpatient 
+radical prostatectomy. Pt expressed concern about his GI 
+treatment requiring steroids. The GI service has informed the 
+urology service that pt will need to be on PO budesonide for at 
+least 3 week's time pending his reevaluation with GI. In 
+addition, other immunosuppressive agents may be added if 
+indicated. The GI service does not feel that there needs to be a 
+delay in surgery due to the steriods. However, Dr. ___ 
+___ GI and Dr. ___ urologist should continue to 
+discuss the best plan of action for the patient in terms of his 
+IBD treatment and upcoming surgery.
+.
+FEN: regular low residue diet  
+dvt ppx: heparin SC during admission.  
+code: FULL  
+.
+Transitional care:
+1.continued monitoring of weight loss
+___ GI f/u to discuss any further options, additions, or 
+changes in current regimen. Pt to continue budesonide at least 
+until ___ f/u
+3.urology follow up for radical prostatectomy already arranged. 
+GI and urology will need to continue to discuss the optimal 
+timing for surgery for this patient.
+4. f/u pending labs
+___ 06:40    TPMT GENOTYPE PND 
+___ 06:40    THIOPURINE METHYLTRANSFERASE (TPMT), 
+ERYTHROCYTES PND 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Mesalamine ___ mg PO BID 
+
+ 
+Discharge Medications:
+1. Mesalamine ___ mg PO BID 
+2. Budesonide 9 mg PO DAILY 
+RX *budesonide 3 mg 9 mg by mouth take 9mg (3 pills ) daily Disp 
+#*90 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Crohn's flare 
+. 
+prostate cancer 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for evaluation of abdominal pain and diarrhea 
+and were found to have a Crohn's flare. For this, you were 
+initially given bowel rest and treated with IV steroids. Your 
+symptoms improved and you were able to tolerate a regular low 
+residue diet by the time of discharge. You were started on a new 
+medication called budesonide (steroid) which you will need to 
+continue to take until you discuss this further with your 
+gastroenterologist Dr. ___. You also had a "PPD" a test for 
+tuberculosis which returned negative.  You should also drink 
+ensure or boost at home with meals to increase your caloric 
+intake.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13521465-DS-7 | hadm_id=24647431
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___: Small-bowel resection and ileocecectomy
+ 
+History of Present Illness:
+___ hx ___ disease, prostate CA s/p prostatectomy, SBO 
+presenting with LLQ pain and abdominal distention. Patient 
+reports over last few weeks, has been having intermittent spasms 
+in LUQ. Mild mid abdominal pain, non-radiating, worse with 
+eating. No alleviating factors. Associated distention and 
+decreased flatus/BM, with thinner BMs than normal. Patient 
+reports last BM this morning. Pain feels like previous bowel 
+obstruction. Notes he has been vomiting, poor PO intake, noted 
+collared greens from Christmas dinner in recent vomuit. Denies 
+f/c, chest pain, shortness of breath, diarrhea, melena, 
+hematochezia, urinary symptoms.  
+
+Of note, patient recently admitted ___ for small bowel 
+obstruction secondary to ___ stricture for which he was 
+managed conservatively with NGT, steroids, abx.  Has been
+undergoing remicade infusions, has received 3 infusions, the 
+last
+one week ago. He also is on 20 of pred and ___. He says he is 
+not on mesalamine any longer
+ 
+In the ED initial vitals were: 8 98.6 104 133/86 18 99  
+- Labs were significant for wbc 14.7 with neutrophil 
+predominance 90%, lactate 1.7. KUB and ab CT c/f Crohns-related 
+SBO vs. less likely volvulus.  
+- Patient was given  
+___ 00:06 IV Ondansetron 4 mg  
+___ 00:06 IVF 1000 mL NS  
+___ 02:00 IVF 1000 mL NS  
+___ 02:00 IV Dextrose 50% 25 gm for  
+Patient was seen by ___ with recommendations for serial 
+abodminal exams and decompression. NGT was placed.
+Vitals prior to transfer were: 98.2 81 144/86 16 99% RA  
+
+On the floor, the pt is not passing flatus, with mild abdominal 
+distention but no pain. He is nauseous and thirsty.  
+
+Review of Systems: As above, otherwise neg in detail. 
+ 
+Past Medical History:
+1. Crohns disease  
+- ___ colonoscopy: edematous ulcerative lesions throughout 
+colon  
+- ___ with significant weight loss and decreased  
+appetite  
+- ___: CT: two distinct segmental small bowel abnormalities 
+with edema,heterogenous enhancement, and surrounding 
+inflammation and  
+lymphadenopathy  
+- ___ colonoscopy: inflamed and strictured TI with  
+abscesses in the descending colon and sigmoid colon -- 
+pathology: chronic active colitis at the TI, focal active 
+colitis  
+in the ascending colon and a single noncaseating mucosal  
+granuloma in the ascending colon with moderately active colitis  
+
+in the descending colon.  
+- ___ EGD: erythema and erosions of the mucosa in the antrum as 
+well as duodenal bulb ulcers and he was started on Pentasa  
+- ___: hospitalized with abdominal pain, which showed 
+increasing chronic inflammation of the distal ileum. Discharged 
+on budesonide  
+at that time  
+- ___: started on 6-mercaptopurine; and up-titrated to 75 mg 
+with  
+relative clinical control at 75 mg of 6-mercaptopurine, 9 mg of  
+
+budesonide, and full dose Pentasa  
+- ___: high-grade small-bowel obstruction: resolved with IV 
+steroids and he was discharged on prednisone taper, Pentasa, and 
+ 
+to continue with ___  
+- ___: started on remicaid and infliximab (#3 remicaide 
+infusion on ___  
+2. Prostate cancer s/p total prostectomy (___)  
+3. pancreatic cyst  
+- He underwent EUS with aspiration in ___ and had  
+received serial MRIs with growth since then  
+4. seborrheic keratosis  
+5. undescended testicle  
+6. osteoporosis  
+7. COPD  
+
+PSH:  
+1. chest cyst removal  
+2. total prostatectomy (___)  
+3. bilateral inguinal hernia repairs  
+ 
+Social History:
+___
+Family History:
+Maternal cousin with ___ disease. No other family  
+history of IBD or colon cancer  
+ 
+Physical Exam:
+ADMISSION:
+
+Vitals - 98.6 150/74 80 18 100% RA  
+GENERAL: NAD, tired appearing  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+dry MM, poor dentition, NGT in place draining stomach contents  
+NECK: nontender supple neck, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: mildly distended, rumbling BS, mildly tender with focal 
+rebound in LLQ, no guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose    
+NEURO: CN II-XII intact, sensiromotor function grossly intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 09:40PM   PLT COUNT-283
+___ 09:40PM   NEUTS-90.0* LYMPHS-4.5* MONOS-5.0 EOS-0.3 
+BASOS-0.2
+___ 09:40PM   WBC-14.7*# RBC-4.69 HGB-14.4 HCT-42.3 MCV-90 
+MCH-30.8 MCHC-34.1 RDW-14.3
+___ 09:40PM   CRP-41.2*
+___ 09:40PM   ALBUMIN-4.0
+___ 09:40PM   LIPASE-13
+___ 09:40PM   ALT(SGPT)-13 AST(SGOT)-22 ALK PHOS-41 TOT 
+BILI-0.9
+___ 09:40PM   estGFR-Using this
+___ 09:40PM   GLUCOSE-59* UREA N-28* CREAT-0.8 SODIUM-136 
+POTASSIUM-4.6 CHLORIDE-90* TOTAL CO2-29 ANION GAP-22*
+___ 09:47PM   LACTATE-1.7
+___ 10:47PM   ___ PTT-31.3 ___
+___ 04:19AM   GLUCOSE-80 LACTATE-0.9
+___ 03:38PM   PHOSPHATE-2.3* MAGNESIUM-1.9
+___ 03:38PM   SODIUM-137 POTASSIUM-4.1 CHLORIDE-101
+
+MICRO:
+
+___ 6:20 pm BLOOD CULTURE      Source: Venipuncture. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 6:04 pm BLOOD CULTURE      Source: Venipuncture. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 9:40 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING:
+
+CXR ___:  
+1. NG tube tip terminates outside of the field of view, likely 
+in the stomach.  
+2. No acute cardiopulmonary abnormality.  
+KUB:  
+Dilated small bowel with multiple air with fluid levels on 
+upright view concerning for a small bowel obstruction.
+
+CT ab/pelvis ___:
+IMPRESSION:
+1.  High-grade  small  bowel  obstruction  with  dilatation  of  
+the  small  bowel
+measuring  up  to  76  mm.  Etiology  of  obstruction  is  
+somewhat  unclear.    Equivocal
+mesenteric  swirling  ___  sign)  involving  decompressed 
+ small  bowel  loops
+just  distal  to  the  maximally  distended  small  bowel  can  
+suggest  volvulus  as  the
+obstructing  point  though  this  does  not  fit  the  clinical  
+picture.    However,
+wall  thickening  and  hyperemia  of  the  distal  involved  
+small  bowel  suggests
+___  involvement  as  the  far  more  likely  etiology.  
+However,  this  finding
+along  with  trace  ascites  is  can  be  seen  with  early  
+ischemia.  Close  clinical
+monitoring  and  emergent  surgical  consultation  is  advised.
+2.  Anasarca.
+3.  Centrilobular  emphysema.
+4.  Bilateral  hip  configuration  suggestive  of  mixed  
+pincer/CAM  type
+femoroacetabular  impingement.  Associated  mild  to  moderate  
+bilateral
+degenerative  hip  joint  change.
+
+ 
+Brief Hospital Course:
+ ___ hx ___ disease, prostate CA s/p prostatectomy, SBO 
+presenting with LLQ pain and abdominal distention, SBO on 
+imaging.
+  
+# Small bowel ___: Likely due to known 
+stricturing ___. Less likely volvulus given pt not in 
+significant pain. No e/o abdominal sepsis. Rapid recurrence and 
+stricturing nature of disease points to the need for operative 
+management. Malnourished. He was started on IV steroids, mIVF 
+with dextrose, thiamine, folate, MVI. ___ held per GI. Attempts 
+at diet advancement failed after NGT removed and the pt was 
+transferred to the colorectal surgical service for a Small-bowel 
+resection and ileocecectomy which he tolerated well. At the time 
+of discharge he was tolerating PO, was passing flatus and having 
+bowel movements. He will follow up in Colorectal surgery clinic 
+and will continue to follow with his PCP and GI physicians.
+
+# Osteoporosis: Cont vit D, Ca held as it interfered with Phos 
+repletion.
+
+# Nutrition: Pt was started on TPN while in the hospital, which 
+he tolerated well. Post op he was began on a clear diet, then 
+transitioned to a regular diet, which he tolerated well. His 
+PICC was d/ced prior to discharge 
+
+# Pneumonia: He was treated for Hospital acquired pneumonia with 
+vancomycin and Levofloxicin, which he tolerated well. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral 2 tabslet Daily 
+2. Mercaptopurine 75 mg PO DAILY 
+3. PredniSONE 20 mg PO DAILY 
+4. Alprostadil 20 mcg INTRACAVERNOSAL DAILY PRN impotence 
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO TID 
+2. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN pain  
+Do not Drive or consume alcohol while taking this medication  
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*60 Tablet Refills:*0
+3. Alprostadil 20 mcg INTRACAVERNOSAL DAILY PRN impotence 
+4. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral 2 tabslet Daily 
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+6. Docusate Sodium 100 mg PO BID 
+COntinue to take while taking oxycodone 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth Twice 
+a day Disp #*60 Capsule Refills:*0
+7. Senna 8.6 mg PO BID:PRN constipation  
+Continue to take while taking oxycodone 
+RX *sennosides [senna] 8.6 mg 1 by mouth Twice a day Disp #*60 
+Capsule Refills:*0
+
+1. Acetaminophen 1000 mg PO TID 
+2. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN pain  
+Do not Drive or consume alcohol while taking this medication  
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*60 Tablet Refills:*0
+3. Alprostadil 20 mcg INTRACAVERNOSAL DAILY PRN impotence 
+4. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral 2 tabslet Daily 
+5. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+6. Docusate Sodium 100 mg PO BID 
+COntinue to take while taking oxycodone 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth Twice 
+a day Disp #*60 Capsule Refills:*0
+7. Senna 8.6 mg PO BID:PRN constipation  
+Continue to take while taking oxycodone 
+RX *sennosides [senna] 8.6 mg 1 by mouth Twice a day Disp #*60 
+Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Crohn disease with obstruction.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital after a small bowel resection 
+and ileocecectomy for surgical management of your ___ 
+bowel obstruction. You have recovered from this procedure well 
+and you are now ready to return home. Samples from your colon 
+were taken and this tissue has been sent to the pathology 
+department for analysis. You will receive these pathology 
+results at your follow-up appointment. If there is an urgent 
+need for the surgeon to contact you regarding these results they 
+will contact you before this time. You have tolerated a regular 
+diet, passing gas and your pain is controlled with pain 
+medications by mouth. You may return home to finish your 
+recovery.
+                            
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patient’s to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected. However, if you notice that you are passing bright red 
+blood with bowel movements or having loose stool without 
+improvement please call the office or go to the emergency room 
+if the symptoms are severe. If you are taking narcotic pain 
+medications there is a risk that you will have some 
+constipation. Please take an over the counter stool softener 
+such as Colace, and if the symptoms do not improve call the 
+office. If you have any of the following symptoms please call 
+the office for advice or go to the emergency room if severe: 
+increasing abdominal distension, increasing abdominal pain, 
+nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or extended constipation.
+ 
+You have a long vertical incision on your abdomen that is closed 
+with staples. This incision can be left open to air or covered 
+with a dry sterile gauze dressing if the staples become 
+irritated from clothing. The staples will stay in place until 
+your first post-operative visit at which time they can be 
+removed in the clinic, most likely by the office nurse. Please 
+monitor the incision for signs and symptoms of infection 
+including: increasing redness at the incision, opening of the 
+incision, increased pain at the incision line, draining of 
+white/green/yellow/foul smelling drainage, or if you develop a 
+fever. Please call the office if you develop these symptoms or 
+go to the emergency room if the symptoms are severe. You may 
+shower, let the warm water run over the incision line and pat 
+the area dry with a towel, do not rub.
+ 
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by Dr. ___ Dr. ___. You may 
+gradually increase your activity as tolerated but clear heavy 
+exercise ________.
+ 
+You will be prescribed a small amount of the pain medication 
+oxycodone. Please take this medication exactly as prescribed. 
+You may take Tylenol as recommended for pain. Please do not take 
+more than 4000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication.
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities. Good luck!
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13521465-DS-5 | hadm_id=29611570
+
+ 
+Name:  ___                     ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PROSTATE CANCER
+ 
+Major Surgical or Invasive Procedure:
+radical prostatectomy; bilateral obturator lymph node dissection
+
+ 
+History of Present Illness:
+The patient has since undergone an MRI and bone scan for  
+staging purposes. He comes back to discuss these results.  
+He has had no urologic issues since we last saw him. He has had  
+
+a Crohn's flare, for which he is actively seeking treatment from 
+ 
+his primary care physician and ___ ___ physician.  
+We discussed the findings of his MRI, which showed no evidence 
+on  
+the MR of any osseous lesions in the pelvis. There was some  
+degenerative joint disease of the hips noted. The findings also  
+
+detailed. Findings consistent with prostate cancer in the right  
+
+lobe of the prostate. The patient's MR of the prostate shows  
+gland-confined disease throughout the right lobe of the prostate 
+ 
+gland, which is stage II, T2b on MRI. There was no evidence of  
+extracapsular extension on the study.  
+His bone scan shows mild focus of activity in the left ischium  
+that was not definitely seen on prior study. This again was not  
+
+seen on the MRI and therefore is not a concern for metastatic  
+disease.  
+
+ 
+Past Medical History:
+Crohn's disease
+prostate 
+HYPERTENSION
+Duodenal ulcers.  
+
+No prior surgical hx
+ 
+Social History:
+___
+Family History:
+pt unsure if h.o IBD
+ 
+Physical Exam:
+WDWN thin male w/ poor dentition
+flat abdomen, staples c/d/i
+jp drain has been removed
+ext w/out edema, pitting or calf pain
+foley in place, yellow UOP
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-10.3 RBC-3.05* Hgb-9.3*# Hct-26.8* 
+MCV-88 MCH-30.3 MCHC-34.5 RDW-13.6 Plt ___
+___ 06:59AM BLOOD WBC-11.2*# RBC-2.51* Hgb-7.3* Hct-22.2* 
+MCV-88 MCH-29.2 MCHC-33.0 RDW-13.7 Plt ___
+___ 08:45AM BLOOD WBC-7.1 RBC-2.65* Hgb-7.9* Hct-24.5* 
+MCV-92 MCH-29.8 MCHC-32.4 RDW-13.9 Plt ___
+___ 08:15AM BLOOD WBC-7.0# RBC-2.52* Hgb-7.6* Hct-22.9* 
+MCV-91 MCH-30.4 MCHC-33.4 RDW-14.0 Plt ___
+___ 02:06PM BLOOD WBC-15.7* RBC-3.21* Hgb-9.7* Hct-28.8* 
+MCV-90 MCH-30.1 MCHC-33.6 RDW-13.6 Plt ___
+___ 11:55AM BLOOD WBC-15.5* RBC-2.69*# Hgb-8.0*# Hct-24.4*# 
+MCV-91 MCH-29.8 MCHC-32.9 RDW-13.6 Plt ___
+___ 08:45AM BLOOD Glucose-80 UreaN-11 Creat-0.5 Na-139 
+K-4.7 Cl-104 HCO3-28 AnGap-12
+___ 08:15AM BLOOD Glucose-85 UreaN-10 Creat-0.5 Na-135 
+K-4.6 Cl-103 HCO3-27 AnGap-10
+___ 09:00PM BLOOD Glucose-94 UreaN-16 Creat-0.6 Na-137 
+K-4.8 Cl-105 HCO3-26 AnGap-11
+___ 11:55AM BLOOD Glucose-117* UreaN-18 Creat-0.6 Na-138 
+K-3.9 Cl-107 HCO3-25 AnGap-10
+___ 08:45AM BLOOD Calcium-8.0* Phos-3.8 Mg-1.9
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Urology Service after undergoing 
+radical prostatectomy with bilateral obturator lymph node 
+dissection. No concerning intra-operative events occurred; 
+please see dictated operative note for full details.  The 
+patient received ___ antibiotic prophylaxis.  At the 
+end of the procedure the patient was extubated and transported 
+to the PACU for further recovery before being transferred to the 
+floor.  He was transferred from the PACU in stable condition. On 
+POD0-1, pain was well controlled on PCA, hydrated with 
+intravenous fluids for urine output >30cc/hour, provided with 
+pneumoboots and incentive spirometry for prophylaxis, and he 
+ambulated once. On POD1, the patient was restarted on home 
+medications, basic metabolic panel and complete blood count were 
+checked, pain control was transitioned from PCA to oral 
+analgesics, diet was advanced to a clears/toast and crackers 
+diet for breakfast and lunch.  Hematocrit dropped to less than 
+25 and he was given two units of packed red blood cells on POD2 
+and monitored until POD3--date of discharge. Diet was advanced 
+to regular after lunch and with further ambulation.  JP drain 
+was removed prior to discharge on POD3.  Foley catheter care and 
+leg bag teaching was provided by nursing. The remainder of the 
+hospital course was unremarkable. The patient was discharged in 
+stable condition, eating well, ambulating independently, and 
+with pain control on oral analgesics. On exam, incision was 
+clean, dry, and intact, with no evidence of hematoma collection 
+or infection. The patient was given explicit instructions to 
+follow-up in one week for post-operative evaluation and trial of 
+voiding.
+
+ 
+Medications on Admission:
+Bedesonide, Mesalamine
+
+No known allergies.  
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H 
+2. Budesonide 9 mg PO DAILY 
+3. Mesalamine ___ mg PO BID 
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q6hrs Disp #*40 Tablet 
+Refills:*0
+5. Oxybutynin 5 mg PO TID:PRN bladder spasm 
+RX *oxybutynin chloride 5 mg ONE tablet extended release 24hr(s) 
+by mouth Daily Disp #*6 Tablet Refills:*0
+6. Bacitracin Ointment 1 Appl TP QID 
+7. Medication Routing Status for ___ to 
+___, ___ (___).
+ciprofloxacin 500 mg tablet ONE Tablet(s) by mouth BID (twice a 
+day) 
+Start one day prior to planned Foley removal/Voiding trial
+Disp# *6 Tablet* Refills: *0*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PROSTATE CANCER
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please also review the provided handout w/nursing instructions 
+on Foley catheter care and leg bag usage
+
+-To reduce the strain/pressure on your abdomen and incision 
+sites; remember to “log roll” onto your side and then use your 
+hands to push yourself upright while taking advantage of the 
+momentum of putting your legs/feet to the ground. 
+
+-Resume your pre-admission/home medications except as noted. 
+Always call to inform, review and discuss any medication changes 
+and your post-operative course with your primary care doctor
+
+--___ may be bandage strips called “steristrips” which have 
+been applied to reinforce wound closure. These are bandage 
+strips will gradually fall off on their own over time. PLEASE 
+REMOVE ANY REMAINING GAUZE DRESSINGS WITHIN 2 DAYS OF DISCHARGE 
+(like from the drain site).. You may get the steristrips wet.
+
+-As stated, you may resume your pre-admission medications except 
+as noted but you no longer need to take medications that shrink 
+your prostate (Hytrin, Avodart, etc.) unless advised to continue 
+them by the urologist
+
+-Please AVOID aspirin or aspirin containing products and 
+supplements that may have “blood-thinning” effects (like Fish 
+Oil, Vitamin E, etc.) until your Foley has been removed or you 
+are otherwise explicitly advised 
+
+-IBUPROFEN: please note that you may take this in addition to 
+the prescribed NARCOTIC pain medications and/or tylenol. FIRST, 
+alternate Tylen ol (acetaminophen) and Ibuprofen for pain 
+control. 
+
+-Ibuprofen (Brand names include ___ this should 
+always be taken with food. If you develop stomach pain or note 
+black stool, stop the Ibuprofen. Ibuprofen works best when taken 
+“around the clock.”
+
+-REPLACE the Tylenol with the prescribed narcotic if the 
+narcotic is combined with Tylenol (examples include brand names 
+___, Tylenol #3 w/ codeine and their generic 
+equivalents). ALWAYS discuss your medications (especially when 
+using narcotics or new medications) use with the pharmacist when 
+you first retrieve your prescription if you have any questions. 
+Use the narcotic pain medication for break-through pain that is 
+>4 on the pain scale.
+
+-The MAXIMUM dose of Tylenol (ACETAMINOPHEN) is 4 grams (from 
+ALL sources) PER DAY and remember that the prescribed narcotic 
+pain medication may also contain Tylenol (acetaminophen) so this 
+needs to be considered when monitoring your daily dose and 
+maximum.
+
+-Please do NOT drive, operate dangerous machinery, or consume 
+alcohol while taking narcotic pain medications.
+
+-For your safety and the safety of others; PLEASE DO NOT drive, 
+operate dangerous machinery, or consume alcohol while taking 
+narcotic pain medications. Do NOT drive while Foley catheter/Leg 
+bag are in place.
+
+-Colace has been prescribed to avoid post surgical constipation 
+and constipation related to narcotic pain medication. 
+Discontinue if loose stool or diarrhea develops. Colace is a 
+stool softener--it is NOT a laxative.
+
+-You may shower 2 days after surgery, but do not tub bathe, 
+swim, soak, or scrub incision for 2 weeks
+
+-No heavy lifting for 4 weeks (no more than 10 pounds)
+
+-Your Foley should be secured to the catheter secure on your 
+thigh at ALL times until your follow up with the surgeon.
+
+-Follow up in 1 week for wound check and Foley removal. DO NOT 
+have anyone else other than your Surgeon remove your Foley for 
+any reason.
+
+-Wear Large Foley bag for majority of time, leg bag is only for 
+short-term when leaving house.
+
+-Start prescribed antibiotic (Ciprofloxacin) 1 day prior to 
+scheduled Foley catheter removal and for two subsequent days
+
+-resume your regular home diet and remember to drink plenty of 
+fluids to keep hydrated and to prevent constipation
+
+-___ medical attention for fevers (temp>101.5), worsening pain, 
+drainage or excessive bleeding from incision, chest pain or 
+shortness of breath.
+
+ 
+Followup Instructions:
+___

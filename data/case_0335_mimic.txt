@@ -1,0 +1,1171 @@
+===== DISCHARGE NOTE =====
+note_id=14560475-DS-14 | hadm_id=20937535
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+L eye visual changes
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with history of 2 prior strokes
+(___), atrial fibrillation not on anticoagulation, HTN,
+alcohol use disorder, who presents to the ED with acute left eye
+vision changes. He reports that he was napping throughout the 
+day
+today which is not unusual for him and woke up at 2:45pm feeling
+normally. He then dozed again and awoke at 3:10pm with sudden
+vision changes of his left eye which he describes as narrowed
+visual field where he can only see through a pinhole. He notes
+that the vision through the pinhole is clear, but is severely
+restricted. He has baseline vision loss in his right eye and his
+left eye is typically normal. He denies speech changes,
+difficulty swallowing, facial weakness, arm or leg weakness,
+difficulty walking. He has not missed any doses of medications.
+ 
+Past Medical History:
+HTN
+HLD
+Afib not on anticoagulation
+Stroke (___)
+Alcohol use disorder
+
+ 
+Social History:
+___
+Family History:
+No family history of stroke.
+ 
+Physical Exam:
+General: Awake, cooperative, NAD.
+HEENT: MMM, no lesions noted in oropharynx.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation (though patient
+states that much of what he sees through his left eye is 
+blurry).
+Visual acuity ___ L, ___ R. Fundoscopic exam with 
+inability
+to visualize optic discs bilaterally.
+V: Facial sensation intact to light touch.
+VII: R facial weakness with activation (per patient and family,
+this is baseline).
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration, or proprioception throughout. Extinction to DSS of
+light touch of RLE only (not to UE or vision). 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+
+-Coordination: Intention tremor present on L. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally. Asterixis
+present bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing. 
+
+DISCHARGE 
+Alert, conversant, able to recount history without difficulty. 
+Left pupil reacts more sluggishly than the right. Left eye is 
+blind except for central vision at about 10 degrees. Full 
+strenght. No sensory deficits. Reflexes are symmetric. 
+Coordination is normal. 
+ 
+Pertinent Results:
+___ 06:06PM BLOOD WBC-7.3 RBC-4.35* Hgb-11.2* Hct-36.5* 
+MCV-84 MCH-25.7* MCHC-30.7* RDW-16.0* RDWSD-48.4* Plt ___
+___ 06:06PM BLOOD Neuts-64.6 ___ Monos-8.4 Eos-1.0 
+Baso-0.5 Im ___ AbsNeut-4.71 AbsLymp-1.84 AbsMono-0.61 
+AbsEos-0.07 AbsBaso-0.04
+___ 06:06PM BLOOD ___ PTT-24.9* ___
+___ 05:33AM BLOOD Glucose-92 UreaN-16 Creat-1.3* Na-142 
+K-4.5 Cl-104 HCO3-22 AnGap-16
+___ 05:33AM BLOOD ALT-11 AST-19 LD(LDH)-148 CK(CPK)-74 
+AlkPhos-65 TotBili-1.2
+___ 05:33AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 05:33AM BLOOD TotProt-6.5 Albumin-3.8 Globuln-2.7 
+Cholest-120
+___ 05:33AM BLOOD %HbA1c-5.9 eAG-123
+___ 05:33AM BLOOD Triglyc-54 HDL-51 CHOL/HD-2.4 LDLcalc-58
+___ 05:33AM BLOOD TSH-3.7
+___ 05:33AM BLOOD CRP-1.0
+___ 06:06PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 06:10PM BLOOD Glucose-108* Creat-1.4* Na-142 K-4.2 
+Cl-106 calHCO3-23
+
+___ Imaging CTA HEAD AND CTA NECK
+1. No acute intracranial abnormality.  Chronic infarction in the 
+caudate head
+and putamen.
+2. Complete occlusion of the left cervical ICA extending from 
+the bifurcation
+to the supraclinoid segment.  Left M1 segment narrowing, 
+unchanged.  Otherwise
+patent circle of ___ without evidence of 
+stenosis,occlusion,or aneurysm.
+3. Distal V2, V3, and proximal right V4 segments of the right 
+vertebral artery
+are not well seen, similar to the most recent study in ___.  
+Otherwise patent carotid and vertebral arteries without evidence 
+of stenosis,
+occlusion, or dissection.
+
+___ Imaging MRI & MRA BRAIN AND MRA
+1. No acute intracranial abnormality.  Old infarct in the left 
+basal ganglia.
+2. Complete occlusion of the left cervical ICA extending from 
+the bifurcation
+to the supraclinoid ICA where there is reconstitution of flow.  
+The appearance
+is suggestive of atherosclerotic disease related occlusion.
+3. Otherwise patent cervical carotid and vertebral arteries and 
+intracranial
+arteries without evidence of stenosis, occlusion,dissection or 
+aneurysm.
+
+___ Cardiovascular Transthoracic Echo Report
+Normal study. Normal biventricular cavity sizes and 
+regional/global biventricularsystolic function. Mild mitral 
+regurgitation with normal valve morphology. Normal 
+estimatedpulmonary artery systolic pressure. No definite 
+structural cardiac source of embolism identified
+ 
+Brief Hospital Course:
+___ man w/ PMH of 2 strokes (___), Afib (on ASA 325 mg), 
+HTN, HLD, and alcohol use disorder who presented with acute 
+vision loss of the left eye and found to have left ICA occlusion 
+with involvement of the left ophthalmic artery.
+
+Physical exam was notable for sluggish pupillary reaction in 
+left eye, ___ visual acuity in left eye (compared to ___ 
+in the right), loss of all visual fields of left eye with 
+macular sparing, nystagmus in left gaze, and left-sided 
+intention tremor.
+
+Etiology of occlusion thought to be a cardioembolic secondary to 
+A-fib since he is not on AC. Patient was treated acutely with a 
+heparin drip. His outpatient stroke neurologist, Dr. ___, has 
+had previously recommended initiating anticoagulation; however, 
+the patient was unwilling to cut back on the amount of alcohol 
+he consumed, so he was continued on ASA 325 mg daily. We again 
+recommended anticoagulation (eg warfarin), but the 
+patient/family declined. Ultimately, he was discharged on 
+aspirin and clopidogrel with plan to see cardiology for 
+consideration of a Watchman procedure.
+
+Patient's home HCTZ was held and his home dose of atenolol was 
+cut in half in the setting of ICA occlusion. Patient was 
+continued on his home medications of aspirin and atorvastatin.
+
+Transitional issues:
+===================
+- Continue aspirin 81 mg daily and clopidogrel 75 mg daily until 
+follow up with stroke.
+- Consider transition to anticoagulation, if patient is 
+amenable.
+- Continue to encourage alcohol cessation.
+- Follow up with cardiology for consideration of watchman 
+procedure.
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:
+2. DVT Prophylaxis administered? () Yes - (x) No. If no, why not 
+(therapeutically anticoagulated with heparin drip)
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (58) Yes (LDL = ) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+() Yes - (x) No. If no, why not? (patient at baseline functional 
+status)
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - (x) No - If no, why not (Patient 
+declined) () N/A
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Atenolol 50 mg PO DAILY 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Hydrochlorothiazide 12.5 mg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. Cyanocobalamin 1000 mcg PO DAILY 
+8. Thiamine 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY  
+2.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Atenolol 50 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Cyanocobalamin 1000 mcg PO DAILY  
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Hydrochlorothiazide 12.5 mg PO DAILY  
+8.  Omeprazole 20 mg PO DAILY  
+9.  Thiamine 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+- Acute cardioembolic thromboembolism occluding the left 
+internal carotid artery 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after you had a sudden loss of 
+your vision in your left eye. A CT scan and an MRI showed that 
+you had a blockage of a large blood vessel in your neck that 
+supplies blood to the eye. This is likely what caused your loss 
+of vision. This blockage is likely caused by a clot that came 
+from your heart since you have atrial fibrillation. 
+
+While in the hospital, you were treated with heparin, which is a 
+blood thinner. Blood thinners can help decrease your risk of 
+clots. Since you have atrial fibrillation and you were not 
+taking a blood thinner, you were at higher risk for developing a 
+clot like the one that caused your loss of vision. 
+
+When you are discharged, please follow the following 
+recommendations: 
+- Please attend all of your scheduled clinic appointments 
+- Please take all of your medications as prescribed 
+- See a cardiologist to discuss a Watchman procedure to decrease 
+the risk of stroke 
+
+MEDICATION CHANGES 
+- Start clopidogrel 75 mg daily 
+- Decrease aspirin to 81 mg daily 
+
+It was a pleasure taking care of you, 
+Your ___ care team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14560475-DS-12 | hadm_id=20961145
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Gait instability, vertigo, diplopia, and left facial numbness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old right handed man with past history
+of alcohol dependence, hypertension, hyperlipidemia, question of 
+paroxysmal Afib and one previous episode of vertigo who 
+presented with new onset gait instability.  Per report,
+the patient was in his usual state of health recently with no
+specific complaints on the evening of ___ when going to
+sleep.  He awoke around 0600hrs on ___ still without any
+symptoms and noted that after urinating in the bathroom around
+0630hrs, the patient developed some vertiginous sensation,
+vertical diplopia (which he did not check to see if it cleared
+with closing one eye) and had significant difficulty with
+balance.  He reported catching himself from falling on the door
+and radiator of the bathroom (with no headstrike), and sat on 
+the
+side of the tub. After ___ minutes, his vertiginous symptoms and
+diplopia resolved, and he was able to make his way back to bed
+and tried to sleep it off, telling his wife about these symptoms
+at 0730hrs.  At 1130hrs, per his daughter who lives with the
+patient's report, the patient's wife noted to her that she
+thought the patient was more dysarthric (has a stutter at
+baseline) and also she thought there was a slight droop in the
+patient's left mouth. 
+
+The daughter who accompanied him to the ___ could not confirm
+this finding, but did note that his voice was more dysarthric
+than usual; she noted having some difficulty in understanding
+him.  However, even with these changes he stayed at home trying
+to sleep off the symptoms until ___ at which time he was eating
+and noted weakness and numbness in the left face, and reported
+that while eating, he could not determine the temperature of the
+food it was eating, and that the taste was decreased.  He denied
+any difficulty with swallowing or chewing. He noted this facial
+sensory change was episodic which by the time that he reached 
+the
+ED around 1730hrs was normal. 
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred
+vision, dysphagia, lightheadedness, tinnitus or hearing
+difficulty. Denies difficulties comprehending speech.  Denies
+parasthesiae. No bowel or bladder incontinence or retention. 
+ 
+On general review of systems, the pt denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+- Alcoholism, cut down significantly but drinks ___ beers / day
+still per daughters.
+- Hypertension
+- Vitamin B12 deficiency
+- Hyperlipidemia
+- ?Paroxysmal Atrial Fibrilation
+
+ 
+Social History:
+___
+Family History:
+- Positive for Graves Disease in Mother and Type I Diabetes in
+family, negative for any neurologic disease including stroke,
+migraine, or other issues.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+
+Vitals:
+Pain=0, T=96.8F, HR=64, BP=143/78, RR=18, SaO2=97% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, mild left NLF droop, poor dentition
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs or ectopy on EKG or Telemetry
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, pulses palpated
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty.  Language is fluent with intact repetition
+and comprehension.  Some stuttering responses which per family 
+is
+consistent with baseline.  There were no paraphasic errors.  Pt.
+was able to name both high and low frequency objects.  Able to
+read without difficulty.  Speech was dysarthric per family
+(speech with thick ___ accent at baseline).  Able to
+follow both midline and appendicular commands.  Attentive, with
+good knowledge of current events.  There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 4 to 2mm, both directly and consentually; brisk
+bilaterally.  VFF to confrontation. 
+III, IV, VI: EOMI with end gaze horizontal nystagmus 
+bilaterally.
+Saccadic intrusions.
+V: Facial sensation intact to light touch, pinprick which was
+100% on the right face and 95% in V2/V3 distributions (too
+bilaterally on V1), and ___ strength noted bilateral in masseter
+VII: Mild NLF blunting with minimal decreased excursion of the
+left mouth.  Otherwise facial musculature symmetric and ___
+strength in upper and lower distributions, bilaterally 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline, and is equal ___ strength
+bilaterally as evidenced by tongue-in-cheek testing.
+
+ 
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. Tremor noted worse in left extremities. No 
+asterixis
+noted.
+ Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA ___
+L  ___   ___  ___   5   5    5     5   5
+R  ___   ___  ___   5   5    5     5   5
+ 
+-DTRs:
+    Bi  Tri  ___  Pat  Ach
+L   3    2     3     3    3
+R   3    2     3     3    3
+- Plantar response was flexor bilaterally.
+- Pectoralis Jerk and Crossed Adductors are present bilaterally. 
+
+ 
+-Sensory: Mild decrease in temperature/pinprick in left hemibody
+100% right / 95% left. Mild decrease in temperature/pinprick on
+face 100% right / 95% left in V2/V3 distributions per patient. 
+No
+extinction to DSS.
+
+-Coordination: Tremor worse in left, dysdiadochokinesia and
+dysmetria noted in left FNF, RAM. 
+
+-Gait: Good initiation. Narrow-based, with limited stride and 
+arm
+swing and held on to wall or examiner. Romberg absent.
+
+DISCHARGE  NEUROLOGIC EXAM
+
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history
+without difficulty.  Language is fluent with intact repetition
+and comprehension. Speech mildly dysarthric. Able to
+follow both midline and appendicular commands.  
+
+-Cranial Nerves:
+II: PERRL 4 to 2mm, both directly and consentually; brisk
+bilaterally.  VFF to confrontation. 
+III, IV, VI: EOMI with end gaze horizontal nystagmus 
+bilaterally.
+Saccadic intrusions.
+V: Facial sensation intact to light touch, reports slight 
+numbness in L face. ___ strength noted bilateral in masseter
+VII: Mild NLF blunting with minimal decreased excursion of the
+left mouth.  Otherwise facial musculature symmetric 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline, and is equal ___ strength
+bilaterally as evidenced by tongue-in-cheek testing.
+
+ 
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. Intention tremor noted worse in left extremities. 
+No asterixis
+noted.
+ Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA ___
+L  ___   ___  ___   5   5    5     5   5
+R  ___   ___  ___   5   5    5     5   5
+ 
+-DTRs:
+    Bi  Tri  ___  Pat  Ach
+L   3    2     3     3    3
+R   3    2     3     3    3
+- Plantar response was flexor bilaterally.
+ 
+-Sensory: Mild decrease in sensation on L side to PP. No
+extinction to DSS.
+
+-Coordination: Tremor worse in left, dysdiadochokinesia and
+dysmetria noted in left upper extremity FNF, RAM.  He has a 
+positive rebound R>L 
+
+-Gait: Good initiation. Narrow-based, normal stride. Romberg 
+absent.
+
+ 
+Pertinent Results:
+___ 05:10PM   WBC-7.6 RBC-4.57* HGB-14.4 HCT-42.8 MCV-94 
+MCH-31.5 MCHC-33.6 RDW-14.6
+___ 05:10PM   PLT SMR-LOW PLT COUNT-145___ 05:10PM   GLUCOSE-133* UREA N-18 CREAT-1.5* SODIUM-141 
+POTASSIUM-5.4* CHLORIDE-103 TOTAL CO2-21* ANION GAP-22*
+
+NCHCT: No acute intracranial abnormalities identified.
+
+MRI / MRA IMPRESSION: 
+1. Acute right superior cerebellar peduncle and adjacent 
+superior cerebellar infarct.  No hemorrhage or mass effect seen. 
+ 
+2. MRA of the neck shows diffuse atherosclerotic disease of the 
+right 
+vertebral artery.  
+3. MRA of the head shows no significant abnormalities or major 
+vascular 
+occlusion stenosis or aneurysm greater than 3 mm in size. 
+
+Head CT
+
+FINDINGS:  There is no evidence of an acute intracranial 
+hemorrhage, mass, 
+mass effect or infarction.  Mildly prominent ventricles and 
+sulci are likely 
+secondary to age-related involutional changes.  The basilar 
+cisterns are 
+patent.  The gray-white matter differentiation is otherwise 
+preserved. 
+  
+IMPRESSION:  No acute intracranial abnormalities identified. 
+
+ 
+Brief Hospital Course:
+___ is a ___ right handed man with a history of
+alcohol dependence, hypertension, hyperlipidemia and one 
+previous
+episode of vertigo who presented to the ED over the weekend on
+the urging of his family members. On the morning of ___, he
+developed vertigo, vertical diplopia and ataxia. He had to
+hold on to objects around him to walk steadily. He went back to
+bed, but then when he woke up, he was noted to be more 
+dysarthric
+than baseline and there was a question of a left facial droop.
+Later on that evening, he had difficulty with numbness on the
+left side of his face, and also noticed that he had difficulty
+noticing the temperature of foods in his mouth. 
+
+At home, he takes atenolol, HCTZ, thiamine and B12. He has had
+difficulties with EtOH dependence in the past, but more 
+recently,
+it appears that his habit has come under better control. Please
+see the admission note for more details. 
+
+Ultimately, he made it to the ED where he was hypertensive to
+143/78, and the neurological examination was notable for
+dysarthria with left facial droop. He had end-gaze nystagmus 
+with
+normal hearing. He had normal strength and sensation, and he had
+dysmetria on finger-nose testing on the left arm. His NCHCT
+identified some mild volume loss that was diffuse.
+ 
+While he has been on our service, he received an MRI and MRA 
+(his
+admission creatinine was elevated to 1.5). The MRI identifies a
+locus of restricted diffusion centered on the right superior
+cerebellar peduncle consistent with a partial SCA infarction. 
+The
+MRA identified no flow along the course of the left vertebral
+artery. The basilar artery appears fenestrated but perhaps this
+could be artifactual. Labs here have shown an elevated
+cholesterol level, with LDL of 139. His A1c is normal. 
+
+He had an echocardiogram in ___ that did not raise concern
+for an atrial shunt, though this was not done with bubble study.
+Overall, the story and objective findings are consistent with
+intracranial atherosclerosis, resulting in an artery-artery
+embolism to the right SCP. His risk factors need to be better
+addressed. 
+- ___ recommendations discharge to home
+- During this admission, we have started ASA 325mg and
+atorvastatin 40mg daily, which he should take together with his
+HCTZ and atenolol.
+- Repeat Cr has nicely come down to 1.2. 
+- Close follow up with PCP ___
+- ___ up with Dr. ___ in stroke clinic 
+
+ 
+Medications on Admission:
+- Atenolol 50mg daily
+- hydrochlorothiazide 12.5mg daily
+- Cyanocobalamin (vitamin B-12) 1,000mcg daily
+- Thiamine 100mg daily
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+2. Atorvastatin 40 mg PO HS 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*3
+3. Cyanocobalamin 100 mcg PO DAILY 
+RX *cyanocobalamin (vitamin B-12) 100 mcg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*3
+4. FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+5. Thiamine 100 mg PO DAILY 
+RX *thiamine HCl 100 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3
+6. Atenolol 50 mg PO DAILY 
+RX *atenolol 50 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+7. Hydrochlorothiazide 12.5 mg PO DAILY 
+RX *hydrochlorothiazide 12.5 mg 1 capsule(s) by mouth daily Disp 
+#*30 Tablet Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+R cerebellar peduncle stroke in the superior cerebellar artery 
+vascular bed
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you while you were at ___ 
+___.  You came in with symptoms of 
+vertigo - that the room was spinning around you, as well as 
+double vision, left facial numbness and decreased temperature 
+sensation, and imbalance.  You have many risk factors for having 
+a stroke, including high blood pressure, high cholesterol, and 
+possible atrial fibrillation.  Because of your symptoms and your 
+multiple risk factors, we were concerned that you were having a 
+stroke - an episode in which you do not get enough oxygen to a 
+specific area in your brain.  Because of our concerns, you were 
+admitted to the hospital.  While you were here we did several 
+tests.  We used a CT and MRI scanner to look at your brain, 
+which showed us that you had a stroke in the right cerebellar 
+peduncle - an area in the brain that would account for the 
+symptoms you were having.  
+
+We also did a workup to determine your risk factors for stroke.  
+We found that you have high cholesterol (LDL of 151), but do not 
+have diabetes. You did not have evidence of Afib on this 
+admission. As you had recently had a echocardiogram in ___, 
+we did not reimage your heart on this admission.
+
+Because of your stroke, we will recommend you take an aspirin 
+daily.  You are also prescribing you atorvastatin -  a 
+medication for high cholesterol.  We want you to have close 
+follow up with your primary care provider, who will help you 
+maintain good control of your blood pressure.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14560475-DS-13 | hadm_id=22992162
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+___ weakness and dysarthria 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The ___ was performed: 
+Date: ___
+Time: 
+(within 6 hours of patient presentation or neurology consult) 
+ 
+___ Stroke Scale score was : 3
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. Best gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb Ataxia: 1
+8. Sensory: 0
+9. Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0
+ 
+REASON FOR CONSULTATION: ? Stroke 
+
+HPI: 
+Mr. ___ is a ___ R handed gentleman mainly
+___ speaking with a past medical history of a right
+superior cerebellar peduncle stroke in ___ currently on 
+aspirin,
+hypertension, hyperlipidemia gout, and chronic daily alcohol 
+use.
+He presents today at the request of his family for concerns of
+___ weakness and dysarthria that was noted this morning.
+
+Briefly, the patient was last seen normal around 11 ___ when his
+family members went to sleep.  The patient continued to stay
+awake until about 2 or 3 AM watching TV before he went to sleep. 
+
+This morning, the patient's daughter entered his room to wake 
+him
+up at 8 AM for him to drive her to work.  This was strange as
+typically the patient wakes up a little bit before 8 AM on his
+own.  When she woke him up, she noted that his speech was 
+slurred
+but she thought it was because he was tired.  She left the room
+to let him get dressed.  After the period that was longer than
+usual, his daughter came back to the room and noted that he was
+having difficulty buckling his belt and was having difficulty
+using his right hand.  
+
+When she came into the room she saw that his right face seemed
+more droopy than usual.  When he spoke his speech was very
+unintelligible and it sounded like he was drunk.  He then
+proceeded to go to the bathroom without difficulty. She also
+maybe noted that his L eyelid was slightly drooping but she was
+unsure.  Next, they walked to the kitchen which was on the same
+floor.  The patient was able to take his medications and swallow
+the pills without difficulty, however when he was trying to 
+close
+the pill bottles he was having difficulty coordinating with his
+right hand.  At this point, his daughter felt very worried that
+he may have had a stroke or some other process and urged him to
+let her take him to the hospital, however the patient adamantly
+refused and said that he wanted to go back to sleep.  The 
+patient
+then went back to sleep and intermittently woke up every hour
+when his daughter called to check on him.  Between 8 and 12, the
+patient woke up twice and his speech was still slurred.  At 12
+___, the patient woke up and it was thought that his speech was
+slightly clear.  However at 1 ___, the patient was back to having
+very slurred speech and his facial droop was still present as
+noted by another daughter who came to check on him.  At 230pm,
+when the patient woke up again he was noted to have difficulty
+walking with dragging his right leg and was still dysarthric.  
+At
+this point, his family stated that they put him in the car and
+drove him to ___ for further evaluation.
+
+On discussion with the patient, he stated that he felt that he
+was slightly off this morning and that his speech was slurred 
+but
+otherwise he felt well.  He denied any headaches, any neck pain
+and no other systemic symptoms such as fever, chills,, or
+fatigue.  The patient states that he takes his medications every
+day with full compliance and his daughters also endorses this
+history. 
+
+Patient's daughters disclose that the patient has had issues 
+with
+drinking alcohol over many years.  After he had a stroke in ___
+the patient cut alcohol out cold ___ for about a year, 
+however
+he relapsed and started to drink again.  These days, the patient
+is drinking about 6 shots of whiskey between the hours of 5 ___
+and 11:30 ___.  He has never had any withdrawal seizures,
+typically does not get very drunk or have significant difficulty
+functioning. 
+
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred
+vision, diplopia,  dysphagia, lightheadedness, vertigo, tinnitus
+or hearing difficulty. Denies difficulties producing or
+comprehending speech.  Denies focal numbness, parasthesiae. No
+bowel or bladder incontinence or retention. 
+ 
+On general review of systems, the pt denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+ 
+ 
+Past Medical History:
+- Alcoholism
+-?liver cirrhosis, however patient unwilling to get liver u/s
+with PCP 
+- ___
+- ___ B12 deficiency
+- Hyperlipidemia
+-Prior stroke in ___ thought to be atheroembolic. Takes aspirin
+325mg daily. No afib detected
+ 
+Social History:
+Primary language ___, but ___ speaking
+- Lives at home with wife and daughter, ___ in all ADLs
+- Quit Tobacco recently, 6 shots of whiskey per day.  Denies
+Illicits. Sleeps at ___ am, wakes up at ___aughter 
+to
+work then sleeps again until about 3pm
+
+- Modified Rankin Scale:
+[] 0: No symptoms
+[X] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+ 
+Family History:
+- Positive for Graves Disease in Mother and Type I Diabetes in 
+family, negative for any neurologic disease including stroke, 
+migraine, or other issues.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 98.0  P: 74  R: 16  BP: 135/71 SaO2: 98% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, ___
+Abdomen: soft, ___
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x self, date, location. Able to
+relate history without difficulty. Attentive, able to name ___
+backward without difficulty. Language is fluent with intact
+repetition and comprehension in Creole. Normal prosody. There
+were no paraphasic errors. Pt was able to name high frequency
+objects, had difficulty withlow frequency on stroke card, likely
+due to language barrier.  Able to read without difficulty. 
+Speech
+was moderately  dysarthric. Able to follow both midline and
+appendicular commands.  There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. 
+V: Facial sensation intact to light touch.
+VII: very slight RNLFF , slower to activate by a small amount
+compared to L 
+VIII: Hearing intact to ___ bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with ___ testing.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+Significant postural and actin tremor in UEs L>R. No asterixis 
+on
+exam today. He is overall full strength but had significant
+ORBITING around the R arm . 
+
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  5    ___   ___   5    5     5     5   
+R  5    ___   ___   5    5     5     5   
+
+-Sensory: No deficits to light touch,  cold sensation, vibratory
+sense, proprioception throughout. No extinction to DSS. Romberg
+absent. 
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  3  3    3    3   1
+R  3  3    3    3   1
+Plantar response was mute bilaterally.
+
+-Coordination: bilateral intention tremor. mild R sided
+dysemetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. ___, normal stride and arm
+swing.  Slightly dragging R leg. Able to walk on toes and heels. 
+
+==========================================================
+
+DISCHARGE PHYSICAL EXAM:
+___ 1112 Temp: 98.5 PO BP: 109/72 HR: 58 RR: 20 O2
+sat: 96% O2 delivery: RA 
+
+General: NAD
+HEENT: NCAT
+CV: warm and ___
+Pulmonary: breathing comfortably in room air
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x3, able to relate
+history. Speech is fluent without paraphasic errors. No
+dysarthria. 
+- Cranial Nerves: ___, EOMI, VFF, No facial asymmetry,Able to
+perceive sensations over face. Tongue strength full.
+Neurologic Examination:
+
+- Motor: Normal bulk and tone. Full power over all extremities.
+B/L resting and action tremors noted (L>R).
+
+-Reflexes: Brisk and symmetrical throughout.
+Plantar response :Flexor ___
+
+-Sensory: Able to perceive touch, pain and temperature
+throughout. Normal Proprioception
+
+-___: Able to do FTF with some dysmetria and active
+action tremor B/L and HKS B/L .
+
+-Gait: Normal stride and initiation. No staggering noted.
+ 
+Pertinent Results:
+LABS:
+___ 04:42PM BLOOD ___ 
+___ Plt ___
+___ 04:42PM BLOOD ___ 
+___ Im ___ 
+___
+___ 05:15AM BLOOD ___ ___
+___ 04:42PM BLOOD ___ 
+___
+___ 04:42PM BLOOD ___
+___ 04:42PM BLOOD cTropnT-<0.01
+___ 04:42PM BLOOD ___
+___ 04:42PM BLOOD ___
+___ 05:15AM BLOOD ___
+___ 04:42PM BLOOD ___
+___ 06:15PM BLOOD ___ 
+___
+___ 04:48PM BLOOD ___
+
+IMAGING:
+CXR ___:
+Subtle right base opacity may represent atelectasis, subtle 
+aspiration or
+infection is not entirely excluded.
+
+CTA HEAD AND NECK ___:
+1. Subacute infarct centered in the left caudate head and left 
+putamen.
+2. No evidence of hemorrhage.
+3. Mild global parenchymal volume loss and evidence of chronic 
+small vessel ischemic disease.
+4. Multifocal paranasal sinus disease.
+5. Stenosis of the distal right vertebral artery with no 
+intracranial flow demonstrated.
+6. Otherwise patent intracranial and cervical vasculature.
+
+MRI BRAIN WITHOUT CONTRAST ___:
+1. Early subacute infarction with hemorrhage involving the left 
+caudate head, left putamen, and surrounding structures.
+2. Irregular narrowing of the left M1 segment vascular flow 
+void, better characterized on recent CT examination.
+3. Background global parenchymal volume loss and evidence of 
+chronic small vessel ischemic disease.
+4. Multifocal paranasal sinus disease, as detailed above.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ R handed gentleman from 
+___ who presented with R facial droop, R sided mild 
+weakness in arm and leg and dysarthria noted about 8 AM on 
+___ after last known well time was 11pm the night before. 
+Initial exam was notable for very subtle signs of weakness with 
+slower activation to smile on the R, orbiting around the R arm, 
+and dragging his R leg when walking. He also has some slight 
+dysmetria on the R which may be new or part of his prior stroke 
+in the R cerebellar peduncle. His exam improved with full 
+strength throughout with no facial asymmetry and active 
+intentional tremors and slight dysmetria R>L on FNF tests. On 
+MRI, patient had early subacute infarction involving the left 
+caudate head, left putamen, and surrounding structures with a 
+small amount of hemorrhagic component. A CTA head and neck 
+showed the distal right vertebral artery with no intracranial 
+flow demonstrated but was otherwise unremarkable. He was started 
+on aspirin 81mg. Telemetry revealed afib, which was diagnosed 
+previously, but patient was ___ with warfarin. 
+Apixaban was recommended, but patient's ___ was too high and 
+therefore, warfarin was once again recommended for stroke 
+prophylaxis. Etiology of the stroke thought to be cardioembolic 
+from afib not on anticoagulation. Other risk factors checked: 
+A1c 5.8. LDL 63. 
+
+He will continue on aspirin until PCP ___ next week, at 
+which point he should start warfarin. 
+
+Transitional Issues 
+-Initiate warfarin. PCP to ___ INR checks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Atenolol 50 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Hydrochlorothiazide 12.5 mg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. Aspirin 325 mg PO DAILY 
+8. Cyanocobalamin 1000 mcg PO DAILY 
+9. Thiamine 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+___ will continue this until ___ start warfarin.  
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Allopurinol ___ mg PO DAILY  
+3.  Atenolol 50 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Cyanocobalamin 1000 mcg PO DAILY  
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Hydrochlorothiazide 12.5 mg PO DAILY  
+8.  Omeprazole 20 mg PO DAILY  
+9.  Thiamine 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left caudate/putamen ischemic stroke with hemorrhagic conversion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+___ were hospitalized due to symptoms of right sided weakness 
+and difficulty speaking resulting from an ACUTE ISCHEMIC STROKE 
+a condition where a blood vessel providing oxygen and nutrients 
+to the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms. There was also a small 
+amount of bleeding associated with the stroke. 
+
+Stroke can have many different causes, so we assessed ___ for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+
+- high blood pressure
+- Chronic alcohol intake
+- abnormal heart rhythm (afib)
+
+We are changing your medications as follows:  
+-continue on aspirin 81mg until ___ with your PCP
+-___ will be started on warfarin, a blood thinning medication 
+after discussion with your PCP
+
+___ will need your blood levels checked to make sure your blood 
+is thin enough to prevent stroke. 
+
+It is very important for ___ to stop drinking alcohol.  
+
+Please take your other medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician 
+as listed below.  
+
+If ___ experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+___  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+Sincerely,  
+
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,848 @@
+===== DISCHARGE NOTE =====
+note_id=12775924-DS-13 | hadm_id=24760168
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Procardia
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of Breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ M with hx of DM, HTN, diverticulosis,s/p partial colectomy, 
+depression, CKD, ___ vascular dementia, s/p pacemaker, 
+who has been experiencing night desaturation for the past few 
+days, worse this evening.  At ___, he had awoken with 
+SOB, satting 89% on 3L NC, improved to 95% on mask at 5L.  Pt 
+was given Lasix 40 mg po and 81 mg ASA.  Pt had a second episode 
+of SOB overnight, satting 70-80% on mask at 8L and was 
+transferred to ___.  RR was 28, BP 150/80, HR 64, T 98 ax.  
+Patient was non-communicative at time of exam and history was 
+obtained from medical record and from family report.
+.
+On arrival to ___ ED, SpO2 76% on NRB, ABG of 7.34/66/53.  He 
+was started on BiPap (FiO2 60%, PEEP 5, PS 10) with improvement 
+of O2 sat to 90-100%.  He received a nitro gtt, Lasix 60 mg IV, 
+levofloxacin 750 mg IV, and albuterol nebulizer.   
+.  
+On review of symptoms, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, hemoptysis, black stools 
+or red stools. He denies recent fevers, chills or rigors. He has 
+a chronic raspy cough per the daughter. All of the other review 
+of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+palpitations.  Daughter is not aware of any dyspnea on exertion, 
+orthopnea.  She has noted that he had ankle edema ("elephant 
+legs") in the late ___ and early ___ and had asked ___ 
+___ Life to start the patient on Lasix.  Daughter denies any 
+syncope or presyncope.  He has poor functional capacity at 
+baseline.
+
+  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. Type 2 DM  
+2. Thoracic pseudoaneursym of aorta, 4.3 cm in diameter 
+3. HTN  
+4. Diverticulosis, s/p partial colectomy  
+5. Depression  
+6. CRI (baseline Cr 1.3-1.7)  
+7. ___ disease  
+8. Vascular dementia
+9. Pacemaker c/b lead thrombus. Previously followed by Dr ___ 
+___ "episodic unreponsiveness." This resolved with pacemaker 
+adjustment.  Recently seen by Dr. ___ for 
+the thrombus, anticoagulation deferred for h/o falls, unsteady 
+gait, and confusion.
+11. s/p hip fracture requiring ORIF in ___ with a 
+complicated medical course including hypoxic respiratory 
+failure.
+12. Chronic diastolic dysfunction.
+
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.
+ 
+Physical Exam:
+VS: T 95.7 ax, BP 130/85, HR 79, RR 16, O2 95% on BiPap  
+Gen: Fatigued older male in NAD. Oriented to self only, ___, 
+___  Per daughter, mental status at baseline.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM.  
+Neck: Supple with JVP of 7 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. ?S3.  No murmurs noted.  
+Chest:  No accessory muscle use.  Decreased breath sounds 
+throughout, diffuse rhonchi.  No crackles, wheezes.  
+Abd: Normoactive, soft, NT/ND, No HSM. No abdominial bruits.  
+Ext: No femoral bruits.  Trace pedal edema bilaterally.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Neuro:  PERRL, EOMI.  Resting tremor.
+.
+Pulses:  
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ 
+___  
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ 
+___
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 04:05AM BLOOD 
+WBC-10.8 RBC-4.64# Hgb-13.5*# Hct-41.4# MCV-89 MCH-29.1 
+MCHC-32.6 RDW-14.3 Plt ___
+Neuts-84.1* Lymphs-10.8* Monos-2.3 Eos-2.6 Baso-0.2
+___ PTT-27.7 ___
+Glucose-208* UreaN-22* Creat-1.5* Na-145 K-3.5 Cl-101 HCO3-37* 
+AnGap-11
+
+___ 04:05AM BLOOD 
+ALT-16 AST-19 LD(LDH)-200 CK(CPK)-85 AlkPhos-70 TotBili-0.4
+CK-MB-NotDone proBNP-1203*
+Albumin-4.2 Mg-2.0
+.
+___ 04:20AM BLOOD
+Type-ART pO2-53* pCO2-66* pH-7.34* calTCO2-37* Base XS-6 
+Intubat-NOT INTUBA
+.
+___ 05:37AM   TYPE-ART PO2-70* PCO2-68* PH-7.32* TOTAL 
+CO2-37* BASE XS-5 INTUBATED-NOT INTUBA
+.
+___ 10:51AM   TYPE-ART PEEP-5 O2-60 PO2-130* PCO2-66* 
+PH-7.35 TOTAL CO2-38* BASE XS-8 INTUBATED-NOT INTUBA
+.
+___ 01:44PM   CK-MB-NotDone cTropnT-0.02*
+___ 01:44PM   CK(CPK)-67
+.
+___ 04:28AM 
+Triglyc-163* HDL-34 CHOL/HD-4.1 LDLcalc-72
+.
+___ MRN:   ___  Portable TTE (Complete) 
+Done ___ at 2:12:50 ___      FINAL 
+The left atrium is dilated. There is moderate symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Due to suboptimal technical quality, a focal wall motion 
+abnormality cannot be fully excluded. Overall left ventricular 
+systolic function is normal (LVEF>55%). Right ventricular 
+chamber size and free wall motion are normal. The aortic root is 
+moderately dilated at the sinus level. The ascending aorta is 
+moderately dilated. Trace aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Trivial mitral regurgitation is seen. The left 
+ventricular inflow pattern suggests impaired relaxation. The 
+pulmonary artery systolic pressure could not be determined. 
+There is an anterior space which most likely represents a fat 
+pad. 
+.
+Compared with the prior study (images reviewed) of ___, 
+the previously suspected thrombus on the pacing wire is not 
+apparent on the current study. However, the suboptimal image 
+quality precludes close examination of the pacing wrie. The 
+other findings are similar.  
+.
+Radiology Report CHEST (PORTABLE AP) Study Date of ___ 4:03 
+AM 
+UPRIGHT PORABLE CHEST 
+Streaky linear atelectasis is noted extending from the region of 
+the right 
+hila and at the left base in this patient with persistent low 
+lung volumes. No evidence of interstitial pulmonary edema, 
+pneumothorax, or consolidation to suggest pneumonia. The 
+cardiomediastinal silhouette is unchanged with stable appearance 
+to abnormal contour projecting above the aortic knob consistent 
+with the patient's known pseudoaneurysm. Positioning of 
+pacemaker leads is unchanged. 
+.
+Radiology Report CHEST (PA & LAT) Study Date of ___ 1:___re not well penetrated. The right hemidiaphragm 
+is elevated, as before. The lungs appear clear except for 
+streaky density in the retrocardiac area, which is suboptimally 
+evaluated. The cardiac silhouette appears large but may be 
+exaggerated by AP technique. A 4.5 cm round density projected 
+adjacent to the aortic knob, consistent with a known aortic 
+pseudoaneurysm is unchanged. Mediastinal structures are 
+unchanged in appearance, and the bony thorax is grossly intact. 
+A bipolar transvenous pacemaker remains in place.   
+IMPRESSION: Streaky density in the retrocardiac area that may 
+represent 
+partial atelectasis or consolidation. Elevation of the right 
+hemidiaphragm. No definite interval change. 
+
+ 
+Brief Hospital Course:
+The patient is an ___ man with a history of Diabetes, 
+Hypertension, diastolic CHF, s/p pacemaker, CKD, ___, 
+and vascular dementia who presented for SOB/hypoxia and found to 
+be in hypercarbic/hypoxic respiratory failure requiring BiPap.
+.
+# Hypercarbic/hypoxic respiratory failure:  The patient was 
+hypoxic on admission with  SpO2 76% on NRB and an arterial blood 
+gas of 7.34/66/53.  He was started on BiPap (FiO2 60%, PEEP 5, 
+PS 10) with improvement of O2 sat to 90-100% which was weaned 
+over several hours.  The patient had no history of COPD or 
+asthma.  His acute hypoxia was felt to be due to diastolic heart 
+failure, although CXR appeared to have mild pulmonary edema 
+without significant change from ___.  The patient was afebrile, 
+without cough, fever or leukocytosis.  PE was considered given a 
+previously noted thrombus in the RA and the patient's poor 
+functional capacity at baseline. However, repeat ECHO was 
+without evidence of thrombus and there was no evidence of DVT on 
+physical exam.  The patient received Lasix boluses for diuresis 
+and was slowly switched back to his home dose of PO Lasix.  Over 
+the course of hospitalization the patient had marked improvement 
+in his supplemental oxygen requirements and at the time of 
+discharge he was sating well on 4L of oxygen.  
+.
+# Diastolic CHF:  The patient had an Echocardiogram in ___ with 
+evidence of mild pulmonary artery systolic hypertension and 
+diastolic dysfunction.  On presentation this admission, the 
+patient lacked overt volume overload on arrival and chest xray 
+was not remarkably changed from previous exams.  However, BNP 
+was elevated at 1203. Blood pressure was noted to be 150/80 and 
+the patient was given IV Lasix boluses and started on a Nitro 
+gtt for blood pressure control.  Repeat ECHO showed little 
+change since previous exam.  We would encourage daily weights 
+and a low sodium diet in this patient.  Should his weight 
+increase greater than 3 pounds, he should be given an extra ___ 
+dose of Lasix. 
+.
+# HTN:  The patient was noted to be hypertensive during 
+admission, with systolic blood pressures to the 160's/170's.  He 
+was initially started on a Nitro drip for immediate blood 
+pressure control.  He was then transitioned to oral medications. 
+ His home dose of metoprolol was increased from 12.5mg daily to 
+100mg and he was started on Imdur 30mg daily with a good 
+response in BP.  At the time of discharge, his blood pressure 
+was in an acceptable range of 110's systolic.
+.
+# CAD/Ischemia: The patient had an episode of chest pain.  
+Cardiac enzymes were unremarkable with troponin was slightly 
+elevated in setting of chronic renal failure, possible demand 
+ischemia from diastolic CHF. The patient had no known history of 
+CAD and no evidence of acute ischemic changes on EKG.
+.
+# DM: The patient was maintained in glipizide and an insulin 
+sliding scale for extra coverage.
+.
+# CRI (baseline Cr 1.3-1.7):  The patient had a history of 
+chronic renal insufficiency and on arrival, his creatinine was 
+at baseline.  Following Lasix diuresis, the patient's creatinine 
+increased to a peak of 1.9 but was trending down at the time of 
+discharge.  The patient was discharged on his home dose of Lasix 
+(60mg).  His renal function should be carefully monitored and 
+his Lasix dosing adjusted accordingly.
+.
+# ___ disease/Vascular Dementia/Depression:  The patient 
+was maintained on his normal regiment of donepezil, Mirapex, 
+bupropion HCl, and Celexa 20 mg.  His nightly trazodone dose was 
+increased to 25mg QHS.
+.
+# Code status: Full code, confirmed with daughter.
+. 
+ 
+Medications on Admission:
+CURRENT MEDICATIONS:
+Furosemide 60 mg daily, started in ___
+Metoprolol XL 12.5 mg daily
+KCl 10 meq MWF
+Glipizide 5 mg daily
+Acetaminophen 975 mg q 6 hrs
+Bupropion Hcl 75 mg bid
+Celexa 20 mg daily
+Donepezil 10 mg daily
+Mirapex 0.25 mg TID
+Trazodone 12.5 mg qhs
+Keflex ___ mg daily for chronic suppressive therapy
+Ferrous sulfate 325 mg daily
+Vitamin D 1000 units daily
+Calcium carbonated 650 mg bid 
+Vitamin C
+Vitamin B12 1000 mcg IM monthly
+Melatonin 4 mg qhs
+ 
+Discharge Medications:
+1. Bupropion 75 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+4. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+7. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).  
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed.  
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+11. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+12. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+13. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+14. Isosorbide Mononitrate 10 mg Tablet Sig: One (1) Tablet PO 
+BID (2 times a day).  
+15. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+16. Potassium Chloride 10 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO MWF.  
+17. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q24H 
+(every 24 hours).  
+18. Iron (Ferrous Sulfate) 325 mg (65 mg Iron) Tablet Sig: One 
+(1) Tablet PO once a day.  
+19. Vitamin C 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+20. Vitamin B-12 1,000 mcg/mL Solution Sig: One (1)  Injection 
+once a month.  
+21. Melatonin 1 mg Tablet Sig: Four (4) Tablet PO qHS.  
+22. Lasix 20 mg Tablet Sig: Three (3) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+diastolic Heart Failure 
+HTN  
+Type 2 DM  
+CRI (1.3-1.7)  
+ 
+Secondary: 
+Diverticulosis, s/p partial colectomy  
+Depression  
+___ disease  
+Dementia-vascular on MRI ___  
+Pacemaker  
+ 
+Discharge Condition:
+The patient was hemodynamically stable, afebrile and without 
+pain.  He was sating 96% on 3L NC oxygen.
+
+ 
+Discharge Instructions:
+You were admitted for evaluation of shortness of breath.  It was 
+felt that your symptoms were realated to poor heart function.  
+You were treated with diuretics and oxygen with a significant 
+improvement in your symptoms.
+
+During your hospitalization, it was noted that your blood 
+pressure was elevated.  We have increased your dose of 
+metoprolol to 100mg daily and we have also added an additional 
+medication (Imdur).  You should take both medications as 
+prescribed.
+
+We have also increased your dose of trazadone from 12.5 to 25mg 
+every evening.  
+
+Please take all medications as prescribed.
+
+You should follow-up with your primary care doctor with regards 
+to your kidney function.  
+
+You should be weighed daily.  If you have a weight gain > 3lbs, 
+you should take an EXTRA dose of Lasix (40 mg) in the evening.
+
+Please call your doctor or return to the hospital if you develop 
+chest pain, increased shortness of breath, numbness or tingling 
+in your arm, nausea, vomiting, fevers, chills or any other 
+symptoms of concern.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12775924-DS-14 | hadm_id=27194337
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Procardia / Sulfa (Sulfonamides) / Sulfamethoxazole / 
+Trimethoprim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Unresponsiveness
+ 
+Major Surgical or Invasive Procedure:
+Sleep Study
+Fluoroscopic swallow study
+
+ 
+History of Present Illness:
+This is an ___ year old man with history of Diabetes Mellitus, 
+Hypertension, diverticulosis status post partial colectomy, 
+depression, CKD, vascular dementia, Parkinsonism, and status 
+post pacemaker who presented to the ED from ___ for 
+unresponsiveness. At 6:45AM, patient was noted to be in 
+respiratory distress, O2 sat was 91%, and was placed on NRB. A 
+nurse walking by had noted that he was tachypneic and called a 
+code blue. Pulse was recorded as 81, BP 100/50, O2 sat 100% on 
+NRB. ABG: 7.21/101/92. Glucose 242. Received Lasix 60 mg IV.  
+.  
+In the ED: V/S afebrile, BP 110/50, RR ___ on NRB O2 sat 91%. 
+Patient was placed on BiPAP. Nitro gtt was started for CHF but 
+SBP in ___ so it was stopped. Given hypoxia, concern was for PE. 
+Bilateral LENIS were done which was negative. Pt received 
+vancomycin, ceftriaxone, and levaquin. Head CT was neg. for 
+bleed. Patient was then transferred to MICU for further 
+management. Patient was non-communicative at time of exam and 
+history was obtained from medical record and from family report. 
+ 
+.  
+Of note, patient was just discharged yesterday from ___ for 
+hypoxia/CHF exacerbation. Patient presented on that admission 
+with SpO2 76% on NRB and an arterial blood gas of 7.34/66/53. He 
+was started on BiPap (FiO2 60%, PEEP 5, PS 10) with improvement 
+of O2 sat to 90-100% which was weaned over several hours. PE was 
+on the differential during this last hospitalization as he has 
+history of RA thrombus so TTE was done which showed no thrombus, 
+LENIS were also negative. He was started on Lasix and was weaned 
+down to 4L NC on discharge.  
+.  
+On review of symptoms, family denies any prior history of 
+stroke, TIA, deep venous thrombosis, pulmonary embolism, 
+bleeding at the time of surgery, myalgias, joint pains, 
+hemoptysis, black stools or red stools. Denies recent fevers, 
+chills or rigors. He has a chronic raspy cough per the daughter. 
+All of the other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+palpitations. Daughter is not aware of any dyspnea on exertion, 
+orthopnea. She has noted that he had ankle edema ("elephant 
+legs") in the late ___ and early ___ and had asked ___ 
+___ to start the patient on Lasix. Daughter denies any 
+syncope or presyncope. He has poor functional capacity at 
+baseline.  
+
+ 
+Past Medical History:
+1. Type 2 DM  
+2. Thoracic pseudoaneursym of aorta, 4.3 cm in diameter  
+3. HTN  
+4. Diverticulosis, s/p partial colectomy  
+5. Depression  
+6. CRI (baseline Cr 1.3-1.7)  
+7. ___ disease  
+8. Vascular dementia  
+9. Pacemaker c/b lead thrombus. Previously followed by Dr ___  
+
+___ "episodic unreponsiveness." This resolved with pacemaker  
+adjustment. Recently seen by Dr. ___ for  
+the thrombus, anticoagulation deferred for h/o falls, unsteady  
+gait, and confusion.  
+11. s/p hip fracture requiring ORIF in ___ with a  
+complicated medical course including hypoxic respiratory  
+failure.  
+12. Chronic diastolic dysfunction.  
+
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  
+
+ 
+Physical Exam:
+VS: T 96.0 ax, BP 126/62, HR 78, RR 24, O2 100% on BiPap ___  
+Gen: Unresponsive.  
+HEENT: NCAT. Sclera anicteric. Constricted pupils. MMM.  
+Neck: Supple with JVP of 7 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line.  
+RR, normal S1, S2. No murmurs noted.  
+Chest: No accessory muscle use. Decreased breath sounds  
+throughout, diffuse rhonchi. No crackles, wheezes.  
+Abd: Normoactive, soft, NT/ND, No HSM. No abdominial bruits.  
+Ext: No femoral bruits. Trace pedal edema bilaterally.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+Neuro: Minimally responsive to sternal rub.  
+.  
+Pulses:  
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ 
+___  
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+  
+___  
+.
+.
+On discharge exam not significantly changed except patient's 
+mental status has considerably improved.  Vital signs stable and 
+within normal limits (no further supplementary oxygen 
+requirement).  Alert and Oriented *2 (not to date) and 
+responding to some questions appropriately though confused with 
+others.  Conversational.  Lungs clear to auscultation 
+bilaterally.  
+ 
+Pertinent Results:
+<b>LABORATORY RESULTS<B>
+=======================
+Labs on Admission
+WBC-7.2 RBC-4.27* Hgb-12.5* Hct-37.9* MCV-89 Plt ___ PTT-28.5 ___
+Glucose-198* UreaN-43* Creat-1.8* Na-144 K-3.8 Cl-99 HCO3-36* 
+AnGap-13
+.
+ABG on ___: ART Rates-/25 PEEP-5 FiO2-35 pO2-76* pCO2-78* 
+pH-7.30* calTCO2-40* Base XS-8 Intubat-NOT INTUBA
+.
+ABG on ___ pO2-76* pCO2-62* pH-7.41 calTCO2-41* Base 
+XS-11 Intubat-NOT INTUBA
+.
+Labs on Discharge
+WBC-6.7 RBC-4.20* Hgb-12.1* Hct-38.2* MCV-91 Plt ___
+Glucose-205* UreaN-42* Creat-1.7* Na-145 K-4.3 Cl-100 HCO3-39* 
+AnGap-10
+ALT-15 AST-15 LD(LDH)-107 AlkPhos-62 TotBili-0.3
+Calcium-9.4 Phos-3.1 Mg-2.4
+. 
+Cardiac Enzymes:
+Trop: 0.03-0.02-0.02
+CK-MB: ___
+.
+.
+.
+<b>RADIOLOGY<B>
+===============
+CT HEAD on ___
+IMPRESSION: 
+No acute intracranial pathology. Atherosclerotic disease and old 
+lacunar-type infarcts as described above.
+.
+CT Chest on ___
+IMPRESSION: 
+1. Technically limited CT due to submaximal inspiratory level 
+and respiratory motion. No substantial change in atelectasis 
+involving the majority of right lower lobe adjacent to an 
+elevated right hemidiaphragm. High-attenuation foci peripherally 
+could potentially represent aspirated barium if the patient has 
+had a prior oral contrast examination. 
+2. No short interval change in pseudoaneurysm since recent CTA. 
+.
+.
+<B>OTHER STUDIES<b> 
+Video Swallow Study ___:
+SUMMARY:
+Pt presents with mild-moderate oropharyngeal dysphagia as
+described above.  There was premature spillage of liquids and
+swallow initiation delay which resulted in silent aspiration of
+thin liquids before and during the swallow and laryngeal
+penetration of nectar thick liquids during the swallow.  Pt was
+not sensate to aspiration and did not produce spontaneous cough. 
+
+Treatment techniques were not effective in reducing penetration
+or aspiration.  Pt also presented with prolonged mastication of
+solids.  This represents a decline in swallow function since 
+pt's
+most recent videoswallow study, performed on ___ while pt 
+was
+at ___.  
+
+Based on these deficits, I recommend a PO diet of ground solids
+and nectar thick liquids at this time.  Pt should have PO meds
+whole in puree.  Pt is still at risk for intermittent aspiration
+with nectar thick liquids due to laryngeal penetration, though 
+it
+was not observed on our study.  However, I believe it is worth
+trialing this diet in hopes that these restrictions will have a
+positive effect on pt's respiratory symptoms.  If there is
+continued concern for aspiration on this diet, repeat
+videoswallow study is recommended with consideration of further
+restricting pt's liquid intake.  
+
+This swallowing pattern correlates to a Dysphagia Outcome
+Severity Scale (DOSS) rating of 4, mild-moderate dysphagia.
+
+RECOMMENDATIONS:
+1. PO diet: ground solids, nectar thick liquids
+2. PO meds whole in puree
+3. Supervision and assistance with meals as needed to maintain
+standard aspiration precautions.
+4. If there is continued concern for aspiration on this diet,
+repeat videoswallow study is recommended with consideration of
+further restricting pt's liquid intake.  
+.
+Sleep Study from ___:
+IMPRESSION:  
+This was an abnormal portable polysomnogram.  There was
+presumptive evidence of significant nocturnal hypoventilation 
+and
+hypoxemia in the form of persistently low oxygen saturations. 
+Moreover, there were evidence for severe chemoreflex-mediated
+sleep-disordered breathing. 
+.
+Suggest empiric trial of nocturnal BiPAP ___ with backup rate 
+of
+8 breaths per minute and 2L/min of oxygen.  If he tolerates 
+this,
+he can go home with this.
+
+ 
+Brief Hospital Course:
+The patient is an ___ year old man with a history of Diabetes, 
+Hypertension, diastolic CHF, status post pacemaker, CKD, 
+___, and vascular dementia who presented for 
+unresponsiveness and was found to be in hypercarbic respiratory 
+failure.  
+.  
+# Acute mental status changes: On arrival the patient was 
+minimally responsive to sternal rub and did not withdraw 
+extremities to pain. Given the ABG obtained at the outside 
+facility the likely cause of his unresponsiveness was 
+hypercarbic respiratory failure. Urine tox for opiates was 
+negative and a head CT showed no acute process.  There were no 
+signs of infection as the patient was afebrile, had no 
+localizing symptoms, and had no leukocytosis. BiPAP was started 
+and patient's mental status resolved with improving ABG's over 
+the next two to three days so that on day of discharge he was at 
+his baseline mental status.  
+.  
+# Respiratory failure: Pt was in hypercarbic respiratory failure 
+at ___. There was strong suspicion he is a CO2 retainer at 
+baseline as also had elevated CO2's during last hospitalization. 
+ The cause of this was difficult to elucidate.  Initially, we 
+screened for pharmacologic causes of altered mental status, but 
+the urine tox screen was negative.  Pramipexole and Trazodone 
+were both potentially sedating medications so trazodone was 
+stopped and pramipexole dose was halved. Other etiologies of 
+potential respiratory failure were also pursued.  Pulmonary was 
+consulted and the general pulmonary team didn't think there was 
+a primary pulmonary process for this problem, especially with 
+negative chest CT.  Concern was also raised for aspiration, as 
+patient seemed to be choking on thin liquids.  Speech and 
+swallow performed a fluoroscopic swallow evaluation and did did 
+document dysphagia, but patient was already on aspiration 
+precautions as an outpatient so an acute aspiration episode was 
+considered a less likely cause of respiratory failure.  Another 
+etiology pursued was sleep apnea as the patient had a history of 
+snoring.  Sleep consult was obtained and inpatient sleep study 
+showed central sleep apnea pattern and recommended BiPAP.  
+Finally, to screen for possible causes of central sleep apnea, 
+neurology was consulted and said Parkinsonism or vascular 
+dementia are possible but unlikely causes of central apnea.  
+Patient was thus treated empirically with BiPAP and discharged 
+with prescription for this therapy.
+.  
+# Pump: Patient has history of diastolic dysfunction and 
+inadequate control of his diastolic heart failure was considered 
+one possible contributing factor to his respiratory failure.  
+Thus, over the course of the hospitalization we worked to 
+optimize heart failure therapy titrating the patient's diuretic 
+and beta blocker as well as adding an ACE inhibitor for better 
+control of blood.  Patient was initially diuresed about one and 
+a half liters then kept at relatively neutral fluid balance 
+therafter.    
+.  
+# CAD/Ischemia: EKG showed possible new T wave inversions at 
+admission but cardiac enzymes flat and never significant.  ACS 
+considered extremely unlikely as cause for acute respiratory 
+decompensation and no further work-up was pursued.  
+.  
+# Rhythm: Patient was in NSR throughout hospitalization but 
+bizarre wide complex rhythm obtained from pacemaker recording.  
+EP evaluated and thought unlikely to be afib and was probably an 
+unusual sinus rhythm.  The patient was followed on telemetry 
+throughout his hospitalization and had no clinically significant 
+dysrhythmias.    
+.  
+# Diabetes Mellitus Type II: The patient was maintained on 
+sliding scale insulin and was reasonably well controlled in the 
+hospital.   
+.  
+# Chronic Kidney Disease (baseline Cr 1.3-1.7): Patient remained 
+at stable Cr throughout addition of ACEi and other modifications 
+to HTN regimen.  No acute issues.  
+.  
+# ___ disease/Vascular Dementia/Depression: Very unclear 
+history of the exact etiologies of these processes.  Unclear if 
+___ disease vs Parkinsonism as consequence of vascular 
+dementia.  Patient's Pramipexole initially weaned down due to 
+fear of sedation but neurology said this could worsen dysphagia 
+so he was returned to his admission dose.  Psychiatric 
+medications continued at home doses.  
+.
+The patient was NPO initially but as his mental status cleared 
+he was allowed to eat.  Liquids were thickened and he had ground 
+solids per Speech and Swallow reccs.  he was maintained on SC 
+heparin for DVT prophylaxis.  He was DNR but 1 shock was 
+allowed, which was confirmed by the patient's health care 
+proxies.  He was discharged to ___ after 
+stabilized on new medication regimen and probable cause of 
+hypercarbic episodes was discovered.  
+ 
+Medications on Admission:
+Bupropion 75 mg BID  
+Calcium Carbonate 500 mg BID  
+Vitamin D3 400 DAILY  
+Citalopram 20 mg DAILY  
+Donepezil 10 mg PO HS  
+Ferrous Sulfate 325 mg DAILY  
+Pramipexole 0.25 mg PO TID  
+Docusate Sodium 100 mg BID  
+Bisacodyl 10 mg DAILY  
+Senna 8.6 mg BID PRN  
+Aspirin 325 mg DAILY  
+Glipizide 5 mg DAILY  
+Trazodone 25 mg qHS  
+Isosorbide Mononitrate 10 mg BID  
+Metoprolol Succinate 100 mg DAILY  
+Potassium Chloride 10 mEq PO MWF.  
+Cephalexin 500 mg Q24H  
+Iron 325 mg PO DAILY  
+Vitamin C 100 mg Daily  
+Vitamin B-12 1,000 mcg/mL SQ qMonthly  
+Melatonin 4 mg PO qHS.  
+Lasix 60 mg Daily  
+
+ 
+Discharge Medications:
+1. Bupropion 75 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1) 
+Tablet PO once a day.  
+3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+6. Isosorbide Mononitrate 10 mg Tablet Sig: One (1) Tablet PO 
+BID (2 times a day).  
+7. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+9. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).  
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Cyanocobalamin 1,000 mcg/mL Solution Sig: One (1)  Injection 
+once a month.  
+12. Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+13. Nitrostat 0.4 mg Tablet, Sublingual Sig: One (1)  Sublingual 
+q 5 minutes x3 as needed for chest pain.  
+14. Potassium Chloride 10 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day.  
+15. Acetaminophen 325 mg Tablet Sig: Three (3) Tablet PO every 
+six (6) hours.  
+16. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+17. Melatonin 1 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+18. Metoprolol Succinate 200 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+19. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+20. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1) 
+Tablet PO twice a day.  
+21. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.  
+22. BiPAP
+Nasal CPAP w/PSV (BIPAP) Inspiratory pressure: 12 cm/h2o 
+Expiratory pressure: 6 cm/h2o Backup rate: 8 bth/min Supp O2: 2 
+L/min
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses: 
+=================== 
+Sleep Apnea 
+Diastolic Heart Failure 
+. 
+Secondary Diagnoses: 
+==================== 
+1. Diabetes Mellitus, type 2 
+2. Thoracic pseudoaneursym of aorta, 4.3 cm in diameter  
+3. Hypertension 
+4. Diverticulosis, s/p partial colectomy  
+5. Depression  
+6. Chronic Kidney Disease (baseline Cr 1.3-1.7)  
+7. ___ disease  
+8. Vascular dementia  
+9. Pacemaker placed for "episodic unreponsiveness," which 
+resolved with pacemaker adjustment  
+10. s/p hip fracture requiring ORIF in ___ with a  
+complicated medical course including hypoxic respiratory  
+failure.  
+
+ 
+Discharge Condition:
+Comfortable, not requiring O2, tolerating P.O.'s
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because you were confused and 
+not thinking well.  We believe this was due to you having low 
+oxygen in your blood and high carbon dioxide due to not 
+breathing adequately.  This was most likely due to the fact that 
+ you stop breathing when you sleep in addition to a bit a bit of 
+a worsening of your heart failure.  
+.
+Your medications have been changed.  You have been started on 
+LISINOPRIL, a medication to help control your blood pressure.  
+Your METOPROLOL XL dose was also increased to better control 
+your blood pressure.  Your FUROSEMIDE (LASIX) dose has been 
+decreased in order to protect you from the combined affect of it 
+and LISINOPRIL on your kidneys.  Your TRAZODONE has been stopped 
+as this medication might worsen your breathing at night.  
+.
+You have also been started on BiPAP, a treatment to help your 
+breathing at night.  This intervention should help you continue 
+to breathe adequately throughout the night and prevent episodes 
+of low oxygen and high carbon dioxide in the blood such as those 
+that brought you into the hospital.
+.
+Please keep all scheduled appointments as these are important to 
+maintain your health.  
+.
+Please weigh yourself daily and call your MD if weight > 3 lbs.
+Please adher to a 2 gm sodium/day diet.  Please call your doctor 
+or report to the ED if you have chest pain, shortness of breath, 
+Fever to ___ F, increased swelling of your legs, or any other 
+disturbing changes to your health.
+Fluid Restriction:
+ 
+Followup Instructions:
+___

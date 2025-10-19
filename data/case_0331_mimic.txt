@@ -1,0 +1,156 @@
+===== DISCHARGE NOTE =====
+note_id=18371623-DS-14 | hadm_id=22418496
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None performed 
+
+attach
+ 
+Pertinent Results:
+LABS
+========================
+
+___ 11:50AM BLOOD WBC-7.6 RBC-3.76* Hgb-12.0 Hct-35.8 
+MCV-95 MCH-31.9 MCHC-33.5 RDW-11.6 RDWSD-40.4 Plt ___
+___ 11:50AM BLOOD Neuts-74.5* ___ Monos-5.8 
+Eos-0.0* Baso-0.5 Im ___ AbsNeut-5.65 AbsLymp-1.45 
+AbsMono-0.44 AbsEos-0.00* AbsBaso-0.04
+___ 11:50AM BLOOD Glucose-86 UreaN-11 Creat-0.6 Na-142 
+K-4.2 Cl-104 HCO3-22 AnGap-16
+___ 11:50AM BLOOD cTropnT-<0.01
+___ 11:50AM BLOOD Calcium-9.3 Phos-3.7 Mg-1.9
+___ 11:50AM BLOOD CRP-1.8
+
+IMAGING
+========================
+
+STRESS EKG ___:
+IMPRESSION: No exercise induced ectopy, anginal type symptoms or 
+
+ischemic EKG changes. 
+
+ECHO ___:
+IMPRESSION: Normal left ventricular wall thickness, cavity size 
+and regional systolic function.
+Low normal global systolic function. No valvular pathology or 
+pathologic flow identified. Normal
+pulmonary artery systolic pressure. No prior study available for 
+comparison.
+ 
+MICROBIOLOGY
+==========================
+None. 
+
+ 
+Brief Hospital Course:
+SUMMARY
+==========
+Ms. ___ is a ___ year old woman with recently diagnosed SVT 
+at ___ ED (___) who presents now with bothersome frequent 
+episodes of chest discomfort, SOB and lightheadedness though 
+without any definite palpitations or tachycardia on her home 
+heart rate monitor. She had a 5-beat run of NSVT sent to us as a 
+rhythm strip from ___, with an EKG demonstrating possible AVNRT. 
+She experienced lightheadedness and chest discomfort so far this 
+hospital stay without any correlating dysrhythmia on telemetry 
+or orthostatic hypotension to explain it. She was treated with 
+1L IVF bolus, metoprolol tartrate 12.5mg BID with improvement in 
+symptoms. TTE this admission with LVEF 53%, no wall motion 
+abnormalities, or valvular disease. Treadmill EKG negative. She 
+was evaluated by electrophysiology specialists. She will be 
+discharged with a 5 day course of metoprolol succinate 25mg 
+DAILY with verapamil 80mg PO as needed for palpitations. She is 
+scheduled for close follow up and will be discharged with Zio 
+Patch event monitor for 14 days. 
+
+TRANSITIONAL ISSUES
+=========================
+[] Patient should take 25mg metoprolol succinate daily for 5 
+days. 
+[] Patient discharged with 80mg verapamil to take AS NEEDED for 
+symptoms of palpitations. 
+[] She will be discharged home with ZioPatch event monitor to be 
+worn for 14 days, the results of which will be discussed at her 
+cardiology appointment. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diltiazem 60 mg PO TID:PRN palpitations 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*5 Tablet Refills:*0 
+2.  Verapamil 80 mg PO PRN palpitations 
+RX *verapamil 80 mg 1 tablet(s) by mouth Q8H: PRN Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+========================
+Palpitations
+AVNRT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___!
+
+WHY WAS I IN THE HOSPITAL?
+You were in the hospital due to palpitations. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+You were monitored on telemetry which did not show a recurrence 
+in the abnormal heart beats that were noted at the other 
+hospital. You had a stress test which was also normal. You were 
+started on a medicine to prevent abnormal heart beats which you 
+will take for 5 days. You were also given fluids. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You will be given a monitor to wear for 14 days to monitor for 
+any abnormal heart rhythms. The heart rhythm specialists will 
+review this with you at your appointment. 
+- You will be discharged with metoprolol to take for 5 days and 
+second medication, verapamil, which you can take if you feel 
+palpitations. 
+- In the next five days, if you feel palpitations, you should 
+attempt Valsalva maneuvers, if they persist, contact your 
+medical provider. 
+- After you finish the metoprolol, if the palpitations occur, 
+you can take verapamil as needed. 
+- If you feel severe light-headedness or chest pain, you should 
+seek medical attention. 
+
+We wish you the best and a happy new year!
+
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

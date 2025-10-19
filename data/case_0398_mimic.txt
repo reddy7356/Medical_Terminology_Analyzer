@@ -1,0 +1,334 @@
+===== DISCHARGE NOTE =====
+note_id=18506365-DS-21 | hadm_id=24821037
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ ___, HTN, HLD who presented to 
+___ for chest pain that was radiating to 
+his back. A CTA at the OSH revealed a 1.5cm descending aortic 
+ulcer. His INR was 2.5 (on Coumadin)so he was given Vitamin K 
+10mg IV and FFP 2 units for reversal of his Coumadin. He also 
+had a guaiac positive stool so he was given 1U PRBCs. Prior to 
+transfer he was also found to have an elevated troponin of 0.1; 
+however, he has CKD so it is unclear. He also developed 
+tachycardia and hypotension. He is on rate control medications 
+for atrial fibrillation at home, but has not been receiving 
+them. 
+
+Upon arrival to the ___ ED he reported that he was having no 
+chest pain or shortness of breath. C-surg was consulted for his 
+aortic arch ulceration. On further investigation, the aortic 
+arch ulceration appears to be an old finding per ___ records 
+years ago. As a result there is no need for urgent C-surg 
+intervention and they recommended vascular surgery consult for 
+possible stenting. 
+
+He continued to have wide complex tachycardia with hypotension 
+in the ED, so he was given an additional 500cc bolus NS. 
+Cardiology was consulted and felt that the wide complex 
+tachycardia was most likely Afib with aberrancy. 
+
+While in the ED he developed dyspnea and a new O2 requirement so 
+a CXR was obtained which showed evidence of pulmonary edema.
+ 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+
+2. CARDIAC HISTORY  
+- ___
+
+3. OTHER PAST MEDICAL HISTORY
+- Throat cancer treated at ___
+- Hypothyroid  
+- CKD
+ 
+Social History:
+___
+Family History:
+Sister has an abdominal aortic aneurysm
+Mother died following open heart surgery, pt unsure what surgery 
+it was
+ 
+Physical Exam:
+==========================
+ADMISSION PHYSICAL EXAM
+==========================
+VS: T97.4 BP100s/60s HR120s RR18 O2 SAT 97% 2LNC
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+CARDIAC: Tachycardic, no murmurs, rubs, gallops appreciated 
+LUNGS: No chest wall deformities or tenderness. Diffuse crackles 
+throughout
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: WWP, chronic venous stasis changes bilaterally, no 
+evidence of peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses dopplerable
+
+==========================
+DISCHARGE PHYSICAL EXAM
+==========================
+VS: Afeb, BP 100s/40s-60s, HR ___, RR18, O2 SAT 96% RA
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+CARDIAC: RRR. No murmurs, rubs, gallops appreciated 
+LUNGS: No chest wall deformities or tenderness. Diffuse crackles 
+throughout
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: WWP, chronic venous stasis changes bilaterally, no 
+evidence of peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses dopplerable
+ 
+Pertinent Results:
+========================
+ADMISSION LABS
+========================
+___ 07:40PM BLOOD WBC-16.9* RBC-3.09* Hgb-8.5* Hct-27.4* 
+MCV-89 MCH-27.5 MCHC-31.0* RDW-17.8* RDWSD-56.6* Plt ___
+___ 07:40PM BLOOD Neuts-89.3* Lymphs-3.2* Monos-5.7 
+Eos-0.4* Baso-0.3 NRBC-0.2* Im ___ AbsNeut-15.12* 
+AbsLymp-0.55* AbsMono-0.96* AbsEos-0.07 AbsBaso-0.05
+___ 07:40PM BLOOD ___ PTT-33.2 ___
+___ 07:40PM BLOOD Glucose-420* UreaN-72* Creat-1.6* Na-130* 
+K-4.8 Cl-89* HCO3-26 AnGap-20
+___ 07:40PM BLOOD cTropnT-0.07*
+___ 12:17AM BLOOD CK-MB-14* cTropnT-0.31*
+___ 07:40PM BLOOD Calcium-8.9 Phos-4.1 Mg-1.9
+___ 07:48PM BLOOD Lactate-3.1*
+
+========================
+DISCHARGE LABS
+========================
+___ 06:15AM BLOOD WBC-9.1 RBC-3.09* Hgb-9.0* Hct-27.3* 
+MCV-88 MCH-29.1 MCHC-33.0 RDW-18.0* RDWSD-54.5* Plt ___
+___ 09:00AM BLOOD ___ PTT-27.2 ___
+___ 06:15AM BLOOD Glucose-176* UreaN-58* Creat-1.5* Na-132* 
+K-4.3 Cl-90* HCO3-31 AnGap-15
+___ 12:17AM BLOOD calTIBC-377 Ferritn-180 TRF-290
+
+========================
+IMAGING
+========================
+___ Imaging CHEST (PORTABLE AP):
+Moderate pulmonary edema, slightly worse in the interval with 
+moderate to
+severe cardiomegaly.
+
+___ Cardiovascular ECHO:
+The left atrium is moderately dilated. The right atrium is 
+moderately dilated. No atrial septal defect is seen by 2D or 
+color Doppler. Left ventricular wall thicknesses are normal. The 
+left ventricular cavity is moderately dilated. There is mild 
+regional left ventricular systolic dysfunction with near 
+akinesis of the basal half of the inferior wall and 
+mild-moderate hypokinesis of the remaining segments (biplane 
+LVEF = 36 %). [Intrinsic left ventricular systolic function is 
+likely more depressed given the severity of mitral 
+regurgitation.] There is no ventricular septal defect. The right 
+ventricular cavity is mildly dilated with moderate free wall 
+hypokinesis. The diameters of aorta at the sinus, ascending and 
+arch levels are normal. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. An eccentric, 
+laterally directed jet of moderate to severe (3+) mitral 
+regurgitation is seen. Due to the eccentric nature of the 
+regurgitant jet, its severity may be significantly 
+underestimated (Coanda effect). An eccentric jet of moderate 
+[2+] tricuspid regurgitation is seen directed toward the 
+interatrial septum. There is moderate to severe pulmonary artery 
+systolic hypertension. There is a trivial/physiologic 
+pericardial effusion. 
+
+IMPRESSION: Left ventricular cavity dilation with regional and 
+global systolic function c/w diffuse process (multivessel CAD, 
+toxin, metabolic, etc.). At least moderate to severe mitral 
+regurgitation. Moderate to severe pulmonary artery systolic 
+hypertension. Right ventricular cavity dilation with free wall 
+hypokinesis. 
+ 
+Brief Hospital Course:
+Summary
+___ PMH HTN, HLD, CHF who presented to an OSH for CP radiating 
+to his back, was found to have an aortic arch and was 
+transferred to ___ for further workup and C-surg consultation. 
+His aortic ulceration was determined to be chronic and no 
+intervention was needed. He also had an episode of melena and 
+underwent EGD with treatment of an AVM. He did well post 
+procedure and the remainder of his course was uncomplicated. 
+
+Acute issues
+#CHEST PAIN:
+#Type II NSTEMI:
+Patient presented with chest pain and concern for aortic 
+dissection. However found to have Aortic arch ulceration which 
+is likely chronic. There were no signs of hemorrhage on CT, and 
+less likely to be cause of acute chest pain. Had elevated trop 
+at OSH, and ECG here did show ST depressions in lateral leads. 
+This is likely demand ischemia in the setting of CHF 
+exacerbation and rapid HR. We continued ASA 81mg, Atorvastation 
+80mg and Metoprolol succinate 75 mg QD. 
+
+#AFIB W/RVR AND ABERRANCY:
+Has known Afib. At home he is on metoprolol tartrate 75mg BID. 
+He also takes warfarin for anticoagulation. CHADS2VASc - 5. We 
+continued Metoprolol for rate control as above and warfarin 5 
+mg. 
+
+#AORTIC ARCH ULCERATION:
+Chronic, was seen on CT approximately ___ years ago. Is followed 
+by Dr. ___ at ___. As the patient's CP has resolved 
+without any intervention, and the ulcer is known and chronic, it 
+is unlikely to be the cause of his presentation. Per vascular 
+surgery, no indication for intervention and remained stable 
+during admission. 
+
+#Melena
+#ANEMIA: Had episode of melena on admission. Received 1U PRBCs 
+at OSH and 1U on ___. GI endoscopy ___ notable for AVM s/p 
+thermal ablation. H/H remained stable following ablation. He was 
+discharged on home omeprazole without any need to follow with GI 
+unless he has additional GI bleeding episodes. 
+
+#HYPOXEMIC RESPIRATORY FAILURE ___ acute sCHF EXACERBATION: 
+Received 1U PRBCs on ___, 2U FFP and 1L NS and subsequently 
+developed flash pulmonary edema. Improved with IV diuresis and 
+then restarted on home dose of diuretics Lasix 80 mg BID. 
+
+#COPD/PHTN: TTE ___ suggestive of moderate pulmonary HTN. We 
+recommend f/u with outpatient pulmonology or pulm hypertension 
+specialist for outpatient pulmonary testing. 
+
+#CKD: Unknown baseline Cr. Followed by Dr. ___ at ___ 
+___. Was stable during admission. 
+
+TRANSITIONAL ISSUES  
+===========================  
+# CODE: Full (confirmed) 
+# CONTACT/HCP:  ___ ___
+# DRY WEIGHT:  unclear, per pt has los 20lbs over the past 
+___
+# DISCHARGE WEIGHT: 76.9kg
+
+- Given patients melena and EGD, would recommend recheck CBC 
+with PCP as outpatient within 1 week. 
+- Recommend outpatient pulmonary referral as outpatient for 
+PFTs. 
+- Home nitroglycerine patch was held at discharge due to 
+normotension and can be restarted as an outpatient. 
+- Will follow with PCP, cardiology and pulmonology as an 
+outpatient. 
+- Was discharged with INR 1.4 and restarted home warfarin. Did 
+not bridge due to melena as above. Patient stated he follows 
+with ___ Coumadin clinic which was closed 
+today, so I could not confirm this. He should have his next INR 
+drawn on ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+2. Ascorbic Acid ___ mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 80 mg PO QPM 
+5. DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+6. Furosemide 80 mg PO BID 
+7. Detemir 15 Units Bedtime
+8. Ferrous Sulfate 325 mg PO DAILY 
+9. Metolazone 2.5 mg PO 1X/WEEK (___) 
+10. Metoprolol Tartrate 75 mg PO BID 
+11. Nitroglycerin Patch 0.4 mg/hr TD Q24H 
+12. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+13. Omeprazole 20 mg PO DAILY 
+14. Potassium Chloride 20 mEq PO DAILY 
+15. Sodium Chloride Nasal ___ SPRY NU Q2H:PRN nasal congestion 
+16. Spironolactone 50 mg PO DAILY 
+17. Levothyroxine Sodium 75 mcg PO DAILY 
+18. Warfarin 5 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Detemir 15 Units Bedtime 
+2.  Ascorbic Acid ___ mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  DiphenhydrAMINE 25 mg PO QHS:PRN insomnia  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+8.  Furosemide 80 mg PO BID  
+9.  Levothyroxine Sodium 75 mcg PO DAILY  
+10.  Metolazone 2.5 mg PO 1X/WEEK (___)  
+11.  Metoprolol Tartrate 75 mg PO BID  
+12.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+13.  Omeprazole 20 mg PO DAILY  
+14.  Potassium Chloride 20 mEq PO DAILY 
+Hold for K >  
+15.  Sodium Chloride Nasal ___ SPRY NU Q2H:PRN nasal congestion  
+
+16.  Spironolactone 50 mg PO DAILY  
+17.  Warfarin 5 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Aortic ulceration, acute on chronic sCHF, type II 
+NSTEMI
+Secondary: Afib, HLD, CKD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear MR. ___,
+
+You came to ___ with chest pain which was likely caused by a 
+rapid heart rate and fluid overload. We also treated you for a 
+small bleed in your stomach. Please take all of your medications 
+and follow with the outpatient appointments we have made. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,160 @@
+===== DISCHARGE NOTE =====
+note_id=16075087-DS-18 | hadm_id=29086620
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p dilation of esophageal stricture transferred for 
+pneumoperitoneum
+ 
+Major Surgical or Invasive Procedure:
+___: exploratory laparotomy, EGD
+ 
+History of Present Illness:
+___ w/PMHx Down's Syndrome, esophageal stricture, per report had 
+balloon dilatation, developed abdominal pain + emesis , seen at 
+___ with xray demonstrating free air. Became unresponsive with 
+perintubation arrest (?bradycardia + pause), cooled. HD stable 
+for transport over. Had zosyn / flagyl prior to transport. 
+Trasnferred secondary to perforated viscus. 
+
+ 
+Past Medical History:
+Downs, esophageal stricture
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+On day of admission:
+Vitals: T 100.6, HR 93 (63-93), BP 93/37 (MAPs 52-83), RR ___,
+on CMV/AS+ ___ (MAP 22); 93%
+General: Lying in bed, intubated, unresponsive. 
+HEENT: Has facies of Down Syndrome. Has lubricant in eyes.
+Significant left cataract. Intubated. Tongue protruding with dry
+mucous membranes. Pulmonary: Coarse rhonchorous BS bl; 
+Cardiac: Heart sounds distant; RRR
+Abdomen: +BS, soft, slightly distended
+Extremities: edematous through knees; in spasticity boots; 1+ DP
+pulse
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Intubated, sedated. Does not open eyes to 
+noxious
+stimuli or follow and commands
+-CN: R pupil pinpoint and sluggishly reactive; left eye obscured
+by cataract but pupil also appears pinpoint. Does not blink to
+threat. Corneals present. Has slight movement with VOR but not
+full EOMI. Does not grimace. Per nurse, gag is present but due 
+to
+hemodynamic instability, I did not test this personally. 
+-Motor: Decreased bulk and tone throughout. With noxious stimuli
+has very slight withdrawal (proximal muscle twitch) of all
+extremities, more visible on right than left. 
+-Sensory: No grimace to noxious stimuli but does have minimal
+withdrawal. 
+-DTRs: sustained clonus at ankles bl
+  Bi Tri ___ Pat Ach
+L  3  2+   2+   3   4
+R  3  2+   2+   3   4
+Plantar response mute bilaterally.
+
+ 
+Pertinent Results:
+ECHO ___: Normal global and regional biventricular systolic 
+function. Mild pulmonary artery hypertension.  
+
+CT head ___: No evidence of an acute intracranial process.
+CT Torso ___: 1. No definite evidence of bowel or esophageal 
+perforation.  2. Moderate volume of ascites.  Extensive 
+bilateral consolidation in keeping with severe aspiration.   
+Interstitial pulmonary edema with bilateral pleural effusions 
+and body wall edema as described. 
+
+EEG pending
+ 
+Brief Hospital Course:
+Ms. ___ was examined by the ACS service in the ED after transfer 
+from an OSH with a KUB that showed massive free air. After 
+consent was obtained from family with interpreter, the patient 
+was taken emergently to the operating room for EGD and 
+exploratory laparotomy.  No sign of esophageal or 
+intra-abdominal perforation was found.  Please see operative 
+report for details.
+
+She remained paralyzed, sedated and intubated after surgery and 
+was treated for ARDS with supportive care and an infection of 
+unknown source with broad spectrum antibiotics. 
+    
+___: Continued resuscitation, low MAPs requiring increased 
+pressor use, new non-anion gap acidosis, possibly ___ fluid 
+resuscitation. CT scan performed showing interstitial pulm 
+edema, bilateral pulm consolidations, no evidence of 
+esophageal/bowel perforation.  Lactate trending upwards  
+
+___: 1 amp HCO3 for acidosis, mIVF and albumin given for 
+underfilled RV on bedside echo.
+
+___ When the paralytic agent was removed for a few hours, the 
+patient's oxygenation worsened so paralysis was resumed.  An EEG 
+was done which showed abnormal burst suppression.  Neurology 
+evaluated the patient and determined that these results are 
+difficult to interpret while patient is sedated as these 
+medications can also cause burst suppression.  
+
+___  Increasing WBC count to 39,000. Changed fluconazole to 
+mica.  Had family meeting; family decided to defer definitive 
+decision until all stake holders present. Continued difficulty 
+with oxygenation. Bedside echo showed possible suboptimal 
+ventricular filling, given a bolus of IV fluid, leading to 
+increased oxygen requirements. Given 20 of lasix to which there 
+was no response. In the afternoon she was started on bicarb 
+bolus amp x2 and then started on a drip of 15 meq/hr for her 
+refractory acidosis. She was also started on hydrocortisone. Her 
+MAPs improved subsequently, she was repositioned and her 
+oxygenation improved.  
+
+___ Started iNO with improved CO/CI and oxygenation. Family 
+meeting, plan to make patient CMO and terminally extubate 
+tomorrow afternoon. iNO stopped.
+
+On ___, the patient was extubated and made CMO and expired 
+shortly after extubation.
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+respiratory failure, ARDS, multi organ system failure, septic 
+shock
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+The patient expired
+ 
+Followup Instructions:
+___

@@ -1,0 +1,188 @@
+===== DISCHARGE NOTE =====
+note_id=18669525-DS-7 | hadm_id=28859880
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo F with past medical history significant for HIV, heroin 
+abuse, tobacco abuse, presents to the ED with dyspnea two hours 
+after leaving AMA from ___. Was picked up by 
+son, who brought her to ___ emergency room. Patient originally 
+presented to ___ after 2 months of loss of 
+appetite and a 20 weight loss. In the last month she had a 
+progressive dyspnea which worsened to the point that she was 
+admitted to ___ 4 days prior to presentation 
+here. The patient reports that she left ___ AMA 
+because she was unsatisfied with her work-up there. When asked 
+what her expectations were for her visit, she stated, "Help me!" 
+ 
+.  
+In the ED, initial VS were: T 99.2, HR 140, BP 162/115, RR 32, 
+O2Sat 99% on NRB. CXR showed white-out of left chest. Thoracic 
+surgery was called for consultation. Bedside thoracentesis by IP 
+was productive of 400 mL of serous fluid. Was ordered for a CT 
+chest, though refused to travel to scanner. Labs returned with 
+WBC count of 14.7 with 80% neutrophils and 6% bands. Was ordered 
+for Vancomycin and Cefepime due to concern for HCAP. UA was 
+performed and was negative for evidence of infection. Concerning 
+tachycardia, EKG showed sinus tach. Vitals signs prior to 
+transfer to the ICU were: T 98.6, HR 110, BP 122/80, RR 16, 
+O2Sat 100% on NRB.  
+
+ 
+Past Medical History:
+1) Lung mass (identified at recent admission to ___ 
+___)  
+2) HIV (patient does not report, though son notes treatment on 
+and off for ___ years. Unknown recent viral load.)  
+3) Heroin abuse (patient reports last use ___ months ago, on 
+methadone maintenance)  
+
+ 
+Social History:
+___
+Family History:
+Father - ___ 
+ 
+Physical ___:
+VS: T 97.8, HR 109, BP 117/78, RR 19, O2Sat 100% NRB  
+GEN: Appears emaciated  
+HEENT: Bitemporal wasting, sclera anicteric, oral mucosa dry, no 
+evidence of thrush  
+NECK: Supple, thin, no cervical or supraclavicular ___  
+PULM: right posterior lung field with basilar crackles, left 
+posterior lung field with scant breath sounds, entire left 
+posterior lung field dull to percussion  
+CARD: Tachycardic, nl S1, nl S2, no M/R/G  
+GI: BS+, protuberant out of proportion to body habitus  
+EXT: Digital clubbing present, bilateral ___ with 1+ pitting 
+edema to level of knees, DP and ___ pulses 2+ bilaterally  
+NEURO: Oriented x 3, difficulty hearing  
+PSYCH: Patient uninterested in examination and exhibits 
+frustration toward examiner  
+
+ 
+Pertinent Results:
+___ 03:22PM    WBC-14.7*  LYMPH-7* ABS LYMPH-1029 CD3-38 
+ABS CD3-396* CD4-1 ABS CD4-7* CD8-38 ABS CD8-388 CD4/CD8-0.0*
+___ 03:22PM   ___ PTT-24.7 ___
+___ 03:22PM   PLT SMR-NORMAL PLT COUNT-190
+___ 03:22PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-1+ 
+POLYCHROM-OCCASIONAL OVALOCYT-1+ TEARDROP-OCCASIONAL
+___ 03:22PM   NEUTS-80* BANDS-6* LYMPHS-7* MONOS-6 EOS-0 
+BASOS-0 ATYPS-1* ___ MYELOS-0 NUC RBCS-1*
+___ 03:22PM   WBC-14.7* RBC-4.15* HGB-11.7* HCT-35.0* 
+MCV-84 MCH-28.2 MCHC-33.4 RDW-17.3*
+___ 03:22PM   ALBUMIN-4.2
+___ 03:22PM   ALT(SGPT)-26 AST(SGOT)-61* LD(LDH)-704* ALK 
+PHOS-64 TOT BILI-0.3
+___ 03:22PM   GLUCOSE-113* UREA N-11 CREAT-0.5 SODIUM-129* 
+POTASSIUM-4.3 CHLORIDE-83* TOTAL CO2-30 ANION GAP-20
+___ 04:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 08:50PM PLEURAL  WBC-50* RBC-1655* POLYS-40* LYMPHS-30* 
+MONOS-10* MACROPHAG-20*
+ 
+Brief Hospital Course:
+ICU COURSE
+
+1) Dyspnea:  
+Patient presented to ED with limited medical history and report 
+of a new diagnosis of a lung mass prior to leaving AMA from St. 
+___ hosptial. Was noted to have a complete opacification of 
+left lung field on CXR with minimal lung markings. CT scan was 
+suggested, though patient refused. Root cause of patient's more 
+acute dyspnea is the pleural effusion. Patient's dyspnea 
+improved greatly following removal of 400 mL fluid during 
+thoracentesis. A broad differential was entertained given ___ 
+year history of HIV and smoking history: left side lung mass and 
+associated malignant pleural effusion, lymphoma, 
+post-obstructive pneumonia and resulting parapneumonic effusion. 
+This was supported somewhat by leukocytosis and bandemia of 6%. 
+Empiric therapy with vancomycin and cefepime was started.  
+Sputum cultures were procured, as well as fluid cell counts, 
+chemistries, cytology, gram stain, and culture.  The analysis of 
+the effusion was abnormal, but nondiagnostic.  Chest CT on ___ 
+showed mass (BAC) that was "head-sized", invading the left 
+hilus, mediastinum, bronchus and PA. Many spinal mets were 
+noted.  Given the picture of Stage IV Ca, discussion with family 
+and patient resulted in change to comfort measures only.  
+Patient was maintained on nasal cannula and later non-rebreather 
+to support oxygenation.  Sedation also helped with tachypnea, 
+that seemed to worsen when patient was more alert.
+.
+2.)  Hyponatremia:  
+Patient had Na of 129 upon admission.  Was thought to be likely 
+a hypovolemic hyponatremia given patient's hypovolemia, though 
+other processes could not be exluded until the patient was 
+euvolemic.  The patient was treated empiraclly with volume 
+replacement with subsequent checks in sodium and urine 
+lytes/osms.  Resolved with volume replacement.
+.
+3.)  HIV:  
+Patient and son reported that she has been on and off therapy 
+for years, though they did not know her current disease state 
+upon admission.  HIV antibodies and viral load were taken to 
+assess disease state.  CD4 count of 7, not enough blood for 
+viral load.  Patient was started on azithro for MAC ppx and 
+bactrim for PCP ___.  These were stopped as patient transitioned 
+to CMO.
+.
+4.)  Heroin abuse:  
+Patient noted last use ___ months prior to admission.  Patient 
+reported her methadone maintenance dose to be 90 mg daily. 
+Attempts were made to contact ___ clinic in 
+___ to confirm the dose.  Methadone was administered 
+at the confirmed dose.  These were held intermittently when the 
+patient seemed overly sedated.
+
+.
+Medicine Floor Course:
+Patient was transferred to the floor on ___.  Upon arrival, 
+she was sedated, had a respiratory rate of 44 and coarse breath 
+sounds.  Given patient's CMO status, she was continued on 5L O2 
+by NC, morphine drip, ativan, and scopolamine and hyoscyamine 
+for oral secretions.  At 05:10 the next morning ___, house 
+officer was informed of patient's death.  Exam revealed 
+nonreactive pupils, no respirations or heart sounds, no 
+Babinski, and no response to pain.  Family was notified.     
+
+ 
+Medications on Admission:
+Methadone 93 mg daily (Confirmed with Seven Hills clinic 
+___ 
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Stage IV Lung CA
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+___

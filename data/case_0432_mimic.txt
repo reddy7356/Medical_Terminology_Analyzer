@@ -1,0 +1,143 @@
+===== DISCHARGE NOTE =====
+note_id=17901363-DS-21 | hadm_id=25196604
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, fevers, chills 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ yo woman with HTN who presented to the ED 
+with abdominal pain, fevers and chills.  
+.  
+She reports that her symtpoms began about 3 days PTA, when she 
+developed fevers. She then awoke 2 days PTA with LLQ abdominal 
+pain at 3 a.m. She tried to go to work, but could not continue 
+and saw her PCP in the afternoon. She developed nausea 
+throughout the day as well. She was prescribed a single 
+antibiotic to be taken twice daily (she cannot recall the name 
+of ___ as ___ treatment.  
+.  
+Since seeing her PCP, she has not had any change in her 
+symptoms, and she has also developed chills. She felt as though 
+she was not going to be able to take her PO antibiotics. She 
+denies vomiting, diarrhea, constipation, melena or hematochezia. 
+She has had normal bowel movements.  
+In the ED, initial VSs were 101.0, 119, 131/62, 20, 96%. Her 
+temperature rose as high as 101.2. She received IV ciprofloxacin 
+and metronidazole and morphine IV for pain control.  
+.  
+On the floor, she reports that she had a colonoscopy within the 
+last few months for hematochezia. She reports that polyps were 
+removed. Also, about 1 month ago, she had 1 episode of 
+hematochezia that was preceded by intense abdominal cramping. 
+She has not had any hematochezia or melena since.
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+97.3 124/78 90 20 98%RA  
+Gen: NAD, pleasant  
+HEENT: OP clear, EOMI  
+Neck: No JVD,  
+Cor: RR, nS1 S2, no appreciable m/r/g  
+Pulm: CTAB  
+Abd: +BS, moderately tender in the LLQ, no rebound, 
+nondistended, no HSM  
+Extrem: no c/c/e 
+ 
+Pertinent Results:
+___ 07:32PM BLOOD Glucose-114* UreaN-15 Creat-1.0 Na-139 
+K-3.6 Cl-103 HCO3-27 AnGap-13
+___ 07:32PM BLOOD WBC-10.6 RBC-5.27 Hgb-11.6* Hct-35.4* 
+MCV-67* MCH-22.1* MCHC-32.9 RDW-14.1 Plt ___
+___ 07:32PM BLOOD Neuts-80.1* Lymphs-14.2* Monos-5.1 
+Eos-0.6 Baso-0.1
+___ 07:32PM BLOOD ALT-20 AST-21 AlkPhos-64 TotBili-0.6
+___ 07:32PM BLOOD Albumin-4.0 Calcium-8.7 Phos-2.4* Mg-2.2
+___ 07:43PM BLOOD Lactate-0.9
+___ 09:20PM URINE Blood-TR Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-15 Bilirub-NEG Urobiln-0.2 pH-5.0 Leuks-NEG
+___ 09:20PM URINE ___ Bacteri-NONE Yeast-NONE 
+___
+.
+Blood culture (___): No growth to date.
+Urine culture (___): No growth to date.
+.
+CT abdomen: acute uncomplicated diverticulitis of the descedning 
+colon without drainable fluid collection or free air.
+ 
+Brief Hospital Course:
+___ yo woman with hypertension presented with acute uncomplicated 
+diverticulitis.  
+.  
+Diverticulitis: The patient presented with LLQ pain. Abdominal 
+CT showed acute uncomplicated diverticulitis. She was treated 
+with ciprofloxacin and metronidazole and discharged on a total 7 
+day course of therapy. Within 24 hours she reported improvement 
+in her symptoms including less nausea and pain. She remained 
+afebrile and had no leukocytosis. She was able to tolerate 
+liquids with no nausea or vomiting at discharge. She has blood 
+and urine cultures without growth to date at the time of 
+discharge. The patient was told to follow-up with her primary 
+care doctor within 10 days of discharge.
+.  
+Hypertension: She was continued on home metoprolol 50 bid.
+ 
+Medications on Admission:
+Antibiotic, name unknown bid  
+___ 50 bid 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Diverticulitis
+
+Secondary: Hypertension
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain, fevers and nausea. This 
+was likely due to diverticulitis - an infection of an 
+outpouching of the colon. Please complete a course of 
+antibiotics to treat this problem.
+
+The only new medications started during this hospitalization are 
+ciprofloxacin and metronidazole, two antibiotics intended to 
+treat your infection.
+
+Please follow-up with your primary care doctor within 10 days.
+
+Call your doctor or return to the hospital for any new or 
+worsening fevers, pain, nausea, vomiting, inability to tolerate 
+___ or any other concerning symptom.
+ 
+Followup Instructions:
+___

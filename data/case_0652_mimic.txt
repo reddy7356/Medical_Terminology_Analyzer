@@ -1,0 +1,226 @@
+===== DISCHARGE NOTE =====
+note_id=19315586-DS-8 | hadm_id=25927231
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cholangitis, Biliary obstruction
+Choledocholithiasis.
+Biliary obstruction.
+Postprocedural duodenal perforation.
+Retroperitoneal/peritoneal abscess.
+
+ 
+Major Surgical or Invasive Procedure:
+1. Choledochoduodenostomy biliary bypass.
+2. Open common bile duct exploration.
+3. Extensive lysis of adhesions.
+4. Drainage of retroperitoneal abscess.
+5. Gastrostomy tube placement.
+
+ 
+History of Present Illness:
+The patient is a ___ year old female who was initially admitted 
+to ___ with abdominal pain, dark urine, and 
+fever. The patient had evaluation performed including CT Abdomen 
+which revealed intra and extrahepatic biliary dilatation with 
+hyperdensity located within the CBD presumed to be an impacted 
+stone. The patient was treated with Zosyn for cholangitis. ERCP 
+there was attempted but unsuccessful for which the patient was 
+transferred to ___. Attempt at ERCP today was similarly 
+unsuccessful. Cannulation of the ampulla was performed but the 
+biliary tree could not subsequently be wired. The patient was 
+subsequently sent to ___ for PTC drainage. Per report the patient 
+had successful placement of external drain but wiring into the 
+small bowel was unsuccessful from obstruction. The patient is 
+now admitted to the medical service for ongoing management.
+    The patient confirms history as above. He reports 
+intermittent symptoms of abdominal pain in his RUQ radiating to 
+his back, similar to that which first brought him to the 
+hospital. He reports feeling weak, nauseous, and now with 
+intermittent pain across his right shoulder and upper chest 
+since returning from ___.
+ 
+Past Medical History:
+s/p ccy
+s/p removal of basal cell cancer on chest
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals: 97.8, 160/72, 72, 20, 95% 2L NC (repeat BP after 
+morphine for pain, 110/66)
+General: Patient is an elderly male, appears younger than stated 
+age. Appears to be in mild discomfort but NAD
+HEENT: NCAT, EOMI, sclera mildly icteric
+Neck: No JVD
+Chest: Small bibasilar crackles, left > right
+Cor: RRR, no M/R/G
+Abdomen: healed ccy scar. + PTC drain with brown fluid in bag. 
+Mild/mod RUQ tenderness, no guard or rebound. Remainder of 
+abdomen Soft, non-tender
+Ext: no edema
+ 
+Pertinent Results:
+Admission labs: Labs:
+138|103| 9 < 100   
+3.4| 31|0.7  
+Ca: 8.2 Mg: 1.9 P: 2.1
+ALT: 126 AP: 279 Tbili: 2.9   
+AST: 38 
+  
+8.2 > 33.5 < 251 
+       
+INR 1.2 ___  13.7  PTT 23.7
+CK MB 3  Trop .03 (___)
+
+Pathology: pigment type calculi
+
+Cultures:
+___  C diff : neg
+___  Cath Tip No sig growth (prelim)
+___  URINE Cx NG
+___  BLOOD Cx P
+___  BLOOD Cx P
+___  SWAB E COLI pan ___
+
+___ CTA:  
+1. No drainable fluid collection, definable abscess or biloma. 
+Extensive 
+fat stranding in RUQ likely secondary ro recent surgery.   
+2. Status post choledochoduodenostomy biliary bypass with 
+expected 
+pneumobilia. 
+3. Persistent right greater than left pleural effusions with 
+associated 
+compressive atelectasis, moderate-sized hiatal hernia, colonic 
+diverticulosis, 
+vascular calcifications, and prostatic enlargement. 
+  
+
+ 
+Brief Hospital Course:
+___: The patient failed multiple ERCP events and was 
+unable to 
+___: The patient underwent a choledochoduodenostomy biliary 
+bypass, open common bile duct exploration, extensive lysis of 
+adhesions, drainage of retroperitoneal abscess and a gastrostomy 
+tube placement. He tolerated the procedure well. He was 
+empirically started on an 8 day course of Zosyn for EColi in 
+bile. The patient was transferred to the SICU post-op for fluid 
+management and observation.
+___: The patient was started on TPN. Transferred to the 
+floor 
+___: Pt kept NPO, IVF with NGT in place. 
+___: Foley dc'd without problems voiding.  G tube to gravity.  
+TPN  continued with sips for comfort.  
+___ consulted.  PTC fell out with follow up LFTs without 
+elevation.  No evidence of bleeding from site.  
+___ G tube clamped.  Normal follow up LFTs after PTC pulled 
+out.  Slight leakage of site monitored and dressed with small 
+ostomy bag around former ___ site. 
+___:  Spiked to 101.4, pain c/w diaphragmatic irritation on R; 
+CTA - no obvious collection; CXR-bibasilar atelectasis; UA neg. 
+Vancomycin and Cipro stated empirically.Pt advanced to clears in 
+am.  NPO for fever workup and CT scan then brought back to sips. 
+
+___: Afebrile for 24 hours.  Advanced from sips to clears. 
+Ambulating with physical therapy. JP amylase of 7, drain 
+removed. CVL removed with no growth from catheter tip. C Diff 
+sent sue to 5 loose BM, returned negative. 
+___: Advanced from clears to fulls.  Well tolerated. 
+Ambulating regularly. Afebrile. Discussion with family regarding 
+home services and importance of help at home to help pt care for 
+wife> Pt's niece to stay with him for help around the house.
+___: Advanced to regular diet.  Staples removed. Pt discharged 
+home with ___ and home ___ services. 
+
+ 
+Medications on Admission:
+B-12 supplementation
+ 
+Discharge Medications:
+1. Hydrocodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Choledocholithiasis.
+2. Biliary obstruction.
+3. Postprocedural duodenal perforation.
+4. Retroperitoneal/peritoneal abscess.
+
+ 
+Discharge Condition:
+VSS, tolerating a regular diet, Pain well controlled on PO pain 
+meds, Ambulating.
+
+ 
+Discharge Instructions:
+Incision Care:  Keep clean and dry. 
+-You may shower, and wash surgical incisions.
+-Avoid swimming and baths until your follow-up appointment.
+-Please call the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites.
+.
+Please call your doctor or return to the ER for any of the 
+following:
+* You experience new chest pain, pressure, squeezing or 
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your 
+medications.
+* You are getting dehydrated due to continued vomiting, 
+diarrhea or other reasons. 
+* Signs of dehydration include dry mouth, rapid heartbeat or 
+feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a 
+bowel movement.
+* Your skin, or the whites of your eyes become yellow.
+* Your pain is not improving within ___ hours or not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or is changing location or moving to your chest or 
+back.
+* You have shaking chills, or a fever greater than 101.5 (F) 
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+* Please resume all regular home medications and take any new 
+meds 
+as ordered. 
+* Do not drive or operate heavy machinery while taking any 
+narcotic pain medication.  You may have constipation when taking 
+
+
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber.  
+* Continue to ambulate several times per day.
+* No heavy ___  lbs) until your follow up appointment.
+
+ 
+Followup Instructions:
+___

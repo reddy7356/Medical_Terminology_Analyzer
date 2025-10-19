@@ -1,0 +1,2202 @@
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-25 | hadm_id=21053780
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+transfer from ___ for abdominal pain, vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ G3P0 at ___ who presented to ___ with abdominal 
+pain, nausea, and vomiting. Her VSS were stable, SVE L/C/P and 
+she was transferrrd to ___.
+
+At ___, she reports that sinceher last DC, she has had on and off 
+N/V with compazine, zofran, pepcid, protonix, and ativan. She 
+self dc'ed celexa. 
+
+She also reports mild abdominal tightening once an hr. and 
+vaginal "burning" that occurred once this AM and then resolved.
+ 
+Past Medical History:
+PRENATAL COURSE
+- ___ ___ by LMP (___) c/w 11wk U/S
+- Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg 100%A
+- LR quad
+- FFS nl
+- hx Chlamydia in ___ tri, pt/partner treated, neg test of 
+re-infection (___)
+- GERD/gastritis/freq abd pain
+  - s/p admission ___,
+    and ___
+  - ___ neg  
+  - ___ GI consult
+  - ___ US: GB sludge, no cholecystitis or gallstones  
+  - ___ abd/pelvis: no pathology  
+  - ___ -> c/w severe gastritis; nl biopsies
+- Psych: panic/anxiety/depression. seen by psychiatry during 
+admissions, recommended klonopin (longer acting than ativan) and 
+SSRI with Haldol PRN
+
+OBHx: G3P0
+-SAB x 2 requiring D&C
+
+GynHx: denies history of abnormal paps or fibroids, + Chlamydia
+(first trimester)
+
+PMH: GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: ___
+GENERAL: On stretcher, ice pack on head, eyes closed
+CARDIAC: RRR
+PULM: CTA
+BACK: no CVA tenderness
+ABDOMEN: soft, gravid, very mild TTP RUQ and LUQ and 
+suprapubically. No rebound, no guarding
+EXTREMITIES: NT
+TAUS: BPP ___
+SVE: L/C/P
+Patient refused TOCO and EFM
+ 
+Pertinent Results:
+___ WBC-14.3 RBC-3.32 Hgb-10.0 Hct-28.3 MCV-87 Plt-384
+___ Neuts-86.7 ___ Monos-3.1 Eos-0.1 Baso-0.1
+___ WBC-12.1 RBC-3.26 Hgb-9.5 Hct-28.5 MCV-88 Plt-368
+
+___ Glu-95 BUN-6 Cre-0.6 Na-138 K-3.5 Cl-104 HCO3-18
+___ Glu-100 BUN-3 Cre-0.6 Na-139 K-3.4 Cl-107 HCO3-19
+___ ALT-9 AST-16 TotBili-0.5
+___ Calcium-9.1 Phos-2.4 Mg-1.4 UricAcd-4.8
+___ Calcium-8.5 Phos-2.6 Mg-1.___ y/o G3P0 admitted at ___ with N/V, abdominal pain 
+consistent with previous acute exacerbations of known gastritis.
+.
+On arrival, Ms ___ was clinically stable without any 
+evidence of an acute abdomen. She was quite uncomfortable and 
+uncooperative initially. She was treated with IV fluids, 
+antiemetics, ativan, and pepcid/protonix. Fetal testing was 
+reassuring and she was not contracting. Ultrasound on ___ 
+revealed a vertex fetus with BPP ___, normal fluid, and EFW 
+1589g(36%).
+.
+In regards to her history of possible preeclampsia, she had 
+normal blood pressures throughout her admission.
+.
+By HD#4, she was symptomatically improved and tolerating po's. 
+She requested to be discharged home. She will have close 
+outpatient followup.
+ 
+Medications on Admission:
+protonix
+ 
+Discharge Medications:
+1. promethazine 25 mg tablet Sig: ___ tablets PO three times a 
+day as needed for nausea.
+Disp:*50 tablet(s)* Refills:*1*
+2. prochlorperazine maleate 5 mg tablet Sig: ___ tablets PO 
+three times a day as needed for nausea.  
+3. ZOFRAN ODT 4 mg tablet,disintegrating Sig: ___ 
+tablet,disintegratings PO three times a day as needed for 
+nausea.  
+4. Protonix 20 mg tablet,delayed release (___) Sig: One (1) 
+tablet,delayed release (___) PO twice a day as needed for 
+nausea.  
+5. Prenatal ___ mg tablet Sig: One (1) tablet PO once a day.  
+
+6. Ativan 0.5 mg tablet Sig: One (1) tablet PO every six (6) 
+hours as needed for nausea.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gastritis
+Pregnancy
+Pre-eclampsia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the ___ for treatment of 
+your gastritis.  You improved with medications and were able 
+tolerate some food.  You had reassuring fetal testing.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-29 | hadm_id=22511727
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain and anxiety
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with history of severe gastritis (documented by EGD ___ 
+showing friable mucosa) presenting with vomiting and epigastric 
+abdominal pain in the context of severe social stressors.
+
+The patient has a long history of abdominal pain that began at 
+age ___. She reports that this episode began 2 weeks ago at the 
+same time that her estranged mother ___ came to ___ and 
+did not meet with the patient or her baby. Over the past 4 days, 
+she had intermittent vomiting relieved only by marijuana 
+smoking. This morning, she woke up and had 2x emesis at 5 a.m. 
+this morning with worsening abdominal pain and diminishing 
+appetite. Her epigastric pain is located directly under the 
+xyphoid, sometimes radiates to the throat, is ___ in 
+severity, crampy in quality. She denies blood in emesis or 
+stool. She denies any other drug use or ingestions. No diarrhea.
+
+The patient had an EGD in ___, which showed friable 
+mucosa consistent with severe gastritis with bleeding even on 
+slightest touch.
+
+Per OMR, patient was admitted to ___ in ___ with 
+nausea/vomiting and severe epigastric pain days in the context 
+of pregnany. She was treated with a number of medications 
+including antiemetics, PPI, H2 blocker, maalox, and PRN 
+morphine, but her abdominal pain persisted. Her basic labs were 
+normal. GI saw her, she had a normal RUQ ultrasound and 
+abdominal/pelvic MRI, and H.pylori was negative. At one point, a 
+stat psychiatric consultation was called as the patient was very 
+agitated with chest pain and sense of doom, and she got Ativan 
+TID PRN likely due to anxiety/panic/depression. She was later 
+seen by ___ of ___ who revealed very limited social 
+supports.
+
+In the ED was vomitting so was given apparently 6mg of IV ativan 
+cumulatively, and presented to the floor unresponsive except for 
+sternal rub. A trigger was called for marked nursing concern. 
+Initially the patient was planned with transfer to the MICU for 
+airway protection as she was vomitting and unresponsive, but 
+eventually during an unsuccesful attempt at a NGT placement, she 
+became more awake, and actively fought the placement. Since that 
+time she was able to maintain her airway safely, and so the 
+transfer was cancelled. She is giving a slightly unclear history 
+of exactly what has been happening over the last several days.
+
+In the ED, initial vitals: 97.3 96 136/83 18 100% RA 
+
+Vitals prior to transfer: 98.0 70 130/70 16 100% 
+ 
+Past Medical History:
+- Severe gastritis
+  - ___ neg  
+  - ___ GI consult
+  - ___ US: GB sludge, no cholecystitis or gallstones  
+  - ___ abd/pelvis: no pathology  
+  - ___ -> c/w severe gastritis; nl biopsies
+- Psych: panic/anxiety/depression. seen by psychiatry during 
+admissions, recommended klonopin (longer acting than ativan) and
+SSRI with Haldol PRN. Diagnosed with adjustment doirsorder w/ 
+anxiety. 
+
+PSH: SAB X 2 requiring D&C 
+ 
+Social History:
+___
+Family History:
+___ out of 14 children, has 9 brothers and 4 sisters, Unable to 
+recall other items at this time.
+ 
+Physical Exam:
+On admission:
+VS: 99.5 ___ 12 100%
+General: Overweight woman lying in bed, lethargic, only 
+arousable with sternal rub, vomiting in bin
+HEENT: PEERL, scleral anicteric
+Neck: Not
+CV: RRR, nl S1-S2, no M/R/G
+Lungs: CTAB
+Abdomen: Obese, soft, non-distended, pain IMPROVES in epigastric 
+area on palpation
+GU: No gross blood
+Ext: Warm, well-perfused, good DP pulses
+Neuro: Initially extremely sedated and arousable only by pain or 
+loud voices, then became alert and oriented x3.
+Psych: Denies SI/HI.
+
+On discharge:
+VS: 99.3 ___ 96-100% on RA
+General: Overweight woman lying in bed, lethargic, 
+intermittently agitated
+HEENT: PEERL, scleral anicteric
+Neck: Not
+CV: RRR, nl S1-S2, no M/R/G
+Lungs: CTAB
+Abdomen: Obese, soft, non-distended, pain IMPROVES in epigastric 
+area on palpation
+Ext: Warm, well-perfused, good DP pulses
+Psych: Intermittently alert and agitated. Denies SI/HI.
+ 
+Pertinent Results:
+___ 08:12AM BLOOD WBC-10.3 RBC-4.91# Hgb-14.3# Hct-42.3# 
+MCV-86 MCH-29.1 MCHC-33.8 RDW-14.3 Plt ___
+___ 08:12AM BLOOD Neuts-57.4 ___ Monos-7.4 Eos-0.5 
+Baso-1.2
+___ 08:12AM BLOOD Glucose-120* UreaN-12 Creat-0.9 Na-141 
+K-3.9 Cl-108 HCO3-19* AnGap-18
+___ 08:12AM BLOOD ALT-22 AST-22 AlkPhos-119* TotBili-1.0
+___ 08:12AM BLOOD Lipase-20
+___ 08:12AM BLOOD Albumin-4.___SSESSMENT & PLAN:    
+___ with history of multiple admissions for abdominal pain 
+(severe gastritis documented by EGD ___ showing friable 
+mucosa) and anxiety/adjustment disorder presenting with vomiting 
+and epigastric abdominal pain in the context of new social 
+stressors.
+
+# Vomiting and abdominal pain: She has a long history of severe 
+gastritis with many prior admissions for abdominal pain and 
+extensive work-up including EGD in ___ showing severe 
+gastritis, negative for H. pylori in ___, negative MRI 
+___ ___, negative CT ___ ___, and multiple RUQ 
+ultrasounds. This admission seemed to be at least partially 
+exacerbated by her recent family stressors. She did have 3x 
+scant hematemesis while on the floor, but her vitals remained 
+stable with normal crit; we presumed small ___ tear 
+and communicated with GI in case a future consult was needed. In 
+addition to a chronic gastritis exacerbation, we considered 
+other causes of her abdominal pain including ectopic (negative 
+HCG), PID (no fever, no adnexal tenderness), menstrual pain (not 
+having menses), ulcer (negative H. pylori serologies in past), 
+cholecystitis (no fever, no RUQ pain), pancreatitis (nl lipase), 
+renal colic (pain is epigastric radiating upwards), and we 
+concluded her pain was likely a combination of her 
+acute-on-chronic gastritis and anxiety/adjustment as in her 
+previous admissions. Her pain was intermittent with dramatic 
+exacerbations punctuated by intervals of painlessness. She 
+continued to report excruciating epigastric abdominal pain 
+despite an aggressive regimen including protonix, maalox, tums, 
+sucralfate, zophran, promethazine, and prochloperazine, 
+ranatidine, and acetaminophen PR and IV. Throughout the 
+admission, her abdominal exam remained completely benign, and 
+her reported pain actually decreased when we examined epigastric 
+region. On ___, she was deemed medically safe for discharge.
+
+# Anxiety and agitation: Per OMR, patient has a history of 
+depression, anxiety, and panic attacks. Psych consulted, thinks 
+distress intolerance manifested by behavioral dysregulation, 
+heightened by separation from her social supports and daughter, 
+and a sense of lack of control in the hospital setting. No 
+evidence of a primary psychotic disorder or major mood episode. 
+Similar to prior admissions, her behavior consisted of thrashing 
+in bed, pulling off clothes, cuddling with her cousin in bed, 
+tearing apart a pillow, yelling out for her mother, and 
+threatening to come to the nurses station naked. Her nurse 
+overheard her yelling, "I just want to die," and she was given 
+Zydis, placed on 1:1, and ___ overnight ___. She 
+was unsectioned in the morning per psych, deemed to be no risk 
+by SW and psych, and discharged home for outpatient follow-up.
+
+# Sedation. In the ED was vomitting so was given 6mg of IV 
+ativan cumulatively, and presented to the floor unresponsive 
+except for sternal rub. A trigger was called for marked nursing 
+concern. Initially the patient was planned with transfer to the 
+MICU for airway protection as she was vomitting and 
+unresponsive, but eventually during an unsuccesful attempt at a 
+NGT placement, she became more awake, and actively fought the 
+placement. Since that time she was able to maintain her airway 
+safely, and so the transfer was cancelled. After her recovery, 
+her vitals remained stable until her discharge.
+
+TRANSITIONAL ISSUES:
+- We considered this admission to result from an acute 
+exacerbation of chronic gastritis in the setting of psychosocial 
+stressors.
+- She was place on a 1:1 sitter as she would not speak to 
+psychiatry after saying she wished to die. The sitter was 
+discontinued after she later denied having any SI/HI.
+- For her gastritis, we started her own omeprazole and 
+ranitidine.
+- For her nausea and vomiting, we discharged gave her Zophran.
+- We encouraged her to follow-up with her PCP for both primary 
+health care and referral to providers to help her with her 
+psychosocial and coping skills.
+ 
+Medications on Admission:
+1. Ondansetron 4 mg PO Q8H:PRN nausea or vomiting 
+2. Pantoprazole 40 mg PO Q24H 
+3. Sucralfate 1 gm PO TID 
+ 
+Discharge Medications:
+1. Sucralfate 1 gm PO QID 
+RX *sucralfate 1 gram 1 tablet(s) by mouth four times a day Disp 
+#*120 Tablet Refills:*0
+2. Ondansetron 4 mg PO Q8H:PRN nausea or vomiting 
+RX *ondansetron [ZOFRAN ODT] 4 mg 1 tablet,disintegrating(s) by 
+mouth every eight (8) hours Disp #*30 Tablet Refills:*0
+3. Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule,delayed ___ by 
+mouth twice a day Disp #*60 Capsule Refills:*0
+4. Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 capsule(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+abdominal pain
+vomiting
+anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you here at ___. You came to 
+the hospital on ___ with nausea and vomiting. During the 
+hospital stay, you had some anxiety as well. We think your 
+abdominal pain is caused by chronic gastritis, and is made worse 
+by the stress in your life.
+
+When you leave the hospital, we are giving you medications to 
+help with your gastritis. 
+
+We urge you to see a primary doctor, so your care can be 
+coordinated in the future.
+
+We wish you the best of luck with your continued care. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-20 | hadm_id=22952412
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea/vomiting, epigastric pain
+ 
+Major Surgical or Invasive Procedure:
+EGD
+ 
+History of Present Illness:
+___ year old G3P0 @ 11w1d who presents to ED with multiple 
+episodes of nausea, vomiting and epigastric pain. She was 
+discharge home this morning after being hospitalized since ___. 
+During her hospitalization her symptoms improved with 
+antiemetics and she was able to tolerate a regular diet. Since 
+going home she reports her N/V and epigastric pain returned and 
+she was unable to tolerate her lunch of cereal. The pain is 
+stable mid-epigastric which is sharp and non radiating.
+
+She denies any fever, chills, vaginal bleeding, lower abdominal 
+cramping or leakage of fluid, diarrhea, hematochezia, 
+hematemesis.
+
+In the ED, patient has received multiple anti-emetics and IVF, 
+but has been experiencing persistent nausea despite these 
+measures.
+ 
+Past Medical History:
+PNC:
+1. ___: ___ by ___ ___. PNC @ ___ with ___
+3. Per report + Chlamydia 3 weeks ago s/p treatment
+
+OBHx:
+G3P0
+SAB x 2 requiring D&C
+Current pregnancy
+
+GynHx: Denies history of abnormal Pap tests or Fibroids. +
+Chlamydia 3 weeks ago s/p treatment
+
+PMH:
+GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: T 96.7, BP 125/75, RR 16, 100% RA
+GENERAL: NAD, appears unwell
+CV: RRR
+PULM: CTAB
+ABDOMEN: Soft, mild TTP in epigastrium, non-distended, no 
+guarding and no rebound. negative murphies
+
+bedside US with +IUP with good movement and fluid + ___ FHR
+ 
+Pertinent Results:
+___ WBC-12.5 RBC-3.89 Hgb-11.7 Hct-33.2 MCV-85 Plt-285
+___ WBC-12.6 RBC-3.86 Hgb-11.8 Hct-33.1 MCV-86 Plt-282
+___ WBC-13.0 RBC-3.86 Hgb-11.9 Hct-33.2 MCV-86 Plt-334
+___ WBC-14.4 RBC-3.97 Hgb-12.2 Hct-33.8 MCV-85 Plt-282
+
+___ Glu-95 BUN-5 Creat-0.6 Na-134 K-3.5 Cl-103 HCO3-20
+___ Glu-88 BUN-6 Creat-0.6 Na-137 K-3.3 Cl-106 HCO3-24
+___ Glu-103 BUN-5 Creat-0.6 Na-136 K-3.8 Cl-105 HCO3-22
+___ Glu-96 BUN-5 Creat-0.5 Na-132* K-3.5 Cl-101 HCO3-22
+
+___ CK-MB-2 cTropnT-<0.01
+
+___ Albumin-4.0 Calcium-8.8 Phos-2.8 Mg-1.7 Lipase-90
+
+___ ALT-55 AST-32 Amylase-55 Lipase-50
+
+___ Calcium-8.6 Phos-3.5 Mg-2.4
+___ Calcium-9.0 Phos-2.7 Mg-1.9
+___ Calcium-9.0 Phos-3.4 Mg-1.9
+
+___ HBsAg-NEGATIVE
+
+___ 10:00PM URINE Blood-TR Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 10:00PM URINE RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-24
+___ 11:11PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+RAPID PLASMA REAGIN TEST (Final ___: 
+ NONREACTIVE. 
+
+Rubella IgG/IgM Antibody (Final ___: 
+ POSITIVE by Latex Agglutination
+ 
+Brief Hospital Course:
+Ms ___ is a ___ year old G3P0 admitted at 11w1d with 
+persistent nausea, vomiting and epigastric pain. She received IV 
+fluids, standing antiemetics, and IV Ativan. She had already 
+undergone a workup for her abdominal pain, including an MRI and 
+RUQ ultrasound which did not reveal any pathology. GI was 
+consulted and performed an EGD which revealed severe gastritis. 
+Recommendations were to continue high dose PPI. Biopsies were 
+taken at the time of her EGD. By hospital day #4, her symptoms 
+had improved and she was tolerating a regular diet.  She had no 
+vomiting in 24 hours and all of her medications were 
+transitioned to PO.   
+.
+In regards to her anxiety, social services has been following 
+her and she was continue on Ativan prn.  This helped a great 
+deal.  
+.
+The patient was discharged to home on hospital day number 4 and 
+has an initial prenatal appointment scheduled in one week.  
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for anxiety.
+Disp:*60 Tablet(s)* Refills:*2*
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO Q8HOURS ().
+Disp:*120 Tablet, Rapid Dissolve(s)* Refills:*2*
+4. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.
+Disp:*60 Tablet(s)* Refills:*0*
+5. promethazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for nausea.
+Disp:*60 Tablet(s)* Refills:*0*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hyperemesis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with hyperemesis (nausea and vomiting caused 
+by pregnancy).  During your hospital course you had an EGD which 
+demonstrated gastritis - this is common finding with 
+hyperemesis.  Please take all of your medication as instructed.  
+Please follow up with us as scheduled.  Please call if you are 
+unable to tolerate any food, vaginal bleeding, severe abdominal 
+pain, or any other concerning symptoms
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-24 | hadm_id=23036882
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+epigastric pain, emesis
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ G3P0 at ___ with history of severe hyperemesis/gastritis 
+for which she has had numerous antepartum admissions presents 
+with inability to tolerate PO for 1 day and epigastric pain. 
+Denies any fever/chills. Continues to feel nauseous and 
+continues to have multiple small amounts of mucousy emesis with 
+loud retching. Reports that she last kept something down 
+yesterday. Last BM was yesterday. Voiding without problems. 
+Unable to elicit a full history due to patient 
+discomfort/inability to answer questions.
+ 
+Past Medical History:
+PNC
+- ___ ___ by LMP (___) c/w 11wk U/S
+- Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg 100%A
+- LR quad
+- FFS nl
+- hx Chlamydia in ___ tri, pt/partner treated, neg test of
+re-infection (___)
+- GERD/gastritis/freq abd pain
+     - s/p admission ___, 
+          ___, and ___
+     - ___ neg  
+     - ___ GI consult
+     - ___ US: GB sludge, no cholecystitis or gallstones  
+     - ___ abd/pelvis: no pathology  
+     - ___ -> c/w severe gastritis; nl biopsies
+- psych: panic/anxiety/depression. seen by psychiatry during
+admissions, recommended klonopin (longer acting than ativan) and
+SSRI with Haldol PRN
+
+OBHx: G3P0
+-SAB x 2 requiring D&C
+GynHx: denies history of abnormal paps or fibroids, + Chlamydia
+(first trimester)
+PMH: GERD and gastritis
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: T 98.4, HR 83, BP 132/74
+GENERAL: restless in bed, unable to sit or lie still, only 
+intermittently cooperative with answering questions and physical 
+exam due to intermittent retching, urinated in bed on initial 
+presentation and currently nude in bed
+Resp: CTA bilaterally, no crackles
+CV: RRR
+ABDOMEN: normal bowel sounds, soft, gravid, no rebound or 
+guarding
+
+Unable to obtain FHT/Toco due to patient inability to sit still
+
+TAUS: cephalic, ant placenta, FHR 143, active fetal movement of 
+extremities and good tone, +breathing, DVP 2.4cm (unable to 
+measure full AFI given pt inability to cooperate with exam)
+
+___ ULTRASOUND
+1. Nondistended gallbladder with biliary sludge suggests an 
+element of biliary stasis. No biliary ductal dilatation is seen 
+and there is no evidence of cholecystitis.
+2. Thinning of the myometrium in the fundus is incompletely 
+assessed due to overlying bowel gas also noted subjectively on 
+MR of ___. A repeat MRI would be helpful if clinically 
+indicated for further evaluation.
+ 
+Pertinent Results:
+___ WBC-10.8 RBC-3.67 Hgb-10.9 Hct-32.6 MCV-89 Plt-373
+___ WBC-14.1 RBC-3.39 Hgb-10.3 Hct-30.5 MCV-90 Plt-335
+___ WBC-11.7 RBC-3.24 Hgb-9.7 Hct-29.0 MCV-90 Plt-325
+___ WBC-10.9 RBC-3.29 Hgb-10.0 Hct-29.7 MCV-90 Plt-346
+___ WBC-14.3 RBC-3.83 Hgb-11.3 Hct-34.0 MCV-89 Plt-388
+
+___ ___ PTT-23.9 ___ ___ Glu-89 UreaN-5 Cre-0.6 Na-139 K-3.9 Cl-106 HCO3-21
+___ Glu-99 UreaN-4 Cre-0.7 Na-138 K-3.7 Cl-106 HCO3-20
+___ Glu-93 UreaN-3 Cre-0.5 Na-139 K-3.6 Cl-107 HCO3-22
+___ Glu-85 UreaN-2 Cre-0.6 Na-137 K-3.9 Cl-107 HCO3-22
+
+___ Creat-0.7
+___ ALT-44 AST-51 UricAcd-3.4
+___ ALT-53 AST-44 Amylase-40 Lipase-21
+___ ALT-80 AST-50 Amylase-39 TotBili-0.4 Lipase-29
+___ ALT-81 AST-45 ___ TBili-0.4 Lip-36 UrAcd-3.7
+___ ALT-65 AST-25 TotBili-0.3 Lipase-34
+___ ALT-48 AST-14 TotBili-0.3 Lipase-21 UricAcd-4.0
+___ ALT-24 AST-13 TotBili-0.6 Lipase-27 UricAcd-4.2
+
+___ Calcium-9.0 Phos-3.2 Mg-1.5
+___ Calcium-9.0 Phos-2.4 Mg-1.7 
+___ Calcium-8.6 Phos-3.0 Mg-1.6
+___ Calcium-9.3 Phos-4.2 Mg-1.6
+
+___ BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE HAV Ab-NEGATIVE
+___ BLOOD HCV Ab-NEGATIVE
+
+___ URINE Blood-NEG Nitrite-NEG Protein-TR Glucose-NEG 
+Ketone-40 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-SM 
+
+URINE CULTURE (Final ___: 
+ MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH
+ SKIN AND/OR GENITAL CONTAMINATION
+
+R/O GROUP B BETA STREP (Final ___: 
+ NEGATIVE FOR GROUP B BETA STREP
+ 
+Brief Hospital Course:
+___ y/o G3P0 admitted at ___ with epigastric pain, nausea and 
+vomiting. This appeared to be an exacerbation of her 
+hyperemesis/gastritis, likely due to not taking her protonix 
+(ran out of medication). She was admitted for IV hydration, 
+antiemetics, IV protonix and Ativan. Electrolytes were also 
+repleted. A quick bedside ultrasound was performed and was 
+reassuring. Her symptoms were eventually well controlled on po 
+Ativan, protonix, and pepcid.
+.
+A repeat 24 hour urine collection was obtained given her 
+previous collection revealed 289mg of protein. This time, there 
+was 429mg of protein, confirming the diagnosis of mild 
+preeclampsia at 27w5d. Her blood pressures were 130-140s/70-80s. 
+Labs were significant for intermittent mildly elevated LFTs, 
+otherwise normal. A RUQ ultrasound and hepatitis panel were 
+unremarkable. Her LFTs normalized completely. Another 24 hour 
+urine collection was done at approximately 28 weeks given her 
+blood pressures and labs remained stable, and this was revealed 
+no protein. Due to the discrepancy from her previous 24 hour 
+collection, the lab processed her urine again and verified the 
+negative protein result. The decision was made to discharge her 
+home and manage her with close surveillance as an outpatient.
+.
+Fetal testing was reassuring throughout this admission. She 
+received a course of betamethasone for fetal lung maturity 
+(complete on ___ and the NICU was consulted.
+.
+Of note, psychiatry was consulted again during this admission 
+due to her unusual behavior and the team felt her presentation 
+was most consistent with adjustment disorder with anxious mood 
+and impulsive behavior. She was continued on Ativan which 
+improved her mood and this was continued upon discharge.
+.
+In regards to routine prenatal testing, a GTT was deferred given 
+her gastritis and nausea/vomiting. Multiple fasting glucose 
+levels were normal during her admission and her fetus was 
+measuring size equal to dates. This decision was made after 
+discussion with ___. She received Rhogam on ___ due to her 
+Rh negative status. She had no vaginal bleeding throughout this 
+admission. In addition, she had a negative GBS on ___.
+.
+Ms ___ was discharged home in stable condition on ___. 
+She was counseled extensively regarding the importance of close 
+followup, including twice weekly fetal testing.
+ 
+Medications on Admission:
+PNV, pepcid, compazine, ativan, protonix
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pregnancy
+Gastritis
+Pre-eclampsia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the antepartum service with epigastric pain 
+and nausea/vomitting. You were also diagnosed with 
+pre-eclampsia. You received several medications and your pain 
+and vomitting improved. You are being discharged home with 
+multiple medications. Please take as prescribed. You should 
+continue to take the protonix and pepcid on a daily basis, even 
+if your pain improves.  
+
+You should go home on modified bed rest. This means to try and 
+stay off of your feet. You should not be leaving your house for 
+work.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-21 | hadm_id=24753389
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting, epigastric pain
+ 
+Major Surgical or Invasive Procedure:
+PICC line placement
+ 
+History of Present Illness:
+Pt is a ___ y/o G3P0021 at 14w3d who presented to the ED this 
+morning with n/v and epigastric pain since 3am. Despite IVFs, 
+ativan, morphine, and antiemetics, pt continued to report 
+nausea, epigastric pain and was unable to tolerate any po 
+intake.
+
+On arrival to 6S, pt states her epigastric pain is better, but 
+still there. She continues to report nausea and has vomited once 
+since arrival. States her symptoms are similar to her last 
+admission. She reports feeling tired, otherwise no complaints. 
+She denies lower abdominal pain, vaginal bleeding, leaking of 
+fluid, dysuria, fevers/chills, or diarrhea.
+
+Per pt, she was doing well at home until this morning. She was 
+tolerating food and fluids with usually only 2 episodes of 
+vomiting/day. States she was only taking Reglan at home. States 
+the protonix and zofran were not covered by her insurance, and 
+she did not call anyone to try to get them covered. When asked 
+about the Ativan, she says she was never given a prescription 
+for this.
+
+In the ED, pt received:
+2 liters NS
+Protonix 40mg IV x 1
+Zofran 8mg IV x 1
+Reglan 10mg IV x 1
+morphine 4mg IV x 2
+Ativan 1mg IV x 1
+ 
+Past Medical History:
+PRENATAL COURSE
+*) ___ ___ by LMP (___) c/w 11wk U/S
+*) Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg electro pending
+*) Screening: no ERA, planning QS
+ISSUES
+*) TSH 0.083 on ___ -> rpt (___) 0.3
+*) hx Chlamydia in ___ tri, pt/partner treated, neg TOC (___)
+*) hx GERD/gastritis:
+- s/p admission ___ and ___
+- ___ neg  
+- ___ GI consult
+- ___ US: GB sludge, no cholecystitis or gallstones  
+- ___ abd/pelvis: no pathology  
+- ___ -> c/w severe gastritis; nl biopsies
+- home regimen: 
+*) psych: panic/anxiety  
+- s/p psych c/s (___): rec: ativan TID prn  
+- social work following
+
+OBHx:
+G3P0
+SAB x 2 requiring D&C
+Current pregnancy
+
+GynHx:
+- denies history of abnormal paps or fibroids
+- + Chlamydia (first trimester)
+
+PMH:
+GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+GENERAL: appears tired, NAD; difficult to obtain more than 1 
+word answers, pt with eyes closed through most of interview
+weight: 190# on ___ (no other documented weights available)
+
+VITALS:
+- (in ED) T 96.4, HR 105, RR 14, O2 sat 95-100%
+          BPs 138/78, 142/95, 139/88, 139/74
+- (6S) T 97.6, BP 132/64, HR 76, RR 18
+
+LUNGS: CTAB
+HEART: RRR
+ABDOMEN: +tenderness in epigastrium; no lower abd tenderness; 
+nondistended
+EXTREMITIES: no calf tenderness
+
+radiology U/S: (prelim) +FH (152bpm)
+ 
+Pertinent Results:
+___ WBC-10.2 RBC-3.84 Hgb-11.7 Hct-35.5 MCV-92 Plt-364
+___ WBC-13.8 RBC-3.71 Hgb-11.5 Hct-34.1 MCV-92 Plt-403
+___ WBC-12.3 RBC-3.76 Hgb-11.7 Hct-35.5 MCV-94 Plt-344
+
+___ Glu-109 UreaN-5 Cre-0.7 Na-138 K-3.8 Cl-105 HCO3-18
+___ Glu-112 UreaN-4 Cre-0.6 Na-138 K-3.7 Cl-106 HCO3-20
+___ Glu-89 UreaN-5 Cre-0.6 Na-138 K-3.5 Cl-104 HCO3-22
+___ Glu-126 UreaN-7 Cre-0.6 Na-134 K-3.7 Cl-102 HCO3-23
+___ Glu-85 UreaN-10 Creat-0.5 Na-136 K-3.6 Cl-104 HCO3-21
+___ Glu-86 UreaN-9 Creat-0.5 Na-137 K-3.7 Cl-105 HCO3-20
+___ Glu-96 UreaN-10 Creat-0.5 Na-138 K-3.9 Cl-106 HCO3-23
+
+___ ALT-13 AST-24 AlkPhos-73 TotBili-0.3 Lipase-25
+___ ALT-20 AST-19 Triglyc-116
+___ Albumin-4.4 Calcium-9.5 Phos-2.4 Mg-1.8
+___ Calcium-9.5 Phos-3.3 Mg-1.6 Lipase-39
+___ Calcium-8.5 Phos-3.1 Mg-1.9
+___ Calcium-8.9 Phos-3.5 Mg-2.0
+___ Calcium-8.6 Phos-3.2 Mg-1.9
+
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-10 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+ 
+Brief Hospital Course:
+___ y/o G3P0020 admitted at 14w3d with nausea, vomiting, and 
+epigastric pain.
+.
+Ms ___ was admitted for IV hydration, antiemetics, and 
+electrolyte repletion. She was treated with IV protonix, Zofran, 
+phenergan, benadryl, and Ativan. Similar to previous admissions, 
+Ms ___ displayed poor coping abilities and was difficult to 
+care for at times. Psychiatry was reconsulted and recommended 
+continuing Ativan as needed and close outpatient followup with 
+social services. Ms ___ continued to express some 
+ambivalence about the pregnancy, and her options were discussed 
+with her thoroughly. She ultimately decided to continue the 
+pregnancy.
+.
+Given her continued inability to tolerate any po fluids or food 
+and reported significant weight loss, the decision was made to 
+proceed with a PICC line and TPN for nutritional support. Once 
+TPN was initiated and cycled appropriately, ___ services were 
+arranged and she was discharged home.
+.
+She will have close outpatient followup in high risk clinic.
+ 
+Medications on Admission:
+Reglan
+ 
+Discharge Medications:
+1. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO every twelve (12) hours.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) hours 
+as needed for nausea.
+Disp:*60 Tablet(s)* Refills:*2*
+3. Protonix 40 mg Recon Soln Sig: One (1)  Intravenous twice a 
+day.
+Disp:*60 * Refills:*2*
+4. promethazine 12.5 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours as needed for nausea.
+Disp:*60 Tablet(s)* Refills:*2*
+5. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for nausea.
+Disp:*20 Tablet(s)* Refills:*0*
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+pregnancy at 15 wks gestation
+hyperemesis
+gastritis
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Continue taking your medications as prescribed.
+A visiting nurse ___ meet you and give you all instructions for 
+the TPN and IV medication. Although you have Protonix pills at 
+home, you will be getting this through your IV so don't switch 
+to the pills unless you are instructed to do so.
+Call your doctors office ___ have any problems or questions 
+regarding your medication.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-28 | hadm_id=25231882
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+___ w/ hx of severe gastritis ___ s/p Csec on ___ who was 
+dc-ed yesterday from the OB-GYN yesterday. Pt complaining of 
+epigastric abdominal pain and pain at her incision site. Patient 
+denies any fevers or chills. She says this epigastric pain is 
+similar to her prior reflux pain. She did have some reflux pain 
+before being discharged from the start checks service yesterday, 
+but it has worsened greatly at home. She states she has been 
+taking her reflux medication. She endorses one episode of 
+nonbloody emesis this morning and some nausea. She states she 
+has had pain at her incision site. Has not noted any drainage or 
+redness at the site. She denies any chest pain, shortness of 
+breath or cough. She denies any changes in her bowel or bladder 
+habits. She does note that she has had some vaginal spotting, 
+this is an improved greatly since discharge from the obstetric 
+service.
+
+The patient had an EGD in ___ at which point which she 
+was noted to have severe gastritis with bleeding even on 
+slightest touch.  
+
+Initial ED vitals were pain ___ 100 140/80 18 100% 
+Rebreather (though was transitioned to room air shortly 
+thereafter). Labs were significant for Hct of 26.5, up from 24.3 
+on ___, wbc of 11.7, down from 16.6 on ___, slightly up 
+alk phos (123) but otherwise down trending alt/ast from prior 
+and normal lipase/t bili/albumin. The patient recieved a CXR PA 
+LAT that was unremarkable and didnt show any free air, and an 
+RUQ u/s which showed some sludge but no evidence of acute 
+cholecystitis. She received  IV zofran, morphine and PPI. She 
+was transferred to medicine for further mx.  
+
+On arrival to the floor, patient report was quite uncomfortable. 
+Impreoved with IV zofran and IV dialudid.  
+ 
+Past Medical History:
+- Severe gastritis
+  - ___ neg  
+  - ___ GI consult
+  - ___ US: GB sludge, no cholecystitis or gallstones  
+  - ___ abd/pelvis: no pathology  
+  - ___ -> c/w severe gastritis; nl biopsies
+- Psych: panic/anxiety/depression. seen by psychiatry during 
+admissions, recommended klonopin (longer acting than ativan) and
+SSRI with Haldol PRN. Diagnosed with adjustment doirsorder w/ 
+anxiety. 
+
+PSH: SAB X 2 requiring D&C 
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+ADMISSION:
+VS  - 99.8 150/92 70 20 100 ra
+GEN Alert, oriented, moving around in bed in apparent distress  
+HEENT NCAT MMM EOMI sclera anicteric, OP clear  
+NECK supple, no JVD, no LAD  
+PULM Good aeration, CTAB no wheezes, rales, ronchi  
+CV RRR normal S1/S2, no mrg  
+ABD soft NT ND normoactive bowel sounds, no r/g,   
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions  
+
+DISCHARGE:
+VS - 99.3 134/82 97 20 100 ra
+GEN Alert, oriented, withdrawn and not engaging in interview 
+HEENT NCAT MMM EOMI sclera anicteric, OP clear  
+NECK supple, no JVD, no LAD  
+PULM Good aeration, CTAB no wheezes, rales, ronchi  
+CV RRR normal S1/S2, no mrg  
+ABD soft NT ND normoactive bowel sounds, no r/g,   
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions 
+
+ 
+Pertinent Results:
+ADMISSION:
+___ 08:15AM BLOOD WBC-11.7* RBC-3.04* Hgb-8.7* Hct-26.5* 
+MCV-87 MCH-28.6 MCHC-32.8 RDW-14.4 Plt ___
+___ 08:15AM BLOOD Neuts-77.8* Lymphs-15.1* Monos-5.2 
+Eos-1.8 Baso-0.1
+___ 08:15AM BLOOD Plt ___
+___ 08:15AM BLOOD Glucose-114* UreaN-6 Creat-0.8 Na-143 
+K-3.6 Cl-107 HCO3-20* AnGap-20
+___ 08:15AM BLOOD ALT-20 AST-18 AlkPhos-123* TotBili-0.6
+___ 08:15AM BLOOD Lipase-49
+___ 08:15AM BLOOD Albumin-3.9
+___ 06:35PM BLOOD Lactate-0.6
+___ 09:45AM URINE Color-Straw Appear-Clear Sp ___
+___ 09:45AM URINE Blood-MOD Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-8.5* Leuks-NEG
+___ 09:45AM URINE RBC-1 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 09:45AM URINE Mucous-RARE
+
+DISCHARGE:
+___ 06:20AM BLOOD WBC-12.4* RBC-2.97* Hgb-8.4* Hct-25.9* 
+MCV-87 MCH-28.4 MCHC-32.5 RDW-14.6 Plt ___
+___ 06:20AM BLOOD Glucose-86 UreaN-5* Creat-0.6 Na-137 
+K-3.3 Cl-103 HCO3-20* AnGap-17
+___ 06:20AM BLOOD Calcium-8.9 Phos-4.1 Mg-1.7
+
+CXR PA LAT: No evidence for acute disease.
+
+CT AB PELVIS W/ CONTRAST:
+1.  Findings consistent with recent postpartum status.  
+Increased enhancement along the anterior  uterine endometrium 
+likely represents the site of placental attachment.   
+2.  No other acute abdominal pathology. 
+
+RUQ U/S: Gallbladder sludge without specific features to suggest 
+acute 
+cholecystitis. 
+
+ 
+Brief Hospital Course:
+___ s/p C-Section on ___, hx of severe gastritis who 
+presented to ED 1 day after dc from OB-GYN with abdominal pain. 
+Pt got better after one day of clear liquids and was dc-ed home 
+in a stable condition. 
+
+# Abdominal Pain: Pt has a long hx of severe gastritis with 
+several prior admissions. Has gotten extensive workup in the 
+past that was +ve for severe gastritis diagnosed on EGD in ___. 
+However, biopsy was normal. Patient's pain was adequately 
+controlled after discharge on day before admission. Per 
+patient's hx and exam, c/w prior gastritis. Patient also 
+underwent very recent C-Section. However was evaluated by OB-GYN 
+who felt the wound was doing well from a surgical perspective 
+and that this was due to patient's prior gastritis. Pt had a 
+CXR, RUQ u/s and CT abd-pel all unremarkable. Needed zofran, 
+oxycodone overnight. Pt tolerated clears and was dc-ed home on 
+all home meds and a script for zofran. 
+
+# Adjustment disorder w/anxiety: Patient has a hx of depression, 
+anxiety and panic attacks. We held home citalopram and gave po 
+ativan prn for now. She was advised to collect her clonazepam 
+refills from her pharmacy.
+
+TRANSITIONAL ISSUES:
+- NEEDS PCP AND POSSIBLY ___ PSYCH FOLLOWUP
+- GI FOLLOW UP MAY BE NEEDED TO TITRATE GASTRITIS MEDS
+
+ 
+Medications on Admission:
+1. Citalopram 20 mg PO DAILY 
+RX *citalopram 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+
+Refills:*1
+2. Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*40 Capsule Refills:*2
+3. Labetalol 200 mg PO BID 
+hold for BP < 110/60, HR < 60 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*84 
+Tablet Refills:*0
+4. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2
+5. Famotidine 40 mg PO DAILY 
+RX *famotidine 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+
+Refills:*2
+6. ValACYclovir 500 mg PO Q24H 
+RX *valacyclovir 500 mg 1 tablet(s) by mouth daily Disp #*5 
+Tablet Refills:*1
+7. Bismuth Subsalicylate ___ mL PO TID:PRN upset stomach 
+Over the counter available as PeptoBismol 
+RX *Pepto-Bismol 262 mg/15 mL ___ mL by mouth three times a 
+day Disp #*1 Bottle Refills:*2
+8. Sucralfate 1 gm PO QID 
+RX *Carafate 1 gram 1 tablet(s) by mouth four times a day Disp 
+#*60 Tablet Refills:*3
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4hrs Disp #*50 Tablet 
+
+Refills:*0
+10. Acetaminophen ___ mg PO Q6H:PRN [ain 
+ 
+Discharge Medications:
+1. Bismuth Subsalicylate ___ mL PO TID stomach upset 
+2. Citalopram 20 mg PO DAILY 
+3. Famotidine 40 mg PO DAILY 
+4. Labetalol 200 mg PO BID 
+5. Pantoprazole 40 mg PO Q12H 
+6. Sucralfate 1 gm PO QID 
+7. Clonazepam 0.25-0.5 mg PO BID 
+8. Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ZOFRAN ODT 4 mg 1 tablet(s) by mouth Q8 Disp #*15 Tablet 
+Refills:*0
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN PAIN 
+10. Acetaminophen ___ mg PO Q6H:PRN PAIN 
+11. ValACYclovir 500 mg PO Q24H 
+12. Docusate Sodium 100 mg PO BID CONSTIPATION 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+GASTRITIS
+S/P C-SECTION
+ANXIETY
+ADJUSTMENT DISORDER
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___,
+
+You were admitted to ___ after you recent c-section with 
+recurrence of your abdominal pain. Based on a thorough workup, 
+including ultrasound, xray and ct scan, we could identify no new 
+cause of the pain, which is likely due to your gastritis. You 
+were dsicharged back home on a clear liquid diet. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-22 | hadm_id=26794968
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo G3P0 at 18+3 who presents to the ED with 
+nausea and vomiting. She has an extensive history this pregnancy 
+of hyperemesis associated with gastritis, for which she has been 
+admitted multiple times. She completed TPN on ___ and PICC was 
+d/c'ed at that time. She discontinued all of her medications 
+including phenergan, zofran, ativan. She was encouraged to 
+continue on the protonix.
+
+This morning she describes abdominal pain, nausea, emesis x 24 
+hrs. She had 7 episodes of emesis, none with blood. Her 
+abdominal pain is similar to her prior episodes and feels like a 
+squeezing sensation. This time she has diarrhea which is new for 
+her. It is mild, again no blood. Denies fevers, chills, sweats. 
++AFM, no VB.
+
+In the ED, pt received:
+Morphine 5mg x 2
+Zofran 4mg x2
+ 
+Past Medical History:
+PRENATAL COURSE
+*) ___ ___ by LMP (___) c/w 11wk U/S
+*) Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg electro pending
+*) Screening: no ERA, planning QS
+ISSUES
+*) TSH 0.083 on ___ -> rpt (___) 0.3
+*) hx Chlamydia in ___, pt/partner treated, neg TOC (___)
+*) hx GERD/gastritis:
+- s/p admission ___ and ___ and ___
+- ___ neg  
+- ___ GI consult
+- ___ US: GB sludge, no cholecystitis or gallstones  
+- ___ abd/pelvis: no pathology  
+- ___ -> c/w severe gastritis; nl biopsies
+- home regimen: 
+*) psych: panic/anxiety  
+- s/p psych c/s (___): rec: ativan TID prn  
+- social work following
+
+OBHx:
+G3P0
+SAB x 2 requiring D&C
+Current pregnancy
+
+GynHx:
+- denies history of abnormal paps or fibroids
+- + Chlamydia (first trimester)
+
+PMH: GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: T 97, HR 86, BP 124/72, RR 16, O2 100% 
+GENERAL: Lying in bed, tired
+HEART: RRR
+RESP: CTAB
+ABDOMEN: Soft, mild diffuse tenderness
+PELVIC: Deferred
+EXTREMITIES: NT, NE
+
+FHR 160s by Doppler
+ 
+Pertinent Results:
+___ WBC-11.9 RBC-3.59 Hgb-10.8 Hct-33.7 MCV-94 Plt-345
+___ Neuts-76.8 ___ Monos-4.2 Eos-0.4 Baso-0.3
+
+___ Glu-85 BUN-6 Cre-0.5 Na-139 K-3.6 Cl-107 HCO3-23
+___ Glu-89 BUN-4 Cre-0.6 Na-139 K-3.8 Cl-109 HCO3-22
+___ Glu-110 BUN-4 Cre-0.5 Na-132 K-3.4 Cl-100 HCO3-21
+___ Glu-92 BUN-4 Cre-0.6 Na-139 K-3.3 Cl-108 HCO3-23
+
+___ ALT-19 AST-17 AlkPhos-74 TotBili-0.4
+___ ALT-24 AST-27 Lipase-27
+
+___ Albumin-3.8 Calcium-9.0 Phos-3.1 Mg-1.6
+___ Calcium-8.6 Phos-2.0 Mg-1.7
+___ Calcium-8.9 Phos-2.5 Mg-1.3
+___ Calcium-8.1 Phos-3.5 Mg-1.9
+
+___ URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG 
+Ketone-10 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+ 
+Brief Hospital Course:
+___ y/o ___ admitted at 18w3d with nausea, vomiting, and 
+abdominal pain. Her symptoms and presentation were quite 
+simialar to her previous admissions during this pregnancy. She 
+was admitted for IV hydration, antiemetics, electrolyte 
+repletion, and pain control. She was treated with IV protonix, 
+Zofran, phenergan, benadryl, and Ativan. Pepcid was added to her 
+regimen on HD#3. She received IV Morphine for the epigastric 
+pain. She was unable to tolerate a significant amount of po 
+intake until hospital day #4. At that time, her pain had 
+resolved and she was tolerating po fluids and medication. She 
+requesting discharge home. Prior to discharge, she also 
+requested medication for depression. States she cries a lot and 
+feels she needs something to improve her mood. She was given a 
+prescription for Celexa 20mg and she agreed to return to high 
+risk clinic on ___ for followup. The importance of continuing 
+both protonix and pepcid even if she is feeling well was 
+stressed to the patient.
+.
+Ms ___ had her routine full fetal survey on ___ which was 
+normal.
+ 
+Medications on Admission:
+protonix
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pregnancy at 18 weeks
+abdominal pain
+nausea/vomiting
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Continue taking your medications as needed for nausea. It is 
+very important for you to continue taking the Protonix and 
+Pepcid, EVEN IF YOU ARE FEELING WELL. Take the Protonix when you 
+wake up in the morning and then at dinnertime; then take the 
+Pepcid at night before you go to bed.
+
+It is also very important for you to stay hydrated.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-27 | hadm_id=27439770
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+vomiting
+ 
+Major Surgical or Invasive Procedure:
+Low transverse cesarean section for failed induction of labor 
+and severe pre-eclampsia
+
+ 
+History of Present Illness:
+___ y/o G3P0020 ___ ___ presents to triage with uncontrolable 
+vomiting since ___ this morning. She has had several admission 
+secondary to severe gastritis and abd pain with GI consult. The 
+work up was significant for gallbladder sludge and GERD/severe 
+gastritis and subsequent panic/anxiety/depression. She was seen 
+by psychiatry during admissions, recommended klonopin (longer 
+acting than ativan) and SSRI with Haldol PRN. Her out patient 
+medications include Acetaminophen ___ mg PO Q6H:PRN pain, 
+Promethazine 25 mg PO Q6H:PRN n/v, Prochlorperazine 10 mg PO 
+Q6H:PRN n/v, Ondansetron 4 mg PO Q8H:PRN n/v, Pantoprazole 40 mg 
+PO Q24H, Lorazepam 0.5 mg PO BID:PRN anxiety/pain. She states 
+that she took protonix, compazine and pepcid that morning at 
+0630.
+
+Pt arrived via ambulance.
+ 
+Past Medical History:
+PNC
+___ ___ by LMP (___) c/w 11wk U/S
+- Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg 100%A
+- LR quad
+- FFS nl
+- hx Chlamydia in ___ tri, pt/partner treated, neg test of 
+re-infection (___)
+- GERD/gastritis/freq abd pain
+  - s/p admission ___,
+    and ___
+  - ___ neg  
+  - ___ GI consult
+  - ___ US: GB sludge, no cholecystitis or gallstones  
+  - ___ abd/pelvis: no pathology  
+  - ___ -> c/w severe gastritis; nl biopsies
+- Psych: panic/anxiety/depression. seen by psychiatry during 
+admissions, recommended klonopin (longer acting than ativan) and
+SSRI with Haldol PRN
+
+OBHx: G3P0
+-SAB x 2 requiring D&C
+
+GynHx: denies history of abnormal paps or fibroids, + Chlamydia
+(first trimester)
+
+PMH: GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+BP 133/112 (vomiting) with a repeat of 138/79
+HR 87, RR 20, temp 98.3 po
+
+FHT 135 ___, pos accels, no decels, mod var, reactive.
+TOCO initially contractions q ___ now none
+ 
+Pertinent Results:
+Admission labs (___):
+
+WBC-14.4* RBC-3.50* Hgb-10.2* Hct-30.2* MCV-86 MCH-29.2 
+MCHC-33.8 RDW-14.8 Plt ___
+Glucose-92 UreaN-4* Creat-0.6 Na-139 K-4.1 Cl-106 HCO3-17* 
+ALT-13 AST-22 AlkPhos-100 Amylase-53 TotBili-0.6
+Calcium-9.5 Phos-2.7 Mg-1.4* UricAcd-4.8
+
+F/u labs:
+___ WBC-10.9 RBC-3.19* Hgb-9.3* Hct-27.3* MCV-86 MCH-29.2 
+MCHC-34.1 RDW-14.0 Plt ___
+___ Creat-0.5
+___ ALT-19 AST-24 UricAcd-6.9*
+24 hour urine (___): Prot-828
+
+___ 08:13AM BLOOD ALT-53* AST-42* TotBili-0.___ y/o G3P0 admitted at ___ with nausea, vomtiting, and 
+epigastric pain. She presented with symptoms similar to her 
+previous admissions, however, was noted to have elevated blood 
+pressures. Preeclampsia labs were normal. She was transferred to 
+the antepartum floor for supportive care and a 24 hour urine 
+collection. Her 24 hour urine returned positive with 828mg of 
+protein.  Her blood pressures remained elevated and met criteria 
+for severe.  At this time she also complained of a headache and 
+visual changes and was sent to L&D for induction.
+
+On L&D, she had a failed induction after cytotec, pitocin, and a 
+foley bulb.  She was recommended a primary c-section to which 
+she consented.  Please see operative note for full details.
+
+Post-partum, she was placed on magnesium for 24 hours given her 
+severe pre-eclampsia. Her blood pressures were persistently 
+elevated to 150s/90s and thus she was started on oral labetolol 
+200mg bid on post-partum day 0, with good control of blood 
+pressures until discharge.
+
+Post-partum, she was followed for the following other issues as 
+well:
+1. Gastritis: Immediately post-partum, the patient was not 
+experiencing any gastric pain. She was maintained on famotidine 
+and protonix. By PPD3, she was complaining of increasing 
+epigastric pain. She was given pepto-bismul and bicitra, which 
+moderately helped her pain. By discharge, the pain was 
+moderately well-controlled with all four agents and percocet. 
+She is to follow-up with the GI doctors ___ Dr. 
+___ regarding her pain.
+
+2. Polyuria: The patient's urine output on labor and delivery 
+was noted to be as high as a liter an hour. The urine Osms and 
+serum Osms were within normal limits, with no concern for 
+diabetes insipidus. A nephrology consult was placed, and the 
+team recommended a water deprivation test. This test was 
+attempted, but was limited ___ to patient non-compliance with 
+the test. It did show a reassuring trend for etiology as primary 
+polydipsia, with increasing serum Osm with water restriction. 
+The patient's thirst decreased and she began to drink less and 
+have more normal urine output by PPD4.
+ 
+3. Pysch: The patient was restarted on celexa 30mg qd 
+post-partum and discharged on her home regimen of 20mg qd 
+post-partum. She did not require any additional psychotropic 
+medications while immediately post-partum. Social work followed 
+closely.  
+
+4. General postpartum care: The patient's baby was found to have 
+Rh neg blood, and thus thus patient received RhoGAM. She also 
+received a TdAP. There were no other post-partum issues.
+ 
+Medications on Admission:
+promethazine
+protonix
+compazine
+pepcid
+lorazepam
+ 
+Discharge Medications:
+1. Citalopram 20 mg PO DAILY 
+RX *citalopram 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1
+2. Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*40 Capsule Refills:*2
+3. Labetalol 200 mg PO BID 
+hold for BP < 110/60, HR < 60 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*84 
+Tablet Refills:*0
+4. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2
+5. Famotidine 40 mg PO DAILY 
+RX *famotidine 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2
+6. ValACYclovir 500 mg PO Q24H 
+RX *valacyclovir 500 mg 1 tablet(s) by mouth daily Disp #*5 
+Tablet Refills:*1
+7. Bismuth Subsalicylate ___ mL PO TID:PRN upset stomach 
+Over the counter available as PeptoBismol 
+RX *Pepto-Bismol 262 mg/15 mL ___ mL by mouth three times a 
+day Disp #*1 Bottle Refills:*2
+8. Sucralfate 1 gm PO QID 
+RX *Carafate 1 gram 1 tablet(s) by mouth four times a day Disp 
+#*60 Tablet Refills:*3
+9. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4hrs Disp #*50 Tablet 
+Refills:*0
+10. Acetaminophen ___ mg PO Q6H:PRN [ain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pregnancy, delivered
+Pre-eclampsia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Nothing in the vagina for 6 weeks (No sex, douching, tampons)  
+No heavy lifting for 6 weeks  
+Do not drive while taking Oxycodone  
+Do not take more than 4000mg acetaminophen (APAP) in 24 hrs  
+Do not take ibuprofen, it will upset your stomach 
+Please call if you develop shortness of breath, dizziness, 
+palpitations, fever of 101 or above, abdominal pain, increased 
+redness or drainage from your incision, nausea/vomiting, heavy 
+vaginal bleeding, or any other concerns.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-26 | hadm_id=28667918
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ y/o G3P___ ___ ___ presents to triage with the complaint 
+of abdominal pain and tightening. She denies dysuria, gross 
+hematuria or urgency. She states that the pain is the same as 
+she has been having but the tightening is new. She denies 
+vaginal spotting or leaking. Active fetal movements.
+
+Of note pt was admitted on ___ for nausea/vomiting and 
+abdominal pain and discharged on ___.
+
+ 
+Past Medical History:
+PRENATAL COURSE
+- ___ ___ by LMP (___) c/w 11wk U/S
+- Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg 100%A
+- LR quad
+- FFS nl
+- hx Chlamydia in ___ tri, pt/partner treated, neg test of 
+re-infection (___)
+- GERD/gastritis/freq abd pain
+  - s/p admission ___,
+    and ___
+  - ___ neg  
+  - ___ GI consult
+  - ___ US: GB sludge, no cholecystitis or gallstones  
+  - ___ abd/pelvis: no pathology  
+  - ___ -> c/w severe gastritis; nl biopsies
+- Psych: panic/anxiety/depression. seen by psychiatry during 
+admissions, recommended klonopin (longer acting than ativan) and 
+SSRI with Haldol PRN
+
+OBHx: G3P0
+-SAB x 2 requiring D&C
+
+GynHx: denies history of abnormal paps or fibroids, + Chlamydia
+(first trimester)
+
+PMH: GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+BP135/73   HR 106  RR 16  temp 98.9 po
+RRR
+CTA B
+ABD gravid, soft, tender throughout with light palpation ( pt
+grimacing).
+ext no edema
+
+FHT 150 ___, pos accels, 2 var decels, mod var, reactive
+TA U/S BPP ___, AFI 11.5, cephalic, placenta anterior, no 
+previa,
+fetal cardiac activity 176 by M mode.
+Toco no contractions noted
+
+ 
+Pertinent Results:
+___ 09:38AM   WBC-12.9* RBC-3.12* HGB-9.3* HCT-26.9* MCV-86 
+MCH-29.7 MCHC-34.5 RDW-13.8
+___ 09:38AM   PLT COUNT-355
+___ 09:38AM   ALT(SGPT)-15 AST(SGOT)-15 AMYLASE-40 TOT 
+BILI-0.4
+___ 09:38AM   URIC ACID-4.8
+___ 09:39AM   ___ PTT-25.4 ___
+___ 09:39AM   ___
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the antepartum service for 
+supportive care of her gastritis.  She recevied anti-emetics and 
+pain medications as needed and improved.  She had reassuring 
+fetal testing and her blood pressures remained normal.
+ 
+Medications on Admission:
+Protonix,Compazine, Pepcid, Zofran, Ativan
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO Q6H:PRN pain 
+2. Promethazine 25 mg PO Q6H:PRN n/v 
+3. Prochlorperazine 10 mg PO Q6H:PRN n/v 
+4. Ondansetron 4 mg PO Q8H:PRN n/v 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every ___ hours Disp 
+#*60 Tablet Refills:*0
+5. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*1
+6. Lorazepam 0.5 mg PO BID:PRN anxiety/pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gastritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the antepartum service for treatment of 
+your gastritis.  You improved with medications and were able 
+tolerate some food.  You had reassuring fetal testing and it is 
+now safe for you to be discharged home.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-19 | hadm_id=29669550
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old G3P0 @ 10w5d by ___ ___ who presents to ED
+with multiple episodes of nausea, vomiting and diarrhea which
+started around 5:30 this morning. Patient states that she has
+been having morning sickness every morning which typically lasts
+___ hours, but today her vomiting persisted and was associated
+with epigastric pain and diarrhea.
+
+Patient denies any fever, chills, vaginal bleeding, lower
+abdominal cramping or leakage of fluid.
+
+In the ED, patient has received multiple anti-emetics and IVF,
+but has been experiencing persistent nausea and vomiting despite
+these measures. 
+
+ 
+Past Medical History:
+PNC:
+1. ___: ___ by ___ ___. PNC @ ___ with ___. Records not
+available.
+3. Per report + Chlamydia 3 weeks ago s/p treatment
+
+OBHx:
+G3P0
+SAB x 2 requiring D&C
+Current pregnancy
+
+GynHx: Denies history of abnormal Pap tests or Fibroids. +
+Chlamydia 3 weeks ago s/p treatment
+
+PMH:
+GERD
+
+PSH: D&C x 2
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+98.8 100 124/64 18 100% 
+NAD, appears unwell
+CV: regular rate and rhythm
+Pulm: clear to auscultation bilaterally
+Abd: Soft, mild tenderness to palpation in epigastrum, 
+non-distended, no guarding and
+no rebound
+SSE: (per ED resident) Grayish clear discharge with foul odor, 
+no
+vaginal bleeding, cervix closed
+
+Per ED resident Bedside US with +IUP with + FHR 
+
+On discharge:
+afebrile, vital signs stable
+No acute distress, comfortable
+Regular rate and rhythm
+Clear to auscultation bilaterally
+Abdomen generally soft,nontender, non distended, no 
+rebound/guarding
+No edema, extremities warm
+ 
+Pertinent Results:
+___ 09:50PM BLOOD WBC-10.8 RBC-3.61* Hgb-11.4* Hct-31.3* 
+MCV-87 MCH-31.6 MCHC-36.4* RDW-14.6 Plt ___
+___ 06:30AM BLOOD WBC-13.9* RBC-3.46* Hgb-10.7* Hct-30.3* 
+MCV-88 MCH-30.9 MCHC-35.4* RDW-14.4 Plt ___
+___ 11:20AM BLOOD WBC-9.9 RBC-4.04* Hgb-12.4 Hct-34.5* 
+MCV-86 MCH-30.8 MCHC-36.1* RDW-14.5 Plt ___
+___ 09:50PM BLOOD Neuts-83.7* Lymphs-12.2* Monos-2.9 
+Eos-1.1 Baso-0.1
+___ 11:20AM BLOOD Neuts-81.0* Lymphs-16.0* Monos-2.7 
+Eos-0.1 Baso-0.1
+___ 09:50PM BLOOD Glucose-137* UreaN-7 Creat-0.6 Na-135 
+K-3.5 Cl-106 HCO3-19* AnGap-14
+___ 06:30AM BLOOD Glucose-108* UreaN-7 Creat-0.6 Na-135 
+K-3.2* Cl-105 HCO3-21* AnGap-12
+___ 11:20AM BLOOD Glucose-89 UreaN-7 Creat-0.6 Na-139 K-4.1 
+Cl-106 HCO3-23 AnGap-14
+___ 09:50PM BLOOD ALT-24 AST-24 CK(CPK)-126 AlkPhos-68 
+Amylase-61 TotBili-0.6
+___ 11:20AM BLOOD ALT-17 AST-20 AlkPhos-78 TotBili-0.4
+___ 09:50PM BLOOD Lipase-31
+___ 11:20AM BLOOD Lipase-17
+___ 06:30AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 09:50PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 11:20AM BLOOD TSH-0.083*
+___ 11:20AM BLOOD T4-12.0 T3-214* Free T4-1.3
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old G3P0 who is admitted at 10w4d 
+gestational age with severe nausea/vomiting, refractory to 
+antiemetics, and severe epigastric pain x2 days.  Of note, she 
+does have a history of "severe gastritis" with EGD at age ___.  
+She reports some abdominal discomfort over the past month that 
+became severe prior to presentation.  On admission, labs 
+revealed no leukocytosis, elevated lactate that is normal on 
+repeat, normal LFTs and lipse, and low TSH but appropriate for 
+early pregnancy.  She was initially treated with antiemetics but 
+her abdominal pain becomes more severe.  She was treated with a 
+PPI, H2 blocker, and maalox, in addition to morphine prn.  With 
+episodes of abdominal pain, the patient is noted to be extremely 
+agitated and requires several doses of ativan for panic/anxiety. 
+ She was seen by the gastroenterology service and had a normal 
+RUQ ultrasound and abdominal/pelvic MRI. H.pylori was negative. 
+
+She continued to have intermittent nausea/emesis but much 
+improved with antiemetics.  On hospital day 2, a stat 
+psychiatric consultation was called as the patient was again 
+very agitated, and they recommended ativan TID prn for 
+agitation, likely due to anxiety/panic.  With episodes of 
+agitation, she complained of chest pain/sense of doom; EKG x2 
+and troponins were normal and she had no vital sign 
+abnormalities.  The patient was seen by ___ of social 
+work and revealed that she has little social support, and that 
+this is an unwanted pregnancy, however stated that she did not 
+believe in abortion.  Her primary ob/gyn office, affiliated with 
+___, was contacted and follow-up (both ob/gyn and social work) 
+was arranged for the patient.  The GI service continued to 
+follow the patient and recommended an outpatient EGD. On 
+hospital day 4, Ms. ___ denied abdominal pain and was 
+tolerating a regular diet. She was discharged home with close 
+outpatient follow up. 
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO qam.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. famotidine 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+3. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO q6 hours prn as needed for heartburn.
+Disp:*60 Tablet, Rapid Dissolve(s)* Refills:*2*
+4. Ativan 1 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for anxiety/distress.
+Disp:*12 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gastritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+You were admitted with nausea/vomiting and severe abdominal 
+pain.  As an inpatient, you were treated with anti-nausea 
+medicine, antacids, and pain medicine.  Ultrasounds and MRI were 
+normal and your pain improved.
+The GI specialists will call you to schedule a procedure called 
+esophagogastroduodenoscopy (EGD).  It is important that you have 
+this procedure done to evaluate the cause of your abdominal 
+pain. 
+ * It is important that you have your records from ___ transferred to ___. Please call 
+your OB doctor have them fax your records to us at ___
+
+  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12250460-DS-23 | hadm_id=29785328
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo G3P0 @ 24+5 presents with upper abdominal pain, nausea, 
+and vomiting. Has had symptoms like this on/off throughout the 
+pregnancy. Tonight worse than has been in last few weeks. C/o 
+pain mostly w/ episodes of vomiting. describes
+as gnawing, burning, twisting. Was able to tolerate ensure and 
+yogurt this am after morning meds however this evening hasn't 
+been able to tolerate anything by mouth. Tried ativan, compazine 
+and pepcid.
+ 
+Denies fevers, chills. Denies VB, LOF. Does not feel like she is 
+having ctx. No back pain. No dysuria. Denies HA, visual changes 
+and RUQ pain
+ 
+Past Medical History:
+PRENATAL COURSE
+- ___ ___ by LMP (___) c/w 11wk U/S
+- Labs: O-/Ab-,GC/CT-,RPRnr,RI,HbsAg-,HIV-,Hbg electro pending
+- LR quad, nl FFS
+- hx Chlamydia in ___ tri, pt/partner treated, neg test of
+re-infection (___)
+- GERD/gastritis/freq abd pain
+     - s/p admission ___ and ___ and ___ and
+       ___
+     - ___ neg  
+     - ___ GI consult
+     - ___ US: GB sludge, no cholecystitis or gallstones  
+     - ___ abd/pelvis: no pathology  
+     - ___ -> c/w severe gastritis; nl biopsies
+- psych: panic/anxiety/depression.  ativan TID PRN.  ON last
+admit was started on celexa however pt self d/c'd  
+
+OBHx: G3P0
+
+SAB x 2 requiring D&C
+
+GynHx:
+- denies history of abnormal paps or fibroids
+- + Chlamydia (first trimester)
+
+PMH: GERD and gastritis
+
+PSH: D&C x 2
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+(on admission)
+VITALS: afebrile, HR 70, BP 107/49
+GENERAL: well appearing
+ABDOMEN: soft, nondistended, gravid, NT
+EXTREMITIES: NT, NE
+
+Spot Check 150's
+TOCO: no ctx
+
+US: active FM, breech, nl fluid and movement
+ 
+Pertinent Results:
+___ 03:25AM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 03:25AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-TR
+___ 03:25AM URINE  RBC-0 WBC-3 BACTERIA-NONE YEAST-NONE 
+EPI-45
+___ 03:25AM URINE  MUCOUS-RARE
+___ 02:55AM   GLUCOSE-87 UREA N-5* CREAT-0.6 SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-22 ANION GAP-14
+___ 02:55AM   estGFR-Using this
+___ 02:55AM   ALT(SGPT)-15 AST(SGOT)-19 ALK PHOS-69 TOT 
+BILI-0.2
+___ 02:55AM   LIPASE-28
+___ 02:55AM   CALCIUM-9.0 PHOSPHATE-3.3 MAGNESIUM-1.7 URIC 
+ACID-3.6
+___ 02:55AM   WBC-11.0 RBC-3.52* HGB-10.8* HCT-31.9* MCV-91 
+MCH-30.6 MCHC-33.8 RDW-12.7
+___ 02:55AM   NEUTS-68.3 ___ MONOS-6.5 EOS-0.7 
+BASOS-0.1
+___ 02:55AM   PLT COUNT-___ y/o G3P0 admitted at 24w5d for management of her 
+nausea/vomiting and epigastric pain due to chronic gastritis.
+.
+#) Abdominal Pain: 
+Ms ___ was given IV hydration, antiemetics, Protonix, and 
+Dilaudid during her evaluation in triage. Her pain was unable to 
+be controlled and she could not tolerate any po's, therefore, 
+she was admitted to the ___ service. Over the course of 
+several days she improved with IVF, Phenergan, Protonix, Pepcid, 
+Ativan Zofran, Compazine and Carafate. She required small doses 
+of IV Dilaudid several times but did not require standing 
+narcotic medications. On day of discharge her pain was greatly 
+improved and she was tolerating light POs and PO hydration.
+
+#) Agitation/Anxiety:
+Ms ___ continued to exhibit unusual behaviors during the 
+periods of worsening pain, similar to her previous admissions. 
+Examples of her usual behavior are voiding in the bed on 
+multiple occasions, curling up on the floor naked, and thrashing 
+around uncontrollably. She was seen by psychiatry in house who 
+feel she likely has an anxiety disorder. Psych recommended 
+Clonazepam 0.25-0.5mg IV BID-TID PRN anxiety for short-term, and 
+PO Clonazepam rather than Ativan given that it is longer acting. 
+They also recommended an SSRI. Finally they recommended Haldol 
+0.5mg IV q8hrs as needed for significant alterations in 
+behavior. 
+
+#) Elevated blood pressures: Ms ___ had blood pressures in 
+the 140-160/80 range while in house but only in the setting of 
+anxiety /pain. When she was not anxious and in pain she was 
+normotensive. A 24 hour urine was collected and was negative at 
+289 mg. She denies headache or visual changes. Although she 
+continued to have her typical epigastric pain she denies any new 
+RUQ pain. Her HELLP labs were negative.
+
+ 
+Medications on Admission:
+protonix
+pepcid
+zofran
+compazine
+ativan
+ 
+Discharge Medications:
+1. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Pepcid 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+3. Zofran 4 mg Tablet Sig: ___ Tablets PO every eight (8) hours.
+Disp:*40 Tablet(s)* Refills:*2*
+4. promethazine 25 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours.
+Disp:*120 Tablet(s)* Refills:*2*
+5. clonazepam 0.25 mg Tablet, Rapid Dissolve Sig: ___ Tablet, 
+Rapid Dissolves PO twice a day as needed for anxiety, abdominal 
+pain.
+Disp:*25 Tablet, Rapid Dissolve(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+hyperemesis
+gastritis
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for nausea, vomiting and 
+abdominal pain likely gastritis.
+You were kept on your usual anti-nausea medications as well as 
+Pepcid and Protonix and your symptoms improved. You had some 
+elevated blood pressures but your 24 hour urine collection was 
+negative for pre-eclampsia.
+Please make sure you take all of your medications as directed: 
+Pepcid, Protonix, Zofran, Compazine and Clonazepam (instead of 
+the Ativan) as needed
+ 
+Followup Instructions:
+___

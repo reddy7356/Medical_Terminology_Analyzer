@@ -1,0 +1,310 @@
+===== DISCHARGE NOTE =====
+note_id=19444188-DS-3 | hadm_id=28258080
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain for 2 weeks with acute worsening accompanied by 
+nausea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with PMH sigmoid diverticulosis, hypothyroidism and remote 
+h/o metastatic sarcoma who is presenting with 2 weeks spasmodic 
+abdominal pain worsening over the last day and a half with new 
+onset nausea. Pt reports unexpected onset of waves of abd pain. 
+Pt denies any association of pain with eating, movement, or 
+specific activity. She report having to sit down and stop doing 
+activities with pain onset. Pain is diffuse in location and 
+lasts for minutes. Pt has also had poorer PO intake ___ to abd 
+pain for past 2 weeks. She denies any change in BMs until after 
+coming to hospital at which time she has had 3 episodes of 
+diarrhea, unknown bloody or other characteristics. Pt denies 
+dysuria, and flank pain. 
+
+She denies any shortness of breath or cough. She denies recent 
+travel, sick contacts, antibiotic use.
+
+In the ED, VS were 97.7 100 133/76 20 97% ra. Labs were notable 
+for WBC ct 13.9 with left shift, UA was negative except spec 
+___ 1.040, and LFTs and lytes were WNL. She was given 5 mg 
+morphine IV for pain. ACS was consulted and did not feel she had 
+a surgical abd. Pt was given IVF, flagyl  500mg , and cipro IV 
+400mg  in the ED for concern for infectious colitis. Subsequent 
+VS were 0 98 66 126/53 18 99% ra. 
+ 
+On the floor, VS were 97.3 141/49 68 18 97RA wt 43.4kg. Pt was 
+in no acute distress.
+
+Review of Systems:  
+(+)  abd pain, nausea, and recent 3 episodes of diarrhea
+(-) fever, chills, night sweats, headache, sore throat, cough, 
+shortness of breath, chest pain, vomiting, constipation, BRBPR, 
+melena, hematochezia, dysuria, hematuria.  
+  
+ 
+Past Medical History:
+- Hypothyroidism
+- ___ ___ Diverticulosis of the sigmoid colon
+- h/o metastatic malignant fibrous histiocytoma with
+complete response of the right femoral head diagnosed in ___, s/p 3 cycles of Adriamycin, mitomycin and cisplatinum 
+chemotherapy 
+
+Past Surgical History:
+- Right hip replacement for sarcoma
+- bilateral cataracts surgery
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION
+Vitals- VS 97.3 141/49 hr 68 rr 18 97%ra wt 43.3kg
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP at 6cm and not elevated 
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-tender, non-distended, active bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro- motor function grossly normal  
+
+DISCHARGE
+Vitals- 97.4 142/44 69 100% ra rr 18
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP at 6cm and not elevated 
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-tender, non-distended, active bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro- motor function grossly normal  
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 09:55PM BLOOD WBC-13.9*# RBC-4.20# Hgb-11.0*# 
+Hct-35.4*# MCV-84# MCH-26.3* MCHC-31.2 RDW-16.5* Plt ___
+___ 09:55PM BLOOD Neuts-81.0* Lymphs-12.9* Monos-4.9 
+Eos-1.0 Baso-0.1
+___ 09:55PM BLOOD Plt ___
+___ 09:55PM BLOOD Glucose-125* UreaN-26* Creat-0.8 Na-140 
+K-4.3 Cl-101 HCO3-28 AnGap-15
+___ 09:55PM BLOOD ALT-12 AST-20 AlkPhos-40 TotBili-0.2
+___ 09:55PM BLOOD Lipase-19
+___ 09:55PM BLOOD Albumin-3.6
+___ 02:33AM BLOOD Lactate-1.3
+
+URINE
+___ 02:05AM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:05AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-SM 
+___ 02:05AM URINE RBC-1 WBC-3 Bacteri-NONE Yeast-NONE 
+Epi-<1
+
+DISCHARGE LABS:
+___ 05:45AM BLOOD WBC-6.6# RBC-3.62* Hgb-9.2* Hct-29.7* 
+MCV-82 MCH-25.4* MCHC-31.0 RDW-16.3* Plt ___
+___ 05:45AM BLOOD Glucose-71 UreaN-14 Creat-0.7 Na-142 
+K-4.0 Cl-107 HCO3-26 AnGap-13
+
+IMAGING
+CXR ___
+Frontal and lateral views of the chest demonstrate low lung 
+volumes.  No
+pleural effusion, focal consolidation or pneumothorax is seen.  
+Hilar and
+mediastinal silhouettes are unchanged.  Heart size is top 
+normal.  Aorta
+appears slightly tortuous with aortic arch calcifications.  The 
+increased size
+of a large hiatal hernia is exaggerated by lower lung volumes 
+than in ___. 
+Compression deformity of L1 vertebral body is chronic.
+ 
+IMPRESSION:
+ 
+No evidence of acute cardiopulmonary process.
+
+CT ABD/PELVIS ___
+1.  Approximately 10 cm segment of the distal ileum/cecum, which 
+demonstrates
+marked bowel wall thickening.  There is no significant fat 
+stranding or fluid
+adjacent to this bowel loop.  The differential considerations 
+include
+infection, inflammation or ischemia of subacute/chronic nature.  
+Underlying
+mass lesion is also considered due to lack of associated 
+stranding and acute
+inflammatory changes.
+2.  Large hiatal hernia. 
+3.  Extensive calcified atherosclerotic disease of the aorta and 
+its branches
+without associated aneurysmal changes.
+4.  Compression deformities of L5 and L1 vertebral bodies with 
+associated
+sclerosis, likely chronic.
+5.  Fibroid uterus.
+6.  Intermediate density renal lesions, which can be further 
+assessed with
+renal ultrasound on non-emergent basis.  There is a 1.5 x 1.2 cm 
+hypodense lesion in the lower pole of the left kidney measuring 
+50 Hounsfield units in attenuation (2:34) there is a
+1 x 1 cm hypodensity in the lower pole of the right kidney 
+measuring 72
+Hounsfield units (2:37).
+ 
+ 
+
+MICRO:
+
+            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+ 
+Brief Hospital Course:
+___ with PMH sigmoid diverticulosis, hypothryoidism presents 
+with 2 weeks of abd pain, new onset diarrhea, and transient 
+nausea with elevated WBC ct, concentrated urine, and imaging 
+colitis in ileal-cecal area c/f infectious vs. ischemic colitis.
+
+ACTIVE ISSUES:
+# Abd pain: In ___ with new onset acute abdominal pain, the 
+initial concern was for ischemic vs. infectious colitis. 
+Ischemic picture is supported by pt's known calcific lesions in 
+aorta, suggesting possibility of vessel narrowing disease or 
+atheroembolic disease. Pt was given IVF gently and never had 
+abdominal pain during hospitalization. Pt's UA with specific 
+gravity of 1.040 was suggestive of concentrated urine indicating 
+possibly hypovelemia. Ms ___ may have had infectious colitis, 
+given elevated WBC count. Pt was given cipro/flagyl in the ED 
+for possible infectious colitis. Pt was continued on treatment 
+for infectious colitis with ciprofloxacin and flagyl. After pt 
+was discharged, stool cultures for C. diff, salmonella, 
+shigella, campylobacter later returned negative. Surgery was 
+initially consulted in the ED and followed briefly while patient 
+was inpatient, however, as the patient improved with 
+conservative measures, it became clear that pt would not require 
+surgical intervention.
+
+CHRONIC ISSUES
+# Hypothyroidism: Pt was continued on 137mcg/day po 
+levothyroxine
+
+TRANSITION ISSUES:
+# CT abdomen showed incidental renal lesions, described as 
+:intermediate density renal lesions", which can be further 
+assessed with renal ultrasound on non-emergent basis
+# Based on pt's likely ischemic colitis, we would recommend 
+further discussion regarding need for outpatient colonoscopy to 
+assess for presence of mass
+# Three blood cultures are pending
+
+# Code: Full (discussed with patient)  
+# Communication: Patient   
+# Emergency Contact:   Daughter ___ = ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 137 mcg PO DAILY 
+2. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+3. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO Q6H:PRN pain 
+hold for sedation and RR<12 
+4. Vitamin B Complex 1 CAP PO DAILY 
+5. Ranitidine 150 mg PO BID 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Multivitamins 1 TAB PO DAILY 
+2. Levothyroxine Sodium 137 mcg PO DAILY 
+3. Fish Oil (Omega 3) 1000 mg PO DAILY 
+4. Ciprofloxacin HCl 500 mg PO Q24H 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth q25h Disp #*6 
+Tablet Refills:*0
+5. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*18 Tablet Refills:*0
+6. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO Q6H:PRN pain 
+hold for sedation and RR<12 
+7. Ranitidine 150 mg PO BID 
+8. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+9. Vitamin B Complex 1 CAP PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure taking care of you at ___. You were admitted 
+for abdominal pain with poor appetite, nausea, and a few 
+episodes of diarrhea in the emergency department. We performed 
+imaging of your abdomen, which showed inflammation of your 
+colon. We treated you with fluids given through your veins and 
+antibiotics in case your pain was from an infection. You 
+improved during your stay, and we discharged you after you were 
+able to eat. Please continue to take the antibiotics as 
+prescribed through ___.
+
+We would like you to follow-up with you primary care doctor to 
+further discuss whether you should undergo colonoscopy to 
+evaluation your colon more closely.
+ 
+Followup Instructions:
+___

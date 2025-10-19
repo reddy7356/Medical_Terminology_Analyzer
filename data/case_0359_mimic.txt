@@ -1,0 +1,350 @@
+===== DISCHARGE NOTE =====
+note_id=17217255-DS-17 | hadm_id=21912343
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Ulcerative colitis 
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopic total abdominal colectomy, end ileostomy, 
+superficial duodenal injury
+
+ 
+History of Present Illness:
+___ with ulcerative colitis for ___ years, currently on
+prednisone 30mg' and Entyvio with low grade dysplastic adenoma
+(3cm) in the rectum pending surgical evaluation. Patient has
+occasional bloody bowel movements every few days, and ___
+non-bloody bowel movements 3 times a day. Patient still 
+complains
+of urgency. Of significance, patient has been now on prednisone
+for one year. When patient has been weaned off of prednisone, 
+she
+has worsening Crohn's exacerbation. Patient continues to have
+severe proctocolitis with two separate adenomas with histology
+demonstrating low grade dysplasia. One lesion was at 25cm, and
+most recently a 3cm adenoma at 10cm. Patient states that she
+prefers surveillance over surgery. However, she does understand
+that her risk of cancer is roughly ___. 
+ 
+Past Medical History:
+PMH: Ulcerative colitis, uterine fibroids, osteoporosis,
+depression
+
+PSH: Open myomectomy ___
+ 
+Social History:
+___
+Family History:
+No family of IBD, no family history of colon cancer.
+ 
+Physical Exam:
+Discharge Physical Exam:
+
+Vitals: 24 HR Data (last updated ___ @ 1532)
+    Temp: 98.0 (Tm 98.4), BP: 114/75 (104-119/63-82), HR: 91
+(63-91), RR: 18 (___), O2 sat: 96% (93-98), O2 delivery: RA,
+Wt: 143.8 lb/65.23 kg
+Fluid Balance (last updated ___ @ 1408)
+  Last 8 hours  Total cumulative 660ml
+    IN: Total 1080ml, PO Amt 1080ml
+    OUT:  Total 420ml, Urine Amt 275ml, JP 20ml, Ostomy 125ml
+  Last 24 hours  Total cumulative 27ml
+    IN: Total 2632ml, PO Amt 2100ml, IV Amt Infused 532ml
+    OUT:  Total 2605ml, Urine Amt 2075ml, JP 80ml, Ostomy 450ml
+
+Physical exam:
+Gen: NAD, AxOx3
+Card: hemodynamically stable
+Pulm: No respiratory distress
+Abd: Soft, non-tender, non-distended, patent stoma productive of 
+both gas and stool 
+Wounds: c/d/i
+Ext: No edema, warm well-perfused
+ 
+Pertinent Results:
+___ 06:56AM BLOOD WBC-11.1* RBC-4.40 Hgb-13.8 Hct-43.1 
+MCV-98 MCH-31.4 MCHC-32.0 RDW-13.2 RDWSD-46.4* Plt ___
+___ 06:31AM BLOOD WBC-8.1 RBC-4.37 Hgb-13.9 Hct-43.6 
+MCV-100* MCH-31.8 MCHC-31.9* RDW-13.2 RDWSD-48.4* Plt ___
+___ 06:50AM BLOOD WBC-7.6 RBC-4.12 Hgb-13.1 Hct-40.3 MCV-98 
+MCH-31.8 MCHC-32.5 RDW-13.0 RDWSD-45.7 Plt ___
+___ 06:50AM BLOOD WBC-7.6 RBC-4.12 Hgb-12.8 Hct-40.1 MCV-97 
+MCH-31.1 MCHC-31.9* RDW-12.7 RDWSD-44.8 Plt ___
+___ 09:23AM BLOOD WBC-8.5 RBC-4.12 Hgb-12.9 Hct-40.2 MCV-98 
+MCH-31.3 MCHC-32.1 RDW-12.6 RDWSD-45.1 Plt ___
+___ 08:30AM BLOOD WBC-12.0* RBC-3.86* Hgb-12.3 Hct-37.9 
+MCV-98 MCH-31.9 MCHC-32.5 RDW-12.5 RDWSD-45.1 Plt ___
+___ 07:02AM BLOOD WBC-10.7* RBC-3.59* Hgb-11.4 Hct-35.9 
+MCV-100* MCH-31.8 MCHC-31.8* RDW-12.6 RDWSD-46.3 Plt ___
+___ 06:49AM BLOOD WBC-8.4 RBC-3.32* Hgb-10.6* Hct-33.3* 
+MCV-100* MCH-31.9 MCHC-31.8* RDW-13.1 RDWSD-48.0* Plt ___
+___ 06:56AM BLOOD Glucose-88 UreaN-12 Creat-0.7 Na-144 
+K-4.3 Cl-103 HCO3-28 AnGap-13
+___ 06:31AM BLOOD Glucose-113* UreaN-9 Creat-0.8 Na-144 
+K-4.1 Cl-102 HCO3-28 AnGap-14
+___ 06:50AM BLOOD Glucose-92 UreaN-10 Creat-0.7 Na-140 
+K-4.2 Cl-102 HCO3-28 AnGap-10
+___ 06:50AM BLOOD Glucose-94 UreaN-9 Creat-0.7 Na-144 K-4.3 
+Cl-104 HCO3-27 AnGap-13
+___ 09:23AM BLOOD Glucose-119* UreaN-8 Creat-0.7 Na-143 
+K-4.4 Cl-104 HCO3-27 AnGap-12
+___ 08:30AM BLOOD Glucose-102* UreaN-8 Creat-0.6 Na-141 
+K-3.8 Cl-101 HCO3-29 AnGap-11
+___ 07:02AM BLOOD Glucose-95 UreaN-11 Creat-0.6 Na-142 
+K-3.7 Cl-103 HCO3-26 AnGap-13
+___ 06:49AM BLOOD Glucose-98 UreaN-14 Creat-0.6 Na-143 
+K-3.5 Cl-105 HCO3-30 AnGap-8*
+___ 06:56AM BLOOD Calcium-9.7 Phos-4.1 Mg-2.2
+___ 06:31AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.2
+___ 06:50AM BLOOD Calcium-9.4 Phos-4.3 Mg-1.9
+___ 06:50AM BLOOD Calcium-9.4 Phos-4.0 Mg-1.9
+___ 09:23AM BLOOD Calcium-9.5 Phos-3.7 Mg-2.0
+___ 08:30AM BLOOD Calcium-8.8 Phos-2.9 Mg-2.0
+___ 07:02AM BLOOD Calcium-8.7 Phos-2.8 Mg-2.0
+___ 06:49AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.2
+___ 07:02AM BLOOD CRP-53.3*
+___ 06:49AM BLOOD CRP-29.0*
+
+Pathology:
+Colon and omentum, total colectomy:
+-Colon with chronic, focally moderately active colitis, 
+extending from the ascending colon to the distal
+resection margin with rare skip areas. See note.
+-Segment of ileum with no intrinsic mucosal abnormalities 
+recognized; proximal ileal resection margin
+within normal limits.
+-Fibrous obliteration of distal appendix.
+-Pericoloic lymph nodes with reactive changes.
+Note: No granulomata or transmural inflammation is identified; 
+the features are in keeping with
+involvement by the patient's known ulcerative colitis. No 
+dysplasia is identified upon extensive
+sectioning; one focus of hypermucinous change is present 
+adjacent to the distal resection margin,
+but is also without dysplasia.
+ 
+Brief Hospital Course:
+Ms. ___ presented to ___ holding at ___ on ___ for a 
+total abdominal colectomy with end ileostomy. She tolerated the 
+procedure well without complications (Please see operative note 
+for further details). After a brief and uneventful stay in the 
+PACU, the patient was transferredto the floor for further 
+post-operative management.
+Neuro: Pain was well controlled on IV Tylenol and a dilaudid PCA 
+while the patient had a nasogastric tube. Once the NGT was 
+removed, the patient was transitioned to oral medications 
+including Tylenol and tramadol for breakthrough pain which 
+adequately controlled her pain.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. She had good 
+pulmonary toileting, as early ambulation and incentive 
+spirometry were encouraged throughout hospitalization.
+GI: The patient was initially kept NPO after the procedure with 
+a nasogastric tube. As the output of the tube decreased and the 
+patient had productive ostomy function, the nasogastric tube was 
+removed and her diet was sequentially slowly advanced to a 
+regular diet which was well tolerated. The patient's intake and 
+output were closely monitored. The patient received ileostomy 
+teaching from both the floor nurses and ostomy nurses and was 
+able to demonstrate adequate understanding and care for the 
+stoma prior to discharge.
+GU: The patient had a foley catheter that was removed on POD1, 
+however the patient failed to void. The foley was replaced and 
+sequentially removed on ___ in which the patient was voiding 
+without difficulty. Urine output was monitored as indicated. 
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever, of which there was none.
+Heme: The patient received subcutaneous heparin and ___ dyne 
+boots during this stay. She was encouraged to get up and 
+ambulate as early as possible. The patient is being discharged 
+on prophylactic Lovenox. 
+On ___, the patient was discharged to home. At discharge, 
+she was tolerating a regular diet, productive ostomy function, 
+voiding, and ambulating independently. She will follow-up in the 
+clinic in ___ weeks. This information was communicated to the 
+patientdirectly prior to discharge.
+Post-Surgical Complications During Inpatient Admission:
+ [ ] Post-Operative Ileus resolving w/o NGT
+ [ ] Post-Operative Ileus requiring management with NGT
+ [ ] UTI
+ [ ] Wound Infection
+ [ ] Anastomotic Leak
+ [ ] Staple Line Bleed
+ [ ] Congestive Heart failure
+ [ ] ARF
+ [ ] Acute Urinary retention, failure to void after Foley D/C'd
+ [ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+ [ ] DVT
+ [ ] Pneumonia
+ [ ] Abscess
+ [x] None
+Social Issues Causing a Delay in Discharge:
+ [ ] Delay in organization of ___ services
+ [ ] Difficulty finding appropriate rehab hospital disposition.
+ [ ] Lack of insurance coverage for ___ services
+ [ ] Lack of insurance coverage for prescribed medications.
+ [ ] Family not agreeable to discharge plan.
+ [ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+ [x] No social factors contributing in delay of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 30 mg PO DAILY 
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+3. BuPROPion XL (Once Daily) 300 mg PO DAILY 
+4. BuPROPion XL (Once Daily) 150 mg PO QHS 
+5. Diazepam 5 mg PO Q8H:PRN back pain 
+6. Alendronate Sodium 70 mg PO QSAT 
+7. Sertraline 50 mg PO DAILY 
+8. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC once a day Disp #*22 
+Syringe Refills:*0 
+2.  PredniSONE 20 mg PO DAILY Duration: 7 Days 
+Tapered dose - DOWN 
+RX *prednisone 20 mg 1 tablet(s) by mouth once a day Disp #*13 
+Tablet Refills:*0 
+3.  PredniSONE 15 mg PO DAILY Duration: 7 Days 
+Tapered dose - DOWN  
+4.  PredniSONE 10 mg PO DAILY Duration: 7 Days 
+Tapered dose - DOWN 
+RX *prednisone 10 mg 1 tablet(s) by mouth once a day Disp #*14 
+Tablet Refills:*0 
+5.  PredniSONE 5 mg PO DAILY Duration: 7 Days 
+Tapered dose - DOWN 
+RX *prednisone 5 mg 1 tablet(s) by mouth once a day Disp #*20 
+Tablet Refills:*0 
+6.  TraMADol 50-100 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not drink or drive while taking 
+RX *tramadol 50 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*12 Tablet Refills:*0 
+7.  PredniSONE 25 mg PO DAILY Duration: 6 Days 
+Tapered dose - DOWN  
+8.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+9.  Alendronate Sodium 70 mg PO QSAT  
+10.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+11.  BuPROPion XL (Once Daily) 150 mg PO QHS  
+12.  Diazepam 5 mg PO Q8H:PRN back pain  
+13.  Sertraline 50 mg PO DAILY  
+14.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ulcerative colitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the hospital after a laparoscopic total 
+abdominal colectomy with end ileostomy for surgical management 
+of your ulcerative colitis. You have recovered from this 
+procedure and you are now ready to return home. 
+ 
+You have a new ileostomy and stool no longer passes through the 
+colon (part of the body where water and electrolytes are 
+reabsorbed back into the body), so your output will be liquid. 
+The most common complication from an ileostomy is dehydration. 
+You must measure your ileostomy output for the next few weeks- 
+please bring your I&O sheet to your post-op appointment. The 
+output should be no less than 500cc or greater than 1200cc per 
+day. If you find that your output has become too much or too 
+little, please call the office. Please monitor for signs and 
+symptoms of dehydration. If you notice these symptoms, please 
+call the office or go to the emergency room. You will need to 
+keep yourself well hydrated, if you notice your ileostomy output 
+increasing, drink liquids with electrolytes such as Gatorade.
+
+Please monitor the appearance of your stoma and care for it as 
+instructed by the ostomy nurses. ___ you notice that the stoma is 
+turning darker blue or purple please call the office or go to 
+the emergency room. The stoma may ooze small amounts of blood at 
+times when touched which will improve over time. Monitor the 
+skin around the stoma for any bulging or signs of infection. You 
+will follow up with the ostomy nurses in the clinic ___ weeks 
+after surgery. You will also have a visiting nurse at home for 
+the next few weeks to help to monitor your ostomy (until you are 
+comfortable caring for it on your own).
+ 
+You have one laparoscopic surgical incision on your abdomen 
+which is closed with internal sutures.  It is important that you 
+monitor this area for signs and symptoms of infection including: 
+increasing redness of the incision lines, 
+white/green/yellow/foul smelling drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. You may shower; pat the incisions dry with 
+a towel, do not rub. Please do not take a bath or swim until 
+cleared by the surgical team.
+ 
+Pain is expected after surgery. This will gradually improve over 
+the first week or so you are home.  You should continue to take 
+2 Extra Strength Tylenol (___) for pain every 8 hours around 
+the clock. Please do not take more than 3000mg of Tylenol in 
+24hours or any other medications that contain Tylenol such as 
+cold medication. Do not drink alcohol while taking Tylenol.  You 
+may also take Advil (Ibuprofen) 600mg every 8 hours for 7 days. 
+Please take Advil with food. If these medications are not 
+controlling your pain to a point where you can ambulate and 
+perform minor tasks, you should take a dose of the narcotic pain 
+medication tramadol.  Please do not take sedating medications, 
+drink alcohol, or drive while taking the narcotic pain 
+medication. 
+
+You are being discharged home on Lovenox injections to prevent 
+blood clots after surgery. You will take this medication for a 
+total of 30 days (including doses in hospital), please finish 
+the entire prescription. Please monitor for any signs of 
+bleeding: fast heart rate, bloody bowel movements, abdominal 
+pain, bruising, feeling faint or weak. If you have any of these 
+symptoms please call our office or seek medical attention 
+immediately. Please avoid any contact activity and take extra 
+caution to avoid falling while taking Lovenox.  
+ 
+You may feel weak or "washed out" for up to 6 weeks after 
+surgery. Do not lift greater than a gallon of milk for 3 weeks. 
+At your post op appointment, your surgical team will clear you 
+for heavier exercise.  In the meantime, you may climb stairs and 
+go outside and walk.  Please avoid traveling long distances 
+until you speak with your surgical team at your post-op visit.   
+
+ 
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+ 
+Followup Instructions:
+___

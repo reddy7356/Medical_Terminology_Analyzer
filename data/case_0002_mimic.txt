@@ -1,0 +1,192 @@
+===== DISCHARGE NOTE =====
+note_id=13224093-DS-22 | hadm_id=23084201
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+COPD exacerbation, fever 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo man with h/o asthma, afib s/p cardioversion presents with 
+fever to 102, cough productive of green-yellow sputum x 2d, 
+shortness of breath. Pt. has had 2d of fevers, cough, without 
+myalgias, sore throat, URI sx., dysuria, diarrhea, abdominal 
+pain. He has had no sick contacts. Currently has SOB with 
+minimal effort and has had decreased po intake in last 2 days. 
+Long history of asthma with multiple hospitalizations.  
+.  
+ED COURSE: In ED, T 102.8 BP 137/76, HR 92, RR 14 94-95%RA. 
+Blood cx. drawn, CXR showed no acute process, but pt. very 
+wheezy on exam, so pt. given ceftriaxone, azithromycin, 
+solumedrol 125mg X 1, albuterol x 1 for PNA/COPD exacerbation. 
+Also found to have Cr 1.8 from ___ 1.2, and started on IVFs, 
+receiving 250cc prior to arrival to floor.  
+.  
+On floor, pt. comfortable, without complaints other than wanting 
+to eat.  
+
+ 
+Past Medical History:
+- Asthma  
+- Hypercholesterolemia  
+- "double vision"  
+- Stage I rectal cancer s/p LAR with post resection pain  
+- s/p ___ for OSA  
+- h/o afib with RVR X 1, cardioverted in ___ with f/u ___ only 
+showing apBs  
+- CRI, ___ 1.2  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+T: 97.6 BP: 154/89 HR: 63 RR: 20 O2 sats: 97%RA  
+Gen: sl. overweight NAD, AA&Ox3, comfortable, speaking full 
+sentences  
+HEENT: PERRL, EOMI, OP clear, MMM  
+Neck: no JVD,  
+CV: RRR no MRGs, nl S1S2  
+Resp: Diffuse wheezes bilaterally, no rhonchi, poor air movement 
+ 
+Abd: NABS, soft, NTND, no guarding/rigidity/rebound  
+Back: no CVA tenderness, no spinal TTP  
+Ext: no CCE, 2+/4 symmetric pedal pulses  
+Neuro: CN II-XII intact, ___ all 4 ext., nl sensation to LT  
+
+ 
+Pertinent Results:
+REPORTS:
+.
+CXR: IMPRESSION: No acute cardiopulmonary process.
+.
+LABS:
+.
+
+___ 08:50PM BLOOD Hct-41.7
+___ 08:30PM BLOOD WBC-7.4 RBC-4.97 Hgb-16.1 Hct-46.7 MCV-94 
+MCH-32.3* MCHC-34.4 RDW-13.1 Plt ___
+___ 08:30PM BLOOD Neuts-78.1* Lymphs-14.1* Monos-7.0 
+Eos-0.3 Baso-0.6
+___ 07:10AM BLOOD Plt ___
+___ 08:30PM BLOOD Plt ___
+___ 07:10AM BLOOD Glucose-215* UreaN-19 Creat-1.4* Na-139 
+K-4.2 Cl-104 HCO3-20* AnGap-19
+___ 08:30PM BLOOD Glucose-168* UreaN-22* Creat-1.8* Na-141 
+K-3.6 Cl-102 HCO3-27 AnGap-16
+___ 07:10AM BLOOD Calcium-8.7 Phos-3.1 Mg-1.8
+___ 06:45AM BLOOD %HbA1c-PND
+___ 11:32PM BLOOD Lactate-1.2
+___ 08:42PM 
+.
+MICRO:
+.
+Blood cx's: Pending
+Urine cx: pending
+
+ 
+Brief Hospital Course:
+___ with h/o asthma/copd with fever and asthma/copd 
+exacerbation.  
+.  
+# Asthma/COPD exacerbation: Pt had wheezes with poor air 
+movement on admission, s/p methylprednisolone x 1 and 
+Ceftriaxone in ED, then satting well on RA with improving lung 
+exam during the admission.  Pt was given PO prednisone, and will 
+continue on a prednisone taper.  He was given albuterol/atrovent 
+nebs, and remained comfortable without resp distress during the 
+admission. Ceftriaxone was stopped, and he was treated with a 
+course of azithromycin because of his fever in setting of COPD 
+exacerbation. His ambulatory O2 sat was 95% on discharge.
+.  
+# fever: likely was ___ bronchitis given negative CXR, negative 
+UA, and normal WBC count.  He was treated with azithromycin and 
+was afebrile on discharge. Blood and urine cx's were pending on 
+discharge. He had some mild diarrhea prior to discharge, but 
+this was thought to be antibiotic associated diarrhea and was 
+mild enough not to warrant further workup.
+.
+# hyperglycemia: no dx. of diabetes, but has consistently high 
+sugars in past even prior to steroids, so likely has diabetes. 
+His ___ were elevated to 300's on admission, which improved with 
+an insulin sliding scale. An A1c was pending on time of 
+discharge, and pt should follow-up with his PCP regarding 
+possible initiation of oral hypoglycemics.
+.
+# rectal bleeding: pt has hx of rectal CA in the past s/p 
+resection. He had a mild episode of rectal bleeding during this 
+admission, and his hct remained stable. He should follow-up with 
+his PCP regarding further workup of this rectal bleeding.
+.  
+# CRI: up to 1.8 on admission, likely pre-renal. He was given 
+IVF, and his Cr improved to 1.4 on discharge.
+.  
+# FULL CODE  
+# Dispo: home
+ 
+Medications on Admission:
+symbicort (budesonide/formeterol) PRN  
+albuterol PRN  
+tylenol ___  
+
+ 
+Discharge Medications:
+1. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 2 doses.
+Disp:*2 Tablet(s)* Refills:*0*
+2. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily) for 3 doses: Take 60mg ___, then decrease to 40mg for 
+___ and ___, then decrease to 20mg ___ and ___, then stop.
+Disp:*9 Tablet(s)* Refills:*0*
+3. Symbicort 80-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: One 
+(1)  Inhalation every ___ hours as needed for shortness of 
+breath or wheezing.  
+4. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation 
+every ___ hours as needed for shortness of breath or wheezing.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+COPD exacerbation
+Acute on Chronic renal failure
+G.I. bleed
+Hypertension
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You are being discharged from the hospital after being admitted 
+for COPD exacerbation.  You had a fever on admission, but have 
+been afebrile since starting antibiotics.  You were also started 
+on steroids to help treat your pulmonary condition, which should 
+be tapered over then next few days.  Please take all medications 
+as prescribed.
+   If you develop SOB, continued fevers, lightheadedness, or any 
+other concerning symptoms, you should call your PCP or go to the 
+emergency room.
+ 
+Followup Instructions:
+___

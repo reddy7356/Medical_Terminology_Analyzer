@@ -1,0 +1,244 @@
+===== DISCHARGE NOTE =====
+note_id=12322351-DS-11 | hadm_id=24760314
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Facial pain, swelling
+ 
+Major Surgical or Invasive Procedure:
+bedside drainage of nasal abscess
+
+ 
+History of Present Illness:
+___ is a ___ year-old male S/P rhinoplasty at 
+___ with Dr. ___, by report, spreader 
+grafts and bilateral conchal cartilage grafts who presented with 
+increasing pain over the nasal dorsum and maxillary sinuses. His 
+post-op course was notable for increasing pain. He was initially 
+unable to tolerate Clindamycin but later finished his 3 day 
+supply.  He presented to the emergency department ___ with 
+increasing pain which was well-controlled with morphine.  He was 
+discharged home with Vicodin but returned the ED the same day 
+with refractory nasal and sinus pain. 
+
+ 
+Past Medical History:
+Rhinoplasty X 2.
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Physical Exam on Admission:
+
+VS: Tm97.7 ___ BP146/80  RR16 100%RA 
+HEENT Mild swelling and ecchymosis over infraorbital region
+bilaterally L>R, no significant erythema, EOMI, PERRL, nasal
+septum intact without hematoma, nares clear wihtout packing,
+dorsal splint intact, throat with minimal erythema and mild 
+white
+exudate, tender to percussion over frontal and maxillary sinuses
+
+ 
+Pertinent Results:
+CT head- IMPRESSION:
+1. Edema and a small amount of fluid of the soft tissues of the 
+nose anterior to the nasal bone could simply represent 
+post-surgical change or abscess. Correlation with physical 
+examination is suggested.
+2. Mild mucosal thickening of the maxillary and sphenoid sinuses 
+and a sphenoid Onodi cell on the ___
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the plastic surgery service.  He 
+was started on vancomycin and zosyn.  He underwent a bedside 
+drainage of a nasal abscess a fluid was sent for culture.  
+Culture revealed mixed oropharyngeal flora including coagulase 
+negative staph.  Infectious disease was consulted and 
+recommended  a head CT which revealed the expected post-surgical 
+and post-drainage changes but no extension of infection.  His 
+facial cellulitis and swelling markedly improved after IV 
+antibiotics.  He was discharged on hospital day ___ with  a PICC 
+line for IV vancomycin in addition to PO ciprofloxacin and 
+metronidazole.  He will follow-up with Dr. ___ 
+infectious disease specialists in clinic.
+ 
+Medications on Admission:
+Vicodin
+Dilaudid
+Augmentin
+ 
+Discharge Medications:
+1. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Sodium Chloride 0.65 % Aerosol, Spray Sig: ___ Sprays Nasal 
+QID (4 times a day).
+Disp:*2 bottles* Refills:*2*
+3. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: ___ MLs 
+Intravenous SASH and PRN as needed for 10 days.
+Disp:*200 ML(s)* Refills:*1*
+4. Saline Flush 0.9 % Syringe Sig: ___ ml Injection SASH and 
+PRN for 10 days.
+Disp:*200 ml* Refills:*1*
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+6. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Line care
+___ line care per protocol
+8. Outpatient Lab Work
+VANCOMYCIN TROUGH BEFORE ___ DOSING AM OR ___
+9. Vancomycin 500 mg Recon Soln Sig: One (1) Recon Soln 
+Intravenous Q 12H (Every 12 Hours).
+Disp:*60 Recon Soln(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+postoperative nasal abscess
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+If you develop fever >101.5, chills, increasing pain or redness, 
+or any other symptom concerning to you, please call ___ or 
+return to the emergency department.  
+
+Take all medications as prescribed by your doctor. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12322351-DS-12 | hadm_id=25148731
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tachycardia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ h/o depression/anxiety, OCD, borderline personality 
+disorder admitted to the medical floor with tachycardia.  Pt got 
+intoxicated the night before and admitted to taking five Xanax 
+and six Seroquel tablets.  He denies that it was a suicide 
+attempt.  He said that he just wanted to shut his brain off.  
+Psych saw the patient in the ED.  
+ 
+Past Medical History:
+Depression
+Anxiety
+OCD
+Borderline Personality Disorder
+Rhinoplasty X 2.
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+temp 98, hr 71/min, rr 20/min, sats 98% on ra, bp 122/80  
+comfortable at rest, no apparent distress  
+neck supple, no jvd  
+rrr, nl s1+s2, no m/r/g  
+ctab, nl effort  
+___ soft, non tender, nl bs  
+no o/c/c  
+cns ___ intact.  
+ 
+Pertinent Results:
+___ 06:55AM BLOOD WBC-7.1 RBC-3.99* Hgb-12.9* Hct-36.5* 
+MCV-92 MCH-32.3* MCHC-35.3* RDW-12.3 Plt ___
+___ 06:55AM BLOOD Plt ___
+___ 06:55AM BLOOD Glucose-106* UreaN-16 Creat-1.0 Na-142 
+K-4.6 Cl-107 HCO3-29 AnGap-11
+___ 06:55AM BLOOD ALT-25 AST-19 AlkPhos-74 TotBili-0.3
+___ 06:55AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.3
+ 
+Brief Hospital Course:
+Pt was monitored on telemetry and his pulse remained in the 
+60-70s.  He remained asymptomatic.  He was medically cleared for 
+discharge.  His psych meds were continued.  1:1 observation was 
+in place. The psychiatry consult team spoke to the patient's 
+outpatient psychiatrist.  Pt did not meet criteria for ___.  He did not want to voluntarily be admitted to an inpatient 
+psychiatric facility.  Arrangements were made for the patient to 
+follow up with his psychiatrist the following day.
+ 
+Medications on Admission:
+Zoloft 125mg po daily  
+Wellbutrin 100mg po SR daily  
+Buspar 15mg po BID  
+Seroquel 25mg po TID and 50mg QHS for anxiety/sleep  
+Xanax 0.25mg po TID prn anxiety
+
+ 
+Discharge Medications:
+Zoloft 125mg po daily  
+Wellbutrin 100mg po SR daily  
+Buspar 15mg po BID  
+Seroquel 25mg po TID and 50mg QHS for anxiety/sleep  
+Xanax 0.25mg po TID prn anxiety
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Tachycardia
+Depression/Anxiety
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+1.  Continue meds as prescribed
+2.  Follow up with psychiatrist tomorrow as scheduled
+ 
+Followup Instructions:
+___

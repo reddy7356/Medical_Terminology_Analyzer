@@ -1,0 +1,419 @@
+===== DISCHARGE NOTE =====
+note_id=19208910-DS-2 | hadm_id=29510287
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanut / cat dander / dog dander / ragweed pollen / jute / nut - 
+unspecified
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with severe persistent
+asthma (1 prior intubation), allergies, and depression who is
+presenting with shortness of breath.
+
+She is followed by ___ pulmonary and was last seen in ___.
+She is currently on Advair and Flovent standing and
+duonebs/albuterol inhaler PRN. She previously tried Xolair, but
+developed a hypersensitivity reaction. Pulmonary has been 
+working
+to get insurance approval for Nucala - the patient reports she
+now has approval, but still needs to schedule an appointment for
+administration. She is also taking montelukast, zyrtec, and
+Flonase for her allergies. In spite of this, she's had to take
+prednisone ~twice per month for the past several months for her
+asthma symptoms.
+
+This time she reports that she had contact with a sick child a
+few days ago and then developed URI symptoms (runny nose, sore
+throat, and cough). She then developed shortness of breath and
+wheezing typical of prior asthma exacerbations. She has been
+taking her medications as prescribed and took predisone 40mg on
+the day prior to presentation and on the day of presentation. 
+Her
+symptoms persisted and so she presented to the ED on ___.
+
+ED Course
+- Vitals: T 97.3, HR 120, BP 166/65, SpO2 94% on RA
+- Data: VBG 7.4/43 --> 7.4/41, WBC 14.9
+- Interventions: Duonebs, magnesium, solumedrol 80mg IV,
+prednisone 60
+- Course: 
+Observed overnight and treated for asthma exacerbation as above.
+This morning continued to sound wheezy
+Vitals at the time of admission w/ HR 99, SpO2 92% on RA 
+Ambulatory O2 sat 90% on RA
+Decision to admit for management of asthma exacerbation
+
+ 
+Past Medical History:
+Allergies
+Asthma
+Hyperglycemia associated with chronic steroid use
+Osteoarthritis
+Depression
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for
+hospitalization.
+ 
+Physical Exam:
+ON ADMISSION:
+
+GENERAL: Well appearing, in no distress
+EYES: Anicteric, PERRL
+ENT: MMM. No OP lesion, erythema or exudate.  Ears and nose
+without visible erythema, masses, or trauma.  
+CV: Heart regular, no m/g.  JVP 6cm
+RESP: Lungs with decreased breath sounds bilaterally, no wheezes
+or rhonchi, speaking in short sentences, not using accessory
+muscles
+GI: Abdomen soft, NTND.  Bowel sounds present.
+GU: No suprapubic ttp or fullness
+MSK: Extremities warm without edema. Moves all extremities
+SKIN: No rashes or ulcerations noted on examined skin
+NEURO: Alert, oriented, face symmetric, speech fluent sensation
+to light touch grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+Exam on Discharge;
+VITALS: ___ 1049 Temp: 97.7 PO BP: 155/83 HR: 97 RR: 18 O2
+sat: 94% O2 delivery: Ra 
+GENERAL: Alert, awake, sitting in bed, appears comfortable,
+responds appropriately to questions
+EYES: Anicteric, EOMI
+CV: Heart regular, no murmur, no S3, no S4.
+RESP: speaking in full sentences, faint expiratory wheezing. 
+Good
+air movement.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation. No Foley.
+MSK: Moves all extremities, no edema
+SKIN: No rashes or ulcerations
+NEURO: Alert, oriented x3, face symmetric, EOMI, speech fluent,
+moves all limbs
+PSYCH: Pleasant, appropriate affect, calm, cooperative
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 08:26PM BLOOD WBC-14.9* RBC-4.33 Hgb-13.2 Hct-39.5 
+MCV-91 MCH-30.5 MCHC-33.4 RDW-12.5 RDWSD-41.1 Plt ___
+___ 08:26PM BLOOD Neuts-90.9* Lymphs-4.5* Monos-3.8* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-13.53* AbsLymp-0.67* 
+AbsMono-0.56 AbsEos-0.01* AbsBaso-0.04
+___ 08:26PM BLOOD ___ PTT-23.7* ___
+___ 08:26PM BLOOD Glucose-245* UreaN-15 Creat-0.7 Na-137 
+K-4.9 Cl-99 HCO3-23 AnGap-15
+___ 08:31PM BLOOD ___ pO2-103 pCO2-37 pH-7.44 
+calTCO2-26 Base XS-0 Intubat-NOT INTUBA
+___ 08:31PM BLOOD O2 Sat-96
+
+===============================================================
+
+DISCHARGE LABS:
+
+___ 04:59AM BLOOD %HbA1c-6.4* eAG-137*
+
+===============================================================
+
+IMAGING:
+
+PORTABLE CXR ___:
+Probable artifact mimicking a left apical pneumothorax however 
+repeat exam in
+the Radiology department including expiratory film is suggested 
+to exclude
+pneumothorax.
+
+CXR PA/LATERAL ___:
+No pneumothorax. 
+Mild pulmonary edema may have increased since ___.
+ 
+Brief Hospital Course:
+___ lady w/ severe persistent asthma (1 prior intubation), 
+allergies, and depression who presented with shortness of breath 
+and wheezing and was found to have an acute asthma exacerbation.
+
+#Asthma Exacerbation
+#Shortness of breath
+#Allergies:
+She had diffuse expiratory wheezes on exam and increased work of 
+breathing at rest.  She initially required 1.5L of oxygen.  
+Initial ABG was unremarkable.  CXR showed no evidence of 
+pneumonia.  She was afebrile throughout her hospital course.  
+She was having a mildly productive cough.  She was treated with 
+IV Solumedrol 80mg on ___ and then started on Prednisone 60mg 
+daily on ___.  She was on scheduled duonebs Q6H plus PRN 
+albuterol nebs Q2H.  She was continued on her home Flovent, 
+Advair, and Montelukast.  She had been exposed to a sick child 
+recently and was having some URI symptoms prior to admission, 
+which may have triggered the exacerbation.  She also has 
+seasonal allergies and was continued on Cetirizine.  She has an 
+outpatient pulmonologist at ___ who originally wanted to start 
+her on Nucala (mepolizumab), but then needed insurance approval, 
+which apparently she has now, but needs a new appointment for 
+this to be administered. The patient improved significantly 
+while in the hospital and was saturating well on room air prior 
+to discharge. She completed 5 days of steroids while in the 
+hospital. She will follow up with PCP within the next 1 week.
+
+#Hyperglycemia: She has had documented hyperglycemia with 
+systemic steroids in the past, but no formal diagnosis of 
+diabetes.  Her blood glucose was in the 120s-210s and controlled 
+with sliding scale Humalog.  Her A1c was 6.4.
+
+Transitional issues:
+- Patient to follow up with Pulmonary for consideration of 
+mepolizumab
+- No changes made to home medications
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 anaphylaxis 
+2. fluticasone-salmeterol 500-50 mcg/dose inhalation DAILY 
+3. BuPROPion (Sustained Release) 200 mg PO BID 
+4. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+5. LamoTRIgine 50 mg PO BID 
+6. Mirtazapine 45 mg PO QHS 
+7. Montelukast 10 mg PO DAILY 
+8. Cetirizine 10 mg PO DAILY 
+9. Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN shortness of 
+breath 
+10. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN 
+
+ 
+Discharge Medications:
+1.  albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN  
+2.  BuPROPion (Sustained Release) 200 mg PO BID  
+3.  Cetirizine 10 mg PO DAILY  
+4.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 anaphylaxis  
+5.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+6.  fluticasone-salmeterol 500-50 mcg/dose inhalation DAILY  
+7.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN shortness of 
+breath  
+8.  LamoTRIgine 50 mg PO BID  
+9.  Mirtazapine 45 mg PO QHS  
+10.  Montelukast 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Asthma exacerbation
+Hyperglycemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were hospitalized with an asthma exacerbation.  You were 
+started on Prednisone (steroid) to help treat this exacerbation, 
+as well as duoneb breathing treatments every 6 hours.  You were 
+continued on your home inhalers.  You were not found to have a 
+pneumonia.  You will continue steroids when you leave the 
+hospital.  If you has worsening shortness of breath, coughing, 
+wheezing, or you have to use your rescue inhaler multiple times 
+per day, please call your primary doctor.  If your symptoms 
+become severe again and you cannot catch your breath, return to 
+the emergency department.
+
+You were also found to have high blood sugar levels.  This is 
+likely due to steroids you were given for your asthma.  However, 
+you should also be screened for underlying diabetes.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19208910-DS-3 | hadm_id=29768332
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanut / cat dander / dog dander / ragweed pollen / jute / nut - 
+unspecified
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 09:25AM BLOOD WBC-14.8* RBC-3.72* Hgb-11.3 Hct-34.9 
+MCV-94 MCH-30.4 MCHC-32.4 RDW-13.3 RDWSD-45.1 Plt ___
+___ 09:25AM BLOOD Neuts-86.6* Lymphs-7.4* Monos-4.9* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-12.78* AbsLymp-1.10* 
+AbsMono-0.72 AbsEos-0.04 AbsBaso-0.05
+___ 09:25AM BLOOD Glucose-200* UreaN-14 Creat-0.7 Na-140 
+K-4.0 Cl-102 HCO3-17* AnGap-21*
+___ 04:08AM BLOOD %HbA1c-6.4* eAG-137*
+
+Imaging: 
+========
+___ CXR:
+Mild prominence of the central pulmonary vasculature without 
+evidence of overt pulmonary edema.  No focal consolidation.
+
+Discharge Labs:
+===============
+___ 06:00AM BLOOD WBC-11.3* RBC-3.71* Hgb-11.1* Hct-34.7 
+MCV-94 MCH-29.9 MCHC-32.0 RDW-13.2 RDWSD-45.5 Plt ___
+___ 06:00AM BLOOD Glucose-126* UreaN-14 Creat-0.7 Na-141 
+K-4.4 Cl-101 HCO3-24 AnGap-16
+___ 06:00AM BLOOD Calcium-9.0 Phos-5.0* Mg-2.0
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F w/ severe persistent asthma, allergies, 
+and depression, who presented with SOB, DOE, and cough with no 
+consolidation on CXR in setting of recent sick contacts.
+Overall picture was felt to be consistent with severe asthma 
+exacerbation probably triggered by viral illness.  She required 
+BIPAP for several hours in the ED.
+
+# Asthma w/ acute exacerbation: stable/improving
+# Acute respiratory acidosis: improving
+# Acute hypoxic respiratory failure: improving
+Presented with dyspnea and wheezing along with recent sick 
+contacts, felt to be consistent with asthma exacerbation 
+triggered by viral illness. CXR negative for focal infiltrate. 
+She required BIPAP for several hours in the ED.
+On admission her peak flows were 250, well below her baseline of 
+475. She improved gradually on the medical floor with usual 
+asthma exacerbation treatment including prednisone, standing & 
+PRN nebs, and expectorants in addition to her home medications.
+Peak flows and wheezing significantly improved with steroid 
+treatment, though she still had some mild wheezing on day of 
+discharge (day four of steroids). Therefore she was discharged 
+on a short steroid taper (40mg on ___, 30mg on ___, 20mg 
+on ___, 10mg on ___. 
+
+# Seasonal Allergies: continued fluticasone nasal spray, 
+cetirizine
+
+# Leukocytosis: developed leukocytosis to 17, likely steroid 
+effect. There was no evidence of pneumonia on CXR. Improved to 
+11 at time of discharge
+
+# Steroid-induced Hyperglycemia 
+# Pre-Diabetes
+HbA1c in ___ was 6.2%, repeat A1c here is 6.4%.
+While hospitalized, treated with NPH and ISS.
+
+# Depression: continued home bupropion 200mg BID, LamoTRIgine 
+100 mg BID, Sertraline 50mg
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- discharged on a short steroid taper (40mg on ___, 30mg on 
+___, 20mg on ___, 10mg on ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion (Sustained Release) 200 mg PO BID 
+2. Cetirizine 10 mg PO DAILY 
+3. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+4. Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN shortness of 
+breath 
+5. LamoTRIgine 100 mg PO BID 
+6. Montelukast 10 mg PO DAILY 
+7. fluticasone-salmeterol 500-50 mcg/dose inhalation DAILY 
+8. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN 
+9. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 anaphylaxis 
+10. Sertraline 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 10 mg 4 tablet(s) by mouth once a day Disp #*16 
+Tablet Refills:*0 
+2.  albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN  
+3.  BuPROPion (Sustained Release) 200 mg PO BID  
+4.  Cetirizine 10 mg PO DAILY  
+5.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 anaphylaxis  
+6.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+7.  fluticasone-salmeterol 500-50 mcg/dose inhalation DAILY  
+8.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN shortness of 
+breath  
+9.  LamoTRIgine 100 mg PO BID  
+10.  Montelukast 10 mg PO DAILY  
+11.  Sertraline 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Asthma exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in with difficulty breathing. We believe this was due 
+to a flare of your asthma. We treated you with steroids and your 
+breathing improved.
+
+We are sending you home on prednisone. You should taper 
+(decrease) your prednisone dose as below:
+___: take 40mg (4 tabs)
+___ - ___: take 30mg each day (3 tabs)
+___ - ___: take 20mg each day (2 tabs)
+___ - ___: take 10mg each day (1 tab)
+___: stop prednisone
+
+You should return to the ED immediately if your breathing 
+becomes worse after leaving the hospital.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

@@ -1,0 +1,325 @@
+===== DISCHARGE NOTE =====
+note_id=13053623-DS-4 | hadm_id=21981457
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine-Iodine Containing / Verapamil / Beta-Blockers 
+(Beta-Adrenergic Blocking Agts) / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cardiac arrest
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+endotracheal intubation
+intra-aortic balloon pump placement
+femoral line placement
+___ protocol
+
+ 
+History of Present Illness:
+___ M with h/o asymmetric hypertrophic cardiomyopathy s/p 
+myomectomy admitted post-cardiac arrest. Per patient's friend he 
+had myomectomy in ___ of this year. Sicne then he has not felt 
+the same. His roommate notes that he has been more lethargic and 
+only at 75%. He had two hospitalizations at ___ since then. One 
+was for AF with RVR complicated by CHF for which he was 
+cardioverted and sent home on coumadin and amiodarone. He also 
+developed Afib post-op and was due to have either ppm placed for 
+this on ___ of this week, however the roommate is unclear 
+whether it was a ppm or an ICD that was to be placed. Yesterday, 
+he had started complaining of SOB and looked pale. He went to 
+bed but this morning still felt sick - like he could not catch 
+his breath. His friend says he was also clutching at his heart. 
+He had a cup of OJ and they decided to still go out to the 
+___ Auto ___. They drove a two-seater motorcycle from 
+___ to ___ and when they got to the show the patient 
+looked even more pale, diaphoretic, and SOB. His friend called 
+EMS who found the patient diaphoretic and complaining of SOB and 
+CP. They loaded him into the ambulance while he was still awake. 
+He reportedly had VT when EMS first found him and then had a PEA 
+arrest while in the ambulance. He was intubated emergently and 
+an IO catheter was placed. He may have also been shocked for VT 
+although there are no EMS records.
+ In ED patient was initially hypotensive and unresponsive with 
+CPR in progress. He continued reeceiving CPR and was given an 
+Amio bolus. He regained a femoral pulse but had pressures in the 
+___ so he was started on dopa gtt. Because he had anterior 
+ST elevations and had had chest pain code STEMI was called. In 
+the meantime he lost his pulse again requiring 2 more minutes of 
+CPR before again regaining pulse. After this he was noted to 
+have sats in the ___ despite a good pleth on the monitor. 
+Airway was mainstem at first. Tube pulled back a little with 
+mild improvement in sats but still with desats even with breath 
+sounds. CXR looked like massive aspiration. They were unable to 
+suction any secretions.
+ He was then taken emergently to the cath lab where he was found 
+to have clean coronaries. He received a total of about 7L NS 
+without improvement in his BP and dopa had to be uptitrated to 
+20. 
+An aortic balloon pump was also placed. The patient was noted to 
+have myoclonic movements and fixed and dilated pupils without 
+any sedation.  He had no urine output. 
+ On arrival to the CCU the patient was intubated with myoclonic 
+movements. He had a large melanic stool. 
+
+.  
+Per friend ___, review of systems negative for any prior 
+history of stroke, TIA, deep venous thrombosis, pulmonary 
+embolism, bleeding at the time of surgery, myalgias, joint 
+pains, cough, hemoptysis, black stools or red stools. He denied 
+recent fevers, chills or rigors. 
+.  
+Cardiac review of systems is notable for absence of paroxysmal 
+nocturnal dyspnea, orthopnea, ankle edema. 
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes(-), Dyslipidemia(+), 
+Hypertension(+)  
+2. CARDIAC HISTORY:  
+-CABG:  None
+-PERCUTANEOUS CORONARY INTERVENTIONS:  None
+-PACING/ICD:  None
+3. OTHER PAST MEDICAL HISTORY (from ___ records):
+Asymmetric HCM s/p myomectomy in ___ complicated by post-op 
+afib
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.
+ 
+Physical Exam:
+VS: T=94 BP=100/50 HR=113 RR=26 O2 sat= 70  
+GENERAL: Obese male intubated. 
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink.  
+NECK: Supple difficult to assess JVP ___ habitus and collar 
+around neck
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Tachycardic. Distant heart sounds with no appreciable 
+m/r/g. No thrills, lifts. No S3 or S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. 
+Bilateral crackles. No wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: No c/c/e. Femoral central line and venous sheath in 
+place. IO line in left tibia.  
+PULSES:  
+Right: Radial 1+ DP 1+ ___ 1+  
+Left: Radial 1+ DP 1+ ___ 1+  
+NEURO: Pupils 5mm fixed and dilated with myoclonic movements of 
+bilateral upper and lower extremities and no withdrawal to 
+painful stimuli.
+ 
+Pertinent Results:
+Cardiac Cath:
+1. Coronary arteries are free of angiographically significant 
+stenosis. 
+2. Successful placement of an intra-aortic balloon pump.
+
+EEG:
+IMPRESSION: This telemetry captured no pushbutton activations. 
+Routine 
+sampling and spike and seizure detection programs showed a burst 
+
+suppression pattern with frequent bursts of high voltage 
+generalized 
+discharges having sharp features. These occurred every five to 
+15 
+seconds and lasted one to two seconds or less. Early on, these 
+correlated clinically with myoclonus; however, later during the 
+study, 
+there was no clinical correlate. There were no prolonged 
+electrographic 
+seizures 
+
+IMPRESSION: This telemetry captured no pushbutton activations. 
+Routine 
+sampling and spike and seizure detection programs continue to 
+show a 
+burst suppression pattern with frequent bursts of high voltage, 
+often 
+epileptiform-appearing discharges lasting one to three seconds 
+with 
+variable periods of suppression in between. There were no 
+prolonged 
+electrographic seizures on this recording. 
+
+IMPRESSION: This telemetry captured no pushbutton activations. 
+Routine 
+sampling initially showed a burst suppression pattern which 
+gradually 
+progressed over the late evening hours to a flat background 
+lacking any 
+detectable electrical brain activity. Although the latter 
+portions of 
+the study showed no detectable brain activity, this study was 
+not 
+performed by brain death protocol. There were no prolonged 
+electrographic seizures. 
+
+TTE:
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size. There is 
+moderate to severe regional left ventricular systolic 
+dysfunction with dysnchrony of the septum and severe hypokinesis 
+of the distal half of the inferior wall. The remaining segments 
+contract well (LVEF 35%). No valvular ___ or resting LVOT 
+gradient is identified. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and trace aortic 
+regurgitation is seen. The mitral valve leaflets are 
+structurally normal. There is no mitral valve prolapse. Mild to 
+moderate (___) mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with regional systolic dysfunction c/w 
+known prior myomectomy and possible coronary artery disease. 
+Mild-moderate mitral regurgitation. 
+
+CT Head:
+Global cerebral edema and lentiform nuclei edema, consistent 
+with global 
+hypoxic injury. Large parietal and occipital cortical infarcts. 
+Watershed 
+infarcts in the frontal white matter.
+
+___ PTT-51.4* ___
+PLT COUNT-398
+WBC-10.4 RBC-4.40* HGB-11.8* HCT-41.3 MCV-94 MCH-26.8* 
+MCHC-28.5* RDW-15.0
+ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG 
+tricyclic-NEG
+LIPASE-43
+estGFR-Using this
+UREA N-24* CREAT-1.8*
+freeCa-1.48*
+HGB-13.0* calcHCT-39
+GLUCOSE-308* LACTATE-9.2* NA+-142 K+-3.5 CL--101 TCO2-17*
+PH-6.85* COMMENTS-GREEN TOP
+___ PTT-146.5* ___
+PLT COUNT-382
+WBC-22.2*# RBC-4.05* HGB-10.8* HCT-37.2* MCV-92 MCH-26.8* 
+MCHC-29.1* RDW-15.9*
+ALBUMIN-2.5*
+ALT(SGPT)-139* AST(SGOT)-163* ALK PHOS-67 AMYLASE-134* TOT 
+BILI-0.2
+GLUCOSE-361* UREA N-23* CREAT-1.6* SODIUM-144 POTASSIUM-4.4 
+CHLORIDE-108 TOTAL CO2-19* ANION GAP-21*
+HGB-12.0* calcHCT-36
+GLUCOSE-365* LACTATE-8.8* NA+-140 K+-4.2
+TIDAL VOL-600 O2-100 PO2-49* PCO2-67* PH-7.01* TOTAL CO2-18* 
+BASE XS--16 AADO2-611 REQ O2-98 INTUBATED-INTUBATED
+___ PTT-90.4* ___
+PLT COUNT-439
+NEUTS-86.1* LYMPHS-11.1* MONOS-1.5* EOS-0.6 BASOS-0.7
+WBC-22.3* RBC-4.40* HGB-11.9* HCT-41.2 MCV-94 MCH-27.1 
+MCHC-29.0* RDW-16.0*
+CALCIUM-7.7* PHOSPHATE-7.9* MAGNESIUM-2.3
+GLUCOSE-434* UREA N-26* CREAT-2.0* SODIUM-140 POTASSIUM-4.8 
+CHLORIDE-103 TOTAL CO2-19* ANION GAP-23*
+TYPE-ART PO2-59* PCO2-70* PH-6.97* TOTAL CO2-17* BASE XS--18
+LACTATE-7.4*
+TYPE-ART PO2-64* PCO2-62* PH-7.05* TOTAL CO2-18* BASE XS--14
+URINE  ___ BACTERIA-OCC YEAST-NONE ___
+URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG 
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG
+URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ PTT-32.0 ___
+PLT COUNT-429
+WBC-24.9* RBC-4.86 HGB-12.9* HCT-42.5 MCV-88 MCH-26.6* 
+MCHC-30.4* RDW-16.4*
+
+URINE  HOURS-RANDOM UREA N-73 CREAT-10 SODIUM-123
+ALBUMIN-3.3* CALCIUM-7.8* PHOSPHATE-4.3# MAGNESIUM-1.9
+ALT(SGPT)-230* AST(SGOT)-398* LD(LDH)-1248* ALK PHOS-90 TOT 
+BILI-0.5
+GLUCOSE-171* UREA N-27* CREAT-2.1* SODIUM-142 POTASSIUM-3.6 
+CHLORIDE-107 TOTAL CO2-18* ANION GAP-21*
+
+LACTATE-7.3*
+TYPE-ART PO2-72* PCO2-40 PH-7.21* TOTAL CO2-17* BASE XS--11
+TYPE-ART PO2-222* PCO2-35 PH-7.36 TOTAL CO2-21 BASE XS--4
+CALCIUM-7.9* PHOSPHATE-2.4*# MAGNESIUM-1.6
+GLUCOSE-103 UREA N-29* CREAT-2.2* SODIUM-141 POTASSIUM-3.7 
+CHLORIDE-106 TOTAL CO2-18* ANION GAP-21*
+LACTATE-7.1*
+TYPE-ART PO2-248* PCO2-30* PH-7.41 TOTAL CO2-20* BASE XS--3
+
+WBC   RBC   Hgb   Hct  MCV MCH  MCHC RDW  Plt Ct 
+14.0* 3.30* 9.1* 27.4* 83  27.6 33.3 16.2* 235
+
+Plt Ct ___ 
+235   
+ 
+___   ___ 18.5*   PTT 28.6   INR 1.7
+
+Glucose UreaN Creat Na K    Cl HCO3 AnGap 
+112*     24*   0.9 142 3.9 110* 25   11
+
+ALT  AST  LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili 
+IndBili 
+129* 83*   596*     65      73                0.6     0.2     
+0.4 
+ 
+
+ 
+Brief Hospital Course:
+Pt was a ___ year old male with a history of hypertrophic 
+cardiomyopathy s/p myomectomy in ___ who presented to the 
+CCU following a cardiac arrest.  History obtained from family 
+and friends suggested that pt had recent intermittent episodes 
+of malaise and weakness.  Pt reportedly felt quite weak and was 
+diaphoretic one day prior to presentation.  On day of 
+presentation, pt was attending a car show, continued to feel 
+unwell, complained of chest pain.  EMS was called, and pt was 
+initially treated empirically for ACS.  En route to ___, pt 
+reportedly had cardiac arrest, ? v.fib vs. v. tach.  CPR was 
+initiated, and pt was intubated upon arrival to the ED.  Pt was 
+then emergently brought to the cath lab after ECG showed LBB 
+block, and it was unclear if it was new or not.  Left heart cath 
+showed no coronary disease, a severely depressed LVEF, and a 
+balloon pump was placed.  Oxygenation and ventilation was 
+difficult during the procedure.  Upon transfer to the unit, a 
+full neurologic assessment suggested a grim prognosis.  It was 
+thought that the patient's prolonged period of hypoxia was 
+likely caused by a ventricular arrhythmia in the field.  
+Communication and coordination with both family and the ___ 
+___ Organ Bank was inititiated.  The patient received 
+cardiopulmonary support with the intent to transition to organ 
+donation, as decided by his health care proxy.  The patient was 
+then transferred to the surgical service on ___ for organ 
+harvest. 
+ 
+Medications on Admission:
+metoprolol
+coumadin for a. fib
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

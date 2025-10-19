@@ -1,0 +1,785 @@
+===== DISCHARGE NOTE =====
+note_id=12953561-DS-18 | hadm_id=22181355
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin base / plastic surgical tape / lactose / dust/cats
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+Date of ICU Admission: ___ 
+Reason for ICU Admission: s/p EKOS for submassive PE
+ 
+Major Surgical or Invasive Procedure:
+EKOS catheterization ___
+Intubation 
+
+ 
+History of Present Illness:
+___ F with PMHx of HTN, obesity, presenting as a 
+transfer
+from ___ with bilateral submassive pulmonary emboli. 
+
+Patient reports that over the course of the last 2 weeks she has
+had increasing shortness of breath, chest pain with cough and
+lower extremity edema, with acute worsening in the last three
+days. She presented to her PCP with these symptoms who performed
+LENIs and referred her to the ED after they were notable for L
+sided popliteal and gastrocs DVT. No recent surgeries, travel, 
+no
+hx of smoking, estrogen replacement therapy. Patient does note
+that she has a hx of L knee osteoarthritis which has been
+progressively more painful, leading her to barely leave her
+rocking chair in the last two weeks. No fevers, chills,
+hemoptysis, syncopal episodes. 
+
+On initial presentation to ___ she had an O2 sat of 67%
+on room air. She was placed on a non-rebreather with improvement
+in O2 sats to mid-90s. Underwent CTA which demonstrated 
+bilateral
+main pulmonary artery emboli with dilation of the right 
+ventricle
+with interventricular septal bowing on the CT and LENIs showing 
+L
+popliteal and gastrocs DVT. She was not hypotensive at any time.
+She was started on heparin gtt and transferred here for further
+management. 
+
+In the ED,  
+- Initial Vitals: T 97.4, HR 98, BP 125/73, RR 20, 95% NRB. 
+While
+in the ED BPs were 100s/50s, HRs ___,   
+- Exam: mild tachypnea, tachycardia, lungs w/ crackles at bases
+and expiratory wheezing, 3+ b/l ___  
+- Labs:  
+-- CBC WBC 9.8, Hgb 15.7 (Hct 52), plts 127
+-- BMP K+ 7.1 (hemolyzed), HCO3 24 BUN/Cr ___
+-- VBG 7.___
+-- BNP 2961, negative troponins
+
+Patient was evaluated by MASCOT and given submassive acute
+bilateral pulmonary emobli with severe RH strain underwent EKOS
+catheter placement prior to admission to MICU. 
+
+On arrival to the MICU, patient reports that her breathing is
+stable from prior, denies any pleuritic chest pain. Endorses hx
+above. 
+
+ROS: Positives as per HPI; otherwise full 10pt negative.  
+
+ 
+Past Medical History:
+HTN
+HLD
+Mild Intermittent Asthma
+ 
+Social History:
+___
+Family History:
+No family hx of PE/DVT
+Parents lived to ___, ___ 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: AF, HR ___, BP ___, RR 22 w/ SpO2 96% 
+GEN: obese appearing woman, A&Ox3, in no acute distress.
+HENNT: Wearing BiPAP. Bruising along L neck, RIJ central line 
+and
+EKOS catheter in place, some blood on dressing. 
+CV: distant heart sounds, RRR, nl s1, s2
+RESP: no accessory muscle usage, CTAB in anterior lung fields, 
+no
+wheezing 
+GI: obese, non tender, normoactive bowel sounds  
+MSK: significant 4+ lower extremity edema L >> R with venous
+stasis changes. DP pulses palpable bilaterally.  
+NEURO: A&Ox3, moving all four extremities spontaneously and
+symmetrically  
+PSYCH: normal affect
+
+DISCHARGE EXAM
+===========================
+VS: reviewed in metavision 
+GEN: Extubated and appropriate 
+HENNT: intubated. bruising along R neck; RIJ CVL in place.
+CV: distant heart sounds, mildly tachycardic, nl s1, s2
+RESP: no accessory muscle usage, crackles at lung bases,
+conducted upper airway sounds
+MSK: significant lower extremity edema L > R with venous stasis
+changes. 
+NEURO: Following commands, in chair
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 07:12PM BLOOD WBC-9.8 RBC-5.81* Hgb-15.7 Hct-52.4* 
+MCV-90 MCH-27.0 MCHC-30.0* RDW-17.4* RDWSD-54.2* Plt ___
+___ 07:12PM BLOOD Plt ___
+___ 07:12PM BLOOD ___ PTT-150* ___
+___ 11:30PM BLOOD ___ 07:12PM BLOOD Glucose-121* UreaN-27* Creat-1.2* Na-136 
+K-7.1* Cl-97 HCO3-24 AnGap-15
+___ 05:02AM BLOOD ALT-12 AST-18 AlkPhos-67 TotBili-1.7*
+___ 07:12PM BLOOD CK-MB-3 proBNP-2961*
+___ 07:12PM BLOOD cTropnT-<0.01
+___ 05:02AM BLOOD cTropnT-0.01
+___ 05:02AM BLOOD Albumin-3.4* Calcium-9.1 Phos-5.3* Mg-1.8
+___ 02:58AM BLOOD TSH-0.27
+___ 02:58AM BLOOD ___
+___ 04:45PM BLOOD b2micro-2.8*
+___ 07:17AM BLOOD Vanco-24.2*
+___ 07:19PM BLOOD ___ pO2-36* pCO2-66* pH-7.31* 
+calTCO2-35* Base XS-3
+___ 02:58AM BLOOD freeCa-1.20
+
+DISCHARGE LABS
+===============
+___ 02:32AM BLOOD WBC-7.9 RBC-3.75* Hgb-10.2* Hct-34.2 
+MCV-91 MCH-27.2 MCHC-29.8* RDW-20.2* RDWSD-66.2* Plt ___
+___ 02:32AM BLOOD ___ PTT-95.5* ___
+___ 02:32AM BLOOD Glucose-131* UreaN-45* Creat-0.8 Na-131* 
+K-3.8 Cl-85* HCO3-31 AnGap-15
+
+OTHER RELEVANT LABS
+===================
+___ 04:45PM BLOOD ProtCFn-65* ProtSFn-79
+
+IMAGING/STUDIES
+================
+CTA ___ ___
+IMPRESSION:
+1. Massive acute bilateral pulmonary emboli with severe
+associated right heart strain. I discussed this with Dr. ___ issuing this report.
+[Bilateral large central emboli in R and L main pulmonary
+arteries extending into upper, lower and R middle lobes]
+
+2. Indeterminate left lower lobe abnormality for which a CT PET
+study should be considered for further assessment when the
+patient is stable.
+
+3. Small hypodense right hepatic lesion, incompletely
+demonstrated at the inferior margin of the field-of-view but not
+definitely change where demonstrated dating back to ___. With a
+central density measurement of -1 Hounsfield units, is most
+likely is a small cyst or other benign finding.
+
+4. Likely benign left thyroid lesion.
+
+LENIs ___ at ___
+IMPRESSION: The examination is positive for deep venous
+thrombosis in the left popliteal and gastrocnemius veins. 
+
+___ CTA CHEST: 
+1.  Limited examination secondary to bolus timing and streak 
+artifact from the patient's breasts.  The clot burden appears 
+mildly decreased since prior however.  Right heart strain is 
+still appreciated as evidenced by leftward bowing of the 
+intraventricular septum. 
+2.  New bilateral consolidations, some of which may reflect 
+pulmonary 
+infarcts.  Superimposed infection would be hard to exclude 
+however. 
+3.  A hypodense nodule in the left lobe of the thyroid gland 
+measures 3.1 cm.  Thyroid ultrasound may be performed when 
+clinically appropriate. 
+
+___ TTE:
+CONCLUSION: There is no evidence for an atrial septal defect or 
+right-to-left shunt on color Doppler or agitated saline at rest. 
+Overall left ventricular systolic function is normal. Moderately 
+dilated right ventricular cavity with mild global free wall 
+hypokinesis. There is mild [1+] tricuspid regurgitation. There 
+is SEVERE pulmonary artery systolic hypertension. Compared with 
+the prior TTE (images reviewed) of ___ , the image 
+quality is slightly improved; the right ventricle is more 
+dilated and estimated PA systolic pressure is now increased (but
+could reflect better measures due to image quality). There is no 
+inter-atrial communication by saline contrast injection.
+
+___ CT CHEST W/O CONTRAST:
+1. Dense consolidations within the dependent portion of the 
+upper and lower lobes bilaterally the have progressed compared 
+to the CT dated ___, however evaluation for 
+pulmonary infarction is limited without IV contrast.  Of note, 
+the lung parenchyma was homogeneous enhancing on the CT dated ___, likely reflecting atelectasis, however underlying 
+infection or infarction cannot be excluded on the current 
+examination. 
+2. Moderate right and small left pleural effusions, increased 
+compared to 
+prior. 
+3. Multiple prominent mediastinal lymph nodes are likely 
+reactive. 
+4. Unchanged 3.1 cm hypodense nodule within the left lobe of the 
+thyroid. 
+  
+RECOMMENDATION(S):   Thyroid nodule.  Ultrasound follow up 
+recommended. 
+___ College of Radiology guidelines recommend further 
+evaluation for 
+incidental thyroid nodules of 1.0 cm or larger in patients under 
+age ___ or 1.5 cm in patients age ___ or ___, or with suspicious 
+findings. 
+  
+Suspicious findings include: Abnormal lymph nodes (those 
+displaying 
+enlargement, calcification, cystic components and/or increased 
+enhancement) or invasion of local tissues by the thyroid nodule. 
+
+
+___ TTE:
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect or right-to-left shunt on color Doppler 
+or agitated saline at rest. There is mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional left ventricular systolic function. There is no 
+resting left ventricular outflow tract gradient. Mildly dilated 
+right ventricular cavity with depressed free wall
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+depressed. There is abnormal interventricular septal motion c/w 
+right ventricular pressure and volume overload. The aortic sinus 
+is mildly dilated with normal ascending aorta diameter for 
+gender. There is a normal descending aorta diameter. The aortic 
+valve leaflets (?#) are mildly thickened. There is no aortic 
+valve stenosis. There is no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The pulmonic 
+valve leaflets are not well seen. There is mild pulmonic valve 
+stenosis. The tricuspid valve leaflets are mildly thickened. 
+There is mild [1+] tricuspid regurgitation. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. Suboptimal image quality. Compared with the prior TTE 
+(images reviewed) of ___, there is an elevated gradient 
+across the pulmonic valve detected suggesting mild pulmonic or 
+supravalvular stenosis.
+
+ 
+Brief Hospital Course:
+==================
+SUMMARY STATEMENT:
+==================
+___ female with PMHx of obesity, presenting as a 
+transfer from ___ with bilateral massive pulmonary 
+emboli with severe RH strain s/p EKOS catheter-directed 
+thrombolysis, prolonged hypoxemic/hypercarbic respiratory 
+failure requiring intubation, course c/b ARDS, and S. Aureus 
+VAP. 
+
+=============
+ACUTE ISSUES:  
+============= 
+# Massive PE with severe RH strain
+Patient presented with bilaterally submassive PE, likely ___ 
+obesity and immobility in setting of pain from knee 
+osteoarthritis. Later found to be mildly protein C deficient 
+which additionally likely contributed. Patient underwent EKOS 
+directed thrombolysis on admission. Subsequently developed signs 
+
+of obstructive shock (cool extremities, hypotension with 
+increasing pressor requirement), concerning for evolution into 
+massive PE. Patient ultimately required intubation due to 
+worsening hypoxemic/hypercarbic respiratory failure. Repeat CTA 
+showed mildly decreased clot burden despite respiratory failure. 
+
+Patient was anticoagulated with heparin gtt throughout ICU 
+course. She was intubated and initially required high fio2 and 
+high PEEPs, but after a few weeks her ventilator settings 
+improved and she was weaned to high flow. On discharge, she was 
+on 5L oximizer and breathing comfortably. She was intermittently 
+diuresed to improve her volume status, but given she had 
+adequate urine output after stopping diuresis, was not 
+discharged on a diuretic. Should monitor volume and respiratory 
+status daily while at rehab and diurese as necessary.
+
+ 
+#Acute hypoxemic/hypercarbic respiratory failure
+#S.aureus VAP 
+#ARDS
+Following EKOS catheter directed thrombolysis, patient was noted 
+
+to have worsening respiratory failure refractory to iNO, NIPPV, 
+diuresis and was intubated ___. She developed imaging 
+concerning for ARDS and sputum cx with MSSA c/f S. aureus VAP, 
+for which she was treated. She had a course of cefazolin from 
+___. Repeat CT on ___ showed significant 
+dependent opacities. For ARDS managemnet, patient was ventilated 
+with low tidal volumes, paralyzed, proned, treated with veletri, 
+and diuresed aggressively with bumex. She was able to be 
+extubated and was discharged on oximizer as above.
+ 
+# Hypercalcemia
+# Hyperphosphatemia: Thought to be in the setting of immobility. 
+Should monitor these lab values while in rehab.
+
+====================
+TRANSITIONAL ISSUES:
+====================
+[] Antithrombin, FVL, Prothrombin
+[] Follow up with protein C deficiency and hypercoagulable 
+workup
+[] Thyroid nodule on CT Chest, recommend US for follow-up
+[] Follow up with Dr. ___ after discharge to 
+have thromboembolic disease ___ need repeat TTE 
+for this 
+[] L>R pupil, has had CT non-con that was unremarkable 
+[] PCP ___. E-mail PCP with 
+major updates 
+[] Hypercalcemia - suspect due to immobility, but should follow 
+up these labs weekly
+[] Home valsartan was held and can be re-started once PCP 
+determined BPs stable to re-introduce.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Valsartan 40 mg PO DAILY 
+2. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN 
+3. Aspirin 81 mg PO DAILY 
+4. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Apixaban 5 mg PO BID  
+3.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation  
+4.  Insulin SC 
+      Sliding Scale
+
+Fingerstick Q6H
+Insulin SC Sliding Scale using HUM Insulin 
+5.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H  
+6.  Multivitamins W/minerals Chewable 1 TAB PO DAILY  
+7.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+8.  Ramelteon 8 mg PO QHS:PRN insomnia  
+9.  Aspirin 81 mg PO DAILY  
+10.  Loratadine 10 mg PO DAILY  
+11.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN  
+12. HELD- Valsartan 40 mg PO DAILY  This medication was held. Do 
+not restart Valsartan until your doctor tells you to ___ 
+the medication.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+==================
+Massive pulmonary embolism
+
+Secondary Diagnosis:
+====================
+Acute hypoxemic/hypercarbia respiratory failure
+Staph aureus VAP
+ARDS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+  
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did I come to the hospital?  
+-  You came to the hospital because you had trouble breathing, 
+chest pain, cough, and swelling of your legs and were found to 
+have a blood clot in the blood vessels going to your lungs
+
+What happened while I was in the hospital?  
+- You were found to have low oxygen in your blood
+- You had an echocardiogram (image of your heart) that showed 
+strain on the right side of your heart
+- You were started on a blood thinner and transferred to ___ 
+for further management
+- At ___, you were found to have a clotting disorder called 
+protein C deficiency that could contribute to forming blood 
+clots
+- You had a procedure where a team of doctors ___ 
+___ directly into the blood clot to help break up the 
+clot
+- You had a drop in your blood pressure and worsening ability to 
+breath, so you had a breathing tube placed
+- After a few weeks on the blood thinner and the ventilator with 
+the breathing tube, you had the tube removed and you were sent 
+to a rehab facility 
+
+What should I do once I leave the hospital?  
+- You should continue taking your medications prescribed 
+including the apixaban 5mg twice daily to treat the blood clots
+- Please go to your scheduled doctors ___
+- ___ you have any questions or are not feeling well, please call 
+your doctors ___ to the emergency room.
+
+We wish you the best!  
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12953561-DS-19 | hadm_id=29409178
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin base / plastic surgical tape / lactose / dust/cats
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nose bleed
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ with a history of b/l massive pulmonary
+emboli with severe R heart strain and obstructive shock (dx
+___, s/p catheter directed thrombolysis), and
+hypoxemic/hypercarbic respiratory failure requiring intubation
+c/b VAP/ARDS, who presents with  three weeks of epistaxis. 
+
+Patient was recently admitted from ___ - ___. She
+initially presented to ___ with extensive b/l PE
+(possibly related to mild protein C deficiency). She was
+hypoxemic, but was hemodynamically stable. She underwent
+catheter-directed thrombolysis with improvement in radiographic
+clot burden; however, she became hemodynamically stable
+(presumably indicating progression to "massive" PE). She was
+intubated for hypoxemic/hypercarbic respiratory failure with 
+escalating ventilator requirements ___ MSSA VAP and ARDS. She
+completed a course of Cefazolin (___). She was discharged
+on 5L oxymizer and Apixaban, which was transitioned to warfarin
+w/ enoxaparin bridge (___) due to BMI. 
+
+Patient notes ~3 weeks of intermittent epistaxis. Her most 
+recent
+episode of epistaxis was last night for about 6 hours. She
+reports frequent nose bleeds prior to starting anticoagulation,
+for which she has undergone two cauterizations. She is on ___ 
+O2
+via NC at rehab and desats with activity. She has a subacute,
+non-productive cough. She denies fevers and chills. She reports
+chronic pleuritic chest pain since an open heart surgery as a
+child (?ASD or VSD repair). 
+
+In the ED, initial vitals were:  T96.8, HR 97, BP 121/57, RR 16,
+81% on 3L 
+
+Exam notable for:  
+Gen: elderly female
+CV: tachy, regular rhythm
+Pulm: not tachypneic, crackles throughout lung fields
+Abd: obese, soft, nontender, no rebound
+Ext: bilat edema 3+ to midshin, erythema/violaceous over both
+shins. foot exam negative for lesions, diffuse flaking of feet
+
+Labs notable for:  
+- VBG: 7.39/70
+- K 3.2, HCO3 37, Cl 92
+- Hgb 9.8
+- INR 2.2, PTT 45.3  
+
+Imaging was notable for:  
+CXR 
+1. Linear opacities in the right lower lung likely represent
+atelectasis, 
+however infection cannot be excluded in the appropriate clinical
+setting. 
+2. Low lung volumes with mild bibasilar atelectasis. 
+3. Persistent small right pleural effusion. 
+4. Tubular opacity projecting over the right lower neck is 
+likely
+external to the patient, however clinical correlation is
+recommended. 
+
+Patient was given:  
+- IV Cefepime 2g 
+- Potassium chloride 40 mEq
+
+VS Prior to Transfer: T 98.6, HR 91, BP 98/47, RR 18, 96% 5L 
+
+ 
+Past Medical History:
+- HTN
+- HLD
+- Mild Intermittent Asthma  
+- Bilateral sub-massive pulmonary emboli (___) 
+- ?Obesity hypoventiliation vs OSA 
+ 
+Social History:
+___
+Family History:
+No family hx of PE/DVT
+Parents lived to ___, ___ 
+ 
+Physical Exam:
+ADMISSION 
+=========
+VITAL SIGNS:  
+GENERAL: NAD, sitting comfortably at 45 degrees
+HEENT: Left nasal packing in place, MMM, no scleral icterus 
+CARDIAC: RRR, RUSB systolic murmur, normal S1/S2 
+LUNGS: Left > Right crackles, on 3L NC, normal WOB, fair air
+movement 
+ABDOMEN:  Obese, soft, nontender 
+EXTREMITIES: Significant pitting edema to thighs bilaterally (L 
+>
+R), venous stasis dermatitis 
+NEUROLOGIC: Alert, oriented, conversant, mild anisocoria, no
+gross focal deficits 
+SKIN:  Venous stasis dermatitis on lower limbs b/l
+
+DISCHARGE
+=========
+GENERAL: NAD, sitting comfortably at 45 degrees
+HEENT: MMM, no scleral icterus 
+CARDIAC: RRR, RUSB systolic murmur, normal S1/S2 
+LUNGS: Left > Right crackles, on 3L NC, normal WOB, fair air
+movement 
+ABDOMEN:  Obese, soft, nontender 
+EXTREMITIES: Significant pitting edema to thighs bilaterally (L 
+>
+R), venous stasis dermatitis 
+NEUROLOGIC: Alert, oriented, conversant, mild anisocoria, no
+gross focal deficits 
+SKIN:  Venous stasis dermatitis on lower limbs b/l 
+ 
+Pertinent Results:
+ADMISSION 
+___ 07:30AM BLOOD WBC-6.0 RBC-3.55* Hgb-9.8* Hct-33.1* 
+MCV-93 MCH-27.6 MCHC-29.6* RDW-16.5* RDWSD-56.2* Plt ___
+___ 07:30AM BLOOD Neuts-67.7 ___ Monos-7.3 Eos-5.0 
+Baso-0.5 Im ___ AbsNeut-4.09 AbsLymp-1.15* AbsMono-0.44 
+AbsEos-0.30 AbsBaso-0.03
+___ 07:30AM BLOOD ___ PTT-45.3* ___
+___ 07:30AM BLOOD Glucose-130* UreaN-12 Creat-0.7 Na-142 
+K-3.2* Cl-92* HCO3-37* AnGap-13
+___ 08:28AM BLOOD Calcium-9.6 Phos-3.3 Mg-1.5*
+___ 09:54AM BLOOD ___ pO2-34* pCO2-70* pH-7.39 
+calTCO2-44* Base XS-13
+___ 09:54AM BLOOD O2 Sat-53
+
+DISCHARGE 
+___ 07:25AM BLOOD WBC-6.5 RBC-3.62* Hgb-10.2* Hct-34.6 
+MCV-96 MCH-28.2 MCHC-29.5* RDW-16.2* RDWSD-57.2* Plt ___
+___ 10:41AM BLOOD ___
+___ 07:25AM BLOOD Glucose-129* UreaN-12 Creat-0.7 Na-143 
+K-3.9 Cl-93* HCO3-37* AnGap-13
+
+REPORTS 
+
+___ Imaging CHEST (PORTABLE AP) 
+1. Linear opacities in the right lower lung likely represent 
+atelectasis, 
+however infection cannot be excluded in the appropriate clinical 
+setting. 
+2. Low lung volumes with mild bibasilar atelectasis. 
+3. Persistent small right pleural effusion. 
+4. Mild pulmonary edema 
+
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ with a history of b/l massive pulmonary 
+emboli with severe R heart strain and obstructive shock (dx 
+___, s/p catheter directed thrombolysis), and 
+hypoxemic/hypercarbic respiratory failure requiring intubation 
+c/b VAP/ARDS, who presents with three weeks of epistaxis. 
+
+ACUTE ISSUES:
+=============
+#Epistaxis 
+Patient has a history of nose bleeds preceding anticoagulation 
+previously requiring cauterization. These have been attributed 
+to her NC usage, but hemostasis this time was compromised by 
+anticoagulation and ASA. She is hemodynamically stable and her 
+respiratory status is stable/improving. Was taking ASA 81 mg 
+daily until ___, but no clear indication. Removed nasal packing 
+___. Stopped enoxaparin ___, as warfarin is therapeutic. 
+Supplemental O2 with humidified face tent (goal 88-92%) to 
+prevent further mucosal irritation. Agree with stopping ASA 
+permanently (no indication). No further epistaxis. 
+
+#Hx of massive PE
+Massive PE diagnosed in ___ s/p cathter-directed 
+thrombolysis. Discharged on Apixaban, but transitioned to 
+warfarin ___ with enoxaparin dose. Last INR checked ___ and 
+subtherapeutic, so warfarin dose increased to 8 mg daily. INR 
+2.2 on admission. Stopped enoxaparin ___ after ~48 hrs of 
+therapeutic warfarin. Continued warfarin 8 mg daily (Goal INR 2 
+- 3). Discharge INR 2.7
+
+#Hypoxemic/hypercarbic respiratory failure 
+#Asthma
+Patient is at her baseline supplemental oxygen requirement. 
+Received one dose of Cefepime in the ED for ?PNA; however, she 
+does not appear clinically to be infected. ___ have a history of 
+OHS/OSA; followed by pulm outpatient. CXR on admission shows 
+mild pulmonary edema, which may also be contributing. Has RV 
+failure given ___ PEs, but unclear if there is a degree of LV 
+diastolic dysfunction, as well. Symptomatic with orthopnea, so 
+diuresed with IV furosemide. Continued home duonebs/albuterol 
+nebs. Humidified face tent; goal SpO2 88-92% given chronic CO2 
+retention. 
+
+#Positive blood culture 
+Gram positive cocci in pairs and clusters noted in 1 bottle on 
+___. Very high suspicion for contaminant. No fevers or 
+hemodynamic instability. Fepeat BCx with no growth to date by 
+discharge. 
+
+CHRONIC ISSUES:
+===============
+#Lower extremity edema 
+Significant lower extremity edema. Likely multifactorial (RV 
+strain w/ thromboembolic disease and venous stasis). Held 
+Torsemide 20 mg daily while giving IV furosemide. Increased dose 
+to 40 mg daily on discharge. 
+
+#HTN
+Previously on losartan. Stopped iso obstructive shock with PE.
+Not currently requiring antihypertensives. 
+
+# CODE: full (MOSLT in chart) 
+
+TRANSITIONAL ISSUES
+===================
+- If requiring supplemental oxygen (for goal SpO2 88-92% given 
+chronic CO2 retention), would prefer humidified O2 via face tent 
+to prevent nasal mucosal irritation and further epistaxis. 
+- Consider outpatient echo to evaluate for for LV diastolic 
+dysfunction. 
+- Increased Torsemide to 40 mg daily. Please monitor lytes and 
+Cr and adjust based on daily weights and volume status. 
+- Patient should be on warfarin indefinitely. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB 
+3. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+4. Docusate Sodium 100 mg PO BID 
+5. Fleet Enema (Saline) ___AILY:PRN constipation 
+6. Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+7. Lactulose 30 mL PO BID:PRN constipation 
+8. Loratadine 10 mg PO DAILY 
+9. Enoxaparin Sodium 150 mg SC BID DVT/PE Treatment 
+Start: ___, First Dose: Next Routine Administration Time 
+10. Miconazole Powder 2% 1 Appl TP Frequency is Unknown 
+11. Multivitamins W/minerals 1 TAB PO DAILY 
+12. Sodium Chloride Nasal ___ SPRY NU Q2H:PRN nasal congestion 
+13. Polyethylene Glycol 17 g PO DAILY 
+14. Ramelteon 8 mg PO QHS 
+15. Aspirin 81 mg PO DAILY 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. Senna 8.6 mg PO QHS 
+18. Torsemide 20 mg PO DAILY 
+19. Vitamin D ___ UNIT PO 1X/WEEK (MO) 
+20. Warfarin 8 mg PO DAILY16 
+21. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Miconazole Powder 2% 1 Appl TP QID:PRN rash  
+3.  Torsemide 40 mg PO DAILY  
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+5.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB  
+6.  Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  
+7.  Docusate Sodium 100 mg PO BID  
+8.  Fleet Enema (Saline) ___AILY:PRN constipation  
+9.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H  
+10.  Lactulose 30 mL PO BID:PRN constipation  
+11.  Loratadine 10 mg PO DAILY  
+12.  Multivitamins W/minerals 1 TAB PO DAILY  
+13.  Polyethylene Glycol 17 g PO DAILY  
+14.  Ramelteon 8 mg PO QHS  
+15.  Senna 8.6 mg PO QHS  
+16.  Sodium Chloride Nasal ___ SPRY NU Q2H:PRN nasal congestion  
+
+17.  Vitamin D 1000 UNIT PO DAILY  
+18.  Vitamin D ___ UNIT PO 1X/WEEK (MO)  
+19.  Warfarin 8 mg PO DAILY16 
+Target INR ___  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+- Epistaxis
+- Hypoxic/hypercarbic respiratory failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came into the hospital because you were having nosebleeding. 
+ This is most likely related to your blood thinners and 
+irritation from supplemental oxygen.  Lovenox was stopped 
+because your warfarin level was appropriate.  He was given 
+humidified oxygen with a stent.  You are also given medication 
+to remove extra water from her lungs that may have contributed 
+to your low oxygen level.
+
+When you leave the hospital you should:
+- Take all of your medications as prescribed.
+- Attend all scheduled clinic appointments.
+- If you develop another nosebleed, apply pressure to your nose 
+for 20 minutes. If the bleeding is significant, you are choking 
+on blood, or the bleeding will not stop, then you should come 
+back to the emergency department.
+
+It was a pleasure taking care of you, 
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

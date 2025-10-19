@@ -1,0 +1,182 @@
+===== DISCHARGE NOTE =====
+note_id=18432030-DS-8 | hadm_id=28979679
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+___: 
+Exploratory laparotomy, gastrotomy and enterectomy and removal 
+of foreign bodies.
+
+ 
+History of Present Illness:
+Pt is ___ y/o M who was found to be unresponsive by EMS ___.  
+Per family, both pt and sister were drug mules and recently 
+arrived from ___.  It is believed that pt had ingested 
+packaged cocaine and heroin.  Pt was found unresponsive and 
+given narcan.  His respiratory rate improved, however pt then
+started posturing.  Pt was given ativan and subsequently 
+intubated.  Pt was also hypotensive at OSH and started on 
+Levophed.  Pt currently is off levophed.  
+
+ 
+Past Medical History:
+PMH: Unknown
+PSH: Unknown
+___: Unknown
+ALL: Unknown
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+P ___  BP 115/76  R 16  SaO2 100%
+Gen: intubated, sedated
+Heent: no scleral icterus
+Lungs: clear
+Heart: regular rate and rhythm
+Abd: soft, nontender, nondistended
+Extrem: no edema
+
+ 
+Pertinent Results:
+LABORATORIES: 
+
+___ 05:55PM BLOOD WBC-19.9* RBC-4.47* Hgb-14.7 Hct-41.7 
+MCV-93 MCH-32.9* MCHC-35.2* RDW-13.0 Plt ___
+___ 05:55PM BLOOD ___ PTT-27.2 ___
+___ 09:00PM BLOOD Glucose-110* UreaN-16 Creat-0.9 Na-139 
+K-5.2* Cl-108 HCO3-22 AnGap-14
+___ 09:00PM BLOOD CK(CPK)-___*
+___ 09:00PM BLOOD CK-MB-37* MB Indx-1.7 cTropnT-0.13*
+___ 09:00PM BLOOD Calcium-7.4* Phos-2.6* Mg-1.8
+___ 10:18PM URINE  cocaine-POS
+
+MICROBIOLOGY: 
+___ SputumCx ___: 2+GPCs prs/clstrs; 2+GNRs; Cx: oral flora
+
+IMAGING: 
+CT Head (___): 1. No acute intracranial abnormality. 2. Fluid 
+within the sinuses, likely relates to endotracheal intubation. 
+
+PATHOLOGY: None
+
+ 
+Brief Hospital Course:
+The patient was admitted to the acute care surgery service on 
+___ as a transfer from an OSH.  He was taken to ther OR for 
+an exploratory laparotomy, gastrotomy and removal of ingested 
+foreign bodies.  The patient tolerated the procedure well.
+
+Neuro: Prior to admission, patient was intubated in the field 
+for non-responsiveness and anoxic brain injury was suspected at 
+this time.  On transfer, the patient was intubated and sedated.  
+Pt was taken from the OR directly to SICU where he remained 
+sedated/intubated.  He remained sedated until extubated ___.  
+Precedex was begun for agitation.  Mental status 
+
+Post-operatively, the patient received Dilaudid IV/PCA with
+good effect and adequate pain control. When tolerating oral 
+intake,
+the patient was transitioned to oral pain medications.
+
+CV: The patient was stable from a cardiovascular standpoint; 
+vital
+signs were routinely monitored.
+
+Pulmonary: Pulmonary toilet including incentive spirometry and 
+early ambulation were encouraged.  The patient was stable from a 
+pulmonary standpoint; vital signs were routinely monitored.
+
+GI/GU: Post-operatively, the patient was given IV fluids until
+tolerating oral intake. His diet was gradually advanced to 
+regular and tolerated well.  He developed excessive diarrhea on 
+___ along with leukocytosis and a stool specimen was 
+positive for C difficile at which point he was started on a 14 
+day course of Flagyl.
+
+His mental status gradually improved and a cognitive evaluation 
+bty the Occupational Therapist was essentially normal.  He was 
+treated with antipsychotics during the acute period but all of 
+this was stopped as he progressed back to baseline.
+
+At the time of discharge he was doing well, afebrile with stable 
+vital signs, tolerating a regular diet, ambulating, voiding 
+without assistance, and pain free.
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) as needed for cdiff: thru ___.
+Disp:*40 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Foreign body intestinal obstruction
+2. Narcotic overdose
+3. C Difficile colitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the acute care surgery service for 
+intestinal obstruction and toxic ingestion.
+ 
+General Discharge Instructions:
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication.  Please take any 
+new medications as prescribed.
+Please take the prescribed analgesic medications as needed.  You 
+may not drive or heavy machinery while taking narcotic analgesic 
+medications.  You may also take acetaminophen (Tylenol) as 
+directed, but do not exceed 4000 mg in one day.
+Please get plenty of rest, continue to walk several times per 
+day, and drink adequate amounts of fluids.  Avoid strenuous 
+physical activity and refrain from heavy lifting greater than 10 
+lbs., until you follow-up with your surgeon, who will instruct 
+you further regarding activity restrictions.  Please also 
+follow-up with your primary care physician.
+ 
+Incision Care:
+*Please call your surgeon or go to the emergency department if 
+you have increased pain, swelling, redness, or drainage from the 
+incision site.
+*Avoid swimming and baths until cleared by your surgeon.
+*You may shower and wash incisions with a mild soap and warm 
+water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+
+ 
+Followup Instructions:
+___

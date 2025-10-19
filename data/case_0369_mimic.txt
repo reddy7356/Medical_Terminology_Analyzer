@@ -1,0 +1,95 @@
+===== DISCHARGE NOTE =====
+note_id=14353423-DS-15 | hadm_id=25157006
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+mid abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+no surgery
+ 
+History of Present Illness:
+___ year old female- seen at ___ - transfered from ___ 
+___. 36 hours of N/V- and dull crampy mid-abdominal pain. 
+CT indicated incacerated ventral hernia causing a partial SBO.
+ 
+Past Medical History:
+Multiple Myeloma, HTN, DM, recent urosepsis, right femur rod for 
+lytic mets, CRI, anemia, hyperchlosterolemia, laminectomy
+ 
+Social History:
+___
+Family History:
+not known
+ 
+Physical Exam:
+constitional- a/a/ox3-NAD
+Eyessclera reddened- conjunctiva pink
+ENT- no def of ENT noted
+Cardiac- RRR
+RESP- CTA- no CVAT
+ABD- soft, not distended.not tender
+MSK- no clubbing, no cyanosis- no def of extremitits noted
+Skin- apx 3 inch open area in skin folds of buttocks
+ 
+Pertinent Results:
+___ 08:30AM BLOOD WBC-PND RBC-PND Hgb-PND Hct-PND MCV-PND 
+MCH-PND MCHC-PND Plt Ct-PND
+___ 08:30AM BLOOD WBC-PND RBC-PND Hgb-PND Hct-PND MCV-PND 
+MCH-PND MCHC-PND Plt Ct-PND
+___ 05:00AM BLOOD WBC-10.9 RBC-3.78* Hgb-11.5* Hct-35.9* 
+MCV-95 MCH-30.4 MCHC-32.1 RDW-20.0* Plt Ct-62*
+___ 05:00AM BLOOD Neuts-62 Bands-6* Lymphs-4* Monos-26* 
+Eos-0 Baso-0 ___ Myelos-2*
+___ 05:00AM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-1+ 
+Macrocy-2+ Microcy-1+ Polychr-1+
+___ 08:30AM BLOOD Plt Ct-PND
+___ 05:00AM BLOOD Plt Smr-VERY LOW Plt Ct-62*
+___ 05:00AM BLOOD ___ PTT-31.0 ___
+ 
+Brief Hospital Course:
+Pt is ___ year old female- Presented to ___- after 
+36 hours of N/V and severe mid-abdominal pain. CT indicated 
+incacerated ventral hernia causing partial SBO. Obstruction 
+resolved with NGT. Now tolerating regular diet.
+ 
+Medications on Admission:
+ASA-81mg daily- glipizide 2.5 mg po daily-neurontin 300mg po 
+tid-procardia 30mg po daily- tenormin 25 mg po daily- 
+ 
+Discharge Medications:
+same as above
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Incacerated ventral hernia causing ___ SBO
+ 
+Discharge Condition:
+A/A/O x3- no abd pain now, tolerating reg diet- has crack in 
+skinfold over coccyx-has a tegaderm applied
+ 
+Discharge Instructions:
+ambulate several times daily-drink fluids- report any abdominal 
+pain to PCP
+has ___ services in place---- will add wound care to plan
+ 
+Followup Instructions:
+___

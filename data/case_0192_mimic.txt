@@ -1,0 +1,439 @@
+===== DISCHARGE NOTE =====
+note_id=19946272-DS-21 | hadm_id=21863380
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+dyspnea on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Aortic valve replacement with a size 27 mm ___
+    tissue valve.
+2. Left atrial appendage ligation.
+
+ 
+History of Present Illness:
+___ year old ___ speaking male with chronic atrial 
+fibrillation and known aortic stenosis who presented today for a 
+cardiac catheterization at ___. He was found to have normal 
+coronary arteries and severe aortic stenosis. He was referred to 
+cardiac surgery for evaluation on ___ when AVR was 
+recommended. No interval progression of symptoms since ___. 
+ 
+Past Medical History:
+Aortic Stenosis
+Atrial Fibrillation
+Hypertension
+TIA
+
+Past Surgical History:
+none
+
+ 
+Social History:
+___
+Family History:
+He has no history of premature CAD or other cardiac diseases 
+among first-degree relatives.
+
+ 
+Physical Exam:
+Admission Physical Exam:
+Pulse:69 Resp:18  O2 sat:97/RA
+B/P  ___
+Height:66"     Weight:153 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur [x] 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [X]
+Extremities: Warm [x], well-perfused [x]  
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:  palp Left: palp
+DP           Right:  palp Left: palp
+___           Right:  palp Left: palp
+Radial       Right:  palp Left: palp
+
+Carotid Bruit        Right: none   Left: none
+
+Discharge Physical Exam:
+Pulse:86 Resp:20  O2 sat:96% on RA
+B/P  ___
+Height:66"     Weight:72.8kg
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear but with decreased bases bilaterally [x] 
+Heart: RRR []  Irregular [x]  Murmur [] 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++ [X]
+Extremities: Warm [x], well-perfused [x]  
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Sternum: Stable, incision: C/D/I
+Edema:  1+ ___ edema 
+Pulses:
+DP           Right: 2 Left: 2
+___           Right: 2 Left: 2
+Radial       Right: 2 Left: 2
+
+ 
+Pertinent Results:
+___
+Intra-op TEE
+PREBYPASS 
+No atrial septal defect is seen by 2D or color Doppler. There is 
+moderate symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is top normal/borderline dilated. There 
+is no regionality. There is moderate global left ventricular 
+hypokinesis (LVEF = 30 %). Right ventricular chamber size and 
+free wall motion are normal. The ascending aorta is mildly 
+dilated. The aortic valve is bicuspid. The aortic valve leaflets 
+are severely thickened/deformed. Significant aortic stenosis is 
+present (not quantified). The mitral valve leaflets are mildly 
+thickened. An eccentric, posteriorly directed jet of Mild to 
+moderate (___) mitral regurgitation is seen. Due to the 
+eccentric nature of the regurgitant jet, its severity may be 
+significantly underestimated (Coanda effect).
+
+POSTBYPASS
+LV systolic function is improved. LVEF ~50%. RV systolic 
+function remains normal. There is a well seated, well 
+functioning bioprosthesis in the aortic position. No obvious AI 
+is visualized. The MR now appears trace. The study is otherwise 
+unchanged from prebypass  
+
+CXR
+PA AND LATERAL CHEST, ___   
+COMPARISON:  Radiographs of two days earlier.  
+FINDINGS:  Subcutaneous emphysema is again demonstrated in the 
+right chest 
+wall.  There is no visible pneumothorax.  Stable postoperative 
+appearance of cardiomediastinal contours, with minimal residual 
+pneumopericardium remaining.  Improved aeration in left lower 
+lobe with residual minor atelectasis remaining as well as a 
+small left effusion.  Small-to-moderate right pleural effusion 
+appears similar to the prior study, but adjacent basilar 
+atelectasis has slightly improved. 
+
+___ 06:50AM BLOOD WBC-8.2 RBC-3.45* Hgb-11.9* Hct-35.2* 
+MCV-102* MCH-34.6* MCHC-33.9 RDW-12.8 Plt ___
+___ 06:00AM BLOOD WBC-10.4 RBC-3.23* Hgb-11.3* Hct-32.8* 
+MCV-102* MCH-35.1* MCHC-34.5 RDW-12.2 Plt ___
+___ 06:50AM BLOOD ___
+___ 06:00AM BLOOD ___
+___ 06:03AM BLOOD ___
+___ 06:00AM BLOOD ___
+___ 06:50AM BLOOD UreaN-23* Creat-1.1 Na-138 K-4.2 Cl-97
+___ 06:00AM BLOOD Glucose-58* UreaN-30* Creat-1.1 Na-135 
+K-4.3 Cl-96 HCO3-30 AnGap-13
+___ 06:03AM BLOOD Glucose-99 UreaN-29* Creat-1.1 Na-133 
+K-4.5 Cl-95* HCO3-29 AnGap-14
+___ 06:50AM BLOOD Mg-2.2
+ 
+Brief Hospital Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent AVR, ___ ligation with Dr. ___.  
+Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring.  
+POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable, weaned from inotropic and 
+vasopressor support.  Beta blocker was initiated and the patient 
+was gently diuresed toward the preoperative weight.  Coumadin 
+was started for anti-coagulation for chronic atrial 
+fibrillation.  Pradaxa should be held for at least one month 
+following cardiac surgery.  The patient was transferred to the 
+telemetry floor for further recovery.  He remained in atrial 
+fibrillation with BBB, with asymtomatic, self-limiting rapid 
+bursts.  Chest tubes and pacing wires were discontinued without 
+complication.  The patient was evaluated by the physical therapy 
+service for assistance with strength and mobility.  His 
+discharge was held for one day because he had hypoglycemia to 58 
+(only symptom diaphoresis) while on lantus 10units daily, but 
+had no further problems once insulin was stopped.  By the time 
+of discharge on POD 5, the patient was ambulating freely, the 
+wound was healing and pain was controlled with oral analgesics.  
+The patient was discharged to home with Art of Care ___ service 
+in good condition with appropriate follow up instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dabigatran Etexilate 300 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Hydrochlorothiazide 12.5 mg PO DAILY 
+4. Ibuprofen 400 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN pain, fever 
+2. Aspirin EC 81 mg PO DAILY 
+3. Lisinopril 5 mg PO DAILY 
+This takes the place of lisinopril/HCTZ ___ daily 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily ___ #*30 Tablet 
+Refills:*0
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day ___ #*60 Capsule Refills:*0
+5. Metoprolol Tartrate 25 mg PO BID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice a day 
+___ #*60 Tablet Refills:*0
+6. Potassium Chloride 20 mEq PO DAILY Duration: 7 Days   
+RX *potassium chloride [Klor-Con 10] 10 mEq 2 tablets by mouth 
+daily ___ #*14 Packet Refills:*0
+___  MD to order daily dose PO DAILY 
+8. Warfarin 2 mg PO ONCE Duration: 1 Dose 
+___ dose, then as directed by MD for INR goal ___ 
+RX *warfarin [Coumadin] 2 mg 1 tablet(s) by mouth as directed by 
+MD ___ #*30 Tablet Refills:*1
+9. Furosemide 40 mg PO DAILY Duration: 7 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily ___ #*7 Tablet 
+Refills:*0
+10. Ibuprofen 400 mg PO Q8H:PRN pain 
+11. Senna 2 TAB PO DAILY 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth once a day ___ 
+#*60 Tablet Refills:*0
+12. HYDROmorphone (Dilaudid) ___ mg PO Q6H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+six (6) hours ___ #*45 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PMH:
+- Aortic Stenosis
+- Atrial Fibrillation
+- Hypertension
+- TIA
+Past Surgical History:
+none
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema - 1+
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19946272-DS-20 | hadm_id=24539310
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+This is a ___ man, h/o CAD, Afib with RVR, LBBB transferred 
+here for AVR for possibly symptomatic AS.
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ speaking gentleman with history of AF on ___, HTN, 
+LBBB, diabetes. For the past ___ weeks, he presented to OSH with 
+complaint of an occasional stabbing sensation on his left chest. 
+He says it occurs randomly, not associated with exertion, no 
+radiation or associated diaphoresis, palpitations, nausea, or 
+vomiting. He does have some mild SOB with the pain but no DOE, 
+no limitation of his activity, no swelling that he notes.
+At the OSH, an echo showed ___ 0.8cm, normal EF. Cath today with 
+normal coronaries and ___ 0.68-0.72. Right radial with TR band 
+on. Right ___ access now d/c’d with no bleeding. 
+Transfered to ___ for AVR.
+
+ 
+Past Medical History:
+He reports having had an MI in ___ in the ___ 
+but did not get PCI
+Afib on ___
+LBBB
+Aortic Stenosis
+HTN
+ 
+Social History:
+___
+Family History:
+He has no history of premature CAD or other cardiac diseases 
+among first-degree relatives.
+
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:  
+VS:  AF   129/79   85   18   98%
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, ___ systolic crescendo murmur heard 
+best at RUSB, no radiation to carotids, no rubs, gallops  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+
+DISCHARGE EXAMINATION:
+VS: 97.9  117-123/62-64  65-68   20  98-100% 
+Telemetry- HR in the ___, a-fib
+GENERAL: AA OX3 NAD, breathing comfortably completely recumbent 
+on CPAP  
+HEENT: NCAT. PERRLA, EOMI, MMM. Sclera anicteric, no 
+conjunctival pallor. OP clear, trachea midline, no thyromegaly 
+or cervical LAD.  
+NECK: Supple, with flat JVP without evidence of HJR. Carotids 
+benign bilaterally.  
+CARDIAC: S1/S2. No m/r/g. tachy, irreg. irreg. PMI non-enlarged, 
+non-displaced. No parasternal or subxiphoid heaves, precordial 
+thrills, or palpable pulsations in the 3LICS. 
+LUNGS: Lungs CTAPB without WRR. Resp unlabored, no accessory 
+muscle use. 
+ABDOMEN: Soft, NT, ND. BS + X4, No HSM or tenderness. Abd aorta 
+not enlarged by palpation. No abdominal bruits.  
+EXTREMITIES: No CCE or edema. No femoral bruits. L femoral 
+access site unremarkable.  
+SKIN: No concerning lesions.
+
+ 
+Pertinent Results:
+___ 05:40AM BLOOD WBC-6.2 RBC-4.28* Hgb-14.6 Hct-43.0 
+MCV-100* MCH-34.1* MCHC-34.0 RDW-13.1 Plt ___
+___ 05:40AM BLOOD Glucose-84 UreaN-10 Creat-0.9 Na-139 
+K-3.9 Cl-102 HCO3-30 AnGap-11
+___ 05:40AM BLOOD ALT-15 AST-23 LD(LDH)-160 AlkPhos-78 
+TotBili-0.7
+___ 05:40AM BLOOD Albumin-4.6 Calcium-9.6 Phos-2.6* Mg-2.1
+___ 05:40AM BLOOD %HbA1c-4.9 eAG-94
+ 
+Brief Hospital Course:
+This is a ___ man, h/o CAD, Afib with RVR, LBBB transferred 
+here for AVR for possibly symptomatic AS.
+
+# AS: Unclear if chest pain is related to angina from his AS or 
+represents atypical chest pain. He has no other symptoms, 
+including dyspnea on exertion, orthopnea, or 
+pre-syncope/syncope. His valve area is in the severe category 
+but his mean gradient is below it (34mmHg, severe is >40).
+We consulted cardiac surgery, who advised aortic valve 
+replacement for ___. We completed their 
+recommended workup, which included lab studies and a dental 
+x-ray. The staff dentist reviewed the x-ray and found that he 
+requires a dental extraction prior to his surgery. Oral and 
+maxillofacial surgery was consulted and they agreed to take him 
+as an outpatient on ___.
+
+#Afib: patient was in fibrillation during his hospital stay but 
+had a normal ventricular rate. Patient's dabigatran was 
+discontinued on ___ in preparation for his surgery.
+
+#HTN: patient's blood pressure was well-controlled throughout 
+his hospital stay.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dabigatran Etexilate 150 mg PO BID 
+2. lisinopril-hydrochlorothiazide ___ mg Oral daily 
+3. Ibuprofen Dose is Unknown  PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1. Dabigatran Etexilate 150 mg PO BID 
+Please don't take this medication until after your surgery  
+2. lisinopril-hydrochlorothiazide ___ mg Oral daily 
+3. Ibuprofen 600 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Aortic Stenosis
+Secondary: atrial fibrillation
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ Sr. ___:
+Usted fur ___ hospital ___ tiene una 
+valvula en el ___ no funciona bien. ___ una ___ para ___ del ___. 
+Llegamos a ___ conclusion ___ seria mejor ___ usted regrese a 
+casa ___ de ___, el 6 de septiembre, tiene usted una cita con ___ van a sacar una muela. NO COMA ___ 
+___. 
+PARA DE ___ HASTA ___ DE ___.
+Usted tuvo un estudio ___ salio 
+normal.
+Si usted tiene dolor ___ de pecho, falta de respiracion, o 
+mareos o desmayos, por favor ___ doctor ___ 911.
+ 
+Followup Instructions:
+___

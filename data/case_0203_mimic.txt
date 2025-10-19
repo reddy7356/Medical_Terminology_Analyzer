@@ -1,0 +1,2023 @@
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-8 | hadm_id=24719315
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+ ___ man w/ a history of total bladder, prostate, 
+adjacent muscle removal in ___ for bladder cancer (at 
+___), with urostomy in place, HTN and NIDDM presents for 
+evaluation of generalized fatigue, foul smell from the urostomy 
+and fever to ___ today.  
+ Patient reportedly had surgical cure and has not had chemo or 
+radiation. He was in ___ this ___ golfing and returned 5 
+days ago. He has been increasingly fatigued over the last 2 
+weeks, with increasingly foul smell from the urostomy. He was 
+feeling very lousy yesterday and laying in bed most of the day, 
+which is quite atypical for him. Today he had a fever to 102 
+Fahrenheit at home. He called his urologist and was sent to the 
+emergency room for evaluation, including evaluation by the 
+urology team. He is a patient of Dr ___ at ___ ___. 
+He was sent over by Dr. ___, and was told to ask to 
+see the urology team on arrival.  
+ - In the ED, initial vitals were: 98.2 99 141/73 18 99% RA
+ 
+Past Medical History:
+- total bladder, prostate, adjacent muscle removal in ___ for bladder cancer, with urostomy in place
+ - agent orange exposure
+ - frequent UTI ___ to agent orange exposure leading to bladder 
+dysfunction and previously had to straight cath prior to 
+urostomy
+ - hypertension  
+ - dyslipidemia  
+ - diabetes on oral medication  
+ 
+Social History:
+___
+Family History:
+No bladder cancer history that they know of; however, both 
+parents died of cancer ___ unknown primary. 
+ 
+Physical Exam:
+ADMISSON PHYSICAL EXAM
+======================
+ Vital Signs: 98.2 PO 162 / 70R Lying 49 18 96 RA  
+ General: Alert, oriented, no acute distress, generally very tan 
+appearing  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+ Neck: Supple.  
+ CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding, ostomy site c/d/I, pink 
+underneath, draining yellow urine  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred. 
+
+DISCHARGE EXAM
+==============
+ Vital Signs: 97.8 PO 153 / 83 L Lying 87 20 96 RA 
+ General: Alert, oriented, no acute distress, pleasant, 
+coversant
+ HEENT: Sclerae anicteric, MMM, oropharynx clear.  
+ Neck: Supple.  
+ CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding, ostomy site c/d/I, pink 
+underneath, draining yellow urine, no surrounding erythema  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, gait deferred.  
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 03:25PM BLOOD WBC-11.1* RBC-4.22* Hgb-11.1* Hct-35.0* 
+MCV-83 MCH-26.3 MCHC-31.7* RDW-14.8 RDWSD-44.3 Plt ___
+___ 03:25PM BLOOD Neuts-84.6* Lymphs-7.1* Monos-6.9 
+Eos-0.4* Baso-0.4 Im ___ AbsNeut-9.37* AbsLymp-0.78* 
+AbsMono-0.76 AbsEos-0.04 AbsBaso-0.04
+___ 03:25PM BLOOD Plt ___
+___ 06:10AM BLOOD ___ PTT-28.1 ___
+___ 03:25PM BLOOD Glucose-211* UreaN-32* Creat-1.5* Na-137 
+K-4.8 Cl-100 HCO3-20* AnGap-22*
+___ 06:10AM BLOOD Calcium-8.3* Phos-2.8 Mg-1.7
+
+MICROBIOLOGY:
+___ 3:25 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Ertapenem Sensitivity testing per ___ (___) 
+___. 
+         Ertapenem sensitivity testing performed by ___. 
+
+         Ertapenem = SUSUCEPTIBLE. 
+      BETA STREPTOCOCCUS GROUP B.    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------  =>64 R
+CEFTAZIDIME-----------    16 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+IMAGING
+-------
+CT ABD/PELVIS:  
+IMPRESSION: 
+  
+1. There is no acute abnormality visualized within the imaged 
+portion of the abdomen and pelvis. 
+2. Post surgical changes related to bladder and prostate removal 
+and 
+ureterostomy are noted.  Left-sided moderate 
+hydroureteronephrosis, the acuity of which is uncertain in this 
+postoperative state.  No asymmetric perinephric stranding or 
+adjacent fluid collection.  No obstructing renal calculus. 
+3. Lucent lesion within the L4 vertebral body which is possibly 
+but not 
+definitively a hemangioma.  Correlation with prior imaging 
+presumed performed elsewhere suggested otherwise MRI on a 
+nonurgent basis would be suggested. 
+4. Abnormal left pelvic sidewall soft tissue, potentially an 
+metastatic lymph node.  Additional borderline enlarged right 
+common iliac lymph node to be correlated with prior imaging. 
+
+DISCHARGE LABS
+--------------
+___ 06:25AM BLOOD WBC-6.8 RBC-4.07* Hgb-10.5* Hct-33.8* 
+MCV-83 MCH-25.8* MCHC-31.1* RDW-14.4 RDWSD-43.6 Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-240* UreaN-24* Creat-1.3* Na-137 
+K-3.8 Cl-101 HCO3-23 AnGap-17
+___ 06:25AM BLOOD Calcium-8.7 Phos-2.6* Mg-2.___ man w/ a history of total bladder, prostate, 
+adjacent muscle removal in ___ for bladder cancer (at 
+___), with urostomy in place, HTN and NIDDM presents with 
+fever and fatigue and found to have MDR E. Coli UTI, treated 
+initially with meropenem and treated with ertapenem as an 
+outpatient. 
+
+ACTIVE ISSUES:
+-------------- 
+ # Complicated UTI- Pt presents with fever (temp of 102), mild 
+lower quadrant pain, vomiting with UA with many WBCs and 
+bacteria. Urine culture grew out MDR E. Coli sensitive to 
+carbapenems. There was no e/o pyelonephritis, no perinephric 
+stranding or adjacent fluid collection and no obstructing renal 
+calculus seen on CTA. Hydroureter was seen on CT and per 
+urology, there is nothing to do and to follow up as outpatient. 
+Patient was treated with meropenem (___) and will be 
+discharged on ertapenem for a ___nding on ___. 
+Blood cultures were negative.
+
+ # hx of bladder cancer- s/p total bladder, prostate, adjacent 
+muscle removal in ___ for bladder cancer and has 
+urostomy. Abd/pelvis CT from ___ shows abnormal left pelvic 
+sidewall soft tissue, potentially an metastatic lymph node and 
+additional borderline enlarged right common iliac lymph node to 
+be correlated with prior imaging. He never received 
+chemotherapy/radiation. He will have outpatient follow up with 
+the ___ clinic.
+
+#Acute Kidney Injury: Patient came in with Cr of 1.5 that 
+improved with fluids. Per OSH records, baseline appears to be 
+~1.0-1.2. Discharge Cr was 1.3.
+
+TRANSITIONAL ISSUES
+-------------------
+[] Abnormal lymph nodes on CT: Patient will need to see Dr. ___ 
+___ in the ___ clinic after being treated for 
+his urinary tract infection. 
+[] New Medications:
+Ertapenem 1 g daily from ___ to ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 75 mg PO DAILY 
+2. GlipiZIDE 20 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+5. amLODIPine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ertapenem Sodium 1 g IV 1X Duration: 1 Dose 
+RX *ertapenem [___] 1 gram 1 g IV daily Disp #*8 Vial 
+Refills:*0 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM  
+4.  GlipiZIDE 20 mg PO DAILY  
+5.  Losartan Potassium 75 mg PO DAILY  
+6.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Urinary Tract Infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.
+
+You were admitted to the hospital because you were having 
+fevers, chills, and belly pain. This was because you had a 
+urinary tract infection. We gave you antibiotics through your IV 
+and you improved. 
+
+When you leave the hospital, please continue to take your 
+antibiotics every day even if you feel better. You also need to 
+follow up with your primary care doctor and urologist when you 
+leave the hospital.
+
+We wish you the best,
+Your care team at ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-11 | hadm_id=24935797
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, Arm Pain/Myalgias
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization.
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old gentleman with a history of 
+metastatic recurrent bladder cancer s/p cystectomy and ileal 
+conduit on cycle 1 of pembrolizumab who presents with fever and 
+body aches.
+
+Mr. ___ has a history of recurrent urinary tract infections 
+with MDR organisms. Of note he was admitted ___ for fever 
+with ultimately negative blood and urine cultures. He was 
+discharged on prophylactic fosphomycin.
+
+Today he developed left shoulder pain followed by bilateral 
+shoulder pain and them diffuse cramping. His primary oncologist 
+was called, additional pain medication and hydration were 
+recommended. Given lack of improvement he was taken to local ED 
+where temperature was ___. He has blood/urine cultures, 
+received 1x ertapenem and was transferred to ___.
+
+ED initial vitals were 97.5 93 104/55 18 98% RA. 
+Prior to transfer vitals were 98.1 77 114/59 16 98% RA.
+
+ED work-up significant for:
+- CBC: WBC: 11.6*. HGB: 7.5*. Plt Count: 241. Neuts%: 92.6*. 
+- Chemistry: Na: 137 (New reference range as of ___. K: 
+4.9. Cl: 103. CO2: 19*. BUN: 29*. Creat: 1.4*. 
+- Lactate: 2.0
+- UA: WBC 20, Nit neg, bact few
+
+ED management significant for:
+- Medications: hydromorphone 1mg iv x2, APAP 650mg x1.
+
+Patient denies chills, night sweats, headache, vision changes, 
+dizziness/lightheadedness, weakness/numbnesss, shortness of 
+breath, cough, hemoptysis, chest pain, palpitations, abdominal 
+pain, nausea/vomiting, diarrhea, hematemesis, 
+hematochezia/melena, dysuria, hematuria, and new rashes.
+ 
+Past Medical History:
+Mr. ___ has a ___ year history of chronic self catheterization 
+secondary to injury from agent orange exposure. About 2 or ___ 
+years ago, he began developing hematuria, including large clots 
+that would block his catheter. He saw his urologist and reports  
+a normal report. In ___ or ___, however, he 
+developed very heavy hematuria while residing in ___. He 
+underwent CT imaging which revealed a 6 cm mass in the bladder, 
+with biopsy confirming bladder carcinoma. He returned to ___ 
+at the end of ___ and was seen by urology with radical 
+cystoprostatectomy on ___ notable for 6.5 x 3.5 x 3.0cm high 
+grade urothelial ca, a separate focus of papillary transitional 
+cell, and right lobe of prostate ___ 3+4 prostate cancer, 
+with 2 positive lymph nodes (right obturator lymph node, left 
+obturator lymph node).
+
+During a ___ admission, CT A&P revealed an abnormal left pelvic 
+sidewall soft tissue, potentially evidence of metastatic  
+disease.
+He also had biopsy of a paraesophageal node which was consistent 
+with metastatic bladder cancer.
+
+- ___ C1D1 Gemcitabine/Cisplatin  
+- ___- cycle interrupeted on ___ due to UTI and sepsis  
+- ___: completed 10 days of XRT to pelvic sidewall which 
+has improved pain
+
+PAST MEDICAL HISTORY:  
+- Agent orange exposure 
+- Hypertension
+- Dyslipidemia
+- DM
+- Recurrent urosepsis
+- Hydronephrosis on left - had a nephrostomy tube back in 
+___
+ 
+Social History:
+___
+Family History:
+His parents died of cancer of unknown primary.
+ 
+Physical Exam:
+========================
+Admission Physical Exam:
+========================
+VS: 98.4 PO 123 / 63 77 18 99 RA.
+GENERAL: Well-appearing gentleman in no distress lying, in bed 
+comfortably.
+HEENT: Anicteric, PERLL, Mucous membranes moist, OP clear.
+CARDIAC: Regular rate and rhythm, normal heart sounds, no 
+murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, clear to auscultation 
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Non-distended, ileal conduit with pink mucosa draining 
+clear urine with mucus, normal bowel sounds, soft, non-tender, 
+no guarding, no palpable masses, no organomegaly.
+EXT: Warm, well perfused. No lower extremity edema. No erythema 
+or tenderness.
+NEURO: A&Ox3, good attention and linear thought, CN II-XII 
+intact. Strength full throughout. Sensation to light touch 
+intact.
+SKIN: No significant rashes.
+
+========================
+Discharge Physical Exam:
+========================
+VS: Temp 98.5, BP 167/83, HR 74, RR 18, O2 sat 98% RA.
+GENERAL: Well-appearing gentleman in no distress lying.
+HEENT: Anicteric, EOMI, Mucous membranes moist, OP clear.
+CARDIAC: Regular rate and rhythm.
+LUNG: Appears in no respiratory distress, clear to auscultation 
+bilaterally.
+ABD: Non-distended, ileal conduit with pink mucosa draining 
+clear urine, soft, non-tender, no guarding, no palpable masses, 
+no organomegaly.
+EXT: Warm, well perfused. No lower extremity edema. Decreased 
+range of motion with forward arm raise on left shoulder. 
+Tenderness to palpation over left biceps tendon.
+NEURO: A&Ox3, no focal deficits.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+===============
+Admission Labs:
+===============
+___ 01:20AM BLOOD WBC-11.6*# RBC-2.82* Hgb-7.5* Hct-25.1* 
+MCV-89 MCH-26.6 MCHC-29.9* RDW-17.2* RDWSD-55.8* Plt ___
+___ 01:20AM BLOOD Neuts-92.6* Lymphs-3.1* Monos-2.9* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-10.74*# AbsLymp-0.36* 
+AbsMono-0.34 AbsEos-0.03* AbsBaso-0.03
+___ 01:20AM BLOOD Glucose-289* UreaN-29* Creat-1.4* Na-137 
+K-4.9 Cl-103 HCO3-19* AnGap-15
+___ 01:20AM BLOOD cTropnT-<0.01
+___ 06:50AM BLOOD cTropnT-<0.01
+___ 06:50AM BLOOD Calcium-8.7 Phos-3.3 Mg-1.9
+___ 11:15PM BLOOD Lactate-2.0
+___ 07:15AM BLOOD ALT-10 AST-7 AlkPhos-56 TotBili-<0.2
+
+===============
+Discharge Labs:
+===============
+___ 06:46AM BLOOD WBC-6.7 RBC-3.06* Hgb-8.1* Hct-26.6* 
+MCV-87 MCH-26.5 MCHC-30.5* RDW-16.7* RDWSD-52.8* Plt ___
+___ 06:46AM BLOOD Glucose-201* UreaN-30* Creat-1.5* Na-142 
+K-5.1 Cl-101 HCO3-25 AnGap-16
+___ 06:46AM BLOOD Calcium-9.3 Phos-3.4 Mg-1.9
+
+=============
+Microbiology:
+=============
+___ Blood Culture x 2 at ___ - NGTD
+___ Urine Culture at ___ - Mixed Flora
+___ Blood Culture x 2 - Pending
+___ Urine Culture - Mixed Bacterial Flora
+
+========
+Imaging:
+========
+Bilateral Shoulder X-Ray ___
+Impression: No acute bony injury seen. Degenerative changes as 
+described.
+
+CT Chest w/ Contrast ___
+1. Continued improvement in subcarinal/right paraesophageal soft 
+tissue mass now measuring 1.2 cm, previously 1.5 cm without 
+evidence of invasion.
+2. Stable multiple bilateral lung nodules, unchanged since ___.
+3. Stable calcified left pleural plaque, likely secondary to 
+prior asbestos exposure.
+
+CT Abdomen/Pelvis w/ Contrast ___
+1. Rim enhancing lesion along the left pelvic sidewall is stable 
+in size with increased rim enhancement, which could represent a 
+necrotic metastatic lymph node.
+2. No evidence of additional metastatic disease in the abdomen 
+or pelvis.
+3. The stomach is distended and filled with debris.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with a history of 
+metastatic recurrent bladder cancer s/p cystectomy and ileal 
+conduit on cycle 1 of pembrolizumab who presents with fever and 
+body aches.
+
+# Fever: Unclear cause. Originally thought possibly UTI given 
+history of recurrent UTIs but urine cultures negative. No 
+localizing symptoms of infection. He was started on meropenem 
+and had no further fevers. ID was consulted. He had a CT torso 
+which did not show any definite source of infection except noted 
+for necrotic lymph node. Discussed with ID and ___ who 
+felt most likely lymph node was not infected/abscess. Felt 
+fevers may be due to pembrolizumab. Meropenem was discontinued 
+and he was monitored for 24-hour without further fevers. ID 
+recommended if further fever at home without red flag symptoms, 
+patient should be evaluated in outpatient clinic with infectious 
+work-up to avoid repeated ED visits/hospitalizations. He will 
+continued weekly fosfomycin for continued UTI suppression.
+
+# Shoulder Pain/MSK Pain: Possibly biceps tendonitis. Possibly 
+due to pembrolizumab. Cardiac work-up negative. Shoulder x-rays 
+unremarkable. CT without evidence of bone metastasis. OT 
+consulted, recommending outpatient OT. Could also consider 
+steroids if worsening symptoms.
+
+# Cancer-Related Pain: Currently well controlled on regimen. 
+Continued home oxycontin and oxycodone with bowel regimen.
+
+# Hypertension/Hyperlipidemia: Continued amlodipine. Lisinopril 
+on hold per PCP. Continued aspirin and atorvastatin.
+
+# CKD stage III: At baseline. 
+
+# Metastatic Bladder Cancer: On pembrolizumab and radiation 
+therapy. Follow-up with outpatient Oncologist.
+
+# DM: Continued home lantus. Held glipizide during 
+hospitalization and restarted at time of discharge.
+
+# Anemia: Likely multifactorial. No evidence of bleeding. Counts 
+stable.
+
+====================
+Transitional Issues:
+====================
+- Patient with fever without clear source. Consider aspiration 
+of necrotic lymph node to evaluate for infection if continued 
+issues with fever. Also would recommend outpatient work-up of 
+future fevers if no red flag symptoms to avoid repeated ED 
+visits/hospitalizations.
+- Please follow-up pending blood cultures from ___ and 
+___.
+- Patient provided with 1 month supply of oxycontin at 
+discharge.
+- Please provide outpatient OT to progress left shoulder range 
+of motion.
+- Please ensure follow-up with Oncology.
+
+BILLING: 45 minutes spent coordinating care for discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+2. amLODIPine 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. Docusate Sodium 100 mg PO BID:PRN constipation 
+6. Omeprazole 20 mg PO BID 
+7. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+8. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+9. OxyCODONE SR (OxyconTIN) 10 mg PO Q12H 
+10. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+11. Senna 17.2 mg PO BID:PRN constipation 
+12. Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE) 
+13. GlipiZIDE 5 mg PO BID 
+14. Glargine 20 Units Breakfast
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Docusate Sodium 100 mg PO BID:PRN constipation  
+6.  Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE)  
+7.  GlipiZIDE 5 mg PO BID  
+8.  Glargine 20 Units Breakfast 
+9.  Omeprazole 20 mg PO BID  
+10.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+11.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+12.  OxyCODONE SR (OxyconTIN) 10 mg PO Q12H 
+RX *oxycodone 10 mg Take 1 tablet by mouth every 12 hours. Disp 
+#*60 Tablet Refills:*0 
+13.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+14.  Senna 17.2 mg PO BID:PRN constipation
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Fever
+- Shoulder/Musculoskeletal Pain
+- Cancer-Related Pain
+- Metastatic Bladder Cancer
+- Stage III Chronic Kidney Disease
+- Diabetes
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___. You were admitted with fever and 
+muscle/joint pain.
+
+You were evaluated extensively for the cause of the fever. You 
+had multiple cultures and imaging studies. You were seen by the 
+Infectious Disease team as well. You were on antibiotics while 
+in the hospital however there was no definitive source of 
+infection so the antibiotics were discontinued. The imaging did 
+not show any source of infection but did note a necrotic lymph 
+node however after discussion with the Radiologists and 
+Infectious Disease doctors it was ___ that this was likely not 
+infected. You continued to feel well and were discharged off of 
+antibiotics. You will continue to take your weekly fosfomycin 
+for prevent further urinary infections. It is possible your 
+fevers were caused by your immunotherapy.
+
+We hope to avoid further Emergency Room visits and 
+hospitalizations due to your fever. Please call your Oncologist 
+if you have further fevers. The hope is that you can be 
+evaluated for infection in clinic instead of going to the ER 
+initially. However if you have "red flag" symptoms you should go 
+to the ER urgently after alerting your Oncologist. These include 
+high-grade fever (temp > 102), persistent/multiple fevers, 
+shortness of breath/cough, severe abdominal pain, diarrhea, and 
+changes in urine output (cloudy, foul smelling, bloody).
+
+You muscle/joint pain was likely due to your immunotherapy. You 
+had x-rays of your shoulders that were negative. Please continue 
+to take your pain medications. If your muscle and joint pain 
+worsens please call your Oncologist as they may increase your 
+pain medication or start you on steroids.
+
+Please continue the rest of your home medications. Please 
+follow-up with your doctors as below.
+
+All the best,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-13 | hadm_id=25350408
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DVT
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old gentleman with a history of
+urothelial carcinoma metastatic to the right pelvic sidewall
+currently on treatment hold due to disease stability who 
+presents
+with incidental finding of left common femoral vein thrombus on
+staging images. 
+
+Mr. ___ recently followed up with Dr. ___, he had
+ongoing complaint of left buttock pain and had ___ with him 
+CD
+of MRI pelvis done in ___. Due to need for repeat imaging he
+had MRI pelvis done at ___ on ___ which showed stability of
+right pelvic wall mass but new compression of the left external
+iliac vein with non-occlusive proximal common femoral vein
+thrombus. Patient was referred to the ED by his oncologist. 
+
+ED initial vitals were  97.3 89 193/64 19 100% RA
+Prior to transfer vitals were 97.9 88 134/60 16 100% RA
+ 
+ED work-up significant for: none prior to bed assignment. 
+
+ED management significant for:
+-Medications: hydrocodone-APAP (___) po x1, MSIV 2mg x1, UFH
+bolus + infusion started
+
+On arrival to the floor, patient reports having moderate pain in
+left hip that is worsened by lifting his leg. He otherwise feels
+well and has no complaints.
+
+Patient denies fevers/chills, night sweats, headache, vision
+changes, dizziness/lightheadedness, weakness/numbnesss, 
+shortness
+of breath, cough, hemoptysis, chest pain, palpitations, 
+abdominal
+pain, nausea/vomiting, diarrhea, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes. 
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (Per OMR, reviewed): 
+
+Mr. ___ has a ___ year history of chronic self catheterization
+secondary to injury from agent orange exposure. About 2 or ___
+years ago, he began developing hematuria, including large clots
+that would block his catheter.
+He saw his urologist and reports a normal report.  
+- In ___ or ___, however, he developed very
+heavy hematuria while residing in ___. He underwent CT
+imaging which revealed a 6 cm mass in the bladder, with biopsy
+confirming bladder carcinoma. 
+- He returned to ___ at the end of ___ and was seen
+by urology with radical just make sure that cystoprostatectomy 
+on
+___
+notable for 6.5 x 3.5 x 3.0cm high grade urothelial ca, a
+separate focus of papillary transitional cell, and right lobe of
+prostate ___ 3+4 prostate cancer, with 2 positive lymph 
+nodes
+(right obturator lymph node, left obturator lymph node).  
+- ___ and was found to have a MDR E.Coli UTI and was treated
+with a 10 day course of IV antibiotics. During this admission, 
+CT
+A&P revealed an abnormal left pelvic sidewall soft tissue,
+potentially evidence of metastatic disease.  He also had biopsy
+of a paraesophageal node which was consistent with metastatic
+bladder cancer. 
+- ___ C1D1 Gemcitabine/Cisplatin
+- ___- cycle interrupeted on ___ due to UTI and sepsis
+- ___: admitted with sepsis a and UTI with EColi
+- ___: Day ___ of XRT to pelvic sidewall
+- ___: C1D1 Pembrolizumab ___ose
+- ___: admission with fever, UCx negative
+- ___: admission with fever, diffuse myalgia, UCx negative
+- CT scan on ___ showed increased rim enhancement along the
+left pelvic sidewall which could represent a necrotic metastatic
+lymph node. Patient remained afebrile off ABx, therefore, this
+was not investigated further.
+- ___: admission with UTI and back pain
+- His CT scan ___ showed less ring enhancement of L pelvic
+sidewall w stable size. 
+- CT scan ___ showed stable L pelvic sidewall mass without
+any new disease in the abd/pelvis/chest.
+
+PAST MEDICAL HISTORY (Per OMR, reviewed):  
+
+- Agent orange exposure 
+- Hypertension
+- Dyslipidemia
+- DM
+- Recurrent urosepsis
+- Hydronephrosis on left - had a nephrostomy tube back in 
+___
+
+ 
+Social History:
+___
+Family History:
+His parents died of cancer of unknown primary.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+
+VS: Stable. See eFlowsheets
+GENERAL: Well- appearing gentleman, in no distress lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, Mucous membranes moist, oropharynx
+clear.
+CARDIAC: Regular rate and rhythm, no murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Non-distended, normal bowel sounds, soft, non-tender, no
+guarding, no palpable masses, no organomegaly.
+EXT: Warm, well perfused. Left thigh edema. No erythema, 
+cyanosis
+or venous engorgement. Left hip joint: pain on active>passive
+flexion. 
+NEURO: Alert and oriented, good attention,  linear thought
+process. CN II-XII intact. Strength full throughout. Sensation 
+to
+light touch intact.
+SKIN: No significant rashes. 
+
+DISCHARGE PHYSICAL EXAM:
+
+___ 0720 Temp: 97.6 PO BP: 123/61 HR: 77 RR: 18 O2 sat: 99%
+O2 delivery: RA FSBG: 166 
+
+GENERAL: Well- appearing gentleman, in no distress lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, Mucous membranes moist, oropharynx
+clear.
+CARDIAC: Regular rate and rhythm, no murmurs, rubs or gallops.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: ___ 06:40AM BLOOD WBC: 13.7* RBC: 3.18*
+Hgb: 7.5* Hct: 25.5* MCV: 80* MCH: 23.6* MCHC: 29.4* RDW: 15.3
+RDWSD: 44.___ 
+___ 06:40AM BLOOD Glucose: 157* UreaN: 33* Creat: 1.5* Na:
+141 K: 4.7 Cl: 102 HCO3: 24 AnGap: 15 
+___ 06:40AM BLOOD Calcium: 9.2 Phos: 3.4 Mg: 1.9  normal
+bowel sounds, soft, non-tender, no
+guarding, no palpable masses, no organomegaly.
+EXT: Warm, well perfused. 1+ left thigh and calf edema. No
+erythema.
+NEURO: Alert and oriented, good attention,  linear thought
+process. CN III-XII intact. Strength full throughout. Sensation
+to light touch intact.
+SKIN: No significant rashes. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 08:45PM BLOOD WBC-15.3* RBC-3.36* Hgb-7.9* Hct-26.8* 
+MCV-80* MCH-23.5* MCHC-29.5* RDW-15.4 RDWSD-44.3 Plt ___
+___ 08:45PM BLOOD ___ PTT-30.9 ___
+___ 08:45PM BLOOD Glucose-220* UreaN-39* Creat-1.6* Na-140 
+K-5.0 Cl-100 HCO3-24 AnGap-16
+___ 07:50AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.0
+
+DISCHARGE LABS:
+===============
+
+___ 06:40AM BLOOD WBC-13.7* RBC-3.18* Hgb-7.5* Hct-25.5* 
+MCV-80* MCH-23.6* MCHC-29.4* RDW-15.3 RDWSD-44.7 Plt ___
+___ 06:40AM BLOOD Glucose-157* UreaN-33* Creat-1.5* Na-141 
+K-4.7 Cl-102 HCO3-24 AnGap-15
+___ 06:40AM BLOOD Calcium-9.2 Phos-3.4 Mg-1.9
+
+IMAGING: 
+========
+___ PELVIC MRI:
+1.  5.9 cm left and 3.4 cm right pelvic sidewall nodal masses 
+with abnormal  0.9 cm left internal iliac lymph node.  Overall, 
+similar disease extent when compared to ___ MR and 
+___ CT, with disease progression when compared to 
+___ CT. 
+2.  Compression of left external iliac vein with nonocclusive 
+thrombus within the proximal left common femoral vein. 
+3.  Persistent hyperemia and edema of the left obturator and 
+left piriformis musculature which may be post radiation in 
+nature or related to denervation injury from encasement of the 
+neurovascular bundles by the left pelvic sidewall nodal mass. 
+4.  Post radiation changes involving the left anterosuperior 
+acetabulum.   Close attention on follow-up is recommended. 
+
+ 
+Brief Hospital Course:
+PRINICPLE REASON FOR ADMISSION
+=============================
+Mr. ___ is a ___ year-old gentleman with a history of 
+urothelial carcinoma metastatic to the right pelvic sidewall 
+currently on treatment hold due to disease stability who 
+presents with incidental finding of left common femoral vein 
+thrombus on staging images. He was started on heparin before 
+transition to lovenox. Factor Xa level is pending at discharge. 
+
+#Left common femoral vein acute venous thrombosis: Diagnosed 
+incidentally on staging MRI. After diagnosis, patient did note 
+some mild left leg swelling. No current plans for IVC filter and 
+he had no signs or symptoms of PE. He was started initially on 
+IV heparin gtt before transition to enoxaparin 80mg SC q12 
+hours. We checked a Xa level 4 hours after his third dose; will 
+need to be followed up in clinic on ___. 
+
+#Metastatic urothelial carcinoma: Metastatic to right and left 
+pelvic wall with stable disease since ___ according to MRI. Had 
+urosepsis with first cycle of gem/cis and diffuse myalgias with 
+first cycle of pembrolizumab. Currently immunotherapy on hold 
+with watchful waiting, however given recent progression on MR, 
+plan may include initiating atezolizumab. He will follow up in 
+clinic on ___.
+
+#Chronic cancer related pain: Mostly L-sided buttock pain in
+likely correlation with pyriformis and obturator muscle atrophy
+vs. XRT changes. We added nortyptiline with fair effect and will 
+continued oxycontin 10mg qhs and oxycodone 10mg as needed. Would 
+recommend against further NSAIDS. He will follow up with his 
+oncology team tomorrow, and with chronic pain and nephrology 
+next week.
+
+#Opioid induced constipation: Secondary to opioid use. Standing 
+PEG 17g daily  Naloxegol 25mg daily (own meds). 
+Sennosides/docusate bid:prn
+
+#Chronic kidney disease, stage III: Stable. Likely ___ urinary 
+obstruction, multiple urinary infections, diabetic nephropathy. 
+He has follow up with nephrology next week.
+
+#Type II Diabetes Mellitus: Continued glargine 20u qhs. Added 
+lispro SS while in house, and held his SFU. SFU restarted on 
+discharge.
+
+#Hypertension
+#Hyperlipidemia
+#CV prevention: Continued amlodipine, atorvastatin, ASA81
+
+#Recurrent urinary tract infections: No active urinary symptoms
+currently. Continued fosfomycin 3g qWEEK
+
+#Billing: >30 minute spent coordinating and executing this 
+discharge plan
+
+TRANSITIONAL ISSUES:
+====================
+- Please follow up factor Xa level and adjust lovenox dose, if 
+needed
+- Started nortryptiline 10mg qhs - increase as tolerates
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+2. amLODIPine 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. Docusate Sodium 100 mg PO BID:PRN constipation 
+6. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+7. Polyethylene Glycol 17 g PO DAILY constipation 
+8. Senna 17.2 mg PO BID:PRN constipation 
+9. GlipiZIDE 7.5 mg PO BID 
+10. Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE) 
+11. Glargine 20 Units Bedtime
+12. naloxegol 25 mg oral DAILY oxycodone 
+13. Lidocaine 5% Patch 1 PTCH TD QPM 
+14. OxyCODONE SR (OxyconTIN) 10 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 80 mg SC Q12H 
+RX *enoxaparin 80 mg/0.8 mL 80 mg SC q12 hours Disp #*60 Syringe 
+Refills:*0 
+2.  Nortriptyline 10 mg PO QHS 
+RX *nortriptyline 10 mg 1 tab by mouth at bedtime Disp #*30 
+Capsule Refills:*0 
+3.  Glargine 20 Units Bedtime 
+4.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 40 mg PO QPM  
+8.  Docusate Sodium 100 mg PO BID:PRN constipation  
+9.  Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE)  
+10.  GlipiZIDE 7.5 mg PO BID  
+11.  Lidocaine 5% Patch 1 PTCH TD QPM  
+12.  naloxegol 25 mg oral DAILY oxycodone  
+13.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate  
+14.  OxyCODONE SR (OxyconTIN) 10 mg PO QHS  
+15.  Polyethylene Glycol 17 g PO DAILY constipation  
+16.  Senna 17.2 mg PO BID:PRN constipation  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+# Deep vein thrombosis
+# Metastatic urothelial cancer
+# Chronic cancer associated pain
+# Chronic kidney disease, stage IIIA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was as pleasure taking care of you at ___ 
+___. You were admitted with a new blood clot in your 
+leg. We started you on a blood thinning medication called 
+lovenox, which you will need to take twice daily. We also added 
+a new medication for your back pain, called nortryptiline. You 
+should follow up with Dr. ___ and with the palliative care 
+doctors for further ___ of your cancer and your pain. 
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-10 | hadm_id=26138770
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ HTN, DM, s/p radical cystoprostatectomy with ileal
+conduit for bladder carcinoma, now w/ pelvic and thoracic
+recurrence, on C2D5 Gemcitabine/CIsplatin. 
+
+Hx of recurrent urosepsis:
+___ - p/w severe, limiting fatigue, and ultimately rigors
+and fevers to 103. found to have a MDR E.Coli UTI and was 
+treated
+with a 10 day course of IV antibiotics
+___ - admitted with urosepsis  EColi/klebsiella in urine,
+ecoli in blood.  completed a 14-day course as scheduled, last
+dose on ___ of ertapenem with removal
+of PICC line at that time.
+___ - saw Dr. ___ ___ who recommended weekly fosfomycin
+suppressive therapy.
+He has very little antecedent symptoms before he becomes
+substantially ill.
+
+Has been feeling generally well and eating better. Yesterday
+(___) suddenly felt tired, fever of 102.7 and not feeling well.
+went to ED, wait was too long so he took tylenol and went home.
+profoundly fatigued. At home, he had episodes of chills and
+sweats and took continuous Tylenol throughout the night.  
+
+___ ___ clinic with Dr. ___. Attempt to direct admit, but no
+beds so sent to ED.
+
+In the ED:
+ initial vitals:  BP: 102/59.  low for this patient.
+Heart Rate: 80. O2 Saturation%: 99. Weight: 179. Height: 70.5.
+BMI: 25.3. Temperature: 97.8.
+
+- Exam notable for looking surprisingly well.
+
+ - Labs were notable for:  
+WBC 7.9, 80% PMN  (down from 9.2)
+Lactic acid 2.8
+Bun/Cr 40/1.8 (recent values ___ 46/1.6, ___
+ 
+ - Imaging:   
+ CXR: No acute cardiopulmonary abnormality. 
+
+ - Patient was given:  no antibiotics pending urine sample
+
+Decision to admit to ___ for UTI/urosepsis
+
+On arrival to the floor,  pt reports feeling generally well.
+tired and feels like a fever is coming on. quite hungry. Similar
+symptoms to prior episodes but per daughter looks much better
+than previously. 
+
+He reports no obvious change in urine recently. no foul smell.
+
+Denies any cough/sputum/sob, no rash, no headache/neck pain
+
+After initial exam, developed some RUQ abd pain after he ate a
+sandwich, steady ___, which resolved spontaneously after 10
+minutes. abd exam unremarkable.
+
+REVIEW OF SYSTEMS:
+10 point ROS reviewed in detail and negative except for what is
+mentioned above in HPI
+
+PAST ONCOLOGIC HISTORY (per OMR):
+Mr. ___ has a ___ year history of chronic self catheterization
+secondary to injury from agent orange exposure. About 2 or ___
+years ago, he began developing hematuria, including large clots
+that would block his catheter. He saw his urologist and reports 
+a
+normal report. In ___ or ___, however, he
+developed very heavy hematuria while residing in ___. He
+underwent CT imaging which revealed a 6 cm mass in the bladder,
+with biopsy confirming bladder carcinoma. He returned to ___
+at the end of ___ and was seen by urology with radical
+cystoprostatectomy on ___ notable for 6.5 x 3.5 x 3.0cm high
+grade urothelial ca, a separate focus of papillary transitional
+cell, and right lobe of prostate ___ 3+4 prostate cancer,
+with 2 positive lymph nodes (right obturator lymph node, left
+obturator lymph node). 
+
+During a ___ admission, CT A&P revealed an abnormal left pelvic
+sidewall soft tissue, potentially evidence of metastatic 
+disease.
+He also had biopsy of a paraesophageal node which was consistent
+with metastatic bladder cancer.
+
+ - ___ C1D1 Gemcitabine/Cisplatin  
+ - ___- cycle interrupeted on ___ due to UTI and sepsis  
+ - ___: completed 10 days of XRT to pelvic sidewall which
+has improved pain
+ 
+Past Medical History:
+bladder cancer as above
+agent orange exposure 
+hypertension
+dyslipidemia
+DM
+recurrent urosepsis
+hydronephrosis on left - had a nephrostomy tube back in ___
+ 
+Social History:
+___
+Family History:
+His parents died of cancer of unknown primary
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITAL SIGNS: afeb 158/63 48 16 100% RA
+General:  NAD, Resting in bed comfortably, looks well
+HEENT:  MM dry, no OP lesions, no cervical/supraclavicular
+adenopathy
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no palpable masses or HSM, urostomy
+revealed clear yellow urine 
+LIMBS: WWP, no ___, no tremors
+SKIN:  No rashes on the extremities
+NEURO:  Grossly normal
+
+DISCHARE EXAM:
+VITALS: Afebrile and vital signs stable  
+98.5
+PO 144 / 73
+R Sitting 43 16 100 RA 
+GENERAL: NAD, sitting comfortably in bed
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+CV: RRR, nl S1, S2, no M/R/G, no JVD
+RESP: CTAB, no crackles, wheezes, or rhonchi
+GI: + BS, soft, NT, ND, no rebound/guarding, no HSM; ileal
+conduit draining yellow urine; urostomy site clean without
+erythema/tenderness
+GU: No suprapubic fullness or tenderness to palpation
+SKIN: No rashes or ulcerations noted
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+sensation grossly intact throughout, gait testing deferred
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+UA (clean cath from ostomy): trace blood, neg nit, mod ___, 30 
+prot, 3 RBCs, 7 WBCs, few bacteria, 0 epis
+
+UCx (___): negative
+BCx (___): pending x2, no growth at the time of discharge on 
+___
+
+CXR (___):
+No PNA or pulmonary edema
+
+Renal US
+IMPRESSION: 
+1. Persistent mild fullness of the left renal collecting system, 
+unchanged 
+since ___. 
+2. Atrophic right kidney without hydronephrosis. 
+
+ADMISSIOn LABS
+
+___ 11:10AM BLOOD WBC-7.0 RBC-3.03* Hgb-8.0* Hct-26.1* 
+MCV-86 MCH-26.4 MCHC-30.7* RDW-16.8* RDWSD-53.1* Plt ___
+___ 05:00PM BLOOD WBC-7.9 RBC-3.25* Hgb-8.7* Hct-28.8* 
+MCV-89 MCH-26.8 MCHC-30.2* RDW-16.9* RDWSD-54.8* Plt ___
+___ 11:10AM BLOOD Neuts-83.8* Lymphs-6.1* Monos-6.7 Eos-2.1 
+Baso-0.6 Im ___ AbsNeut-5.86 AbsLymp-0.43* AbsMono-0.47 
+AbsEos-0.15 AbsBaso-0.04
+___ 05:00PM BLOOD Neuts-79.6* Lymphs-7.2* Monos-9.6 Eos-2.3 
+Baso-0.4 Im ___ AbsNeut-6.30* AbsLymp-0.57* AbsMono-0.76 
+AbsEos-0.18 AbsBaso-0.03
+___ 11:10AM BLOOD Plt ___
+___ 05:00PM BLOOD ___ PTT-28.1 ___
+___ 11:10AM BLOOD UreaN-40* Creat-1.8* Na-134 K-4.6 Cl-100 
+HCO3-20* AnGap-14
+___ 05:00PM BLOOD Glucose-284* UreaN-44* Creat-1.8* Na-133 
+K-6.6* Cl-98 HCO3-18* AnGap-17*
+___ 07:00AM BLOOD ALT-13 AST-7 AlkPhos-60 TotBili-0.2
+___ 07:00AM BLOOD Iron-26*
+
+DISCHARGE LABS
+
+___ 06:57AM BLOOD WBC-7.6 RBC-2.89* Hgb-7.6* Hct-25.0* 
+MCV-87 MCH-26.3 MCHC-30.4* RDW-17.2* RDWSD-54.4* Plt ___
+___ 07:00AM BLOOD Neuts-73.3* Lymphs-13.3* Monos-8.8 
+Eos-3.2 Baso-0.5 Im ___ AbsNeut-4.84 AbsLymp-0.88* 
+AbsMono-0.58 AbsEos-0.21 AbsBaso-0.03
+___ 06:57AM BLOOD Glucose-147* UreaN-35* Creat-1.5* Na-145 
+K-5.2* Cl-104 HCO3-24 AnGap-17
+___ 07:00AM BLOOD ALT-13 AST-7 AlkPhos-60 TotBili-0.2
+___ 07:00AM BLOOD Iron-26*
+___ 07:00AM BLOOD calTIBC-207* Ferritn-189 TRF-159*
+ 
+Brief Hospital Course:
+___ w/ HTN, DM on insulin, s/p radical cystoprostatectomy with 
+ileal conduit for bladder carcinoma, now w/ pelvic and thoracic 
+recurrence (C2D5 Gemcitabine/CIsplatin, recent XRT to L 
+pelvicsidewall), recurrent urosepsis (on fosfomycin suppression) 
+p/w fever, now resolved.
+
+# Fever: 
+Initially suspected Etiology was most likely urinary in context 
+of prior UTIs, absence of other localizing symptoms, although no 
+leukocytosis and appeared well. Has significant hx of MDR 
+organisms, last E.coli treated with meropenem/ertapenem. Of 
+note, he recently initiated weekly suppressive fosfomycin, last 
+dose on the day of admission. On admission he was started on 
+meropenem empirically prior microbiology. He remained afebrile 
+while hospitalized. Urine cultures were negative. Blood cultures 
+negative to date. No fever or WBC noted in the hospital. ID was 
+consulted for assistance with antibiotic management given 
+negative cultures recommended stopping meropenem on ___ and 
+monitored for another 36 hours without antibiotics. A follow up 
+renal Us showed unchanged left sided hydronephrosis. Per ID he 
+could be discharged without any further abx and needs to 
+continue suppressive dose of fosphomycin weekly. and He should 
+follow up with his outpatient infectious disease specialist, Dr. 
+___.
+
+# CKD stage III:
+B/l Cr ~1.5. Approximately at baseline on admission after 
+fluids. Discharge Cr stable.
+
+# Metastatic Bladder Cancer: He was continued on his home 
+oxycontin, oxycodone, and bowel regimen. He will f/u with his 
+outpatient oncologist Dr. ___.
+
+# HTN: Home losartan and amlodipine were held on admission in 
+setting of concern for infection. But restarted. K is 5.2 on day 
+of discharge, recommend checking BMP in a few days to monitor K.
+
+# DM: Home glipizide was held on admission. Lantus 20u daily was 
+continued with an insulin sliding scale. glipizide resumed on 
+discharge. 
+
+TRANSITIONAL ISSUES:
+[ ] repeat BMP in a few days on follow up K
+[ ] f/u with infectious disease regarding changes to suppressive 
+antibiotic regimen
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+2. Aspirin 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. Omeprazole 20 mg PO BID 
+5. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+6. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+7. OxyCODONE SR (OxyconTIN) 10 mg PO Q12H 
+8. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+9. Senna 17.2 mg PO BID:PRN constipation 
+10. amLODIPine 5 mg PO DAILY 
+11. Atorvastatin 40 mg PO QPM 
+12. Losartan Potassium 75 mg PO DAILY 
+13. GlipiZIDE 5 mg PO BID 
+14. Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE) 
+15. Glargine 20 Units Breakfast
+
+ 
+Discharge Medications:
+1.  Glargine 20 Units Breakfast 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Docusate Sodium 100 mg PO BID:PRN constipation  
+7.  Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE)  
+8.  GlipiZIDE 5 mg PO BID  
+9.  Losartan Potassium 75 mg PO DAILY  
+10.  Omeprazole 20 mg PO BID  
+11.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+12.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+13.  OxyCODONE SR (OxyconTIN) 10 mg PO Q12H  
+14.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+15.  Senna 17.2 mg PO BID:PRN constipation  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+fevers, however cultures and UTI have been ruled out
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear. Mr. ___,
+You were admitted due to concern for another UTI and initially 
+started on antibiotics. However your cultures were all negative 
+and we stopped any further antibiotics.
+Please follow up with doctors as already ___ and continue 
+taking weekly antibiotic to prevent future infections.
+Goodluck !
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-12 | hadm_id=26462411
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rigors
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization.
+ 
+History of Present Illness:
+___ year old man with history of bladder cancer s/p XRT, chemo, 
+and immunotherapy who is admitted from the ED with rigors and 
+concern for UTI.
+
+Patient has h/o MDR UTI and bacteremia and is currently on 
+weekly fosfomycin suppression. He developed increasing fatigue 
+over the last ___ days with increasing difficulty sleeping. He 
+presented to regularly scheduled ID appointment today. There, he 
+developed chills and rigors, with temperature of 99.0. He was 
+referred to the ED.
+
+In the ED, initial VS were pain 4, T 98.1, BP 152/71, RR 16, O2 
+100%RA. Initial labs were notable for Na 139, K 4.5, HCO3 23, Cr 
+1.4. WBC 13.3 (91%N), HCT 36.1, PLT 280, INR 1.1, lactate 1.0. 
+UA with 34 WBC, 8 RBC, few bacteria, nitrate negative. Patient 
+was given IV Zofran for nausea, 5mg po oxycodone, and 1g 
+Tylenol. VS prior to transfer were pain 4, T 98.7, HR 100, BP 
+130/66, RR 18, O2 100%RA.
+
+On arrival to the floor, patient reports fatigue as above. He 
+denies fevers at home, but did have chills last night. No recent 
+URTI. No CP, SOB or cough. He was nauseous in the ED, but this 
+has resolved. No diarrhea. No new rashes or joint pains. No URTI 
+symptoms, although has some bilateral conjunctivitis. His 
+cystosomy is putting out clear yellow urine, although it was 
+foul smelling a few weeks ago. He also notes chronic, mid lower 
+back pain without radiation up to ___, worse over the last few 
+days. He has chronic shoulder stiffness that is improving and 
+bilateral knee arthritis. Of note, he had CT torso done today in 
+clinic which did not show any significant new findings. He has 
+had prior MDR UTI with bacteremia treated with meropenem.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+Mr. ___ has a ___ year history of chronic self catheterization 
+secondary to injury from agent orange exposure. About 2 or ___ 
+years ago, he began developing hematuria, including large clots 
+that would block his catheter. He saw his urologist and reports 
+a normal report.  
+- In ___ or ___, however, he developed very 
+heavy hematuria while residing in ___. He underwent CT 
+imaging which revealed a 6 cm mass in the bladder, with biopsy 
+confirming bladder carcinoma. 
+- He returned to ___ at the end of ___ and was seen 
+by urology with radical cystoprostatectomy on ___ notable 
+for 6.5 x 3.5 x 3.0cm high grade urothelial ca, a separate focus 
+of papillary transitional cell, and right lobe of prostate 
+___ 3+4 prostate cancer, with 2 positive lymph nodes (right 
+obturator lymph node, left obturator lymph node).  
+- ___ and was found to have a MDR E.Coli UTI and was treated 
+with a 10 day course of IV antibiotics. During this admission, 
+CT A&P revealed an abnormal left pelvic sidewall soft tissue, 
+potentially evidence of metastatic disease.  He also had biopsy 
+of a paraesophageal node which was consistent with metastatic 
+bladder cancer. 
+- ___: C1D1 Gemcitabine/Cisplatin.
+- ___: Cycle interrupeted on ___ due to UTI and sepsis.
+- ___: Admitted with sepsis a and UTI with EColi.
+- ___: Day ___ of XRT to pelvic sidewall.
+- ___: C1D1 Pembrolizumab ___ose.
+- ___: Admission with fever, UCx negative.
+- ___: Admission with fever, diffuse myalgia, UCx negative.
+ 
+PAST MEDICAL HISTORY: 
+- Agent orange exposure 
+- Hypertension
+- Dyslipidemia
+- DM
+- Recurrent urosepsis
+- Hydronephrosis on left - had a nephrostomy tube back in 
+___
+ 
+Social History:
+___
+Family History:
+His parents died of cancer of unknown primary.
+ 
+Physical Exam:
+========================
+Admission Physical Exam:
+========================
+VS: Temp 98.6, HR 78, BP 132/70, RR 18, O2 sat 96% RA.
+GENERAL: Pleasant, lying in bed comfortably.
+EYES: Anicteric sclerea, PERLL, EOMI. 
+ENT: Oropharynx clear without lesion, JVD not elevated.
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or 
+gallops; 2+ radial pulses, 2+ DP pulses.
+RESPIRATORY: Appears in no respiratory distress, clear to 
+auscultation bilaterally, no crackles, wheezes, or rhonchi.
+GASTROINTESTINAL: Normal bowel sounds; nondistended; soft, 
+nontender without rebound or guarding; no hepatomegaly, no 
+splenomegaly. Cystostomy putting out clear yellow urine.
+MUSKULOSKELATAL: Warm, well perfused extremities without lower 
+extremity edema; Normal bulk.
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory 
+function grossly intact.
+SKIN: No significant rashes.
+
+========================
+Discharge Physical Exam:
+========================
+VS: Temp 97.9, BP 140/49, HR 67, RR 16, O2 sat 100% RA.
+Exam otherwise unchanged.
+ 
+Pertinent Results:
+===============
+Admission Labs:
+===============
+___ 06:00PM BLOOD WBC-13.3* RBC-4.28* Hgb-11.2* Hct-36.1* 
+MCV-84 MCH-26.2 MCHC-31.0* RDW-14.2 RDWSD-43.7 Plt ___
+___ 06:00PM BLOOD Neuts-91.3* Lymphs-2.8* Monos-4.2* 
+Eos-1.0 Baso-0.4 Im ___ AbsNeut-12.14*# AbsLymp-0.37* 
+AbsMono-0.56 AbsEos-0.13 AbsBaso-0.05
+___ 06:00PM BLOOD ___ PTT-29.1 ___
+___ 06:00PM BLOOD Glucose-144* UreaN-33* Creat-1.4* Na-139 
+K-4.5 Cl-101 HCO3-23 AnGap-15
+___ 06:00PM BLOOD ALT-15 AST-9 AlkPhos-90 TotBili-0.2
+___ 06:00PM BLOOD Albumin-4.2
+___ 06:00PM BLOOD Lactate-1.0
+
+===============
+Discharge Labs:
+===============
+___ 07:15AM BLOOD WBC-7.8 RBC-4.05* Hgb-10.5* Hct-35.0* 
+MCV-86 MCH-25.9* MCHC-30.0* RDW-14.2 RDWSD-45.5 Plt ___
+___ 07:15AM BLOOD Glucose-202* UreaN-46* Creat-1.6* Na-144 
+K-4.6 Cl-103 HCO3-28 AnGap-13
+___ 07:15AM BLOOD Calcium-9.3 Phos-3.2 Mg-2.2
+
+=============
+Microbiology:
+=============
+___ Blood Culture x 2 - Pending
+
+___ Urine Culture - E. Coli
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+========
+Imaging:
+========
+CT Chest w/ Contrast ___
+1. No evidence of active intrathoracic malignancy, including 
+several tiny lung nodules stable since ___ at and probably 
+___.
+2. Considerable atherosclerotic coronary calcification.
+3. Mild aortic valvular calcification, hemodynamic significance 
+uncertain.
+
+CT Abdomen/Pelvis w/ Contrast ___
+1. Similar appearance of left pelvic sidewall mass possible only 
+nodal in nature.
+2. New left para-aortic small volume lymphadenopathy.
+3. Postsurgical change of cystectomy and ileal conduit.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of bladder 
+cancer s/p XRT, chemo, and immunotherapy as well as recurrent 
+MDR UTIs on suppressive weekly fosfomycin who is admitted from 
+the ED with rigors found to have E. coli UTI.
+
+# E. Coli Urinary Tract Infection: Patient presented with newly 
+elevated WBC and rigors in clinic concerning for acute 
+infection. He was started on broad-spectrum antibiotics. His 
+leukocytosis resolved, he had no fevers, and he felt well. He 
+was found to have an E. coli urinary tract infection which was 
+sensitive to Bactrim. Discharged home to complete 7-day course 
+of Bactrim after discussion with Dr. ___ ID 
+attending). Fosfomycin sensitivities were sent and Dr. ___ 
+___ follow-up results with patient.
+
+# Cancer-Related Back and Shoulder Pain: Shoulder pain worsened 
+following pembrolizumab. Thought to be side effect from 
+immunotherapy. Underwent local steroid joint injection in 
+___ clinic on ___ with good improvement. Pain 
+controlled with oxycodone.
+
+# Hypertension:
+# Hyperlipidemia: Continued home amlodipine. Continue home ASA 
+and atorvastatin.
+
+# Type II Diabetes: Continued home lantus. Held home glipizide 
+and restarted at time of discharge.
+
+# Chronic Stage III Kidney Disease. He is at his recent baseline 
+Cr of 1.4-1.6. His potassium was slightly elevated and improved 
+with IV fluids. 
+
+# Metastatic Bladder Cancer: Has metastatic disease to pelvic 
+sidewall and obturator lymph nodes. Did have imaging response to 
+his pembrolizumab, but treatment has been held given his side 
+effects from treatment. CT scan on ___ with relatively stable 
+disease. He will follow-up with Dr. ___. He will likely 
+continue surveillance imaging, no plan for further immunotherapy 
+currently.
+
+# Anemia: Stable. Likely secondary to malignancy. No evidence of 
+active bleeding.
+
+# BILLING: 50 minutes were spent in preparation of discharge 
+summary and coordination of outpatient providers.
+
+====================
+Transitional Issues:
+====================
+- Patient found to have E. coli urinary tract infection 
+sensitive to Bactrim. Patient discharged to complete a 7-day 
+course of Bactrim (Day 1 ___, to be completed ___.
+- Please follow-up fosfomycin sensitivity testing from urine 
+culture on ___.
+- Please follow-up pending blood cultures from ___.
+- Please ensure follow-up with Oncology and Infectious Disease.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Docusate Sodium 100 mg PO BID:PRN constipation 
+5. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+6. OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+7. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+8. Senna 17.2 mg PO BID:PRN constipation 
+9. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+10. Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE) 
+11. GlipiZIDE 5 mg PO BID 
+12. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting 
+13. Glargine 20 Units Bedtime
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID 
+Plan for 7-day course (Day 1 ___, to be completed 
+___. 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg Take 1 tablet by 
+mouth twice daily. Disp #*11 Tablet Refills:*0 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Docusate Sodium 100 mg PO BID:PRN constipation  
+7.  GlipiZIDE 5 mg PO BID  
+8.  Glargine 20 Units Bedtime 
+9.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+10.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate  
+11.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+12.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting  
+13.  Senna 17.2 mg PO BID:PRN constipation  
+14. HELD- Fosfomycin Tromethamine 3 g PO 1X/WEEK (WE)  This 
+medication was held. Do not restart Fosfomycin Tromethamine 
+until your are finished with Bactrim and discuss with Dr. ___.
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary Diagnosis:
+- E. Coli Urinary Tract Infection
+- Cancer-Related Back and Shoulder Pain
+- Chronic Stage III Kidney Disease
+- Metastatic Bladder Cancer
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___. You were admitted to the hospital 
+because you were having rigors and felt unwell.
+
+You were found to have a urinary tract infection. Luckily, the 
+bacteria that was growing E. coli was sensitive to Bactrim which 
+is an oral antibiotic. Please take your first dose of Bactrim 
+tonight.
+
+Please hold your fosfomycin while you are on Bactrim. You can 
+restart the fosfomycin after you finish your course of Bactrim. 
+Please also expect a call from Dr. ___ using the 
+fosfomycin in the future.
+
+Please continue your prior home medications.
+
+All the best,
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12151073-DS-9 | hadm_id=29631042
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever/Chills
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization.
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ w/ HTN, NIDDM, s/p radical 
+cystoprostatectomy for bladder carcinoma, now w/ pelvic and 
+thoracic recurrence, on C2D5 Gemcitabine/Cisplatin. Due to his 
+MS, history obtain from his wife and daughter. They note that 
+the chemo has taken a toll on him w/ significant nausea, poor PO 
+intake. Today at 3 am he developed abruptly fevers to 102, 
+chills, rigors, and vomiting. Wife noted that his urine the past 
+few weeks has been malodorous intermittently and notes similar 
+presentation to recent admission in ___ when he was found to 
+have urosepsis. No diarrhea but has intermittent loose stools.
+
+In ED, tmax 101, hr 96, 142/73, 16, 99% RA. He received Zosyn, 
+Vanc, and IVF. K was 5.7 and received insulin/D5. On arrival to 
+OMED, pt noted feeling stronger. Family admits that the pt seems 
+to be slightly confused and this is new.
+ 
+Past Medical History:
+Mr. ___ has a ___ year history of chronic self catheterization 
+secondary to injury from agent orange exposure. About 2 or ___ 
+years ago, he began developing hematuria, including large clots 
+that would block his catheter. He saw his urologist and reports 
+a normal report. In ___ or ___, however, he 
+developed very heavy hematuria while residing in ___. He 
+underwent CT imaging which revealed a 6 cm mass in the bladder, 
+with biopsy confirming bladder carcinoma. He returned to ___ 
+at the end of ___ and was seen by urology with radical 
+cystoprostatectomy on ___ notable for 6.5 x 3.5 x 3.0cm high 
+grade urothelial ca, a separate focus of papillary transitional 
+cell, and right lobe of prostate ___ 3+4 prostate cancer, 
+with 2 positive lymph nodes (right obturator lymph node, left 
+obturator lymph node). He recovered from surgery over the next 
+couple weeks but then in ___ developed severe, limiting fatigue, 
+and ultimately rigors and fevers to 103. He presented to ___ 
+ED on ___ and was found to have a MDR E.Coli UTI and was 
+treated with a 10 day course of IV antibiotics. During this 
+admission, CT A&P revealed an abnormal left pelvic sidewall soft 
+tissue, potentially evidence of metastatic disease. He also had 
+biopsy of a paraesophageal node which was consistent with 
+metastatic bladder cancer.
+
+- ___: C1D1 Gemcitabine/Cisplatin
+- ___: C2D1 Gemcitabine/Cisplatin
+
+PAST MEDICAL HISTORY:
+- Metastatic Bladder Cancer
+- Agent Orange Exposure
+- Hypertension
+- Dyslipidemia
+- Type II Diabetes
+- Gout
+ 
+Social History:
+___
+Family History:
+No bladder cancer history that they know of; however, both 
+parents died of cancer ___ unknown primary. 
+ 
+Physical Exam:
+========================
+Admission Physical Exam:
+========================
+Vital Signs: Temp 98.6, BP 122/68, HR 100, RR 18, O2 sat 96% RA.
+General: NAD, Resting in bed comfortably.
+HEENT: MM dry, no OP lesions, no cervical/supraclavicular 
+adenopathy.
+CV: RR, NL S1S2 no S3S4 No MRG.
+PULM: CTAB, No C/W/R, No respiratory distress.
+ABD: BS+, soft, NTND, no palpable masses or HSM, urostomy 
+revealed clear yellow urine.
+LIMBS: WWP, no ___, no tremors.
+SKIN: No rashes on the extremities.
+NEURO: Grossly normal.
+
+============================
+Discharge Physical Exam: 
+============================
+98.0 PO 140 / 80 74 18 97 RA 
+General: NAD, Resting in bed comfortably.
+HEENT: MM dry, no OP lesions, no cervical/supraclavicular 
+adenopathy.
+CV: RR, NL S1S2 no S3S4 No MRG.
+PULM: CTAB, No C/W/R, No respiratory distress.
+ABD: BS+, soft, NTND, no palpable masses or HSM, urostomy  
+withclear yellow urine.
+LIMBS: WWP, no ___, no tremors.
+SKIN: No rashes on the extremities.
+NEURO: Grossly normal.
+
+ 
+Pertinent Results:
+===============
+Admission Labs:
+===============
+___ 02:16PM BLOOD WBC-1.8*# RBC-3.68* Hgb-9.5* Hct-30.1* 
+MCV-82 MCH-25.8* MCHC-31.6* RDW-14.8 RDWSD-40.4 Plt ___
+___ 02:16PM BLOOD Neuts-84* Bands-0 Lymphs-4* Monos-7 Eos-3 
+Baso-1 ___ Metas-1* Myelos-0 AbsNeut-1.51* AbsLymp-0.07* 
+AbsMono-0.13* AbsEos-0.05 AbsBaso-0.02
+___ 02:16PM BLOOD Glucose-199* UreaN-40* Creat-2.0* Na-140 
+K-5.7* Cl-100 HCO3-24 AnGap-16
+___ 02:16PM BLOOD ALT-21 AST-15 AlkPhos-76 TotBili-0.3
+___ 07:30AM BLOOD Albumin-3.1* Calcium-8.1* Phos-4.1 
+Mg-1.2* UricAcd-8.2*
+___ 02:20PM BLOOD Lactate-2.1*
+
+==============
+Interval Labs:
+==============
+___ 02:48AM BLOOD Lactate-1.1
+___ 02:30AM BLOOD Glucose-152* UreaN-44* Creat-2.8* Na-139 
+K-3.9 Cl-102 HCO3-20* AnGap-17*
+
+===============
+Discharge Labs:
+===============
+___ 06:43AM BLOOD WBC-9.0 RBC-2.92* Hgb-7.6* Hct-24.0* 
+MCV-82 MCH-26.0 MCHC-31.7* RDW-15.1 RDWSD-42.4 Plt ___
+___ 06:43AM BLOOD Glucose-169* UreaN-17 Creat-1.7* Na-144 
+K-4.1 Cl-104
+
+========
+Imaging:
+========
+CXR ___
+Impression: No acute intrathoracic process.
+
+Renal Ultrasound ___
+1. Mild pelvicaliectasis is noted in the left kidney, similar to 
+prior study in ___. No hydronephrosis in the right kidney.
+2. Multiple cortically based hypoechoic lesions are also noted 
+in the left kidney, the largest measuring 2.1 cm, likely simple 
+cysts but not well characterized due to artifact.
+3. Right kidney simple cysts.
+
+=============
+Microbiology:
+=============
+___ Blood Culture x 2 - MDR E. Coli (Sensitive to meropenem,
+gent, tobra, bactrim. Resistant to Amp, Cipro, CTX)
+___ Urine Culture - E. coli, Klebsiella Pneumoniae
+___ Blood Culture - E. coli
+___ Blood Culture - Pending
+___ Blood Culture - Pending
+___ Blood Culture - Pending
+___ Blood Culture - Pending
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with hypertension, 
+diabetes, and bladder cancer s/p radical cystoprostatectomy with 
+ureterostomy with pelvic and thoracic recurrence on palliative 
+gemcitabine/cisplatin who presents with fever/chills, vomiting, 
+and malodorous urine found to have E.coli sepsis secondary to 
+UTI.
+
+# E. Coli Sepsis secondary to Urinary Tract Infection: Meets 
+criteria for sepsis with fever, tachycardia, and lactic 
+acidosis. E. coli in blood and urine sensitive to meropenem and 
+ertapenem. He was continued on meropenem during his 
+hospitalization and discharged on ertapenem to complete a 14-day 
+course.
+
+# Acute on Chronic Stage III Kidney Disease: Non-oliguric. Cr 
+elevated to 2.0 on admission and uptrending to peak of 2.9. 
+Baseline Cr 1.3-1.5. He likely has
+multifactorial ATN in setting of sepsis, hypovolemia from poor 
+PO intake, and cisplatin injury in the setting of taking ACE-I. 
+Has prior history of left-sided hydroureteronephrosis noted on 
+abdominal CT from ___ which also showed atrophic right 
+kidney. Urine lytes showed FeNa 1.3%. He continued to make good 
+urine output and had no indications of hemodialysis. Renal 
+ultrasound showed stable left hydronephrosis and no ureter 
+strictures or stones for etiology of recurrent UTIs. He was 
+given continuous IVF due to poor PO intake. His renal function 
+was improving at time of discharge.
+
+# Acute Gout Flare:
+# Left Ankle Pain: Patient with left ankle pain consistent with 
+prior history of gout attacks in same ankle. He is not currently 
+on urate-lowering therapy. Low suspicion for septic joint at 
+this time. His pain was controlled with colchicine and opiates. 
+He would likely benefit from allopurinol in the future after 
+acute flare resolves.
+
+# Hyperkalemia: K elevated to 5.7 on admission. Etiology likely 
+renal failure and hypovolemia. No peaked TW on EKG. Improved 
+with insulin/D50 and fluids. Received kayexelate on ___.
+
+# Metastatic Bladder Cancer: Metastatic to pelvic soft tissue 
+and lymph nodes. Currently receiving palliative gemcitabine and 
+cisplatin. He will follow-up with his outpatient Oncologist.
+
+# Cancer-Related Pain: Currently well-controlled on oxycontin. 
+Continued oxycontin and oxycodone.
+
+# Anemia: Likely secondary to malignancy and recent 
+chemotherapy. No evidence of active bleeding. His H/H uptrended 
+and he did not require any transfusions.
+
+# Malnutrition: Patient with poor PO intake in setting of 
+metastatic malignancy and poor appetite with chemotherapy. He 
+was followed by Nutrition.
+
+# Hypertension: Held hold losartan during hospitalization. 
+Continued home amlodipine and aspirin.
+
+# Type II Diabetes: Held home glipizide and metformin during 
+hospitalization and restarted at time of discharge. Patient's 
+blood sugars were well-controlled on insulin while hospitalized.
+
+# Hyperlipidemia: Continued home atorvastatin.
+
+# GERD: Continued home omeprazole.
+
+====================
+Transitional Issues:
+====================
+TRANSITIONAL ISSUES:
+=====================
+#ANTIBIOTIC COURSE: Given last (+) blood culture on ___, will 
+need to complete 14-day course of ertapenem through and 
+including ___. 
+___: Patient with ___, now in post-ATN diuresis phase. 
+Discharge creatinine is 1.7 with a trend down. Please ensure 
+volume status remains stable as well as Na/K/Mg.
+#DIABETES: Glipizide re-started upon discharge. Metformin held 
+until Cr 1.5, please recheck creatinine and FSG and consider 
+restarting metformin as appropriate.
+#GOUT FLARE: Left ankle vastly improved with first doses of 
+colchicine so arthrocentesis deferred, unlikely to be 
+infectious. Discharged on 10 day course of 0.3mg/d colchicine. 
+Consider continuing, starting allopurinol after acute phase. 
+# Code Status: Full Code
+# Contact: ___ (wife/HCP) ___, 
+___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Losartan Potassium 75 mg PO DAILY 
+4. GlipiZIDE 5 mg PO BID 
+5. MetFORMIN (Glucophage) 1000 mg PO BID 
+6. OxyCODONE SR (OxyconTIN) 10 mg PO QAM 
+7. OxyCODONE SR (OxyconTIN) 20 mg PO QPM 
+8. OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+9. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting 
+10. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+11. Aspirin 81 mg PO DAILY 
+12. Docusate Sodium 100 mg PO BID:PRN constipation 
+13. Senna 8.6 mg PO BID:PRN constipation 
+14. Dexamethasone 4 mg PO DAILY For days 2 and 3 aftere 
+chemotherapy. 
+15. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+16. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+17. Omeprazole 20 mg PO BID
+ 
+Discharge Medications:
+1.  Colchicine 0.3 mg PO DAILY 
+RX *colchicine 0.6 mg 0.5 (One half) tablet(s) by mouth once a 
+day Disp #*5 Tablet Refills:*0 
+2.  ertapenem 1 gram injection DAILY 
+RX *ertapenem [Invanz] 1 gram 1 g IV daily Disp #*10 Vial 
+Refills:*0 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+4.  amLODIPine 5 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 40 mg PO QPM  
+7.  Dexamethasone 4 mg PO DAILY For days 2 and 3 aftere 
+chemotherapy.  
+8.  Docusate Sodium 100 mg PO BID:PRN constipation  
+9.  GlipiZIDE 5 mg PO BID  
+10.  Losartan Potassium 75 mg PO DAILY  
+11.  Omeprazole 20 mg PO BID  
+12.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+13.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate  
+14.  OxyCODONE SR (OxyconTIN) 10 mg PO QAM  
+15.  OxyCODONE SR (OxyconTIN) 20 mg PO QPM  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+17.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting  
+18.  Senna 8.6 mg PO BID:PRN constipation  
+19. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until your PCP 
+tells you you can restart it
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- E. Coli Sepsis secondary to Urinary Tract Infection
+- Acute on Chronic Stage III Kidney Disease
+- Acute Gout Flare
+- Hyperkalemia
+- Metastatic Bladder Cancer
+- Type II Diabetes
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___. You were admitted with fevers and 
+found to have an infection in your urine and blood. You will 
+continue IV antibiotics for this as an outpatient. You also had 
+a flare of the gout in your ankle/foot which you were started on 
+medication for. You kidney function was impaired on admission 
+due to the infection and dehydration but this improved over the 
+course of your hospitalization.
+
+Please follow-up with your appointments a below.
+
+All the best,
+Your ___ Team
+ 
+Followup Instructions:
+___

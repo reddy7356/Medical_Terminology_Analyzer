@@ -1,0 +1,479 @@
+===== DISCHARGE NOTE =====
+note_id=14521150-DS-8 | hadm_id=25038321
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath, lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+Direct current cardioversion
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with history of atrial  
+fibrillation/atrial flutter, non-ischemic cardiomyopathy (Ef 
+40%), aortic and mitral regurgitation and aortic aneurysm s/p 
+Bentall procedure and AVR on ___ who presented with shortness 
+of breath and lightheadedness. He was seen in the cardiology 
+clinic by Dr. ___ on ___ during that visit, his 
+amiodarone was discontinued and his metoprolol dose was 
+decreased from 50mg TID to 50mg daily of succinate. He reports 
+over the last 2 days he has had worsening shortness of breath 
+and he has become very lightheaded to the point of almost 
+fainting. No LOC. He denies any fevers, chills, nausea, 
+vomiting, diaphoresis, chest pain or cough.  
+In the ED: initial vitals were: 98.1 132 137/94 18 100% ra. EKG 
+showed atrial fibrillation. CXR did not show any acute 
+cardiopulmonary process. Bedisde TTE did not show any 
+pericardial effusion. He was evaluated by ___ who felt his was 
+stable from cardiosurgery standpoint. Cardiology saw patient in 
+the ED and recommended metoprolol, amiodarone and admission for 
+___.  
+On the floor patient reports feeling short of breath but 
+otherwise feel okay.  
+ 
+Past Medical History:
+Dilated aortic sinuses with severe aortic insufficiency  
+Bentall procedure with mechanical valve (___)  
+H/O. Intermittent atrial fibrillation  
+Non-ischemic cardiomyopathy with EF of 40%  
+Mitral Regurgitation  
+Aortic Anurysym  
+Parapsoriasis  
+ 
+Social History:
+___
+Family History:
+No history of congenital cardiomyopathies
+ 
+Physical Exam:
+ADMISSION EXAM:  
+Vitals: 98.3 125/91 126 97%RA  
+GENERAL: NAD, awake and alert  
+HEENT: MMM  
+NECK: supple, no LAD, JVD around 10cm  
+CARDIAC: RRR, nl S1 S2, no MRG  
+LUNG: Few crackles in the lower lung bases. No accessory muscle 
+use  
+ABDOMEN: +BS, soft, non-tender, non-distended, no rebound  
+EXT: warm and well-perfused, no edema 
+
+DISCHARGE EXAM:
+Vitals: 97.8 120s/70s-90s ___ 97%RA, wt 75 kg standing
+I/O ___  
+GENERAL: NAD, awake and alert  
+HEENT: MMM  
+NECK: supple, no LAD, JVD around 7cm  
+CARDIAC: RRR, nl S1 S2, no MRG  
+LUNG: CTAB.
+ABDOMEN: soft, non-tender, non-distended  
+EXT: warm and well-perfused, trace edema  
+ 
+Pertinent Results:
+LABS:
+============
+___ 02:50PM BLOOD WBC-6.9 RBC-3.95* Hgb-12.2* Hct-36.6* 
+MCV-93 MCH-30.8 MCHC-33.3 RDW-14.7 Plt ___
+___ 02:50PM BLOOD Neuts-67.4 ___ Monos-5.7 Eos-3.4 
+Baso-0.5
+___ 05:45AM BLOOD WBC-5.6 RBC-3.89* Hgb-11.7* Hct-36.3* 
+MCV-94 MCH-30.0 MCHC-32.1 RDW-14.2 Plt ___
+___ 04:25PM BLOOD ___ PTT-36.4 ___
+___ 02:50PM BLOOD Glucose-94 UreaN-23* Creat-1.5* Na-140 
+K-4.9 Cl-106 HCO3-21* AnGap-18
+___ 05:45AM BLOOD Glucose-82 UreaN-22* Creat-1.0 Na-139 
+K-3.9 Cl-107 HCO3-22 AnGap-14
+___ 02:50PM BLOOD ALT-50* AST-89* AlkPhos-79 TotBili-0.3
+___ 05:45AM BLOOD ALT-63* AST-70* LD(LDH)-295* AlkPhos-78 
+TotBili-0.4
+___ 02:50PM BLOOD Lipase-38
+___ 02:50PM BLOOD proBNP-2436*
+___ 02:50PM BLOOD Albumin-4.2 Calcium-9.2 Phos-4.8* Mg-2.1
+___ 05:45AM BLOOD Albumin-3.9 Calcium-8.6 Phos-3.8 Mg-2.0
+___ 02:50PM BLOOD TSH-3.1
+___ 02:55PM BLOOD Lactate-1.___ with history of atrial fibrillation/atrial flutter, 
+non-ischemic cardiomyopathy (Ef 40%), aortic and mitral 
+regurgitation and aortic aneurysm s/p Bentall procedure and AVR 
+on ___ who presented with shortness of breath and 
+lightheadedness and found to be in atrial flutter/afib with RVR. 
+ 
+
+# Atrial Flutter/Fibrillation with RVR: Likely in the setting of 
+coming off of amiodarone. Before cardioversion he was in 
+Aflutter with 2:1 and 3:1 block. He was cardioverted to NSR, and 
+his amiodarone was restarted at 400mg daily. This dose should be 
+continued for 1 month before going back to 200mg daily. If his 
+Aflutter recurs, consultation with EP regarding ablation should 
+be considered. Continued home metoprolol XL 50 and coumadin with 
+INR goal 2.5-3.   
+
+# Shortness of breath: His shortness of breath resolved after 
+cardioversion and 2L of diuresis after 20 iv lasix x 1. Was most 
+likely CHF exacerbation in the setting of atrial flutter/afib 
+with RVR.  
+
+# ___: Resolved. Baseline Cr of 1; 1.5 on admission, now back to 
+1.0 after diuresis. Was likely cardiorenal syndrome in the 
+setting of CHF. Held home losartan on admission and restarted at 
+discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN fever, pain 
+2. Aspirin EC 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. ALPRAZolam 0.5 mg PO QHS:PRN insomnia 
+5. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+6. Warfarin 3 mg PO TO BE DOSED DAILY 
+7. Furosemide 40 mg PO DAILY 
+8. Losartan Potassium 25 mg PO DAILY 
+9. Metoprolol Succinate XL 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN fever, pain 
+2. ALPRAZolam 0.5 mg PO QHS:PRN insomnia 
+3. Docusate Sodium 100 mg PO BID 
+4. Losartan Potassium 25 mg PO DAILY 
+5. Warfarin 3 mg PO TO BE DOSED DAILY 
+For goal INR 2.5 to 3.0. 
+6. Aspirin EC 81 mg PO DAILY 
+7. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+8. Furosemide 40 mg PO DAILY 
+9. Amiodarone 400 mg PO DAILY 
+RX *amiodarone 400 mg 1 tablet(s) by mouth daily w/ food Disp 
+#*30 Tablet Refills:*0
+10. Metoprolol Succinate XL 50 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Atrial Flutter w/ RVR. 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It has been a pleasure taking care of you in the hospital. You 
+were admitted for shortness of breath and were found to be in 
+atrial flutter. You were treated with cardioversion and your 
+amiodarone was restarted. You should follow up with your 
+cardiologist as below.
+
+Thank you for allowing us to participate in your care.
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14521150-DS-7 | hadm_id=29719331
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Asymptomatic
+
+ 
+Major Surgical or Invasive Procedure:
+Bentall procedure with mechanical valve (___)
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with history of atrial 
+fibrillation, cardiomyopathy, aortic and mitral regurgitation 
+and aortic aneurysm followed by Dr. ___ with serial 
+echocardiograms since ___. Echo in ___ showed moderate to 
+severe AI with dilated aortic sinus (5.1cm) and ascending aorta 
+(4.9cm) along with EF of 40%. Recent CT of chest showed the 
+aorta at the level of the sinuses of valsalva measured 5.6 x 
+5.0cm.  Patient is scheduled for bentall procedure along with 
+mechanical valve on ___. He was referred for pre-surgery 
+cath today which showed normal coronaries. Post cath patient 
+developed atrial flutter with rates in the 140s. He was managed 
+with IV beta-blockers and diltaizem.  He was been asymptomatic 
+without any shortness of breath, exertional fatigue, 
+lightheadedness, or palpitations. He was admitted to cardiac 
+surgery to undergo Bentall procedure. 
+
+ 
+Past Medical History:
+H/O. Intermittent atrial fibrillation
+Non-ischemic cardiomyopathy with EF of 40%
+Aortic Regurgitation
+Mitral Regurgitation
+Aortic Anurysym
+Parapsoriasis
+ 
+Social History:
+___
+Family History:
+No history of congenital cardiomyopathies
+ 
+Physical Exam:
+Physical Exam on Admission:
+BP: 161/76. Heart Rate: 77. Resp. Rate: 16. O2 Saturation%: 100.
+Height: 65"    Weight: 160lbs
+General: Well-developed male in no acute distress
+Skin: Warm [X] Dry [X] intact [X]
+HEENT: NCAT [X] PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X] Irregular [] Murmur [X] ___ diastolic 
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds 
++ [X]
+Extremities: Warm [X], well-perfused [X] Edema -
+Varicosities: None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit      Right: -   Left: -
+
+Physical Exam on Discharge:
+BP: 121/82  Heart Rate: 66 - 77 bpm, NSR RR: 18 O2 Sats%: 94 - 
+98% on RA
+Height: 65"    Weight: 164.7 lbs
+General: Well-developed male in no acute distress
+Skin: Warm [X] Dry [X] intact [X]
+HEENT: NCAT [X] PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X] Irregular [] Murmur []  
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds 
++[X]
+Extremities: Warm [X], well-perfused [X] Edema -
+Varicosities: None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit      Right: -   Left: -
+INCISIONS:
+Sternal Incision: C/D/I. No sternal clicks or pops
+
+ 
+Pertinent Results:
+___ 11:00AM BLOOD WBC-6.6 RBC-4.38* Hgb-13.6* Hct-43.0 
+MCV-98# MCH-31.0 MCHC-31.6 RDW-13.2 Plt ___
+___ 11:00AM BLOOD ___
+___ 05:45AM BLOOD Glucose-93 UreaN-20 Creat-0.9 Na-139 
+K-4.1 Cl-107 HCO3-25 AnGap-11
+___ 04:00PM BLOOD ALT-35 AST-31 AlkPhos-39* TotBili-0.5 
+DirBili-0.1 IndBili-0.4
+___ 04:00PM BLOOD TotProt-6.1* Albumin-4.2 Globuln-1.9*
+___ 04:00PM BLOOD %HbA1c-5.3 eAG-105
+___ 06:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 06:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+.
+No spontaneous echo contrast or thrombus is seen in the body of 
+the left atrium/left atrial appendage or the body of the right 
+atrium/right atrial appendage. No atrial septal defect is seen 
+by 2D or color Doppler. LV systolic function appears depressed. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic root is moderately dilated at the sinus level. There 
+are simple atheroma in the descending thoracic aorta. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion. No masses or vegetations are seen on the aortic 
+valve. Moderate to severe (3+) aortic regurgitation is seen. 
+There is mild bi-leaflet mitral valve prolapse. No mass or 
+vegetation is seen on the mitral valve. Mild (1+) mitral 
+regurgitation is seen. Tricuspid valve prolapse is present. Mild 
+to moderate (___) mitral regurgitation is seen. There is no 
+pericardial effusion. 
+
+IMPRESSION: No intracardiac thrombus. Moderate to severe aortic 
+regurgitation. Mitral valve prolapse with mild regurgitation. 
+.
+Cath:
+Findings
+ESTIMATED blood loss: 4 cc
+Hemodynamics (see above): 
+Coronary angiography:  right dominant
+LMCA:  normal
+LAD:  normal
+LCX:  normal
+RCA:  normal
+Assessment & Recommendations
+1.Normal coronary arteries
+ 
+Brief Hospital Course:
+Cardiology Hospital Course: ___ year old male with history of 
+intermittent atrial fibrillation, cardiomyopathy, aortic and 
+mitral regurgitation and aortic aneurysm presented initially for 
+elective pre-surgery cath which showed clean coronaries however 
+patient developed atrial flutter post cath.  Patient was started 
+on dilt drip and IV heparin and cardioverted to optimize him 
+prior to his bental procedure with mechanical AVR.  Patient 
+tolerated the cardioversion very well without any further 
+symptoms. 
+POSTOPERATIVE COURSE: On ___ ___ was taken to the OR and 
+underwent a Bentall procedure with (#31 ___ Mechanical) 
+valve with ___. Please see operative report for further 
+surgical details. He tolerated the procedure well and was 
+transferred to the CVICU in critical but stable condition. He 
+awoke neurologically intact and was weaned to extubate. He 
+weaned off pressors. Beta-blocker/ Statin/ASA ACEI and diuresis 
+were initiated. POD#1 he was started on anticoagulation with 
+Coumadin for mechanical AVR. Chest tubes and pacing wires were 
+discontinued per protocol without complications. He was 
+transferred to ___ 6 for further monitoring. He went into rapid 
+atrial fibrillation on Farr6. He was started on amiodarone and 
+beta-blocker was titrated to effect. At the time of discharge, 
+he was in NSR. He remained 5 kilos above his preoperative 
+weight. He was discharged with PO diuresis for 10 days. Physical 
+Therapy was consulted for evaluation of strength and mobility. 
+He was cleared to be dicharged home with ___. On POD#5, he was 
+cleared for discharge to home with ___. All follow up 
+appointments were made and information was provided to the 
+patient.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. ALPRAZolam 0.5 mg PO QHS:PRN insomnia 
+4. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN fever, pain 
+Do not exceed more than ___ mgs of tyelenol per day 
+2. Amiodarone 400 mg PO BID Duration: 7 Days 
+Start Date ___ - ___ 
+RX *amiodarone 400 mg 1 tablet(s) by mouth twice a day Disp #*14 
+Tablet Refills:*0
+3. Aspirin EC 81 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0
+5. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg 1 to 2 tablet(s) by mouth 
+every six (6) hours Disp #*28 Tablet Refills:*1
+6. Metoprolol Tartrate 50 mg PO TID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth three times a 
+day Disp #*30 Tablet Refills:*3
+7. Potassium Chloride 20 mEq PO DAILY 
+RX *potassium chloride [Klor-Con] 20 mEq 1 packet by mouth once 
+a day Disp #*10 Packet Refills:*0
+8. Warfarin 2 mg PO ONCE Duration: 1 Dose 
+Dose on ___ based on INR of 2.7 
+9. ALPRAZolam 0.5 mg PO QHS:PRN insomnia 
+10. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+11. Amiodarone 200 mg PO BID Duration: 7 Days 
+Start Date ___ to ___ 
+RX *amiodarone 200 mg 1 tablet(s) by mouth twice a day Disp #*14 
+Tablet Refills:*0
+12. Amiodarone 200 mg PO DAILY 
+Start date ___ until follow-up with Cardiologist 
+and Cardiac Surgeon 
+RX *amiodarone 200 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+13. Warfarin 1 mg PO TO BE DOSED DAILY 
+Coumadin to be dosed daily based on daily INR.Goal INR 2.5 to 3 
+RX *warfarin [Coumadin] 1 mg 1 tablet(s) by mouth once a day. To 
+be dosed by PCP daily based on INR Disp #*60 Tablet Refills:*1
+14. Furosemide 40 mg PO DAILY Duration: 10 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth once a day Disp #*10 
+Tablet Refills:*0
+15. Lisinopril 5 mg PO DAILY Hold if SBP < 90 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+1.Dilated aortic sinuses with severe aortic insufficiency.
+2.S/P Bentall procedure with mechanical valve on ___.
+
+Secondary:
+Cardiomyopathy
+Aortic regurgitation
+Mitral regurgitation
+Ascending aortic aneurysm
+Atrial fibrillation, one transient event
+Parapsoriasis
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesics (dilaudid and 
+tyelenol)
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Edema 1+ peripheral edema
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

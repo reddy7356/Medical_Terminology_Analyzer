@@ -1,0 +1,841 @@
+===== DISCHARGE NOTE =====
+note_id=18955379-DS-19 | hadm_id=22233976
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zosyn / Oxaliplatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+guiaic positive stool
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Patient is a ___ year old male c h/o metastatic colon cancer 
+Stage III T3N1 met colon cancer,D1,8,15 irinotecan, weekly 
+erbitux who reports that he's had dark bowel movements for the 
+past 2 days without associated lightheadedness, dizziness, 
+syncope, abdominal pain, EtOH use, NSAID use, recent travel.  He 
+has been ahving some intermittent vauge lower abdominal pain 
+___. His pain was able to partially resolve with tylenol. He 
+has some diarrhea, has not noted any blood on wiping or 
+streaking. Stool has been dark since starting iron. He also 
+denies fevers, chills, weight loss, change in appetite, change 
+in stool caliber.
+.
+Jaw tightness started a few weeks ago and has significantly 
+worsened within the past week. He has had decreased PO intake 
+because of this. He has not had any other neuro symptoms. No 
+other tetnay symptoms and no perioral tingling. 
+.
+His last treatment of ___ was on ___.
+ 
+Past Medical History:
+POncH  
+# Colon cancer (T3N1, stage IIIB, dx ___ c/b liver, 
+pancreas, lung mets  
+- s/p L colectomy  
+- s/p adjuvant Folfox/bevacizumab x8 cycles  
+- s/p segmental liver resection (___)  
+- s/p pancreatic cyberknife tx (___)  
+- chronic splenic vein occlusion  
+- irinotecan  
+- d/c chemotherapy ___ s/p oxaliplatin reaction  
+- Current therapy: Irinotecan ___ - current) Q2WKS c/b 
+diarrhea  
+.  
+PMH  
+# Hypertension  
+# Depression  
+# pAfib (___) 
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Vitals - 110/74, 65, 16, 98% RA  
+GENERAL: NAD
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition, nontender supple neck, no 
+LAD, no JVD
+jaw- asymmetic tonic contraction worse on L, able to volunaraily 
+relax
+CARDIAC: RRR, S1/S2, no mrg
+LUNG: CTAB
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly
+M/S: moving all extremities well, no cyanosis, clubbing or 
+edema, no obvious deformities
+PULSES: 2+ DP pulses bilaterally
+NEURO: CN II-XII intact
+ 
+Pertinent Results:
+___ 11:00AM   WBC-4.4 RBC-3.51* HGB-11.4* HCT-34.5* MCV-98 
+MCH-32.6* MCHC-33.1 RDW-16.9*
+___ 12:00AM BLOOD Hct-32.0*
+
+CT abdomen/pelvis:
+1. Marked interval disease progression of hepatic metastasis. 
+  
+2. Relatively stable with mild size increase in the appearance 
+of large mass 
+in the pancreatic bed involving the stomach and small bowel. 
+  
+3. Stable left lower lobe pulmonary nodule. 
+
+ 
+Brief Hospital Course:
+# Guaiac positive stools: patient with dark guaiac positive 
+stools, likely due to slow ongoing bleeding in background of 
+progressive metstatic disease vs false positive in setting of 
+iron usage.  Currently patient is hemodynamically stable and Hct 
+is at baseline, 35. Hct stable throughout admission.
+.
+# Oromandibular dystonia  - Electrolytes normal, patient 
+evaluted for this by Dr. ___ in the past, no hx of neuroleptic 
+medications. Seen by neuro on this admission felt to be possibly 
+psychogenic. This is the cause of decreased PO intake. Patient 
+may benefit from botox injections vs speech therapy or movement 
+disorder specialist. To be followed up as outpatient.
+.
+Metastatic Colon Cancer: likely culprit of intractible abdominal 
+pain. Continue treatment as per inpatient Oncology team. Pain 
+controlled with PO medication.
+.
+Afib: continue metoprolol
+.
+Psych: continue Clonazepam
+.
+CODE: presumed FULL
+
+ 
+Medications on Admission:
+AMYLASE-LIPASE-PROTEASE [CREON 20] - 497 mg (66,400 unit-20,000
+unit-75,000 unit)  ___ Capsule(s)
+by mouth with each meal
+CLONAZEPAM - 1 mg Tablet - 1 Tablet(s) by mouth once a day
+DIPHENOXYLATE-ATROPINE [LOMOTIL] - 2.5 mg-0.025 mg Tablet - ___
+qid prn diarrhea
+METOPROLOL TARTRATE - 25 mg Tablet qd
+ONDANSETRON [ZOFRAN ODT] - 4 mg tid prn
+OPIUM TINCTURE - 10 mg/mL Tincture - 0.6mL Tincture(s) qid prn
+PANTOPRAZOLE [PROTONIX] - 40 mg qd
+POTASSIUM CHLORIDE - 20 mEq Tab Sust.Rel. Particle/Crystal bid
+LOPERAMIDE [IMODIUM A-D] -  (OTC) - 2 mg qid prn diarrhea
+MULTIVITAMIN
+ 
+Discharge Medications:
+1. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+4. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+9. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+10. Percocet ___ mg Tablet Sig: ___ Tablets PO every ___ hours 
+as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+11. Heparin Flush (10 units/ml) 5 mL IV PRN line flush 
+Indwelling Port (e.g. Portacath), heparin dependent: Flush with 
+10 mL Normal Saline followed by Heparin as above daily and PRN 
+per lumen. 
+12. Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port 
+Indwelling Port (e.g. Portacath), heparin dependent: When 
+de-accessing port, instill Heparin as above per lumen. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+pain syndrome secondary to progressive metatstic colon cancer
+
+ 
+Discharge Condition:
+stable, Hct stable
+
+ 
+Discharge Instructions:
+You were admitted for guiaic positive stools and intractible 
+abdominal pain. Pain was controlled with PO medication at the 
+time of discharge. Hct was stable over the admission. Ct scan 
+shows progression of disease.
+.
+You are being pain medication to take at home. Please take 
+medications as prescribed. Please go to all previously scheduled 
+follow up appointments.
+. 
+Please return to the ED if you have worsening abdominal pain or 
+lightheadness when standing.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18955379-DS-20 | hadm_id=22648805
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zosyn / Oxaliplatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with h/o refractory metastatic colon ca, afib, htn arrived 
+in ___ clinic today for ___ plus bevacizumab with 
+progressive abd pain treated with (controlled with 4 
+percocets/day). He also notes dec appetite and diarrhea for 
+months with h/o guiauc pos stools (last admission in early ___ 
+thought to be from the colon ca. Avastin was held given abd 
+pain, although no clinical suspicion for perforation. The pain 
+began 2 wks ago, has been progressive, and is focused in the 
+lower abdomen. Given his persistent pain, the pt was sent to the 
+ED where he was found to be hypotensive with SBP in ___, given 
+IVF to BP 95/60, HR 60 with low grade temps, given 
+vanc/levo/flagyl x1 in ED. A CT torso revealed progressive 
+disease but no acute process. He notes a ___ lb wt loss over the 
+last 2 months, and decreased appetite and general PO intake. No 
+n/v, CP, SOB, chills, nightsweats, HA, blurry vision or any 
+other sx. The patient is admitted for further evaluation and 
+control of his abdominal pain.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+======================
+ONCOLOGIC HISTORY:  ___ was initially diagnosed with T3N1
+stage IIIB colon cancer in ___ at which time he underwent
+left colectomy and eight cycles of FOLFOX/Avastin.  In ___ 
+he
+underwent liver metastasectomy.  His disease was stable for a
+period of time; however, he developed pancreatic metastases and
+underwent CyberKnife therapy in ___.  He was restarted on
+treatment with FOLFOX/Avastin in ___ when a PET scan showed
+diffuse FDG avid disease in the left supraclavicular region,
+retroperitoneum, as well as within the liver and left lower lobe
+of the lung.  His CEA dropped significantly on this, but with
+cycle #5 he developed a reaction to oxaliplatin and chemotherapy
+was discontinued as of ___.  In ___ he was started on
+irinotecan.  This was dose reduced for leukopenia and
+thrombocytopenia with cycle #6 in ___.  With cycle #10 on
+___, he was switched to irinotecan 125 mg/m2 every two
+weeks.  He was admitted to ___ ___ with an
+upper GI bleed in the setting of a new stomach mass noted on 
+EGD.
+Pathology from this showed colon cancer, and he was treated with
+radiation.  He began irinotecan/Cetuximab ___.  This was
+changed to single agent cetuximab when he developed progressive
+severe diarrhea.  His primary tumor showed a KRAS mutation,
+however, so cetuximab was discontinued as of ___.  He 
+began
+treatment with capecitabine on ___.  Due to further 
+disease
+progression in ___, he resumed therapy was ___. 
+Bevacizumab was added to ___ on ___.
+.
+PAST MEDICAL HISTORY:
+====================
+# Hypertension  
+# Depression  
+# pAfib (___)
+# oromandibular dystonia
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+PHYSICAL EXAM:
+=============
+Vitals - T:100.0  BP:93/58  HR:67  RR:16  02 sat:96RA  
+GEN:  alert and oriented x3, comfortable, no acute distress, 
+cachectic
+HEENT:  PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, moist mucus membranes, teeth clenching
+CARDIOVASCULAR:  regular rate and rhythm without murmurs, rubs,
+or gallops
+LUNGS:  clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles
+ABDOMEN: NABS, soft, tender to palpation in the lower abdomen,
+no rebounding, no guarding.  No masses, no hepatosplenomegaly.
+EXTREMITIES:  no clubbing, cyanosis, or edema
+SKIN:  no rashes, petechia, lesions, or echymoses
+NEURO: CN II-XII intact
+ 
+Pertinent Results:
+___ 03:11AM BLOOD WBC-5.4 RBC-2.91* Hgb-9.2* Hct-27.1* 
+MCV-93 MCH-31.7 MCHC-34.0 RDW-16.5* Plt ___
+___ 11:54AM BLOOD WBC-5.6 RBC-2.92* Hgb-9.1* Hct-27.1* 
+MCV-93 MCH-31.3 MCHC-33.7 RDW-16.8* Plt ___
+___ 11:54AM BLOOD Neuts-91.9* Lymphs-5.7* Monos-2.0 Eos-0.3 
+Baso-0.1
+___ 03:11AM BLOOD Glucose-101 UreaN-9 Creat-0.5 Na-134 
+K-3.8 Cl-99 HCO3-27 AnGap-12
+___ 11:54AM BLOOD Glucose-100 UreaN-13 Creat-0.5 Na-132* 
+K-3.7 Cl-98 HCO3-26 AnGap-12
+___ 03:11AM BLOOD ALT-30 AST-89* AlkPhos-235* TotBili-1.2
+___ 11:54AM BLOOD ALT-34 AST-110* AlkPhos-264* TotBili-0.9
+___ 11:54AM BLOOD Lipase-14
+___ 03:11AM BLOOD Calcium-7.5* Phos-2.3* Mg-1.6
+___ 11:12AM BLOOD Lactate-2.2*
+
+___ Blood cultures x2 pending, no growth to date
+
+EXAMINATION: CT of the abdomen with intravenous contrast. 
+  
+COMPARISONS: Comparison to recent CT from ___ and CT of the 
+torso from 
+___. 
+  
+TECHNIQUE: Helically acquired axial images were obtained from 
+the lung bases 
+to the pubic symphysis after the administration of oral and 130 
+cc of Optiray 
+intravenous contrast. Coronal and sagittal reformations were 
+obtained. Three- 
+minute delays were obtained through the abdomen. 
+  
+FINDINGS: 
+  
+CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST: There is a small- 
+to moderate- 
+sized right pleural effusion with associated adjacent 
+atelectatic changes. 
+There is an irregular in appearance 17 x 13 mm pulmonary nodule 
+located in the 
+left lung base, not significantly changed since recent 
+examination from 
+___, best seen on 2:7. No other pulmonary parenchymal 
+opacities or 
+pulmonary nodules. 
+  
+There are innumerable hypodense lesions scattered throughout the 
+entire liver 
+with expansion of the surrounding parenchyma, with both 
+increased in number 
+and size of pre-existing lesions since recent CT examination 
+from ___, 
+compatible with interval progression of known metastatic 
+disease. In 
+addition, there is a dominant mass seen centered within the 
+lesser sac, best 
+appreciated on 2:33, with some interval progression in size, now 
+measuring 70 
+x 51 mm, where on prior examination, it measured 60 x 53 mm. 
+There is 
+subjacent compression of the small bowel in immediate proximity 
+to this mass 
+with some gaseous distention of the third and fourth portions of 
+the duodenum; 
+however, contrast is seen distal to this point with contrast 
+flowing freely 
+through to the mid-to-distal ileum without evidence of small 
+bowel 
+obstruction. In addition, there is invasion of this mass to the 
+adjacent 
+proximal jejunal loop and encasement of both the celiac and SMA 
+vessels by 
+this mass. The SMV and splenic vein are obliterated, and the 
+portal vein is 
+distally reconstituted via collaterals. There is metastatic 
+retroperitoneal 
+lymphadenopathy. There is a moderate amount of intra-abdominal 
+fluid that has 
+increased in extent with some areas of higher attenuation seen 
+distally, 
+particularly about the right paracolic gutter that is suggestive 
+of complex 
+components. The pancreas is partially encased by the large known 
+metastatic 
+focus. 
+  
+The patient is status post left hemicolectomy. There is no 
+abnormal stranding 
+surrounding the remainder of the colon that would suggest 
+colitis. 
+  
+The kidneys enhance symmetrically with excretion of contrast 
+through the 
+ureters. 
+  
+CT OF THE PELVIS WITH INTRAVENOUS CONTRAST: The rectum, sigmoid 
+colon, and 
+bladder are unremarkable. The prostate is stably enlarged. Again 
+
+demonstrated is a small right fat-containing inguinal hernia. 
+There is free 
+fluid within the pelvis. No significant inguinal or pelvic 
+lymphadenopathy. 
+  
+BONE WINDOWS: No suspicious lytic or sclerotic lesions 
+identified. 
+Degenerative change most prominent at the level of L5-S1. 
+
+IMPRESSION: 
+1. Interval progression of metastatic disease seen with hepatic 
+metastases 
+increased in both size and number, and a dominant mass centered 
+in the lesser 
+sac. 
+2. No gross evidence of colitis or obstruction. 
+The study and the report were reviewed by the staff radiologist. 
+
+___. ___ 
+___. ___ 
+___ ___ 12:05 ___ 
+
+ 
+Brief Hospital Course:
+___ with refractory metastatic colon ca, HTN, Afib, treated on 
+___ (avastin held) arrives with persistent abd pain 
+for 2wks with an episode of hypotension/fever and CT with no e/o 
+acute process. 
+.
+# Abd pain: The persistent nature and CT make it likely 
+progression of metastatic disease as there has been interval 
+increase in size and number of liver mets as well as the mass 
+centered in the lesser sac. Moreover, there is compression of 
+the duodenum but no evidence of obstruction, perforation, 
+colitis or inflammation. On presentation the pt's transient 
+hypotension, low-grade temps, and chronic guiauc pos diarrhea 
+was also concerning for primary or superimposed infection/sepsis 
+as well. Blood cultures, C Diff, stool cx, and O+P are still 
+pending, however, they are no growth to date. The patient 
+improved over 24 hours with bowel rest, and pain control with 
+the patient's home percocet along with PO dilaudid for 
+breakthrough pain.  
+.
+# Afib: Patient was stable without SVT or palpitations 
+throughout the admission. His home metoprolol was continued. 
+.
+# Anxiety: Patient's home clonazapem was continued. 
+.
+# FEN/GI: Patient's home KCl 20meq was continued. There were no 
+in hospital electrolyte disturbances.
+.
+#CODE: FULL
+.
+ 
+Medications on Admission:
+HOME MEDICATIONS:  
+================  
+Medications - Prescription  
+AMYLASE-LIPASE-PROTEASE [CREON 20] - 497 mg (66,400 unit-20,000  
+
+unit-75,000 unit) Capsule, Delayed Release(E.C.) - ___ 
+Capsule(s)  
+by mouth with each meal  
+CLONAZEPAM - 1 mg Tablet - 1 Tablet(s) by mouth twice a day  
+DIPHENOXYLATE-ATROPINE [LOMOTIL] - 2.5 mg-0.025 mg Tablet - ___  
+
+Tablet(s) by mouth four times a day as needed for diarrhea  
+METOPROLOL TARTRATE - 25 mg Tablet - 1 Tablet(s) by mouth once a 
+ 
+day  
+ONDANSETRON [ZOFRAN ODT] - 4 mg Tablet, Rapid Dissolve - 1  
+Tablet(s) by mouth three times a day as needed for nausea  
+OPIUM TINCTURE - 10 mg/mL Tincture - 0.6mL Tincture(s) by mouth  
+
+four times a day as needed for diarrhea  
+OXYCODONE-ACETAMINOPHEN - 5 mg-325 mg Tablet - ___ Tablet(s) by  
+
+mouth Q 6 hour as needed for pain (do not exceed 10 pills/day)  
+PANTOPRAZOLE [PROTONIX] - 40 mg Tablet, Delayed Release (E.C.) - 
+ 
+1 Tablet(s) by mouth daily  
+POTASSIUM CHLORIDE - (Dose adjustment - no new Rx) - 20 mEq Tab  
+
+Sust.Rel. Particle/Crystal - 1 Tab(s) by mouth daily  
+
+Medications - OTC  
+LOPERAMIDE [IMODIUM A-D] - (OTC) - 2 mg Tablet - 2 Tablet(s) by  
+
+mouth four times a day as needed for diarrhea  
+MULTIVITAMIN - (OTC) - Tablet - 1 Tablet(s) by mouth daily  
+
+ 
+Discharge Medications:
+1. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A 
+DAY WITH MEALS).  
+2. Clonazepam 0.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day).  
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q6H (every 6 hours) as needed for pain.  
+8. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for fever.  
+9. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1) 
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Abdominal pain secondary to metastatic colon 
+cancer.
+
+Secondary Diagnoses:
+ONCOLOGIC HISTORY: ___ was initially diagnosed with T3N1  
+stage IIIB colon cancer in ___ at which time he underwent  
+left colectomy and eight cycles of FOLFOX/Avastin. In ___ he 
+ 
+underwent liver metastasectomy. His disease was stable for a  
+period of time; however, he developed pancreatic metastases and  
+
+underwent CyberKnife therapy in ___. He was restarted on  
+treatment with FOLFOX/Avastin in ___ when a PET scan showed  
+
+diffuse FDG avid disease in the left supraclavicular region,  
+retroperitoneum, as well as within the liver and left lower lobe 
+ 
+of the lung. His CEA dropped significantly on this, but with  
+cycle #5 he developed a reaction to oxaliplatin and chemotherapy 
+ 
+was discontinued as of ___. In ___ he was started on  
+irinotecan. This was dose reduced for leukopenia and  
+thrombocytopenia with cycle #6 in ___. With cycle #10 on  
+___, he was switched to irinotecan 125 mg/m2 every two  
+weeks. He was admitted to ___ ___ with an  
+upper GI bleed in the setting of a new stomach mass noted on 
+EGD.  
+Pathology from this showed colon cancer, and he was treated with 
+ 
+radiation. He began irinotecan/Cetuximab ___. This was  
+changed to single agent cetuximab when he developed progressive  
+
+severe diarrhea. His primary tumor showed a KRAS mutation,  
+however, so cetuximab was discontinued as of ___. He began 
+ 
+treatment with capecitabine on ___. Due to further disease 
+ 
+progression in ___, he resumed therapy was ___.  
+
+Bevacizumab was added to ___ on ___.  
+.  
+PAST MEDICAL HISTORY:  
+====================  
+# Hypertension  
+# Depression  
+# paroxysmal Atrial fibrilation (___)  
+# oromandibular dystonia  
+
+ 
+Discharge Condition:
+Afebrile, stable vital signs, tolerating POs, ambulatory, pain 
+control improved
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain caused by your metastatic 
+colon cancer. 
+
+We treated you with pain medications, IV fluids, and bowel rest. 
+
+
+Changes to your medications include addition of a pain 
+medication called oxycontin.
+.
+1. Please take all medications as prescribed.
+2. Please make all medical appointments as scheduled.
+3. Please return to the ER if you have any concerning symptoms.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18955379-DS-18 | hadm_id=25917029
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zosyn / Oxaliplatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bloody diarrhea, coffee-ground emesis
+ 
+Major Surgical or Invasive Procedure:
+Esophagogastroduodenoscopy
+ 
+History of Present Illness:
+___ h/o metastatic colon cancer s/p ___ irinotecan, 
+presented with watery black stools x24H, nausea, and 
+non-bloody/non-coffee-ground emesis x1 one day prior to admit. 
+During this time, pt noted that chronic baseline diarrhea [on 
+Lomotil (diphenoxylate, atropine), loperamide, tincture of 
+opium] increased significantly, with black stools and no frank 
+blood.  
+.  
+ED course:  
+# Vitals: SBP 80 --> SBP 100 with 1L IVF bolus; HR ___  
+# Labs: Hct 36.1 (baseline)  
+# Clinical course:  
+--Black guaiac positive stool in vault  
+--NG lavage with 900cc: Clot, fresh blood  
+--SVT to 200 bpm --> Adenosine x2, diltiazem --> NSR  
+# Meds: Pantoprazole 40mg IV, erythromycin 125mg IV for motility 
+ 
+.  
+MICU course: Admitted for urgent EGD. Hct stable while in MICU.
+.  
+Initial ROS:  
+(+) Gassy discomfort, chills, lip blisters since last chemo  
+(-) Abdominal pain, LH/dizziness, F, CP/SOB, HA/sensory changes, 
+URI sx, myalgias/arthralgias  
+ 
+Past Medical History:
+POncH  
+# Colon cancer (T3N1, stage IIIB, dx ___ c/b liver, 
+pancreas, lung mets  
+- s/p L colectomy  
+- s/p adjuvant Folfox/bevacizumab x8 cycles  
+- s/p segmental liver resection (___)  
+- s/p pancreatic cyberknife tx (___)  
+- chronic splenic vein occlusion  
+- irinotecan  
+- d/c chemotherapy ___ s/p oxaliplatin reaction  
+- Current therapy: Irinotecan ___ - current) Q2WKS c/b 
+diarrhea  
+.  
+PMH  
+# Hypertension  
+# Depression  
+# pAfib (___) 
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+# VS: T 98.4, BP 89/76, HR 80, RR 21, O2sat 100% RA  
+GEN: NAD  
+HEENT: Crusted lesions on upper lip, OP clear, MMM, no LAD, neck 
+supple, no JVD  
+CV: RRR, S1S2 (S2 loud), no m/r/g  
+RESP: CTAB  
+ABD: Soft, NTND, BS+  
+EXT: No c/c/e, WWP 
+ 
+Pertinent Results:
+___ 09:45AM   WBC-4.5 RBC-4.05* HGB-12.1* HCT-36.1* MCV-89 
+MCH-29.7 MCHC-33.4 RDW-14.6
+___ 09:45AM   NEUTS-81.3* BANDS-0 LYMPHS-14.5* MONOS-1.3* 
+EOS-2.5 BASOS-0.4
+___ 09:45AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 10:11AM   ___ PTT-25.2 ___
+.
+Studies:
+.
+# CT TORSO W/CONTRAST  ___ 3:53 ___
+1. Compared to prior exam from ___, there is slight 
+increase in the size of poorly defined pancreatic mass.
+2. Marginal increase in size of Left 
+supraclavicular/retroperitoneal lymphadenopathy, hepatic 
+lesions, and left lower lobe metastatic lesion.
+3. Chronic occlusion of the splenic vein/artery and SMV, with 
+extensive network of varices as described above. 
+.
+# EGD ___: No esophageal varices. Varices at the stomach. A 
+large ulcerated mass lesion was seen in the region of the 
+angularis (distal ___ antrum). No visible vessel, oozing 
+or active bleeding was seen. Blood in the stomach. Otherwise 
+normal EGD to second part of the duodenum. 
+.
+# Gastric mass biopsy ___
+1.  Adenocarcinoma, see note
+2.  Immunostains of the tumor are strongly positive for cdx2 and 
+ cytokeratin CK-20; and focally positive for CK-7 with 
+satisfactory controls.
+3.  Separate fragments of gastric fundic mucosa without 
+dysplasia.
+Note:  The tumor histology and immunoprofile are most suggestive 
+of a metastatic colonic carcinoma.
+ 
+Brief Hospital Course:
+___ h/o metastatic colon cancer, admitted with UGIB ___ 
+ulcerated stomach mass, found to have metastatic colon cancer to 
+incisura of stomach.  
+.  
+# UGIB: UGIB found to be ___ ulcertated mass ___ metastatic 
+colon cancer per pathology obtained during EGD.  Pt was started 
+on pantoprazole 40mg PO daily, as well as inpatient XRT to 
+stomach x 2 sessions.  Upon discharge, pt was scheduled to 
+complete XRT as outpatient, with hct stable x 48 hours.  
+.  
+# Anemia: Anemia was considered likely ___ UGIB and ACI given 
+metastatic colon cancer.  Pt received PRBC as necessary, and 
+upon discharge, hematocrit had been stable x48H.  
+.  
+# Tachycardia: Pt was noted to be in AVRT/AVNRT in the ED, 
+considered ___ blood loss.  Tachycardia resolved with IVF, blood 
+transfusion, and pt was maintained on metoprolol 12.5 mg PO BID.
+.  
+# Metastatic colon cancer: Pt was found to have metastatic colon 
+cancer to the stomach and was started on XRT as inpatient, with 
+irinotecan chemotherapy held during XRT course.
+.  
+# Cold sores: Pt's HSV lip lesions resolved without intervention 
+during inpatient admission.
+.  
+# Full code
+ 
+Medications on Admission:
+Metoprolol 25mg PO daily  
+Creon 20mg daily  
+Loperamide 4mg PO QID PRN  
+Lomotil 2.5mg-0.025mg ___ tabs PO QID PRN  
+Opium tincture QID PRN  
+KCL 20mEq BID  
+Clonazepam 1mg PO daily  
+MVI  
+.  
+ALL:  
+Piperacillin/tazobactam --> Hives  
+Oxaliplatin --> Red man syndrome  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+2. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO QAM: Take upon 
+awakening.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Amylase-Lipase-Protease 33,200-10,000- 37,500 unit Capsule, 
+Delayed Release(E.C.) Sig: One (1) Cap PO QIDWMHS (4 times a day 
+(with meals and at bedtime)).
+Disp:*120 Cap(s)* Refills:*2*
+6. Loperamide 2 mg Capsule Sig: Two (2) Capsule PO four times a 
+day as needed for diarrhea.
+Disp:*30 Capsule(s)* Refills:*5*
+7. Lomotil 2.5-0.025 mg Tablet Sig: ___ Tablets PO four times a 
+day as needed for diarrhea.
+Disp:*40 Tablet(s)* Refills:*5*
+8. Opium Tincture 10 mg/mL Tincture Sig: One (1) mL PO four 
+times a day as needed for diarrhea.
+Disp:*120 mL* Refills:*0*
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: 
+One (1) Tab Sust.Rel. Particle/Crystal PO twice a day.
+Disp:*60 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+10. Multiple Vitamin-Minerals     Tablet Sig: One (1) Tablet PO 
+once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+.
+# Upper GI bleeding
+# Metastatic colon cancer at stomach incisura
+# Paroxysmal atrial fibrillation
+.
+Secondary diagnosis
+.
+# Hypertension  
+# Depression
+ 
+Discharge Condition:
+Stable hematocrit over the last 48 hours.
+ 
+Discharge Instructions:
+You were admitted because you were bleeding in your stomach.  We 
+did an esophagogastroduodenoscopy and found a bleeding mass in 
+your stomach, which was metastatic colon cancer.  We started you 
+on radiation therapy to the stomach, and you stopped bleeding.
+.
+We also found that your heart rate was initially fast when you 
+were bleeding, but then it normalized when we transfused blood.
+.
+You have two more follow-up appointments to get radiation 
+therapy to your stomach (see below).  Please take your 
+anti-nausea medication before you arrive for your radiation 
+therapy appointments.
+.
+We have added a new medication to your regimen:
+# FOR YOUR STOMACH:  Take pantoprazole 40mg every 24hours.
+.
+Otherwise, we have not changed your medications.
+.
+If you have any worrisome symptoms, call Dr. ___ to 
+the emergency room.
+ 
+Followup Instructions:
+___

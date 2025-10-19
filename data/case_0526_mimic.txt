@@ -1,0 +1,1532 @@
+===== DISCHARGE NOTE =====
+note_id=19493050-DS-18 | hadm_id=21681708
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+syncope/hypoglycemia
+ 
+Major Surgical or Invasive Procedure:
+Lumbar Puncture
+ 
+History of Present Illness:
+___ year old man with history of multiple myeloma, hypertension, 
+diabetes, and vertebroplasty on ___ with chronic back pain 
+presenting today after receiving velcade yesterday, subsequent 
+14units lantus per protocol yesterday at 3pm - found to have 
+hypoglycemia this am with synocopal event.  Pt was doing well to 
+this am - felt more confused per daughter - checked pt's BP - 
+elevated with SBPs>180s -BS checked and found to be ___ per 
+daughter.  EMS called, pt given food/juice - BS increased to 47 
+while EMS there, confusion resolved - doing well - and EMS had 
+left.  Later in afternoon, BS 65, then later had syncopal while 
+walking, preceded by lightheadedness/dizziness, no CP/SOB, BS 
+then noted to be 45.  Noted pt had hit head - but no LOC (CT 
+head here neg).  Pt ate earlier in day, then after this event, 
+EMS called again and pt brought to ED.  BS in low 100s in ED, pt 
+sx improved, case d/w fellow - given course of events - admitted 
+for monitoring.  
+<br>
+
+Pt overall feeling good currently, no lightheadedness/dizzines, 
+no CP, SOB, cough, no HA, n/v, ab pain. Pt has had mild diarrhea 
+past couple days following chemo, per pt and daughter during 
+past 3 cycles pt has had loose stools immediately following.  Of 
+note, pt did not take any po hypoglycemics today, took rest of 
+am meds, due to being here missed all pm meds including BP meds. 
+ Pt's last meal was only mid-afternoon.
+
+<br>
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+1. Multiple myeloma: Diagnosed ___. Initial presentation 
+sinus congestion --> found to have rapidly growing mass in left 
+paranasal sinus --> ENT endoscopic biopsy ___ --> 
+plasmocytoma --> BMBx ___ --> myeloma. No lytic lesions on 
+skeletal survey. Chemotherapy with Velcade and dexamethasone 
+started ___.  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting 
+steroids, recent ___ in the 300-400s. Has been on metformin and 
+glyburide. 
+3. Hypertension  
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147 
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with 
+radioactive iodine.   
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased 
+parathyroid uptake c/w adenoma seen on parathyroid scan in 
+___.  
+8. Lactose intolerance per OMR 
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Exam
+ VS  T current 96.6  BP 186/82   HR 70  RR 14  O2sat:  100 % RA  
+ Blood Sugar: 283
+ 
+Gen:  In NAD.
+HEENT:  PERRL, EOMI.  +exopththalmos, No scleral icterus.  No 
+conjunctival injection.   mildly dry mm.  No oral ulcers.
+Neck:  Supple, no LAD, no JVP elevation.
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi.  Normal 
+respiratory effort.
+CV:  RRR, ___ HSM, no rubs or gallops.
+Abdomen:  soft, NT, NABS, no HSM.
+Extremities:  warm and well perfused, no cyanosis, clubbing, 
+slight trace bilat pedal edema
+Neurological:  alert and oriented X 3, CN II-XII intact. 
+Skin:  No rashes or ulcers.
+Psychiatric:  Appropriate.
+GU:  deferred.
+ 
+Pertinent Results:
+___ 08:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 08:40PM URINE  ___ BACTERIA-FEW YEAST-NONE 
+___ 08:40PM URINE  ___ 06:31PM   ___ PTT-27.6 ___
+___ 06:15PM   GLUCOSE-118* UREA N-20 CREAT-1.1 SODIUM-130* 
+POTASSIUM-2.4* CHLORIDE-94* TOTAL CO2-22 ANION GAP-16
+___ 06:15PM   CK(CPK)-128
+___ 06:15PM   cTropnT-<0.01
+___ 06:15PM   CK-MB-13* MB INDX-10.2*
+___ 06:15PM   CALCIUM-9.8 PHOSPHATE-2.4* MAGNESIUM-1.6
+___ 06:15PM   WBC-14.5* RBC-3.55* HGB-10.9* HCT-31.2* 
+MCV-88 MCH-30.7 MCHC-34.9 RDW-16.7*
+___ 06:15PM   NEUTS-66 BANDS-10* LYMPHS-11* MONOS-8 EOS-1 
+BASOS-0 ___ METAS-3* MYELOS-1* NUC RBCS-2*
+___ 06:15PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-1+ BURR-1+ STIPPLED-1+
+___ 12:30PM   WBC-12.9* RBC-3.45* HGB-10.6* HCT-30.2* 
+MCV-88 MCH-30.7 MCHC-35.0 RDW-16.1*
+___ 12:30PM   PLT SMR-LOW PLT COUNT-81*#
+___ 12:30PM   ___ ___
+
+HSV PCR of CSF - negative for HSV 1 and 2.
+<br>
+
+CT Head:  
+IMPRESSION: 
+1. No evidence of acute hemorrhage. Please note that MRI is more 
+sensitive 
+in detection of acute infarct. 
+2. Soft tissue mass within the left ethmoidal air cells, 
+extending to the 
+left maxilla, unchanged and concerning for residual 
+plasmocytoma. 
+
+CT Sinus (Mandible):
+1. Large soft tissue mass within the left paranasal sinuses and 
+nasal cavity, extending into the right maxillary sinus. Likely 
+associated bone erosion of the medial and inferior left orbital 
+walls, though without soft tissue extension into the orbit or 
+retrobulbar space. No evidence of intracranial 
+extension. 
+2. Opacification of the right maxillary sinus with small areas 
+of bony 
+erosion of the medial sinus wall, suggest acute on chronic 
+infection. High 
+density material suggests a fungal agent colonization. 
+
+MR Head:
+IMPRESSION: 
+1. Persistent enhancing mass centered at the left paranasal 
+sinuses and nasal cavity and slightly smaller component in the 
+maxillary sinus; extension into orbit not adequately assessed. 
+Consider dedicate diamging, if necessary. 
+2. Air and thick fluid as well as mucosal thickening in the 
+right maxillary sinus, likely related to sinusitis though a mass 
+is not excluded. 
+3. Unchanged chronic microangiopathic disease.  
+4. No brain aprenchymal enhancing lesions. 
+
+MRV Head: No evidence for dural venous sinus thrombosis. This 
+study is insensitive for detection of cavernous sinus or 
+cortical venous thrombosis. 
+
+MR ___:
+No significant change compared to prior study, with abnormal T8 
+and T11 
+vertebral bodies. No significant compromise of the cord is 
+noted. 
+
+CXR:
+No gross changes compared to ___, no new 
+infiltrates/effusions.
+
+EKG: nsr with PVC, no ST/TW changes (old III/avF TW changes are 
+old compared to prior ___ EKG)
+ 
+Brief Hospital Course:
+___ year old man with history of multiple myeloma, hypertension, 
+diabetes, and vertebroplasty on ___ with chronic back pain 
+presenting today after receiving velcade day prior to admission 
+with hypoglyemic events with insulin administration and syncopal 
+event.  Course complicated by urinary tract infection leading to 
+altered mental status, as well as workup for high protein in 
+CSF. 
+  
+# Syncope/Presyncope/Hypoglycemia/DM II, uncontrolled, without 
+complications:
+Overall pre-admission events appeared most related to 
+hypoglycemia - noted mild leukocytosis with bands - has had 
+prior, no currently endorsing any signs of infx - more 
+reflections of chemo tx/steroids.  His sugars were normal while 
+holding his home diabetic meds, but when they were restarted, he 
+continued to have low sugars into the ___ and ___.  He also had 
+altered mental status around these times.  We decreased his 
+metformin to 500 mg bid and stopped his glipizide and monitored 
+him.  He had poor PO intake while in house, and he will need to 
+be reevaluated once home and eating more. Patient is stable on 
+regular insulin sliding scale with 7 ___ QHS. He should 
+have  careful monitoring of fingersticks with meals and at night 
+prior to administration of any insulin or oral hypoglycemics. 
+Rehab should anticipate having to increase his Lantus as needed 
+in the setting of hyperglycemia during his chemotherapy days 
+when he receives dexamethasone. 
+
+# AMS - had altered mental status in the setting of hypoglycemia 
+and urinary tract infection.  With treatment, his mental status 
+improved.  We did an LP in the setting of AMS and fever and 
+found high CSF protein.  Neuro was consulted and was worried 
+about the spread of his MM into the CNS.  LP was performed which 
+showed no HSV infection but high proteins levels. There was not 
+enough CSF left to perform an SPEP to confirm CNS MM. Based on 
+the fact that the patient has multiple soft tissues masses 
+(likely MM) eroding into his sinuses, it was decided that he 
+should be treated as if patient had CNS MM, and he will get a 
+second course of Velcade/Dexamethasone starting on ___ 
+(chemotherapy started the day of discharge). 
+
+# UTI - patient had urinary retention early in his admission and 
+had been straight cathed.  He had low grade fevers and was 
+cultured showing a UTI.  He was treated with ceftriaxone 
+(initially with meningitis dosing because we were waiting for 
+the LP), then down to normal dosing.  AMS improved. Patient 
+should complete a 10 day course of ceftriaxone total. 
+
+# Hypokalemia - again more reflection of insulin - was repleted 
+and normalized after the first day.
+
+# Hypertension: Hypertensive on arrival but w/o sx of HA or CP, 
+also was hypertensive the third day of admission.  Continued his 
+propranolol and received one dose of hydral, but then 
+normalized.   
+
+# Multiple myeloma:  Pt. had recent cycle of 
+velcade/dexamethasone, issues with hypoglycemia as above.  He 
+had recurrence of his disease in his ethmoid sinuses seen on the 
+CT scans that were done.  We also did a T and L spine MRI to 
+reevaluate for plasmacytomas around the back.  No disease was 
+seen in the MRIs, but it was noted that he had a new compression 
+fractures as well as continued nerve root compression around 
+L3-4.  Pain controlled with fentanyl patch, lidocaine patch, and 
+oxycodone as needed. We did an LP and sent for cytology which 
+showed no plasma cells, no evidence of HSV but high protein. As 
+stated above, unable to confirm diagnosis of CNS MM as SPEP 
+could not be sent due to lack of CSF, but high suspicion given 
+patient's AMS and concerning CT sinus findings of sfot tissue 
+masses extending into the sinuses (no obvious intracranial 
+extension, but high suspicion remains).  
+NOTE: Plans moving forward are to repeat another cycle of 
+Velcade/Dexamethasone with chemotherapy on ___ (received 
+in-house), ___ (scheduled at ___, ___ (at rehab), and ___ 
+(will likely be scheduled at ___ when patient is seen by 
+primary oncologist on ___. 
+ 
+# Back pain: ___ compression fracture s/p vertebroplasty, 
+continued fentanyl patch, oxycodone prn, lidocaine patch.  Back 
+pain was moderately controlled during admission.
+
+# Hypothyroidism - continued home dose synthyroid.
+
+# Tremor: Patient has essential tremor at baseline, which 
+worsened while in-house. Neurology/movement disorder team was 
+consulted, determined long standing essential tremor, 
+neuropathy, and cervical radiculopathy/cord impingement. Also 
+may be due to possible CNS MM (unconfirmed as not enough CSF 
+available) versus chemotherapy treatment, but continued 
+chemotherapy as benefits of treatment to prevent further disease 
+spread outweigh tremor.  
+ 
+Medications on Admission:
+ACYCLOVIR -  (Prescribed by Other Provider) - 200 mg Capsule - 2
+(Two) Capsule(s) by mouth every eight (8) hours - ___ 
+STATES ONLY TAKING BID
+___ CONTOUR BLOOD GLUCOSE TEST STRIPS -   - use as directed
+four times a day and as needed
+CLOTRIMAZOLE -  (Prescribed by Other Provider) - 10 mg Troche -
+DEXAMETHASONE - 4 mg Tablet - 5 Tablet(s) by mouth daily days
+2,5,9 and ___
+FENTANYL -  (Prescribed by Other Provider) - 50 mcg/hour Patch 
+72
+hr - apply transdermal every 72 hours
+GLIPIZIDE -  (Prescribed by Other Provider) - 10 mg Tablet - 2
+Tablet(s) by mouth twice a day (DID NOT TAKE DAY OF ADMISSION)
+INSULIN GLARGINE [LANTUS] - 100 unit/mL Cartridge - 14 units
+under the skin with dexamethasone on days 2,5,___ and ___ (LAST 
+TOOK 3PM ___ FOLLOWING CHEMO)
+LEVOTHYROXINE -  (Prescribed by Other Provider) - 112 mcg Tablet
+- 1 Tablet(s) by mouth DAILY (Daily)
+LIDOCAINE - 5 % (700 mg/patch) Adhesive Patch, Medicated - 2
+Adhesive(s) DAILY (Daily) Apply to the muscles along the sides 
+of
+the lower spine. Leave on 12 hours, off 12 hours.
+METFORMIN [GLUCOPHAGE] - 1,000 mg Tablet - 1 Tablet(s) by mouth
+bid with meals
+MOEXIPRIL [UNIVASC] - 15 mg Tablet - 1 Tablet(s) by mouth twice 
+a
+day
+OXYCODONE-ACETAMINOPHEN [PERCOCET] - 5 mg-325 mg Tablet - ___
+Tablet(s) by mouth every six (6) hours as needed for pain do not
+operate heavy machinery or consume alcohol. ___ cause sedation/
+drowsiness.
+PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth
+every six (6) hours as needed for nausea
+PROPRANOLOL [INDERAL LA] - 120 mg Capsule,Sustained Action 24 hr
+- 2 (Two) Capsule(s) by mouth once a day
+ 
+Medications - OTC - THOUGH NOTE RECENTLY WITH DIARRHEA SX 
+FOLLOWING CHEMO - ALL STOOL SOFTENERS HAVE BEEN HELD
+BISACODYL -  (Prescribed by Other Provider) - 5 mg Tablet,
+Delayed Release (E.C.) - 2 (Two) Tablet(s) by mouth once a day
+BLOOD SUGAR DIAGNOSTIC [ONE TOUCH ULTRA TEST] -   Strip - as
+directed four times a day as needed for and prn
+DOCUSATE SODIUM - 100 mg Capsule - 1 Capsule(s) by mouth twice a
+day take to help prevent constipation while taking narcotics for
+pain
+LANCETS -   Misc - use qid and prn
+SENNA -  (Prescribed by Other Provider) - 8.6 mg Capsule - 1
+(One) Capsule(s) by mouth twice a day
+
+ 
+Discharge Medications:
+1. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 
+hours).  
+2. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+3. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical QDAILY (): apply to 
+the muscles along the sides of the lower spine. Leave on for 
+12hours and then take off for 12hours (at night.  
+5. Moexipril 7.5 mg Tablet Sig: Two (2) Tablet PO Q 12H (Every 
+12 Hours).  
+6. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q6H (every 6 hours) as needed for pain.  
+7. Propranolol 60 mg Capsule,Sustained Action 24 hr Sig: Four 
+(4) Capsule,Sustained Action 24 hr PO DAILY (Daily).  
+8. Ceftriaxone 1 gram Recon Soln Sig: One (1) gram Intravenous 
+every ___ hours for 5 days: to complete a 10 day 
+course (5 days given in hospital)
+first day: ___
+last day: ___.  
+9. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.  
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): hold for loose stools.  
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day): hold for loose stools.  
+12. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day): with meals. Hold for blood glucose <90 and notify MD.  . 
+ 
+13. Heparin Flush (10 units/ml) 5 mL IV PRN line flush 
+Indwelling Port (e.g. Portacath), heparin dependent: Flush with 
+10 mL Normal Saline followed by Heparin as above daily and PRN 
+per lumen. 
+14. Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port 
+Indwelling Port (e.g. Portacath), heparin dependent: When 
+de-accessing port, instill Heparin as above per lumen. 
+15. Dexamethasone Sodium Phosphate 10 mg/mL Solution Sig: Two 
+(2) mL Injection ONCE (Once) for 1 doses: Please administer 
+___ minutes before chemotherapy  on ___.  
+16. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) patch 
+Transdermal once a day.  
+17. Prochlorperazine Edisylate 5 mg/mL Solution Sig: Ten (10) mL 
+Injection once for 1 doses: Please give 30 minutes prior to 
+chemotherapy administration on ___.  
+18. Insulin Glargine 100 unit/mL Cartridge Sig: Seven (7) Units 
+Subcutaneous at bedtime.  
+19. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: as 
+directed  Subcutaneous four times a day: per sliding scale.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Iatrogenic Hypoglycemia
+2. Diarrhea
+3. Diabetes
+4. Multiple Myeloma
+
+ 
+Discharge Condition:
+stable, walking around, ___ in mid ___, no diarrhea, still has 
+poor appetite
+
+ 
+Discharge Instructions:
+You were admitted for syncope after chemotherapy when your blood 
+sugars were very low.  It was likely from getting too much 
+lantus that day and not eating enough.
+.
+You can continue on your home diabetes medicines, but you need 
+to eat three times a day.  I know you are not that hungry, but 
+it is important for keeping your blood sugars high.
+.
+Please only take Lantus at night on the days you have 
+chemotherapy, which will be ___, and ___.
+
+You also had an infection in your bladder that we treated with 
+antibiotics.  During this workup, we found a high level of 
+protein in your spinal fluid and ran some more tests.  It was 
+decided to continue your chemotherapy for multiple myeloma. 
+.
+Please continue decrease the amount of diabetic medicines you 
+take.  Please see the medicine list for details.
+.
+Please return to the hospital for any chest pain, fainting, 
+shortness of breath, low sugars below 60, falls, nausea, 
+vomitting, diarrhea or any other concerns.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19493050-DS-17 | hadm_id=23851777
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dehydration and resumption of velcade/dexamethasone
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old man with history of multiple myeloma, hypertension 
+and diabetes, vertebroplasty on ___ and discharged just 
+recently to rehab. Presented on ___ to clinic for velcade and 
+dexamethasone which he did receive. Now w/ elevated cr and 
+calcium. Needs IVF so admitted from clinic. He does endorse some 
+mild nausea today and one episode of emesis that was non-bloody. 
+He also endorses constipation and his last bowel movement was 4 
+days ago.  
+.  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, diarrhea, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+1. Multiple myeloma: Diagnosed ___. Initial presentation 
+sinus congestion --> found to have rapidly growing mass in left 
+paranasal sinus --> ENT endoscopic biopsy ___ --> 
+plasmocytoma --> BMBx ___ --> myeloma. No lytic lesions on 
+skeletal survey. Chemotherapy with Velcade and dexamethasone 
+started ___.  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting 
+steroids, recent ___ in the 300-400s. Has been on metformin and 
+glyburide, PCP would like to start insulin this week.  
+3. Hypertension: Reports BP's at home have been "normal" per 
+machine he uses. Recent BPs at PCP 120s/70s. BP in ED 159/75  
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147 
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with 
+radioactive iodine. Currently hypothyroid on ___ mcg levoxyl qd. 
+ 
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased 
+parathyroid uptake c/w adenoma seen on parathyroid scan in 
+___.  
+8. Lactose intolerance: Drinks milk but ? whether has caused 
+diarrhea along with recent chemo  
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - T: 98 BP: 191/88 HR: 72 RR: 18 02 sat: 100% on RA  
+GEN: AAOx3. Tired-appearing, able to answer questions clearly.  
+Medium frequency essential tremor most prominent in bilateral  
+hands and jaw.  
+HEENT: PERRL, EOMI. CN II-XII grossly intact bilaterally.  
+Oropharynx moist without lesions or exudate. No JVD. Bilateral  
+exophthalmos.  
+HEART: RRR, nl S1, S2, no murmurs, rubs or gallops  
+LUNGS: CTAB no wheeze, rales or rhonchi  
+ABD: NABS. Midline ventral hernia. Soft, non-tender, no masses 
+or HSM appreciable  
+EXT: 2+ DP pulses bilaterally. No cyanosis  
+SKIN: Hyperpigmented lesions in T7/8 dermatome on right side 
+with no crossing of the midline.  
+
+ 
+Pertinent Results:
+___ 09:56PM URINE  HOURS-RANDOM UREA N-761 CREAT-86 
+SODIUM-112 POTASSIUM-24 CHLORIDE-129
+___ 09:56PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:56PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 09:56PM URINE  RBC-0 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 01:00PM   GLUCOSE-221*
+___ 01:00PM   UREA N-26* CREAT-1.4* SODIUM-135 
+POTASSIUM-4.9 CHLORIDE-98 TOTAL CO2-27 ANION GAP-15
+___ 01:00PM   ALT(SGPT)-13 AST(SGOT)-15 ALK PHOS-141*
+___ 01:00PM   ALBUMIN-4.2 CALCIUM-10.7* PHOSPHATE-2.5* 
+MAGNESIUM-1.9
+___ 01:00PM   PTH-131*
+___ 01:00PM   WBC-16.1* RBC-3.91* HGB-12.0* HCT-35.9* 
+MCV-92 MCH-30.8 MCHC-33.6 RDW-15.3
+___ 01:00PM   NEUTS-82.9* LYMPHS-11.9* MONOS-4.7 EOS-0.3 
+BASOS-0.2
+___ 01:00PM   PLT COUNT-309
+___ 01:00PM   ___ ___
+
+ 
+Brief Hospital Course:
+___ year old man with history of multiple myeloma admitted for 
+management of hypercalcemia and acute renal failure, resolved 
+with fluids.  
+  
+# Hypercalcemia: Looks to have a h/o hypercalcemia from 
+hyperparathyroidism. Mild on admission, resolved after first 
+night with fluids.
+  
+# Acute renal failure: Baseline Cr of 0.9-1.0 on ___ but 
+creatinine was already elevated to 1.4 on ___. Was prerenal and 
+resolved after first night with fluids, Cr to 1.0-1.1 
+(baseline).
+  
+# Zoster: rash resolving. Was still receiving acyclovir at 
+rehab, continued here.   
+  
+# Multiple myeloma:  Pt. had cycle 3 (Day 8) of 
+velcade/dexamethasone, tolerated well, started on ISS with 
+lantus 20 units each day during dexamethasone administrations 
+for better glucose control.
+  
+# Hypertension: Hypertensive on arrival but w/o sx of HA or CP, 
+was restarted on moexipril after acute renal failure resolved, 
+and had regular blood pressure control.
+  
+# Back pain: ___ compression fracture s/p vertebroplasty, 
+continued fentanyl patch, oxycodone prn, lidocaine patch 
+
+ 
+Medications on Admission:
+1. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day. 
+
+2. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO twice a day.  
+3. Moexipril 15 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+
+times a day).  
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical 12 HOURS ON, 12 HOURS 
+OFF ().  
+6. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane 
+
+QID (4 times a day) as needed.  
+8. Propranolol 120 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+9. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+10. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed for back pain.  
+11. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+12. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day). 
+
+13. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical 
+QID (4 times a day) as needed.  
+14. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+
+ 
+Discharge Medications:
+1. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO twice a day.
+Disp:*120 Tablet(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as 
+needed for to spine.
+Disp:*1 month supply* Refills:*0*
+5. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Clotrimazole 10 mg Troche Sig: One (1)  Mucous membrane four 
+times a day as needed.
+Disp:*1 bottle* Refills:*0*
+7. Propranolol 120 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+8. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 
+hours).
+Disp:*90 Capsule(s)* Refills:*2*
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).
+Disp:*1 month supply* Refills:*0*
+11. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Bisacodyl 5 mg Tablet Sig: Two (2) Tablet PO once a day as 
+needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+13. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+14. Moexipril 15 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): please hold for BP < 100.
+Disp:*60 Tablet(s)* Refills:*2*
+15. Dexamethasone 4 mg Tablet Sig: Five (5) Tablet PO once a day 
+for 1 days: to be given ___.
+Disp:*5 Tablet(s)* Refills:*0*
+16. Lantus 100 unit/mL Solution Sig: Fourteen (14) units 
+Subcutaneous once for 1 doses.
+Disp:*1 dose* Refills:*0*
+17. Syringe with Needle (Disp) ___ mL 28 x ___  Syringe Sig: One 
+(1) syringe Miscellaneous once for 1 doses.
+Disp:*1 syringe* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+primary: dehydration, acute renal failure 
+. 
+secondary: 
+1. Multiple myeloma  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting  
+steroids, recent ___ in the 300-400s. Has been on metformin and  
+glyburide, PCP would like to start insulin.  
+3. Hypertension 
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147  
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with  
+radioactive iodine. Currently hypothyroid on ___ mcg levoxyl qd. 
+ 
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased  
+parathyroid uptake c/w adenoma seen on parathyroid scan in  
+___.  
+8. Lactose intolerance: Drinks milk but ? whether has caused  
+diarrhea along with recent chemo 
+
+ 
+Discharge Condition:
+afebrile, BP 150/80, HR 58, R 18 99% on RA
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with dehydration which 
+improved with IV fluids. Your symptoms improved with hydration. 
+You should continue your routine oncology follow-up.
+.
+Medication changes:
+You should take one dose of dexamethasone tomorrow morning as 
+prescribed with 14 Units of Lantus via injection once with the 
+steroids.
+Otherwise no changes to your medication regimen.
+.
+You should return to the ED and call your primary oncologist if 
+you experience any chest pain, shortness of breath, or abdominal 
+pain.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19493050-DS-15 | hadm_id=26436898
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a ___ yo M with PMH significant for multiple myeloma, 
+hypertension and diabetes who presents after a fall. He was 
+diagnosed with multiple myeloma in ___ and began 
+chemotherapy with Velcade and dexamethasone two weeks ago. Since 
+starting chemotherapy he reports feeling generally weak, a lack 
+of appetite, poor PO intake and ___ loose stools/day. He denies 
+n/v. On the morning of admission, he felt dizzy when he went to 
+brush his teeth and then fell backwards and landed on his 
+backside. He did not lose consciousness, hit his head or sustain 
+other trauma. He denied any preceding headache, confusion, 
+chills, sweating, chest pain, palpitations, urinary incontinence 
+or difficulty breathing. He was brought to the ED for 
+evaluation.  
+  
+In the ___ ED, vitals were: Temp 98.6 HR 66, BP 159/75, 16, 
+96/RA. His T/L spine was tender so T/L spine films were sent 
+which showed no evidence of fracture (final read pending). He 
+appeared dry on clinical exam and was given 1L NS and morphine 2 
+mg IV x 2. His blood sugar was 303 and he was given 4 units of 
+regular insulin SQ and transferred to the medicine floor for 
+further management.  
+
+Currently, he reports feeling well but continues to have back 
+pain and no appetite. He denies recent fevers, chills, abdominal 
+pain, dark or bloody stools, dysuria or hematuria. Of note, he 
+did not take his medications the morning of admission.
+ 
+Past Medical History:
+1. Multiple myeloma: Diagnosed ___. Initial presentation 
+sinus congestion --> found to have rapidly growing mass in left 
+paranasal sinus --> ENT endoscopic biopsy ___ --> 
+plasmocytoma --> ___ ___ --> myeloma. No lytic lesions on 
+skeletal survey. Chemotherapy with Velcade and dexamethasone 
+started ___.  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting 
+steroids, recent ___ in the 300-400s. Has been on metformin and 
+glyburide, PCP would like to start insulin this week.  
+3. Hypertension: Reports BP's at home have been "normal" per 
+machine he uses. Recent BPs at PCP 120s/70s. BP in ED 159/75  
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147 
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with 
+radioactive iodine. Currently hypothyroid on ___ mcg levoxyl qd. 
+ 
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased 
+parathyroid uptake c/w adenoma seen on parathyroid scan in 
+___.  
+8. Lactose intolerance: Drinks milk but ? whether has caused 
+diarrhea along with recent chemo  
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals: 96.4 BP 198/100 pulse 61 RR 20 O2 Sat 99% RA  
+GEN: AAOx3. ___, alert and interactive, lying in bed, NAD. 
+Medium frequency essential tremor most prominent in bilateral 
+hands and jaw.  
+HEENT: PERRL, EOMI. CN II-XII grossly intact bilaterally. 
+Oropharynx moist without lesions or exudate. No JVD. Bilateral 
+exopthalmos.  
+HEART: RRR, nl S1, S2, no murmurs, rubs or gallops  
+LUNGS: CTAB  
+ABD: NABS. Tympanitic, moderate distention with air. Midline 
+ventral hernia. Soft, non-tender, no masses or HSM appreciable  
+EXT: 1+ edema of ankles. 2+ DP pulses bilaterally. No cyanosis  
+SPINE: TTP lower thoracic spine and lower paraspinous muscles. 
+No ecchymoses or significant swelling.  
+ 
+Pertinent Results:
+___ 01:26PM BLOOD WBC-23.5*# RBC-3.98* Hgb-12.4* Hct-34.1* 
+MCV-86 MCH-31.3 MCHC-36.4* RDW-14.0 Plt ___
+___ 06:05AM BLOOD WBC-15.0* RBC-3.51* Hgb-10.9* Hct-30.0* 
+MCV-86 MCH-31.2 MCHC-36.4* RDW-14.2 Plt ___
+___ 05:55AM BLOOD WBC-15.5* RBC-3.41* Hgb-10.8* Hct-30.2* 
+MCV-89 MCH-31.6 MCHC-35.6* RDW-13.9 Plt ___
+___ 01:26PM BLOOD Glucose-303* UreaN-27* Creat-1.4* Na-130* 
+K-5.5* Cl-94* HCO3-26 AnGap-16
+___ 05:55AM BLOOD Glucose-72 UreaN-19 Creat-1.2 Na-137 
+K-3.8 Cl-104 HCO3-24 AnGap-13
+___ 01:26PM BLOOD CK(CPK)-97
+___ 01:26PM BLOOD cTropnT-<0.01
+___ 05:55AM BLOOD TSH-0.75
+___ 04:30PM URINE Color-Yellow Appear-Clear Sp ___
+___ 04:30PM URINE Blood-TR Nitrite-NEG Protein-NEG 
+Glucose-250 Ketone-NEG Bilirub-NEG Urobiln-1 pH-6.5 Leuks-NEG
+___ 04:30PM URINE ___ Bacteri-OCC Yeast-NONE 
+Epi-0
+
+X-ray L and T spine (___): No acute fracture or dislocation. 
+Progression of underlying degenerative disease since ___. 
+
+CXR (___): No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+1) Dizziness / fall: No evidence of spinal trauma on plain 
+films. His lightheadedness was likely due to hypovolemia due to 
+poor PO intake, polyuria (from steroid-induced hyperglycemia), 
+and frequent loose stools since starting chemotherapy two weeks 
+ago. Patient was initially significantly orthostatic by BP, with 
+systolic change of ~50 mmHg. Given aggressive volume 
+resuscitation and held HCTZ and amlodipine with resolution of 
+measured orthostasis. He still had mild transient symptoms when 
+arising, but was evaluated by ___ and felt to be able to ambulate 
+with a walker to assist.
+
+2) Hypertension: Initial BP on floor was 200/100 without any 
+symptoms, such as headache, chest pain, or vision changes. 
+Patient had not taken his BP meds that day. His SBP improved 
+with resumption of home meds. Telemetry monitoring showed 
+occasional PVCs and one run of asymptomatic V tach. He was 
+continued on moexepril and propanolol, and his HCTZ and 
+amlodipine were held as above with preserved BP control.
+  
+3) Diabetes: Exacerbated since starting dexamethasone for 
+chemotherapy. Glyburide was switched to glipizide as the former 
+is renally cleared. His metformin was initially held for 
+elevated creatinine, but restarted as this improved. He was 
+given an insulin sliding scale, which was unable to be continued 
+as discharge as the patient was unable to self-administer. He 
+received teaching for a diabetic diet.
+  
+4) Hypothyroidism: TSH was 0.75 on 125 mcg levoxyl. To reach a 
+goal TSH over 1.0, his dose was decreased to 112 mcg daily. TSH 
+can be followed up outpatient.
+  
+5) Chronic renal insufficiency: Creatinine 1.4 on admission, 
+which improved to 1.2 with fluids.
+  
+6) Multiple myeloma: On Velcade and dexamethasone. Was not 
+scheduled to receive chemotherapy during the week of his 
+admission.
+ 
+Medications on Admission:
+1. AMLODIPINE [NORVASC] - 10 mg Tablet daily  
+2. HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet daily  
+3. MOEXIPRIL [UNIVASC] - 15 mg Tablet - 1 Tablet BID  
+4. PROPRANOLOL [INDERAL LA] - 120 mg Capsule, 2 Capsules daily  
+5. ATORVASTATIN - 10 mg Tablet - 1 Tablet daily  
+6. METFORMIN - 1,000 mg Tablet - 1 Tablet bid, take with meals  
+7. GLYBURIDE - 5 mg Tablet - 2 Tablet(s) by mouth BID  
+8. LEVOTHYROXINE [LEVOXYL] - 125 mcg Tablet - one tab daily  
+9. LORAZEPAM - 0.5 mg Tablet - ___ Tablet qhs prn for insomnia  
+10. PERCOCET - 5 mg-325 mg Tablet - ___ tabs q6h: prn  
+12. PROCHLORPERAZINE MALEATE - 10 mg Tablet q6h prn nausea  
+13. RANITIDINE HCL - 150 mg Tablet - 1 Tab BID  
+14. DOCUSATE SODIUM - 100 mg Capsule 1 Capsule BID  
+15. DEXAMETHASONE - 4 mg Tablet - 5 Tablet(s) by mouth daily 
+days  
+2,5,9 and 12  
+16. VELCADE (Bortezomib) - per chemo regimen  
+ 
+Discharge Medications:
+1. Moexipril 15 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. Propranolol 120 mg Capsule, Sust. Release 24 hr Sig: Two (2) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+5. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).
+Disp:*120 Tablet(s)* Refills:*0*
+6. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+9. Chemotherapy
+Continue chemotherapy with velcade and dexamethasone as 
+instructed by your oncologist.
+10. Lorazepam 0.5 mg Tablet Sig: ___ Tablets PO at bedtime as 
+needed for insomnia.  
+11. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+Two (2) Adhesive Patch, Medicated Topical DAILY (Daily): Apply 
+to the muscles along the sides of the lower spine. Leave on 12 
+hours, off 12 hours.
+Disp:*10 Adhesive Patch, Medicated(s)* Refills:*0*
+12. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain: Do not take within ___ hours of 
+taking cyclobenzaprine.
+Disp:*20 Tablet(s)* Refills:*0*
+13. Cyclobenzaprine 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times 
+a day) as needed for muscle pain: Do not take within ___ hours 
+of taking oxycodone.
+Disp:*10 Tablet(s)* Refills:*0*
+14. Glucometer
+15. Lancets for glucometer
+3 month supply.
+
+Refill: *2*
+16. Test strips
+3 month supply.
+
+Refill: *2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Orthostatic hypotension
+
+Secondary:
+Multiple myeloma
+Type 2 diabetes mellitus
+Hypertension
+Hypothyroidism
+
+ 
+Discharge Condition:
+Hemodynamically stable, afebrile
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the 
+hospital.
+
+You were admitted to the hospital because you were dizzy and 
+fell.  This is probably due to the fact that you had not been 
+eating well and were having diarrhea, causing you to be 
+dehydrated.  We gave you fluids to improve this.  Please drink 
+plenty of fluids at home to stay hydrated.  We took images of 
+your back which showed no fractures from your fall.  We also 
+stopped two of your blood pressure medications, 
+hydrochlorothiazide and amlodipine.  Your levothyroxine dose was 
+lowered based on blood testing and your glyburide was changed to 
+glipizide, a similar medication.
+
+Please keep all of your appointments.
+
+If you experience worsening dizziness, feeling faint, loss of 
+consciousness, falls, confusion, headache, fevers, or any other 
+concerning symptoms, please seek medical attention or come to 
+the ER immediately.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19493050-DS-16 | hadm_id=28490017
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right breast pain 
+ 
+Major Surgical or Invasive Procedure:
+T11 vertebroplasty
+
+ 
+History of Present Illness:
+___ year old man with history of multiple myeloma,  
+hypertension and diabetes who presents ___ to clinic with a 
+chief complaint of right breast pain. The pt was recently 
+admitted to ___ after a fall, was discharged on ___. Pt 
+developed right-sided back pain two days ago, and developed rash 
+on right back and breast yesterday (___). ___ 
+reports that the pt has had diminished oral intake over the past 
+few days and the pt endorses decreased appetite.  
+.  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.  
+
+ 
+Past Medical History:
+1. Multiple myeloma: Diagnosed ___. Initial presentation 
+sinus congestion --> found to have rapidly growing mass in left 
+paranasal sinus --> ENT endoscopic biopsy ___ --> 
+plasmocytoma --> BMBx ___ --> myeloma. No lytic lesions on 
+skeletal survey. Chemotherapy with Velcade and dexamethasone 
+started ___.  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting 
+steroids, recent ___ in the 300-400s. Has been on metformin and 
+glyburide, PCP would like to start insulin this week.  
+3. Hypertension: Reports BP's at home have been "normal" per 
+machine he uses. Recent BPs at PCP 120s/70s. BP in ED 159/75  
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147 
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with 
+radioactive iodine. Currently hypothyroid on ___ mcg levoxyl qd. 
+ 
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased 
+parathyroid uptake c/w adenoma seen on parathyroid scan in 
+___.  
+8. Lactose intolerance: Drinks milk but ? whether has caused 
+diarrhea along with recent chemo  
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - T: 99.1 BP: 140/70 HR: 67 RR: 18 02 sat: 100% on RA, 
+67in 190lbs  
+GEN: AAOx3. ___, alert and interactive, seated in chair, 
+NAD.  
+Medium frequency essential tremor most prominent in bilateral  
+hands and jaw.  
+HEENT: PERRL, EOMI. CN II-XII grossly intact bilaterally.  
+Oropharynx moist without lesions or exudate. No JVD. Bilateral  
+exophthalmos.  
+HEART: RRR, nl S1, S2, no murmurs, rubs or gallops  
+LUNGS: CTAB no wheeze, rales or rhonchi  
+ABD: NABS. Tympanitic, moderate distention with air. Midline  
+ventral hernia. Soft, non-tender, no masses or HSM appreciable  
+EXT: 1+ edema of ankles. 2+ DP pulses bilaterally. No cyanosis  
+SKIN: Vesicular, erythematous lesions in T7/8 dermatome on right 
+side with no crossing of the midline.  
+
+ 
+Pertinent Results:
+___ 03:20PM   GLUCOSE-48* UREA N-8 SODIUM-136 POTASSIUM-4.4 
+CHLORIDE-100 TOTAL CO2-28 ANION GAP-12
+___ 03:20PM   ALK PHOS-97
+___ 03:20PM   CALCIUM-9.2 PHOSPHATE-2.5* MAGNESIUM-2.0
+___ 12:00PM   GLUCOSE-120* UREA N-8 CREAT-1.2 SODIUM-136 
+POTASSIUM-5.2* CHLORIDE-100 TOTAL CO2-26 ANION GAP-15
+
+___ 12:00PM   ALT(SGPT)-30 AST(SGOT)-33 LD(LDH)-345* ALK 
+PHOS-101 TOT BILI-0.5
+___ 12:00PM   ALBUMIN-3.7 CALCIUM-9.3 PHOSPHATE-2.6* 
+MAGNESIUM-2.1 URIC ACID-5.0
+___ 12:00PM   NEUTS-70.8* ___ MONOS-6.2 EOS-1.5 
+BASOS-0.4
+___ 12:00PM   ___ ___
+___ 12:00PM   ___ ___
+
+IMPRESSION: 
+  
+1. Redemonstration of the T11 vertebral lesion, with horizontal 
+fluid filled cleft related to the fracture. No obvious epidural 
+component within the limitations of the study, due to motion 
+artifacts. No abnormal enhancement in the spinal cord or in the 
+roots of the cauda equina. 
+  
+2. Degenerative changes in the cervical spine, most prominent at 
+C5-6, 
+causing moderate canal stenosis, effacement of the ventral and 
+the posterior thecal space and mild indentation on the surface 
+of the cord. 
+  
+3. Heterogeneous bone marrow signal intensity likely related to 
+multiple 
+myeloma. 
+  
+4. Slightly increased signal intensity of C3, of uncertain 
+significance, 
+attention can be paid to this on followup study. 
+
+ 
+Brief Hospital Course:
+___ year old man with history of multiple myeloma admitted for 
+management of herpes zoster with acyclovir, later found to have 
+a T11 fracture s/p vertebroplasty, was able to walk with a 
+walker and assistance on discharge to rehab.  Has an outpatient 
+appointment set up with Dr. ___ 2 weeks after discharge.  
+  
+# Zoster: At the time of initial evaluation the patient had 
+zoster that was limited to one dermatome and does not cross the 
+midline, so is not disseminated zoster. Given pt's fragile 
+immune status (in the setting of recent chemotherapy) pt was 
+being admitted for monitoring of herpetic eruption.  Pt. was 
+treated with acyclovir IV with crusting and healing of the rash.
+  
+# Multiple myeloma: The pt was due to start cylce 2 
+Velcade/dexamethasone on ___, but appointment was 
+rescheduled secondary to recent admission for diarrhea and fall. 
+ Pt. was found to have a T11 fracture with infiltration on MRI.  
+Received a T11 vertebroplasty, was able to walk with a walker 
+and control pain with a fentanyl patch on discharge.  Continued 
+propranolol for tremors, decreased on discharge.  
+
+# Constipation:  Pt. was on multiple narcotics for back pain 
+prior to vertebroplasty and subsequently did not have a bowel 
+movement for 12 days, was made NPO, GI was consulted and 
+mentioned possible ileus with bed rest and PPN.  Placed on PPN, 
+was passing gas, placed on laxatives and enemas and subsequently 
+had a bowel movement 3 days prior to discharge.  Was placed on a 
+regular diet prior to discharge.
+  
+# Diabetes Type 2:  Was controlled on ISS, switched to metformin 
+and glipizide on discharge.
+ 
+# Hypertension:  Continued moexipril 
+  
+# Hypercholesterolemia:  Continued atorvastatin  
+
+ 
+Medications on Admission:
+Lidocaine 5% Patch 1 PTCH TD 12 HOURS ON, 12 HOURS OFF  
+Moexipril 15 mg PO BID  
+Acyclovir 800 mg IV Q12H  
+OxycoDONE (Immediate Release) ___ mg PO Q4H:PRN pain  
+Atorvastatin 10 mg PO DAILY  
+Propranolol LA 240 mg PO DAILY  
+Metformin 1000 bid  
+Glipizide 20 bid  
+Levothyroxine 112 mcg daily  
+cyclobenzaprine 5mg tid prn  
+
+ 
+Discharge Medications:
+1. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day. 
+ 
+2. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO twice a day.  
+3. Moexipril 15 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical 12 HOURS ON, 12 HOURS 
+OFF ().  
+6. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane 
+QID (4 times a day) as needed.  
+8. Propranolol 120 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+9. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+10. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed for back pain.  
+11. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+12. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day). 
+ 
+13. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical 
+QID (4 times a day) as needed.  
+14. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary
+Multiple Myeloma
+Herpes Zoster Infection
+T11 vertebral fracture s/p vertebroplasty
+
+Secondary
+Constipation
+Hypertension
+
+ 
+Discharge Condition:
+Stable, ambulating well with walker, eating, drinking, and 
+voiding without complaints
+
+ 
+Discharge Instructions:
+You were admitted for a herpes zoster infection of the skin of 
+your right breast.  Upon arrival, you were given a medication 
+called acyclovir, which helped treat this infection.  However, 
+during your stay, your existing back pain became worse and an 
+MRI was obtained of your spine which demonstrated a fracture of 
+one of your vertebra with possibly extension of cancer.  As a 
+result, you underwent a vertebroplasty.  You tolerated this 
+procedure well, and upon discharge, you were able to walk well 
+with a walker and some assistance.
+
+We have started you on some new medications:
+START Fentanyl patch 50mcg/hr please change every 72 hours
+START Acyclovir 400mg every 8 hours
+
+If you have any sudden loss of urinary control, loss of bowel 
+control, nausea, vomiting, chest pain, diarrhea, severe 
+constipation, lightheadedness, dizziness, or loss of 
+sensation/function in your lower extremities, please contact 
+your primary care provider, or primary oncologist immediately.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19493050-DS-19 | hadm_id=28537546
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+PEG tube placement 
+Spinal Tap
+Intubation
+ 
+History of Present Illness:
+HPI: ___ yo man with multiple myeloma in who presents from rehab 
+with altered mental status over past 7 days. History taken from 
+daughter who sees him daily at rehab. She states he is alert and 
+oriented at baseline but over the past ___ days has had poor 
+oral intake and has been less verbal than usual. She states he 
+usually knows his name and recognizes her but she admits he is 
+sometimes 'confused' and this is not a new process. He had 
+denied any cough, pain, dysuria, diarrhea, chest pain, dyspnea 
+and the rehab facility did not report any of these symptoms as 
+well.
+.
+In the ER urinalysis with many WBC's and bacteria, CXR clear on 
+my read, CT head with no acute process. Patient was given 
+vancomycin and zosyn in the ER. Vitals stable in ER, T 98 but 
+rose to 100.8 later on. Received 2.5 liters saline. Foley 
+catheter placed in ER.
+ 
+Past Medical History:
+1. Multiple myeloma: Diagnosed ___. Initial presentation 
+sinus congestion --> found to have rapidly growing mass in left 
+paranasal sinus --> ENT endoscopic biopsy ___ --> 
+plasmocytoma --> BMBx ___ --> myeloma. No lytic lesions on 
+skeletal survey. Chemotherapy with Velcade and dexamethasone 
+started ___.  
+2. Type 2 DM: Last A1c 8.0% ___. In setting of starting 
+steroids, recent ___ in the 300-400s. Has been on metformin and 
+glyburide. 
+3. Hypertension  
+4. Hypercholesterolemia: On Atorvastatin. Last cholesterol 147 
+___  
+5. Essential tremor  
+6. Hypothyroidism: History of Grave's disease. Was rx'd with 
+radioactive iodine.   
+7. Hyperparathyroidism: Borderline hypercalcemia. Increased 
+parathyroid uptake c/w adenoma seen on parathyroid scan in 
+___.  
+8. Lactose intolerance per OMR 
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PE: 98.9, 131/72, 77, 20, 99% 3L, fsg 220
+Gen- nad, aox1 (knew name), nad, ___ and follows commands 
+but sluggish
+heent- jvp flat, dry MM
+heart- rrr, no m/r/g
+lungs- ctab
+abdomen- soft, nt/nd, bs+, no hsm
+ext- no edema
+neuro- moves all 4 ext freely, unable to cooperate with full 
+exam, reflexes 2+ upper and lower ext, no clonus, perla, cn ___ 
+intact
+ 
+Pertinent Results:
+___ 03:30PM   GLUCOSE-251* UREA N-28* CREAT-1.9* 
+SODIUM-149* POTASSIUM-4.4 CHLORIDE-111* TOTAL CO2-24 ANION 
+GAP-18
+___ 03:30PM   CALCIUM-10.0 PHOSPHATE-3.5 MAGNESIUM-2.2
+___ 03:30PM   WBC-6.8 RBC-3.60* HGB-10.4* HCT-32.7* MCV-91 
+MCH-28.9 MCHC-31.8 RDW-16.7*
+___ 03:30PM   NEUTS-57 BANDS-21* LYMPHS-6* MONOS-9 EOS-1 
+BASOS-0 ATYPS-4* METAS-2* MYELOS-0 NUC RBCS-2*
+___ 03:30PM   ___ PTT-33.1 ___
+.
+Micro:
+___ Cdiff positive
+___ Blood culture: no growth - final
+___ Blood culture- no growth final
+___ Urine culture no growth
+.
+Studies:
+-___ CT chest/abd/pevlis: 1. Bilateral moderate-sized 
+pleural effusions, with bibasilar airspace opacifications, 
+likely atelectasis; however, superinfection or aspiration cannot 
+be excluded. 
+2. Cardiomegaly. 3. Bilateral hypodensities in the kidneys, not 
+characterized on the current scan. These could be further 
+evaluated with ultrasound. Nonspecific fat stranding around the 
+kidneys, correlate with urinary analysis. 4. Anasarca. 5. 
+Suggestion of wall thickening at the rectum and sigmoid, with no 
+significant fat stranding, this finding could suggest colitis in 
+the appropriate clinical setting. Correlate with clinical 
+symptoms. 6. Compression fracture of vertebral body of T8 of 
+indeterminate age, correlate with point tenderness. Loss of 
+height of vertebral body of L5 of indeterminate age. 7. 
+Bilateral inguinal hernia, with fluid on the right. 
+-___ EEG: These findings suggest a moderate to severe 
+encephalopathy. 
+Medications, metabolic disturbances, and infection are among the 
+most 
+common causes. There were no epileptiform features or 
+electrographic 
+seizures. This telemetry captured no pushbutton activations. 
+-___ Renal US: IMPRESSION: 1. No hydronephrosis of left or 
+right kidney. 2. A few small cysts are seen in both kidneys. 3. 
+A small amount of free fluid is seen in the upper abdomen. 4. 
+Bilateral pleural effusions, 
+-___ MRI head: 1. No findings to explain patient's symptoms. 
+Chronic small vessel ischemic changes and cerebral atrophy. 
+2. No evidence of acute infarct. 3. Left cerebellopontine angle 
+isointense lesion measuring less than 1 cm, may represent 
+extension of the left cerebellar flocculus or soft tissue 
+lesion. Dedicated skull base pre-and post-contrast MR imaging is 
+recommended on a nonurgent basis for further evaluation. This 
+lesion is stable when compared to ___. 
+___ Echo: The left atrium is mildly dilated. There is mild 
+symmetric left ventricular hypertrophy. The left ventricular 
+cavity size is normal. Left ventricular systolic function is 
+hyperdynamic (EF 70-80%). There is no ventricular septal defect. 
+Right ventricular chamber size and free wall motion are normal. 
+There are three aortic valve leaflets. The aortic valve leaflets 
+are moderately thickened. There is a minimally increased 
+gradient consistent with minimal aortic valve stenosis. Mild 
+(1+) aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Trivial 
+mitral regurgitation is seen. The left ventricular inflow 
+pattern suggests impaired relaxation. There is moderate 
+pulmonary artery systolic hypertension. There is a small 
+posterior pericardial effusion. There are no echocardiographic 
+signs of tamponade.
+.
+___:
+IMPRESSION:
+1. Large bilateral pleural effusions, worse than before with 
+associated
+compressive atelectasis, diffuse soft tissue anasarca, and trace 
+perihepatic
+free fluid, may reflect third spacing.
+2. Multiple bilateral renal cysts, largest in the superior pole 
+of the right
+kidney, incompletely characterized in the non-contrast setting.
+3. T11 and T8 compression fractures may relate to underlying 
+multiple
+myeloma, unchanged since the recent prior.
+
+ 
+Brief Hospital Course:
+This was a ___ gentleman with a past medical history of 
+multiple myeloma, diabetes mellitus, hypertension, and 
+hypothyroidism who presented with altered mental status and 
+subsequently developed A. fib w/ RVR, ARF, thrombocytopenia, 
+anemia, C.diff, and MRSA in his sputum.  He passed away on ___ 
+due to complications from these multiple medical conditions.
+.  
+#CHANGE IN MENTAL STATUS:  Unclear etiology for altered mental 
+status but possibilities include infection or neurologic 
+catastrophe such as hypoxic brain injury or multiple old 
+strokes.  MRI, LP, and EEG were all negative for causative 
+pathology.  Neurology was consulted and had no additional 
+work-up or treatment to recommend. The patient was started on 
+carbidopa/levidopa for ridigity and presumed ___.  
+Patient was kept comfortable and an effort was made to verbally 
+orient him at the bedside.  He was able to respond to his name 
+___ moving his eyes) but remained non-verbal toward the end of 
+hospital admission.
+.
+#ATRIAL FIBRILLATION WITH RVR: The patient developed A. fib with 
+RVR and was transferred to the FICU for initation of rate 
+control. He was started on metoprolol, which was later changed 
+to diltiazem.  He acheived good rate control on diltiazem. 
+.
+#PEA ARREST:  Patient went into cardiac (PEA) arrest on ___ and 
+was resuscitated at the bedside.  He was intubated and 
+transferred to the ICU.  He was stabilized and extubated without 
+complication.  Diltiazem was restarted.  Cardiac enzymes were 
+negative and echo showed mildly enlarged left atrium with 
+hyperdynamic LV function.
+.
+#ACUTE RENAL FAILURE: FeNa was 4.1%. Likely secondary to ATN 
+from hypervolemia or worsening multiple myeloma. His renal 
+function improved with multiple myeloma treatment. The patient 
+has a baseline Cr 0.9-1.1. Renal was following the patient 
+during this admission and had no further recommendations. The 
+patient's worst Cr was 2.7 and improved to 1.5.  Bactrim was 
+discontinued to account for false elevation of creatinine. 
+.  
+#ELECTROLYTE ABNORMALITIES:  Patient's electrolyes were closely 
+monitored throughout admission and repleted as necessary.
+
+#ANEMIA/THROMBOCYTOPENIA:  Thought to be due to multiple myeloma 
+and other chronic disease states.  Mr. ___ was given PRBCs 
+to maintain a Hct above 21.  HIT antibodies were negative.  
+.  
+#MULTIPLE MYELOMA: The patient was treated with 3 cycles of high 
+dose Dexamethasone. His Creatinine, thrombocytopenia, anemia, 
+and other markers of multiple myeloma all improved after 
+treatment. 
+.
+#DIABETES: The patient was treated with insulin sliding scale 
+and glargine. His blood sugars were difficult to control while 
+he was on dexamethasone. Nutrition was following for appropriate 
+tube feed recommendations.
+.
+#INFECTION:  The patient developed MRSA in his sputum. He was 
+treated with 8 days of IV vancomycin. He also developed C. diff 
+after being treated for a UTI. He was treated with 14 days of IV 
+flagyl and po vancomycin. His diarrhea was rechecked ___ 
+and it was negative for C.diff.  On ___ a CT of his torso 
+demonstrated evidence of pneumonia.  As per ID recommendations, 
+Mr. ___ was started on a 7 day course of cefepime and 
+vancomycin.
+.  
+#HYPOTHYROIDISM:  Levothyroxine.
+.
+#NUTRITION:  PEG with tube feeds.  Nutrition service followed 
+patient closely.
+.
+#SECRETIONS:  Toward the end of his life, Mr. ___ had 
+difficulty clearing his secretions; most likely due to weak 
+musculature, poor cough effort, and central nervous system 
+issues.  Respiratory therapy was called to help with suctioning.
+.
+#GOALS OF CARE:  Multiple discussions were held with patient's 
+family and his healthcare team.  His family was informed of his 
+dire prognosis, and the decision was made to make patient 
+DNR/DNI and not to pursue further cancer treatment.  Patient's 
+family and healthcare team were intent on providing supportive 
+care and making the patient comfortable.
+ 
+Medications on Admission:
+Novolog sliding scale
+milk of magnesia prn
+tylenol prn
+compazine prn
+flexeril prn
+oxycodone 10mg po q4h prn
+flomax qhs
+primidone 50mg po qhs
+remeron 15mg po qhs
+dulcolax prn
+mylanta prn
+protonix 40mg po daily
+norvasc 10mg po daily
+mvi daily
+moexipril 30mg po bid
+colace 100mg bid
+oxycontin 10mg po bid
+valtrex ___ po qhs
+levothyroxine 112mcg daily
+propranolol er 240mg po daily
+miralax daily
+epogen 40,000 untis sq weekly
+natural tears
+ 
+Discharge Medications:
+Patient expired.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Primary: Delerium, UTI
+Secondary: Multiple myeloma, demenia
+
+ 
+Discharge Condition:
+Patient expired.
+ 
+Discharge Instructions:
+Patient expired.
+ 
+Followup Instructions:
+___

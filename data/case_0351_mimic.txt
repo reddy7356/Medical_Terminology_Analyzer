@@ -1,0 +1,250 @@
+===== DISCHARGE NOTE =====
+note_id=17540036-DS-6 | hadm_id=22002846
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Soma
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+
+ 
+Major Surgical or Invasive Procedure:
+Dual Chamber Pacemaker placement ___
+
+ 
+History of Present Illness:
+___ with Afib on coumadin, morbid obesity, history of PE, 
+presenting with recurrent syncope.  Has had 5 episodes of 
+syncope in last 24 hours. Has had increasing frequency of 
+discrete episodes of symptomatic Afib that last hours and 
+usually resolve spontaneously; at the time of conversion to NSR 
+she feels presyncopal (these presyncopal symptoms are new over 
+the last 3 months).  Two weeks ago, presyncopal symptoms were 
+very severe during a conversion and had near syncope, which was 
+associated with a reportedly 6 second pause on ___ monitor.  
+Never truly syncopized until yesterday.  Apparently also had 
+significant pause overnight (documented at either 6 or 4.5 
+seconds) witnessed by EMS (strip not available to me). Also had 
+Afib with rates in 140s (not clear to me if before or following 
+long pause).  Historically, presyncope always preceded by Afib 
+and associated with Afib termination; however, with episodes 
+yesterday she is unsure if her fib terminated, as notes that she 
+was still in fib when she came to again.
+
+She was brought to ___, where she was in sinus rhythm in 
+the ___.  As no telemetry beds available, transferred to ___ 
+for likely PPM placement.  
+
+She was seen by Dr. ___ on ___ (note not yet available) 
+for ?PPM placement; reports this is scheduled to be done on 
+___.  
+ 
+On review of systems, notable for dyspnea, chills, urinary 
+frequency, and hand tingling during episodes of Afib - otherwise 
+has not had these.  Does endorse diarrhea x 4 days, nonbloody, 
+controlled with immodium.  Took antibiotics a couple months ago 
+for a UTI.  She denies any prior history of stroke, TIA, 
+myalgias, cough, hemoptysis. She denies recent fevers, or 
+rigors. He denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+change in ankle edema.
+ 
+Past Medical History:
+Cardiac Risk Factors: (-)Diabetes, (-)Dyslipidemia, 
+(+)Hypertension  
+ 
+Cardiac History: 
+No CABG, PCI or Pacemaker/ICDs  
+  
+Other Past History: 
+- morbid obesity 
+- hypertension
+- paroxysmal AFib (diagnosed ___ years ago)
+- history of DVT with pulmonary emboli ___ 
+- migraines
+- diverticulosis
+- sciatica
+- s/p open cholecystectomy 
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  Multiple family members (mother, daughter, 
+cousins) have Afib.
+ 
+Physical Exam:
+Exam on admission ___:
+VS -  T97.7, 157/71, P60s, R22, 97% RA
+Gen: Morbidly obese female lying in bed, NAD.  
+HEENT: NCAT. Sclera anicteric. +pupil asymmetry (R 3->2, L fixed 
+at ~4, old). Conjunctiva were pink, no pallor or cyanosis of the 
+oral mucosa. No xanthalesma.  
+Neck: Supple with JVD of 2-3 cm ASA.  
+CV: RR, normal S1, S2. ___ SM at LUSB. No thrills, lifts. No S3 
+or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB anterolaterally  
+Abd: Soft, morbidly obese, NTND. No HSM or tenderness.   
+Ext: Obese extremities, no obvious pitting edema.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.   
+
+Exam on discharge ***
+ 
+Pertinent Results:
+OSH labs: digoxin 0.2, bicarb 21, BNP 76, Ddimer negative
+
+Labs on admission ___:
+WBC-9.2 RBC-4.02* Hgb-13.4 Hct-39.8 MCV-99* MCH-33.4* MCHC-33.7 
+RDW-13.7 Plt ___
+Neuts-78.3* Lymphs-15.4* Monos-4.6 Eos-1.4 Baso-0.3
+___ PTT-34.5 ___
+Glucose-117* UreaN-12 Creat-0.7 Na-140 K-4.2 Cl-104 HCO3-24 
+AnGap-16
+Calcium-9.4 Phos-3.1 Mg-1.6
+TSH-3.8
+
+Labs on discharge ***
+
+Micro: none
+
+Imaging:
+EKG demonstrated NSR at 63, PR ~200, NA normal intervals with no 
+significant change compared with prior dated ___. 
+
+Review of EMS tracings reveals Afib in 140s. 
+
+CXR ___: Elevated right hemidiaphragm with clear lungs.
+
+CXR ___ Post pacemaker placement: ***
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with paroxysmal symptomatic 
+Atrial fibrillation, morbid obesity, hypertension, who presented 
+with recurrent syncope in setting of pauses during conversion 
+from Afib to Normal Sinus Rhythm.
+
+#. Rhythm/PAF/sinus pause. 
+She has Afib which terminates and she then has a sinus pause 
+before sinus node takes over again. On telemetry, patient 
+alternated between Afib with RVR with HR in 100s to sinus 
+bradycardia with HR in ___.  She did have a couple episodes of 
+Afib with RVR to 140s, associated with anxiety, palpitations, 
+urinary frequency, and overall discomfort; she was treated with 
+an extra dose of low dose po metoprolol for these episodes which 
+slowed her rate enough to convert rhythm.  On conversion from 
+Afib to NSR, she had pauses associated with pre-syncopal 
+symptoms. TSH normal. She had pacemaker placed ___.  She was 
+given 3 doses of IV Vancomycin ___ and started on 
+cephalexin 500mg Q6h x 2 days.  Warfarin had been held prior to 
+procedure, and she was restarted on warfarin without heparin 
+bridge. She was maintained on metoprolol which was uptritrated 
+in the setting of further episodes of Afib with RVR and 
+discharged to rehab on metoprolol succinate XL 100mg daily.  
+This dose may be further uptitrated as needed.  Digoxin had been 
+held in the setting of symptomatic sinus conversion pauses but 
+was restarted upon discharge after pacemaker placement at home 
+dose. 
+ 
+#.  Diarrhea. 
+Pt complained of recent diarrhea which improved on its own 
+during hospitalization. She did have recent antibiotic course.  
+No leukocytosis or fevers. She was continued on immodium as she 
+was taking regularly at home. If diarrhea starts again, it 
+should be further evaluated as outpatient.
+
+#.  Sciatica. Stopped celebrex. Continued on tramadol. Given 
+tylenol PRN.
+ 
+Medications on Admission:
+Diovan 80 mg BID
+Atenolol 37.5 mg BID (recently decreased from 50 mg BID)
+Digoxin 0.125 mg daily
+Warfarin 6 mg daily
+Celebrex ___ mg daily
+Tramadol 50 mg BID
+MVI
+Immodium recently
+ 
+Discharge Medications:
+1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Tramadol 50 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for pain.  
+4. Loperamide 2 mg Capsule Sig: One (1) Capsule PO TID (3 times 
+a day) as needed for diarrhea.  
+5. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours) for 2 days.
+Disp:*6 Capsule(s)* Refills:*0*
+6. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4 
+___.  
+7. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml 
+Injection TID (3 times a day).  
+9. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+Atrial fibrillation with sinus arrest in normal sinus rhythm
+
+Secondary:
+Sciatica
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Ms. ___, you were admitted to ___ because you were having 
+episodes where you passed out, which seemed to be related to a 
+slow heart rate when your heart was switching back from atrial 
+fibrillation to its normal rhythm. You had a pacemaker placed to 
+keep you from passing out anymore.  We then increased your 
+metoprolol to help prevent you from having further episodes of 
+atrial fibrillation at a fast heart rate that makes you feel 
+palpitations.
+
+Changes to your medications:
+1. STOP Celebrex
+2. Please START Metoprolol Succinate XL 100mg daily
+3. CONTINUE warfarin 6mg daily, but please have INR checked 
+again tomorrow and ___ to make sure your INR comes up 
+appropriately
+4. Please STOP Atenolol 
+5. Heparin SQ can be stopped after INR almost therapeutic 
+
+You will need to have your INR rechecked at least ___ per week 
+until it is stable within the appropriate range.
+ 
+Followup Instructions:
+___

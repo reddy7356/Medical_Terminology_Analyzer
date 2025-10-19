@@ -1,0 +1,779 @@
+===== DISCHARGE NOTE =====
+note_id=19857454-DS-22 | hadm_id=29320527
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ceftin / Bactrim / Tetracycline / Rifampin / Levaquin in D5W / 
+Penicillins / Heparin Analogues / minoxidil / vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hyperkalemia
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of DMII, COPD on 
+home O2, OSA on bipap, HTN, ESRD on HD (___) via RUE 
+brachiobrachial AVG (___) who presents with clotted AVG s/p 
+failed thrombectomy. Found to be hyperkalemic.  
+Patient has a RUE AVG placed ___. She had recurrent 
+problems with outflow stenosis and difficulty with cannulation 
+due to the course of the graft. On ___ she underwent 
+revision with a jump graft and then another revision with patch 
+angioplasty of the venous anastomosis on ___. Over the 
+past two weeks, patient has had difficulty at graft site 
+including pain and swelling during HD treatments, but graft has 
+been functioning. Today, HD could not be completed and she was 
+sent to the ___ due to concern for clot, where an 
+ultrasound showed a thrombus extending from the graft proximally 
+to the sublcavian vein (imaging not yet available in our 
+system). This was felt to be indicative of a central stenosis 
+that would not be amenable to an open thrombectomy. An ___ 
+thrombectomy was attempted and 4 mg TPA was instilled without 
+success. Because of use of TPA, ___ was not comfortable placing 
+another HD line. Of note, she does have a left forearm fistula 
+with a thrill placed in ___ at an OSH, which was never used 
+because it was too deep. She was sent to the ER for further 
+eval.  
+In the ED, initial vitals were 98.3 64 138/53 18 97% RA. Initial 
+labs were notable for hyperkalemia to 6.4 and thrombocytopenia 
+(54). Patient received kayexalate, calcium gluconate, and 
+insulin. Renal was consulted and will see patient in the morning 
+but preliminarily recommended kayexalate and NPO at ___. She was 
+seen by ___, who recommended 6 months of anticoagulation for her 
+RUE DVT. Of note, she has a heparin allergy which limits 
+anticoagulation options. She was admitted to the MICU for 
+further care.  
+On arrival to the MICU, patient confirms the above history. She 
+has not noted SOB above her baseline or palpitations. She 
+endorses pain and swelling over the graft site.  
+In terms of her thrombocytopenia, patient reports it was 
+diagnosed ___ years ago. Platelets nadired in the low 30's. She 
+was seen at ___, where she was told she should not take 
+heparin again in case thrombocytopenia is related to heparin. 
+She was not formally diagnosed with HIT. She received N-plate 
+but has not taken it recently. Baseline plt is 100, most 
+recently ~106. She has had no recent mucosal bleeding, blood in 
+stool, or hematuria.  
+
+ 
+Past Medical History:
+DM (insulin dependent on insulin pump)
+morbid obesity
+ESRD on Dialysis
+OSA on bipap ___
+asthma
+Diverticulosis s/p partial colectomy
+COPD on home oxygen
+Cholecystectomy
+Paroxysmal afib in the setting of hyperkalemia
+
+ 
+Social History:
+___
+Family History:
+ Mother and sister with DM and HTN. Father died at ___ years old 
+with stroke and lung cancer. Mother died at ___ with CHF.
+
+ 
+Physical Exam:
+Admission Physical Exam:  
+Vitals: 156/67 79 98 4L  
+General- Alert, oriented, no acute distress, morbidly obese  
+HEENT- Sclera anicteric, MMM, oropharynx clear, no mucosal 
+bleeding  
+Neck- supple, difficult to assess due to habitus  
+Lungs- LCTAB with exceptions of very faint bibasilar rales, no 
+wheezes, rales, ronchi  
+CV- RRR, S1 + S2, III/VI systolic murmur heard throughout 
+precordium, no r/g  
+Abdomen- obese, soft, non-tender, non-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused. RUE with AVG with bruit and overlying 
+ecchymoses, tenderness. No erythema or drainage. Left forearm 
+with AVF with thrill/bruit. ___ pulses 1+ and symmetrical.  
+Neuro- A+O x 3, CN2-12 intact, motor function grossly normal, 
+decreased sensation of feet and ankles  
+
+DISCHARGE:
+Vitals: 98.4 90/40 57 20 98 3L
+General: lying bed, NAD  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple
+Lungs: mild crackles at bases bilaterally, no rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: no cce, ecchymoses present over R inner arm, 6cmx7cm  
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:40PM BLOOD WBC-9.3 RBC-3.41* Hgb-10.8* Hct-32.6* 
+MCV-96 MCH-31.7 MCHC-33.2 RDW-15.2 Plt Ct-57*#
+___ 07:40PM BLOOD Neuts-91.8* Lymphs-6.1* Monos-1.5* 
+Eos-0.4 Baso-0.2
+___ 07:40PM BLOOD ___ PTT-34.5 ___
+___ 07:40PM BLOOD Glucose-253* UreaN-93* Creat-9.2* Na-136 
+K-6.4* Cl-100 HCO3-19* AnGap-23*
+___ 07:40PM BLOOD Calcium-8.6 Phos-6.9* Mg-2.2
+
+CXR ___:
+FINDINGS:  Comparison is made to prior study of ___. 
+There is cardiomegaly.  There is improvement of vascular 
+congestion since the prior study.  There remains some prominence 
+of pulmonary interstitial 
+markings.  There is no focal consolidation or pneumothoraces. 
+  
+REPORTS:
+RUE US:
+IMPRESSION:  No right upper extremity deep vein thrombosis.
+
+LUE vein mapping: pending
+
+DISCHARGE:
+
+___ 08:35AM BLOOD WBC-9.4 RBC-3.00* Hgb-9.6* Hct-28.3* 
+MCV-94 MCH-31.9 MCHC-33.9 RDW-15.1 Plt Ct-69*
+___ 08:35AM BLOOD Glucose-142* UreaN-73* Creat-7.7*# Na-136 
+K-3.9 Cl-95* HCO3-22 AnGap-23*
+___ 08:35AM BLOOD Calcium-8.1* Phos-6.8*# Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with a history of DM II (on 
+insulin), COPD (on ___ home O2), OSA, and ESRD on HD (___) 
+who presented from HD with a clotted RUE AVG and hyperkalemia 
+and thrombocytopenia. 
+
+# Hyperkalemia: Likely ___ to ESRD and missing HD session on 
+___. Per patient, K occasionally runs in low 6's prior to HD 
+sessions. She was unable to be dialyzed ___ due to graft 
+dysfunction from clot. Reportedly had peaked Ts on EKG in ED, 
+received kayexalate and calcium gluconate. EKG on arrival to the 
+MICU did not show hyperkalemic changes. No arrhythmias on 
+telemetry. Kayexelate was continued and her potassium 
+downtrended to 5.2 by HD 1. Pt's HD line appeared to be 
+functioning well (see below), and pt was dialyzed. Post-HD 
+potassium was within normal limits.  
+
+# RUE DVT: Extends to right subclavian. ___ recommended 6 months 
+of anticoagulation. but patient has a heparin allergy, limiting 
+anticoagulation options. Because of tenuous IV access (#20 PIV R 
+hand) and thrombocytopenia, the risk of starting a 
+non-reversible anticoagulant such as argatroban was judged to 
+outweigh the benefit, esp given that pt was scheduled for 
+temporary HD line placement by ___ the next day. Patient did not 
+require a procedure as her RUE DVT was no longer present after 
+repeat RUE ultrasound did not show a clot. Pt started warfarin 
+however it was discontinued prior to her discharge given that 
+transplant surgery was planning a procedure on ___ (see 
+below). 
+
+# Thrombocytopenia: Etiology unclear. Recent baseline 100. 
+History is not convincing for HIT, though OSH hematology records 
+were not available to confirm. ITP also possible. Trended 
+platelets w/ plan to transfuse if fell <10 or if actively 
+bleeding which did not occur.
+
+# ESRD: On HD ___. After clot prevented completion of HD on 
+___, flow in HD line reportedly could not be restored after an 
+attempted ___ thrombectomy and TPA instillation. Could not 
+receive heparin ___ reported allergy. In the MICU, pt was 
+continued on her home furosemide, sevelamer and nephrocaps. 
+Initially RUE AVG was non-functional, and ___ HD line 
+placement was planned. However, trial of accessing HD line was 
+successful, possibly delayed effect of TPA infusion, and pt was 
+dialyzed on ___. Post-HD potassium was wnl, and pt was 
+transferred to the floor in stable condition. Pt underwent US of 
+her L forearm fistula to evaluate for possibility of 
+superficializing, which showed patent AVF. Patient had a patent 
+RUE and LUE fistula.  She is scheduled to have a 
+superficialization procedure by transplant surgery on ___, 
+at which time she will likely restart warfarin.
+
+# DM II. Continued insulin pump.  
+
+# COPD. Continued O2 by NC @ 3L during day, 4L at night 
+(baseline), continue Symbicort, albuterol. 
+
+# OSA: per patient, had sleep study which showed resolution of 
+OSA, not on CPAP
+ 
+# Hypercholesterolemia. Continued simvastatin.  
+
+# HTN. Continued amlodipine, doxazosin.  
+
+# pHTN. Stable.   
+
+# GERD. Continued omeprazole. 
+ 
+# Tremor: Patient confirmed she has no seizure history; Keppra 
+is for tremor only. Continued Keppra.  
+
+TRANSITIONAL ISSUES:
+-Patient is to receive surgery on ___ from transplant for 
+LUE fistula
+-Patient should restart warfarin after procedure to prevent 
+clots
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation 2 puffs BID 
+2. LeVETiracetam 500 mg PO TID ON SAT, SUN, TUES, THURS 
+3. LeVETiracetam 500 mg PO BID MON, WEDS, FRI 
+Dose after HD 
+4. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+5. Furosemide 160 mg PO BID: SAT, SUN, TUES, THURS 
+6. Furosemide 160 mg PO DAILY: MON, WEDS, FRI 
+7. Thiamine 100 mg PO DAILY 
+8. Amlodipine 10 mg PO DAILY 
+Hold for SBP < 110 or HR < 65 
+9. Calcium 600 *NF* (calcium carbonate) 600 mg (1,500 mg) Oral 
+daily 
+10. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+11. Ferrous Sulfate 325 mg PO DAILY 
+12. Omeprazole 20 mg PO BID 
+13. Doxazosin 2 mg PO HS 
+Hold for SBP < 110 
+14. Simvastatin 20 mg PO HS 
+15. Bisacodyl 10 mg PO DAILY:PRN constipation 
+16. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO Q6H:PRN pain 
+17. Insulin  Pump SC (Self Administering Medication)
+Target glucose: 80-180
+18. Docusate Sodium 100 mg PO BID 
+19. Senna 1 TAB PO BID:PRN constipation 
+20. Nephrocaps 1 CAP PO DAILY 
+21. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB, wheezing 
+22. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB, wheezing 
+2. Amlodipine 10 mg PO DAILY 
+3. Bisacodyl 10 mg PO DAILY:PRN constipation 
+4. Docusate Sodium 100 mg PO BID 
+5. Doxazosin 2 mg PO HS 
+6. Ferrous Sulfate 325 mg PO DAILY 
+7. Furosemide 160 mg PO BID: SAT, SUN, TUES, THURS 
+8. Furosemide 160 mg PO DAILY: MON, WEDS, FRI 
+9. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO Q6H:PRN pain 
+10. Insulin  Pump SC (Self Administering Medication)
+Target glucose: 80-180
+11. LeVETiracetam 500 mg PO TID ON SAT, SUN, TUES, THURS 
+12. LeVETiracetam 500 mg PO BID MON, WEDS, FRI 
+13. Nephrocaps 1 CAP PO DAILY 
+14. Omeprazole 20 mg PO BID 
+15. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+16. Senna 1 TAB PO BID:PRN constipation 
+17. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+18. Simvastatin 20 mg PO HS 
+19. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation 2 puffs BID 
+20. Thiamine 100 mg PO DAILY 
+21. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+22. Calcium 600 *NF* (calcium carbonate) 600 mg (1,500 mg) Oral 
+daily 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+ESRD on Dialysis
+R AV fistula clot
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ after your dialysis fistula clotted.  
+While you were here, your fistula was re-evaluated and you had 
+tPA and a thrombectomy of that fistula.  An ultrasound later 
+showed the fistula to be working well.  You also had an 
+ultrasound of your left fistula (which you haven't been using) 
+and can follow up with the transplant surgeon regarding that 
+fistula.  We started you on warfarin (coumadin) to help prevent 
+clots in that fistula.  We stopped this so you could potentially 
+have surgery ___ for your Left fistula.
+
+Please follow up with your primary care doctor, your 
+nephrologist, and transplant surgery.  The transplant surgeons 
+would like to see you later this week, likely on ___, to 
+potentially superficialize your left upper extremity fisutla or 
+place a new fistula if necessary. It was a pleasure taking care 
+of you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19857454-DS-21 | hadm_id=29355998
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ceftin / Bactrim / Tetracycline / Rifampin / Levaquin in D5W / 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers
+
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy with transbronchial biopsy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a PMHx s/f DMII, HTN, ESRD 
+on dialysis and awaiting transplant. She has been having fevers 
+chills for approximately 1 month. Cultures from ___ 
+demonstrated stretococcus mitis for which she was started on IV 
+vancomycin. As a result of the positive cultures and persistent 
+fevers, she was admitted to ___ from ___ 
+to ___ unt. CT and TTE were performed with no evidence of 
+infectious source. She was discharged with 2 weeks of total 
+vancomycin therapy which ended on ___. Ms. ___ has noted 
+recurrent fevers (approximately 3 times weekly to ___, 
+malaise, and daily chills. She also notes ___ myalgias which are 
+baseline for her, and states that her vertigo is at baseline 
+with daily dizziness which is positional in nature and responds 
+to epley maneuver.
+.  
+In the ED, initial VS were 99 100 138/54 20 94% 4l, CXR was 
+obtained which demonstrated mild/moderate pulmonary edema and 
+left pleural effusion. Vancomycin was given for temperature of 
+101. Labs were notable for anemia to 29.0. No leukocytosis. 
+Blood Cultures were drawn.
+.  
+ROS: per HPI, denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria.
+ 
+Past Medical History:
+DM (insulin dependent on insulin pump)
+morbid obesity
+ESRD on Dialysis
+OSA on bipap ___
+asthma
+Diverticulosis s/p partial colectomy
+COPD on home oxygen
+Cholecystectomy
+Paroxysmal afib in the setting of hyperkalemia
+
+ 
+Social History:
+___
+Family History:
+ Mother and sister with DM and HTN. Father died at ___ years old 
+with stroke and lung cancer. Mother died at ___ with CHF.
+
+ 
+Physical Exam:
+VS - Temp 99.8 F, 130/55 BP , 84 HR , 18 R , 94 O2-sat % 3L  
+GENERAL - obese woman in NAD, comfortable, appropriate  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, no JVD, no carotid bruits  
+LUNGS - b/l crackles, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use, NC in place  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2, no JVD  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, 1+ edema, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - LUE graft side without tenderness or erythema  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, DTRs 2+ and 
+symmetric, cerebellar exam intact
+
+Upon discharge, afebrile, otherwise physical exam is unchanged.
+ 
+Pertinent Results:
+Admission labs:
+
+___ 02:20PM BLOOD WBC-5.8 RBC-2.96* Hgb-9.4* Hct-29.0* 
+MCV-98 MCH-31.6 MCHC-32.4 RDW-14.7 Plt ___
+___ 02:20PM BLOOD Plt ___
+___ 07:15AM BLOOD ESR-45*
+___ 02:20PM BLOOD Glucose-86 UreaN-22* Creat-4.2*# Na-142 
+K-4.3 Cl-102 HCO3-31 AnGap-13
+___ 07:18AM BLOOD ALT-25 AST-24 LD(LDH)-265* AlkPhos-107* 
+TotBili-0.4
+___ 08:00AM BLOOD Calcium-8.6 Phos-3.0# Mg-1.8
+___ 07:18AM BLOOD calTIBC-226* Ferritn-534* TRF-174*
+___ 08:00AM BLOOD CRP-66.8*
+
+Discharge Labs:
+___ 06:20AM BLOOD WBC-9.9 RBC-2.85* Hgb-9.5* Hct-26.6* 
+MCV-94 MCH-33.2* MCHC-35.5* RDW-16.0* Plt ___
+___ 06:20AM BLOOD Glucose-115* UreaN-101* Creat-8.2*# 
+Na-136 K-4.7 Cl-94* HCO3-24 AnGap-23*
+___ 06:55AM BLOOD ALT-25 AST-21 LD(LDH)-267* AlkPhos-111* 
+TotBili-0.2
+___ 06:20AM BLOOD Calcium-9.2 Phos-5.8* Mg-1.9
+
+Pertinent studies:
+___ 03:30PM BLOOD HCV Ab-NEGATIVE
+___ 08:00AM BLOOD C3-112 C4-24
+___ 08:00AM BLOOD CRP-66.8*
+___ 07:50AM BLOOD dsDNA-NEGATIVE
+___ 04:40PM BLOOD ___ * Titer-1:80
+___ 09:43AM BLOOD ANCA-NEGATIVE B
+___ 03:30PM BLOOD HBsAb-NEGATIVE HAV Ab-POSITIVE IgM 
+HAV-NEGATIVE
+___ 07:00AM BLOOD HBsAg-NEGATIVE HBcAb-NEGATIVE
+___ 07:18AM BLOOD calTIBC-226* Ferritn-534* TRF-174*
+___ 08:00AM BLOOD %HbA1c-6.3* eAG-134*
+B Glucan--negative
+Galactomannan--negative
+
+Right Upper Extremity US: IMPRESSION: Patent graft with no 
+appreciable fluid collection
+
+TEE: IMPRESSION: No valvular vegetation seen. Right ventriclar 
+enlargement with preserved systolic function. At least moderate 
+tricuspid regurgitation is present with severe pulmonary 
+arterial sysolic hypertension.  
+
+Lower Extremity Non-Invasive Doppler US: IMPRESSION: No evidence 
+of DVT (although the right calf veins were not 
+visualized); bilateral ___ cysts. 
+
+MRI Lumbar Spine:  
+IMPRESSION:  
+1. Status post L3/L4 diskectomy and posterior instrumented 
+fusion with no 
+evidence of hardware failure, allowing for the limitations of 
+this imaging 
+modality.  
+  
+2. No evidence of paraspinal or epidural phlegmon/abscess or 
+spondylodiscitis 
+(on this non-enhanced study). 
+  
+3. Multilevel degenerative changes of the lumbar spine as 
+detailed above, with 
+most notable but only mild spinal canal stenosis at the L4/L5 
+level. 
+
+CT Chest: IMPRESSION: 
+1. Findings concerning for multifocal infection, less likely 
+hemorrhage. 
+  
+2. Lymphadenopathy in the mediastinum and left hilum most likely 
+reactive. 
+  
+3. Surveillance with chest radiograph is recommended. 
+  
+After pulmonary findings resolve, reevaluation with chest CT is 
+recommended z8-10 weeks after the current examination. 
+
+Tagged WBC Scan: IMPRESSION: Slightly asymmetric tracer uptake 
+in the proximal right upper extremity could be due to an 
+infectious or inflammatory process. 
+
+CXR (2 days s/p CT chest): Moderate cardiomegaly and enlarged 
+main pulmonary artery are again noted and unchanged. Asymmetric 
+multifocal opacities, larger on the left side, have minimally 
+improved on the left upper lobe. There is no pneumothorax or 
+large pleural effusion. 
+
+Lung, left upper lobe, transbronchial biopsy:
+Alveolar tissue with hemosiderosis and reactive pneumocyte 
+hyperplasia.
+The biopsy specimen consists of six tissue fragments, four of 
+which contain alveolar tissue.  Several fragments show 
+mild-to-moderate hemosiderosis with background reactive changes. 
+ This finding is non-specific and can be seen in multiple 
+clinical settings.  Clinical, radiologic, and laboratory 
+correlation is necessary.
+AFB and GMS stains are negative for micro-organisms.
+
+BAL Cx:
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Studies pending at discharge:
+None
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a past medical history 
+significant for end stage renal disease on hemodialysis, type 2 
+diabetes mellitus and chronic obstructive pulmonary disease 
+admitted for fevers x1 month, which were ultimately felt to be 
+drug fever from either Vancomycin or minoxidil. Hospital course 
+was notable for a mild COPD exacerbation and steroid induced 
+hyperglycemia
+
+#Fever of unknown origin/Drug Fever: Given history of bacteremia 
+with strep mitis and preceding 1 month of persistent fevers with 
+normal TTE and CT abdomen, initially our efforts focused on 
+finding a source persistent infection. Initial culprits were 
+thought to be the dialysis graft or endocarditis. Negative TTE 
+at OSH, and negative TEE in house made endocarditis unlikely. 
+Unremarkable US of right upper extremity graft made this 
+unlikely. Furthermore, there was only a mild increase in tracer 
+uptake in the right upper extremity compared to the left upper 
+extremity on tagged white blood cell scan. Bilateral lower 
+extremity vascular ultrasounds were negative for DVT. Blood 
+smear was negative for parasites. Hepatitis serologies were also 
+negative and LFTs were normal. An MRI was also obtained given 
+spinal hardware and was negative for signs of 
+infection/inflammation. Due to worsening shortness of breath 
+discovered in house, a CT of the chest was performed which was 
+significant for ground glass opacities involving the posterior 
+aspect of left upper lobe, lingula and left lower lobe. BAL and 
+bronchial biopsy were significant only for ___ cfu of gram 
+negative rods and respiratory flora. A transbronchial biopsy was 
+non-specific without evidence of malignancy or granulomas. Six 
+sets of blood cultures were obtained while Ms. ___ was off of 
+antibiotics. Beta Glucan and Galactomannal were within normal 
+limits.Rheumatologic labwork was relatively unimpressive with a 
+normal ANCA/RF and intermediate ___ (1:80). Given absence of 
+positive infectious workup, Vancomycin was discontinued, as was 
+minoxidil as patient gave history fevers starting around the 
+time of minoxidil initiation. After stopping these medications, 
+the patient defervesced and was afebrile for >5 days suggesting 
+drug fever.
+
+#Mild exacerbation of chronic obstructive pulmonary disease:
+Overall Ms. ___ respiratory symptoms and radiographic 
+findings were seen as most consistent with a COPD exacerbation. 
+Patient was treated with azithromycin and prednisone 40mg po 
+with improvement in symptoms and patient was discharged to 
+complete a one week total course. Of note, it took ~4 days for 
+patient to start responding to the steroids, which was similar 
+to when patient has required steroids for COPD exacerbation in 
+the past. Although patient grew ___ cfu E. coli in the BAL it 
+was not felt that these were pathogenic as patient responded to 
+treatment with azithro and prednisone.    
+
+#End stage renal disease on dialysis: MWF dialysis was continued 
+in house. Due to hypophosphatemia, revela and phoslo were 
+temporarily discontinued.
+
+#Type II diabetes mellitus: Ms. ___ was maintained on her 
+insulin pump which was closely monitored by the ___. 
+Her blood sugars increased while on steroids (up to 400s), and 
+basal parameters of her pump were increased while she was on 
+steroids with input from ___.  She was discharged with close 
+followup in ___ clinic two days post discharge and was 
+made aware that her insulin requirements will fall once her 
+steroids are completed.  She is aware of signs of hypoglycemia 
+and was discharged with glucagon injectable as needed.
+
+# BPPV: Meclizine was continued.
+
+#Disposition:
+Patient was discharged home with one more day of prednisone to 
+take. She ___ with her Endocrinologist who will give her 
+instructions on how to change her insulin as she comes off 
+prednisone. She will also follow up with her PCP, outpatient 
+renal and pulmonary doctors.
+ 
+Medications on Admission:
+Symbicort 120 inhalations, 160-4.5 mcg 2 puffs BID
+Levetiracetam 500 BID
+Renelva 800mg tablet 2 tabs TID, ___
+Meclizine 25mg 1 tab by mouth three times daily
+Furosemide 160mg BID ___, Furosemide 160mg 
+daily other days
+Vitamin B-1 100mg daily
+Calcium acetate 667mg three tabs four times daily
+Amlodipine 10mg daily
+Benicar 60mg daily
+Calcium w/ Vitamin D ___ tab by mouth dialy
+Ferrous Sulfate 325mg tablet 1 tab daily
+Minoxidil 2.5 mg daily
+Omeprazole 20mg daily
+Vitamin D3 5000 units daily
+Doxazosin 4mg qhs
+Simvastatin 20mg daily
+Acetaminophen 650mg QID PRN
+dulcolax PRN
+Enema PRn
+Vicodin 5mg/500mg q4h PRN
+Milk of Magnesia PRN
+Ventolin HFA PRN SOB
+Insulin Pump
+albuterol nebs q4h PRN
+ipratropium nebs q4h PRN
+1 nephrocap daily
+
+ 
+Discharge Medications:
+1. Symbicort 160-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: One 
+(1)  Inhalation 2 puffs BID ().  
+2. levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO qam on 
+___.  
+3. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day): at noon and bedtime (in addition to AM dose on 
+non-dialysis days).  
+4. Renvela 800 mg Tablet Sig: Two (2) Tablet PO TID on 
+___.  
+5. meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day).  
+6. furosemide 80 mg Tablet Sig: Two (2) Tablet PO BID ON 
+SAT/SUN/TUES/THURS ().  
+7. furosemide 80 mg Tablet Sig: Two (2) Tablet PO ONCE DAILY 
+___ ().  
+8. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. calcium acetate 667 mg Tablet Sig: Three (3) Tablet PO four 
+times a day.  
+10. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+11. Calcium 600 + D(3) 600 mg(1,500mg) -400 unit Tablet Sig: One 
+(1) Tablet PO once a day.  
+12. Benicar 20 mg Tablet Sig: Three (3) Tablet PO daily ().  
+13. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+14. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+15. doxazosin 4 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+16. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+17. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain/fever.  
+18. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+19. hydrocodone-acetaminophen ___ mg Tablet Sig: One (1) 
+Tablet PO Q6H (every 6 hours) as needed for pain.  
+20. Milk of Magnesia 400 mg/5 mL Suspension Sig: 400 mg  PO 
+every four (4) hours as needed for nausea.  
+21. insulin pump cartridge     Cartridge Sig: use as directed by 
+Diabetes Clinic  Subcutaneous continuous.  
+22. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*90 Capsule(s)* Refills:*0*
+23. senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.
+Disp:*90 Tablet(s)* Refills:*0*
+24. dextromethorphan-guaifenesin ___ mg/5 mL Syrup Sig: Five 
+(5) ML PO Q6H (every 6 hours) as needed for cough.
+Disp:*200 ML(s)* Refills:*0*
+25. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+26. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) nebulization Inhalation every four (4) 
+hours as needed for dyspnea, wheezing.
+Disp:*90 nebulizations* Refills:*0*
+27. ipratropium bromide 0.02 % Solution Sig: One (1) 
+nebulization Inhalation Q6H (every 6 hours) as needed for 
+shortness of breath or wheezing.
+Disp:*90 nebulizations* Refills:*0*
+28. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  
+PO BID (2 times a day).
+Disp:*90 packets* Refills:*2*
+29. Glucagon Emergency 1 mg Kit Sig: One (1)  Injection three 
+times a day as needed for hypoglycemia.
+Disp:*30 kits* Refills:*0*
+30. prednisone 20 mg Tablet Sig: Two (2) Tablet PO once a day 
+for 1 doses.
+Disp:*2 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Diabetes Mellitus II
+End Stage Renal Disease
+Obstructive Sleep Apnea
+Obesity
+Asthma
+Chronic Obstructive Pulmonary Disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+   You were admitted with fever of unknown origin. Your fever is 
+likely due to the drug minoxidil or from the antibiotic 
+vancomycin. You underwent workup with tagged white blood cell 
+scan with was positive only for slightly increased uptake in the 
+right upper extremity, however ultrasound of your graft does not 
+indicate that it is infected. While here you also developed a 
+COPD exacerbation, and were found to have some infiltrates on CT 
+of your chest. A bronchoscopy was performed without signficant 
+growth. A small amount of bacteria grew on culture which your 
+outpatient doctors ___ follow up ___ final results 
+regarding these bacteria are still pending. In light of your 
+overall clinical status, a pneumonia appears unlikely.
+
+The following changes were made to your medications:
+Please START prednisone 40mg daily for 1 more day.
+START colace scheduled daily, senna as needed, and miralax daily 
+for your constipation.
+START guaifenasin for your cough
+STOP minoxidil as this may have caused your fevers
+STOP vancomycin as this may have caused your fevers
+- Your Insulin doses on the insulin pump have been changed and 
+will need to be changed further at your Endocrinology 
+appointment tomorrow.  ** Please be sure to make it to your 
+Endocrinology appointment this week. **
+- You will also be prescribed glucagon injectable to be used as 
+needed for low blood sugars.
+ 
+Followup Instructions:
+___

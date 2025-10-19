@@ -1,0 +1,2318 @@
+===== DISCHARGE NOTE =====
+note_id=13623186-DS-12 | hadm_id=21278240
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, Tachycardia 
+
+ 
+Major Surgical or Invasive Procedure:
+PICC placement ___
+Intubated/extubated x2
+Bronchoscopy ___
+Mini-BAL ___
+ 
+History of Present Illness:
+Mr. ___ is a ___ with history of HIV (genotype IB, CD4 14) 
+with CD4 14, HIV VL 130,000 (___) c/b neurosyphilis/ocular 
+syphilis, disseminated VZV, and medication noncompliance, who 
+eloped from ___ earlier today after being admitted to the MICU 
+initially 4 days ago with fever, abdominal pain, and 
+tachycardia. Please see prior MICU admission note for full 
+details, but in summary: the patient initially presented to his 
+PCP ___ ___ with abdominal pain and fatigue. He was admitted to 
+the MICU due to altered mental status, fevers and tachycardia, 
+concerning for MAC vs. neurosyphilis. He had a CT abdomen/pelvis 
+without evidence of intraabdominal process; while there was 
+suggestion of CBD and intrahepatic biliary dilatation, LFTs did 
+not support a biliary cause of sepsis. His CXR was without overt 
+evidence of pneumonia. CT head was negative for abscess or 
+ring-enhancing lesion. Of note, the patient declined LP on 
+numerous occasions. Other notable negative labs included 
+negative flu, monospot, CMV. He had been started on 
+vanc/zosyn/CTX/acyclovir and fluconazole, which had narrowed to 
+CTX, and the patient was placed on azithromycin and ethambutol 
+due to concerns for disseminated MAC. Acyclovir was stopped due 
+to low suspicion for HSV encephalitis. 
+
+The patient eloped AM of ___ and then re-presented to the ED 
+later that same day with complaints of worsening shortness of 
+breath at the urgings of his roommate who found him covered in 
+fecal matter. The patient states that he returned to the ED for 
+antibiotics. 
+In the ED, initial vitals: T 101.1 HR 130 BP 139/86 R 30 100% RA
+Labs were notable for: 
+WBC 3.4 (85% PMNs, 5 bands) from 2.1, H/H 10.1/29.3, Plts 17 
+(from 14), Na 125 (from 128), K 3.4 Cl 94 HCO3 19 BUN 13 Cr 0.8. 
+
+Lactate 2.5
+VBG: ___
+On exam, the patient was AAOx3. He was tachypneic with RR ___ 
+and tachycardic with HR 120s.
+
+CXR showed mild new pulmonary edema and patchy right basilar 
+opacity. 
+
+Patient received: Vancomycin 1g IV, Zosyn 4.5g, Tylenol 1g IV, 
+Azithromycin 500mg IV, Acyclovir 750mg IV, 1L IVF, magnesium and 
+phosphorus supplementation and transferred to the floor.
+ 
+On arrival to the MICU, the patient was upset about having to 
+come back to the hospital and is asking to receive treatment at 
+home. He states his breathing is improved. He reports fevers and 
+chills, but denies nausea or vomiting. Continues to have 
+diarrhea, but abdominal pain improved. 
+
+ 
+Past Medical History:
+HIV with AIDS: Fx ___, took Trizivir initially followed by 
+TDF/Combivir- in ___ took Truvada/Reyataz/r switched to 
+Darunavir/r, Truvada when he needed to be on a PPI for H. pylori 
+
+and GERD
+h/o DVT
+H/o MRSA cellulitis
+Neurosyphilis: x2- ___ and ___ / 2 treatment course- 
+hospitalized at ___ and was followed until ___ 
+MDD
+eosinophilic esophagitis
+HPV with HGSIL anus, LGSIL anorectal
+herpes zoster
+arthralgias
+Allergic rhinitis
+Thrombocytopenia
+ 
+Social History:
+___
+Family History:
+Mother - Living - CA (unclear type) 
+Brother with prostate cancer, Small Cell Lung CA 
+Father with throat cancer
+Multiple family members with fibromyalgia
+ 
+Physical Exam:
+ADMISSION 
+Vitals: T: 102 BP: 100/59 P: 126 R: 31  O2: 96% RA  
+GENERAL: Alert, oriented, mildly tachypneic but speaking in full 
+sentences 
+HEENT: NC/AT, EOMI  
+NECK: supple, JVP not elevated 
+LUNGS: Tachypneic but speaking in full sentences. Clear to 
+auscultation bilaterally, no wheezes. 
+CV: Tachycardic, regular. No m/r/g  
+ABD: Soft, mildly TTP in RLQ, no rebound or guarding. +BS
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema    
+NEURO: AAOx3. CNII-XII grossly intact. Moving all extremities 
+symmetrically and with purpose. Non-focal exam. 
+
+DISCHARGE 
+VS: 98 126/88 110 20 98% RA 
+GENERAL: AAOx3. Thin, frail. 
+HEENT: NC/AT, EOMI. OP clear.   
+NECK: supple, JVP not elevated  
+LUNGS: CTAB.
+CV: Tachycardic, regular. No m/r/g  
+ABD: Soft, non tender, no rebound or guarding. +BS  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+GU: (+) erythematous ___ rash with (+) excoriations
+NEURO: AAOx3. CNII-XII grossly intact. Moving all extremities 
+symmetrically and with purpose. Non-focal exam.
+ 
+Pertinent Results:
+ADMISSION AND NOTABLE LABS:
+================
+___ 03:01PM   WBC-3.4*# RBC-3.68* HGB-10.1* HCT-29.3* 
+MCV-80* MCH-27.4 MCHC-34.5 RDW-13.6 RDWSD-39.1
+___ 03:01PM   NEUTS-85* BANDS-5 LYMPHS-4* MONOS-6 EOS-0 
+BASOS-0 ___ MYELOS-0 AbsNeut-3.06 AbsLymp-0.14* 
+AbsMono-0.20 AbsEos-0.00* AbsBaso-0.00*
+___ 03:01PM   PLT SMR-RARE PLT COUNT-17*
+___ 03:01PM   GLUCOSE-146* UREA N-13 CREAT-0.8 SODIUM-125* 
+POTASSIUM-3.4 CHLORIDE-94* TOTAL CO2-19* ANION GAP-15
+___ 03:01PM   LD(LDH)-487*
+___ 03:17PM   ___ PO2-35* PCO2-30* PH-7.38 TOTAL 
+CO2-18* BASE XS--5 COMMENTS-GREEN TOP
+___ 02:58AM BLOOD WBC-3.5* RBC-3.47* Hgb-9.3* Hct-27.5* 
+MCV-79* MCH-26.8 MCHC-33.8 RDW-13.9 RDWSD-39.6 Plt Ct-16*
+___ 02:58AM BLOOD Neuts-84* Bands-4 Lymphs-9* Monos-2* 
+Eos-0 Baso-0 ___ Metas-1* Myelos-0 AbsNeut-3.08 
+AbsLymp-0.32* AbsMono-0.07* AbsEos-0.00* AbsBaso-0.00*
+___ 02:58AM BLOOD Plt Ct-16*
+___ 02:58AM BLOOD Glucose-120* UreaN-9 Creat-0.7 Na-127* 
+K-4.1 Cl-100 HCO3-18* AnGap-13
+___ 03:24AM BLOOD Lactate-2.6*
+
+IMAGING/STUDIES: 
+================
+___ CXR Portable
+IMPRESSION:  
+Decreased lung volumes compared to prior.  Mild pulmonary edema, 
+new in the
+interval.  Patchy right basilar opacity may reflect atelectasis, 
+but infection is not excluded in the correct clinical setting. 
+
+___ CXR Portable 
+IMPRESSION:
+Mild CHF. Possibility of superimposed infectious/inflammatory 
+infiltrates cannot be excluded, particularly given asymmetry in 
+appearance between the right and left lungs.  The differential 
+diagnosis includes PCP ___. No gross effusion. 
+
+___ CTA CHEST
+IMPRESSION: 
+1. No evidence of pulmonary embolism to the segmental levels.  
+Evaluation of the subsegmental levels is limited by respiratory 
+motion. 
+2. Ground-glass opacities in the bilateral upper lobes and right 
+middle lobe are consistent with underlying infection.  This 
+appearance is potentially consistent with PCP/PJP in the setting 
+of low CD4 counts. 
+3. Smooth interlobular septal thickening in the bilateral lung 
+apices is 
+suggestive of background interstitial edema.  No pleural 
+effusion. 
+4. Possible pulmonary arterial hypertension. 
+
+___ RUQ US
+IMPRESSION: 
+1. Prominent CBD measuring 9 mm is similar to ___. 
+2. Distended gallbladder, without wall thickening or 
+pericholecystic fluid, may be due to fasting. 
+3. Minimal gallbladder sludge. 
+4. Possible small right pleural effusion. 
+
+___ CXR Portable
+IMPRESSION:  
+Interval worsening of the perihilar opacities, rapid worsening 
+favors 
+superimposed edema however, worsening infection can also be 
+considered given upper lobe distribution. 
+
+___ TTE
+The left atrium is normal in size. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. There is mild global left ventricular hypokinesis (LVEF 
+= 45-50 %). There is no ventricular septal defect. Right 
+ventricular chamber size is normal with borderline normal free 
+wall function. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. The pulmonary artery 
+systolic pressure could not be determined. There is a small 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade.
+
+___ CXR
+Since the prior radiograph of 1 day earlier, pulmonary edema has 
+substantially improved and bilateral pleural effusions have 
+markedly decreased in size.  Additionally, a nonspecific opacity 
+in the left retrocardiac region has decreased in extent, 
+probably representing an area of atelectasis. 
+  
+MICROBIOLOGY: 
+================
+___ 12:28AM BLOOD HBsAg-Negative HBsAb-Positive 
+HBcAb-Positive*
+___ 12:28AM BLOOD HCV Ab-Negative
+HBV Viral Load (Final ___: 
+      HBV DNA not detected. 
+___ 1:21 am STOOL     CONSISTENCY: WATERY      Source: 
+Stool. 
+                            **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+___ 1:21 am STOOL     CONSISTENCY: WATERY      Source: 
+Stool. 
+                            **FINAL REPORT ___
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+___ 6:20 am SPUTUM      Source: Induced. 
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+   ACID FAST CULTURE (Preliminary): 
+___ 1:47 pm BRONCHOALVEOLAR LAVAGE      BRONCHIAL LAVAGE 
+RUL. 
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+   RESPIRATORY CULTURE (Preliminary):    NO GROWTH, <1000 
+CFU/ml. 
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___: 
+      SPECIMEN NOT PROCESSED DUE TO: DUPLICATE SPECIMEN. 
+      SPECIMEN COMBINED WITH SAMPLE # ___ ___. 
+      PATIENT CREDITED. 
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED. 
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+   ACID FAST CULTURE (Preliminary): 
+   MTB Direct Amplification (Preliminary): 
+      Sent to State Lab for further testing ___. 
+
+___ 1:47 pm BRONCHOALVEOLAR LAVAGE      BRONCHIAL LAVAGE 
+RUL. 
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Pending): 
+   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) 
+(Pending): 
+___ 1:45 pm BRONCHOALVEOLAR LAVAGE      RML. 
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+   RESPIRATORY CULTURE (Preliminary):    NO GROWTH, <1000 
+CFU/ml. 
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii). 
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+   ACID FAST CULTURE (Preliminary): 
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Pending): 
+
+Serum 
+ Test                          Result              Reference 
+Range/Units
+INDEX VALUE                   0.22                <0.50
+ASPERGILLUS AG, EIA, BAL      Not Detected        Not Detected
+ 
+ Test                          Result              Reference 
+Range/Units
+HISTOPLASMA GALACTOMANNAN     <0.5                ng/mL
+ANTIGEN, URINE                                    
+
+ Test                          Result              Reference 
+Range/Units
+SOURCE                        URINE               
+S.PNEUMONIAE AG DETECT.LA     NOT DETECTED        
+ 
+ Test                        
+----                       
+Fungitell (tm) Assay for (1,3)-B-D-Glucans
+47  pg/mL         
+ 
+MiniBAL: GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      YEAST.    10,000-100,000 ORGANISMS/ML.. 
+Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii). 
+
+___ 4:05 pm Mini-BAL      BRONCHIAL LAVAGE. 
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary): 
+      No Cytomegalovirus (CMV) isolated. 
+   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) 
+(Preliminary): 
+
+___ 4:05 pm Rapid Respiratory Viral Screen & Culture
+      BRONCHIAL LAVAGE. 
+   Respiratory Viral Culture (Preliminary): 
+   Respiratory Viral Antigen Screen (Final ___: 
+      Negative for Respiratory Viral Antigen. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+
+DISCHARGE LABS:
+___ 06:32AM BLOOD WBC-5.2 RBC-3.57* Hgb-9.8* Hct-29.5* 
+MCV-83 MCH-27.5 MCHC-33.2 RDW-13.8 RDWSD-40.7 Plt ___
+___ 06:32AM BLOOD ___ PTT-27.3 ___
+___ 06:32AM BLOOD Glucose-113* UreaN-11 Creat-0.8 Na-134 
+K-4.5 Cl-98 HCO3-26 AnGap-15
+___ 06:32AM BLOOD ALT-43* AST-39 AlkPhos-243* TotBili-0.5
+___ 06:32AM BLOOD Calcium-9.0 Phos-4.0 Mg-1.___ M PMHx HIV (genotype IB, CD4 14) c/b neurosyphilis/ocular 
+syphilis, disseminated VZV, and medication non-compliance who 
+presented to PCP ___ ___ abdominal pain and fatigue 
+admitted to the MICU ___ altered mental status and fevers 
+concerning for MAC vs neurosyphilis, who then eloped from ___ 
+on ___ and then re-presented to the ED later the same day with 
+dyspnea and tachycardia, re-admitted to the MICU due to concerns 
+for sepsis. 
+
+#Severe sepsis: etiology unclear. The patient re-presented with 
+worsening SOB found to be tachypneic with RR in ___, febrile to 
+102 with CXR demonstrating new pulmonary edema and patchy right 
+basilar opacity. Concern initially for PCP pneumonia given low 
+CD4 count, elevated LDH and new RLL infiltrate versus 
+disseminated MAC. Disseminated MAC was also felt to be high on 
+the DDX given abdominal pain, diarrhea, SOB, low CD4, and 
+pancytopenia. Differential also included aspiration 
+pneumonia/pneumonitis given recent AMS, HCAP pneumonia. Patient 
+had CTA chest concerning for PNA (negative for PE). Patient was 
+treated with broad spectrum coverage, including IV Bactrim for 
+PCP PNA, vancomycin/ceftriaxone for HCAP (ceftriaxone at 2g IV 
+q12h to cover neurosyphilis dosing), azithromycin and ethambutol 
+for MAC, acyclovir IV to cover for HSV encephalitis (unable to 
+perform LP given thrombocytopenia), and fluconazole as 
+prophylaxis. He had blood cultures with no growth to date on 
+discharge, UCx no growth, histoplasma, legionella, hepatitis C 
+Ab negative, hepatitis B consistent with immunization, stool O+P 
+negative, negative induced sputum for AFB. There was inadequate 
+sample to analyze for PCP, ___. Patient was intubated 
+for his respiratory distress and in preparation for 
+bronchoscopy. He underwent bronchoscopy on ___ which was 
+largely unremarkable. BAL was obtained and was negative for PCP, 
+___, and AFB. CMV from BAL showed (+) IgG, consistent with 
+known previous infection. Although PCP was negative on BAL, 
+given patient's hemodynamic instability, Bactrim was continued. 
+On ___, patient became progressively hypotensive and had to be 
+started on levophed for pressure support. Antibiotic coverage 
+was broadened to cefepime from ceftriaxone. He received IVF and 
+was able to be weaned from pressors. He was continued on broad 
+spectrum therapy and his respiratory status improved. Following 
+extubation, he was transferred to the floor. He completed x14 
+days of CTX/acyclovir. MAC culture with no growth and 
+azithromycin/ethambutol were stopped. He was discharged on 
+prophylaxis with Bactrim/azithromycin. 
+
+#Hypoxemic respiratory failure: Patient was initially intubated 
+in order to undergo bronchoscopy. He remained intubated given 
+concern that he would need ERCP to evaluate for possible AIDS 
+cholangiopathy. However, he was able to be extubated after 
+approx. 48 hours. He shortly became hypoxic with tachypnea and 
+required reintubation. CXR at that time showed significant 
+pulmonary edema, for which he was diuresed. He was able to be 
+extubated and his respiratory status improved. He was stable on 
+room air for x3 days prior to discharge. 
+
+#Pancytopenia: On prior admission, had new thrombocytopenia of 
+51 from prior plt >150 with associated leukopenia and relative 
+anemia (HgB currently 10.1). Initially thought to be secondary 
+to possible disseminated MAC in a patient with HIV although it 
+would be rare for all cell lines to be down. The patient has not 
+been compliant with medications and therefore medication effect 
+is unlikely to be the cause. Patient was notable to be positive 
+for EBV on prior admission, which may explain cytopenias. Given 
+low reticulocyte count and pancytopenia, may be due to 
+myeloinfiltrative process. Patient required plt transfusion for 
+procedures during his hospital course. He was continued on broad 
+spectrum coverage; his cell lines were monitored and uptrended. 
+ 
+#HIV with AIDS: Previously on Trizivir, followed by TDF/Combivir 
+(___) took Truvada/Reyataz/r switched to Darunavir/r, Truvada. 
+Patient has not been taking his home medications for unclear 
+reasons; he states that he has "unstable housing" as the reason 
+for non-compliance, although currently domiciled. HIV VL on 
+recent admission was ___ with CD4 count 14. He was followed 
+by ID and HAART was resumed with truvada and dolutegravir and he 
+was initiated on Bactrim/azithromycin ppx as above.
+
+#Neurosyphilis: Patient has a history of neurosyphillis and is 
+s/p treatment with IV PCN x3, most recently in ___ and weekly 
+IM PCN ___. Last seen by ___ ID ___ when suspicion was 
+high for recurrent neurosyphilis based on visual symptoms and 
+RPR titers. He was recommended for PICC placement and repeat PCN 
+course. However, pt declined PICC for IV PCN and so received IM 
+with probenecid. RPR on last admission was elevated at 1:128 and 
+ID recommended continuing ceftriaxone (initiated empirically as 
+above for sepsis) and patient was planned to go home on 
+penicillin via PICC. However, patient eloped before ___ was 
+placed and he refused IM PCN prior to leaving. This admission, 
+he was treated with ceftriaxone 2g IV q12h as above and PICC was 
+placed on ___. He completed x14d course of ceftriaxone. 
+ 
+#Hyponatremia: Patient presented with Na+ 127 on prior 
+admission, and was 125 on this admission. Initially felt to be 
+likely hypovolemic in the setting of sepsis and poor po intake. 
+Na initially improved with IVF, however downtrended again. 
+Ulytes and osm c/w SIADH last admission and was placed on 750cc 
+fluid restriction and salt tabs. Given concern for worsening 
+infection this admission, IVF restriction was liberalized and 
+salt tabs discontinued. His sodium was stable prior to 
+discharge. 
+
+#Abdominal pain: On prior admission, patient presented with LLQ 
+pain with initial concern for underlying infection/reactive LAD 
+given fevers and low CD4 count. CT abd/pelvis without e/o 
+colitis or lymphadenopathy. Did show intrahepatic biliary 
+dilatation and mild dilatation of the common bile duct, but LFTs 
+not suggestive of biliary pathology and patient denied RUQ pain. 
+CMV viral load was negative. Stool cultures, C. Diff, and O and 
+P negative. Stool AFB pending. He has a history of H. pylori 
+which has been responsive to PPI and triple therapy per report 
+but unlikely to present with LLQ pain. His abdominal pain 
+improved during his hospitalization. 
+
+#Major depressive disorder: patient previously on sertraline, 
+paroxetine but has not been taking recently. He received BZD 
+intermittently during hospitalization; he was discharged on his 
+home klonopin with plan to consider restarting antidepressants 
+as an outpatient.
+
+TRANSITIONAL ISSUES:
+[] Multiple fungal studies pending at discharge
+[] Consider restarting anti-depressants
+[] Consider transitioning to one pill HAART regimen
+# CODE: FULL, confirmed 
+# CONTACT: ___ (roommate) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atovaquone Suspension 1500 mg PO DAILY 
+2. Acyclovir 400 mg PO Q12H 
+3. Dolutegravir 50 mg PO DAILY 
+4. Ethambutol HCl 1000 mg PO DAILY 
+5. Fluconazole 200 mg PO Q24H 
+6. Cetirizine 10 mg PO DAILY 
+7. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+8. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. PARoxetine 40 mg PO DAILY 
+11. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN sob 
+12. Qvar (beclomethasone dipropionate) 40 mcg/actuation 
+inhalation DAILY 
+13. Sertraline 50 mg PO DAILY 
+14. Temazepam 15 mg PO QHS:PRN insomnia 
+15. Azithromycin 600 mg PO Q24H 
+
+ 
+Discharge Medications:
+1. Azithromycin 1200 mg PO 1X/WEEK (___) 
+RX *azithromycin 600 mg 2 tablet(s) by mouth qweek Disp #*8 
+Tablet Refills:*6
+2. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+3. Dolutegravir 50 mg PO DAILY 
+4. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+5. Multivitamins 1 TAB PO DAILY 
+6. Desitin (zinc oxide;<br>zinc oxide-cod liver oil) 13 % 
+topical TID:PRN 
+RX *zinc oxide [Desitin] 13 % Apply to affected areas three 
+times a day Refills:*0
+7. Nystatin Cream 1 Appl TP BID:PRN rash 
+RX *nystatin 100,000 unit/gram Apply to affected area twice a 
+day Refills:*0
+8. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth daily Disp #*30 Tablet Refills:*6
+9. Cetirizine 10 mg PO DAILY 
+10. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN sob 
+11. Qvar (beclomethasone dipropionate) 40 mcg/actuation 
+inhalation DAILY 
+12. Temazepam 15 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+-Sepsis
+-Hypoxic respiratory failure
+-Toxic metabolic encephalopathy
+
+SECONDARY DIAGNOSES:
+-Human immunodeficiency virus 
+-Neurosyphillis
+-Thrombocytopenia
+-Depression
+-Anxiety
+-Medication non-compliance
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ due to difficulty breathing and an 
+infection. You spent some time in the Intensive Care Unit and 
+required a breathing tube to support your lungs. You were 
+treated with intravenous (IV, through your vein) antibiotics. 
+
+You were seen by the Infectious Disease doctors in the hospital 
+and re-started on anti-retroviral medications for your HIV. You 
+should take Truvada and dolutegravir every day. To protect 
+yourself from getting additional infection you should take 
+Bactrim daily and azithromycin weekly.
+
+It is very important that you follow up closely with your 
+primary care doctor.
+
+Thank you for letting us be a part of your care!
+Your ___ TEAM
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13623186-DS-13 | hadm_id=23356549
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ___
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+___ Lumbar Puncture
+ 
+History of Present Illness:
+___ yo M with h/o HIV, admitted with fever.  Pt is homeless
+with recent PNA (treated with azithro) and recent human bite
+(treated with amox/clav last week), saw ___ PCP and found to
+have fevery to 101.8 and tachycardia.  + arthralgias  + mild
+headache.  + chronic neck pain.  +DOE.  Pt admitted for further
+care.
+
+He reports a frontal headache, SOB, nonproductive cough.  He
+reports diarrhea with his fevers.  He reports a recent CD4 count
+of 200s and a viral load 'slightly higher than detectable.'
+
+He is homeless and has a court hearing on ___.  His dog ___ 
+is
+at his bedside.
+
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL: As per HPI
+HEENT:  [X] All normal
+RESPIRATORY:  As per HPI
+CARDIAC:  [X] All normal
+GI:  As per HPI
+GU:  [X] All normal
+SKIN:  [X] All normal
+MUSCULOSKELETAL:  As per HPI
+NEURO:  As per HPI
+ENDOCRINE:  [X] All normal
+HEME/LYMPH:  As per HPI
+PSYCH:  [X] All normal
+10 point review of systems negative except as noted above
+ 
+Past Medical History:
+HIV with AIDS: Fx ___, took Trizivir initially followed by 
+TDF/Combivir- in ___ took Truvada/Reyataz/r switched to 
+Darunavir/r, Truvada when he needed to be on a PPI for H. pylori 
+
+and GERD
+h/o DVT
+H/o MRSA cellulitis
+Neurosyphilis: x2- ___ and ___ / 2 treatment course- 
+hospitalized at ___ and was followed until ___ 
+MDD
+eosinophilic esophagitis
+HPV with HGSIL anus, LGSIL anorectal
+herpes zoster
+arthralgias
+Allergic rhinitis
+Thrombocytopenia
+ 
+Social History:
+___
+Family History:
+Mother - Living - CA (unclear type) 
+Brother with prostate cancer, Small Cell Lung CA 
+Father with throat cancer
+Multiple family members with fibromyalgia
+ 
+Physical Exam:
+Admission Physical Exam:
+afeb 118/77  93  96% (RA)
+GENERAL:  NAD
+Mentation:  Alert
+Eyes:  NC/AT
+Ears/Nose/Mouth/Throat:  MMM
+Neck:  Supple
+Resp:  CTA bilat
+CV:  RRR
+GI:  Soft, NT/ND
+Skin:  No rashes or lesions noted; no pressure ulcers
+Extremities:  No edema.  2+ radial, 1+ DP pulses bilaterally
+Lymph/Heme/Immun:  No cervical ___ noted
+Neuro:
+- Mental Status:  Alert & oriented x3
+Can turn head side-to-side and nod forward/backward without
+difficulty
+
+Discharge exam:
+Vitals reviewed and notable for no fevers at all since 
+admission, T-max 98.6, vitals otherwise unremarkable, inputs and 
+outputs reviewed and also unremarkable.  Well-appearing 
+middle-aged man, alert, cooperative, NAD.  Ambulating in the 
+room without difficulty.  Anicteric, MMM.  His neck is supple.  
+Equal chest rise, CTAB posteriorly, no WOB or cough at all.  
+Heart regular.  Abdomen soft, NTND.  Extremities are warm and 
+well-perfused, no pitting edema.  He has a healing lesion on his 
+left medial lower leg, which he says is a human bite that is 
+much improved from prior, no tenderness, no signs of active 
+infection.  No obvious focal neurological deficits.  No rashes.  
+No joint effusions.
+ 
+Pertinent Results:
+Admission labs
+___ 08:56PM   PLT COUNT-238
+___ 08:56PM   NEUTS-62.9 ___ MONOS-7.5 EOS-4.9 
+BASOS-0.6 IM ___ AbsNeut-6.07 AbsLymp-2.28 AbsMono-0.72 
+AbsEos-0.47 AbsBaso-0.06
+___ 08:56PM   WBC-9.7 RBC-4.50* HGB-12.2* HCT-38.5* MCV-86 
+MCH-27.1 MCHC-31.7* RDW-14.0 RDWSD-43.0
+___ 08:56PM   estGFR-Using this
+___ 08:56PM   GLUCOSE-87 UREA N-12 CREAT-0.9 SODIUM-141 
+POTASSIUM-3.8 CHLORIDE-103 TOTAL CO2-24 ANION GAP-14
+___ 09:00PM   LACTATE-2.2*
+___ 01:55AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 01:55AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 01:55AM   PLT COUNT-249
+___ 01:55AM   NEUTS-60.1 ___ MONOS-8.8 EOS-5.0 
+BASOS-0.7 IM ___ AbsNeut-4.84 AbsLymp-2.01 AbsMono-0.71 
+AbsEos-0.40 AbsBaso-0.06
+___ 01:55AM   WBC-8.1 RBC-4.45* HGB-12.6* HCT-38.3* MCV-86 
+MCH-28.3 MCHC-32.9 RDW-14.0 RDWSD-43.6
+___ 01:55AM URINE  UHOLD-HOLD
+___ 01:55AM URINE  HOURS-RANDOM
+___ 01:55AM   HIV1 VL-1.5*
+___ 09:00AM   PLT COUNT-254
+___ 09:00AM   WBC-8.1 RBC-4.46* HGB-12.3* HCT-38.4* MCV-86 
+MCH-27.6 MCHC-32.0 RDW-14.0 RDWSD-43.4
+___ 09:00AM   CALCIUM-9.1 PHOSPHATE-3.4 MAGNESIUM-2.2
+___ 09:00AM   GLUCOSE-90 UREA N-11 CREAT-0.9 SODIUM-138 
+POTASSIUM-4.4 CHLORIDE-104 TOTAL CO2-23 ANION GAP-11
+___ 01:15PM   ___ PTT-29.5 ___
+___ 06:32PM CEREBROSPINAL FLUID (CSF)  TNC-8* RBC-275* 
+POLYS-1 ___ MONOS-8 OTHER-0
+___ 06:32PM CEREBROSPINAL FLUID (CSF)  TNC-4 RBC-66* 
+POLYS-0 ___ MONOS-11 ATYPS-3
+___ 06:32PM CEREBROSPINAL FLUID (CSF)  PROTEIN-53*
+
+Microbiology
+___ SPUTUM ACID FAST SMEAR-FINAL [negative]; ACID FAST 
+CULTURE-PENDING
+___ SPUTUM ACID FAST SMEAR-FINAL [negative]; ACID FAST 
+CULTURE-PENDING
+___ CSF;SPINAL FLUID  GRAM STAIN-FINAL [negative]; FLUID 
+CULTURE-PRELIMINARY; FUNGAL CULTURE-PRELIMINARY
+___ CSF;SPINAL FLUID  CRYPTOCOCCAL ANTIGEN-FINAL
+___ Blood Culture, Routine-PENDING
+___ SPUTUM ACID FAST SMEAR-FINAL [negative]; ACID FAST 
+CULTURE-PENDING; MTB Direct Amplification-PRELIMINARY
+___ Legionella Urinary Antigen -FINAL
+___ Blood Culture, Routine-PENDING
+___ Blood Culture, Routine-PENDING
+___ URINE CULTURE-PRELIMINARY {ENTEROCOCCUS SP.} -- 
+10,000-100,000 CFU/mL
+___ Blood Culture, Routine-PENDING
+
+___ 06:32PM CEREBROSPINAL FLUID (CSF) HERPES SIMPLEX VIRUS 
+PCR-PND
+___ 08:28AM URINE Streptococcus pneumoniae Antigen 
+Detection-PND
+
+Imaging
+___ CXR -- IMPRESSION: No acute cardiopulmonary process.
+
+Discharge labs
+___ 07:20AM BLOOD WBC-5.8 RBC-4.06* Hgb-11.2* Hct-35.2* 
+MCV-87 MCH-27.6 MCHC-31.8* RDW-13.7 RDWSD-43.1 Plt ___
+___ 01:55AM BLOOD  WBC-PND Lymph-PND Abs ___ CD3%-PND 
+Abs CD3-PND CD4%-PND Abs CD4-PND CD8%-PND Abs CD8-PND 
+CD4/CD8-PND
+___ 07:20AM BLOOD Glucose-103* UreaN-14 Creat-0.9 Na-141 
+K-4.5 Cl-105 HCO3-21* AnGap-15
+___ 09:00AM BLOOD Calcium-9.1 Phos-3.4 Mg-2.___ man with a past medical history of HIV on HAART, 
+homeless, with a recent human bite to the left lower leg, who 
+presented to his ___ primary care provider with ___ 
+fever to 101.8, and tachycardia, arthralgias, mild headache, 
+chronic neck pain, and mild dyspnea.  He was admitted to ___ 
+for further care.  Multiple tests were sent as noted below, a 
+lumbar puncture was performed, he was treated with empiric 
+antimicrobials.  However, the day after admission (___) he 
+was very anxious to leave the hospital, and felt like all of his 
+symptoms had resolved.  Despite being counseled about the risks 
+of leaving before a clear diagnosis had been made, the patient 
+was insistent and we felt he had capacity to make this decision. 
+ As a result of this, he left against medical advice (AMA).  We 
+arranged close follow-up with his primary care physician for the 
+next morning, ___ at 8:40 AM as described below.  Prior to 
+discharge I reviewed the risks of leaving with him, the pending 
+test results, his medications, and the follow-up plan.  I also 
+called and spoke with ___ to coordinate care.
+
+#History of fever, malaise, dyspnea and cough, and headache
+#HAART
+–All of these were of unclear etiology, and by the time I met 
+him on the day of discharge, all of these symptoms had resolved
+–He had no fevers whatsoever in the hospital, he had no dyspnea 
+or cough during my entire time with him in the ___ 
+isolation room
+–He was evaluated with routine blood tests, blood cultures, 
+urine Legionella and urine strep pneumo antigen, urine culture, 
+induced sputum's for acid-fast bacteria, and a lumbar puncture, 
+with fluid sent for cryptococcal antigen, culture, and HSV PCR
+–As noted in the results section of this discharge summary most 
+of those tests were negative, the remaining being no growth to 
+date, and only a few pending at the time of discharge
+–The patient was felt to be at low risk for active pulmonary 
+tuberculosis: Despite his history of fever, dyspnea, cough, he 
+had none of those symptoms on the day of discharge, his chest 
+x-ray was normal, and it was noted that his HIV while not 
+optimally controlled, had most recently been noted to have a CD4 
+count of greater than 200 (repeat CD4 count was pending at the 
+time of discharge).  Regardless, all of his acid-fast smears 
+were negative.
+-Patient was not discharged with any antibiotics as a result of 
+all these tests, and has close follow-up with his PCP
+–He will continue with his highly active anti-retroviral 
+therapy, as well as his other home medications including dapsone
+–The patient requested loperamide on discharge given that 
+broad-spectrum antibiotics have previously given him loose 
+stools, so he was provided with a prescription for this 
+medication
+
+Although it is AGAINST MEDICAL ADVICE, I feel that the patient 
+has capacity to make the decision to leave the hospital, and 
+that it is not putting himself or others at significant risk for 
+him to leave.
+
+I spent [ ] <30min; [x] >30min in discharge day management 
+services.
+
+___, MD
+___
+Pager ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Qvar RediHaler (beclomethasone dipropionate) 40 mcg/actuation 
+inhalation DAILY 
+2. ClonazePAM 0.5 mg PO BID 
+3. ValACYclovir 1000 mg PO DAILY:PRN HSV 
+4. Dolutegravir 50 mg PO DAILY 
+5. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Other 
+6. Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY* 1 TAB 
+PO DAILY 
+7. Dapsone 100 mg PO DAILY 
+8. Cetirizine 10 mg PO DAILY:PRN allergy 
+9. Tamsulosin 0.4 mg PO QHS 
+10. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 
+11. DiphenhydrAMINE 25 mg PO TID W/MEALS:PRN eosinophilic 
+esophagitis 
+
+ 
+Discharge Medications:
+1.  LOPERamide 2 mg PO QID:PRN loose stools 
+RX *loperamide [Imodium A-D] 2 mg 1 capsule by mouth QID:PRN 
+Disp #*10 Capsule Refills:*0 
+2.  Cetirizine 10 mg PO DAILY:PRN allergy  
+3.  ClonazePAM 0.5 mg PO BID  
+4.  Dapsone 100 mg PO DAILY  
+5.  DiphenhydrAMINE 25 mg PO TID W/MEALS:PRN eosinophilic 
+esophagitis  
+6.  Dolutegravir 50 mg PO DAILY  
+7.  Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY* 1 TAB 
+PO DAILY  
+8.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1  
+9.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Other  
+10.  Qvar RediHaler (beclomethasone dipropionate) 40 
+mcg/actuation inhalation DAILY  
+11.  Tamsulosin 0.4 mg PO QHS  
+12.  ValACYclovir 1000 mg PO DAILY:PRN HSV  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#History of fever, shortness of breath, cough, malaise
+#HIV
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted after having a fever, and being referred in by 
+your primary care provider.  We noted that you also had 
+described having some shortness of breath and cough, as well as 
+generalized malaise and achy pains, and a slight headache.  We 
+evaluated you with blood tests, chest x-ray, and a lumbar 
+puncture.  We found no obvious evidence of infection, but many 
+of the tests had not yet been completed at the time of your 
+discharge.  We encouraged you to stay longer in the hospital, 
+but you were anxious to leave to try and address your housing 
+situation.  We think it is very important that you follow-up 
+with your primary care doctor as noted below.
+
+We will call your cell phone (___) or your brother's 
+cell phone ___, ___ if we find out any concerning 
+test results.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13623186-DS-10 | hadm_id=23953592
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with HIV (CD4 ___,000 in ___ on ___ since ___ who presents with 
+several weeks of escalating intermittent RUQ pain. He has been 
+having intermittent episodes of stabbing/burning RUQ pain 
+associated with nausea and nonbilious emesis intermittently for 
+a couple of months now. Initially, these episodes were 
+infrequent and relatively mild; they would resolve spontaneously 
+in less than an hour, especially with prn ranitidine. He feels 
+that they have been particularly brought on by "heavy" fatty 
+meals, and the pain/nausea/vomitting have been waking him 
+suddenly from sleep. The frequency and severity of these 
+episodes has been gradually escalating over this time, but 
+particularly over the past week. They also seem to be less 
+associated with any sort of food. On the day of admission, he 
+had severe RUQ pain which did not remit, causing him to get in a 
+taxi to come to the ED; he estimates this episode lasted at 
+least four hours prior to resolving with the morphine he was 
+given in the ED.  
+.  
+Of note, he does endorse an unintentional 15 lbs weight loss 
+over the past month; he feels that he looks more gaunt in the 
+mirror and that his clothes are fitting more loosely. He denies 
+any jaundice or scleral icterus.  
+.  
+Also of note, he has been having frequent myalgias and 
+arthralgias upon waking in the morning, especially in his 
+legs/knees; this usually responds to over the counter 
+analgesics. He also reports generalized fatigue, malaise, and 
+weakness for several months now.  
+.  
+ED Course:  
+Upon arrival to the ___ ED, he was afebrile, BP 109/76, HR 
+100, RR 18, Sat 99% on room air. He was given 4 mg of IV 
+ondansetron and 4 mg of IV morphine which eventually relieved 
+his pain; he was also given 3000 cc of normal saline. A RUQ 
+ultrasound was normal but an abdominal CT scan showed possible 
+gallbladder distension; the ERCP team was consulted who 
+recommended MRCP for evaluation.  
+.  
+ROS:  
+He reports subjective warmth and clamminess with these episodes 
+of abdominal pain. He gets occasional mild frontal headaches. 
+Denies any chills or rigors. Weight loss as above. He denies 
+chest pain, dyspnea, ankle edema, diarrhea. He does have 
+occasional constipation. He also reports new mild oral thrush 
+and new scaly pink lesions on the soles of his feet for the past 
+month.  
+
+ 
+Past Medical History:
+-HIV, CD4 ___,000 in ___ 
+contracted from MSM contact with known HIV-positive partner; 
+resumed ___ in ___ after having been off it for some time; 
+initially diagnosed in ___ CD4 never below 200 (per patient) 
+ 
+- syphilitic optic neuritis in ___ treated with high-dose 
+steroids and two weeks of IV penicillin (serum RPR 1:2048 at 
+time of diagnosis)  
+- peptic ulcer disease; treated for H. pylori in ___  
+- perianal condyloma resected in ___  
+- recurrent genital HSV on suppressive acyclovir  
+- history of MRSA skin/soft tissue infections for which he has a 
+TMP/SMX prescription at home (only takes if/when he has a new 
+infection)  
+
+ 
+Social History:
+___
+Family History:
+Multiple family members with fibromyalgia
+ 
+Physical Exam:
+T 97.3 BP 120/70 HR 83 RR 16 Sat 99% on room air  
+General: well-appearing middle aged man in no distress  
+HEENT: no scleral icterus; several white plaques on tongue  
+Neck: no cervical or supraclavicular lymphadenopathy; no 
+meningismus  
+Chest: clear to auscultation throughout with no wheezes, rales, 
+or ronchi  
+CV: regular rate/rhythm, normal s1 and s2, no murmurs/rubs  
+Abdomen: soft, tender to deep palpation and percussion in RUQ 
+only, with (+) ___ sign; no guarding; no palpable 
+masses/HSM; normal bowel sounds  
+Extremities: no edema, 2+ ___ pulses, no clubbing  
+Skin: multiple 0.5-2 cm pink macules on soles of both feet with 
+surrounding scale; no palmar lesions or other rashes; no 
+jaundice  
+Neuro: alert, oriented x3, CN ___ intact; ___ strength in 
+bilateral deltoids, biceps, triceps, hip flexors/extensors, knee 
+flexors/extensors; 1+ biceps reflexes bilaterally  
+
+ 
+Pertinent Results:
+___ 03:10PM BLOOD WBC-6.3 RBC-4.33* Hgb-12.2* Hct-35.3* 
+MCV-82 MCH-28.3 MCHC-34.6 RDW-14.1 Plt ___
+___ 03:10PM BLOOD Neuts-76.5* Lymphs-13.5* Monos-5.6 
+Eos-4.1* Baso-0.3
+___ 05:20AM BLOOD  WBC-5.3 Lymph-19 Abs ___ CD3%-69 
+Abs CD3-695 CD4%-24 Abs CD4-246* CD8%-43 Abs CD8-438 
+CD4/CD8-0.6*
+___ 03:10PM BLOOD Glucose-88 UreaN-14 Creat-0.9 Na-138 
+K-4.0 Cl-103 HCO3-27 AnGap-12
+___ 03:10PM BLOOD ALT-13 AST-22 LD(LDH)-227 AlkPhos-104 
+TotBili-4.5* DirBili-0.2 IndBili-4.3
+___ 03:10PM BLOOD Lipase-86*
+___ 03:10PM BLOOD Albumin-3.9
+___ 05:20AM BLOOD Calcium-8.3* Phos-3.4 Mg-1.9
+___ 03:10PM BLOOD Hapto-192
+___ 05:20AM BLOOD ___
+___ 09:45AM BLOOD WBC-5.4 RBC-3.82* Hgb-10.8* Hct-31.0* 
+MCV-81* MCH-28.3 MCHC-34.9 RDW-13.8 Plt ___
+___ 09:45AM BLOOD Glucose-113* UreaN-12 Creat-0.7 Na-138 
+K-4.0 Cl-105 HCO3-29 AnGap-8
+___ 09:45AM BLOOD ALT-11 AST-16 AlkPhos-95 TotBili-3.8* 
+DirBili-0.2 IndBili-3.6
+___ 05:20AM BLOOD Lipase-67*
+.
+ECG ___
+Sinus rhythm. Normal tracing. Compared to the previous tracing 
+the rate 
+is slower. 
+    Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+89 150 92 362/412 67 60 58 
+.
+ABdominal U/S ___
+ABDOMINAL ULTRASOUND: The liver is normal in echotexture without 
+focal 
+lesions or masses. The gallbladder is normal without stones or 
+wall thickening. The common duct is normal, measuring 6 mm. The 
+pancreas is unremarkable, with the pancreatic duct measuring 
+less than 2 mm. The aorta is normal in caliber throughout. The 
+IVC is unremarkable. The right kidney measures 11.3 cm, and the 
+left kidney measures 12 cm. The portal vein demonstrates normal 
+hepatopetal flow. There is no ascites. 
+IMPRESSION: Normal abdominal ultrasound, without cholelithiasis 
+or 
+cholecystitis. 
+.
+CT ABDOMEN WITH IV CONTRAST ___: The lung bases are clear 
+without consolidation or effusion. The heart size is normal 
+without pericardial effusion. The pancreas has a normal 
+appearance, and there is no ___ fluid collection. 
+The lack of mesenteric fat limits evaluation for ___ 
+inflammatory reaction. The gallbladder is mildly distended with 
+fluid, but the wall is thin, no stones are present and there is 
+no pericholecystic fluid. The liver, spleen, adrenal glands, 
+stomach and duodenum are unremarkable. The kidneys enhance and 
+excrete contrast symmetrically without hydronephrosis or masses. 
+There is no free air in the abdomen. There is a tiny amount of 
+fluid around the inferior margin of the liver.  
+CT PELVIS WITH IV CONTRAST ___: Multiple loops of large and 
+small bowel are unremarkable. There is no bowel wall thickening 
+or evidence of obstruction. The appendix is normal. There is no 
+free fluid in the pelvis. The urinary bladder, prostate gland 
+and rectum are unremarkable. 
+There are no mesenteric, retroperitoneal or pelvic lymph nodes 
+that meet T criteria for pathologic enlargement. OSSEOUS 
+STRUCTURES: There is no worrisome lytic or sclerotic bony 
+lesion. There is no fracture. Soft tissues are unremarkable. 
+IMPRESSION: 
+1. No focal abnormalities of the pancreas. However, a tiny 
+amount of free fluid tracks around the inferior margin of the 
+liver. This could be seen in mild or early pancreatitis. 
+2. No other acute abnormalities. 
+.
+MRCP ___
+FINDINGS: The liver is normal in appearance. Specifically, there 
+is no 
+intra- and extra-hepatic biliary ductal dilatation. No abnormal 
+mass or
+obstructing lesion is seen. The distal common bile duct and 
+pancreatic duct are also normal in appearance. A tiny right 
+renal cyst is noted. The 
+abdominal viscera are otherwise normal in appearance. There is 
+no lymphadenopathy. Incidental note is made of a small 
+paraaortic venous or 
+lymphatic malformation. Incidental note is made of a small 
+vertebral body hemangioma. The soft tissues are otherwise within 
+normal limits. 
+Multiplanar 2D and 3D reformations provided multiple 
+perspectives for the 
+dynamic series. 
+IMPRESSION: 
+1. Normal appearance of the liver. Specifically, no evidence of 
+biliary 
+ductal dilatation, as questioned. 
+2. Paraaortic venous or lymphatic malformation. 
+
+ 
+  
+
+ 
+Brief Hospital Course:
+___ year old man with HIV on ___ presenting with several weeks 
+of escalating intermittent RUQ pain, weight loss, and 
+hyperbilirubinemia.  
+.  
+## Abdominal pain and indirect bilirubinemia; U/S not showing 
+any gall bladder stones. CT showing mildly distended gall 
+bladder, raising concern for choledocholithiasis. However, 
+indirect bilirubinemia is not characteristic of 
+choledocholithiasis. Haptoglobin WNL, with no s/s of hemolysis. 
+___ side effect of ___ therapy. Weight loss and general 
+malaise was concerning for pancreatic/biliary neoplasm; or it 
+may be as benign as ___ syndrome (pt has h/o elevated 
+T.bili in ___, as high as 3.0, also as low as 0.6.). 
+- MRCP was done -> no evidence of ductal dilatation, masses. 
+Incidental finding of lymphatic malformation of little clinical 
+significance.
+- Total bili trended down throughout hospital course. Pain 
+abated.  
+.  
+## Oral candidiasis, mild  
+- nystatin swish 5 cc four times daily  
+.  
+## HIV  
+- rechecked CD4 and viral load since they haven't been checked 
+since ___ prior to resuming ___  
+- continued ___  
+- Pt to follow up with outpatient HIV specialist.
+.  
+## Pink macules on soles of feet; appearance most consistent 
+with fungal infection  
+- Re-checked RPR to assess for increase in titer (was 1:64 when 
+checked in ___ - 1:128. 
+- Rx given for Lotrimin and ___ pt to follow up as 
+outpatient.
+.  
+
+ 
+Medications on Admission:
+- acyclovir 400 mg bid  
+- ranitidine 150 mg prn  
+- ritonavir 100 mg daily  
+- emtricitabine/tenofovir 200 mg-300 mg one tablet daily  
+- atazanavir 300 mg daily  
+- lorazepam 1 mg qhs prn  
+- multivitamin  
+- TMP/SMX (has a prescription for if/when he develops recurrent 
+skin infections; hasn't needed recently)  
+
+ 
+Discharge Medications:
+1. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet 
+PO DAILY (Daily).  
+2. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): take this while taking percocet to prevent 
+constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+4. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q12H (every 
+12 hours).  
+5. Atazanavir 150 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+6. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day) as needed for abdominal pain.  
+7. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day).
+Disp:*600 ML(s)* Refills:*2*
+8. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+9. Percocet ___ mg Tablet Sig: ___ Tablets PO every six (6) 
+hours as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Bactrim DS 160-800 mg Tablet Sig: One (1) Tablet PO twice a 
+day as needed for recurrent skin infection: (Pt has Rx at home). 
+ 
+12. Drysol Dab-O-Matic 20 % Solution Sig: One (1) app Topical at 
+bedtime as needed for sweating: apply to feet .
+Disp:*1 bottle* Refills:*2*
+13. Lotrimin 1 % Cream Sig: One (1) application Topical at 
+bedtime.
+Disp:*1 large tube* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+RUQ abdominal pain 
+Indirect bilirubinemia of unknown etiology, possibly ___ 
+syndrome 
+Secondary: 
+HIV 
+
+ 
+Discharge Condition:
+Pain controlled, stable. Afebrile.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation of right upper 
+quadrant abdominal pain. CT scan of your abdomen showed possibly 
+distended gall bladder, and lab tests showed high total 
+bilirubin level which can indicate a blockage in the biliary 
+system. An MRCP was done, which was normal. The liver and 
+biliary system were normal, with no obstruction, stones or 
+lesions. There was an incidental finding of a small lymphatic 
+malformation which is of no clinical significance. Although 
+these preliminary findings are reassuring, please follow up with 
+your primary care physician for the final read. 
+.
+If you develop worsening pain, fever, chills, nausea, vomiting 
+or any other concerning symptoms, please call your primary care 
+doctor or return to the emergency room. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13623186-DS-11 | hadm_id=25557330
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with history of HIV with CD4 <100, HIV VL 14K (___), h/o 
+neurosyphilis who presents with fever and LLQ abdominal pain. 
+Patient states that he came in "because my roommate was 
+concerned about my walking and confusion." Per referral and 
+report, patient had initially presented to his PCP on the day of 
+admission for his abdominal pain and fevers where he was noted 
+to be tachycardic to 140s. He denied N/V/D at the time; he was 
+also complaining of shortness of breath and lightheadedness upon 
+standing. He does report fevers started on the day prior to 
+admission but did not take temperatures at home. Reports 
+associated anorexia and poor po intake. Of note, pt reports not 
+taking medications due to "housing difficulties" for several 
+months. Denies sick contacts, recent travel.
+
+Roommate ___ clarifies the rest of the history, stating that 
+patient had been very tired in the last few weeks, worsening on 
+___ when he slept approx. 20 hours. He had been sleeping in his 
+bed with his pants half off, which roommate assumed was due to 
+fatigue and being too tired to take his pants off entirely. 
+Roommate also reports that patient has had difficulty urinating 
+as well. On the day of admission, roommate was concerned about 
+pt's confusion, as patient thought that it was ___ when it 
+was ___ and was "wobbly" on his feet. He urged patient to 
+come to ED. 
+
+In the ED, initial vitals:  T 102 HR 133 BP 143/84 RR 18 100% RA
+He had Tm 103.4
+Labs were notable for Na+ 127, Cr 1.2, LFTs wnl, CBC notable for 
+WBC ___ H/H 12.5/37.2 Plt 51, lactate 1.1 UA negative with <1 
+WBC, no bacteria. 
+He had noncontrast CT head which showed no acute intracranial 
+process. 
+CT abd/pelvis w contrast showed mild intrahepatic biliary 
+dilatation and mild dilatation of CBD , no evidence for 
+intra-abdominal abscess.
+CXR showed no acute cardiopulmonary abnormality. 
+EKG showed: sinus tachycardia with rate 130s, NA, NI 
+He received 3L NS, zosyn 4.5g, vanc 1g, ceftriaxone 2g, 
+fluconazole 200 mg IV, acyclovir 1g IV, Tylenol 1g po x1
+
+On transfer, vitals were:  T 98.8 HR 111 138/77 RR 20 99% RA
+On arrival to the MICU,  pt reports feeling "lowsy", c/o thirst, 
+hunger, LLQ abdominal pain. He reports that the 
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies recent weight loss or gain. Denies headache, sinus 
+tenderness, rhinorrhea or congestion. Denies cough, shortness of 
+breath, or wheezing. Denies chest pain, chest pressure, 
+palpitations, or weakness. Denies nausea, vomiting, diarrhea, or 
+changes in bowel habits. Denies dysuria, frequency, or urgency. 
+Denies arthralgias or myalgias. Denies rashes or skin changes. 
+ 
+Past Medical History:
+HIV with AIDS: Fx ___, took Trizivir initially followed by 
+TDF/Combivir- in ___ took Truvada/Reyataz/r switched to 
+Darunavir/r, Truvada when he needed to be on a PPI for H. pylori 
+and GERD
+h/o DVT
+H/o MRSA cellulitis
+Neurosyphilis: x2- ___ and ___ / 2 treatment course- 
+hospitalized at ___ and was followed until ___ 
+MDD
+eosinophilic esophagitis
+HPV with HGSIL anus, LGSIL anorectal
+herpes zoster
+arthralgias
+Allergic rhinitis
+Thrombocytopenia
+
+ 
+Social History:
+___
+Family History:
+Mother - Living - CA (unclear type) 
+Brother with prostate cancer, Small Cell Lung CA 
+Father with throat cancer
+Multiple family members with fibromyalgia
+ 
+Physical Exam:
+Admission exam:
+Vitals: T 99.5  BP: 137/86 P: 122 R: 18 O2: 99% RA  
+GENERAL: Alert, oriented x3, uncomfortable appearing
+HEENT: Sclera anicteric, dry mm, oropharynx clear without thrush 
+or leukoplakia. PERRL, 3->2 mm
+NECK: supple, JVP not elevated, no significant cervical LAD
+LUNGS: Coarse rales in bases bilaterally, no wheezing or 
+rhonchi.
+CV: Tachycardic, regular rhythm, normal S1 S2, no murmurs or 
+rubs  
+ABD: soft, mildly TTP, worst in LLQ, no rebound tenderness or 
+guarding, BS+, negative ___ sign
+EXT: Warm, well perfused, 1+ DPs, no rash
+NEURO: CNII-XII intact, ___ upper and lower extremity strength, 
+intact to sensation in UE and ___, 2+ patellar reflexes, F2N wnl, 
+gait deferred
+
+Discharge exam:
+Unable to perform as patient eloped
+ 
+Pertinent Results:
+ADMISSION LABS:
+=========================
+___ 04:20PM BLOOD WBC-3.9* RBC-4.55* Hgb-12.5* Hct-37.2* 
+MCV-82 MCH-27.5 MCHC-33.6 RDW-13.3 RDWSD-39.8 Plt Ct-51*#
+___ 04:20PM BLOOD Neuts-78.9* Lymphs-13.8* Monos-6.2 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-3.04 AbsLymp-0.53* 
+AbsMono-0.24 AbsEos-0.00* AbsBaso-0.01
+___ 04:20PM BLOOD Glucose-114* UreaN-20 Creat-1.2 Na-127* 
+K-4.0 Cl-92* HCO3-25 AnGap-14
+___ 04:20PM BLOOD ALT-16 AST-24 AlkPhos-66 TotBili-0.8
+___ 04:20PM BLOOD Lipase-14
+___ 04:32AM BLOOD Calcium-7.2* Phos-3.1 Mg-1.5*
+___ 04:27PM BLOOD Lactate-1.1
+___ 06:50PM URINE Blood-NEG Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.5 Leuks-NEG
+___ 06:50PM URINE RBC-4* WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0 TransE-<1
+
+MICROBIOLOGY:
+===========================
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+___ 04:40AM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+   CRYPTOCOCCAL ANTIGEN (Final ___: 
+      CRYPTOCOCCAL ANTIGEN NOT DETECTED. 
+           (Reference Range-Negative). 
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      REACTIVE. 
+      Reference Range: Non-Reactive. 
+
+   QUANTITATIVE RPR (Final ___: 
+      REACTIVE AT A TITER OF 1:128. 
+      Reference Range: Non-Reactive. 
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+   MONOSPOT (Final ___: 
+      NEGATIVE by Latex Agglutination. 
+           (Reference Range-Negative). 
+
+BLOOD cx pending*****
+Toxoplasma pending******
+C. Diff: negative
+Lyme serologies: pending
+
+IMAGING:
+============================
+-ECG (___): Sinus tachycardia. There are tiny R waves in the 
+anterior leads consistent with possible myocardial infarction. 
+Compared to the previous tracing  of ___ the rate is faster 
+and evidence of possible myocardial infarction is new. 
+-CXR (___): IMPRESSION: No acute cardiopulmonary 
+abnormality. 
+-CT abd/pelvis (___):
+IMPRESSION:   
+1. Mild central intrahepatic biliary dilatation and mild 
+dilatation of the common bile duct which tapers to level of the 
+ampulla.  Correlation with liver function tests is recommended.  
+If there is any clinical concern for biliary obstruction, an 
+MRCP could be obtained for further evaluation. 
+2. Mild splenomegaly. 
+3. No evidence for intra-abdominal abscess. 
+RECOMMENDATION(S):  If there is any clinical concern for biliary 
+obstruction, an MRCP could be obtained for further evaluation. 
+-TTE (___): FOCUSED STUDY/LIMITED VIEWS: The left atrium is 
+elongated. Left ventricular wall thickness, cavity size, and 
+global systolic function are normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. The ascending 
+aorta is mildly dilated. The aortic valve leaflets (3) are 
+mildly thickened. The mitral valve leaflets are structurally 
+normal. There is no mitral valve prolapse. No mitral 
+regurgitation is seen. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion.  
+-CT Head w/o contrast (___): IMPRESSION: No evidence for 
+acute intracranial abnormalities. 
+-CT Head w/contrast (___): IMPRESSION: 
+1. No evidence of mass lesion on this contrast enhanced study.  
+No evidence of fracture or infarction. IMPRESSION: 1. No acute 
+intracranial process. 
+-CXR (___): IMPRESSION: Compared to prior chest radiographs 
+since ___ most recently ___. Lungs are clear. 
+Cardiomediastinal and hilar silhouettes and pleural surfaces are 
+normal. 
+  
+
+MICRO:
+==============================
+___ 5:52 am BLOOD CULTURE      Source: Venipuncture. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 12:57 am BLOOD CULTURE      Source: Venipuncture. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 5:58 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   OVA + PARASITES (Final ___: 
+      CANCELLED. 
+         Three separate stool specimens collected EVERY OTHER 
+DAY are
+         recommended for optimum sensitivity. Duplicate 
+specimens collected
+         on the same day will not be processed, since this does 
+not
+         increase diagnostic yield. Make sure to label date and 
+time of
+         collection on each stool specimen submitted to ensure 
+appropriate
+         processing. 
+__________________________________________________________
+___ 5:58 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   OVA + PARASITES (Final ___: 
+      CANCELLED. 
+         Three separate stool specimens collected EVERY OTHER 
+DAY are
+         recommended for optimum sensitivity. Duplicate 
+specimens collected
+         on the same day will not be processed, since this does 
+not
+         increase diagnostic yield. Make sure to label date and 
+time of
+         collection on each stool specimen submitted to ensure 
+appropriate
+         processing. 
+__________________________________________________________
+___ 4:00 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+      ___ ADDED ON PER FAX ___ 16:19 
+(___). 
+
+   CYCLOSPORA STAIN (Final ___:    NO CYCLOSPORA SEEN. 
+
+   MICROSPORIDIA STAIN (Preliminary): 
+
+   FECAL CULTURE (Preliminary): 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+
+   Cryptosporidium/Giardia (DFA) (Final ___: 
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+__________________________________________________________
+___ 4:00 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+__________________________________________________________
+___ 4:00 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 12:15 pm SEROLOGY/BLOOD      Source: Venipuncture. 
+
+   LYME SEROLOGY (Pending): 
+__________________________________________________________
+___ 5:55 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   ACID FAST CULTURE (Pending): 
+__________________________________________________________
+___ 6:00 pm BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+      Source: Venipuncture. 
+
+   BLOOD/FUNGAL CULTURE (Pending): 
+
+   BLOOD/AFB CULTURE (Pending): 
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 8:15 am
+      SEROLOGY/BLOOD      TAKEN FROM TUBE # ___. 
+
+                            **FINAL REPORT ___
+
+   MONOSPOT (Final ___: 
+      NEGATIVE by Latex Agglutination. 
+           (Reference Range-Negative). 
+__________________________________________________________
+___ 4:32 am Blood (Toxo)      CHEM # ___ ___. 
+
+                            **FINAL REPORT ___
+
+   TOXOPLASMA IgG ANTIBODY (Final ___: 
+      NEGATIVE FOR TOXOPLASMA IgG ANTIBODY BY EIA. 
+      0.0 IU/ML. 
+      Reference Range:  Negative < 4 IU/ml, Positive >= 8 IU/ml. 
+
+
+   TOXOPLASMA IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR TOXOPLASMA IgM ANTIBODY BY EIA. 
+      INTERPRETATION:  NO ANTIBODY DETECTED. 
+__________________________________________________________
+___ 4:32 am IMMUNOLOGY      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   HIV-1 Viral Load/Ultrasensitive (Final ___: 
+      130,000 copies/ml. 
+      Performed using the Cobas Ampliprep / Cobas Taqman HIV-1 
+Test v2.0. 
+      Detection Range: ___ copies/mL. 
+      This test is approved for monitoring HIV-1 viral load in 
+known
+      HIV-positive patients. It is not approved for diagnosis of 
+acute HIV
+      infection. 
+      In symptomatic acute HIV infection (acute retroviral 
+syndrome), the
+      viral load is usually very high (>>1000 copies/mL). If 
+acute HIV
+      infection is clinically suspected and there is a 
+detectable but low
+      viral load, please contact the laboratory for 
+interpretation. 
+      It is recommended that any NEW positive HIV-1 viral load 
+result, in
+      the absence of positive serology, be confirmed by 
+submitting a new
+      sample FOR HIV-1 PCR, in addition to serological testing. 
+__________________________________________________________
+___ 4:32 am IMMUNOLOGY      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   HCV VIRAL LOAD (Final ___: 
+      HCV-RNA NOT DETECTED. 
+      Performed using Cobas Ampliprep / Cobas Taqman HCV v2.0 
+Test. 
+      Linear range of quantification: 1.50E+01 IU/mL - 1.00E+08 
+IU/mL. 
+      Limit of detection: 1.50E+01 IU/mL. 
+__________________________________________________________
+___ 4:32 am Immunology (CMV)      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+      Performed by Cobas Ampliprep / Cobas Taqman CMV Test. 
+      Linear range of quantification: 137 IU/mL - 9,100,000 
+IU/mL. 
+      Limit of detection 91 IU/mL. 
+      This test has been verified for use in the ___ patient 
+population. 
+__________________________________________________________
+___ 4:32 am SEROLOGY/BLOOD      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      REACTIVE. 
+      Reference Range: Non-Reactive. 
+
+   QUANTITATIVE RPR (Final ___: 
+      REACTIVE AT A TITER OF 1:128. 
+      Reference Range: Non-Reactive. 
+__________________________________________________________
+___ 4:32 am SEROLOGY/BLOOD      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   CRYPTOCOCCAL ANTIGEN (Final ___: 
+      CRYPTOCOCCAL ANTIGEN NOT DETECTED. 
+           (Reference Range-Negative). 
+      Test performed by Lateral Flow Assay. 
+      A negative serum does not rule out localized or 
+disseminated
+      cryptococcal infection. 
+      Appropriate specimens should be sent for culture. 
+__________________________________________________________
+___ 6:50 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:39 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 4:20 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+ 
+
+DISCHARGE LABS:
+=====================
+___ 05:30AM BLOOD WBC-2.1* RBC-3.58* Hgb-9.8* Hct-28.4* 
+MCV-79* MCH-27.4 MCHC-34.5 RDW-13.6 RDWSD-39.1 Plt Ct-14*
+___ 05:30AM BLOOD ___ PTT-31.1 ___
+___ 05:30AM BLOOD Glucose-115* UreaN-12 Creat-0.7 Na-128* 
+K-3.7 Cl-98 HCO3-20* AnGap-14
+___ 05:30AM BLOOD ALT-33 AST-85* AlkPhos-190* TotBili-0.8
+___ 05:30AM BLOOD Albumin-2.8* Calcium-7.1* Phos-1.1* 
+Mg-1.___ M PMHx HIV (genotype IB, CD4 14) c/b neurosyphilis/ocular 
+syphilis, disseminated VZV, and medication non-compliance who 
+presented to PCP ___ ___ abdominal pain and fatigue 
+admitted to the MICU ___ altered mental status and fevers 
+concerning for MAC vs neurosyphilis. Patient eloped from the 
+hospital on ___ after verbalizing understanding of the risks 
+associated with leaving including worsening infection and death.
+
+# Elopement: on the morning of ___, patient eloped from the 
+hospital. Patient verbalized understanding of risks/benefits 
+associated with leaving, including risk of worsening infection 
+and death. He received counseling and prescriptions for his 
+medications including his HAART medications and antibiotics. He 
+left before getting IM PCN or discharge paperwork. A message was 
+left for his roommate/HCP. He and his roommate were encouraged 
+to come back to the ED with any concerns. An appointment was 
+scheduled for patient with his PCP.
+
+MICU COURSE:
+===================================
+#Sepsis: Patient presented with WBC < 4, Tm 103 in the ED, 
+tachycardia in 130s concerning for sepsis. No elevated lactate 
+to suggest severe sepsis. The etiology is suspected to be MAC, 
+mycotic blood cultures pending on elopement. The differential 
+for his infectious etiology is generally broad, given recent CD4 
+count <100 with HIV VL >14K in ___. CT A/P is without 
+evidence of intra-abdominal infection, unremarkable for abscess 
+or colitis; while there was suggestion of CBD and intrahepatic 
+biliary dilatation, LFTs wnl do not support biliary etiology of 
+sepsis. CXR is without evidence of pneumonia although given 
+vague complaints of SOB and low CD4, MAC is suspected. CT head 
+negative for obvious abscess or ring-enhancing lesion. LP was 
+initially deferred given thrombocytopenia with plt in ___ and 
+exam reassuring for no evidence of meningismus. However, the 
+decision was made with ID input that patient should undergo LP 
+to r/o CSF infection; however, patient adamantly declined and so 
+LP not performed. Given this, he underwent CT head with contrast 
+which did not show any concerning findings for infection, no 
+ring-enhancing lesions or abscess noted. Flu negative, monospot 
+negative, CMV negative, blood cx pending. In the ED, he 
+initially received vanc, Zosyn, ceftriaxone, acyclovir, and 
+fluconazole, which was narrowed to ceftriaxone in conjunction 
+with ID. Ultimately, suspicion was highest for MAC, and so 
+patient was placed on azithromcyin and Ethambutol for ? 
+disseminated MAC. Acyclovir IV was discontinued given low 
+suspicion for HSV encephalitis.
+
+#Abdominal pain: unclear etiology although infection was 
+initially suspected given fevers. Given localization to LLQ on 
+exam, would be concerned about reactive lymphadenopathy although 
+no significant LAD seen on CT abd/pelvis. CT abd/pelvis does 
+show intrahepatic biliary dilatation and mild dilatation of the 
+common bile duct although LFTs do not suggest biliary pathology 
+as discussed above. Patient does have a history of H. pylori 
+which has been responsive to PPI and triple therapy per report. 
+CMV esophagitis vs colitis is possible although no significant 
+diarrhea. CMV viral load was negative. He was continued on 
+ceftriaxone as above. Stool cultures were pending at discharge. 
+
+#Thrombocytopenia: pt presented with plt 51 from prior plt >150. 
+Unclear etiology although suspected secondary to infection. 
+Medication effect (e.g. Bactrim) less likely given patient not 
+taking any medications as an outpatient. Consumption is possible 
+in setting of acute infection. Pt does have mild splenomegaly on 
+CT abd/pelvis making sequestration possible explanation. DIC 
+less likely given normal coags. Prior records from ___ reveal 
+prior plt 175. Most likely in the setting of disseminated MAC 
+infection, sepsis. Per ID, would consider heme-onc consult if 
+thrombocytopenia continues to worsen. Platelet count was 14 on 
+elopement
+ 
+#HIV with AIDS: Previously on Trizivir, followed by TDF/Combivir 
+(___) took Truvada/Reyataz/r switched to Darunavir/r, Truvada. 
+Patient has not been taking his home medications for unclear 
+reasons; he states that he has "unstable housing" as the reason 
+for non-compliance, although currently domiciled. HIV VL this 
+admission was ___ with CD4 count 14. He was followed by ID and 
+HAART was resumed with truvada and dolutegravir. He was 
+initiated on fluconazole/atovaquone/acyclovir ppx.
+
+#Neurosyphilis: Patient has a history of neurosyphillis and is 
+s/p treatment with IV PCN x3, most recently in ___ and weekly 
+IM PCN ___. Last seen by ___ ID ___ when suspicion was 
+high for recurrent neurosyphilis based on visual symptoms and 
+RPR titers. He was recommended for PICC placement and repeat PCN 
+course. However, pt declined PICC for IV PCN and so received IM 
+with probenecid. RPR this admission was elevated at 1:128 and ID 
+recommended continuing ceftriaxone (initiated empirically as 
+above for sepsis) and patient was planned to go home on 
+penicillin via PICC. However, patient eloped before PICC was 
+placed and he refused IM PCN prior to leaving. 
+
+#Hyponatremia: Patient presented with Na+ 127 on admission. This 
+was felt to be likely hypovolemic in the setting of sepsis and 
+poor po intake. Na+ improved with IVF. However, Ulytes and osm 
+were consistent with SIADH, and bedside U/S showed adequate 
+volume resuscitation with given IVC. Given improvement in HD 
+status, the patient was placed on 750cc fluid restriction and 
+salt tabs. Na improved to 128 upon transfer to the floor. Na on 
+elopement of 128.
+
+#Major depressive disorder: patient previously on sertraline, 
+paroxetine but has not been taking recently. These were not 
+re-initiated this hospital course but should consider resuming 
+as outpatient.
+
+#Medication non-compliance: patient has a history of medical 
+non-compliance, which has limited his treatment for HIV/AIDS. As 
+described above, he states his housing difficulty as the reason 
+for his non-compliance, although it appears he has fairly stable 
+housing per pt's roommate. Patient was provided with 
+prescription for his antibiotics and HAART medications on 
+morning of elopement. He did not receive IM PCN. 
+
+TRANSITIONAL ISSUES:
+[] Patient eloped in AM of ___ he will need ongoing 
+infectious work-up, evaluation of thrombocytopenia, and 
+monitoring of his HAART compliance 
+# Communication: ___ (roommate) ___  
+# Code: Full, confirmed 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. PARoxetine 40 mg PO DAILY 
+2. Sertraline 50 mg PO DAILY 
+3. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+4. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN sob 
+5. Qvar (beclomethasone dipropionate) 40 mcg/actuation 
+inhalation DAILY 
+6. Dapsone 100 mg PO DAILY 
+7. Temazepam 15 mg PO QHS:PRN insomnia 
+8. Multivitamins 1 TAB PO DAILY 
+9. RiTONAvir 100 mg PO DAILY 
+10. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+11. Atovaquone Suspension 750 mg PO BID 
+12. Cetirizine 10 mg PO DAILY 
+13. Darunavir 800 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Atovaquone Suspension 1500 mg PO DAILY 
+RX *atovaquone 750 mg/5 mL 1500 mg by mouth daily Refills:*0
+2. Acyclovir 400 mg PO Q12H 
+RX *acyclovir 400 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*3
+3. Dolutegravir 50 mg PO DAILY 
+RX *dolutegravir [Tivicay] 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*6
+4. Ethambutol HCl 1000 mg PO DAILY 
+RX *ethambutol 100 mg 10 tablet(s) by mouth daily Disp #*140 
+Tablet Refills:*0
+5. Fluconazole 200 mg PO Q24H 
+RX *fluconazole 200 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*6
+6. Cetirizine 10 mg PO DAILY 
+7. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+8. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+RX *emtricitabine-tenofovir [Truvada] 200 mg-300 mg 1 tablet(s) 
+by mouth daily Disp #*30 Tablet Refills:*6
+9. Multivitamins 1 TAB PO DAILY 
+10. PARoxetine 40 mg PO DAILY 
+11. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q4H:PRN sob 
+12. Qvar (beclomethasone dipropionate) 40 mcg/actuation 
+inhalation DAILY 
+13. Sertraline 50 mg PO DAILY 
+14. Temazepam 15 mg PO QHS:PRN insomnia 
+15. Azithromycin 600 mg PO Q24H 
+RX *azithromycin 600 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*6
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+-HIV
+-Sepsis
+-Disseminated MAC
+-Neurosyphilis
+-Thrombocytopenia
+-Hyponatremia
+
+SECONDARY DIAGNOSES:
+-Medication non-compliance
+-Major depressive disorder
+ 
+Discharge Condition:
+Eloped
+ 
+Discharge Instructions:
+Unable to provide
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13623186-DS-14 | hadm_id=27351396
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Bacteremia
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+============================ 
+HISTORY OF PRESENT ILLNESS: 
+============================ 
+Mr. ___ is a ___ homeless man with HIV who returns 
+to the emergency department for evaluation of positive blood 
+cultures. He is accompanied by his service dog, ___. 
+
+He has a past medical history of HIV and homelessness. He was 
+recently admitted with pneumonia treated with azithromycin, and 
+his human bite treated with amoxicillin clavulanate. He was seen 
+in our hospital from ___ after presenting to ___ 
+PCP, found to have fever to 101.8 and tachycardia. He was 
+admitted to the medical service, where he had a broad infectious 
+workup including a lumbar puncture was treated with empiric 
+antimicrobials. He left AGAINST MEDICAL ADVICE with close 
+primary care ___.
+
+Since discharge, he grew gram-positive rods in 1 out of 3 
+bottles. He reports a single episode of chills but has not taken 
+a temperature. He is otherwise felt well and denies focal 
+symptoms of infection except for cough. In particular, he has 
+not had headache, sore throat, chest pain, trouble breathing, 
+abdominal pain, nausea or vomiting, diarrhea, dysuria, or new 
+skin rashes or joint pains.
+
+In the ED: 
+
+Initial vital signs were notable for: T 97.7 HR 110 BP 147/108 
+RR 16 O2 sat 97% RA 
+
+Exam notable for: Constitutional: Comfortable. Coughing 
+throughout interview, dry. Head/eyes: NCAT, PERRLA, EOMI. 
+ENT/neck: OP WNL Chest/Resp: Clear to auscultation bilaterally. 
+Cardiovascular: RRR, Normal S1/S2, no murmurs/rubs/gallops. 
+Abdomen: Soft, nondistended. Nontender. Musc/Extr/Back: No 
+clubbing, cyanosis, or edema. ___. Skin: No rash. Warm and 
+dry. Neuro: Speech fluent. Psych: Normal mood. Normal mentation.
+
+Labs were notable for stable anemia (Hgb 11.2), mild 
+hyponatremia to 134, lactate 1.4, negative UA. 
+
+Studies performed include CXR no focal consolidation. 
+
+Patient was given: Nothing
+
+Consults: None requested
+
+Vitals on transfer: HR 94, BP 135/84, RR 18, O2 98% RA
+
+Upon arrival to the floor, patient reports feeling well. He 
+further clarifies his history:
+
+Patient reports that at the beginning of ___ he came to the 
+emergency room on ___ with a human bite; someone had pursued him 
+on the street at night and they ended up in a scuffle. He was 
+sent home with antibiotics and he completed that regimen. When 
+he finished the antibiotic course however, he began having new 
+symptoms: dry, nonproductive cough, "achey" pains worse in his 
+feet, subjective fevers, night sweats, and chills. He went to 
+see a doctor on ___ who recorded a temperature of 101.8 and 
+prescribed him a "z-pack." By ___ however "my chest was still 
+not improving" so he saw his doctor at ___, who was concerned 
+about his tachycardia. He was referred to the ED, which led to 
+his recent admission at ___ ___. He left ___ because he felt 
+overwhelmed in the hospital; he has baseline anxiety and panic 
+disorder and his main source of calm is walking his dog but he 
+was not allowed to leave the hospital floor. 
+
+He has never had tuberculosis and has never tested positive for 
+TB. He had a PPD placed on ___ when he was seen for the human 
+bite but he reports that no one read it. He currently lives in a 
+shelter and notes many sick people around him. Recently, a 
+friend was hospitalized for a cough but he's not sure what the 
+diagnosis ultimately was. He has never been incarcerated and 
+denies any recent travel.
+
+Today, he feels 90% better than he did a few weeks ago and that 
+he is nearly back to baseline, except that he still has a dry 
+cough. He thinks he had a fever yesterday but did not record his 
+temperature. He continues to have occasional night sweats as 
+well. He currently denies headache, chest pain, difficulty 
+breathing, abdominal pain, nausea/vomiting, diarrhea, and 
+dysuria. 
+
+He reports he did not take his HAART in ___ and for part of 
+___ because his belongings were stolen. He is now on a 
+different prescribing schedule where he gets new medications 
+every week. He thinks his CD4 count in ___ was 245. He also 
+notes that he has 5 days to sign paperwork and get a deposit to 
+his new apartment so is hoping that he will be discharged before 
+that. 
+ 
+Past Medical History:
+HIV with AIDS: Fx ___, took Trizivir initially followed by 
+TDF/Combivir- in ___ took Truvada/Reyataz/r switched to 
+Darunavir/r, Truvada when he needed to be on a PPI for H. pylori 
+
+and GERD
+h/o DVT
+H/o MRSA cellulitis
+Neurosyphilis: x2- ___ and ___ / 2 treatment course- 
+hospitalized at ___ and was followed until ___ 
+MDD
+eosinophilic esophagitis
+HPV with HGSIL anus, LGSIL anorectal
+herpes zoster
+arthralgias
+Allergic rhinitis
+Thrombocytopenia
+ 
+Social History:
+___
+Family History:
+Mother - Living - CA (unclear type) 
+Brother with prostate cancer, Small Cell Lung CA 
+Father with throat cancer
+Multiple family members with fibromyalgia
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: Temp 98.3, BP 131/81, HR 92, RR 18, O2 95% RA
+GENERAL: Alert and interactive. Lying in bed comfortably. In no
+acute distress.
+HEENT: NCAT. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Minor wheezing in bilateral lower lobes posteriorly.
+Decreased air movement. Comfortable on room air. Occasional dry,
+nonproductive cough.
+ABDOMEN: Non distended, non-tender to deep palpation in all four
+quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Left lower
+extremity shows 3cm open wound with granulation tissue, no
+surrounding erythema (patient reports this is much improved than
+a few weeks ago)
+SKIN: Warm. No rash.
+NEUROLOGIC: Moving all extremities spontaneously. Face 
+symmetric.
+
+========================
+DISCHARGE PHYSICAL EXAM
+========================
+Vitals: Tmax 98.4 Tc 97.9 HR 101 BP 122/74 RR 18 SpO2 93% on 
+room air
+General: Lying comfortably in bed with service dog Olive
+Eyes:  Sclera anicteric.
+Resp: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi.  
+CV: Tachycardic, regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops. 
+GI: Soft, non-tender, non-distended, bowel sounds present, no
+rebound tenderness or guarding, no organomegaly  
+MSK: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema.  Medial aspect of L calf shows a healing 3-4cm wound with 
+surrounding indurated granulation tissues, no tenderness or 
+signs of evolving infection.  
+Neuro: Speech fluent, no gross deficits. AOx3 and conversant 
+ 
+
+ 
+Pertinent Results:
+___ 07:50AM BLOOD WBC-7.3 RBC-4.20* Hgb-11.8* Hct-36.1* 
+MCV-86 MCH-28.1 MCHC-32.7 RDW-14.3 RDWSD-43.8 Plt ___
+___ 07:50AM BLOOD Glucose-99 UreaN-17 Creat-0.8 Na-137 
+K-4.6 Cl-101 HCO3-23 AnGap-13
+___ 09:30AM BLOOD Lipase-35
+___ 07:16AM BLOOD cTropnT-<0.01 proBNP-75
+___ 07:16AM BLOOD calTIBC-299 Ferritn-121 TRF-230
+___ 07:16AM BLOOD TSH-2.9
+___ 09:38AM BLOOD Lactate-1.4 K-4.7
+
+CD4 Count: 301
+ 
+Brief Hospital Course:
+Patient is a ___ with history of HIV (inconsistent HAART 
+therapy, most recent CD4 from late ___ 278) who presented 
+due to GPRs growing in ___ bottles from ___ (aerobic bottle) 
+after a recent hospitalization for fevers/tachycardia (left 
+AMA). The GPRs speciated as corynebacterium (diphtheroids), most 
+consistent with a contaminant. Patient was initially started on 
+vancomycin/ampicillin, though subsequently remained 
+hemodynamically stable off all antibiotics for more than 
+24hours. Subsequent blood cultures showed NGTD. 
+
+=============
+ACUTE ISSUES:
+=============
+#GPR BACTEREMIA, likely contaminant 
+#SUBJECTIVE FEVERS - Patient was recently treated for a human 
+bite sustained within the past several weeks (completed an 
+appropriate course of augmentin). Symptoms have reportedly 
+included fever/sweats, malaise, dyspnea, cough, and headaches - 
+of note, patient was appearing well and only complaining of mild 
+shortness of breath during this admission. Broad infectious 
+work-up from recent admission ___ was largely unremarkable 
+other than ___ bottles positive for GPRs (speciated as 
+corynebacterium/diphtheroids), which was considered to be most 
+likely a contaminant and not representative of a true pathogen. 
+T-lymphocyte subset subsequently returned, CD4 301. Of note, 
+recent CSF studies showed 66RBC in tube 4 and elevated protein 
+(53, possibly related to underlying HIV), HSV PCR NEGATIVE. 
+Patient remained afebrile throughout admission, was initially 
+started on vancomycin/ampicillin (treating enterococcus in urine 
+in addition to the possibility of listeria), though remained 
+afebrile after discontinuation ___. Of note UA was unremarkable 
+and patient denied any urinary symptoms, ___ CFU 
+enterococcus grew from UCx ___.
+[] Complete 7 day course of Macrobid for Enterococcus UTI
+
+#SINUS TACHYCARDIA - Ongoing tachycardia, largely asymptomatic 
+other
+than mild SOB, which patient attributed to the humid clime. No 
+clinical concern for DVT at this time (NB patient has a hx of 
+PICC associated DVT). Patient was monitored on telemetery 
+throughout admission. Trop/BNP unremarkable. TSH returned at 2.9 
+Patient was given 1L IVF bolus, HRs persistently 90-low 100s. No 
+further issues this admission. 
+
+#WEIGHT LOSS
+Patient reports approximately 10 pound unintentional weight loss 
+over the past month despite trying to eat more. Nutrition was 
+consulted, though unfortunately could not see patient over the 
+weekend. Further work-up as an outpatient, ensure age 
+appropriate cancer screening.
+
+#HIV
+On HAART therapy, last ___ 278, previously drawn 
+T-lymphcyte subset ___ returned with CD4 301. HIV viral load 
+1.5. He was continued on home dolutegravir 50mg PO daily and 
+descovy 200mg-25mg PO daily
+[] Discontinued Dapsone given CD4 of 301
+
+#NORMOCYTIC ANEMIA
+Hb 11.2 on admission, at recent baseline. No bleeding and 
+patient remained hemodynamically stable. Improved sinus 
+tachycardia as above. Iron studies showed Fe 92, Fe sat 30.7%. 
+Outpatient colonoscopy should be arranged for age appropriate 
+cancer screening.
+
+#LFT ABNORMALITY
+AST 48 ALT 13 on admission, most likely ___ hemolysis, 
+subsequently wnl. Prior heavy EtOH use, though not recently. 
+___ viral hepatology labs showed positive HCV Ab. Coags 
+unremarkable. HCV viral load pending at time of discharge.
+[] f/u HCV viral load
+
+===============
+CHRONIC ISSUES:
+===============
+#DEPRESSION
+#ANXIETY
+- Support dog ___ is at bedside throughout admission
+- Continued home clonazepam 0.5mg PO BID, written PRN
+
+#ALLERGIC RHINITIS
+- Continued home cetirizine 10mg PO daily PRN allergies
+
+#ASTHMA
+- Held home proair and beclomethasone dipropionate as they are 
+nonformulary, gave fluticasone while inpatient
+- Continued albuterol inhaler q6h PRN SOB
+- All home inhalers were restarted at discharge
+- Consider outpatient PFTs, sats 92-95% on RA throughout 
+admission
+- Encourage smoking cessation
+
+#EOSINOPHILIC ESOPHAGITIS
+- Continued home diphenhydramine 25mg PO TID w/meals PRN 
+eosinophilic esophagitis
+
+#BPH
+- Continued home tamsulosin 0.4mg PO QHS
+
+TRANSITIONAL ISSUES
+===================
+[] Complete 7 day course of Macrobid for Enterococcus UTI (end 
+___
+- Please f/u pending acid fast cultures (x3) from recent 
+admission, smears were all NEGATIVE
+- Please follow up pending CMV/HCV viral loads
+- Please ensure that patient has a Quantiferon-Gold test sent
+- Please ensure age appropriate cancer screening
+- Please note that dapsone was discontinued, CD4>300
+- Consider outpatient PFTs
+- Encourage smoking cessation
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LOPERamide 2 mg PO QID:PRN loose stools 
+2. Cetirizine 10 mg PO DAILY:PRN allergies 
+3. ClonazePAM 0.5 mg PO BID 
+4. Dapsone 100 mg PO DAILY 
+5. DiphenhydrAMINE 25 mg PO TID:PRN with meals if needed for 
+eosinophilic esophagitis 
+6. Dolutegravir 50 mg PO DAILY 
+7. Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY* 1 TAB 
+PO DAILY 
+8. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 
+9. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q12H:PRN 
+10. Qvar RediHaler (beclomethasone dipropionate) 40 
+mcg/actuation inhalation DAILY 
+11. Tamsulosin 0.4 mg PO QHS 
+12. ValACYclovir 1000 mg PO DAILY:PRN HSV 
+
+ 
+Discharge Medications:
+1.  Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H Duration: 7 
+Days 
+RX *nitrofurantoin monohyd/m-cryst [Macrobid] 100 mg 1 
+capsule(s) by mouth twice a day Disp #*12 Capsule Refills:*0 
+2.  Cetirizine 10 mg PO DAILY:PRN allergies  
+3.  ClonazePAM 0.5 mg PO BID  
+4.  DiphenhydrAMINE 25 mg PO TID:PRN with meals if needed for 
+eosinophilic esophagitis  
+5.  Dolutegravir 50 mg PO DAILY  
+6.  Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY* 1 TAB 
+PO DAILY  
+7.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1  
+8.  LOPERamide 2 mg PO QID:PRN loose stools  
+9.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q12H:PRN  
+10.  Qvar RediHaler (beclomethasone dipropionate) 40 
+mcg/actuation inhalation DAILY  
+11.  Tamsulosin 0.4 mg PO QHS  
+12.  ValACYclovir 1000 mg PO DAILY:PRN HSV  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses
+=================
+- Positive blood culture, the result of contaminant
+- Sinus tachycardia
+- Enterococcus UTI
+Secondary Diagnoses
+===================
+- HIV
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+  
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because one of the blood cultures from your 
+recent admission returned positive, raising the possibility of a 
+serious blood stream infection (bacteremia). 
+
+What was done for me while I was in the hospital?  
+- You were started on antibiotics to treat the possible blood 
+stream infection, however, these were stopped as we learned that 
+the positive blood culture was more likely the result of a 
+contaminant (sometimes harmless bacteria from the skin can 
+accidentally make its way into the microbiology lab).
+- You were given intravenous fluids for a fast heart rate, which 
+improved during your stay. 
+- Your CD4 count returned at 301. 
+- You were found to have a urinary tract infection, and started 
+on antibiotics for this.
+
+What should I do when I leave the hospital?  
+-Please continue to take all of your medications as prescribed, 
+you have not been started on any new medications.  It is very 
+important that you take you HIV medications every day.
+-Please be sure to schedule an appointment with your primary 
+care doctor this week for ___.
+
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

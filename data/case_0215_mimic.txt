@@ -1,0 +1,658 @@
+===== DISCHARGE NOTE =====
+note_id=13594622-DS-13 | hadm_id=21176788
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / omeprazole
+ 
+Attending: ___
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Time (and date) the patient was last known well: LKW last nigth
+when she went to bed at around 10 pm (24h clock) 
+
+___ Stroke Scale Score:1
+Date:  ___
+Time: 6pm
+(within 6 hours of patient presentation or neurology consult) 
+
+t-PA given: 
+--- No Reason t-PA was not given or considered: IPH
+
+ 
+The NIHSS was performed within 6 hours of patient presentation /
+neurology consult. 
+ 
+___ Stroke Scale score was : 1
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. ___ gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 0
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb Ataxia: 1
+8. Sensory: 0
+9. Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+ 
+GCS Score at the Scene: 
+- If unknown, GCS score at presentation to our ED: 15
+ 
+ICH volume by ABC/2 method: 1 cc
+ 
+ICH Score: 1
+ 
+Pre-ICH mRS ___ social history for description): 1
+ 
+
+REASON FOR CONSULTATION: IPH
+ 
+HPI: 
+The patient is a ___ year old  woman with PMH hypertension, DM,
+OSA (on CPAP), persistent atrial fibrillation on apixaban, MR,
+DM2 p/w IPH s/p fall.
+
+She reports that at circa 730 am this morning she was getting 
+out
+of bed to go to the bathroom and fell on her back and buttocks.
+While on the floor she felt like her whole body was weak and she
+could not get up. She also felt like she had no control of her
+left hand. She tried to get back up, but struck her head on a
+piece of furniture in her bedroom. She does not think she had 
+any
+loss of consciousness. She had no vomiting. She eventually
+reached a phone and called a friend.
+EMS was called and she was brought to OSH where SBP was 185/153, 
+
+CT-C spine  demonstrated no cervical spine fracture, and CT head
+showed intra-axial bleed in the right basal ganglia with a
+calculated volume of 1.4 mL and no mass-effect. There are also
+changes consistent with small vessel ischemic disease with
+atrophy.
+She was given Kcentra. Chest x-ray demonstrated evidence of an
+ill-defined right upper lobe infiltrative process medially. She
+was transferred to ___ for further care. 
+
+She currently denies any focal weakness, numbness, diplopia,
+difficulty with speech or vision. No headache. No recent fevers,
+illness, or unintentional weightloss. 
+
+At baseline she is independent in her daily activities and walks
+without assistance.
+
+ 
+Past Medical History:
+PMH:
+*S/P TAHBSO                                                     
+ANXIETY                                                         
+DIVERTICULOSIS                                                  
+DNR STATUS                                                      
+GASTROESOPHAGEAL REFLUX                                          
+
+
+HYPERTENSION                                                    
+MITRAL REGURGITATION                                            
+OBSTRUCTIVE SLEEP APNEA                                         
+PPD POSITIVE                                                
+DIABETES TYPE II                                                
+HYPERLIPIDEMIA                                                  
+DEPRESSION                                                      
+OSTEOPENIA                                                      
+ATRIAL FIBRILLATION                                             
+
+Surgical History:
+APPENDECTOMY                                                    
+
+HYSTERECTOMY                                                    
+
+CHOLECYSTECTOMY                                                 
+
+CATARACT SURGERY                                                
+both eyes                                                       
+
+ 
+Social History:
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+Admission Exam: 
+
+Vitals: T:  P:  R: 16  BP:  SaO2:
+- General: Awake, cooperative, NAD.
+- HEENT: NC/AT
+- Neck: Supple
+- Pulmonary: no increased WOB
+- Cardiac: well perfused 
+- Abdomen: soft, nontender, nondistended
+- Extremities: no edema, pulses palpated
+- Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE  IP Quad Ham TA Gastroc 
+L  4+   5-  4+  5-  5  5-   4+  5    4+ 5-    5-   
+R  5    ___   5  5    5   5    5  5     5    
+
+-DTRs:  
+       [Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      0      
+     R  2+    2+     2+      0        
+left toe up. right toe withdrawal.
+
+-Sensory: No deficits to light touch, pinprick throughout. No
+extinction to DSS.
+
+-Coordination: No intention tremor. Dysmetria on FNF on left. 
+
+-Gait: Deferred
+
+=====================================================
+
+Discharge Exam: 
+
+General: sitting in the chair
+HEENT: small bruise over L eye
+Neck:  no JVD
+CV: slow rate, regular rhythm, ___ SEM
+Lungs:  CTA anteriorly
+Abdomen:  soft NT ND 
+GU:  deferred
+Ext: no rash, trace pedal edema 
+Skin: small ecchymosis on L forehead above eye, L elbow, L knee 
+ 
+Neuro:  
+MS- EO spont, AAO x3, good historian, no dysarthria, naming
+intact  
+CN- PERRL 4->2 (surgical), EOM full, no facial 
+Sensory/Motor- LUE drift. LUE: ___ in wrist/finger extensors
+otherwise full. LLE ___ in hamstring otherwise full. RUE/ RLE
+full. Extinction to DSS in LLE
+Coordination-  Mild dysmetria on FNF on left. 
+
+ 
+Pertinent Results:
+MRI Brain:  
+IMPRESSION: 
+  
+1. Unchanged 1.2 x 1.1 cm focus of intraparenchymal hemorrhage 
+centered in the right thalamus.  No evidence of underlying 
+lesion or vascular abnormality. Associated vasogenic edema is 
+mild and there is no significant mass effect or midline shift. 
+2. 9 mm left centrum semiovale chronic infarct is new from ___. 
+3. Mild periventricular and deep white matter FLAIR 
+hyperintensities are 
+nonspecific, but likely represent sequela of chronic small 
+vessel ischemic 
+disease. 
+  
+
+ 
+Brief Hospital Course:
+Outpatient Providers: Ms. ___ is an ___ year old woman with PMH 
+hypertension, DM, OSA on CPAP, persistent atrial fibrillation on 
+apixaban s/p recent successful ablation, MR who presents with 
+right thalamic intraparenchymal hemorrhage s/p fall. 
+
+#Right Thalamic Intraparenchymal Hemorrhage
+The etiology of bleed is likely secondary to transient 
+variations in hypertension, possibly exacerbated by vagal 
+episodes with CPAP overnight and further provoked by therapeutic 
+anti-coagulation with apixaban combined with long-standing daily 
+aspirin for
+primary prevention.
+
+The patient underwent MRI which did not reveal underlying 
+lesion. Apixiban and aspirin were held on admission. Patient 
+also had repeat head CT which showed stability of the bleed. 
+
+We discussed with the patient that although she has had a 
+hemorrhagic stroke, given her history of atrial fibrillation, 
+she is also at risk for ischemic strokes in the future, so it 
+will be prudent to resume anticoagulation in two weeks (___) 
+if patient remains clinically stable. Patient was amenable. 
+
+Given hemorrhage, we discussed with her cardiologist whether 
+aspirin was needed in addition to apixiban. It was felt that 
+monotherapy with apixiban is sufficient so aspirin was not 
+resumed. 
+
+Patient passed bedside swallow assessment so was started on 
+regular diet. Patient was seen by ___ who recommended acute 
+rehab.
+
+#Atrial Fibrillation with successful electrical cardioversion 
+___:
+Patient was noted to be bradycardic on admission. This improved 
+during her hospitalization. She was continued home Amiodarone 
+and metoprolol. Apixiban was held on admission. Plan to resume 
+on ___ if bleed in stable. - hold apixaban 5mg po bid
+
+#HTN: Patient was continued on home Triamterene-HCTZ (37.5/25) 
+and remained within goal.
+
+# DMI II: Patient was placed on insulin sliding scale.
+- RISS, finger sticks
+
+#E. Coli UTI: Patient started on Bactrim on ___ for 3 day 
+course. 
+
+#OSA: Patient was continued on home CPAP settings overnight
+
+#MSK: Patient had significant bruising on her left elbow and 
+knee from fall. She underwent trauma eval with no concern for 
+fracture. 
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+Transitional Issues: 
+[ ] resume apixiban in two weeks (___) if patient remains 
+clinically stable. ensure apixiban is appropriate for renal 
+function
+[ ] continue Bactrim for 3 days (___)
+[ ] follow blood pressure
+[ ] follow blood glucose 
+
+ AHA/ASA Core Measures for Intracerebral Hemorrhage 
+ 1. Dysphagia screening before any PO intake? (x) Yes - () No 
+ 2. DVT Prophylaxis administered? (x) Yes - () No 
+ 3. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate] 
+ 4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No 
+ 5. Assessment for rehabilitation and/or rehab services 
+considered? (x) Yes - () No   
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+2. Sertraline 75 mg PO DAILY 
+3. Amiodarone 200 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Ranitidine 150 mg PO BID 
+6. Apixaban 5 mg PO BID 
+7. Aspirin 81 mg PO DAILY 
+8. triamcinolone acetonide 55 mcg nasal DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q4H:PRN pain or temp > ___  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin 
+4.  Ranitidine 150 mg PO BID  
+5.  Senna 8.6 mg PO BID:PRN Constipation  
+6.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 6 Doses  
+7.  Amiodarone 200 mg PO DAILY  
+8.  Metoprolol Succinate XL 50 mg PO DAILY  
+9.  Sertraline 75 mg PO DAILY  
+10.  triamcinolone acetonide 55 mcg nasal DAILY  
+11.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+12. HELD- Apixaban 5 mg PO BID  This medication was held. Do not 
+restart Apixaban until at least ___ if clinically stable
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+right thalamic hemorrhage 
+atrial fibrillation 
+hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent mostly, occasionally confused
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+ You were hospitalized due to symptoms of weakness resulting 
+from an ACUTE HEMORRHAGIC STROKE, a condition where there is 
+bleeding in the brain. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+
+- high blood pressure
+
+ We are changing your medications as follows:  
+- please do not resume apixiban for at least two weeks from your 
+hemorrhage (___). 
+- STOP aspirin
+  
+ Please take your other medications as prescribed.  
+
+ Please follow up with Neurology and your primary care physician 
+as listed below. 
+ 
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13594622-DS-14 | hadm_id=22383118
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / omeprazole
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with history of atrial
+fibrillation s/p cardioversion on apixaban, HTN, HLD, CKD,
+depression presenting with 1 week of weakness.
+
+The patient reports that about two weeks ago, she developed a
+headache and felt tired, so she discontinued her statin and felt
+better initially, but then she began to feel progressively 
+weaker
+and more tired. About 1 week prior to admission she had a fall
+from standing. She denies any antecedent symptoms including 
+chest
+pain, palpitations, shortness of breath,
+dizziness/lightheadedness. She hit her right hip and left
+shoulder in the fall. She did not lose consciousness but did hit
+her head. She also notes some exertional dyspnea; she tells me
+that she had this years ago but this went away with her
+cardioversion. 
+
+She otherwise denies any cough, fevers, chills, dysuria,
+frequency, abdominal pain, nausea, vomiting, diarrhea. She
+reports that her appetite has been diminished in the last week,
+and she has not had as much to eat or drink.
+
+In the ED, initial vitals: 5 97.6 79 101/60 18 100% RA 
+Exam notable for: Well-appearing, no acute distress; Ecchymosis
+and tenderness to palpation of the left buttocks, no back
+tenderness to palpation; Normal neurologic exam; Normal cardiac
+and respiratory exam
+Labs: WBC 13; K 2.8, BUN/Cr ___ Tb 1.6, LFTs otherwise wnl;
+trop <0.01, proBNP 129; lactate 1.9; UA with 8 epis
+Imaging notable for:
+- NCHCT: No acute intracranial hemorrhage. No large territorial
+infarction. Previously demonstrated right basal gangliar
+intraparenchymal hemorrhage is not visualized.
+- Pelvis plain films: No acute fracture or dislocation. 
+- CXR: No acute cardiopulmonary abnormality.
+- EKG: NSR, Qtc 509, TW flattening V2/V3 with submm TWD in V4-V6
+
+Patient given: Potassium 40 mg PO and 10 mEq IV; IVF ordered but
+not given.
+
+On arrival to the floor, the patient reports that she feels
+tired, but otherwise has no acute complaints
+ 
+Past Medical History:
+- Hypertension
+- Hyperlipidemia
+- Atrial fibrillation
+- CKD
+- Traumatic right thalamic intraparenchymal hemorrhage 
+- GERD
+- Diverticulosis
+- OSA
+- Osteopenia
+- Anxiety
+- Depression
+- History of positive PPD
+- S/p TAH/BSO
+- S/p appendectomy
+- S/p cholecystectomy
+- S/p bilateral cataract surgery 
+ 
+Social History:
+___
+Family History:
+Mother died of breast cancer. Father died of
+prostate cancer.
+ 
+Physical Exam:
+ADMISSION EXAM:
+
+VITALS: 99.3 147/71 63 18 93 Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, neck veins flat
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength full and
+symmetric bilaterally in all limbs
+SKIN: Large bruise on right buttocks; small bruise on left
+shoulder
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Pleasant, appropriate affect
+
+Patient examined on day of discharge. AVSS, orthostatics 
+negative, I walked with her in the hall with a walker, and on 
+the stairs; she was able to climb 10 stairs with no difficulty.
+ 
+Pertinent Results:
+LABORATORY RESULTS:
+
+___:40PM BLOOD WBC-13.1* RBC-4.60 Hgb-13.3 Hct-39.3 
+MCV-85 MCH-28.9 MCHC-33.8 RDW-14.1 RDWSD-43.4 Plt ___
+___ 06:45AM BLOOD WBC-7.1 RBC-4.01 Hgb-11.6 Hct-35.7 MCV-89 
+MCH-28.9 MCHC-32.5 RDW-14.6 RDWSD-47.2* Plt ___
+___ 06:40PM BLOOD Glucose-100 UreaN-29* Creat-1.8* Na-138 
+K-2.8* Cl-91* HCO3-25 AnGap-22*
+___ 04:55PM BLOOD Glucose-114* UreaN-27* Creat-1.5* Na-138 
+K-3.9 Cl-99 HCO3-28 AnGap-11
+___ 06:45AM BLOOD Glucose-93 UreaN-23* Creat-1.3* Na-142 
+K-3.6 Cl-102 HCO3-26 AnGap-14
+___ 06:40PM BLOOD ALT-19 AST-26 AlkPhos-52 TotBili-1.6*
+___ 06:35AM BLOOD ALT-16 AST-21 CK(CPK)-175 AlkPhos-47 
+TotBili-2.1* DirBili-0.5* IndBili-1.6
+___ 06:45AM BLOOD ALT-14 AST-17 LD(LDH)-195 AlkPhos-41 
+TotBili-1.0
+___ 06:40PM BLOOD Albumin-4.3 Calcium-10.1 Phos-2.7 Mg-2.4
+___ 06:35AM BLOOD TSH-0.90
+___ 12:08AM BLOOD Lactate-1.9
+
+Micro:
+- Blood cultures (___): Pending
+- Urine culture (___): Pending
+
+Imaging/Studies:
+- NCHCT: No acute intracranial hemorrhage. No large territorial
+infarction. Previously demonstrated right basal gangliar
+intraparenchymal hemorrhage is not visualized. 
+
+- Pelvis plain films: No acute fracture or dislocation. 
+
+- CXR: No acute cardiopulmonary abnormality.
+ 
+Brief Hospital Course:
+On admission, Ms. ___ was noted to be euvolemic, but with 
+significant hypokalemia and acute kidney injury. She had 
+recently been started on furosemide, and had increased diarrhea 
+over the last several days, which likely explains her 
+hypokalemia. She was given almost 200 mEq of oral potassium, 
+with improvement of her K to 3.9. With her improved potassium, 
+she was again able to walk at her baseline, including walking 
+the stairs. She will be discharged on her home medications, with 
+an additional 40 mEq of potassium each day as a supplement. She 
+will follow up with her primary care provider.
+
+Hospital course by problem:
+
+1. Symptomatic hypokalemia
+- daily KCl 40 mEq daily
+- resume home furosemide
+
+2. ___. Resolved with oral fluids.
+
+3. HTN. Resumed home metoprolol and HCTZ-Triamterene.
+
+4. Elevated direct bilirubin. Resolved; suspect due to her fall.
+
+5. Traumatic right thalamic intraparenchymal hemorrhage. NCHCT 
+negative upon admission.
+
+> 30 minutes spent on discharge activities.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Amiodarone 200 mg PO DAILY 
+2. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Acetaminophen 650 mg PO Q4H:PRN pain or temp > ___ 
+5. Ranitidine 150 mg PO QHS:PRN GERD 
+6. Apixaban 5 mg PO BID 
+7. Sertraline 75 mg PO DAILY 
+8. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Potassium Chloride 40 mEq PO DAILY 
+RX *potassium chloride 20 mEq 2 tablet(s) by mouth Daily Disp 
+#*60 Tablet Refills:*0 
+2.  Acetaminophen 650 mg PO Q4H:PRN pain or temp > ___  
+3.  Amiodarone 200 mg PO DAILY  
+4.  Apixaban 5 mg PO BID  
+5.  Furosemide 20 mg PO DAILY  
+6.  Ranitidine 150 mg PO QHS:PRN GERD  
+7.  Sertraline 75 mg PO DAILY  
+8.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+___ Diagnosis:
+Symptomatic hypokalemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with weakness from having a low potassium 
+level. After we gave you additional potassium, you dramatically 
+improved. You should make sure to make a daily potassium 
+supplement, and you should have your potassium checked in the 
+next ___ weeks.
+ 
+Followup Instructions:
+___

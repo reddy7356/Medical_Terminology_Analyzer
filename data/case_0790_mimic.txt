@@ -1,0 +1,287 @@
+===== DISCHARGE NOTE =====
+note_id=17217570-DS-5 | hadm_id=27753258
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nifedipine / Beta-Blockers (Beta-Adrenergic Blocking Agts)
+ 
+Attending: ___
+ 
+Chief Complaint:
+STEMI
+ 
+Major Surgical or Invasive Procedure:
+Left heart catheterization ___
+
+ 
+History of Present Illness:
+___ M with PMH of hypertension, hyperlipidemia, and diabetes 
+that presents with STEMI. Was exercising on the treadmill and 
+after 10 minutes of interval training developed non-radiating 
+substernal CP. No diaphoresis, no SOB, no 
+lightheadedness/dizziness. He has never had these symptoms 
+before. He did an ECG on himself (he is a research 
+cardiologist), thought it looked like a MI, and went to ___ 
+Urgent Care in ___. ECG at the Urgent Care showed 
+STEMI. Trop 0.03. He was transferred directly to the ___ cath 
+lab. 
+
+His only other recent complaint has been ___ episodes of 
+presyncope in the last month, during which he gets dizzy when 
+standing from a chair. Not associated with palpitations, 
+tachycardia, or diaphoresis. No syncope.    
+ 
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denies recent fevers, chills or rigors. 
+He denies exertional buttock or calf pain. All of the other 
+review of systems were negative.  
+ 
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+and palpitations.  
+ 
+Past Medical History:
+- Hypertension: on chlorthalidone, Cialis, valsartan, and 
+intermittent fasting (allergic to CCBs) 
+- Hyperlipidemia: takes fish oil and krill oil  
+- Diabetes (T2DM): takes Byetta
+- Psoriasis
+ 
+Social History:
+___
+Family History:
+Father diagnosed with CAD at ___ and died of MI at ___.
+Mother with HTN
+___ grandfather with T2DM
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: 97.7, 136-142/65-74, 87-89, 98% RA
+WT: NR
+I/O: NR
+GENERAL: WDWN M in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with no JVD.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: CTAB.
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: No c/c/e. 2+ distal pulses.  
+SKIN: Psoriasis plaques on elbows, legs.
+
+Discharge Physical Exam:
+VS: 98.2, 122-141/65-83, 73-84, 97-100% RA
+WT: 78.2 kg
+I/O: 1.1L/2.2L, since MN ___
+GENERAL: WDWN M in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple with no JVD.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: CTAB.
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: No c/c/e. 2+ distal pulses.  
+SKIN: Psoriasis plaques on elbows, legs.  
+ 
+Pertinent Results:
+Admission Labs:
+----------------
+___ 12:50PM BLOOD WBC-10.5* RBC-5.79 Hgb-15.9 Hct-47.0 
+MCV-81* MCH-27.5 MCHC-33.8 RDW-14.6 RDWSD-42.5 Plt ___
+___ 12:50PM BLOOD Neuts-82.6* Lymphs-9.4* Monos-6.5 
+Eos-0.5* Baso-0.6 Im ___ AbsNeut-8.66* AbsLymp-0.99* 
+AbsMono-0.68 AbsEos-0.05 AbsBaso-0.06
+___ 12:50PM BLOOD ___ PTT-31.8 ___
+___ 12:50PM BLOOD Glucose-237* UreaN-47* Creat-2.1* Na-132* 
+K-4.3 Cl-100 HCO3-14* AnGap-22*
+___ 12:50PM BLOOD cTropnT-0.03*
+___ 07:00PM BLOOD Albumin-4.5
+___ 07:00PM BLOOD TSH-0.79
+___ 05:09PM BLOOD Lactate-1.3
+
+Pertinent Labs During Hospitalization:
+___ 05:45AM BLOOD CK-MB-160* cTropnT-6.03*
+___ 03:00PM BLOOD CK-MB-97* cTropnT-3.98*
+___ 03:00PM BLOOD %HbA1c-7.0* eAG-154*
+
+Discharge Labs:
+----------------
+___ 05:40AM BLOOD WBC-6.9 RBC-5.56 Hgb-14.8 Hct-45.7 MCV-82 
+MCH-26.6 MCHC-32.4 RDW-15.1 RDWSD-44.3 Plt ___
+___ 05:40AM BLOOD Glucose-114* UreaN-34* Creat-1.5* Na-135 
+K-4.1 Cl-104 HCO3-18* AnGap-17
+___ 05:40AM BLOOD Calcium-9.4 Phos-2.6* Mg-2.1
+
+Pertinent Studies:
+-------------------
+L Heart Cath ___:
+Complete occlusion in LAD at D1. D1 80% stenosis. DES placed in 
+mid-LAD and D1 patent at end of case. Circumflex ___ narrowed 
+distally. RCA moderately diseased. 
+
+TTE ___:
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. The 
+estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size 
+and global systolic function (LVEF 55%). There is mild regional 
+left ventricular systolic dysfunction with hypokinesis of the 
+mid to distal septum, distal inferior wall, and apex. No masses 
+or thrombi are seen in the left ventricle. Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets are mildly thickened (?#). There is no 
+aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Physiologic mitral regurgitation is seen (within 
+normal limits). The left ventricular inflow pattern suggests 
+impaired relaxation. The tricuspid valve leaflets are mildly 
+thickened. The pulmonary artery systolic pressure could not be 
+determined. There is no pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+regional systolic dysfunction c/w CAD and suggestion of impaired 
+LV relaxation. Overall preserved global biventricular systolic 
+function.
+
+ECG: NSR, RBBB, STE in V2-V4 smaller compared to ECG on 
+admission 
+ 
+Brief Hospital Course:
+___ M with PMH of hypertension, hyperlipidemia, and diabetes 
+that presents with STEMI. 
+
+# STEMI
+Initial ECG showed ST elevations in V2-V4, and ECG post-cath 
+with some persistent but smaller STE in V2-V4. TropT went from 
+0.03 before cath to 6.03 and 3.98 after cath, probably due to 
+the effects of the infarct and traumatic injury from the cath. 
+CK-MB was 160 and 97 after cath. Cardiac cath showed complete 
+occlusion in LAD at D1, and D1 with 80% stenosis. DES placed in 
+mid-LAD, and D1 patent at end of case. Circumflex ___ narrowed 
+distally. RCA moderately diseased. TTE showed normal global 
+systolic function (LVEF 55%), mild symmetric left ventricular 
+hypertrophy with regional systolic dysfunction c/w CAD, and 
+suggestion of impaired LV relaxation. Patient should take 
+Aspirin 81mg indefinitely and Ticagrelor 90mg BID for at least 
+one year. Patient was hesitant to take a statin due to their 
+side effect profile, but he agreed to take rosuvastatin 5mg 
+daily. He was started on metoprolol succinate XL 25mg daily for 
+cardioprotection. 
+
+# HTN
+Patient allergic to CCBs. Home valsartan and chlorthalidone were 
+continued. The patient takes Cialis for blood pressure, which 
+was held due to the hospital pharmacy not stocking it.
+
+# HLD
+Patient started on rosuvastatin 5mg daily. Home fish oil and 
+krill oil were held.
+
+# Diabetes
+Hgb A1c was 7.0 on ___. Home Byetta was continued. 
+
+Transitional Issues:
+-Aspirin 81mg daily and Ticagrelor 90mg BID started. Will need 
+Ticagrelor for at least ___ year.
+-Rosuvastatin 5mg daily started
+-Metoprolol succinate XL 25mg daily started
+-Will need sub-max stress test in 2 weeks to determine best time 
+for re-starting home exercise regimen 
+-Pt with Cr 2.2 on admission, which was downtrending and 1.5 on 
+day of discharge. He appears to also have had elevated Cr in the 
+past. Please consider workup for diabetic nephropathy as 
+outpatient.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Valsartan 320 mg PO DAILY 
+2. Chlorthalidone 12.5 mg PO DAILY 
+3. Cialis (tadalafil) 5 mg oral DAILY 
+4. Fish Oil (Omega 3) 6000 mg PO DAILY 
+5. Krill Oil (Omega 3 & 6) (krill-om3-dha-epa-om6-lip-astx) 
+1,500-165-67.5 mg oral DAILY 
+6. Byetta (exenatide) 10 mcg/dose(250 mcg/mL) 2.4 mL 
+subcutaneous DAILY 
+
+ 
+Discharge Medications:
+1. Byetta (exenatide) 10 mcg/dose(250 mcg/mL) 2.4 mL 
+subcutaneous DAILY 
+2. Chlorthalidone 12.5 mg PO DAILY 
+3. Valsartan 320 mg PO DAILY 
+4. Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet by mouth 
+daily Disp #*30 Tablet Refills:*0
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet by mouth daily Disp #*30 
+Tablet Refills:*0
+6. Rosuvastatin Calcium 5 mg PO QPM 
+RX *rosuvastatin [Crestor] 5 mg 1 tablet by mouth daily Disp 
+#*30 Tablet Refills:*0
+7. TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [BRILINTA] 90 mg 1 tablet by mouth twice daily 
+Disp #*60 Tablet Refills:*0
+8. Cialis (tadalafil) 5 mg oral DAILY 
+9. Fish Oil (Omega 3) 6000 mg PO DAILY 
+10. Krill Oil (Omega 3 & 6) (krill-om3-dha-epa-om6-lip-astx) 
+1,500-165-67.5 mg oral DAILY 
+11. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.4 mg 1 tablet sublingually every five 
+minutes as needed for chest pain Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: STEMI, Coronary Artery Disease
+
+Secondary: Hypertension, Hyperlipidemia, Type 2 Diabetes 
+Mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+
+___ was a pleasure meeting and helping to take care of ___ while 
+___ were hospitalized.
+
+___ presented to the hospital with a STEMI, for which ___ 
+underwent a left heart catheterization. ___ had nearly complete 
+stenosis in the mid LAD and a drug-eluding stent was placed. To 
+maintain stent patency, ___ should take aspirin 81mg daily 
+indefinitely and Ticagrelor 90mg BID for at least one year. Your 
+TTE showed preserved global biventricular systolic function 
+(LVEF 55%) but mild symmetric left ventricular hypertrophy with 
+regional systolic dysfunction consistent with CAD. At home, ___ 
+should take rosuvastatin to prevent progression of your CAD and 
+metoprolol succinate XL to prevent maladaptive left ventricular 
+remodeling and reduce cardiac oxygen demand. 
+
+Please adhere to the walking program recommended by our physical 
+therapist and avoid other forms of exercise until your stress 
+test in 2 weeks.
+
+Sincerely,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

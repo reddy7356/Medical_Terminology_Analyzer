@@ -1,0 +1,224 @@
+===== DISCHARGE NOTE =====
+note_id=18369051-DS-11 | hadm_id=22788469
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+bee venom (honey bee) / ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abddominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP with sphincterotomy
+
+ 
+History of Present Illness:
+___ yo male with chronic back pain on chronic narcotics who 
+presented to ___ ___ with acute severe abd pain, 
+nausea/emesis. Pt reported pain present for 3 days. Also with 
+fever and generalized weakness. He has had similar attacks in 
+the past. CT showed dilated intrahepatics with normal CBD and PD 
+dilation.  MRCP with mild dilation of intrahepatics with nl 
+gallbladder and borderline PD.  Pt's pain noted to be improving 
+prior to transfer.  Pt transferred for ERCP.
+
+He then had ERCP with evidence of ampullary stenosis, and 
+sphincterotomy was performed. Post procedure, patient developed 
+severe abd pain. CT did not show perforation or other post 
+procedure complication. Pt with significant fecal loading. He 
+was then admitted to the floor for observation.
+
+On arrival to floor pt reporting ___ abd pain while conversing 
+on the phone. No other complaints.
+
+ROS: +as above, otherwise reviewed and negative
+
+ 
+Past Medical History:
+chronic back pain
+left peroneal nerve palsy
+Lumbar disc disease
+hernia
+PVD
+ 
+Social History:
+___
+Family History:
+mother: thyroid ca
+Father: CAD, prostate ca
+ 
+Physical Exam:
+Vitals: T:98.2 BP:137/91 P:57 R:20 O2:99%ra  
+PAIN: 7
+General: nad
+Lungs: clear
+CV: rrr no m/r/g
+Abdomen: bowel sounds present, soft, mildly tender RUQ, nd
+Ext: no e/c/c
+Skin: no rash
+Neuro: alert, follows commands
+
+Discharge exam:
+afebrile, VSS
+Exam as above except:
+Abd: soft, non-tender, active bowel sounds
+Neuro: left foot with absent dorsiflexion
+ 
+Pertinent Results:
+ERCP ___:
+
+The scout film was normal. 
+The major papilla was normal. 
+The pancreatic duct was partially filled with contrast and 
+visualized proximally. The pancreatic duct was mildly dilated.
+The bile duct was deeply cannulated with the sphincterotome. 
+Contrast was injected and there was brisk flow through the 
+ducts. Contrast extended to the entire biliary tree. 
+The CBD was mildly dilated and ectatic with a maximal diameter 
+of 12 mm in diameter. 
+There were no filling defects identified in the CBD or CHD. 
+Opacification of the gallbladder was incomplete. 
+The left and right hepatic ducts and all intrahepatic branches 
+were all mildly dilated.
+
+A sphincterotomy was performed with a sphincterotome. There was 
+no post sphincterotomy bleeding. 
+The biliary tree was swept with a 8.5-11.5mm balloon starting at 
+the bifurcation. 
+Cytology samples were obtained for histology from the ampullary 
+region using a brush. 
+Cold forceps biopsies were then taken from the ampulla for 
+histology. 
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically.
+
+All of the above findings are in keeping with ampullary 
+stenosis. 
+
+CT abdomen/pelvis (prelim report):
+No evidence of perforation or pancreatitis. Mild dilatation of 
+the intra and extrahepatic bile ducts as well as the pancreatic 
+duct without obstructing stone or mass identified. 
+  
+Multiple one centimeter or smaller hypervascular lesions are 
+seen in the right hepatic lobe. While these are favored to be 
+benign in etiology, given patient demographics, multiplicity, 
+and presence of duct dilatation further characterization with 
+MRI is recommended
+
+Discharge labs:
+
+WBC RBC  Hgb  Hct  MCV MCH  MCHC RDW Plt Ct
+5.2 3.71 12.3 37.3 101 33.3 33.1 12.4 201
+
+Glucose UreaN Creat Na  K   Cl  HCO3
+   97     8    0.7  141 4.5 106  28
+
+ALT 16
+AST 17
+alk phos 50
+t bil 0.5
+
+___ RESULTS (prior to 
+transfer)**********
+Head CT ___ Conclusion: no evidence of acute intracranial 
+abnormality
+
+CT Abd/Pelvis ___ Conculsion: Mild diffuse intrahepatic 
+biliary dilation and mild diffuse pancreatic ductal dilation. 
+Normal caliber CBD. While nonspecific, obstruction at the level 
+of the ampulla should be excluded.
+
+MRCP ___ Conculsion: Nonspecific intra and extrahepatic 
+biliary dilation. Ampullary lesion cannot be excluded.
+
+___ WBC 4.9
+Hgb 12.9
+Cr 0.70
+BUN 10
+Tbili 0.5
+APhos 48
+AST 20
+ALT ___ year old male w/chronic back pain on chronic narcotics who 
+presented to ___ ___ with acute severe abd pain, 
+nausea/emesis. Now admitted for monitoring post ERCP.
+
+Biliary Dilation: ___ ampullary stenosis, s/p ERCP 
+w/sphincerotomy.  Pathology pending, will follow up results and 
+communicate to PCP and patient.  Advanced diet without 
+difficulty day after procedure, with benign abdominal exam at 
+discharge.
+
+Liver lesions: likely hemangiomas.  MRCP on ___ at OSH 
+already obtained.  Will send disc from ___ to PCP to compare 
+to prior imaging.  Discussed with PCP.
+
+Abdominal Pain: continued home medications.  Added bowel regimen
+
+Left foot peroneal nerve palsy: patient will continue to use 
+boot for ambulation.
+
+full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Morphine SR (MS ___ 60 mg PO QAM 
+2. Morphine SR (MS ___ 90 mg PO HS 
+3. OxycoDONE (Immediate Release)  15 mg PO Q4H:PRN breakthrough 
+pain 
+
+ 
+Discharge Medications:
+1. Morphine SR (MS ___ 60 mg PO QAM 
+2. Morphine SR (MS ___ 90 mg PO HS 
+3. OxycoDONE (Immediate Release)  15 mg PO Q4H:PRN breakthrough 
+pain 
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Capsule Refills:*0
+5. Senna 1 TAB PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+ampullary stenosis
+
+Secondary diagnosis:
+chronic pain
+left peroneal nerve palsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance with left 
+walking boot for management of left peroneal nerve palsy
+
+ 
+Discharge Instructions:
+You were admitted for observation following ERCP.  The ERCP 
+showed that the end of the bile duct was narrowed, which may be 
+a cause of your symptoms.  You underwent a sphincterotomy to 
+help address this narrowing.  You had some pain after the 
+procedure, and a CT scan did not show any complications.
+
+Please see below for your follow up appointments and 
+medications.  
+ 
+Followup Instructions:
+___

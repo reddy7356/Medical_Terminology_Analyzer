@@ -1,0 +1,1925 @@
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-14 | hadm_id=20051521
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Transamintis
+
+ 
+Major Surgical or Invasive Procedure:
+Percutaneous liver biopsy ___
+ERCP ___
+
+ 
+History of Present Illness:
+___ with a PMHx of HCV Genotype3 cirrhosis s/p OLT in ___ 
+on both tacrolimus/everolimus c/b biliary stricutre s/p 
+stenting, prior episode of mild cellular rejection, s/p 24wks 
+sofosbuvir/ribavirin with sustained virologic response who now 
+presents with increasing transaminitis.
+
+In early ___ had episode of acute cellular rejection portal 
+endothelialitis and lymphocytic cholangitis. Staining for CMV at 
+the time was negative. At the time, pt was on cyclosporine. On 
+that admission, cyclosporine and everolimus levels were both 
+subtherapeutic. Medications were adjusted and at discharge he 
+was switched to the tacro/everolimus combination. For acute 
+rejection, he was treated with 5 days of 500mg solumedrol 
+followed by 20mg prednisone with a taper over the course of 
+several weeks. CMV status is Donor (+), Recipient (-). 
+
+Of note has an anastomotic biliary stricture for which he was 
+due for repeat ERCP in ___.
+
+Was doing well at home. Labs drawn at ___ on ___ showed 
+elevation in all LFTs: T. bili 1.2 (0.4, 0.5), Alk Phos 107 (60, 
+66), AST 187 (21, 18), ALT 422 (36, 39). 
+
+Everolimus level was 11.9 and tacro was 7.8. 
+HCV VL negative. 
+
+ 
+Past Medical History:
+- HCV/EtOH cirrhosis s/p OLT in ___, c/b biliary stricture 
+s/p stenting
+- HCV genotype ___ s/p ___ weeks of sofosbuvir and ribavirin 
+leading up to his transplant; he has since been cured with 
+negative viral load three months following his liver transplant
+- Post-transplant CKD
+- Headaches
+- Moderate malnutrition 
+- Heart murmur
+- H/o leukopenia secondary to CellCept
+- Inguinal hernia repairs in the 1970s.  
+- Tonsillectomy in the 1970s.
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+===================================
+97.9 ___ 97RA 62.8kg
+GEN: NAD, AOx3, no asterixis, no scleral icterus, no palmar 
+erythema
+CV: RRR, No MRG
+RESP: CTABL
+ABD: Transplant scar C/D/I, +BS, NT, ND
+EXT: No swelling
+
+DISCHARGE PHYSICAL EXAM
+===================================
+afebrile
+GEN: NAD, AOx3, no asterixis
+HEENT: no scleral icterus, MMM, EOMI, Facial movement symmetric
+CV: RRR, No MRG
+RESP: CTAB no W/R/R
+ABD: Transplant scar well healed.   +BS, NT, ND
+FLANK: dressing on biopsy sites, C/D/I
+EXT: No swelling, no palmar erythema
+
+ 
+Pertinent Results:
+ADMISSION
+
+___ 05:30PM BLOOD WBC-4.2 RBC-3.06* Hgb-10.5* Hct-27.7* 
+MCV-91 MCH-34.4* MCHC-38.0* RDW-14.2 Plt ___
+___ 05:30PM BLOOD Neuts-79.5* Lymphs-16.3* Monos-2.8 
+Eos-1.2 Baso-0.2
+___ 05:30PM BLOOD ___ PTT-27.8 ___
+___ 05:30PM BLOOD Glucose-139* UreaN-24* Creat-1.4* Na-139 
+K-4.6 Cl-105 HCO3-26 AnGap-13
+___ 05:30PM BLOOD ALT-159* AST-26 AlkPhos-83 TotBili-0.4
+___ 05:30PM BLOOD Albumin-4.1 Calcium-9.1 Phos-3.0 Mg-1.8
+
+___ 04:56AM BLOOD tacroFK-9.5
+EVEROLIMUS, BLOOD             13.5  
+
+IMAGING
+RUQ U/S ___
+1.  Normal appearance of the transplanted liver. No intrahepatic 
+biliary duct dilation or evidence of hepatic artery stenosis.  
+Patent hepatic vasculature. 
+2. Unchanged postoperative fluid collection, likely a seroma or 
+hematoma, as described above. 
+
+___ Liver Bx
+Liver, allograft, needle core biopsy:
+1) Focal mild portal inflammatory infiltrate comprised 
+predominantly of lymphocytes with scattered
+eosinophils and rare plasma cells with lymphocytic cholangitis 
+and a focus suspicious for portal
+endothelialitis (level 1A3).
+2) Minimal steatosis present with focal balloon degeneration.
+3) Trichrome stain shows no increase in fibrosis.
+4) Iron stains shows mild iron deposition within Kupffer cells.
+
+ERCP ___
+The scout film revealed previous stent in place. 
+After stent removal, the bile duct was deeply cannulated with 
+the balloon. 
+Contrast was injected and there was brisk flow through the 
+ducts. Contrast extended to the entire biliary tree. 
+The native CBD was 11-12 mm in diameter. 
+There were no filling defects. 
+The transplanted biliary duct was 4 mm, suggestive of duct 
+mismatch. 
+The stricture had resolved. 
+The left and right hepatic ducts and all intrahepatic branches 
+were normal. 
+An 8 mm balloon was swept along the main duct without 
+difficulty. 
+No stone or sludge was removed. 
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically. 
+Overall, successful ERCP with stent pull and cholangiogram 
+showing resoluation of the stricture that is likely secondary to 
+duct mismatch.
+
+DISCHARGE
+___ 04:10AM BLOOD WBC-4.6 RBC-3.24* Hgb-10.7* Hct-29.2* 
+MCV-90 MCH-33.0* MCHC-36.6* RDW-14.3 Plt ___
+___ 04:10AM BLOOD ___ PTT-38.0* ___
+___ 04:10AM BLOOD Glucose-167* UreaN-21* Creat-1.5* Na-137 
+K-4.0 Cl-104 HCO3-26 AnGap-11
+___ 04:10AM BLOOD ALT-78* AST-27 AlkPhos-73 TotBili-0.2
+___ 04:10AM BLOOD Albumin-3.7 Calcium-8.7 Phos-3.3 Mg-1.9
+___ 04:10AM BLOOD tacroFK-8.9
+___ 04:10AM BLOOD EVEROLIMUS, BLOOD-PND
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+___ with a PMHx of HCV Genotype3 cirrhosis s/p OLT in ___ 
+on both tacrolimus/everolimus c/b biliary stricutre s/p 
+stenting, prior episode of mild cellular rejection, s/p 24wks 
+sofosbuvir/ribavirin with sustained virologic response who now 
+presents with increasing transaminitis.
+
+ACTIVE ISSUES
+# HCV CIRRHOSIS s/p OLT ___: Transaminitis was concerning for 
+rejection. CMV VL negative. On this admission, ERCP done with 
+removal of prior anastamotic stent. Transjugular liver bx showed 
+resolving acute rection. At d/c, pt is on Tacrolimus 5mg twice a 
+day, Everolimus 5mg twice a day, Prednisone 10mg daily. 
+Otherwise no changes to his medications.
+
+# HEPATIC ARTERIAL STENOSIS: Seen on hepatic arteriorgram in 
+___, consider possiblity of cause of transaminitis. RUQ 
+without evidence of arterial stenosis at this time. ERCP removed 
+stent, no stricture.
+
+INACTIVE ISSUES
+# HTN: Previously had metoprolol d/c'd on prior admission and is 
+now on amlodipine monotherapy. 
+
+# DEPRESSION: cont home sertraline
+
+# Post-transplant CKD: Baseline Cr is 1.4-1.7, and was 1.3 at 
+discharge.
+
+# MALNUTRITION: Was maintained on Ensure on prior admission. 
+- continue supplementation
+
+# GERD: Inactive issue. 
+- Continue home omeprazole
+
+TRANSITIONAL ISSUES
+f/u Everolimus level ___: Goal Level is ___
+f/u outpatient lab studies (CBC, LFTs, Chem 10, Tacro, Evero) on 
+___. Goal Tacro and Evero level is ___
+f/u Final results of ___ percutaneous liver bx
+Downtitration of prednisone based on final results of liver bx, 
+at d/c pt will be going on 10mg daily
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 325 mg PO QPM 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. Everolimus 6 mg PO BID 
+5. FoLIC Acid 3 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. Sertraline 200 mg PO DAILY 
+10. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+11. ValGANCIclovir 450 mg PO Q24H 
+12. Vitamin D ___ UNIT PO DAILY 
+13. PredniSONE 5 mg PO DAILY 
+14. Tacrolimus 5 mg PO Q12H 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 325 mg PO QPM 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. Everolimus 5 mg PO BID 
+5. FoLIC Acid 3 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. PredniSONE 10 mg PO DAILY 
+RX *prednisone 10 mg 1 tablet(s) by mouth daily Disp #*14 Tablet 
+Refills:*0
+9. Senna 8.6 mg PO BID:PRN constipation 
+10. Sertraline 200 mg PO DAILY 
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+12. Tacrolimus 5 mg PO Q12H 
+13. ValGANCIclovir 450 mg PO Q24H 
+14. Vitamin D ___ UNIT PO DAILY 
+15. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4 Disp #*6 Tablet 
+Refills:*0
+16. Outpatient Lab Work
+Please have a CBC with diff, Chem 10, LFTs, everolimus and 
+tacrolimus drawn twice a week on ___ and have the 
+results faxed to ATTN ___. ___ at fax ___.
+
+ICD-9: V42.7
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transamintis s/p OLT ___
+Removal of biliary anastomatic stent
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Thank ___ for choosing us for your care. ___ were admitted for 
+abnormally elevated liver function tests. Your blood tests here 
+showed no CMV in your blood. A liver biopsy was done with 
+preliminary results that are somewhat inconclusive. ___ also 
+underwent a previously scheduled ERCP with removal of your 
+stent. Subsequently, ___ felt well.
+
+We have adjusted some of your medications on this admission. On 
+discharge, please take:
+
+Tacrolimus 5mg twice a day
+Everolimus 5mg twice a day 
+Prednisone 10mg daily until further instructions from Dr. ___
+
+___ will need a 2 week followup with Dr. ___ 
+appointment is scheduled below.
+
+In addition to this, please have labs drawn twice a week until 
+your appointment with Dr. ___. We have given ___ a script for 
+blood draws on the following days: ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-10 | hadm_id=21429947
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness, confusion
+ 
+Major Surgical or Invasive Procedure:
+___ Donor after cardiac death liver transplant, back
+table preparation of deceased donor and liver allograft.
+
+ 
+History of Present Illness:
+___ male with h/o Hepatitic C and ?alcohol induced cirrhosis 
+(MELD 24, CHILDS C on transplant list) with h/o of ascites and 
+encephalopathy currently on sofosbuvir and ribavarin presenting 
+with weakness and confusion. He was recently discharged on ___ 
+after having therapuetic paracenteses x2 and Dobhoff placement. 
+Since then, he has been on TFs 24hr/day at 55cc/hr, which he has 
+been tolerating well. He initially had more energy after the TFs 
+started, but for the past week, his weakness has been worsening, 
+becoming most marked in last 36 hours. Patient states he has 
+difficulty sitting up on his own and feels more unstable on his 
+feet. Last night, he fell backwards from weakness but did not 
+hit the floor. He denies any other falls. He notes some tremor 
+and denies any presyncopal symptoms preceding event. Patient 
+also notes he has been tolerating very little PO intake due to 
+lack of appetite in the setting of increasing abdominal 
+distension. His wife has also been noticing "slower mentation" 
+for the last ___ut no confusion. +BMs - about 6 
+episodes of diarrhea every day. No abdominal pain and no urinary 
+symptoms.  
+In the ED initial vitals were: 0 98.2 50 125/61 18 99%  
+- Physical exam showed tense and distended abdomen with no 
+tenderness and normoactive bowel sounds.  
+- The patient underwent diagnostic paracentesis which showed 
+68wbc, 1 poly, 1.2 protein  
+- Labs were significant for lactate 1.2, Cr 1.9 (baseline 0.9), 
+AST83, ALT52, ALP123, Tbili 2.8, Alb 3.2, h/h 9.___.5.  
+- Patient was given 75g of 25% albumin.  
+Vitals prior to transfer were: 98.8 54 111/45 13 96% RA  
+On the floor, patient states he would like some icecream though 
+he has not had an appetite recently. He has no compliants other 
+than generally feeling weak.  
+Review of Systems:  
+(+) per HPI  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+1. HCV mediated cirrhosis, Child's C 12, MELD at 24,  
+complicated in the past by ascites and coagulopathy  
+2. Genotype 3 hepatitis C, currently in the midst of a 24-week  
+course of sofosbuvir and ribavirin.  
+3. Moderate malnutrition with albumin of 3.2 (improved from 2.5) 
+and significant sarcopenia.  
+4. Inguinal hernia repairs in the ___.  
+5. Heart murmur.  
+6. Tonsillectomy in the ___.  
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals - T: 98 BP:109/62 HR:54 RR:18 02 sat: 97%RA  
+GENERAL: NAD, oriented X 3 (person, ___, ___, appears 
+fatigued, eyes closed  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, dry mmm, poor lower 
+dentition  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: decreased breath sounds throughout, no w/r/r  
+ABDOMEN: distended, +fluid wave, nontender in all quadrants, no 
+rebound/guarding  
+EXTREMITIES: moving all extremities well, no cyanosis or 
+clubbing; 2+ pitting edema in b/l ___ extending to knees  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: spider angiomata noted throughout entire anterior chest  
+
+ 
+Pertinent Results:
+Labs on Admission: ___
+WBC-6.6 RBC-2.54* Hgb-9.4* Hct-28.5* MCV-112* MCH-37.2* 
+MCHC-33.1 RDW-15.7* Plt ___ PTT-49.7* ___
+Glucose-98 UreaN-69* Creat-1.9* Na-133 K-4.3 Cl-96 HCO3-32 
+AnGap-9
+ALT-52* AST-83* AlkPhos-123 TotBili-2.8*
+Albumin-3.2*
+Calcium-8.9 Phos-4.6*# Mg-3.2*
+.
+___ HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE HAV 
+Ab-POSITIVE
+         HIV Ab-NEGATIVE
+.
+Labs at discharge: ___
+WBC-8.1 RBC-3.10* Hgb-9.8* Hct-29.7* MCV-96 MCH-31.5 MCHC-32.9 
+RDW-18.8* Plt ___ PTT-26.1 ___
+Glucose-98 UreaN-24* Creat-1.2 Na-143 K-5.3* Cl-105 HCO3-31 
+AnGap-12
+ALT-113* AST-44* AlkPhos-89 TotBili-1.2
+Calcium-8.5 Phos-4.5
+Cyclspr-___ y/o male initially admitted to the medical service with 
+weakness, and notes increasing ascites. Creatinine was also 
+noted to be 1.9.
+.
+Renal ultrasound was performed showing normal native kidneys. 
+Duplex done on liver showed patent vasculature, and also that he 
+had massive ascites.
+A paracentesis was due to be performed, but on HD 4, the patient 
+was offered a donor liver, and he was taken to the OR.
+
+Patient was taken to the OR with Dr ___ and Dr ___ 
+___. At the time of surgery 6.5 liters of clear ascites was 
+taken off. The hepatectomy was without major complication. The 
+implanted liver reperfused normally. 
+At the time of transplant he received 5 units RBCs, 4 units FFP, 
+one unit of platelets, and had an estimated one liter blood 
+loss.
+He was stable at the end of the case and transferred to SICU, 
+still intubated.
+
+At the time of surgery he received a gram of mycophenolate pre 
+op, and this was continued at one gram BID. He received 500 mg 
+Solu-Medrol intra-op. Standard IV steroid taper was followed, 
+however on POD 11, the PO prednisone was dropped to 10 mg daily 
+due to concern for mental status changes. He started on Tacro on 
+the evening of POD 0, and this was continued monitoring daily 
+levels and adjusting dose accordingly.
+However, worsening mental status on POD 7 was impetus to 
+discontinue the tacro and switch him to cyclosporine starting 
+the following day.
+
+Following the transplant surgery, the patient was extubated on 
+POD 1. He was restarted on tube feeds, given a clear diet, JP 
+drains were sero-sanguinous. He did receive 2 units of RBCs, 1 
+FFP, 1 platelet and 2 cryo.
+Protocol ultrasound showed Patent hepatic vasculature with 
+appropriate waveforms.
+
+Patient was transferred to the regular surgical floor on POD 2. 
+He continued to tolerate tube feeds. Had + flatus. Foley 
+catheter was d/c'd and he voided without difficulty.
+Patient was seen by ___ for new onset hyperglycemia, 
+ultimately was sent out on an insulin sliding scale with an 
+insulin pen.
+
+Medial JP was removed on POD 4
+He was seen and evaluated by ___, they recommended home with ___.
+
+Creatinine was noted to still be elevated following liver 
+transplant. Over the course of the hospitalization, the 
+creatinine eventually came back down to 1.0  He was voiding 
+adequate urine.
+
+Once his bowel started functioning again, he actually started to 
+have significant diarrhea, up to 6 bowel movements daily and 
+very loose. Stool for C diff was negative. After nutrition 
+review, his formula was changed to Pulmocare, and this has been 
+more well tolerated, with ___ but more formed bowel movements 
+daily. We also changed him from MMF to Myfortic.
+
+Patient was being setup for discharge, but on about POD 7, he 
+was seeming more confused. At night was when it was worse, and 
+where it was first noted, and then it was occurring during the 
+day. It was decided to stop the tacro, wait a day and then start 
+cyclosporine.
+It took a few days, but mental status started to clear, and the 
+patient was deemed safe to go home on POD 12.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 3 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Rifaximin 550 mg PO BID 
+5. Sertraline 100 mg PO DAILY 
+6. Sofosbuvir 400 mg PO DAILY 
+7. Vitamin D ___ UNIT PO DAILY 
+8. Nadolol 40 mg PO DAILY 
+9. Lactulose 15 mL PO Q8H:PRN constipation/confusion 
+10. Amiloride HCl 5 mg PO DAILY 
+11. Furosemide 40 mg PO DAILY 
+12. Ribavirin 600 mg PO QAM 
+13. Ribavirin 400 mg PO QPM 
+
+ 
+Discharge Medications:
+1. FoLIC Acid 3 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Sertraline 100 mg PO DAILY 
+4. Vitamin D ___ UNIT PO DAILY 
+5. Amlodipine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*5
+6. Fluconazole 400 mg PO Q24H 
+7. Glargine 18 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic [FreeStyle Lite Strips]  1 Strip four 
+times a day Disp #*1 Package Refills:*5
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) 18 
+units Daily 14 Units before BKFT; 4 Units before BED; Disp #*2 
+Syringe Refills:*3
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL 16 units SC Up 
+to 16 Units QID per sliding scale Disp #*2 Syringe Refills:*3
+RX *lancets 30 gauge 1 Lancet four times a day Disp #*1 Box 
+Refills:*5
+8. Mycophenolate Sodium ___ 720 mg PO BID 
+RX *mycophenolate sodium 360 mg 2 tablet(s) by mouth twice a day 
+Disp #*120 Tablet Refills:*5
+9. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q 4 hours Disp #*30 
+Tablet Refills:*0
+10. PredniSONE 10 mg PO DAILY 
+Follow transplant clinic taper 
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+12. Multivitamins 1 TAB PO DAILY 
+13. Insulin Pen Needles
+31 gauge ___ Insulin pen needle
+Disp: 1 box of 100
+Refill: 12
+
+14. Tube feeding order
+Tubefeeding: Pulmocare Full strength; 
+Goal rate: 55 ml/hr
+Continuous feed
+ICD9: 263.8
+Dispense 1 month supply with 5 refills
+15. ValGANCIclovir 900 mg PO Q24H 
+16. Insulin Pen Needles
+31 gauge ___ Insulin pen needle
+Disp: 1 box of 100
+Refill: 12
+
+17. Docusate Sodium 100 mg PO BID 
+Do not take if having multiple or loose bowel movements 
+18. Senna 8.6 mg PO BID 
+Hold for loose stools 
+19. CycloSPORINE (Neoral) MODIFIED 200 mg PO Q12H 
+RX *cyclosporine modified [Neoral] 100 mg 2 capsule(s) by mouth 
+twice a day Disp #*120 Capsule Refills:*5
+20. Sodium Polystyrene Sulfonate 30 gm PO ASDIR 
+Give only as directed by transplant clinic for hyperkalemia 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+HCV cirrhosis
+HCC
+Malnutrition
+___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+___ of ___ and Home Solution services resumed. 
+
+Please call the transplant clinic at ___ for fever > 
+101, chills, nausea, vomiting, diarrhea, constipation, inability 
+to tolerate food, fluids or medications, yellowing of skin or 
+eyes, increased abdominal pain, incisional redness, drainage or 
+bleeding, dizziness or weakness, decreased urine output or dark, 
+cloudy urine, swelling of abdomen or ankles, or any other 
+concerning symptoms.
+
+You will have labwork drawn twice weekly at ___ 
+Lab ___ Building). One of the lab draw days 
+will correspond with your Transplant Office follow up. 
+
+On the days you have your labs drawn, do not take your Tacro 
+until your labs are drawn. Bring your Tacro with you so you may 
+take your medication as soon as your labwork has been drawn.
+
+Follow your medication card, keep it updated with any dosage 
+changes, and always bring your card with you to any clinic or 
+hospital visits.
+
+You may shower shower with soap and water, rinse, pat dry. No 
+rubbing, no lotions or powder near the incision. 
+
+Leave the incision open to the air. The staples are removed 
+approximately 3 weeks following your transplant.
+No tub baths or swimming
+
+No driving if taking narcotic pain medications
+
+Avoid direct sun exposure. Wear protective clothing and a hat, 
+and always wear sunscreen with SPF 30 or higher when you go 
+outdoors.
+
+Drink enough fluids to keep your urine light in color. Your 
+appetite will return with time. Eat small frequent meals. 
+Continue tube feeds as ordered. 
+
+Check your blood sugars and blood pressure at home. Continue 
+using your insulin pump as you have been directed.
+
+Report consistently elevated values to the transplant clinic
+
+Do not increase, decrease, stop or start medications without 
+consultation with the transplant clinic at ___. There 
+are significant drug interactions with anti-rejection 
+medications which must be considered in medication management 
+following transplant
+
+Refer to your transplant binder as needed, and always call the 
+transplant clinic with any questions you may have
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-11 | hadm_id=22596112
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Transaminitis
+ 
+Major Surgical or Invasive Procedure:
+___ hepatic angiogram
+
+ 
+History of Present Illness:
+___ w hx HCV cirrhosis s/p DCD liver transplant ___ 
+presenting to clinic for routine f/u appt and found to have 
+elevated LFTs. Is being directly admitted to transplant surgery 
+floor for workup.
+
+On arrival to the floor, pt is in stable condition and feeling 
+in
+his usual state of health. Has mild pain surrounding his 
+incision
+site which is well-controlled with his home oxycodone. Has had
+poor appetite for months and has a Dobhoff tube for feedings.
+Last weekend pt vomited after eating what he feels was too large
+of a meal due to return of his appetite, after which he
+experienced N/V w/ emesisx1 and had to pull out the Dobhoff; 
+went
+to ED to have it replaced. Otherwise denies any fever/chills,
+N/V, has had regular formed stools since d/c'ing HCV meds, no 
+SOB
+or CP.
+
+ 
+Past Medical History:
+- HCV mediated cirrhosis, Child's C 12, complicated in the past 
+by ascites and coagulopathy  
+- Genotype 3 hepatitis C, currently in the midst of a 24-week  
+course of sofosbuvir and ribavirin.  
+- Moderate malnutrition 
+- Heart murmur
+.
+- s/p liver transplant ___
+- Inguinal hernia repairs in the 1970s.  
+- Tonsillectomy in the 1970s.  
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father  
+
+ 
+Physical Exam:
+VS: T:98.0 P:72 BP:121/81 RR:18 O2:100% on RA
+Gen: Very pleasant, thin-appearing man, AAOx3, in NAD
+HEENT: NCAT, MMM, anicteric sclera
+CV: RRR, normal S1/S2, no m/r/g
+LUNGS: CTAB, no wheezes/crackles
+ABD: Soft, nondistended, mild tenderness surrounding incision
+site which is healing appropriately and covered with steri 
+strips
+
+ 
+Pertinent Results:
+Labs on Admission: ___
+WBC-7.0 RBC-3.54* Hgb-11.1* Hct-32.6* MCV-92 MCH-31.3 MCHC-34.0 
+RDW-17.0* Plt ___
+UreaN-36* Creat-1.6* Na-139 K-5.8* Cl-98 HCO3-28 AnGap-19  
+Glucose-110*
+ALT-88* AST-27 AlkPhos-177* TotBili-1.4
+Albumin-4.1 Calcium-9.9 Phos-4.3 Mg-2.1
+___ Cyclspr-285
+.
+Labs at Discharge: ___
+WBC-6.2 RBC-3.01* Hgb-9.3* Hct-27.4* MCV-91 MCH-31.0 MCHC-34.0 
+RDW-17.2* Plt ___
+Glucose-122* UreaN-20 Creat-1.4* Na-137 K-4.9 Cl-99 HCO3-29 
+AnGap-14
+ALT-81* AST-50* AlkPhos-174* TotBili-1.2
+Calcium-8.5 Phos-4.2 Mg-1.8
+CSA: ****************
+ 
+Brief Hospital Course:
+___ w hx HCV cirrhosis s/p DCD liver transplant ___, was 
+called into clinic after routine labs showed mild elevation in 
+LFTs. Hepatic U/S showed concern for hepatic artery stenosis. On 
+___, an angiogram was performed and demonstrated donor celiac 
+artery anastomosis with recipient proper hepatic artery with 
+donor accessory left hepatic artery extending from the left 
+gastric artery. Mild irregularity of arterial anastomosis with a 
+kinking of proximal right hepatic artery. Pressure gradient of 
+17 mm Hg across anastomosis was noted. No significant pressure 
+gradient across the right hepatic artery kinking was noted. He 
+was stable post procedure. Groin site was stable and circulation 
+intact. Diet and tube feeds were resumed. 
+
+LFTs were still slightly elevated the next day. They are 
+slightly but stably elevated. Follow up labs will be obtained in 
+3 days. The decision was made to start ASA 325 mg daily. 
+
+Creatinine was slightly elevated upon admission, and increased 
+to 1.6 following two IV contrast loads for the CTA and 
+arteriogram. The patient was aggressively hydrated, and by day 
+of discharge the creatinine was back down to 1.4.
+
+Patient was continued on immunosuppression, with Myfortic 
+remaining at 720 BID, prednisone has been continued on the 
+accelerated taper, and has been decreased to 5 mg daily with 
+projected end date ___. There had been recent 
+cyclosporine adjustments made, levels were checked while 
+hospitalized and he will be discharged on 150 mg BID with lab 
+check at ___ on ___.
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 3 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Sertraline 100 mg PO DAILY 
+4. Vitamin D ___ UNIT PO DAILY 
+5. Amlodipine 5 mg PO DAILY 
+6. Fluconazole 400 mg PO Q24H 
+7. Glargine 14 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+8. Mycophenolate Sodium ___ 720 mg PO BID 
+9. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+10. PredniSONE 10 mg PO DAILY 
+Tapered dose - DOWN 
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+12. Multivitamins 1 TAB PO DAILY 
+13. ValGANCIclovir 900 mg PO Q24H 
+14. Docusate Sodium 100 mg PO BID 
+15. Senna 8.6 mg PO BID:PRN constipation 
+16. CycloSPORINE (Neoral) MODIFIED 175 mg PO Q12H 
+17. Sodium Polystyrene Sulfonate 30 gm PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+2. Amlodipine 5 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Fluconazole 400 mg PO Q24H 
+5. FoLIC Acid 3 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Mycophenolate Sodium ___ 720 mg PO BID 
+8. Omeprazole 20 mg PO DAILY 
+9. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q 8 hours Disp #*20 
+Tablet Refills:*0
+10. PredniSONE 5 mg PO DAILY 
+Take this medication for one more week then can be discontinued 
+Tapered dose - DOWN 
+11. Vitamin D ___ UNIT PO DAILY 
+12. Sodium Polystyrene Sulfonate 30 gm PO X1 PRN for high 
+potassium per Transplant Coordinator 
+13. Sertraline 100 mg PO DAILY 
+14. Senna 8.6 mg PO BID:PRN constipation 
+15. Glargine 14 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+16. ValGANCIclovir 900 mg PO Q24H 
+17. Aspirin 325 mg PO DAILY 
+18. CycloSPORINE (Neoral) MODIFIED 150 mg PO Q12H 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Elevated LFTs
+Hepatic artery irregularity
+Malnutrition
+Acute kidney injury
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call Dr. ___ office ___ if you 
+develop any of the following: 
+fever (temperature of 101 or greater), shaking chills, nausea, 
+vomiting, increased abdominal pain, jaundice (yellowing of the 
+whites of your eyes or skin), abdominal distension/bloating, 
+groin puncture site appears red or has bleeding/drainage, 
+constipation or any questions. 
+
+You may shower with soap and water, rinse, pat dry. No tub baths 
+or swimming until groin site healed
+
+Do not apply powder, lotion or ointment to your incision. 
+Do not lift anything heavier than 10 pounds or strain. 
+No driving while taking narcotic pain medication. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-9 | hadm_id=26106747
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal distention
+ 
+Major Surgical or Invasive Procedure:
+Therapeutic paracentesis
+Dobhoff placement for feeding (located in stomach), bridled
+
+ 
+History of Present Illness:
+___ with HCV and alcohol induced (?) cirrhosis (MELD 23, CHILDS 
+C on transplant list) with decompensation characterized by 
+history of ascites and encephalopathy currently on sofosbuvir 
+and ribavirin admitted with ___ and worsening nutritional 
+status. 
+
+Mr. ___ was previously seen in ___ and complained of 
+worsening abdominal girth and lower extremity edema. At that 
+time, patient's amiloride was increased to 10mg per day and 
+lasix increased to 40mg per day. He was advised to contact the 
+clinic if his symptoms worsened however he did not do so and was 
+instead seen by his GI physician at ___ (Dr. ___ who 
+increased his amiloride to 10mg BID and lasix to 60mg daily. 
+Unfortunately, patient continued to gain weight despite 
+increased diuretics. He was seen in the liver clinic by Dr. 
+___ Dr. ___ on ___ and was noted to be firmly 
+distended with worsened peripheral edema and was scheduled for 
+labs and outpatient paracentesis (diagnostic and therapeutic). 
+Patient's labs were notable for ___ with creatinine to 2.0 from 
+1.1 at baseline and decision was made to admit for work-up of 
+___ following paracentesis on ___. Patient was initally 
+informed to increase his lasix to 60mg BID however given ___, 
+his diuretics were held. 
+
+Mr. ___ underwent paracentesis with radiology this morning 
+with 4L taken off and was given 50g albumin pre-procedure and 
+50g albumin post-procedurally.
+
+With regards to Mr. ___ nutritional status, he has continued 
+to have worsening weakness and muscle wasting despite his weight 
+gain with persistently low albumin (2.8 on ___ consistent with 
+significant malnutrition. Discussion has been had with patient 
+regarding need for feeding tube in the near future. 
+
+On arrival to the floor, Mr. ___ reports that he is feeling 
+well and improved since paracentesis. He reports that he has had 
+progressive swelling and edema for last several months. Prior to 
+this, patient without history of ascites requiring paracentesis 
+and no clear history of significant hepatic encephalopathy. Was 
+previously well compensated cirrhosis prior to this most recent 
+worsening. Does note loose stools, ___ for last several 
+months.
+
+ 
+Past Medical History:
+1.  HCV mediated cirrhosis, Child's C 12, MELD at 24, 
+complicated in the past by ascites and coagulopathy
+2.  Genotype 3 hepatitis C, currently in the midst of a 24-week
+course of sofosbuvir and ribavirin.
+3.  Moderate malnutrition with albumin of 2.5 and significant
+sarcopenia.
+4.  Inguinal hernia repairs in the ___.
+5.  Heart murmur.
+6.  Tonsillectomy in the ___.
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS:  98.1 104/67 65 18 96%RA
+General: NAD, lying comfortably in bed
+HEENT: sclera anicteric, oropharynx clear  
+Neck: supple, no LAD, no thyromegaly   
+CV:  JVD to level of the ear. RRR, no m/g/r
+Lungs: CTA B
+Abdomen: soft, slightly distended with palpable fluid wave.
+GU: no foley
+Ext: pedal edema to level of knee  
+Neuro: CN intact, AOx3
+Skin: no rashes or lesions
+
+DISCHARGE PHYSICAL EXAMINATION:  
+98.1 113/63 64 18 96RA
+General: NAD, sitting up in bed
+HEENT: sclera anicteric, oropharynx clear  
+Neck: supple, no LAD, no thyromegaly   
+CV:  JVD to mid-neck. RRR, no m/g/r
+Lungs: CTAB
+Abdomen: soft, distended with palpable fluid wave.
+GU: no foley
+Ext: pedal edema to level of knee  
+Neuro: CN intact, AOx3
+Skin: no rashes or lesions
+
+ 
+Pertinent Results:
+ADMIT LABS
+___ 12:30PM BLOOD WBC-8.3# RBC-3.04* Hgb-11.1* Hct-35.3* 
+MCV-116* MCH-36.6* MCHC-31.5 RDW-14.9 Plt ___
+___ 12:30PM BLOOD Neuts-78.3* Lymphs-15.4* Monos-3.7 
+Eos-2.2 Baso-0.3
+___ 12:30PM BLOOD ___
+___ 12:30PM BLOOD UreaN-36* Creat-2.0*# Na-135 K-4.5 Cl-100 
+HCO3-27 AnGap-13
+___ 12:30PM BLOOD ALT-71* AST-123* AlkPhos-130 TotBili-4.0*
+___ 12:30PM BLOOD Albumin-2.8*
+
+DISCHARGE LABS
+___ 06:08AM BLOOD WBC-6.5 RBC-2.45* Hgb-8.9* Hct-27.7* 
+MCV-113* MCH-36.3* MCHC-32.2 RDW-15.3 Plt Ct-85*
+___ 06:08AM BLOOD ___ PTT-51.7* ___
+___ 06:08AM BLOOD Glucose-131* UreaN-24* Creat-0.9 Na-131* 
+K-4.5 Cl-99 HCO3-28 AnGap-9
+___ 06:08AM BLOOD ALT-79* AST-141* AlkPhos-98 TotBili-4.4*
+___ 06:08AM BLOOD Calcium-8.0* Phos-2.0* Mg-2.2
+
+Liver US ___:
+1.  Cirrhosis with large ascites.  No focal hepatic lesion 
+identified. 
+2.  Patent hepatic vasculature. 
+
+CXR ___:
+In comparison with the study of ___, there is an placement of 
+a Dobbhoff tube which, on the final image, is in the mid body of 
+the stomach.  Allowing for the AP supine position, there is 
+probably little overall change in the appearance of the heart 
+and lungs.  No evidence of acute pneumonia 
+
+ 
+Brief Hospital Course:
+___ with decompensated HCV  cirrhosis (ascites, coagulopathy) on 
+transplant list with MELD of 23 presenting with worsening volume 
+overload, malnutrition and ___ with creatinine of 2.0. 
+  
+#HCV cirrhosis: 
+Decompensated by coagulopathy and ascites on admission. 
+Bilirubin level was stable and no signs of HE although on 
+rifaximin (was not taking lactulose at home). He is currently 
+being treated with sofosbuvir/ribavirin and had cleared his 
+viral load after 1 month of treatment. Ribavirin and sofosbuvir 
+were initially discontinued due to ___ but restarted with renal 
+improvement. Ribavirin was started at a lower dose due to 
+chronic anemia caused by the drug and Sofosbuvir was restarted 
+at the home dose.
+
+___: 
+Patient with baseline creatinine of 0.9, was increased to 2.0 on 
+___ in setting of increasing doses of diuretics. After 
+paracentesis of tense ascites and holding diuretics, his Cr 
+improve to his baseline, suggestive of either vascular depletion 
+from diuretics or tense ascites causing renal vascular 
+compression or simple volume overload.
+
+# Nutrition: 
+Patient's cirrhosis and ascites had been causing decreased 
+appetitite due to gastric compression as well as a catabolic 
+state leading to muscle wasting. Nutrition was consulted and 
+calorie counts were initiated. A Dobhoff tube was placed at the 
+bedside and supplemental tube feedings were initiated. The 
+patient was tolerating tube feeds well during the day prior to 
+discharge. He had mild hypophosphatemia in the setting of tube 
+feeds which was repleted prior to discharge.
+
+# Ascites: 
+Patient with history of significant ascites, worsening over last 
+few weeks despite increased diuretics and becoming tense 
+ascites. He had 4L removed in the ED on admit with resolution of 
+the tensity, and a second therapeutic paracentesis for 5L was 
+performed prior to discharge.
+
+# Varices: 
+He had EGD performed during this admission with Grade 2 varices 
+visualized. He was started on nadolol for treatment of 
+esophageal varices.
+
+# Anemia: 
+He has baseline Hgb of 11 due to Ribavirin induced anemia. 
+Initial drop of 11 to 7.5 in Hgb thought to be dilutional in the 
+setting of immediate prior albumin administration. No signs or 
+symptoms of bleeding were appreciated and his counts began to 
+return to his baseline. He was given 1u PRBCs given his severe 
+liver disease and significant anemia. 
+
+Transitional Issues:
+-Please repeat creatinine and sodium on ___ and fax result to 
+___ to ensure stable creatinine and sodium on diuretics
+-Please repeat chemistries on ___ to ensure no refeeding 
+syndrome
+-Please follow-up peritoneal fluid culture from ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amiloride HCl 10 mg PO BID 
+2. FoLIC Acid 3 mg PO DAILY 
+3. Furosemide 60 mg PO DAILY 
+4. Lactulose 15 mL PO TID constipation/confusion 
+5. Omeprazole 20 mg PO DAILY 
+6. Ribavirin 600 mg PO QAM 
+7. Ribavirin 400 mg PO QPM 
+8. Rifaximin 550 mg PO BID 
+9. Sertraline 100 mg PO DAILY 
+10. Sofosbuvir 400 mg PO DAILY 
+11. Vitamin D ___ UNIT PO DAILY 
+12. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Feeding Pump
+Please provide Kangaroo ___ Pump and supplies
+2. Free water flushes
+Please provide free water flushes for dobhoff tube. 
+Dispense 60 100cc syringes
+3. Jevity 1.5 Cal (lactose-free food with fiber) 0.06 gram-1.5 
+kcal/mL oral Continuous 
+Please give at 55cc/hr through dobhoff tube with residual check 
+q8h and free water flush q4h 
+4. Jevity
+Please provide one month supply of Jevity 1.5 to be given 
+55cc/hr continous infusion via dobhoff in stomach. 
+3 Refills
+5. Amiloride HCl 5 mg PO DAILY 
+RX *amiloride 5 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0
+6. FoLIC Acid 3 mg PO DAILY 
+7. Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0
+8. Multivitamins 1 TAB PO DAILY 
+9. Omeprazole 20 mg PO DAILY 
+10. Ribavirin 600 mg PO QAM 
+11. Ribavirin 400 mg PO QPM 
+12. Rifaximin 550 mg PO BID 
+13. Sertraline 100 mg PO DAILY 
+14. Sofosbuvir 400 mg PO DAILY 
+15. Vitamin D ___ UNIT PO DAILY 
+16. Nadolol 40 mg PO DAILY 
+RX *nadolol 40 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0
+17. Lactulose 15 mL PO TID constipation/confusion 
+18. Outpatient Lab Work
+Please draw chem 10 on ___ and fax result to Dr. ___ at 
+___. 
+ICD-9 571.5
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+ ___
+ 
+Discharge Diagnosis:
+Acute Kidney Injury
+Decompensated HCV cirrhosis with ascites
+Malnutrition
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted with worsening kindey function and poor PO 
+intake. You had a paracentesis with 4L removed and your kidney 
+function improved. You had an EGD which did show varices and a 
+feeding tube was placed to help you improve your nutrition at 
+home. You have been set up with a home infusion company who will 
+assist with tube feeding at home.
+
+It is very important that you continue to take all of your 
+medications as prescribed. We have decreased your diuretic doses 
+to help protect your kidneys and started nadolol to prevent 
+bleeding from varices.
+
+It was a pleasure taking care of you!
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-13 | hadm_id=27610985
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fevers
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ male with a PMHx of HCV cirrhosis s/p OLT 
+in ___ c/b biliary stricutre s/p stenting and treatment with 
+sofosbuvir who presented to the ED after liver biopsy with 
+fever, chills, nause, vomiting, and headache. 
+
+Patient had been in his usual state of health until a liver 
+biopsy on ___ which was done for progressively rising LFTs to 
+evaluate for rejection. He has labs done at ___ in ___, 
+so his most recent results are not available in OMR On 
+preliminary report, the procedure was uncomplicated. He felt 
+fine until 2.5 hours after the procedure when he developed 
+headache (retroorbital pain, gets them 1x/month, got two APAP 
+and sent home). At home, he developed suddetn onset 
+uncontrollable shaking and chills. His wife took his temp which 
+was 101.1 then 101.3; she called EMS which recorded T 104 and 
+102. At 17:30, patient was still shaking and vomited once, 
+nonbloody and nonbilious. Patient has had some runny nose but 
+otherwise he dnies cough, chest pain, dyspnea, urinary symptoms, 
+change in BMs focal weakness, and rash/skin changes. He had had 
+a sore left lower molar that he describes as an intermittent 
+toothache. 
+
+Of note, he was hospitalized from ___ for ___ and 
+___ concerning for graft rejection. ___ improved with 
+IVF. Liver biopsy showed no evidence of rejection. He underwent 
+ERCP on ___ with biliary sphincterotomy and stent placement in 
+the main biliary duct. Transaminases downtrended and 
+immunosuppression was continued. 
+
+- Initial VS were: T 102.4, BP 141/79, HR ___, SaO2 96-100% 
+on RA
+- Exam was notable for minimal abdominal tenderness, no 
+meningeal signs
+- Labs were notable for WBC 1.2 (48%N and 10%Bands), H/H 
+10.1/27.7 (baseline), AST/ALT 645/420, AlP 194, TBili 1.6 (all 
+elevated from prior), BUN/Cr ___ (baseline), lactate 1.3, flu 
+swab negative
+- RUQ US showed redemonstration of a 3.8 x 2.5 x 0.9 cm fluid 
+collection anterior to the liver, consistent with hematoma after 
+liver biopsy which is the same size compared to US from 12 hours 
+prior
+- He was given 2L IVF, 650mg PO APAP x2, 1g vancomycin, and 4.5g 
+pip/tazo
+- Hepatology was consulted and recomended infectious workup, 
+empiric antibiotics, and admission to ET
+- VS prior to transfer were: T 100.1 HR 86 BP 127/73 RR 18 SaO2 
+99% RA 
+  
+ROS: As detailed in HPI. All other systems are negative. 
+
+ 
+Past Medical History:
+- HCV/EtOH cirrhosis s/p OLT in ___, c/b biliary stricture 
+s/p stenting
+- HCV genotype ___ s/p ___ weeks of sofosbuvir and ribavirin 
+leading up to his transplant; he has since been cured with 
+negative viral load three months following his liver transplant
+- Post-transplant CKD
+- Headaches
+- Moderate malnutrition 
+- Heart murmur
+- H/o leukopenia secondary to CellCept
+- Inguinal hernia repairs in the ___.  
+- Tonsillectomy in the ___.
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T 98.6 BP 146/84 HR 85 RR 15 SaO2 100% on RA  
+General: No acute distress, cooperative  
+HEENT: NC/AT, sclera anicteric, no conjunctival injection or 
+pallor, OP is clear, left lower molar #19 (?) which patient 
+notes has intermittent pain has a partially receeding gumline 
+but no pus/abscess noted  
+Neck: supple, no LAD, no JVP elevation  
+CV: RRR, normal s1/s2, no m/r/g  
+Lungs: Non-labored, CTAB  
+Abdomen: Well-healed RUQ scar, site of liver biopsy is dressed 
+with gauze and tegaderm that is c/d/i, soft, nontender, 
+nondistended, normoactive bowel sounds  
+Ext: warm, 2+ DP pulses, no edema  
+Neuro: alert, oriented x 3, says days of week backwards, CN 
+II-XII intact, strength ___ throughout  
+Skin: dry, no rash  
+
+DISCHARGE PHYSICAL EXAM:
+VS: 97.8  ___  ___  18  97-100%RA
+General: A+Ox3, NAD, well appearing male; eating breakfast
+HEENT: sclera anicteric, oropharynx normal with MMM, EOMI
+CV: RRR, normal S1 and S2, no MRG
+Lungs: No increased WOB
+Abdomen: soft, nontender to palpation
+Ext: no peripheral edema, warm and well perfused, moving 
+arms/legs spontaneously, normal sensation in lower extremities
+ 
+Pertinent Results:
+ADMISSION:
+=========
+
+___ 05:48AM   GLUCOSE-131* UREA N-17 CREAT-1.4* SODIUM-136 
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-22 ANION GAP-14
+___ 05:48AM   ALT(SGPT)-484* AST(SGOT)-287* ALK PHOS-157* 
+TOT BILI-1.5 DIR BILI-1.2* INDIR BIL-0.3
+___ 05:48AM   ALBUMIN-3.8 CALCIUM-8.5 PHOSPHATE-1.8*# 
+MAGNESIUM-1.4*
+___ 05:48AM   CYCLSPRN-32*
+___ 05:48AM   WBC-1.2* RBC-2.71* HGB-8.9* HCT-25.0* MCV-92 
+MCH-32.8* MCHC-35.6* RDW-12.8
+___ 05:48AM   PLT COUNT-134*
+___ 05:48AM   ___ PTT-30.8 ___
+___ 07:40PM   ___ PTT-32.6 ___
+___ 07:30PM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 07:07PM   LACTATE-1.3
+___ 07:00PM   GLUCOSE-144* UREA N-22* CREAT-1.6* SODIUM-138 
+POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-21* ANION GAP-18
+___ 07:00PM   estGFR-Using this
+___ 07:00PM   ALT(SGPT)-645* AST(SGOT)-420* ALK PHOS-194* 
+TOT BILI-1.6*
+___ 07:00PM   ALBUMIN-4.3
+___ 07:00PM   WBC-1.2* RBC-3.05* HGB-10.1* HCT-27.7* MCV-91 
+MCH-33.1* MCHC-36.4* RDW-12.8
+___ 07:00PM   NEUTS-48* BANDS-10* ___ MONOS-9 EOS-7* 
+BASOS-1 ___ MYELOS-0
+___ 07:00PM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL FRAGMENT-1+
+___ 07:00PM   PLT SMR-NORMAL PLT COUNT-183
+___ 08:15AM URINE  HOURS-RANDOM
+___ 08:15AM URINE  UHOLD-HOLD
+___ 08:15AM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 08:15AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-6.0 
+LEUK-NEG
+___ 08:15AM URINE  RBC-1 WBC-1 BACTERIA-MOD YEAST-NONE 
+EPI-0
+___ 08:15AM URINE  AMORPH-OCC
+___ 08:15AM URINE  MUCOUS-RARE
+___ 08:10AM   WBC-2.1* RBC-3.07* HGB-10.0* HCT-28.8* MCV-94 
+MCH-32.4* MCHC-34.5 RDW-12.8
+___ 08:10AM   PLT COUNT-233
+___ 08:10AM   ___
+
+IMMUNOSUPPRESSIVE LEVELS:
+========================
+___ 07:30AM BLOOD tacroFK-5.3
+
+___
+Test                          Result              Reference 
+Range/Units
+EVEROLIMUS, BLOOD             3.4                 see note ng/mL
+
+PATHOLOGY:
+==========
+Liver, allograft,needle core biopsies:
+1) Acute cellular rejection with mild portal inflammatory 
+infiltrate comprised predominantly of
+lymphocytes with prominent eosinophils and rare plasma cells 
+with portal endothelialitis and
+lymphocytic cholangitis.
+2) No significant steatosis is seen.
+3) Immunostain for CMV is negative with adequate control.
+4) Trichrome stain shows mild partial expansion.
+5) Iron stain shows no stainable iron.
+Note: The findings are consistent with mild acute cellular 
+rejection. It is difficult to evaluate for
+recurrent HCV in this setting.
+
+IMAGING:
+========
+___/ RUQ ULTRASOUND:
+IMPRESSION:  
+1.  Normal ultrasound of the transplant liver. 
+2. Stable subcutaneous postoperative seroma/ hematoma as 
+described above. 
+
+___ CXR
+FINDINGS:  
+The lungs are clear without focal consolidation.  No pleural 
+effusion or 
+pneumothorax is seen. The cardiac and mediastinal silhouettes 
+are 
+unremarkable. 
+IMPRESSION:    
+No acute cardiopulmonary process. 
+
+___ RP ULTRASOUND:
+FINDINGS:  
+Again seen is a 3.8 x 2.5 x 0.9 cm subcutaneous fluid collection 
+anterior to the liver, consistent with hematoma, unchanged in 
+size compared to the most recent liver ultrasound, earlier 
+today. Limited views of the liver demonstrate no acute 
+abnormality. 
+  
+IMPRESSION:  
+Unchanged subcutaneous fluid collection anterior to the liver, 
+likely 
+consistent with hematoma/seroma. 
+
+MICROBIOLOGY:
+==============
+___ 5:48 am IMMUNOLOGY
+
+                            **FINAL REPORT ___
+
+   HCV VIRAL LOAD (Final ___: 
+      HCV-RNA NOT DETECTED. 
+      Performed using Cobas Ampliprep / Cobas Taqman HCV v2.0 
+Test. 
+      Linear range of quantification: 1.50E+01 IU/mL - 1.00E+08 
+IU/mL. 
+      Limit of detection: 1.50E+01 IU/mL. 
+
+___ 1:46 pm Immunology (CMV)
+
+                            **FINAL REPORT ___
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+      Performed by Cobas Ampliprep / Cobas Taqman CMV Test. 
+      Linear range of quantification: 137 IU/mL - 9,100,000 
+IU/mL. 
+      Limit of detection 91 IU/mL. 
+      This test has been verified for use in the ___ patient 
+population
+
+DISCHARGE LABS:
+================
+___ 07:30AM BLOOD WBC-7.0 RBC-2.88* Hgb-9.4* Hct-27.0* 
+MCV-94 MCH-32.7* MCHC-34.9 RDW-13.8 Plt ___
+___ 07:30AM BLOOD ___ PTT-28.4 ___
+___ 07:30AM BLOOD Glucose-108* UreaN-16 Creat-1.3* Na-141 
+K-3.5 Cl-104 HCO3-28 AnGap-13
+___ 07:30AM BLOOD ALT-148* AST-43* AlkPhos-73 TotBili-0.3
+___ 07:30AM BLOOD Calcium-8.8 Phos-3.7 Mg-1.9
+ 
+Brief Hospital Course:
+This is a ___ male with a PMHx of HCV/EtOH cirrhosis s/p 
+ OLT in ___ with HCV cure but c/b biliary stricutre s/p 
+stenting presenting after liver biopsy for transaminitis with 
+fevers and leukopenia consistent with sepsis found to have mild 
+acute liver rejection
+
+# Sepsis: Presented with fevers and leukopenia with a 10% 
+bandemia which developed hours after liver biopsy on ___. 
+Given the timing, the most likely source of infection was 
+thought to be transient bacteremia after liver biopsy. Blood and 
+urine cultures were sent and he was started on vancomycin/zosyn. 
+Vancomycin was discontinued after 48 hours and he completed a 
+5-day course of zosyn without recurrent febrile episode. 
+
+# HCV/EtOH Cirrhosis s/p OLT with Mild Acute Rejection: Patient 
+presented with AST/ALT that were elevated compared to most 
+recent values from ___, as well as mild 
+hyperbilirubinemia. Liver biopsy was done as an outpatient on 
+___ for these rising LFTs. Results returned with evidence of 
+mild acute rejection. HCV and CMV viral loads were undetectable. 
+ Blood levels of both cyclosporine and everolimus were sub 
+therapeutic, however. This was thought to be due to a complex 
+drug-drug interaction. Cyclosporine was increased to 150mg BID 
+and everolimus was increased to 3mg BID, without effect. Due to 
+this drug interaction, the patient was started on tacrolimus, 
+and cyclosporine was discutoninued. Levels were monitored and on 
+discharge his tacrolimus dose was 5mg Q12 and his everolimus 
+dose was 4mg BID. His most recent levels were 5.3 and 3.4 
+respectively.  For acute rejection, he was treated with 5 days 
+of 500mg solumedrol starting on ___. LFTs decreased by over 
+50% on this regimen. He was transitioned to 20mg prednisone 
+daily and planned for a taper over the course of several weeks.
+
+# Post-transplant CKD: Baseline Cr is 1.4-1.7, and was 1.3 at 
+discharge.
+
+# Moderate malnutrition: Nutrition was consulted, who 
+recommended ensure plus TID with meals.
+
+# Possible hepatic arterial stenosis: Patent portal vasculature 
+was seen on RUQ U/S. Continued on aspirin.
+
+# Hypertension: amlodipine and metoprolol were held in setting 
+of possible sepsis initially. After receiving steroids, the 
+patient developed hypertension, so home amlodipine was restarted 
+and increased to 10mg daily. Metoprolol was discontinued his 
+blood pressures were within normal levels with only amlodipine.
+
+# Headaches: Felt to be possibly related to immunosuppression 
+side effect given the patient's temporal association. He was 
+treated with Acetaminophen as needed, and this had resolved at 
+discharge.
+
+# Depression: Continued on sertraline.
+
+# GERD: Continued on omeprazol.
+
+TRANSITIONAL ISSUES:
+- patient will need to be on Valcyte for at least 3 months 
+starting from ___
+- patient will need to be on Bactrim for at least ___ year 
+starting from ___
+- Prednisone taper: 20mg for one week, then decrease by 5mg 
+every week thereafter.
+- Monitor tacrolimus and everolimus levels
+- Goal tacrolimus level is ___
+- Goal everolimus level is ___
+- increased amlodipine from 5 mg daily to 10 mg daily
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO QPM 
+3. FoLIC Acid 3 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+7. Sertraline 200 mg PO DAILY 
+8. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+9. Vitamin D ___ UNIT PO DAILY 
+10. CycloSPORINE (Neoral) MODIFIED 100 mg PO BID 
+11. ValGANCIclovir 450 mg PO EVERY OTHER DAY 
+12. Everolimus 2 mg PO BID 
+13. Docusate Sodium 100 mg PO BID:PRN constipation 
+14. Senna 8.6 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Aspirin 325 mg PO QPM 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. Everolimus 4 mg PO BID 
+5. FoLIC Acid 3 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. Sertraline 200 mg PO DAILY 
+10. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+11. ValGANCIclovir 450 mg PO Q24H 
+12. Vitamin D ___ UNIT PO DAILY 
+13. PredniSONE 20 mg PO DAILY 
+RX *prednisone 5 mg 4 tablet(s) by mouth for 1 week; then 3 
+tablets for 1 week; 2 tablets for 1 week; 1 tablet for 1 week 
+Disp #*70 Tablet Refills:*0
+14. Tacrolimus 5 mg PO Q12H 
+RX *tacrolimus 1 mg 5 capsule(s) by mouth every 12 hours Disp 
+#*100 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Mild acute rejection
+Post-transplant Chronic Kidney Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you during your recent 
+hospitalization at ___. You were hospitalized after having 
+fevers and chills after a liver biopsy. We treated you with IV 
+antibiotics but did not find a source of infection. We believe 
+your fevers may have been to a transient bloodstream infection 
+after the biopsy. Your liver biopsy showed that you were 
+suffering from some mild rejection of your new liver. This is 
+probably because everolimus and cyclosporine, the two 
+immunosuppressant drugs you were taking, were not at adequate 
+levels. To treat your rejection, we gave you high doses of 
+steroids. Your liver function tests improved, and you were 
+switched to oral steroids. You should take this taper as 
+prescribed.
+
+We also switched your immunosuppressants. You are now taking 
+everolimus and tacrolimus. These two medications still have 
+complex interactions, but it is our hope that they will prevent 
+any further rejection of your new liver.
+
+Please take your medications as prescribed and follow-up with 
+your doctors as below. Please also eat a low carbohydrate diet 
+while you are on steroids.
+
+We wish the best!
+-Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16440395-DS-12 | hadm_id=28352901
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+___ 
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+
+ 
+History of Present Illness:
+Patient is a ___ gentleman who is 2 months status post a 
+deceased donor by cardiac death liver transplant for alcohol and
+genotype 3 hepatitis C cirrhosis complicated by 
+diuretic-refractory ascites and malnutrition presenting for ___ 
+and ___ concerning for transplant rejection s/p biopsy 
+by ___ yesterday. Patient has chronic genotype 3 hepatitis C and 
+appears to have cleared the virus. He had completed 17 out of 24 
+weeks of treatment withsofosbuvir and ribavirin at the time of 
+transplant.  His viral
+load was negative at the time of transplant and negative on
+___. 
+
+Patient's labs on ___ showed creat 1.9 (1.7, 1.8), Alk PHos 
+361 (213, 119), AST 145 (98, 26), ALT 200 (114, 41), cyclo level 
+230 on 250mg bid. An ultrasound showed evidence of hepatic 
+arterial stenosis at the hepatic artery anastomosis with kinking 
+noted.  There was a pressure gradient, but this was not amenable 
+to stenting and he was recently started on 325 mg of aspirin. An 
+urgent transjugular liver biopsy done yesterday by ___. Patient 
+was a direct admit for IVF for ___ and to await biopsy results. 
+
+On the floor, patient reports he is feeling very well. His 
+appetite has been much improved from before, and he is 
+tolerating PO well. He denies any side effects to medications, 
+and he denies fevers, chills, nausea, vomiting, abdominal pain, 
+diarrhea, constipation.
+
+ 
+Past Medical History:
+- HCV mediated cirrhosis, Child's C 12, complicated in the past 
+by ascites and coagulopathy  
+- Genotype 3 hepatitis C, currently in the midst of a 24-week  
+course of sofosbuvir and ribavirin.  
+- Moderate malnutrition 
+- Heart murmur
+- s/p liver transplant ___
+- Inguinal hernia repairs in the 1970s.  
+- Tonsillectomy in the ___.  
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or malignancy other than skin 
+cancer in mother and father  
+
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:  
+Vitals:  97.6;  143/82;  67;  18;  100/RA
+General: Alert, oriented, no acute distress, lying comfortably 
+in bed  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII grossly intact, moving all extremities 
+
+PHYSICIAL EXAM ON DISCHARGE:
+Vitals:  97.9;  134/80;  109;  18;  97/RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 06:55PM   GLUCOSE-88 UREA N-27* CREAT-1.6* SODIUM-137 
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-24 ANION GAP-16
+___ 06:55PM   ALT(SGPT)-237* AST(SGOT)-133* ALK PHOS-296* 
+TOT BILI-0.8
+___ 06:55PM   WBC-3.2* RBC-2.85* HGB-9.6* HCT-26.9* MCV-95 
+MCH-33.6* MCHC-35.5* RDW-16.6*
+___ 06:55PM   PLT COUNT-231
+___ 06:55PM   ___ PTT-33.3 ___
+
+IMAGING/PATH:
+==========================
+___  Liver, allograft, needle core biopsy:
+1. Focal mild bile duct proliferation with associated 
+neutrophils, recommend evaluation to rule out biliary 
+obstruction, ischemia or sepsis.
+2. Scattered lobular neutrophilic microabscesses. CMV 
+immunostain is negative.
+3. No features of rejection are seen.
+4. No steatosis seen.
+5. No definite features of recurrence of viral hepatitis C seen.
+6. Trichrome stain shows no increased fibrosis.
+7. Iron stain shows no increased fibrosis.
+
+___ MRCP
+IMPRESSION: 
+1. Transplanted liver with patent arterial and venous 
+anastomoses.  Apparent narrowing at the biliary anastomosis is 
+may reflect mismatched duct diameters between the donor and 
+recipient. 
+2. Unchanged prominence of the intrahepatic biliary ducts.  No 
+new dilation. Focal arterial hyper enhancement and restricted 
+diffusion around a dilated biliary duct in segment VI is most 
+compatible with a focus of mild cholangitis.  No fluid 
+collection. 
+3. Interval decrease in size of a right upper quadrant 
+intramuscular hematoma. 
+
+ERCP ___
+IMPRESSION:
+The scout film was normal. 
+The bile duct was deeply cannulated with the sphincterotome. 
+Contrast was injected and there was flow through the ducts. 
+Contrast extended to the entire biliary tree. 
+There was a short stricture at the CHD in keeping with an 
+anastomotic stricture vs duct mismatch. 
+The left and right hepatic ducts and all intrahepatic branches 
+were mildly dilated. 
+A biliary sphincterotomy was made with a sphincterotome. There 
+was no post-sphincterotomy bleeding. 
+A ___ x 8 cm plastic stent was placed into the main duct. 
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically.
+
+LABS ON DISCHARGE:
+==========================
+___ 07:42AM BLOOD WBC-1.8* RBC-2.58* Hgb-8.9* Hct-24.1* 
+MCV-93 MCH-34.3* MCHC-36.7* RDW-15.9* Plt ___
+___ 07:42AM BLOOD Glucose-100 UreaN-13 Creat-1.4* Na-141 
+K-4.3 Cl-106 HCO3-25 AnGap-14
+___ 07:42AM BLOOD ALT-55* AST-19 AlkPhos-162* TotBili-0.7
+___ 07:42AM BLOOD Calcium-9.3 Phos-3.7 Mg-1.3*
+___ 07:42AM BLOOD Cyclspr-146
+___ 05:45AM BLOOD Cyclspr-184
+___ 07:20AM BLOOD Cyclspr-266
+ 
+Brief Hospital Course:
+Patient is a ___ gentleman who is 2 months status post a 
+deceased donor by cardiac death liver transplant for alcohol and 
+genotype 3 hepatitis C cirrhosis complicated by 
+diuretic-refractory ascites and malnutrition presenting for ___ 
+and ___ concerning for transplant rejection s/p biopsy 
+by ___ on ___ and ERCP on ___ with biliary sphincterotomy and 
+stent placed in the main duct. 
+
+ACUTE ISSUES:
+========================== 
+# ___ - AST 133/ALT 237 was on admission, increased 
+from baseline. Patient recently underwent liver transplant 2 
+months ago and was on cyclosporin and mycophenolate for 
+immunosuppression. His liver ultrasound demonstrated evidence of 
+hepatic arterial stenosis at the hepatic artery anastomosis with 
+kinking noted, concerning for transplant rejection. The day 
+prior to admission, he underwent urgent biopsy by ___ on ___, 
+which showed focal mild bile duct proliferation with associated 
+neutrophils concerning biliary obstruction, ischemia or sepsis. 
+No evidence of transplant rejection, CMV (viral load negative), 
+or active hepatitis C was seen on biopsy. MRCP was then 
+performed and showed patent transplanted vasculature. Possible 
+cholecystitis was also noted, however patient showed no signs of 
+infection and had no abdominal pain during the admission. 
+Patient then underwent ERCP on ___ with biliary sphincterotomy 
+and stent placement in the main biliary duct. He will need to 
+undergo another ERCP in ___ weeks for stent removal. 
+___ trended down during this admission. His 
+cyclosporin 250mg q12h and mycophenolate 720mg BID were 
+continued, and doses were not adjusted as biopsy did not show 
+evidence of rejection. Patient was also started on 5 day course 
+of cipro post-ERCP for prophylaxis. He was tolerating PO well 
+the next day without abdominal pain and was discharged.
+
+# ___ on CKD - Patient was admitted for creatinine of 1.9 from 
+baseline of 1.0-1.5. Improved to baseline after IVF. 
+ 
+CHRONIC ISSUES:
+========================
+# HTN: Continued amlodipine 5mg, metoprolol 25mg
+# DM: Decreased glargine to 6u as patient's glucose was 
+low-normal during this admission
+# GERD: Continued omeprazole 20mg
+# Depression: Continued sertraline 100mg 
+# Prophylaxis - continued Bactrim. Valganciclovir dose was 
+decreased to 450mg from 900mg due to renal function. 
+
+TRANSITIONAL ISSUES:
+==========================
+- Patient will need weekly cyclosporine levels and LFTs. 
+Cyclosporine level on ___ was 146
+- Patient will follow-up with Transplant Hepatology on ___.
+- Repeat ERCP in ___ months for stent pull and re-evaluation. 
+- Continue with antibiotics - Ciprofloxacin 500mg BID x 5 days 
+ending on ___. 
+- Home glargine was reduced to 6u as patient's blood glucose was 
+90-100s during stay on 8u. Please continue to monitor and 
+adjust. 
+- Patient will need 24 hour urine collection for creatinine 
+clearance in ___ weeks. 
+- Patients valgancyclovir decreased to 450mg daily from 900mg 
+given renal function and thought to be contributing to 
+leukopenia
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+2. CycloSPORINE (Neoral) MODIFIED 250 mg PO Q12H 
+3. FoLIC Acid 3 mg PO DAILY 
+4. Glargine 8 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+5. Metoprolol Tartrate 25 mg PO BID 
+6. Mycophenolate Sodium ___ 720 mg PO BID 
+7. Omeprazole 20 mg PO DAILY 
+8. Sertraline 200 mg PO DAILY 
+9. Sodium Polystyrene Sulfonate 30 gm PO DAILY:PRN high 
+potassium 
+10. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+11. ValGANCIclovir 900 mg PO Q24H 
+12. Aspirin 325 mg PO QPM 
+13. Docusate Sodium 100 mg PO BID:PRN constipation 
+14. Vitamin D ___ UNIT PO DAILY 
+15. Multivitamins 1 TAB PO DAILY 
+16. Senna 8.6 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO QPM 
+3. Docusate Sodium 100 mg PO BID:PRN constipation 
+4. FoLIC Acid 3 mg PO DAILY 
+5. Metoprolol Tartrate 25 mg PO BID 
+6. Multivitamins 1 TAB PO DAILY 
+7. Mycophenolate Sodium ___ 720 mg PO BID 
+8. Omeprazole 20 mg PO DAILY 
+9. Senna 8.6 mg PO BID:PRN constipation 
+10. Sertraline 200 mg PO DAILY 
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+12. Vitamin D ___ UNIT PO DAILY 
+13. Sodium Polystyrene Sulfonate 30 gm PO DAILY:PRN high 
+potassium 
+14. Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*9 Tablet Refills:*0
+15. CycloSPORINE (Neoral) MODIFIED 250 mg PO Q12H 
+16. ValGANCIclovir 450 mg PO Q24H 
+RX *valganciclovir [Valcyte] 450 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0
+17. Glargine 6 Units Breakfast
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+___ 
+
+Secondary diagnoses:
+Hepatitis C s/p deceased donor liver transplant
+HTN
+DM
+GERD
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure to participate in your care at ___. You were 
+admitted at the request of your outpatient transplant doctor who 
+noticed some of your liver enzymes were elevated and that your 
+creatinine was slightly elevated. We gave you some fluids and 
+your kidney function returned to normal. Your liver biopsy did 
+not show evidence of transplant rejection. You then underwent a 
+MRCP, which showed that the blood vessels in your liver were 
+patent. You then got underwent a ERCP and had a stent placed in 
+the main duct of your liver. You will need to have repeat ERCP 
+to have the stent removed. 
+
+The ERCP team recommended that you take ciprofloxacin, an 
+antibiotic, for five days.  You should take this until ___. 
+You should also follow-up with your doctors as listed below.
+
+We wish you all the best!
+Your ___ team
+ 
+Followup Instructions:
+___

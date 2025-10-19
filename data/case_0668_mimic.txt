@@ -1,0 +1,553 @@
+===== DISCHARGE NOTE =====
+note_id=15667344-DS-3 | hadm_id=20235321
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bilateral subacute subdural hematomas
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is an ___ year old male
+with a history of atrial fibrillation on aspirin and warfarin 
+who
+presented to the Emergency Department on ___ as a transfer
+from an outside facility with bilateral subacute subdural
+hematomas. Patient reports that he suffered from a fall back in
+mid ___ while in ___. At that time, patient went 
+to
+the Emergency Department there and was reportedly found to have 
+a
+2.6mm right sided subdural hematoma. Patient was admitted and 
+had
+a repeat CT of the head, which was reportedly stable. He was
+subsequently discharged with instructions to have another repeat
+CT of the head upon his return home to ___. Patient 
+had
+repeat CT of the head at an outside facility on ___. Per 
+the
+report from the outside facility, the CT of the head revealed an
+increase in the size of the right sided subdural hematoma to
+approximately 18mm as well as a new left sided subdural hematoma
+measuring approximately 15mm. Patient was contacted by the
+outside facility today on ___ and instructed to come to 
+___ for further evaluation and
+management. The Neurosurgery Service was consulted for question
+of acute neurosurgical intervention. Patient denies confusion,
+dizziness, headache, visual changes, nausea, vomiting, weakness,
+numbness, and tingling. He also denies any falls since the ___
+in mid ___. 
+ 
+Past Medical History:
+- atrial fibrillation
+- hypertension
+- obstructive sleep apnea
+- status post bilateral cataract surgery ___ years ago
+- status post hernia surgery approximately ___ years ago
+- status post pacemaker placement approximately ___ years ago
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+On Admission
+============
+Exam:
+
+Vital Signs: T 98.3F, HR 66, BP 105/59, RR 16, O2Sat 99% room 
+air
+
+General: Well nourished, well dressed, elderly male. Resting
+comfortably, no acute distress.
+Head, Eyes, Ears, Nose, Throat: Normocephalic, atraumatic.
+Extremities: Warm and well perfused.
+
+Neurologic:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension. No dysarthria 
+or
+paraphasic errors.
+
+Cranial Nerves:
+I: Not tested.
+II: Pupils equal, round, and reactive to light.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No drift.
+
+Sensation: Intact to light touch.
+
+============
+On Discharge
+============
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL 3-2mm
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     
+
+Speech Fluent: [x]Yes [ ]No
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[-]Clonus ___ [+]Sensation intact to light touch
+[+]Propioception intact
+ 
+Pertinent Results:
+Please see OMR for pertinent lab/imaging studies.
+ 
+Brief Hospital Course:
+#Bilateral subacute subdural hematomas
+Patient was admitted to the neurosurgery floor (Farr11) from the 
+emergency department with bilateral subacute subdural hematomas. 
+He was neurologically intact upon admission. He was admitted 
+with plan for bilateral burr holes for subdural hematoma 
+evacuation on hospital day 1. The patient and his family 
+initially consented for the procedure, but then elected to not 
+have the surgery. He expressed verbal understanding of the risks 
+and benefits of the surgery, and elected to decline the surgery 
+for now. He remained neurologically stable, and ambulated well 
+with nursing (requiring a cane at baseline), carried out all of 
+his ADLs independently. He was discharged home with plan to 
+follow up in clinic in 1 week with a non contrast head CT.
+
+#History of AF on coumadin/ASA
+His coumadin and aspirin were held in the context of subdural 
+hematomas. 
+ 
+Medications on Admission:
+- acetaminophen 325mg by mouth once daily at bedtime
+- aspirin 81mg by mouth once daily, has not taken since fall in
+mid ___
+- lisinopril 10mg by mouth once daily
+- multivitamin 1 tablet by mouth once daily
+- warfarin, unknown dose, by mouth, unknown frequency, has not
+taken since fall in mid ___
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Lisinopril 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+bilateral subacute subdural hematoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane). (Walks with cane at baseline, otherwise independent.)
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Brain Hemorrhage without Surgery
+
+Activity
+
+• We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+
+• You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+
+• No driving while taking any narcotic or sedating medication. 
+
+• If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+
+• No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+
+• Please do **NOT** take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Warfarin/Coumadin) until cleared by the 
+neurosurgeon. 
+
+• You ___ use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+
+• You ___ have difficulty paying attention, concentrating, and 
+remembering new information.
+
+• Emotional and/or behavioral difficulties are common. 
+
+• Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+
+• Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+
+• Headache is one of the most common symptom after a brain 
+bleed. 
+
+• Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+
+• Mild pain medications ___ be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+
+• There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+
+• Severe pain, swelling, redness or drainage from the incision 
+site. 
+
+• Fever greater than 101.5 degrees Fahrenheit
+
+• Nausea and/or vomiting
+
+• Extreme sleepiness and not being able to stay awake
+
+• Severe headaches not relieved by pain relievers
+
+• Seizures
+
+• Any new problems with your vision or ability to speak
+
+• Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+
+• Sudden numbness or weakness in the face, arm, or leg
+
+• Sudden confusion or trouble speaking or understanding
+
+• Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+
+• Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15667344-DS-4 | hadm_id=21947147
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+gait instability; difficulty w/ ambulation; weakness 
+
+ 
+Major Surgical or Invasive Procedure:
+___: Bilateral parietal burr holes for ___ evac
+ 
+History of Present Illness:
+___ y/o male know to the Neurosurgery service for a recent
+admission on ___ for evaluation of increased size of known
+subdural hematoma who was subsequently discharged to home
+neurologically intact the following day. The patient experienced
+a fall last night and is now experiencing new gait instability,
+difficulty with ambulation and weakness. He presented to the ED
+at ___ and underwent a CT of the head which showed a
+slight increase in his bilateral subacute on chronic SDH. He was
+transferred to the ED at ___ for further evaluation.
+
+Of note, the patient initially fell while in ___ in ___ 
+and
+was reportedly found to have a right sided SDH. He was taking
+Aspirin and Warfarin for Afib. These medications were stopped
+after this fall. He underwent a scheduled follow-up CT head on
+___ which demonstrated an increase in the size of the right
+SDH and a new subacute on chronic left SDH. He was transferred
+here for further evaluation and admitted to the Neurosurgery
+service. Dr. ___ bilateral burr holes drainage of
+the bilateral SDHs, but the patient's family declined as he was
+neurologically intact on examination. He was discharged to home
+the following day on ___.
+
+The patient denies dizziness, confusion, diplopia, blurred
+vision, nausea, vomiting, fever, chills, chest pain, shortness 
+of
+breath, or paresthesias of the extremities. He endorses gait
+instability, unsteady ambulation and weakness of the right arm
+and leg. He also notes difficulty with fine motor tasks of his
+right hand. 
+
+ 
+Past Medical History:
+- atrial fibrillation
+- hypertension
+- obstructive sleep apnea
+- status post bilateral cataract surgery ___ years ago
+- status post hernia surgery approximately ___ years ago
+- status post pacemaker placement approximately ___ years ago
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+ON ADMISSION
+============
+T: 98.3  BP: 168/105  HR: 60    RR: 24  O2Sats 97% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 2.5mm-2mm bilaterally.  EOMs intact throughout. 
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person and date. When asked what the
+location was, he replied "the ___."
+Language: Speech fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested.
+II: Pupils equally round and reactive to light, 2.5mm to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline with slight deviation to the left. 
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout in the left upper 
+and
+lower extremity. Right pronation, no drift. 
+RUE: Trap 5, Delt 5, Bi 5-, Tri 4+, Grip 5-
+RLE: IP 3, Q 3, H 4+, ___ 4, Gastroc 4, AT 4
+
+Sensation: Intact to light touch bilaterally.
+
+Handedness: Right
+
+ON DISCHARGE
+============
+Exam:
+
+Opens eyes: [x]ontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  Right 3-2mm     Left 3-2mm
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+ 
+Pertinent Results:
+See OMR
+ 
+Brief Hospital Course:
+#Subdural hematoma with cerebral compression
+Mr. ___ is an ___ year old male who re-presents to the 
+neurosurgery service after multiple falls in he setting of 
+chronic SDH.  He had previously declined surgery for cSDH. On 
+the day of admission, he was admitted to the ___ but boarded in 
+Neuro ICU due to lack of NIMU beds. On ___, he was taken to the 
+OR for bilateral burr holes for subdural hematoma evacuation.  
+His operative course was uncomplicated; see OMR for full details 
+of procedure. 2 JPdrains were left in place to bulb suction 
+which were removed on POD#2. His neurologic exam was improved 
+postoperatively. NCHCT on ___ was stable. Subdural drains were 
+removed on POD#3; post-pull CT was stable.  The patient was 
+evaluated by ___ who recommended discharge home with services. He 
+was discharged home in stable condition.
+ 
+Medications on Admission:
+Lisinopril 10mg PO daily 
+Aspirin 81mg PO daily, has not taken since fall in
+mid ___
+Warfarin, unknown dose, by mouth, unknown frequency, has not
+taken since fall in mid ___
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate  
+2.  Docusate Sodium 100 mg PO BID  
+3.  LevETIRAcetam 750 mg PO BID 
+RX *levetiracetam 750 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*10 Tablet Refills:*0 
+4.Rolling Walker
+Dx: Subdural hematoma
+___: 13 months
+Ppx: Good
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Bilateral subdural hematoma with cerebral compression
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Surgery
+• You underwent a surgery called bilateral burr holes to have 
+blood removed from your brain. 
+• Please keep your sutures or staples along your incision dry 
+until they are removed.
+• It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+• Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+• We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+• You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+• No driving while taking any narcotic or sedating medication. 
+• If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+• No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+• Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+• You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+• You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+• You may have difficulty paying attention, concentrating, and 
+remembering new information.
+• Emotional and/or behavioral difficulties are common. 
+• Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+• You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+• You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+• Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+• Headache is one of the most common symptoms after a brain 
+bleed. 
+• Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+• Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+• There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+• Severe pain, swelling, redness or drainage from the incision 
+site. 
+• Fever greater than 101.5 degrees Fahrenheit
+• Nausea and/or vomiting
+• Extreme sleepiness and not being able to stay awake
+• Severe headaches not relieved by pain relievers
+• Seizures
+• Any new problems with your vision or ability to speak
+• Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+• Sudden numbness or weakness in the face, arm, or leg
+• Sudden confusion or trouble speaking or understanding
+• Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+• Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

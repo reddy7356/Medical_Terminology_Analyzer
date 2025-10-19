@@ -1,0 +1,971 @@
+===== DISCHARGE NOTE =====
+note_id=13137769-DS-6 | hadm_id=24990135
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Pt is an ___ y/o M with PMHx of COPD, BPH, spinal stenosis, as 
+well as recurrent UTI (2 recent admissions for UTI), here with 
+altered mental status at home. Of note, at the time of my 
+interview, pt is somewhat confused about how he got to the 
+hospital, so history is somewhat limited.
+
+Pt was recently admitted to ___ ___ and ___ with 
+UTI. He was recently treated with zosyn, which he completed 
+approximately 1 week ago. Pt had been discharged to rehab but 
+has since gone home. He reports doing well at home until the 
+night prior to presentation. That night, he awoke to urinate; 
+however, he had an episode of urinary incontinence prior to 
+arriving in the bathroom. He also endorses a mechanical fall on 
+his way to the bathroom (slid to the ground while having trouble 
+navigating his walker, no head strike, no LOC, no prodromal 
+symptoms). He reports that EMS was called, helped him up, but 
+did not bring him to the hospital at that time.
+
+The events of the morning of presentation are unclear to the 
+patient, however. Per ED report, he noted to be disoriented at 
+home. 
+
+ED Course:
+Initial VS: 99.8 120 183/83 18 87% RA Pain 
+Labs significant for Cr 1.6 (baseline 1.0)
+Imaging: CXR with bibasilar atelectasis (per prelim read)
+Meds given:
+-Albuterol 0.083% Neb Soln 0.083% 
+-Ipratropium Bromide Neb 
+-Acetaminophen (Rectal) 650mg Supp 
+-Albuterol 0.083% Neb Soln 0.083% 
+-Ipratropium Bromide Neb 
+-Ceftriaxone (Mini Bag Plus) 
+-Vancomycin 1g 
+-Azithromycin 500 mg 
+VS prior to transfer: 99.7 ___ 16 96% Nasal Cannula  Pain 
+___
+
+Spiked temp to 104.6 in the ED. He was also noted to have a 
+cough and to be hypoxic. Initial ED read of the CXR was also 
+concerned for multifocal PNA, for which abx were started.
+
+On arrival to the floor, the patient reports feeling mildly 
+lightheaded. He endorses chronic dyspnea, but feels that his 
+breathing is below baseline currently. He also reports a dry 
+cough which he first noted today. Denies any F/C.
+
+ROS: As above. Denies headache, sore throat, sinus congestion, 
+chest pain, heart palpitations, nausea, vomiting, diarrhea, 
+constipation, muscle or joint pains, focal numbness or tingling, 
+skin rash. The remainder of the ROS was negative.
+
+ 
+Past Medical History:
+BPH
+HTN
+Carotid artery disease 
+Severe COPD
+Lumbar facet arthropathy
+Spinal Stenosis
+Mild cognitive impairment
+Osteoporosis 
+Neuropathy
+Anemia
+Stroke -> on med rec, but pt and wife unaware
+
+ 
+Social History:
+___
+Family History:
+Mother died of heart disease.
+
+ 
+Physical Exam:
+VS - 98.3 90/54 85 20 93%5L Pain ___
+GEN - Alert, NAD
+HEENT - NC/AT, dry MM
+NECK - Supple, no JVD
+CV - Faint HS difficult to appreciate over lung sounds
+RESP - Rhonchorous (more so on the right)
+ABD - S/NT/ND, BS present
+EXT - No ___ edema or calf tenderness
+SKIN - No apparent rashes
+NEURO - Alert, Oriented x 3, Non-focal
+PSYCH - Calm, appropriate
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 06:10PM BLOOD WBC-6.7 RBC-4.67 Hgb-12.8* Hct-40.7 
+MCV-87 MCH-27.3 MCHC-31.3 RDW-14.3 Plt ___
+___ 06:10PM BLOOD Neuts-78.2* Lymphs-15.5* Monos-5.3 
+Eos-0.3 Baso-0.7
+___ 06:10PM BLOOD Glucose-100 UreaN-22* Creat-1.6* Na-141 
+K-4.2 Cl-106 HCO3-23 AnGap-16
+
+Discharge Labs:
+___ 06:40AM BLOOD WBC-7.7# RBC-4.06* Hgb-11.1* Hct-34.6* 
+MCV-85 MCH-27.4 MCHC-32.1 RDW-14.2 Plt ___
+___ 06:40AM BLOOD Glucose-79 UreaN-16 Creat-1.1 Na-140 
+K-4.1 Cl-106 HCO3-25 AnGap-13
+___ 06:40AM BLOOD Calcium-9.2 Phos-3.2 Mg-2.0
+
+Urinalysis:
+___ 06:35AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 06:35AM URINE Blood-MOD Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+___ 06:35AM URINE ___ Bacteri-MOD Yeast-NONE 
+___
+
+___ 6:35 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML.. 
+         CIPROFLOXACIN AND  Piperacillin/Tazobactam sensitivity 
+testing
+         performed by ___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------       S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------   <=1 S
+
+Blood Cx PENDING x 2
+
+ECG (___) - Sinus tachycardia with first degree A-V delay. Low 
+limb lead voltage. Non-specific anterolateral ST-T wave changes. 
+Compared to the previous tracing of ___ the heart rate has 
+increased. Lateral ST-T wave changes are new but are 
+non-specific.  
+
+CXR (___) - IMPRESSION:  Mild basilar atelectasis without 
+definite focal consolidation.  If high clinical concern for 
+consolidation, consider dedicated PA and lateral views when 
+patient able. 
+
+Prostate U/S (___) - IMPRESSION:  No evidence of prostatic 
+abscess. 
+
+Kidney U/S (___) - IMPRESSION:  Bilateral simple renal cysts. 
+No evidence of abscess. 
+
+CT Chest (___) - IMPRESSION:  
+1. Multiple pulmonary nodules and a left apical nodular opacity. 
+Recommend 3 month followup CT for further evaluation. 
+2.  Evidence of resolving prior right lower lobe pneumonia. 
+3.  Moderate centrilobular emphysema. 
+
+CXR PA/LAT (___) - IMPRESSION:    
+Hyperinflated lungs without definite signs of pneumonia. 
+Possible small basilar pleural effusions versus pleural 
+thickening. 
+ 
+Brief Hospital Course:
+# SIRS: Due to pseudomonas UTI.  Third pseudomonas UTI in two 
+months.  No evidence of abscess on imaging.  Likely has some 
+component of chronic urinary retention, +/- neurogenic bladder.  
+Will need close outpatient urology follow up for urodynamic 
+testing.  Continued Flomax to help manage BPH.  Cultures 
+ultimately grew pan-sensitive pseudomonas (see above).  After 
+discussing with ID, pt was transitioned to ciprofloxacin for ___OPD: Continued on albuterol/ipratropium nebs prn.  Continued 
+Advair, Spiriva.  Of note, pt did have some episodes of hypoxia, 
+which resolved with deep breathing.  CXR x 2 without evidence of 
+acute process.
+
+# Hypertension: Pt was continued on amlodipine.
+
+# BPH: Pt was continued on tamsulosin.  Will need to follow-up 
+with urology as above.
+
+# Lumbar spinal Stenosis s/p laminectomy with resultant 
+bilateral foot drop- Lyrica and Percocet for pain control
+
+# Lung Nodules - See CT read above. Repeat CT chest recommended 
+in 3 months.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+2. Alendronate Sodium 70 mg PO WEEKLY 
+3. Amlodipine 5 mg PO DAILY 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Fluoxetine 10 mg PO DAILY 
+7. Fluticasone Propionate NASAL 1 SPRY NU BID 
+8. Multivitamins 1 TAB PO DAILY 
+9. Omeprazole 40 mg PO DAILY 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Pregabalin 100 mg PO TID 
+12. Senna 8.6 mg PO BID:PRN Constipation 
+13. Tamsulosin 0.4 mg PO HS 
+14. Tiotropium Bromide 1 CAP IH DAILY 
+15. Vitamin B Complex 1 CAP PO DAILY 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. Aspirin 81 mg PO DAILY 
+18. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+19. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+20. Ipratropium Bromide MDI 2 PUFF IH QID 
+21. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+22. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+3. Amlodipine 5 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Cyanocobalamin 1000 mcg PO DAILY 
+6. Docusate Sodium 100 mg PO BID 
+7. Fluoxetine 10 mg PO DAILY 
+8. Fluticasone Propionate NASAL 1 SPRY NU BID 
+9. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+10. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+11. Polyethylene Glycol 17 g PO DAILY 
+12. Pregabalin 100 mg PO TID 
+13. Senna 8.6 mg PO BID:PRN Constipation 
+14. Tamsulosin 0.4 mg PO HS 
+15. Tiotropium Bromide 1 CAP IH DAILY 
+16. Vitamin B Complex 1 CAP PO DAILY 
+17. Vitamin D 1000 UNIT PO DAILY 
+18. Alendronate Sodium 70 mg PO WEEKLY 
+19. Ipratropium Bromide MDI 2 PUFF IH QID 
+20. Multivitamins 1 TAB PO DAILY 
+21. Omeprazole 40 mg PO DAILY 
+22. Ciprofloxacin HCl 500 mg PO Q12H 
+To complete a total ___nding on ___. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+Pseudomonas UTI
+COPD
+lumbar spinal stenosis s/p laminectomy
+neuropathy
+BPH
+? neurogenic bladder
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You were admitted to the hospital with another bladder 
+infection.  You improved with antibiotics.  This is the third 
+bladder infection in the past two months.  Your bladder likely 
+does not empty completely, which a risk factor for recurrent 
+bladder infections.  It is important that you follow up with 
+your urologist after discharge for additional evaluation.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13137769-DS-4 | hadm_id=25455689
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain/weakness
+ 
+Major Surgical or Invasive Procedure:
+NG tube
+EGD
+
+ 
+History of Present Illness:
+The patient is an ___ year old male with h/o spinal stenosis, 
+COPD
+here with weakenss, R hip pain, incontinence and decreased po
+intake and altered mental status. Febrile in ED 102.4. UA
+positive for UTI thus admitted. In ED per ___ pt able to ambulate
+thus not concerned for acute spine nor hip pathology. 
+Given ceftriaxone, APAP and 2L NS in ED. 
++ cough x 1- ___ years productive of yellow phlegm
++ constipation
+The symptom that alarmed him the most was his decreased 
+mobility.
+His dtr called the ambulance.
+ 
+Past Medical History:
+PROSTATIC HYPERTROPHY - BENIGN 
+HYPERTENSION - ESSENTIAL 
+SPINAL STENOSIS - LUMBAR 
+CUBITAL CANAL COMPRESSION-R 
+SYNCOPE 
+NEUROPATHY - PERIPH, UNSPEC 
+STROKE, UNSPEC 
+Osteoporosis 
+History of colonoscopy with polypectomy 
+OPIOID AGREEMENT 
+Tobacco abuse 
+Carotid artery disease 
+Anemia 
+ENROLLED - CKD OUTREACH PROG MAILINGS (NOT DX FOR PROB LIST 
+ONLY)
+
+Advance directive in chart 
+Mild cognitive impairment 
+COPD, severe 
+ENROLLED - PRIMARY CARE CASE MANAGEMENT (PCCM) (NOT DX, FOR PROB
+LIST ONLY) 
+Lumbar facet arthropathy 
+ 
+Social History:
+___
+Family History:
+AMILY HISTORY:
+Both of his parents died of heart disease.
+ 
+Physical Exam:
+PHYSICAL EXAM: 
+VITAL SIGNS:
+98.9, 156/94, 103, 20. 94% on RA 
+PAIN SCORE ___ in hands
+GENERAL:  elderly male laying in bed, pleasant, lucid when he is
+awake but keeps falling asleep. 
+Grooming: poor
+Mentation: inattentive  
+2. Eyes: [] WNL 
+4-> 3 mm barely reactive
+EOMI without nystagmus, Conjunctiva: clear
+3. ENT [] WNL
+[] Moist  [] Endentulous  [] Ulcers  [] Erythema  [] JVD ____ cm
+[X] Dry  [] Poor dentition  [] Thrush  [] Swelling  [] Exudate
+4. Cardiovascular [X] WNL
+[X] Regular  [] Tachy  [x] S1 [X] S2 [] Systolic Murmur     /6,
+Location:
+[] Irregular  []Brady []S3  [] S4  [] Diastolic Murmur    /6,
+Location:
+[X] Edema RLE  None 
+[X] Edema LLE None 
+1+ DPP b/l
+[] Vascular access  [X] Peripheral [] Central site:
+5. Respiratory [ ]
+Diminished breath sounds throughout but clear
+6. Gastrointestinal [ ] WNL
+[X] Soft [-] Rebound [] No hepatomegaly  [] Non-tender [] Tender
+[] No splenomegaly
+[] Non distended  [] distended  [] bowel sounds Yes/No  []
+Rectal:no stool appreciated at finger tip when rectal tone
+assessed.
+7. Musculoskeletal-Extremities [] WNL
+___ strength in b/l upper and lower extremities
+Preserved rectal tone
+No saddle anesthesia
+8. Neurological [] WNL
+[ X] Alert and Oriented x 1 [ ] Romberg: Positive/Negative  [ X]
+CN II-XII intact  [ ] Normal attention  [ ] FNF/HTS WNL []
+Sensation WNL  [ +] Delirious/confused  [ ] Asterixis
+Present/Absent  [ ] Position sense WNL
+[ ] Demented  [ ] No pronator drift  [] Fluent speech
+9. Integument  [X] WNL
+[x] Warm  [x] Dry  [] Cyanotic [] Rash:
+none/diffuse/face/trunk/back/limbs  
+
+12. Genitourinary [] WNL
+
+Discharge exam:
+Tmax 99.2  97.9  Tc afeb 119/72 HR 85 RR 16 94%RA
+General:  in NAD, lying in bed.
+HEENT:  OP moist, no LAD.
+Lungs lungs without crackles, no wheezes.
+CV RRR without murmurs
+Abdomen soft, slightly distended.  
+Ext:  no edema
+Neuro:  alert/oriented X3, answering all questions appropriately
+
+ 
+Pertinent Results:
+___ 08:46PM URINE  HOURS-RANDOM
+___ 08:46PM URINE  HOURS-RANDOM
+___ 08:46PM URINE  UHOLD-HOLD
+___ 08:46PM URINE  GR HOLD-HOLD
+___ 08:46PM URINE  COLOR-Straw APPEAR-Hazy SP ___
+___ 08:46PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-LG
+___ 08:46PM URINE  RBC-1 WBC-66* BACTERIA-FEW YEAST-NONE 
+EPI-<1
+___ 06:50PM   GLUCOSE-114* UREA N-19 CREAT-1.3* SODIUM-136 
+POTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-24 ANION GAP-14
+___ 06:50PM   estGFR-Using this
+___ 06:50PM   WBC-13.6* RBC-5.55 HGB-15.5 HCT-48.5 MCV-87 
+MCH-28.0 MCHC-32.0 RDW-13.6
+___ 06:50PM   NEUTS-87.5* LYMPHS-7.0* MONOS-3.8 EOS-1.1 
+BASOS-0.5
+___ 06:50PM   PLT COUNT-193
+
+CXR on admission:
+IMPRESSION:
+1.  Generalized interstitial abnormality bilaterally may reflect 
+history of COPD. There is no convincing evidence of pneumonia.
+2.  Apparent widening of the mediastinum is likely artifactual 
+due to lordoticpositioning.  
+.
+CXR ___:
+IMPRESSION:  
+  
+As compared to the previous radiograph, the nasogastric tube has 
+been removed. The stomach is moderately overinflated. The size 
+of the cardiac silhouette is normal. There is moderate 
+tortuosity of the thoracic aorta. Unchanged appearance of the 
+lung parenchyma, without evidence of pneumonia, pulmonary edema 
+or larger pleural effusions. 
+
+URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML.. 
+      BETA STREPTOCOCCUS GROUP B.    >100,000 ORGANISMS/ML.. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------     2 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------   <=___bdominal CT scan ___:
+
+1. Markedly distended stomach with appearance concerning for a 
+gastric outlet obstruction. There is a transition at the level 
+of the junction of the first and second portions of the 
+duodenum. However, no underlying mass or inflammatory process is 
+identified in this area to explain the gastric 
+distension. Further evaluation with endoscopy should be 
+considered. 
+2. Multiple bilateral lower lobe pulmonary nodules, largest in 
+the right lower lobe measuring up to 1.1 cm in size with a 
+concerning appearance. Further evaluation with dedicated chest 
+CT is recommended to image the remainder of the chest. 
+
+EGD: 
+Friability and erythema in the fundus
+Small amount of retained food particles in stomach.
+The gastroscope passed easily into the stomach and into duodenum 
+through D3.
+Photographs not captured because of equipment malfunction.
+Otherwise normal EGD to third part of the duodenum
+
+Discharge labs:
+
+___ 01:45AM BLOOD WBC-8.3 RBC-4.73 Hgb-13.5* Hct-40.2 
+MCV-85 MCH-28.4 MCHC-33.5 RDW-13.6 Plt ___
+___ 01:00AM BLOOD Glucose-94 UreaN-17 Creat-1.1 Na-141 
+K-3.8 Cl-104 HCO3-28 AnGap-13
+___ 05:20AM URINE Hours-RANDOM UreaN-218 Creat-26 Na-67 
+K-10 Cl-54
+ 
+Brief Hospital Course:
+Pt is a ___ y.o male with h.o COPD, spinal stenosis, BPH, CAD who 
+presents with weakness, confusion, and incontinence, found to 
+have UTI, hospitalization complicated by gastric outlet 
+obstruction as well as acute encephalopathy.
+
+Acute Issues:
+#Sepsis due to urinary tract infection, with associated acute 
+encephalopathy -likely accounted for weakness, confusion, 
+incontinence. Pt was initially given IV ceftriaxone which was 
+converted to PO cipro after culture returned with pan sensitive 
+pseudomonas. Foley placed given PVR ~600 and pt unable to void. 
+Plan to tx for complicated UTI for one week, s/p treatment..  
+
+#urinary incontinence and urinary retention with h.o 
+BPH-retention likely due to BPH, incontinence likely due to 
+overflow and UTI. We placed a foley and started flomax. He will 
+need a voiding trial at rehab and  Urology f/u as outpt.  
+
+#gastric outlet obstruction- He developed nausea on HD #3, and 
+was found to have a gastric outlet obstruction.  Symptoms were 
+alleviated by NG tube for 8 hours, he refused longer.  He 
+underwent CT to evaluate the cause, with no mass identified, and 
+EGD with free passage of the scope into the duodenum.  The 
+etiology of the obstruction was unclear, but he was 
+symptomatically improved, tolerating a low residue diet.  He 
+should have GI follow up to further evaluate both for symptoms 
+and the cause.
+
+Hypertension:  Noted to have hypertension, and started 
+amlodipine.  Further review of records reveal orthostasis, and 
+amlodipine will be discontinued at discharge.
+
+Chronic issues:
+#hyperlipidemia-continued statin.
+
+#neuropathy/chronic pain-oxycodone and lyrica restarted as 
+mental status improved
+
+#COPD/chronic bronchitis-no acute flare. Continue outpt 
+spiriva/inhalers.  HE did have episode of hypoxia, improved 
+without intervention, with no findings on chest xray.
+
+#GERD-PPI
+.
+Transitional issues:
+GI follow for gastric outlet obstruction
+Chest CT for lung nodules, discussed with PCP (already known 
+with review of Atrius records)
+Voiding trial, urology follow up
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alendronate Sodium 70 mg PO Frequency is Unknown 
+2. Vitamin D 1000 UNIT PO DAILY 
+3. Cyanocobalamin 1000 mcg PO DAILY 
+4. Fluoxetine 10 mg PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NU BID 
+6. Pregabalin 50 mg PO TID 
+7. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+8. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation daily 
+9. Omeprazole 40 mg PO DAILY 
+10. Tiotropium Bromide 1 CAP IH DAILY 
+11. Ipratropium Bromide MDI 2 PUFF IH QID 
+12. Vitamin B Complex 1 CAP PO DAILY 
+13. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+14. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+15. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. Ipratropium Bromide MDI 2 PUFF IH QID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 40 mg PO DAILY 
+7. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+8. Pregabalin 50 mg PO TID 
+9. Tiotropium Bromide 1 CAP IH DAILY 
+10. Vitamin B Complex 1 CAP PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+13. Alendronate Sodium 70 mg PO WEEKLY 
+14. Fluoxetine 10 mg PO DAILY 
+15. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation daily 
+16. Docusate Sodium 100 mg PO BID 
+17. Polyethylene Glycol 17 g PO DAILY 
+18. Tamsulosin 0.4 mg PO HS 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+urinary tract infection
+urinary retention
+acute encephalopathy
+gastric outlet obstruction
+
+ 
+Discharge Condition:
+Mental Status: Conclear
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Catheter in place - should have voiding trial.
+
+ 
+Discharge Instructions:
+You were admitted with weakness, incontinence and nausea. You 
+were found to have a UTI and were given antibiotics with 
+improvement in your symptoms. You were retaining urine in your 
+bladder and had foley catheter placed. You also likely have a 
+viral infection and were treated supportively. You were 
+evaluated by physical therapy who recommended rehab after 
+discharge.
+.
+Your blood pressure ran high, as it does at home - but we will 
+not treat you with anything to avoid low blood pressures.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13137769-DS-5 | hadm_id=29788602
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amitriptyline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+___ Line Placement ___
+
+ 
+History of Present Illness:
+___ y/o M w/ PMH of BPH, HTN, spinal stenosis, and severe COPD 
+who presents after being at home this AM with his wife and home 
+care taker stating that the pt suddenly appeared pale while 
+sitting at the breakfast table and looked dazed. Would respond 
+to questions w/ simple response, but denies pt having 
+syncopized. No apparent neurologic deficits or bowel 
+incontinence (has foley chronically for bladder). Episode lasted 
+about ___ minutes. Pt cannot recollect events but reports 
+coming back to normal while in the ambulance. While there, EMS 
+reported his BP to be 70 over palp with improvement noted when 
+he presented to our ED. Denies any trigger event with no 
+f/c/s/n/v. He does report that the day prior to notice some 
+penile irritation that is new. No back pain from his baseline.
+
+In the ED, initial VS were 0 97.5 66 100/60 20 96% 3L.
+
+Labs were notable for normal CBC, lactate, Cr 1.5, UA WBC >182, 
+prot 600, RBC 25. Blood and urine cultures were sent.
+
+Received IV cefepime.
+
+CXR was notable for no acute process.
+
+Admitted to medicine for further management. 
+
+On arrival to the floor, patient reports no specific complaints 
+and feels to baseline.
+
+ 
+Past Medical History:
+BPH
+HTN
+Carotid artery disease 
+Severe COPD
+Lumbar facet arthropathy
+Spinal Stenosis
+Mild cognitive impairment
+Osteoporosis 
+Neuropathy
+Anemia
+Stroke -> on med rec, but pt and wife unaware
+
+ 
+Social History:
+___
+Family History:
+Both of his parents died of heart disease.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS - 97.8 168/78 84 20 99/RA
+General: Elderly male, lying in bed in NAD
+HEENT: NC/AT
+Neck: Supple
+CV: RRR, no m/r/g
+Lungs: CBAT
+Abdomen: Soft, NT/ND, +BS, no HSM, no CVA tenderness
+GU: Foley in place
+Ext: No c/c/e
+Neuro: PERRL, CNII-XII intact, ___ ___, sensation equal 
+throughout
+Skin: On the L posterior back is a large palm sized, soft mass 
+that appears c/w possible lipoma, numerous dysplastic appearing 
+nevi
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS - 98.6 130-150s/70-90s (154/81) 70-100s (73) 16 97/RA
+General: Elderly male, sitting up in bed in NAD
+HEENT: NC/AT
+Neck: Supple
+CV: RRR, no m/r/g
+Lungs: CBAT
+Abdomen: Soft, NT/ND, +BS, no HSM, no CVA tenderness
+GU: No foley
+Ext: No c/c/e
+Neuro: CNII-XII grossly intact
+Skin: On the L posterior back is a large palm sized, soft mass 
+that appears c/w possible lipoma, numerous dysplastic appearing 
+nevi
+ 
+Pertinent Results:
+LABS:
+=====
+___ 06:00AM BLOOD WBC-5.5 RBC-4.68 Hgb-12.7* Hct-40.3 
+MCV-86 MCH-27.1 MCHC-31.5 RDW-13.5 Plt ___
+___ 06:25AM BLOOD WBC-6.2 RBC-4.81 Hgb-12.9* Hct-41.6 
+MCV-87 MCH-26.8* MCHC-30.9* RDW-13.6 Plt ___
+___ 06:00AM BLOOD WBC-7.9 RBC-4.67 Hgb-12.9* Hct-41.0 
+MCV-88 MCH-27.5 MCHC-31.4 RDW-13.7 Plt ___
+___ 11:00AM BLOOD WBC-10.0 RBC-4.73 Hgb-12.8* Hct-42.4 
+MCV-90 MCH-27.0 MCHC-30.1*# RDW-13.5 Plt ___
+___ 06:00AM BLOOD Glucose-85 UreaN-14 Creat-1.4* Na-142 
+K-4.3 Cl-107 HCO3-24 AnGap-15
+___ 06:25AM BLOOD Glucose-77 UreaN-12 Creat-1.0 Na-141 
+K-4.0 Cl-107 HCO3-24 AnGap-14
+___ 06:00AM BLOOD Glucose-82 UreaN-14 Creat-1.1 Na-141 
+K-4.2 Cl-109* HCO3-21* AnGap-15
+___ 11:00AM BLOOD Glucose-139* UreaN-16 Creat-1.5* Na-142 
+K-4.3 Cl-107 HCO3-25 AnGap-14
+___ 11:08AM BLOOD Lactate-1.0
+
+IMAGING:
+========
+EKG (___)
+Sinus rhythm. Compared to the previous tracing of ___ the 
+rate is slower.  
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+75 220 86 398/424 21 15 11 
+ 
+CXR (___):
+IMPRESSION:  Low lung volumes with no acute cardiopulmonary 
+process.
+
+CXR (___):
+IMPRESSION:  
+Right PICC tip is in thecavoatrial junction. Cardiac size is 
+normal.  The 
+aorta is elongated The lungs are clear.  There is no 
+pneumothorax or left 
+pleural effusion.   Of note the right CP angle was not included 
+in these exam. 
+
+Renal US (___):
+FINDINGS:  
+The right kidney measures 9.4 cm. The left kidney measures 9.9 
+cm. There is no hydronephrosis. No stone or suspicious solid 
+mass is seen in either kidney.  A simple cyst is seen in the 
+right kidney measuring 2.1 x 2.1 x 1.9 cm. A simple partially 
+exophytic cyst is seen in the left kidney measuring 2.5 x 2.7 x 
+2.5 cm. Normal cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally.  No perinephric fluid 
+collection is identified. 
+  
+The bladder is moderately well seen and normal in appearance. 
+  
+IMPRESSION:  
+No abscess and no hydronephrosis identified. Simple bilateral 
+renal cysts are incidentally noted. 
+
+ 
+Brief Hospital Course:
+___ y/o M w/ PMH of BPH, HTN, spinal stenosis, and severe COPD 
+who presents for AMS in setting of low BP.
+
+ACTIVE ISSUES:
+==============
+# Pre-syncope
+AMS described as period being "dazed" without neurologic deficit 
+in context of a transiently low BP when assessed by EMS. 
+Initially orthostatic on admission, improved s/p IVF. No reports 
+of true syncope. No e/o to suggest stroke/TIA or seizures. 
+Dehydration and low BPs likely driven by UTI, described below. 
+Pt otherwise improved with no further symptoms and no events on 
+telemetry.
+
+# Complicated UTI w/ Pseudomonas
+Grew cipro resistant pseudomonas in setting of foley 
+catheterization pt has had since last admission. Previously 
+treated with cipro for 1 week before present presentation. Also 
+grew Enteroccous though low colony. Predisposed to infection 
+given had chronic foley due to urinary obstruction since last 
+discharge. Foley was removed with replacement held given pt 
+passing voiding trial. Pt was otherwise without fevers, white 
+count or CVA tenderness on admission. Renal US normal without 
+abscess. Originally treated with cefepime for a 14d course 
+(___) based on sensitivities but transitioned to Zosyn 
+once enterococcus grew out that was ampicillin resistance to 
+allow for administration of single IV antibiotic. Last dose of 
+antibiotic for course to be ___, allowing for sufficient 
+coverage for enterococcus. Recommend continued follow-up of UA 
+and UCx upon completion of antibiotic therapy.
+
+# ___ 0.35% on admission suggestive of pre-renal etiology due to 
+UTI. Improved renal fxn to baseline after IVF. Renal US was 
+normal.
+
+# Urinary Obstruction
+Since prior admission, plan to f/u w/ urology this week for 
+further studies at ___. No evidence of re-obstruction after 
+voiding trial was performed. Continued on tamulosin with plan 
+for outpatient f/u with urology as planned.
+
+# HTN
+Elevated on admission with readings consistently >160, 
+uptitrated amlodipine from 2.5mg to 5mg with continued 
+optimization as an outpatient.
+
+TRANSITIONAL ISSUES:
+====================
+- Continue IV Zosyn for 14 day course ___, stop ___ 
+via PICC (changed from cefepime to zosyn to cover both 
+Pseudomonas and Enteroccocus)
+- Please check UA and Urine Culture after completion of 
+antibiotics to ensure clearance of infection
+- Please check Cr on ___ to ensure renal function still 
+stable, may need dose adjustment of zosyn as needed
+- Ensure follow-up with urology since had issues with urinary 
+obstruction w/ f/u arranged at ___
+- Needs continue optimization of blood pressure, just changed 
+from 2.5mg to 5mg of amlodipine on ___ need further 
+increase of medications
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. Ipratropium Bromide MDI 2 PUFF IH QID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 40 mg PO DAILY 
+7. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+8. Pregabalin 100 mg PO TID 
+9. Tiotropium Bromide 1 CAP IH DAILY 
+10. Vitamin B Complex 1 CAP PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+13. Alendronate Sodium 70 mg PO WEEKLY 
+14. Fluoxetine 10 mg PO DAILY 
+15. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation daily 
+16. Docusate Sodium 100 mg PO BID 
+17. Polyethylene Glycol 17 g PO DAILY 
+18. Tamsulosin 0.4 mg PO HS 
+19. Amlodipine 2.5 mg PO DAILY 
+20. Senna 8.6 mg PO BID:PRN Constipation 
+21. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+2. Alendronate Sodium 70 mg PO WEEKLY 
+3. Amlodipine 5 mg PO DAILY 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Fluoxetine 10 mg PO DAILY 
+7. Fluticasone Propionate NASAL 1 SPRY NU BID 
+8. Multivitamins 1 TAB PO DAILY 
+9. Omeprazole 40 mg PO DAILY 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Pregabalin 100 mg PO TID 
+12. Senna 8.6 mg PO BID:PRN Constipation 
+13. Tamsulosin 0.4 mg PO HS 
+14. Tiotropium Bromide 1 CAP IH DAILY 
+15. Vitamin B Complex 1 CAP PO DAILY 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. Aspirin 81 mg PO DAILY 
+18. Piperacillin-Tazobactam 4.5 g IV Q8H 
+STOP ON ___ 
+19. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+20. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+21. Ipratropium Bromide MDI 2 PUFF IH QID 
+22. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+23. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Acute Kidney Injury
+Urinary Obstruction
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you were confused with 
+dehydration and low blood pressure. This was likely caused by 
+your urinary tract infection with a bacteria called pseudomonas 
+that became resistant to the medication you were taking before. 
+As a result, your antibiotic was changed and had a PICC line 
+placed to get it intravenously. You will continue the 
+antibiotics for a total of 14 days.
+
+Please make sure you follow-up with your primary care doctor 
+___ after leaving the hospital. He will make sure your labs 
+are normal and, at the end of the antibiotics, make sure you 
+cleared your infection.
+
+You should also continue to follow-up with your urologist at 
+___ to manage your urinary obstruction.
+
+Take care.
+
+- Your ___ Team
+ 
+Followup Instructions:
+___

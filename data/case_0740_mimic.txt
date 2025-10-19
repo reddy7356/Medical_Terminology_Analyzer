@@ -1,0 +1,1136 @@
+===== DISCHARGE NOTE =====
+note_id=19349174-DS-12 | hadm_id=24619169
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+EtOH Withdrawal.
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of EtOH 
+abuse complicated by withdrawal seizures in the past who 
+presented to ___ for acute alcohol withdrawal. While 
+there, she was given 20 mg IV valium, 2 mg IV ativan x 2, IVF, 
+and K/Mg repletion. Patient had improvement in HR, but felt that 
+she warranted ICU admission so she was transferred to ___ 
+given they had no further ICU beds. Additionally, she was noted 
+to have a QTc of 600 which they were concerned about as well.  
+
+In the ___, she was given 10 mg diazepam and 2mg lorazepam with 
+good effect. Initial vitals were 97.8 117 144/99 22 99%. An EKG 
+was performed which showed sinus tach @ rate 103, normal axis, 
+mildly prolonged QTc (457) without ST-T wave changes. CIWA in ___ 
+___. She was admitted to medicine for further evaluation.
+
+On the floor, initial vitals were: 98.3 130/86 107 18 97% RA. 
+
+Patient states that her last drink was 2PM yesterday. She 
+typically drinks ___ of a fifth of vodka per day. Though also 
+somestimes between ___ nips per day. She has been hospitalized 
+at least 3 times in he last year, but not sinec ___. She 
+states that he drinking slowed down after her admission ___ 
+and she had only been drinking about ___ drinks per night until 
+a few weeks ago. She has had significant family stressors 
+recently (father an alcoholic, financial stress), which caused 
+her drinking to increase. Has attended AA meetings in the past, 
+but felt that they were not particualrly helpful. She found that 
+seeing a counselor was helpful, but has been having trouble 
+seeing the counselor recently due to insurance issues. She has 
+had issues with alcohol for the last ___ years. 
+ 
+Past Medical History:
+- Alcohol Abuse complicated by withdrawal seizures and DTs
+- Anxiety
+- Depression, previous suicide attempt > 6 mo ago
+- Optic Neuritis
+ 
+Social History:
+___
+Family History:
+Father alcoholic. Otherwise, NC.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+==================
+VS: 98.3 130/86 107 18 97% RA. 
+GENERAL: Alert, oriented, no acute distress, resting tremor  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: Supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Tachycardic, regular rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: Soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: Warm, dry 
+NEURO: A&Ox3, CN II-XII intact, strength ___ in all four 
+extremities, resting tremor
+
+DISCHARGE PHYSICAL EXAM
+==================
+VS: 98.9 98.9 124/88 85 18 99% RA
+CIWA: ___ 4 3
+GENERAL: Alert, oriented, no acute distress, improved resting 
+tremor  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: Supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: RRR, normal S1 S2, no murmurs, rubs, gallops  
+ABD: Soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: Warm, dry 
+NEURO: A&Ox3, CN II-XII intact, strength ___ in all four 
+extremities, no asterixis
+ 
+Pertinent Results:
+ADMISSION LABS
+===========
+___ 11:30AM BLOOD WBC-7.2 RBC-4.19* Hgb-12.5 Hct-38.1 
+MCV-91 MCH-29.9 MCHC-32.9 RDW-16.6* Plt ___
+___ 11:30AM BLOOD Neuts-74.2* Lymphs-16.6* Monos-8.7 
+Eos-0.2 Baso-0.3
+___ 11:30AM BLOOD Glucose-130* UreaN-7 Creat-0.7 Na-141 
+K-3.4 Cl-98 HCO3-22 AnGap-24*
+___ 11:30AM BLOOD Calcium-8.8 Phos-2.5* Mg-1.8
+
+___ 06:07PM URINE Color-DkAmb Appear-Cloudy Sp ___
+___ 06:07PM URINE Blood-LG Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-2* pH-6.0 Leuks-MOD
+___ 06:07PM URINE RBC->182* WBC-0 Bacteri-FEW Yeast-NONE 
+Epi-0
+
+DISCHARGE LABS
+===========
+___ 06:15AM BLOOD WBC-4.3 RBC-3.69* Hgb-10.9* Hct-32.9* 
+MCV-89 MCH-29.6 MCHC-33.2 RDW-16.7* Plt ___
+___ 06:15AM BLOOD Glucose-72 UreaN-5* Creat-0.6 Na-138 
+K-3.3 Cl-101 HCO3-27 AnGap-13
+___ 06:15AM BLOOD Albumin-3.3* Calcium-8.1* Phos-2.2* 
+Mg-1.5* Iron-166*
+___ 03:30PM BLOOD ___ PTT-30.4 ___
+___ 06:15AM BLOOD ALT-141* AST-403* LD(LDH)-442* AlkPhos-77 
+TotBili-1.5
+___ 06:15AM BLOOD calTIBC-365 VitB12-517 Folate-7.3 
+___ Ferritn-67 TRF-281
+___ 06:15AM BLOOD Ret Aut-1.5
+
+MICRO
+=====
+___ 6:07 pm URINE      Source: ___. 
+
+   URINE CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+ 
+Brief Hospital Course:
+___ PMH alcohol dependance c/b withdrawal seizures and DTs 
+presents with ETOH withdrawal.
+ 
+ACUTE ISSUES
+# ETOH withdrawal: Patient with complicated withdrawal history 
+including seizures. Last drink 2 pm ___. Patient presented to 
+___ with nausea, vomiting, inability to tolerate PO. 
+Patient given multiple doses of IV ativan and diazepam in ___ 
+and subsequently transferred to ___ ___. Upon arrival to the 
+medicine floor, patient placed on CIWA protocol with diazepam 10 
+mg PO Q4H PRN CIWA > 10. She was given IVF, thiamine, folate. 
+Throughout her stay her CIWA scores steadily declined and the 
+patient's symptoms greatly improved. No seizure or other acute 
+withdrawal issues on this admission. She was seen by social work 
+prior to discharge. She plans to re-establish care with her 
+outpatient counselor, who has helped her maintain sobriety in 
+the past. 
+
+# Metabolic acidosis: Patient presented with elevated AG at 20 
+on OSH labs and 21 on ___ admission labs + ketones in urine 
+c/w with alcoholic ketoacidosis. Following IVF resuscitation, AG 
+closed at 10.
+
+# Alcoholic hepatitis: LFTs elevated on OSH labs with 2:1 
+AST:ALT ratio of ~ 300:150. On repeat labs at ___, AST 403 and 
+ALT 141. LFT elevation likely secondary to known alcoholic 
+hepatitis, which is chronic. ___ score was 10 and ___ 
+score was 5; therefore, patient would not likely benefit from 
+corticosteroids or pentoxifylline at this time. Patient 
+encouraged to abstain from alcohol. Plans to help her in this 
+endeavor were discussed prior to discharge with the patient and 
+social work. 
+ 
+# Hematuria: Patient states that hematuria started on day of 
+hospitalization. She has had this previously during other 
+episodes of ETOH withdrawal. On day of discharge, she continued 
+to note bloody urine in the AM, which progressively cleared by 
+the time she was discharged. Denied dysuria, frequency, or 
+suprapubic/abd pain. UA was sent, which showed > 182 RBC, mod 
+___, no WBC. Urine culture was also sent, which was pending at 
+discharge, but subsequently returned growing > 100,000 E. coli. 
+Though this would suggest UTI as cause for hematuria, patient 
+was otherwise asymptomatic. Other considerations for hematuria 
+included menstrual bleeding, kidney stone, or 
+glomerulonephritis. The patient has had issues with DUB, but 
+stated that she was fairly certain that this bleeding was, in 
+fact, from a urinary source not vaginal. She underwent straight 
+cath to allow for discrimination of source of blood, but 
+unfortunately, her urine had cleared by that time and repeat 
+urine sediment was bland. In terms of possibility of 
+nephrolithiasis, she denied any pain, though kidney stone would 
+make sense in the setting of dehydration from ETOH withdrawal 
+and frequent N/V. Finally, as mentioned earlier, 
+glomerulonephritis was a consideration, though Cr not elevated, 
+she did not have significant proteinuria, edema, or HTN, and 
+hematuria cleared much quicker than what would be 
+characteristic. Please continue to work this up further as an 
+outpatient. 
+
+# Anemia: Patient with Hgb of 10.9 at discharge with MCV 89. 
+Iron studies show ACD/inflammation. B12 and folate replete. No 
+evidence of hemolysis, though LDH elevated. Retic count 
+suppressed given degree of anemia. Therefore, anemia is most 
+likely secondary to marrow suppression in the setting of chronic 
+alcohol use. 
+
+TRANSITIONAL ISSUES
+- Please monitor and further work-up anemia. Pending at 
+discharge: iron studies, B12, folate, haptoglobin, LDH. 
+Reticulocyte count low at 1.5. 
+- Please work-up question of hematuria further as an outpatient 
+and consider cystoscopy, if persists. Patient with bland urine 
+sediment by the time her urine was assessed.
+- Medications added: MVI, thiamine, folate
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+2. FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+3. Thiamine 100 mg PO DAILY 
+RX *thiamine HCl 100 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+- Alcohol withdrawal
+Secondary: 
+- Alcoholic hepatitis
+- Metaobolic acidosis
+- Anemia
+- Hematuria 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___.
+
+You were admitted to the hospital for alcohol withdrawal, since 
+you have a history of withdrawal seizures. While you were here 
+you were monitored carefully and given medications for your 
+withdrawal symptoms. Your symptoms slowed down and you started 
+to feel better, so you were able to be discharged home. 
+
+Please note that you have some lab abnormalities, including 
+anemia, low platelets, and liver function test elevation. These 
+issues should be followed-up by your primary care physician. We 
+have set you up with a new PCP and the appointment is listed 
+below. 
+
+Please try to refrain alcohol. As per your discussion with the 
+social worker, please try to re-establish care with your 
+counselor to continue discussion about alcohol abstinence. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19349174-DS-13 | hadm_id=24794357
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+albumin colloid, human / ceftriaxone
+ 
+Attending: ___
+ 
+Chief Complaint:
+alcoholic hepatitis 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ Patient is a ___ recovering alcoholic who initially 
+presented to ___ with sudden onset of nausea, vomiting on 
+___ and found to have alcoholic hepatitis and was thus 
+transferred to ___ for further care. 
+ 
+ She recently graduated from a women's alcoholic treatment 
+program and had been clean for about 3 months. She then again 
+resumed drinking vodka one to 2 times daily for the last 4 days 
+(last drink ___, she has been drinking on a daily basis. She 
+experienced gradual worsening of abdominal pain which started at 
+9:30 pm the night prior to admission to ___. The pain was 
+periumbilical, aching, constant, 10 out of 10 in intensity. It 
+was also associated with nausea and vomiting. No hematemesis 
+reported. She had ___ loose stools associated with this, 
+nonbloody as well. No fever chills. No recent antibiotics or 
+hospitalizations. No new medications.  
+
+ At ___, she developed acute alcohol withdrawal 
+necessitating CIWA scale, hypoglycemia with a nadir of 18, 
+hyponatremia with nadir of 127, and worsening LFTs / INR and 
+acute on chronic anemia with nadir of 8.9 without evidence of 
+active bleed. She also had significant lactic acidosis to 13 
+with tachypnea and respiratory alkalosis on blood gas. She was 
+given IVF, with changes in IVF based on progressive metabolic 
+acidosis and hypoglycemia. She was found to have an E.coli UTI 
+and was started on ceftriaxone ___. Her coagulopathy was treated 
+with one dose of vitamin K (10 mg PO). She remained alert and 
+oriented but did have some asterixis on examination today per 
+report. Given her worsening labs, she was transferred to ___ 
+for further care.  
+
+She was then transferred to ___ for further care.  
+
+Upon arrival to the floor she triggered for tachypnea.  
+
+ She had been potentially getting slightly more confused over 
+the preceding two hours, but not significantly so. Was found to 
+be acutely dyspneic, diaphoretic with developing wheals 
+diffusely along her back and arms and legs as well as bilateral 
+periorbital edema. No frank stridor, but significant upper 
+airway secretions. Responded to 50 mg IV Benadryl with improved 
+secretions, and periorbital edema  
+
+Had received Ativan magnesium, lactulose and IV albumin since 
+arrival, but nothing within a few minutes of this event. Had 
+been receiving ativan at ___. Seems like allergic 
+reaction/anaphylaxis, but absolutely unclear what the reaction 
+was to. Given persistent 1:1 nursing care requirements and need 
+for respiratory monitoring, care escalated to ICU.  
+ 
+Past Medical History:
+- alcohol abuse 
+- depression, previous suicide attempt > 6 months ago 
+- history of alcohol withdrawal with one seizure in ___  
+- recent diagnosis of multiple sclerosis by a neurologist in 
+___, is trying to get interferon-beta-1a treatment  
+- anxiety
+- optic neuritis
+ 
+Social History:
+___
+Family History:
+- alcohol abuse  
+- diabetes (father)  
+- no known liver disease  
+ 
+Physical Exam:
+===============
+ADMISSION EXAM:
+===============
+VS: 98.9 125/84 113 18 100% RA  
+General: tremulous and diaphoretic but alert and interactive, 
+denies acute distress  
+HEENT: scleral and sublingual icterus noted, no oropharyngeal 
+lesions, MM dry  
+Neck: no adenopathy or JVD  
+CV: tachycardic but regular, no m/r/g  
+Lungs: shallow respirations, no adventitious sounds appreciated  
+
+Abdomen: nontender, mildly distended, +BS, no organomegaly 
+appreciated  
+GU: deferred  
+Ext: WWP, no edema  
+Neuro: AO to person, place, month, day, year, can state days of 
+week backwards without difficulty, PERRL, mild tongue 
+fasciculations with protrusion, mild fasciculations of 
+outstretched hands without flapping, grip is intact without loss 
+of flexor tone, rest of motor function intact, sensation intact 
+to light touch  
+Skin: no palmar erythema or spider angiomas  
+
+===============
+DISCHARGE EXAM:
+===============
+VS: 98.7   100-120/60-80s  ___  ___ (8 hr)  ___ 8 BM 
+(24)
+ General: NAD, 
+ CV: regular, no m/r/g  
+ Lungs: CTA x 2 
+ Abdomen: tenderness to deep palpation in LUQ and epigastrium, 
+mildly distended, +BS, liver ___ngle, nontender
+ GU: deferred  
+ Ext: WWP, no edema  
+ Neuro: no asterisix, A&Ox3 
+
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+___ 08:19PM   ___ PO2-166* PCO2-22* PH-7.49* TOTAL 
+CO2-17* BASE XS--3 COMMENTS-GREEN TOP
+___ 08:19PM   LACTATE-9.2*
+___ 08:05PM   GLUCOSE-121* UREA N-3* CREAT-0.4 SODIUM-130* 
+POTASSIUM-3.7 CHLORIDE-95* TOTAL CO2-16* ANION GAP-23
+___ 08:05PM   estGFR-Using this
+___ 08:05PM   ALT(SGPT)-40 AST(SGOT)-130* ALK PHOS-148* TOT 
+BILI-6.3*
+___ 08:05PM   ALBUMIN-3.1* CALCIUM-9.2 PHOSPHATE-0.3* 
+MAGNESIUM-1.7
+___ 08:05PM   WBC-9.6 RBC-3.09* HGB-8.2* HCT-25.9* MCV-84 
+MCH-26.5 MCHC-31.7* RDW-20.9* RDWSD-62.4*
+___ 08:05PM   NEUTS-72.2* LYMPHS-11.8* MONOS-13.5* EOS-1.5 
+BASOS-0.2 IM ___ AbsNeut-6.91* AbsLymp-1.13* AbsMono-1.29* 
+AbsEos-0.14 AbsBaso-0.02
+___ 08:05PM   ___ PTT-35.1 ___
+___ 08:05PM   PLT COUNT-119*
+
+==================
+PERTINENT RESULTS:
+==================
+___ 04:49AM BLOOD Lactate-1.7
+___ 10:15PM BLOOD Lactate-3.3*
+___ 01:36PM BLOOD Lactate-4.3*
+___ 04:29AM BLOOD Lactate-4.2*
+___ 02:29AM BLOOD Lactate-4.6*
+___ 06:34PM BLOOD Lactate-7.5*
+___ 09:19AM BLOOD Lactate-7.1*
+___ 08:19PM BLOOD Lactate-9.2*
+
+===============
+DISCHARGE LABS:
+===============
+
+___ 05:50AM BLOOD WBC-9.1 RBC-2.86* Hgb-7.7* Hct-25.0* 
+MCV-87 MCH-26.9 MCHC-30.8* RDW-27.9* RDWSD-85.0* Plt ___
+___ 05:50AM BLOOD Plt ___
+___ 05:50AM BLOOD ___ PTT-44.4* ___
+___ 05:50AM BLOOD Glucose-97 UreaN-6 Creat-0.5 Na-134 K-4.6 
+Cl-100 HCO3-25 AnGap-14
+___ 05:50AM BLOOD ALT-36 AST-82* AlkPhos-137* TotBili-4.8*
+___ 05:50AM BLOOD Calcium-9.5 Phos-3.9 Mg-2.0
+
+===============
+IMAGING
+===============
+CXR portable ___ 
+Subtle opacification at the right medial base, which may 
+represent overlapping vessels, however a pneumonia cannot be 
+excluded. 
+  
+RECOMMENDATION:  PA and lateral radiographs may help to 
+differentiate between overlapping vessels and pneumonia. 
+ 
+RUQ US ___
+1. Echogenic liver consistent with steatosis. Other forms of 
+liver disease 
+including steatohepatitis, hepatic fibrosis, or cirrhosis cannot 
+be excluded 
+on the basis of this examination. 
+2. The portal vein is patent. 
+3. Splenomegaly is mild. 
+
+CXR  ___  
+In comparison with the study of ___, the patient has taken a 
+better 
+inspiration.  There is no evidence of acute pneumonia, vascular 
+congestion, or pleural effusion at this time. 
+
+===============
+MICRO
+===============
+___ BLOOD CULTURE Blood Culture, Routine-FINAL NO GROWTH
+___ URINE URINE CULTURE-NO GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-NO GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-NO GROWTH
+___ IMMUNOLOGY HCV VIRAL LOAD-NOT DETECTABLE
+___ BLOOD CULTURE Blood Culture, Routine-NO GROWTH
+___ PERITONEAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-FINAL; ANAEROBIC CULTURE-FINAL INPATIENT NO GROWTH
+___ MRSA SCREEN MRSA SCREEN-FINAL negative
+
+ 
+Brief Hospital Course:
+___ with recent diagnosis of multiple sclerosis not on therapy, 
+alcoholic hepatitis admitted for ___ 10 initially for acute 
+management of alcoholic hepatitis and was transferred to ICU due 
+to anaphylactic reaction. 
+
+# Anaphylaxis: Possible culprits included ceftriaxone, albumin, 
+ingested foods. Albumin initially appeared most likely given the 
+time course of the event. She was administered IV Benadryl, 
+Solumedrol, Famotidine, albuterol, and Epi Pen. There was no 
+indication for mechanical airway. The patient was transferred to 
+the MICU for close observation. She was monitored on telemetry, 
+with PRN nebulizers, and stabilized. Antibiotic regimen was 
+switched to ciprofloxacin. Allergy was consulted, with 
+recommendation: no albumin unless life threatening situation and 
+absolutely require it, avoid all cephalosporins. She may take 
+other penicillin and other beta lactams if necessary at this 
+time. Patient has follow up with Allergy for patch testing. 
+
+# Alcoholic hepatitis: Manifested by AST>ALT liver injury in 
+setting of alcohol abuse relapse. Transaminases improved during 
+hospitalization, and RUQ U/S was obtained which was negative for 
+evidence of portal vein thrombosis or ascites. Liver function 
+was monitored, as were coags. She was placed on delirium and 
+fall precautions, She was given lactulose for hepatic 
+encephalopathy. As DF 19 on presentation, steroids deferred, and 
+she was given aggressive nutritional support and LFTs were 
+trended until Tbili trended down and was stable x 3 days. Tbili 
+on discharge = 4.8. 
+
+# Tachypnea: Tachypnea was attributed to a range of factors, 
+including anaphylaxis, lactic acidosis upon presentation, 
+alcohol withdrawal, and nicotine withdrawal. VBG showed 
+metabolic acidosis and respiratory alkalosis, without evidence 
+of respiratory muscle fatigue. Tachypnea improved with treatment 
+of the above. 
+
+# Lactic Acidosis: Initial reason for elevated lactate not 
+entirely clear, but could be due to UTI and/or volume depletion 
+in setting of alcohol abuse and liver injury. Lactate 
+downtrended with treatment of the above. 
+
+# Hepatic encephalopathy: Grade I. Ammonia 71 at ___. 
+Mental status intermittently confused with very mild asterixis. 
+Lactulose 30mL TID was given, with titration to ___ bowel 
+movements per day. Electrolytes were repleted as indicated.
+
+# Urinary tract infection: U/A upon presentation was concerning 
+for urinary tract infection, with cultures growing E coli. The 
+patient was initially started on ceftriaxone, but out of concern 
+for anaphylaxis was transitioned to ciprofloxacin (7 day course, 
+last day ___. 
+
+# Depression: Patient was maintained on Celexa, which was held 
+at ___ in setting of liver injury, administration could 
+cause QTc prolongation. Celexa was held while in the ICU.
+
+Transitional Issues
+- patient will need blood drawn for Chem10, LFTs, CBC, INR on 
+___ and the results sent to ___ ATTN: Dr. ___.
+- patient started on lactulose 30 mL BID for grade 1 hepatic 
+encephalopathy 
+- folic acid for nutritional support. Continue Ensure TID. 
+- patient seen by social work w/ discussion re: importance of 
+abstaining from alcohol. Please continue this discussion as an 
+outpatient. 
+- patient with anaphylactic reaction w/ possible culprits being 
+ceftriaxone and albumin. Per Allergy and Immunology--no albumin 
+unless life threatening situation and absolutely require it, 
+avoid all cephalosporins. She may take other penicillin and 
+other beta lactams if necessary at this time. Patient has follow 
+up with Allergy for patch testing. 
+- d/ced with 2 additional doses of phenobarbital taper
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Multivitamins 1 TAB PO DAILY 
+2. FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+3. Lactulose 30 mL PO BID 
+RX *lactulose 10 gram/15 mL (15 mL) 30 mL by mouth twice daily 
+Refills:*0
+4. Citalopram 20 mg PO DAILY 
+5. Outpatient Lab Work
+ICD 10 K70.10 Alcoholic hepatitis 
+Please draw: Chem10, LFTs, CBC, INR and fax to ___ 
+ATTN: Dr. ___
+6. PHENObarbital Alcohol Withdrawal Dose Taper (Days ___ 4 mg 
+PO BID Duration: 2 Doses 
+This is dose # 4 of 4 tapered doses
+RX *phenobarbital 20 mg/5 mL 1 elixir(s) by mouth twice daily 
+Disp ___ Milliliter Milliliter Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+-alcoholic hepatitis 
+-anaphylaxis 
+-alcohol abuse 
+-urinary tract infection
+-depression 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+You were admitted to ___ with alcoholic hepatitis. You first 
+came to the general medical floor but had an allergic reaction 
+to albumin and you needed to spend a night in the intensive care 
+unit for monitoring.  The Allergy specialists were consulted and 
+recommend avoiding ceftriaxone (an antibiotic) and albumin (a 
+fluid that is sometimes given to people with liver disease).  
+You will need to see the Allergy specialists as an outpatient.  
+You will also need to follow up with liver specialists. You will 
+need labs drawn on ___ and the results will be faxed 
+to your liver doctor. 
+
+It is incredibly important that you abstain from alcohol because 
+another episode of alcoholic hepatitis will likely kill you.
+
+Please have labs drawn on ___ and the results sent to the 
+___ at ___ (see prescriptions). 
+
+It was a pleasure to care for you!
+-Your ___ Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19349174-DS-14 | hadm_id=27799236
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+albumin colloid, human / ceftriaxone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, abdominal distension, jaundice 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Patient is a ___ with history of alcoholic hepatitis 
+(___), withdrawal seizures (x2), and multiple sclerosis (not 
+on treatment) who presented with alcohol relapse, depression, 
+and jaundice.
+
+Of note, the patient had a previous discharge from ___ on 
+___ for alcoholic hepatitis complicated by ICU admission for 
+anaphylaxis precipitated by human colloid albumin and 
+ceftriaxone. No portal venous thrombosis or ascites at that 
+time. She also had a previous discharge from ___ on ___ for 
+alcoholic withdrawal and found to prolonged QTc without ST-T 
+segment changes. 
+
+Patient states that she came in today because of alcohol relapse 
+and fear of having a withdrawal seizure, depression, jaundice. 
+She is very motivated to be detoxed. 
+
+In regards to patients worsening abdominal pain, poor PO intake, 
+jaundice, pt shares she relapsed in ___ after losing her job. 
+Since then she started drinking ___ shots of liquor a day. 3 
+weeks ago she started noticing worsening abdominal discomfort, 
+nausea, dry heaving and poor PO intake. At this point she 
+started drinking more to suppress her symptoms. The past 1 week, 
+shes noticed jaundice, black tarry stools once a day. She has 
+been taking Zofran in order to keep her alcohol down every day. 
+Zofran was prescribed by her PCP. Her last drink was on ___ at 
+noon, she tried to stop on her own but then  came to the ED 
+after she realized her situation was untenable. 
+
+In regards to her drinking history patient first started 
+drinking at the age of ___ during her first marriage. She 
+graduated from a ___'s addiction ___ ___ but 
+relapsed in ___ and required her first hospitalization 
+for alc hep. She was then again sober from ___ to ___ and 
+___ again from ___ to ___. In ___ she was in 
+___ with her husband's family when she binge drank 
+for 2 days, on the third day after stopping, she had a seizure 
+and was hospitalized for that. Since then she was sober from 
+___. 
+
+In terms of her depression, pt is on citalopram 10mg daily. She 
+has had one previous SI at age ___ after ingesting aspirin. 
+Currently, no active suicidal ideation or self-injurious 
+behavior. 
+
+REVIEW OF SYSTEMS: Per HPI, denies fever, chills, night sweats, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, diarrhea, constipation, BRBPR, 
+dysuria, hematuria.
+ 
+In the ED initial vitals:  
+T: 99.1 HR: 110 RR: 18 BP: 136/89 SO2: 99
+ - Exam notable for:  
+Guaiac negative brown stool, scleral icterus, hand tremors 
+ - Imaging notable for:
+Cirrhotic liver, portal hypertension, no ascites, splenomegaly 
+at 14.6 cm
+CXR with no cardiopulmonary process
+ - Labs notable for:
+AST 211, ALT 48,  Tbili 10.8, BUN <3, Cr 0.3,  Ca 7.1, Mg 1.2, P 
+2.0, Lactate 4.1, INR 1.6, WBC 8.0, H/H 11.2, Plt 111, Alb 2.7
+ - Patient was given:
+1 L NS, IV phenobarbital
+KCL 40 mEq
+Prednisone 40 mg
+Thiamine 100 mg
+Magnesium Sulfate 4 gm
+Neutra-Phos 2 PKT
+ - Vitals prior to transfer:  T: 97.9 BP: 130/91 HR: 96 RR: 18 
+SaO2: 99
+
+ 
+Past Medical History:
+- alcohol abuse 
+- depression, previous suicide attempt > 6 months ago 
+- history of alcohol withdrawal with one seizure in ___  
+- recent diagnosis of multiple sclerosis by a neurologist in 
+___, is trying to get interferon-beta-1a treatment  
+- anxiety
+- optic neuritis
+ 
+Social History:
+___
+Family History:
+Parents, brother - alcohol abuse
+Mother renal cancer
+Father diabetes
+Brother ulcerative colitis
+ 
+Physical Exam:
+Admission physical exam:
+VS: 99.2 PO 127 / 83 96 18 97 RA 
+GENERAL:  Sitting up, eating ice cream, fast speech 
+HEENT: Scleral icteric, MMM, neck supple with palpable thyroid, 
+sublingual jaundice 
+NECK: no cervical LAD, thyroid supple  
+CARDIAC: RRR, grade 2 systolic murmur heard best at ___
+PULMONARY: CTAB with no increased work of breathing, no 
+crackles, wheezing
+ABDOMEN: distended, jaundice, nontender to deep palpation 
+diffusely, negative fluid wave, hepatomegaly to >4cm past 
+costophrenic angle 
+GENITOURINARY: No foley in place
+EXTREMITIES/ SKIN: Mild ___ erythema, + asterixis, + spider 
+angiomata, no edema
+NEUROLOGIC:  AOX3, able to state days of the week backwards 
+PSYCHIATRIC:  Fast speech, normal thought process 
+
+Discharge physical exam:
+VS: 99.1PO 125 / 78 L Sitting 110   96 Ra 
+GENERAL:  Sitting up in bed, speaking comfortably, pleasant, NAD
+HEENT: Scleral icteric, dry mucous membranes, sublingual 
+jaundice 
+NECK: no cervical LAD, thyroid supple  
+CARDIAC: RRR, grade 2 systolic murmur heard best at ___
+PULMONARY: CTAB with no increased work of breathing, no 
+crackles, wheezing
+ABDOMEN: distended, jaundice, nontender to deep palpation, 
+hepatomegaly to >4cm palpated beyond rib. No suprapubic 
+tenderness
+GENITOURINARY: No foley in place
+EXTREMITIES/ SKIN: Mild ___ erythema, - asterixis, + spider 
+angiomata, trace ___ edema b/l
+BACK: No CVA tenderness
+NEUROLOGIC:  AOX3 
+
+ 
+Pertinent Results:
+Admission labs:
+___ 01:50AM BLOOD WBC-8.0 RBC-3.30* Hgb-11.2# Hct-31.6* 
+MCV-96 MCH-33.9*# MCHC-35.4# RDW-16.4* RDWSD-57.2* Plt ___
+___ 01:50AM BLOOD Neuts-76.2* Lymphs-7.4* Monos-14.1* 
+Eos-1.2 Baso-0.4 Im ___ AbsNeut-6.10 AbsLymp-0.59* 
+AbsMono-1.13* AbsEos-0.10 AbsBaso-0.03
+___ 01:50AM BLOOD Plt ___
+___ 02:00AM BLOOD ___ PTT-36.5 ___
+___ 01:50AM BLOOD Glucose-126* UreaN-3* Creat-0.5 Na-135 
+K-3.0* Cl-91* HCO3-24 AnGap-23*
+___ 01:50AM BLOOD ALT-56* AST-244* AlkPhos-331* 
+TotBili-10.1* DirBili-7.8* IndBili-2.3
+___ 01:50AM BLOOD Albumin-3.1* Calcium-8.0* Phos-2.5* 
+Mg-1.3*
+___ 09:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:09AM BLOOD ___ pO2-108* pCO2-36 pH-7.49* 
+calTCO2-28 Base XS-4
+
+Pertinent labs:
+___ 01:50AM BLOOD Lipase-26
+___ 09:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:09AM BLOOD Lactate-4.1*
+___ 05:59PM BLOOD Lactate-7.4*
+___ 04:41AM BLOOD Lactate-2.9*
+
+Discharge labs:
+___ 05:34AM BLOOD WBC-8.2 RBC-2.74* Hgb-9.5* Hct-27.9* 
+MCV-102* MCH-34.7* MCHC-34.1 RDW-20.6* RDWSD-76.2* Plt ___
+___ 05:34AM BLOOD Neuts-68.8 Lymphs-15.5* Monos-14.3* 
+Eos-0.6* Baso-0.1 NRBC-0.2* Im ___ AbsNeut-5.62 
+AbsLymp-1.27 AbsMono-1.17* AbsEos-0.05 AbsBaso-0.01
+___ 08:55AM BLOOD ___
+___ 05:34AM BLOOD Plt ___
+___ 05:34AM BLOOD Glucose-100 UreaN-9 Creat-0.5 Na-134 
+K-4.2 Cl-96 HCO3-25 AnGap-17
+___ 05:34AM BLOOD ALT-23 AST-60* LD(LDH)-262* AlkPhos-177* 
+TotBili-12.2* DirBili-9.1* IndBili-3.1
+___ 05:34AM BLOOD Albumin-2.9* Calcium-8.7 Phos-2.9 Mg-1.8
+
+Diagnostics:
+Blood culture ___: No growth
+Urine culture-
+URINE CULTURE  on ___
+(Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      ENTEROCOCCUS SP..    >100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |          ENTEROCOCCUS SP.
+                             |          |   
+AMPICILLIN------------     4 S      <=2 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S     <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TETRACYCLINE----------             =>16 R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+VANCOMYCIN------------                1 S
+
+Urine culture ___- No growth.
+Urine culture ___
+URINE CULTURE (Final ___: 
+      ENTEROCOCCUS SP..    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------  =>32 R
+LINEZOLID-------------     2 S
+NITROFURANTOIN--------   128 R
+TETRACYCLINE----------     4 S
+VANCOMYCIN------------  =>32 R
+
+Abdominal ultrasound ___: 
+1 .Cirrhotic liver with patent portal and hepatic veins.  
+Variability in the  directionality of flow in the main portal 
+vein is secondary to portal 
+hypertension. 
+2. No ascites. 
+3. Splenomegaly at 14.6 cm. 
+  
+Lower extremity venous Doppler ultrasound ___:
+1. No evidence of deep venous thrombosis in the left lower 
+extremity veins. 
+2. Left popliteal cyst measuring up to 5.5 cm. 
+  
+
+ 
+Brief Hospital Course:
+___ woman with history of alcoholic hepatitis (___), 
+withdrawal seizures (x2), and multiple sclerosis (not on 
+treatment) who presented with alcohol relapse (last drink ___ @ 
+noon), depression, and jaundice. 
+
+#Alcoholic hepatitis: On history patient shared she was drinking 
+over seven to eight shots of liquor a day and the week prior to 
+admission, was taking Zofran prior to her drinks secondary to 
+extreme nausea. She also experienced fatigue, malaise, abdominal 
+discomfort and no oral intake. Physical exam notable for 
+jaundice, abdominal distension, hepatomegaly. Labs notable for 
+AST 56, ALT 244, LDH 453, Alk phos 331, Bili 10.1 (peak 16.4), 
+dbil 7.7(peak 13.0), WBC 8.0 stable throughout stay, INR 1.6 
+(peak 2.4) -> DF 34.9 (peak >80). Abdominal ultrasound notable 
+for cirrhotic liver with patent portal and hepatic veins, portal 
+hypertension, no ascites, splenomegaly at 14.6 cm. Infection 
+work up done prior to initiation of prednisone was notable for 
+positive urine analysis and urine culture showing ecoli 
+(ciprofloxacin ___ and then grew enterococcus (macrobid 
+___, repeat UA negative, repeat urine culture with 
+enterococcus growth on ___ after discharge. Pt remained 
+hemodynamically stable with tmax of 100.8. Prednisone 40mg PO 
+started on ___ with improvement of LFTs. 
+
+#Alochol withdrawal: Patient completed a phenobarbital taper for 
+her withdrawal and she tolerated it well, no seizures, DT, or 
+additional medications required to control withdrawal. Given 
+thiamin 500mg TID for three days, multivitamins, on delirium and 
+fall precautions. 
+
+#UTI: Incidental finding prior to initiating prednisone. See 
+above for more detail. 
+
+#sinus tachycardia: Course complicated by sinus rhythm 
+tachycardia likely in the setting of malnutrition and 
+deconditioning. Albumin deferred as patient has an allergy to 
+albumin, fluids deferred as well as patient had great PO intake 
+and cirrhosis. '
+
+#Cirrhosis: No established hepatologist and has never had an 
+EGD. Patient will follow up with outpatient hepatology for 
+further management. Given active drinking, no plans for 
+transplant. MELD >26
+
+#Hepatic encephalopathy: Prior admission with alc hep one year 
+ago notable for grade 1 with ammonia of 71, intermittent 
+confusion and mild asterixis. This admission, no concern for 
+hepatic encephalopathy, mild asterixis the first two days in 
+house. RUQUS with no portal vein thrombosis. Continued of 
+lactulose and rifaximin. 
+
+#Depression: Not active. No SI/HI. Maintained on citalopram 10mg 
+daily, but QTc between 480-530 so held while in house and on 
+discharge.  
+
+=====================
+Transitional issues:
+=====================
+1. Follow up urine culture, if positive, initiate treatment with 
+antibiotics for minimum of 7 days. Per hepatology, okay to 
+continue prednisone. 
+2. Please refer to GI/hepatology for further management of her 
+alcoholic hepatitis and prednisone course. Please ensure patient 
+gets an endoscopy to evaluate for varicies. Patient has been 
+started on calcium, vitamin D, pantoprazole and Bactrim in the 
+setting of long term prednisone usage. 
+3. Consider checking a B12 in the setting of macrocytic anemia 
+H/H 9.5/27.5, MCV 102. 
+4. Discharge labs:
+ALT 23, AST 60, LDH 262, ALKPHOS 177,TotBili 12.2, Dbili 9.1, 
+indbili 3.1, albumin 2.9. 
+5. Patient is working on an outpatient program to help with her 
+alcohol dependence as well as a MS support group.
+6. Follow up with neurology for treatment of MS given intention 
+to stay sober (initially treatment deferred in the setting of 
+acute alcohol dependence). 
+7. Repeat EKG for QTc monitoring prior to restarting citalopram. 
+QTc on discharge 480. 
+
+Code: Full 
+Name of health care proxy: ___ 
+Phone number: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 10 mg PO DAILY 
+2. Ondansetron 4 mg PO Q8H:PRN nasuea 
+3. Magnesium Oxide 400 mg PO DAILY 
+4. Potassium Chloride 20 mEq PO DAILY 
+5. Cyanocobalamin 250 mcg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. flaxseed oil 1,000 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Calcium Carbonate 1000 mg PO DAILY 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 2 tablet(s) by 
+mouth every day Disp #*30 Tablet Refills:*0 
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth every day Disp #*30 
+Tablet Refills:*0 
+3.  Lactulose 30 mL PO TID:PRN HE  
+RX *lactulose 10 gram/15 mL 30 ml by mouth up to three times a 
+day, titrate to 3 bowel movements Refills:*0 
+4.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth every day Disp #*30 
+Tablet Refills:*0 
+5.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 20 mg 2 tablet(s) by mouth every day Disp #*60 
+Tablet Refills:*0 
+6.  Rifaximin 550 mg PO BID 
+RX *rifaximin [Xifaxan] 550 mg 1 tablet(s) by mouth every 12 
+hours Disp #*60 Tablet Refills:*0 
+7.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth every day Disp #*30 Tablet Refills:*0 
+8.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth every 
+day Disp #*30 Tablet Refills:*0 
+9.  Vitamin D 800 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 400 unit 2 tablet(s) by mouth 
+every day Disp #*60 Tablet Refills:*0 
+10.  Cyanocobalamin 250 mcg PO DAILY  
+11.  flaxseed oil 1,000 mg oral DAILY  
+12.  Magnesium Oxide 400 mg PO DAILY  
+13.  Multivitamins 1 TAB PO DAILY  
+14. HELD- Citalopram 10 mg PO DAILY  This medication was held. 
+Do not restart Citalopram until talking to your primary care 
+doctor and after you get an EKG
+15. HELD- Ondansetron 4 mg PO Q8H:PRN nasuea  This medication 
+was held. Do not restart Ondansetron until you speak to your 
+primary care doctor, you will need a repeat EKG
+16. HELD- Potassium Chloride 20 mEq PO DAILY  This medication 
+was held. Do not restart Potassium Chloride until you speak to 
+your primary care doctor 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+==================
+Alcoholic hepatitis
+Liver cirrhosis 
+Alcohol intoxication
+Urinary Tract Infection
+
+Secondary Diagnosis
+====================
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you here at ___ and celebrating 
+your birthday with you!
+
+What happened while you were at the hospital?
+- You were admitted because of worsening abdominal distention, 
+jaundice, nausea, vomiting, unable to eat food, dark urine and 
+alcohol withdrawal. 
+- Your physical exam showed jaundice and an inflamed liver. Your 
+labs were notable for elevated liver enzymes which indicates 
+liver injury and inflammation. An abdominal ultrasound was taken 
+which showed you have cirrhosis (severe scarring of your liver).
+- You were diagnosed with something we call alcoholic hepatitis. 
+This is a very serious disease where your liver becomes 
+extremely inflamed and your body is susceptible for several 
+complications including infection and bleeding. Fortunately, you 
+did not suffer from any of the complications of alcoholic 
+hepatitis this time. 
+- You were treated for your withdrawal symptoms with medication 
+and you tolerated the withdrawal well with no seizures and 
+minimal symptoms. 
+- Prednisone is a medication that may help decrease the 
+inflammation of the liver in alcoholic hepatitis, but it also 
+lowers the immune system and can worsen an infection if one 
+exists. You were worked up for an infection before starting 
+prednisone, and a urinary tract infection was found. You were 
+treated for 5 days with antibiotics and you were started on 
+prednisone. Your liver function tests have improved since 
+starting the prednisone. 
+ 
+What to do when you are discharged?
+- Continue taking the prednisone. Prednisone is a steroid and 
+decreases the immune system which makes the body more 
+susceptible to infection. Sometimes, it can also cause weight 
+gain, mood changes, thinning of the skin, elevated blood sugars 
+and bone weakness. Please be very mindful for possible 
+infection, look out for burning while peeing, fevers, chills, 
+sweats, abdominal pain, diarrhea, shortness of breath, cough, 
+sore throat etc. We will also prescribe you calcium and vitamin 
+D to ensure good bone health, an antiacid to protect the lining 
+of your stomach from the steroid, and also an antibiotic that 
+will prevent pneumonia from a specific bacteria called "PCP" 
+that can infect the lungs of people on steroids. 
+- Please follow up with your primary care doctor. You will be 
+referred to a hepatologist to further manage your alcoholic 
+hepatitis and liver cirrhosis. 
+- You will require an endoscopy of your esophagus in the next 
+few weeks that your hepatologist will arrange. Cirrhosis can 
+cause large blood vessels in your esophagus to swell up and 
+bleed and it is dangerous. The endoscopy can prevent the 
+progression of these vessels and monitor them closely. 
+- Please follow up with an outpatient rehab program as discussed 
+with social work and please reach out to social work services 
+for additional help if you need it.
+- If you have trouble sleeping, please take ___ of Melatonin 
+(over the counter) before bed time. Please talk to your primary 
+care doctor if you still have trouble.  
+
+We are happy you are feeling better and wish you all the best.
+
+Sincerely,
+Your ___ team 
+
+ 
+Followup Instructions:
+___

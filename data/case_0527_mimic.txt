@@ -1,0 +1,119 @@
+===== DISCHARGE NOTE =====
+note_id=17664899-DS-2 | hadm_id=24543415
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left thyroid mass
+ 
+Major Surgical or Invasive Procedure:
+left hemi-thyroidectomy
+ 
+History of Present Illness:
+Ms. ___ is a ___ yoF who presented with a progressively 
+growing left thyroid nodule and recent difficulty in swallowing 
+and a sensation of neck pressure. The thyroid nodule has been 
+followed for the last couple of years. ___ ultrasound showed 
+a solid nodule replacing the left thyroid lobe measuring 4.8 cm 
+in greatest diameter. An U/S-guided FNAB showed cytology that 
+was most likely benign, consistent with a mixed micro- and 
+macrofollicular lesion. The pt is clinically and biochemically 
+(TSH, T3, T4 normal) euthyroid. No cervical lymphadenopathy was 
+present.
+ 
+Past Medical History:
+DM2, HTN, MI approx. ___ years ago, hypercholesterolemia, goiter, 
+obestiy, MI and stent placed approximately ___ years ago
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Gen: NAD, AAOx3
+HEENT: atraumatic, normocephalic, no cervical lymphadenopathy, 
+incision CDI with no erythema or swelling
+CV: RRR, S1 S2
+Pulm: CTAB
+GI: soft, NT, ND, +BS
+Extrem: warm, well-perfused
+
+ 
+Pertinent Results:
+none
+ 
+Brief Hospital Course:
+Patient had a preop diagnosis of left thyroid nodule likely 
+benign presenting with some compressive symptoms. The patient 
+was seen and evaluated by anesthesia. After obtaining anesthesia 
+approval, she was taken to the OR and left hemi-thyroidectomy 
+was performed with general anesthesia. The patient tolerated the 
+procedure well, was extubated, taken to the PACU, and after 
+recovery, she was brought to the floors. Post-operatively the 
+patient did well. She denied perioral numbness/tingling, pain 
+controlled. While on the floor, the patient was transitioned to 
+oral pain meds and regular diet. VS remained stable during the 
+whole course. After verifying that the pt could ambulate, pt was 
+then discharged to home.
+ 
+Medications on Admission:
+ASA, Plavix, insulin, oral diabetes medication (name and dosages 
+not in chart)
+
+ 
+Discharge Medications:
+1. hydrocodone-acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily): wait 2 days before restarting.  
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for pain.  
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day: 
+Please take while using Vicodin to avoid constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+left thyroid nodule
+ 
+Discharge Condition:
+Ambulatory, baseline mental status. Stable.
+
+ 
+Discharge Instructions:
+You were admitted to the general surgery inpatient after your 
+total thyroidectomy. Your tissue was sent to pathology and you 
+should have your results in 1 week. Please monitor your neck 
+incision for any drainage, swelling or redness. You have steri 
+strips on your neck incision, please keep clean and dry. These 
+steri-strips will fall off on their own, please do not remove 
+them. You may shower but avoid swimming or bathing. You will be 
+given a prescription for Vicodin for pain. Each Vicodin tablet 
+contains 5mg Hydrocodone and 500mg acetaminophen (Tylenol). 
+Please do not drink alcohol or drive while taking this 
+medication as it may cause drowsiness. Do not take more than 
+4000 mg of acetaminophen (Tylenol) in a 24 hour period.  
+Please wait 2 days before restarting plavix.
+ 
+Followup Instructions:
+___

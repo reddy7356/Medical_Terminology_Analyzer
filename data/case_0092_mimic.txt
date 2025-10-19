@@ -1,0 +1,80 @@
+===== DISCHARGE NOTE =====
+note_id=17809756-DS-16 | hadm_id=23962497
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hanging
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy
+ 
+History of Present Illness:
+Pt is a ___ who was 6 weeks post partum who was found in her 
+home having hung herself.  EMS responded and cut her down.  She 
+was initially apenic without vital signs, but after several 
+minutes of CPR, she regained a pulse.  She was intubated and 
+brought to ___.
+ 
+Past Medical History:
+depression
+ 
+Social History:
+___
+Family History:
+non contributatory
+ 
+Physical Exam:
+discharge: patient passed away
+ 
+Brief Hospital Course:
+The patient was admitted to the trauma surgery service in the 
+trauma ICU.  She was intubated with a GCS of 4.  Her head CT was 
+concerning for anoxic brain injury.  Over the next week her 
+neurologic status did not improve.  At times she had spastic 
+movement of her extremities and multiple EEGs were performed.  
+The neurology consult service did not feel these movements were 
+consistent with seizures.  
+With time she developed ventillator associated pneumonia which 
+was treated with bronchoscopy and antibiotics. Nutrition was 
+provided via a daubhoff tube.
+Multiple family meetings were help with the patient's husband 
+and mother, social work, interpreters, the trauma team, and the 
+neurology team.  Her neurologic status did not improve.
+Ultimately the decision was made to make the patient CMO.  She 
+was extubated and started on a morphine drip.  She died on 
+___.
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+anoxic brain injury
+ventillator associated pneumonia
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+.
+ 
+Followup Instructions:
+___

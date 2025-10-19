@@ -1,0 +1,480 @@
+===== DISCHARGE NOTE =====
+note_id=17721906-DS-16 | hadm_id=25415916
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ Hemoptysis  
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Flexible bronchoscopy.
+2. Cervical mediastinoscopy.
+3. Left upper lobectomy.
+4. Arterioplasty of left main pulmonary artery.
+5. Mediastinal lymph node dissection.
+6. Buttressing of bronchial staple line with thymus.
+
+___
+Bronchoscopy
+
+ 
+History of Present Illness:
+___ smoker with pmhx of HTN who presents from OSH with 
+hemoptysis. Pt initially presented to ___ with 
+small volume hempotysis, described as bright red blood about 5cc 
+a few times an hour.  Pt had CT which 2cm spiculated mass at L 
+hilar region encasing LUL bronchus, abutting L PA as well as 4mm 
+nodule in RLL with sourrounding ground glass. Labs at OSH were 
+significant for hct drop from 39 to 33.  The pulmonary team saw 
+the patient and recommended transfer to ___ given potential 
+need for advanced interventional pulmonologist. 
+On arrival to ___, pt admitted to medicine floor on 2L NC. 
+Very shortly after admission to the floor, pt had additional 
+episode of small hemopytsis with SpO2 91% on non-rebreather. Pt 
+transferred immediately to MICU where she intermittently 
+desaturated to ___ on non-rebreather. ___ and IP made aware. 
+Pt was intubated and bloody mucous plug was visualized in the 
+left mainstem bronchus. Pt taken to OR by IP for rigid 
+bronchscopy and possible intervention. 
+ 
+
+ 
+Past Medical History:
+tobacco use  
+htn  
+sciatica 
+ 
+Social History:
+___
+Family History:
+Mother had HTN, died of stroke in her ___.  Father died of a 
+"lung problem" at 91 (was a heavy drinker and smoker). 
+
+ 
+Physical Exam:
+ON ADMISSION:
+Vitals: 101/70, HR 85, 98% on non-rebreather-> 74% on 
+non-rebreather 
+Gen: AOx3, mentating well
+Neck: Supple
+Lungs: Diffuse rhonchi and coarse breath sounds bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: Soft, non-guarding, non-distended unable to elicit 
+tenderness, decreased bowel sounds, no hepatosplenomegaly
+GU: Foley in place  
+Ext: warm, 2+ pulses, no edema, no cyanosis
+
+ON DISCHARGE:
+Vitals: 98.8/98.0  69  115/69  18  95%RA
+Gen.-AAOx3, in no acute distress
+Neck-supple, no JVD, no carotis bruit
+Heart-RRR, normal s1, s2, 
+Chest-CTA B/L, wounds are healing well
+Abdomen-soft, NT, ND
+GU-voiding with no issues
+extr.-no edema
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:55PM BLOOD WBC-6.0 RBC-3.37* Hgb-10.7* Hct-34.0* 
+MCV-101* MCH-31.6 MCHC-31.3 RDW-14.0 Plt ___
+___ 04:55PM BLOOD ___ PTT-27.9 ___
+___ 04:55PM BLOOD Glucose-97 UreaN-19 Creat-0.7 Na-143 
+K-3.8 Cl-109* HCO3-24 AnGap-14
+___ 04:55PM BLOOD Calcium-9.0 Phos-2.5* Mg-2.1
+___ 11:17PM BLOOD Type-ART Temp-36.7 Rates-14/ Tidal V-400 
+PEEP-5 FiO2-50 pO2-134* pCO2-43 pH-7.34* calTCO2-24 Base XS--2 
+-ASSIST/CON Intubat-INTUBATED
+.
+MICRO:
+___ 9:53 am SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+___: URINE CX
+___: BLOOD CX
+.
+IMAGING:
+CXR ___:
+FINDINGS:  Tip of endotracheal tube terminates approximately 5 
+cm above the carina.  A poorly defined mass is present in the 
+left suprahilar region,likely corresponding to history of left 
+upper lobe mass.  Additionally, a poorly defined opacity is 
+present in the left retrocardiac region, accompanied by a small 
+left pleural effusion.  Correlative CT imaging may be helpful 
+for more complete characterization of these findings if not 
+already performed. Right lung is hyperexpanded but grossly 
+clear.
+.
+PET CT ___:
+1.  FDG-avid left hilar mass narrowing the left upper lobe 
+bronchus, consistent with bronchogenic carcinoma. 2.  
+FDG-avidity within the medial left upper lobe is likely due to 
+post-obstructive inflammation. 3.  Mild FDG uptake in the 
+subcarinal region may be reactive, but metastatic disease is not 
+excluded. 4.  No evidence of FDG-avid distant metastasis.  
+Multiple pulmonary nodules are better evaluated on recent 
+CT-Chest. 
+.
+BRAIN MRI ___: 1.  No evidence of enhancing brain lesions. 
+2.  Brain and medial temporal atrophy and small vessel disease. 
+3.  No acute infarcts, mass effect or hydrocephalus. 
+.
+OTHER RESULTS:
+LYMPH NODE, 11L, FINE NEEDLE ASPIRATION ___:
+NEGATIVE FOR MALIGNANT CELLS.
+- Polymorphous lymphocytes, consistent with lymph node sampling.
+- Bronchial epithelial cells.
+- Blood.
+.
+SPUTUM CYTOLOGY ___: Rare atypical cells in a background of 
+macrophages and neutrophils.
+
+___ 06:40AM BLOOD WBC-7.7 RBC-3.00* Hgb-9.0* Hct-29.5* 
+MCV-98 MCH-29.9 MCHC-30.4* RDW-14.8 Plt ___
+___ 03:01AM BLOOD WBC-9.9 RBC-3.02* Hgb-9.1* Hct-29.6* 
+MCV-98 MCH-30.1 MCHC-30.8* RDW-14.8 Plt ___
+___ 07:55AM BLOOD WBC-8.4 RBC-2.90* Hgb-8.8* Hct-28.6* 
+MCV-99* MCH-30.5 MCHC-30.9* RDW-14.9 Plt ___
+___ 03:00PM BLOOD WBC-12.9* RBC-2.91* Hgb-9.0* Hct-28.7* 
+MCV-98 MCH-31.0 MCHC-31.5 RDW-15.2 Plt ___
+___ 07:18AM BLOOD WBC-15.6* RBC-3.06* Hgb-9.5* Hct-29.6* 
+MCV-97 MCH-31.2 MCHC-32.2 RDW-15.8* Plt ___
+___ 02:00PM BLOOD WBC-15.4*# RBC-3.33* Hgb-10.1* Hct-32.3* 
+MCV-97 MCH-30.4 MCHC-31.3 RDW-16.4* Plt ___
+___ 06:00AM BLOOD WBC-6.3 RBC-2.85* Hgb-9.0* Hct-28.4* 
+MCV-100* MCH-31.6 MCHC-31.7 RDW-14.1 Plt ___
+___ 06:45AM BLOOD WBC-5.3 RBC-2.65* Hgb-8.6* Hct-26.1* 
+MCV-99* MCH-32.6* MCHC-33.1 RDW-13.6 Plt ___
+___ 07:05AM BLOOD WBC-6.0 RBC-2.68* Hgb-8.7* Hct-26.3* 
+MCV-98 MCH-32.4* MCHC-33.0 RDW-13.4 Plt ___
+___ 06:10AM BLOOD WBC-6.7 RBC-2.82* Hgb-9.2* Hct-27.7* 
+MCV-98 MCH-32.7* MCHC-33.4 RDW-13.3 Plt ___
+___ 06:15AM BLOOD WBC-7.0 RBC-2.68* Hgb-8.7* Hct-26.6* 
+MCV-99* MCH-32.3* MCHC-32.6 RDW-13.3 Plt ___
+___ 05:55PM BLOOD WBC-6.1 RBC-2.51* Hgb-8.3* Hct-25.1* 
+MCV-100* MCH-33.0* MCHC-32.9 RDW-13.4 Plt ___
+___ 02:26PM BLOOD WBC-6.8 RBC-2.54* Hgb-8.0* Hct-25.3* 
+MCV-100* MCH-31.6 MCHC-31.8 RDW-13.4 Plt ___
+___ 03:14AM BLOOD WBC-7.6 RBC-2.48* Hgb-8.2* Hct-24.8* 
+MCV-100* MCH-32.9* MCHC-32.9 RDW-13.4 Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 10:34AM BLOOD PTT-60.2*
+___ 03:01AM BLOOD Plt ___
+___ 03:01AM BLOOD ___ PTT-45.0* ___
+___ 07:55AM BLOOD Plt ___
+___ 03:00PM BLOOD Plt ___
+___ 07:18AM BLOOD Plt ___
+___ 02:00PM BLOOD Plt ___
+___ 07:10AM BLOOD Plt ___
+___ 07:45AM BLOOD Plt ___
+___ 07:45AM BLOOD ___ PTT-27.2 ___
+___ 06:40AM BLOOD Glucose-107* UreaN-10 Creat-0.5 Na-136 
+K-4.2 Cl-105 HCO3-24 AnGap-11
+___ 08:42AM BLOOD Glucose-112* UreaN-10 Creat-0.6 Na-140 
+K-4.1 Cl-107 HCO3-25 AnGap-12
+___ 07:25PM BLOOD Na-141 K-4.2 Cl-107
+___ 03:01AM BLOOD Glucose-128* UreaN-12 Creat-0.6 Na-138 
+K-3.5 Cl-103 HCO3-27 AnGap-12
+___ 07:55AM BLOOD Glucose-95 UreaN-13 Creat-0.6 Na-136 
+K-3.8 Cl-103 HCO3-25 AnGap-12
+___ 03:00PM BLOOD Glucose-124* UreaN-16 Creat-0.6 Na-133 
+K-3.9 Cl-103 HCO3-25 AnGap-9
+___ 07:18AM BLOOD Glucose-102* UreaN-19 Creat-0.8 Na-137 
+K-4.7 Cl-103 HCO3-26 AnGap-13
+___ 02:00PM BLOOD Glucose-157* UreaN-13 Creat-0.7 Na-139 
+K-4.2 Cl-106 HCO3-24 AnGap-13
+___ 02:00PM BLOOD Glucose-157* UreaN-13 Creat-0.7 Na-139 
+K-4.2 Cl-106 HCO3-24 AnGap-13
+___ 07:10AM BLOOD Glucose-99 UreaN-16 Creat-0.7 Na-140 
+K-4.4 Cl-108 HCO3-24 AnGap-12
+___ 07:45AM BLOOD Glucose-102* UreaN-13 Creat-0.8 Na-141 
+K-4.1 Cl-107 HCO3-24 AnGap-14
+___ 06:00AM BLOOD Glucose-100 UreaN-14 Creat-0.6 Na-141 
+K-4.3 Cl-106 HCO3-25 AnGap-14
+___ 06:45AM BLOOD Glucose-107* UreaN-14 Creat-0.6 Na-142 
+K-4.0 Cl-106 HCO3-25 AnGap-15
+___ 07:05AM BLOOD Glucose-114* UreaN-13 Creat-0.6 Na-141 
+K-4.0 Cl-106 HCO3-26 AnGap-13
+___ 06:10AM BLOOD Glucose-115* UreaN-13 Creat-0.6 Na-141 
+K-3.8 Cl-108 HCO3-25 AnGap-12
+___ 06:15AM BLOOD Glucose-116* UreaN-14 Creat-0.6 Na-142 
+K-3.9 Cl-109* HCO3-28 AnGap-9
+___ 03:14AM BLOOD Glucose-102* UreaN-9 Creat-0.5 Na-139 
+K-3.6 Cl-107 HCO3-22 AnGap-14
+___ 02:30PM BLOOD Glucose-86 UreaN-10 Creat-0.6 Na-140 
+K-4.2 Cl-109* HCO3-24 AnGap-11
+___ 06:40AM BLOOD Calcium-8.6 Phos-4.0 Mg-2.1
+___ 08:42AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.9
+___ 07:25PM BLOOD Phos-1.8* Mg-2.1
+___ 03:01AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.1
+___ 07:55AM BLOOD Calcium-8.2* Phos-2.6* Mg-1.9
+___ 07:18AM BLOOD Calcium-8.6 Phos-3.6 Mg-1.9
+___ 02:00PM BLOOD Calcium-8.3* Phos-4.1 Mg-1.9
+___ 07:10AM BLOOD Calcium-9.2 Phos-3.6 Mg-2.1
+___ 06:10AM BLOOD Calcium-8.6 Phos-2.8 Mg-2.0
+___ 06:15AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.1
+___ 07:10AM BLOOD Calcium-9.2 Phos-3.6 Mg-2.1
+___ 06:10AM BLOOD Calcium-8.6 Phos-2.8 Mg-2.0
+___ 06:15AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.1
+___ 03:14AM BLOOD Calcium-8.3* Phos-2.1* Mg-2.0
+___ 02:30PM BLOOD Calcium-8.1* Phos-2.4* Mg-2.2
+___ 07:45AM BLOOD VitB12-793
+___ 07:45AM BLOOD TSH-2.0
+___ 01:00AM BLOOD HoldBLu-HOLD
+___ 11:35AM BLOOD Type-ART pO2-181* pCO2-38 pH-7.41 
+calTCO2-25 Base XS-0 Intubat-INTUBATED
+___ 11:17PM BLOOD Type-ART Temp-36.7 Rates-14/ Tidal V-400 
+PEEP-5 FiO2-50 pO2-134* pCO2-43 pH-7.34* calTCO2-24 Base XS--2 
+-ASSIST/CON Intubat-INTUBATED
+___ 11:35AM BLOOD Hgb-7.3* calcHCT-22 O2 Sat-99
+___ 11:17PM BLOOD Hgb-9.6* calcHCT-29
+___ 11:35AM BLOOD freeCa-1.09*
+
+___ ECHO
+The left atrial volume is normal. No left atrial mass/thrombus 
+seen (best excluded by transesophageal echocardiography). The 
+estimated right atrial pressure is at least 15 mmHg. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Tissue Doppler imaging 
+suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. Trace aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. Moderate [2+] tricuspid regurgitation is seen. 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion. 
+
+IMPRESSION: Normal biventricular cavity sizes with preserved 
+regional and global biventricular systolic function. Moderate 
+tricuspid regurgitation. Mild pulmonary artery hypertension. 
+Increased PCWP.
+
+CLINICAL IMPLICATIONS: 
+Based on ___ AHA endocarditis prophylaxis recommendations, the 
+echo findings indicate prophylaxis is NOT recommended. Clinical 
+decisions regarding the need for prophylaxis should be based on 
+clinical and echocardiographic data.  
+
+Chest Xray ___
+CHEST RADIOGRAPH 
+  
+INDICATION:  Status post left upper lobectomy, chest tube 
+removal, evaluation. 
+  
+COMPARISON:  ___. 
+  
+FINDINGS:  As compared to the previous radiograph, the air-fluid 
+level 
+previously seen is resolved.  Apart of an approximately 8-mm 
+left apical 
+pneumothorax, the remaining left lung is well expanded.  There 
+is a minimal 
+effusion blunting the left costophrenic sinus. 
+  
+Normal appearance of the right lung.  Borderline size of the 
+cardiac 
+silhouette without pulmonary edema. 
+
+ 
+Brief Hospital Course:
+___ smoker with pmh of HTN who presents from OSH with 
+hemoptysis, recently found to have 2cm spiculated mass at L 
+hilar region encasing LUL bronchus, abutting L PA with course 
+c/b hemoptysis requiring MICU transfer and intubation.
+.
+# Pulmonary hemorrhage: Pt immediately transferred from floor to 
+ICU after desaturating to 91% on non-rebreather in setting of 
+continued small volume hemoptysis. Pt intubated for airway 
+protection and a bloody mucous plug was visualized in the left 
+mainstem bronchus. She was taken to OR by IP for rigid 
+bronchoscopy on ___ where she underwent left main stem 
+cautery and cryotherapy.  She went to ___ ___ for bronchial 
+artery embolization. A small common trunk supplying right and 
+left hilum was identified but could not be cannulated with a 
+catheter and guidewire. After several attempts, the vessel could 
+no longer be identified, possibly due to spasm or dissection, 
+and the procedure was aborted. She was extubated without 
+difficulty on ___ and transferred to the floor on ___. 
+ On the floor, her Hct remained stable and she had no episodes 
+of hemoptysis. She received codeine for cough suppression.
+.
+# Left Hilar Mass, RLL nodule: Likely malignant given smoking 
+history. Pt had EBUS and TBNA of lymph node (did not biopsy mass 
+due to concern for bleeding). TBNA of lymph node was negative 
+for malignant cells. Sputum cytology showed atypical cells, but 
+was nondiagnostic.  She was evaluated by both radiation oncology 
+and thoracic surgery. PET scan and brain MRI showed no evidence 
+of extra-pulmonary metastases. PFTs were performed ___ and 
+she was determined to be a surgical candidate.  The pt and her 
+family chose to pursue surgical intervention over radiation 
+therapy.
+. 
+#HTN: Held home nifedipine in setting of acute bleed and BPs 
+___.
+
+On ___ Thoracic Surgery was consulted for surgical 
+intervention and the patient was transferred to thoracic surgery 
+service. After in detail discussion with the patient and her 
+family she opt in for surgical intervention. Informed consent 
+was obtained after discussing risks and benefits of the 
+procedure. The patient was pre-op'ed and taken to the operating 
+room on ___. She underwent 
+1. Flexible bronchoscopy.
+2. Cervical mediastinoscopy.
+3. Left upper lobectomy.
+4. Arterioplasty of left main pulmonary artery.
+5. Mediastinal lymph node dissection.
+6. Buttressing of bronchial staple line with thymus.
+The procedure went well without complication. She was extubated 
+and transferred to the PACU. She did well in PACU and 
+transferred to surgical floor. Her pain was controlled with 
+epidural. On ___ her chest tube put out 350cc of fluids. He 
+SBP was in 80-90s, pt was asymptomatic, her home dose Nifadipine 
+was held for low blood pressure. her diet was advanced to 
+regular on ___, which she tolerated well. She was 
+triggered for new onset atrial fibrillation. Metoprolol 5 IV was 
+given, which she responded well. She also received 500cc of NS 
+bolus for low urine output with good response. On ___ she 
+received Metoprolol 5 IV for another episode of afib with hear 
+rate of 150s, she responded well. She desaturated requiring 6L 
+NC, she was then transferred to the TSICU for bedside 
+bronchoscopy. It was performed by interventional pulmonologist, 
+big mucus plug was removed. Her breathing status improved after 
+the procedure but she still remained on ___ L of oxygen through 
+nasal cannula. She remained in the ICU, received albuterol 
+nebulizers every 4 hours with good response. Cardiology was also 
+consulted for new onset afib. They recommended anticoagulation 
+and rate control. Metoprolol 12.5 BID and Xarelto 20 daily was 
+started. On ___, pt was doing well, she was only on 2L NC 
+Sats >92. Her foley was removed, she later voided without any 
+issues, her chest tube was also removed. The patient was 
+transferred to floor on the same day. On ___ her 
+Metoprolol dose was increased to TID for better rate control. On 
+___ she was again triggered for afib, received digoxin 
+load, which she responded well. Digoxin 125 daily was added to 
+her daily standing medications for better rate control.
+
+Physical therapy also evaluated the patient and recommended to 
+be discharged to rehabilitation clinic for further physical 
+therapy.
+ 
+On ___ pt was doing well, her vital signs were stable, 
+heart rate in good control, her pain well managed. After an 
+uneventful night she was discharged to rehab with follow up 
+instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin Dose is Unknown  PO MWF 
+2. Multivitamins 1 TAB PO DAILY 
+3. Calcium Carbonate 500 mg PO DAILY 
+4. NIFEdipine CR 60 mg PO DAILY 
+5. Vitamin D 400 UNIT PO DAILY 
+6. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-6-150 
+mg-unit-mg-mg oral daily 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+RX *bisacodyl 10 mg 1 suppository(s) rectally once a day Disp 
+#*30 Suppository Refills:*0
+3. Digoxin 0.125 mg PO DAILY 
+RX *digoxin 125 mcg 1 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*0
+4. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0
+5. Metoprolol Tartrate 25 mg PO TID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0
+6. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN pain 
+RX *oxycodone [Oxecta] 5 mg ___ tablet, oral only(s) by mouth 
+every four (4) hours Disp #*40 Tablet Refills:*0
+7. Rivaroxaban 20 mg PO DAILY 
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*60 Tablet Refills:*0
+8. Aspirin 81 mg PO DAILY 
+9. Calcium Carbonate 500 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-6-150 
+mg-unit-mg-mg oral daily 
+12. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Non-small cell lung
+Left lower lobe collapse
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for lung surgery and you are 
+recovering well. You are now ready for discharge.
+* Continue to use your incentive spirometer 10 times an hour 
+while awake.
+* Check your incisions daily and report any increased redness or 
+drainage.   Cover the area with a gauze pad if it is draining.
+* Your chest tube dressing may be removed in 48 hours.  If it 
+starts to drain, cover it with a clean dry dressing and change 
+it  as needed to keep site clean and dry.
+* You will continue to need pain medication once you are home 
+but you can wean it over a few weeks as the discomfort resolves. 
+ Make sure that you have regular bowel movements while on 
+narcotic pain medications as they are constipating which can 
+cause more problems.  Use a stool softener or gentle laxative to 
+stay regular.
+* No driving while taking narcotic pain medication.
+* Take Tylenol  ___ mg every 6 hours in between your narcotic.  
+* Continue to stay well hydrated and eat well to heal your 
+incisions
+* Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+* No tub bathing, swimming or hot tubs until incision healed
+* No lotions or creams to incision site
+* Walk ___ times a day and gradually increase your activity as 
+you can tolerate.
+
+Call Dr. ___ ___ if you experience:
+-Fevers > 101 or chills
+-Increased shortness of breath, chest pain or any other symptoms 
+that concern you.
+ 
+ 
+ 
+
+ 
+Followup Instructions:
+___

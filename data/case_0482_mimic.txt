@@ -1,0 +1,141 @@
+===== DISCHARGE NOTE =====
+note_id=13219959-DS-13 | hadm_id=29221643
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Epinephrine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bloody stools
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo F w/PMHx sx for HTN who presents with 
+BRBPR filling the toilet bowl, with associated nausea, vomiting, 
+diarrhea, and abdominal cramping. She has recently been taking a 
+course of doxycycline for presumed Lyme disease. She denies 
+fevers or chills. 
+.
+In the ED, she was hemodynamically stable. She had no obvious 
+fissure or hemorrhoids seen on anoscopy. She was given IV 
+ciprofloxacin and metronidazole. 
+.
+ROS: Negative except as noted above
+ 
+Past Medical History:
+HTN
+Osteoarthritis
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VS: 98.9 BP 170/86 HR 65 RR 18 O2sat 94%RA
+Gen: well appearing in NAD
+HEENT: MMM. 
+Hrt: RRR.
+Lungs: CTAB no RRW
+Abd: S/suprapubic tenderness. Nondistended. 
+Ext: WWP. No CCE.
+
+ 
+Pertinent Results:
+141  ___   AGap=12 
+------------- 
+3.7  28  1.0 \ 
+estGFR: 55/67 (click for details)  
+ALT: 35 AP: 116 Tbili: 0.5 Alb: 4.4 
+AST: 19 LDH: 197   
+ 81 
+9.9 \ 13.7 / 196 
+     ------
+      38.7  
+ N:67.6 L:27.1 M:4.6 E:0.5 Bas:0.2 
+
+Stool cx. negative times two.
+
+Bx. of splenic flexure pending at time of discharge
+ 
+Brief Hospital Course:
+A/P: ___ yo F presents with bloody diarrhea.
+.
+#. Bloody diarrhea - abated with bowel rest.  CT of the abdomen 
+with splenic flexure colitis.  GI consulted.  Flex sig 
+performed.  Colitis.  Cx. neg of stools times two.  Bx done and 
+pending, ? ischemic etiology.  Given oral abx. per GI 
+recommendations.  Diuretic held as ? ischemia and was 
+orthostatic and volume deplete on presentation.
+.
+# facial rash - etiology unclear, but bilateral, so highly 
+unlikely to be zoster.  Derm consulted.  Agree that etio 
+unclear.  Rec. Bx., but pt. refused.  Will follow up as 
+outpatient if persists.  ? fixed drug eruption from abx.
+ 
+Medications on Admission:
+Atenolol 25 mg qd
+Moexipril-HCTZ ___ QD
+Edecrin 12.5 mg qd
+Plendil 1 tab daily
+Aspirin 81 mg daily
+Prilosec 20 mg qd
+Doxycycline (Recently completed a course)
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*60 Tablet, Chewable(s)* Refills:*2*
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) for 1 days.
+Disp:*3 Tablet(s)* Refills:*0*
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 1 days.
+Disp:*2 Tablet(s)* Refills:*0*
+6. Felodipine 2.5 mg Tablet Sustained Release 24 hr Sig: One (1) 
+Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+7. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colitis of the splenic flexure.  Biopsies pending, etiology 
+unknown.
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Resume your home medications, but stop taking your diuretic 
+(moexepil-hydrochlorothiazide) as we discussed as this may 
+predispose dehydration and ischemic colitis.
+
+Return to the hospital for: bleeding, nausea, vomiting, fever, 
+abdominal pain
+ 
+Followup Instructions:
+___

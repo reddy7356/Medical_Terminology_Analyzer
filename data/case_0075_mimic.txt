@@ -1,0 +1,356 @@
+===== DISCHARGE NOTE =====
+note_id=17692557-DS-14 | hadm_id=21744186
+
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin base
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+
+attach
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 05:25PM BLOOD WBC-5.6 RBC-3.79* Hgb-11.6 Hct-34.7 
+MCV-92 MCH-30.6 MCHC-33.4 RDW-12.0 RDWSD-40.5 Plt ___
+___ 05:25PM BLOOD Glucose-103* UreaN-12 Creat-0.7 Na-144 
+K-4.7 Cl-107 HCO3-29 AnGap-8*
+___ 09:40AM BLOOD ALT-196* AST-56* AlkPhos-305* TotBili-0.3
+___ 05:25PM BLOOD Calcium-9.0 Phos-4.1 Mg-1.7
+
+Discharge Labs:
+===============
+___ 06:40AM BLOOD WBC-5.1 RBC-3.80* Hgb-11.4 Hct-35.8 
+MCV-94 MCH-30.0 MCHC-31.8* RDW-12.0 RDWSD-42.0 Plt ___
+___ 06:40AM BLOOD Glucose-90 UreaN-10 Creat-0.7 Na-147 
+K-4.4 Cl-107 HCO3-29 AnGap-11
+___ 06:40AM BLOOD ALT-112* AST-31 AlkPhos-207* TotBili-0.3
+___ 06:40AM BLOOD Lipase-32
+___ 06:40AM BLOOD Calcium-9.2 Phos-4.1 Mg-1.___ with PMH history of ETOH use, pancreatitis, GERD, recently 
+found to have a biliary stricture, who presented for monitoring 
+post-ERCP. 
+
+# Biliary/pancreatic ductal strictures s/p EUS, ERCP, plastic 
+stent
+and brushings
+Has a history of pancreatitis and was recently seen in Pancreas 
+Clinic. MRCP was obtained which showed a dilated gallbladder 
+consistent with chronic
+cholecystitis. There was also abrupt tapering of CBD and PD in 
+the head of the pancreas.
+She underwent ERCP and EUS for further evaluation. Plastic stent 
+was placed, sphincterotomy was performed, and brushings were 
+obtained.
+She was hydrated overnight post-procedure. She had very mild 
+abdominal pain in the morning which quickly resolved. Lipase was 
+normal. Diet was advanced and she was tolerating a regular diet 
+at time of discharge. Per ERCP recommendations she was 
+discharged on prophylactic ciprofloxacin with plans for a 5 day 
+course.
+
+# GERD: continued omeprazole 
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- needs follow up ERCP in ___ weeks for stent pull
+- pathology from bile duct brushings pending at time of 
+discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. TraZODone 50 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 4 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*8 Tablet Refills:*0 
+2.  Omeprazole 20 mg PO DAILY  
+3.  TraZODone 50 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Biliary stricture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in to have an ERCP procedure. The procedure was 
+performed because you were found to a narrowed area of your bile 
+duct. A stent was placed to open up the blockage. A biopsy was 
+also performed.
+
+You will need another ERCP in ___ weeks to have the stent 
+removed.
+The ERCP doctors ___ with the biopsy results. Please 
+call the office at ___ if you have not heard from 
+anyone in 10 days.
+
+You are also being discharged on an antibiotic to help prevent 
+an infection after the procedure. You should take this 
+antibiotic for the next four days.
+
+It was a pleasure taking care of you, and we're happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17692557-DS-13 | hadm_id=22381391
+
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Epigastric pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ GERD, chronic pancreatitis of unclear etiology, recent 
+admission for acute-on-chronic pancreatitis, who presented to 
+___ with epigastric pain.
+
+She was recently admitted to ___ for pancreatitis. CT 
+abdomen, MRCP and EUS were performed. The conclusion of the 
+imaging workup is that the pancreatitis appeared predominantly 
+chronic.
+
+She reports that recently she lost her son unexpectedly and she 
+has been drinking five glasses of wine a night for the past two 
+months. She felt bashful about this and had not admitted this to 
+any healthcare provider ___. 
+
+Since her discharge about ten days ago, she improved back to her 
+baseline and was symptom free until the afternoon of ___ when 
+she had recurrence of epigastric and RUQ abdominal pain. This 
+was about ___ in severity. No fevers chills. No nausea 
+vomiting. No diarrhea. 
+
+She presented to the ___ labs were notable for no 
+leukocytosis, no notable electrolyte derangements, AST 262, ALT 
+86, AP 179, Tbili 0.4, lipase 1777. Transferred to ___ ___ in 
+case ERCP would be needed. Vitals in the ___ ___ were stable: 
+98.0F, HR 58, 147/60, 18, 97% RA. Basic labs were not notably 
+changed compared to values from ___. She was admitted to 
+medicine.
+
+Of note, while her recent alcohol habit likely explains her two 
+recent episodes of pancreatitis, she denies ever drinking 
+heavily and regularly prior to ___ therefore the etiology 
+of her subclinical chronic pancreatitis remains unclear. She has 
+a dilated CBD, but no stones or sludge were seen on EUS and - 
+per discussion with the ERCP fellow - the partial blockage is 
+likely from mass effect of a pancreatic duct stone (i.e. a 
+symptom of the pancreatitis, not its root cause). Triglycerides 
+were normal. IgG4 was normal. 
+
+REVIEW OF SYSTEMS
+ GEN: denies fevers/chills
+ CARDIAC: denies chest pain or palpitations
+ PULM: denies new dyspnea or cough
+ GI: as per HPI
+ GU: denies dysuria or change in appearance of urine
+ Full 14-system review of systems otherwise negative and 
+non-contributory. 
+ 
+Past Medical History:
+Pancreatitis
+GERD
+C-section x2
+ 
+Social History:
+___
+Family History:
+Mother had head and neck cancer.
+no family history of pancreatitis
+ 
+Physical Exam:
+DISCHARGE EXAM
+ VITALS: 98.0F, HR 58, 147/60, 18, 97% RA.
+ CONSTITUTIONAL: NAD
+ EYE: sclerae anicteric, EOMI
+ ENT: audition grossly intact, MMM, OP clear 
+ LYMPHATIC: No LAD
+ CARDIAC: RRR, no M/R/G, JVP not elevated, no edema
+ PULM: normal effort of breathing, LCAB
+ GI: soft, ND, NABS, minimal epigastric tenderness on palpation
+ GU: no CVA tenderness, suprapubic region soft and nontender
+ MSK: no visible joint effusions or acute deformities.
+ DERM: no visible rash. No jaundice.
+ NEURO: AAOx3. No facial droop, moving all extremities.
+ PSYCH: somewhat dysthymic and blunted affect
+ 
+Pertinent Results:
+LABS:
+___ 06:40AM BLOOD WBC-7.0 RBC-3.48* Hgb-11.6 Hct-35.2 
+MCV-101* MCH-33.3* MCHC-33.0 RDW-12.6 RDWSD-46.8* Plt ___
+___ 06:40AM BLOOD Glucose-96 UreaN-10 Creat-0.6 Na-143 
+K-3.7 Cl-107 HCO3-24 AnGap-12
+___ 06:40AM BLOOD Ethanol-NEG
+
+NOTABLE LABS FROM ___:
+___: AST 262, ALT 86, AP 179, Tbili 0.4, lipase 1777
+Prior admission: IgG4 11.8 (normal), triglycerides 90
+
+RUQ US ___
+1. Dilated CBD up to 11 mm, tapering down smoothly to the level 
+of the ampulla. No intrahepatic biliary dilation.
+2. Mildly heterogeneous head and proximal body of the pancreas 
+without identifiable stone sonographically. No pancreatic duct 
+dilation.
+
+EUS ___ (prior admission)
+Pancreatic parenchymal changes suggestive of chronic 
+pancreatitis.
+CBD dilation to 12 mm without stones or sludge.
+Normal appearing ampulla.
+
+MRCP ___ (prior admission)
+4 mm pancreatic calcification appears to represent mid
+pancreatic duct stone. Associated acute pancreatitis involving 
+the body and tail the pancreas. No pancreatic abscess or 
+pseudocyst at this time.
+
+ 
+Brief Hospital Course:
+___ w/ GERD, chronic pancreatitis of unclear etiology, admitted 
+for acute-on-chronic pancreatitis.
+
+#RECURRENT IDIOPATHIC ACUTE PANCREATITIS
+New rise in lipase with associated epigastric pain suggests 
+acute-on-chronic pancreatitis. Cause is likely her recent 
+alcohol overuse. She improved quickly with IVF and was 
+tolerating diet with minimal pain. 
+Case was discussed with ERCP fellow, who does not feel that any 
+further procedures are indicated. While she has radiographic 
+evidence of a PD stone, extracting these has no proven benefit.
+Counseled strict abstinence from alcohol. Encouraged her to quit 
+smoking given that this can exacerbate chronic pancreatitis. To 
+help her quit smoking, and to help with mood symptoms that are a 
+trigger for her drinking, I have given her a 60 day trial of 
+Wellbutrin.
+
+#SUBACUTE CHRONIC PANCREATITIS
+EUS showed multiple changes, such as calcifications, that 
+suggest a component of underlying chronic pancreatitis. While 
+her recent alcohol habit likely explains her two recent episodes 
+of acute pancreatitis, she denies ever drinking heavily and 
+regularly prior to ___ therefore the etiology of her 
+subclinical chronic pancreatitis remains unclear. She has a 
+dilated CBD, but no stones or sludge were seen on EUS and - per 
+discussion with the ERCP fellow - the partial blockage is likely 
+from mass effect of a nearby pancreatic duct stone (i.e. a 
+symptom of the chronic pancreatitis, not its root cause). 
+Triglycerides were normal. IgG4 was normal. I have advised her 
+to follow up with GI non-urgently for further workup as an 
+outpatient
+
+#MACROCYTIC ANEMIA
+Macrocytosis with MCV of 101 and mild anemia. Likely due to 
+alcohol. If persistent after alcohol cessation, would check 
+thiamine and folate. 
+
+#GERD: 
+Continues omeprazole 20 mg daily.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  BuPROPion (Sustained Release) 150 mg PO BID 
+RX *bupropion HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+3.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for acute pancreatitis. Fortunately you 
+improved quite quickly. This was likely caused by a recent 
+increase in your drinking, which you tell me has been a coping 
+strategy after the loss of your son. 
+
+It is important that you stop drinking ENTIRELY. Once the 
+pancreas is inflamed, even a small insult can make it flare up 
+again. Smoking is also bad for pancreatitis, so I also suggest 
+that you try your best to quit smoking (but alcohol is the 
+higher priority if you feel unable to do both). 
+
+I am prescribing bupropion (Wellbutrin), which is a quit-aid for 
+smokers and also a mild antidepressant. This will make it easier 
+to quit smoking, and may also help with mood symptoms that have 
+been a trigger for alcohol overuse. If you do not tolerate the 
+medication, it is OK to stop it. 
+
+Your idea of going for a long walk whenever you feel sad is a 
+very sound one. The endorphins from gentle exercise provide a 
+similar emotional relief to having a drink. I suggest also being 
+open with your friends and family about your recent struggles; 
+it is important to have people in your life who can support you 
+emotionally, and also keep you occupied with social activities. 
+AA is also an option; whether or not you feel that the meetings 
+themselves are helpful, AA is a good way to meet other people 
+who want to form sober friendships and can offer mutual support. 
+
+ 
+Followup Instructions:
+___

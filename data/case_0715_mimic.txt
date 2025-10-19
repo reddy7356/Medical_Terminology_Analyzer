@@ -1,0 +1,115 @@
+===== DISCHARGE NOTE =====
+note_id=15888164-DS-20 | hadm_id=25033292
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Paxil
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 01:27PM BLOOD WBC-18.1* RBC-4.11* Hgb-13.8 Hct-41.3 
+MCV-101* MCH-33.6* MCHC-33.4 RDW-14.3 RDWSD-53.1* Plt ___
+___ 01:27PM BLOOD Neuts-90.7* Lymphs-3.3* Monos-5.2 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-16.42* AbsLymp-0.60* 
+AbsMono-0.95* AbsEos-0.00* AbsBaso-0.02
+___ 07:38PM BLOOD ___ PTT-31.3 ___
+___ 12:00PM BLOOD Glucose-105* UreaN-32* Creat-1.7* Na-131* 
+K-5.0 Cl-95* HCO3-19* AnGap-17
+___ 12:00PM BLOOD ALT-75* AST-223* CK(CPK)-2934* 
+AlkPhos-116 TotBili-1.4
+___ 12:00PM BLOOD CK-MB-3 cTropnT-0.06*
+___ 12:00PM BLOOD Albumin-3.4* Calcium-9.1 Phos-4.4 Mg-2.2
+___ 12:31PM BLOOD ___ pO2-46* pCO2-33* pH-7.43 
+calTCO2-23 Base XS-0 Comment-GREEN TOP 
+
+DISCHARGE LABS: 
+Patient deceased
+
+IMAGING: 
+CT Chest
+IMPRESSION:  
+Extensive bilateral ground-glass opacities with peripheral 
+fibrosis, 
+bronchiectasis, and a few scattered foci of honeycombing are new 
+from ___.  
+These findings ___ represent progression of NSIP, however due to 
+significant 
+respiratory motion, superimposed infectious process is difficult 
+to exclude in 
+the appropriate clinical context.  If clinically indicated, 
+recommend further 
+evaluation with nonurgent, high-resolution CT scan with ILD 
+protocol 
+
+ 
+Brief Hospital Course:
+Mr. ___ presented with fever and altered mental status and 
+was found to have hypoxic respiratory failure and septic shock. 
+He also had one run of sustained ventricular tachycardia from 
+hypokalemia that resolved with potassium repletion. Regarding 
+his septic shock, he was given fluids and vasopressors. He was 
+found to have positive blood cultures with group B strep with 
+subsequent TTE showing a vegetation on his mitral valve and was 
+receiving IV antibiotics for endocarditis. His hypoxic 
+respiratory failure continued to worsen during his ICU stay. 
+Initially thought secondary to bacterial pneumonia on top of his 
+severe non-specific interstitial pneumonia exacerbated by volume 
+overload, Mr. ___ initially responded favorably to 
+antibiotics and diuresis. However, his baseline dementia 
+complicated by ICU delirium lead to silent aspiration 
+contributing to worsening lung function. His pulmonary edema 
+also began to worsen despite aggressive diuresis. He 
+decompensated overnight on ___ with severe tachypnea and 
+accessory muscle use. He was placed back on HFNC and given 
+morphine for dyspnea. He was started on steroids for any 
+contribution from his ILD recognizing the risk of worsening his 
+endocarditis. A family meeting was held subsequent to his 
+clinical deterioration, a living will from Mr. ___ 
+documented that he would not want life-sustaining treatments if 
+there was no hope of meaningful recovery/quality of life. Thus, 
+the goal of care was shifted to focusing on comfort/quality of 
+life. Later in the day on ___, Mr. ___ expired from 
+hypoxic respiratory failure.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion (Sustained Release) 100 mg PO QAM 
+2. Rivaroxaban 10 mg PO DAILY 
+3. Atorvastatin 20 mg PO QPM 
+4. Allopurinol ___ mg PO BID 
+5. DULoxetine ___ 30 mg PO DAILY 
+6. trospium 20 mg oral BID 
+7. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+Deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Deceased
+ 
+Followup Instructions:
+___

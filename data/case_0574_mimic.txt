@@ -1,0 +1,324 @@
+===== DISCHARGE NOTE =====
+note_id=14890891-DS-14 | hadm_id=22259776
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+collapse
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ is a ___ M h/o HTN, psoriasis and psoriatic
+arthritis on ixekizumab, anxiety, depression, who presents with
+witnessed loss of consciousness. 
+
+He collapsed with LOC while standing at a ___ game; 
+surrounded
+by bystanders but no friends or family to witness. He did fall
+backward and hit his head on concrete. He received bystander 
+CPR.
+When EMS arrived he had a pulse and was breathing irregularly. 
+He
+was found to be hypoglycemic to 40 and he received dextrose.
+Given his persistent altered mental status, he was intubated by
+EMS with succinylcholine and etomidate, and also required
+additional Versed for sedation. Per ED nursing report, he was
+following commands with nodding yes and shaking head no. 
+
+In the ED,  
+Initial Vitals: ___, 18, 95% intubated 
+
+Exam notable for: Abrasion to left parietal area. Intubated, 27
+at the teeth. Neuro exam: intubated, not responding to painful
+stimuli
+
+Labs: 
+- WBC 6.9, HGB 13.5, 186  
+- BMP WNL 
+- AST 76, ALT 61, alk phos 100, Tbili 0.5 
+- Trop neg x1 
+- Lactate 3.3
+Utox positive for benzos 
+UA overall unremarkable 
+
+Imaging:  
+CT spine: No acute cervical fractures identified.
+NCHCT: No acute intracranial process 
+
+CXR: Endotracheal tube terminates approximately 4.6 cm above the
+carina.  Low lung volumes, which accentuate the bronchovascular 
+markings.  Given this, prominence of the central pulmonary
+vasculature may be due to vascular engorgement/component of
+edema, underlying aspiration not excluded.  Difficult to
+accurately assess the cardiomediastinal silhouette due to 
+patient
+position. 
+  
+CTA C/A/P: 1. Bibasilar pulmonary consolidations consistent with
+aspiration.
+2. No acute intra-abdominal findings.
+
+Interventions:  IV DRIP Fentanyl Started 50 mcg/hr, Propofol (20
+to 40) 
+
+VS Prior to Transfer:   59, 122/94, 18, 98% fio2 
+
+On arrival to ICU, pt is intubated and sedated. Not following
+commands. Propofol had been just increased iso pt pulling at
+tube. Spoke with wife ___ by phone, who reports that pt has
+a history of dizzy episodes that happen at least once a month,
+associated with lip numbness. Has been present for upwards of a
+year. Has discussed this with providers in the past though no
+diagnosis made. Had been switched off Lisinopril to losartan in
+hopes that it might improve this, per wife. Has never checked
+fingerstick glucose during dizzy episodes. No syncope. ___ have
+had a dizzy spell prior to the presenting event. 
+
+ 
+Past Medical History:
+HTN 
+Psoriasis 
+Psoriatic arthritis 
+Depression 
+Anxiety 
+s/p gastric bypass ___, ___ 
+s/p appendectomy when young 
+ 
+ 
+Social History:
+___
+Family History:
+Parents alive and relatively healthy in ___. Dad has had "heart
+trouble" including MI in the past. 2 brothers had MI in ___. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================  
+VS: reviewed in Metavision   
+GEN:  WD WN obese man in NAD, intubated and sedated 
+HEENT: PERRL. intubated 
+NECK:  c collar still in place
+CV:  RRR, no m/r/g
+RESP:  CTAB on anterior exam 
+GI:  soft, nondistended, nontender 
+MSK:  no ___
+SKIN:  warm, missing toenails, no rashes on extremities 
+NEURO:  sedated on prop, not following commands. per nursing
+pulls at tube with suctioning. 
+later with decreased prop following commands, giving thumbs up,
+opening eyes. +sustained clonus in BLE. 
+
+DISCHARGE PHYSICAL EXAM:  
+========================
+24 HR Data (last updated ___ @ 815)
+    Temp: 98.5 (Tm 99.1), BP: 148/99 (108-148/72-99), HR: 61
+(61-74), RR: 20 (___), O2 sat: 94% (93-99), O2 delivery: RA   
+GEN: sitting in bed in NAD
+HEENT: PERRL
+NECK: normal JVP
+CV:  RRR, no m/r/g
+RESP:  LCTA, normal WOB
+GI:  soft, nondistended, nontender 
+Ext: warm, no edema, 2+ DP b/l
+SKIN: no rashes
+NEURO: alert and oriented x3, CN III-XII intact, ___ strength in
+upper and lower extremities b/l 
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 04:45PM BLOOD WBC-6.9 RBC-4.44* Hgb-13.5* Hct-40.4 
+MCV-91 MCH-30.4 MCHC-33.4 RDW-13.0 RDWSD-43.4 Plt ___
+___ 04:45PM BLOOD Neuts-51.0 ___ Monos-9.9 Eos-2.2 
+Baso-0.9 Im ___ AbsNeut-3.54 AbsLymp-2.21 AbsMono-0.69 
+AbsEos-0.15 AbsBaso-0.06
+___ 04:45PM BLOOD ___ PTT-30.7 ___
+___ 04:45PM BLOOD Glucose-121* UreaN-9 Creat-1.0 Na-141 
+K-3.8 Cl-105 HCO3-23 AnGap-13
+___ 04:45PM BLOOD ALT-61* AST-76* AlkPhos-100 TotBili-0.5
+___ 04:45PM BLOOD cTropnT-<0.01
+___ 04:45PM BLOOD Albumin-4.6 Calcium-8.6 Phos-4.1 Mg-1.9
+___ 11:54PM BLOOD %HbA1c-5.3 eAG-105
+___ 04:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 12:11AM BLOOD ___ Temp-36.8 pO2-52* pCO2-49* 
+pH-7.32* calTCO2-26 Base XS--1 As/Ctrl-ASSIST/CON
+___ 04:55PM BLOOD Lactate-3.3*
+___ 12:11AM BLOOD Lactate-1.0
+
+STUDIES: 
+========
+CHEST (PORTABLE AP) Study Date of ___  
+Patient oblique in position.  Endotracheal tube terminates 
+approximately 4.6 cm above the carina.  Low lung volumes, which 
+accentuate the bronchovascular markings.  Given this, prominence 
+of the central pulmonary vasculature may be due to vascular 
+engorgement/component of edema, underlying aspiration not 
+excluded.  Difficult to accurately assess the cardiomediastinal 
+silhouette due to patient position. 
+
+CT HEAD W/O CONTRAST Study Date of ___ 
+No acute intracranial process.
+
+CT C-SPINE W/O CONTRAST Study Date of ___  
+No acute cervical fractures identified.
+
+CTA CHEST  Study Date of ___  
+1. Bibasilar pulmonary consolidations consistent with 
+aspiration. 
+2. No acute intra-abdominal findings. 
+
+DISCHARGE LABS
+===============
+
+___ 04:18AM BLOOD WBC-7.2 RBC-4.35* Hgb-13.3* Hct-39.0* 
+MCV-90 MCH-30.6 MCHC-34.1 RDW-13.0 RDWSD-42.8 Plt ___
+___ 04:18AM BLOOD Plt ___
+___ 06:06AM BLOOD Glucose-91 UreaN-10 Creat-0.9 Na-143 
+K-3.8 Cl-104 HCO3-24 AnGap-15
+___ 06:06AM BLOOD ALT-37 AST-36
+___:06AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.___ M h/o HTN, psoriasis and psoriatic arthritis on ixekizumab, 
+anxiety, depression, who presented with collapse and LOC, 
+subsequently found to be hypoglycemic with AMS and irregular 
+breathing s/p intubation. 
+
+TRANSITIONAL ISSUES: 
+=====================
+[] If hypoglycemia recurs, consider sending at time of 
+hypoglycemia: insulin, c peptide, proinsulin, BHB, sulfonylurea 
+and meglitinide screen 
+[] Consider need for cardiac monitor to evaluate for underlying 
+arrhythmias 
+[] Please make sure to follow up with the Nutritionist from the 
+Bariatric Surgery group to help you manage your food choices.
+[] Please see your PCP ___ ___ days. 
+[] Patient was provided with educational materials on 
+appropriate diet choices.
+
+ACUTE ISSUES: 
+===============
+# Syncope
+Witnessed collapse while at ___ and received bystander 
+CPR but unclear whether he ever lost a pulse. Details of event 
+not available. DDX includes potentially hypoglycemia triggered 
+syncope, seizure, less likely cardiac arrest. Of note, patient 
+reports history of dizzy episodes, so prior undocumented 
+hypoglycemia or cardiac arrhythmia is possible. This admission, 
+he had no no events on tele, trops neg x2, TTE showed no 
+abnormalities. He was normoglycemic. EEG was unremarkable. 
+Infectious workup negative aside from CT chest showing bibasilar 
+consolidations c/w aspiration. 
+
+# Hypoglycemia 
+Hypoglycemic to 40 upon EMS arrival. No history of DM, not on 
+insulin. History of bariatric surgery. He endorses a history of 
+these episodes since his surgery, explaining that these episodes 
+have been occurring a few times a week since the surgery. He 
+also endorses poor dietary choices. This admission he was 
+normoglycemic. If hypoglycemia recurs, consider sending at time 
+of hypoglycemia: insulin, c peptide, proinsulin, BHB, 
+sulfonylurea and meglitinide screen. He was given a lot of 
+education regarding checking his FSBS with a glucometer as well 
+as acarbose should he experience hypoglycemia unresponsive to po 
+sugar.
+
+# Respiratory failure 
+Intubated in the field in the setting of altered mental status 
+and irregular breathing after collapsing. He was rapidly 
+extubated after ICU admission with improvement of mental status 
+with weaning of sedation. He was stable on RA. 
+
+CHRONIC ISSUES: 
+=================
+#HTN: initially held losartan but restarted by discharge 
+
+#Psoriasis 
+#Psoriatic arthritis: on outpatient infusions q6 weeks of 
+biologic Ixekizumab (Taltz) 
+
+#Depression 
+#Anxiety: continued venlafaxine 
+
+#CODE STATUS: full confirmed 
+#EMERGENCY CONTACT: ___, spouse (___)
+
+Patient seen and examined before discharge. Agree with summary 
+as documented.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 25 mg PO DAILY 
+2. Venlafaxine 75 mg PO BID 
+3. ixekizumab 80 mg/mL subcutaneous EVERY 6 WEEKS 
+
+ 
+Discharge Medications:
+1.  Acarbose 25 mg PO X2 PRN low blood sugar 
+use if you are feeling dizzy, weak, and/or blood glucose is < 
+80. If < 60, take 2 tabs and call EMS 
+RX *acarbose 25 mg ___ tablet(s) by mouth as needed Disp #*10 
+Tablet Refills:*0 
+2.  ixekizumab 80 mg/mL subcutaneous EVERY 6 WEEKS  
+3.  Losartan Potassium 25 mg PO DAILY  
+4.  Venlafaxine 75 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+Syncope 
+Hypoglycemia 
+Respiratory failure 
+
+SECONDARY DIAGNOSIS: 
+Hypertension 
+Anxiety, Depression 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure to care for you at ___ 
+___. 
+
+WHY WERE YOU ADMITTED? 
+- You collapsed and lost consciousness. You required a breathing 
+tube to be placed to support your breathing. 
+
+WHAT HAPPENED IN THE HOSPITAL? 
+- You improved rapidly and the breathing tube was removed. 
+- Your sugars were checked and they were all normal.
+
+WHAT SHOULD YOU DO AT HOME? 
+- Take your medications as written. 
+- Please make sure to closely follow a diet that is low in 
+glycemic index.
+- Please follow up with your primary care doctor. 
+
+We wish you the best, 
+Your ___ team 
+ 
+Followup Instructions:
+___

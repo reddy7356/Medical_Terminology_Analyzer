@@ -1,0 +1,1320 @@
+===== DISCHARGE NOTE =====
+note_id=16352630-DS-15 | hadm_id=20530559
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Singulair
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rectal bleeding
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with past medical history
+of Afib (on warfarin), HTN, HLD, hemorrhoids, diverticulosis, 
+and
+stroke, presenting with new BRBPR.
+
+The patient reports that on the AM of ___, he had sudden onset,
+one episode of BRBPR. He has never had this before. There were 
+no
+significant associated symptoms including no diarrhea, no
+abdominal pain.
+
+On arrival to the ED, he was noted to have Bright red blood per
+rectum on exam. Vitals were stable. Hgb 12.5-> 14.6->13.6,
+creatinine 1.5 (unknown baseline), trop negative x1, INR
+6.3->4.8. He had no further episodes of bleeding. 
+
+The ED spoke with GI who recommended monitoring and if bled
+again, will consider scope. Also recommended reversal of INR 
+with
+Vitamin K.
+
+patient received Vitamin K 2.5 mg x2 and his home meds.
+
+Decision was made to admit to medicine for further monitoring.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+1. Seasonal allergies  
+2. Moderate mitral regurgitation  
+3. Left ventricular hypertrophy  
+4. Atrial fibrillation (s/p failed cardioversion x 1), dx ___, 
+not started on rate control until ___, unclear reasons
+5. Hypertension  
+6. Hyperlipidemia  
+7. History of chronic vertigo  
+8. Hemorrhoids  
+9. Diverticulosis  
+10. Colonic adenomas  
+11. Depression  
+12. Recurrent nephrolithiasis  
+13. Sleep apnea  
+14. History of EtOH abuse and marijuana abuse  
+15. Chronic kidney disease.  
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+
+Family history is negative for sudden cardiac death, 
+arrhythmias, or early CAD.
+ 
+Physical Exam:
+ADMISSION EXAM:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+VITALS: ___ 0821 Temp: 98.0 PO BP: 177/96 HR: 80 RR: 18 O2
+sat: 97% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GENERAL: Alert and in no apparent distress
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: easy WOB, CTAB
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:11AM   WBC-8.4 RBC-3.61* HGB-12.5* HCT-37.4* 
+MCV-104* MCH-34.6* MCHC-33.4 RDW-13.9 RDWSD-53.1*
+___ 12:11AM   NEUTS-75.6* LYMPHS-16.4* MONOS-6.3 EOS-0.1* 
+BASOS-0.5 IM ___ AbsNeut-6.34* AbsLymp-1.38 AbsMono-0.53 
+AbsEos-0.01* AbsBaso-0.04
+___ 12:11AM   PLT COUNT-127*
+___ 12:11AM   ___ PTT-40.2* ___
+___ 12:11AM   GLUCOSE-103* UREA N-31* CREAT-1.5* SODIUM-146 
+POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-26 ANION GAP-12
+___ 12:11AM   ALT(SGPT)-18 AST(SGOT)-20 ALK PHOS-38* TOT 
+BILI-0.8
+___ 12:11AM   LIPASE-27
+___ 12:11AM   cTropnT-<0.01
+___ 12:11AM   ALBUMIN-3.5
+
+INTERVAL LABS:
+___ 06:05AM BLOOD WBC-8.3 RBC-4.21* Hgb-14.6 Hct-43.7 
+MCV-104* MCH-34.7* MCHC-33.4 RDW-14.0 RDWSD-53.3* Plt ___
+___ 11:20AM BLOOD WBC-6.9 RBC-3.93* Hgb-13.6* Hct-40.7 
+MCV-104* MCH-34.6* MCHC-33.4 RDW-14.1 RDWSD-54.1* Plt ___
+___ 05:54AM BLOOD WBC-6.4 RBC-4.01* Hgb-13.7 Hct-41.4 
+MCV-103* MCH-34.2* MCHC-33.1 RDW-13.6 RDWSD-51.6* Plt ___
+
+___ 11:20AM BLOOD ___
+___ 01:05PM BLOOD ___
+ 
+Brief Hospital Course:
+___ yo M PMHx Afib (on warfarin), HTN, HLD, hemorrhoids, 
+diverticulosis, and stroke who presented with bright red blood 
+per rectum.
+
+ACUTE/ACTIVE PROBLEMS:
+# Rectal bleeding: 
+Patient reported constipation, hard stools, and needing to use 
+an enema at home prior to admission.  Rectal bleeding started 
+after using the enema at home.  His hemoglobin at admission was 
+12.5 (last checked in ___ at 15.6).  He was given 
+vitamin K.  GI was consulted.  His hemoglobin remained stable 
+throughout his hospitalization (discharge value 13.6) and he had 
+no further episodes of bleeding.  He had a recent colonoscopy ___ 
+years ago) putting malignancy lower on the differential.  After 
+discussion with GI and further hemoglobin monitoring, the 
+patient was not thought to require inpatient colonoscopy. The 
+most likely etiology of the patient's rectal bleeding was 
+hemorrhoidal vs. local trauma from enema. He was predisposed to 
+bleed given INR elevated at 6 at time of admission.  He was 
+encouraged to eat a high fiber diet, stay well hydrated, and 
+start miralax daily.  He was encouraged to discuss outpatient 
+colonoscopy with his PCP ___ ___ months.   
+
+# Afib on warfarin
+# Supratherapeutic INR: 
+INR 6.3 at admission.  Given two doses of vitamin K.  INR 3 at 
+discharge.  Given patient's stable Hb and resolution of 
+bleeding, he was restarted on Coumadin.  He follows with the 
+___ clinic.  He will have an INR check the day 
+after discharge.
+
+#Ear infection; 
+Finishes course of amox-clav on ___. Continue 
+Neomycin-Polymyxin ear drops
+
+# BPH
+Continue finasteride
+
+# Allergic rhinitis
+Continue Flonase
+
+# HLD: continue pravastatin.
+# Asthma: Continue daily prednisone. Not on albuterol inhaler as 
+it doesn't help
+
+TRANSITIONAL ISSUES:
+[] INR supratherapeutic at admission.  Discharge INR 3.  ___ 
+require closer monitoring 
+[] Discuss outpatient colonoscopy in ___ months
+
+> 30 minutes spent in discharge planning and counseling
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. PredniSONE 10 mg PO DAILY 
+3. Losartan Potassium 50 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+6. Warfarin 2.5 mg PO DAILY16 
+7. Pravastatin 40 mg PO QPM 
+8. Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -125 unit oral DAILY 
+9. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+10. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+11. Neomycin-Polymyxin-HC Otic Susp 3 DROP LEFT EAR BID 
+
+ 
+Discharge Medications:
+1.  Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0 
+3.  Polyethylene Glycol 17 g PO BID 
+RX *polyethylene glycol 3350 [ClearLax] 17 gram/dose 1 dose by 
+mouth twice a day Disp #*60 Packet Refills:*0 
+4.  Psyllium Powder 1 PKT PO DAILY 
+RX *psyllium husk (aspartame) [Metamucil Fiber Singles] 3.4 gram 
+1 packet(s) by mouth once a day Disp #*30 Packet Refills:*0 
+5.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+6.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H  
+7.  Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -125 unit oral DAILY  
+8.  Finasteride 5 mg PO DAILY  
+9.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+10.  Losartan Potassium 50 mg PO DAILY  
+11.  Metoprolol Succinate XL 25 mg PO DAILY  
+12.  Neomycin-Polymyxin-HC Otic Susp 3 DROP LEFT EAR BID  
+13.  Pravastatin 40 mg PO QPM  
+14.  PredniSONE 10 mg PO DAILY  
+15.  Warfarin 2.5 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hematochezia
+Suspected hemorrhoidal bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital with bleeding from the rectum.  We 
+suspect this bleeding was from a hemorrhoid.  Your blood counts 
+remained stable and your bleeding resolved.  To reduce the risk 
+of this type of bleeding before, please ensure you have soft 
+bowel movements every day.  This can be accomplished by eating a 
+high fiber diet, or taking stool softeners and laxatives as 
+needed.
+
+You were also found to have an elevated INR.  You were given 
+vitamin K to reverse the INR.  Since your bleeding stopped and 
+was mild, you are safe to resume your Coumadin.  This will need 
+to be followed closely to ensure it does not get too high again 
+in the future.
+
+It was a pleasure taking care of you at ___!
+-- Your medical team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16352630-DS-13 | hadm_id=21835079
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+double vision
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ is an ___ M with atrial fibrillation,
+hypertension, hypercholesterolemia and marijuana use who
+presents to the ED as a referral from his PCP following an
+episode of transient diplopia. He explains that he was on the T
+this afternoon at 1pm reading, when he suddenly noticed that the
+words on his book were double, "like my eyes were suddenly
+disconnected". He described skewed/diagonal diplopia, and when
+asked if the double vision went away when he closed one eye, he
+said "maybe". It did not appear to improve in any particular
+direction of gaze. He did not experience any associated symptoms
+such as vertigo, headache, dysequilibrium, asymmetric numbness 
+or
+weakness, facial drooling, dysphagia or dysarthria. The episode
+lasted ___ minutes. 
+
+He reports that two months prior he had an identical episode. He
+was reading at the time also, and it occurred in the
+mid-afternoon. He has never experienced any other episodes of
+double vision. He denies having any recent problems with 
+weakness
+of his arms or neck muscles. He has not noted particularly 
+severe
+weakness, double vision or eyelid drooping at the end of the 
+day.
+
+Review of systems is otherwise negative for fevers, cough,
+congestion, flu-like symptoms, headaches, abdominal pain,
+dysuria, hematuria, lower extremity edema, rash or any new
+medications. 
+ 
+Past Medical History:
+asthma, seasonal allergies,
+moderate mitral regurgitation, left ventricular hypertrophy,
+atrial fibrillation (s/p failed cardioversion x 1), 
+hypertension,
+hyperlipidemia, history of chronic vertigo, hemorrhoids,
+diverticulosis, colonic adenomas, depression, recurrent
+nephrolithiasis, sleep apnea, history of EtOH abuse and 
+marijuana
+abuse and chronic kidney disease. 
+ 
+Social History:
+___
+Family History:
+Family history is negative for neurologic illness. He is
+currently unemployed, and use to be active in the ___ business. He still watches plays in his free time, and
+is an avid marijuana smoker. He has never smoked cigarettes, and
+he drinks one beer/week approximately. He has a history of heavy
+EtOH abuse/dependence. 
+ 
+Physical Exam:
+On my physical examination, vital signs were 97.3, 72, 117/83,
+18, 96%, ___ 85. In general, patient is awake, cooperative,
+pleasant and in no apparent distress. He was well appearing,
+jovial and appeared younger than his stated age. The patient had
+a NCAT head without conjunctival icterus. Mucous membranes were
+moist and oropharynx is clear of lesions. Poor dentition. Neck
+was supple without masses or thyromegaly. Chest examination
+revealed irregularly irregular heart sounds without murmurs, and
+lungs were clear to auscultation bilaterally. Belly was soft
+without focal tenderness, and extremities were warm and well
+perfused. Skin examination showed no rashes or lesions.  
+
+Neurologically, the patient is awake, alert and oriented x 3.
+Able to relate history without difficulty. Attentive, able to
+name ___ backward without difficulty. Language is fluent with
+intact repetition and comprehension. Normal prosody. There were
+no paraphasic errors. Pt. was able to name both high and low
+frequency objects. Able to read without difficulty. No anomia to
+NIHSS objects. Speech was not dysarthric. Able to follow both
+midline and appendicular commands. Pt. was able to register 3
+objects and recall ___ at 5 minutes. The pt. had good knowledge
+of current events. There was no evidence of apraxia or neglect.  
+
+
+Cranial nerve examination revealed round, equal and reactive
+pupils with full visual fields to confrontation. Extraocular
+movements were full without dysconjugate gaze, nystagmus or
+diplopia per report. There was only transient diplopia on
+sustained upgaze without ptosis, but with time, the two images
+"reunited". There was no facial asymmetry, ptosis or facial
+droop. Hearing is intact grossly. Palate elevates symmetrically,
+and the strength of trapezii and SCMs was ___ bilaterally. 
+Tongue
+was strong bilaterally without atrophy or fasiculations.  
+
+Strength examination showed normal bulk, tone throughout. No
+pronator drift bilaterally. No adventitious movements, such as
+tremor, noted. No asterixis noted. All major muscle groups were
+___. 
+
+The sensory examination revealed no deficits to light touch
+throughout. Vibratory sense was ~13s at the great toes. Reflexes
+were 1+ in the upper extremities and 0 at the patellae and
+ankles. Toes were downgoing. 
+
+Bedside tests of cerebellar function revealed no intention
+tremor, dysdiadochokinesia or dysmetria. Gait was narrow based
+and steady without truncal ataxia. Romberg was negative. 
+
+Discharge exam is notable for worsening horizontal diplopia with 
+sustained upward gaze that abates with rest. No apparent defects 
+in extraocular movements. No ptosis after sustaine upward gaze. 
+Neurologic exam is otherwise normal.
+ 
+Pertinent Results:
+FINDINGS: 
+  
+MR Brain:  There is no evidence of hemorrhage or new infarction. 
+There are 
+nonspecific small scattered T2/FLAIR high signal foci throughout 
+the brain.  
+There is expected evolution of the previously described left 
+frontal 
+subcortical white matter infarct.  Gray white matter 
+differentiation is 
+otherwise maintained.  Ventricular, cisternal, and sulcal 
+prominence may be a 
+function of age-related parenchymal volume loss. The major 
+intracranial 
+vessels exhibit the expected signal void related to vascular 
+flow. 
+  
+The paranasal sinuses demonstrate scattered mucosal thickening 
+with near 
+complete opacification of the mastoid and sphenoid sinuses.  The 
+right greater 
+than left mastoid air cells demonstrate fluid signal and 
+inflammatory changes. 
+The sella turcica, craniocervical junction, and orbits are 
+unremarkable. 
+  
+MRA Head: Normal flow signal is noted in the petrous, cavernous, 
+and 
+supraclinoid portions of the internal carotid arteries.  The 
+right A1 segment 
+is diminutive with an azygos continuation of the anterior 
+cerebral artery.  
+The middle cerebral arteries appear unremarkable. The posterior 
+cerebral 
+arteries and basilar artery are unremarkable.  The superior 
+cerebellar 
+arteries are normal.  The intradural segment of both vertebral 
+arteries appear 
+patent.  The posterior communicating arteries are diminutive 
+bilaterally.  The 
+right vertebral artery is dominant. No arterial stenosis, 
+saccular aneurysm, 
+or AVM is identified.   
+  
+MRA Neck:  The left vertebral artery is smaller in caliber 
+compared to the 
+contralateral vessel.  The common, internal, and external 
+carotid arteries, as 
+well as the vertebral arteries, otherwise demonstrate normal 
+flow signal.  No 
+stenosis is identified.  The origins of the innominate, left 
+common carotid, 
+and left subclavian arteries, as well as the vertebral arteries, 
+are not well 
+evaluated in the absence of intravenous contrast.   
+  
+IMPRESSION: 
+  
+Age-related involutional and probable chronic microangiopathic 
+changes without 
+evidence of acute infarct, hemorrhage, or mass effect.   
+  
+Unremarkable MR angiogram of the head and neck.   
+  
+Chronic paranasal sinus disease.   
+  
+Bilateral mastoiditis.   
+
+CT Head:
+FINDINGS: 
+  
+There is no evidence of intracranial hemorrhage, acute major 
+vascular 
+territorial infarction, shift of the normally midline 
+structures, mass effect 
+or edema.  The ventricles and sulci are prominent, compatible 
+with age-related 
+global atrophy.  Periventricular and subcortical white matter 
+hypodensities 
+likely reflect the sequelae of chronic small vessel ischemic 
+disease.  The 
+gray-white matter differentiation is preserved.  No fractures 
+are identified.  
+The cranial and facial soft tissues are unremarkable.  The 
+orbits are 
+unremarkable.  Mucosal thickening in the ethmoid air cells, 
+bilateral 
+maxillary sinuses, and air-fluid levels within the sphenoid 
+sinuses with 
+aerosolized secretions are noted.  Opacification of the mastoid 
+air cells, 
+right greater than left is also present.   
+  
+IMPRESSION: 
+  
+1.  No acute intracranial process. 
+  
+2.  Chronic small vessel ischemic changes.  
+  
+3.  Inflammatory paranasal sinus disease and opacification of 
+the bilateral 
+mastoid air cells, right greater than left. 
+
+___ 03:45PM   ___ PTT-40.8* ___
+___ 03:45PM   PLT COUNT-143*
+___ 03:45PM   NEUTS-68.0 ___ MONOS-6.7 EOS-3.2 
+BASOS-1.4
+___ 03:45PM   WBC-7.5 RBC-4.80 HGB-16.1 HCT-47.8 MCV-99* 
+MCH-33.4* MCHC-33.6 RDW-13.5
+___ 03:45PM   estGFR-Using this
+___ 03:45PM   GLUCOSE-86 UREA N-31* CREAT-1.5* SODIUM-134 
+POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-23 ANION GAP-10
+___ 05:39PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 05:39PM URINE  COLOR-Straw APPEAR-Clear SP ___
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the stroke neurology service. MRI did 
+not show any signs of stroke or other intracranial process to 
+explain his diplopia. Diplopia was elicited with sustained 
+upward gaze and worsened with fatigue. Therefore, anti-bodies 
+for binding and modulating acetylcholinesterase antibodies were 
+sent. MuSK antibodies were also sent. These tests are pending. 
+Stroke risk factors were assessed and A1C was wnl, LDL was <60. 
+TSH was wnl as well. No changes were made to his medications and 
+he was discharged with planned neurology follow up.
+ 
+Medications on Admission:
+Albuterol PRN, atorvastatin 10mg
+daily, symbicort 2 puffs BID, terazosin 2mg daily, metoprolol ER
+75mg daily, valsartan 80mg daily, warfarin 2.5mg tablets 1-2/day
+as directed, colace. SINGULAIR is listed as an allergy for this
+patient. 
+ 
+Discharge Medications:
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN wheezing 
+2. Atorvastatin 10 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Terazosin 2 mg PO HS 
+5. Metoprolol Succinate XL 75 mg PO DAILY 
+6. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+7. Valsartan 80 mg PO DAILY 
+8. Warfarin 2.5 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diplopia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the stroke neurology service at ___ for 
+evaluation of your double vision. You had an MRI that did not 
+show any signs of stroke. You exam is concerning for a condition 
+called Myasthenia ___. We have sent some blood tests for this 
+condition which will be followed up when your return to 
+neurology clinic.
+
+We did not make any changes to your medications.
+
+It was a pleasure taking care of you during this hospital stay.
+
+Please follow up as below. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16352630-DS-16 | hadm_id=21871267
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Singulair
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 03:12PM BLOOD WBC-8.3 RBC-4.57* Hgb-15.5 Hct-47.0 
+MCV-103* MCH-33.9* MCHC-33.0 RDW-13.3 RDWSD-50.7* Plt ___
+___ 03:12PM BLOOD Plt ___
+___ 08:35PM BLOOD ___ PTT-35.0 ___
+___ 03:12PM BLOOD UreaN-23* Creat-1.7* Na-139 K-4.1 Cl-98 
+HCO3-25 AnGap-16
+___ 08:35PM BLOOD Albumin-3.7 Calcium-9.4 Phos-2.7 Mg-2.2
+
+DISCHARGE LABS:
+====================
+___ 05:50AM BLOOD WBC-8.9 RBC-2.75* Hgb-9.4* Hct-28.7* 
+MCV-104* MCH-34.2* MCHC-32.8 RDW-14.0 RDWSD-52.2* Plt ___
+___ 05:50AM BLOOD ___
+___ 05:50AM BLOOD Plt ___
+___ 05:50AM BLOOD Glucose-87 UreaN-24* Creat-1.6* Na-145 
+K-3.8 Cl-108 HCO3-24 AnGap-13
+___ 05:50AM BLOOD LD(LDH)-358*
+___ 05:50AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.9 Iron-75
+___ 05:50AM BLOOD calTIBC-211* VitB12-___ Hapto-142 
+Ferritn-230 TRF-162*
+
+IMAGING:
+====================
+RIB Unit, w/ AP Chest ___
+"IMPRESSION:  
+A in comparison with the study of ___, frontal and 
+oblique views show no evidence of acute fracture or 
+pneumothorax. No change in the appearance of the heart and 
+lungs, with pacer lead extending to the right ventricle."
+
+Hip X-ray ___
+"IMPRESSION:  
+No fracture."
+
+Pelvis AP ___:
+"FINDINGS:  
+There is no fracture.  No focal osseous abnormality.  Pubic 
+symphysis and SI joints are preserved.  Proximal right femur is 
+within normal limits without fracture.  Vascular calcifications 
+are noted. 
+IMPRESSION:  
+No fracture."
+
+TIB/FIB ___:
+"FINDINGS:  
+Tricompartmental degenerative changes are again noted with most 
+significant joint space loss at the medial compartment.  There 
+is no fracture. No suprapatellar effusion.  Sclerotic focus in 
+the mid to distal right femur with seen on prior and may 
+represent enchondroma or bone infarct. The tibia and fibula are 
+within normal limits.  No focal osseous abnormality. Dense 
+vascular calcifications are noted. 
+IMPRESSION:  
+Degenerative changes at the knee.  No fracture."
+
+Knee X-ray ___:
+"FINDINGS:  
+Tricompartmental degenerative changes are again noted with most 
+significant joint space loss at the medial compartment.  There 
+is no fracture. No suprapatellar effusion.  Sclerotic focus in 
+the mid to distal right femur with seen on prior and may 
+represent enchondroma or bone infarct. 
+The tibia and fibula are within normal limits.  No focal osseous 
+abnormality. Dense vascular calcifications are noted. 
+IMPRESSION:  
+Degenerative changes at the knee.  No fracture."
+
+Gleno-humeral shoulder R ___:
+"FINDINGS:  
+There is no fracture or dislocation involving the glenohumeral 
+or AC joint. Significant degenerative changes are seen involving 
+the right glenohumeral joint.  Moderate degenerative changes are 
+also seen involving the right acromioclavicular joint.  No 
+suspicious lytic or sclerotic lesions are identified. No 
+periarticular calcification or radio-opaque foreign body is 
+seen. 
+IMPRESSION: 
+1. No fracture or dislocation involving the glenohumeral or 
+right AC joint. 
+2. Severe degenerative changes are seen involving the right 
+glenohumeral 
+joint."
+
+CT Head without contrast ___:
+"IMPRESSION: 
+1. No acute intracranial abnormality. 
+2. Paranasal sinus disease."
+
+CT Chest without contrast ___
+"IMPRESSION: 
+1. Prominent bilateral, lower lobe predominant bronchiectatic 
+changes, with extensive peribronchial cuffing and several foci 
+of distal segmental mucous plugging. 
+2. Several small peripheral regions of ___ opacity 
+within the 
+bilateral lobes, which may reflect small airways disease. 
+3. 7 mm right upper lobe pulmonary nodule. 
+4. Nonspecific soft tissue stranding overlying the proximal 
+right upper arm with size asymmetry of the underlying biceps 
+muscle, is nonspecific, but raises possibility for right biceps 
+injury."
+
+CT C-SPine without contrast ___:
+"IMPRESSION: 
+1. Asymmetric widening of the left C2-C3 facet joint, new from 
+the prior study 
+from ___, which could reflect interval degenerative 
+changes, although 
+facet capsular injury cannot definitely be excluded. 
+2. No evidence of acute cervical spine fracture or traumatic 
+malalignment. 
+3. Multilevel degenerative changes, as above."
+
+X-ray Elbow ___:
+"FINDINGS:  
+There is no fracture.  No acute osseous abnormality.  Mild 
+chondrocalcinosis is noted.  Additionally, linear calcific 
+density adjacent to the radial neck on the AP and oblique views 
+likely in the adjacent soft tissues.  No elbow joint effusion 
+based on this exam which is not at full 90 degrees flexion. 
+IMPRESSION:  
+No visualized fracture."
+
+CT L-Spine without contrast ___:
+"IMPRESSION: 
+1. Mild left lateral L1 and L2 vertebral body height loss with 
+cortical 
+step-off laterally suggesting that these are recent fractures. 
+2. Compression deformity of L5 resulting in approximately ___ 
+loss of 
+vertebral body this is new from prior CT in ___ though there is 
+no CT 
+evidence to suggest that it is acute. 
+3. Bilateral L5 pars defects with grade 1 anterolisthesis of L5 
+on S1, 
+unchanged from prior exam.  Moderate to severe neural foraminal 
+narrowing at this level. 
+4. Multilevel disc"
+
+TTE ___:
+"The left atrial volume index is SEVERELY increased. The right 
+atrium is mildly enlarged. There is normal left ventricular wall 
+thickness with a small cavity. There is suboptimal image quality 
+to assess regional left ventricular function. Overall left 
+ventricular systolic function is hyperdynamic. The visually 
+estimated left ventricular ejection fraction is 80%. Left 
+ventricular cardiac index is high (>4.0 L/min/m2). There is no 
+resting left ventricular outflow tract gradient. Normal right 
+ventricular
+cavity size with normal free wall motion. The aortic sinus 
+diameter is normal for gender with a mildly dilated ascending 
+aorta. The aortic arch is mildly dilated with a normal 
+descending aorta diameter. There
+is no evidence for an aortic arch coarctation. The aortic valve 
+leaflets are moderately thickened. There is mild aortic valve 
+stenosis (valve area 1.5-1.9 cm2). There is mild to moderate 
+[___] aortic regurgitation. The mitral valve leaflets are 
+mildly thickened with no mitral valve prolapse. There is mild to 
+moderate [___] mitral regurgitation. The pulmonic valve 
+leaflets are normal. The tricuspid valve leaflets appear 
+structurally normal. There is mild to moderate [___] tricuspid 
+regurgitation. Due to
+acoustic shadowing, the severity of tricuspid regurgitation may 
+be UNDERestimated. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion.
+IMPRESSION: Poor image quality. Small, hyperdynamic left 
+ventricle.
+Compared with the prior TTE (images reviewed) of ___, 
+there is no obvious change, but the suboptimal image quality of 
+the studies precludes definitive comparison.
+
+RECOMMEND: If clinically indicated, a TEE is suggested for 
+further evaluation of cardiac structure and function."
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+====================
+[] Medications STARTED: apixaban 2.5mg PO BID, multivitamin 
+daily
+[] Medications STOPPED: warfarin
+
+[] Neurosurgery:
+- Please repeat lumbar spine AP and lateral x-rays at follow-up 
+appointment with Dr. ___ to assess for progressive kyphosis 
+
+
+[] Sports medicine/Rehab:
+- Please follow-up RUE ROM and symptomatic improvement
+
+[] PCP/REHAB:
+- Please repeat CBC in 1 week. H/H 9.4/28.7 and PLTs 150 on 
+discharge
+- TTE while inpatient was limited, but did not demonstrate a 
+clear cause of his potential syncopal event. Consider cardiology 
+follow-up and potential TEE in the outpatient setting
+- There was concern for proprioceptive defect and peripheral 
+neuropathy. He had a normal B12/A1c while inpatient and received 
+thiamine x3 as well as started on multivitamin. He may benefit 
+from outpatient neurology follow-up as well as outpatient TSH to 
+assess etiology of c/f peripheral neuropathy
+- Noted to have dyspnea on exertion. His TTE was largely stable 
+from prior although somewhat limited. He did have a CT chest 
+with evidence of chronic bronchiectasis and distal mucous 
+plugging, and thus, PFTs should be ordered in the outpatient 
+setting
+- Please follow-up blood pressure and adjust home 
+anti-hypertensive as needed
+- Noted to have 7mm RUL pulmonary nodule. For incidentally 
+detected single solid pulmonary nodule measuring 6 to 8 mm, a CT 
+follow-up in 6 to 12 months is recommended in a low-risk 
+patient, optionally followed by a CT in ___ months. In a 
+high-risk patient, a CT follow-up in 6 to 12 months, and a CT in 
+___ months is recommended. 
+
+[] Prior to discharge from rehab, please resume homecare 
+services for medication management. 
+
+# CONTACT: Name of health care proxy: ___ 
+___: friend 
+Phone number: ___ 
+
+SUMMARY:
+=====================
+Mr. ___ is an ___ yo male with persistent AF on coumadin, 
+tachy-brady syndrome s/p ___ single chamber PPM 
+___, CKD, and asthma who presented after
+fall from standing position felt to likely be multifactorial due 
+to vasovagal event, gait unsteadiness, and proprioceptive 
+defect. His fall was complicated by spinal compression 
+deformities at L1, L2, and L5, as well as anterolisthesis of L5 
+on S1 due to bilateral pars defect, and he was evaluated by 
+neurosurgery who recommended no acute intervention with plan to 
+follow-up as an outpatient. He was also noted to have R biceps 
+injury that was evaluated by ortho without indication for acute 
+intervention, and he will follow-up with sports medicine at his 
+rehab facility. Due to coagulopathy, he was given vitamin K x1 
+with improvement in his INR, and he was eventually transitioned 
+to Eliquis as per previous EP recommendatoins. He is being 
+discharged to rehab with close orthopedics and sports medicine 
+follow-up at rehab. 
+
+ACTIVE ISSUES:
+=======================
+#C/f syncope
+#Dizziness
+#Unsteady gait
+Patient had fall from standing with symptomatic dizziness prior 
+to the fall. The etiology was felt to be due to progressively 
+unsteady gait, in the setting of proprioceptive deficit and 
+concern for peripheral neuropathy potentially due to nutritional 
+deficiency as well as osteoarthropathy given endorsement of 
+chronic b/l knee pain. He had a B12 and A1c checked which were 
+normal and he was started on multivitamin while also receiving 
+thiamine x3. He worked with ___ who noted impaired balance and 
+recommended rehab. He also was noted to have dizziness prior to 
+the fall in the setting of progressive episodes of diaphoresis, 
+shortness of breath and lightheadedness concerning for recurrent 
+vasovagal events. He has history of paroxysmal AF, but pacemaker 
+interrogation (___) was normal. He underwent TTE, which 
+demonstrated EF 80% with a hyderdynamic LV. He was noted to be 
+orthostatic, and there may be a contribution from autonomic 
+insufficiency, although his symptoms and orthostasis resolved 
+with IVF. He may benefit from repeat TTE in the outpatient 
+setting as well as potential cardiology and neurology follow-up 
+for assessment of potential peripheral neuropathy.
+
+#Compression deformities
+#Assymetric anterolisthesis of L5, S1
+Due to fall noted above, Ortho and NSGY evaluated the patient, 
+and they did not recommend acute surgical intervention. In 
+regards to R biceps injury, he was evaluated by Orthopedics 
+service who recommend ___ with sports medicine follow-up at 
+rehab. Additionally, they encouraged avoidance of a sling unless 
+patient is very uncomfortable to avoid frozen shoulder and 
+encourage mobilization. On trauma evaluation he was found to 
+have spinal compression deformities at L1, L2, and L5, as well 
+as anterolisthesis of L5 on S1 due to bilateral pars defect. 
+They did not recommend acute intervention, but he will follow-up 
+in the ___ clinic in 4 weeks with Dr. ___ with 
+repeat lumbar spine AP and lateral x-rays to assess for 
+progressive kyphosis. He will be discharged Tylenol ___ TID 
+prn.
+
+#Persistent AF
+Noted to have a CHADSVASc 5, and presented on coumadin, found to 
+have a supratherapeutic INR. Per last EP note at the end of 
+___,
+plan was to switch over to low dose Eliquis given age and renal
+function, and thus, after INR was reversed with vitamin K, he 
+was transitioned to 2.5mg Eliquis BID. He initially was started 
+on fractionaed metoprolol tartrate 6.25 q6h, but was 
+transitioned to home metoprolol succinate 25mg PO daily when his 
+orthostasis resolved.
+
+#Macrocytic anemia
+#Thrombocytopenia
+MCV 103, Hgb likely hemo-concentrated on admission given drop
+from 15.5-->9.5 in setting of large ecchymoses. He had a normal 
+B12 and normal iron studies in addition to appropriate 
+reticulocyte count. He had no history of excessive alcohol use, 
+and his thrombocytopenia was felt to be consumptive in the 
+setting of acute significant echymoses. His hemoglobin 
+stabilized at 9.4 on discharge as did his platelet count which 
+was 150. He should have repeat CBC in the outpatient setting.
+
+#Dyspnea
+#Asthma
+#Chronic bronchiectasis
+History of asthma and OSA, not compliant with CPAP. DOE 
+concerning for possible cardiac etiology as well. CT chest with 
+evidence of chronic bronchiectasis and distal mucous plugging. 
+Patient is not hypoxic on room air. Troponin stable at 0.02 on 
+admission. TTE was notable for small hyperdynamic left 
+ventricle, but there was also poor image quality. He should have 
+outpatient PFTs. He was continued on his home duonebs as well as 
+home prednisone.
+
+#Coagulopathy
+Patient notably unsure about how to dose his warfarin at home. 
+He received IV 5mg Vitamin K x1. HIs INR improved and prior to 
+discharge, he was transitioned to 2.5mg Eliquis BID. His 
+hemoglobin was stable on discharge.
+
+#Hypertension 
+Patient has history of hypertension. Home losartan initially 
+held in the setting of orthostatic hypotension, but he was 
+restarted on his home losartan on discharge.
+
+CHRONIC ISSUES
+==============
+#BPH: continued home finasteride
+
+#CKD: creatinine remained at baseline
+
+#HLD: continued on home pravastatin 40 qPM
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Finasteride 5 mg PO DAILY 
+2. PredniSONE 10 mg PO DAILY 
+3. Pravastatin 40 mg PO QPM 
+4. Warfarin 2.5-5 mg PO DAILY16 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+6. Losartan Potassium 75 mg PO DAILY 
+7. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+8. Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Apixaban 2.5 mg PO BID  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath  
+5.  Finasteride 5 mg PO DAILY  
+6.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+7.  Losartan Potassium 50 mg PO DAILY  
+8.  Metoprolol Succinate XL 25 mg PO DAILY  
+9.  Pravastatin 40 mg PO QPM  
+10.  PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+===================
+Fall
+Concern for syncope
+Vertebral compression deformities
+
+Secondary Diagnoses:
+===================
+Atrial fibrillation
+Anemia
+Thrombocytopenia
+Hypertension
+Benign prostatic hyperplasia
+Chronic Kidney Disese
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for a fall
+ 
+What was done for me while I was in the hospital?  
+- You were found to have fractures to your vertebrae and were 
+found to have a R arm injury. You were evaluated by the 
+orthopedic and neurosurgery doctors who did not feel as if you 
+need any surgical intervention
+- Your pacemaker was interrogated and you did not have an 
+irregular heart beat that made you fall
+- You underwent an echocardiogram of your heart, which did not 
+demonstrate a reason for your fall
+- Your warfarin was switched to a medication called Eliquis
+- You were evaluated by physical therapy who felt you should go 
+to rehab prior to returning home
+
+What should I do when I leave the hospital?  
+- You should keep all of your appointments and take all of your 
+medications as prescribed
+
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16352630-DS-14 | hadm_id=26736309
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Singulair
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMH of HTN, HLD, and atrial fibrillation (on warfarin) 
+who presents after syncopal episode yesterday. Pt states that he 
+was drinking ale in the afternoon after not eating much all day 
+(just a small breakfast) when the doorbell rang and he got up to 
+answer the door. He then felt lighthead after standing but 
+proceded to the door and open the door and then fell to the 
+floor with LOC. Pt remembers answering the door and waking up 
+before his friend returned. His friend then called EMS.  
+
+Pt did not report chest pain, palpitations, or shortness of 
+breath preceding incidence. He also did not have bowel or 
+bladder incontinence or tongue biting. Pt denies headstrike and 
+believes he fell forward onto his knees. 
+
+Of note he reports 4 days of worsening dyspnea on exertion, and 
+lightheadedness and dizziness upon standing.  Of note his PCP 
+recently changed his metoprolol to diltiazemon on ___ due to 
+concern the beta blocker was inducing bronchospasms in the 
+setting of his asthma. He denies recent fevers, or chills. He 
+has a chronic productive cough and multiple asthma 
+exacerbations. He has no prior syncopal episodes or seizures.  
+
+In the ED:
+Initial vitals were 97.1 68 106/58 18 98% RA. 
+He had a negative NCHCT, trop <.01 x1.  Patient was noted to 
+become bradycardic to 39, and cardiology c/s was placed and pt 
+was admitted to ___ EP service for evaluation.
+
+On the floor, pt is AVSS, states that he feels well with no 
+complaints. 
+
+ 
+Past Medical History:
+1. Seasonal allergies  
+2. Moderate mitral regurgitation  
+3. Left ventricular hypertrophy  
+4. Atrial fibrillation (s/p failed cardioversion x 1), dx ___, 
+not started on rate control until ___, unclear reasons
+5. Hypertension  
+6. Hyperlipidemia  
+7. History of chronic vertigo  
+8. Hemorrhoids  
+9. Diverticulosis  
+10. Colonic adenomas  
+11. Depression  
+12. Recurrent nephrolithiasis  
+13. Sleep apnea  
+14. History of EtOH abuse and marijuana abuse  
+15. Chronic kidney disease.  
+
+ 
+Social History:
+___
+Family History:
+Family history is negative for sudden cardiac death, 
+arrhythmias, or early CAD.
+ 
+Physical Exam:
+Admission: 
+VS: T=98.4 BP= 127/76 (laying) 134/80 (sitting) 132/82 
+(standing) HR= 82 RR= 18 O2 sat=99%RA  
+GENERAL: NAD. Oriented x3  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM
+NECK: Supple not elevated JVP.  
+CARDIAC: irregularly irregular, no r/g/m
+LUNGS: Diffuse expiratory and inspiratory wheezes and rhonchi 
+throughout. 
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: No c/c/e. No edema noted  
+SKIN: No stasis dermatitis
+PULSES: 2+ radial, DP bilaterally
+
+Discharge: 
+VS: T=98.4 BP= 127/76 (laying) 134/80 (sitting) 132/82 
+(standing) HR= 82 RR= 18 O2 sat=99%RA  
+GENERAL: NAD. Oriented x3  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM
+NECK: Supple not elevated JVP.  
+CARDIAC: irregularly irregular, no r/g/m
+LUNGS: Diffuse expiratory and inspiratory wheezes and rhonchi 
+throughout. 
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: No c/c/e. No edema noted  
+SKIN: No stasis dermatitis
+PULSES: 2+ radial, DP bilaterally
+
+ 
+Pertinent Results:
+___ 10:53AM   CK(CPK)-87
+___ 12:15AM   GLUCOSE-60* UREA N-34* CREAT-1.7* SODIUM-138 
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-20* ANION GAP-19
+___ 12:15AM   estGFR-Using this
+___ 12:15AM   cTropnT-<0.01
+___ 12:15AM   WBC-9.9 RBC-4.83 HGB-16.8 HCT-48.1 MCV-100* 
+MCH-34.9* MCHC-35.0 RDW-15.2
+___ 12:15AM   NEUTS-80.2* LYMPHS-14.6* MONOS-4.7 EOS-0.3 
+BASOS-0.2
+___ 12:15AM   PLT COUNT-151
+___ 12:15AM   ___ PTT-36.4 ___
+___ 11:40PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 11:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+
+CT Head: ___   
+There is no evidence of infarction, hemorrhage, edema, or mass.  
+The 
+ventricles and sulci are prominent, due to age related global 
+atrophy. 
+Periventricular and subcortical white matter hypodensities 
+likely reflect the sequelae of chronic small vessel ischemic 
+disease.  Vascular arthrosclerotic calcifications are again seen 
+in the basilar artery. 
+Extensive mucosal thickening is noted in the bilateral maxillary 
+sinuses, as well as scattered opacification of the posterior 
+ethmoid air cells and mucosal thickening in the sphenoid 
+sinuses. Mild fluid is noted in the inferior mastoid air cells 
+bilaterally. No fractures are present. The orbits are 
+unremarkable. 
+  
+IMPRESSION:  
+No acute intracranial abnormality. Inflammatory paranasal sinus 
+disease. 
+
+TTE (___)
+The left atrium is moderately dilated. The right atrium is 
+moderately dilated. No atrial septal defect is seen by 2D or 
+color Doppler. The estimated right atrial pressure is ___ mmHg. 
+Left ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Tissue Doppler imaging 
+suggests a normal left ventricular filling pressure 
+(PCWP<12mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic root is mildly dilated at the 
+sinus level. The ascending aorta is mildly dilated. The number 
+of aortic valve leaflets cannot be determined. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. There is borderline pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, 
+the rhythm is now atrial fibrillation; other findings are 
+similar
+ 
+Brief Hospital Course:
+___ with HTN, HLD, atrial fibrillation, who presents after 
+syncopal episode in setting of poor PO intake, ETOH use, and new 
+calcium channel blocker who was found to be bradycardia in the 
+ED which has since resolved. 
+ 
+ACTIVE ISSUES:
+# Syncope: Likely multifactorial etiology including poor PO 
+intake, dehdration, ETOH use, and new medications tamuslosin and 
+diltiazem contributing to his symptoms. He had negative 
+orthostatics here and has not been bradycardia since admission.  
+The patient was monitored on telemetry, and no significant 
+events recorded.  His diltiazem and tamusolin was discontinued. 
+Electrophysiology consult was obtained and ___ 
+___ monitor and outpatient follow-up in two weeks with Dr. 
+___.  An echocardiogram did not show any new or acute changes 
+as compared to the previous in ___.
+
+# Atrial fibrillation: Has been rate controlled on metoprolol 
+which was changed to diltiazem given concern for bronchospasms.  
+The patient was continued on his home dose of warfarin 2.5mg.  
+INR at discharge is 3.1.  Patient will resume follow-up at the 
+___ clinic.  The diltiazem is discontinued with 
+HR in ___ off nodal agents.
+ 
+STABLE ISSUES:
+# HTN: Patient was continued on home dose of valsartan
+
+# HLD: Patient was continued on home dose of pravastatin 
+-Continue pravastatin  
+
+# CKD: Baseline Cr 1.5-1.9. It was 1.7 during hospitalization.   
+
+
+# Asthma: Patient was given albuterol/ipratropium nebulizers, 
+continued on prednisone and transitioned to advair as 
+therapeutic interchange for symbicort.  He is discharged back on 
+all home medications.
+
+# BPH: His tamsulosin was discontinued as this may have 
+contributed to his syncope.
+
+Transitional Issues
+1. Will leave with ___ monitor, we stopped diltiazem and 
+tamsulosin
+2. Will follow up in 2 weeks with Dr. ___ in ___ clinic, and 
+with his PCP ___ 1 week.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+3. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+4. Diltiazem Extended-Release 120 mg PO DAILY 
+5. Pravastatin 40 mg PO QPM 
+6. PredniSONE 15 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO QHS 
+8. Valsartan 80 mg PO DAILY 
+9. Warfarin 2.5 mg PO DAILY16 
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+2. Pravastatin 40 mg PO QPM 
+3. PredniSONE 15 mg PO DAILY 
+4. Valsartan 80 mg PO DAILY 
+5. Warfarin 2.5 mg PO DAILY16 
+6. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+7. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Syncope
+2. Atrial Fibrillation
+
+Secondary Diagnosis:
+1. Moderate mitral regurgitation  
+2. Left ventricular hypertrophy  
+3. Atrial fibrillation (s/p failed cardioversion x 1), dx ___, 
+not started on rate control until ___, unclear reasons
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were recently hospitalized at ___ after you loss 
+consciousness and fell. You were admitted for observation and 
+placed on a heart monitor.  We also stopped your diltiazem and 
+your tamusolin while you were hospitalized.  You also received a 
+cardiac echocardiogram here and it did not show any new or acute 
+changes as compared to your previous echocardiogram.  Please 
+stop taking your diltazem and tamusolin until you follow-up with 
+your PCP.
+
+Please follow-up with your PCP 1 week after discharge from the 
+hospital and Dr. ___ in Electrophysiology ___ within 2 
+weeks of discharge (see below for appointment information). It 
+was a pleasure to take care of you at ___.
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

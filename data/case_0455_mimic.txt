@@ -1,0 +1,339 @@
+===== DISCHARGE NOTE =====
+note_id=19839346-DS-15 | hadm_id=21237030
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+fatigue, increased work of breathing
+
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy, central line, arterial line
+ 
+History of Present Illness:
+___ with hx of Primary biliary cirrhosis (PBC) now being 
+directLY admitted to ___ 10 from ___ over concern for HRS. 
+ 
+She was admitted to ___ on ___ for SOB, a fall, and 
+generalized weakness. Per report pt fell while trying to get 
+into her car, but fell and couldnt get up for ~2.5 hrs before 
+someone helped her.  
+She was initially hypothermic to 89.6F with bradycardia and BP 
+186/100 but then became hypotensive requiring multiple liters of 
+fluid. Per report, pt's sbps in ___ on the floor. Was also 
+encephalopathic per ___ report. Nadolol, spironolactone 
+were dc-ed. Initial ammonia 140. Ucx consistent with infection 
+so started on ceftriaxone. Initially Cr okay but then developed 
+acute renal failure. Renal there saw and though ATN. Got ECHO 
+there with small PFO, moderately dilated right heart, 
+moderate-severe TR, mild-moderate MR. ___ of CXR showing 
+edema vs infection, BiPAP was tried but poorly tolerated. Unable 
+to tolerate chest CT due to anxiety. Had to be placed on oxygen 
+as desatting to 75% on RA. Started on IV steroids. Later renal 
+though maybe HRS so started on octreotide and Cr has trended 
+down from 3.8 -> 1.8. GI saw and started her on Rifaxamin and 
+lactulose restarted after hypotension gone. Her coags and LFTs 
+trended upward during admission (INR 1.9 -> 2.2). No signs of 
+bleeding. GI at ___ recommended transfer to ___ for 
+worsening liver failure with poor respiratory status.  
+Per report, the pt was initially found to have pulmonary edema 
+so given diuretics. Also question of PNA so started on ABX. Cr 
+worsening so concern for HRS. Mild splenomegaly and small 
+ascites on ultrasound, not tapped. Since admission kidneys have 
+improved (cr 3.5 --> 1.7) but ___ still concerned for HRS 
+and want to transfer here for this and because patient still not 
+improving. Labs at transfer Tbili 5.5, INR 2.2, Alb 2.4. ALT 56, 
+AST 67, Alk p ___. WBC 14,000.  
+
+ 
+Past Medical History:
+- PBC  
+- RHF  
+- cocaine use years ago (___)  
+- cholecystectomy years ago  
+
+ 
+Social History:
+___
+Family History:
+There is no family history of liver disease. Her father did have 
+ 
+coronary artery disease, and underwent bypass surgery. He is  
+also borderline diabetic. Her mother had a history of irregular  
+
+heartbeat. 
+
+ 
+Physical Exam:
+Admission Exam:
+GENERAL: Sedated. Jaundiced  
+HEENT: Sclera icteric. MMM.  
+CARDIAC: RRR with no excess sounds appreciated  
+LUNGS: Coarse Breath sounds bilaterally..  
+ABDOMEN: Distended but Soft, non-tender to palpation. Dullness 
+to percussion over dependent areas but tympanic anteriorly. No 
+HSM or tenderness appreciated. No fliud thrill.  
+EXTREMITIES: ___ edema b/l up to thighs. Warm and well 
+perfused, no clubbing or cyanosis.  
+NEUROLOGY: asterixis, AOX1. Grossly intact.  
+.
+Discharge Exam:
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 09:10PM BLOOD WBC-10.1 RBC-3.75* Hgb-11.8* Hct-38.8 
+MCV-103*# MCH-31.6 MCHC-30.6*# RDW-19.1* Plt Ct-54*#
+___ 09:10PM BLOOD ___ PTT-44.4* ___
+___ 09:10PM BLOOD Glucose-122* UreaN-44* Creat-1.4* Na-146* 
+K-3.9 Cl-119* HCO3-21* AnGap-10
+___ 09:10PM BLOOD ALT-52* AST-73* LD(LDH)-412* AlkPhos-371* 
+TotBili-6.1*
+___ 09:10PM BLOOD Albumin-2.8* Calcium-8.5 Phos-3.8 Mg-2.6
+___ 09:39PM BLOOD ___ pO2-82* pCO2-46* pH-7.28* 
+calTCO2-23 Base XS--4
+___ 09:39PM BLOOD Lactate-2.7*
+
+Discharge labs:
+___ 04:12AM BLOOD WBC-16.4* RBC-2.44* Hgb-7.8* Hct-25.8* 
+MCV-106* MCH-31.8 MCHC-30.1* RDW-24.0* Plt Ct-73*
+___ 04:01AM BLOOD Neuts-88.9* Lymphs-6.6* Monos-3.7 Eos-0.6 
+Baso-0.2
+___ 04:12AM BLOOD ___ PTT-76.7* ___
+___ 04:12AM BLOOD Glucose-114* UreaN-60* Creat-2.0* Na-147* 
+K-3.9 Cl-106 HCO3-27 AnGap-18
+___ 04:12AM BLOOD ALT-40 AST-93* AlkPhos-471* TotBili-10.7*
+___ 04:12AM BLOOD Calcium-8.1* Phos-3.5 Mg-2.1
+___ 08:11PM BLOOD Type-ART Temp-37.2 PEEP-14 FiO2-60 
+pO2-104 pCO2-57* pH-7.35 calTCO2-33* Base XS-3 Intubat-INTUBATED
+___ 08:11PM BLOOD Lactate-2.7*
+
+Pertinent labs:
+
+___ 02:47PM BLOOD Lipase-47
+___ 03:14PM BLOOD CK-MB-7 cTropnT-<0.01 proBNP-1465*
+___ 08:07AM BLOOD TSH-0.44
+___ 07:13PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE HAV Ab-NEGATIVE
+___ 11:00AM BLOOD Smooth-NEGATIVE
+___ 02:39AM BLOOD ANCA-NEGATIVE B
+___ 10:56AM BLOOD AMA-POSITIVE *
+___ 02:39AM BLOOD dsDNA-NEGATIVE
+___ 10:56AM BLOOD ___ * Titer-GREATER TH
+___ 09:05AM BLOOD IgG-700 IgM-108
+___ 05:34AM BLOOD C3-34* C4-8*
+___ 10:30AM BLOOD HIV Ab-NEGATIVE
+
+=====================
+ PERTINENT MICRO:
+=====================
+___ 11:50 am BRONCHOALVEOLAR LAVAGE
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___:    NO GROWTH, <1000 
+CFU/ml. 
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii).. 
+
+   FUNGAL CULTURE (Preliminary): 
+      YEAST. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary): 
+      No Cytomegalovirus (CMV) isolated. 
+
+   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) (Final 
+___: 
+      Negative for Cytomegalovirus early antigen by 
+immunofluorescence. 
+      Refer to culture results for further information. 
+
+=============
+IMAGING
+=============
+___ ECHO
+The left atrium is mildly dilated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). The right ventricular cavity is dilated with 
+focal hypokinesis of the apical free wall. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Moderate [2+] tricuspid regurgitation is seen. 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion.
+
+IMPRESSION: Normal regional left ventricular systolic function. 
+Mildly dilated right ventricle with focal apical hypokinesis. 
+Moderate tricuspid regurgitation. Mild pulmonary artery systolic 
+hypertension.  
+
+CT torso ___
+IMPRESSION:
+1.  Significant diffuse bilateral, multilobar, airspace disease. 
+ Differential considerations include noncardiogenic edema, 
+infection, ARDS or pulmonary hemorrhage.
+ 
+2.  Sequela of underlying hepatocellular disease, splenomegaly 
+with
+mild-to-moderate ascites.
+ 
+3.  Third spacing in the subcutaneous soft tissues of the trunk 
+and pelvis.
+ 
+4.  Limited evaluation of the uterus due to large body habitus.  
+This could befurther evaluated with pelvic ultrasound, if 
+clinically indicated.
+ 
+5.  Nonobstructing stones in both kidneys. No obstructive 
+uropathy.
+
+___ Abd US
+IMPRESSION:
+1. Patent portal vasculature, with appropriate directional flow.
+ 
+2. Cirrhotic liver with splenomegaly and large volume ascites 
+consistent with portal hypertension.
+ 
+3. Right pleural effusion, as seen on CT from ___.
+
+ 
+Brief Hospital Course:
+___ year old lady with probable autoimmune hepatitis vs. PBC with 
+cirrhsosis initially admitted to ___ s/p fall with 
+hypothermia, hypoxemia and acute renal failure. She was 
+transferred to ___ for further care, found to have likely 
+pneumonia, ARDS, volume overload, ___. Ultimately transitioned 
+to CMO and passed away.
+
+# Hypoxic Respiratory Failure. CXR with evidence of interstitial 
+markings consistent with pulmonary edema vs ARDS. TTE  at OSH 
+with evidence of RV dysfunction. Physical exam with evidence of 
+massive hypervolemia and at this time hypothesize respiratory 
+compromise is largely due to pulmonary edema.  She was started 
+Vanco/Zosyn/Levofloxacin for empiric coverage of HCAP as well as 
+nebulizers.  She was initially admitted to the floor for 
+diuresis however triggered for desat to 70% requiring NRB mask 
+and was then transferred to the MICU.  She developed worsening 
+respiratory distress after arrival to MICU and was electively 
+intubated on ___.  She was started on high dose lasix gtt as 
+well as diuril for diuresis with good UOP.  She underwent 
+bronchoscopy which showed no alveolar hemorrhage, minimal 
+secretions.  BAL specimens showed many neutrophils but no 
+organisms, cultures were negative.  Repeat TTE in house showed 
+normal LVEF=60%, moderate TR, mildly dilated RV with apical 
+hypokinesis and mild PA hypertension.  Patient had a CT scan of 
+the chest to further evaluate which showed most likely primary 
+pulmonary process, ARDS vs mulitfocal pneumonia.  She self 
+extubated during her MICU course and initially did well on 
+supplemental oxygen but was believed to have several aspiration 
+events leading to increasing hypoxia, and this in combination 
+with her altered mental status led to reintubation. Patient did 
+not show improvement with aggressive treatment, prognosis was 
+discussed with family members and health care proxy, her close 
+friend ___, and patient was transitioned measures only, and 
+passed away peacefully with family members at bedside.
+
+#Altered mental status: most likely from hepatic encephalopathy. 
+Saw minimal improvement with lactulose, but ultimately was 
+refractory to treatment. Required repeat intubation for hypoxia 
+and airway protection. 
+
+# Acute on Chronic renal failure. Baseline creatinine around 1.4 
+per PCP. During ___ hospitalization patient treated at 
+OSH with creatinine peaking at 3.8 and had been receiving 
+octreotide and midodrine for concern for HRS.  Creatinine was 
+downtrending at OSH however patient transferred to ___ for 
+concern for HRS and admission to liver service.  She was given 
+albumin for concern for intravascular volume depletion.  In 
+house creatinine 1.4-1.5 with good UOP with aggressive diuresis. 
+Nephrology consulted and felt HRS highly unlikely so octreotide 
+and midodrine were discontinued.  ___ likely due to poor 
+perfusion in setting of massive third-spacing of fluid and renal 
+vascular congestion. 
+
+# Hypernatremia. Free water deficit: 4.2L on presentation. 
+Patient was given D5W while being diuresed to correct, free 
+water flushes when tube feeds were started. 
+
+# Cirrhosis. Patient with history of PBC; hepatology concerned 
+for potential autoimmune hepatitis as primary etiology. RUQ US 
+with evidence of extensive cirrhosis, labs c/w liver failure, 
+MELD score: 26. Child ___ Class 3.  Liver was consulted who 
+recommended starting prednisone 40mg qday for possible 
+autoimmune component but this was discontinued after several 
+days without improvement. 
+
+# Coagulopathy.  Patient with elevated coags INR 3.0 on arrival. 
+ Peripheral smear and fibrinogen normal unlikely DIC.  Most 
+likely due to chronic cirrhosis.  She was given 1 unit platelets 
+and 2 units FFP on ___. Improved with Vitamin K but not fully 
+corrected.
+
+# Vaginal bleeding.  Patient noted to have oozing of bright red 
+blood from vaginal canal in setting of coagulopathy (INR 3.0).  
+During hospitalization vaginal ultrasound showed normal uterus 
+and endometrium, but demonstrated a conglomeration of blood 
+vessels in the vaginal wall, however the OB/GYN team repeated 
+the pelvic exam and saw only blood from the cervical os, 
+theroized hormonal build up due to liver failure causing 
+endometerial proliferation and shedding.
+
+# History of asthma. Per patient as an outpatient required no 
+inhalers or aggressive treatment. No history of tobacco use.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB or wheeze 
+2. Furosemide 80 mg PO DAILY 
+3. Magnesium Oxide 400 mg PO DAILY 
+4. Potassium Chloride 40 mEq PO DAILY 
+5. Spironolactone 50 mg PO DAILY 
+6. Ursodiol 500 mg PO DAILY 
+7. Sertraline 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

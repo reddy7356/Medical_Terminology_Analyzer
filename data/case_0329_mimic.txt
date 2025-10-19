@@ -1,0 +1,735 @@
+===== DISCHARGE NOTE =====
+note_id=16432748-DS-8 | hadm_id=26076267
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SOB, Chest pain  
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This is a ___ year old F with recent diagnosis of bilateral PEs 
+with only risk factor of OCPs who is re-admitted with worsening 
+chest pain and SOB after being home for 2 days. She was just 
+admitted from ___ to ___ after being transferred from ___ 
+___ with chest pain. During the admission, she was found to 
+be tachycardic and hypoxic with an elevated d-dimer and CTA 
+showing bilateral PEs (with report of large clot burden) and 
+infarction of segment of R lung. ECHO showed RV cavity 
+enlargement with low normal free wall motion and ECG showed 
+question of new RBBB. She was treated with 80 mg Lovenox SC BID 
+and started on coumadin which she states that she has been 
+compliant.  
+.  
+She was feeling well the day after discharge requiring very 
+minimal pain med and this morning she woke up at 1:30 AM with 
+worsening chest pain. The pain is pleuritic in nature and 
+primarily R sided. This is very similar to original PE pain 
+presentation, but lesser in intensity ___ instead of ___. She 
+feels it is improved with moving around as she often splints 
+when she sits still. She denies having any other associated 
+symptoms, no pain on her calf, no shortness of breath, no 
+palptations, no diaphoresis, no n/v, no other complaints except 
+for short episode of lightheadedness this morning while she was 
+sitting up, only lasted a few seconds and went away. As she was 
+concerned about her recent presentation and worsening of her 
+pain, she came in to the ED for evaluation.  
+.  
+In the ED, initial vs were: T 99.6 110 124/71 20 100% on RA. 
+Patient was given dilaudid 2 mg PO x1 and was started on a 
+heparin gtt for anticoagulation in place of lovenox per ED 
+attending. She states that Dilaudid helps decrease the pain, but 
+doesn't go way completely.  
+.  
+On the floor, her vitals are stable. She appears uncomfortable 
+sitting up in bed. She is taking shallow breaths due to pain.  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, palpitations. Denied nausea, vomiting, 
+diarrhea, constipation or abdominal pain. No recent change in 
+bowel or bladder habits. No dysuria. Denied arthralgias or 
+myalgias, or calf pain.  
+.  
+
+ 
+Past Medical History:
+Bilateral PEs in ___
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. No family hx 
+of miscarriages, autoimmunity or blood clots.  
+ 
+Physical Exam:
+Vitals: T: 98.7 F BP:121/80 P: 100 R: 16 O2: 100%  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Shallow breaths, sl. decreased BS on right base. Over 
+difficult to evaluate since patient not taking deep breaths. No 
+wheezes, rales, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: cool to touch, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema 
+ 
+Pertinent Results:
+___ 05:20AM BLOOD WBC-5.5 RBC-4.00* Hgb-11.2* Hct-34.9* 
+MCV-87 MCH-28.0 MCHC-32.1 RDW-13.6 Plt ___
+___ 05:30AM BLOOD WBC-6.5 RBC-3.84* Hgb-11.2* Hct-33.2* 
+MCV-87 MCH-29.2 MCHC-33.8 RDW-13.5 Plt ___
+___ 02:40PM BLOOD WBC-7.7 RBC-4.28 Hgb-12.2 Hct-37.1 MCV-87 
+MCH-28.5 MCHC-32.9 RDW-13.7 Plt ___
+___ 05:20AM BLOOD ___ PTT-120.8* ___
+___ 05:21PM BLOOD ___ PTT-64.7* ___
+___ 05:30AM BLOOD ___ PTT-121.8* ___
+___ 02:40PM BLOOD ___ PTT-35.6* ___
+___ 05:20AM BLOOD Glucose-83 UreaN-3* Creat-0.5 Na-141 
+K-4.2 Cl-107 HCO3-25 AnGap-13
+___ 02:40PM BLOOD Glucose-123* UreaN-8 Creat-0.6 Na-140 
+K-4.0 Cl-104 HCO3-27 AnGap-13
+___ 11:30PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 02:40PM BLOOD cTropnT-<0.01
+___ 11:30PM BLOOD CK(CPK)-30
+___ 02:40PM BLOOD CK(CPK)-39
+___ 05:20AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.1
+___ 02:40PM BLOOD HCG-<5
+.
+.
+.
+Chest CTA
+Final Report 
+INDICATION: ___ woman with recent severe bilateral PE, 
+now with 
+increased pain, query progression of clot despite being on 
+anticoagulation. 
+  
+COMPARISON: ___ study from ___. 
+  
+TECHNIQUE: Multiple MDCT axial images were obtained through the 
+chest after 
+the uneventful administration of 100 cc of Optiray 
+intravenously. Enteric 
+contrast was not administered. Multiplanar reformats were 
+derived. 
+  
+FINDINGS: There is no axillary or mediastinal pathologic 
+lymphadenopathy.  
+The pulmonary artery measures 2.1 cm, normal. No new pulmonary 
+embolus is 
+seen and the thrombus burden is apparently decreased from before 
+with 
+non-artery enlarging thrombus seen in the arteries to the 
+posterior segment of 
+the right lower lobe. The aorta is normal in caliber and course. 
+The heart 
+is normal in size. There is no pericardial effusion. The 
+esophagus appears 
+normal. 
+  
+Airways are patent to the level of subsegmental bronchi. There 
+are new 
+bilateral pleural effusions, larger on the right where there is 
+associated 
+relaxation atelectasis. There is a 4mm nodule in the right 
+middle lobe ___ 
+2, image 38). There is no pneumothorax. Mild air trapping is 
+seen in both 
+lower lobes. 
+  
+This study is not optimized to assess the abdomen. Within this 
+limitation, 
+the liver and spleen appear normal. There is no suspicious 
+osteolytic or 
+osteoblastic lesion. 
+  
+IMPRESSION:  
+1. Improved appearance with no new pulmonary embolus. Small 
+residual 
+segmental emboli, right lower lobe.  
+2. New pleural effusions are larger on the right with associated 
+relaxation 
+atelectasis. 
+3. Right pulmonary nodules. If low risk no follow required. If 
+high risk 
+then , per ___ Society guidelines, 12month follow up 
+required. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+___: SAT ___ 11:03 ___ 
+.
+.
+.
+Final Report 
+INDICATION: Chest pain. 
+  
+COMPARISON: None available. 
+  
+FINDINGS: PA and lateral views of the chest show the lungs to be 
+clear.  
+Cardiac, mediastinal and hilar contours are normal. There no 
+pleural 
+effusions or pneumothorax. A faint opacity projecting 
+posteriorly over the 
+right hemidiaphragm may reflect a small eventration or Bochdalek 
+hernia, 
+though a pulmonary consolidation is also a consideration. 
+  
+IMPRESSION: Posterior density over the right hemidiaphragm. This 
+may reflect 
+a Bochdalek hernia, though a pulmonary opacity is also a 
+consideration. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+___: WED ___ 7:46 ___ 
+
+ 
+Brief Hospital Course:
+___ with recent diagnosis of b/l PEs with large clot burden, 
+infarcted lung segement, on lovenox and coumadin recently d/c'd 
+who is presenting with worsening pleuritic chest pain, 
+hemodynamically stable on RA, sx likely due to premature 
+termination of her home pain meds, but initially concerning for 
+clot progression while on lovenox.  
+.  
+# Chest Pain: Likely secondary to pulmonary PEs, give it is 
+pleuritic and similar to original pain on presentation with 
+lower intensity. This could be due to either reperfusion, 
+infarction of the tissue, or pleural irritation from clot 
+destruction. Patient states that she was compliant with 
+anticoagulation and had been taking lovenox and coumadin as 
+prescribed. Her INR is 1.5 on admission. She may have stopped 
+taking her home pain meds prematurely however, but initially 
+this was also concerning for progression of emboli despite 
+anticoagulation. A repeat CTA showed decrease in clot burden and 
+no new findings aside from previous segmental infarction. Also 
+showed some small pulmonary nodules which may be followed up as 
+an outpatient in 12 months if the patient is considered to be 
+high risk based on ___ guidelines, otherwise they 
+do not need followup. She was sent home with instructions to 
+manage her pain with dilaudid po prn and standing ibuprofen. 
+.  
+# Bilateral PEs: No clear reason to discontinue lovenox. 
+However, progression of clot burden is a possibility. Data 
+suggests that in hemodynamically stable patients, SC lovenox is 
+preferred over UFH and results in lower mortality, decreased 
+recurrent thrombosis as well as better thrombus size reduction. 
+A repeat CTA did not show any progression of embolic disease (no 
+concern for failure on lovenox) and the patient was ultimately 
+therapeutic on her coumadin which she was discharged on (5mg 
+daily) to be followed up by her PCP in clinic in the coming 
+week. 
+.  
+# Gingivostomitis: has h/o labial cold sores. now with apparent 
+flare causing discomfort. she was sent home with PO acyclovir 
+400 q8 for HSV 1 treatment ___
+.
+
+ 
+Medications on Admission:
+Lovenox 80 mg SC BID  
+Coumadin 5 mg daily  
+Ibuprofen 800 mg Q8H prn  
+Dilaudid 2 mg Q4H prn  
+Tylenol prn  
+Docusate prn  
+Senna prn  
+minocycline  
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): please take while taking dilaudid. do not take if 
+you are having loose stools. .  
+2. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.  
+3. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 
+hours) for 8 days.
+Disp:*128 Capsule(s)* Refills:*0*
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): please take while taking dilaudid. do not take if you are 
+having loose stools. . Tablet(s) 
+5. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours).  
+6. Hydromorphone 2 mg Tablet Sig: ___ Tablets PO every ___ hours 
+as needed for severe pain : do not take while driving or if you 
+feel sedated.
+Disp:*25 Tablet(s)* Refills:*0*
+7. Outpatient Lab Work
+Please draw ___ and INR on ___. Please fax results to 
+Dr. ___ at fax ___.  Tel: ___.
+Thank you.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+pulmonary embolism
+.
+Secondary:
+herpes labialis
+
+ 
+Discharge Condition:
+afebrile, stable vitals, tolerating POs
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted due to pain from your pulmonary embolus. Based 
+on your CT scan, the clots appear to be resolving. Your pain was 
+likely due to the fact that you did not consistently take your 
+dilaudid and ibuprofen at home for a long enough time. Your pain 
+will improve over the course of several days. You were 
+discharged with dilaudid, ibuprofen, amd coumadin. You should 
+have blood drawn on ___ to check your INR, and have 
+the results faxed to Dr. ___. You are also given acyclovir to 
+be taken for 8 more days for your cold sores. 
+.
+Please take all medications as prescribed.
+Please follow up with all appointments.
+Please do not hesitate to return to the hospital for any 
+concerning symptoms at all.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16432748-DS-7 | hadm_id=27239233
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ from ___ with acute PE  
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo F with minimal PMH presented to ___ with severe 
+right posterior lower chest pain which had been worsening over 
+two days. Vitals on arrival 98.5, 116/73 with HR initially in 
+the 120s decreasing to the ___ presumably with IVF and pain 
+control. D-dimer ws markedly elevated on their assay and 
+subsequent CTA of the chest showed bilateral PEs (large clot 
+burden by report) with infarction of a segment of the right 
+lung. Final reports not yet availble for viewing on careweb.  
+.  
+She was given 70mg SC lovenox in their ED at 3AM and dilaudid IV 
+for pain control. Transfered directly to ___ 6 / CMED. 
+Currently states that her pain is tolerable.  
+.  
+She has been on OCP for many years. No hx of prior clots of 
+miscarriages. No hx of clots or miscarriages in family. She does 
+note that she sprained her left ankle weeks ago and that it was 
+initially in a soft cast.  
+.  
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. S/he denies recent fevers, chills or 
+rigors. S/he denies exertional buttock or calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+.  
+ 
+Past Medical History:
+none significant  
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory. No family hx 
+of miscarriages, autoimmunity or blood clots.  
+ 
+Physical ___:
+VS: 98.0, 114/80, 80, 16, 100%ra  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with JVP at clavicle  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No I/VI holosystolic murmur at RSB. No 
+thrills, lifts. No S3 or S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi. NO PLEURAL RUBS.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ 
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-5.9 RBC-3.69* Hgb-10.9* Hct-31.9* 
+MCV-87 MCH-29.5 MCHC-34.1 RDW-13.5 Plt ___
+___ 04:45AM BLOOD WBC-6.3 RBC-3.46* Hgb-10.3* Hct-30.0* 
+MCV-87 MCH-29.7 MCHC-34.3 RDW-13.7 Plt ___
+___ 09:10AM BLOOD WBC-10.0 RBC-3.98* Hgb-11.4* Hct-34.4* 
+MCV-86 MCH-28.6 MCHC-33.2 RDW-13.6 Plt ___
+___ 06:15AM BLOOD ___ PTT-36.3* ___
+___ 04:45AM BLOOD ___ PTT-33.1 ___
+___ 09:10AM BLOOD ___ PTT-38.4* ___
+___ 06:15AM BLOOD Glucose-79 UreaN-4* Creat-0.6 Na-142 
+K-3.9 Cl-108 HCO3-26 AnGap-12
+___ 04:45AM BLOOD Glucose-159* UreaN-4* Creat-0.5 Na-141 
+K-3.5 Cl-110* HCO3-25 AnGap-10
+___ 09:10AM BLOOD Glucose-77 UreaN-7 Creat-0.6 Na-139 K-3.9 
+Cl-107 HCO3-25 AnGap-11
+___ 06:15AM BLOOD Calcium-8.3* Phos-3.4 Mg-1.8
+.
+.
+___     ___                       RESULT                 
+     
+___ CT/CT TORSO W/ W/O CONTRAST                            
+     
+ 
+     ___
+      
+     CT TORSO
+      
+     CLINICAL HISTORY:  Right rib and flank pain.
+      
+     TECHNIQUE:  CT of the torso was performed, with imaging of 
+the chest
+     obtained using pulmonary angiogram technique, and imaging 
+of the
+     abdomen and pelvis obtained both prior to and after the 
+administration
+     of IV contrast.  100 cc of Omnipaque-300 was administered 
+for this
+     examination.  Multiplanar reformations were also reviewed 
+at the time
+     of interpretation.
+      
+     No comparisons.
+      
+     FINDINGS:
+      
+     CTA CHEST:  Examination of vascular structures demonstrates 
+bilateral
+     pulmonary emboli, with a relatively large burden of 
+thrombus seen
+     predominantly within the bilateral lower lobe basal 
+segments.  There
+     is essentially occlusive appearance of right basilar lower 
+lobe medial
+     segment with consolidation peripheral to this suggesting 
+the presence
+     of a pulmonary infarct within this segment.  Thrombus is 
+also seen
+     proximally within the right middle lobe pulmonary artery, 
+within the
+     left lower lobe pulmonary artery, and with relative 
+preservation of
+     the upper lobe pulmonary arteries.
+      
+     CT CHEST WITH CONTRAST:
+      
+     Examination of soft tissue windows demonstrates no 
+axillary,
+     mediastinal, or hilar lymphadenopathy.  
+      
+     Examination of lung windows again demonstrates elevation in 
+the right
+     lower lobe basal posterior pulmonary artery segment, 
+consistent with
+     pulmonary embolism given the thrombus filling the blood 
+vessels
+     supplying this region.  No concerning pulmonary nodules are 
+otherwise
+     seen.  
+      
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:
+      
+     The liver, gallbladder, pancreas, spleen, adrenal glands, 
+and kidneys
+     appear unremarkable.  There is no abdominal lymphadenopathy 
+or free
+     fluid.  
+ 
+     PAGE 1               Signed Report                     
+(CONTINUED)
+                                          ___: ___
+                                          ___: ___
+                                          ___: ___ Age: 
+___      Sex: F
+                                          ___: ___ M.___., 
+___
+                                          ___: ___   Loc: 
+G.ER    
+                                          ___ Date: ___ 
+Status: DEP ER
+                                          Radiology No:  
+ 
+ 
+ 
+ 
+___     ___                       RESULT                 
+     
+___ CT/CT TORSO W/ W/O CONTRAST                            
+     
+       
+ 
+      
+     CT OF THE PELVIS WITH ORAL AND IV CONTRAST:
+      
+     The uterus appears unremarkable.  No significant 
+abnormality is seen
+     in the region of the adnexae.  No gross abnormality is seen 
+within the
+     colon as visualized.  The bladder is unremarkable.
+      
+     Examination of osseous structures does not show lytic or 
+sclerotic
+     lesions concerning for malignancy.  No evidence of rib 
+fracture, and
+     particularly at the right lung base.  
+      
+     IMPRESSION:
+     1.  BILATERAL PULMONARY EMBOLI AS DESCRIBED ABOVE, WITH A 
+REASONABLY
+     LARGE BURDEN OF THROMBUS PREDOMINANTLY WITHIN THE BILATERAL 
+LOWER
+     LOBES.  NOTE IS ALSO MADE OF CONSOLIDATION IN THE RIGHT 
+LOWER LOBE
+     POSTERIOR BASAL SEGMENT, SUGGESTIVE OF PULMONARY INFARCTION 
+WITHIN
+     THIS SEGMENT.  THIS LIKELY EXPLAINS THE PATIENT'S PAIN.
+      
+     2.  NO EVIDENCE OF RIB FRACTURE.
+      
+     3.  NO EVIDENCE OF RESIDUAL THROMBUS WITHIN THE VISUALIZED 
+PORTIONS OF
+     THE IVC, ILIAC VEINS, AND COMMON FEMORAL VEINS.
+      
+     A PRELIMINARY REPORT WAS PROVIDED BY ___. ___ ___. 
+___ AT 2:30
+     A.M.:  PATIENT ON ORAL CONTRACEPTIVES.  BILATERAL PULMONARY 
+EMBOLISM,
+     RIGHT WORSE THAN LEFT.  MULTIPLE FILLING DEFECTS JUST 
+DISTAL TO THE
+     MAIN RIGHT PULMONARY ARTERY. LEFT SEGMENTAL PULMONARY 
+EMBOLUS.  WEDGE
+     LIKE OPACIFICATION IN THE POSTERIOR BASAL SEGMENT OF RIGHT 
+LOWER LOBE
+     CONCERNING FOR INFARCT.  SMALL RIGHT PLEURAL EFFUSION.  NO 
+KIDNEY
+     STONE OR HYDRONEPHROSIS.
+      
+      
+      
+                    ** REPORT SIGNATURE ON FILE ___ **
+                    Reported By: ___, MD
+                    Signed By:   ___.
+ 
+     CC: ___ M.D.
+          
+     Report Signed Time: ___ (___)
+     Transcribed Date/Time: ___ (___)
+     Transcriptionist: #GRAD.TP
+ 
+     PAGE 2               Signed Report
+.
+.
+.
+Final Report 
+REASON FOR ___: History of pulmonary embolism. Clinical concern 
+for deep 
+venous thrombosis. 
+  
+COMPARISON: None. 
+  
+TECHNIQUE: Grayscale and Doppler ultrasound images of bilateral 
+lower 
+extremity veins were obtained. 
+  
+FINDINGS: Bilateral common femoral veins, superficial femoral 
+veins, 
+popliteal veins demonstrate normal compressibility, flow, and 
+augmentation.  
+Bilateral posterior tibial and peroneal veins are patent. 
+  
+IMPRESSION: No deep venous thrombosis within bilateral lower 
+extremities. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+___: SAT ___ 3:23 ___ 
+.
+.
+.
+ECHO
+Conclusions  
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). The estimated cardiac 
+index is normal (>=2.5L/min/m2). The right ventricular cavity is 
+mildly dilated with borderline normal free wall function. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic regurgitation. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is 
+borderline pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+
+IMPRESSION: Mild right ventricular cavity enlargement with low 
+normal free wall motion. Borderline pulmonary artery systolic 
+hypertension. 
+
+CLINICAL IMPLICATIONS: 
+Based on ___ AHA endocarditis prophylaxis recommendations, the 
+echo findings indicate prophylaxis is NOT recommended. Clinical 
+decisions regarding the need for prophylaxis should be based on 
+clinical and echocardiographic data.   
+  Electronically signed by ___, MD, Interpreting 
+physician ___ ___ 15:___ yo F on OCP and recent limited mobility of left leg with 
+large bilateral PEs and pulmonary infarction.  
+.  
+# PE: Only discernible risk factor is OCP. Left ankle sprain 
+resulted in some temporary limited mobility of that leg. No 
+family hx. She was hemodynamically stable although initially 
+tachycardic at OSH in setting of uncontrolled pain. On EKG, 
+unclear whether RBBB is new, if so, would reflect RV strain. 
+ECHO shows mild right ventricular cavity enlargement with low 
+normal free wall motion. Borderline pulmonary artery systolic 
+hypertension. LENIs were negative for DVT. The pt was started on 
+lovenox 80 bid and coumadin 5 daily. She was discharged with an 
+INR of 1.3 so this will need to followed up in a couple days 
+with her PCP for which she has an appointment. She was 
+instructed to stop using oral contraceptives and to never start 
+smoking. Given this was a first time PE and she was using OCPs 
+without a family history of clotting, a hypercoaguable workup 
+was not performed, however, this may be warranted as an 
+outpatient. She was also treated with prn dilaudid PO and 
+standing tylenol/ibuprofen for her pain (due to infarction of a 
+segment in the right lung).  
+.  
+# Anemia: likely due to acute setting, received large amount of 
+IV fluids, also had poor PO intake, HCT up today to 31, was 
+initially 34 on admission. Her HCT can be followed as an 
+outpatient to determine whether she warrants a workup for 
+anemia.
+
+ 
+Medications on Admission:
+OCP many years  
+minocycline x 8 months 
+ 
+Discharge Medications:
+1. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.
+Disp:*20 Tablet(s)* Refills:*0*
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: ___  PO BID (2 times a 
+day): please take while taking dilaudid for constipation.
+Disp:*qs 2 weeks qs 2 weeks* Refills:*1*
+3. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous 
+Q12H (every 12 hours).
+Disp:*20 * Refills:*1*
+4. Ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours): Please take for ___ days with food until pain subsides.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): please take while taking dilaudid for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours): do not take more than 4000mg per day. please take for 
+___ days until pain subsides.
+Disp:*50 Tablet(s)* Refills:*0*
+7. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain: do not take while driving or 
+performing any task requiring high levels of skill.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Outpatient Lab Work
+Please check ___, INR, PTT. Fax results to Dr. ___ at 
+___.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+pulmonary embolus likely secondary to oral contraceptive use
+
+ 
+Discharge Condition:
+afebrile, stable vitals, tolerating POs, ambulatory, pain 
+controlled
+
+ 
+Discharge Instructions:
+You were admitted for pulmonary embolus or clots that were found 
+in your lungs. Your vital signs and breathing was stable. You 
+were treated with blood thinners, coumadin and lovenox which you 
+will continue at home. You were also treated with tylenol, 
+ibuprofen, and dilaudid for pain control. PLEASE STOP TAKING 
+ORAL CONTRACEPTIVES. DO NOT START SMOKING, as this may pose an 
+extra risk of clotting for you. 
+.
+Please take all medications as prescribed.
+Please followup with all appointments.
+Please do not hesitate to return to the hospital for any 
+concerning symptoms at all.
+ 
+Followup Instructions:
+___

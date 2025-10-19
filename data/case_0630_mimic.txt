@@ -1,0 +1,289 @@
+===== DISCHARGE NOTE =====
+note_id=16834131-DS-10 | hadm_id=28235569
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+acetaminophen / shellfish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SAH, found down
+ 
+Major Surgical or Invasive Procedure:
+___ EVD placed at OSH
+___ Balloon assisted coiling of L vertebrobasilar artery 
+aneurysm
+___ Angio for chemical vasorelaxation (nitro, verapamil)
+___ Balloon angioplasty M1 
+
+ 
+History of Present Illness:
+Eu ___, ___ (AKA ___ is a ___ female who was 
+found down on her couch unresponsive. EMS was initiated and EMS 
+administered Narcan with no effect. She was taken to OSH where 
+she was given additional Narcan without effect. Head CT showed 
+extensive SAH and Hydrocephalus.  Neurosurgery was consulted and 
+they placed a right frontal EVD.  Pt was given Keppra 1g IV and
+Mannitol 25g. She was transferred to ___ for Neurosurgical 
+evaluation.  Of note her urine was positive for Cocaine. She is 
+now s/p EVD placement and balloon assisted coiling of aneurysm. 
+Her course has been complicated by
+respiratory failure, fevers and severe vasospasm with stroke. 
+The patient's code status was ultimately made CMO on ___ and 
+she was terminally extubated surrounded by family at the 
+bedside. Her time of death was 1700 on ___.
+
+History obtained from: OSH records
+Last seen well: unknown
+Time of headache onset: unknown
+ 
+Past Medical History:
+Chronic etoh use, hypokalemia, anxiety/depression
+ 
+Social History:
+___
+Family History:
+no family history of aneuyrsms 
+ 
+Physical Exam:
+--------------
+on admission:
+--------------
+Date and Time of evaluation: ___
+
+___ and ___: 
+[ ]Grade I: Asymptomatic, mild headache, slight nuchal rigidity
+[ ]Grade II: Moderate to severe headache, nuchal rigidity, no    
+
+   neurological deficit other than cranial nerve palsy.
+[x]Grade III: Drowsiness/Confusion, mild focal neurological 
+   deficit.
+[ ]Grade IV: Stupor, moderate-severe hemiparesis.
+[ ]Grade V: Coma, decerebrate posturing.
+
+Fisher Grade:
+[ ]1 No hemorrhage evident
+[ ]2 Subarachnoid hemorrhage less than 1mm thick
+[ ]3 Subarachnoid hemorrhage more than 1mm thick
+[x]4 Subarachnoid hemorrhage of any thickness with IVH or  
+     parenchymal extension
+
+WFNS SAH Grading Scale:
+[ ]Grade I: GCS 15, no motor deficit
+[ ]Grade II: GCS ___, no motor deficit
+[ ]Grade III: GCS ___, with motor deficit
+[x]Grade IV: GCS ___, with or without motor deficit
+[ ]Grade V: GCS ___, with or without motor deficit  
+
+___ Coma Scale:
+  [x]Intubated   [ ]Not intubated
+
+Eye Opening: 
+ [x]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [ ]4 Opens eyes spontaneously
+
+Verbal:
+ [x]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+ __8__ Total
+
+ICH Score:
+
+GCS
+     [ ]2     GCS ___
+     [x]1     GCS ___
+     [ ]0     GCS ___
+     
+ICH Volume 
+     [x]1     30 mL or Greater
+     [ ]0     Less than 30 mL
+
+Intraventricular Hemorrhage
+     [x]1     Present
+     [ ]0     Absent
+
+Infratentorial ICH
+     [ ___     Yes
+     [x]0     No
+
+Age
+     [ ]1     ___ years old or greater
+     [x]0     Less than ___ years old
+
+Total Score: ____3_
+
+BP: 139/97   HR:107     R:18       O2Sats: 100% Intubated
+
+Gen: Intubated, sedation held
+HEENT: normocephalic, atraumatic
+Neck: Supple
+Extrem: Warm and well-perfused. No C/C/E.
+
+Neuro:
+Mental status: Intubated
+NO eye opening
+PERRLA ___ brisk
+Nonverbal
+Squeezes hand on the right to command, left arm localizes 
+briskly
+Wiggles bilateral toes to command
+Spontaneously lifts legs
+
+Orientation: none.
+
+Sensation: Intact to light touch
+
+--------------
+at discharge:
+--------------
+The patient was pronounced dead at 1700 on ___. On exam, 
+patient was pale, no respirations, pulseless, no heart sounds. 
+Pupils with anisicoria and fixed, no cranial nerve reflexes.
+ 
+Pertinent Results:
+please see OMR for pertinent results 
+ 
+Brief Hospital Course:
+___ is a ___ year old woman who found down with 
+aneurysmal subarachnoid hemorrhage. CTA revealed aneurysm at the 
+left vertebrobasilar junction. Urine was positive for cocaine on 
+admission. Her course was complicated by respiratory failure, 
+infection, severe vasospasm and stroke. The patient's code 
+status was ultimately changed to comfort measures only on 
+___ and she was terminally extubated. Time of death 1700 on 
+___.
+
+#aSAH
+She was admitted to ICU for close monitoring. ___ placed for 
+strict SBP <140. She was started on Nimodipine 60q4 for 
+vasospasm prophylaxis and started on IVF @100cc/hr. EVD was 
+placed at OSH and was kept open at 15. Post-EVD placement, small 
+tract hematoma noted at EVD site. CSF was sent for culture upon 
+admission to ___ and was negative. On ___ she was taken to 
+angio suite and underwent cerebral angiogram for balloon 
+assisted coiling of aneurysm. Her groin was perclosed and the 
+patient remained flat x2 hours. Post-procedure, the EVD was 
+dropped to 10 above the tragus. On ___, the patient was not 
+following commands; she was simultaneously febrile to 103 and 
+EEG was placed to rule out seizures. EEG was negative for 
+epileptiform seizures on ___ with generalized slowing 
+consistent with encephalopathy. NCHCT obtained on ___ was 
+stable. CTA head was completed on ___ which showed patient 
+in severe vasospasm, patient was started on pressors to maintain 
+SBP >140.  EEG was discontinued on ___ given no seizure 
+activity. EVD was raised to 15 on ___. Nimodipine was held due 
+to worsening hypotension. TCDs ___ showed diffuse vasospasm. 
+Head CT showed large territory left hemispheric infarct. She was 
+taken to angio with unsuccessful attempted balloon angioplasty, 
+and received verapamil and nitro for vasorelaxation. Please see 
+report in OMR for full details. She continued to receive triple 
+vasopressors to maintain SBP 180-200. She was also started on 
+milrinone. CT head on ___ showed stable infarcts. She was taken 
+back to angio suite on ___ for balloon angioplasty for 
+treatment of her vasospasm. MRI was obtained on ___ which 
+confirmed acute infarcts in the L MCA and L PCA territories. She 
+continued on vasopressors and milrinone through ___. Dr. ___ 
+met with the patient's son ___ on ___ and discussed prognosis 
+and goals of care. The decision was made to transition to 
+comfort measures only. The family was waiting for the patient's 
+mother to visit prior to terminal extubation. The patient was 
+terminally extubated at 3pm on ___. The patient was pronounced 
+with time of death 1700 on ___.
+
+#Fevers
+The patient was febrile to 103 on ___. She was pancultured, 
+including repeating CSF cultures. She was treated with IV 
+Tylenol and was started on broad spectrum antibiotics ___ 
+including vancomycin, flagyl, and cefepime. She was pan cultured 
+again on ___. C diff PCR was positive and she was started on 
+vanco and flagyl. Antibiotics were discontinued on ___ with the 
+change in her code status to CMO.
+
+#Acute respiratory failure
+The patient was intubated for airway protection. The patient was 
+tachypneic on ___ and remained ventilated, requiring 
+increased sedation for vent synchrony. Worsening respiratory 
+status on ___ requiring increased sedation. She remained on the 
+ventilator-dependent throughout her hospitalization. She was 
+terminally extubated on ___.
+
+#ETOH withdrawal
+The patient was started on IV thiamine, folic acid and 
+multivitamin for alcohol withdrawal. She was started on precedex 
+on ___ for agitation. She is s/p phenobarb taper. 
+
+#Pulmonary nodules
+The patient was incidentally found to have pulmonary nodules 
+bilaterally measuring up to 3-4 mm on her CTA. For incidentally 
+detected multiple solid pulmonary nodules 
+smaller than 6mm, no CT follow-up is recommended in a low-risk 
+patient, and an optional CT follow-up in 12 months is 
+recommended in a high-risk patient. Follow-up does not pertain 
+to this case given patient now CMO.
+
+AHA/ASA Core Measures for SAH/ ICH:
+
+1. Water swallow test before any PO intake? [x]Yes []No
+2. DVT prophylaxis administered? [ ]Yes []No
+3. Smoking cessation counseling given? [x]Yes []No [Reason: 
+()non-smoker  ()unable to participate]
+4. Stroke Education given in written form? [x]Yes []No
+5. Assessment for rehabilitation and/or rehab services 
+considered? [x]Yes []No
+
+ 
+Stroke Measures:
+
+1.     Was ___ performed within 6hrs of arrival? [x]Yes 
+[]No  [Reason:]
+2.     Was ICH scoring performed within 6hrs of arrival? [x]Yes 
+[]No  [Reason:]
+3.     Was a Procoagulant Reversal agent given? []Yes [x]No  
+[Reason:not anticoagulated]
+4.     Was Nimodipine given? [x]Yes []No [Reason:]
+
+ 
+Medications on Admission:
+listed as : Buspirone 15mg BID, Lamotrigine 100mg daily, 
+olanzapine 5mg daily ----> Could not be confirmed by family 
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+aneurysmal subarachnoid hemorrhage 
+ 
+Discharge Condition:
+The patient has expired.
+ 
+Discharge Instructions:
+The patient has expired.
+ 
+Followup Instructions:
+___

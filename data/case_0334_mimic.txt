@@ -1,0 +1,211 @@
+===== DISCHARGE NOTE =====
+note_id=15467999-DS-5 | hadm_id=25607697
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Cortisone / Zithromax Z-Pak
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right hip pain
+
+ 
+Major Surgical or Invasive Procedure:
+Right hip hemiarthroplasty
+
+ 
+History of Present Illness:
+___ woman with right hip pain
+
+___ mechanical fall onto right hip, immediate onset of right 
+hip pain, unable to ambulate.
+
+Patient denies any antecedent hip pain, denies pain other than 
+right hip
+
+ 
+Past Medical History:
+Diabetes
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Well apearing woman in NAD
+Oriented to ___, Name, ___
+
+Right Upper Extremity
+No tenderness, deformity, erythema, ecchymosis
+No pain with passive motion of shoulder, elbow, wrist, fingers
+ 
+Left Upper Extremity 
+No tenderness, deformity, erythema, ecchymosis
+No pain with passive motion of shoulder, elbow, wrist, fingers
+
+Right Lower Extremity 
+wound c/d/i
+Pain with any movement of right hip
+Saphenous, Sural, Deep Peroneal, Superficial Peroneal, Tibial 
+sensation intact to light touch although slight decreased 
+globally
+Extensor Hallucis Longus, Flexor Hallucis Longus, Tibialis 
+Anterior fire
+1+ posterior tibial 
+
+Left Lower Extremity 
+skin clean and intact
+No tenderness, deformity, erythema, ecchymosis
+No pain with passive motion of hip, knee, ankle, toes
+Saphenous, Sural, Deep Peroneal, Superficial Peroneal, Tibial 
+sensation intact to light touch slight decreased globally
+Extensor Hallucis Longus, Flexor Hallucis Longus, Tibialis 
+Anterior fire
+1+ posterior tibial 
+
+ 
+Pertinent Results:
+___ 05:20PM   GLUCOSE-225* UREA N-13 CREAT-0.6 SODIUM-133 
+POTASSIUM-4.9 CHLORIDE-102 TOTAL CO2-27 ANION GAP-9
+___ 05:20PM   CALCIUM-8.3* PHOSPHATE-3.4 MAGNESIUM-1.8
+___ 05:20PM   WBC-11.2* RBC-3.23* HGB-10.1* HCT-30.4* 
+MCV-94 MCH-31.3 MCHC-33.3 RDW-13.2
+___ 05:20PM   PLT COUNT-271
+___ 01:40PM   GLUCOSE-211* UREA N-13 CREAT-0.6 SODIUM-134 
+POTASSIUM-4.4 CHLORIDE-100 TOTAL CO2-27 ANION GAP-11
+___ 01:40PM   CALCIUM-8.6 PHOSPHATE-3.4 MAGNESIUM-1.9
+___ 01:40PM   WBC-11.4* RBC-3.80* HGB-11.9* HCT-35.7* 
+MCV-94 MCH-31.3 MCHC-33.3 RDW-13.2
+___ 01:40PM   PLT COUNT-312
+___ 04:30AM   GLUCOSE-141* UREA N-20 CREAT-0.6 SODIUM-136 
+POTASSIUM-4.6 CHLORIDE-101 TOTAL CO2-29 ANION GAP-11
+___ 04:30AM   estGFR-Using this
+___ 04:30AM   WBC-9.1 RBC-4.01* HGB-12.4 HCT-38.2 MCV-95 
+MCH-31.0 MCHC-32.5 RDW-13.0
+___ 04:30AM   NEUTS-67.4 ___ MONOS-6.9 EOS-5.9* 
+BASOS-0.5
+___ 04:30AM   PLT COUNT-359
+___ 04:30AM   ___ PTT-27.1 ___
+ 
+Brief Hospital Course:
+The patient was admitted to the Orthopaedic Trauma Service for 
+repair of a right femoral neck fracture.  The patient was taken 
+to the OR and underwent an uncomplicated right hip 
+hemiarthroplasty.  The patient tolerated the procedure without 
+complications and was transferred to the PACU in stable 
+condition.  Please see operative report for details. Post 
+operatively pain was controlled with a PCA with a transition to 
+PO pain meds once tolerating POs.  The patient tolerated diet 
+advancement without difficulty and made steady progress with ___.
+
+Weight bearing status: WBAT RLE, anterolateral precautions.
+
+The patient received ___ antibiotics as well as 
+lovenox for DVT prophylaxis.  The incision was clean, dry, and 
+intact without evidence of erythema or drainage; and the 
+extremity was NVI distally throughout.  The patient was 
+discharged in stable condition with written instructions 
+concerning precautionary instructions and the appropriate 
+follow-up care.  The patient will be continued on chemical DVT 
+prophylaxis for 4 weeks post-operatively.  All questions were 
+answered prior to discharge and the patient expressed readiness 
+for discharge.
+
+ 
+Medications on Admission:
+Levimir 6 units ___, Novolog 3 units AC, Lipitor
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN pain 
+2. Atorvastatin 10 mg PO DAILY 
+3. Calcium Carbonate 500 mg PO TID 
+4. Docusate Sodium 100 mg PO BID 
+5. Enoxaparin Sodium 40 mg SC DAILY Duration: 4 Weeks 
+6. levemir 7 Units Breakfast
+levemir 6 Units Bedtime
+Insulin SC Sliding Scale using novolog Insulin
+7. Multivitamins 1 CAP PO DAILY 
+8. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg every four (4) hours Disp #*50 Tablet 
+Refills:*0
+9. Senna 1 TAB PO BID 
+10. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+right femoral neck fracture
+
+ 
+Discharge Condition:
+stable
+alert and oriented
+ambulatory
+
+ 
+Discharge Instructions:
+******SIGNS OF INFECTION**********
+Please return to the emergency department or notify MD if you 
+should experience severe pain, increased swelling, decreased 
+sensation, difficulty with movement; fevers >101.5, chills, 
+redness or drainage at the incision site; chest pain, shortness 
+of breath or any other concerns.
+-Wound Care: You can get the wound wet/take a shower starting 
+from 3 days post-op. No baths or swimming for at least 4 weeks. 
+Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment. No dressing is needed 
+if wound continued to be non-draining.
+
+******WEIGHT-BEARING*******
+Weight bearing as tolerated in right lower extremity; 
+anterolateral precautions
+
+******MEDICATIONS***********
+- Resume your pre-hospital medications.
+- You have been given medication for your pain control. Please 
+do not operate heavy machinery or drink alcohol when taking this 
+medication. As your pain improves please decrease the amount of 
+pain medication. This medication can cause constipation, so you 
+should drink ___ glasses of water daily and take a stool 
+softener (colace) to prevent this side effect.
+-Medication refills cannot be written after 12 noon on ___.
+
+*****ANTICOAGULATION******
+- Take Lovenox for DVT prophylaxis for 4 weeks post-operatively.
+
+******FOLLOW-UP**********
+Please have your staples removed at your rehabilitation facility 
+at post-operative day 14.
+
+Please follow up with ___ in 14 days 
+post-operation for evaluation. Call ___ to schedule 
+appointment upon discharge.
+
+Please follow up with your PCP regarding this admission and any 
+new medications/refills.
+Physical Therapy:
+WBAT RLE, anterolateral precautions
+Treatments Frequency:
+physical therapy
+wound care
+nursing
+ 
+Followup Instructions:
+___

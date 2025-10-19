@@ -1,0 +1,230 @@
+===== DISCHARGE NOTE =====
+note_id=13611015-DS-6 | hadm_id=25040021
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+swelling of both feet for 2 days
+ 
+Major Surgical or Invasive Procedure:
+Left ankle joint aspiration
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with a past medical 
+history significant for IVDU (last use 6 months ago) and 
+hepatitis C who presents with 2 days of ankle swelling and pain. 
+He reports significant ankle swelling and pain that started two 
+days ago. He also endorses a productive cough of white sputum 
+over the past 3 days. He does note he has gets a similar cough 
+about once per year that he attributes to smoking. He has never 
+had symptoms like this in the past. He presents today as his mom 
+is in the ICU here with necrotic bowel and his pain/edmea has 
+been worsening.  
+He denies viral or URI symptoms. He denies trauma to his ankles 
+or legs. He denies recent airplane rides, surgery, or 
+immobilization. He denies sick contacts or recent travel. He is 
+currently sexually active, only with women, with usually 1 
+partner (his children's mother, no condoms) but does note 
+several other sexual partners over the last few months with whom 
+he wears condoms. He denies prior history of STIs.  
+ 
+In the ED initial vitals were: 99.2 83 ___ 95% RA  
+- Labs were significant for WBC 7.7 (77% PMNs) and H/H 12.___. 
+Chem-7, LFTs, and ESR/CRP were normal, and BNP was mildly 
+elevated at 534. UA was notable for 30 protein.  
+- CXR showed no acute cardiopulmonary process.  
+- Patient was given Ibuprofen 600mg.  
+Vitals prior to transfer were: 98.9 81 101/62 16 94% RA  
+On the floor, patient is comfortable and has no acute concerns. 
+ 
+Past Medical History:
+Hepatitis C
+IVDU
+Tobacco Abuse
+GERD
+ 
+Social History:
+___
+Family History:
+Father - ___ Cancer  
+Mother - COPD, currently admitted for ischemic bowel  
+
+ 
+Physical Exam:
+ON ADMISSION:
+
+Vitals - T: 98.4 BP: 101/63 HR: 74 RR: 18 02 sat: 98% RA  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition  
+NECK: Nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: Nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: Bilateral 1+/trace non-pitting pedal and ankle 
+edema. Tenderness to palpation over the bilateral medial ankles. 
+No calf tenderness. Negative ___ sign. Ankle tenderness with 
+active and passive movement but normal range of motion. Moving 
+all extremities well, no cyanosis or clubbing. PULSES: 2+ DP 
+pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: Warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+ON DISCHARGE:
+Vitals T: 98.1 BP: 107/57 HR: 68 RR: 18 02 sat: 95% RA  
+GENERAL: well appearing man, NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM, good 
+dentition, erythema of posterior pharynx, no exudates  
+NECK: Nontender supple neck, no LAD, no JVD  
+CARDIAC: regular rate and rhythm, S1/S2, no murmurs, gallops, or 
+rubs  
+LUNG: minimal crackles at bases, few inspiratory wheezes, 
+occassional crackles, breathing comfortably without use of 
+accessory muscles  
+ABDOMEN: Nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+GU: no inguinal lymph nodes palpable 
+EXTREMITIES: bilateral 1+ nonpitting edema to above ankles. 
+Tenderness to palpation on bilateral arches of feet and 
+bilateral medial and lateral ankles. No calf tenderness. Ankle 
+tenderness with active and passive motion, no limitation to 
+joint range. No cyanosis, no clubing. 2+ dorsal pedal pulses. 
+NEURO: CN II-XII intact, ___ motor strength  
+SKIN: Warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+ 
+Pertinent Results:
+Notable for:
+
+___ 02:40PM BLOOD WBC-7.7 RBC-4.13* Hgb-12.5* Hct-39.0* 
+MCV-95 MCH-30.3 MCHC-32.0 RDW-13.0 Plt ___
+___ 02:40PM BLOOD Neuts-76.9* Lymphs-16.2* Monos-5.9 
+Eos-0.9 Baso-0.2
+___ 02:40PM BLOOD Glucose-129* UreaN-9 Creat-1.0 Na-139 
+K-4.6 Cl-102 HCO3-29 AnGap-13
+___ 02:40PM BLOOD ALT-31 AST-25 AlkPhos-84 TotBili-0.2
+___ 02:40PM BLOOD Lipase-19
+___ 02:40PM BLOOD proBNP-534*
+___ 07:30AM BLOOD Calcium-8.8 Phos-3.3 Mg-1.8
+___ 02:40PM BLOOD CRP-6.2*
+___ 02:40PM BLOOD ESR-10
+___ 08:00AM BLOOD C3-124 C4-29
+
+PENDING LABS:
+
+___ 07:54AM BLOOD Cryoglb-PND
+___ 07:30AM BLOOD HBsAg-PND HBsAb-PND HBcAb-PND
+___ 07:30AM BLOOD ANCA-PND
+___ 07:30AM BLOOD HIV Ab-PND
+___ 07:30AM BLOOD RNP ANTIBODY-PND
+___ 07:30AM BLOOD CYCLIC CITRULLINATED PEPTIDE (CCP) 
+ANTIBODY, IGG-PND
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with past medical history of 
+hepatitis C, past IVDU, gastritis, who presented with 2 days of 
+spontaneous bilateral feet swelling and pain in the arch of his 
+feet and medial ankles. Patient woke up with marked swelling of 
+his feet 2 days prior to admission (patient has picture). New 
+onset cough with productive white sputum for 5 days prior to 
+admission. At time of admission, minimal swelling in bilateral 
+present with persistent tenderness to palpation and while 
+ambulating. Normal strength and range of motion. No concern for 
+joint infection. Chest XRAY and blood tests (including LFTs) 
+were all within normal ranges except for a slightly elevated 
+BNP. Bilateral Foot XRAY showed no signs of fracture or joint 
+process. There was no clear etiology for newfound swelling. 
+Rheumatology was consulted since the tenderness was localized to 
+arch of feet and ankle, and appeared to of musculoskeletal 
+origin. Joint aspiration was attempted, but no fluid was 
+obtained. Per rheumatology diagnosis was Reactive arthritis vs 
+CPPD. Many labs were sent out, but results were not completed 
+prior to discharge. Swelling improved and he will be discharged 
+on Ibuprofen 800mg TID for 10 days with plans to follow up as an 
+outpatient. 
+
+Patient is not on any medications nor is he being followed for 
+Hep C. 
+
+TRANSITIONAL ISSUES:
+- Ibuprofen 800mg TID for 10 days to treat swelling and pain.
+- Started on omeprazole 40mg daily 
+- Follow up pending labs: HIV, ANCA, Hep B, Cryo, RNP, CCP, HCV 
+viral load
+- Given 5 pills of 5mg oxycodone for pain. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*15 Capsule Refills:*0
+2. Ibuprofen 800 mg PO Q8H 
+RX *ibuprofen 800 mg 1 tablet(s) by mouth three times a day Disp 
+#*30 Tablet Refills:*0
+3. Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0
+4. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain Duration: 
+2 Days 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*8 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+LOWER EXTREMITY SWELLING
+
+Secondary:
+Hepatitis C
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you while you were at ___. 
+You came to the hospital for 2 days of sudden swelling in your 
+feet and pain in your arches and ankles. The swelling improved 
+from prior to hospitalization, but you continued to have pain. 
+You were given ibuprofen to help with the swelling and pain. All 
+studies about your heart, lungs, liver, and kidney were normal. 
+You were seen by rheumatology, specialists in joints and 
+tendons. You have follow up appointments with rheumatology and 
+primary care to follow up on lab results that are still not 
+back. 
+
+Sincerely, 
+
+Your medical team at ___
+ 
+Followup Instructions:
+___

@@ -1,0 +1,5096 @@
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-15 | hadm_id=20145957
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cath
+
+ 
+History of Present Illness:
+___ with PMH of CABG (5 grafts) in ___, PCI x 4, DM, HTN p/w 
+chest pain x 5 days. Patient's chest pain began on ___, 
+originated in her back, and was associated with substernal chest 
+pressure. These episodes were not associated with nausea, 
+diaphoresis, palpatations, radiation to arms, or exertion. 
+However, they are similar to her previous presentation prior to 
+her CABG.  
+.  
+In the ED, her vitals were 101/52 61 96% RA. An EKG was 
+performed which showed no acute changes. She was given ASA, SL 
+NTG x 3 and 8 mg IV morphine with improvement in her chest pain. 
+A heparin gtt was not started. A chest CTA was also performed to 
+rule out PE and dissection and was negative.  
+.  
+ROS was negative for F/C/abdominal pain.  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  ___ has got a number of medical 
+problems stemming from hypertension and diabetes.  She has had 
+diabetes for a long period of time and her most recent 
+hemoglobin A1c level was notably elevated at 14%.  She has a 
+history of coronary artery disease and had a CABG in ___.  She 
+reportedly has an ejection fraction of 50 to 55%.  She has a 
+history of hyperlipidemia and hypertension.  With respect to her 
+bypass, she has had stents placed as well.  Her CABG was 
+complicated by a sternal wound infection.  Her most recent echo 
+was obtained on ___.  This reveals ejection fraction of 
+greater than or equal to 55% with no evidence of endocarditis.  
+She has never had a colonoscopy and she had her last mammogram 
+___ years ago. She also has anemia and her most recent 
+hematocrit was 30%.  She has an elevated platelet level greater 
+than 500.
+.
+PAST SURGICAL HISTORY:  In ___ and ___, she had her coronary
+artery bypass.  She has had three C-sections.
+.
+OB/GYN HISTORY:  She denies any history of pelvic infections. 
+She denies any history of abnormal Pap smears, and her last was
+obtained in ___.  She denies any complications of cesarean
+section.
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker.  
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was sick in her ___ and her aunt was in her ___.  
+There is no other family history of cancer.
+ 
+Physical Exam:
+Vitals: Tc 97.2 HR 58 BP 138/76 RR  
+General: Alert and oriented x 3, NAD  
+HEENT: ATNC, EOMI  
+Neck: supple, no significant JVD or carotid bruits  
+Pulmonary: CTAB, no wheezes, rales, or rhonchi  
+Cardiac: RRR, nl S1 S2, ___ HS murmur, rubs, or gallops  
+Abdomen: soft, NT, ND, normoactive bowel sounds, no masses or 
+organomegaly  
+Extremities: mild edema, 2+ ___ pulses b/l  
+Lymphatics: No cervical, supraclavicular, axillary or inguinal 
+lymphadenopathy noted  
+Skin: no echymoses  
+
+ 
+Pertinent Results:
+___ 10:00PM   PTT-36.8*
+___ 05:00PM   CK-MB-NotDone cTropnT-<0.01
+___ 05:00PM   CK-MB-NotDone cTropnT-<0.01
+___ 05:00PM   ___ PTT-25.7 ___
+___ 07:50AM   GLUCOSE-355* UREA N-16 CREAT-0.7 SODIUM-135 
+POTASSIUM-5.0 CHLORIDE-100 TOTAL CO2-28 ANION GAP-12
+___ 07:50AM   estGFR-Using this
+___ 07:50AM   CK(CPK)-76
+___ 07:50AM   cTropnT-<0.01
+___ 07:50AM   CK-MB-NotDone
+___ 07:50AM   %HbA1c-10.9___ 07:50AM   NEUTS-54.1 ___ MONOS-4.3 EOS-2.6 
+BASOS-1.0
+___ 07:50AM   NEUTS-54.1 ___ MONOS-4.3 EOS-2.6 
+BASOS-1.0
+___ 07:50AM   PLT COUNT-341
+
+CARDIAC CATH:
+COMMENTS:      
+1. Coronary angiography in this right dominant system revealed 
+two 
+vessel coronary artery disease. The LMCA had no significant 
+disease. The 
+LAD was totally occluded at the mid segment. The OM1 stent was 
+known 
+occluded. The distal LCxs stent was occluded at its distal edge. 
+The 
+distal OM beyond the stent filled by R>L collaterals. 
+2. Arterial conduit angiography revealed the LIMA to be widely 
+patent. 
+The SVGs were not engaged as known to be occluded. 
+3. Successful PTCA of the distal LCX stent with a 2.0x15 Voyager 
+balloon 
+and a 2.25x15mm Quantum Maverick balloon. Final angiography 
+revealed no 
+residual stenosis, no angiographically apparent dissection and 
+TIMI III 
+flow (see ___ comments). 
+  
+FINAL DIAGNOSIS:     
+1. Two vessel coronary artery disease. 
+2. Patent LIMA to LAD. 
+3. Successful PTCA Of the LCX. 
+
+ 
+Brief Hospital Course:
+___ with history of CAD s/p CABG and PCI, DM, HTN p/w 
+CP.  
+  
+## Chest pain: Patient's chest pain complaints were more 
+consistent with MSK pain than cardiac ischemia.  Her cardiac 
+enzymes were negative but given her significant cardiac history, 
+she was taken to cardiac catheterization.  There, she was found 
+to have total occlusion of her left circumflex and PTCA was 
+performed, with successful dilation of the artery.  No stent was 
+placed.  She was discharged on a BB, statin, ASA, and 
+clopidogrel, all of which she was already taking at the time of 
+admission.  
+
+## Diabetes mellitus: Patient has insulin dependent diabetes and 
+her HbA1C was 10% at time of admission, suggesting poor glucose 
+control.  This is her most significant cardiac risk factor that 
+is not currently medically managed optimally.  She states that 
+she is adherent to her medications and she was advised to 
+continue to follow her blood glucose levels closely at home.  
+During her admission, her finger stick glucose levels were well 
+controlled.
+  
+
+ 
+Medications on Admission:
+Medications on admission:  
+1. Amlodipine 10 mg  
+2. Metoprolol Tartrate 100 mg  
+3. Furosemide 40 mg bid  
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every  
+
+8 hours).  
+5. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,  
+
+Sublingual Sublingual PRN (as needed) as needed for chest pain.  
+
+6. Insulin Glargine Subcutaneous  
+7. Ibuprofen 800 mg Tablet Sig: One (1) Tablet PO every six (6)  
+
+hours as needed for pain. Disp:*30 Tablet(s)* Refills:*0*  
+8. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.  
+9. Insulin sliding scale (60u glargine QHS)  
+10. Aspirin 325 mg  
+11. Atorvastatin 80 mg  
+12. Clopidogrel 75 mg  
+13. Niaspan *NF* 750 mg  
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+5. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+6. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+7. Niacin 250 mg Capsule, Sustained Release Sig: Three (3) 
+Capsule, Sustained Release PO qhs ().  
+8. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: ___ Tablet, 
+Sublinguals Sublingual PRN (as needed).  
+9. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Hydrocodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+12. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) for 4 days.
+Disp:*16 Tablet(s)* Refills:*0*
+13. Ergocalciferol (Vitamin D2) 50,000 unit Capsule Sig: One (1) 
+Capsule PO QWK ().  
+14. Insulin Glargine  Subcutaneous
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Coronary artery disease
+.
+Secondary:
+Hypertension
+Diabetes
+Dyslipidemia
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted because of chest pain.  We determined that you 
+were not having a heart attack.  However, we found a blockage of 
+one of your coronary arteries and relieved this blockage by 
+dilating the artery.
+.
+Please take all of your medications as prescribed.  We did not 
+change any of your medications.  We gave you a few days of pain 
+pills to help with your chest pain. Please keep all of your 
+follow-up appointments.
+.
+Please call your doctor or return to the hospital if you 
+experience fevers, chills, sweats, chest pain, shortness of 
+breath or anything else of concern.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-25 | hadm_id=20291206
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Gangrene R ___ finger 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ h/o CAD s/p CABG x4, multiple cardiac stents, ESRD on PD, 
+DM2, LLE osteomyelitis and gangrene of multiple digits of the 
+right hand s/p right R ___ finger amputation on ___ and R 
+___ finger amputation on ___ now presenting with painful 
+right ___ digit. 
+
+According to the patient she had no hand problems until 
+approximately 2 months ago, when she noted intermittent episodes 
+of discoloration (initially red, later purple) of R ring and 
+middle fingers; she states this was not exacerbated by cold, but 
+she does endorse cold sensitivity in her hands. Painful blisters 
+subsequently developed on finger tips of R hand, followed by 
+necrosis, and she therefore underwent two recent figner 
+amputations by Dr. ___: R ring finger MCP amputation 
+on ___ and R middle finger MCP amputation on ___. 
+However, painful blistering then developed over R index finger, 
+as well as over L index, middle, and ring fingers within the 
+last 2 weeks. She also reports progressive dehiscence of the 
+amputation site of the R middle finger, with purulent drainage 
+x2 weeks. She was admitted directly from Dr. ___ 
+on ___ under Dr. ___ a possible amputation of the 
+gangrenous finger.
+
+ 
+Past Medical History:
+PMH: CAD s/p CABG and multiple cath/stents, DM2 c/b retinopathy 
+and neuropathy, HTN, HL, dCHF, ESRD on PD, obesity, LLE charcot 
+ankle c/b osteomyelitis ___ s/p debridement, dieulafoy's lesion 
+c/b massive GI bleed
+
+PSH: CABG x5v ___, PD catheter placement 
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION
+
+Vital Signs: Temp: 98.3 RR: 18 Pulse: 76 BP: 126/70  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline. 
+Nodes: No clavicular/cervical adenopathy. 
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound. 
+
+Rectal: Not Examined. 
+Extremeties: 
+ - RUE Radial: D. Ulnar: D. 
+ - LUE Radial: D. Ulnar: D. 
+ - RLE Femoral: P. Popiteal: D. DP: D. ___: D. 
+ - LLE Femoral: P. Popiteal: D. DP: D. ___: D. 
+Wounds: 
+ - Side: Bilateral. RUE: ___ digit amp site is ealing well with
+   sutures in place, ___ digit amp site shows some dehiscence 
+and some   serosanguinous discharge, ___ digit black, necrotic 
+at distal tip
+ - LUE: ___ digit black and necrotic at distal tip
+
+PHYSICAL EXAM ON DISCHARGE
+
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline. 
+Nodes: No clavicular/cervical adenopathy. 
+Skin: No atypical lesions. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound. 
+
+Rectal: Not Examined. 
+Extremeties: 
+ - RUE Radial: D. Ulnar: D. 
+ - LUE Radial: D. Ulnar: D. 
+ - RLE Femoral: P. Popiteal: D. DP: D. ___: D. 
+ - LLE Femoral: P. Popiteal: D. DP: D. ___: D. 
+Wounds: 
+ - Side: Bilateral. RUE: ___ digit amp site is Healing well with
+   sutures in place, ___ digit amp site is clean, ___ digit 
+black, necrotic at distal tip
+ - LUE: ___ digit black and necrotic at distal tip
+
+ 
+Pertinent Results:
+___ 08:20AM BLOOD WBC-11.5* RBC-2.77* Hgb-7.8* Hct-25.2* 
+MCV-91 MCH-28.1 MCHC-30.9* RDW-16.5* Plt ___
+___ 06:40AM BLOOD ___ PTT-35.0 ___
+___ 03:45PM BLOOD Thrombn-14.5
+___ 03:45PM BLOOD ESR-135*
+___ 03:45PM BLOOD Lupus-POS ACA IgG-4.2 ACA IgM-6.8
+___ 06:40AM BLOOD Glucose-117* UreaN-30* Creat-6.1* Na-142 
+K-3.5 Cl-86* HCO3-16* AnGap-44*
+___ 06:40AM BLOOD Calcium-10.3 Phos-5.6* Mg-1.8
+___ 09:10AM BLOOD VitB12-951*
+___ 03:10PM BLOOD PTH-239*
+___ 12:45PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE
+___ 12:45PM BLOOD ANCA-NEGATIVE B
+___ 03:45PM BLOOD ___
+___ 03:45PM BLOOD CRP-49.4*
+___ 12:45PM BLOOD HCV Ab-NEGATIVE
+___ 03:45PM BLOOD BETA-2-GLYCOPROTEIN 1 ANTIBODIES (IGA, 
+IGM, IGG)-Test      
+ 
+Brief Hospital Course:
+The patient presented as above and was admitted under Dr. 
+___. She was started on broad-spectrum IV antibiotics 
+and pain control. Her Coumadin was held and she was started on a 
+heparin drip. Nephrology and ___ were taken on board to 
+manage the patient's dialysis and diabetes respectively. Hand 
+surgery was consulted who decided against surgical intervention 
+given the absence of infection, cellulitis, and other clinical 
+indications for immediate debridement or amputation. 
+Additonally, given that the patient's primary complaint was 
+diffuse, L > R hand pain, the primary areas of pain were though 
+to be outside the areas of critical ischemia. Their impression 
+was that amputation of the gangrenous/necrotic tissue would 
+likely not effectively treat the patient's pain. 
+
+Nest, rhematology was taken on board to help with diagnosis. 
+They recommended holding midodrine (as it could be decreasing 
+perfusion to the patient's fingers) and hypercoagulation workup 
+which was sent. The work up has been largely non-revealing. 
+Although lupus anticoagulant was positive it was thought that 
+that could very well be a false positive result given the 
+patient's home use of Warfarin.
+
+Per Dr. ___ and his past experiences, the 
+patient was started on empiric treatment for calciphylaxis with 
+IV sodium thiosulphate. Efforts were made to get a tissue 
+diagnosis by asking renal pathology to look at old slides from 
+gross amputation samples but the slides were not obtainable. A 
+new biopsy had the risk of non-healing so was not attempted. 
+
+Over the course of this hospital stay the patient's symptoms 
+have improved. Her pain is currently well-controled on PO meds 
+and her tissue deterioration seems to have stabilized. The 
+patient agrees that her current management has helped her. The 
+plan for now is for her to continue receiving sodium 
+thiosulphate on outpatient basis through her paritoneal 
+dialysate (her primary nephrologist Dr. ___ has been 
+contacted and has agreed to coordinate this). She will maintain 
+close follow-up with Vascular Surgery (Drs. ___ 
+who will reassess the need for surgical intervention depending 
+on how the patient does on medical management.
+
+The patient is being discharged today for home with services on 
+PO antibiotics for two weeks and all her home meds except for 
+midodrine and warfarin. She will follow up with Dr ___ 
+___ in the next ___ weeks with a repeat testing of lupus 
+anti-coagulant and with Dr ___ Rheumatology in three 
+months.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nystatin Cream 1 Appl TP BID Fungal infection 
+Please apply on the patient's buttocks, thighs, stomach and 
+under both breasts. 
+2. Omeprazole 40 mg PO DAILY 
+3. Gabapentin 100 mg PO BID 
+4. Midodrine 10 mg PO BID 
+5. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+6. Lorazepam 1 mg PO QID:PRN anxiety 
+7. Metoclopramide 5 mg PO QIDACHS 
+Take 30 mins prior to meals. 
+8. Ezetimibe 10 mg PO DAILY 
+9. Rosuvastatin Calcium 40 mg PO DAILY 
+10. Sertraline 100 mg PO DAILY 
+11. Aspirin 325 mg PO DAILY 
+12. Ferrous GLUCONATE 324 mg PO DAILY 
+13. HYDROmorphone (Dilaudid) ___ mg PO Q4H 
+14. Lanthanum 1000 mg PO TID W/MEALS 
+15. Warfarin 2 mg PO DAILY 
+16. Nephrocaps 1 CAP PO DAILY 
+17. Glargine 6 Units Breakfast
+Glargine 25 Units Bedtime
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+
+ 
+Discharge Medications:
+1. Gabapentin 100 mg PO BID 
+2. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+3. Sertraline 100 mg PO DAILY 
+4. Rosuvastatin Calcium 40 mg PO DAILY 
+5. Omeprazole 40 mg PO DAILY 
+6. Metoclopramide 5 mg PO QIDACHS 
+7. Lorazepam 1 mg PO QID:PRN anxiety 
+8. Lanthanum 1000 mg PO TID W/MEALS 
+9. HYDROmorphone (Dilaudid) ___ mg PO Q4H 
+RX *hydromorphone 4 mg ___ tablet(s) by mouth every four hours 
+Disp #*100 Tablet Refills:*1
+10. Ferrous GLUCONATE 324 mg PO DAILY 
+11. Ezetimibe 10 mg PO DAILY 
+12. Aspirin 325 mg PO DAILY 
+13. Nephrocaps 1 CAP PO DAILY 
+14. Nystatin Cream 1 Appl TP BID Fungal infection 
+15. Lactulose 30 mL PO TID 
+RX *lactulose 10 gram/15 mL 30 ml by mouth three times a day 
+Disp #*2 Bottle Refills:*0
+16. Collagenase Ointment 1 Appl TP DAILY 
+RX *collagenase clostridium hist. [Santyl] 250 unit/gram Apply 
+to left foot ulcer once daily Disp #*2 Tube Refills:*0
+17. Glargine 5 Units Breakfast
+Glargine 15 Units Bedtime
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+18. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+19. Docusate Sodium 100 mg PO BID:PRN constipation 
+20. Senna 1 TAB PO HS 
+21. Sodium Thiosulfate 25 g IV Q3WEEKLY 
+22. Minocycline 100 mg PO BID 
+RX *minocycline 100 mg 1 capsule(s) by mouth two times per day 
+Disp #*30 Capsule Refills:*0
+23. Outpatient Lab Work
+Lupus Anticoagulant
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Gangrene R ___ finger
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to wheelchair.
+
+ 
+Discharge Instructions:
+Please weight yourself every day. If your weight goes up more 
+than 3 lbs please contact your doctor.
+
+Please note the following important changes in your home 
+medication:
+
+1. Midodrine and Warfarin have been stopped. Your physicians 
+___ the need for these medicines during follow-up 
+but donot take these unless specifically instructed.
+
+2. Your insulin regimen has been changed. You were previously 
+taking Lantus 6units in the morning and 25 units at bedtime 
+along with Novolog and sliding scale insulin. This regimen has 
+been changed to Lantus 5 units in the morning and 15 units at 
+bedtime alongwith 3 units of humalog before each meal. Please 
+refer to the chart that is included with your discharge 
+paperwork.
+
+3. You are being started on sodium thiosulphate 25g thrice a 
+week. This will be administered to you during your dialysis 
+sessions. We have already discussed this with Dr. ___ you 
+should also contact him in case you have any questions.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-21 | hadm_id=20606639
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+___ y/o F with hx of extensive CAD s/p 5 vessel CABG in ___, 
+ESRD ___ DMII, and HTN p/w 2 night hx of SOB with episode of 
+shoulder blade discomfort. Pt. reports that over the past 2 
+nights she has experienced ___ hours long episodes of shortness 
+of breath while sleeping in her usual recliner. During the first 
+night, the SOB resolved on its own without any associated 
+CP/nausea/HA. However, her episode last night was worse than the 
+previous and she subsequently developed ___ left scapular pain 
+described as crushing pressure, which she reports having been 
+similar to her anginal equivalent in the past. She denied any 
+chest/arm/jaw pain, nausea, or other discomfort during this 
+episode. It resolved in 3 hours and she slept the rest of the 
+evening. She checks her weight daily and reports no recent 
+weight gain, no medicine non-compliance, no increased salty food 
+intake, no fevers, chills, fatigue, cough, nausea, vomiting, 
+diarrhea, abdominal pain, weakness, numbness, headache, or 
+visual changes.
+ 
+In the morning, her family urged her to see her PCP. Her PCP 
+found increased ___ inversions in the lateral leads from her 
+baseline and sent her to the ED. Her vitals on arrival were 97.9 
+116 94/58 20 96% on 2L NC. EKG showed lateral ___ inversions 
+compared to and roughly stable from her baseline. BNP 
+significantly elevated from her baseline of 5000s to the 16000s. 
+She was admitted to ___ for further evaluation and management. 
+During the evening of her admission, she also reported mild 
+___ L arm pressure not associated with any other symptoms, 
+self-resolved in 30 minutes.
+ 
+Past Medical History:
+-CAD s/p CABG ___ (LIMA to LAD, SVG to PDA, OM1, OM2, D1) 
+Cath ___ all SVG occluded, stent to Lcx,Om1. Cath ___ ISR, 
+brachytherapy. ___ stents to OM1, LCx. ___ OM occluded.
+-DMII c/b retinopathy, neuropathy
+-HTN
+-HL
+-dCHF EF 55%
+-Chronic renal failure
+-Obesity
+-charcot ankle on left with osteomyelitis ___
+-Intestinal Dieulafoy's (Hemorrhagic) Lesion
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker. 
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was diagnosed with breast cancer in her ___ and her 
+aunt was in her ___. There is no other family history of cancer.
+ 
+Physical Exam:
+ADMISSION:
+98.4 133/82 73 16 98% 2.5L NC
+GEN: Well-developed, obese female appearing stated age lying 
+comfortably in bed in NAD
+NECK: JVD at >14 cm
+COR: Normal rate, regular rhythm. Accentuated P2. II-III/VI 
+systolic murmur at R ___ intercostal space.
+PULM: Lungs with faint bibasilar crackles, no rhonchi or 
+wheezes.
+___: + NABS in 4Q. Soft, NTND.
+EXT: trace ___ edema, reportedly at baseline. warm, 
+well-perfused. 2+ ___ pulses. No clubbing or cyanosis. L 
+Charcot foot deformity with large surgical scar.
+NEURO: MAEE. CN II-XII intact.
+
+DISCHARGE:
+VITAL SIGNS: 98.3 155/89 (133-187/80-88) 70 (70-76) 99% on 3L 
+___ 3L NC) 111.6kg from ___ yesterday (just received PD 
+fluids in)
+GEN: Well-developed, obese female appearing stated age lying 
+comfortably in bed in NAD
+NECK: JVD at 12 cm
+COR: Normal rate, regular rhythm. Accentuated P2. II-III/VI 
+systolic murmur at R ___ intercostal space.
+PULM: CTAB, no crackles, rhonchi, or wheezes.
+___: + NABS in 4Q. Soft, NTND.
+EXT: trace stable ___ edema, reportedly at baseline. warm, 
+well-perfused. L Charcot foot deformity with large surgical 
+scar.
+NEURO: MAEE.
+ 
+Pertinent Results:
+ADMISSION:
+
+___ 01:45PM BLOOD Glucose-261* UreaN-48* Creat-3.8* Na-141 
+K-4.1 Cl-103 HCO3-26 AnGap-16
+___ 01:45PM BLOOD ___ PTT-30.1 ___
+___ 01:45PM BLOOD WBC-8.4 RBC-3.43* Hgb-9.9* Hct-31.4* 
+MCV-92 MCH-28.9 MCHC-31.5 RDW-17.8* Plt ___
+___ 01:45PM BLOOD CK-MB-3 cTropnT-0.33* ___
+___ 01:45PM BLOOD CK(CPK)-41
+___ 01:45PM BLOOD Calcium-9.3 Phos-3.8# Mg-1.8
+
+OTHER RELEVANT:
+
+___ 09:35PM BLOOD CK-MB-2 cTropnT-0.31*
+___ 07:51AM BLOOD CK-MB-2 cTropnT-0.39*
+___ 09:35PM BLOOD CK(CPK)-36
+___ 07:51AM BLOOD CK(CPK)-32
+
+DISCHARGE:
+
+___ 07:50AM BLOOD Glucose-257* UreaN-49* Creat-4.3* Na-142 
+K-4.3 Cl-102 HCO3-31 AnGap-13
+___ 07:50AM BLOOD Calcium-9.5 Phos-5.3* Mg-1.9
+
+___ STRESS TEST:
+___ year old woman with history of old MI, CABG ___,
+insulin-dependent diabetes, chronic kidney disease, 
+hypertension,
+presenting with shortness of breath and left shoulder 
+pain/anginal
+equivalent following negative serial enzymes and EKGs for 
+pharmacologic
+stress test with nuclear imaging. She completed 4 minutes of
+dipyridamole infusion at 0.142 mg/kg/min. She had no chest, 
+back, arm,
+shoulder, neck, or jaw discomfort. Her baseline EKG had TWI in I 
+and
+aVL with diffuse TW flattening which did not change throughout 
+the
+study. Her rhythm was sinus with one ventricular couplet on rest 
+EKG
+without ectopy during study. She had an appropriate hemodynamic
+response to dipyridamole infusion. At conclusion of the study,
+dipyridamole was reversed with amniophylline 125 mg IV.
+IMPRESSION: No anginal symptoms or ST segment changes with 
+pharmacologic
+stress testing. Nuclear reported separately.
+
+___ ECHO:
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity is 
+moderately dilated. There is mild regional left ventricular 
+systolic dysfunction with inferior and inferolateral 
+hypokinesis. The remaining segments contract normally (LVEF = 
+40-45%). Right ventricular chamber size and free wall motion are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. No aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. There is no 
+mitral valve prolapse. Moderate to severe (3+) mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild regional left ventricular systolic function. 
+Moderate to severe mitral regurgitation. Mild pulmonary 
+hypertension.
+
+Compared with the prior study (images reviewed) of ___, 
+regional LV systolic dysfunction is now more apparent.  
+
+___ CARDIAC PERFUSION:
+SUMMARY FROM THE EXERCISE LAB:
+Dipyridamole was infused intravenously for 4 minutes at a dose 
+of 0.142
+milligram/kilogram/min. 
+ 
+IMAGING METHOD:
+Stress images were obtained with Tc-99m sestamibi. Tracer was 
+administered
+intravenously two minutes after the cessation of infusion of 
+dipyridamole.
+Stress images were obtained approximately 45 minutes following 
+tracer
+injection.
+Resting perfusion images were obtained with Tc-99m sestamibi the 
+day following
+pharmacologic stress. Tracer was injected 45 minutes prior to 
+obtaining the
+resting images.
+Image Protocol: Gated SPECT
+This study was interpreted using the 17-segment myocardial 
+perfusion model.
+ 
+INTERPRETATION:
+There is considerable attenuation by overlying soft tissue.
+Left ventricular cavity size is moderately enlarged.
+Resting and stress perfusion images reveal a moderate defect in 
+the
+inferolateral wall with only a small amount of reversibility.
+ 
+Gated images reveal septal wall motion compatible with prior 
+cardiac surgery.
+The calculated left ventricular ejection fraction is 33%.
+ 
+Compared with the prior exercise stress study of ___, 
+there is somewhat
+less reversibility in the inferolateral wall.
+ 
+IMPRESSION:  Moderate defect in the inferolateral wall with a 
+small amount of
+reversibility.  Decrease ventricular function with a moderately 
+enlarged
+ventricle and a LVEF of 33%.  There has been little change since 
+the study of
+___.
+ 
+Brief Hospital Course:
+___ y/o F with extensive CAD history s/p 5 vessel CABG, ESRD on 
+PD ___ DMII and HTN p/w 2 night history of SOB associated with 
+back/scapular discomfort.
+
+ACTIVE DIAGNOSES:
+
+# Acute on Chronic Diastolic Heart Failure Dysfunction with 
+Shortness of breath: Given her dependence on peritoneal 
+dialysis, her history of diastolic heart failure, her shortness 
+of breath when slightly more recumbent at night, significantly 
+elevated JVP at >14cm on admission, significantly elevated BNP > 
+16000 and above baseline, the etiology of her shortness of 
+breath is most likely due to fluid and pressure overload. She 
+was diuresed with IV Lasix during her hospital course and 
+experienced significant improvement in her shortness of breath. 
+Her weight remained relatively stable with clear lungs and lack 
+of significant increase in ___ edema on presentation, however 
+even a small amount of fluid overload in a patient with ESRD and 
+diastolic dysfunction may result in shortness of breath, and her 
+JVD suggests continued fluid or pressure overload. She was 
+continued on her home diuretics metolazone and torsemide, and 
+renal was consulted for increasing the volume of fluid removed 
+during her PD. By the time of discharge, she had returned to her 
+baseline and had no further complaints. She will follow-up with 
+nephrology for further management.
+
+# Scapular/Arm pain:
+Given her extensive CAD history, report of scapular discomfort 
+being her anginal equivalent, and initial troponin of 0.33, 
+there was initially concern for NSTEMI/ACS. Her EKG changes were 
+quite subtle and non-specific, however, with relatively stable 
+___ inversions and minimal ST depression stable compared to 
+baseline. Additionally, her troponins run in the 0.2s to 0.3s 
+from her chronic renal insufficiency. Due to the lack of 
+ischemic EKG changes, lack of significant bump of her troponins, 
+as well as negative CK-MB, the etiology of both her enzymes and 
+physical discomfort are likely the result of fluid overload and 
+subsequent demand ischemia rather than an acute thrombotic 
+event. She had been started on a heparin gtt, given aspirin, 
+beta-blocker, and her other home meds, however the heparin gtt 
+was stopped after further assessment and discussion with the 
+cardiology team. She is currently not having any discomfort. 
+Still, to rule out the possibility of CAD contributing to her 
+pain, she underwent a pharmacological stress test, which showed 
+stable defect in the inferolateral wall. No further 
+interventions were performed. She will follow-up with her PCP as 
+needed.
+ 
+CHRONIC DIAGNOSES:
+
+# CRI:
+On nightly peritoneal dialysis. She will undergo PD tonight in 
+the hospital in order to take off as much fluid as possible and 
+relieve her fluid overload. She will follow-up with nephrology 
+and continue her home regimen of medications for now.
+ 
+# HTN:
+Moderately hypertensive since admission. Will add 10mg 
+amlodipine daily. Will continue on her other home medications.
+ 
+# DMII:
+Reported recent A1c of 6.8. Will maintain on fixed Lantus and 
+SSI Humalog while in hospital.
+ 
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from PatientwebOMR.
+1. Nephrocaps 1 CAP PO DAILY 
+2. Ezetimibe 10 mg PO DAILY 
+3. Gabapentin 300 mg PO DAILY 
+4. Gentamicin 0.1% Cream 1 Appl TP DAILY 
+to PD catheter site 
+5. Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+6. Lorazepam 1 mg PO Q8H:PRN anxiety 
+7. Metoclopramide 5 mg PO QIDACHS 
+8. Metolazone 5 mg PO QMOWEFR 
+9. Metoprolol Succinate XL 50 mg PO DAILY 
+10. Ranitidine 150 mg PO DAILY 
+11. Rosuvastatin Calcium 40 mg PO DAILY 
+12. Sertraline 100 mg PO DAILY 
+13. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+14. Torsemide 100 mg PO DAILY 
+15. Aspirin 325 mg PO DAILY 
+16. Docusate Sodium 100 mg PO BID:PRN constipation 
+17. Ferrous Gluconate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID:PRN constipation 
+3. Ezetimibe 10 mg PO DAILY 
+4. Ferrous Gluconate 325 mg PO DAILY 
+5. Gabapentin 300 mg PO DAILY 
+6. Gentamicin 0.1% Cream 1 Appl TP DAILY 
+to PD catheter site 
+7. Glargine 30 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+8. Lorazepam 1 mg PO Q8H:PRN anxiety 
+9. Metoclopramide 5 mg PO QIDACHS 
+10. Metolazone 5 mg PO QMOWEFR 
+11. Metoprolol Succinate XL 50 mg PO DAILY 
+12. Nephrocaps 1 CAP PO DAILY 
+13. Ranitidine 150 mg PO DAILY 
+14. Rosuvastatin Calcium 40 mg PO DAILY 
+15. Sertraline 100 mg PO DAILY 
+16. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+17. Torsemide 100 mg PO DAILY 
+18. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on Chronic Diastolic Heart Failure
+Hypertension
+Chronic renal insufficiency
+Diabetes Mellitus, type II
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to take care of you during your 
+hospitalization. You were admitted for shortness of breath and 
+back/shoulder pain. During your stay, you were found to have 
+retained too much fluid in your body and your blood pressure was 
+elevated. Through medications and dialysis, we removed much of 
+this excess fluid and we also controlled your blood pressure 
+with new medications.
+
+You underwent a stress test which showed a small area of 
+reversible ischemia. As we discussed, the risks of giving you 
+contrast for a cardiac catheterization are likely much greater 
+than the potential benefits. If you have more symptoms you 
+should call your cardiologist.
+
+The nephrologists recommended changes to your peritoneal 
+dialysis. One of your dwells was increased to 4.25%. The rest 
+are unchanged from before. You should call your nephrologist 
+first thing on ___ morning to discuss follow-up and any 
+further changes. 
+
+Please continue to weigh yourself every morning, and call your 
+doctor if weight goes up more than 3 lbs. Please also continue 
+to take all of your medications as prescribed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-17 | hadm_id=20719497
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath and weight gain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o female with a history of poorly 
+controlled DM2, CAD s/p 5 vessel CABG, who presents with 3 weeks 
+of gradually worsening SOB, intermittent back pain/CP at night, 
+oxygen desaturation to 78% on RA up to 91% on 4 L/min NC. She 
+states that she was doing well with her physical therapy when 
+she noticed that she was gaining weight and not able to do as 
+much. She noted that she was gaining a lot of fluid and was 
+becoming uncomfortable. She went to see her PCP because of this 
+and she was noted to be volume overloaded and sent to the 
+emergency room.
+
+Of note, she had a prolonged hospital (~1 month ___ in which 
+she developed osteomyletis. She also was noted to have an 
+exacerbation of her congestive heart failure. She received 80 mg 
+IV Lasix and was discharged on IV Lasix however she presented on 
+40 mg of PO Lasix.
+
+In the ED her vitals were T 98.1, BP 187/88, HR 66, O2 sat 78% 
+on RA. She was placed on oxygen and sats came up to the mid 90's 
+with 4 L/min O2. He was placed on nitroglycerin drip, aspirin 
+325mg, Lasix 40 mg IV, Levofloxacin 750 mg IV. She was noted to 
+have crackles in the lungs, had 2+ pitting edema, CXR appeared 
+fluid overload (?infiltrate, but likely CHF, BNP=20,000).
+
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. She denies recent fevers, chills or 
+rigors. She denies exertional buttock or calf pain. All of the 
+other review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.
+ 
+Past Medical History:
+She has had diabetes for a long period of time and her most 
+recent hemoglobin A1c level was notably elevated at 14%. She has 
+a history of coronary artery disease and had a CABG in ___. She 
+has a history of hyperlipidemia and hypertension. With respect 
+to her bypass, she has had stents placed as well. Her CABG was 
+complicated by a sternal wound infection. Her most recent echo 
+was obtained on ___. This revealed ejection fraction of 
+greater than or equal to 55% with no evidence of endocarditis.  
+She has never had a colonoscopy and she had her last mammogram 
+___ years ago. She also has anemia and her most recent 
+hematocrit was 30%. She has an elevated platelet level greater 
+than 500.
+* CAD s/p 5v CABG in ___, with subsequent 4v CABG 6 months 
+later
+* DM2, diagnosed in ___, complicated by retinopathy and 
+neuropathy, poorly controlled
+* HTN
+* hyperlipidemia
+* anemia
+
+PAST SURGICAL HISTORY:  In ___ and ___, she had her coronary
+artery bypass.  She has had three C-sections.
+
+OB/GYN HISTORY:  She denies any history of pelvic infections. 
+She denies any history of abnormal Pap smears, and her last was
+obtained in ___.  She denies any complications of cesarean
+section.
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker. 
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was diagnosed with breast cancer in her ___ and her 
+aunt was in her ___. There is no other family history of cancer.
+ 
+Physical Exam:
+ON ADMISSION:
+GENERAL: Overweight middle aged Caucasian woman, comfortable in 
+NAD, she was awake alert and oriented x3, mood, affect 
+appropriate.
+VS: T 97.9 BP 161/82 HR 63 O2 sat 91% on 4 L/min
+ADMISSION WEIGHT: 137.3 Kg
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with JVP of 10 cm.
+CARDIAC: RRR, normal S1, S2. No murmurs, rubs or gallops. No 
+thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. crackles noted at the 
+bases bilaterally, no wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No clubbing, cyanosis or edema.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 1+
+Left:  DP 1+
+
+ON DISCHARGE:
+O: VS: T 98.2, BP 116/48 (110s-140s/40s-60s) HR (50s-60s), RR 
+20, O2 sat 92% on 2 L/min
+I/O: yesterday 104___ (-1300)
+Discharge Weight: 105.6
+GENERAL: Comfortable in NAD, she was awake alert and oriented 
+x3, mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or 
+cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple, JVP 8 cm.
+CARDIAC: RRR, normal S1, S2. No murmurs, rubs or gallops. No 
+thrills, lifts.
+LUNGS: Resp unlabored, no accessory muscle use. mild crackles at 
+the bases bilaterally, no wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: 2+ edema noted bilaterally up to the knee
+Left ___: dressing clean/dry/intact, 1+ ___ pitting edema
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 1+
+Left:  DP 1+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 02:23PM BLOOD WBC-6.2 RBC-5.81*# Hgb-15.3# Hct-49.0*# 
+MCV-84 MCH-26.4* MCHC-31.3 RDW-19.0* Plt ___
+___ 02:23PM BLOOD ___ PTT-22.9 ___
+___ 02:23PM BLOOD Glucose-233* UreaN-34* Creat-1.9* Na-141 
+K-4.3 Cl-99 HCO3-33* AnGap-13
+___ 02:23PM BLOOD cTropnT-0.11*
+___ 02:23PM BLOOD ___
+___ 05:50AM BLOOD Calcium-8.6 Phos-4.5 Mg-2.0
+___ 02:42PM BLOOD Lactate-1.0
+
+DISCHARGE LABS:
+___ 06:10AM BLOOD WBC-5.7 RBC-4.01* Hgb-10.9* Hct-33.2* 
+MCV-83 MCH-27.1 MCHC-32.8 RDW-17.1* Plt ___
+___ 07:10AM BLOOD ___ PTT-26.6 ___
+___ 06:10AM BLOOD Glucose-132* UreaN-99* Creat-2.0* Na-138 
+K-5.1 Cl-88* HCO3-45* AnGap-10
+___ 06:10AM BLOOD Calcium-9.5 Phos-5.3* Mg-2.1
+
+OTHER PERTINENT RESULTS:
+PTH-92*
+VENOUS Blood Gas: pO2-42* pCO2-68* pH-7.45 calTCO2-49* Base 
+XS-18
+Vitamin D Level - PENDING AT DISCHARGE
+
+___ ECG:
+Sinus rhythm. Baseline artifact. Poor R wave progression. 
+Non-specific 
+inferolateral T wave flattening. Compared to the previous 
+tracing of ___ artifact is more pronounced in the limb leads. 
+QRS changes in leads V3-V4 could be due to lead placement. 
+
+___ CXR:
+Patient is status post median sternotomy and CABG. There are low 
+inspiratory lung volumes. The heart size is moderately enlarged. 
+Patchy airspace opacities are seen within the left lung base as 
+well as within the right lung base medially. Findings are 
+nonspecific and may represent areas of infection or atelectasis. 
+A small left pleural effusion is noted. Pulmonary vascularity is 
+not engorged, but the vascularity is crowded together due to low 
+inspiratory lung volumes. No pneumothorax is visualized.
+IMPRESSION: Patchy bibasilar airspace opacities, worse on the 
+left, which
+could represent atelectasis or infection. Small left effusion.
+
+___ ECHO:
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global systolic function (LVEF>55%). The right 
+ventricular cavity is mildly dilated with mild global free wall 
+hypokinesis. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic regurgitation. 
+The mitral valve leaflets are mildly thickened. There is no 
+mitral valve prolapse. Moderate (2+) mitral regurgitation is 
+seen. The tricuspid valve leaflets are mildly thickened. 
+Moderate [2+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional systolic function. Mild global 
+right ventricular systolic dysfunction. Moderate mitral and 
+tricuspid regurgitation. Moderate pulmonary hypertension.
+  Compared with the report of the prior study (images 
+unavailable for review) of ___, right ventricle now appears 
+mildly hypokinetic and pulmonary pressures are higher. There may 
+be more mitral and tricuspid regurgitation.  
+
+___ ECHO WITH BUBBLES:
+The left atrium is normal in size. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. The right atrial pressure is 
+indeterminate. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). The 
+right ventricular cavity is moderately dilated with mild global 
+free wall hypokinesis. There is abnormal septal motion/position 
+consistent with right ventricular pressure/volume overload. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Moderate (2+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. Moderate to 
+severe [3+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.
+ Compared with the prior study (images reviewed) of ___, 
+the severity of tricuspid regurgitation has increased.  
+
+___ CXR:
+PA and lateral chest compared to ___ and ___. 
+Moderate cardiomegaly and pulmonary vascular congestion are 
+longstanding. Aeration in the left lower lobe has improved since 
+___. Whether this is decreased edema or atelectasis is 
+radiographically indeterminate, but edema if any is minimal 
+currently. Small bilateral pleural effusion, unchanged. No 
+pneumothorax.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o female with a history of poorly 
+controlled DM2, CAD s/p 5 vessel CABG, who presents with 3 weeks 
+of gradually worsening SOB, intermittent back pain/CP at night, 
+and desaturation consistent with diastolic congestive heart 
+failure exacerbation.
+
+1. Acute on Chronic Diastolic Congestive Heart Failure: Ms. 
+___ presented with shortness of breath and weight gain. Her 
+previous echo in ___ and her echo during this admission 
+showed a preserved EF of 55%. She was on 40 mg of Lasix twice a 
+day which was not adequate. She denied any recent chest pain, 
+fevers, chills, or large salt intake. She was treated with a 
+Lasix drip throughout the admission with a goal of ___ liters 
+negative per day. Metolazone 10 mg twice a day was added to her 
+regimen. During the hospitalization, Ms. ___ weight 
+decreased by more than 30 kg. Her shortness of breath improved.
+
+2. Coronary Artery Disease: Ms. ___ has a significant 
+history of CAD and has had multiple interventions in the past. 
+She was chest pain free throughout her admission. We continued 
+aspirin 81 mg daily, atorvastatin 80 mg daily, isosorbide 
+mononitrate 60 mg daily, and metoprolol 100 mg daily.
+
+3. Oxygen Requirement: On admission, Ms ___ had a new oxygen 
+requirement. On arrival, her O2 sat was 78% on RA, which 
+improved to 91% on 4 L/min. As she was diuresed, her oxygen 
+requirement decreased and on discharge, O2 sat was 92% on 2 
+L/min. At discharge, a chest x-ray was repeated, which did not 
+show pneumonia to explain the oxygen requirement. The patient 
+had an echo with bubbles to evaluate for shunting, which did not 
+reveal a right-to-left shunt. Ms. ___ will have home oxygen. 
+She has follow-up in pulmonary clinic.
+
+4. Chronic kidney disease: Ms. ___ creatinine was slightly 
+increased above baseline, which is likely multifactorial, 
+secondary to both poor forward flow and diabetic nephropathy. 
+Her ___ was held during her hospitalization and re-started prior 
+to discharge. She also had elevated phosphorus, but a calcium 
+phosphorus product less than 50. She has an elevated PTH. This 
+abnormality may be consistent with secondary hyperparathyroidism 
+due to renal failure. The patient has follow-up with renal as an 
+outpatient.
+
+5. Hypertension: She was noted to be very hypertensive when she 
+arrived on the floor. She denied having any headaches or changes 
+in her vision. She was initially treated with hydralazine 25 mg 
+PO q6, metoprolol and amlodipine. Her blood pressure was better 
+controlled. At discharge, the hydralazine was stopped and ___ 
+restarted.
+
+6. Type 2 Diabetes: She has poorly controlled diabetes with an 
+A1c of 10.9 in ___. She is on insulin at home and was continued 
+on  her home regimen.
+
+7. Hyperlipidemia: Continued home regime of atorvastatin 80 mg 
+daily.
+ 
+Medications on Admission:
+Amlodipine 10 mg PO/NG DAILY
+Aspirin 81 mg PO/NG DAILY
+Atorvastatin 80 mg PO/NG DAILY
+Gabapentin 300 mg PO/NG TID
+HYDROmorphone (Dilaudid) 2 mg PO/NG Q12H:PRN Pain
+Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY
+Metoprolol Succinate XL 100 mg PO DAILY
+Omeprazole 20 mg PO BID
+Sertraline 100 mg PO/NG DAILY
+Lasix 40 mg BID
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+3. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).
+5. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr 
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily). 
+Disp:*60 Tablet Sustained Release 24 hr(s)* Refills:*0*
+6. metoprolol succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily). 
+Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*0*
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+8. sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+9. hydromorphone 4 mg Tablet Sig: 0.5 Tablet PO Q 12H (Every 12 
+Hours) as needed for Pain.
+10. metolazone 10 mg Tablet Sig: One (1) Tablet PO once a day: 
+Please take prior to torsemide. Disp:*30 Tablet(s)* Refills:*0*
+11. torsemide 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). Disp:*30 Tablet(s)* Refills:*1*
+12. insulin glargine 100 unit/mL Cartridge Sig: ___ (22) 
+Units Subcutaneous once a day.
+13. insulin lispro 100 unit/mL Cartridge Sig: AS DIRECTED  
+Subcutaneous QACHS: Please take insulin as per sliding scale.
+14. metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)): Please take 30 
+minutes prior to meals. Disp:*60 Tablet(s)* Refills:*0*
+15. Cozaar 50 mg Tablet Sig: One (1) Tablet PO once a day.
+16. Ativan 1 mg Tablet Sig: As previously directed prior to 
+admission Tablet PO once a day.
+17. ferrous gluconate 324 mg (38 mg Iron) Tablet Sig: One (1) 
+Tablet PO once a day.
+18. Outpatient Lab Work
+Chemistry - Na, K, Cl, HCO3, BUN, Cr
+___
+Please fax results to PCP ___ at ___
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Acute on Chronic Diastolic Congestive Heart Failure
+
+Secondary:
+Coronary Artery Disease
+Hypertension
+Diabetes Mellitus
+Chronic renal insufficiency
+Hypoxemia
+Hyperlipidemia
+Anemia
+Hyperphosphatemia
+Secondary hyperparathyroidism
+ 
+Discharge Condition:
+Oxygen requirement of 3 L/min (sat 92% on 3L)
+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with a congestive heart 
+failure exacerbation.   You were given medication to remove 
+fluid from your body and your symptoms improved.  Since you were 
+admitted, you have required oxygen to maintain adequate oxygen 
+in your blood.  We are sending you home with oxygen.  You will 
+also have follow-up with the pulmonary doctors.  
+
+You need to have your labs checked on ___.  Please have these 
+checked and sent to your primary care doctor to have your 
+electrolytes evaluated. We also found that you have some injury 
+to your kidneys.  This is likely causing your phosphorus to be 
+elevated.  We are going to have you follow-up with the kidney 
+doctors as ___ outpatient.  
+
+You were started on a diuretic called torsemide to help keep the 
+fluid from reaccumulating.  Torsemide is a stronger diuretic 
+than furosemide.  
+
+The following changes were made to your medications:
+1. Added torsemide 100 mg PO daily
+2. Added Metolazone 10 mg daily (please take this medication 
+prior to the torsemide)
+3. Stopped Furosemide 40 mg PO BID
+4. Increased your dose of Isosorbide Mononitrate to 120 mg daily 
+from 60 mg daily
+5. Increased your dose of Metoprolol Succinate XL to 150 mg 
+daily from 100 mg daily
+6. Added Reglan 10 mg prior to meals and bedtime.  Please take 
+this medication for gastroparesis.  Take 30 minutes prior to 
+discharge. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+Please see below for you follow-up appointments. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-18 | hadm_id=20906652
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weight gain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+In brief ___ F w hx poorly controlled DM, CAD, CHF w recent 
+100lb diuresis, a/f HCT of 28.6 (baseline 33), 14 lb wt gain. 
+Patient reports that 2wkw PTA, PCP decreased torsemide from 
+100mg to 40mg, after which she started gaining ~2lbs/day. 
+Subsequently torsemide increased to 60mg but continued to gain 
+wt. In ED vitals signs: Temp 97 58 180/79, RR 24 100%2L 
+(baseline). PE w ___.  Guaiac neg.  Labs significant for HCT 
+28.8, Cr 2.0 (baseline 1.6), Trop .12, CKMB 4, BNP 4505.  EKG w 
+diffuse ST changes.  CXR w bilat small pleural effusions, 
+improvement from prior, L-sided atelectasis, no pulm edema.  
+
+Regarding HCT, patient has EGD ___ and colonoscopy ___ both 
+negative.  Denied dark stools, bleeding.  
+.  
+Patient received 80mg IV furosemide in ED w/o bump UOP, received 
+200mg IV lasix w good UOP.  
+ 
+Past Medical History:
+CARDIAC RISK FACTORS +DM, +HTN +HLD
+CARDIAC HISTORY
+-CAD s/p 5v CABG in ___, with subsequent 4v CABG 6 months later 
+ 
+-___ EF 50-55%
+OTHER MEDICAL HISTORY:
+- Charcot ankle on the Left w/ osteo  
+- DM c/b retinopathy, neuropathy
+- anemia  
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker.  
+
+She had a grandmother and an aunt who had breast cancer,  
+grandmother was diagnosed with breast cancer in her ___ and her  
+
+aunt was in her ___. There is no other family history of  
+cancer. 
+ 
+Physical Exam:
+ON ADMISSION
+VS: T= 98.6 BP= 170/65 HR= 58 RR= 14 O2 sat= 99% 2L, 91% RA  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate, conversant, 
+pleasant, well dressed, wearing earings. Able to ___ in 
+reverse  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with JVP up to mid mandible w/ abd compression  
+CARDIAC: RRR, III/VI HSM diffusely across precordium  
+LUNGS: Crackles in lower half w/ decreased BS at bases 
+bilaterally  
+ABDOMEN: Soft, NTND. BS+, obese  
+EXTREMITIES: 1+ pittind edema to knee bilaterally w/ well healed 
+surgical scar on L lower leg  
+SKIN: stasis dermatitis in lower extremities bilaterally L>R  
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ trace  
+Left: Carotid 2+ DP unable to palpate ___ unable to palpate 
+
+ON DISHCARGE
+VS: ___, Tm 98.7, Tc 98.7 155/76 65 20 98% 2L
+GENERAL: NAD, AOx3, Comfortable
+HEENT: PERRL, EOMI, Conjunctiva were pink, no pallor or cyanosis 
+of the oral mucosa. 
+NECK: Supple w JVP to angle of mandible
+CARDIAC: RRR, III/VI HSM diffusely across precordium  
+LUNGS: Bibasilar crackles
+ABDOMEN: Soft, NT/ND, BS+, obese
+EXTREMITIES: 1+ pitting edema to knee bilaterally w/ well healed 
+surgical scars, b/l bandages to the knees. 
+SKIN: Stasis dermatitis in lower extremities bilaterally L>R
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ trace  
+Left: Carotid 2+ DP unable to palpate ___ unable to palpate 
+ 
+Pertinent Results:
+Blood Counts
+___ 01:55PM BLOOD WBC-8.5 RBC-3.49* Hgb-9.8* Hct-28.8* 
+MCV-82 MCH-28.1 MCHC-34.1 RDW-17.2* Plt ___
+___ 07:45AM BLOOD WBC-8.1 RBC-3.58* Hgb-10.0* Hct-29.2* 
+MCV-82 MCH-28.0 MCHC-34.3 RDW-16.9* Plt ___
+
+Chemistry
+___ 01:55PM BLOOD Glucose-212* UreaN-61* Creat-2.0* Na-142 
+K-4.7 Cl-101 HCO3-33* AnGap-13
+___ 07:45AM BLOOD Glucose-113* UreaN-69* Creat-2.1* Na-140 
+K-4.0 Cl-96 HCO3-36* AnGap-12
+
+Cardiac
+___ 01:55PM BLOOD CK-MB-4 proBNP-4505*
+___ 01:55PM BLOOD cTropnT-0.12*
+___ 07:50AM BLOOD CK-MB-2 cTropnT-0.11*
+
+Iron
+___ 07:50AM BLOOD calTIBC-186* ___ Ferritn-384* 
+TRF-143*
+
+___
+CXR
+1. Bilateral small pleural effusions, with interval improvement 
+in the left pleural effusion. Mild pulmonary edema. 
+2. Interval improvement in the aeration of the left lung base. 
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+___ F PMHx poorly controlled DM, CAD, CHF w recent 100lb 
+diuresis, a/w 14 lb wt gain in setting of decreased diuresis 
+regimen, c/w poor diuresis, no signs of underlying ACS, now 
+being diuresed.   
+.  
+ACTIVE
+# dCHF exacerbation: Although the etiology of her chronic dCHF 
+remains unknown (its severity far exceeds the extent of her risk 
+factors), her acute 14 lb wt gain in the setting of recent 
+discontinuation of her metolazone and decreased dosing of her 
+torsemide, is believed to be the primary cause of this 
+readmission.  Patient was aggressively diuresed, then started on 
+a regimen of torsemide, which was uptitrated.  Metolazone was 
+not restarted out of concern for overdiuresis in the outpatient 
+setting.  At discharge, patient's weight was 91.9. 
+.  
+# HTN: On admission, patient's HTN was poorly controlled w SBP 
+in 140s-150s.  Her metoprolol was changed to carvedilol for 
+better afterload control. Carvedilol was then discontinued due 
+to hypotension and she was started on metoprolol tartarate and 
+will go home on her usual dose of metoprolol.  
+.
+# Anemia: Patient was admitted w Hct of 28.8, normocytic, with a 
+prior colonscopy and EGD both neg, guaiac neg.  It dropped to 23 
+and, given her known CAD, she was transfused 1 unit pRBCs.  
+Patient remained stable for the remained of this admission.
+.
+#CKD: Cr elevated to 2.0 (baseline 1.6-1.8), which was thought 
+to most likely be ___ to poor forward flow. She will follow up 
+this issue with Neprhology as an outpatient next week. 
+
+INACTIVE
+# CORONARIES: Patient was continued on home ASA, isosorbide 
+mononitrate was uptitrated.  
+# DMII: Patient was continued on home glargine 22u QHS and 
+sliding scale humalog.  
+  
+TRANSITIONAL
+1. Code status: patient remained full code for the duration of 
+this admission
+3. Transition of Care: Patient's care was discussed with her 
+primary care physician ___.  At discharge patient was 
+made follow-up appointments with her PCP, ___ and 
+Nephrologist. 
+ 
+Medications on Admission:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable  
+
+PO DAILY (Daily).  
+2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY  
+(Daily).  
+3. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3  
+times a day).  
+5. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr  
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+Disp:*60 Tablet Sustained Release 24 hr(s)* Refills:*0*  
+6. metoprolol succinate 100 mg Tablet Sustained Release 24 hr  
+Sig: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily).  
+Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*0*  
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)  
+
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+8. sertraline 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+9. hydromorphone 4 mg Tablet Sig: 0.5 Tablet PO Q 8H as needed 
+for Pain.  
+10. metolazone 10 mg Tablet Sig: One (1) Tablet PO once a day:  
+Please take prior to torsemide.  
+Disp:*30 Tablet(s)* Refills:*0*  
+11. torsemide 60 mg Tablet Sig: One (1) Tablet PO DAILY  
+(Daily).  
+12. insulin glargine 100 unit/mL Cartridge Sig: ___ (22)  
+
+Units Subcutaneous once a day.  
+13. insulin lispro 100 unit/mL Cartridge Sig: AS DIRECTED  
+Subcutaneous QACHS: Please take insulin as per sliding scale.  
+14. metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4  
+times a day (before meals and at bedtime)): Please take 30  
+minutes prior to meals.  
+Disp:*60 Tablet(s)* Refills:*0*  
+15. Cozaar 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+16. Ativan 1 mg Tablet Sig: As previously directed prior to  
+admission Tablet PO once a day.  
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q8H (every 8 
+hours) as needed for pain.  
+6. lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for anxiety.  
+7. torsemide 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. metoprolol succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.  
+10. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+11. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr 
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*60 Tablet Sustained Release 24 hr(s)* Refills:*2*
+12. losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+Diastolic Congestive Heart Failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.  You were admitted with weight gain. You were 
+evaluated and found to have a worsening of your heart failure.  
+This was likely due to a recent change in your medications.  You 
+were treated with diuresis (removal of fluid) and you are now 
+ready for discharge.
+
+It will be important for you to weigh yourself every morning, 
+and to call your doctor if your weight increases by more than 3 
+lbs in a day.
+
+During this hospitalization the following changes were made to 
+your medications:
+-continue your home diabetis medications
+-STOPPED   metolazone
+-INCREASED torsemide to 100 daily
+-INCREASED Isosorbide mononitrate to 120 daily
+-INCREASED Cozaar to 100 Daily
+-Resume taking metoprolol succinate 100mg sustained release 
+daily
+-INCREASE amlodipine to 10mg daily 
+ 
+Please make sure you go to your follow-up appointments and keep 
+a log of your blood pressures and weight. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-14 | hadm_id=22528310
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+1. Laparoscopy.
+2. Extensive lysis of adhesions.
+3. Washings.
+4. Bilateral salpingo-oophorectomy.
+5. Cystoscopy
+6. Colonoscopy
+ 
+History of Present Illness:
+___ is a ___ woman with multiple medical problems who 
+recently has been discovered to have a sizeable complex adnexal 
+mass.  ___ reports essentially a 2-to 3-month history of fever 
+of unknown origin, anemia, and elevated platelet count and she 
+has been noted also to have an elevated sed rate and C-reactive 
+protein.  Because of this, a CT scan was performed at an outside
+institution.  A CT performed on ___ revealed a mixed 
+solid and cystic right adnexal mass measuring 8.5 cm x 4.5 x 6 
+cm.  There is notably stranding in the adjacent fat, 
+particularly along the superior aspect of the mass.  The mass 
+extends from the adnexal region on the right side to the 
+posterior wall of the cecum.  Small mesenteric lymph nodes are 
+noted within the adjacent fat and no left-sided adnexal masses 
+appreciated.  There is a small amount of free fluid within the 
+lower pelvis, but otherwise there are no significant 
+abnormalities.  There is no ascites.  There is no evidence of an 
+omental cake.  The upper abdomen is normal.  ___ reports that 
+tumor markers have been done as well on the outside including a 
+CEA level and CA-125  level and evidently these were ? normal.  
+She denies any complaints at this time.  She denies fever.  She 
+does report right lower quadrant discomfort and having 
+experience of blood in her urine, which was associated with the 
+urinary tract infection in ___.  Otherwise, she has had no 
+symptoms or concerns.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  ___ has got a number of medical 
+problems stemming from hypertension and diabetes.  She has had 
+diabetes for a long period of time and her most recent 
+hemoglobin A1c level was notably elevated at 14%.  She has a 
+history of coronary artery disease and had a CABG in ___.  She 
+reportedly has an ejection fraction of 50 to 55%.  She has a 
+history of hyperlipidemia and hypertension.  With respect to her 
+bypass, she has had stents placed as well.  Her CABG was 
+complicated by a sternal wound infection.  Her most recent echo 
+was obtained on ___.  This reveals ejection fraction of 
+greater than or equal to 55% with no evidence of endocarditis.  
+She has never had a colonoscopy and she had her last mammogram 
+___ years ago. She also has anemia and her most recent 
+hematocrit was 30%.  She has an elevated platelet level greater 
+than 500.
+.
+PAST SURGICAL HISTORY:  In ___ and ___, she had her coronary
+artery bypass.  She has had three C-sections.
+.
+OB/GYN HISTORY:  She denies any history of pelvic infections. 
+She denies any history of abnormal Pap smears, and her last was
+obtained in ___.  She denies any complications of cesarean
+section.
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker.  
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was sick in her ___ and her aunt was in her ___.  
+There is no other family history of cancer.
+ 
+Physical Exam:
+GENERAL:  She appears her stated age, in no apparent distress.
+HEENT:  Normocephalic, atraumatic.  Oral mucosa without evidence 
+of thrush or mucosa.  Eyes, sclerae are anicteric.
+NECK:  Supple, no masses, no evidence of thyromegaly.
+LYMPHATICS:  Lymph node survey, negative cervical, 
+supraclavicular, axillary, or inguinal adenopathy.
+CHEST:  Lungs clear bilaterally.
+HEART:  Regular rate and rhythm.  A systolic murmur is 
+appreciated.
+ABDOMEN:  Soft, nontender, and nondistended.  There is no hepato 
+or splenomegaly.  There is no fluid wave.  There is no palpable 
+mass.
+EXTREMITIES:  There is no clubbing, cyanosis, or edema.  There 
+is no calf tenderness to palpation.
+PELVIC:  Normal external genitalia.  Inner labia minora is 
+normal.  The urethral meatus is normal.  A speculum was placed.  
+The walls of the vagina are smooth.  The cervix is normal.  
+There is no cervical motion tenderness.  Bimanual exam reveals 
+an anteverted uterus.  There is fullness on the right side.  
+There is no nodularity.  There is no mass on the left side. 
+RECTAL:  Reveals good sphincter tone without mass or lesion. 
+There is no evidence of disease within the rectovaginal septum 
+or nodularity.
+ 
+Brief Hospital Course:
+Ms. ___ was admitted for perioperative optimization 3 days 
+prior to her scheduled laparoscopic bilateral 
+salpingo-oopherectomy. The internal medicine service was 
+consulted to optimize management of her multiple medical 
+problems. She underwent colonoscopy on hospital day 2, which 
+showed a 3mm benign-appearing, sessile polyp. She had a 
+pre-operative labs, chest x-ray and EKG on hospital day 3; she 
+was also seen by anesthesiology. On hospital day 4, she 
+underwent laparoscopy, extensive lysis of adhesions, peritoneal 
+washings, bilateral salpingo-oophorectomy, and cystoscopy. 
+Please see operative note for full details. Her post-operative 
+course was characterized by the following:
+.
+*) fever
+She spiked a fever on post-operative day 1. There was no 
+leukocytosis and no bandemia. Her EKG showed no changes and CXR 
+was clear. In the absence of any other temperature spikes over 
+the course of the day, this was thought to be due to a benign 
+post-operative fever. She will be discharged home with a 7 day 
+course of doxycycline given operative findings suggestive of 
+prior PID infection. 
+.
+*) CAD
+She was placed on telemetry and had no events during her 
+hospitalization. Her home medications were continued - 
+clopidogrel was started on post-operative day 1. Post-op cardiac 
+enzymes were checked, found to be negative x2 and EKG showed no 
+changes. Electrolytes and CBC were also stable. Ms. ___ was 
+without any cardiac complaints for the duration of her hospital 
+stay.
+.
+*) HTN
+Home medications were continued. She had no issues during her 
+hospitalization.
+.
+*) insulin-dependent diabetes mettilus
+Ms. ___ blood sugars were maintained below 150 during her 
+hospital course. She was on her home Lantus and a sliding scale 
+insulin.
+.
+Ms. ___ was eventually discharged on post-operative day 
+#2/hospital day #6 in stable condition: afebrile, able to eat 
+regular food, under adequate pain control with oral medications, 
+and ambulating and urinating without difficulty.
+ 
+Medications on Admission:
+AMLODIPINE [NORVASC] - 10 mg Tablet - 1 Tablet(s) by mouth once 
+a day
+ATORVASTATIN - 80 mg Tablet - 1 Tablet(s) by mouth at bedtime
+CLOPIDOGREL [PLAVIX] - 75 mg Tablet - 1 Tablet(s) by mouth once 
+a day
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] -  (Prescribed by Other 
+Provider) - 50,000 unit Capsule - 1 Capsule(s) by mouth Qweek
+EZETIMIBE [ZETIA] - 10 mg Tablet - 1 Tablet(s) by mouth once a 
+day
+FUROSEMIDE [LASIX] - 40 mg Tablet - 1.5 Tablet(s) by mouth once 
+a day
+GABAPENTIN [NEURONTIN] - 300 mg Capsule - 1 Capsule(s) by mouth 
+three times a day
+ISOSORBIDE MONONITRATE [IMDUR] - 30 mg Tablet Sustained Release 
+24 hr - 1 Tablet(s) by mouth once a day
+METOPROLOL TARTRATE [LOPRESSOR] - 100 mg Tablet - 1 Tablet(s) by 
+mouth twice a day
+NITROGLYCERIN - 0.4 mg Tablet, Sublingual - 1 Tablet(s) 
+sublingually as needed
+.
+Medications - OTC
+ASPIRIN - 325 mg Tablet - 1 Tablet(s) by mouth once a day
+FERROUS SULFATE -  (Prescribed by Other Provider) - Dosage
+uncertain
+ 
+Discharge Medications:
+1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+2. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+3. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+5. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, 
+Sublingual Sublingual PRN (as needed) as needed for chest pain.  
+
+6. Insulin Glargine  Subcutaneous
+7. Vicodin ___ mg Tablet Sig: ___ Tablets PO every ___ hours 
+as needed for pain. Disp:*30 Tablet(s)* Refills:*0*
+8. Ibuprofen 800 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for pain. Disp:*30 Tablet(s)* Refills:*0*
+9. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day. 
+Disp:*30 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right adnexal/pelvic mass
+H/o CAD, CABG, DM, high blood pressure
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+No heavy lifting or vigorous exercise for 6 weeks.  No driving 
+while on narcotics.  You may shower, pat your incisions dry.  
+Remove the dressings tomorrow evening, the Steri-strips will 
+fall off on their own. Call for severe pain not controlled with 
+pain medications, fever >101, redness or discharge from your 
+incisions, chest pain, shortness of breath, or other concerns. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-27 | hadm_id=22752705
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg pain
+ 
+Major Surgical or Invasive Procedure:
+___: Left below knee amputation
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with DMII, CAD s/p CABG x4, ESRD on 
+daily PD, DMII and history of gangrene of multiple digits of 
+both hands with prior amputations of R ___ digits, and 
+nonhealing wounds on the left foot. She presents now preop for 
+her scheduled below-knee amputation tomorrow. She has been in 
+her usual state of health at rehab with no complaints currently, 
+other than her foot pain which she states is at baseline for 
+her. Of note the patient has a history of difficult intubations.
+ 
+Past Medical History:
+- CAD s/p CABG x5 ___ (LIMA-LAD, SVG-PDA, SVG-OM1,
+SVG-OM2, SVG-D1, c.b. sternal wound infection. ___:  All
+SVGs occluded.  LCX BMS, OM1 BMS. ___: OM PCI/brachy therapy 
+for
+ISR. ___: DES to OM1 for ISR, DES to LCX for ISR.  Last cath
+___: OM filled by collaterals.
+- Heart failure with preserved EF: EF 50% (___)  
+- DM c/b neuropathy/retinopathy/gastroparesis  HbA1c 6% in 5.13. 
+ 
+- ESRD, peritoneal dialysis.  
+- Severe hypotenson: SBPs down to ___, unable to auscultate 
+pulse during recent Cardiology apt, started on midodrine in 
+___. This was d/c'd during last hospitalization d/t 
+gangrene of fingers.  
+- Hyperlipidemia  
+- Obesity.  
+- Depression.  
+- Left Charcot foot  
+- LLE osteomyelitis ___
+- Massive UGI bleed ___, s.p. 12 U PRBC transfusion from 
+large gastric ulcer
+- LUE DVT involving PICC ___
+- MSSA bacteremia ___ 
+- Gangrene of multiple digits or Rt hand: s/p Rt ___ finger 
+amputation.  
+- H/o UGIB  
+- H/o LUE DVT 
+- Home Oxygen 2L NC  
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+On admission:
+VS- 98.6  95  120/68  18  100%2L nc
+Gen- alert and oriented x3 NAD
+CV- RRR
+Pulm- easy WOB
+Abd- soft, obese, NT ND
+Ext- necrotic fingertips L hand, s/p amp R ___ digits with
+necrotic ulcers at amputation sites. Multiple dry ulcers over 
+the
+left foot.
+  Fem  Pop  DP  ___
+R P    P    D   D
+L P    D    D   -
+
+On discharge:
+Tm 101 (3PM day prior) Tc 98 HR 87 BP 91/51 RR 14 97% BS 123-167
+Gen: NAD
+HEENT: MMM
+CV: RRR
+PULM: CTAB nonlabored breathing
+ABD: soft ntnd
+Ext: L hand digits ___ necrotic, R hand digits ___ s/p 
+amputation, digits ___ with necrotic distal tip, L BKA with 
+staples in place healing well in leg immobilizer
+Pulse exam
+  Fem  Pop  DP  ___
+R P    P    D   D
+L P    BKA
+ 
+Pertinent Results:
+--Hematology--
+WBC 14.7, remained elevated, 11.8 on discharge
+Hct stable ___ s/p 3U pRBCs
+Plts 300s
+
+Cr 5.9-6.7
+Trop 0.37-0.43 post-operatively
+Phosph ___ stable
+
+EKG ___
+Sinus rhythm. Anteroseptal and lateral ST segment changes may be 
+due to 
+myocardial ischemia. Clinical correlation is suggested. Compared 
+to the 
+previous tracing of ___ there is no significant interval 
+diagnostic changes.  
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+94 152 90 ___ 121 
+ 
+CXR ___ Preop
+Large region of consolidation in the left lower lobe has been 
+present at least to some degree since ___, when chest CT 
+showed a large region of atelectasis.  Whether this is 
+atelectasis alone or the patient has developed a hypostatic 
+pneumonia in the adjacent lung is not determinable from the 
+conventional radiographs alone.  The right lung is clear.  The 
+heart is top normal size.  Small right pleural effusion is 
+present.  There is no pulmonary edema.  A right PIC line ends 
+close to the superior cavoatrial junction. 
+
+BKA tissue ___
+- Skin, and subcutaneous tissue with ulceration; acute and 
+chronic
+inflammation and  necrosis.
+- Arteries with marked atherosclerosis.
+- Bone with changes consistent with chronic osteomyelitis.
+ 
+Brief Hospital Course:
+Ms ___ was admitted to the vascular service on ___ 
+for pre-op workup prior to an elective left below the knee 
+amputation planned for ___.  She had a standard pre-op 
+workup done which showed stable ST changes on her EKG and stable 
+LLL consolidation on the CKG.  UA was negative.  She was made 
+NPO without IVF and started on SQH. She went to the OR on 
+___ for a left BKA.  There were no intraoperative 
+complications.  She had a slighly elevated troponin 
+post-operatively which was 0.37 to 0.43.  She was transfused a 
+unit of blood for a drifting hematocrit to 20.8 post-operatively 
+on ___.  She was also started on gabapentin.  She underwent 
+peritoneal dialysis throughout the admission.  She was restarted 
+on her home medications post-operatively including aspirin.  She 
+was also started on ceftazipime/cipro/flagyl.  Her knee was 
+placed in an immobilizer.  She was made bedrest and on POD1 with 
+an order to get out of bed to chair was evaluated by physical 
+therapy who recommended that she be sent to rehab after.  She 
+was transfused an additional two units of blood on ___.  Her 
+diet was advanced to regular on ___ which she tolerated 
+well.  She was maintained on CPAP overnight for known OSA.  She 
+was transfused again on ___ for a drifting hematocrit. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Bisacodyl 10 mg PO DAILY:PRN constipation 
+3. Collagenase Ointment 1 Appl TP DAILY 
+4. Docusate Sodium 100 mg PO BID:PRN constipation 
+5. Ezetimibe 10 mg PO DAILY 
+6. Ferrous GLUCONATE 324 mg PO DAILY 
+7. HYDROmorphone (Dilaudid) 4 mg PO Q4H:PRN pain 
+8. Glargine 5 Units Breakfast
+Glargine 15 Units Bedtime
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+9. Lactulose 30 mL PO Q8H:PRN constipation 
+10. Lorazepam 0.5 mg PO Q6H:PRN anxiety 
+11. Lanthanum 1000 mg PO TID W/MEALS 
+12. Metoclopramide 5 mg PO TID 
+13. Nephrocaps 1 CAP PO DAILY 
+14. Nystatin Cream 1 Appl TP BID:PRN fungal infection 
+15. Omeprazole 40 mg PO DAILY 
+16. Rosuvastatin Calcium 40 mg PO QPM 
+17. Senna 1 TAB PO HS 
+18. Sertraline 100 mg PO DAILY 
+19. Sodium Thiosulfate 25 g IV Q3WEEKLY WITH PD 
+20. Acetaminophen 1000 mg PO Q8H:PRN pain 
+21. Ondansetron 4 mg IV Q8H:PRN n/v 
+22. Epoetin Alfa 30,000 UNIT SC QMOWEFR 
+23. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush 
+24. LOPERamide 4 mg PO QID:PRN diarrhea 
+25. Mirtazapine 15 mg PO HS 
+26. Levothyroxine Sodium 25 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q8H:PRN pain 
+2. Aspirin 325 mg PO DAILY 
+3. Bisacodyl 10 mg PO DAILY:PRN constipation 
+4. Docusate Sodium 100 mg PO BID:PRN constipation 
+5. Ezetimibe 10 mg PO DAILY 
+6. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+7. Glargine 5 Units Breakfast
+Glargine 15 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+8. Lactulose 30 mL PO TID 
+9. Lorazepam 1 mg PO HS:PRN anxiety 
+10. Nephrocaps 1 CAP PO DAILY 
+11. Omeprazole 40 mg PO DAILY 
+12. Ondansetron 4 mg IV Q8H:PRN n/v 
+13. Rosuvastatin Calcium 40 mg PO QPM 
+14. Senna 1 TAB PO HS 
+15. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush 
+16. Sertraline 100 mg PO DAILY 
+17. Lanthanum 1000 mg PO TID W/MEALS 
+18. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+19. Gabapentin 300 mg PO BID 
+20. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+21. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+22. Heparin 5000 UNIT SC TID 
+23. Heparin Flush (1000 units/mL) 1250 UNIT IV ADD TO EACH PD 
+DWELL and PRN, line flush 
+24. Metoprolol Tartrate 5 mg IV Q6H:PRN sbp>140  
+25. Minocycline 100 mg PO BID 
+26. Ferrous GLUCONATE 324 mg PO DAILY 
+27. Metoclopramide 5 mg PO TID 
+28. Nystatin Cream 1 Appl TP BID:PRN fungal infection 
+29. Sodium Thiosulfate 25 g IV Q3WEEKLY WITH PD 
+30. LOPERamide 4 mg PO QID:PRN diarrhea 
+31. Epoetin Alfa 30,000 UNIT SC QMOWEFR 
+32. Collagenase Ointment 1 Appl TP DAILY 
+33. Levothyroxine Sodium 25 mcg PO DAILY 
+34. Mirtazapine 15 mg PO HS 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Dry gangrene
+Peripheral vascular disease
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for an elective left below the 
+knee amputation for chronic ischemic foot pain as well as 
+nonhealing leg ulcers from peripheral vascular disease.  You 
+were observed after this surgery for a week and you are safe to 
+be discharged from the hospital.  Please weigh yourself every 
+morning, call MD if weight goes up more than 3 lbs.  Please also 
+watch for the danger signs below, and be sure to attend your 
+follow up appointment with Dr. ___.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-26 | hadm_id=24425177
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue/altered mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old F with PMH significant for CAD s/p CABG, w/ graft 
+stenosis requiring stents x4, DM2, ESRD on peritoneal dialysis, 
+Lt Charcot's foot complicated by osteomyelitits, and CHF. She 
+was recently hospitalized from ___ on Vascular Surgery 
+service for gangrene of Rt ___ finger and discharged on 
+minocycline for prophylaxis, for which she was to take for 2 
+weeks for treatment of pansensitive pseudomonal foot infection. 
+Her warfarin and midodrine were d/c'd during hospitalization. 
+Today she presents with 2 days of fatigue.  
+
+In the ED, vitals: T 97.4 89 83/45 18 92% RA. Labs were 
+significant for WBC, 24.2 (93.3N,0B, 4.1L0, Cr 7.0, CKMB 18, Tn 
+2.23, BNP 37612. EKG showed new ST-depressions in V3-V5. She was 
+evaluated by vascular surgery for concern for gangrene and 
+osteomyelitis. Exam and pulses felt to be stable from discharge 
+on ___: b/l UE fingertip necrosis x 4, finger amp sites x 2, 
+and LLE foot wounds. Wo evidence of new purulence or fluctuance. 
+They recommended aggressive Abx and no surgical intervention at 
+this point. She was given vancomycin/cefepime/metronidazole. 
+Patient triggered for hypotension and SPo2 83%. She appeared 
+lethargic but still responsive. She was started on central 
+levophed and transferred to the MICU for further management. 
+Renal dialysis team consulted and she underwent peritoneal 
+dialysis in the ED. Vitals prior to transfer afebrile 92 121/60 
+15 99%/RA. 
+
+On arrival to the CCU, pt was sleepy, but arousable and 
+answering questions appropriately. Pt stated that she was not 
+currently in any pain. She endorsed the story noted above, 
+stating that she has been feeling more fatigued since she was 
+last discharged and then sioce the weekend she has been feeling 
+more confused. She specifically denied any CP, palpitations, 
+SOB, cough, abdominal pain, N/V/D/C. Her son notes that she has 
+been more constipated than usual. He also notes that she has 
+been more "out of it" lately. He states that he has been trying 
+to limit his mother dilaudid to 4 mg PO QD. Pt also denies any 
+foot pain, as she has chronic neuropathy. She states that it 
+seems to have been oozing lately, but is not sure how long that 
+has been going on. 
+
+ 
+Past Medical History:
+- CAD s/p CABG x5 ___ (LIMA-LAD, SVG-PDA, SVG-OM1,
+SVG-OM2, SVG-D1, c.b. sternal wound infection. ___:  All
+SVGs occluded.  LCX BMS, OM1 BMS. ___: OM PCI/brachy therapy 
+for
+ISR. ___: DES to OM1 for ISR, DES to LCX for ISR.  Last cath
+___: OM filled by collaterals.
+- Heart failure with preserved EF: EF 50% (___)  
+- DM c/b neuropathy/retinopathy/gastroparesis  HbA1c 6% in 5.13. 
+ 
+- ESRD, peritoneal dialysis.  
+- Severe hypotenson: SBPs down to ___, unable to auscultate 
+pulse during recent Cardiology apt, started on midodrine in 
+___. This was d/c'd during last hospitalization d/t 
+gangrene of fingers.  
+- Hyperlipidemia  
+- Obesity.  
+- Depression.  
+- Left Charcot foot  
+- LLE osteomyelitis ___
+- Massive UGI bleed ___, s.p. 12 U PRBC transfusion from 
+large gastric ulcer
+- LUE DVT involving PICC ___
+- MSSA bacteremia ___ 
+- Gangrene of multiple digits or Rt hand: s/p Rt ___ finger 
+amputation.  
+- H/o UGIB  
+- H/o LUE DVT 
+- Home Oxygen 2L NC  
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+Admission Physical
+===================
+Vitals  92 121/60 15 99%/RA
+General: Laying in bed, sleepy, but arousable, in NAD  
+HEENT: PERRL, OP clear, MMM  
+Neck: RIJ in place, JVP ~ 9 cm  
+CV: RRR, nl S1 and S2, III/VI systolic murmur best heard at the 
+___  
+Lungs: Clear to auscultation anteriorly, no 
+wheezes/rales/ronchi, but limited by pt position  
+Abdomen: +BS, soft, distended, NT nontender  
+Ext: RLE warm with DP 2+ and 1 cm circular lesion with central 
+necrosis at the arch of the foot; LLE warm, erythematous, and 1+ 
+edema to sacrum with 2 cm round lesion at the medial malleolus 
+without appropriate granulation tissue  
+Neuro: A&Ox3, no sensation below knees b/l 
+
+Discharge Physical
+===================
+VS T 98.9, bp 118/50, p 93, r 18, 98% on 3L
+General: Lying in bed. NAD. Skin darkly pigmented. 
+HEENT:Right ___ IJ removed yesterday, with bandage, C/D/I
+CV: RRR. Holosystolic murmur ___ heard over L & RUSB. Pulses 
+felt in all four extremities ___ in LLE, DP and ___ in RLE).
+PULM: Lung sounds clear anteriorly
+GI: Obese. Soft. Non-tender. 
+EXT: Multiple necrotic fingers on R&L. wound vac in place on 
+medial LLE adjacent to a necrotic and ulcerated L hallux. Trace 
+edema in both calves.
+Neuro: A&Ox3
+ 
+
+ 
+Pertinent Results:
+Admission Labs
+=========================
+___ 10:30AM BLOOD WBC-24.4*# RBC-3.02* Hgb-8.4* Hct-26.5* 
+MCV-88 MCH-27.9 MCHC-31.7 RDW-16.3* Plt ___
+___ 06:25AM BLOOD WBC-15.4* RBC-2.60* Hgb-7.0* Hct-23.0* 
+MCV-88 MCH-26.8* MCHC-30.4* RDW-16.0* Plt ___
+___ 05:15AM BLOOD WBC-12.4* RBC-2.67* Hgb-7.3* Hct-23.6* 
+MCV-88 MCH-27.5 MCHC-31.2 RDW-15.8* Plt ___
+___ 10:30AM BLOOD Glucose-168* UreaN-32* Creat-7.0* Na-137 
+K-3.9 Cl-86* HCO3-21* AnGap-34*
+___ 06:25AM BLOOD Glucose-99 UreaN-33* Creat-6.3* Na-137 
+K-2.9* Cl-91* HCO3-20* AnGap-29*
+___ 02:32AM BLOOD Glucose-93 UreaN-31* Creat-6.0* Na-137 
+K-3.2* Cl-91* HCO3-21* AnGap-28*
+___ 05:15AM BLOOD Glucose-78 UreaN-33* Creat-6.1* Na-136 
+K-3.2* Cl-92* HCO3-20* AnGap-27*
+___ 10:30AM BLOOD ___ PTT-30.1 ___
+___ 12:09AM BLOOD ___ PTT-43.5* ___
+___ 10:30AM BLOOD CK-MB-18* MB Indx-10.9* ___
+___ 02:32AM BLOOD CK-MB-10 MB Indx-9.2*
+___ 10:42AM BLOOD Lactate-1.7
+
+Inflamatory markers
+=====================
+___ 06:07AM BLOOD CRP-69.0*
+___ 06:25AM BLOOD CRP-187.3*
+___ 06:07AM BLOOD ESR-140*
+___ 06:25AM BLOOD ESR-140*
+
+Hypercoagulability
+====================
+___ 14.9* 9.4 - 12.5 sec 
+PTT 30.7 25.0 - 36.5 sec 
+___ 1.4* 0.9 - 1.1   
+INHIBITORS & ANTICOAGULANTS 
+Protein C, Functional 99 70 - 170 % 
+NOTE NEW ADULT REFERENCE RANGE AS OF ___. 
+Protein S, Functional 72 50 - 150 % 
+NOTE NEW REFERENCE RANGE AS OF ___ 
+
+Imaging:
+===================
+
+FOOT X-RAY ___
+IMPRESSION: Overall similar appearance of the foot with 
+suspected neuropathic changes and widespread dense arterial 
+calcifications.  Overall, there are no radiographic findings 
+suggestive of superimposed osteomyelitis, but MR could be 
+potentially useful to evaluate further if clinically indicated. 
+
+HAND X-RAY ___
+IMPRESSION: Overall similar appearance of the foot with 
+suspected neuropathic changes and widespread dense arterial 
+calcifications.  Overall, there are no radiographic findings 
+suggestive of superimposed osteomyelitis, but MR could be 
+potentially useful to evaluate further if clinically indicated. 
+
+CXR___
+IMPRESSION: Right internal jugular central venous catheter tip 
+terminates within the proximal right atrium.  Persistent mild 
+pulmonary edema, small left pleural effusion, and retrocardiac 
+opacity, possibly reflecting atelectasis, infection or 
+aspiration. 
+
+ECHO ___
+There is mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. Overall left ventricular 
+systolic function is low normal (LVEF 50%) secondary to focal 
+akinesis/hypokinesis of the posterior wall. Due to the 
+technically suboptimal nature of this study, other focal wall 
+motion abnormalities cannot be excluded. There are three aortic 
+valve leaflets. The aortic valve leaflets are moderately 
+thickened. There is a minimally increased gradient consistent 
+with minimal aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve leaflets are moderately thickened. There 
+is a probable vegetation (approximately 1 cm) on the anterior 
+mitral valve leaflet (atrial side). There is severe mitral 
+annular calcification. There is moderate thickening of the 
+mitral valve chordae. Moderate (2+) mitral regurgitation is 
+seen. Moderate [2+] tricuspid regurgitation is seen. There is 
+moderate pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+Compared with the prior study (images reviewed) of ___, a 
+probable mitral valve vegetation is now seen.
+
+Microbiology:
+ C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+TISSUE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+___ 6:07 am BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+      Source: Line-IJ. 
+
+   BLOOD/FUNGAL CULTURE (Pending): 
+
+   BLOOD/AFB CULTURE (Pending): 
+
+ 
+Pathology
+
+Bone, left foot (A):
+
+Cartilage and scant bony fragments with reactive changes.
+
+Discharge Labs
+=====================
+___ 06:18AM BLOOD WBC-13.6* RBC-2.76* Hgb-7.7* Hct-23.9* 
+MCV-87 MCH-27.8 MCHC-32.1 RDW-16.2* Plt ___
+___ 06:07AM BLOOD Neuts-84.3* Lymphs-10.2* Monos-3.9 
+Eos-1.3 Baso-0.2
+___ 06:18AM BLOOD Plt ___
+___ 06:07AM BLOOD ESR-140*
+___ 06:18AM BLOOD Glucose-81 UreaN-35* Creat-6.1* Na-139 
+K-4.1 Cl-91* HCO3-21* AnGap-31*
+___ 02:32AM BLOOD ALT-54* AST-31 AlkPhos-150* TotBili-0.1
+___ 06:18AM BLOOD Calcium-9.1 Phos-5.2* Mg-1.___ with PMH significant for CAD (s/p CABG x5 w/ stent x4), CHF, 
+DM2, ESRD requiring peritoneal dialysis, Calciphylaxis, L 
+Charcot foot w/ recent osteomyelitis (s/p bone biopsy ___ who 
+presented on ___ with 2 days of fatigue and hypotension.
+
+ACTIVE ISSUES
+
+# Hypotension:  
+
+In ED, SBPs were down to ___ and patient met ___ SIRS (tachypnea 
+and leukocytosis). In the ED pt was thought to be hypotensive 
+___ to septic shock vs cardiogenic shock (troponins elevated, 
+discussed further below) and as such she was given 3L fluid and 
+started on levophed. Pt was seen by vascular surgery in the ED 
+who felt that her gangrenous fingers or her LLE lesion could be 
+possible sources of infection, but did not feel that surgery was 
+necessary at the time. Pt was started on broad spectrum abx and 
+sent to the CCU. 
+
+On arrival to the CCU, it was noted that the pts lactate was not 
+elevated and patient was A+Ox3, which indicated adequate 
+perfusion. Upon further chart review, it was noted that the 
+patient is chronically hypotensive, with SBPs in the 80-90s in 
+the afternoon and 70-60s in the AM. She was started on midodrine 
+in ___ as she was symptomatic (dizzy, syncope). However, 
+this was d/c'd during her last hospitalization d/t gangrene of 
+her fingers. Once stable in the CCU, pt was weaned off of 
+levophed and pt tolerated with SBPs in 80-90s without any 
+pressure support or fluid boluses. She was transfered to the 
+medicine.  
+
+On the Medicine floor she was monitored on telemetry. She 
+triggered for SBPs in the ___ and received fluid.  Her SBP 
+improved to the 120-130s range with fluid and increased PO 
+intake.  However her BP would drop to the 70-80s immediately 
+after peritoneal dialysis and she required fluid boluses to 
+maintain her pressure, and titration of her PD orders by the 
+renal service. By discharge her BP had stabilized. Discharge BP 
+118/50.   
+
+# LLE Osteomyelitis w/ Leukocytosis: Upon admission, WBC 
+elevated to 24.4. Ucx, stool cx, peritoneal cx, bcx, and CXR 
+negative for sources of infection. Pt has 2 cm round lesion on 
+the LLE that was the likely source. Pt stated that it had been 
+oozing more PTA, but not painful, as she has chronic peripheral 
+neuropathy. Foot x-ray done in the ED did not show osteo, but 
+ESR was 140 and values > 100 indicate possibility of 
+osteomyelitis. Podiatry was consulted and bone bx was performed 
+to formally determine if pt has osteomyelitis and to tailor abx 
+appropriately. She was empirically started on 
+vanc/cefepime/flagyl and subsequently switched to vanc/zosyn for 
+coverage of MRSA, gram negative, and possible pseudomonal 
+infection.  Wound cultures grew psudomonas and serratia.  
+Vancomycin and zosyn were continued.  Coverage was planned to be 
+narrowed to zosyn alone, but given new mitral valve vegitation, 
+it was continued untl ID consult obtained. Pts minocyline was 
+stopped. Abx changed to Ceftazidine and Metronidazole to be 
+continued for 6 weeks (start date ___ end date ___. 
+Podiatry and physical therapy were consulted prior to discharge. 
+Left leg cannot bear weight until LLE ulcer has been determined 
+healed by outpatient podiatrist. ___ recommended discharge to 
+rehabilitation facility for reconditioning.
+
+# NSTEMI: In ED, troponin 2.23, CK-MB 18, and EKG with new 
+ST-depressions in lateral leads (notable on EKG from clinic 3 
+days prior). It is possible that troponemia was due to ___, 
+however patient has chronic troponemia, and her values today are 
+5x her normal level and EKG with new changes. Her TIMI score was 
+5. Medical management was determined optimal given her extensive 
+revascularization history and multiple CABG. On admission pt was 
+asymptomatic wo CP, SOB, or nausea/diaphoresis. Pt was continued 
+on her home ASA 325 mg, started on heparin gtt, and CE were 
+trended. At the time of transfer CE were decreased with troponin 
+at 1.95. Heparin gtt was stopped after 24 hours prior to 
+transfer to floor, as pt was stable with no new ACS symptoms. 
+Normal post NSTEMI beta blocker held due to hypotension. NSTEMI 
+considered resolved upon discharge.
+
+# CHF/Mitral valve vegitation: Patient with history of CHF w/ 
+preserved EF (HFPEF). Echo in ___ showed EF 50% and 
+basal-inferior/infero-lateral hypokinesis. Patient presents 
+today with NSTEMI and BNP 37,000 with mild pulmonary edema on 
+chest xray. BNP 2 weeks ago 17,000. ECHO was done on ___ and 
+revealed left ventricular systolic function atw normal (LVEF 
+50%) secondary to focal akinesis/hypokinesis of the posterior 
+wall as well as a new mitral valve vegitation. Pt was 
+transferred to floor service prior to receipt of these results. 
+Dr. ___ primary cardiologist was consulted and 
+after reviewing previous echos it could not be definitively 
+determined if this vegitation was present previously. It was 
+decided that the patient be treated assuming this is a new 
+endocarditis lesion. Patient received a TTE which supported 
+presensce of vegetation on mitral valve, but patient delined TEE 
+which would have provided a clearer view. Antibiotic therapy for 
+LLE ulcer will be continued to cover any possible infected 
+vegetation though suspicion is very low.
+ 
+# ESRD on peritoneal dialysis: Pt dialyzed in the ED. Renal was 
+consulted and recommended renally dosing abx, and gave rec for 
+continuing PD, which was followed while pt was in the CCU and 
+after transfer to the floor. Home medications were continued, 
+including lanthanum, nephrocaps, and bowel regimen with 
+lactulose + senna, colace, bisacodyl PRN. Her potassium was low 
+___ to cycling of peritoneal dialysis fluid and renal recommend 
+removing the potassium restriction on her diet.  If she becomes 
+hypokalemic she may need potassium supplementation in her PD 
+fluid.  Her lactulose was discontinued secondary to diarrhea.
+
+# Diarrhea: Patient developed diarrhea on medicine floor. C. 
+dificile toxin assay from ___ was negative. Diarrhea determined 
+to be non-infectious. Reglan reduced to TID and lactulose held. 
+On ___ she was started on Loperamide and this was continued as 
+needed on discharge for diarrhea.
+
+# Hypercoagulability:  There was concern that an alternative 
+explanation for her distal necrosis maybe hypercoagulability 
+instead of calciphylaxis.  She has received a thorough workup 
+including Lupus ProtCFn ProtSFn ACA IgG ACA IgM, all of which 
+were within normal limits.  Note that Lupus Anticoagulant was 
+positive when she was on coumadin but negative after 
+discontinuation.  In the past she has had normal SPEP and UPEP 
+as well.  It may be warranted to pursue further workup of of 
+hypercoagulability with Factor V Leiden and a Prothrombin 
+Mutation Analysis, but this is of low yield and unlikely to 
+explain her clotting.    
+
+CHRONIC ISSUES
+# Hyperphosphatemia: ___ ESRD. Pt placed on low phos/K diet and 
+lanthanum was continued, as above. Phosphate was 5.0 as of ___.
+
+# Normocytic anemia: Most likely ___ ESRD. Her H/H appeared to 
+be[??]at baseline. Pts home ferrous gluconate was continued and 
+H/H ranged ___ over the course of her stay. 
+Continued iron supplementation is recommended. She received a 
+total of 3 units of blood during this hospitalization.
+
+# Calciphylaxis: Patient started on empiric treatment for 
+calciphylaxis with IV sodium thiosulphate. Efforts were made to 
+get a tissue diagnosis from amputation samples, however the 
+slides were not obtainable.  
+
+# HLD: Stable. Home rosuvastatin and ezetimibe continued.
+
+# DM: Stable. Pt continued on outpatient regimen: glargine 5 
+units at breakfast and 15 unts at betime. Humalog sliding scale 
+(3 units B/L/D).  
+
+# Gasroparesis: Stable. Pt continued on home reglan.  Decreased 
+from QID to TID given diarrhea and this can be further titrated 
+down while pt has diarrhea, which is thought to be from 
+antibiotics.
+
+# Neuropathy: Stable. Per renal recs held gabapentin. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Bisacodyl 10 mg PO DAILY:PRN constipation 
+3. Collagenase Ointment 1 Appl TP DAILY 
+4. Docusate Sodium 100 mg PO BID:PRN constipation 
+5. Ezetimibe 10 mg PO DAILY 
+6. Ferrous GLUCONATE 324 mg PO DAILY 
+7. Gabapentin 100 mg PO BID 
+8. HYDROmorphone (Dilaudid) 4 mg PO Q4H:PRN pain 
+9. Glargine 5 Units Breakfast
+Glargine 15 Units Bedtime
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+10. Lactulose 30 mL PO Q8H:PRN constipation 
+11. Lanthanum 1000 mg PO TID W/MEALS 
+12. Lorazepam 1 mg PO QID:PRN anxiety 
+13. Metoclopramide 5 mg PO QIDACHS 
+14. Minocycline 100 mg PO Q12H 
+15. Nephrocaps 1 CAP PO DAILY 
+16. Nitroglycerin SL 0.3 mg SL PRN CP 
+17. Nystatin Cream 1 Appl TP BID:PRN fungal infection 
+18. Omeprazole 40 mg PO DAILY 
+19. Rosuvastatin Calcium 40 mg PO QPM 
+20. Senna 1 TAB PO HS 
+21. Sertraline 100 mg PO DAILY 
+22. Sodium Thiosulfate 25 g IV Q3WEEKLY WITH PD 
+
+ 
+Discharge Medications:
+1. Lift
+Patient lift with sling
+Diagnosis: Osteomyelitis of left foot and LLE Charcot foot and 
+ankle
+Reason: difficulty with transfer
+2. CefTAZidime 1 g IV Q24H Duration: 42 Days 
+start date: ___ 
+RX *ceftazidime-dextrose (iso-osm) [Fortaz in dextrose 5 %] 1 
+gram/50 mL 1 g Q24h Daily Disp #*42 Unit Refills:*0
+3. Aspirin 325 mg PO DAILY 
+4. Bisacodyl 10 mg PO DAILY:PRN constipation 
+5. Collagenase Ointment 1 Appl TP DAILY 
+6. Docusate Sodium 100 mg PO BID:PRN constipation 
+7. Ezetimibe 10 mg PO DAILY 
+8. Ferrous GLUCONATE 324 mg PO DAILY 
+9. HYDROmorphone (Dilaudid) 4 mg PO Q4H:PRN pain 
+10. Glargine 5 Units Breakfast
+Glargine 15 Units Bedtime
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+11. Lactulose 30 mL PO Q8H:PRN constipation 
+12. Lorazepam 0.5 mg PO Q6H:PRN anxiety 
+13. Lanthanum 1000 mg PO TID W/MEALS 
+14. Metoclopramide 5 mg PO TID 
+15. Nephrocaps 1 CAP PO DAILY 
+16. Nystatin Cream 1 Appl TP BID:PRN fungal infection 
+17. Omeprazole 40 mg PO DAILY 
+18. Rosuvastatin Calcium 40 mg PO QPM 
+19. Senna 1 TAB PO HS 
+20. Sertraline 100 mg PO DAILY 
+21. Sodium Thiosulfate 25 g IV Q3WEEKLY WITH PD 
+22. Acetaminophen 1000 mg PO Q8H:PRN pain 
+23. MetRONIDAZOLE (FLagyl) 500 mg PO Q8H 
+24. Ondansetron 4 mg IV Q8H:PRN n/v 
+25. Epoetin Alfa 30,000 UNIT SC QMOWEFR Duration: 1 Dose 
+26. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush 
+27. LOPERamide 4 mg PO QID:PRN diarrhea 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Osteomyelitis of left foot
+Calciphilaxis
+Gangrene of digits
+End stage renal disease on peritoneal dialysis
+Left charcot foot
+Non ST-elevation Myocardial Infarction 
+Secondary Diagnoses:  Coronary artery disease, Congestive heart 
+failure, Diabetes Type 2, hyperlipidemia, gastroparesis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear ___, 
+___  was a pleasure caring for you during your recent admission 
+to ___,  You were admitted  for 
+fatigue and low blood blood pressure.  You were found to have an 
+infection of your left foot that spread to your bone.  We 
+treated you with fluids and medications to maintain your blood 
+pressure and treated you with antibiotics to control the 
+infection.  Your heart was also injured by the low blood 
+pressure and we performed tests to look at your heart function.  
+While your heart function was unchanged from previous 
+hospitalizations there was a concerning lesion found on one of 
+your heart valves which could be a sign of an infection.  We 
+discussed this infection with our cardiologists and infectious 
+disease specialists who agree that you should be treated with 6 
+weeks of IV antibiotics. Our vascular surgeons met with you to 
+discuss further amputations of your fingers.  You were not 
+interested in further amputation at this time, but were 
+encouraged to follow up with vascular surgery if the gangrene on 
+your fingers spreads or you desire amputation.   You must 
+continue to take your IV antibiotics for the next 6 weeks.
+
+THere was also consern that your blood may be more likely to 
+clot than normal.  We performed tests to examine this further 
+some of the results of these tests are pending.  You should 
+follow up with your primary care doctor to obtain the results of 
+these tests and determine if further testing is indicated.  
+Additionally you should follow up with with all of your doctors 
+___ below.
+
+To Do:
+1) Do not bear weight on your left leg until a podiatrist says 
+that the wound has healed and is ready.
+2) Please resume the diet recommended by your endocrinologist 
+and primary care doctor. You do not need to continue your low 
+phosphate diet.
+3) Please follow-up with your outpatient providers. Your 
+appointments are listed below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-22 | hadm_id=25303455
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right hand pain and discoloration
+ 
+Major Surgical or Invasive Procedure:
+___: EGD
+
+ 
+History of Present Illness:
+___ w/ h/o CAD s/p CABG x4, multiple cardiac stents, ESRD on PD, 
+DM2, and LLE osteo who presents with painful R fingers for past 
+week. She noticed "pins and needles" sensation in her right ___ 
+digits since last ___. A few days later, she noticed color 
+changes to her fingers, up to dark purple hue. She saw her PCP 
+today, who referred her to a vascular surgeon, who recommended 
+she come to the ED for further evaluation. She has not had any 
+other symptoms, denies fevers, chills, nausea, vomiting, chest 
+pain, or shortness of breath. Her left had has not had any 
+symptoms. She denies specifically a history of atrial 
+fibrillation, and she is a non-smoker.
+ 
+Past Medical History:
+PMH: CAD s/p CABG and multiple cath/stents, DM2 c/b retinopathy 
+and neuropathy, HTN, HL, dCHF, ESRD on PD, obesity, LLE charcot 
+ankle c/b osteomyelitis ___ s/p debridement, dieulafoy's lesion 
+c/b massive GI bleed
+
+PSH: CABG x5v ___, PD catheter placement 
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+Vitals: 98.0, 73, 101/59, 18, 100 3LNC
+Gen: NAD, AOx3
+CV: RRR, no murmurs
+Pulm: CTAB, unlabored
+Abd: soft, nontender, nondistended
+Ext: WWP lower extremities, minimal edema. faintly palpable
+radial pulses in bilateral upper extremity, RUE: ___ digit with
+distal ischemia, ___ - ___ digit w/ light purple discoloration 
+and slow capillary refill, tender to palpation, dopplerable arch 
+signals
+
+ 
+Pertinent Results:
+___ 06:40AM BLOOD WBC-13.2* RBC-2.57* Hgb-8.3* Hct-27.1* 
+MCV-106* MCH-32.2* MCHC-30.5* RDW-16.6* Plt ___
+___ 06:40AM BLOOD ___ PTT-35.1 ___
+___ 06:40AM BLOOD Glucose-144* UreaN-55* Creat-11.1* Na-135 
+K-4.0 Cl-89* HCO3-27 AnGap-23*
+___ 06:00AM BLOOD ALT-16 AST-15 AlkPhos-95 TotBili-0.3
+___ 06:40AM BLOOD Calcium-9.4 Phos-8.6* Mg-2.1
+ 
+Brief Hospital Course:
+Patient was admitted to the vascular surgery service on ___ 
+with pain and discoloration of her right ___ digit.  A CTA was 
+obtained which was significant for:
+
+Patent flow from the aortic arch, right brachiocephalic artery 
+to the 
+radial and ulnar arteries at the level of the wrist, without 
+occlusion or high 
+grade stenosis. Multifocal moderate to severe narrowing of the 
+distal ulnar 
+artery.  Assessment of patency of the arteries distal to the 
+wrist within the hand 
+is markedly limited due to extensive atherosclerotic 
+calcifications and the 
+small caliber of these arteries.
+
+Due to concern for arterial embolic disease, she was started on 
+a heparin drip.  Because she had a history of GI bleed ___ 
+dieulafoy's lesion, a GI consult was obtained to determine risk 
+of anticoagulation.  On ___, she was started on coumadin, 5 mg, 
+and also received 5 mg on ___. She was started on high dose 
+omeprazole, and on ___, GI performed an EGD.  They did not see 
+any bleeding or nidus for bleed, however, they were unable to 
+perform a full evaluation ___ food in the stomach.  GI 
+determined that the area of her previous bleed appeared stable, 
+and she would be safe to anticoagulate with a goal INR of 
+2.0-3.0 while on omeprazole 40 mg daily.  She was deemed 
+appropriate for discharge on ___, and will follow up with Dr. 
+___ INR and coumadin dosing.
+ 
+Medications on Admission:
+crestor 40', epogen 2000unit/mL, Humalog SSI, Lantus 12u qam 36u 
+qpm, renal caps', renvela 800 w/ meals TID, zetia 10', ASA 325', 
+ferrous gluconate 324mg', gabapentin 100'', gentamicin topical 
+cream to PD site, lorazepam 1' prn, metoclopramide 5'''', 
+midodrine 10'', omeprazole 20', sertraline 100'
+
+ 
+Discharge Medications:
+1. Rosuvastatin Calcium 40 mg PO DAILY 
+2. Nephrocaps 1 CAP PO DAILY 
+3. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+4. Ezetimibe 10 mg PO DAILY 
+5. Aspirin 325 mg PO DAILY 
+6. Ferrous GLUCONATE 324 mg PO DAILY 
+7. Gabapentin 100 mg PO BID 
+8. Lorazepam 1 mg PO DAILY:PRN anxiety 
+9. Nystatin Cream 1 Appl TP BID 
+10. Omeprazole 40 mg PO DAILY 
+11. Metoclopramide 5 mg PO QIDACHS 
+12. Midodrine 10 mg PO BID 
+13. Sertraline 100 mg PO DAILY 
+14. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth Q4HRS 
+Disp #*80 Tablet Refills:*0
+15. Warfarin 2 mg PO DAILY16 
+Please start this dose on ___. Follow INR closely while on 
+coumadin and adjust dose as needed 
+RX *warfarin [Coumadin] 2 mg 1 tablet(s) by mouth Daily Disp 
+#*20 Tablet Refills:*0
+16. Senna 1 TAB PO BID:PRN constipation 
+17. Docusate Sodium 100 mg PO BID 
+18. Glargine 12 Units Breakfast
+Glargine 36 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+19. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+20. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right hand ischemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+You were admitted to the vascular surgery service with right 
+hand pain and color changes in your fingers concerning for 
+ischemia.  A CT angiogram showed extensive atherosclerotic 
+calcifications in your hand distal to the wrist.  You were 
+anticoagulated with a heparin drip, and transitioned to oral 
+coumadin (warfarin) to take as an outpatient.  Your INR 
+(coumadin level) is now therapeutic, between 2.0-3.0 and you are 
+ready to return home.  You will be on coumadin for the next 
+three months to treat a likely arterial embolic event.  You 
+should follow your INR very closely with your primary doctor, 
+and adjust the coumadin dose as needed.  Coumadin puts you at an 
+increased risk of bleeding, so please be vigilant in monitoring 
+these INR leves as well as any signs/symptoms of bleeding.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-19 | hadm_id=26686673
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ F with history of CAD s/p CABG and stents, ___ EF 50-55%, 
+DMII, HTN, HL, CRI presents with progressive dyspnea. She had 3 
+days of SOB and chest pressure. Has noted 3 lb weight gain over 
+the last 3 days and increased ___ edema as well. Usually takes 
+torsemide 100mg daily, but she increases to 120mg for the last 
+___ days because of the weight gain. Oxygen requirement also 
+increased from baseline of 2L to 4L. No recent fevers, cough, or 
+colds. Denies nausea, vomiting, diarrhea, abdominal pain. Blood 
+pressures at home usually 120/70s. Weight on discharge in 
+___ was 204 lbs, 3 days ago it was 226.3, today it is 229.2 
+lbs. Of note, she recently started erythropoetin injections 
+several months ago in treatment of her chronic anemia.
+
+In the ED, initial VS: 98.2 58 197/80 18 100% 4L NC. Patient was 
+given lasix 100 mg IV, ASA 325, NTGx1, and nitropaste. Breathing 
+improved slightly, and her blood pressure came down to 170s with 
+nitro. Vitals on transfer: 98.4 62 187/75 17 99%4l NC
+
+On the floor, patient feels breathing is slightly more improved. 
+No current chest pressure pain.
+
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.
+ 
+Past Medical History:
+-CAD s/p CABG ___ (LIMA to LAD, SVG to PDA, OM1, OM2, D1) 
+Cath ___ all SVG occluded, stent to Lcx,Om1. Cath ___ ISR, 
+brachytherapy. ___ stents to OM1, LCx. ___ OM occluded.
+-DMII c/b retinopathy, neuropathy
+-HTN
+-HL
+-dCHF EF 55%
+-Chronic renal failure
+-Obesity
+-charcot ankle on left with osteomyelitis ___
+-Intestinal Dieulafoy's (Hemorrhagic) Lesion
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker. 
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was diagnosed with breast cancer in her ___ and her 
+aunt was in her ___. There is no other family history of cancer.
+ 
+Physical Exam:
+Admission Exam:
+VS: 98.4 168/80 (168-174) 57 18 96RA  Wt105.7kg
+GENERAL: NAD, speaking full sentences, AAOx3
+HEENT: PERRLA, EOMI, sclerae anicteric, MMM, OP clear.
+NECK: Supple, JVP to angle of m
+HEART: S1S2, RRR, ___ SEM at apex radiating to the axilla. ___ 
+SEM at the LLSB radiating to the sternum.
+LUNGS: bibasilar crackles
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, 2+ b/l ___ edema, 2+ peripheral pulses. LLE 
+scarring from surgical wound.
+NEURO: Awake, A&Ox3, CNs II-XII intact, muscle grossly intact
+
+Discharge Exam:
+VS:96.9 148/71 70 20 95/2L
+WEIGHT: 97.7kg (admit 105.7kg)
+GENERAL: well appearing no distress
+HEENT: OP clear
+NECK: JVP 2 cm shy of mandibular angle
+CARDS: RRR, normal S1, ___ SEM at apex radiating to the 
+axilla. ___ SEM at the LLSB radiating to the sternum
+PULM: faint bibasilar crackles
+ABDOMEN: SNT ND +BS no organomegaly
+EXT: 1+ pitting edema to ankle.
+ 
+Pertinent Results:
+Admission Labs:
+___ 03:45PM   PLT COUNT-351
+___ 03:45PM   NEUTS-75.7* LYMPHS-16.2* MONOS-4.1 EOS-3.5 
+BASOS-0.5
+___ 03:45PM   WBC-9.6 RBC-3.41* HGB-10.4* HCT-30.5* MCV-90 
+MCH-30.4 MCHC-34.0 RDW-15.4
+___ 03:45PM   proBNP-7735*
+___ 03:45PM   cTropnT-<0.01
+___ 03:45PM   estGFR-Using this
+___ 03:45PM   GLUCOSE-161* UREA N-67* CREAT-2.4* SODIUM-143 
+POTASSIUM-4.4 CHLORIDE-104 TOTAL CO2-29 ANION GAP-14
+___ 11:15PM   CALCIUM-9.1 PHOSPHATE-5.6* MAGNESIUM-2.1
+___ 11:15PM   GLUCOSE-164* UREA N-66* CREAT-2.4* 
+SODIUM-146* POTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-30 ANION GAP-13
+
+Discharge Labs:
+___ 07:55AM BLOOD WBC-6.5 RBC-3.13* Hgb-9.4* Hct-28.5* 
+MCV-91 MCH-30.1 MCHC-33.0 RDW-15.1 Plt ___
+___ 07:45AM BLOOD Glucose-114* UreaN-71* Creat-3.5* Na-143 
+K-4.7 Cl-99 HCO3-39* AnGap-10
+___ 07:45AM BLOOD Calcium-9.4 Phos-6.2* Mg-2.3
+
+Notable Labs:
+___ 03:45PM BLOOD proBNP-7735*
+___ 03:45PM BLOOD cTropnT-<0.01
+___ 07:45AM BLOOD CK-MB-3 cTropnT-0.16*
+___ 08:30PM BLOOD CK-MB-4 cTropnT-0.16*
+___ 07:35AM BLOOD CK-MB-2 cTropnT-0.16*
+___ 07:45AM BLOOD CK(CPK)-37
+___ 08:30PM BLOOD CK(CPK)-73
+___ 07:35AM BLOOD ALT-18 AST-18 LD(LDH)-219 CK(CPK)-58 
+AlkPhos-93 TotBili-0.3
+
+Blood Cultures ___ Negative
+
+EKG ___:
+Sinus bradycardia. Consider left ventricular hypertrophy, 
+although is non-diagnostic. Lateral lead ST-T wave changes with 
+borderline prolonged QTc interval may be due to left ventricular 
+hypertrophy or possible myocardial ischemia. Clinical 
+correlation is suggested. Since the previous tracing of ___ 
+there is probably no significant change.
+
+CXR ___:
+Patient is status post CABG. Sternotomy sutures are midline and 
+intact. Surgical clips noted overlying the left heart border. 
+Mediastinal and hilar contours are unremarkable. The left heart 
+border is obscured due to a moderate left pleural effusion and 
+atelectasis, underlying consolidation not excluded. There is a 
+small right pleural effusion. IMPRESSION: Moderate left and 
+small right pleural effusion with overlying 
+atelectasis;underlying consolidation can not be excluded.
+
+TTE ___:
+The left atrium is dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global systolic function (LVEF>55%). Overall left 
+ventricular systolic function is normal (LVEF>55%). The right 
+ventricular cavity is dilated with depressed free wall 
+contractility. The diameters of aorta at the sinus, ascending 
+and arch levels are normal. The aortic valve leaflets (3) are 
+mildly thickened but aortic stenosis is not present. The mitral 
+valve leaflets are moderately thickened. There is a probable 
+vegetation on the mitral valve. Moderate (2+) mitral 
+regurgitation is seen. [Due to acoustic shadowing, the severity 
+of mitral regurgitation may be significantly UNDERestimated.] 
+The tricuspid valve leaflets are mildly thickened. Moderate to 
+severe [3+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. [In the setting of at 
+least moderate to severe tricuspid regurgitation, the estimated 
+pulmonary artery systolic pressure may be underestimated due to 
+a very high right atrial pressure.] There is no pericardial 
+effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global left ventricular systolic function. The basal 
+inferolateral wall may be mildly hypokinetic. There is a small 
+echodensity seen on the posterioro leaflet of the mitral valve 
+in the parasternal long axis view. This could be due to artifact 
+or to prolapse of part of the leaflet however a vegetation 
+cannot be excluded. Moderate mitral regurgitation is seen. The 
+RV is not well seen but is probably dilated/depressed with 
+moderate to severe tricuspid regurgitation and moderate to 
+severe pulmonary artery systolic hypertension. Compared with the 
+report of the prior study (images unavailable for review) of 
+___, the degree of pulmonary hypertension has increased. 
+The echodensity was probably not present on the prior although 
+image quality precludes certatinty about this finding.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ diabetic female with severe coronary 
+disease, hypertension, hyperlipidemia, diastolic heart failure, 
+and previous osteomyelitis of the left ankle who presented in 
+acute diastolic heart failure, felt to be triggered possibly by 
+starting erythropoetin injections, and who was diuresed to her 
+dry weight.
+
+ACTIVE ISSUES:
+1. ACUTE ON CHRONIC DIASTOLIC HEART FAILURE:  She noted 
+worsening exertional dyspnea with an increased home oxygen 
+requirement, lower extremity swelling, and a ___ weight gain 
+over the past few months that has been resistant to an increased 
+home torsemide dose.  Her BNP was elevated to over 7000 and her 
+CXR showed bilateral pleural effusions and edema consistent with 
+acute heart failure.  She was diuresed agressively with a 
+furosemide gtt and metolazone with good effect.  A repeat 
+echocardiogram demonstrated a preserved ejection fraction of 
+55%.  Her slowly rising creatinine required intermittent easing 
+of her diuretic regimen, though she was eventually returned to 
+her dry weight of about 213lb. The precipitant of this 
+exacerbation was felt to be secondary to starting erythropoetin 
+in the preceding months for her chronic anemia, which is 
+associated with increased hospitalizations for heart failure.  
+She otherwise denied salt indiscretions and was compliant with 
+her medications.  After discussion with her nephrologist, 
+erythropoetin was discontinued, and she subsequently restarted 
+her home oral diuretics with torsemide 100mg daily and 
+metolazone 2.5mg QMWF.  She has close followup with her PCP and 
+cardiologist to help titrate her diuretics.
+
+2. ACUTE ON CHRONIC KIDNEY DISEASE: She has likely diabetic and 
+hypertensive nephropathy and presented in stage III-VI CKD with 
+a Cr of 2.4.  With diuresis, her creatinine slowly increased to 
+a discharge level of 3.5, though the BUN remained stable from 
+65-70.  Her creatinine failed to improve with easing of her 
+diuretics, and so her home regimen was not intensified on 
+discharge.  She will have electrolytes checked a few days 
+following discharge.
+
+3. CORONARY ARTERY DISEASE:  She has a history of severe 
+coronary artery disease, and presented with an episode of 
+substernal chest pain accompanying her dyspnea.  Her EKG was 
+largely unchanged from prior.  Her cardiac troponin was 
+initially less than assay, but then rose to 0.16 without further 
+elevation, likely due to renal disease.  She had no further 
+chest pain and no new wall motion abnormalities were seen on 
+TTE, so ongoing ischemia was not suspected.
+
+4. MITRAL VALVE VEGETATION: An echodensity was seen on the 
+mitral valve on her ___ TTE.  Given her history of 
+osteomyelitis, endocarditis was suspected and she was started 
+empirically on vancomycin. ID was consulted.  Though her 
+inflammatory markers were elevated, she had no fevers or 
+peripheral sequelae of endocarditis, and so the suspicion of 
+endocarditis fell.  Antibiotics were stopped and she remained 
+afebrile and asymptomatic.  Blood cultures were negative.  A TEE 
+was not pursued.  On further review of echo images, it is 
+unclear if this density is new.
+
+5. HYPERTENSION:  She presented with systolic blood pressures to 
+the 160s-170s.  Her metoprolol was switched to labetalol for 
+enhanced blood pressure control, which was uptitrated to maximal 
+400mg BID.  Her pressures improved to about 140s systolic, 
+requiring intermittent hydralazine.  Her labetalol was decreased 
+to 200mg BID on discharge due to orthostasis.  She continued 
+amlodipine and losartan.  She is at high risk for sleep apnea 
+which also may be contributing to her hypertension, and she 
+would benefit from outpatient testing.
+
+6. ORTHOSTATIC HYPOTENSION:  She had asymptomatic orthostatic 
+hypotension for the last few days of admission, which was felt 
+to be related to aggressive diuresis, aggressive beta blockade, 
+or autonomic dysfunction from diabetes.  Her labetalol was 
+decreased to 200mg BID.  She was ambulating around the floor 
+without difficulty, and was discharged with close followup.
+
+INACTIVE ISSUES:
+7. DIABETES MELLITUS, TYPE II:  She was continued on her home 
+lantus/humalog sliding scale with good control.  Continued 
+neurontin for neuropathy, and reglan for gastroparesis.
+8. ANEMIA: Her hematocrit remained in the low ___.  
+Erythropoetin was discontinued though she remained on iron 
+supplementation.
+9. HYPERPARATHYROIDISM: PTH mildly elevated at 72 this ___. 
+Remained on calcium carbonate for calcium supplementation and 
+phosphate binding.
+10. DEPRESSION: continued sertraline
+11. GERD: continued omeprazole
+12. HYPERLIPIDEMIA: continued atorvastatin
+13. LEFT ANKLE OSTEOMYELITIS:  No clinical evidence of ongoing 
+infection with normal WBC count and a lack of fevers.  Continued 
+dilaudid for pain control.
+
+PENDING TESTS AT DISCHARGE: NONE
+
+TRANSITIONAL CARE ISSUES:
+-___ clinic followup
+-obstructive sleep apnea testing
+ 
+Medications on Admission:
+Torsemide 100 mg daily
+Losartan 100 mg daily
+Isosorbide Mononitrate SR 120 mg BID
+Omeprazole 20 mg BID
+Lantus 22 units qhs
+Metolazone 2.5 mg qMWF
+Lorazepam 1 mg qid prn anxiety
+Amlodipine 10 mg daily
+Metoprolol Succinate 100 mg daily
+MVI 1 tab daily
+Metoclopramide 5 mg QID before meals and bedtime
+Ferrous Gluconate 324 mg daily
+ASA 325 mg daily
+Nitroglycerin SL prn
+Insulin lispro sliding scale
+Sertraline 100 mg daily
+Neurontin 300 mg TID
+Lipitor 80 mg daily
+Dilaudid 2mg BID
+ 
+Discharge Medications:
+1. torsemide 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. isosorbide mononitrate 120 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO twice a day.  
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. Lantus 100 unit/mL Solution Sig: ___ (22) units 
+Subcutaneous at bedtime.  
+6. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO every MWF: 
+please take a half-hour prior to torsemide.  
+7. lorazepam 1 mg Tablet Sig: One (1) Tablet PO four times a day 
+as needed for anxiety.  
+8. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. labetalol 200 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+10. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. metoclopramide 5 mg Tablet Sig: One (1) Tablet PO with meals 
+and at bedtime.  
+12. ferrous gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+13. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+14. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tab 
+Sublingual PRN: may repeat every 5 minutes for chest pain, up to 
+three doses.  ___ call MD if pain does not resolve.  
+15. Humalog  Subcutaneous
+16. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+17. gabapentin 300 mg Capsule Sig: One (1) Capsule PO every 
+eight (8) hours.  
+18. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+19. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO TID (3 times a day).  
+20. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO twice a day 
+as needed for pain.  
+21. Outpatient Lab Work
+please draw Chem10 on ___ and fax to the 
+following offices:
+Dr. ___ ___ Dr. ___ ___ 
+Dr. ___ ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on chronic diastolic heart failure exacerbation
+diabetes mellitus
+hypertension
+hyperlipidemia
+coronary artery disease
+chronic kidney disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ to treat an exacerbation of your 
+congestive heart failure that we suspect was due to the 
+medication Procrit that you started a few months ago.  We were 
+able to slowly remove fluid from your lungs and legs with 
+intravenous diuretics with resolution of your symptoms. We will 
+be sending you home on the same diuretic regimen of torsemide 
+100mg daily and metolazone 2.5mg every MWF.  Your procrit was 
+stopped.
+
+An echocardiogram showed a possible growth on one of your heart 
+valves.  Consultation with the infectious disease doctors was 
+___, and they did not think this was an infection called 
+endocarditis.
+
+It is extremely important that you weigh yourself every day.  
+Please call your doctor if your weight goes up more than 3lb.  
+Also, please avoid salty foods as this will help prevent further 
+exacerbations and long hospital stays!
+
+The following changes were made to your medications:
+1. STOP PROCRIT
+2. STOP metoprolol succinate
+3. START LABETALOL 400mg twice a day to help control your blood 
+pressure
+
+It was a pleasure taking care of you, ___
+ 
+___ Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-24 | hadm_id=27410692
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+gangrene of right long finger
+ 
+Major Surgical or Invasive Procedure:
+___ - right long finger amputation
+
+ 
+History of Present Illness:
+___ h/o CAD s/p CABG x4, multiple cardiac stents, ESRD on PD, 
+DM2, LLE osteomyelitis and gangrene of multiple digits of the 
+right hand s/p right ___ finger amputation on ___ presenting 
+with painful right ___ digit. Patient states she began 
+experiencing severe pain in the ___ digit of the right hand 
+approximately 3 days ago. She describes sharp, constant ___ 
+pain. The finger has become increasingly swollen and 
+erythematous, with the distal portion of the finger now black 
+and necrotic. The finger had previously had purple discoloration 
+at the tip but was not necrotic on discharge on ___. She 
+endorses nausea over the last two days, but denies fever, 
+chills, diarrhea, constipation or other associated symptoms.
+ 
+Past Medical History:
+PMH: CAD s/p CABG and multiple cath/stents, DM2 c/b retinopathy 
+and neuropathy, HTN, HL, dCHF, ESRD on PD, obesity, LLE charcot 
+ankle c/b osteomyelitis ___ s/p debridement, dieulafoy's lesion 
+c/b massive GI bleed
+
+PSH: CABG x5v ___, PD catheter placement 
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+Vital Signs: Temp: 98.2 RR: 20 Pulse: 76 BP: 107/61  
+Neuro/Psych: Oriented x3, Affect Normal, NAD. 
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No 
+left
+carotid bruit. 
+Heart: Regular rate and rhythm. 
+Lungs: Clear, Normal respiratory effort. 
+Gastrointestinal: Non distended, No masses, Guarding or rebound,
+No hepatosplenomegally, No hernia, No AAA. 
+Extremities: RUE: ___ digit amp site, well healin sutures in
+place, ___ digit black, necrotic at distal tip, ___ digit
+swollen, TTP, distal segment black and necrotic 
+ 
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: D. Ulnar: D. 
+LUE Radial: D. Ulnar: D. 
+ 
+Pertinent Results:
+___ 04:20PM   GLUCOSE-101* UREA N-67* CREAT-8.4*# 
+SODIUM-133 POTASSIUM-5.2* CHLORIDE-89* TOTAL CO2-26 ANION 
+GAP-23*
+___ 04:20PM   estGFR-Using this
+___ 04:20PM   CALCIUM-9.5 PHOSPHATE-6.5*# MAGNESIUM-2.1
+___ 04:20PM   %HbA1c-6.0* eAG-126*
+___ 04:20PM   WBC-15.9* RBC-3.12* HGB-9.6* HCT-30.3* 
+MCV-97# MCH-30.9 MCHC-31.8 RDW-16.8*
+___ 04:20PM   PLT COUNT-629*#
+___ 04:20PM   ___ PTT-34.6 ___
+
+Chemistries 
+
+___ 04:20PM BLOOD Glucose-101* UreaN-67* Creat-8.4*# Na-133 
+K-5.2* Cl-89* HCO3-26 AnGap-23*
+___ 08:20AM BLOOD Glucose-127* UreaN-61* Creat-8.5* Na-130* 
+K-4.5 Cl-87* HCO3-26 AnGap-22*
+___ 07:30AM BLOOD Glucose-104* UreaN-56* Creat-8.0* Na-129* 
+K-4.5 Cl-86* HCO3-24 AnGap-24*
+___ 03:19AM BLOOD Glucose-127* UreaN-50* Creat-7.8* Na-129* 
+K-4.3 Cl-86* HCO3-25 AnGap-22*
+___ 07:25AM BLOOD Glucose-168* UreaN-46* Creat-7.4* Na-129* 
+K-3.9 Cl-86* HCO3-27 AnGap-20
+___ 07:57AM BLOOD Glucose-119* UreaN-40* Creat-7.1* Na-129* 
+K-3.5 Cl-88* HCO3-29 AnGap-16
+___ 07:46AM BLOOD Glucose-117* UreaN-38* Creat-7.3* Na-128* 
+K-3.6 Cl-87* HCO3-25 AnGap-20
+___ 04:00AM BLOOD Glucose-105* UreaN-39* Creat-7.3* Na-130* 
+K-3.9 Cl-92* HCO3-25 AnGap-17
+
+CBCs
+
+___ 04:20PM BLOOD WBC-15.9* RBC-3.12* Hgb-9.6* Hct-30.3* 
+MCV-97# MCH-30.9 MCHC-31.8 RDW-16.8* Plt ___
+___ 08:20AM BLOOD WBC-16.3* RBC-2.90* Hgb-9.1* Hct-28.6* 
+MCV-99* MCH-31.3 MCHC-31.7 RDW-17.0* Plt ___
+___ 07:30AM BLOOD WBC-13.9* Hct-29.4* Plt ___
+___ 03:19AM BLOOD WBC-16.4* RBC-2.97* Hgb-8.9* Hct-29.0* 
+MCV-98 MCH-30.0 MCHC-30.8* RDW-16.9* Plt ___
+___ 07:25AM BLOOD WBC-17.4* RBC-2.97* Hgb-8.8* Hct-28.5* 
+MCV-96 MCH-29.7 MCHC-30.9* RDW-16.5* Plt ___
+___ 07:57AM BLOOD WBC-16.4* RBC-3.00* Hgb-9.2* Hct-29.2* 
+MCV-97 MCH-30.7 MCHC-31.7 RDW-16.6* Plt ___
+___ 07:46AM BLOOD WBC-18.0* RBC-2.86* Hgb-8.8* Hct-27.5* 
+MCV-96 MCH-30.8 MCHC-32.0 RDW-16.6* Plt ___
+___ 04:00AM BLOOD WBC-16.9* RBC-2.95* Hgb-9.0* Hct-28.4* 
+MCV-96 MCH-30.4 MCHC-31.5 RDW-16.4* Plt ___
+
+LUE U/S ___ for LUE swelling: no DVT
+ 
+Brief Hospital Course:
+___ admitted on ___ due to worsening right long finger 
+gangrene.  She empirically was started on broad spectrum 
+antibiotics.  She was also started on a heparin drip.  Her 
+hospital course was realtively benign.  On ___ she developed 
+LUE swelling, but an U/S showed no DVT.  As such, warm 
+compresses and limb elevation were applied to the affected area 
+with good effect.
+
+By ___, it was clear that the demarcation had completed.  As 
+such, we amputated her right long finger all the way to the 
+metacarpophalangeal joint space.  She tolerated the conscious 
+sedation and procedure well, and was shortly thereafter brought 
+to the PACU and subsequently to the floor.  Her diet was 
+advanced, and she had good pain control.  We resumed her heparin 
+drip and commenced warfarin therapy.  She was not a candidate 
+for enoxaparin, and so we had to keep her here until she became 
+therapeutic on warfarin.  Once she achieved her goal INR, she 
+was discharged home in stable condition with instructions to 
+follow up with Dr. ___ as an outpatient in 2 weeks time.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Ezetimibe 10 mg PO DAILY 
+3. Ferrous GLUCONATE 324 mg PO DAILY 
+4. Gabapentin 100 mg PO BID 
+5. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+6. Glargine 12 Units Breakfast
+Glargine 36 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+7. Lorazepam 1 mg PO DAILY:PRN anxiety 
+8. Metoclopramide 5 mg PO QIDACHS 
+9. Midodrine 10 mg PO BID 
+10. Nephrocaps 1 CAP PO DAILY 
+11. Omeprazole 40 mg PO DAILY 
+12. Rosuvastatin Calcium 40 mg PO DAILY 
+13. Sertraline 100 mg PO DAILY 
+14. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+15. Minocycline 100 mg PO BID 
+16. Docusate Sodium 100 mg PO BID 
+17. Nystatin Cream 1 Appl TP BID 
+18. Senna 1 TAB PO BID:PRN constipation 
+19. Gentamicin 0.1% Cream 1 Appl TP TID 
+20. Epoetin Alfa 30,000 U SC EVERY 2 WEEKS 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. Epoetin Alfa 30,000 U SC EVERY 2 WEEKS 
+4. Ezetimibe 10 mg PO DAILY 
+5. Ferrous GLUCONATE 324 mg PO DAILY 
+6. Gabapentin 100 mg PO BID 
+7. Gentamicin 0.1% Cream 1 Appl TP TID 
+8. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every ___ hours 
+Disp #*40 Tablet Refills:*0
+9. Lorazepam 1 mg PO DAILY:PRN anxiety 
+10. Metoclopramide 5 mg PO QIDACHS 
+11. Midodrine 10 mg PO BID 
+12. Nephrocaps 1 CAP PO DAILY 
+13. Nystatin Cream 1 Appl TP BID 
+14. Omeprazole 40 mg PO DAILY 
+15. Rosuvastatin Calcium 40 mg PO DAILY 
+16. Senna 1 TAB PO BID:PRN constipation 
+17. Sertraline 100 mg PO DAILY 
+18. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+19. Amoxicillin-Clavulanic Acid ___ mg PO Q24H Duration: 5 Days 
+RX *amoxicillin-pot clavulanate 500 mg-125 mg 1 tablet(s) by 
+mouth every 24 hours Disp #*5 Tablet Refills:*0
+20. Bisacodyl 10 mg PO BID 
+21. Acetaminophen 650 mg PO Q6H pain 
+22. Glargine 12 Units Breakfast
+Glargine 36 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+23. Warfarin 3 mg PO DAILY16 
+  
+RX *warfarin 3 mg 1 tablet(s) by mouth daily at 4 pm Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+wet gangrene of right long finger
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mrs. ___, you were admitted for a worsening infection in 
+your right long finger, which we had to amputate.  You recovered 
+from this procedure very nicely and are ready to go home.  
+Please continue to take your warfarin and be sure to follow up 
+with your primary care provider for INR checks.  Taking care of 
+you was our pleasure; we look forward to seeing you as an 
+outpatient.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-13 | hadm_id=28386167
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abnormal labs  
+
+ 
+Major Surgical or Invasive Procedure:
+trans-esophageal echocardiogram
+
+ 
+History of Present Illness:
+___ year old female with CAD s/p CABG, poorly controlled IDDM, 
+presenting for evaluation of elevated ESR and WBC. The patient 
+has a complicated cardiac history (see below) and was found to 
+have a new holosystolic murmur on an admission for 
+gastroenteritis in early ___. Echocardiogram at that time 
+did not reveal any concerning lesions, and the patient was 
+hydrated and discharged. She was re-admitted ___ for CHF 
+exacerbation and was successfully diuresed.  
+.  
+During the first ___ admission, she was found to have a UTI and 
+was treated with 3 days of Bactrim. She continued to have low 
+grade fevers and her PCP gave her an additional 7 days of 
+Bactrim treatment. During the last hospitalization, her low 
+grade fevers persisted and she was treated with a 7 day course 
+of Ciprofloxacin after UCx demonstrated coag neg staph--last 
+dose yesterday. Her fevers resolved early during the cipro 
+course and she has been afebrile since.  
+.  
+Her PCP wanted repeat blood work for evaluation after treatment 
+of the UTI. Her WBC was elevated, yet felt well. Her 
+cardiologist was contacted and the patient was admitted for TEE 
+to rule out endocarditis.  
+.  
+In the ED, initial vitals were 98.3, 137//63, 70, 16, 98% RA. 
+Blood cultures taken, but given lack of fever and no clear 
+diagnosis, no antibiotics were started. She was admitted for 
+TEE.  
+
+ 
+Past Medical History:
+ 
+- DM2 (___) c/b neuropathy/retinopathy, HbA1C 14.5 in ___,  
+- hypertension  
+- dyslipidemia  
+- CAD - s/p CABG ___ (___->LAD, SVG-PDA, SVG->OM1, SVG->OM2, 
+SVG-  
+>D1), c/b sternal wound infection, with all saphenous vein 
+grafts  
+known to be occluded and multiple PCI/stents to the LCx and OM1  
+
+with recurrent occlusion and eventual decision for medical  
+management (good collateralization)  
+-Repeat catheterization on ___ showing all vein grafts  
+occluded and 80% mid circumflex stenosis, and 70% OM1 stenosis  
+status post 2.5-mm stents;  
+-Catheterization on ___: done for recurrent angina,  
+occluded proximal OM with in-stent restenosis, status post PTCA  
+
+and brachytherapy.  
+-Recurrent symptoms on ___ showing 99% ISR of OM1 status  
+post Cypher DES, and 80% ISR of mid circumflex status post CES,  
+
+-Catheterization ___ for recurrent symptoms showing 70%  
+diffuse lesion distal to the stent in the proximal OM, status  
+post 2.5 x 18 mm drug-eluting stent; most recent cardiac  
+catheterization as described below.  
+- left great toe ulcer since ___.  
+- depression.  
+
+ 
+Social History:
+___
+Family History:
+family history of premature coronary artery disease (father, MI 
+___, no h/o sudden death
+ 
+Physical Exam:
+T 98.0 BP 120/76 HR 78 rr 16
+Gen: obese female asleep, easily woken, but falls asleep during 
+inteview. Oriented x3. Mood, affect appropriate.  
+HEENT: OP clear  
+Neck: Unable to visualize JVP  
+CV: RRR, III/VI SM at ___, nonradiating  
+Chest: CTAB  
+Abd: Soft, NTND. No HSM or tenderness. obese  
+Ext: No c/c/e. No femoral bruits. No evidence of distal emboli  
+ 
+ 
+Pertinent Results:
+___ 03:45PM   ___ PTT-29.2 ___
+___ 09:56AM   ___
+___ 04:45AM URINE  HOURS-RANDOM
+___ 04:45AM URINE  UHOLD-HOLD
+___ 04:45AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 04:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 04:45AM URINE  RBC-<1 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 04:45AM URINE  MUCOUS-RARE
+___ 01:33AM   LACTATE-0.8
+___ 12:25AM   estGFR-Using this
+___ 12:25AM   IRON-30
+___ 12:25AM   calTIBC-376 FERRITIN-37 TRF-289
+___ 12:25AM   WBC-13.5* RBC-3.87* HGB-9.7* HCT-30.5* 
+MCV-79* MCH-25.1* MCHC-31.8 RDW-14.6
+___ 12:25AM   NEUTS-71.5* BANDS-0 ___ MONOS-3.7 
+EOS-2.2 BASOS-0.4
+___ 12:25AM   HYPOCHROM-2+ ANISOCYT-OCCASIONAL 
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+___ 12:25AM   PLT COUNT-638*
+___ 12:25AM   SED RATE-150*
+ 
+Brief Hospital Course:
+Hospital Course: ___ yo female with CAD s/p CABG, poorly 
+controlled DM presenting for further evaluation of leukocytosis. 
+ 
+.  
+1. Leukocytosis: The patient has a low grade leukocytosis and 
+elevated ESR in the setting of new murmur. The patient was 
+admitted for a TEE which was performed and was negative. She 
+will follow up with her PCP, ___ (___) 
+for further evaluation of her leukocytosis. Dr. ___ was 
+contacted and told the results of the patient's TEE and has 
+scheduled follow-up for ___.
+.  
+2. CAD/CHF: The patient was continued on her outpatient meds, 
+including aspirin, plavix, statin, beta blocker, ace, lasix. 
+.  
+3. DM: The patient was continued on her home regimen of glargine 
+45 u qhs and SSI. She was encouraged to follow-up with ___ on 
+discharge.
+.  
+4. Hyperkalemia: The patient was taken off her potassium 
+repletion. She was continued on her home lisinopril and will 
+have her lytes followed up by her PCP.
+.  
+5. Hypertension: The patient was continued on her outpatient 
+regimen.  
+.  
+6. Hyperlipidemia: The patient was continued on her zetia and 
+statin.  
+.  
+7. FEN: The patient was NPO and then placed on a cardiac diet.
+.  
+9. PPx: The patient was continued on heparin sc. 
+.  
+10. Code: FULL CODE.  
+
+ 
+Medications on Admission:
+ 
+1. Norvasc 10 mg a day.  
+2. Aspirin 325 mg once daily.  
+3. Plavix 75 mg once daily.  
+4. Zetia 10 mg once daily.  
+5. Lasix 40 mg once daily.  
+6. Neurontin 300 mg three times a day.  
+7. Imdur 30 mg daily.  
+8. Zestril 20 mg daily.  
+9. Lopressor 50 mg b.i.d.  
+10. Sublingual nitroglycerin.  
+11. Potassium 20 mEq.  
+12. Zoloft 50 mg daily.  
+
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+9. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+11. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: PER 
+HOME SLIDING SCALE PER HOME SLIDING SCALE Subcutaneous four 
+times a day: PER HOME SLIDING SCALE.  
+12. Insulin Glargine 300 unit/3 mL Insulin Pen Sig: ___ 
+(45) units Subcutaneous at bedtime.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+leukocytosis
+
+ 
+Discharge Condition:
+Stable. The patient is afebrile and asymptomatic.
+
+ 
+Discharge Instructions:
+Take all medications as prescribed.
+
+Follow-up with your primary care physician as below.
+
+Please call your doctor or return to the emergency room if you 
+experience:
+--fever or chills
+--chest pain
+--shortness of breath
+--abdominal pain
+--joint pain
+--any other symptom that concerns you
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-23 | hadm_id=28492994
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril / difficult intubation requires 
+LMA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right ___ finger gangrene
+ 
+Major Surgical or Invasive Procedure:
+R ___ digit amputation
+
+ 
+History of Present Illness:
+___ w/ h/o CAD s/p CABG x4, multiple cardiac stents, ESRD on PD, 
+DM2, and LLE osteomyelitis with gangrene of the ___ finger of 
+the right hand secondary to atheroembolic disease. 
+ 
+Past Medical History:
+PMH: CAD s/p CABG and multiple cath/stents, DM2 c/b retinopathy 
+and neuropathy, HTN, HL, dCHF, ESRD on PD, obesity, LLE charcot 
+ankle c/b osteomyelitis ___ s/p debridement, dieulafoy's lesion 
+c/b massive GI bleed
+
+PSH: CABG x5v ___, PD catheter placement 
+
+ 
+Social History:
+___
+Family History:
+significant for CAD
+ 
+Physical Exam:
+Vitals: 98.7 78 102/51 18 100 RA
+Gen: NAD, AOx3
+CV: RRR, no murmurs
+Pulm: CTAB, unlabored
+Abd: soft, nontender, nondistended, pd cath in place
+Ext: WWP lower extremities, minimal edema. BUE faintly palpable
+radial pulses  RUE: ___ digit amp site CDI, no erythema, ___ 
+digit with ulceration on lateral aspect and ___ and ___ digit w/ 
+dark purple discoloration at the distal aspects and slow 
+capillary refill, tender to palpation
+ 
+Pertinent Results:
+___ 10:38AM   K+-3.8
+ 
+Brief Hospital Course:
+Patient was admitted to ___ for an elective right hand ___ 
+digit amputation. The procedure was uncomplicated, please see 
+the dictated operative report for details of the procedure. She 
+was transferred from the PACU in good contion and admitted to 
+the floor for observation. 
+
+A nephrology consult was placed post-operatively for management 
+of her peritoneal dialysis. She underwent peritoneal dialysis on 
+the floor without complication. On POD 1 she was ambulatory, 
+tolerating a regular diet and her pain was well controlled on 
+oral pain medications. The wound was examined and was clean, dry 
+and intact with no evidence of erythema. She was discharged home 
+on POD 1 in good condition. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rosuvastatin Calcium 40 mg PO DAILY 
+2. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+3. Ezetimibe 10 mg PO DAILY 
+4. Ferrous GLUCONATE 324 mg PO DAILY 
+5. Lorazepam 1 mg PO DAILY:PRN anxiety 
+6. Nystatin Cream 1 Appl TP BID 
+7. Midodrine 10 mg PO BID 
+8. Sertraline 100 mg PO DAILY 
+9. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+10. Warfarin 2 mg PO DAILY16 
+Please start this dose on ___. Follow INR closely while on 
+coumadin and adjust dose as needed 
+11. Senna 1 TAB PO BID:PRN constipation 
+12. Glargine 12 Units Breakfast
+Glargine 36 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+13. Nephrocaps 1 CAP PO DAILY 
+14. Aspirin 325 mg PO DAILY 
+15. Gabapentin 100 mg PO BID 
+16. Omeprazole 40 mg PO DAILY 
+17. Metoclopramide 5 mg PO QIDACHS 
+18. Docusate Sodium 100 mg PO BID 
+19. Gentamicin 0.1% Cream 1 Appl TP TID 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Ezetimibe 10 mg PO DAILY 
+3. Ferrous GLUCONATE 324 mg PO DAILY 
+4. Gabapentin 100 mg PO BID 
+5. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*40 Tablet Refills:*0
+6. Glargine 12 Units Breakfast
+Glargine 36 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+7. Lorazepam 1 mg PO DAILY:PRN anxiety 
+8. Metoclopramide 5 mg PO QIDACHS 
+9. Midodrine 10 mg PO BID 
+10. Nephrocaps 1 CAP PO DAILY 
+11. Omeprazole 40 mg PO DAILY 
+12. Rosuvastatin Calcium 40 mg PO DAILY 
+13. Sertraline 100 mg PO DAILY 
+14. sevelamer CARBONATE 2400 mg PO TID W/MEALS 
+15. Minocycline 100 mg PO BID Duration: 7 Days 
+RX *minocycline [Dynacin] 100 mg 1 tablet(s) by mouth twice a 
+day Disp #*13 Capsule Refills:*0
+16. Docusate Sodium 100 mg PO BID 
+17. Nystatin Cream 1 Appl TP BID 
+18. Senna 1 TAB PO BID:PRN constipation 
+19. Warfarin 2 mg PO DAILY16 
+20. Gentamicin 0.1% Cream 1 Appl TP TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+right hand ___ digit gangrene
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+MEDICATIONS: 
+•Take your medications as prescribed in your discharge 
+•Take pain medication as needed / as prescribed
+•Remember that narcotic pain medication can be constipating.  
+Increase your fiber intake 
+ACTIVITY: 
+•You should avoid using your right hand as much as possible
+•You should keep this amputation site elevated when ever 
+possible. 
+•No heavy lifting greater than 20 pounds for the next ___ days. 
+BATHING/SHOWERING: 
+•You may shower tomorrow
+•No tub baths or pools / do not soak your foot for 4 weeks from 
+your date of surgery 
+WOUND CARE:
+•Your sutures will be removed at your follow up appointment in 
+3 weeks.
+•When the sutures are removed the doctor may or may not place 
+pieces of tape called steri-strips over the incision. These will 
+stay on about a week and you may shower with them on. If these 
+do not fall off after 10 days, you may peel them off with warm 
+water and soap in the shower.
+CAUTIONS:
+•If you smoke, please make every attempt to quit.  Your primary 
+care physician can help with this.  Smoking causes narrowing of 
+your blood vessels which in turn decreases circulation.  
+DIET:
+•Low fat, low cholesterol / if you are diabetic – follow your 
+dietary restrictions as before 
+CALL THE OFFICE FOR: ___
+•Bleeding, redness of, or drainage from your hand wound
+•New pain, numbness or discoloration of the skin on the 
+effected hand
+•Fever greater than 101 degrees, chills, increased redness, or 
+pus draining from the incision site. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-20 | hadm_id=28794243
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin / Lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ woman with a history of coronary artery disease and 
+CABG surgery at age ___, heart failure with preserved LVEF on 
+home oxygen at 2L, DM, CKD, and chronic anemia who presents with 
+worsening shortness of breath and left-sided chest pain. 
+Shortness of breath has worsened since ___ ___ last night with 
+increasing oxygen requirement up to 3 L. Chest pain started at 1 
+a.m. constant, nonradiating.
+  
+In the ED, initial vitals were 97.4 71 115/55 18 97% 3L Nasal 
+Cannula 
+Labs  significant for a HCT of 19.9. Troponin of 0.29.  
+EKG: showed TWI I, AVL, V5-6, no change from prior. Chest x-ray 
+was c/w fluid overload. She was treated with Aspirin, SL nitro x 
+1, morphine x 4mg. She was transfused 1 unit of pRBCs. 
+  
+On arrival to the floor, her chest pain has improved, currently 
+___ down from ___. She also feels less short of breath. The 
+patient weights 224.9lbs which is about 15 pounds above her 
+reported dry weight of 210 pounds.  
+
+ 
+Past Medical History:
+-CAD s/p CABG ___ (LIMA to LAD, SVG to PDA, OM1, OM2, D1) 
+Cath ___ all SVG occluded, stent to Lcx,Om1. Cath ___ ISR, 
+brachytherapy. ___ stents to OM1, LCx. ___ OM occluded.
+-DMII c/b retinopathy, neuropathy
+-HTN
+-HL
+-dCHF EF 55%
+-Chronic renal failure
+-Obesity
+-charcot ankle on left with osteomyelitis ___
+-Intestinal Dieulafoy's (Hemorrhagic) Lesion
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker. 
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was diagnosed with breast cancer in her ___ and her 
+aunt was in her ___. There is no other family history of cancer.
+ 
+Physical Exam:
+Physical Exam on admission:
+VS: 140/71, 72, 16, 92% 3L
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate. 
+Husband at bedside.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple  
+CARDIAC: RR, normal S1, S2. ___ systolic murmur. No thrills, 
+lifts. No S3 or S4.  
+LUNGS: Decreased breath sounds at bases bilaterally. No 
+accessory muscle use. 
+ABDOMEN: Soft, Protuberant Abdomen. Nontender. No HSM. Abd aorta 
+not enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: Left foot swollen but at baseline per patient. 
+Trace edema to ankle. Open wound on left leg. 
+RECTAL: Guiac negative in the ED 
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ 
+
+Physical Exam on discharge:
+VS: 98.8/98.8, 126-173/69-76, 18, 92% 3L (Weight 97.2 kg)
+GENERAL: NAD. Oriented x3. Mood, affect appropriate. Husband at 
+bedside.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple  
+CARDIAC: RR, normal S1, S2. ___ systolic murmur. No thrills, 
+lifts. No S3 or S4.  
+LUNGS: Decreased breath sounds at bases bilaterally, no crackles 
+noted today. No accessory muscle use. 
+ABDOMEN: Soft, Protuberant Abdomen. Nontender. No HSM. Abd aorta 
+not enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: Left foot swollen but at baseline per patient. 
+Trace edema to ankle. Open wound on left leg. 
+RECTAL: Guiac negative in the ED 
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+Labs on admission:
+
+___ 06:10PM BLOOD WBC-9.9 RBC-2.77* Hgb-8.1* Hct-23.9* 
+MCV-87 MCH-29.1 MCHC-33.7 RDW-16.5* Plt ___
+___ 06:25AM BLOOD Glucose-237* UreaN-102* Creat-3.8* Na-138 
+K-5.1 Cl-96 HCO3-29 AnGap-18
+___ 06:25AM BLOOD LD(LDH)-205 CK(CPK)-77
+___ 06:10PM BLOOD ALT-16 AST-16 LD(LDH)-210 CK(CPK)-90 
+AlkPhos-117* TotBili-0.6
+___ 07:34AM BLOOD CK(CPK)-73
+___ 06:25AM BLOOD CK-MB-4 ___
+___ 06:25AM BLOOD cTropnT-0.29*
+___ 10:32AM BLOOD cTropnT-0.28*
+___ 06:10PM BLOOD CK-MB-5 cTropnT-0.36*
+___ 07:34AM BLOOD CK-MB-3 cTropnT-0.32*
+___ 07:34AM BLOOD TotProt-6.9 Calcium-8.8 Phos-5.4* Mg-2.6
+___ 06:25AM BLOOD calTIBC-241* VitB12-1375* Folate-GREATER 
+TH Hapto-363* Ferritn-374* TRF-185*
+___ 07:34AM BLOOD C3-176 C4-49*
+___ 07:34AM BLOOD HCV Ab-NEGATIVE
+
+CXR ___:
+IMPRESSION: Mild edema. Left basilar opacity could be due to 
+edema, but 
+infection, atelectasis or infarction are also possible. If there 
+is any 
+clinical concern for pulmonary embolus, CT of the chest should 
+be obtained 
+
+Labs on discharge:
+
+___ 07:45AM BLOOD WBC-10.4 RBC-3.28* Hgb-9.6* Hct-27.5* 
+MCV-84 MCH-29.3 MCHC-35.0 RDW-15.0 Plt ___
+___ 07:20AM BLOOD Glucose-112* UreaN-96* Creat-3.7* Na-143 
+K-4.4 Cl-99 HCO3-33* AnGap-15
+___ 07:20AM BLOOD Calcium-9.4 Phos-5.7* Mg-2.___SSESSMENT AND PLAN: ___ woman with a history of 
+coronary artery disease and CABG surgery at age ___, heart 
+failure with preserved LVEF on home oxygen at 2L, DM, CKD, and 
+chronic anemia who presents with worsening shortness of breath 
+and left-sided chest pain.  
+  
+# Demand Ischemia:  Chest pain likely represented demand 
+ischemia in the setting of anemia and volume overload. Chest 
+pain quickly dissipated and her breathing improved once pt was 
+given 3 units of pRBCs for her anemia and diuresed (-7 L over 
+the hopsitalization) with a lasix drip.  Troponins were mildly 
+elevated above baseline but in the setting of worsened renal 
+function and anemia, this bump was most likely ___ demand 
+ischemia and not ACS. We continue her home home meds of ASA, 
+atorvastatin and labetalol.
+  
+# Acute on Chronic Diastolic Heart Failure: Pt was about 15 
+pounds above dry weight on admission.  She diuresed well with a 
+lasix gtt and home metolazone dose and was down 5.2 kg on 
+dischaerge.  We did switch her back to her home diuretic regimen 
+of torsemide 100 mg po and metolazone 2.5 mg daily the day 
+before discharge.   
+
+# Hypertension:  Pt remained hypertension during much of the 
+admission with SBP's as high as the 170's.  We did incrwased her 
+home labetalol dose to 400 mg bid with minimal improvement.  A 
+main barrier to further BP control was that she remained 
+orthostatic (80's/50's when standing) although was aymptomatic.  
+We believe that the orthostasis may be related to her 
+longstanding diabetes, as well as possible over-diuresis.  We 
+sent the pt home on her normal blood pressure regimen, with 
+instructions on managing her orthostasis.
+  
+# Anemia: Hct on admission was 19.  Pt was given 3 untis of 
+pRBC's and had an appropriate hct increase.  She reamined stable 
+in the ___ range for the rest of the hospitalization.  She has 
+required multiple transfusions in the past. Prior hematology 
+workup suggested it was secondary to AOCD/renal disease.  Iron 
+studies on this admission also suggest that it is secondary to 
+AOCD. She was previously on Procrit but this was stopped due to 
+concern for exacerbating heart failure.  I spoke with Dr. ___ 
+___ possibly restarting procit with a modest goal of ___ in 
+an attempt to prevent further episodes of demand ischemia. 
+  
+# Acute on Chronic Kidney Disease: Cr remained in 3.6 -3.9 range 
+during admission.  FEurea of 31 which was consistent with 
+pre-renal etiology, likely from poor perfusion to kidneys from 
+worsening CHF. She also has nephrotic range proteinuria which 
+was also present in ___. This is most likely diabetic 
+nephrosclerosis.  She will follow-up with her nephrologist Dr. 
+___.
+  
+# Diabetes mellitus: Blood glucose well-controlled on Lantus 
+from 20 qHS and humalog sliding scale.
+
+ 
+Medications on Admission:
+Amlodpine 10mg qPM
+Atorvastatin 80mg qPM
+Gabapentin 300mg TID
+Hydromorphone 2mg BID PRN
+Lantus 18u SC qhs
+Humalog Sliding scale 
+Isosorbide mononitrate ER 60mg daily
+Labetatlol 200mg BID
+Lorazepam 1mg PRN
+Losartan 25mg daily
+Metoclopramide 5mg PO QID
+Metolazone 2.5mg on ___
+Omeprazole 20mg PO BID
+Sertraline 100mg PO Daily
+Torsemide 100mg PO Daily
+Aspirin 325mg PO Daily
+Ferrous Gluconate 324mg PO daily
+Magnesium 400mg PO daily
+Centrum Silver once daily
+
+ 
+Discharge Medications:
+1. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+3. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+4. insulin lispro 100 unit/mL Solution Sig: One (1)  
+Subcutaneous at bedtime: please take 18 units at bedtime.  
+5. Humalog 100 unit/mL Solution Sig: One (1)  Subcutaneous three 
+times a day: sliding scale.  
+6. isosorbide mononitrate 60 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+7. labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+8. lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for anxiety.  
+9. metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+10. losartan 25 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. metolazone 2.5 mg Tablet Sig: One (1) Tablet PO QMOWEFR: 
+Take on ___ and ___.  
+12. omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+13. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+14. torsemide 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+15. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+16. ferrous gluconate 325 mg (37.5 mg iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+17. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+18. Centrum Silver     Tablet Sig: One (1) Tablet PO once a day. 
+ 
+19. Dilaudid 2 mg Tablet Sig: ___ Tablet PO twice a day as 
+needed for pain.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CHF exacerbation
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you during your hospitalization 
+here at ___.  You were admitted 
+with worsening shortness of breath and chest pain.  You were 
+also found to have severe anemia and around 15 extra pounds of 
+fluid that had accumulated on your body.  We beleive that the 
+extra fluid as well as your anemia likely caused you to have 
+chest pain and a small amount of damage to your heart muscle.
+   We gave you three units of blood to help correct the enemia 
+and put you on a lasix drip that was successful in removing a 
+large amount of fluid from your body.
+   Your chest pain and shortness improved dramatically with the 
+above therapy. Your blood pressure goes down significantly when 
+you stand up, but you do not seem to have any symptomatic 
+change. Please be careful when standing up, and give yourself 
+time to equilibrate before walking. If you are dizzy while 
+standing, please talk to your cardiologist about stopping one of 
+your blood pressure medications.
+
+You are now safe for discharge home.
+
+MEDICATION CHANGES:
+- Because of your worsening kidney function, please take 
+gabapentin once a day instead of three times a day.
+- Because of your worsening kidney function, you may be more 
+susceptible to sedation from your Dilaudid (hydromorphone). 
+Please be cautious when taking Dilaudid for pain in your foot.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-12 | hadm_id=29546679
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ year-old female with a history CAD s/p CABG 
+(EF=50-55%), HTN, IDDM, hyperlipidemia, who presents for 
+evaluation of new DOE, orthopnea, and ___ edema x 3d. Her 
+symptoms began 3d ago, she denies CP, but notes +palpitations, 
+increased abdominal girth and ___ edema, does not weigh herself 
+daily, new orthopnea (usu sleeps at 30 degrees since CABG, now 
+sleeping upright in chair x3d). DOE occurs with ambulation to 
+bathroom, not at rest. She was seen by her cardiolgist on ___, 
+without sx of heart failure, but noted to have new basal 
+inferior AK on recent TTE.  
+.  
+Of note, pt recently d/c'd from ___ ___ for viral 
+gastroenteritis, dehydration, found to have UTI (increased 
+frequency). At that time she was noted to have new murmur, 
+though TTE showed no vegetation, valvular abnormality, and 
+normal EF. She was discharged on 3d course of bactrim. ~2wk 
+after discharge, she notes fevers to 100.6 daily, last 
+___, she saw her PCP, who obtained UA and started 7d 
+course of bactrim for UTI (prior BI culture polymicrobial).  
+.  
+pt denies recent cp, no recent medication changes, 
+non-compliance, dietary indiscretion. she does note a sensation 
+of heart racing, ___ per day, starting during past hospital 
+admission, typically with exertion, and when lying flat.  
+In the ED, VS= 98.7 79 127/66 20 97%RA (89-95% per ED), her 
+murmur was noted to be prominent, ___ SEM, EKG no ste/std, CE 
+negative x 1, CXR c/w CHF, pt noted to hct ___, guaic 
+negative, K=5.4. UA BCx drawn, given lasix 40mg iv x 1. Pt 
+admitted for workup of CHF and ?endocarditis.  
+
+ 
+Past Medical History:
+- DM2 (___) c/b neuropathy/retinopathy, HbA1C 14.5 in ___,  
+- hypertension  
+- dyslipidemia  
+- CAD - s/p CABG ___ (LIMA->LAD, SVG-PDA, SVG->OM1, SVG->OM2, 
+SVG->D1), c/b sternal wound infection, with all saphenous vein 
+grafts known to be occluded and multiple PCI/stents to the LCx 
+and OM1 with recurrent occlusion and eventual decision for 
+medical management (good collateralization)  
+-Repeat catheterization on ___ showing all vein grafts  
+occluded and 80% mid circumflex stenosis, and 70% OM1 stenosis  
+status post 2.5-mm stents;  
+-Catheterization on ___: done for recurrent angina,  
+occluded proximal OM with in-stent restenosis, status post PTCA  
+
+and brachytherapy.  
+-Recurrent symptoms on ___ showing 99% ISR of OM1 status  
+post Cypher DES, and 80% ISR of mid circumflex status post CES,  
+
+-Catheterization ___ for recurrent symptoms showing 70%  
+diffuse lesion distal to the stent in the proximal OM, status  
+post 2.5 x 18 mm drug-eluting stent; most recent cardiac  
+catheterization as described below.  
+- left great toe ulcer since ___.  
+- depression.  
+ 
+Social History:
+___
+Family History:
+There is +family history of premature coronary artery disease 
+(father, MI ___, no h/o sudden death. 
+ 
+Physical Exam:
+VS - 98.0 115/57 70 16 94%RA 113 kg (UOP 800cc per pt)  
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP of 8 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No r/g. No thrills, lifts. No S3 or S4. ___ 
+SEM @ LSB  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. bilateral basilar 
+rales, no wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: No c/c/e. No femoral bruits.  
+Skin: No stasis dermatitis, or xanthomas. left first toe ulcer 
+~5mm diameter, no drainage or erythema.  
+.  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ ___ 1+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ ___ 1+  
+ 
+Pertinent Results:
+___ 07:45PM BLOOD WBC-9.9 RBC-3.18* Hgb-8.2* Hct-25.1* 
+MCV-79* MCH-25.9* MCHC-32.9 RDW-14.8 Plt ___
+___ 07:45PM BLOOD Neuts-69.2 ___ Monos-4.8 Eos-1.8 
+Baso-0.6
+___ 07:45PM BLOOD Glucose-310* UreaN-20 Creat-1.1 Na-136 
+K-5.4* Cl-98 HCO3-26 AnGap-17
+___ 07:45PM BLOOD LD(LDH)-158 TotBili-0.4 Hapto-600*
+___ 07:45PM BLOOD CK(CPK)-27 CK-MB-NotDone cTropnT-<0.01
+___ 06:50AM BLOOD CK(CPK)-23* cTropnT-<0.01 
+___ 06:50AM BLOOD proBNP-___*
+___ 03:22PM BLOOD CK(CPK)-24* CK-MB-NotDone cTropnT-<0.01
+___ 06:50AM BLOOD calTIBC-306 Ferritn-77 TRF-235
+.
+___ UCX: STAPHYLOCOCCUS, COAGULASE NEGATIVE.    
+10,000-100,000 ORGANISMS/ML.. speciation and sensitivities 
+pending
+.
+EKG demonstrated NSR ___, no STE/STD, with no significant change 
+compared with prior dated ___  
+.  
+___ CXR: Cardiomegaly, mild interstitial congestion, and 
+small bilateral pleural effusions.  
+.  
+___ Echo: The left atrium is mildly dilated. Left 
+ventricular wall thicknesses are normal. The left ventricular 
+cavity is mildly dilated. Due to suboptimal technical quality, a 
+focal wall motion abnormality cannot be fully excluded. Overall 
+left ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion. Trace aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+.
+No vegetation seen but cannot definitively exclude. 
+.
+Compared with the prior study (images reviewed) of ___, 
+there is no definite change.  
+ 
+Brief Hospital Course:
+The patient is a ___ year-old female with PMH significant for CAD 
+s/p CABG in ___ (EF=50-55%), IDDM, hyperlipidemia, and HTN who 
+presents with new DOE and persistent low-grade fever.  
+.  
+#. CAD - The patient ruled out for acute MI with negative 
+cardiac enzymes x 3 and no evidence of ischemia on EKG. The 
+patient had an echo inhouse to evaluate for presence of new wall 
+motion abnormality as new CHF could have been secondary to 
+recent MI; however, wall motion overall appeared unchanged from 
+prior. (Note: new ___ could not be excluded on echo due to poor 
+windows.) The patient was continued on medical management with 
+aspirin, plavix, BB, statin, and imdur with no acute issues.  
+.  
+#. Pump/ acute diastolic CHF - The patient had no evidence of 
+CHF at recent outpatient cardiology visit ___, but now presented 
+with clinical symptoms and radiographic evidence of CHF. BNP was 
+elevated at 2200 (no baseline for comparison). Echo was 
+consistent with mild diastolic failure with LVEF 60%. Etiology 
+of CHF was unclear, but high output failure was considered in 
+the setting of fever and anemia. Silient ischemia was felt to be 
+unlikely as there were no new focal WMA on echo (however, this 
+could not be fully excluded due to poor windows). The patient 
+responded well to diuresis with IV lasix with resolution of SOB 
+and ___ edema. Home dose of lasix 40mg po daily was started prior 
+to discharge. She was continued on ACE, BB, and CCB for 
+afterload reduction. The patient was discharged on mild 2000cc 
+fluid restriction, and was advised to ___ with her 
+cardiologist for further management.
+.  
+#. Rhythm - NSR on telemetry. The patient was continued on home 
+BB. 
+.  
+#. HTN - The patient was continued on home regimen of ACE, BB, 
+norvasc, and lasix. Lisinopril dose was decreased from 30mg 
+daily to 20mg daily for hyperkalemia. 
+.  
+#. Hyperlipidemia - Lipid panel showed: Tchol-116, ___, 
+HDL-20, LDL-59 in ___. 
+The patient was continued on home regimen of zetia and 
+atorvastatin.  
+.  
+# Fevers - The patient reported history of low-grade fevers to 
+100.8 for approx 2 weeks. There was no localizing signs or 
+symptoms of infection on exam, except known UTI that was being 
+treated with an extended course of bactrim. Etiology of fever 
+was felt to be secondary to inadequately treated UTI ___ 
+coag neg staph here, outpatient UCx on ___ with 8K gram pos 
+colonies with no speciation or sensitivities at that time) 
+versus drug fever in response to Bactrim. Admission CBC was 
+without leukocytosis or left shift, CXR was without obvious 
+infiltrate. BCx were negative to date during admission. R foot 
+films were negative for osteomyelitis (small superficial 
+nonhealing ulcer on R great toe and elevated ESR/ CRP earlier in 
+___. Other infectious sources include possible endocarditis 
+given new murmur and elevated ESR and CRP on last admission; 
+however, the patient did not consent to TEE (TTE negative for 
+vegitation, but poor windows). ROS was negative for 
+rheumatologic disease. The patient was switched to ciprofloxacin 
+to complete a 7 day course for presumptive UTI - temperature 
+curve decreased to < 100 after this switch. Speciation and 
+sensitivities on urine culture were pending at the time of 
+discharge, and may be followed up by the patient's PCP. The 
+patient was advised to monitor fever curve after discharge.
+.  
+#. IDDM - The patient has a history of poorly controlled IDDM 
+with recent HbA1c of 14.5% in ___. She was previously followed 
+by ___, though not recently. The patient was seen by the 
+___ inhouse. Insulin regimen was uptitrated with good 
+effect - BS in the 100s prior to discharge. She was set-up for 
+___ in ___ for further care. Neurontin was continued 
+for neuropathic pain.  
+.  
+#. Anemia - The patient had evidence of a microcytic anemia with 
+hct ___ during admission. Fe studies were consistent with iron 
+deficiency, but likely has an element of AOCD given elevated ESR 
+and CRP. Retic slightly elevated at 1.9%. There was no evidence 
+of bleeding or hemolysis (guaiac negative on rectal exam in ED, 
+no recent procedures, hemolysis labs negative). There is no 
+family history of colon cancer, and the patient has not had a 
+prior colonoscopy. The patient is still menstruating. She was 
+started on iron supplementation inhouse and advised to have hct 
+monitored as an outpatient. If ESR is still elevated and anemia 
+persists in ___ weeks, rheumatologic evaluation may be 
+considered. (Rheumatologic ROS negative as inpatient). 
+Outpatient colonoscopy may be considered in the future.
+.  
+#. Hyperkalemia - The patient presented with peristent 
+hyperkalemia (K 5.3-5.6) inhouse despite lasix and kayexalate. 
+There were no EKG changes. Lisinopril dose was decreased to 20mg 
+daily. Home lasix was continued. KCl supplementation was 
+discontinued. 
+.
+#. The patient was discharged in good condition on ___ with 
+cardiology and PCP ___ in place.
+ 
+Medications on Admission:
+1. Norvasc 10 mg a day.  
+2. Aspirin 325 mg once daily.  
+3. Plavix 75 mg once daily.  
+4. Zetia 10 mg once daily.  
+5. Lasix 40 mg once daily.  
+6. Neurontin 300 mg three times a day.  
+7. Imdur 30 mg daily.  
+8. Zestril 30 mg daily.  
+9. Lopressor 50 mg b.i.d.  
+10. Sublingual nitroglycerin.  
+11. Potassium 20 mEq.  
+12. Zoloft 50 mg daily.  
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+4. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+8. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+11. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tablet 
+Sublingual Q5min PRN: please call ___ if chest pain is not 
+releived after 3 tablets.  
+12. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Coronary Artery Disease
+Diastolic heart failure  
+Urinary tract infection
+
+Secondary:
+Dyslipidemia
+Hypertension   
+Left great toe ulcer
+Depression
+
+ 
+Discharge Condition:
+Stable, afebrile, saturating well on room air
+
+ 
+Discharge Instructions:
+You were admitted with shortness of breath with exertion. An 
+echocardiogram showed mild heart failure. Your shortness of 
+breath improved throughout the hospital stay with diuretics. In 
+addition, your fevers have resolved, and you should continue to 
+take your antibiotic (ciprofloxacin) as prescribed for your UTI. 
+If you continue to feel shortness of breath, fevers, or develop 
+any new symptoms such as chest pain, headache, nausea, vomiting, 
+severe back pain, or other concerning symptoms, please seek 
+medical attention immediately. 
+
+You have follow up appointments scheduled with your PCP, your 
+cardiologist, and your endocrinologist at the ___. If you 
+cannot keep these appointments, please call to reschedule. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15521468-DS-16 | hadm_id=29561912
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Nafcillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension, oliguria 
+ 
+Major Surgical or Invasive Procedure:
+Incision and Drainage Left Lower Extremity ___, 
+___
+Upper Endoscopy 
+
+ 
+History of Present Illness:
+___ with h/o CAD s/p 5v CABG, DM2, and HTN, admitted with L leg 
+erythema, fever, and now with ___. Pt initially awoke on ___ 
+with fevers to 102.5 and shaking chills, along with multiple 
+episodes of nausea and nonbilious, nonbloody emesis. 
+Significantly decreased po intake over the next ___ days as 
+well. On ___, pt subsequently developed L foot swelling, 
+erythema, and pain, along with a large blister on the medial 
+aspect of her L foot. Over the course of three days, she took 3 
+tabs of ibuprofen tid, unsure of dose. She denied orthostatic 
+sx. Pt presented to the ED on ___ morning ___-- at that 
+time, was febrile to 102.1 with rigors (was given ibuprofen and 
+tylenol). She was started on zosyn/vancomycin for cellulitis and 
+admitted to medicine. Creat at that time was 1.6. Since then, 
+BCx have grown out coag + staph in ___ bottles.  
+.  
+After admission, pt progressively became more hypotensive, with 
+diminishing urine output over the day yesterday. Was given 6L 
+0.9NS on the floor, with BPs remaining in mid-80s systolic. She 
+also developed new onset RUE weakness; MRI was negative for 
+acute stroke. She was transferred to MICU last night, where she 
+has remained febrile and hypotensive, and was started on 
+dopamine. Pt currently being followed by podiatry and vascular 
+surgery, who feel that this is acute charcot foot with overlying 
+soft tissue infection.  
+.  
+Currently, pt c/o nausea and continued dry heaves. Denies 
+dyspnea, orthostatic sx, or chest pain. Says she has been told 
+about mild CKD in the past, but is unsure about her baseline 
+creatinine. She has never been told about proteinuria in the 
+past, and denies regular NSAID use (aside from acute use in past 
+few days).  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  ___ has got a number of medical 
+problems stemming from hypertension and diabetes.  She has had 
+diabetes for a long period of time and her most recent 
+hemoglobin A1c level was notably elevated at 14%.  She has a 
+history of coronary artery disease and had a CABG in ___.  She 
+reportedly has an ejection fraction of 50 to 55%.  She has a 
+history of hyperlipidemia and hypertension.  With respect to her 
+bypass, she has had stents placed as well.  Her CABG was 
+complicated by a sternal wound infection.  Her most recent echo 
+was obtained on ___.  This reveals ejection fraction of 
+greater than or equal to 55% with no evidence of endocarditis.  
+She has never had a colonoscopy and she had her last mammogram 
+___ years ago. She also has anemia and her most recent 
+hematocrit was 30%.  She has an elevated platelet level greater 
+than 500.
+* CAD s/p 5v CABG in ___, with subsequent 4v CABG 6 months 
+later  
+* DM2, diagnosed in ___, complicated by retinopathy and 
+neuropathy, poorly controlled  
+* HTN  
+* hyperlipidemia  
+* anemia  
+
+PAST SURGICAL HISTORY:  In ___ and ___, she had her coronary
+artery bypass.  She has had three C-sections.
+
+OB/GYN HISTORY:  She denies any history of pelvic infections. 
+She denies any history of abnormal Pap smears, and her last was
+obtained in ___.  She denies any complications of cesarean
+section.
+ 
+Social History:
+___
+Family History:
+She reports her mother developed lung cancer, she was a smoker.  
+She had a grandmother and an aunt who had breast cancer, 
+grandmother was sick in her ___ and her aunt was in her ___.  
+There is no other family history of cancer.
+ 
+Physical Exam:
+Vitals: T: 98.0 BP: 102/58 P: 69 R: 20 O2: 98% 4L NC  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, EOMI, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2. ___ holosystolic 
+murmur loudest on left sternal border. no rubs, gallops  
+Abdomen: Normoactive bowel sounds, obese, soft, non-tender, 
+non-distended, no rebound tenderness or guarding, no 
+organomegaly  
+Ext: Warm, well perfused, 2+ DP on R, LLE wrapped in ACE 
+bandage. Ankle ROM intact bilaterally. 1+ pitting edema 
+bilateral lower extremities to knees with severe left foot 
+edema.  
+Skin: Warm 2cm x 2cm erythematous and purplish discoloration 
+across the anterior aspect of the lower leg.  
+Neuro: alert and oriented x 3, strength ___ in all extremities  
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 12:05PM BLOOD WBC-10.5# RBC-4.46 Hgb-12.4 Hct-37.2 
+MCV-84 MCH-27.9 MCHC-33.4 RDW-13.7 Plt ___
+___ 12:05PM BLOOD Neuts-90.4* Lymphs-4.6* Monos-3.9 Eos-0.6 
+Baso-0.6
+___ 12:05PM BLOOD ___ PTT-24.9 ___
+___ 12:05PM BLOOD ESR-114*
+___ 12:05PM BLOOD Glucose-534* UreaN-39* Creat-1.6* Na-130* 
+K-4.6 Cl-89* HCO3-28 AnGap-18
+___ 03:30PM BLOOD ALT-25 AST-28 AlkPhos-120* TotBili-0.7
+___ 07:16AM BLOOD Calcium-7.8* Phos-4.0# Mg-1.8
+___ 03:30PM BLOOD Cortsol-28.3*
+___ 12:13PM BLOOD Glucose-404* Lactate-2.6* K-4.4
+___ 12:20PM BLOOD freeCa-0.96*
+
+LABS ON TRANSFER FROM THE ICU:
+___ 03:36AM BLOOD WBC-10.2 RBC-3.43* Hgb-9.6* Hct-28.2* 
+MCV-82 MCH-27.9 MCHC-34.0 RDW-14.2 Plt ___
+___ 03:36AM BLOOD Plt ___
+___ 01:44PM BLOOD Glucose-117* UreaN-52* Creat-3.9* Na-130* 
+K-4.1 Cl-100 HCO3-17* AnGap-17
+___ 01:44PM BLOOD Calcium-6.9*
+___ 12:20PM BLOOD Type-ART pH-7.35
+___ 12:20PM BLOOD Lactate-0.8
+___ 12:20PM BLOOD freeCa-0.96*
+
+LABS ON SECOND TRANSFER FROM ICU:
+
+LABS ON DISCHARGE:
+
+MICROBIOLOGY:
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ MRSA SCREEN MRSA SCREEN-PENDING INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL {STAPH 
+AUREUS COAG +}; Aerobic Bottle Gram Stain-FINAL; Anaerobic 
+Bottle Gram Stain-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL {STAPH 
+AUREUS COAG +}; Aerobic Bottle Gram Stain-FINAL; Anaerobic 
+Bottle Gram Stain-FINAL EMERGENCY WARD 
+
+IMAGING:
+ 
+___ L foot x-ray:  
+1. Findings concerning for possible osteomyelitis superimposed 
+on an evolving Charcot's joint, although no radiographic 
+evidence of ulcer. Extensive osseous destruction and lucencies 
+involving the medial and mid cuneiforms, second and third 
+metatarsal bases, and navicular bone. While findings could in 
+part relate to an evolving Charcot's joint, new since ___, 
+they are in conjunction with overlying soft tissue gas and 
+swelling, making superimposed osteomyelitis of concern. 
+Recommend clinical correlation for soft tissue  
+defect/ulcer and further evaluation with nuclear medicine study 
+or MRI.  
+2. Gas noted in anterior ankle. Given known leg cellulitis, 
+proximal extent not evaluated.  
+
+___ MRI/MRA Head: No signs of infarct.  
+
+___ CXR:  
+Comparison is made to the prior study from ___. The heart 
+is enlarged. There is atelectasis at the left lung base with a 
+small left pleural effusion. This is status post median 
+sternotomy. Right lung is relatively clear.  
+
+___ Renal ultrasound: No evidence of hydronephrosis.  
+
+___ TTE:  
+The left atrium is mildly dilated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Right ventricular chamber size and free wall 
+motion are normal. The diameters of aorta at the sinus, 
+ascending and arch levels are normal. The aortic valve leaflets 
+(3) appear structurally normal with good leaflet excursion and 
+no aortic regurgitation. The mitral valve leaflets are mildly 
+thickened. Mild (1+) mitral regurgitation is seen. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.  
+IMPRESSION: Mild tricuspid regurgitation. Normal biventricular 
+cavity sizes with preserved global and regional biventricular 
+systolic function. Mild pulmonary artery systolic hypertension.  
+
+Compared with the prior report (images unavailable for review) 
+of ___, the findings are similar.  
+
+ 
+Brief Hospital Course:
+___ year old F with hx of CAD, DM, HTN presented with left lower 
+extremity pain and erythma secondary to acute charcot foot with 
+overlying cellulitis. On floor patient developed hypotension and 
+oliguria despite 6 L NS IVF due to MSSA sepsis.  She improved 
+and was sent out to the floor where she continued treatment for 
+MSSA bacteremia and L Charcot foot, cellulitis and osteomyelitis 
+until she developed a GI bleed from a Dieulafoy lesion.  After 
+endoscopy with endoclips and cautery, she was stabilized and 
+sent back to the floor for continued management.  After 
+returning to the floor her course was then complicated by 
+another debridement and then renal failure due to AIN from her 
+nafcillin.  
+.
+# Left Charcot foot with osteomyelitis and overlying cellulitis: 
+Patient presented with left lower extremity pain and erythema.  
+She was seen by podiatry and vascular surgery who felt this was 
+consistent with an acute Charcot foot.  She then became 
+hypotensive and oliguric requiring MICU admission where she was 
+found to be septic with MSSA. Her foot was the presumed source 
+and a CT of her leg showed several gas pockets within the foot 
+and ankle. Patient underwent I&D on ___ with swab and tissue 
+cultures showing MSSA.  Infectious disease was consulted and 
+recommended at least a 6 week course of nafcillin, however after 
+her final debridement cultures were growing enterobacter and 
+klebsiella, and she developed AIN her antibiotic regimen was 
+changed to ciprofloxacin and vancomycin.  She will need 6 weeks 
+of vancomycin from the date of her last debridement on ___, 
+and ___ weeks of ciprofloxacin from ___, this course will be 
+outlined during her ID appointment in ___.  She will need 
+weekly labs that include: cbc, diff, bun, cr, lfts, esr, 
+crp,vancomycin trough and  have ALL THE LABS faxed to the 
+infectious disease R.Ns. at ___.  
+.
+# Dieulafoy lesion: She had a hematocrit drop while on the floor 
+and was found to have melena. She was transferred to the ICU for 
+GI bleed and required 12 units of blood in less than 48 hours. 
+She had a few EGDs on ___ and on ___ showing clot in stomach 
+from a Dieulafoy lesion. The gastroenterologists were unable to 
+intervene on first two endoscopies but able to cauterize and 
+place clips on the third endoscopy which was performed with 
+intubation in the OR for direct visualization. Her hematocrit 
+then stabilized, and she was started on a PPI, she had no 
+further evidence of GI bleeding during her stay, and GI felt 
+that it was safe for her to be started on anticoagulation.  
+.
+# MSSA bacteremia: The source of her bacteremia was likely her 
+left foot given same speciation and sensitivites. There were no 
+signs of endocarditis on transthoracic echocardiogram but the 
+study was deemed suboptimal.  The patient declined a 
+transesophageal echocardiogram but this was felt to not be 
+necessary as she will already require a 6 week course of IV 
+antibotic therapy.  Due to her new allergy to nafcillin as a 
+result of the AIN, her antibiotics were changed to 
+vancomycin/ciprofloxacin as above for the bacteremia.   
+.
+# Left upper extremity deep venous thrombus: She was found to 
+have a DVT surrounding her PICC in her left arm.  She was 
+initially started on a heparin drip as a bridge to coumadin, the 
+left arm PICC was removed and PICC was placed in her right arm.  
+She will complete a three month course of coumadin, if she 
+becomes subtherapeutic on coumadin there is no indication for 
+bridging with heparin, so she can be continued on coumadin until 
+her INR is back in the therapeutic range.
+.
+# Acute renal failure: Patient developed oliguria very soon 
+after admission, and urine sediment showed muddy brown casts 
+consistent with ATN.  The etiology of her ATN was likely 
+hypotension leading to hypoperfusion while she was septic from 
+MSSA. Her creatinine steadily improved and returned to near her 
+baseline.  Then around ___ her creatinine started to increase 
+again, it peaked at 2.0 and renal was consulted.  Examination of 
+the urine showed white cells and cellular casts, renal felt that 
+this was consistent with AIN, most likely from Nafcillin.  They 
+also felt that there was a component of congestive heart failure 
+that was also contributing.  Her antibiotics were changed to 
+vancomycin and she was started on more aggressive diuresis of 
+lasix 80mg IV twice a day.  Given the large amount of excess 
+fluid, she will currently be continued on the same dose of IV 
+lasix.  If her creatinine increases again, or diuresis starts to 
+slow, she can then be transitioned back to an oral dose, she was 
+admitted on 40mg po daily.  Creatinine at the time of discharge 
+was 1.2, her renal function will need to be continually 
+monitored as her vancomycin dosing may change as her renal 
+function changes.  We held her valsartan in the setting of her 
+renal failure and also while she was getting IV lasix, if she 
+needs better blood pressure control can restart valsartan 80mg 
+daily if her creatinine is back to her baseline of 1.0.
+.  
+# RUE weakness: She acutely developed difficulty raising her 
+right arm on ___ but had a negative head MRI after code stroke 
+was called. Neurology felt this was a brachial plexus 
+neuropathy, likely pressure related from non-invasive 
+measurements done in the ED. MRI of C-spine showed severe canal 
+and foraminal narrowing at C5-6 and C6-7 with cord deformity but 
+no signs of abscess. Spine was consulted who recommended a CT 
+scan of her C-spine for better evaluation but felt this was 
+non-critical.  She should follow-up with the spine clinic after 
+discharge and her rehabilitation stay.
+.  
+# Hypocalcemia with hyperphosphatemia: In the setting of acute 
+renal failure, she had a low ionized calcium and 
+hyperphosphatemia. Sevelamer was started with meals to help 
+correct this imbalance until her renal function improved.  Once 
+her renal function improved, the sevelamer was discontinued.
+.
+# CAD: She had no complaints of chest pain or SOB throughout her 
+stay.  She was continued on ASA, plavix and statin initially 
+until she developed a GI bleed.  At that time her 
+anticoagulation was stopped, and not restarted until a week 
+after final EGD.  She was resumed on aspirin and statin but her 
+plavix continued to be held given her need for warfarin.  
+.
+# DM: She was continued on ISS with Lantus.  She needed 
+continual uptitration of her lantus dose for improved glycemic 
+control.  Her humalog sliding scale from the hospital was 
+included in her paperwork.  
+.
+# Acute on chronic diastolic congestive heart failure: Her EF 
+>55% on transthoracic echocardiogram. She was initially 
+euvolemic but developed volume overload from IV fluids and blood 
+products. She continues to be on aggressive diuresis with lasix 
+given her total volume overload, and fact that her renal 
+function improved with diuresis she was discharged on 80mg IV 
+BID, and will likely need up to a week more of diuresis with IV 
+lasix, we would recommend continuing as long as her creatinine 
+remains stable.  We held her valsartan in the setting of her 
+renal failure and also while she was getting IV lasix, if she 
+needs better blood pressure control can restart valsartan 80mg 
+daily if her creatinine is back to her baseline of 1.0.  
+.
+# Dyslipidemia: She was continued on atorvastatin. 
+.
+# Thyroid nodule: Incidental finding on C-spine MR, elevated TSH 
+with normal T4 consistent with sick euthyroid, she will need 
+further outpatient follow up of the thyroid nodule after rehab.  
+ 
+  
+ 
+Medications on Admission:
+amlodipine 10, atorvastatin 80, plavix 75 mg, furosemide 40 mg 
+daily, gabapentin 300 mg po tid, imdur 30 mg po daily, 
+metoprolol 100 mg po bid, valsartan 80 mg daily, ASA 325, Fe 
+sulfate, MVI, sertraline 100mg, ativan 0.5mg QID:PRN
+ 
+Discharge Medications:
+ 
+
+1. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID 
+(3 times a day) as needed for rash.  
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for severe anxiety.  
+6. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times 
+a day).  
+11. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Insulin Glargine 100 unit/mL Solution Sig: Twenty (20) units 
+Subcutaneous at bedtime.  
+13. Hydromorphone 2 mg Tablet Sig: ___ mg PO Q6H (every 6 hours) 
+as needed for pain: hold for sedation, RR<12.  
+14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO every 
+eight (8) hours.  
+15. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+16. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours).  
+17. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.  
+18. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML 
+Intravenous PRN (as needed) as needed for line flush.  
+19. Ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+20. Vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)  
+Intravenous Q 24H (Every 24 Hours).  
+21. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush 
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline 
+daily and PRN per lumen. 
+22. Furosemide 80 mg IV BID 
+Hold for SBP<100
+ 
+23. Insulin Lispro 100 unit/mL Solution Sig: Sliding Scale  As 
+directed  Subcutaneous ACHS: Please follow attached sliding 
+scale.  
+24. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+MSSA bacteremia
+Left Charcot foot
+Left lower leg cellulitis
+Acute renal failure
+Dieulafoy Lesion causing an upper GI bleed 
+
+Secondary:
+Diabetes mellitus 
+CAD s/p CABG
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes, usually oriented x 3, but 
+has difficulty with attention
+Level of Consciousness: Alert and interactive usually, will at 
+times be very sleepy but very easily arousable.  
+Activity Status: Bedbound, currently requires assistance to get 
+out into the chair 
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for pain in your left foot. 
+Your blood pressure dropped, and you were found to have a 
+bacteria in your blood stream likely from your infected foot. 
+You had a deep infection in your left foot and lower leg that 
+required clean out in the OR.  You improved on antibiotics.  
+During your stay you also had a bleeding artery in your stomach, 
+which required a stay in the ICU and an upper endoscopy done by 
+gastroenterology with clipping of the artery.  Also, during your 
+stay you were found to have an allergic reaction in your kidneys 
+to one of the antibioitics, and your kidney function improved 
+with removal of the antibiotics.  You will need close follow up 
+with podiatry after you leave for monitoring of the healing of 
+your left leg.  Also, since your hospital stay was very 
+prolonged and complicated you will need a lot of rehabilitation 
+to get your strength back.  
+.
+We made multiple changes to your medication regimen during your 
+stay:
+1. STARTED Coumadin 5mg daily for a left arm DVT
+2. STARTED Sucralfate four times per day 
+3. STARTED Dilaudid ___ every 6 hours as needed for pain 
+4. STARTED Pantoprazole 40mg daily 
+5. STARTED Ciprofloxacin 500mg twice a day for ___ weeks from 
+___, ID will address stopping this medication during your 
+appt
+6. STARTED Vancomycin 1g every 24 hours for 6 weeks from ___
+7. DECREASED Metoprolol to 50mg twice a day 
+8. STOPPED Valsartan due to your kidney failure
+9. STOPPED Plavix when you had bleeding from your stomach, 
+follow up with your PCP and cardiologist about restarting this 
+medication 
+10. STOPPED Lasix 40mg daily by mouth 
+11. STARTED Lasix 80mg IV twice a day 
+12. DECREASED home ativan dose due to somnolence to 0.5mg twice 
+a day as need for anxiety 
+13. ADDED dilaudid ___ every ___ hours as needed for pain 
+Please continue to take all other medications as previously 
+prescribed
+ 
+Followup Instructions:
+___

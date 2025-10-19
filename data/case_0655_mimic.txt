@@ -1,0 +1,408 @@
+===== DISCHARGE NOTE =====
+note_id=14727703-DS-15 | hadm_id=26422245
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Carotid stenosis
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mrs. ___ is an ___ year old female with COPD, HTN, who
+presented to ___ from pulmonary rehab in hypertensive
+urgency with bp 190s/80s and EKG showing ST elevation in V2/3.
+She was placed on heparin and Ticagrelor and taken to cath lab
+where prior LAD stent patent had stenosis proximally, and had a
+"95% agonal lesion and a 60% lesion in the LAD with a 70% 
+lateral
+circumflex lesion and 95% obtuse marginal with a 60% right
+coronary lesion." No interventions were performed. She had an
+subsequent ECHO which showed EF 55%. She was subsequently
+transferred to the ICU. The following day, she was noted to be
+confused and unable to follow directions. Stat CT did not show
+any acute changes, however a subsequent MRI showed acute infarct
+involving L parietal, posterior temporal, and occipital lobes 
+and
+additional old lacunar infarcts in the left basal ganglia. She
+otherwise remained hemodynamically stable. She was placed on
+aspirin, Plavix, statin, beta-blocker and underwent neurology
+evaluation. CTA of the neck showed > 90% stenosis of the 
+proximal
+left ICA and vascular surgery consult by Dr. ___ at ___
+recommended transfer to ___ for consideration of carotid 
+stent.
+
+She currently feels well without any shortness of breath, chest
+pain, fever, chills, nausea, vomiting, abdominal pain, 
+headaches,
+or changes in vision. She does not note any weakness or deficits
+in sensation. 
+
+ 
+Past Medical History:
+Past Medical History:
+HTN, CAD s/p cardiac cath w/ stent s/p recent cath w/o
+intervention, CVA, > 90%, L ICA stenosis, COPD
+
+Past Surgical History: 
+cardiac cath w/ stent (remote)
+cardiac cath w/o intervention ___
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+ADMISSION EXAM:
+==============
+VS: T97.2, BP 132/65, HR 65, RR 22, SaO2 98% 1L
+GEN: Resting comfortably, frail appearing
+HEENT: L carotid bruit, NCAT, EOMI
+CV: Regular rate and rhythm, distant, but normal S1, S2
+PULM: Clear to auscultation bilaterally
+ABD: Soft, nontender, nondistended, no guarding or rebound
+MSK: Ecchymosis b/l upper and lower extremities, 
+fem/pop/dp/pt: R: p/p/p/d L: p/p/p/d
+NEURO: CII-XII intact, b/l equal strength upper and lower
+extremities
+PSYCH: Appropriate mood and affect
+
+DISCHARGE EXAM:
+==============
+VS - 97.7 98.0 130-133/60-71 63-66 18 92-97%3L
+GENERAL: elderly frail woman lying comfortably in bed; increased 
+work of breathing but improved from yesterday
+HEENT: EOMI, PERRL, MMM. Oropharynx clear
+NECK: supple, no JVD
+CV: RRR, normal S1/S2, ___ early systolic murmur heard best at 
+LUSB
+LUNGS: poor air movement (but improved inspiratory effort from 
+yesterday), faint bilateral wheezes and crackles
+ABDOMEN: nondisdended, two large ecchymoses in suprapubic region 
+and RLQ, BS+, soft, tender to deep palpation in the suprapubic 
+region and RLQ, no guarding/rebound  
+GU: no foley  
+EXT: WWP, 2+ pulses, no edema 
+NEURO: AOx0 (recognized name when prompted; remembered husband's 
+name without ___. CN II-XII grossly intact. Diffusely weak 
+during exam. Able to lift bilateral arms and pick up bilateral 
+legs. Became agitated during neurologic exam. 
+SKIN: nontender violaceous macules, erythema, fine scale on BLE
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:10AM BLOOD WBC-6.6 RBC-3.31*# Hgb-10.2*# Hct-32.2*# 
+MCV-97 MCH-30.8 MCHC-31.7* RDW-14.7 RDWSD-53.1* Plt ___
+___ 05:10AM BLOOD ___ PTT-49.5* ___
+___ 05:10AM BLOOD Glucose-119* UreaN-23* Creat-0.7 Na-144 
+K-3.8 Cl-105 HCO3-25 AnGap-18
+___ 05:10AM BLOOD Calcium-8.2* Phos-2.9 Mg-1.9
+
+PERTINENT LABS:
+===============
+___ 06:42AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:42AM BLOOD calTIBC-192* VitB12-1381* Folate-14 
+Ferritn-327* TRF-148*
+___ 07:00AM BLOOD %HbA1c-5.3 eAG-105
+___ 07:00AM BLOOD Triglyc-107 HDL-55 CHOL/HD-2.2 LDLcalc-45
+___ 07:00AM BLOOD TSH-8.8*
+___ 01:11AM BLOOD ___ pO2-107* pCO2-38 pH-7.37 
+calTCO2-23 Base XS--2
+___ 06:42AM BLOOD Ret Aut-2.1* Abs Ret-0.08
+
+DISCHARGE LABS:
+===============
+
+___ 07:16AM BLOOD WBC-6.9 RBC-3.60* Hgb-11.0* Hct-34.5 
+MCV-96 MCH-30.6 MCHC-31.9* RDW-14.4 RDWSD-50.8* Plt ___
+___ 07:16AM BLOOD Glucose-78 UreaN-23* Creat-0.7 Na-138 
+K-4.3 Cl-100 HCO3-20* AnGap-22*
+___ 07:16AM BLOOD Calcium-8.4 Phos-2.8 Mg-2.1
+
+MICRO:
+=====
+NONE
+
+OSH IMAGING:
+============
+___: Critical high grade stenosis in the proximal left
+internal carotid artery. No intracranial stenosis identified. 
+
+Cardiac PCI ___: LMCA 95%, mid RCA 60%, mid CX 70%, ___ Ob
+Marg 95% stenosis. 
+
+TTE ___: LVEF 55%, no significant LVH, no diagnostic
+findings of Takotsubo, mild valve abnormalities.
+
+MRI brain: acute infarct involving portions of the left 
+parietal,
+posterior temporal, and occipital lobes. Old lacunar infarcts in
+the left basal ganglia. No acute intracranial hemorrhage.
+
+Carotid US ___: R ___ stenosis of right ICA, left 
+carotid
+___ stenosis of the left ICA. Moderately increased peak
+systolic velocities at the proximal left ICA of 249 cm/s and 
+with
+end diastolic vel of 63 cm/s, consistent with stenosis of 
+50-59%.
+There is antegrade vertebral flow on the left side.
+
+___ IMAGING:
+=============
+
++ ECG Study Date of ___  1:24:50 AM 
+ 
+
+Sinus rhythm. Anterolateral T wave inversions which may be 
+consistent with 
+Wellens sign for anterior myocardial infarction versus cerebral 
+T waves. 
+Clinical correlation is suggested. Compared to the previous 
+tracing of ___ these T wave inversions are new. 
+
+  Intervals     Axes 
+Rate PR QRS QT QTc (___)    P QRS T 
+62 ___ 397   90 8 156 
+ 
+
++ ___ Imaging CHEST (PORTABLE AP) 
+IMPRESSION:  
+  
+In comparison with the study of ___ from an outside 
+facility,, there again is substantial enlargement of the cardiac 
+silhouette with mild elevation of pulmonary venous pressure.  
+Retrocardiac opacification with blunting the costophrenic angle 
+is consistent with pleural effusion and substantial volume loss 
+in the left lower lobe.  Less prominent changes are seen at the 
+right base. 
+There is an area of increased opacification in the left mid 
+zone.  This could well represent either atelectasis or fluid 
+within an accessory fissure.  In  the appropriate clinical 
+setting, superimposed pneumonia would be difficult to 
+unequivocally exclude, especially in the absence of a lateral 
+view. 
+
++ ___ Cardiovascular ECHO 
+Conclusions   
+The left atrium is normal in size. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Due to suboptimal technical quality, a focal wall motion 
+abnormality cannot be fully excluded. Overall left ventricular 
+systolic function is normal (LVEF = 65%). Right ventricular 
+chamber size and free wall motion are normal. There are focal 
+calcifications in the aortic arch. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. Trace 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. Trivial mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion.   
+
++ ___ Imaging CHEST (PORTABLE AP) 
+IMPRESSION:  
+  
+Comparison to ___.  Stable elevation of the left 
+hemidiaphragm.  
+Stable areas of local atelectasis.  Stable scarring at the right 
+lung apex.  Unchanged areas of atelectasis at the right lung 
+basis.  Old healed rib fractures.  Moderate cardiomegaly.  No 
+new focal parenchymalopacities. 
+
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ with COPD, multivessel CAD and STEMI s/p 
+LHC on ___ c/b embolic stroke, transferred from ___ 
+for evaluation of L ICA stenosis.
+
+# Left internal carotid artery stenosis: 
+Patient transferred initially to vascular service, but repeat 
+read of imaging showed 50-60% stenosis and thus likely etiology 
+of stroke was thought to be from emboli from calcified aorta 
+during LHC. No interventions per vascular surgery were 
+performed. Patient was transferred to medicine service due to 
+other comorbidities.
+
+# Hypoxemia: 
+Improved with nebs, pointing to COPD as the primary etiology. 
+Possible contribution from atelectasis. No volume overload on 
+exam or repeat CXR. No chest pain or ECG changes to suggest new 
+cardiac ischemia (deep TWI in V2-V5 c/w recent STEMI, stable 
+from prior). At risk for PE given COPD but workup deferred given 
+rapid improvement with nebs. Discharged at baseline home O2 
+requirement ___ NC during sleep).
+
+# Embolic left temporal temporal/parietal/occipital stroke: 
+Patient was found to be acutely aphasic post cath at 
+___. MRI showed acute infarct involving left parietal, 
+posterior temporal, and occipital lobes with old lacunar 
+infarcts in left basal ganglia. At ___, Neuro was consulted 
+and felt most likely etiology was embolization from calcified 
+aorta during LHC rather than L ICA stenosis. TTE found apical 
+hypokinesis but no aneurysm or thrombus. Patient was treated 
+with aspirin, clopidogrel, and atorvastatin 80mg (substituted 
+for prior simvastatin). She was evaluated by ___ who 
+recommended discharge to ___ with ongoing cognitive/language 
+therapy. At discharge, patient continued to be oriented to 
+person only and inattentive.
+
+# STEMI
+# 3vCAD
+Patient had STEMI at ___ on ___ ___levations in 
+V2-V5. Cath showed multivessel disease, no intervention 
+performed. CABG not consistent with goals of care per HCP. TTE 
+___ showed EF 65%. Treated with aspirin/clopidogrel and 
+carvedilol 3.125. ACEi was not initiated due to concern for 
+cerebral hypoperfusion ___ carotid stenosis. No chest pain or 
+ECG changes to suggest ongoing ischemia (repeat ECGs with stable 
+deep TWI in V2-V5 c/w recent STEMI).
+
+# HTN
+Patient presented to ___ with hypertensive emergency in 
+setting of STEMI. Given recent CVA and ICA stenosis, was managed 
+conservatively at ___ with carvedilol 3.125, with SBPs 
+110s-130s. 
+
+#Normal/macrocytic anemia (MCV 96)
+Unclear baseline. Hgb stable around 11 this admission. Retics 
+and iron studies c/w chronic inflammation. B12 normal
+
+#Elevated TSH
+No history of thyroid disease. TSH likely elevated in setting of 
+recovery from multiple illnesses and long hospitalization. 
+Consider repeat TSH and T4 as an outpatient.
+
+#Nutrition
+Cleared for regular diet by Speech/Swallow.  
+
+TRANSITIONAL ISSUES:
+====================
+- New meds: atorvastatin 80 mg daily (replacing simvastatin), 
+clopidogrel 75 mg daily, carvedilol 3.125 mg BID
+- Previously on lisinopril 10mg but held for borderline soft BPs 
+(110s) given carotid stenosis and recent CVA; consider starting 
+if BP tolerates
+- Speech and swallow recommendations:
+1.) PO diet: thin liquids, regular solids
+2.) PO meds: whole, one at a time with thin liquids
+3.) BID oral care
+4.) Aspiration precautions:
+    - needs assistance with tray set up
+    - ensure pt fully upright at 90 degrees
+5.) Full cognitive-language evaluation and therapy at rehab
+facility.
+- Please titrate COPD medications as clinically indicated
+- Patient discharged with home O2 requirement ___ NC during 
+sleep)
+- Patient should follow up with cardiology, neurology, and 
+pulmonary
+#Code status: FULL
+#Name of health care proxy: ___ 
+Relationship: Husband 
+Phone number: ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN 
+3. Pulmicort (budesonide) 180 mcg inhalation DAILY 
+4. Lisinopril 10 mg PO DAILY 
+5. Montelukast 10 mg PO DAILY 
+6. Salmeterol Xinafoate Diskus (50 mcg) 2 INH IH DAILY 
+7. Simvastatin 10 mg PO QPM 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q8H:PRN Pain - Mild  
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN SOB, wheezing  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Carvedilol 3.125 mg PO BID  
+5.  Clopidogrel 75 mg PO DAILY  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+8.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN SOB  
+9.  Aspirin 81 mg PO DAILY  
+10.  Incruse Ellipta (umeclidinium) 62.5 mcg/actuation 
+inhalation DAILY  
+11.  Montelukast 10 mg PO DAILY  
+12.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN SOB  
+13.  Pulmicort (budesonide) 180 mcg inhalation DAILY  
+14.  Salmeterol Xinafoate Diskus (50 mcg) 2 INH IH DAILY  
+15.  Vitamin D 1000 UNIT PO DAILY  
+16. HELD- Lisinopril 10 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until ___ discuss with PCP or 
+cardiologist
+
+ 
+___ Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Carotid stenosis
+COPD
+Hypoxemia
+Ischemic cardiomyopathy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mrs. ___,
+
+___ were referred to ___ for surgical evaluation by Vascular 
+Services after a diagnostic workup at ___ found that ___ 
+have a narrowed carotid artery (neck artery). This workup was 
+done as a result of your admission to ___ with very high 
+blood pressure, where the medical team discovered that ___ had 
+suffered a heart attack requiring cardiac intervention in the 
+catheter lab. After the intervention ___ were found to have 
+difficulty expressing yourself and confusion. Brain imaging 
+showed signs consistent with a stroke and an ultrasound of your 
+neck blood vessels found the narrowed arteries.
+
+We engaged the expertise of neurologists and cardiologists who 
+found ___ to be at a very high risk for cardiac complications or 
+a stroke if ___ were to have an operation at this time. It is 
+recommended that ___ continue to recover from your stroke and 
+heart attack at a rehabilitation facility that will assist ___ 
+in regaining your strength and function.  
+
+Thank ___ for allowing us to participate in your care!
+
+Sincerely,
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,861 @@
+===== DISCHARGE NOTE =====
+note_id=19678538-DS-4 | hadm_id=28383469
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+___ - CT-guided drainage of a right psoas collection.
+___ - Debridement of left ventricular vegetation.
+___ - 1. Anterior incision and drainage. 2. Fusion L1-2. 
+3. Anterior spacer x1. 4. Autograft, allograft, bone morphogenic 
+protein. 5. Evacuation of pleural effusion.
+___ - 1. Total laminectomy of T11, T12, L1, and L2. 2. 
+Incision and drainage. 3. Debridement.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with no significant past 
+medical history who had onset of non-radiating low back pain 
+after shoveling 2 weeks ago. She developed a low-grade fever 
+last week and then developed bilateral anterior
+thigh pain and weakness the day before presentation. She 
+originally presented to ___ and was found to have a 
+urinary tract infection and left lower lobe pneumonia. A chest 
+CT demonstrated severe lumbar stenosis and a neurogenic bladder 
+and she was transferred to ___ for further management. Given 
+her severe lower extremity weakness on exam ___ association with 
+urinary retention, an MRI of her entire spine was performed 
+which was significant for a T11-L2 epidural abscess. She was 
+taken to the OR emergently for T11-L2 laminectomy. The 
+infectious disease service was consulted and were concerned for 
+possible endocarditis. A transesophageal echocardiogram revealed 
+a large vegetation on mitral valve. The cardiac surgery service 
+was consulted for mitral valve replacement. 
+
+ 
+Past Medical History:
+Coronary Artery Disease
+Depression
+Endocarditis 
+Epidural Abscess
+Pneumonia 
+Urinary Tract Infections, chronic
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admit PE:
+HR: 77.  BP: 94/53.  RR: 16.  O2 sat: 100% (intubated FiO2 100%, 
+PEEP 5)
+Height: 65"   Weight:55 kg
+
+General: intubated, opens eyes to voice 
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [unable to assess]
+Neck:  Supple [x] Full ROM [unable to assess]
+Chest: bibasilar crackles
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x] 
+Extremities: Warm [x], well-perfused [x]  Edema [x]: 1+ 
+bilateral pedal edema
+Varicosities: minimal
+Neuro: Grossly intact [unable to assess]
+Pulses:
+Femoral      Right: 1+  Left: 1+
+DP           Right: 2+  Left: 2+ 
+___           Right: 1+  Left: 2+
+Radial       Right: A-line ___ place   Left: 2+
+
+Carotid Bruit: none
+
+Discharge PE:
+HR: 95, SR.  BP: 100/64.  RR: 18.  O2 sat: 96% on RA
+Height: 65"   Weight: 53.2kg (preop 55 kg)
+
+General: thin, quiet, NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] anicteric, MM dry, Dobhoff tube ___ Right nare 
+[x]
+Neck:  Supple [x] Full ROM [x]
+Chest: clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Sternum: stable, incision healing well, no erythema, drainage or 
+warmth[x] 
+Abdomen: Soft [x] very mild distension BLQ [x] non-tender [x] 
+normoactive bowel sounds [x]
+Extremities: Warm [x], well-perfused [x]
+LUE PICC: clean, dry, intact [x]  
+Edema [x]: 1+ left foot/2+ right foot
+Neuro: Grossly intact [unable to assess]
+Pulses:
+DP           Right: 2+   Left: 2+ 
+___           Right: 2+   Left: 2+
+Radial       Right: 2+   Left: 2+
+
+ 
+Pertinent Results:
+STUDIES:
+Spine MR ___
+1. L1-L2 intervertebral disc abscess with large anterior 
+epidural abscess 
+component measuring up to 13.7 x 0.7 cm spanning the T10 through 
+L2 levels 
+with involvement of the posterior epidural space at the level of 
+L1-L2.  
+Minimal signal abnormality abutting the L2 superior endplate may 
+represent 
+developing osteomyelitis. Epidural collection produces up to 
+severe spinal 
+canal narrowing at L1-L2, with mild-to-moderate narrowing at the 
+other 
+involved levels. 
+2. Up to 9.0 x 1.8 x 2.2 cm rim enhancing prevertebral abscess 
+spanning the L1 through L3-L4 levels. 
+3. Equivocally rim enhancing right psoas fluid collection 
+measuring up to 1.4 x 1.2 cm ___ maximal axial ___ 
+spanning the L1 through L5 levels, likely representing 
+additional abscess. 
+4. Areas of heterogeneous signal abnormality within the 
+bilateral lung bases with trace bilateral pleural effusions, 
+better characterized on the same-day CT examination, likely 
+refer reflecting infection. 
+5. Wedge-shaped hypoenhancing focus of the visualized spleen, 
+corresponding to  splenic infarct, better characterized on the 
+concurrent CT examination. 
+6. Lytic lesions ___ the T12 and L4 vertebral bodies as seen on 
+the same-day CT examination correspond to hemangioma and focal 
+fat, respectively. 
+7. Other multilevel spinal degenerative changes, as described. 
+
+Transthoracic Echocardiogram ___
+The left atrium and right atrium are normal ___ cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. The 
+estimated right atrial pressure is ___ mmHg. Left ventricular 
+wall thicknesses and cavity size are normal. There is mild 
+global left ventricular hypokinesis with relative preservation 
+of apical segments. Quantitative biplane LVEF = 45 %. There is 
+no ventricular septal defect. Right ventricular chamber size and 
+free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. No 
+masses or vegetations are seen on the aortic valve. The mitral 
+valve leaflets are structurally normal. No mass or vegetation is 
+seen on the mitral valve. No mitral regurgitation is seen. The 
+pulmonary artery systolic pressure could not be determined. 
+There is a trivial/physiologic pericardial effusion. 
+
+IMPRESSION: No valvular pathology or pathologic flow identified. 
+Normal left ventricular cavity size with mild global hypokinesis 
+___ a pattern most c/w a non-ischemic cardiomyopathy (e.g., 
+tachycardia, toxin, metabolic, etc.).  
+
+Transesophageal Echocardiogram ___
+No mass/thrombus is seen ___ the left atrium or left atrial 
+appendage. No thrombus is seen ___ the right atrial appendage 
+Overall left ventricular systolic function is mildly depressed 
+(LVEF= 45 %). Right ventricular chamber size and free wall 
+motion are normal. The ascending, transverse and descending 
+thoracic aorta are normal ___ diameter and free of 
+atherosclerotic plaque to 40 cm from the incisors. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. There is a large vegetation on the 
+mitral valve (3cm x 1.5 cm ___ it's largest dimension). No mitral 
+valve abscess is definitively seen. The aortic, tricuspid and 
+pulmonic valves are all free of vegetations. There is a very 
+small pericardial effusion. 
+
+IMPRESSION: Large mobile mass/vegetation attached to the 
+posterior mitral valve annulus on the LV side. There is no 
+involvement of the aortic root or coronary sinuses and no mitral 
+valve regurgitation. Overall left ventricular function mildly 
+depressed globally (LVEF 45%).  
+
+Cardiac Catheterization ___
+Dominance: Right
+LMCA: without obstructive disease.
+LAD: without obstructive disease. ___ Diagonal without 
+obstructive disease.
+LCX without obstructive disease. ___ Marginal without 
+obstructive disease.
+RCA: 50% narrowed mid, small vessel. ight PDA is small without 
+obstructive disease.
+
+___ CT w/o contrast ___
+No acute intracranial process. Please note evaluation of 
+aneurysm is limited due to lack of IV contrasts. 
+
+Chest CT w/o contrast ___
+Normal caliber noncalcified thoracic aorta. Small to moderate 
+pericardial effusion, moderate left pleural effusion. Minimal 
+right pleural effusion and tiny pneumothorax ___ the right 
+hemithorax with a apical pleural drainage catheter. Multiple 
+lung abscesses presumably septic emboli, some of which may have 
+a hemorrhagic component. Large scale relaxation atelectasis left 
+lower lobe. Probable pneumonia right middle and lower lobes. 
+Reactive central adenopathy particularly ___ the left hilus. 
+
+CTA ___ and Neck ___
+1. No evidence of hemorrhage, large territorial infarct, or 
+mass. 
+2. No evidence of aneurysm. 
+3. 2 mm infundibulum of the origin of the right posterior 
+communicating 
+artery. 
+4. No flow-limiting stenosis, occlusion, or dissection of the 
+intracranial and cervical vascular structures. 
+5. Minimal atherosclerotic calcification ___ the left cavernous 
+internal 
+carotid artery and left proximal internal carotid artery without 
+stenosis. 
+6. Please see separate dictation performed on the same day for 
+detailed 
+evaluation of the chest. 
+
+MR ___ ___
+1. Sagittal diffusion-weighted sequences of the cervical spine 
+is severely 
+motion degraded and nondiagnostic below the C4 level. There is 
+no evidence of cord infarct from the craniocervical junction to 
+the C4 level. 
+2. Sagittal and axial T1 postcontrast sequences are at least 
+moderately motion degraded.  Within these confines: There is no 
+evidence of abnormal T2/STIR hyperintense signal or enhancement 
+of the cervical spine. 
+3. There is STIR hyperintense marrow signal of the left C3-C4 
+facet with mild facet effusion and surrounding enhancing soft 
+tissue.  This is similar ___ appearance to prior examination of 
+___, allowing for motion degradation on today's 
+examination. This may represent degenerative facetitis, however, 
+given the patient's history of septic emboli, close attention 
+and clinical correlation is recommended to exclude septic joint. 
+
+4. Moderate left and mild right pleural effusion and additional 
+findings as described above. 
+
+MR ___ ___
+1. There multiple punctate foci of restricted diffusion 
+bilaterally, more 
+prominent on the right, consistent with acute/early subacute 
+infarcts.  There is no intraparenchymal abscess, hemorrhage or 
+cerebritis. 
+
+Transesophageal Echocardiogram (intraoperative) ___
+Pre-CPB:
+No spontaneous echo contrast is seen ___ the left atrial 
+appendage. Overall left ventricular systolic function is 
+severely depressed (LVEF= ___ %). with mild global free wall 
+hypokinesis. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. There is a probable vegetation on the 
+ventricular side of the mitral valve. It is very mobile, 
+measuring 1.7 x 2.6 cm. It seems attached to the chords of the 
+posterior leaflet. It moves ___ the LVOT almost to the aortic 
+leaflets. Trivial mitral regurgitation is seen. There is a small 
+pericardial effusion. 
+
+Post-CPB:
+EF ___ on Levophed drip. Trivial MR, vegetation no longer 
+visible. No pericardial effusion seen. Left pleural effusion 
+drained. Aorta intact after decannulation.
+
+Right Upper Quadrant Ultrasound ___
+Minimal gallbladder sludge with no other biliary tract 
+abnormalities.  Normal appearing liver. Small cystic area ___ the 
+spleen likely residual of prior infarction. Trace ascites and 
+left pleural effusion also noted. 
+  
+Multiple tiny pancreatic cysts scattered throughout the ___ and 
+body 
+suggestive of possible IPMN. Recommend follow-up with outpatient 
+MRI when 
+patient has recovered. 
+
+CT Abdomen and Pelvis ___
+1. Bilateral small hydropneumothoraces (there are bilateral 
+chest tubes) and multifocal pneumonia within the visualized 
+portions of the right middle lobe and both lower lobes including 
+regions of developing cavitation ___ the left lower lobe. 
+2. Multiple large splenic infarcts without presence of rim 
+enhancing fluid 
+collections to suggest abscess formation at these sites. 
+3. Evolution of right psoas abscess measuring up to 2.1 cm ___ 
+maximal 
+thickness. 
+4. Hypoattenuation within the distal pancreatic body may 
+represent parenchymal edema and/or acute pancreatitis. 
+5. The known infrarenal IVC thrombus appears larger compared to 
+the CT dated ___, but remains nonocclusive. 
+6. Distended urinary bladder despite presence of a Foley 
+catheter.  This may be secondary to a clamped versus a 
+malfunctioning catheter. 
+7. Status post thoracolumbar laminectomies and interbody graft 
+placement at L1-2 without evidence of complication. 
+
+CT ___ ___
+There stable small punctate early subacute infarcts, as seen on 
+MRI ___. There is new trace subarachnoid hemorrhage 
+overlying left frontal lobe. 
+
+CT ___ ___
+Stable trace subarachnoid hemorrhage overlying the frontal lobe. 
+No parenchymal hemorrhage. Stable few punctate foci of early 
+subacute infarcts. No new abnormalities. 
+
+Lower Extremity Venous Ultrasound ___
+No evidence of deep venous thrombosis ___ the right or left lower 
+extremity 
+veins. 
+
+Cerebral Angiogram ___
+No evidence of infectious aneurysm or other vascular lesion to 
+explain the 
+patient's hemorrhage. 
+
+CT ___ and Neck ___
+No evidence of mycotic aneurysm.
+
+CT Chest ___
+1. Interval development of cavitation of pre-existing lung 
+abscess ___ the right middle and right lower lobe. Otherwise, 
+overall unchanged appearance of multiple cavitary lung lesions. 
+2. New small to moderate right pleural effusion since removal of 
+the chest tube. Stable moderate left pleural effusion. 
+3. Small amount of filling defect ___ the SVC, origin of the 
+right subclavian vein and the right internal jugular vein, which 
+may be nonocclusive thrombus versus valves.  If clinically 
+indicated, ultrasound may be helpful. 
+
+CT Abdomen and Pelvis ___
+1. New small right pelvic hematoma adjacent to the iliac 
+vessels. 
+2. Stable splenic infarcts.  No rim enhancing fluid collection 
+to suggest 
+splenic abscess. 
+3. Mild decrease ___ size of right psoas abscess. Pigtail 
+catheter well 
+positioned. 
+4. Mild decrease ___ sizes ___ focal infrarenal IVC thrombus. 
+5. Intra-abdominal and pelvic ascites unchanged. 
+6. New edema ___ the rectum and sigmoid colon walls, likely 
+related to third spacing, with differential including colitis. 
+7. Diffuse anasarca. 
+
+KUB ___: No evidence of intraperitoneal free air or  bowel 
+obstruction.
+
+PA/LAT CXR ___: 
+Compared to most recent prior, there is improved aeration of the 
+right lower lobe.  Multiple bilateral cavitary lung nodules were 
+better seen on prior CT, and likely represent septic emboli.  
+There is scarring of the right apex. Cardiomediastinal and hilar 
+silhouettes are unchanged.  Stable cardiomegaly.  Unchanged 
+bilateral pleural effusions, with associated atelectasis.  No 
+pneumothorax.  Left-sided PICC is seen with the tip terminating 
+___ the lower SVC.  NG tube is ___ place with tip terminating 
+below the diaphragm, outside the field of view. 
+  
+IMPRESSION:    
+1.  Unchanged bilateral pleural effusions. 
+2.  Multiple bilateral cavitated lung nodules likely 
+representing septic 
+emboli were better seen on prior CT. 
+3.  Improved aeration of the right lower lung. 
+
+CT ABD/PELVIS w/IV CONTRAST ___:
+COMPARISON:  CT of the abdomen and pelvis from ___.   
+FINDINGS:    
+LOWER CHEST: Atelectasis is again noted ___ the bilateral lobes, 
+with interval decrease ___ size ___ cavitated lung lesions ___ the 
+left lower lobe.  There are unchanged  bilateral small pleural 
+effusions, left greater than right.  
+ABDOMEN:   
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions.  There is no evidence of 
+intrahepatic or extrahepatic biliary dilatation.  The 
+gallbladder is within normal limits. There is small volume 
+ascites. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of focal lesions or pancreatic ductal 
+dilatation.  There is no peripancreatic stranding. 
+  
+SPLEEN: Similar appearance of with the multiple splenic 
+infarcts, with no 
+evidence of splenic abscess. 
+  
+ADRENALS: The right and left adrenal glands are normal ___ size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  There is no evidence of focal renal lesions 
+or hydronephrosis.  There is no perinephric abnormality. 
+  
+GASTROINTESTINAL: Enteric tube is again noted within the distal 
+stomach.  
+Small bowel loops demonstrate normal caliber, wall thickness, 
+and enhancement throughout.  The colon and rectum are within 
+normal limits. 
+  
+PELVIS: There is a Foley catheter within the bladder.  Gas  
+noted within the bladder is secondary to instrumentation.  There 
+has been a mild interval decrease ___ size ___ the moderate amount 
+of  free fluid within the cul-de-sac along with enhancement of 
+the peritoneal reflection. 
+  
+REPRODUCTIVE ORGANS: The visualized reproductive organs are 
+unremarkable. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  No 
+atherosclerotic disease is noted. 
+  
+BONES: The patient is status post T12- L2 laminectomy and L1-L2 
+fusion due to discitis.  Mild retrolisthesis grade 1 of L3 on L4 
+is again noted.  
+Hemangiomas are redemonstrated ___ T12 and L4 vertebral body.  
+There are no 
+enhancing fluid collection tracking from T12 to L2 vertebral 
+body which is 
+likely postsurgical. 
+  
+SOFT TISSUES: A percutaneous pigtail catheter is again noted 
+within an abscess ___ the right psoas muscle, which has slightly 
+decreased ___ size since prior study, measuring 1.7 x 1.3 cm ___ 
+maximal dimension (2:3), compared to 2.6 x 2.1 cm previously. 
+  
+IMPRESSION:   
+1. Percutaneous pigtail catheter is redemonstrated ___ a right 
+psoas abscess which is slightly decreased ___ size compared to 
+prior. 
+2. Mild interval decrease ___ size ___ moderate amount of fluid 
+within the cul de sac along with mild enhancement of the 
+peritoneum with no organized 
+collection noted. 
+3. Multiple splenic infarcts are redemonstrated with no evidence 
+of abscess. 
+4. Limited evaluation of the lung bases shows mild interval 
+decrease ___ size ___ cavitary lung lesions ___ the left lower lobe 
+concerning for septic emboli. 
+Labs:
+Admit:
+___ 06:15PM BLOOD WBC-22.9* RBC-2.96* Hgb-9.6* Hct-27.2* 
+MCV-92 MCH-32.4* MCHC-35.3 RDW-13.0 RDWSD-43.3 Plt ___
+___ 06:15PM BLOOD ___ PTT-29.1 ___
+___ 06:15PM BLOOD Glucose-102* UreaN-21* Creat-0.7 Na-133 
+K-3.5 Cl-98 HCO3-21* AnGap-18
+___ 06:15PM BLOOD ALT-37 AST-34 CK(CPK)-162 AlkPhos-123* 
+TotBili-0.7
+___ 06:15PM BLOOD Lipase-16
+___ 01:12PM BLOOD %HbA1c-5.7 eAG-117
+___ 06:15PM BLOOD Albumin-1.8*
+___ 01:18PM BLOOD CK-MB-3 cTropnT-0.04*
+___ 09:03PM BLOOD CK-MB-4 cTropnT-0.04*
+___ 12:57AM BLOOD CK-MB-5 cTropnT-0.05*
+___ 12:15PM BLOOD cTropnT-0.20*
+
+Discharge:
+___ 03:58AM BLOOD WBC-10.5* RBC-2.39* Hgb-7.5* Hct-23.8* 
+MCV-100* MCH-31.4 MCHC-31.5* RDW-19.2* RDWSD-69.5* Plt ___
+___ 02:36AM BLOOD ___ PTT-26.9 ___
+___ 03:58AM BLOOD Glucose-152* UreaN-17 Creat-0.6 Na-134 
+K-4.4 Cl-97 HCO3-27 AnGap-14
+___ 04:40AM BLOOD ALT-11 AST-19 LD(LDH)-275* AlkPhos-91 
+Amylase-40 TotBili-0.4
+
+MICRO:
+___ UA:
+___ 04:32AM URINE Color-Yellow Appear-Cloudy Sp ___
+___ 04:32AM URINE Blood-MOD Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-LG
+___ 04:32AM URINE RBC-41* WBC->182* Bacteri-MANY Yeast-NONE 
+Epi-0
+___ 04:32AM URINE Mucous-MANY
+___ 04:32AM URINE
+___: URINE CULTURE & SENSITIVITY: Pending/NGTD
+ 
+ 
+___ 11:01 pm STOOL     CONSISTENCY: SOFT      Source: 
+Stool. 
+                            **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Cepheid nucleic 
+acid
+      amplification assay.. 
+           (Reference Range-Negative). 
+
+ 
+___ 9:42 am BLOOD CULTURE      Source: Venipuncture #1. 
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH.  
+ 
+___ 9:43 am BLOOD CULTURE      Source: Line-PICC #2. 
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+Time Taken Not Noted     ___ Date/Time: ___ 4:58 pm
+      ABSCESS   **FINAL REPORT ___
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   FLUID CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 12:14 pm SWAB      LEFT VENTRICULAR SWAB. 
+GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+   FUNGAL CULTURE (Final ___: 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      Inappropriate specimen collection (swab) for Fungal Smear 
+(___). 
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 12:13 pm TISSUE      LEFT VENTRICULAR MASS. 
+   GRAM STAIN (Final ___: 
+      Reported to and read back by ___. ___ (___) @ 
+510PM ON
+      ___. 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND SINGLY. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------<=0.25 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+   FUNGAL CULTURE (Final ___:    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      NO FUNGAL ELEMENTS SEEN. 
+
+ ___ 6:15 pm BLOOD CULTURE
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      STAPH AUREUS COAG +.    FINAL SENSITIVITIES. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI ___ CLUSTERS. 
+      Reported to and read back by ___ (___) ___ 
+AT 1112. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI ___ CLUSTERS. 
+ 
+
+ 
+Brief Hospital Course:
+She was taken to the operating room on ___ and underwent 
+debridement of left ventricular vegetation. Please see operative 
+note for full details. She tolerated the procedure well and was 
+transferred to the CVICU ___ stable condition for recovery and 
+invasive monitoring. Due to the complexity of her 
+hospitalization, the remainder of this summary will be divided 
+by systems.
+
+Neuro:
+On the morning of ___ she was noted to be more confused by 
+her nurse. Neurology was consulted and upon their evaluation 
+there was no speech production, she was inconsistently following 
+commands, she had left gaze preference, plegic left arm, 
+decreased movement of the left leg compared to the right. 
+However, over a period of 30 minutes, her exam greatly improved 
+to the point where she was somewhat somnolent but was producing 
+understandable speech, following commands consistently, had 
+normal extraocular movements, improved weakness of the left arm 
+with good antigravity effort, and improvement ___ the left leg as 
+well. Given the rapid resolution of her symptoms it was thought 
+to be small embolic strokes versus TIA. Spine and brain MRI was 
+recommended to rule out spinal cord septic embolism. The studies 
+were significant for small punctate ischemic infarcts, primarily 
+right frontal cortex. No
+evidence of hemorrhage, abscess, or parenchymal inflammation 
+(cerebritis). CTA without evidence of mycotic aneurysm. 
+
+Postoperatively she intermittently followed commands and 
+remained intubated and sedated. Repeat brain imaging was 
+significant for a trace subarachnoid hemorrhage overlying the 
+frontal lobe. Neurosurgery was consulted and cerebral angiogram 
+was recommended. The study revealed no evidence of infectious 
+aneurysm or other vascular lesion to explain the hemorrhage. No 
+further evaluation or intervention was recommended. She weaned 
+from sedation and was awake and alert on ___. A ___ and 
+neck CTA on ___ demonstrated no evidence of mycotic 
+aneurysm. 
+
+Resp:
+She remained intubated until postoperative day ___ and has 
+since weaned to room air.  Her most recent chest imaging shows 
+stable bilateral pleural effusions and multiple bilateral 
+cavitated lung nodules. 
+ 
+
+Cardiac:
+She was weaned from inotropic and vasopressor support. Beta 
+blocker was initiated and she was diuresed toward her 
+preoperative weight. She remained hemodynamically stable and was 
+transferred to the telemetry floor for further recovery.  
+
+GI:
+A preoperative right upper quadrant ultrasound on ___ 
+revealed normal liver, gallbladder sludge, splenic infarct, and 
+pancreatic cysts. Tube feeds were initiated to maintain 
+nutrition during prolonged intubation. She will need outpatient 
+follow up with MRI imaging for management of pancreatic cysts.  
+She has had loose stools with negative CDiff check, and these 
+are felt to be due to tube feeds and magnesium supplementation.
+
+Renal:
+She developed hypernatremia which improved with Kphos ___ D5W.  
+She is receiving free water flushes with her tube feeds.
+
+Heme:
+She was transfused blood products for acute blood loss anemia.
+
+ID:
+She presented with epidural abscess, splenic abscess, and psoas 
+abscess. Cultures were positive for MSSA and she was started on 
+Nafcillin which will continue until ___. Psoas abscess was 
+managed with CT guided drainage of the collection. ACS continued 
+to follow Mrs. ___ for her splenic abscess. CT of the 
+abdomen and pelvis on ___ demonstrated multiple large 
+wedge-shaped regions of 
+hypoattenuation ___ the spleen, not appreciably changed compared 
+to prior. There is no rim enhancement to suggest abscess 
+formation.  Her foley catheter was replaced for urinary 
+retention on ___ and she was empricially started on 7day 
+course Ciprofloxacin for positive urinalysis (Culture & 
+sensitivity pending).
+
+Access:
+Left subclavian PICC line was placed on ___. 
+She is taking POs with supplemental nutrition via tube feeds. 
+
+  
+She was evaluated by the occupational and physical therapy 
+services for assistance with strength and mobility. By the time 
+of discharge on post-op days 22, 20 and 18 she was 
+deconditioned, the wound was healing, and pain was controlled 
+with oral analgesics. She was discharged to ___ ___ 
+___ ___ good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+1. Cyclobenzaprine 10 mg PO TID:PRN prn 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO/PR Q4H:PRN pain or temperature >38.0 
+ 
+2.  Aspirin 81 mg NG DAILY  
+3.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation   
+4.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days  
+5.  Docusate Sodium 100 mg PO BID:PRN constipation  
+6.  FLUoxetine 20 mg PO DAILY  
+7.  Furosemide 20 mg PO BID Duration: 7 Days 
+BID for 7 days, then decrease to daily and reevaluate for 
+further decrease  
+8.  Heparin 5000 UNIT SC BID  
+9.  Magnesium Oxide 400 mg PO BID 
+hold for loose stools  
+10.  Metoprolol Tartrate 75 mg PO Q8H 
+hold if SBP<95 or HR<60  
+11.  Nafcillin 2 g IV Q4H 
+last dose planned for ___  
+12.  Pantoprazole 40 mg PO Q24H  
+13.  Polyethylene Glycol 17 g PO DAILY:PRN constipation   
+14.  Potassium Chloride 40 mEq PO BID  
+15.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+MSSA Sepsis
+Acute Blood Loss Anemia
+Coronary Artery Disease 
+Embolic Stroke vs. TIA
+Endocarditis
+Epidural Abscess
+Hypernatremia
+Pancreatic Cysts
+Pneumonia 
+Splenic Infarct
+Depression
+Urinary Tract Infections, chronic
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal
+Deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Wear brace at all times when sitting up or OOB or ambulating
+Edema- 1+ L foot/2+ R foot
+PICC LUE - clean, dry, intact
+Dobhoff tube ___ R nare
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then ___ the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,160 @@
+===== DISCHARGE NOTE =====
+note_id=17393095-DS-9 | hadm_id=23890982
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+clot retention
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ Parkonsian s/p TURP with clot retention
+ 
+Brief Hospital Course:
+Patient was admitted to the Urology service after clot was 
+cleared on continuous bladder irrigation. His cbi was weaned off 
+and he was discharged home with his foley in place to followup 
+with Dr. ___ removal.
+ 
+Discharge Medications:
+1. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed.  
+2. Carbidopa-Levodopa ___ mg Tablet Sig: One (1) Tablet PO 
+TID (3 times a day).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+clot retention
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+- resume medications
+
+- foley care instructions
+
+- call Dr. ___ to schedule followup
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17393095-DS-8 | hadm_id=26437254
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: UROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+bph
+ 
+Major Surgical or Invasive Procedure:
+TURP
+ 
+History of Present Illness:
+___ M with BPH s/p TURP
+
+ 
+Brief Hospital Course:
+The patient was admitted to Urology service after transuretral 
+resection of prostate. No concerning intraoperative events 
+occurred; please see dictated operative note for details. He 
+patient received ___ antibiotic prophylaxis. 
+Patient's postoperative course was uncomplicated. He received 
+intravenous antibiotics and continous bladder irrigation 
+overnight. On POD1, the CBI was discontinued.  His urine via 
+catheter was clear yellow without clots. He remained afebrile 
+throughout his hospital stay.  At discharge, patient's pain well 
+controlled with oral pain medications, tolerating regular diet, 
+ambulating without assistance. He is given oral pain medications 
+on discharge, without antibiotics. He is given explicit 
+instructions to call for follow-up.
+
+ 
+Discharge Medications:
+1. Hydrocodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Carbidopa-Levodopa ___ mg Tablet Sig: One (1) Tablet PO 
+TID (3 times a day).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+BPH
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+You may shower and bathe normally.  Do not drive or drink 
+alcohol if taking narcotic pain medication.  Resume all of your 
+home medications, but please avoid aspirin/advil for three 
+weeks.   Call Dr. ___ for appointment (___) 
+AND if you have any urological questions.  If you have fevers > 
+101.5 F, vomiting, severe abdominal pain, or inability to 
+urinate, call your doctor or go to the nearest emergency room.
+
+ 
+
+The operation you have experienced is a "scraping" operation. 
+Bleeding was controlled with electrocautery which has produced a 
+"scab" in the channel through which the urine passes (the 
+urethra). About ___ weeks after the operation, pieces of the 
+scab will fall off and come out with the urine. As this occurs, 
+bleeding may be noted which is normal. You should not worry 
+about this. Simply lie down and increase your fluid intake for a 
+few hours. In most cases, the urine will clear. If bleeding 
+occurs or persists for more than 12 hours or if clots appear 
+impairing your stream, call your surgeon. Because of the 
+potential for bleeding, aspirin (or Advil) should be avoided for 
+the first 3 weeks after surgery.
+
+You will be given a prescription for antibiotics to be taken for 
+a few days after surgery. This is to help prevent infection. If 
+you develop a fever over 101°, chills, or pain in the testicles, 
+call your surgeon. Although not common, this may indicate 
+infection that has developed beyond the control of the 
+antibiotics that you have taken.
+
+*** Call Dr. ___ office to schedule followup appointment 
+for removal of catheter in 1 week.
+
+ 
+Followup Instructions:
+___

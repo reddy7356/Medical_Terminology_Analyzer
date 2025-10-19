@@ -1,0 +1,189 @@
+===== DISCHARGE NOTE =====
+note_id=17885565-DS-18 | hadm_id=21753049
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Pt is a ___ year old female w/out cardiac hx or risk factors
+presenting with palpitations associated with 'chest discomfort'
+for approximately 9 days. Pt states she was in usual state of
+health until ___ days before ___ at which time she began
+developing intermittent palpitations. Describes as feeling that
+she could "feel my heart beating". Last ___ minutes and then
+resolved. No obvious precipitating factors, often occur at rest.
+Associated with what patient describes as "chest discomfort"
+which localized diffusely across the chest with radiation to the
+jaw. Additionally, had mild dyspnea on exertion and orthopnea
+with symptoms. Patient denies fevers, chills, chest pain, 
+nausea,
+vomiting, diarrhea, myalgias, sore throat, nasal congestion. No
+sick contacts. Denies recreational drugs or tobacco use. Recent
+travel outside the ___ to ___ 2 months ago and ___
+approximately ___ year prior. 
+
+Pt became increasingly concerned about symptoms and decided to
+present to ___ ED for further management
+ 
+Past Medical History:
+ Borderline hyperlipidemia (not on medication at home)
+- Hx of nephrolithiasis
+ 
+Social History:
+___
+Family History:
+Grandmother had CHF, mother had kidney failure unspecified,
+father had diabetes)
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: BP: 123/78; HR: 80; RR:20; O2 Sat: 99 
+GENERAL: Comfortable, no apparent distress
+NECK: Supple. JVP of 10 cm  
+CARDIAC:Normal S1, S2. No murmur, positive friction rub
+LUNGS: Respiration is unlabored with no accessory muscle use.
+CTAB No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No rashes.  
+PULSES: Radial and DP 2+ pulses  
+
+DISCHARGE EXAM:
+___ 1100 Temp: 98.4 PO BP: 93/63 L Lying HR: 74 RR: 18 
+O2
+sat: 98% O2 delivery: Ra 
+GENERAL: Comfortable, no apparent distress
+NECK: Supple. JVP of 10 cm  
+CARDIAC: Normal S1, S2. No murmur, rub could not be auscultated  
+
+LUNGS: Respiration is unlabored with no accessory muscle use.
+CTAB No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No rashes.  
+PULSES: Radial and DP 2+ pulses
+ 
+Pertinent Results:
+ADMISSION RESULTS:
+
+___ 08:03AM BLOOD WBC-6.2 RBC-4.54 Hgb-13.6 Hct-40.7 MCV-90 
+MCH-30.0 MCHC-33.4 RDW-12.3 RDWSD-40.7 Plt ___
+___ 08:03AM BLOOD Glucose-98 UreaN-12 Creat-0.8 Na-142 
+K-4.3 Cl-108 HCO3-22 AnGap-12
+
+DISCHARGE RESULTS:
+
+___ 08:03AM BLOOD WBC-6.2 RBC-4.54 Hgb-13.6 Hct-40.7 MCV-90 
+MCH-30.0 MCHC-33.4 RDW-12.3 RDWSD-40.7 Plt ___
+___ 08:03AM BLOOD Glucose-98 UreaN-12 Creat-0.8 Na-142 
+K-4.3 Cl-108 HCO3-22 AnGap-___ year old female w/ no significant past medical hx presenting 
+w/ palpitations and chest discomfort with diffuse concave ST 
+elevations/PR depressions and negative troponins overall 
+concerning for pericarditis. 
+
+TRANSITIONAL ISSUES:
+======================
+[] Consider event monitor to further elucidate etiology of 
+palpitations.
+[] Continue treatment of presumed pericarditis with 3 months of 
+colchicine therapy.
+[] Consider autoimmune evaluation given idiopathic nature of 
+pericarditis and history of "very severe conjunctivitis" in 
+___.
+[] Discharged with script for ibuprofen for symptomatic relief 
+and pantoprazole for GI prophylaxis. Please discontinue 
+pantoprazole when patient is no longer taking NSAIDs.
+
+ACUTE ISSUES:
+===============
+# Presumed pericarditis
+Patient presenting with 8 days of chest discomfort and 
+palpitations with ECG showing diffuse ST segment elevations/PR 
+depressions. Troponins negative. Friction rub appreciated on 
+auscultation. Unclear etiology given lack of viral prodrome, 
+other systemic symptoms to suggest malignancy. The differential 
+would also include autoimmune etiologies, which can be further 
+evaluated as an outpatient. Of note, she relays a history of 
+"very severe conjunctivitis" in ___ that was evaluated 
+by a doctor in ___, which could be consistent with 
+episcleritis and point to a potential autoimmune etiology. She 
+underwent TTE that showed normal biventricular function and did 
+not show pericardial effusion. She was treated with colchicine 
+and offered ibuprofen for symptomatic relief, though did not 
+need it while hospitalized.
+
+CHRONIC ISSUES:
+=================
+-None
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO QPM 
+RX *colchicine 0.6 mg 1 tablet(s) by mouth qPM Disp #*90 Tablet 
+Refills:*0 
+2.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth Every 8 hours Disp 
+#*25 Tablet Refills:*0 
+3.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Pericarditis
+Palpitations
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ from ___.
+
+WHY WERE YOU ADMITTED?
+- You were admitted because you had chest discomfort and the 
+feeling of a fast heart rate (palpitations).
+
+WHAT DID WE DO WHILE YOU WERE ADMITTED?
+- We did many tests, which showed that you might have swelling 
+of the area around your heart that could cause these symptoms.
+- We treated you with new medications to fix the swelling.
+
+WHAT SHOULD YOU DO AFTER YOU LEAVE THE HOSPITAL?
+- Take all of your medications as prescribed.
+- Follow up with your doctors, as listed in this packet.
+ 
+Followup Instructions:
+___

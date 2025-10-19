@@ -1,0 +1,340 @@
+===== DISCHARGE NOTE =====
+note_id=12603537-DS-20 | hadm_id=20052724
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+arm weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+PCP: 
+Name: ___ 
+Location: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+
+Admission ___ 0400
+
+CC:arm weakness
+
+___ heavy smoker with recently diagnosed lung mass(no tissue 
+dx to confirm pathology) who was driving today and noted right 
+arm and leg shaking that was episodic in nature and associated 
+with weakness and numbness. 
+
+He was taken to an OSH where a CT scan with and without contrast 
+revealed numerous lesions consitent with metastatic disease vs. 
+abscess. He received a dilantin load and a dose of decadron and 
+was sent to ___ for further eval.  
+
+In ER: VSS. He was seen by neurology and neurosurgery who 
+recommended keppra bid, MRI brain, and oncology w/u.
+
+ROS:  
+-Constitutional: []WNL []Weight loss [x]Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia  
+-Eyes: []WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia  
+-ENT: []WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat  
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough 
+ 
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Heme/Lymph: []WNL []Bleeding []Bruising []Lymphadenopathy  
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]Discharge []Menorrhagia  
+-Skin: [x]WNL []Rash []Pruritus  
+-Endocrine: []WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance  
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain  
+-Neurological: [ ]WNL [x]Numbness of extremities [x]Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion []Headache  
+
+ 
+Past Medical History:
+HTN
+diabetes
+
+ 
+Social History:
+___
+Family History:
+no FHx of cancer
+ 
+Physical Exam:
+VS: T P BP O2 %RA L NC admit weight: lbs/kg
+Gen: Well/ill appearing, no acute distress, awake, alert, 
+appropriate, and oriented x 3, poor hygiene.
+Skin: warm/cool to touch, no apparent rashes. 
+HEENT: No conjunctival pallor, no scleral jaundice, PERRLA, 
+EOMI, OP clear, no cervical LAD, no palpable thyroid nodules.
+CV: JVP cmH20, carotid w/o bruits, diminished heart sounds, RRR 
+no audible m/r/g, PMI non-displaced, no RV heave, pulses R-DP 
+2+/1+/doppler, L-DP 2+/1+/Doppler, R-radial 2+/1+/Doppler, 
+L-radial 2+/1+/Doppler, No/1+/2+/3+ peripheral edema.
+Lungs: clear to auscultation, wheezing, crackles, fremitus, 
+dullness to percussion.
+Abd: soft, NT, normal BS, hemoccult neg. No hepatomegaly, No 
+splenomegaly. No abd bruits.
+Ext: No C/C/E
+Neuro: Gait, strength and sensation intact bilaterally. 
+
+ 
+Pertinent Results:
+___ 08:00PM   GLUCOSE-154* UREA N-11 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-25 ANION GAP-16
+___ 08:00PM   estGFR-Using this
+___ 08:00PM   CALCIUM-9.5 PHOSPHATE-2.9 MAGNESIUM-1.7
+___ 08:00PM   PHENYTOIN-11.0
+___ 08:00PM   WBC-9.6 RBC-5.72 HGB-16.4 HCT-47.6 MCV-83 
+MCH-28.6 MCHC-34.4 RDW-13.9
+___ 08:00PM   NEUTS-91.1* LYMPHS-5.6* MONOS-1.5* EOS-1.4 
+BASOS-0.5
+___ 08:00PM   PLT COUNT-214
+___ 08:00PM   ___ PTT-30.9 ___
+___ 08:00PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 08:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 08:00PM URINE  RBC-0 ___ BACTERIA-NONE YEAST-NONE 
+___
+.
+Final Report 
+INDICATION: Newly diagnosed brain metastasis, unknown primary. 
+  
+No comparison studies available. 
+  
+TECHNIQUE: MDCT-acquired axial images of the chest, abdomen, and 
+pelvis were 
+obtained with use of IV and p.o. contrast. Coronal and sagittal 
+reformats 
+were performed with 5-mm slice thickness. 
+  
+CT OF THE CHEST WITH IV CONTRAST: A 14-mm right thyroid nodule 
+is present 
+(5:11). Scattered axillary and mediastinal lymph nodes do not 
+meet CT 
+criteria for lymphadenopathy. The heart size is normal. There is 
+no 
+pericardial effusion. The great vessels are patent and normal in 
+caliber.  
+There is moderately severe atherosclerotic calcification of the 
+thoracic 
+aorta. 
+  
+A 35 x 27 mm mass is present within the right upper lobe (5:27). 
+A 66 x 51 mm 
+mass is present within the left lower lobe (5:32) with 
+obstructive compression 
+of neighboring bronchioles, with neighboring atelectasis. 
+Neighboring small 
+left pleural effusion is present. The mass appears to encompass 
+over 50% of 
+the thoracic aorta and the superior border (5:27). 
+  
+CT OF THE ABDOMEN WITH IV CONTRAST:  
+Multiple hypodense lesions are present throughout the liver. The 
+largest 
+measures 50 x 42 mm (5:65). A neighboring 31 x 19 mm lesion 
+demonstrates 
+heterogeneous enhancement (5:66), concerning for neoplasm. Other 
+
+subcentimeter lesions are to small for further 
+characterization(5:52, 55, 46). 
+There is no intrahepatic biliary ductal dilatation. A 27 x 23 mm 
+
+heterogeneous lesion is present within the spleen (5:56). 
+Multiple hypodense 
+lesions are also present within both kidneys, including a mid 
+pole 8-mm left 
+renal lesion (5:63), a 1 cm left lower pole lesion (5:76), and a 
+subcentimeter 
+hypodensity within the upper pole of the right kidney (5:55). A 
+heterogeneous 
+lesion arises from the posterior aspect of the right kidney 
+(5:68), too small 
+to characterize, but concerning in the presence of multiple 
+solid abdominal 
+lesions. There is a duplicated left ureter with mild dilation of 
+the upper 
+duct, with convergence witin the proximal segment of the 
+collecting system 
+(5:77). There is no left hydronephrosis. 
+  
+A hypoenhancing 10-mm nodule is present within the left adrenal 
+gland (5:60).  
+The right adrenal gland, pancreas, stomach, and intra-abdominal 
+loops of small 
+and large bowel are unremarkable. There is no mesenteric or 
+retroperitoneal 
+lymphadenopathy. There is no free air or free fluid. 
+  
+CT OF THE PELVIS WITH IV CONTRAST:  
+The rectum is normal. Extensive diverticulosis of the sigmoid 
+and descending 
+colon is present, with no evidence of diverticulitis. The 
+remaining 
+intrapelvic loops of small and large bowel are unremarkable. The 
+appendix is 
+normal. There is no intrapelvic free fluid or lymphadenopathy 
+detected. The 
+bladder, prostate, and seminal vesicles appear normal. 
+  
+OSSEOUS STRUCTURES: A destructive, expansile lytic lesion is 
+present within 
+the sternum, measuring 25 x 16 mm (5:30). A destructive lytic 
+lesion is also 
+present within the left femoral head, measuring 23 x 21 mm 
+(5:112). 
+  
+IMPRESSION: Multiple masses within both lungs, liver, spleen, 
+left adrenal 
+gland, kidneys, and bones are concerning for metastatic disease. 
+This 
+constellation of findings, in combination with known brain 
+metastasis, is most 
+likely pulmonary in origin, however, a biopsy is recommended for 
+a more 
+definitive diagnosis.  
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+___. ___ 
+___. ___ 
+___: SAT ___ 12:24 AM 
+
+Multiple rim enhancing lesions are seen in the left frontal, 
+left parietal, 
+bilateral occipital and both cerebellar regions. Mild vasogenic 
+edema is seen 
+surrounding the lesion in the left frontal region with mild 
+effacement of the 
+left frontal horn, this is similar to the prior CT of ___. 
+No midline 
+shift. Mild edema is seen around the lesions in the right 
+parietal and 
+occipital regions. No obstructive hydrocephalus seen. D/w 
+___ at 9.30 A.M 
+kkaliann. 
+  
+___. ___ 
+___ entered: SAT ___ 9:41 AM 
+
+ 
+Brief Hospital Course:
+___ with new seizure likely secondary to brain mets from a lung 
+CA although none of this has been confirmed with a tissue 
+diagnosis. Patient admitted for seizure control and further w/u 
+of his underlying condition. 
+.
+SEIZURE, PARTIAL: Partial, no LOC.  Most likely related to 
+metastatic brain disease.  Asymptomatic on the ward.  Started on 
+keppra.  Neurology and Neurosurgery consulted.  MRI brain 
+performed showing multiple metastatic lesions, but no 
+significant vasogenic edema, midline shift, hydrocephalus.  
+Neurosurgery recommended no intervention, recommended no 
+decadron.  Neurology recommended continuation of keppra for sz 
+ppx.
+.
+Malignancy, metastatic: PCP recently diagnosed him with a lung 
+mass.  He underwent CT Torso as well as MRI brain showing stage 
+IV disease.  Labs fairly unremarkable.  On discussion with pt. 
+he elected not to pursue evaluation via biopsy.  He is 
+ambivalent about pursuing any further evaluation for this 
+disease.  He expressed his desire to be discharged home and to 
+follow up with his primary MD for ongoing discussion of plan 
+moving forward for possible hospice care or further eval via 
+bronchoscopic biopsy.  I discussed this with Dr. ___, 
+___ for Dr. ___ on ___ over the phone.  He agreed and 
+understood.  Given pt.s stable clinical status he was discharged 
+home - I discussed at length with his son who came to pick him 
+up from hospital.  Pt. will follow up with Dr. ___ week 
+to discuss further evaluation and treatment vs. hospice care.
+.
+HYPERTENSION, BENIGN: Continued home regimen with good control
+.
+DIABETES TYPE II, CONTROLLED, W/O COMPLICATIONS: stable - 
+insulin prescribed while in hospital, resumed metformin on 
+discharge.
+.
+Depression: Social work consulted.  Started on low dose Celexa.
+
+ 
+Medications on Admission:
+Metformin dose unknown
+Hydralazine 25mg po BID
+HCTZ 50mg po BID?
+Albuterol prn
+Lisinopril 40mg po daily
+Kclor-con M10 1 tap po qday
+Propranolol SA 160mg po bid
+MV
+Fiber
+
+ 
+Discharge Medications:
+No changes to above regimen, the following added:
+
+1. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+2. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+metastatic cancer, likely lung primary, with metastases to brain 
+(stage IV)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Do not drive.  Do not drink alcohol.  You have had a seizure 
+related to a metastatic cancerous tumor in your brain.  You are 
+on medications to protect you from further seizures, however, a 
+seizure could recur, and this puts you and others at risk if you 
+are driving.  Alcohol also increases your risk for seizures, so 
+you should not drink alcohol.
+
+Follow up with Dr. ___ on ___ - call him 
+___ ___
+
+Resume your medications exactly as you were taking them prior to 
+coming in to the hospital.  The only changes that was made is 
+the addition of two medicines to be taken as prescribed, one to 
+prevent seizures (Keppra) and one for depression (Celexa) - 
+prescriptions are attached.
+ 
+Followup Instructions:
+___

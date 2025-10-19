@@ -1,0 +1,122 @@
+===== DISCHARGE NOTE =====
+note_id=15964478-DS-8 | hadm_id=21159613
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, chills and uterine tenderness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+A ___ year old female who complains of
+Fever, Abd pain. pt coming in with c/o llq abd pain s/p
+c-section ___ ct showed ? endometritis +fevers 101.2
+low bp's at osh 3liters ns given 8mg morphine given zofran
+given zosyn 3.375gm iv given fs-134 pt has an insulin
+pump(not working at this time) pt is nursing
+                       Timing: Gradual
+                     Severity: Severe
+                     Duration: 3 Days
+                     Location: abdominal pain x 3 days llq
+
+ 
+Past Medical History:
+IDDM type I
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Temp: 98.2 HR: 65 BP: 112/64 Resp: 18 O(2)Sat: 98 Normal
+ 
+Constitutional: Comfortable
+HEENT: Pupils equal, round and reactive to light,
+Extraocular muscles intact
+Breast and Pelvic PE per ___ from OB/GYN
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft; moderate TTP LLQ ; no masses; no vol
+guarding
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash, Warm and dry
+Neuro: Speech fluent
+Psych: Normal mood, Normal mentation
+___: No petechiae
+
+Discharge
+VSS, afebrile
+NAD
+RRR
+CTAB
+Abd Soft, mild fundal tenderness, nondistended, no R/G, fundus 
+firm
+minimal lochia
+___ c/d/i
+ 
+Pertinent Results:
+___ 09:25AM   ___ COMMENTS-GREEN TOP
+___ 09:25AM   LACTATE-0.7
+___ 09:23AM   ___ PO2-56* PCO2-42 PH-7.32* TOTAL 
+CO2-23 BASE XS--4 INTUBATED-NOT INTUBA
+___ 09:15AM   GLUCOSE-129* UREA N-12 CREAT-0.8 SODIUM-142 
+POTASSIUM-4.5 CHLORIDE-110* TOTAL CO2-20* ANION GAP-17
+___ 09:15AM   estGFR-Using this
+___ 09:15AM   estGFR-Using this
+___ 09:15AM   WBC-17.5*# RBC-3.81* HGB-11.9* HCT-38.3 
+MCV-101* MCH-31.2 MCHC-31.0 RDW-13.2
+___ 09:15AM   NEUTS-88.9* LYMPHS-7.9* MONOS-2.2 EOS-0.6 
+BASOS-0.5
+___ 09:15AM   PLT COUNT-396#
+ 
+Brief Hospital Course:
+Ms. ___ was treated for endometritis with Amp/Gent/Clinda IV 
+x 48hrs afebile with good response. Her fundal tenderness 
+improved. Insulin pump adjusted with improved glycemic control. 
+She was discharged home in stable condition on hospital day 2. 
+ 
+Medications on Admission:
+Levothyroxine 75mcg QD
+PNV
+Sertraline 100mg QD
+Insulin ___ following
+ 
+Discharge Medications:
+Augmentin 875mg p.o. q12hr
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Late onset endometritis, s/p cesarean section
+Type I DM
+Hypothyroidism
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+Routine postop care
+DM care per ___
+Augmentin 875mg BID
+
+ 
+Followup Instructions:
+___

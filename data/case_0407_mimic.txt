@@ -1,0 +1,575 @@
+===== DISCHARGE NOTE =====
+note_id=14076415-DS-9 | hadm_id=20795673
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypotension 
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis
+Midline line placement 
+endoscopic ultrasound
+
+ 
+History of Present Illness:
+___ male with history of EtOH abuse, HTN, anxiety, Stage 
+IIA (ypT3, N0, cM0) pancreatic cancer s/p neoadjuvant 
+FOLFIRINOX, chemoradiation followed by ___ with significant 
+surgical complications presents from urgent care for 
+hypotension.
+
+Patient was receiving care at ___ previously. He first had 
+abdominal symptoms in ___. EUS on ___ revealed dilated 
+pancreatic duct and hypoechoic mass at head of pancreas, and 
+cytology was suspicious for adenocarcinoma. He received C1 of 
+FOLFIRINOX on ___. He has since finished 8 cycles of 
+FOLFIRINOX, six weeks of chemoradiation with oral capecitabine, 
+and Whipple procedure on ___. Since the procedure, he has 
+been having recurrent ascites requiring monthly paracentesis. 
+Please see outpatient oncology note for full details. 
+
+Per report, patient fell on ___ night and was down on the 
+ground until 8 AM on ___ morning. Per patient report, he 
+kneeled down to look for something under the couch but had no 
+strength to get himself up once he was on the ground. He denies 
+falling; he had head shaking but did not lose consciousness and 
+did not strike his head. He was instructed to present to urgent 
+care, which he did on ___. At urgent care, he endorses pain all 
+over, and he was found to have bandages on shins and arms. He 
+was found to be hypotensive to 86/66, so he was transferred to 
+___.
+
+In ED initial VS were T 98.0, HR 73, BP 87/54, RR 18, and O2 98% 
+RA. Exam was notable for normal neurologic exam, normal 
+abdominal exam, and diffuse ecchymoses. Labs notable for WBC 
+2.5, hgb 9.4, ALT 33, AST 58, Tbili 0.6, lipase 4, CK 388, Cr 
+0.8, K 3.4, trop 0.04, INR 1.1, lactate 0.8. UA with 4 WBC, few 
+bacteria, neg leuks, neg nitrites, and 0 epis. Utox positive for 
+benzos but negative otherwise. 
+
+In the ED, he then became febrile to 102.9 and hypotensive to 
+81/54. He received 3L of fluid in the ED. He was given vanc, 
+zosyn, and ceftriaxone in the ED. Due to persistent hypotension, 
+he was started on levophed through the PICC.
+
+EKG shows atrial fibrillation with ventricular rate 85, normal 
+axis, no ischemic changes. 
+
+CXR ___: 
+
+Slight blunting the right costophrenic angle may be relate to 
+hyperinflation versus a trace pleural effusion.  No large 
+pleural effusion.  No focal consolidation seen. 
+
+CTHNC ___:
+
+No acute intracranial abnormalities.
+
+CT Abd/Pelvis ___:
+
+1. Moderate amount of intraperitoneal and pelvic free fluid, 
+unchanged from recent and remote prior.  No definite evidence of 
+superimposed acute intra-abdominal process. 
+
+2. Patient is status post Whipple procedure for adenocarcinoma 
+of the pancreas with appropriate postsurgical changes.  However, 
+there is increased soft tissue density involving the distal 
+pancreatic body/tail which may represent disease recurrence. 
+
+3. Unchanged nonobstructing predominately small bowel containing 
+right ventral hernia. 
+
+On arrival to the FICU, he confirms the above history. His 
+levophed is at 0.09.
+
+ 
+Past Medical History:
+-Abscess of liver ___
+
+-___ Albicans ___ Enterococcus See micro from
+
+___
+
+-Prior Alcohol abuse
+
+-Anxiety
+
+-Ascites
+
+-Atrial fibrillation
+
+-Bacteremia due to Klebsiella pneumoniae ___
+
+-Diabetes mellitus ___
+
+-Gallstones
+
+-Herniated cervical intervertebral disc ___
+
+-Hypertension
+
+-?Liver disease
+
+-S/P arthroscopic surgery of left knee ___
+
+-S/P rotator cuff surgery ___
+
+-Tonsillectomy
+
+-Vitamin D deficiency
+
+ 
+Social History:
+___
+Family History:
+No premature coronary artery disease or sudden
+
+death. No family history of malignancy. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+
+VITALS: Reviewed in metavision  
+
+GENERAL: In NAD. 
+
+HEENT: Dry mouth. Sclera anicteric b/l.
+
+NECK: No neck tenderness upon palpation or movement.
+
+LUNGS:  CTAB. No wheezes/rales/rhonchi.
+
+CV:  RRR. S1, S2. No MGR.
+
+ABD: +BS. Soft, non-tender to palpation throughout. Large 
+ventral hernia in RLQ. 
+
+EXT:  No edema.
+
+SKIN:  Diffuse ecchymoses on arms. Warm.
+
+NEURO:  A+O x3.
+
+ 
+Discharge exam:
+hysical exam
+___ ___ Temp: 97.8 PO BP: 125/84 HR: 78 RR: 18 O2 sat: 97%
+O2 delivery: RA 
+General:  in NAD, lying in bed, very talkative.
+HEENT:  OP moist, no LAD.
+Resp CTA B, no rales, wheezes
+CV RRR without murmurs, no murmurs appreciated.
+GI soft, NT, ND, NABS, with large ventral abdominal hernia.  no
+obvious fluid wave.
+MS:  no edema
+Neuro:  alert/oriented X3, moving all extremities, no asterixis.
+Midline in left upper arm.
+Skin with multiple ecchymoses, and skin tear on left wrist,
+wrapped.
+Psych: appropriate.
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 03:15PM BLOOD WBC-2.5* RBC-2.83* Hgb-9.4* Hct-27.4* 
+MCV-97 MCH-33.2* MCHC-34.3 RDW-13.0 RDWSD-46.1 Plt Ct-UNABLE TO 
+___ 03:15PM BLOOD Neuts-69.9 ___ Monos-9.6 Eos-0.8* 
+Baso-0.0 Im ___ AbsNeut-1.74 AbsLymp-0.48* AbsMono-0.24 
+AbsEos-0.02* AbsBaso-0.00*
+___ 03:15PM BLOOD ___ PTT-25.6 ___
+___ 03:15PM BLOOD Glucose-116* UreaN-16 Creat-0.8 Na-138 
+K-3.4* Cl-103 HCO3-26 AnGap-9*
+___ 03:15PM BLOOD ALT-33 AST-58* CK(CPK)-388* AlkPhos-96 
+TotBili-0.6
+___ 03:15PM BLOOD cTropnT-0.04*
+___ 03:24PM BLOOD Lactate-0.8
+
+Microbiology:
+=============
+urine culture negative
+
+___ blood cultures on admission positive as below:
+___, 17, 18  - all negative
+
+___ 3:16 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+      ENTEROBACTER CLOACAE COMPLEX.    FINAL SENSITIVITIES. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          ENTEROBACTER CLOACAE 
+COMPLEX
+                             |          |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+   Anaerobic Bottle Gram Stain (Final ___:    GRAM 
+NEGATIVE ROD(S). 
+
+   Aerobic Bottle Gram Stain (Final ___:    GRAM NEGATIVE 
+ROD(S). 
+
+___ 5:30 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      KLEBSIELLA PNEUMONIAE. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___ ___. 
+      ENTEROBACTER CLOACAE COMPLEX. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___ ___. 
+      ACINETOBACTER BAUMANNII.    FINAL SENSITIVITIES. 
+         "Note, for Amp/sulbactam, higher-than-standard dosing 
+needs to be
+         used, since therapeutic efficacy relies on intrinsic 
+activity of
+         the sulbactam component". 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ACINETOBACTER BAUMANNII
+                             |   
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     8 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+LEVOFLOXACIN----------<=0.12 S
+MEROPENEM-------------   0.5 S
+PIPERACILLIN/TAZO-----    32 I
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___ @ ___ ON ___ - 
+___. 
+      GRAM NEGATIVE ROD(S). 
+
+   Aerobic Bottle Gram Stain (Final ___:    GRAM NEGATIVE 
+ROD(S). 
+
+STUDIES: 
+========
+CHEST (PA & LAT) Study Date of ___ 3:30 ___ 
+Slight blunting the right costophrenic angle may be relate to 
+hyperinflation 
+versus a trace pleural effusion.  No large pleural effusion.  No 
+focal 
+consolidation seen. 
+
+ CT HEAD W/O CONTRAST Study Date of ___ 4:20 ___ 
+No acute intracranial abnormalities.
+
+ CT ABD & PELVIS WITH CONTRAST Study Date of ___ 6:38 ___ 
+1. Moderate amount of intraperitoneal and pelvic free fluid, 
+unchanged from 
+recent and remote prior.  No definite evidence of superimposed 
+acute 
+intra-abdominal process. 
+2. Patient is status post Whipple procedure for adenocarcinoma 
+of the pancreas 
+with appropriate postsurgical changes.  However, there is 
+increased soft 
+tissue density involving the distal pancreatic body/tail which 
+may represent 
+disease recurrence. 
+3. Unchanged nonobstructing predominately small bowel containing 
+right ventral 
+hernia. 
+  
+RECOMMENDATION(S):  Follow-up pancreatic MRI or multiphasic CTA 
+is recommended 
+to further characterize the increased soft tissue density 
+involving the distal 
+pancreatic body/tail. 
+
+Transthoracic Echocardiogram Report
+___ 
+The left atrium is mildly dilated. The right atrium is mildly 
+enlarged. There is mild symmetric left
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional and global left ventricular
+systolic function. The visually estimated left ventricular 
+ejection fraction is 55-60%. There is no resting
+left ventricular outflow tract gradient. Mildly dilated right 
+ventricular cavity with normal free wall
+motion. The aortic sinus is mildly dilated with mildly dilated 
+ascending aorta. The aortic arch diameter
+is normal. The aortic valve leaflets (?#) are mildly thickened. 
+No masses or vegetations are seen on the
+aortic valve. There is no aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets
+appear structurally normal with no mitral valve prolapse. No 
+masses or vegetations are seen on the
+mitral valve. There is trivial mitral regurgitation. The 
+tricuspid valve leaflets appear structurally normal.
+No mass/vegetation are seen on the tricuspid valve. There is 
+physiologic tricuspid regurgitation. There is
+mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion.
+IMPRESSION: No 2D echocardiographic evidence for endocarditis. 
+Mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global LV 
+systolic function. Mildly dilated right
+ventricle with normal RV systolic function. Mild pulmonary 
+hypertension. Mildly dilated thoracic aorta.
+
+Ultrasound right arm:
+Imaging:
+IMPRESSION:  
+  
+Nonocclusive deep vein thrombosis in the right subclavian vein 
+extending peripherally through the axillary vein to the basilic 
+vein. 
+
+Pathology:
+pancreas cyst ___ pending 
+
+Discharge labs:
+___ 05:45AM BLOOD WBC-2.6* RBC-2.74* Hgb-8.7* Hct-26.9* 
+MCV-98 MCH-31.8 MCHC-32.3 RDW-13.5 RDWSD-47.6* Plt ___
+___ 05:45AM BLOOD Glucose-114* UreaN-5* Creat-0.8 Na-141 
+K-3.8 Cl-105 HCO3-25 AnGap-___RIEF ICU COURSE ___ 
+==========================
+___ male with history of EtOH abuse, HTN, anxiety, Stage 
+IIA (ypT3, N0, cM0) pancreatic cancer s/p neoadjuvant 
+FOLFIRINOX, chemoradiation followed by Whipple with significant 
+surgical complications, who presented with hypotension, fevers 
+requiring levophed, now on vanc/zosyn.
+
+# CLABSI:
+# Septic shock: 
+Patient presented after fall without loss of consciousness, per 
+patient. Pt febrile and hypotensive in ED, BCx from ED positive 
+for GNR in ___ bottles, likely from ___ line. CXR without 
+evidence of consolidation; UA unremarkable; CT abd/pelvis 
+without acute intraabdominal process. As per outpatient notes, 
+he has had weekly dressing changes, but it is unclear if he 
+performs appropriate line care otherwise. He required pressors 
+in the FICU, but was weaned off and stable prior to call out to 
+floor. He was continued on vanc/zosyn. 
+
+He was seen by infectious disease who recommended an ultrasound 
+a deep vein thrombosis in the site of his prior PICC line.  This 
+did show a diffuse clot which was assumed to be the source of 
+his polymicrobial bacteremia.  The PICC had already been 
+discontinued but was thought to be the inciting event for the 
+clot and a subsequent infection.  He was continued on Zosyn 
+throughout his hospitalization and then transitioned to 
+ertapenem at the time of discharge.  He will complete a 14 day 
+course of IV antibiotics on ___ and then transition to 2 
+weeks of ciprofloxacin to complete a four-week course.  He was 
+afebrile throughout the remainder of his hospitalization after 
+discharge from the intensive care unit.
+
+# Pancreatic cancer: 
+Stage IIa unresectable pancreatic cancer s/p neoadjuvant 
+FOLFIRINOX, chemoradiation, and Whipple procedure. Per ___ 
+clinic note, he appears to be disease free. Last CA ___ of 12 
+on ___. However, imaging on admission raised some c/f 
+disease recurrence, which will need to be assessed on MRI.  This 
+was biopsied via endoscopic ultrasound on the day of discharge 
+after it not possible to biopsy this by interventional radiology 
+and CT-guided biopsy.  Pathology was pending at the time of 
+discharge
+
+# Deep vein thrombosis of the right upper extremity, PICC 
+associated
+He was found to have a DVT of his upper extremity on ultrasound 
+on ___.  He was initially started on heparin given the plan for 
+paracentesis the following day.  He was subsequently 
+transitioned apixaban.  Anticoagulation was held for a day prior 
+to his endoscopic ultrasound.  He was restarted on apixaban at 
+the time of discharge.  We discussed in detail the choice 
+between apixaban and 90 from a rivaroxaban and he opted for 
+apixaban.  He was counseled extensively on the need to continue 
+this medication for at least ___ months or until as directed by 
+his oncologist.  He would likely benefit from lifelong 
+anticoagulation prior history of atrial fibrillation.  He was 
+deemed to be a poor Lovenox candidate as he has had trouble 
+complying in the past with Coumadin.
+
+# pancytopenia
+
+His platelet counts on OSH records from ___ and ___ were 120 
+and 147, respectively. This admission patient is more 
+thrombocytopenic than his apparent baseline. Likely due to his 
+congestive hepatopathy and hepatic vascular insufficiency ___ 
+his Whipple procedure requiring weekly paracenteses. Also 
+possible marrow suppression iso sepsis. Of note, per ___ 
+records, patient has a history of being pancytopenic with a 
+temporal correlation with ceftriaxone administration.  His 
+platelets were slowly recovering throughout hospitalization and 
+were 133 by the time of discharge.  In addition
+
+In addition to thrombocytopenia, he also had anemia and 
+ischemia.  These were all thought to be secondary to a 
+combination of infection as well as his chronic liver disease 
+
+# Fall: 
+Patient reports fall at home prior to presentation and was 
+laying down for several hours before being found by friend.  He 
+felt extremely weak at the time likely in the setting of the 
+bacteremia.  Denies LOC and head CT without evidence of bleed. 
+Unclear cause of fall -- may be presyncope from arrhythmia vs 
+valvular dysfunction, can also consider seizure. CK in 500s. TTE 
+ showed EF of 55-60% with normal LV function.  He had no further 
+episodes of falling position
+
+ 
+# Atrial fibrillation: 
+Patient is not compliant with home metoprolol or Coumadin. 
+Admission INR 1.1. CHADsVASC of at least 2. Held metoprolol iso 
+sepsis, and held AC pending further discussion. 
+
+#Cirrhosis with evidence of liver dysfunction.
+He has a prior history of liver dysfunction with refractory 
+ascites likely due to his prior surgery for pancreatic cancer.  
+His chronic diuretics were held for multiple days due to his 
+hypotension restarted several days prior to discharge.  He did 
+undergo an uncomplicated paracentesis on ___ with 3 L of 
+fluid removed.  The fluid was negative for SP BP.  He received 
+albumin as a result.  The final fluid culture pending at the 
+time of discharge.  He will follow-up for repeat paracentesis 
+with his prior physicians at ___ until he 
+establishes care with a oncologist.
+
+Transitional issues:
+–Outpatient follow-up with surgery, hepatology, oncology
+–Pancreatic cyst pathology still pending at the time of 
+discharge
+–Extensively counseled regarding anticoagulation and 
+antibiotics.
+–Set up with outpatient infusion clinic to complete his 
+ertapenem given concern for his ability to deliver this at home 
+as well as expense
+
+Greater than 30 minutes spent on discharge counseling, 
+communication and planning.
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Spironolactone 125 mg PO DAILY 
+___  MD to order daily dose PO DAILY16 
+3. Metoprolol Succinate XL 12.5 mg PO BID 
+4. Furosemide 40 mg PO DAILY 
+5. ALPRAZolam 1 mg PO DAILY:PRN anxiety 
+6. Multivitamins 1 TAB PO DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Vitamin B Complex 1 CAP PO DAILY 
+9. Viokace (lipase-protease-amylase) 20,880-78,300- 78,300 unit 
+oral TID W/MEALS 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+Take 10 mg twice daily for 7 days, then 5 mg twice daily 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth daily Disp #*74 
+Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 14 Days 
+To start on ___ 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice daily 
+Disp #*28 Tablet Refills:*0 
+3.  ertapenem 1 gram injection DAILY Duration: 7 Days  
+4.  Heparin Flush (10 units/ml) 2 mL IV DAILY and PRN, line 
+flush  
+5.  Sodium Chloride 0.9%  Flush ___ mL IV Q8H and PRN, line 
+flush  
+6.  Sodium Chloride 0.9%  Flush 10 mL IV DAILY and PRN, line 
+flush  
+7.  ALPRAZolam 1 mg PO DAILY:PRN anxiety  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Furosemide 40 mg PO DAILY  
+10.  Metoprolol Succinate XL 12.5 mg PO BID  
+11.  Multivitamins 1 TAB PO DAILY  
+12.  Spironolactone 125 mg PO DAILY  
+13.  Viokace (lipase-protease-amylase) 20,880-78,300- 78,300 
+unit oral TID W/MEALS  
+14.  Vitamin B Complex 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gram negative rod sepsis
+History of apparent pancreatic cancer
+Deep vein thrombosis of the upper extremity
+Atrial fibrillation
+Cirrhosis
+Thrombocytopenia, neutropenia, and anemia
+ 
+Discharge Condition:
+Tolerating diet, no jaundice.
+ 
+Discharge Instructions:
+Why were you admitted?  You were septic from an infected blood 
+clot in your arm.  This was a result of the PICC line you had. 
+
+ What did we do?
+-the PICC line was removed
+-you had IV antibiotics while you are here.  We will continue 
+ERTAPENEM infusion at the ___ infusion clinic until ___.  After that you will take ciprofloxacin for 2 weeks.
+-Because you had a blood clot in your arm, we started you on a 
+blood thinner.  You will need to take this every day twice a day 
+until Dr. ___ you to stop.  For the first 7 days, 
+take two tablets twice a day, and then on ___, one tablet twice 
+a day.
+
+The PICC line was removed
+
+ 
+Followup Instructions:
+___

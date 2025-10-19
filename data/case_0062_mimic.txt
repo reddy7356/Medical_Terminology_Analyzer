@@ -1,0 +1,273 @@
+===== DISCHARGE NOTE =====
+note_id=14719586-DS-4 | hadm_id=24869088
+
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left subdural hematoma s/p fall
+ 
+Major Surgical or Invasive Procedure:
+___: left craniotomy for evacuation of subdural hemorrhage
+
+ 
+History of Present Illness:
+___ s/p falls x3 over past few days. Reports having progressive 
+right sided weakness over last four weeks, that he attributes to 
+his increasing falls. He presented to ED with increased gait 
+unsteadiness for evaluation.
+ 
+Past Medical History:
+Coronary Artery Disease
+Hypertension
+Benign Prostatic Hypertrophy
+Hx Kidney Stones
+Billateral ocular arterial occlusions
+Carotid stenosis unilateral
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On Admission:
+O: T:96.9  BP: 159/104  HR:60  R  16     O2Sats 96% R/A
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils ERRLA 3mm to 2mm  EOMs full. No nystagmus
+Neck: Supple. No upstrokes noted
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Recall: ___ objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested. No nasal congestion.
+II: Pupils equally round and reactive to light, 3mm to
+2mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. No posterior cervical neck pain or point tenderness. No
+paresthesia. Strength full power ___ Bil UE's and LLE. The Rt IP
+___ could be decreased as pt with considerable reports of pain 
+in
+the right thigh and rt lateral calf. Sl rt pronator drift. 
+
+Sensation: Intact to light touch, proprioception, pinprick and
+vibration bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right     ___  NT 1
+Left      ___  1  1
+
+Toes downgoing bilaterally
+
+On Discharge:
+Alert, oriented to person, place, date. Full motor strength 
+throughout all extremities. No pronator drift. Wound is clean 
+dry and intact. 
+ 
+Pertinent Results:
+Labs on Admission:
+___ 12:15PM BLOOD WBC-4.5 RBC-5.19 Hgb-16.1 Hct-44.5 MCV-86 
+MCH-30.9 MCHC-36.1* RDW-14.0 Plt ___
+___ 12:15PM BLOOD Neuts-66.9 ___ Monos-3.2 Eos-1.6 
+Baso-0.5
+___ 12:15PM BLOOD ___ PTT-24.3 ___
+___ 12:15PM BLOOD Glucose-143* UreaN-22* Creat-1.1 Na-142 
+K-3.3 Cl-102 HCO3-27 AnGap-16
+
+Labs on Discharge:
+XXXXXXXXXXXXXXXXXX
+
+Imaging:
+CT C-Spine ___:
+IMPRESSION: No evidence of acute fracture or malalignment. 
+Moderate disc
+bulge at ___ cause moderate left foraminal narrowing. If 
+there is
+concern for specific injury at this level, MRI may remain more 
+sensitive for
+further evaluation.
+
+Head CT ___:
+FINDINGS: A left mixed attenuation subdural hematoma measuring 
+up to 3.3 cm
+from the outer table likely represents subacute on chronic 
+hematoma with
+layering noted. There is associated 4 mm rightward shift of 
+normally midline structures. The bony calvarium is intact. The 
+paranasal sinuses and mastoid air cells demonstrate mild left 
+maxillary sinus thickening and are otherwise clear. There is no 
+evidence of herniation.
+IMPRESSION: Left subdural hematoma is likely subacute on chronic 
+and causes
+4-mm shift of normally midline structures. The hematoma measures 
+about 3 cm
+in width. There is obliteration of left cerebral sulci. There is 
+no evidence of acute fracture or herniation.
+
+LENIS ___:
+RIGHT LOWER EXTREMITY ULTRASOUND: The right common femoral, 
+superficial
+femoral and popliteal veins demonstrate normal waveforms, flow 
+and
+augmentation. There is no evidence of intraluminal thrombus.
+IMPRESSION: No right lower extremity DVT.
+
+MRI L-Spine ___:
+FINDINGS: Alignment of the lumbar spine appears normal. 
+Vertebral body
+signal intensity appears normal. There are extensive 
+degenerative changes of the L5-S1 intervertebral disc with loss 
+of height and loss of signal on the long TR images as well as 
+posterior osteophyte formation. The distal thoracic cord and 
+conus appear normal. The conus medullaris ends at approximately 
+L1. No intradural abnormalities are detected. Axial images at 
+L3-4 and L4-5 reveal no significant abnormalities. The 
+intervertebral osteophytes noted above at L5-S1 indents the 
+thecal sac but do not appear to cause nerve root compression.
+CONCLUSION: No evidence of nerve root compression. Degenerative 
+changes at
+L5-S1 with loss of disc height and osteophyte formation 
+minimally indenting
+the spinal canal.
+
+Head CT ___:
+IMPRESSIONS:
+1. Stable appearance of complex left subdural collection, likely 
+reflecting
+subacute on chronic subdural hematoma. Unchanged mild rightward 
+subfalcine
+herniation.
+2. No new abnormalities.
+ 
+Brief Hospital Course:
+___ gentleman who was admitted to ___ 
+___ after a
+fall. A CT scan revealed extensive left-sided subdural hematoma 
+with multiple membranes. Multiple chronicities were encountered. 
+Since the patient was
+clinically symptomatic he needed to go to the operating room for 
+decompression on ___. He was admitted to the ICU postoperatively 
+for monitoring overnight.  On POD#1, he was then transferred to 
+the neurosurgery floor.  Physical and occupational therapy were 
+consulted, and they determined that he would be appropriate for 
+discharge to home with services. The hope is that he will be 
+transitioned to outpatient services in the near future. He was 
+discharged on ___.
+ 
+Medications on Admission:
+Plavix,Lipitor,Nadolol,Lisinopril,Norvasc,Potassium Citrate 
+SR,Lumigan eye drops, MVI, CoEnzyme Q10.
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed.  
+2. Atorvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Nadolol 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+4. Lisinopril 10 mg Tablet Sig: Four (4) Tablet PO DAILY 
+(Daily).  
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+6. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule 
+PO TID (3 times a day).
+Disp:*90 Capsule(s)* Refills:*0*
+7. Hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed: No driving while on narcotics.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): Continue to take while you are taking narcotic 
+pain medication to prevent constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+9. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+10. Lumigan 0.03 % Drops Sig: One (1)  Ophthalmic Daily ().  
+11. Outpatient Occupational Therapy
+12. Outpatient Physical Therapy
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left subacute on chronic subdural hematoma
+
+ 
+Discharge Condition:
+Neurologically Stable
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Have a friend/family member check your incision daily for 
+signs of infection.
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•You may wash your hair only after sutures have been removed.  
+•You may shower before this time using a shower cap to cover 
+your head.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+•You have been prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, take it as prescribed and follow up with laboratory 
+blood drawing in one week.  This can be drawn at your PCP’s 
+office, but please have the results faxed to ___. 
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Make sure to continue to use your incentive spirometer while 
+at home, unless you have been instructed not to. 
+**You may restart your home regimen of Plavix on ___. You 
+may resume taking your baby aspirin on ___.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•Any signs of infection at the wound site: redness, swelling, 
+tenderness, or drainage.
+•Fever greater than or equal to 101° F.
+
+ 
+Followup Instructions:
+___

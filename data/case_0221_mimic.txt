@@ -1,0 +1,295 @@
+===== DISCHARGE NOTE =====
+note_id=14953551-DS-18 | hadm_id=27385924
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+One episode of difficulty with memory lasting a few hours.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The patient is a ___ year old man who today experienced
+transient memory loss. He went for a ___nd came back
+home and took a nap. His wife describes that he was much more
+active in the past day than usual: raking leaves, doing chores,
+running, etc. He has been gradually working up his exercise
+routine (up to ___ miles now) since ___, before which he 
+was
+not exercising much, and he has been escalating his routine even
+more recently. After the nap, he awoke and his wife noted that 
+he
+had no recall of prior events of the day. He also kept asking 
+the
+same questions repeatedly. She did not notice any other
+irregularities of behavior, facial asymmetry, weakness, or other
+symptoms. He denied any other symptoms. She urged him to be seen
+and he was sent to ___. He had a negative head 
+CT
+there (except enlarged ventricles) and then was sent here for
+further evaluation. He recalls going for a run outside but does
+not remember taking a nap. He remember everything after his
+arrival at ___ and the subsequent ambulance ride
+(including details of the route). During this interview, he
+recalls certain details but continues to repeatedly make certain
+statements ("I missed my metformin dose tonight" and "Can 
+someone
+call my wife to update her?") without memory of having made 
+those
+statements. He was otherwise well recently with no other 
+symptoms
+or illnesses.
+
+On neurologic review of systems, the patient endorses memory
+difficulty.
+Denies headache, lightheadedness, or confusion. 
+Denies difficulty with producing or comprehending speech.
+Denies loss of vision, blurred vision, diplopia, vertigo,
+tinnitus, hearing difficulty, dysarthria, or dysphagia.
+Denies muscle weakness.
+Denies loss of sensation.
+Denies bowel or bladder incontinence or retention.
+Denies difficulty with gait.
+
+On general review of systems, the patient denies fevers, rigors,
+night sweats, or noticeable weight loss.
+Denies chest pain, palpitations, dyspnea, or cough.
+Denies nausea, vomiting, diarrhea, constipation, or abdominal
+pain.
+Denies dysuria or hematuria.
+Denies myalgias, arthralgias, or rash.
+
+ 
+Past Medical History:
+Neurologic - Cerebral palsy (residual left contractures)
+Cardiovascular - HL
+Endocrine - DM2
+
+ 
+Social History:
+___
+Family History:
+TIAs (3, mother at elderly age). Otherwise no
+strokes, no seizures, no neurologic disease. DM2 (father,
+brother). DM1 (mother).
+
+ 
+Physical Exam:
+Physical Exam on Admission:
+
+Physical Examination:
+VS T: 98.0 HR: 70 BP: 156/84 RR: 16 SaO2: 96%RA 
+General: NAD, lying in bed comfortably, fit elderly man. / Head:
+NC/AT, no conjunctival icterus, no oropharyngeal lesions / Neck:
+Supple, no nuchal rigidity, no meningismus, no bruits /
+Cardiovascular: RRR, no M/R/G / Pulmonary: Equal air entry
+bilaterally, no crackles or wheezes / Abdomen: Soft, NT, ND, 
++BS,
+no guarding / Extremities: Warm, no edema, palpable
+radial/dorsalis pedis pulses / Skin: No rashes or lesions
+
+Neurologic Examination:
+
+- Mental Status - Awake, alert, oriented x 3. Attention to
+examiner easily attained and maintained. Concentration 
+maintained
+when recalling months backwards. Recalls a coherent history.
+Structure of speech demonstrates fluency with full sentences,
+intact repetition, and intact verbal comprehension. Content of
+speech demonstrates intact naming (high and low frequency) and 
+no
+paraphasias. Normal prosody. No dysarthria. Verbal registration
+and recall ___ at 5 minutes (no improvement with categorical
+cues). No apraxia. No evidence of hemineglect. No left-right
+agnosia.
+
+- Cranial Nerves - [II] PERRL 3->1.5 brisk. VF full to number
+counting. [III, IV, VI] EOMI, no nystagmus. [V] V1-V3 without
+deficits to light touch bilaterally. [VII] No facial asymmetry
+with forced eyelid closure or volitional/emotional smiles. 
+[VIII]
+Hearing intact to finger rub bilaterally. [IX, X] Palate
+elevation symmetric. [XI] SCM/Trapezius strength ___ 
+bilaterally.
+[XII] Tongue midline.
+
+- Motor - Normal bulk, possible contracture at the left elbow. 
+No
+pronation, no drift. No tremor or asterixis.
+=[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas] 
+[___]
+  [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]  [L5]
+L  5      5     5     5     5    5    5      5     5    5     5
+R  5      5     5     5     5    5    5      5     5    5     5
+
+- Sensory - No deficits to light touch, pin, or proprioception
+bilaterally.
+
+- Reflexes
+=[Bic] [Tri] [___] [Quad] [Gastroc]
+L 2      2      2      2        2
+R 2      2      2      2        2
+Brisker on the left than right. Plantar response flexor on 
+right,
+mute on left.
+
+- Coordination - No dysmetria with finger to nose testing
+bilaterally (slight wave of arm on left due to contracture). 
+Good
+speed and intact cadence with rapid alternating movements.
+
+- Gait - Normal initiation. Narrow base. Normal stride length 
+and
+arm swing. Stable without sway. No Romberg.
+
+Physical Exam on Discharge:
+Physical Exam:
+> Vitals: T:97.5 P:68 BP:123/76 RR: 16 SaO2:99 on RA
+> General: Awake, cooperative, NAD.
+> HEENT: NC/AT, no scleral icterus, MMM, clear oropharynx
+> Pulmonary: Lungs CTA bilaterally without R/R/W
+> Cardiac: RRR
+> Abdomen: NT/ND
+> Extremities: No C/C/E bilaterally
+> Skin: no rashes or lesions
+> 
+> Neurologic:
+> -Mental Status: Alert, oriented x 3. Attentive, able to name 
+___ backward without difficulty. Able to relate history with 
+some difficulty because he does not remember exactly what 
+happened to him. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt. was able to name both high and low frequency objects. Speech 
+was not dysarthric. Pt. was able to register 3 objects and 
+recall ___ at 15 minutes. There was no evidence of apraxia or 
+neglect.
+> 
+> -Cranial Nerves:
+> I: Olfaction not tested.
+> II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+> III, IV, VI: EOMI without nystagmus. Normal saccades.
+> V: Not tested
+> VII: No facial droop, facial musculature symmetric.
+> VIII: Not tested
+> IX, X: Not tested
+> XI: Not tested
+> XII: Not tested
+ 
+> -Motor: Normal bulk, tone throughout. No pronator drift. No 
+adventitious movements. No asterixis.
+ 
+> -Coordination: No dysmetria on FNF.
+ 
+> -Gait: Good initiation. Narrow-based, normal stride and arm 
+swing.
+
+Exam on discharge:
+VSS
+NAD, comfortable
+Breathing nonlabored
+Mental state crisp, fully oriented, conversing appropriately 
+with normal speech/fluency/comprehension/repetition/prosody, 
+memory excellent
+CN: PERRL, EOM intact, VF full, face symmetric, tongue midline
+Motor: left arm & leg smaller compared to right, mild UMN-type 
+weakness in left arm consistent with known cerebral palsy
+Coordination: no dysmetria on FNF, no rebound
+ 
+Pertinent Results:
+___ 09:10AM BLOOD WBC-6.4 RBC-4.71 Hgb-14.5 Hct-41.9 MCV-89 
+MCH-30.8 MCHC-34.6 RDW-12.8 Plt ___
+___ 11:30PM BLOOD Neuts-61.3 ___ Monos-10.0 Eos-3.7 
+Baso-0.9
+___ 09:10AM BLOOD Plt ___
+___ 09:10AM BLOOD ___ PTT-35.1 ___
+___ 09:10AM BLOOD Glucose-108* UreaN-18 Creat-0.7 Na-139 
+K-4.1 Cl-103 HCO3-26 AnGap-14
+___ 11:30PM BLOOD ALT-29 AST-31 AlkPhos-56 TotBili-1.4
+___ 09:10AM BLOOD CK(CPK)-106
+___ 11:30PM BLOOD Albumin-4.2 Calcium-9.3 Phos-3.9 Mg-2.1
+___ 09:10AM BLOOD %HbA1c-5.6 eAG-114
+___ 11:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+CHEST (PA & LAT) Study Date of ___ 11:40 ___:
+Findings:  The lungs are well expanded and clear.  Heart size is 
+normal.  Mild aortic tortuosity.  Mild reversal of lower 
+thoracic kyphosis, with multiple prominent right lateral 
+bridging osteophytes.  Mild right acromioclavicular and 
+glenohumeral arthropathy. 
+
+MR ___ Contrast: preliminary read: no stroke
+ 
+Brief Hospital Course:
+The patient is a ___ year old man who today experienced transient 
+memory loss.
+Patient initially went to ___ where a ___ 
+ruled out hemorragic stroke. He was then transfered to ___ for 
+further work up. During his initial interview, he recalls 
+certain details but continues to repeatedly make certain
+statements ("I missed my metformin dose tonight" and "Can 
+someone call my wife to update her?") without memory of having 
+made those statements. He was otherwise well recently with no 
+other symptoms or illnesses. He had no other neurological signs 
+or symptoms. His exam the next day revealed no memory deficit. 
+Due to the rapid recovery of his memory we believe he suffered 
+from a Transient Global Amnesia and not a stroke. MRI also 
+failed to demonstrate any stroke or other acute changes. 
+
+Stroke risk factor labs were drawn at admission and showed an 
+A1C of 5.6, and a FLP of TChol 168 ___ 40 HDL 65 LDL 95. 
+ 
+Medications on Admission:
+ASA 81
+Atorvastatin 10 
+Metformin 500 BID 
+Propecia 1 mg
+Artificial tears 
+Diclofenac sodium 50 BID
+
+ 
+Discharge Medications:
+1. Artificial Tears ___ DROP BOTH EYES Q8H:PRN dry eyes 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 10 mg PO DAILY 
+4. MetFORMIN (Glucophage) 500 mg PO BID 
+5. Finasteride 1 mg PO DAILY 
+6. Diclofenac Sodium ___ 50 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transient Global Amnesia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory
+
+ 
+Discharge Instructions:
+You were admitted due to an episode of memory problems that seem 
+to have resolved. You were evaluated for stroke, however this 
+was ruled out by Magnetic Resonance Imaging(MRI). Since stroke 
+was ruled out we believe you had what is called a Transient 
+Global Amnesia(TGA). Please follow up with Dr ___. 
+ 
+Followup Instructions:
+___

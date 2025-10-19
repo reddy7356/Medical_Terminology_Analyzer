@@ -1,0 +1,270 @@
+===== DISCHARGE NOTE =====
+note_id=12223080-DS-2 | hadm_id=26999973
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+variceal bleed
+ 
+Major Surgical or Invasive Procedure:
+EGD with variceal banding on ___
+Temporary HD line on ___
+Reintubation and ___ insertion on ___
+ 
+History of Present Illness:
+___ with pmhx of ETOH Cirrhosis who presents from OSH with 
+concern for variceal bleed. Pt stated he had been drinking etoh 
+several days ago when he developed black stool as well as 
+hematemesis. Pt was noted to be vague, but it appears it is 
+possible his symptoms were occurring over two days. Labs were 
+notable for hgb 5, lactate 21.9. Pt was intubated. At the OSH he 
+received 10 mg vit K for INR 2.1, amp of D50 for glucose in ___. 
+Pt also received 3U FFP and was started on octreotide and ppi 
+gtt. Other labs were notable for Cr 2.0. A R IJ was attempted 
+but unsuccessful due to hypovolemia.  Pt was given 200 epi for 
+SBP in ___ prior to being medflighted to ___. 
+
+Per transfusion records, at the OSH and on medflight pt received 
+total 4 PRBC, ___ FFP. On arrival to ___, VS notable for 
+100/palp, HR 110. The massive transfusion protocol was 
+activated. Pt received 2 cryo, ___ FFP, 1 PRBC. Repeat labs 
+notable for h/h 7.6/25.8, lactate 16.6, fibrinogen 110, INR 1.7. 
+GI and transplant surgery were consulted. ___ catheter was 
+placed at bedside and pt was transferred to ICU.
+ 
+ On arrival to the MICU, VS notable for HR 106, BP 93/58. 
+___ catheter noted to be in place with gastric and 
+esophageal balloons inflated. 
+
+ 
+Past Medical History:
+ETOH cirrhosis
+?HCV
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+ Vitals: HR 106, BP 93/58, 100% on CMV, FIO2 50%
+ GENERAL: intubated and sedated, unresponsive 
+ HEENT: ___ in place, dried blood around mouth 
+ NECK: supple, JVP not elevated 
+ LUNGS: mechanical breath sounds  
+ CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ ABD: distended, firm, no rebound or guarding 
+ EXT: cool extremities
+
+DISCHARGE EXAM:
+Expired
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:03AM BLOOD WBC-12.7* RBC-2.54* Hgb-7.6* Hct-25.8* 
+MCV-102* MCH-29.9 MCHC-29.5* RDW-18.4* RDWSD-68.6* Plt ___
+___ 01:16AM BLOOD Neuts-78* Bands-5 Lymphs-8* Monos-6 Eos-3 
+Baso-0 ___ Myelos-0 NRBC-1* AbsNeut-4.73 
+AbsLymp-0.46* AbsMono-0.34 AbsEos-0.17 AbsBaso-0.00*
+___ 12:03AM BLOOD ___ PTT-34.0 ___
+___ 12:03AM BLOOD ___
+___ 01:37AM BLOOD Glucose-105* UreaN-26* Creat-2.1* Na-146* 
+K-4.9 Cl-104 HCO3-6* AnGap-41*
+___ 01:37AM BLOOD ALT-166* AST-878* AlkPhos-101 
+TotBili-1.6*
+___ 12:03AM BLOOD Lipase-83*
+___ 01:37AM BLOOD Calcium-8.3* Phos-8.9* Mg-1.7
+___ 10:16PM BLOOD Vanco-12.5
+___ 12:03AM BLOOD ASA-NEG Ethanol-59* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 01:59AM BLOOD Type-ART Tidal V-360 PEEP-5 FiO2-50 
+pO2-112* pCO2-29* pH-7.00* calTCO2-8* Base XS--23 
+Intubat-INTUBATED
+___ 12:03AM BLOOD Glucose-135* Lactate-16.6* Na-143 K-4.7 
+Cl-114* calHCO3-7*
+___ 12:03AM BLOOD Hgb-8.4* calcHCT-25
+___ 04:47AM BLOOD freeCa-0.95*
+
+___ LABS
+============
+___ 02:13PM BLOOD WBC-30.2* RBC-2.77* Hgb-8.4* Hct-26.0* 
+MCV-94 MCH-30.3 MCHC-32.3 RDW-15.1 RDWSD-50.7* Plt ___
+___ 05:30AM BLOOD Glucose-172* UreaN-18 Creat-2.4* Na-144 
+K-4.0 Cl-114* HCO3-20* AnGap-14
+___ 02:31PM BLOOD ___ pO2-50* pCO2-32* pH-7.05* 
+calTCO2-9* Base XS--22
+
+MICRO:
+======
+___ 11:40 am FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+PERITONEAL FLUID. 
+Fluid Culture in Bottles (Preliminary):    NO GROWTH
+
+RESPIRATORY CULTURE (Final ___: 
+RARE GROWTH Commensal Respiratory Flora. 
+
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING: 
+========
+___ Abdominal U/S
+IMPRESSION: 
+1. Occlusive or near occlusive main portal vein thrombus.  
+Equivocal 
+hepatopetal flow is poorly reproducible in the left portal vein 
+branch. 
+2. Cirrhotic hepatic morphology. 
+3. Moderate to large amount of ascites.  Spleen not identified. 
+4. Cholelithiasis without evidence of cholecystitis.  CBD not 
+seen. 
+
+___ ECHO
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Diastolic function 
+could not be assessed. The right ventricular cavity is mildly 
+dilated with borderline normal free wall function. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. The tricuspid valve leaflets are mildly 
+thickened. Moderate [2+] tricuspid regurgitation is seen. There 
+is mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+
+IMPRESSION: Mildly dilated right ventricle with borderline free 
+wall systolic function. Normal left ventricular cavity sizes 
+with preserved global / regional systolic function. Moderate 
+tricuspid regurgitation. Mild pulmonary hypertension. Bilateral 
+pleural effusions with significant atelectasis are noted.   
+
+CXR ___
+Right PIC line is still looped in the right brachiocephalic 
+vein.  Widespread infiltrative pulmonary abnormality has 
+improved, reflecting a decrease in the component of edema.  
+Heart size is normal.  Pleural effusions are presumed but not 
+large.  No pneumothorax. ET tube in standard placement.  
+Nasogastric tube ends in the upper stomach. Right jugular line 
+ends in the mid SVC. 
+
+ 
+Brief Hospital Course:
+___ with pmhx of ETOH Cirrhosis who presents from OSH with 
+variceal bleed and septic shock. Patient with prolonged hospital 
+course with many significant complications as detailed below. 
+
+Two weeks after his initial bleeding event, Mr. ___ 
+developed a second major upper GI bleed, presumably from 
+recurrent rupture of his previously banded varices.  Massive 
+transfusion protocol was activate and octreotide gtt started. 
+Patient was re-intubated for airway protection and a 
+___ tube was also reinserted to tamponade 
+active bleeding. In spite of four vasopressor agents, patient 
+with poor hemodynamics and significant metabolic derangements 
+including rapidly rising lactate. Given his grim overall 
+prognosis, it was determined that CPR was not indicated. A 
+family meeting was held and it was determined that the medical 
+team would maintain but not escalate medical care any further. 
+In the early morning of ___, ___ expired. 
+
+Relevant Medical Issues on this Admission
+=========================================
+# GIB: 
+Pt presented with melena and hematemesis in setting of cirrhosis 
+concerning for variceal bleed. Massive transfusion protocol was 
+activated in the ___ was placed but with deflation of 
+balloon patient continued to have bleeding. Liver was consulted 
+and EGD was done which showed bleeding from varices. Four 
+varices were banded and the patient was not bleeding at the end 
+of the case. Patient was started on IV PPI BID and IV octreotide 
+gtt, which he continued for one week. As detailed above, the 
+patient had made significant progress and was called out of the 
+ICU. Unfortunately, he returned to the ICU only a few hours 
+later with recurrent massive UGIB. In spite of maximum rate four 
+pressors, octeotride gtt, massive transfusion protocol, and 
+___ tube, the patient expired the morning of ___. 
+
+#Hypotension/Septic Shock: 
+Pt had SBPs in ___. This was originally felt to be in the 
+setting of hemorrhage but after patient stopped bleeding with 
+stable Hgb, he continued to have tachycardia and hypotension 
+requiring multiple pressors. He was felt to be in septic shock 
+with fevers with source being aspiration pneumonia. He was 
+started on vanc/cefepime/flagyl. He was resuscitated with 25% 
+albumin. Paracentesis was done which was negative for SBP. UA 
+was negative. BCx had no growth. Sputum gram stain showed gram 
+positive cocci in clusters and pairs. Vanc was ___ due to 
+negative MRSA nares. He completed a full course of antibiotics 
+for VAP. 
+
+# ___: 
+Pt noted to have Cr 2.0 at OSH. Cr increased to 4.9 peak and 
+patient was oliguric. Renal was consulted for CVVH but held off 
+originally as patient's urine output slowly improved. Patient 
+was diuresed with IV Lasix 200 mg and IV diuril but eventually 
+UOP was not responding to this and was started on CVVH. His 
+renal failure was thought to be secondary to ATN rather than 
+hepatorenal syndrome. Two days prior to his death, the patient 
+tolerated HD without issues. 
+
+# Lactic Acidosis: 
+Pt noted to have profound lactic acidosis with lactate of 21.9 
+at OSH, now mildly improved to ___. Likely was in setting of 
+hypovolemia from massive bleed as well as septic shock. Improved 
+with volume resuscitation and antibiotics and remained stable 
+until repeat bleeding episode. 
+
+# Etoh Cirrhosis: 
+Patient was found to have portal vein thrombosis on RUQ. He was 
+not anticoagulated due to variceal bleeding. Paracentesis was 
+done which was negative for SBP. LFTs increased and peaked at 
+ALT 617/AST 5176 which was consistent with alcoholic hepatitis. 
+Patient was not started on steroids due to concern for sepsis.
+
+# Etoh abuse: 
+Patient was given thiamine, folate, MVI. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Furosemide 20 mg PO DAILY 
+2. Spironolactone 50 mg PO DAILY 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Pantoprazole 40 mg PO Q24H 
+5. Thiamine 100 mg PO DAILY 
+6. Magnesium Oxide 400 mg PO TID 
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+massive variceal bleed
+alcoholic cirrhosis
+alcoholic hepatitis
+septic shock
+
+ 
+Discharge Condition:
+expired
+ 
+                             ___ MD ___
+ 
+Completed by: ___

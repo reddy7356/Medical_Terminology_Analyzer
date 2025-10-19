@@ -1,0 +1,453 @@
+===== DISCHARGE NOTE =====
+note_id=16178974-DS-16 | hadm_id=20916248
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+NSTEMI, AFIB with RVR
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___
+s/p cardiac catheterization ___rtery, no 
+intervention 
+ 
+Coronary Description 
+The coronary circulation is right dominant. 
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel trifurcates into the Left Anterior 
+Descending, Left Circumflex, and Ramus Intermedius. 
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is severe calcification in 
+the proximal and mid segments. There is a 50% stenosis in the 
+proximal segment. 
+There is a 50% stenosis in the proximal segment. There is a 50% 
+stenosis in the mid segment. 
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel. 
+Cx: The Circumflex artery, which arises from the LM, is a medium 
+caliber vessel. 
+The Obtuse Marginal, arising from the proximal segment, is a 
+small caliber vessel. 
+RI: The Ramus Intermedius, which arises from the LM, is a small 
+caliber vessel. 
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. There is moderate tortuosity beginning 
+in the proximal segment. 
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel. 
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel. 
+ 
+Interventional Details 
+Complications: There were no clinically significant 
+complications. 
+Findings 
+• Single vessel coronary artery disease. 
+Recommendations 
+• Maximize medical therapy 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old man with history of HTN, HLD, DM,
+pAF on Eliquis, HFpEF, transferred from ___ 
+___
+for coronary angiography due to concerns of NSTEMI.  
+
+Patient initially presented to ___ for increased anxiety,
+depression, poor appetite, and poor sleep, and admitted to
+psychiatry inpatient unit for medication titration and started
+on mirtazapine and Lorazepam increased.
+
+On ___ he developed severe chest pain/SOB, reported to be in
+AF with RVR although no documented EKG for this (rates are
+unreported), converted to sinus with oral metoprolol 50mg x 1 
+and
+I liter IVF. hs-cTn from ___ trended up from 25 -> 136, ___ -> 179, and 268 on ___. EKG showed sinus bradycardia with
+RBBB along with TWI in the pericardial leads. Since the afib 
+with
+RVR episode, patient denies further chest pain. 
+
+Patient received ASA 325mg and atorvastatin 80 on ___. He was
+continued on ASA 81, atorvastatin 80mg and metoprolol tartrate
+6.25 q6h, Ramipril 5 BID along with apixaban 5mg BID. TTE from
+___ showed EF of 70% and apical hypertrophic cardiomyopathy
+without evidence of regional wall abnormality or valvular
+pathology. Patient received last dose of apixaban on ___ AM. 
+Patient was transferred to the ___ for coronary angiography.   
+
+
+At the ___, patient denies chest pain. He underwent coronary
+angiography through right radial access without complications,
+which showed 50% stenosis in the proximal and mid segments of 
+the
+LAD along with severe calcifications. Patient was transferred to
+the floor for medical management.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Diabetes: on metformin at home 
+- Hypertension   
+- Dyslipidemia: on atorvastatin 40mg at home   
+2. CARDIAC HISTORY  
+- Coronaries: 
+- Pump: EF of 60% - HFpEF  
+- Paroxysmal atrial fibrillation  
+3. OTHER PAST MEDICAL HISTORY 
+- BPH 
+- Anxiety/depression 
+- Chronic back pain:  lumbar spinal stenosis and bilateral
+lumbar radiculopathy  
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+ 
+Physical Exam:
+PHYSICAL EXAMINATION on Admission:  
+==================================  
+___ Temp: 97.4 AdultAxillary BP: 158/70 L Lying HR: 58
+RR: 18 O2 sat: 92% O2 delivery: Ra 
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.  
+
+NECK: No JVD 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and rhythm. Normal S1, S2. No murmurs, rubs,
+or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. bibasilar
+crackles. 
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+PHYSICAL EXAM on DISCHARGE:
+
+General: Elderly male, awake, upset, lying in bed, NAD
+Neuro: Alert and oriented x4. Pleasant and cooperative. Speech
+clear, appropriate and comprehensible. Equal and strong hand
+grasps and foot pushes. 
+HEENT: Neck supple, No JVD noted
+CV: RRR, Normal S1 S2
+Lungs: Clear ___, non-labored. No use of accessory muscles noted.
+Abdomen: soft, non-tender
+PV: WWP, + pedal pulses, No edema 
+Access sites: Right radial soft without bleeding or hematoma.
+ 
+Pertinent Results:
+EKG: sinus bradycardia with left axis deviation. RBBB and T wave
+inversion in the V1-V4. 
+
+LAST 2D-ECHOCARDIOGRAM ___ from ___ 
+General Findings: The image quality was good (2). An echo
+contrast agent was administered IV, per ASE guidelines.
+Left VentricleLeft ventricular cavity size is normal. There is
+apical hypertrophy c/w apical variant of hypertropic
+cardiomyopathy. Left ventricular systolic function is normal.
+There are no segmental left ventricular wall motion 
+abnormalities
+noted. The estimated ejection fraction is 65% (Normal 50-75%).
+The left ventricular ejection fraction was measured by visual
+estimate.
+Right VentricleThe right ventricular size is normal. The right
+ventricular systolic function is normal.
+Left AtriumThe left atrium is mildly dilated. The LA volume
+index is 40 mL/m2 (normal indexed value is ___ mL/m2).
+Right AtriumThe right atrium is normal in size. The IVC is
+normal in size (2.1cm or less). The IVC demonstrates normal
+collapse with inspiration which is consistent with normal RA
+pressure.
+Aortic ValveThe aortic valve is tricuspid. Multiple aortic
+leaflets are thickened but there is no stenosis. There is no
+evidence of aortic regurgitation by color and spectral Doppler.
+The aortic root at the level of the Sinuses of Valsalva measures
+36 mm (indexed value 20 mm/m2) (normal indexed value <=21). 
+The ascending aorta above the sinotubular junction measures 35 
+mm
+(indexed value 19 mm/m2) (normal indexed value <= 19).
+Mitral ValveThere is no evidence of mitral stenosis. There is
+posterior and anterior mitral annular calcification. There is
+trace mitral regurgitation detected by spectral and color
+Doppler.
+Tricuspid ValveThe tricuspid valve appears normal. There is
+evidence of mild tricuspid regurgitation by color and spectral
+Doppler. The RV systolic pressure was estimated from the peak TV
+regurgitant velocity. The estimated RV systolic pressure is 30
+mmHg assuming a right atrial pressure of 3 mmHg.
+Pulmonic ValveThe pulmonary valve appears normal. There is
+evidence of trace pulmonary regurgitation by color and spectral
+Doppler.
+PericardiumThere is a trivial pericardial effusion located
+posteriorly.
+
+CARDIAC CATH ___:
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber
+vessel. This vessel trifurcates into the
+Left Anterior Descending, Left Circumflex, and Ramus 
+Intermedius.
+LAD: The Left Anterior Descending artery, which arises from the
+LM, is a large caliber vessel. There is
+severe calcification in the proximal and mid segments. There is 
+a
+50% stenosis in the proximal segment.
+There is a 50% stenosis in the proximal segment. There is a 50%
+stenosis in the mid segment.
+The Diagonal, arising from the proximal segment, is a medium
+caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a medium
+caliber vessel.
+The Obtuse Marginal, arising from the proximal segment, is a
+small caliber vessel.
+RI: The Ramus Intermedius, which arises from the LM, is a small
+caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a
+large caliber vessel. There is moderate tortuosity beginning in
+the proximal segment.
+The Right Posterior Descending Artery, arising from the distal
+segment, is a medium caliber vessel.
+The Right Posterolateral Artery, arising from the distal 
+segment,
+is a medium caliber vessel.
+.
+DC labs:
+
+  
+___ 09:52AM BLOOD WBC-8.7 RBC-4.13* Hgb-12.3* Hct-37.9* 
+MCV-92 MCH-29.8 MCHC-32.5 RDW-13.1 RDWSD-43.4 Plt ___
+___ 09:52AM BLOOD Glucose-161* UreaN-14 Creat-1.0 Na-141 
+K-4.1 Cl-106 HCO3-22 AnGap-13
+___ 08:20PM BLOOD ALT-10 AST-13 AlkPhos-56 TotBili-0.5
+___ 10:58AM BLOOD TSH-5.0*
+ 
+Brief Hospital Course:
+Assessment/Plan: Mr. ___ is a ___ year-old man with history 
+of
+HTN, HLD, DM, pAF on Eliquis, HFpEF, transferred from ___ for coronary angiography for concerns of
+NSTEMI. Coronary angiogram was chronic stable single CAD
+(compared to ___. 
+
+# Type 2 NSTEMI: 
+Chest pain/NSTEMI in the setting of afib with RVR; Coronary
+angio: 50% stenosis in the proximal and mid segments of LAD 
+along
+with diffuse calcification. Chest pain and troponin likely due 
+to
+demand ischemia iso rapid ventricular rates. Denies chest pain
+since rates were controlled now in SB. 
+- Continue atorvastatin 80mg daily. 
+- Continue to hold BB as hypotensive/orthostatic and bradycardic
+- Follow-up with Dr. ___ as outpatient
+
+# Dizziness/orthostasis: Continues to be orthostatic this AM SBP
+160s to ___ when lying to standing. However, he is not 
+symptomatic and suspect this is a chronic condition No fluid 
+overnight may be
+related to generalized deconditioning vs decreased p.o.'s.
+-DC afluzolam, Lasix and ramipril
+-Encourage PO fluid intake 
+-TEDs during the day, off at night 
+-psychiatry, Dr ___ regarding chlorpromazine as 1 of
+the side effects for this is orthostatic hypotension. Have not 
+received a response by day of DC. 
+
+# Depression:
+# Anxiety: 
+Initially admitted to ___ for depression, poor appetite and
+poor sleep. Per report, continues on mirtazapine (initial script
+history review dates ___ and increased dose of lorazepam. He
+reports improvement in his mood since his admission there. 
+Denies
+any suicidal or homicidal ideations. Appreciated psych
+recommendations, they have signed off. 
+- Continue chlorpromazine 20 daily 
+- Continue bentropine 0.5 mg daily 
+- Continue citalopram 30 mg QD 
+- Continue lorazepam 0.5 mg BID PRN 
+- Continue inc dose of lorazepam 1 mg QHS 
+- Continue mirtazapine 7.5 mg at at bedtime
+- Patient's family initially requesting interest in new
+psychiatrist at ___ but now wishes to f/u with Dr. ___
+has list of names that ___ psych team gave them in the event
+they want to consider new provider in future. (had been 
+discussed
+with patient, wife and son at bedside who were all satisfied 
+with
+above plan) 
+
+#FTT/Parkinsonian features - difficulty at home managing given
+anxiety/depression. Will benefit from rehab but pt wants to go
+home. Family does not appear to have the resources for private
+care at home. ___ cleared for home today with home ___. 
+
+# HFpEF: Started on Lasix 20
+about a month ago. Patient actually has appeared dry as per
+orthostatics, dark concentrated urine, marginal urine output and
+dry mucous membranes, poor POs. appears euvolemic off Lasix. 
+Weight at DC is 75 kg. 
+
+# Paroxysmal atrial fibrillation: 
+CHADS2-VASC score of 6 (age, HTN, DM, HF, CAD). He had one
+episode of RVR at OSH. He is currently Sinus bradycardia per
+telemetry review ______. TSH of 5.
+- AC: Continue apixaban 5 mg BID 
+- Hold off on nodal agents/BB in setting of bradycardia
+
+# Diabetes Mellitus: 
+A1C 6.0%. 
+- Resumed metformin ___ s/p cardiac catheterization 
+
+# Hypertension: 
+Elevated initially to SBP 190; now with hypotn/orthostasis 
+- Stopped Ramipril, Lasix, BB and Afluzolam
+- emailed psychiatry about stopping chlorpromazine
+
+# Hyperlipidemia: 
+- Continue atorvastatin 80mg daily 
+
+# BPH: 
+-Continue Proscar
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apixaban 5 mg PO BID 
+2. Atorvastatin 80 mg PO QPM 
+3. Benztropine Mesylate 0.5 mg PO DAILY 
+4. ChlorproMAZINE 20 mg PO DAILY 
+5. Citalopram 30 mg PO DAILY 
+6. alfuzosin 10 mg oral DAILY 
+7. Furosemide 20 mg PO DAILY 
+8. MetFORMIN (Glucophage) 500 mg PO BID 
+9. Ramipril 10 mg PO DAILY 
+10. Mirtazapine 7.5 mg PO QHS 
+11. TraMADol 50 mg PO DAILY 
+12. LORazepam 0.5 mg PO QHS 
+13. Finasteride 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  LORazepam 1 mg PO QHS 
+RX *lorazepam 1 mg one mg by mouth hs Disp #*30 Tablet 
+Refills:*2 
+2.  LORazepam 0.5 mg PO BID:PRN anxiety 
+RX *lorazepam 0.5 mg one mg by mouth twice a day Disp #*30 
+Tablet Refills:*2 
+3.  Apixaban 5 mg PO BID  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Benztropine Mesylate 0.5 mg PO DAILY  
+6.  ChlorproMAZINE 20 mg PO DAILY  
+7.  Citalopram 30 mg PO DAILY  
+8.  Finasteride 5 mg PO DAILY  
+9.  MetFORMIN (Glucophage) 500 mg PO BID  
+10.  Mirtazapine 7.5 mg PO QHS  
+11.  TraMADol 50 mg PO DAILY  
+12. HELD- alfuzosin 10 mg oral DAILY  This medication was held. 
+Do not restart alfuzosin until You see Dr ___
+13. HELD- Ramipril 10 mg PO DAILY  This medication was held. Do 
+not restart Ramipril until after you see Dr ___
+
+ 
+___ Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+NSTEMI
+Afib with RVR
+Anxiety
+Depression
+Orthostatic hypotension
+Diabetes
+Hypertension
+Dyslipidemia
+Benign prostatic hypertrophy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___. 
+ 
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were transferred to this hospital with a heart attack. We 
+adjusted your medicines to help your heart recover from the 
+heart attack. We found that you have blood pressure that drops 
+severely when you stand up. We stopped medicines that could 
+cause this and allowed your blood pressure to be higher overall. 
+
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+ - You had a heart catheterization and found to have mild 
+disease in left anterior descending (LAD) artery. You did not 
+need any intervention. It is possible that the blood work showed 
+possibility of heart attack was caused by your rapid atrial 
+fibrillation with higher rates causing high demands on your 
+heart.
+ - You were seen by a psychiatrist  who deemed you ready to go 
+home.
+ - Your blood pressure was low, especially when standing up, so 
+your blood pressure medicines were stopped. 
+ - You were evaluated by physical therapy and you should get 
+physical therapy at home. 
+ 
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+===========================================  
+- Take all of your medications as prescribed with changes as 
+noted in  your discharge medicine list. 
+- Please weigh yourself daily. If your weight goes up by ___ 
+lbs. in three days, or if you develop increased swelling in your 
+legs, abdomen, or become short of breath or have trouble 
+breathing; please call your cardiologist to evaluate if you may 
+need the Lasix resumed.
+ 
+-Change your Ativan dose to: 1mg daily at bedtime and 0.5mg as 
+needed for anxiety up to two times daily.
+
+- Follow up with your doctors as listed below 
+ 
+It was a pleasure participating in your care.  
+
+If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+
+-Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

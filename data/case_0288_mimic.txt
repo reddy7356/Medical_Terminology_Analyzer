@@ -1,0 +1,225 @@
+===== DISCHARGE NOTE =====
+note_id=15413012-DS-21 | hadm_id=20482556
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+unsteady gait
+ 
+Major Surgical or Invasive Procedure:
+Craniotomy for resection of R cerebellar lesion
+
+ 
+History of Present Illness:
+The patient is a ___ year old woman with HTN sent by her PCP for 
+evaluation of a headache. She has had an intermittent HA for 8 
+days, progressing during days ___ and plateauing at peak 
+intensity during days ___, though she felt improved at that 
+time. She had associated nausea without vomiting, and also a 
+"feeling of being drunk" whenever she tried to walk without 
+apparent discoordination. She has had no other constituional or 
+infectious symptoms. Her PCP reported to the ED that she had 
+dysmetria and a present Romberg sign. The ED ordered an NC Head
+CT with a noted right cerebellar lesion of unknown etiology with 
+mass effect but without evidence of herniation or hemorrhage and 
+thus consulted our team for further evaluation.
+
+ 
+Past Medical History:
+PMH/PSH: HTN, HL, pelvic fracture
+
+ 
+Social History:
+___
+Family History:
+sister died at age ___ from Lung CA
+ 
+Physical Exam:
+ON ADMISSION:
+- Mental Status - Awake, alert, oriented x 3. Recalls a coherent
+history. 
+Registration ___ and recall ___. Concentration maintained when
+recalling months backwards. Follows two step commands, midline
+and appendicular. Language fluent with intact repetition and
+verbal comprehension. Normal prosody. No paraphasic errors. High
+and low frequency naming intact. No dysarthria. No apraxia or
+neglect.
+
+- Cranial Nerves - [II] PERRL 3->2 brisk. VF full to number
+counting.
+[III, IV, VI] EOMI, no nystagmus. [V] V1-V3 without deficits to
+light touch bilaterally. 
+[VII] No facial asymmetry. [VIII] Hearing intact to finger rub
+bilaterally. 
+[IX, X] Palate elevation symmetric. [XI] SCM/Trapezius strength
+___ bilaterally. [XII] Tongue midline.
+
+- Motor - Normal bulk and tone. No pronation, no drift. No 
+tremor
+or asterixis.
+=[Delt] [Bic] [Tri] [ExD] [IO] [IP] [Quad] [Ham] [TA] [Gas] 
+[___]
+L  5      5     5     5     5    5    5      5     5    5     5
+R  5      5     5     5     5    5    5      5     5    5     5
+
+- Sensory - No deficits to light touch bilaterally.
+
+- Reflexes
+=[Bic] [Tri] [___] [Quad] [Gastroc]
+L 2      2      2      2        2
+R 2      2      2      2        2
+Plantar response flexor bilaterally.
+
+- Coordination - Normal FTN. No dysmetria with finger/foot
+mirrored movements. +Mild slowing with rapid alternating
+movements.
+
+- Gait - Normal initiation. Narrow base. Normal stride length 
+and
+arm swing. Stable without sway. Mild sway, more to R than L, on
+Romberg testing but no fall.
+
+At discharge:
+pleasant, NAD, AAO x3, PERRL, EOM intact, face symmetric, right 
+dysmetria.  Incision c/d/i with staples.  Motor full, sensory 
+intact. 
+ 
+Pertinent Results:
+___ CT head without contrast:
+1. Hypoattenuating mass lesion in the right cerebellum with 
+surrounding 
+vasogenic edema and local mass effect. Findings concerning for 
+primary 
+neoplasm or metastatic disease. Further characterization with 
+MRI is 
+recommended. 
+2. No intracranial hemorrhage. 
+
+___ MR head with and without contrast:
+3 x 3 x 2.7 cm ring enhancing hematoma in the right cerebellar 
+hemisphere with associated vasogenic edema and mild mass effect 
+over the 4 ventricle, pons and remaining cerebellum. 
+Differential diagnosis includes a hemorrhagic neoplasm, such as 
+a metastasis, or a subacute hematoma with the wall enhancement 
+reflecting the wall of the hematoma itself, rather than tumor.  
+
+___ CT chest, abdomen and pelvis, with contrast:
+1. 3.9 cm cavitary mass demonstrated within the superior segment 
+of the right lower lobe with an immediately adjacent satellite 4 
+mm pulmonary nodule and adjacent reactive parenchymal 
+opacification that in setting of the cerebellar lesion likely 
+represents the primary malignancy. 
+2. Multiple subcentimeter hepatic hypodensities and a left renal 
+hypodensity, too small to characterize, with metastases not 
+excluded from the differential 
+
+MRI Head with and without contrast
+ Postoperative changes seen in the right cerebellar hemisphere 
+with occipital craniotomy defect, subdural fluid along posterior 
+aspect of 
+clivus and right occipital region and bifrontal pneumocephalus 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the neurosurgical ICU on ___. She 
+underwent a brain MRI with and without contrast that revealed a 
+3 x 3 x 2.7 cm ring enhancing lesion in the R cerebellum. She 
+underwent a CT of chest, abdomen and pelvis to identify any 
+potential primary neoplasm, which revealed right lung lesion. On 
+___ she had emesis and a vasovagal episode. She also had some 
+Afib overnight and this resolved with some Lopressor. She was 
+seen by Dr. ___ neuro oncology who felt that this was most 
+likely a metastatic lung lesion which should be surgically 
+resected. This was discussed with the patient and surgery was 
+planned for ___. 
+
+On ___ she underwent the above stated procedure.  Please 
+review dictated operative report for details.  Patient was 
+extubated without incident and transferred to PACU then ICU in 
+stable condition.  Post op MRI demonstrated complete gross 
+resection. On ___, she was transferred to floor.
+ 
+Now DOD, patient is afebrile, VSS, and neurologically stable.  
+Patient's pain is well-controlled and the patient is tolerating 
+a good oral diet.  Pt's incision is clean, dry and inctact 
+without evidence of infection.  She is set for discharge home in 
+stable condition and will follow-up accordingly. 
+ 
+Medications on Admission:
+Simvastatin 40 mg PO daily
+HCTZ 25 mg PO daily
+ 
+Discharge Medications:
+1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+3. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) as needed for neck pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+6. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+7. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+R cerebellar lesion; final pathologic diagnosis pending
+Right Lung Lesion
+
+ 
+Discharge Condition:
+AOx3. Activity as tolerated. Keep dressing clean and dry. 
+
+ 
+Discharge Instructions:
+•Have a friend/family member check your incision daily for 
+signs of infection.
+•Take your pain medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•You may wash your hair only after sutures and/or staples have 
+been removed. If your wound closure uses dissolvable sutures, 
+you must keep that area dry for 10 days. 
+•You may shower before this time using a shower cap to cover 
+your head.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•Unless directed by your doctor, do not take any 
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and 
+Ibuprofen etc. 
+•If you were on a medication such as Coumadin (Warfarin), or 
+Plavix (clopidogrel), or Aspirin, prior to your injury, you may 
+safely resume taking this only after clearance from your 
+Neurosurgeon.
+•Clearance to drive and return to work will be addressed at 
+your post-operative office visit.
+•Make sure to continue to use your incentive spirometer while 
+at home, unless you have been instructed not to. 
+
+ 
+Followup Instructions:
+___

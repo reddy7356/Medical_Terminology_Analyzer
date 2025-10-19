@@ -1,0 +1,497 @@
+===== DISCHARGE NOTE =====
+note_id=17529365-DS-9 | hadm_id=20729738
+
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain, nausea/vomiting
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ year old female with history pertinent for 
+constipation predominant-IBS/Functional abdominal pain disorder 
+who presents with abdominal pain, nausea and vomiting.
+   Per discussion with the patient, she has been diagnosed with 
+irritable bowel syndrome for approximately ___ years. She reports 
+that despite debilitating symptoms she has not followed up with 
+a single provider ___. The patient reports having ___ PCPs 
+over this time and reports she is not regularly followed by a 
+gastroenterologist. The patient has been seen by Dr. ___ at 
+least once at ___, no notes available for review. The patient 
+reports that for her symptoms she smokes marijuana ___ joints 
+daily and takes hot baths. She is currently a student at 
+___ but reports she may miss up to 50 days a year because 
+of her symptoms.
+   With regards to her symptoms the patient reports epigastric 
+pain, ___ in intensity. The pain is always present but with 
+intermittent flares. The patient reports associated nausea and 
+vomiting with limited PO tolerance during her flares. 5 days ago 
+the patient's pain increased this was notably in the setting of 
+having run out of Amitriptyline 7 days ago. (The patient 
+receives this from a provider in ___. She reports 10 
+pound unintentional weight loss over ___ year. She denies any 
+melena, hematochezia, hematemesis, dysphagia or odynophagia. The 
+patient reports change in bowel habits with onset of 
+constipation 5 days ago coinciding with her current symptoms. 
+She reports no bowel movement in 5 days relative to normal 
+frequency of 3 to 4 times per week. The patient has been 
+counseled previously about trying stool softeners, laxatives 
+such as Miralax, possible Tergaserod. She has not tried any of 
+these to date, uses fiber products only rarely.
+   OMR review reveals that the patient has previously undergone 
+testing including at least EGD, Colonoscopy, CT, anti-TTG all of 
+which have been normal. 
+.
+ED Course: 98.6, 123/70, 97, 16, 98% RA. Labs notable for WBC 
+11.8, AST 44. A Pelvic ultrasound was performed revealing normal 
+uterus and ovaries with trace fluid in the endometrial canal 
+concordant 
+with phase of menstrual cycle. The patient had GC/Chlamydia 
+swabs performed. The patient received Ativan, Phenergen, 
+Donnatal, Zofran, and Toradal. She is now admitted to the 
+medical service for ongoing care
+.
+ROS:  
+-Constitutional: []WNL [x]Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia  
+-Eyes: [x]WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia  
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat  
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough 
+ 
+-Gastrointestinal: []WNL [x]Nausea [x]Vomiting [x]Abdominal pain 
+[]Abdominal Swelling []Diarrhea [x]Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Heme/Lymph: [x]WNL []Bleeding []Bruising []Lymphadenopathy  
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]Discharge []Menorrhagia  
+-Skin: [x]WNL []Rash []Pruritus  
+-Endocrine: [x]WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance  
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain  
+-Neurological: [ x]WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion []Headache  
+-Psychiatric: [x]WNL []Depression []Suicidal Ideation  
+-Allergy/Immunological: [x] WNL []Seasonal Allergies  
+
+ 
+Past Medical History:
+#. Irritable Bowel Syndome
+#. Childhood Asthma
+
+ 
+Social History:
+___
+Family History:
+Mother had cervical cancer. Grandmother had fibromyalgia. She 
+has a twin brother and younger brother who are in good health. 
+ 
+Physical Exam:
+Physical Examination:  
+Vitals: 99.8, 117/70, 67, 22, 99% RA wt: 105 lbs
+General: Patient is a young female, very sleepy. Able to wake 
+patient to ask questions but she immediately falls asleep 
+requiring multiple attempts to wake her.
+HEENT: NCAT, EOMI, sclera anicteric, conjunctiva WNL
+OP: MMM
+Neck: Supple, no JVD
+Chest: Generally CTA anterior and posterior
+Cor: Regular, no murmurs
+Abdomen: thin, soft, minimal tenderness in epigastrium to deep 
+palpation, no rebound, no guarding
+Ext: No edema
+Skin/Nails: No rash
+Neuro: Grossly intact
+.  
+
+ 
+Pertinent Results:
+___ 08:45PM   WBC-11.9* RBC-4.41 HGB-13.8 HCT-38.3 MCV-87 
+MCH-31.3 MCHC-36.1* RDW-12.4
+___ 08:45PM   NEUTS-75.1* ___ MONOS-3.3 EOS-0.7 
+BASOS-0.2
+___ 08:45PM   PLT COUNT-299
+___ 08:45PM   GLUCOSE-96 UREA N-16 CREAT-0.8 SODIUM-133 
+POTASSIUM-5.4* CHLORIDE-99 TOTAL CO2-22 ANION GAP-17
+___ 08:45PM   ALT(SGPT)-15 AST(SGOT)-44* ALK PHOS-45 TOT 
+BILI-1.0
+___ 08:45PM   LIPASE-29
+___ 08:45PM   CALCIUM-9.5 PHOSPHATE-3.3 MAGNESIUM-2.4
+___ 08:45PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG 
+barbitrt-NEG tricyclic-NEG
+___ 10:35PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 10:35PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:35PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE->80 BILIRUBIN-SM UROBILNGN-0.2 PH-6.5 
+LEUK-NEG
+___ 10:35PM URINE  ___ BACTERIA-FEW YEAST-NONE 
+___ 07:10AM   MAGNESIUM-2.2
+.
+DUPLEX DOP ABD/PEL LIMITED/PELVIS, NON-OBSTETRIC/PELVIS U.S., 
+TRANSVAGIN:
+IMPRESSION: Normal-appearing uterus and ovaries.
+.
+ABDOMEN (SUPINE & ERECT:
+IMPRESSION: No evidence of obstruction. No free air. 
+ 
+Brief Hospital Course:
+Assessment/Plan: The patient is a ___ year old female with 
+medical history pertinent for IBS presents with epigastric 
+abdominal pain.
+.  
+#. Contipation-predominant Irritable Bowel Syndrome: Patient 
+presents with ongoing abdominal pain with symptom complex 
+similar to those with prior attacks. She was admitted because 
+she had intractable pain and vomiting and could take PO.  Given 
+pain exacerbation after having run out of Amitriptyline, likely 
+contributing to ongoing symptoms. The patietn was counseled 
+about chronicity of disease, importance of having a partnership 
+with a single provider, and inappropriateness of self-medicating 
+with marijuana. Her amitriptiline was restarted.  She was given 
+Toradol simethicone and Tylenol as needed for pain.  She was 
+given anti-emetics as needed.  She was also initiated on levsin. 
+ Narcotics were avoided as this would only make her constipation 
+worse.  She was initally kept NPO and given IVF.  She was 
+started on stool softeners and miralax were started. The patient 
+was given enemas but patietn was unable to reteain them 
+properly. Finally, the patient's bowels moved when she was given 
+lactulose q4h.  The patient felt better after moving her bowels 
+and her diet was advanced.  She was discharged with scripts for 
+amitriptiline, and levsin. The patient was heading back to 
+___ and I encouraged her establish close PCP care with 
+___ to gastroenterology. She was also instucted to follow a 
+high fiber diet and use OTC laxatives if she has not moved her 
+bowels within a few days.
+.
+#. FEN - Advanced to regular
+.  
+#. Ppx -  Mobile
+.  
+#. Code -  Full
+.  
+#. Dispo -  Patient was discharged home in stable condition.
+.  
+#. Communication -  Patient
+Mother: ___ ___
+
+ 
+___ on Admission:
+Amitriptyline 50mg qhs
+Digestive Advantage IBS once daily
+OCPs
+ 
+Discharge Medications:
+1. Hyoscyamine Sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual Q4H (every 4 hours) as needed for 
+GI spasms.
+Disp:*100 Tablet, Sublingual(s)* Refills:*0*
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed for pain or fever.  
+3. Polyethylene Glycol 3350 100 % Powder Sig: One (1)  PO DAILY 
+(Daily) as needed for constipation.  
+4. Amitriptyline 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*0*
+6. YAZ ___ mg-mcg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain
+Inability to tolerate PO
+Contipation dependent irritable bowel syndrome.
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You were admitted with an exacerbation of your 
+constipation-predominant irritable bowel syndrome.  You were 
+given laxatives to help move your bowels. You were started on 
+anti-spasm medication and your amitrypline was re-initiated.
+.
+Recommendations:
+-Eat a high fiber diet.
+-Use over the counter laxatives to help move your bowels if you 
+have not gone in a few days.
+-Take Hyoscyamine as needed for bowel spasm
+-Continue your amitryptiline.
+-Follow up with new PCP and gastroenterologist in ___ as 
+planned.  Close follow up is important to maintain control of 
+symptoms and prevent hospitlilzations.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17529365-DS-8 | hadm_id=23977712
+
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o woman with no significant PMH who presents with abdominal 
+pain. She reports sharp constant epigastric pain for 5 days with 
+no PO intake during that time. She denies nausea but says she is 
+too sick to eat. She says that the does not radiate anywhere and 
+is diffuse but confined to her abdomen. Her pain improves with a 
+warm bath and also with "smoking pot." Denies vaginal discharge, 
+diarrhea, fevers or chills. She says she first had the pain last 
+___ and then she went on vacation to ___ and the pain 
+completely went away. Returned when she came back to school on 
+and off. Had EGD here in ___ which was normal with normal 
+biopsies. Then she spent the summer in ___ with her family 
+and was hospitalized for 5 days with this pain. Reportedly they 
+did an extensive work up including colonoscopy with no real 
+findings, and gave her antibiotics and amitriptyline sent her 
+home. She did not take the amitriptyline because she says she is 
+"not depressed." She says she felt ok for the about 5 months 
+after that but then last week developed similar epigastric pain. 
+She went to the ___ a few days ago where she says they did 
+not do a CT scan but gave her antibiotics (cipro/flagyl) and 
+discharged her from the ED. She now presents to ___ with 
+continued pain. Denies dysuria, hematuria, diarrhea, fevers, 
+chills. Does report maybe constipation.  
+.  
+In the ED, initial vs were T 97, HR 81, BP 103/56, RR 18, O2sat 
+96% RA. She was given 2L NS, morphine 4mg total IV, zofran IV 
+4mg x2, dilaudid 0.5mg IV x2, ativan 1mg IV x1.  
+.  
+On the floor she was asleep. Once awoken she writhed in pain. 
+During the interview with her she seemed more comfortable. When 
+this was pointed out she said that she doesn't notice the pain 
+as much when she is distracted. She confirmed the elements of 
+her history. She specifically denies any other drugs or 
+non-prescribed medications. A urine HCG and tox screen were sent 
+on the floor were negative for BZ and opiates inspite of 
+receiving both before the screen was sent. When confronted with 
+this information in the presense of her mother and a member of 
+the nursing staff she offered no explanation. The tests are 
+being resent. She continues to writhe in pain at times and 
+sleep.  
+
+ 
+Past Medical History:
+childhood asthma - not currently  
+s/p adenoids removed  
+
+ 
+Social History:
+___
+Family History:
+Mother had cervical cancer. Grandmother had fibromyalgia. She 
+has a twin brother and younger brother who are in good health. 
+ 
+Physical Exam:
+GEN: Asleep in bed, when awake at time alert and calm, at times 
+seemingly in pain  
+VS: 98.2 120/80 68 18 100%RA  
+HEENT: MMM, no LAD, slightly pale mucosa, pinpoint pupils early 
+in the AM but marked dilation later on  
+CV: RR, NL S1S2 no S3S4 MRG, pulses 2+ at the radial bilat  
+PULM: CTAB, no dullness to percussion, no CVA tenderness  
+ABD: BS+, NTND, with measured breathing no particular localizing 
+site of tenderness. Deep palpation was possible without 
+complaint after encouragement. No masses or HSM. No dullness to 
+percussion or tenderness on percussion. No rebound. Pt tolerated 
+shaking the bed and walking to the bathroom.  
+LIMBS: no rash, tatoo on right foot, no edema  
+
+ 
+Pertinent Results:
+___ 06:25AM BLOOD WBC-11.1* RBC-3.90* Hgb-12.1 Hct-34.2* 
+MCV-88 MCH-31.0 MCHC-35.4* RDW-12.7 Plt ___
+___ 02:55PM BLOOD WBC-11.0 RBC-4.40 Hgb-13.8 Hct-38.8 
+MCV-88 MCH-31.3 MCHC-35.5* RDW-12.2 Plt ___
+___ 02:55PM BLOOD Neuts-73.7* ___ Monos-3.1 Eos-0.4 
+Baso-0.8
+___ 02:55PM BLOOD Glucose-72 UreaN-18 Creat-0.9 Na-139 
+K-4.2 Cl-102 HCO3-23 AnGap-18
+___ 06:25AM BLOOD ALT-40 AST-26
+___ 02:55PM BLOOD ALT-56* AST-44* AlkPhos-44 TotBili-0.5
+___ 02:55PM BLOOD Albumin-4.7
+___ 05:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 06:25AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:55PM BLOOD tTG-IgA-7
+___ 03:54PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+___ 09:55AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+.
+CT ABDOMEN W/CONTRAST Study Date of ___ 5:___BDOMEN: 
+The lung bases are clear. Heart size is normal. There is no 
+pleural or pericardial effusion. The liver, gallbladder, spleen, 
+pancreas, adrenal glands and kidneys are unremarkable. There is 
+no retroperitoneal lymphadenopathy. The small and large bowel 
+are normal. There is no free fluid, free air or adenopapathy. CT 
+PELVIS: The rectum, sigmoid, baladder, appendix, uterus and 
+adnexa are normal. There is no pelvic lymphadenopathy or free 
+fluid. The osseous structures are normal. IMPRESSION: No CT 
+evidence to explain abdominal pain.  
+
+ 
+Brief Hospital Course:
+___ yo F with no signficant PMH who presents with abdominal pain. 
+It was never really clear if her complaints were entirely 
+organic. Her history is somewhat consistent with IBS. After much 
+discussion and once the pt began to open up she revealed 
+alternating constipation and diarrhea and random paroxysmal 
+abdominal pain without weight loss, bloody stool, or fevers. It 
+seems that opiates aggrevate the symptoms of cramping and she 
+can only achieve analgesia from having enough to get a high. 
+This resulted in some amount of drug seeking behavior. She 
+seemed in withdrawl on the floor the morning of admission with 
+piloerection, dilated pupils, and agitation. The situation was 
+complicated by her urine tox screen which was clearly not her 
+urine since it did not contain BZs or opiates, but of which she 
+had received. When confronted with this data she offered neither 
+denials or explanations. She also eventually revealed that the 
+reason she came to ___ ED was that the ___ ED had told her she 
+was a drug addict and discharged her with no further 
+intervention. She seemed almost relieved when we discussed a 
+potential diagnosis for her pain such as IDS. It was emphasized 
+to her that the constipating effects of opiates potentiate 
+cramps and should be avoided. Ultimately she was discharged with 
+a putative diagnosis of IBS with lingering concern about her 
+drug seeking behavior. 
+.  
+# Abdominal pain: Diffuse, sharp, non-localizing pain with no 
+peritoneal signs, NL EGD and colonscopy, no elevations in WBC, 
+and NL LFTs with hydration. DDx includes gyn complaints such as 
+endometriosis, although not cyclical and no pelvic fluid on CT 
+consistent with endometriosis. IDB was not seen on various 
+studies and there is no bowel wall thickening. WBC NL. Celiac 
+disease very unlikely given history, lack of diarrhea, and NL 
+antiTTG. History concerning for functional abdominal pain such 
+as IBS or drug seeking behavior. The urine sample the pt gave 
+seems to be either diluted or not urine. Her claim that IV 
+dilaudid alone and not MS relieves her pain is concerning for 
+drug seeking. It is also worth noting that pt stated that she 
+can become distracted and not notice the pain. In summary, her 
+pain is not consistent with any major pathological abdominal 
+process.  She ultimately did well with simethicone for gas. 
+Since Zofran can cause constipation this was held, as were all 
+narcotics. She was continued on an H2 blocker. She was also 
+given low dose Ativan for anxiety. 
+.   
+# Transaminitis: The elevated AST and ALT were very mild and 
+resolved with hydration. Most likely ___ dehydration.  
+.  
+# Possible drug seeking behavior: It is unclear if she diluted 
+her urine or gave some other substance for her Utox. Her demands 
+for pain medications with consistently NL VSs is also 
+concerning. Her physical exam throughout the morning is notable 
+for increasing agitation with dilated pupils. Given she has a 
+history of taking TCAs, a tox screen was added to her admission 
+labs and her urine was sent. As stated, all were negative. 
+Social work was asked to consult and saw the patient. 
+ 
+Medications on Admission:
+Not taking any.
+Was on amytripyline, omeprazole, and ranitidine as well as cipro 
+and flagyl
+ 
+Discharge Medications:
+1. Simethicone 80 mg Tablet, Chewable Sig: ___ Tablet, Chewables 
+PO QID (4 times a day) as needed.
+Disp:*60 Tablet, Chewable(s)* Refills:*0*
+2. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for anxiety for 5 doses.
+Disp:*5 Tablet(s)* Refills:*0*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a 
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Charcoal Plus DS 250-80 mg Tablet Sig: One (1) Tablet PO 
+every ___ hours as needed for pain.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: IBS
+
+ 
+Discharge Condition:
+Good, stable vital signs, pain under control
+
+ 
+Discharge Instructions:
+You were admitted for abdominal pain. Ultimately it was believed 
+that your pain was due to irritable bowel syndrome. You should 
+not take opiate pain medication as these aggravate your IBS. 
+These medications include dilaudid, morphine, codeine, percoset, 
+vicoden, and demerol. 
+.
+Please do your best to eat and stay hydrated. At first you 
+should eat only clear liquids. Then advance to the BRAT diet 
+(Bananas, Rice, Apple sauce, and Toast). Then try regular foods. 
+You should try to identify the triggers for your IBS and avoid 
+them. The trigger may be certain foods or stresses in your life. 
+Please take tylenol for your pain. Do not take more than 4g of 
+tylenol in a day. Simethicone and charcoal pills can help your 
+cramping. You can take ranitidine for stomach upset. You should 
+continue to take amitriptyline as prescribed. Do not take the 
+antibiotics you received during your previous hospitalizations. 
+.
+Please attend your follow up appointments. 
+.
+Please call your doctor if your symptoms recur or if you 
+experience other concerning symptoms including chest pain, 
+shortness of breath, bleeding, uncontrolled diarrhea or 
+vomiting, or other concerning symptoms. 
+.
+ 
+Followup Instructions:
+___

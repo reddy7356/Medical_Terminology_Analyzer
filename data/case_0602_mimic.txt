@@ -1,0 +1,239 @@
+===== DISCHARGE NOTE =====
+note_id=14531535-DS-4 | hadm_id=27394276
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenergan
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lethargy
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo female with history of hypothyroidism, dyslipidemia, and 
+Alzheimer's dementia presents with ___ and elevated TSH. History 
+provided by daughter. Daughter states that patient has been in 
+some decline over past few months at assisted ___ in 
+___. Patient has been able to identify daughter until 
+about 10 days ago. Prior to 10 days ago, baseline mental status 
+was orientation to self, family, place, but not time. Daughter 
+reports patient more lethargic past week, unable to recognize 
+daughter. ___ contacted PCP -> lab work revealed creatinine 
+3.8, TSH 18 (has been as high as 56 in past). Daughter concerned 
+that patient has not been fully compliant with meds at assisted 
+living facility. Patient has not been complaining or pain, and 
+has not expressed any complaints to staff at facility. She also 
+has had limited PO intake.  
+.  
+In the ED, initial vs were: 97 71 114/62 18 97% sat. Patient was 
+given one liter NS. Straight cath was performed for urine cx. 
+CXR obtained. Patient then transferred to floor. Vitals on 
+transfer: 72, 20, 102/48, 100/RA  
+.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+HYPOTHYROIDISM  
+HYPERCHOLESTEROLEMIA  
+PANCREATITIS  
+OSTEOPENIA  
+ALZHEIMER'S DISEASE  
+B12 DEFICIENCY ANEMIA  
+*S/P APPENDECTOMY  
+VITAMIN D DEFICIENCY
+ 
+Social History:
+___
+Family History:
+n/c
+ 
+Physical Exam:
+Vitals: afebrile 110/55 HR 73 RR 20 100 % RA, 123  
+General: Alert, oriented to name only, no distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+Labs on Admission:
+___ 12:40AM BLOOD WBC-4.3 RBC-3.00* Hgb-10.5* Hct-29.8* 
+MCV-99* MCH-35.1* MCHC-35.3* RDW-12.3 Plt ___
+___ 12:40AM BLOOD Neuts-52.7 ___ Monos-4.5 Eos-3.1 
+Baso-0.6
+___ 12:40AM BLOOD Glucose-108* UreaN-83* Creat-2.9* Na-137 
+K-3.3 Cl-91* HCO3-31 AnGap-18
+___ 12:40AM BLOOD CK(CPK)-115
+___ 12:40AM BLOOD Albumin-4.1 Phos-3.5 Mg-2.5
+___ 12:40AM BLOOD VitB12-463 Folate-16.2
+___ 12:40AM BLOOD T3-48* Free T4-0.92*
+.
+Labs on Discharge:
+___ 06:00AM BLOOD Glucose-94 UreaN-28* Creat-1.7* Na-141 
+K-3.9 Cl-110* HCO3-25 AnGap-10
+___ 05:40AM BLOOD WBC-5.5 RBC-3.15* Hgb-11.0* Hct-32.0* 
+MCV-102* MCH-34.9* MCHC-34.3 RDW-12.3 Plt ___
+.
+Urine Studies:
+___ 04:40AM URINE Color-Straw Appear-Clear Sp ___
+___ 04:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+___ 06:17AM URINE Hours-RANDOM UreaN-590 Creat-75 Na-44 
+K-59 Cl-15
+___ 06:17AM URINE Osmolal-398
+.
+Micro:
+___ Urine Culture negative
+.
+Imaging Studies:
+___ CXR: The cardiac, mediastinal and hilar contours 
+are stable since ___. Bilateral low lung volumes are 
+again noted.  Tortuosity of the aorta is noted. No evidence of 
+pleural effusion or definite vascular congestion. Linear 
+atelectasis within the right lower lobe is stable since ___. 
+Minimal atelectasis at the left lung base is noted. 
+.
+ECG ___: 
+Baseline artifact. Sinus rhythm. Q-T interval prolongation. 
+Borderline 
+low limb lead voltage. Early R wave progession. RSR' pattern in 
+lead V1. 
+ST-T wave abnormalities. Since the previous tracing of ___ 
+the rate is 
+slower. Axis is less leftward. Differences in lead V1 may be 
+related to lead position. ST-T wave abnormalities may be more 
+prominent but the artifact precludes definitive statement. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of Alzheimer's 
+Dementia who presented to the hospital with lethargy and was 
+found to be hypothyroid and in acute renal failure.
+.
+1. Acute Renal Failure: Likely etiology was prerenal from 
+dehydration.  She was given IV fluids and her creatinine 
+improved.  Her mental status improved as well with IV fluids.  
+Creatinine peak was 2.9 and this improved to 1.7 prior to 
+discharge.  She was encouraged to drink more fluids.
+.
+2. Hypothyroidism: This was due to refusal of levothyroxine at 
+her assisted living.  She was put back on her home dose of 
+levothyroxine and took it while she was here.
+.
+3. Mental Status:  Her mental status waxed and waned while she 
+was here, consistent with delerium in the setting of advanced 
+alzheimer's disease.  Her delerium was due to her acute kidney 
+failure and hypothyroidism, as well as new environment from 
+being in the hospital.  She had a negative UA on admission and 
+was afebrile during her hospitalization.  To manage her 
+delerium, she was given PRN haldol 0.5mg and PRN Zydis (Zyprexa 
+sl) 2.5mg PO BID PRN.  Zyprexa seemed to work well for her and 
+she can continue to take this as needed.
+.
+4. Goals of Care: Multiple conversations took place with the 
+patient's daughter regarding her goals of care.  It was 
+important to her daughter that the patient stay at her current 
+facility, and she understood that with advanced Alzheimer's 
+disease, she may not eat or drink enough to prevent further 
+episodes of renal failure.  The decision was made to involve 
+hospice in her care and that she would be made comfortable and 
+the health care proxy, the patient's daughter, was in agreement 
+with this.  It was advised that she not return to the hospital 
+if she were to become sicker; however her daughter stated she 
+may not be able to do this.  She will continue to recieve 
+support from hospice social workers in coping with the decline 
+of her mother.
+.
+Code Status: DNR/DNI
+.
+HCP: ___ ___
+ 
+Medications on Admission:
+Unclear if she was compliant with taking these:
+ASA 81 mg  
+citalopram 20 mg daily  
+furosemide 80 mg daily  
+levothyroxine 100 mcg daily  
+lisinopril 2.5 mg daily  
+metolazone 5 mg daily  
+simvastatin 40 mg daily  
+vitamin D 1000 units daily  
+
+ 
+Discharge Medications:
+1. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. olanzapine 5 mg Tablet, Rapid Dissolve Sig: 0.5 Tablet, Rapid 
+Dissolve PO once a day.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+1. Acute Kidney Injury secondary to dehydration 
+2. Hypothyroidism from medication non-compliance 
+3. End-Stage Alzheimer's Disease 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always. 
+Level of Consciousness: Lethargic but arousable. 
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair. 
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with low thyroid levels and 
+renal failure.  Your low thyroid levels were due to not taking 
+your medication at home.  Your renal failure was treated with 
+fluids and improved.  While you were here, you met with a 
+hospice liason and were discharged back to your assisted living 
+with hospice services.  The following medications were changed 
+this admission.
+
+Please STOP taking all medication EXCEPT for Levothyroxine.  
+This is an important medication that you should take every day.
+
+Please ADD Zyprexa (Zydis) 2.5 mg by mouth daily at 2pm in the 
+afternoon for agitation.
+
+Please try to drink at least 1 liter of fluid per day to prevent 
+renal failure.
+
+It was a pleasure taking care of you.
+ 
+Followup Instructions:
+___

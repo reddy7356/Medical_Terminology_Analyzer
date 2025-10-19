@@ -1,0 +1,458 @@
+===== DISCHARGE NOTE =====
+note_id=15576280-DS-14 | hadm_id=24106951
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+Endovascular repair of L CIA aneurysm using a Gore excluder 
+device
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo homeless male who presents with a 5 day
+history of mid to low back pain. Patient is a poor historian,
+however, he states that he had sudden onset of back pain 5 days
+ago while at rest. He denies associated leg pain or weakness. He
+presented to our ED where an MRI was performed and initially 
+read
+as normal. He was discharged from the ED, however re-read of the
+MRI suggested possible phlegmon or abscess at the ___
+that was incompletely imaged. Patient was brought back to the ED
+for further evaluation. Patient states the pain has been stable.
+He denies recent infections, fevers, chills, and malaise. He has
+been ambulating with his cane without difficulty. He denies 
+night
+sweats and recent weight loss. He denies sick contacts, however
+he visits multiple shelters and may be exposed without 
+knowledge.
+
+ROS:
+(+) per HPI
+(-) Denies pain, fevers chills, night sweats, unexplained weight
+loss, fatigue/malaise/lethargy, changes in appetite, trouble 
+with
+sleep, pruritis, jaundice, rashes, bleeding, easy bruising,
+headache, dizziness, vertigo, syncope, weakness, paresthesias,
+nausea, vomiting, hematemesis, bloating, cramping, melena, 
+BRBPR,
+dysphagia, chest pain, shortness of breath, cough, edema, 
+urinary
+frequency, urgency
+
+ 
+Past Medical History:
+Past Medical History:
+Hypertension
+
+Past Surgical History:
+Laparoscopic resection of gastric tumor
+ 
+Social History:
+___
+Family History:
+No known history of aneurysmal disease
+ 
+Physical Exam:
+ADMISSION PE:
+Vitals: 97.8 86 168/104 18 100% RA 
+GEN: A&O, NAD, flat affect
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR
+PULM: Clear to auscultation b/l
+ABD: Soft, nondistended, tender in bilateral lower quadrants L>R
+with voluntary guarding. Well healed lap incisions.
+Ext: No ___ edema, ___ warm and well perfused, large scar noted
+over the lower anterior left leg
+
+PULSE EXAM:
+RLE: Palpable femoral, DP, and ___
+LLE: Palpable femoral, DP, and ___
+
+DISCHARGE PE:
+VS: T 98.2 HR 68 BP 137/87 RR 20 99% RA 
+Gen: NAD
+Neuro: A&Ox3
+CV: RRR
+Pulm: breathing comfortably without increased respiratory effort
+Abd: soft, mild lower abdominal tenderness, ND
+Ext: WWP 
+Pulses: (P = palpable, D = Doppler, N = None)
+    Fem    DP    ___
+R    P     P     P
+L    P     P     P
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:30PM BLOOD WBC-13.5* RBC-5.56 Hgb-14.3 Hct-45.1 
+MCV-81* MCH-25.7* MCHC-31.7* RDW-14.4 RDWSD-41.8 Plt ___
+___ 10:30PM BLOOD Neuts-80.3* Lymphs-13.1* Monos-5.6 
+Eos-0.4* Baso-0.2 Im ___ AbsNeut-10.86* AbsLymp-1.77 
+AbsMono-0.76 AbsEos-0.06 AbsBaso-0.03
+___ 10:30PM BLOOD ___ PTT-36.5 ___
+___ 10:30PM BLOOD Glucose-144* UreaN-17 Creat-1.2 Na-135 
+K-4.0 Cl-98 HCO3-28 AnGap-13
+
+DISCHARGE LABS:
+___ 05:03AM BLOOD WBC-9.3 RBC-4.49* Hgb-11.4* Hct-35.7* 
+MCV-80* MCH-25.4* MCHC-31.9* RDW-15.0 RDWSD-43.2 Plt ___
+___ 05:03AM BLOOD Plt ___
+___ 05:03AM BLOOD Glucose-134* UreaN-11 Creat-1.3* Na-135 
+K-4.0 Cl-101 HCO3-26 AnGap-12
+___ 05:03AM BLOOD Calcium-8.8 Phos-2.9 Mg-2.0
+___ 05:03AM BLOOD CRP-43.2*
+
+IMAGES:
+___ CXR
+1.  No acute intrathoracic process. 
+2.  Partially imaged left arm is notable for presence of several 
+small 
+metallic foreign bodies, possibly shrapnel, correlate with a 
+prior history of gunshot or other injury. 
+
+___ MRI L/T spine
+1. Minimal prevertebral edema in the visualized lower cervical 
+and upper 
+thoracic spine with questionable contrast enhancement raising 
+possibility of phlegmon.  No evidence for discitis/ 
+osteomyelitis at the visualized portion of the spine.  Recommend 
+a dedicated cervical spine MRI for further evaluation. 
+2. Degenerative changes throughout the lumbar spine, worse at 
+L3-4 resulting in moderate spinal canal and bilateral neural 
+foraminal stenosis, as described above. 
+3. Incompletely characterized aneurysm of the proximal left 
+common iliac 
+artery measuring up to 2.3 cm with surrounding abnormal high 
+signal and 
+stranding, which may represent focal aneurysmal dilatation with 
+arteritis 
+versus surrounding hemorrhage in the setting of impending 
+rupture.  Recommend an urgent CTA abdomen/pelvis for further 
+evaluation. 
+4. A 1.5 cm left thyroid nodule.  Recommend a dedicated thyroid 
+ultrasound for further evaluation. 
+RECOMMENDATION(S):  MRI of the cervical spine. 
+Urgent CTA of the abdomen/pelvis for further evaluation. 
+Nonurgent thyroid ultrasound. 
+
+___ CTA Abd/Pelvis
+1. 1.9 cm aneurysm of the proximal left common iliac artery, 
+with mural 
+thrombus and surrounding inflammatory changes concerning for 
+impending/contained rupture versus arteritis. 
+2. The SMV appears attenuated, but is incompletely evaluated on 
+this arterial exam. 
+
+___ MR ___
+1. Moderately motion degraded examination.  Within these 
+confines: 
+2. Severe degenerative changes throughout the cervical spine, 
+worse at C4-5 with severe spinal canal and severe bilateral 
+neural foraminal stenosis.  Mild high signal within the spinal 
+cord at this level, consistent with chronic myelomalacia in the 
+setting of no acute trauma. 
+3. No evidence for discitis/osteomyelitis, prevertebral edema or 
+epidural 
+abscess of the cervical spine. 
+4. Re-identified is STIR hyperintense signal anterior to the 
+upper thoracic spine, unchanged from prior examination.  It is 
+uncertain if this represents esophagus versus other process.  
+Continued clinical correlation is recommended and follow-up 
+examination as indicated. 
+
+___ ECHO
+The left atrium is normal in size. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). The estimated cardiac index is normal 
+(>=2.5L/min/m2). Doppler parameters are indeterminate for left 
+ventricular diastolic function. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. No masses or vegetations are seen on the aortic valve. 
+No aortic regurgitation is seen. The mitral valve leaflets are 
+structurally normal. There is no mitral valve prolapse. No mass 
+or vegetation is seen on the mitral valve. No mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+
+IMPRESSION: No echocardiographic evidence of endocarditis. 
+Normal biventricular wall thickness, biventricular cavity size 
+and regional/global systolic function. Normal diastolic 
+function. No pathologic valvular findings.  
+
+___ MRI T/L spine
+ 
+IMPRESSION: 
+    
+1. Motion limited exam. 
+2. No evidence for diskitis, osteomyelitis, epidural collection, 
+or abnormal intrathecal contrast enhancement. 
+3. Intermediate signal intensity anterior to the upper thoracic 
+spine, which demonstrated high signal on fat-suppressed T2 
+weighted images of the prior thoracic spine MRI, likely 
+corresponds to the esophagus.  No evidence for prevertebral 
+collection. 
+4. Diffusely elevated signal on STIR images in the subcutaneous 
+fat overlying the lumbar spine, without a fluid collection, is a 
+nonspecific finding which is frequently secondary to prolonged 
+supine positioning in the inpatient setting, plus/minus fluid 
+third-spacing given the recent stenting procedure. 
+5. Congenitally short pedicles, prominent posterior epidural 
+fat, and 
+degenerative changes in the lumbar spine results in moderate 
+spinal canal 
+stenosis at L2-L3 and severe spinal canal stenosis at L3-L4, as 
+detailed 
+above, with mass effect on the intrathecal and traversing nerve 
+roots.  There is also moderate to severe neural foraminal 
+narrowing from L2-L3 through L4-L5 with mass effect on the 
+exiting nerve roots. 
+
+___ CTA Abd/pelvis
+IMPRESSION: 
+    
+1. Status post aortobi-iliac stent placement without evidence of 
+endoleak.  Similar appearance of the left common iliac artery 
+aneurysm with surrounding inflammatory changes. 
+2. Relative ___ of the bilateral renal lower poles 
+concerning for decreased perfusion.  The bilateral main renal 
+arteries are patent with the endovascular stent in position just 
+distal to the origin of the left main renal artery.  There is 
+poor opacification of two left lower pole accessory renal 
+arteries and a right lower pole accessory renal artery as 
+detailed above.  These 3 accessory vessels originate from the 
+portion of the aorta through which the stent graft is in-situ. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo male with back pain who was admitted to 
+the ___ ICU on ___. The 
+patient was found to have 2 cm mycotic aneurysm of the left 
+common iliac artery. On ___, the patient underwent 
+endovascular repair of L CIA aneurysm using a Gore excluder 
+device. For details of the procedure, please see the surgeon's 
+operative note. The patient tolerated the procedure well without 
+complications and was brought to the post-anesthesia care unit 
+in stable condition. He remained in the ICU for close monitoring 
+and BP control.
+
+On POD2, the patient was hemodynamically stable and transferred 
+to the floor. He sustained an ___, likely due to IV contrast 
+during diagnostic studies. Cr resolved with IVFs and over time. 
+ID was consulted for recommendations on antibiotics therapy: 
+vancomycin and ceftriaxone for 6 weeks (___)
+
+Ultimately, he did well. He was able to tolerate a regular diet, 
+void without issues, and pain was controlled on oral medications 
+alone. He was evaluated by physical therapy with recommendation 
+for continued therapy at rehab facility. He was deemed ready for 
+discharge to rehab, and was given the appropriate discharge and 
+follow-up instructions.  
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Amlodipine 10 mg PO DAILY 
+3. HydrALAzine 50 mg PO Q6H 
+4. Metoprolol Tartrate 75 mg PO Q6H 
+5. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+6. Docusate Sodium 100 mg PO BID 
+7. Senna 8.6 mg PO BID:PRN constipation 
+8. CeftriaXONE 2 gm IV Q 24H 
+9. Vancomycin 750 mg IV Q 12H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mycotic aneurysm of left CIA, s/p endovascular repair
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.  You were admitted to the hospital after 
+placement of a stent graft in your iliac artery to strengthen 
+the part of the artery that was weakened by an aneurysm.  To 
+perform this procedure, small punctures were made in the 
+arteries on both sides of your groin.  You tolerated the 
+procedure well and are now ready to be discharged from the 
+hospital.   Please follow the recommendations below to ensure a 
+speedy and uneventful recovery.
+
+Sincerely, 
+Your ___ Care Team
+
+Division of Vascular and Endovascular Surgery
+Endovascular Aneurysm Repair Discharge Instructions
+
+PLEASE NOTE: After endovascular aneurysm repair, it is very 
+important to have regular appointments (every ___ months) for 
+the rest of your life.  These appointments will include a CT 
+(“CAT”) scan and/or ultrasound of your graft.  If you miss an 
+appointment, please call to reschedule. 
+
+WHAT TO EXPECT:
+•Bruising, tenderness, and a sensation of fullness at the groin 
+puncture sites (or incisions) is normal and will go away in 
+one-two weeks
+CARE OF THE GROIN PUNCTURE SITES:
+•It is normal to have mild swelling, a small bruise, or small 
+amounts of drainage at the groin puncture sites.  In two weeks, 
+you may feel a small, painless, pea sized knot at the puncture 
+sites.  This too is normal.  Male patients may notice swelling 
+in the scrotum.  The swelling will get better over one-two 
+weeks.
+•Look at the area daily to see if there are any changes.  Be 
+sure to report signs of infection.  These include: increasing 
+redness; worsening pain; new or increasing drainage, or drainage 
+that is white, yellow, or green; or fever of 101.5 or more.  (If 
+you have taken aspirin, Tylenol, or other fever reducing 
+medicine, wait at least ___ hours after taking it before you 
+check your temperature in order to get an accurate reading.)
+FOR SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site or 
+incision)
+•If you have sudden, severe bleeding or swelling at either of 
+the groin puncture sites: 
+-Lie down, keep leg straight and apply (or have someone apply) 
+firm pressure to area for ___ minutes with a gauze pad or 
+clean cloth. 
+-Once bleeding has stopped, call your surgeon to report what 
+happened.   
+-If bleeding does not stop, call ___ for transfer to closest 
+Emergency Room. 
+•You may shower 48 hours after surgery.  Let the soapy water 
+run over the puncture sites, then rinse and pat dry.  Do not rub 
+these sites and do not apply cream, lotion, ointment or powder. 
+•Wear loose-fitting pants and clothing as this will be less 
+irritating to the groin puncture sites. 
+
+MEDICATIONS
+•You will be given prescriptions for any new medication started 
+during your hospital stay.
+•Before you go home, your nurse ___ give you information about 
+new medication and will review all the medications you should 
+take at home.  Be sure to ask any questions you may have.  If 
+something you normally take or may take is not on the list you 
+receive from the nurse, please ask if it is okay to take it. 
+
+PAIN MANAGEMENT
+•Most patients do not have much pain following this procedure.  
+ Your puncture sites may be a little sore.  This will improve 
+daily. If it is getting worse, please let us know.
+•You will be given instructions about taking pain medicine if 
+you need it.
+
+ACTIVITY
+•You must limit activity to protect the puncture sites in your 
+groin.  For ONE WEEK:
+-Do not drive
+-Do not swim, take a tub bath or go in a Ja___ or hot tub
+-Do not lift, push, pull or carry anything heavier than five 
+pounds
+-Do not do any exercise or activity that causes you to hold your 
+breath or bear down with your abdominal muscles.
+-Do not resume sexual activity
+•Discuss with your surgeon when you may return to other regular 
+activities, including work.  If needed, we will give you a 
+letter for your workplace. 
+•It is normal to feel weak and tired.  This can last six-eight 
+weeks, but should get better day by day.   You may want to have 
+help around the house during this time.
+___ push yourself too hard during your recovery.  Rest when 
+you feel tired.  Gradually return to normal activities over the 
+next month.
+•We encourage you to walk regularly. Walking, especially 
+outdoors in good weather is the best exercise for circulation.  
+Walk short distances at first, even in the house, then do a 
+little more each day.
+•It is okay to climb stairs.  You may need to climb them slowly 
+and pause after every few steps. 
+
+DIET
+•It is normal to have a decreased appetite.  Your appetite will 
+return over time.
+•Follow a well balance, heart-healthy diet, with moderate 
+restriction of salt and fat. 
+•Eat small, frequent meals with nutritious food options (high 
+fiber, lean meats, fruits, and vegetables) to maintain your 
+strength and to help with wound healing.
+
+BOWEL AND BLADDER FUNCTION
+•You should be able to pass urine without difficulty.  Call you 
+doctor if you have any problems urinating, such as burning, 
+pain, bleeding, going too often, or having trouble urinating or 
+starting the flow of urine.   Call if you have a decrease in the 
+amount of urine. 
+•You may experience some constipation after surgery because of 
+pain medicine and changes in activity.  Increasing fluids and 
+fiber in your diet and staying active can help.  To relief 
+constipation, you may talk a mild laxative.   Please take to 
+your pharmacist for advice about what to take. 
+
+SMOKING
+•If you smoke, it is very important that you STOP.   Research 
+shows smoking makes vascular disease worse.  This could increase 
+the chance of a blockage in your new graft.  Talk to your 
+primary care physician about ways to quit smoking. 
+
+CALLING FOR HELP/DANGER SIGNS
+If you need help, please call us at ___.  Remember, 
+your doctor, or someone covering for your doctor, is available 
+24 hours a day, seven days a week.   If you call during 
+nonbusiness hours, you will reach someone who can help you reach 
+the vascular surgeon on call. 
+Call your surgeon right away for:
+•Pain in the groin area that is not relieved with medication, 
+or pain that is getting worse instead of better
+•Increased redness at the groin puncture sites
+•New or increased drainage from the groin puncture sites, or 
+white yellow, or green drainage 
+•Any new bleeding from the groin puncture sites.  For sudden, 
+severe bleeding, apply pressure for ___ minutes. If the 
+bleeding stops, call your doctor right away to report what 
+happened.  If it does not stop, call ___
+•Fever greater than 101.5 degrees
+•Nausea, vomiting, abdominal cramps, diarrhea or constipation
+•Any worsening pain in your abdomen
+•Problems with urination
+•Changes in color or sensation in your feet or legs 
+CALL ___ in an EMERGENCY, such as
+•Any sudden, severe pain in the back, abdomen, or chest
+•A sudden change in ability to move or use your legs
+•Sudden, severe bleeding or swelling at either groin site that 
+does not stop after applying pressure for ___ minutes
+ 
+Followup Instructions:
+___

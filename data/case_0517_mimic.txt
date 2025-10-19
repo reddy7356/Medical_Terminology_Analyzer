@@ -1,0 +1,287 @@
+===== DISCHARGE NOTE =====
+note_id=18651309-DS-4 | hadm_id=26253427
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cholestyramine / ezetimibe / felodipine / phenobarbital / 
+atorvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ YO M, hx of HTN, Paroxysmal atrial fibrillation on Coumadin,
+VT, Brugada Syndrome s/p secondary prevention ICD, CAD, HLD, who
+presented to ___ with bright red bleeding per rectum. 
+
+Patient has been having ongoing pain from his L3-L4 fracture, on
+fentanyl patch started approx. 2 weeks ago. Has had very bad
+constipation, didn't have BM for 2 days, gave himself a warm
+water enema, had normal BM yesterday. At 1 AM had bright red
+blood per rectum, came into the ER at 10 AM. At the time, had
+some lightheadedness, dizziness, nausea but no vomiting. No
+abdominal pain. He denies any history of gastrointestinal
+bleeding. 
+
+Of note, he had a colonoscopy ___ years ago, notable for
+diverticulosis, no polyps or hemorrhoids. 
+
+His ED course was notable for warfarin reversal. He remained
+hemodynamically stable and was admitted to medicine. 
+
+Patient was discussed with geriatrics fellow, who agreed with
+admission to geriatrics.
+
+ 
+Past Medical History:
+#Paroxysmal atrial fibrillation
+#Ventricular Tachycardia
+#Brugada Syndrome s/p secondary prevention ICD (previously
+followed at ___, Dr. ___, leads originally placed in
+___
+#CAD - unclear history / anatomy, per pt. no history of MI
+#Hyperlipidemia
+#Statin Intolerance
+#Hypertension
+ 
+Social History:
+___
+Family History:
+Mother deceased at ___ years with
+hx. of HTN and stroke.  Father deceased at ___ years with history
+of heart disease and stroke.  Brother ___ years with hx. of COPD.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VITAL SIGNS:  
+98.4 PO 185 / 75 63 18 98 Ra  
+GENERAL: elderly male, NAD 
+HEENT: MMM
+NECK:  supple
+CARDIAC:  faint heart sounds, RRR, no m/r/g
+LUNGS:  CTAB
+ABDOMEN:  soft, nontender, nondistended
+EXTREMITIES:  RLE slightly larger than LLE, no tenderness to
+palpation. WWP
+NEUROLOGIC:  A&Ox3, moving all extremities
+SKIN:  no rashes noted
+
+DISCHARGE PHYSICAL EXAM
+___ 0744 Temp: 97.4 PO BP: 138/69 HR: 55 RR: 20 O2 sat: 96%
+O2 delivery: Ra  
+GENERAL: elderly male, NAD 
+HEENT: MMM
+NECK:  supple
+CARDIAC:  faint heart sounds, RRR, no m/r/g
+LUNGS:  CTAB
+ABDOMEN:  soft, nontender, nondistended
+EXTREMITIES:  RLE slightly larger than LLE, no tenderness to
+palpation. WWP
+NEUROLOGIC:  A&Ox3, moving all extremities
+SKIN:  no rashes noted
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 11:53AM BLOOD WBC-11.4* RBC-3.94* Hgb-12.3* Hct-35.8* 
+MCV-91 MCH-31.2 MCHC-34.4 RDW-15.1 RDWSD-50.2* Plt ___
+___ 11:53AM BLOOD Neuts-79.7* Lymphs-14.1* Monos-5.5 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-9.11* AbsLymp-1.61 
+AbsMono-0.63 AbsEos-0.01* AbsBaso-0.02
+___ 11:53AM BLOOD ___ PTT-32.6 ___
+___ 11:53AM BLOOD Glucose-94 UreaN-25* Creat-0.9 Na-142 
+K-3.8 Cl-108 HCO3-21* AnGap-13
+___ 11:53AM BLOOD Calcium-9.2 Phos-1.4* Mg-2.1
+
+DISCHARGE LABS:
+___ 07:00AM BLOOD WBC-10.1* RBC-3.54* Hgb-11.2* Hct-33.5* 
+MCV-95 MCH-31.6 MCHC-33.4 RDW-15.6* RDWSD-53.9* Plt ___
+___ 07:00AM BLOOD Glucose-73 UreaN-22* Creat-0.9 Na-144 
+K-3.9 Cl-109* HCO3-23 AnGap-12
+___ 07:00AM BLOOD Calcium-8.7 Phos-3.2 Mg-2.2
+
+MICRO:
+NONE
+
+IMAGING:
+___ Imaging CTA ABD/PEL W&W/O C W/R 
+1. No active extravasation of contrast to suggest current GI 
+bleed.  
+Circumferential wall thickening of the distal descending colon 
+and sigmoid 
+compatible with colitis.  This may be due to ischemia, infection 
+or 
+inflammation.  Patent central arterial and venous vasculature. 
+2. Compression deformities at L4 and L5 with bilateral L4 
+pedicle fractures 
+and retropulsion of the superior aspect of the L4 vertebral body 
+into the 
+canal.  There is some callus formation suggesting that this is 
+not entirely 
+acute however the retroperitoneal fat demonstrates mild 
+stranding.  Clinical 
+correlation regarding acuity suggested. 
+3. Bilateral adrenal nodules, potentially adenomas though 
+incompletely 
+characterized on this exam. 
+4. Moderate to large hiatal hernia containing majority of the 
+stomach and 
+portion of the pancreas. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ M with PMH HTN, pAF on Coumadin, VT/Brugada 
+s/p ICD, diverticulosis, L3/L4 fx on fentanyl patch who presents 
+with bright red blood per rectum, concerning for diverticular 
+bleed iso Coumadin, s/p vitamin K reversal, admitted to 
+medicine. He remained hemodynamically stable with no more 
+episodes of bright red blood per rectum while hospitalized. He 
+was discharged home with close PCP ___. 
+
+# Gastrointestinal Bleed:
+Concerning for diverticular bleed given colonoscopy ___ years ago. 
+Likely triggered in setting of severe constipation secondary to 
+fentanyl patch, poor compliance with laxatives, while 
+therapeutic on Coumadin. His subcutaneous heparin was held and 
+he received vitamin K as well as blood. He remained 
+hemodynamically stable. 
+
+# Constipation.
+Constipation was likely in the setting of recent fentanyl patch 
+initiation two weeks ago. On senna at home but per family, 
+poorly compliant. He was given docusate, senna, and miralax. He 
+should continue senna and miralax daily so that he has one soft 
+bowel movement per day. 
+
+# Paroxysmal Atrial Fibrillation
+On Coumadin at home, INR therapeutic on admission. He recieved 
+PO vitamin K in the ER given his rectal bleeding. CHADSVASC ___. 
+We continued his amiodarone 100 mg QD and his warfarin was 
+restarted on discharge. 
+
+# Low Back Pain
+# L3, L4 Compression Fractures/Retropulsion
+Seen on CT abd on admission, as well as CT L spine earlier this 
+month. Followed by Dr. ___ NSGY, recently seen 3 
+weeks ago, opted for LSO brace with f/u MRI in 2 months given 
+would be high risk surgery. He continued his fentanyl patch q72h 
+12.5 mcg
+
+# Hypertension:
+The patient was continued on amlodipine 5 mg QD as well as 
+lisinopril 40 mg QD (fosinopril non-formulary).
+
+# VT/Brugada Syndrome, s/p ICD
+Patient continued on amiodarone as above.
+
+# Coronary Artery Disease
+# Hyperlipidemia
+- per chart review, could not tolerate statins
+
+Transitional Issues:
+========================
+[] Bilateral adrenal nodules, potentially adenomas though 
+incompletely characterized on this exam.
+[] Follow up with neurosurgery in 2 months with MRI 
+[] warfarin restarted on discharge at home dose. Please monitor 
+INR closely. 
+[] please check CBC in 1 week to ensure hemoglobin not 
+downtrending 
+
+# CODE: full (presumed) 
+# CONTACT: ___ (son) ___ ___ (Son) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fentanyl Patch 12 mcg/h TD Q72H 
+2. amLODIPine 5 mg PO DAILY 
+3. Amiodarone 100 mg PO DAILY 
+4. senna 8.6 mg oral DAILY 
+5. fosinopril 40 mg oral DAILY 
+6. Warfarin 2.5 mg PO 4X/WEEK (___) 
+7. Warfarin 1.25 mg PO 3X/WEEK (___) 
+8. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 17 g by mouth 
+daily Disp #*30 Packet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+3.  Amiodarone 100 mg PO DAILY  
+4.  amLODIPine 5 mg PO DAILY  
+5.  Fentanyl Patch 12 mcg/h TD Q72H  
+6.  fosinopril 40 mg oral DAILY  
+7.  senna 8.6 mg oral DAILY 
+RX *sennosides [senna] 8.6 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+8.  Warfarin 2.5 mg PO 4X/WEEK (___)  
+9.  Warfarin 1.25 mg PO 3X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Gastrointestinal Bleed
+Constipation
+
+Secondary Diagnosis:
+Paroxysmal Atrial Fibrillation
+L3, L4 Compression Fractures/Retropulsion
+Hypertension 
+Ventricular tachycardia/Brugada Syndrome with Implantable 
+Cardioverter Defibrillator 
+Coronary Artery Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY WAS I ADMITTED?
+====================
+You were admitted because you had bleeding from your rectum. 
+
+WHAT WAS DONE WHILE I WAS HERE?
+================================
+You had a CT scan of your abdomen that did not show any active 
+bleeding. We monitored your blood counts and gave you 
+medications to help you have a bowel movement.
+
+WHAT SHOULD I DO NOW?
+=======================
+- You should take Senna and Miralax daily to have one soft bowel 
+movement daily. You can increase the senna and miralax to two 
+times per day if needed to have a soft bowel movement. 
+- Please continue taking your warfarin at the same dose and 
+schedule that you were before you came to the hospital. You 
+should get your INR checked on ___. 
+- You should take your medications as instructed.
+- You should go to your doctors ___ as below.
+
+We wish you the best!
+-Your ___ Care Team 
+ 
+Followup Instructions:
+___

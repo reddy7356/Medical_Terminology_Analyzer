@@ -1,0 +1,291 @@
+===== DISCHARGE NOTE =====
+note_id=19471164-DS-20 | hadm_id=29548413
+
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PODIATRY
+ 
+Allergies: 
+Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L foot infection/abscess
+ 
+Major Surgical or Invasive Procedure:
+___: L foot incision and drainage
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old patient who presents for evaluation 
+of her L foot redness and swelling. She states that this began 
+this morning. The patient denies any trauma to her foot. She 
+states she believed that she stepped on something a few months 
+ago, but this healed without incident. She presented to ___ 
+___ who took and x-ray and gave her a dose of imipenem and 
+vancomycin. ___ ultimately transferred her here for futher 
+evaluation. She denies N/V/F/C/SOB/CP. Podiatric surgery was 
+consulted to assess for potential operative intervention.
+ 
+Past Medical History:
+DM Type 2  
+h/o necrotizing fasciitis s/p panniculectomy ___ ___  
+Osteoarthritis  
+Fibromyalgia  
+PTSD  
+anxiety/depression  
+PCOS  
+ 
+Social History:
+___
+Family History:
+Denies family history of cancers, premature CAD. Father with 
+several TIAs.  
+ 
+Physical Exam:
+PHYSICAL EXAM:
+VS: 96.0 94 110/70 18 97% RA 
+GEN: NAD
+CV: RRR
+Pulm: No respiratory distress
+GI: soft, NT, ND
+LLE: ___ pulses dopplarable. Cap refill <3 seconds to all
+digits. Edema noted to medial midfoot extending into rearfoot.
+Slight increase ___ temperature gradient to L medial foot.
+Erythema extending from medial midfoot arch to medial ankle. No
+open lesions appreciated. Soft, slight fluctuant area to medial
+midfoot arch. Extreme tenderness to palpation to medial arch.
+Gross sensation is intact.
+NEURO: A&Ox3
+
+PHYSICAL EXAM:
+VSS
+GEN: NAD
+CV: RRR
+Pulm: No respiratory distress
+GI: soft, NT, ND
+LLE: C/D/I dressingto L foot Cap refill <3 seconds to all
+digits. Pt able to flex and extend all toe and ankle. Gross 
+sensation is intact.
+NEURO: A&Ox3
+ 
+Pertinent Results:
+___ 11:29PM BLOOD WBC-14.4*# RBC-4.92 Hgb-14.8 Hct-43.5 
+MCV-88 MCH-30.1 MCHC-34.0 RDW-14.2 RDWSD-45.5 Plt ___
+___ 06:45AM BLOOD WBC-8.9 RBC-4.79 Hgb-14.3 Hct-43.5 MCV-91 
+MCH-29.9 MCHC-32.9 RDW-14.3 RDWSD-47.6* Plt ___
+___ 06:30AM BLOOD WBC-8.0 RBC-4.86 Hgb-14.3 Hct-45.1* 
+MCV-93 MCH-29.4 MCHC-31.7* RDW-14.2 RDWSD-48.1* Plt ___
+___ 11:29PM BLOOD Neuts-76.3* Lymphs-15.3* Monos-6.3 
+Eos-1.3 Baso-0.4 Im ___ AbsNeut-10.93* AbsLymp-2.20 
+AbsMono-0.91* AbsEos-0.19 AbsBaso-0.06
+___ 11:29PM BLOOD ___ PTT-29.6 ___
+___ 06:45AM BLOOD ___ PTT-29.9 ___
+___ 11:29PM BLOOD Glucose-143* UreaN-12 Creat-0.7 Na-137 
+K-4.0 Cl-100 HCO3-26 AnGap-15
+___ 06:45AM BLOOD Glucose-143* UreaN-14 Creat-0.7 Na-139 
+K-4.3 Cl-101 HCO3-29 AnGap-13
+___ 06:30AM BLOOD Glucose-125* UreaN-17 Creat-0.8 Na-138 
+K-4.3 Cl-99 HCO3-30 AnGap-13
+___ 06:45AM BLOOD Calcium-8.9 Phos-3.8 Mg-1.5*
+___ 06:30AM BLOOD Calcium-8.9 Phos-4.1 Mg-2.2
+___ 11:34PM BLOOD Lactate-1.5
+
+___ 8:08 am SWAB     Site: FOOT      LEFT . 
+
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS, CHAINS, AND 
+CLUSTERS. 
+
+   WOUND CULTURE (Final ___: 
+      STREPTOCOCCUS ANGINOSUS (___) GROUP.    MODERATE 
+GROWTH. 
+         VANCOMYCIN MIC: <= 0.12 MCG/ML. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STREPTOCOCCUS ANGINOSUS (___) 
+GROUP
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.12 S
+PENICILLIN G----------<=0.06 S
+VANCOMYCIN------------       S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+US L foot ___:
+Heterogeneous area at the plantar aspect of the left midfoot 
+measuring 2.3 x 2 cm, could represent phlegmon or developing 
+abscess.  No evidence of soft tissue gas. 
+
+PATHOLOGY: P
+
+BLOOD CULTURES x2: Negative to date
+ 
+Brief Hospital Course:
+The patient was admitted to the podiatric surgery service from 
+on ___ for a left foot infection. On admission, she was 
+started on broad spectrum antibiotics. She was taking to the OR 
+for left foot incision and drainage on ___. Pt was 
+evaluated by anesthesia and taken to the operating room.  There 
+were no adverse events ___ the operating room; please see the 
+operative note for details. Afterwards, pt was taken to the PACU 
+___ stable condition, then transferred to the ward for 
+observation. 
+
+Post-operatively, the patient remained afebrile with stable 
+vital signs; pain was well controlled oral pain medication on a 
+PRN basis.  The patient remained stable from both a 
+cardiovascular and pulmonary standpoint. She was placed on 
+daptomycin and cefepime while hospitalized and discharged with 
+oral clindamycin based on her OR cultures. Her intake and output 
+were closely monitored and noted to be adequate. The patient 
+received subcutaneous heparin throughout admission; early and 
+frequent ambulation were strongly encouraged while minimizing 
+weight to her left foot. She is unable to ambulate long 
+distances due to an injury to her hip. She transfers to and from 
+a wheelchair and was noted to be able to transfer with touchdown 
+weightbearing to her left foot without assistance.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, transferring without assistance, voiding without 
+assistance, and pain was well controlled.  The patient was 
+discharged home following teaching on how to change her dressing 
+which she was able to preform on her own without assistance. The 
+patient received discharge teaching and follow-up instructions 
+with understanding verbalized and agreement with the discharge 
+plan.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 80 mg PO QHS 
+2. Lorazepam 2 mg PO QPM 
+3. QUEtiapine Fumarate 50-150 mg PO DAILY:PRN anxiety 
+4. Gabapentin 900 mg PO TID 
+5. MetFORMIN (Glucophage) 500 mg PO TID 
+6. TraMADOL (Ultram) 50-200 mg PO DAILY:PRN pain 
+
+ 
+Discharge Medications:
+1. Citalopram 80 mg PO QHS 
+2. Gabapentin 900 mg PO TID 
+3. Lorazepam 2 mg PO QPM 
+4. QUEtiapine Fumarate 50-150 mg PO DAILY:PRN anxiety 
+5. MetFORMIN (Glucophage) 500 mg PO TID 
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q 4 hours Disp #*40 
+Tablet Refills:*0
+7. Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0
+8. Clindamycin 300 mg PO Q8H 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth three times a 
+day Disp #*30 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+L foot infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___. You were admitted 
+to the Podiatric Surgery service due to a left foot infection. 
+You were given IV antibiotics while here and taken to the 
+operating room for an incision and drainage. You are being 
+discharged home with the following instructions: 
+
+ACTIVITY:
+There are restrictions on activity. Please remain touchdown 
+weight bearing to your heel of L foot with transfers until your 
+follow up appointment. You should keep this site elevated when 
+ever possible (above the level of the heart!) 
+
+No driving until cleared by your Surgeon.
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+Redness ___ or drainage from your leg wound(s).
+New pain, numbness or discoloration of your foot or toes.
+Watch for signs and symptoms of infection. These are: a fever 
+greater than 101 degrees, chills, increased redness, or pus 
+draining from the incision site. If you experience any of these 
+or bleeding at the incision site, CALL THE DOCTOR.
+
+Exercise:
+Limit strenuous activity for 6 weeks.
+No heavy lifting greater than 20 pounds for the next ___ days.
+Try to keep leg elevated when able.
+
+BATHING/SHOWERING:
+You may shower immediately upon coming home, but you must keep 
+your dressing CLEAN, DRY and INTACT. You can use a shower bag 
+taped around your ankle/leg or hang your foot/leg outside of the 
+bathtub. Your dressing should be changed every other day with 
+betadine soaked gauze and a kerlex wrap.
+
+Avoid taking a tub bath, swimming, or soaking ___ a hot tub for 4 
+weeks after surgery or until cleared by your physician.
+
+MEDICATIONS:
+Unless told otherwise you should resume taking all of the 
+medications you were taking before surgery. 
+Remember that narcotic pain meds can be constipating and you 
+should increase the fluid and bulk foods ___ your diet. (Check 
+with your physician if you have fluid restrictions.) If you feel 
+that you are constipated, do not strain at the toilet. You may 
+use over the counter Metamucil or Milk of Magnesia. Appetite 
+suppression may occur; this will improve with time. Eat small 
+balanced meals throughout the day. 
+
+DIET:
+There are no special restrictions on your diet postoperatively. 
+Poor appetite is not unusual for several weeks and small, 
+frequent meals may be preferred.
+
+FOLLOW-UP APPOINTMENT:
+Be sure to keep your medical appointments. 
+If a follow up appointment was not made prior to your discharge, 
+please call the office on the first working day after your 
+discharge from the hospital to schedule a follow-up visit. This 
+should be scheduled on the calendar for seven to fourteen days 
+after discharge. Normal office hours are ___ 
+through ___.
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR 
+QUESTIONS THAT MIGHT ARISE.
+
+ 
+Followup Instructions:
+___

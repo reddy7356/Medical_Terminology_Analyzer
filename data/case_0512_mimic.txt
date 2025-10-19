@@ -1,0 +1,313 @@
+===== DISCHARGE NOTE =====
+note_id=13591594-DS-13 | hadm_id=25884109
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Lipitor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abnormal stress ___
+ 
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting (left anterior mammary artery to 
+left anterior descending, saphenous vein graft to obtuse 
+marginal and diagonal) ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a history of non obstructive 
+coronary artery disease and hypertension who was admitted after 
+a cardiac catheterization showed three vessel disease not 
+ammenable to intervention. 
+ 
+Past Medical History:
+Coronary artery disease, noncritical
+Hypertension
+Left ear basal cell cancer s/p surgery in ___ ___
+Gastro-intestinal reflux disease
+Asbestosis
+Erectile dysfunction
+Benign prostatic hypertrophy
+ 
+Social History:
+___
+Family History:
+His son had a coronary artery bypass graftin at age ___.  
+ 
+Physical Exam:
+ADMISSION EXAM:
+GENERAL: WDWN male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, 
+oropharynx clear with no erythema or exudates, upper dentures. 
+No xanthalesma.  
+NECK: Supple with JVP of 7 cm.  
+CARDIAC: RRR, normal S1, S2, +S4. No m/r/g.  
+LUNGS: clear to ausculation anteriorly given that pt is on 
+bedrest from cath, no crackles, wheezes or rhonchi. Resp were 
+unlabored, no accessory muscle use.  
+ABDOMEN: Soft, nontender, nondistended, normoactive bowel 
+sounds. No HSM or tenderness. 
+EXTREMITIES: warm and well perfused. No femoral bruits, cath 
+site ___ dressing in place, no hematoma or ecchymosis, 
+minimally tender to palpation, 2+ DP pulses
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ 
+Pertinent Results:
+___ ECHOCARDIOGRAPHY REPORT
+
+___       ___ MRN:   ___       TEE (Complete) 
+Done ___ at 12:41:53 ___      FINAL  
+Referring Physician     ___  
+___.
+___, Division of Cardiothorac
+___  Status: Inpatient DOB: ___ 
+Age (years): ___ M  Hgt (in):  
+BP (mm Hg): /  Wgt (lb):  
+HR (bpm):  BSA (m2):  
+Indication: Intraoperative TEE for CABG  
+ICD-9 Codes: ___.0 
+___ Information  
+Date/Time: ___ at 12:41    ___ MD: ___, MD 
+___ Type: TEE (Complete) Sonographer: ___, MD 
+Doppler: Full Doppler and color Doppler ___ Location: 
+Anesthesia West OR cardiac 
+Contrast: None Tech Quality: Adequate 
+Tape #: ___-: Machine: U/S 3 
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%  
+Aorta - Ascending:  3.4 cm  <= 3.4 cm  
+Aorta - Descending Thoracic:  *2.9 cm  <= 2.5 cm  
+Aortic Valve - LVOT diam:  2.0 cm     
+Mitral Valve - MVA (P ___ T):  4.7 cm2     
+ 
+Findings  
+LEFT ATRIUM: No mass/thrombus in the ___. Mild spontaneous 
+echo contrast in the ___. Good (>20 cm/s) ___ ejection velocity. 
+All four pulmonary veins identified and enter the left atrium. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler. 
+
+LEFT VENTRICLE: Normal regional LV systolic function. Low normal 
+LVEF. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal ascending aorta diameter. Focal calcifications in 
+ascending aorta. Simple atheroma in aortic arch. Mildly dilated 
+descending aorta. Simple atheroma in descending aorta. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. 
+No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS. 
+___ (1+) MR. 
+
+___ VALVE: Tricuspid valve not well visualized. 
+Physiologic TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen. 
+Physiologic (normal) PR. 
+
+GENERAL COMMENTS: A TEE was performed in the location listed 
+above. I certify I was present in compliance with ___ 
+regulations. The ___ was under general anesthesia throughout 
+the procedure. No TEE related complications. The ___ appears 
+to be in sinus rhythm. Results were personally reviewed with the 
+MD caring for the ___.  
+Conclusions  
+PRE-BYPASS No mass/thrombus is seen in the left atrium or left 
+atrial appendage. Mild spontaneous echo contrast is present in 
+the left atrial appendage. No atrial septal defect is seen by 2D 
+or color Doppler. Regional left ventricular wall motion is 
+normal. Overall left ventricular systolic function is low normal 
+(LVEF 50-55%). Right ventricular chamber size and free wall 
+motion are normal. There are simple atheroma in the aortic arch. 
+The descending thoracic aorta is mildly dilated. There are 
+simple atheroma in the descending thoracic aorta. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is 
+seen. Dr. ___ was notified in person of the results in the 
+operating room at the time of the study.
+
+POST-BYPASS Normal biventricular systolic function. Left 
+ventricular ejection fraction now 55-60%. No changes in valvular 
+function. The thoracic aorta is intact after decannulation.  
+
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 1:08 ___ 
+
+CHEST (PA & LAT)   Clip # ___   
+Reason: eval for effusion  
+ Final Report 
+AP PORTABLE CHEST 
+  
+HISTORY: Post-CABG. 
+  
+COMPARISON: ___. 
+  
+Right jugular catheter has been removed. There is no evidence of 
+pneumothorax 
+or vascular congestion. No significant infiltrate is seen. Heart 
+is slightly 
+enlarged. Pleural plaquing is again noted. 
+  
+IMPRESSION: No pneumothorax post-central venous line removal. 
+  
+ 
+___ 12:45PM BLOOD WBC-5.1 RBC-4.31* Hgb-13.5* Hct-39.4* 
+MCV-91 MCH-31.4 MCHC-34.4 RDW-13.1 Plt ___
+___ 07:35AM BLOOD WBC-5.7 RBC-4.39* Hgb-14.0 Hct-40.9 
+MCV-93 MCH-31.8 MCHC-34.1 RDW-13.2 Plt ___
+___ 11:46AM BLOOD WBC-8.4 RBC-3.34* Hgb-10.5*# Hct-31.0* 
+MCV-93 MCH-31.4 MCHC-34.0 RDW-13.3 Plt ___
+___ 02:04AM BLOOD WBC-9.2 RBC-3.02* Hgb-9.6* Hct-27.0* 
+MCV-89 MCH-31.9 MCHC-35.7* RDW-13.0 Plt ___
+___ 03:51AM BLOOD WBC-11.7* RBC-3.16* Hgb-10.0* Hct-29.4* 
+MCV-93 MCH-31.5 MCHC-34.0 RDW-13.4 Plt ___
+___ 07:05AM BLOOD WBC-9.5 RBC-3.28* Hgb-10.3* Hct-30.2* 
+MCV-92 MCH-31.4 MCHC-34.2 RDW-12.6 Plt ___
+___ 12:45PM BLOOD ___
+___ 12:45PM BLOOD Plt ___
+___ 07:05AM BLOOD Plt ___
+___ 12:45PM BLOOD Glucose-102* UreaN-12 Creat-0.8 Na-141 
+K-4.2 Cl-104 HCO3-28 AnGap-13
+___ 07:35AM BLOOD Glucose-185* UreaN-13 Creat-0.8 Na-139 
+K-4.1 Cl-99 HCO3-31 AnGap-13
+___ 11:46AM BLOOD UreaN-11 Creat-0.7 Na-145 K-4.0 Cl-110* 
+HCO3-25 AnGap-14
+___ 02:04AM BLOOD Glucose-99 UreaN-11 Creat-0.7 Na-136 
+K-4.3 Cl-102 HCO3-28 AnGap-10
+___ 03:51AM BLOOD Glucose-147* UreaN-12 Creat-0.7 Na-130* 
+K-4.0 Cl-93* HCO3-31 AnGap-10
+___ 07:05AM BLOOD Glucose-123* UreaN-17 Creat-0.8 Na-129* 
+K-4.4 Cl-90* HCO3-34* AnGap-9
+___ 07:05AM BLOOD UreaN-16 Creat-0.8 Na-137 K-4.5 Cl-97
+___ 12:45PM BLOOD %HbA1c-6.2* eAG-131*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with history of hypertension who 
+was admitted with one year of progressive chest pressure, found 
+to have diffuse three vessel disease requiring coronary artery 
+bypass grafting.  He was managed medically on the floor while 
+undergoing a pre-operative work-up.  On ___ he underwent a 
+coronary artery bypass grafting (left anterior mammary artery to 
+left anterior descending, saphenous vein graft to obtuse 
+marginal and diagonal) performed by Dr. ___.  Please see the 
+operative note for details.  He tolerated the procedure well and 
+was transferred in critical but stable condition to the surgical 
+intensive care unit.  He extubated without incident on the same 
+day. On POD #1 he was transferred to the septdown unit. His 
+chest tubes and temporary pacing wires were removed per 
+protocol. He was started on statin, betablockers, and gently 
+diuresed toward his pre-op weight. He developed a brief episode 
+of post-op afib whcih was treated with IV and po amiodarone and 
+he converted back to sinus rhythm. Postoperative CXR showed a 
+stable left apical pneumothorax. He was evaluated by physical 
+therapy and discharge to home with ___ services was recommended. 
+On POD# 4 he was cleared for discharge to home in stable 
+condition. 
+
+ 
+Medications on Admission:
+atenolol 25 mg daily
+tamsulosin 0.4mg daily
+aspirin 81 mg daily
+multivitamin
+ 
+Discharge Medications:
+1. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*3*
+6. oxycodone-acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain for 2 weeks: Do not 
+drive, drink alcohol, or operate machinery while taking this 
+medication.
+Disp:*50 Tablet(s)* Refills:*0*
+7. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+8. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for fever/pain.  
+9. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*3*
+10. multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+11. amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day: 
+Start after finishing 400mg once daily for 7 days. Continue this 
+dose until follow up with cardiologist.
+Disp:*30 Tablet(s)* Refills:*2*
+12. amiodarone 400 mg Tablet Sig: One (1) Tablet PO once a day 
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+13. potassium chloride 10 mEq Capsule, Extended Release Sig: One 
+(1) Capsule, Extended Release PO once a day for 7 days.
+Disp:*7 Capsule, Extended Release(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+coronary artery bypass grafting
+
+CAD 3 vessel disease noncritical, Hypertension, Left ear basal 
+cell CA s/p surgery in ___ ___, GERD, Asbestosis, Erectile 
+dysfunction, BPH 
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesia
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Leg Right/Left - healing well, no erythema or drainage. 
+Edema 1+
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

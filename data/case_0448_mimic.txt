@@ -1,0 +1,1026 @@
+===== DISCHARGE NOTE =====
+note_id=17797242-DS-14 | hadm_id=21127088
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Allogenic Stem Cell Transplant
+ 
+Major Surgical or Invasive Procedure:
+Placement of Central Line
+Stem Cell Transplant
+
+ 
+History of Present Illness:
+___ man with small lymphocytic lymphoma CLL planned 
+upcoming allogeneic transplant presenting to begin a course of 
+TLI as part of TLI/ATG/Clofarabine protocol for allogeneic SCT. 
+Plan is for total of 10 treatments, M-F, total dose = 800 cGy.
+.
+Patient was recently seen in the ED on ___ for fevers and 
+productive cough dx with H1N1 infection tx with azithromycin and 
+Tamiflu. No other recent illnesses.
+ 
+Past Medical History:
+SLL/CLL - initially diagnosed CLL stage III in ___, s/p six 
+cycles of FCR, relapsed ___ flu like sx, abd pain, CT showing 
+massively enlarged mesenteric and retroperitoneal lymph nodes, 
+BM bx w/52% aspirate differential lymphs, tx with PCR
+eiosinophilia
+strongyloides s/p ivermectin
+ 
+Social History:
+___
+Family History:
+There is no history of hematologic disorders. He has two 
+brothers and two sisters. One sister lives in ___. The rest 
+of his siblings live in ___. No family history of 
+cancer. He has a brother with a heart murmur. His mother is 
+alive and his father died of an unclear throat problem. 
+ 
+Physical Exam:
+VITAL SIGNS: 97.8 ___ 16 99ra  
+GENERAL: NAD In no acute distress.  
+HEENT: PERRLA  
+LYMPH NODES: small left cervical node, no other LAD  
+LUNGS: CTAB  
+HEART: RRR no RGM  
+ABDOMEN: Soft, NT ND no R/G  
+EXTREMITIES: no edema  
+
+ 
+Pertinent Results:
+LABS
+
+LABS ON ADMISSION:
+
+___ 10:02AM BLOOD WBC-3.4* RBC-4.43* Hgb-12.9* Hct-38.8* 
+MCV-88 MCH-29.1 MCHC-33.2 RDW-13.2 Plt ___
+___ 10:02AM BLOOD Neuts-47.3* ___ Monos-11.1* 
+Eos-20.4* Baso-0.4
+___ 01:20AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 10:02AM BLOOD ___ PTT-31.3 ___
+___ 01:20AM BLOOD ___
+___ 07:52PM BLOOD Ret Aut-1.3
+___ 10:02AM BLOOD Glucose-96 UreaN-20 Creat-1.1 Na-141 
+K-3.8 Cl-104 HCO3-28 AnGap-13
+___ 10:02AM BLOOD ALT-22 AST-22 LD(LDH)-236 AlkPhos-54 
+TotBili-0.4
+___ 12:00AM BLOOD Lipase-199*
+___ 10:02AM BLOOD Albumin-4.4 Calcium-9.4 Phos-3.8 Mg-2.0
+
+LABS ON DISCHARGE:
+
+___ 12:00AM BLOOD WBC-15.9* RBC-3.08* Hgb-8.8* Hct-26.1* 
+MCV-85 MCH-28.7 MCHC-33.9 RDW-15.7* Plt ___
+___ 12:26AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL 
+Stipple-OCCASIONAL
+___ 12:00AM BLOOD Plt ___
+___ 12:00AM BLOOD ___ PTT-29.9 ___
+___ 12:00AM BLOOD ___ 12:00AM BLOOD ___
+___ 12:00AM BLOOD Ret Aut-1.4
+___ 12:00AM BLOOD Glucose-107* UreaN-12 Creat-1.0 Na-136 
+K-4.1 Cl-102 HCO3-27 AnGap-11
+___ 12:00AM BLOOD ALT-18 AST-30 LD(LDH)-725* AlkPhos-88 
+Amylase-100 TotBili-0.4
+___ 12:00AM BLOOD Lipase-29
+___ 12:00AM BLOOD Albumin-3.8 Calcium-8.8 Phos-5.3* Mg-1.5* 
+UricAcd-4.9
+___ 12:26AM BLOOD Ferritn-1213*
+___ 08:45AM BLOOD Cyclspr-181
+
+BLOOD COUNTS:
+
+___ 10:02AM BLOOD WBC-3.4* RBC-4.43* Hgb-12.9* Hct-38.8* 
+MCV-88 MCH-29.1 MCHC-33.2 RDW-13.2 Plt ___
+___ 01:20AM BLOOD WBC-10.6# RBC-3.98* Hgb-11.6* Hct-34.7* 
+MCV-87 MCH-29.2 MCHC-33.5 RDW-13.2 Plt ___
+___ 07:52PM BLOOD WBC-13.6* RBC-3.67* Hgb-10.7* Hct-32.2* 
+MCV-88 MCH-29.3 MCHC-33.3 RDW-13.5 Plt ___
+___ 12:00AM BLOOD WBC-11.1* RBC-3.58* Hgb-10.5* Hct-31.4* 
+MCV-88 MCH-29.2 MCHC-33.3 RDW-13.5 Plt ___
+___ 12:00AM BLOOD WBC-6.3 RBC-3.49* Hgb-10.3* Hct-30.1* 
+MCV-86 MCH-29.6 MCHC-34.3 RDW-13.5 Plt Ct-90*
+___ 01:00AM BLOOD WBC-3.1*# RBC-3.87* Hgb-11.3* Hct-33.4* 
+MCV-86 MCH-29.2 MCHC-33.8 RDW-13.5 Plt ___
+___ 12:00AM BLOOD WBC-2.1* RBC-3.72* Hgb-10.9* Hct-32.6* 
+MCV-88 MCH-29.4 MCHC-33.6 RDW-13.3 Plt ___
+___ 12:00AM BLOOD WBC-4.8# RBC-3.62* Hgb-10.6* Hct-32.1* 
+MCV-89 MCH-29.4 MCHC-33.1 RDW-13.4 Plt ___
+___ 12:00AM BLOOD WBC-2.7* RBC-3.83* Hgb-11.1* Hct-33.8* 
+MCV-88 MCH-29.0 MCHC-32.9 RDW-13.1 Plt ___
+___ 12:00AM BLOOD WBC-2.4* RBC-3.44* Hgb-10.2* Hct-29.9* 
+MCV-87 MCH-29.7 MCHC-34.1 RDW-13.2 Plt ___
+___ 12:00AM BLOOD WBC-1.6* RBC-3.46* Hgb-10.4* Hct-30.8* 
+MCV-89 MCH-30.2 MCHC-33.9 RDW-13.3 Plt ___
+___:00AM BLOOD WBC-1.1* RBC-3.52* Hgb-10.5* Hct-30.2* 
+MCV-86 MCH-29.9 MCHC-34.9 RDW-13.0 Plt ___
+___ 12:00AM BLOOD WBC-0.2*# RBC-3.38* Hgb-9.8* Hct-29.0* 
+MCV-86 MCH-29.0 MCHC-33.8 RDW-12.9 Plt Ct-80*
+___ 01:15AM BLOOD WBC-0.1* RBC-2.92* Hgb-8.6* Hct-24.8* 
+MCV-85 MCH-29.3 MCHC-34.5 RDW-13.0 Plt Ct-55*
+___ 01:00AM BLOOD WBC-0.9*# RBC-2.90* Hgb-8.6* Hct-24.6* 
+MCV-85 MCH-29.5 MCHC-34.8 RDW-12.9 Plt Ct-26*#
+___ 12:48AM BLOOD WBC-0.1*# RBC-2.91* Hgb-8.6* Hct-24.8* 
+MCV-85 MCH-29.6 MCHC-34.8 RDW-12.8 Plt Ct-16*
+___ 11:12AM BLOOD WBC-0.1* RBC-3.22* Hgb-9.2* Hct-27.1* 
+MCV-84 MCH-28.6 MCHC-33.9 RDW-12.3 Plt Ct-14*
+___ 12:00AM BLOOD WBC-0.7*# RBC-2.83* Hgb-8.1* Hct-23.7* 
+MCV-84 MCH-28.7 MCHC-34.3 RDW-12.6 Plt Ct-10*
+___ 12:42AM BLOOD WBC-0.1*# RBC-2.95* Hgb-8.6* Hct-24.8* 
+MCV-84 MCH-29.0 MCHC-34.5 RDW-12.9 Plt Ct-10*
+___ 12:32AM BLOOD WBC-0.1* RBC-2.80* Hgb-8.4* Hct-23.9* 
+MCV-85 MCH-29.9 MCHC-35.1* RDW-13.1 Plt Ct-15*
+___ 12:00AM BLOOD WBC-0.1* RBC-3.15* Hgb-9.3* Hct-26.2* 
+MCV-83 MCH-29.4 MCHC-35.3* RDW-12.6 Plt Ct-10*
+___ 12:00AM BLOOD WBC-0.4*# RBC-3.06* Hgb-8.8* Hct-25.5* 
+MCV-83 MCH-28.9 MCHC-34.7 RDW-13.0 Plt Ct-28*
+___ 12:00AM BLOOD WBC-2.5*# RBC-2.99* Hgb-8.8* Hct-25.0* 
+MCV-84 MCH-29.4 MCHC-35.2* RDW-13.3 Plt Ct-23*
+___ 12:00AM BLOOD WBC-10.1# RBC-3.14* Hgb-9.3* Hct-26.4* 
+MCV-84 MCH-29.4 MCHC-35.0 RDW-13.7 Plt Ct-32*
+___ 12:00AM BLOOD WBC-23.6*# RBC-2.95* Hgb-8.8* Hct-25.1* 
+MCV-85 MCH-29.9 MCHC-35.2* RDW-14.3 Plt Ct-49*#
+___ 12:00AM BLOOD WBC-23.2* RBC-3.04* Hgb-8.7* Hct-26.3* 
+MCV-87 MCH-28.6 MCHC-32.9 RDW-14.8 Plt Ct-75*#
+___ 12:26AM BLOOD WBC-19.4* RBC-2.90* Hgb-8.3* Hct-24.8* 
+MCV-86 MCH-28.5 MCHC-33.3 RDW-15.3 Plt Ct-86*
+___ 12:00AM BLOOD WBC-15.9* RBC-3.08* Hgb-8.8* Hct-26.1* 
+MCV-85 MCH-28.7 MCHC-33.9 RDW-15.7* Plt ___
+
+ANCs:
+
+___ 01:20AM BLOOD ___
+___ 12:00AM BLOOD ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 01:15AM BLOOD ___ Ct-48*
+___ 01:00AM BLOOD ___ ___
+___ 12:48AM BLOOD ___ Ct-80*
+___ 12:00AM BLOOD ___ ___
+___ 12:42AM BLOOD ___ Ct-54*
+___ 12:32AM BLOOD ___ Ct-60*
+___ 12:00AM BLOOD ___ Ct-90*
+___ 12:00AM BLOOD ___ Ct-52*
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___ ___
+___ 12:00AM BLOOD ___
+___ 12:26AM BLOOD ___
+___ 12:00AM BLOOD ___
+
+LIPASE:
+___ 12:00AM BLOOD Lipase-199*
+___ 12:00AM BLOOD Lipase-29
+___ 12:00AM BLOOD Lipase-35
+___ 12:00AM BLOOD Lipase-30
+___ 12:00AM BLOOD Lipase-36
+___ 01:15AM BLOOD Lipase-23
+___ 01:00AM BLOOD Lipase-27
+___ 12:48AM BLOOD Lipase-20
+___ 12:00AM BLOOD Lipase-38
+___ 12:42AM BLOOD Lipase-28
+___ 12:32AM BLOOD Lipase-18
+___ 12:00AM BLOOD Lipase-15
+___ 12:00AM BLOOD Lipase-21
+___ 12:00AM BLOOD Lipase-14
+___ 12:00AM BLOOD Lipase-18
+___ 12:00AM BLOOD Lipase-19
+___ 12:00AM BLOOD Lipase-23
+___ 12:26AM BLOOD Lipase-29
+___ 12:00AM BLOOD Lipase-29
+
+___ 12:00AM    199* 
+
+CYCLOSPORINE LEVELS:
+
+___ 11:15AM BLOOD Cyclspr-54*
+___ 01:15AM BLOOD Cyclspr-1378*
+___ 09:45AM BLOOD Cyclspr-61*
+___ 09:05AM BLOOD Cyclspr-143
+___ 09:00AM BLOOD Cyclspr-153
+___ 09:40AM BLOOD Cyclspr-203
+___ 09:30AM BLOOD Cyclspr-186
+___ 09:20AM BLOOD Cyclspr-218
+___ 10:40AM BLOOD Cyclspr-372
+___ 09:15AM BLOOD Cyclspr-275
+___ 08:50AM BLOOD Cyclspr-285
+___ 08:45AM BLOOD Cyclspr-214
+___ 05:45AM BLOOD Cyclspr-299
+___ 08:45AM BLOOD Cyclspr-PND
+
+MICROBIOLOGY
+
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ Immunology (CMV) CMV Viral Load-FINAL INPATIENT 
+___ Blood (EBV) ___ VIRUS VCA-IgG AB-FINAL; 
+___ VIRUS EBNA IgG AB-FINAL; ___ VIRUS VCA-IgM 
+AB-FINAL INPATIENT 
+___ STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL 
+INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT 
+___ Stem Cell - Blood Culture Stem Cell ___ 
+Culture-FINAL INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT 
+
+IMAGING
+
+CXR ___: No evidence of pneumothorax. No focal consolidation 
+or pleural
+effusion noted.
+
+Radiology ReportCT ABDOMEN W/CONTRASTStudy Date of ___ 
+9:30 ___
+ 
+1. No acute intra-abdominal or pelvic findings to explain the 
+patient's
+symptoms. Moderate to large amount of stool large bowel, 
+particularly the
+ascending and transverse colon.
+ 
+2. Overall decrease in multiple enlarged lymph nodes in the 
+abdomen and
+pelvis.
+ 
+3. Unchanged hemangiomas in the liver.
+ 
+
+PULMONARY FUNCTION TESTS:
+
+___  46  ___
+Pulmonary ReportSPIROMETRY, LUNG VOLUMES, DLCOStudy Date of 
+___  8:56 AM
+ 
+SPIROMETRY8:56 AMPre drugPost drug
+  ActualPred%PredActual%Pred%chg
+FVC ___   
+FEV1 ___   
+MMF ___   
+FEV1/FVC ___   
+LUNG VOLUMES8:56 AMPre drugPost drug
+  ActualPred%PredActual%Pred
+TLC ___   
+FRC ___   
+RV ___   
+VC ___   
+IC ___   
+ERV ___   
+RV/TLC ___   
+He Mix Time 2.88     
+DLCO8:56 AM 
+  ActualPred%Pred
+DSB 21.___   
+VA(sb) ___   
+HB 8.70     
+DSB(HB) 27.___   
+DL/VA ___   
+NOTES:
+ 
+  
+ DX: CLL. Medications: no respiratory meds. Hgb: 8.7 (___). 
+BMI: 25.1.
+ Good test quality and reproducibility. FVC is a composite.
+  
+ Mechanics: The FVC, FEV1 and FEV1/FVC ratio are mildly 
+reduced.
+ Flow-Volume Loop: Mild expiratory coving with a mildly reduced 
+volume
+ excursion.
+ Lung Volumes: The TLC is normal. The FRC is mildly reduced. 
+The RV and
+ RV/TLC ratio are elevated.
+ DLCO: The Dsb corrected for hemoglobin is normal.
+  
+ Impression:
+  Mild obstructive ventilatory defect. Compared to the prior 
+study of
+ ___ the FVC has decreased by 0.81 L (-18%), the FEV1 has 
+decreased by
+ 0.50 L (-17%) and the DLCO has decreased by 6.71 ml/min/mmHg 
+(20%) while TLC
+ has not changed significantly.
+ 
+ 
+Brief Hospital Course:
+# SCLL/CLL: Treated with Allogenic SCT with TLI/ATG/Clofarabine. 
+Overall tolerated SCT well without major complications. No 
+biopsies conducted during this hospitalization.
+
+# Febrile Neutropenia: briefly febrile with negative cultures 
+and imaging. Started on cefepime and vancomycin which were 
+discontinued as the patient's neutropenia resolved. ANC rose 
+quickly upon receiving neupogen and was > 10,000 at the time of 
+discharge.
+
+# Headaches: Patient intermittently complaining of headaches up 
+to ___. CT scan negative, non-focal neuro exam. Successfully 
+treated with oxycodone. Headaches resolved towards the end of 
+his hospitalization.
+
+# Elevated Blood Pressures: started on amlodipine for high 
+ranging blood pressures in the context of cyclosporine use.
+
+# Elevated Pancreatic Enzymes: per history patient has had 
+mildly elevated pancreatic enzymes in the past. Of note, his 
+lipase was elevated to 199 on admission but then consistently 
+WNL across the rest of his course. Amylase was intermittently 
+elevated peaking at 190 early during the hospitalization and 
+then normal or slightly elevated across the later part of his 
+hospitalization.
+
+# History of Strongyloides: treated with 2-day course of 
+ivermectin on day ___ and then a 5-day course that was started 2 
+days prior to discharge.
+
+# Abdominal Pain: intermittent complaints of abdominal pain 
+without nausea or vomiting, mostly RLQ, without tenderness or 
+rebound, felt likely ___ patient's intermittent constipation. CT 
+scan showed no evidence of any acute process. Treated with a 
+bowel regimen.
+
+ 
+Medications on Admission:
+ALBUTEROL - 90 mcg Aerosol - 2 puffs inhaler q 4 hours as needed 
+ 
+for wheezing. Please dispense MDI.  
+FLUTICASONE [FLONASE] - 50 mcg Spray, Suspension - 1 (One) spray 
+ 
+intranasally in each nostril once a day  
+ONDANSETRON HCL - 8 mg Tablet - 1 Tablet(s) by mouth three times 
+ 
+a day as needed for nausea  
+PROCHLORPERAZINE MALEATE - 5 mg Tablet - ___ Tablet(s) by mouth  
+
+every 6 hours  
+
+ 
+Discharge Medications:
+1. Acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).
+Disp:*90 Tablet(s)* Refills:*2*
+2. Mycophenolate Mofetil 250 mg Capsule Sig: Five (5) Capsule PO 
+BID (2 times a day).
+Disp:*300 Capsule(s)* Refills:*2*
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Cyclosporine 100 mg Capsule Sig: Two (2) Capsule PO Q12H 
+(every 12 hours): DO NOT SUBSTITUTE WITH GENERIC.
+Disp:*120 Capsule(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.
+Disp:*90 Tablet(s)* Refills:*0*
+6. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day) as needed for constipation.
+Disp:*120 Capsule(s)* Refills:*0*
+7. Ursodiol 300 mg Capsule Sig: Two (2) Capsule PO QPM (once a 
+day (in the evening)): Take until Day 100.
+Disp:*60 Capsule(s)* Refills:*2*
+8. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+9. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every 
+24 hours).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Ivermectin 3 mg Tablet Sig: Five (5) Tablet PO once a day 
+for 3 days.
+Disp:*15 Tablet(s)* Refills:*0*
+11. Bactrim 400-80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for pain: please take only as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+13. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO QAM: Take 
+300mg every morning for the first 100 days.
+Disp:*30 Capsule(s)* Refills:*2*
+14. Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea: please take only as needed for 
+nausea or vomiting.
+Disp:*30 Tablet(s)* Refills:*1*
+15. Compazine 5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea: please take only as needed for 
+nausea or vomiting.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+PRIMARY:
+1. CLL/SLL
+
+SECONDARY:
+1. eiosinophilia
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your admission at 
+___. You were admitted for a 
+bone marrow transplant. You tolerated this procedure well 
+without any major complications.
+ 
+We have changed several of your medications during your 
+admission. Please take all of your medications exactly as 
+prescribed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17797242-DS-13 | hadm_id=23522356
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Bone marrow biopsy ___
+
+ 
+History of Present Illness:
+___ yo man with a history of CLL who presented to the ED with 48 
+hours of RLQ abdominal/flank pain. Initially intermittant, but 
+became constant, described as pressure like. this is worse with 
+movement, better with massage. BM's make no difference, he has 
+had them normally, no blood, mucus, melena, diarrhea, 
+constipation. He also had chills, a few days ago. He notes about 
+1 week ago 'cold symptoms' started, they are improving (seen in 
+HCA ___ viral process). He continues to have a 
+productive cough (green to white sputum) with SOB requiring 
+albuterol use. Pain ___ in ED VS T 97.6 HR 66 BP 105/73 RR 16 
+Sat 98% RA. He received 8mg iv morphine with improvement to 
+___. Also got 1L NS.  
+.
+ROS: He notes 7lb wt loss in 1 month which he attributes to not 
+exercising regularly, due to fatigue, night sweats for 1 month, 
+sore throat recently with cold symptoms, HA with cough only for 
+4 days, mild nausea. No fevers, chills as above, no visual 
+changes, chest pain, palpitations, vomitting, hematuria, 
+dysuria, muscle or joint aches, rash, ___ or joint swelling, 
+bleeding or bruising.
+ 
+Past Medical History:
+CLL: presented initially with abdominal pain, s/p 6 cycles of 
+FCR finished in ___ with no disease recurrance until now  
+allergic rhinitis  
+hernia repair 
+ 
+Social History:
+___
+Family History:
+No family history of cancer. He has a brother with a heart 
+murmur. His mother is alive and his father died of an unclear 
+throat problem. 
+ 
+Physical Exam:
+V: T 97.3 P 66 BP 113/76 R 20 sat: 96%RA  
+Gen: NAD  
+Lymph: neck with bilat posterior cervical chain LAD, B axilla 
+with LAD, no epitrochlear LAD, B inguinal LAD  
+HEENT: OP clear, MMM, PERRLA  
+Resp: diffuse rhonchi with expiratory wheezes on left, no rales. 
+ 
+CV: RRR nl s1s2 no MGR  
+Abd: Soft , slightly TTP RLQ>LLQ without rebound or guarding, + 
+BS no organomegaly  
+Ext: No edema  
+Neuro: CN ___ intact. Strength ___ UE and ___, sensation intact 
+to light touch, DTR's 2+ bilat patella, biceps, triceps, 
+brachioradialis  
+ 
+Pertinent Results:
+Labs on Admission:
+___ 10:30PM BLOOD WBC-23.5* RBC-4.05* Hgb-12.0* Hct-35.3* 
+MCV-87 MCH-29.6 MCHC-33.9 RDW-13.0 Plt ___
+___ 10:30PM BLOOD Neuts-17* Bands-0 Lymphs-78* Monos-1* 
+Eos-0 Baso-0 Atyps-4* ___ Myelos-0
+___ 09:20AM BLOOD ___ PTT-33.1 ___
+___ 10:30PM BLOOD Glucose-113* UreaN-14 Creat-1.0 Na-135 
+K-4.1 Cl-101 HCO3-29 AnGap-9
+___ 10:30PM BLOOD ALT-35 AST-22 LD(LDH)-199 AlkPhos-60 
+TotBili-0.3
+___ 09:20AM BLOOD Calcium-8.6 Phos-3.3 Mg-2.0
+___ 10:30PM BLOOD UricAcd-3.1*
+___ 10:45PM BLOOD Lactate-0.7
+.
+Labs on Discharge:
+___ 05:45AM BLOOD WBC-11.0 RBC-3.72* Hgb-11.2* Hct-31.8* 
+MCV-86 MCH-30.0 MCHC-35.1* RDW-13.3 Plt ___
+___ 05:45AM BLOOD Glucose-92 UreaN-11 Creat-1.0 Na-143 
+K-4.1 Cl-110* HCO3-26 AnGap-11
+___ 05:55AM BLOOD ALT-37 AST-29 LD(LDH)-196 AlkPhos-57 
+TotBili-0.2
+___ 05:45AM BLOOD Calcium-7.9* Phos-3.3 Mg-2.2 UricAcd-3.0*
+.
+Urine Studies:
+___ 12:45AM URINE Color-Yellow Appear-Clear Sp ___
+___ 12:45AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+.
+Imaging:
+CT Abdomen/Pelvis ___: 1. Significant interval disease 
+progression with marked mesenteric, retroperitoneal, pericecal, 
+inguinal adenopathy. 
+2. No evidence of appendicitis, please note appendix was not 
+well visualized.  However, there were no secondary signs of 
+appendiceal inflammation.   
+3. Unchanged hypoattenuating VI hepatic segment lesion with 
+nodular 
+peripheral enhancement, characteristics suggestive of a 
+hemangioma. 
+.
+CXR ___: IMPRESSION: No evidence of pneumonia or change from 
+previous study.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo man with hx of CLL with apparent 
+recurrence, with acute RLQ abdominal pain.  Hospital course by 
+problem list:
+  
+1. ABDOMINAL PAIN:
+Likely etiology is disease recurrance with bulkly 
+lymphadenopathy seen on abdominal CT.  Appendicitis, renal 
+calculi, infection seemed less likely given clinic picture and 
+CT findings.  The patient was managed with IV morphine initially 
+and then transitioned to PO Percocet.  His pain improved and he 
+was not requiring pain medications at the time of discharge.  
+  
+2. CLL RECURRANCE
+The patient had evidence of CLL recurrance with elevated WBCs 
+and lymphadenopathy on exam and on CT scan.  He underwent a bone 
+marrow biopsy on ___ and results were pending at the time of 
+discharge.  He underwent chemotherapy with Pentostatin, Cytoxan 
+and Rituximab on ___.  He tolerated this well.  He was 
+started on Acyclovir and Bactrim for prophylaxis as well as 
+Allopurinol to prevent tumor lysis.  He was dischargd with 
+instruction to return to clinic on ___ for Neulasta.
+ 
+Medications on Admission:
+albuterol  
+robitussinDM recently for cough  
+claritinD prn  
+ 
+Discharge Medications:
+1. Dextromethorphan-Guaifenesin ___ mg/5 mL Syrup Sig: Five 
+(5) ML PO Q6H (every 6 hours) as needed for cough.  
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation Q4H (every 4 hours) as needed for wheeze.  
+3. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed: you should not drive while taking 
+this medication.
+Disp:*20 Tablet(s)* Refills:*0*
+4. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q12H (every 
+12 hours).
+Disp:*120 Capsule(s)* Refills:*2*
+7. Zofran 8 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for nausea.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Chronic Lymphocytic Lymphoma
+
+ 
+Discharge Condition:
+afebrile, hemodynamically stable
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain and 
+recurrent lymphoma.  You had a bone marrow biopsy on ___.  
+You pain was controlled with medication.  You underwent 
+treatment with chemotherapy on ___.
+
+You were started on the following medications during this 
+hospitalization:
+Acyclovir 400mg by mouth twice a day
+Bactrim SS 1 tablet by mouth once a day
+Allopurinol ___ by mouth once a day for 7 days
+
+You can take Percocet ___ tablets every 4 hours as needed for 
+pain.  You should not drive while taking this medication.
+
+You were scheduled for a Neulasta shot on ___ at 1:30 with 
+___ on ___ 9.
+
+You were scheduled to see Dr. ___ Dr. ___ on ___ at 
+1:00pm.
+
+You should call your doctor or return to the hospital with any 
+fevers >100.4, chilss, night sweats, severe pain, shortness of 
+breath, chest pain, nausea, vomitting, diarrhea, skin rashes or 
+any other symptoms that concern you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17797242-DS-15 | hadm_id=27130588
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiovascular Cardiac Cath
+No angiographically apparent coronary artery disease.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with hx of CLL, asthma, allergic 
+rhinitis,
+latent TB s/p INH who presented with chest pain, back pain, EKG
+changes, and newly reduced EF, found to have clean coronaries.
+
+He was in his usual state of health developed mid-back pain 
+which
+awakened him from sleep 3 nights ago. He had this a few more
+times at night and then the morning of presentation developed
+chest pain 9 out of 10 at 9am radiating to his back. Pain is
+sharp, positional, and lasts for ___ minutes. He denies
+significant shortness of breath or change in exertional status
+recently. He exercises frequently. He exercised two days ago 
+with
+jumping jacks, push up, and weight lifting and believes he may
+have been more short of breath than usual. He notes some 
+abnormal
+fluttering in his heart for ___ days. He also notes some mild
+dyspnea on exertion 3 weeks ago. No ___ swelling, PND, orthopnea,
+or lightheadedness. Weight is stable between 187-189 lbs.
+
+In the ED,
+- Initial vitals:
+98.6 66 172/98 16 100% RA 
+
+- EKG: STE in V1-V3, deep TWIs in V4, with 1 mm STD in inferior
+leads  
+
+- Labs/studies notable for:  
+Trops x2 negative, CKMB 2 
+
+WBC 4.2, H/H 13.7/43.2, Plt 185 
+Na 139, K 4.6, Cl 107, HCO3 19, BUN 16, Cr 1.0
+ALT 14 AST 20 AP 60 Tbili 0.3
+U/A unremarkable and urine culture no growth final 
+
+- Patient was given:  
+___ 18:20 IV Heparin 4000 UNIT
+___ 18:20 IV Heparin  Started 850 units/hr
+___ 18:20 PO Aspirin 324 mg  
+___ 22:02 PO/NG Captopril 6.25 mg  
+___ 07:51 PO/NG Captopril 6.25 mg 
+___ 10:22 PO Aspirin 324 mg   
+___ 14:24 PO/NG Captopril 6.25 mg 
+
+- Vitals on transfer:  
+57 140/103 21 100% RA 
+ 
+He was found to have newly reduced EF on TTE. He was taken to
+cath lab and found to have no angiographically significant
+coronary disease.
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- None
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- Allergic rhinitis
+- CLL (clinical trial ___ ATG, TLI, clofarabine reduced
+intensity), initially diagnosed CLL stage III in ___, s/p six 
+cycles of FCR, relapsed ___ flu like sx, abd pain, CT showing 
+massively enlarged mesenteric and retroperitoneal lymph nodes, 
+BM bx w/52% aspirate differential lymphs, tx with PCR
+- Latent TB s/p INH
+- H/O strongyloides s/p ivermectin
+- Asthma 
+- New HFrEF, non-ischemic cardiomyopathy (diagnosed on this 
+admission ___
+
+ONCOLOGIC HISTORY:
+first diagnosed in ___ with CLL/SLL, status post six
+cycles of fludarabine, Cytoxan, and Rituxan, with remission but
+recurred in ___, now status post six cycles of
+pentostatin, Cytoxan, and rituximab and two cycles of Rituxan 
+and
+bendamustine.
+bmt -conditioned with mini allo(ATG/TLI Clorfarabinept in PR at
+transplant
+___ not in CR aeb CT scan ___ not in CR aeb CT scan ___
+___ ___ not in CR aeb CT scan ___ disease)
+___ ___ in CR based on BM BX ___
+1.2cm neck 
+node that is <2cm
+___ year eval ___: Still in CR, but are watching flow which
+shows findings 
+consistent with involvement by an atypical B cell population. MD
+unsure if 
+this represents his CLL or not. Cytogenetic report needed to
+correlate and 
+patient has refused a bone marrow biopsy.
+___ year eval ___: Still considered in CR, labs WNL, although
+___ is a little 
+
+ 
+Social History:
+___
+Family History:
+- Brother: heart murmur
+- Father died of unclear throat problem
+- Mother with hypertension
+- No family history of sudden death, MI or strokes
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+================================
+VITALS: Reviewed in eFlowsheets
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or
+cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated.
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,
+lifts, or rubs.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits. Extremities cool.
+PULSES: Distal pulses palpable and symmetric
+
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+97.5 131/80 65 18 97 ra 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or
+cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated.
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,
+lifts, or rubs.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits. Extremities cool.
+PULSES: Distal pulses palpable and symmetric
+ 
+Pertinent Results:
+ADMISSION/IMPORTANT LABS:
+=========================
+___ 06:40PM BLOOD WBC-4.2 RBC-4.47* Hgb-13.7 Hct-43.2 
+MCV-97 MCH-30.6 MCHC-31.7* RDW-12.3 RDWSD-43.8 Plt ___
+___ 06:40PM BLOOD Neuts-28.9* Lymphs-57.8* Monos-9.5 
+Eos-2.8 Baso-0.5 Im ___ AbsNeut-1.22* AbsLymp-2.44 
+AbsMono-0.40 AbsEos-0.12 AbsBaso-0.02
+___ 06:40PM BLOOD ___ PTT-44.4* ___
+___ 06:40PM BLOOD Glucose-80 UreaN-16 Creat-1.0 Na-139 
+K-4.6 Cl-107 HCO3-19* AnGap-13
+___ 06:40PM BLOOD ALT-14 AST-20 CK(CPK)-205 AlkPhos-60 
+TotBili-0.3
+___ 06:40PM BLOOD cTropnT-<0.01
+___ 11:28AM BLOOD cTropnT-<0.01
+___ 06:40PM BLOOD Albumin-3.9 Calcium-9.6 Phos-4.1 Mg-2.1
+___ 07:18AM BLOOD calTIBC-286 Ferritn-77 TRF-220
+___ 07:18AM BLOOD %HbA1c-5.4 eAG-108
+___ 07:18AM BLOOD Triglyc-59 HDL-52 CHOL/HD-3.1 LDLcalc-95
+___ 11:28AM BLOOD TSH-3.1
+___ 07:18AM BLOOD TSH-5.3*
+___ 01:43PM BLOOD PEP-AWAITING F IgG-PND IgA-PND IgM-PND 
+IFE-PND
+___ 06:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 07:18AM BLOOD HIV Ab-NEG
+___ 07:07PM BLOOD Lactate-1.9
+
+IMPORTANT STUDIES:
+==================
+___ Cardiovascular Transthoracic Echo Report 
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler.
+The estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with a
+normal cavity size. There is moderate global left ventricular 
+hypokinesis. Quantitative biplane left
+ventricular ejection fraction is 35 %. Left ventricular cardiac 
+index is depressed (less than 2.0 L/min/m2).
+There is no resting left ventricular outflow tract gradient. No 
+ventricular septal defect is seen. Mildly dilated
+right ventricular cavity with normal free wall motion. Tricuspid 
+annular plane systolic excursion (TAPSE) is
+normal. The aortic sinus diameter is normal for gender with 
+mildly dilated ascending aorta. The aortic arch
+diameter is normal with a mildly dilated descending aorta. The 
+aortic valve leaflets (3) appear structurally
+normal. There is no aortic valve stenosis. There is a centrally 
+directed jet of mild [1+] aortic regurgitation. The
+mitral valve leaflets appear structurally normal with no mitral 
+valve prolapse. There is moderate [2+] mitral
+regurgitation. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal.
+There is mild [1+] tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is normal. There
+is no pericardial effusion.
+IMPRESSION: Moderate global left ventricular hypokinesis. Mildly 
+dilated right ventricle with
+normal systolic function. Moderate mitral regurgitation.
+Compared with the prior TTE (images reviewed) of ___, the 
+findings are new.
+
+___ Cardiovascular ___ MD ___ 
+No angiographically apparent coronary artery disease.
+
+DISCHARGE LABS:
+==================
+___ 07:18AM BLOOD WBC-3.9* RBC-4.45* Hgb-13.5* Hct-41.2 
+MCV-93 MCH-30.3 MCHC-32.8 RDW-12.2 RDWSD-41.2 Plt ___
+___ 07:18AM BLOOD ___ PTT-34.1 ___
+___ 07:18AM BLOOD Glucose-88 UreaN-15 Creat-0.9 Na-140 
+K-4.1 Cl-103 HCO3-24 AnGap-13
+___ 07:18AM BLOOD Calcium-9.2 Phos-4.3 Mg-2.0 Iron-118 
+Cholest-159
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old gentleman with hx of CLL, asthma, 
+allergic rhinitis, latent TB s/p INH who presented with chest 
+pain, back pain, EKG changes, and newly reduced EF, found to 
+have clean coronaries.
+
+TRANSITIONAL ISSUES:
+====================
+NEW MEDICATIONS: CARVedilol 3.125 mg PO/NG BID, Valsartan 80 mg 
+PO/NG BID
+
+[] Follow up SPEP and free kappa/lambda studies (pending at 
+discharge).
+[] Please repeat TFTs as an outpatient (had one normal TSH and 
+one elevated TSH here).
+[] Consider starting spironolactone as an outpatient.
+[] Consider cardiac MRI for further workup as an outpatient.
+[] Requires PCP, ___, and HF follow up.
+
+# CODE: Full code (attempt resuscitation) 
+# CONTACT: HCP: Brother ___, ___
+
+# CORONARIES: No angiographically apparent coronary artery 
+disease.
+# PUMP: EF 35%
+# RHYTHM: Sinus bradycardia
+
+#) NEW SYSTOLIC HEART FAILURE, NON-ISCHEMIC
+Presented with back pain and EKG changes concerning for ischemia 
+(anterior ST elevations and Wellens T waves). Coronary angiogram 
+with clean coronaries. Potentially secondary to hypertensive 
+cardiomyopathy given BP in 140s-150s for a long period of time. 
+He does have history of back pain, so could be suggestive of 
+myocarditis, but trops negative and no focal WMA on echo. 
+Patient also has history of chemotherapy, but not 
+anthracyclines. Cytoxan and rituxin could cause cardiomyopathy 
+(less common). Has history of strongyloides which has case 
+reports of causing HF. HIV negative. A1c 5.4, lipids normal. Can 
+consider cardiac MRI as an outpatient. Should have TSH repeated 
+as it was initially normal, but elevated to 5.3 on am labs. No 
+diuresis required. Discharged on lisinopril and carvedilol.
+
+#) BACK PAIN, RESOLVED
+Potentially MSK given positional and intermittent nature. 
+Resolved on admission. CXR negative and euvolemic on exam, so 
+unlikely to be ___ HF or other cardiopulmonary etiology. Not 
+tachycardic or hypoxic. Consider further workup if recurs.
+
+#) CLL
+In remission. Previously seen by Dr. ___. Per patient, 
+plan is to change to different provider as current provider 
+left.
+ 
+Medications on Admission:
+NONE
+ 
+Discharge Medications:
+1.  CARVedilol 3.125 mg PO BID 
+START THIS MEDICATION ___.  
+2.  Valsartan 80 mg PO BID 
+START THIS MEDICATION ___.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: New systolic heart failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were at ___ because you were having chest and 
+back pain.
+
+WHILE YOU WERE HERE:
+- You had a coronary angiogram. This showed that you do not have 
+any heart blockages. Your pain was not from a heart attack.
+- You had an ultrasound of your heart that showed your heart was 
+not pumping well. This is called heart failure.
+- We are not sure why you have the heart failure. You had some 
+tests here and will have more tests as an outpatient.
+
+WHEN YOU GO HOME:
+- Please do not take in more than 2 grams of salt and 2 liters 
+of fluid in 24 hours. Read the labels of food to help you with 
+this.
+- Please weigh yourself daily and call the doctor if you weight 
+goes up by more than 5lbs in 1 week or 3lbs in 1 day.
+- Please take your medications, listed below. Please start the 
+valsartan on ___. You can start taking the carvedilol on 
+___. Both medications are twice a day.
+- Please go to your follow up appointments, listed below.
+
+It was a pleasure taking care of you and we wish you good 
+health.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,268 @@
+===== DISCHARGE NOTE =====
+note_id=15997096-DS-21 | hadm_id=27665995
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+pacemaker device interrogation
+ 
+History of Present Illness:
+___ with AF (on digoxin, carvedilol, coumadin), ventricular 
+pacemaker (___), and HTN presenting with two days of 
+presyncope. Patient states he was in his usual, active state of 
+health (exercising ___ weekly) until two days ago when his PCP 
+at the ___ changed his carvedilol from 25mg QHS to 12.5 mg BID. 
+He awoke ___ morning, complete his usual shower and 
+breakfast routine feeling well, took his carvedilol, digoxin, 
+and warfarin and then about 30 minutes later felt dizzy, 
+lightheaded, and needed to return to bed. He laid in bed for the 
+morning and the feeling passed by mid afternoon. He awoke this 
+morning, completed the same routine feeling well and then took 
+his carvedilol at 9.00 and went to his grandaughter's 
+graduation. By 9.30 he felt lightheaded and needed to lie down 
+in the stands. Pt denies any chest pain, palpitations, SOB, 
+headache, numbness, weakness, LOC, or fall. He denies N/V, warm 
+feeling, or loss of bowel or bladder. He has a history of 
+similar pre-syncopal episodes (1-2/year for ___ years) but has 
+not had any episodes in the past ___ years until today.  His 
+lightheadedness did not improve after lying down so he was taken 
+by ambulance to the ___ ED. In the field EMS noted an ECG 
+concerning for Vtach and gave patient 150mg amiodarone load en 
+route.           
+.  
+In the ED, initial VS afebrile, HR 60-80, saturating well on RA. 
+Symptoms had also improved. EP investigated his pacemaker and 
+found no abnormal pacemaker function and no recent ventricular 
+high rate episodes to explain patient's presyncope. Patient's 
+exam was notable for an AOx3 well appearing man, an irregularly 
+irregular HR, with no m/r/g and good peripheral pulses. Labs 
+notable for electrolytes and CBC wnl, glucose 138, Troponin 
+<0.01, INR in goal range at 2.1. EKG notable for paced atrial 
+fibrillation with HR 60-80. CXR showing pacer leads in place and 
+no acute cardiopulmonary process. The pt was admitted to 
+medicine for pre-syncope work-up.
+. 
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.
+ 
+Past Medical History:
+MEDICAL & SURGICAL HISTORY:
+-Atrial fibrillation on coumadin and digoxin
+-Pacer (placed since ___, battery replaced ___
+-HTN on carvedilol
+-basal and squamous cell skin cancers (received biannual skin 
+checks)
+-s/p appendectomy and cholecystectomy
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+Admission PHYSICAL EXAM:  
+VS: 97.1 120/70 74 18 98% RA
+GENERAL: Well-appearing man in NAD, comfortable, appropriate.
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, no thyromegaly, no JVD, no carotid bruits.
+HEART: irregularly irregular, no MRG, nl S1-S2.
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ carotid, radial, DP pulses.
+SKIN: Multiple subhorrheic keratosis, AKs, and nevi.
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, steady 
+gait.
+.
+
+Discharge PHYSICAL EXAM:  
+VS: 96.5 123/74 65 18 97% RA
+GENERAL: Well-appearing man in NAD, comfortable, appropriate.
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, no thyromegaly, no JVD, no carotid bruits.
+HEART: irregularly irregular, no MRG, nl S1-S2.
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ carotid, radial, DP pulses.
+SKIN: Multiple subhorrheic keratosis, AKs, and nevi.
+LYMPH: No cervical LAD.
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, steady 
+gait.
+ 
+Pertinent Results:
+Admission Labs:
+___ 09:10PM   GLUCOSE-107* UREA N-18 CREAT-1.0 SODIUM-143 
+POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-31 ANION GAP-14
+___ 09:10PM   ALBUMIN-4.1 CALCIUM-8.3* PHOSPHATE-3.8 
+MAGNESIUM-2.1
+___ 04:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 10:25AM   cTropnT-<0.01
+___ 10:25AM   WBC-9.7 RBC-4.57* HGB-14.6 HCT-42.5 MCV-93 
+MCH-32.0 MCHC-34.5 RDW-14.1
+___ 10:25AM   ___ PTT-27.1 ___
+___ 06:45AM BLOOD Digoxin-0.8*
+
+Discharge Labs:
+___ 06:45AM BLOOD WBC-8.6 RBC-4.31* Hgb-13.4* Hct-39.6* 
+MCV-92 MCH-31.0 MCHC-33.7 RDW-14.0 Plt ___
+___ 10:10AM BLOOD ___ PTT-27.7 ___
+___ 06:45AM BLOOD Glucose-104* UreaN-18 Creat-1.1 Na-141 
+K-4.1 Cl-102 HCO3-29 AnGap-14
+___ 06:45AM BLOOD Calcium-8.8 Phos-4.3 Mg-2.1
+
+ECG/Telemetry: AF, V paced with ___ beats of monomorphic V 
+tach. Non-sustained 
+
+Pacer Interrogation: No abnormal function, no evidence of 
+abnormal rhythm to explain patient's syncope
+
+Echo ___: The left atrium is mildly dilated. No atrial 
+septal defect is seen by 2D or color Doppler. There is mild 
+symmetric left ventricular hypertrophy. The left ventricular 
+cavity size is normal. Overall left ventricular systolic 
+function is mildly depressed (LVEF= 45 %) with global 
+hypokinesis. No masses or thrombi are seen in the left 
+ventricle. There is no ventricular septal defect. Right 
+ventricular chamber size is normal with borderline normal free 
+wall function. The aortic root is mildly dilated at the sinus 
+level. The ascending aorta is mildly dilated. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. Trace aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild (1+) mitral regurgitation is seen. The tricuspid 
+valve leaflets are mildly thickened. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion 
+
+CXR: No evidence of acute cardiopulmonary process. Pacer leads 
+in place.
+ 
+Brief Hospital Course:
+___ with AF (on dig and coumadin), V paced, HTN (on carvedilol) 
+presenting with two days of morning pre-syncope correlated with 
+a recent change in his carvedilol dosing (to 12.5mg BID from 
+25mg daily). Patient's abrupt onset of presyncope with change in 
+carvedilol dose after ___ years without a syncopal episode are 
+highly suspicious for excessive carvedilol effect. Since 
+carvedilol has alpa and beta blocking properties this effect 
+could be in the form of alpha blockade leading to vasoplegia, 
+hypotension and low CPP or beta effect and increased AV nodal 
+blockade.  Since patient is paced and his pacer interrogation 
+suggested no abnormally fast or slow rhythms to explain the 
+syncope, vasoplegia is the most likely explanation. Patient's EF 
+is unknown at this time and may also be low (on coreg and dig), 
+further decreasing CO and therefore BP. Other less likely causes 
+to consider include excess digoxin effect, increased vagal tone 
+(patient denies syncope after BM or micturition), stroke or TIA 
+(patient denies focal neuro sx, weakness, or confusion), carotid 
+stenosis (2+ pulses w/o bruits on exam), dehydration (pt appear 
+euvolemic on exam and was not exerting himself), myocardial 
+infarction (EKG and troponins negative), structural heart 
+disease (no murmur on exam).
+.
+# Pre-Syncope: most likely vasoplegia ___ to carvedilol. Rhythm 
+on telemetry overnight showed HR 60-120 with short runs ___ 
+beats) of NSVT that spontaneously terminated and patient 
+remained AVSS and asymptomatic throughout. EP was consulted and 
+reviewed the telemetry and confirmed that the pacer was working 
+effectively and these runs were not the cause of the patient's 
+symptoms. We ordered a digoxin level, which was within normal 
+limits, ruling out excess dig effect or dig toxicity. In the 
+morning, patient felt well, orthostatic BP measurements were 
+obtained and showed no evidence of position dependent 
+hypotension. He was restarted on his carvedilol at 6.25 mg at 
+11:00 am and tolerated it well. He continued on his home 12.5 mg 
+dose qHS. We also obtained an echocardiogram, which showed a 
+stable EF of 45% (consistent with priors after discussion with 
+pt's cardiologist in ___, ___) and no structural heart 
+disease to cause patient's syncope. We discharged the patient on 
+6.25mg carvedilol QAM after breakfast and 12.5mg QPM. 
+.
+# AF: We continued patient's home digoxin, furosemide and 
+coumadin (INR 2.1-2.4).
+.
+# Dispo: discharge to home, f/u with PCP and cardiology
+ 
+___ on Admission:
+Carvedilol 12.5mg PO BID
+Warfarin ___ 2.5mg PO BID, ___ 2.5mg qdaily
+Digoxin .25mg daily
+Furosemide 40mg daily
+KCl 20meq daily
+Preserve vision vitamins for eyes
+ 
+Discharge Medications:
+1. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO BID ON ___ 
+().  
+2. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO DAILY ___ 
+().  
+3. digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Coreg 6.25 mg Tablet Sig: One (1) Tablet PO qAM: please take 
+at 11 am.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Coreg 12.5 mg Tablet Sig: One (1) Tablet PO qPM.
+Disp:*30 Tablet(s)* Refills:*2*
+7. potassium chloride 20 mEq Packet Sig: One (1) packet PO once 
+a day.  
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+1. pre-syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with lightheadedness and 
+dizziness (pre-syncope) in the setting of dose adjustment of 
+your carvedilol. We spoke with your primary care doctor and your 
+cardiologists, and have changed your carvedilol dose to 6.25 mg 
+in the morning (11 am) and 12.5 mg in the evening (10 pm) at 
+discharge. We interrogated your pacemaker, and you were not 
+found to have any dangerous fast or slow arrhythmias which could 
+cause your symptoms. We also performed an echocardiogram which 
+showed ejection fraction 45%.
+.
+MEDICATION CHANGES
+- CHANGE carvedilol (coreg) to 6.25 mg qAM (take at 11 am) and 
+12.5 mg qPM (take at 10 pm)
+.
+Please continue to take your other medicatins as prescribed. 
+Please seek medical attention for any concerning symptoms, such 
+as lightheadedness, dizziness, passing out (syncope), or 
+palpitations.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,388 @@
+===== DISCHARGE NOTE =====
+note_id=17175905-DS-9 | hadm_id=28194451
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+Impella-supported rotational atherectomy and deployment of 
+drug-eluting stents in the LAD ___
+ 
+History of Present Illness:
+___ year old man with H/O CAD S/P MI treated with RCA PCI ___, 
+diabetes mellitus on insulin, hypertension, PAD with left foot 
+ulcer and h/o osteomyelitis of right great toe now s/p 
+amputation and completed course of vancomycin, ESRD on HD MWF, 
+transferred from ___ for consideration of 
+ICD placement and coronary revascularization after presenting 
+with syncope with ventricular tachycardia.
+
+He had recently presented to ___ ___ with GI bleeeing 
+due to duodenal ulcers. That admission was complicated by 
+NSTEMI, which was medically managed.  He was readmitted to ___ 
+___ with <1 minute episode of syncope. EMS noted new 
+monomorphic ventricular tachycardia that was treated with 
+amiodarone 150 mg with return to NSR. Head CT was normal. 
+Echocardiogram showed LVEF 55% with RCA distribution wall motion 
+abnormalities. Coronary angiography ___ showed multivessel 
+disease, prompting transfer to ___ for evaluation for ICD and 
+coronary revascularization.
+ 
+Past Medical History:
+- CAD with IMI ___ treated at ___ with mid RCA PCI (3.5X15 mm 
+Biodivysio stent)
+- Type 2 diabetes mellitus, on insulin
+- Hypertension
+- PAD with left foot ulcer and partial amputation as well as 
+right hallux osteomyelitits
+- ESRD on HD MWF
+- UGIB attributed to duodenal ulcers
+- GERD,
+
+Past Surgical History: 
+- S/P partial left foot amputation ___
+- S/P bilateral hernia repairs
+ 
+Social History:
+___
+Family History:
+Father with CAD
+ 
+Physical Exam:
+Elderly Hispanic man in NAD
+Pulse: 56 SB  Resp: 13  O2 sat: 98% on RA  BP Left: 150/59
+Weight: 77.2kg
+Skin: Dry [x] intact [x]
+HEENT: PERRL [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds 
++ [x]
+Extremities: Warm [x], well-perfused []  Edema [] trace
+s/p amputation of right great toe
+left foot with non-healing ulcer
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:1+   Left:1+
+DP           Right:doppler   Left: doppler
+___           Right:doppler   Left: doppler
+Radial       Right: 2+  Left:2+
+Carotid Bruit: no bruits
+ 
+Pertinent Results:
+___ 10:55AM   WBC-4.8 RBC-3.26* HGB-9.7* HCT-31.5*# MCV-97 
+MCH-29.8 MCHC-30.8* RDW-17.2* RDWSD-59.5*
+___ 10:55AM   PLT COUNT-108*
+
+___ 10:55AM   GLUCOSE-84 UREA N-25* CREAT-4.9*# SODIUM-136 
+POTASSIUM-5.9* CHLORIDE-98 TOTAL CO2-22 ANION GAP-16
+___ 10:55AM   ALT(SGPT)-11 AST(SGOT)-46* LD(LDH)-476* ALK 
+PHOS-89 AMYLASE-53 TOT BILI-0.5
+___ 09:20AM   HBsAg NEG  HBsAb POS  HBcAb NEG  HCVAb NEG
+___ 10:55AM   LIPASE-18
+___ 10:55AM   ALBUMIN-3.1* MAGNESIUM-2.1
+___ 10:55AM   %HbA1c-5.1 eAG-100
+___ 06:05AM   TSH 2.1
+
+CHEST (PRE-OP PA & LAT) ___ 2:38 ___ 
+The lungs are well expanded. There is pulmonary vascular 
+engorgement centered about the bilateral hila with mild 
+interstitial edema most prominent about the left hilum. There is 
+also mild interstitial edema in the bilateral lower lobes and 
+small bilateral pleural effusions. The heart is moderately 
+enlarged. There are no worrisome osseous abnormalities. 
+IMPRESSION: Moderate cardiomegaly with pulmonary vascular 
+engorgement, mild interstitial edema, and small bilateral 
+pleural effusions likely indicates acute cardiac decompensation. 
+No overt alveolar edema. 
+
+Carotid ultrasound ___ 
+Right ICA <40% stenosis. 
+Left ICA 60-69% stenosis. 
+  
+Chest CT ___
+THORACIC INLET: The thyroid is unremarkable. There are no 
+enlarged supraclavicular lymph nodes. 
+BREAST AND AXILLA: There are no enlarged axillary lymph nodes. 
+MEDIASTINUM: The esophagus is dilated with food and fluid 
+residue extending up to the upper chest. This could be related 
+to motility disorder. Correlation with history is recommended. 
+NODES: There are small mediastinal lymph nodes most likely 
+reactive. 
+HEART, VESSELS and PERICARDIUM: There is moderate cardiomegaly. 
+Coronary artery calcification is seen. There is atherosclerotic 
+calcification involving the descending thoracic aorta. There is 
+no pericardial effusion 
+PLEURA: There are small bilateral pleural effusions right 
+greater than left there is mild pleural thickening on the left. 
+LUNG: 
+1. PARENCHYMA: There are patchy bronchus centric opacities in 
+the right upper lobe and mild septate thickening in both lower 
+lobes, these could represent asymmetric pulmonary edema. There 
+is evidence of mitral annulus calcification. Aortic annulus 
+calcification is also seen. 
+2. AIRWAYS: The airways are patent up to the subsegmental level 
+3. Nodules: No lung nodules are seen 
+BONES: Review of bones shows degenerative changes involving the 
+thoracic spine. 
+UPPER ABDOMEN: Limited sections through the upper abdomen are 
+unremarkable. 
+IMPRESSION: 
+- Small bilateral pleural effusions with bibasilar atelectasis 
+and mild asymmetric edema in the right upper lobe. 
+- Coronary artery calcifications, severe. Cardiomegaly. 
+- Atherosclerotic calcification involving the aortic annulus and 
+areas of discontinuous caused calcification involving the 
+descending thoracic aorta. 
+- The esophagus is dilated with food and fluid residue extending 
+up to the lower neck and upper chest, could be related to 
+motility disorder. Correlation with history is recommended. The 
+residual food in fluid within the proximal esophagus is 
+concerning for possible aspiration. 
+
+FOOT ___ 4:30 ___ 
+There are changes from at least second metatarsal head 
+resection, though portions of the phalanges of the second digit 
+are seen. Evaluation of the third through fifth phalanges is 
+limited by patient positioning with flexion. There do appear to 
+be some areas of osteopenia of these digits starting at the 
+metatarsal heads, though these findings are equivocal for 
+osteomyelitis, and gadolinium-enhanced MRI will be far more 
+sensitive. Otherwise, no frank bony destruction is seen. There 
+is no subcutaneous emphysema. Severe vascular calcifications are 
+seen. There is irregularity of the base of the first metatarsal, 
+with possible widening of the Lisfranc interval, suggesting 
+prior injury. There also mild-to-moderate midfoot degenerative 
+changes. There is no frank acute fracture or dislocation.
+
+PCI ___
+Coronary Anatomy
+  Left main coronary artery: Normal
+  Left anterior descending coronary disease: Heavily calcified 
+vessel with 80% stenoses in the proximal, mid, and distal LAD. 
+There was small diagonal branches.
+  Left circumflex coronary artery: 80% proximal. Diffusely 
+disease 80% ramus branch.
+  RCA: Total occlusion with left to right collaterals to the 
+PDA.
+Interventional Details The patient was deemed inoperable due to 
+diffuse disease and poor target vessels by cardiac surgery. The 
+LAD was deemed the culprit lesion. The LCx and ramus branches 
+potentially supply non viable mycardium.
+  Unfractionated heparin was used for anticoagulation.
+  An Impella CP was placed from the left femoral artery using a 
+___ Fr Preclose technique with 3.3 L/min support.
+  Using a ___ Fr EBU 4.0 guiding catheter, a 0.014 BMW wire 
+positioned through a Turnipike LP. A series of balloon dilations 
+were performed with a 2.0 mm and 1.5 mm balloons in the LAD but 
+there was minimal dilation due to underlying calcium. As a 
+result, the 0.014 BMW wire was exchanged for a 0.009" rotational 
+atheterectomy wire and a 1.25 mm rotational atherectomy burr was 
+used to ablate the entire proximal, mid, or distal vessel. The 
+LAD as then dilated again with a 2.0 mm balloon with complete 
+expansion. A Onyx 2.25 mm x 26 mm stent was placed distal, a 
+2.25 mm x 30 mm Onyx was place in the mid segment, and a 2.5 mm 
+x 15 mm proximally. The stents were all dilated with a 2.5 mm 
+balloom resulting in no residual stenosis and TIMI 3 flow into 
+the distal vessel. At the end of the procedure. there was no 
+residual stenosis and TIMI 3 flow into the distal vessel.
+  The Impella was removed with the Perclose and a ___ Fr Angioseal 
+was placed.
+  The procedure was complex and prolonged with a high radiation 
+dose.
+Impressions:
+1. Three vessel coronary artery disease
+2. Successful rotational atherectomy and coronary drug eluting 
+stent placement
+3. Impella assisted PCI due to reduced ejection fraction
+Recommendations:
+1. Medical therapy
+2. Dual antiplatelet therapy
+
+DISCHARGE LABS
+___ 06:05AM BLOOD WBC-4.4 RBC-2.88* Hgb-8.5* Hct-26.8* 
+MCV-93 MCH-29.5 MCHC-31.7* RDW-16.1* RDWSD-54.7* Plt ___
+___ 06:05AM BLOOD Glucose-117* UreaN-36* Creat-6.1*# Na-141 
+K-4.4 Cl-99 HCO3-26 AnGap-16
+___ 06:05AM BLOOD Calcium-7.3* Phos-4.0 Mg-2.___ year old man with H/O CAD S/P MI treated with RCA PCI ___, 
+diabetes mellitus on insulin, hypertension, PAD with left foot 
+ulcer and h/o osteomyelitis of right hallux, ESRD on HD MWF, 
+recent GI bleed from duodenal ulcers complicated by NSTEMI 
+medially managed, now transferred from ___ 
+for consideration of ICD placement and coronary 
+revascularization after presenting with syncope with ventricular 
+tachycardia and diagnosed 3 vessel coronary artery disease.
+
+ACUTE ISSUES:
+# Syncope, ventricular tachycardia. Patient found to be in VT by 
+EMS en route to ___ but converted to NSR after 
+administration of admiodarone. He was transferred to ___ 
+for further evaluation and Electrophysiology consultation. He 
+remained hemodynamically stable in SR/SB on amiodarone 400 PO 
+daily. He was transferred to general cardiology, where he had no 
+further VT and was continued on amiodarone. Placement of ICD was 
+deferred given planned (and subsequent) percutaneous coronary 
+revascularization, as below. He was discharged with a temporary 
+LifeVest pending permanent ICD placement.
+
+# NSTEMI secondary to multi-vessel disease: Per ___ 
+records, patient was found to have NSTEMI in ___, treated 
+with clopidogrel in setting of GI bleeding. LVEF was preserved 
+with inferior wall motion abnormalities. Coronary angiography 
+after this syncopal episode showed 3 vessel CAD. He was 
+evaluated by Cardiac Surgery, who felt that his anatomy would 
+not be suitable for CABG in absence of acceptable distal vessels 
+to graft onto. Patient underwent Impella supported rotational 
+atherectomy and deployment of 3 drug-eluting stents in the LAD 
+with slightly high radiation exposure. LCx was felt to supply 
+non-viable myocardium, with a chronic total occlusion of the 
+RCA; thus there is no plan for further revasularization. He was 
+continued on aspirin, atorvastatin, and metoprolol. He was also 
+started on lisinopril. He will require a minimum of 12 months 
+clopidogrel for his new DES to LAD.
+
+# ESRD: Continued hemodialysis MWF, sevelamer with meals, 
+Nephrocaps daily.
+
+CHRONIC/STABLE ISSUES:  
+# PAD with left plantar foot ulcer: History of osteomyelitis. 
+Per ID, no evidence of active infection this admission. 
+Continued daily wound care.
+
+# Type 2 diabetes mellitus: Managed with insulin sliding scale.
+
+# Hypertension: Managed with lisinopril and metoprolol as above.
+
+# H/P duodenal ulcers: Managed with PPI (changed from home 
+omeprazole to pantoprazole given clopidogrel use) and 
+famotidine.
+
+TRANSITIONAL ISSUES:
+====================
+[] Labs notable for pancytopenia of unclear etiology this 
+admission. Stable. Recommend PCP evaluation and consideration 
+for referral to hem/onc as needed
+[] Patient started on amiodarone for prevention of recurrent VT. 
+Consider tapering as tolerated given potential for adverse 
+effects.
+[] Electrophysiology will contact patient directly to schedule 
+ICD placement; he will also be followed by Dr. ___ 
+___ pending)
+[] Patient will see outpatient cardiologist, Dr. ___, 
+___ at 1:15 ___
+[] CODE STATUS: Full Code
+[] CONTACT: Granddaughter, ___ ___ 
+(no HCP)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 12.5 mg PO BID 
+2. Simvastatin 20 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+5. Clopidogrel 75 mg PO DAILY 
+6. Omeprazole 40 mg PO DAILY
+ 
+Discharge Medications:
+1.  Amiodarone 400 mg PO DAILY 
+RX *amiodarone 400 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+4.  Nephrocaps 1 CAP PO DAILY 
+RX *B complex with C#20-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*0 
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Metoprolol Succinate XL 25 mg PO DAILY  
+7.  Aspirin 81 mg PO DAILY  
+8.  Clopidogrel 75 mg PO DAILY  
+9.  sevelamer CARBONATE 1600 mg PO TID W/MEALS
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+-Coronary artery disease
+-Recent non-ST segment elevation myocardial infarction
+-Ventricular tachycardia
+-Diabetes mellitus, type 2, with 
+-Peripheral arterial disease
+-End stage renal disease on hemodialysis
+-Hypertension
+-Hyperlipidemia
+-Duodenal ulcer disease with recent gastrointestinal bleeding
+-Gastroesophageal reflux disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+- You were admitted because you had an irregular heart rhythm 
+and a recent heart attack
+
+What happened while I was in the hospital?  
+- We examined your heart arteries with cardiac catheterization, 
+and found that you have severe narrowing of multiple arteries 
+supplying your heart
+- We opened one of the most important blocked arteries by 
+placing three stents
+- We also evaluated your heart rhythm, and found that you would 
+benefit from an internal heart defibrillator, which shocks your 
+heart back to normal if you have a dangerous heart rhythm. You 
+will discuss when it is safe for this to happen with the 
+Electrophysiology team.
+- You will go home with a vest defibrillator, a "Lifevest", 
+which will be temporary until you have your permanent 
+defibrillator placed.
+- You also continued your regular dialysis schedule 
+
+What should I do after leaving the hospital?  
+- Please take your medications as listed in discharge summary 
+and follow up at the listed appointments
+- Most importantly, please be sure to take your aspirin and 
+Plavix (clopidogrel) every day. If you miss even one day of 
+these two medications, you risk having new blockages in your 
+stents
+- Please contact a medical professional if you have worsening 
+chest pain, shortness of breath, leg swelling, or further 
+episodes of fainting
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+ Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___

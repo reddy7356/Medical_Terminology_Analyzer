@@ -1,0 +1,189 @@
+===== DISCHARGE NOTE =====
+note_id=16256727-DS-9 | hadm_id=28482889
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chset pressure
+ 
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafting ___, SVG-OM, 
+SVG-DG
+
+ 
+History of Present Illness:
+___ year old male who complains of
+several months of worsening chest pressure with exertion. No
+nausea or vomiting or diaphoresis. No shortness of breath or
+fevers or chills or cough. Stress test performed today and was
+positive for cardiac ischemia. Sent to the ED for admission for
+cardiac catheterization. He was found to have coronary artery
+disease upon cardiac catheterization and is now being referred 
+to
+cardiac surgery for revascularization.
+
+ 
+Past Medical History:
+borderline hypertension
+ 
+Social History:
+___
+Family History:
+Family History:Father s/p MI at age ___, s/p CABG in ___
+
+ 
+Physical Exam:
+Pulse:54 Resp:12  O2 sat:98/RA 
+B/P  Right:119/72    Left: 118/68
+___     Weight:181 lbs
+
+General: awake alert oriented
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x] 
++ bowel sounds
+Extremities: Warm [x], well-perfused [x]  
+no Edema no Varicosities
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:2+   Left:2+
+___           Right:2+   Left:2+
+Radial       Right:2+   Left:2+
+Pt is right handed; cath was done via R radial artery;
+___ test: delayed filling on the left; more rapid filling on
+the left. 
+
+Carotid Bruit        Right: no   Left: no
+
+ 
+Pertinent Results:
+ECHO:
+Pre CPB:
+No spontaneous echo contrast or thrombus is seen in the body of 
+the left atrium or left atrial appendage. 
+No atrial septal defect is seen by 2D or color Doppler. 
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity is mildly dilated. Overall left ventricular 
+systolic function is normal (LVEF>55%). 
+Tissue Doppler imaging suggests a normal left ventricular 
+filling pressure (PCWP<12mmHg). 
+There are simple atheroma in the descending thoracic aorta. 
+There are three aortic valve leaflets. There is no aortic valve 
+stenosis. No aortic regurgitation is seen. 
+Mild (1+) mitral regurgitation is seen. 
+Dr. ___ was notified in person of the results. 
+
+Post CPB:
+The patient is being A-paced on a phenylephrine infusion.
+The biventricular sytoic function is preserved.
+There is mild MR.
+___ visible contours of the thoracic aorta are intact.  
+ 
+Brief Hospital Course:
+The patient was admitted to the hospital and brought to the 
+operating room on ___ where the patient underwent coronary 
+artery bypass graft x 4 (see operative note for details).  
+Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring.  POD 1 found the 
+patient extubated, alert and oriented and breathing comfortably. 
+ The patient was neurologically intact and hemodynamically 
+stable on no inotropic or vasopressor support.  Beta blocker was 
+initiated and the patient was gently diuresed toward the 
+preoperative weight. Unable to initiate cardiazem for RIMA graft 
+due to borderline low blood pressure while on low dose 
+lopressor. The patient was transferred to the telemetry floor 
+for further recovery.  Chest tubes and pacing wires were 
+discontinued per protocol without complication.  The patient was 
+evaluated by the physical therapy service for assistance with 
+strength and mobility.  By the time of discharge on POD #4 the 
+patient was ambulating freely, the wound was healing and pain 
+was controlled with oral analgesics.  The patient was discharged 
+home on POD# 4 in good condition with appropriate follow up 
+instructions.
+ 
+Medications on Admission:
+aspirin
+ 
+Discharge Medications:
+1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Lasix 20 mg Tablet Sig: Two (2) Tablet PO once a day for 7 
+days.
+Disp:*14 Tablet(s)* Refills:*0*
+6. potassium chloride 20 mEq Packet Sig: Two (2) Packet PO once 
+a day for 7 days.
+Disp:*14 Packet(s)* Refills:*0*
+7. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q3H (every 3 
+hours) as needed for pain.
+Disp:*70 Tablet(s)* Refills:*0*
+8. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 
+times a day).
+Disp:*45 Tablet(s)* Refills:*2*
+9. Motrin 600 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+coronary artery disease
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Edema; trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

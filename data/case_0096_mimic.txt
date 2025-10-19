@@ -1,0 +1,229 @@
+===== DISCHARGE NOTE =====
+note_id=12763238-DS-7 | hadm_id=29162118
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Penicillins / Toradol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Pap smear
+Endometrial biopsy
+
+ 
+History of Present Illness:
+___ yo G5P4 with recent diagnosis of large atypical mass 
+concerning for atypical fibroid vs. leiomyosarcoma on pelvic MRI 
+who presents with worsening abdominal pain. Her symptoms first 
+began 6 months ago, with diffuse abdominal pain and heavy 
+vaginal bleeding. She was originally saturating 1 pad every ___ 
+hours for about a week. 
+
+She presented to her PCP in ___, and had a pelvic ultrasound 
+performed on ___ showing: 
+1. Intramural anterior uterine mass.  Although this could 
+represent a leiomyoma, the mass is solitary and demonstrates 
+slightly irregular borders, increased vascularity and very 
+little shadowing which is atypical. This appears new when 
+compared with CT dating back to ___. Further characterization 
+is recommended.  
+2. Endometrial distortion due to fibroids. 
+3. Unremarkable ovaries. 
+
+She had an MRI on ___ to further characterize this mass. She 
+presented on day of admission with worsening abdominal pain over 
+the past week as well and nausea and dry heaving. Her abdominal 
+pain was generally a dull aching pain, however is sharp at 
+times. It often radiated to the left side and towards her
+back. She was given Vicodin by her PCP, which she notes does not 
+help the pain and she occasional takes ibuprofen which she feels 
+helps the pain slightly. She reports occasional dysuria and 
+feeling of "pressure" when she urinates, however denies 
+hematuria or sensation of incomplete emptying. She had not eaten 
+much over the past few days due to nausea. She also had 
+occasional dizziness. She presented to her PCP on day of 
+admission with these symptoms, who recommended that she come to 
+the ED for admission and expedited work-up for this mass.  
+
+She denies fevers, chills, chest pain, shortness of breath, 
+vaginal bleeding or discharge, diarrhea, constipation, weight 
+loss or fatigue.  She reports significant anxiety associated 
+with this pelvic mass and persistent pain. 
+ 
+Past Medical History:
+PMH:
+- Hyperlipidemia
+- Obesity, BMI 44.8
+- Herpes simplex 2
+- HTN
+- Anxiety
+- Depression
+- Migraines
+- ___ esophagus (dx: ___
+- IBS-diarrhea
+
+PSH:
+- Tonsillectomy ___ ___
+- Laparoscopic left ovarian cystectomy
+- Laparoscopic cholecystectomy ___ ago)
+- Left rotator cuff repair
+- C-sections x2
+ 
+Social History:
+___
+Family History:
+- Both paternal and maternal grandparents: diabetes
+- Mother: breast cancer (dx ___ currently ___
+- Father: prostate cancer (dx ___ currently ___
+- Maternal aunt: uterine cancer (was in remission, recently
+metastasized to lungs, ___
+- Denies h/o other breast, uterine, ovarian, or colon cancer.
+
+ 
+Physical Exam:
+Vitals: T 98.3, BP 110/61, HR 84, RR 16, O2 95% RA
+General: lying in bed, no acute distress
+HEENT: EOMI, no cervical LAD
+Cardio: RRR, nl s1s2, no m/r/g
+Resp: CTAB, no wheezes or crackles
+Abd: Normoactive bowel sounds, diffuse tenderness to paplpation 
+more prominent in suprapubic region, no rebound tenderness or 
+guarding
+Ext: Calves non-tender bilaterally, no edema
+ 
+Pertinent Results:
+___ 04:12PM   GLUCOSE-94 UREA N-9 CREAT-0.7 SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-22 ANION GAP-13
+___ 04:12PM   estGFR-Using this
+___ 04:12PM   ALT(SGPT)-14 AST(SGOT)-19 ALK PHOS-85 TOT 
+BILI-0.5
+___ 04:12PM   LIPASE-17
+___ 04:12PM   ALBUMIN-4.0
+___ 04:12PM   WBC-7.7 RBC-4.04 HGB-9.2* HCT-31.6* MCV-78* 
+MCH-22.8* MCHC-29.1* RDW-16.2* RDWSD-46.1
+___ 04:12PM   NEUTS-63.5 ___ MONOS-8.2 EOS-1.2 
+BASOS-0.5 IM ___ AbsNeut-4.90 AbsLymp-2.02 AbsMono-0.63 
+AbsEos-0.09 AbsBaso-0.04
+___ 04:12PM   PLT COUNT-245
+___ 04:12PM   ___ PTT-29.3 ___
+___ 02:45PM URINE  HOURS-RANDOM
+___ 02:45PM URINE  UCG-NEGATIVE
+___ 02:45PM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 02:45PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-TR*
+___ 02:45PM URINE  RBC-4* WBC-12* BACTERIA-MOD* YEAST-NONE 
+EPI-10
+___ 02:45PM URINE  MUCOUS-MANY*
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology service 
+for management of her abdominal pain and work-up of her 
+abdominal mass seen on imaging. She was seen and evaluated by 
+the GYN Oncology service, who reviewed the possible etiologies 
+of the mass including a fibroid, atypical fibroid, degenerating 
+fibroid or a sarcoma. A plan was made for her to follow up with 
+Oncology for possible definitive treatment, including 
+hysterectomy.
+
+On ___, she underwent an endometrial biopsy, and a pap smear 
+was obtained. 
+
+Her pain was initially controlled with oral Tylenol and dilaudid 
+with IV dilaudid for breakthrough pain. NSAIDs were initially 
+held due to concern for her history of ___ esophagus; 
+however, the GI team advised that this is not a contraindication 
+to NSAIDs. NSAIDs were added to her pain regimen leading to an 
+improvement in overall pain. She was discharged in stable 
+condition on an oral pain regimen of Tylenol, ibuprofen and prn 
+dilaudid.
+
+ 
+Medications on Admission:
+1. Albuterol 90mcg 2 puffs q4H PRN
+2. Bupropion 150mg PO BID
+3. Hydrocodone-acetaminophen 5mg/325mg PO TID PRN
+4. Lorazepam 0.5mg PO BID 
+5. Metformin ER 500mg PO BID
+6. Omeprazole 20mg PO BI
+7. Propranolol 40mg PO BID
+8. Sertraline 100mg PO Daily
+9. Vitamin D3 2000U PO Daily
+10. Vitamin B12 1000mcg PO Daily
+11. Ferrous sulfate 325mg PO Daily
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H 
+Do not take more than 4 grams in 24 hours 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth BID PRN Disp 
+#*60 Capsule Refills:*0 
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+___ cause drowiness 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*30 Tablet Refills:*0 
+4.  BuPROPion (Sustained Release) 150 mg PO BID  
+5.  Omeprazole 20 mg PO BID  
+6.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the gynecology service for evaluation of 
+your abdominal pain. You have recovered well and the team 
+believes you are ready to be discharged home. Please call Dr. 
+___ office with any questions or concerns. Please follow 
+the instructions below.
+
+General instructions:
+* Take your medications as prescribed.
+* Do not drive while taking narcotics.
+* Take a stool softener such as colace while taking narcotics to 
+prevent constipation.
+* Do not combine narcotic and sedative medications or alcohol.
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.
+* No strenuous activity until your post-op appointment.
+
+Call your doctor for:
+* fever > 100.4F
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+
+ 
+Followup Instructions:
+___

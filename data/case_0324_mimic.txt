@@ -1,0 +1,808 @@
+===== DISCHARGE NOTE =====
+note_id=12111068-DS-6 | hadm_id=20464120
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanut allergy / Gadolinium-Containing Contrast Media
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+___ 08:45PM BLOOD WBC-38.2* RBC-3.67* Hgb-11.5* Hct-36.5* 
+MCV-100* MCH-31.3 MCHC-31.5* RDW-13.2 RDWSD-47.8* Plt ___
+___ 08:15AM BLOOD WBC-26.8* RBC-3.80* Hgb-11.7* Hct-37.8* 
+MCV-100* MCH-30.8 MCHC-31.0* RDW-13.1 RDWSD-47.0* Plt ___
+___ 08:45PM BLOOD Neuts-90.8* Lymphs-1.2* Monos-4.0* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-34.69* AbsLymp-0.46* 
+AbsMono-1.53* AbsEos-0.07 AbsBaso-0.13*
+___ 08:45PM BLOOD Neuts-90.8* Lymphs-1.2* Monos-4.0* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-34.69* AbsLymp-0.46* 
+AbsMono-1.53* AbsEos-0.07 AbsBaso-0.13*
+___ 08:15AM BLOOD AbsNeut-22.97*
+___ 08:45PM BLOOD Glucose-104* UreaN-10 Creat-0.6 Na-134* 
+K-4.7 Cl-98 HCO3-23 AnGap-13
+___ 08:15AM BLOOD UreaN-7 Creat-0.7 Na-133* K-4.6
+___ 08:15AM BLOOD ALT-12 AST-19 AlkPhos-157*
+___ 05:20AM BLOOD cTropnT-<0.01
+___ 08:45PM BLOOD cTropnT-<0.01
+___ 08:50PM BLOOD ___ pO2-52* pCO2-42 pH-7.40 
+calTCO2-27 Base XS-0
+___ 08:02AM BLOOD Lactate-1.2
+___ 05:33AM BLOOD Lactate-0.9
+
+Time Taken Not Noted     Log-In Date/Time: ___ 5:59 am
+      BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending):
+
+ 
+CHEST (PA & LAT) Study Date of ___ 7:39 ___ 
+IMPRESSION: 
+Diffuse, ill-defined interstitial opacities with an upper lobe 
+predominance, as seen on the prior chest CT, concerning for 
+bronchiolitis which may be infectious or inflammatory in 
+etiology.  Redemonstration of scarring in the right apex. 
+ 
+
+CTA CHEST  Study Date of ___ 11:01 ___ 
+IMPRESSION:
+1. Limited evaluation of the subsegmental pulmonary arteries due 
+to timing of the contrast bolus, however there is no definite 
+filling defect centrally through the segmental pulmonary 
+arteries to suggest pulmonary embolism. 
+2. Mild interval worsening of bronchiolar and airspace 
+inflammation compared to the study from 2 days prior, 
+particularly in the left lung/left upper lobe, which again could 
+be infectious or medication related. 
+3. Small left pleural effusion is new. 
+4. Stable position of the right-sided chest port, with tip 
+possibly located in or near the coronary sinus. 
+5. Unchanged 7 mm left apical nodule, presumed metastasis. 
+6. Visualized portion of the upper abdomen re demonstrates the 
+known hepatic and left adrenal metastases. 
+ 
+EKG: NSR@70, QTc 511, RBBB
+
+ 
+Brief Hospital Course:
+___ metastatic Leiyomyosarcoma with mets to the spine on active 
+chemotherapy admitted with pneumonia. 
+
+# Bacterial Pneumonia: 
+Patient with fevers and shortness of breath with CTA 
+demonstrating interval worsening of bronchiolar and airspace 
+inflammation with Ddx of acute infectious process versus 
+medication effect (ie gemcitabine pulmonary toxicity). However, 
+given improvement on antibiotics alone and no steroids, 
+consistent with bacterial infection. Due to history of MAC, ID 
+team was consulted to guide antibiotic therapy. He was initially 
+on Vanc/cef, that was de-escalated to CFTX with transition to 
+cefpodoxime on discharge for a total 14 day course.  
+
+# Leiomyosarcoma, metastatic to Spine:
+Currently on Gemcitabine.  Outpatient oncologist notified and 
+his next chemotherapy will be delayed one week, to resume 
+___. 
+
+# Moderate protein-calorie Malnutrition: 
+Nutrition consulted. Patient declined dobhoff for enteral 
+feeding. 
+
+> 30 mins spent coordinating discharge 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Ondansetron 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. Dexamethasone 8 mg PO Q12H:PRN chemotherapy 
+3. EPINEPHrine (EpiPEN) 0.3 mg IM ASDIR 
+4. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+5. Gabapentin 1200 mg PO TID 
+6. Mirtazapine 30 mg PO QHS 
+7. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line 
+8. Pegfilgrastim-cbqv 6 mg SC ASDIR 
+9. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+10. Naloxone Nasal Spray 4 mg IH ASDIR 
+11. Megestrol Acetate 625 mg PO DAILY 
+12. Calcium Carbonate 3000 mg PO DAILY 
+13. Potassium Chloride 20 mEq PO DAILY 
+14. albuterol sulfate 90 mcg/actuation inhalation Q3H:PRN asthma 
+
+
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 400 mg PO BID Duration: 10 Days  
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  albuterol sulfate 90 mcg/actuation inhalation Q3H:PRN asthma 
+ 
+4.  Calcium Carbonate 3000 mg PO DAILY  
+5.  Dexamethasone 8 mg PO Q12H:PRN chemotherapy  
+6.  EPINEPHrine (EpiPEN) 0.3 mg IM ASDIR  
+7.  Gabapentin 1200 mg PO TID  
+8.  Megestrol Acetate 625 mg PO DAILY  
+9.  Mirtazapine 30 mg PO QHS  
+10.  Naloxone Nasal Spray 4 mg IH ASDIR  
+11.  Ondansetron 8 mg PO Q8H:PRN Nausea/Vomiting - First Line  
+12.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+13.  Pegfilgrastim-cbqv 6 mg SC ASDIR  
+14.  Potassium Chloride 20 mEq PO DAILY  
+15.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege to care for you at the ___ 
+___. You were admitted with pneumonia and improved 
+significantly with antibiotics. You will need to continue taking 
+antibiotics by mouth for the next ten days. 
+
+Your oncology team will be rescheduling your next chemotherapy 
+for ___ to allow you to recover fully from this infection. You 
+do not need to go to your appointment this ___. 
+
+Please continue taking all medications as prescribed and follow 
+up with all appointments as detailed below. 
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12111068-DS-5 | hadm_id=20632930
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanut allergy
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain, abdominal pain, flank pain
+ 
+Major Surgical or Invasive Procedure:
+___ - T8 vertebrectomy, T6-T10 fusion
+ 
+History of Present Illness:
+___ yo gentleman with many years of back, flank and abdominal 
+pain which he describes as a band over his abdomen. The pain has 
+worsened during the past year. The pain increases with laying 
+down, activity or sitting. He doesn't mention radicular pain or 
+paresthesias or weakness. He denies urinary or rectal 
+incontinence.
+ 
+Past Medical History:
+- ___ MVA w/ R-chest trauma requiring a chest tube and 
+tracheostomy with subsequent decannulation
+- T8 leiomyosarcoma
+- Asthma
+- Cluster HAs
+- Eczematous Dermatitis
+- Back Pain 
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+NO NEUROSURGERY ADMISSION EXAM
+
+DISCHARGE EXAM
+==============
+VS: 97.8 PO 144 / 91 L Lying 90 17 99 Ra 
+GENERAL: lying in bed, NAD, speaking in full sentences
+HEENT: moist mucosa, anicteric sclera
+NECK: JVP flat
+CARDIAC: RRR. S1/S2. No murmurs/rubs/gallops
+LUNGS: poor air movement, mild Lt exp crackles appreciated
+ABDOMEN: soft, nontender, nondistended 
+EXTREMITIES: BLE warm with no edema
+NEUROLOGIC: AOX3, moving all extremities spontaneously 
+ 
+Pertinent Results:
+ADMIT LABS
+==========
+___ 05:42AM BLOOD WBC-11.4* RBC-3.42* Hgb-10.5* Hct-32.5* 
+MCV-95 MCH-30.7 MCHC-32.3 RDW-13.9 RDWSD-48.2* Plt ___
+___ 05:42AM BLOOD ___ PTT-30.6 ___
+___ 05:42AM BLOOD Glucose-110* UreaN-9 Creat-0.7 Na-141 
+K-5.1 Cl-103 HCO3-27 AnGap-11
+___ 05:51AM BLOOD ALT-31 AST-38 LD(LDH)-225 AlkPhos-213* 
+TotBili-0.3
+___ 05:42AM BLOOD Calcium-8.6 Phos-6.0* Mg-1.9
+___ 06:33AM BLOOD calTIBC-108* Hapto-347* Ferritn-1120* 
+TRF-83*
+
+IMAGING
+=======
+CXR ___. New consolidative opacities within the left midlung and right 
+lower lobe 
+are similar to the recent prior chest CT. 
+2. New small left apical pneumothorax. 
+3. New small left pleural effusion. 
+4. Extensive changes related to chronic emphysema, including 
+right apical 
+scarring. 
+
+T-spine ___
+Status post T8 vertebrectomy with cage and T6-T10 posterior 
+fusion.  No 
+radiographic evidence of complication. 
+
+CT-A Chest ___.  No evidence of pulmonary embolism or aortic abnormality. 
+2.  Large left pleural effusion, new since most recent CT. 
+3.  Detailed evaluation of the lung parenchyma is limited due to 
+motion 
+artifact.  Within this limitation, there is redemonstration of 
+bilateral 
+consolidative opacities, including a 2.2 x 2.4 consolidative 
+opacity in the 
+left lower lobe, not significantly changed from prior, possibly 
+representing 
+radiation changes, though infectious process cannot be excluded. 
+
+4.  Unchanged right apical scarring with traction 
+bronchiectasis. 
+5.  Status post T8 vertebrectomy and posterior spinal fusion of 
+T6-10. 
+
+TTE ___
+The left atrium is normal in size. There is normal left 
+ventricular wall thickness with a normal cavity size.
+There is suboptimal image quality to assess regional left 
+ventricular function. Global left ventricular systolic
+function is normal. Quantitative biplane left ventricular 
+ejection fraction is 66 %. Left ventricular cardiac index
+is normal (>2.5L/min/m2) There is no resting left ventricular 
+outflow tract gradient. Normal right ventricular
+cavity size with normal free wall motion. The aortic sinus 
+diameter is normal. The aortic valve leaflets (?#)
+appear structurally normal. There is no aortic valve stenosis. 
+There is no aortic regurgitation. The mitral
+leaflets appear structurally normal with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. The estimated
+pulmonary artery systolic pressure is high normal. There is no 
+pericardial effusion. A left pleural effusion is
+present.
+IMPRESSION: Suboptimal image quality. Normal study. Normal 
+biventricular cavity sizes, and global systolic
+function. No valvular pathology or pathologic flow identified. 
+Normal estimated pulmonary artery systolic
+pressure.
+
+CXR ___
+  
+Spinal hardware is re-demonstrated.  Skin staples are seen 
+centrally.  The 
+heart is at the upper limits of normal in size.  Bilateral 
+midlung opacities appear similar, likely scarring.  Previously 
+seen left retrocardiac opacity has resolved in the interim.  No 
+pneumothorax is appreciated. 
+
+MICRO
+=====
+__________________________________________________________
+___ 1:00 pm SPUTUM      Source: Expectorated. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Pending): 
+__________________________________________________________
+___ 4:52 pm PLEURAL FLUID      PLEURAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+__________________________________________________________
+___ 6:36 am SPUTUM      Source: Induced. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Pending): 
+__________________________________________________________
+___ 10:48 pm SPUTUM      Source: Induced. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+DISCHARGE LABS
+==============
+___ 05:12AM BLOOD WBC-10.0 RBC-3.46* Hgb-10.6* Hct-33.1* 
+MCV-96 MCH-30.6 MCHC-32.0 RDW-13.6 RDWSD-47.7* Plt ___
+___ 05:12AM BLOOD Glucose-95 UreaN-8 Creat-0.6 Na-138 K-4.8 
+Cl-98 HCO3-27 AnGap-13
+___ 05:12AM BLOOD Calcium-8.9 Phos-4.5 Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/hx of emphysema, MAC, and spinal 
+leiomyosarcoma (___) who presented for T8 vertebrectomy + 
+T6-T10 ___, transferred from ___ after post-op 
+course c/b orthostasis and hypoxemia
+
+#Hypoxemia: 
+#Emphysema
+#Post-Radiation Lung Opacities:
+#MAC:
+Patient with underlying emphysema and therefore may have lower 
+baseline oxygen requirements; he is known to wear 0.5L NC at 
+home after weaning from last hospitalization. However, during 
+his hospital course his O2 requirement increased to ___ with 
++SOB. DDx included likely post-XRT fibrotic changes vs 
+organizing PNA, atelectasis ___ pain, MAC, volume overload. Pulm 
+was consulted prior to transfer to medicine, thought hypoxemia 
+was most related to atelectasis ___ pain/recent surgery and 
+post-XRT organizing PNA vs fibrosis. Decision made to defer 
+steroids for now (hx of MAC), will have outpatient Pulm f/u. MAC 
+not thought to be contributing per Pulm and ID, awaiting 
+sensitivities, 3x sputa were sent (2x induced). Trial of IV 
+Lasix caused hypotension, likely dry, supported by positive 
+orthostatics. CXR on ___ with no acute findings but notably 
+showed persistent opacities. PE was also on differential with 
+tachycardia and hypoxia, TTE wnl. CT-A Chest on ___ performed 
+for interval changes and to r/o PE which was negative, though 
+showed worsening Lg Lt pleural effusion, s/p IP 400cc 
+serosanguinous fluid drained, exudative. CXR was interval 
+improved. Pt felt improved afterward, will have IP outpt f/u. 
+Overall, will f/u with Pulm, IP, and ID for further care.
+
+#Orthostasis:
+Thought to have been ___ poor PO intake and starting tamsulosin. 
+Tamsulosin DC'd as was not prior home med, no Sx of urinary 
+retention. Required intermittent IVF boluses, pt's orthostatics 
+were neg prior to DC.
+
+#Leiomyosarcoma:
+Patient s/p T8 vertebrectomy and T6-10 fusion on ___. Surgery 
+was unremarkable. Developed small apical Lt PTX likely ___ 
+surgery that resolved. Further post-op course remarkable for 
+adjusting pain meds, on gabapentin, APAP, Lido TD, Oxycodone 5mg 
+q4h prn. On bowel regimen for opiates. Follows with Dr ___ 
+(___) and Dr ___, is considering proton 
+therapy at ___, though there are concerns from Pulm about 
+worsening post-XRT lung changes if would start further 
+radiation.
+
+#Severe Malnutrition
+Pt with signs of severe malnutrition. Poor appetite. Evaluated 
+by Nutrition, started on Ensure supplements. Pt declined NGT for 
+TFs. Was started on Marinol, uptitrated to 5mg BID. Consider 
+increasing to 10mg BID at f/u.
+
+#Normocytic Anemia: 
+Consistent with chronic disease/inflammation. No signs of active 
+bleeding. No pRBC transfusions required.
+
+TRANSITIONAL ISSUES
+===================
+-Pt with prior MAC Dx at OSH, Pulm and ID consulted, will 
+follow-up outpatient with both for consideration of initiation 
+of tx, awaiting sensitivities. Sent 3x acid fast sputa (2x 
+induced) over admission
+-Pt with likely post-XRT organizing PNA vs fibrosis per Pulm, 
+will have outpatient Pulm f/u. Of note, pt is being planned for 
+proton radiation therapy at ___ despite likely post-XRT changes. 
+DC'd on 2L home O2, previously has been on ___ at home.
+-Will have outpatient ___ and ___ follow-up for further 
+leiomyosarcoma treatment. Pt's home oxycodone increased from 
+q8h:prn to q4h:prn, increased gabapentin to TID from BID.
+-Pt was found to have +orthostasis, improved with IVF and 
+increased PO intake. Nutrition recommended NGT for TFs, pt 
+declined for now, started on Marinol 5mg BID, uptitrate as 
+tolerated, also given Ensures TID.
+-Pt will have outpatient IP f/u after 400cc thoracentesis for Lg 
+Lt pleural effusion, please f/u cytology and cultures
+-Pt started on famotidine for heartburn, consider DC when no 
+longer needed
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+3. Gabapentin 300 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0 
+2.  Bisacodyl 10 mg PO/PR DAILY 
+RX *bisacodyl 5 mg 2 tablet(s) by mouth qd:prn Disp #*60 Tablet 
+Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+4.  Dronabinol 5 mg PO BID 
+RX *dronabinol 5 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0 
+5.  Ensure (food supplemt, lactose-reduced)    oral TID W/MEALS 
+RX *food supplemt, lactose-reduced [Ensure]  1 bottle by mouth 
+TID W/MEALS Refills:*0 
+6.  Famotidine 20 mg PO BID 
+RX *famotidine 20 mg 1 tablet(s) by mouth BID:PRN Disp #*60 
+Tablet Refills:*0 
+7.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % apply as directed QAM Disp #*30 Patch 
+Refills:*0 
+8.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+9.  Narcan (naloxone) 4 mg/actuation PO ASDIR 
+RX *naloxone [Narcan] 4 mg/actuation 1 spray IN as directed Disp 
+#*2 Spray Refills:*0 
+10.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+11.  Gabapentin 300 mg PO Q8H 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+12.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4h:prn Disp #*30 Tablet 
+Refills:*0 
+13.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+Vertebral leiomyosarcoma s/p surgery
+Post-radiation organizing pneumonia
+MAC pulmonary infection
+Acute on Chronic Hypoxemia
+Exudative pleural effusion
+Orthostatic Hypotension
+Severe Malnutrition
+
+SECONDARY
+=========
+Emphysema
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted to ___ after you came in for spine surgery. 
+Unfortunately, you developed worsening low oxygen levels while 
+here. The infectious disease and pulmonary teams assisted us 
+with your case due to your history of MAC infection. The 
+pulmonologists thought that most of your breathing difficulties 
+were likely due to pain from the surgery combined with 
+post-radiation lung changes. The pulmonologists and infectious 
+disease doctors ___ to ___ you as an outpatient in clinic. We 
+also had our interventional pulmonary doctors remove some ___ 
+from around your lungs. You will follow up with them in clinic 
+as well. Please follow the neurosurgery recommendations from 
+your surgery below. Please make sure to drink frequent ensures 
+and to overall improve your nutrition.
+
+It was a pleasure taking care of you!
+
+Your ___ Team
+
+Surgery
+•Your dressing may come off on the second day after surgery. 
+•Your incision is closed with staples or sutures. You will need 
+suture/staple removal. 
+•Do not apply any lotions or creams to the site. 
+•Please keep your incision dry until removal of your 
+sutures/staples.
+•Please avoid swimming for two weeks after suture/staple 
+removal.
+•Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+•You must wear your brace at all times when out of bed. You may 
+apply your brace sitting at the edge of the bed. You do not need 
+to sleep with it on. 
+•You must wear your brace while showering. 
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•No contact sports until cleared by your neurosurgeon. 
+•Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications
+•Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc… until cleared by your 
+neurosurgeon.
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+•It is important to increase fluid intake while taking pain 
+medications. We also recommend a stool softener like Colace. 
+Pain medications can cause constipation. 
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the incision 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•New weakness or changes in sensation in your arms or legs.
+
+Follow-up Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12111068-DS-7 | hadm_id=25325705
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanut allergy / ___ Contrast Media
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None 
+attach
+ 
+Pertinent Results:
+Discharge exam: 
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Clear to auscultation bilaterally. No wheezing.  Breathing 
+is ___
+GI: Abdomen soft, ___ to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Laboratory data: 
+
+___ 12:44PM BLOOD ___ 
+___ Plt ___
+___ 12:44PM BLOOD ___ 
+___ 
+___ 
+___
+___ 12:44PM BLOOD ___ 
+___
+___ 12:44PM BLOOD ___
+___ 12:44PM BLOOD ___
+___ 06:00AM BLOOD ___ 
+___
+___ 06:00AM BLOOD ___ 
+___ Plt ___
+
+Significant studies: 
+CXR ___
+Impression: Chronic findings without definite superimposed acute
+cardiopulmonary process.
+
+CTA chest ___
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. ___ and centrilobular opacities predominating in the 
+left upper
+lobe, superior right lower lobe, and anterior right upper lobe 
+are new or
+significantly worsened from prior and concerning for infection 
+or
+inflammation.
+3. New small left pleural effusion.
+4. 6 mm left upper lobe nodule is stable from prior but larger 
+compared to
+exam in ___.  Additional new 6 mm left upper lobe nodule 
+may be
+inflammatory infectious in etiology given rapid interval 
+development and
+surrounding ___ opacities described above.  Recommend 
+attention on
+___.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with metastatic 
+leiomyosarcoma to the bone and liver on Gemcitabine/Docetaxel 
+a/w acute hypoxic respiratory failure due to CAP. 
+
+# Acute Hypoxic Respiratory Failure ___ Pneumonia: 
+Patient presented with new O2 requirement, shortness of breath, 
+and worsening infiltrate on imaging. Flu negative. Of note he 
+does have history of MAC and radiation pneumonitis for which he 
+follows with pulmonology. Prior to discharge, the patient did 
+not have any oxygen requirement at rest. However, he was noted 
+to desat to 78% on ambulation which improved w/ 2L oxygen 
+supplementation via nasal cannula. The patient was asymtomatic 
+during this desaturation. He was advised to stay in the hospital 
+to coordinate home oxygen delivery. However, he refused and 
+wanted to he discharged home. He reported he would not exert 
+himself and he would discuss with his outpatient regarding 
+setting up home oxygen. 
+- Cont cefpodoxime/doxycycline, plan for 5d course of total abx
+
+# Metastatic Leiomyosarcoma:
+# Secondary Neoplasm of Bone:
+# Secondary Neoplasm of Liver: 
+Treating with palliative intent with gemctiabine and docetaxel. 
+Wife at bedside who has been in contact w/ outpatient providers.
+
+# Leukocytosis, downtrending 
+
+# Anemia in Malignancy: Stable.
+
+# ___ Pain
+- Continue home oxycodone, oxycontin, and gabapentin
+
+# Malnutrition
+- Continue home megace and mirtazapine
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 1200 mg PO TID 
+2. Megestrol Acetate 625 mg PO DAILY 
+3. Mirtazapine 30 mg PO QHS 
+4. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+5. Dexamethasone 8 mg PO AS DIRECTED WITH CHEMOTHERAPY 
+6. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+7. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting 
+8. OxyCODONE SR (OxyCONTIN) 10 mg PO QHS 
+9. Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of 
+breath/wheezing 
+
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 400 mg PO BID 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*10 Tablet Refills:*0 
+2.  Doxycycline Hyclate 100 mg PO BID 
+RX *doxycycline hyclate 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*5 Tablet Refills:*0 
+3.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX ___  1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 dose by mouth 
+once a day Disp #*30 Packet Refills:*0 
+5.  Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of 
+breath/wheezing  
+6.  Dexamethasone 8 mg PO AS DIRECTED WITH CHEMOTHERAPY  
+7.  Gabapentin 1200 mg PO TID  
+8.  Megestrol Acetate 625 mg PO DAILY  
+9.  Mirtazapine 30 mg PO QHS  
+10.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+11.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+12.  OxyCODONE SR (OxyCONTIN) 10 mg PO QHS  
+13.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CAP
+
+ 
+Discharge Condition:
+Discharge condition: stable
+Mental status: ANox3
+Ambulatory 
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital with pneumonia. You were 
+treated w/ supplemental oxygen and IV antibiotics. You did well 
+with this intervention. You were transitioned to oral 
+antibiotics and will complete the course of antibiotics at home. 
+You were advised to ___ with your PCP, hematology/oncology 
+and pulmonology as outpatient. 
+
+It was a pleasure taking care of you. 
+
+-Your ___ team 
+ 
+Followup Instructions:
+___

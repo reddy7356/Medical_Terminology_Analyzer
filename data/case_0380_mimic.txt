@@ -1,0 +1,307 @@
+===== DISCHARGE NOTE =====
+note_id=19366920-DS-20 | hadm_id=24034500
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Solu-Medrol
+ 
+Attending: ___
+ 
+Chief Complaint:
+AAA
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+The pt is an ___ y/o F with PHMx of cognitive impairment, 
+paroxysmal afib on Coumadin, DM2, COPD on 5L O2, CAD, CKD, 
+diastolic heart failure, carcinoid tumor, AAA, who presented to 
+OSH with 5 days of abdominal discomfort. She presented to an OSH 
+(CHA) where CT imaging showing increase in diameter of her AAA. 
+ 
+She was given KCentra for possible upcoming surgery and was 
+briefly placed on an esmolol gtt. She was seen by vascular 
+surgery who did not feel that she was a good surgical candidate. 
+She was admitted to medicine for BP control and ___ 
+assessment.
+
+ED Course:
+Initial VS: 97 70 140/90 20 92% 5 liters Pain ___
+Labs significant for INR 2.6->1.4. Cr 1.4. Tn <0.01. Lactate 
+1.5. UA with 29 WBCs, no bacteria.
+Imaging: no new imaging done here
+Meds given:
+___ 19:30 IV DRIP Esmolol 
+___ 19:49 IV Kcentra 1617 units 
+___ 21:52 IV Phytonadione 5 mg  
+VS prior to transfer: 62 115/54 20 95% Pain ___ 
+
+On arrival to the floor, the patient endorses several days of 
+abdominal discomfort. She describes this as an "ache" in the 
+___ her abdomen. She reports that the pain is worse when 
+she goes out in cold weather and that it resolves when she goes 
+back in her house. She denies any associated NVD. Of note, the 
+history is somewhat limited by patient's underlying cognitive 
+impairment, as she is not aware of the details of much of her 
+medical conditions.
+
+ 
+Past Medical History:
+- Paroxysmal Atrial Fibrillation
+- Chronic respiratory failure with hypoxia
+- COPD On Home O2 Since ___. 
+- Chronic diastolic congestive heart failure
+- AAA 58 mm. Advised Repair ___, Declined.    
+- SVT, Minor 
+- Type 2 diabetes mellitus with mild nonproliferative diabetic 
+retinopathy without macular edema
+- Astigmatism due to surgery 
+- Cognitive impairment 
+- B12 deficiency 
+- Bilateral shoulder pain 
+- Chondrocalcinosis articularis  
+- UTI (lower urinary tract infection) 
+- Chronic renal insufficiency, stage III
+- CAD 
+- Pseudophakia  
+- Vitamin D deficiency 
+- Carcinoid tumor ___ Stomach Bx, Inactive ___  
+- Iron deficiency anemia, unspecified 
+- Other hyperlipidemia 
+- Unspecified sleep apnea 
+- Cataract Sx
+- CCY
+- Ovarian cystectomy
+- PPM placement
+
+ 
+Social History:
+___
+Family History:
+No family history of AAA
+ 
+Physical Exam:
+VS - 24 HR Data (last updated ___ @ 803)
+    Temp: 97.4 (Tm 97.4), BP: 118/68 (118-121/64-68), HR: 62 
+(60-62), RR: 16 (___), O2 sat: 91% (91-94), O2 delivery: 5L 
+NC, Wt: 141.1 lb/64 kg  
+___ 0550 FSBG: 97 
+GEN - Alert, NAD
+HEENT - NC/AT, MMM
+NECK - Supple
+CV - Irreg irreg, no m/r/g
+RESP - CTA B aside from faint crackles at the bases, breathing 
+appears comfortable
+ABD - BS present, soft, protruding hernia in the upper abdomen 
+which is mildly tender to palpation
+EXT - No ___ edema or calf tenderness
+SKIN - No apparent rashes
+NEURO - Moving all extremities equally and with purpose; 
+oriented to being in the hospital (but not to which one), 
+oriented to month but not year (thought the year was ___
+PSYCH - Calm, appropriate
+ 
+Pertinent Results:
+Admission Labs:
+___ 07:21PM BLOOD WBC-8.0 RBC-4.97 Hgb-14.3 Hct-46.2* 
+MCV-93 MCH-28.8 MCHC-31.0* RDW-14.6 RDWSD-49.6* Plt ___
+___ 07:21PM BLOOD Neuts-66.1 ___ Monos-6.3 Eos-5.0 
+Baso-0.6 Im ___ AbsNeut-5.26 AbsLymp-1.73 AbsMono-0.50 
+AbsEos-0.40 AbsBaso-0.05
+___ 07:21PM BLOOD ___ PTT-51.4* ___
+___ 07:21PM BLOOD Glucose-91 UreaN-24* Creat-1.4* Na-143 
+K-3.6 Cl-103 HCO3-27 AnGap-13
+___ 07:21PM BLOOD ALT-13 AST-20 AlkPhos-103 TotBili-1.1
+___ 07:21PM BLOOD Lipase-35
+___ 07:21PM BLOOD cTropnT-<0.01
+___ 12:50PM BLOOD cTropnT-<0.01
+___ 07:21PM BLOOD Albumin-4.0 Calcium-9.1 Phos-3.3 Mg-2.0
+ 
+Discharge Labs:
+ 
+Imaging:
+CTA Torso - IMPRESSION:   
+1. Substantial increase in size of an infrarenal abdominal 
+aortic aneurysm now measuring up to 7.2 cm. Although there is no 
+evidence of rupture, there is irregular luminal enhancement 
+which raises the concern of impending rupture.   
+2. Linear area of hypoenhancement within the aneurysm sac 
+beginning just below the renal arteries either mixing artifact 
+or focal dissection.   
+3. Severe atherosclerotic disease.   
+4. Bronchiectasis and mucous plugging in the right upper lobe.   
+
+5. Enlarged pulmonary trunk suggestive of pulmonary 
+hypertension. 
+6. Large bowel containing complex ventral hernia, no evidence of 
+obstruction.   
+
+ 
+Brief Hospital Course:
+___ is a ___ woman with PHMx of dementia, paroxysmal afib on 
+Coumadin, DM2, COPD on 5L O2, CAD, CKD, diastolic heart failure, 
+carcinoid tumor, AAA, who presented to OSH with 5 days of 
+abdominal discomfort where CT imaging showing increase in 
+diameter of her AAA and transferred here for vascular surgery 
+evaluation.
+   
+# AAA: The patient presents with several days of abdominal 
+"ache" with CTA at OSH showing increase in size of AAA. Vascular 
+surgery consulted and reported that there were no surgical 
+options at this time, given the anatomy of the patient's AAA and 
+the patient's severe medical comorbidities. She was admitted to 
+medicine for BP control and for placement. The admitting 
+provider and this provide both discussed the findings with the 
+patient and her HCP/son and reiterated the risk of death should 
+this AAA rupture, and the CT shows impending rupture.  Clearly 
+the patient feels she is at the end of her life and accepting 
+that she will one day die, and does not want life sustaining 
+measures should something occur. She was transitioned to DNR/DNI 
+which was documented in chart, POE and MOLST. We also discussed 
+restarting ___ versus witholding warfarin. We discussed the 
+risks and benefits of each which included but was not limited 
+to, if we hold warfarin her risk of a life-threatening bleed 
+related to AAA reduces and she would not need INR monitoring, 
+while at the risk of stroke increases. On the other hand, 
+holding warfarin may benefit from AAA standpoint at the risk of 
+increase in strokes. The patient and son/HCP decided that the 
+morbidity associated with a stroke would not outweight the 
+prolonged life benefit on not anticoagulating, and morbidity of 
+stroke is not consistent with the quality of life she is 
+interested in. They both would rather take the risk of a 
+life-threatening bleed than have her live with a possible 
+debilitating stroke. They both again indicated that she is not 
+interested in surgery anyway, and that she lived a long 
+enjoyable life and "when [her] time comes, so be it." Patient's 
+abdominal pain resolved without further intervention. Blood 
+pressure remained well controlled while inpatient, and she was 
+discharged on prior home regimen. ___ will assist with blood 
+pressure and cardiovascular monitoring. PCP ___ follow for any 
+medication adjustments. 
+
+# COGNITIVE IMPAIRMENT: 
+# DEMENTIA: Patient's son expressed concern about patient's 
+ability to care for herself / manage medications at home. The 
+son expressed desire that patient could potentially be 
+discharged to facility following discharge. Patient was 
+ultimately discharged home as her preferred SNF was not 
+available and she/family requested discharge home. ___ 
+consults assisted with evaluation. Patient is given added level 
+of support with palliative care referral through home services. 
+She will follow with ___ and social worker. 
+     
+# CKD, Stage III: Cr 1.5 at OSH, 1.4 here. Review of CHA records
+shows that she seems to be at her baseline (1.6 in ___ and 
+1.5
+in ___.
+  
+# COPD: On 5L O2 per report. Denies any respiratory complaints 
+at
+this time. Continued on home albuterol and Spiriva.
+   
+# AFIB: 
+On Coumadin for anticoagulation and metoprolol for rate control. 
+Of note, she was given KCentra and vitamin K in the ED out of 
+concern for possible upcoming surgical procedure. INR 2.6 
+reduced to 1.4, but regained therapeutic levels prior to 
+discharge. CHADS-Vasc score is 7 indicating significant risk of 
+stroke. Per discussion with HCP (see above) restarted Warfarin 
+with next scheduled INR check on ___ with ___ 
+___ coagulation clinic (confirmed). 
+  
+# CHRONIC DIASTOLIC HEART FAILURE: 
+No signs of volume overload. Patient was continued on home 
+Lasix. 
+  
+# HTN: BP control as above
+
+# DM2: 
+- Home Lantus reduced dose was prescribed at time of discharge. 
+Close monitoring and charting is recommended (patient has new 
+meter 1 week old). Alarm symptoms of hyperglycemia and 
+hypoglycemia was reviewed. Patient will likely need dose 
+adjustment when she resumes home diet, though compliance with 
+consistent carbohydrate diet is recommended. 
+  
+# HLD: Continue home statin.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 2.5 mg PO 6X/WEEK (___) 
+2. Warfarin 5 mg PO 1X/WEEK (FR) 
+3. Atorvastatin 80 mg PO QPM 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Glargine 38 Units Bedtime
+8. Lisinopril 5 mg PO DAILY (reportedly not taking)
+9. Metoprolol Succinate XL 25 mg PO DAILY 
+10. Furosemide 60 mg PO DAILY 
+11. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN shortness of 
+breath or wheezing 
+12. Guaifenesin-CODEINE Phosphate 5 mL PO Q8H:PRN cough 
+
+ 
+Discharge Medications:
+1.  Glargine 20 Units Bedtime 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN shortness of 
+breath or wheezing  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Cyanocobalamin 1000 mcg PO DAILY  
+5.  Furosemide 60 mg PO DAILY  
+6.  Guaifenesin-CODEINE Phosphate 5 mL PO Q8H:PRN cough  
+7.  Metoprolol Succinate XL 25 mg PO DAILY  
+8.  Tiotropium Bromide 1 CAP IH DAILY  
+9.  Vitamin D 1000 UNIT PO DAILY  
+10.  Warfarin 2.5 mg PO 6X/WEEK (___)  
+11.  Warfarin 5 mg PO 1X/WEEK (FR)  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Abdominal aortic aneurysm
+Dementia
+Paroxysmal Atrial fibrillation
+Diabetes mellitus type 2
+Chronic obstructive pulmonary disease on 5L O2
+Coronary artery disease
+Chronic kidney disease
+Chronic diastolic congestive heart failure
+Carcinoid tumor
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___ were admitted with abdominal discomfort in the setting of 
+your AAA that is increasing in size. No surgery is being pursued 
+with focus on consistent blood pressure control. Despite this 
+therapy ___ are at risk for rupture of the aneurysm. Please 
+follow with your primary care physician. ___ have been set up 
+with home services that will include social worker and 
+palliative care.
+
+Sincerely, Your medical team at ___
+ 
+Followup Instructions:
+___

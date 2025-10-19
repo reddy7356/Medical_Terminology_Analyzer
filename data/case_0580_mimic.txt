@@ -1,0 +1,500 @@
+===== DISCHARGE NOTE =====
+note_id=16662495-DS-4 | hadm_id=27081659
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Phenergan / metoclopramide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vaginal bleeding and fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ MEDICINE ATTENDING ADMISSION NOTE .
+
+ 
+
+Date: ___
+
+Time: ___
+
+_
+________________________________________________________________
+
+PCP:
+___ at ___ - Dr. ___ 
+(___ ___ ___.
+Dr. ___ is the attending. 
+_
+________________________________________________________________
+HPI: 
+___ with PMH aplastic anemia (on cyclosporine, req. chronic 
+blood/plt tx), visiting from ___ p/w vaginal bleeding x 5 
+weeks. Patient has been visiting ___ since ___. Was doing 
+well on regimen per patient, was cleared by her hematologist in 
+___ to travel to ___. She stopped taking her OCPS on 
+___ because she thought that she no longer needed 
+it.  She then re-started her OCPs to avoid having any bleeding 
+before she travelled. She then started having vaginal ___ 
+associated with cramping whcih felt like a regular period. She 
+has not had one for ___ years.  She describes the bleeding as 
+heavy in that she was changing a regular tampon 3x per day.  
+Then yesterday for the first time she started passing frequent 
+painless blood clots.  She had dizziness when she stood too 
+quickly.  She has stopped passing clots since presenting to CCH. 
+She has not had a decline in energy. She was more scared of the 
+bleeding and sick of it. 
+A week ago she developed a sore throat which has been 
+intermittent and then returned upon presentation to ___.  
+Other members of her travelling party had the same symptoms. 
+Last night she felt feverish and took her temperature with her 
+mother's ear thermometer which read 39 degrees C.  She took 
+tylenol yesterday pm in the hospital. Her mother has calibrated 
+her ear thermometer with the hospital one and thinks it reads 
+two degrees higher.  No cough. No n/v/d.  No dysuria. No cp/sob. 
+No mouth sores. No new msk aches or pains. 
+
+She was transfused platelets for plt of 29 and transferred to 
+___ for hematology evaluation. 
+Per ED documentation:
+On exam, patient comfortable in NAD, cardiopulmonary exam nl, 
+abdomen benign. 
+Diagnosis: Neutropenic fever? Anemia, vaginal bleed
+
+ED Course (labs, imaging, interventions, consults): 
+- Initial Vitals/Trigger:0 98.2 87 123/76 18 100% RA 
+[x] hematologist at ___ - Dr. ___ 
+___ (___ ___ 
+___. baseline as of ___ : WBC 6.3, 
+Hg 10.6, Plt 46, neutrophil 3500. RECORDS FAXED - IN CHART.
+[x] WBC1.7, ANC 900, H/H 7.5/22.8, platelets 71
+[x] hematology consult
+[x] blood cultures
+[x] cefepime 2G IV for febrile neutropenia empiric coverage
+
+Disposition/Pending: Admit to ___ for neutropenic fever
+
+PAIN SCALE: ___ pain in her throat 
+________________________________________________________________
+REVIEW OF SYSTEMS: 10 or 2 with "all otherwise negative"
+CONSTITUTIONAL:        [] All Normal
+[? ] Fever  [ ?] Chills   [ ] Sweats  [ ] Fatigue   [ ] Malaise  
+ [ ]Anorexia  [ ]Night sweats
+[+] __42___ lbs.    intentional weight  loss since ___
+Her baseline weight prior to her dx was 63 kg
+
+Eyes    [X] All Normal
+[ ] Blurred vision   [ ] Loss of vision [] Diplopia [ ] 
+Photophobia
+
+ENT
+[ ] Dry mouth  [ ] Oral ulcers [ ] Bleeding gums [ +] Sore 
+throat    [] Sinus pain [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ] Other:
+
+RESPIRATORY:    [X] All Normal
+[ ] Shortness of breath      [ ] Dyspnea on exertion [ ] Can't 
+walk 2 flights     [ ] Cough [ ] Wheeze  [ ] Purulent sputum    
+[ ] Hemoptysis   [ ]Pleuritic pain 
+[ ] Other:
+CARDIAC:        [X]  All Normal
+[ ] Palpitations   [ ] Edema   [ ] PND [ ] Orthopnea    [ ] 
+Chest Pain [ ] Dyspnea on exertion [ ] Other:
+
+GI:             [X] All Normal
+[ -] Nausea  [-] Vomiting   []  Abd pain  [] Abdominal swelling 
+[ ] Diarrhea    [ ] Constipation  [ ] Hematemesis 
+[- ] Blood in stool     [ ] Melena [ ] Dysphagia:   [ ] Solids   
+ [ ] Liquids     [ ] Odynophagia  [ ] Anorexia    [ ] Reflux
+[ ] Other:
+GU:             [X] All Normal
+[ ] Dysuria      [ ] Incontinence or retention  [ ] Frequency    
+[ ] Hematuria  []Discharge []Menorrhagia  
+SKIN:           [X] All Normal
+[ ] Rash        [ ] Pruritus
+MS:             [X] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+NEURO:          [X] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [ 
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo 
+[ ] Headache
+
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Heat or cold 
+intolerance [ ] loss of energy
+
+HEME/LYMPH:    [] All Normal
+[+] Easy bruising   [+] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [X] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:  
+
+ALLERGY:
+phenergan -> agitation and anxious
+reglan -> agitation and anxious
+[ ]Medication allergies  [ ] Seasonal allergies
+
+[X]all other systems negative except as noted above 
+
+ 
+Past Medical History:
+Aplastic anemia diagnosed in ___ when she presened with 
+lethargy
+allograt options considered but siblings not matched
+Now placed on donor list for potential non related donor. Per 
+patient perfect match found in ___. 
+S/p ATGAM in ___ for one week c/b hives followed by 
+steroids c/b weight gain and continues on the cycloporin.
+Exjade for elevated ferritin ceased due to nausea and GI upset
+- REgular  PRBCs and platelet transfusions- last in ___
+- admitted for polymicrobial bactermia due to a PICCL infection 
+___
+- TBI - s/p a shotput thrown into her head at age ___ s/p 
+depressed skull fracture -> SDH s/p elevation and evacuation 
+with difficulties with executive function and organization
+She recovered from this and continued to surf and play soccer
+ 
+Social History:
+___
+Family History:
+Mother MGM with HTN. Mother with GERD. Mother with 
+hypothyroidism. MGM is still alive but had leukemia which 
+improved with radiotherapy. her father is in good health but has 
+hyperlipidemia.  Great MGM. 
+ 
+Physical Exam:
+PHYSICAL EXAM:  I3 - PE >8
+
+PAIN SCORE: ___ - sore throat
+
+1. VS: 98.5, 120/88 102 18 98% RA
+GENERAL:  Young female sitting in bed, NAD. She appears very 
+well. 
+2. Eyes: [] WNL 
+
+PERRL, EOMI without nystagmus, Conjunctiva: clear
+3. ENT [] WNL
+Markedly enlarged tonsils. 
+[X] Moist  [] Endentulous  [] Ulcers  [] Erythema  [] JVD ____ 
+cm
+
+[] Dry  [] Poor dentition  [] Thrush  [] Swelling  [] Exudate
+
+4. Cardiovascular [X] WNL
+
+[] Regular  [] Tachy  [X] S1 [X] S2 [-] Systolic Murmur     /6, 
+Location:
+
+[] Irregular  []Brady []S3  [] S4  [] Diastolic Murmur    /6, 
+Location:
+
+[X] Edema RLE  None [] Bruit(s), Location:
+
+[X] Edema LLE None [] PMI
+
+[] Vascular access  [X] Peripheral [] Central site:
+
+5. Respiratory [X]
+
+[X] CTA bilaterally  [ ] Rales  [ ] Diminshed
+
+[] Comfortable     [ ] Rhonchi   [ ] Dullness
+
+[ ] Percussion WNL  [ ] Wheeze   [] Egophony
+
+6. Gastrointestinal [X] WNL
+[X] Soft  [] Rebound [] No hepatomegaly  [X] Non-tender [] 
+Tender [] No splenomegaly
+
+[] Non distended  [] distended  [] bowel sounds Yes/No  [] 
+guiac: positive/negative
+
+7. Musculoskeletal-Extremities [X] WNL
+
+[ ] Tone WNL  [ ]Upper extremity strength ___ and symmetrical  [ 
+]Other:
+
+[ ] Bulk WNL    [] Lower extremity strength ___ and symmetrica [ 
+] Other:
+
+[X] Normal gait  []No cyanosis  [ ] No clubbing  [] No joint 
+swelling
+
+8. Neurological [x] WNL
+
+[x] Alert and Oriented x 3 [ ] Romberg: Positive/Negative  [ ] 
+CN II-XII intact  [ ] Normal attention  [ ] FNF/HTS WNL [] 
+Sensation WNL  [ ] Delirious/confused  [ ] Asterixis 
+Present/Absent  [ ] Position sense WNL
+
+[ ] Demented  [ ] No pronator drift  [] Fluent speech
+
+9. Integument  [X] WNL
+
+[X] Warm  [X] Dry  [] Cyanotic [] Rash: 
+none/diffuse/face/trunk/back/limbs  
+
+[ ] Cool [] Moist  [] Mottled  [] Ulcer: 
+None/decubitus/sacral/heel: Right/Left
+
+10. Psychiatric [X] WNL
+[X] Appropriate [] Combative
+11. Hematologic/Lymphatic  [X ]WNL
+[X] No cervical ___ 
+
+DISCHARGE:
+VITALS: 99.2 114/68 88 (to 102 at 0130) 18 98%RA  
+GEN: Well-developed, well-nourished, healthy-appearing female 
+lying comfortably in bed in NAD.  
+HEENT: AT/NC, PERRLA, EOMI. Moist mucous membranes. Posterior 
+oropharyngeal and tonsillar erythema and swelling, difficult to 
+fully assess for exudates due to limited view. Neck supple. 
+Minimal non-tender right posterior cervical palpable lymph nodes 
+1cm.  
+CV: Normal rate, regular rhythm, no murmurs, rubs, or gallops.  
+PULM: Lungs CTAB, no wheezes, rhonchi, or rales. No use of 
+accessory muscles. No labored breathing.  
+ABD: Soft, non-tender, non-distended, NABS.  
+EXT: wwp, cap refill < 2 seconds.  
+SKIN: scattered small ecchymoses, no petechiae appreciated.  
+NEURO: AAOx3. CN II-XII grossly intact. strength ___ throughout, 
+sensation intact to light touch. gait normal 
+
+ 
+Pertinent Results:
+ADMISSION:
+___ 09:02PM URINE  HOURS-RANDOM
+___ 09:02PM URINE  UCG-NEGATIVE
+___ 09:02PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 09:02PM URINE  RBC-5* WBC-12* BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 09:02PM URINE  HYALINE-9*
+___ 09:02PM URINE  MUCOUS-OCC
+___ 08:52PM   GLUCOSE-74 UREA N-9 CREAT-0.7 SODIUM-139 
+POTASSIUM-3.4 CHLORIDE-104 TOTAL CO2-23 ANION GAP-15
+___ 08:52PM   WBC-1.7* RBC-1.90* HGB-7.5* HCT-22.8* 
+MCV-120* MCH-39.7* MCHC-33.1 RDW-15.8*
+___ 08:52PM   NEUTS-53 BANDS-0 ___ MONOS-6 EOS-0 
+BASOS-0 ___ MYELOS-0
+___ 08:52PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-OCCASIONAL 
+MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-OCCASIONAL 
+MACROOVAL-OCCASIONAL
+___ 08:52PM   PLT SMR-VERY LOW PLT COUNT-71*
+___ 08:50PM   ___ PTT-19.8* ___
+baseline PLt = 36 K
+persistently elevated ferritin at 1305 mcg/l
+baseline HCT = 29
+CT scan from  ___ demonstrated atypical pericardial 
+collection. 
+
+DISCHARGE:
+
+___ 06:30AM BLOOD WBC-2.0* RBC-1.88* Hgb-7.3* Hct-21.8* 
+MCV-116* MCH-39.0* MCHC-33.5 RDW-15.5 Plt Ct-48*
+___ 06:30AM BLOOD Neuts-31* Bands-0 Lymphs-65* Monos-2 
+Eos-0 Baso-0 Atyps-1* Metas-1* Myelos-0
+___ 06:30AM BLOOD ___ PTT-27.2 ___
+___ 06:30AM BLOOD Glucose-91 UreaN-7 Creat-0.6 Na-142 K-4.2 
+Cl-110* HCO3-22 AnGap-14
+___ 06:30AM BLOOD ALT-81* AST-55* LD(LDH)-240 AlkPhos-44 
+TotBili-0.5
+___ 06:30AM BLOOD Albumin-4.0 Calcium-8.7 Phos-3.6 Mg-2.0
+
+OTHER RELEVANT:
+
+___ 05:55AM BLOOD WBC-2.4* RBC-2.01* Hgb-8.0* Hct-22.9* 
+MCV-114* MCH-39.8* MCHC-34.9 RDW-15.4 Plt Ct-72*
+___ 05:55AM BLOOD Neuts-32* Bands-0 Lymphs-62* Monos-4 
+Eos-0 Baso-0 Atyps-1* Metas-1* Myelos-0
+___ 05:55AM BLOOD Glucose-86 UreaN-6 Creat-0.7 Na-139 K-4.2 
+Cl-105 HCO3-21* AnGap-17
+___ 05:55AM BLOOD VitB12-513 Folate-15.2
+___ 05:55AM BLOOD TSH-1.6
+___ 09:57AM BLOOD Cyclspr-LESS THAN 30
+
+___ 09:02PM URINE RBC-5* WBC-12* Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 09:02PM URINE UCG-NEGATIVE
+URINE CULTURE (Final ___:    <10,000 organisms/ml. 
+
+___ 4:29 am THROAT FOR STREP
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN- R/O THRUSH (Final ___: 
+      NEGATIVE FOR YEAST. 
+      NO ___ ORGANISMS SEEN. 
+
+   R/O Beta Strep Group A (Final ___: 
+      NO BETA STREPTOCOCCUS GROUP A FOUND.
+
+**FINAL REPORT ___
+
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE <1:10 BY IFA. 
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION. 
+      In most populations, 90% of adults have been infected at 
+sometime
+      with EBV and will have measurable VCA IgG and EBNA 
+antibodies.
+      Antibodies to EBNA develop ___ weeks after primary 
+infection and
+      remain present for life. Presence of VCA IgM antibodies 
+indicates
+      recent primary infection. 
+
+ 
+Brief Hospital Course:
+The patient is a ___ year old female with aplastic anemia on 
+cyclosporin who presents with sore throat, possible fever, and 
+vaginal bleeding in the setting of stopping her OCPs and 
+re-starting them 2 weeks prior to presentation.
+
+ACTIVE ISSUES:
+  
+# Aplastic anemia: Acute on chronic pancytopenia on 
+cyclosporine, previously treated with ATG. Current degree of 
+anemia likely secondary to dysfunctional uterine bleeding in the 
+setting of briefly stopping her OCPs and concurrent 
+thrombocytopenia in the setting exacerbation of her aplastic 
+anemia. Baseline counts from ___ reportedly WBC 6.3, 
+Neutrophils 3500, Hgb 10.6, Plt 46. Given her sore throat, 
+reported fever/chills, and exposures to others with similar 
+symptoms, thought to be secondary to viral infection with 
+subsequent bone marrow suppression. IgG EBV positive but without 
+acute infection based on negative IgM. B12, folate, TSH normal. 
+She was transfused 1 bag of platelets at an outside hospital 
+with appropriate bump. She was not transfused any blood products 
+while here given her stability and had resolution of her menses. 
+Her home dose of cyclosporine was continued. She was discharged 
+with specific plans to follow-up with her outpatient 
+hematologist in ___ and to have labs drawn and faxed to 
+Dr. ___.
+ 
+# Febrile neutropenia: Given her report 2 days ago of chills 
+with fever and decreased neutrophil count to 900 on admission, 
+she was diagnosed with febrile neutropenia and subsequently 
+started on cefepime. She remained afebrile and had complete 
+resolution of her URI symptoms without any other clinical 
+evidence of infection while in-house. Given her clinical 
+stability and her insistence on leaving the hospital to go back 
+to her providers in ___, the decision was made to 
+discharge her on oral levofloxacin for a 7-day course so that 
+she could follow-up with her regular doctors. All culture data 
+remained negative.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. CycloSPORINE (Sandimmune) 75 mg PO Q12H 
+2. norethindrone acetate (bulk) *NF* 5 MG Miscellaneous daily 
+Pt is on norethisterone 5 mg  
+3. Exjade *NF* (deferasirox) 500 mg Oral bid 
+She has not been compliant with this 
+4. NexIUM *NF* (esomeprazole magnesium) 40 mg Oral daily 
+5. Magnesium Oxide 800 mg PO DAILY 
+6. OxycoDONE (Immediate Release)  5 mg PO BID:PRN pain 
+Pt has not needed this.  
+7. Maxalt *NF* (rizatriptan) 10 mg Oral Daily prn  headache 
+She is not taking this anymore.  
+
+ 
+Discharge Medications:
+1. Magnesium Oxide 800 mg PO DAILY 
+2. OxycoDONE (Immediate Release)  5 mg PO BID:PRN pain 
+Pt has not needed this.  
+3. CycloSPORINE (Sandimmune) 75 mg PO Q12H 
+4. Exjade *NF* (deferasirox) 500 mg Oral bid 
+She has not been compliant with this 
+5. Maxalt *NF* (rizatriptan) 10 mg Oral Daily prn  headache 
+She is not taking this anymore.  
+6. NexIUM *NF* (esomeprazole magnesium) 40 mg ORAL DAILY 
+7. norethindrone acetate (bulk) *NF* 5 MG Miscellaneous daily 
+Pt is on norethisterone 5 mg  
+8. norethindrone (contraceptive) *NF* 5 mg Oral BID 
+9. Medication
+Norethindrone 5mg   Take 1 tab TWICE daily
+Dispense # 60 (SIXTY)   Dispense Form: Tablets
+Refills: 0 (Zero)  Other: Please provide patient with 5mg tabs. 
+ICD-9 626.8 Other disorders of menstruation and other abnormal 
+bleeding from female genital tract
+10. Outpatient Lab Work
+Please draw blood for CBC with differential, AST and ALT on 
+___. Please fax result to the attention of Dr ___ 
+___ ___
+11. FoLIC Acid 1 mg PO DAILY 
+12. Levofloxacin 750mg po daily x 7 days.
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: acute on chronic aplastic anemia, most likely 
+due to viral infection.
+
+Febrile neutropenia
+Vaginal bleeding
+
+Secondary Diagnosis:
+Aplastic anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you during your hospitalization. 
+As you recall, you were admitted to ___ from ___ 
+on ___ after developing excessive vaginal bleeding. You have 
+also recently been experiencing throat pain and chills with a 
+fever. You underwent an evaluation which included blood tests 
+that showed decreased blood counts and you were transfused 1 ___.
+You were transfered to ___ on ___, for further 
+evaluation. You were worked up for infection and placed on 
+empiric antibiotics.
+During the time of your admission here, the CBC has remained 
+overall stable, although your platelet started to drop again 
+today. Your CBC from ___ shows white blood cell count of 
+___, platelet count is 48,000 and the hemoglobin is 7.3. 
+Your symptoms improved with almost complete resolution of the 
+vaginal bleeding, no fevers and improvement of the upper 
+respiratory complaints.
+
+You are now requesting to be discharged with the plan to fly 
+back to ___ and see your doctors in follow up in the next 
+few days. Considering you are clinically improved and your blood 
+work is overall stable, we agree with your discharge. 
+You should continue the empiric antibiotic and have a repeat CBC 
+tomorrow morning.
+ 
+Followup Instructions:
+___

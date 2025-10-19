@@ -1,0 +1,360 @@
+===== DISCHARGE NOTE =====
+note_id=13990451-DS-3 | hadm_id=20826550
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+altered mental status, fatigue
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y.o M with history of glutaric aciduria type II who 
+originally presented to ___ with altered mental status and 
+fatigue and was transferred to a higher level of care.  He was 
+accompanied by his girlfriend, who reported gradually worsening 
+lethargy over the past 12 hours and some concern for missing 
+medications.  Labs at ___ were notable for an ammonia 
+level of 206, and a CPK of 408.
+
+The patient received 7600 mg of levocarnitine and IV fluids 
+prior to transfer at ___.  
+Reportedly, the patient is followed at ___ for this genetic 
+abnormality, and ___ was contacted prior to transfer.  Due to 
+lack of beds, patient was transferred to ___ C instead of ___.
+
+In the ED, initial VS were 98.3 86 126/80 100 100% RA.
+Labs notable for CBC with WBC 5.7, H/H of 12.3/35.9, PLT 108.  
+BMP with chloride 93, bicarb 23, BUN 24, CR 1.0, anion gap of 
+21. LFTs with AST of 36 ALT 27.  ProBNP 450.  VBG showed 7.4 
+___.  Lactate 1.2.
+
+In the ED, medical provider spoke with Dr. ___.  
+reportedly, the provider confirmed that ___ was unable to accept 
+the patient has a transfer.  Dr. ___ recommended to 
+monitor CMP, anticipating value such as a low bicarbonate, 
+elevated anion gap, high ammonia, elevated pro BNP.  He 
+recommended IV fluid resuscitation, as well as 10% dextrose IV 
+if necessary.  He recommended IV carnitine 50 mg/kg as tolerated 
+and oral riboflavin 100 mg.  Also recommended paging metabolism 
+doctor at ___ through the paging system.
+
+ED provider also spoke with Dr. ___ the genetics team, 
+reachacble at ___.  Dr. ___ recommended to avoid 
+high-fat and to avoid catabolism.  Recommended against TPN.  
+Recommendation said that if the patient was able to eat, to 
+pursue a low-fat low protein high carbohydrate diet.  
+Recommended carnitine to be given every 24 hours and to pursue 
+an TTE as an inpatient.
+Majority of the history is obtained from ED records as above.  
+Upon arrival to the floor, the patient is unaccompanied, with 
+significant sleepiness and slowed speech, noncooperative with 
+the majority of the history.
+
+When asked about why he came to the hospital, the patient does 
+not answer: "I do not know."  When asked who brought him to the 
+hospital, he reports he does not know and he does not know why 
+he came.  He initially denies all complaints including any pain, 
+chest pain, shortness of breath, recent illnesses including 
+fevers, chills, cough.  He denies headaches or dysuria.  With 
+multiple repeated prompting, he endorses more weakness than 
+usual, which he describes as generalized weakness.  He reports 
+that he is usually able to walk.  At first he denies nausea, 
+however per report, he presented with vomiting.  He subsequently 
+endorses vomiting.  When asked if the vomit contained blood, he 
+reports "something like that" and will not elaborate further.  
+He denies bloody diarrhea.
+
+Patient does not know where he normally gets his care.  When 
+asked if he normally gets his care at ___, he reports "I do not 
+know."  Other reports suggest he was brought to the hospital 
+originally by his girlfriend, he denies having a girlfriend.  
+When asked if there is someone such as a mother, father, friend, 
+that I could call for more information, he reports that there is 
+not.
+
+Following my evaluation, the nurse witnessed the patient 
+vomiting, without blood.
+
+ 
+Past Medical History:
+glutaric aciduria type II 
+cirrhosis
+gastroparesis
+
+ 
+Social History:
+___
+Family History:
+Limited by patient's mental status.  He denies other genetic 
+abnormalities in his family.
+
+ 
+Physical Exam:
+Vitals: 98.1 PO  142 / 73 L Sitting___
+Gen: sitting in chair in no apparent distress, awake and alert
+HEENT: AT, NC, PERRL, EOMI, MMM, hearing grossly intact
+GI: soft, obese, NT, ND, no HSM 
+MSK: No edema
+Skin: No rashes or ulcerations evident
+Neuro: A+O x 4, speech fluent, face symmetric, moving all 
+extremities
+Psych: calm mood, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:00PM BLOOD WBC-5.7 RBC-3.70* Hgb-12.3* Hct-35.9* 
+MCV-97 MCH-33.2* MCHC-34.3 RDW-16.0* RDWSD-56.8* Plt ___
+___ 11:00PM BLOOD Neuts-65.0 ___ Monos-11.3 
+Eos-0.5* Baso-0.4 Im ___ AbsNeut-3.69 AbsLymp-1.28 
+AbsMono-0.64 AbsEos-0.03* AbsBaso-0.02
+___ 11:00PM BLOOD Glucose-80 UreaN-24* Creat-1.0 Na-137 
+K-4.5 Cl-93* HCO3-23 AnGap-21*
+___ 11:00PM BLOOD ALT-25 AST-56* AlkPhos-109 TotBili-1.4
+___ 11:22PM BLOOD cTropnT-<0.01 proBNP-450*
+___ 11:00PM BLOOD Albumin-3.5 Calcium-9.5 Phos-2.9 Mg-2.1
+___ 11:22PM BLOOD Ammonia-42
+___ 11:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 11:11PM BLOOD Lactate-1.2
+
+CXR
+IMPRESSION:  
+Mild cardiomegaly, otherwise normal chest 
+
+NCHCT
+IMPRESSION:   
+No acute intracranial abnormalities.  Please note MRI is more 
+sensitive for the detection of subtle abnormalities. 
+
+ABDOMINAL US
+IMPRESSION: 
+1. Evidence of cirrhosis and portal hypertension with patent 
+umbilical vein, evidence of varices and splenomegaly.  No 
+ascites. 
+2. No focal hepatic lesion. 
+3. Echogenic left kidney.  Finding is nonspecific and may relate 
+to medical renal disease. 
+4. Small simple cyst in the right kidney. 
+5. Patent main portal vein. 
+
+TTE
+The left atrium is mildly dilated. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with top normal cavity size (for body size) and 
+normal global systolic function (LVEF>55%). Due to suboptimal 
+technical quality, a focal wall motion abnormality cannot be 
+fully excluded. The estimated cardiac index is normal 
+(>=2.5L/min/m2). Right ventricular cavity size and global free 
+wall motion are normal. The diameters of aorta at the sinus, 
+ascending and arch levels are normal. The aortic valve leaflets 
+(?#) appear structurally normal with good leaflet excursion. 
+There is no aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve leaflets are structurally normal. There 
+is no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. The pulmonary artery systolic pressure could not be 
+determined. There is no pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with preserved global biventricular 
+systolic function. Mild mitral regurgitation with normal valve 
+morphology.
+
+DISCHARGE LABS
+___ 08:05AM BLOOD WBC-1.7* RBC-3.41* Hgb-11.4* Hct-33.3* 
+MCV-98 MCH-33.4* MCHC-34.2 RDW-15.7* RDWSD-55.0* Plt Ct-42*
+___ 08:05AM BLOOD Glucose-89 UreaN-5* Creat-0.7 Na-140 
+K-3.9 Cl-101 HCO3-26 AnGap-13
+___ 08:45AM BLOOD Calcium-8.8 Phos-2.5* Mg-1.9
+___ 08:05AM BLOOD Ammonia-43
+___ 08:23AM BLOOD ___ FiO2-. pO2-53* pCO2-48* pH-7.39 
+calTCO2-30 Base XS-2 Comment-GREEN TOP
+___ 08:23AM BLOOD Lactate-0.___ y.o M with history of liver cirrhosis and preliminary 
+diagnosis of glutaric aciduria type II who originally presented 
+to ___ with altered mental status and fatigue in the 
+setting of nausea, vomiting, and possibly missed medications. 
+and was transferred to a higher level of care.
+
+# Cirrhosis and 
+# Elevated ammonia ___
+# Glutaric aciduria type II, preliminary diagnosis resulting in
+# Hepatic encephalopathy 
+Pt presented to ___ ___ with c/o 60 lb weight loss, AMS and 
+hyperammonemia and he was diagnosed with cirrhosis c/b hepatic 
+encephalopathy. CTAP done during that admission showed nodular 
+liver c/w cirrhosis and portal HTN. There was no ascites seen on 
+imaging. Cirrhosis attributed to long-standing alcohol abuse. He 
+was treated with rifaximin and lactulose and mental status 
+returned to baseline despite maintaining high ammonia levels 
+(~100). Had a parenteral grandfather who died of cirrhosis at a 
+young age with no h/o alcoholism. This prompted an extensive w/u 
+for other causes including HgbA1c, iron studies, ceruloplasmin, 
+HCV, HBV, TSH, A1At, ___ all of which were negative. Given his 
+elevated ammonia levels out of proportion of what would be 
+expected for cirrhosis, work-up for urea cycle deficiency. Urine 
+organic acids and urine orotic acid were sent and were pending 
+at the time of discharge. These tests resulted shortly after 
+discharge and he was diagnosed with late onset glutaric aciduria 
+type 2 (a defect in one of two electron flavoproteins in the 
+mitochondria required for fatty acid beta-oxidation). Per 
+genetics, his metabolic disorder is more likely the cause of his 
+cirrhosis and not alcohol, although could be multifactorial. He 
+was given a care plan and was to follow-up with 
+Metabolism/Genetics at ___ which had not happened at the time of 
+this admission. 
+
+Per family and girlfriend, he had been doing well until 5 days 
+prior to admission when he developed abrupt onset nausea and 
+vomiting and inability to tolerate PO including medications. He 
+was seen by his GI physician, ___, on ___, who, the 
+family reported, attributed his N/V to gastroparesis. He 
+continued to worsen and and was unable to tolerate PO meds or PO 
+diet. He had progressive confusion and lethargy. His girlfriend 
+got concerned when he was unable to get out of bed. He was taken 
+to an OSH and found to have an ammonia level > 200. Attempts 
+were made to transfer to ___ but there was no bed availability. 
+He arrived at ___ with continued lethargy. Metabolism/Genetics 
+at ___ was contacted instructed the ED providers regarding 
+therapy for glutaric aciduria type 2 and metabolic crisis. His 
+ammonia level downtrended with carnitine and resuscitation and 
+his mental status gradually improved. 
+
+Inciting event remains unclear. It was initially thought that 
+the N/V and intolerance of his PO meds resulted in this crisis, 
+however, the N/V could have been the early signs of catabolism 
+and metabolic crisis. He had an infectious w/u that included the 
+following: UA negative. CXR clear. RUQ negative for ascites. 
+Blood CS ___ bottles (+) Micrococcus. Repeat blood CS negative. 
+Pt did not receive antibiotics. It was determined that 
+Micrococcus was a contaminant.   
+
+Case discussed at length with ___ Metabolism, Drs. ___ 
+___ (attending) and ___ (fellow). They gave 
+specific recommendations focused on metabolic support and 
+preventing a catabolic state. They recommended closely 
+monitoring for metabolic acidosis, lactic acidosis, 
+hyperammonia, hypoglycemia, and rhabdomyolysis. Based on their 
+recommendations, plasma asylcaritine and urine asylglycine were 
+obtained and are needed to confirm his diagnosis of glutaric 
+aciduria type 2. The results were pending at the time of 
+discharge. 
+
+He was started on a regimen of D10, l-carnitine IV, riboflavin, 
+lactulose, and rifaximin. Over the course of ___ hrs, his 
+mental status returned to baseline. He was started on a 
+___, low-fat, low-protein diet. Elevated ammonia levels 
+returned to normal. Lactic acid remained normal. CPK trended 
+down. pH remained normal. Eventually, he was successfully weaned 
+off D10 and labs remained normal and there was no associated 
+nausea and vomiting.  
+ 
+Additional work-up per recommendations of ___ included TTE and 
+renal U/S. TTE for evaluation for cardiomyopathy was 
+unremarkable. Renal US for eval of renal cysts showed a single 
+simple cyst in the right kidney. 
+
+Per recommendations from geneticist at ___, discharge plan is to 
+continue L-carnitine PO, riboflavin, lactulose, and rifaximin. 
+He is to have close follow-up with the ___ Genetics Clinic. Our 
+social worker and financial advisor worked with him to get his 
+health insurance switched to a company that ___ accepts. An 
+appointment at the ___ Genetic Clinic was arranged for ___. 
+He was counseled to seek medical attention immediately if he 
+experiences nausea, vomiting, confusion, lethargy, or any other 
+concerning symptom. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Riboflavin (Vitamin B-2) 100 mg PO TID 
+2. Rifaximin 550 mg PO BID 
+3. Tobramycin-Dexamethasone Ophth Susp 1 DROP LEFT EYE QHS 
+4. Metoclopramide 5 mg PO BID 
+5. Levothyroxine Sodium 88 mcg PO DAILY 
+6. FoLIC Acid 1 mg PO DAILY 
+7. Generlac (lactulose) 10 gram/15 mL oral ASDIR 
+8. Lisinopril 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  LevoCARNitine 660 mg PO QAM 
+RX *levocarnitine [Carnitor] 330 mg 2 tablet(s) by mouth qam 
+Disp #*30 Tablet Refills:*0 
+2.  LevoCARNitine 330 mg PO QPM 
+RX *levocarnitine [Carnitor] 330 mg 1 tablet(s) by mouth qpm 
+Disp #*30 Tablet Refills:*0 
+3.  Generlac (lactulose) 30 mL oral Q4H 
+while awake 
+RX *lactulose [Generlac] 10 gram/15 mL 30 ml by mouth q4h while 
+awake Refills:*0 
+4.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+5.  Riboflavin (Vitamin B-2) 300 mg PO DAILY 
+RX *riboflavin (vitamin B2) 100 mg 3 tablet(s) by mouth daily 
+Disp #*90 Tablet Refills:*0 
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Levothyroxine Sodium 88 mcg PO DAILY  
+8.  Metoclopramide 5 mg PO BID  
+9.  Rifaximin 550 mg PO BID  
+10.  Tobramycin-Dexamethasone Ophth Susp 1 DROP LEFT EYE QHS  
+11.Outpatient Lab Work
+CBC and BMP 
+dx: cirrhosis
+draw in ___ days
+please send results to Dr. ___
+fax ___ (office ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Cirrhosis
+# Elevated ammonia 
+# Glutaric aciduria type II
+# Hepatic encephalopathy 
+# Pancytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for confusion and altered 
+mental status. You were found to have high ammonia levels and 
+were diagnosed with a metabolic crisis. You were given a 
+dextrose infusion, levocarnitine, riboflavin, rifaximin, and 
+lactulose and you quickly improved. You were asked to eat a high 
+carbohydrate, low fat, low protein diet and you were eventually 
+tapered off the dextrose infusion. It is unclear why this event 
+happened. Your infectious work-up was negative. 
+
+You worked with our ___ department and were able to change 
+your health insurance and will now be able to be seen at ___ 
+___. 
+
+It is very important that you seek urgent medical attention if 
+you have nausea, vomiting, confusion, or any other concerning 
+symptom in order to get treatment early to prevent you from 
+getting as severe as you did during this admission. 
+ 
+Followup Instructions:
+___

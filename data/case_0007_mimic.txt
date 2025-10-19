@@ -1,0 +1,703 @@
+===== DISCHARGE NOTE =====
+note_id=19671969-DS-13 | hadm_id=21591542
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue
+
+ 
+Major Surgical or Invasive Procedure:
+L pleurex placement
+PEG tube
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old woman with a history of HTN who 
+presented with 2 weeks of fatigue and poor motivation with acute 
+worsening today and sudden onset headache. About 2 weeks ago the 
+family noted that the patient was very fatigued, and not 
+herself. She didn't want to do anything and had difficulties 
+going about her daily activities. The family did not note focal 
+defecits at that time. The family does say that she only speaks 
+in one word sentances, although what she does say is correct. 
+She was however coughing a bit more than usual and getting SOB 
+with walking which is not usual for her. She went to her PCP's 
+office last week and they sent some blood work and were planning 
+to check an echocardiogram.
+
+The night prior to presentation the patient went out to a 
+restaurant with her family, but she was too tired and weak to 
+really participate, and she was so SOB that she could hardly 
+walk to the restaurant. On the morning of presentation the 
+patient was noted to be much worse than prior. She was extremely 
+tired and weak and more sleepy than before. She had lots of 
+difficulty showering and could not even dress herself, requiring 
+a lot of
+help. She went to lie down on the couch, and noted a sudden 
+onset ___ headache which is persisted until time of evaluation.
+
+On neurologic review of systems, the patient denies 
+lightheadedness, or confusion. Denies difficulty with producing 
+or comprehending speech (although she just uses 1 word sentances 
+now) Denies loss of vision. Denies muscle weakness. Denies 
+dysphagia. Denies loss of sensation. Denies bowel or bladder 
+incontinence or retention.
+
+On general review of systems, the patient denies fevers, rigors, 
+Denies chest pain, endorses SOB with exertion x 2 weeks Denies 
+nausea, vomiting, diarrhea, constipation, or abdominal pain. 
+Denies dysuria
+
+ 
+Past Medical History:
+- HTN
+- Recent R shoulder fracture in ___ s/p fixation (fracture
+due to a fall)
+
+ 
+Social History:
+___
+Family History:
+Father - stroke ___. 
+Mother - heart condition at a young age.
+
+ 
+Physical Exam:
+==============================================
+
+Admission Physical Examination:
+VS 96 75 114/66 16 96% 4L
+General: NAD, lying in bed with eyes closed. 
+Head: NC/AT, no conjunctival icterus, no oropharyngeal lesions 
+Neck: Supple, no nuchal rigidity, no meningismus
+Pulmonary: on NC
+Abdomen: ND
+Extremities: Warm, no edema
+Skin: No rashes or lesions
+
+Neurologic Examination:
+
+- Mental Status - 
+Awake, alert, oriented x 3 although does not know exact date. 
+Eyes closed but awake, sometimes answers questions posed to the 
+family with 1 word answers. Moderately inattentive and 
+perseverative when doing MOYB. Recalls ___ words at 5 minutes. 
+Language intact with intact naming, repetition, and 
+comphrehension. Evidence of L sided neglect.
+
+- Cranial Nerves -
+II. Equal and reactive pupils (XXmm to XXm). On fundoscopic 
+exam,
+optic disc margins were sharp. Visual acuity was ___ in both
+eyes and visual fields were full to finger counting.  
+III, IV, VI. Forced R gaze deviation, can get to midline with 
+VORs but unable to cross midline at all
+V. facial sensation intactk
+VII. L facial droop
+VIII. hearing was intact to finger rub bilaterally.  
+IX, X. symmetric palate elevation and symmetric tongue 
+protrusion with full movement.
+XI. SCM and trapezius were of normal strength and volume.
+
+- Motor -
+Muscule bulk and tone were normal.
+  Delt   Bic  Tri ECR Fext Fflx IP   Quad   Ham   TA   Gas
+L  5      5    4+  4  4-   5-   5      5     4-   4-    5
+R  4+*    4+*  4+* 5  5    5    5      5     5-   5     5
+* pain limited after recent R shoulder fracture
+
+- Sensation -
+No sensation to light touch on the L arm
+
+- DTRs -
+ Bic    Tri   ___   Quad   Gastroc
+L 3      3      3      2        2
+R 3      3      3      2        2
+R toe mute, L toe up
+
+- Cerebellar -
+FNF testing intact on the R, slow with mild dysmetria on the L 
+but not out of proportion to weakness on the L side
+
+- Gait -
+deferred
+
+==============================================
+
+DISCHARGE PHYSICAL EXAMINATION:
+VS:Tm 98 130s/60s ___ 97-100%O25L 
+General: Ill-appearing, more alert (compared to prior exams) 
+woman in NAD
+HEENT: EOMI, sclera anicteric
+Neck: supple 
+Lungs: Exam limited to anterior fields. No wheezes, rhonchi or 
+rales. 
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, tenderness at LUQ, non-distended, bowel sounds 
+present.
+GU: foley to gravity   
+Ext: Pneumo boots in place. Warm, well perfused, 2+ pulses, no 
+clubbing, cyanosis or edema  
+Skin: Not visualized on exam on ___ but reported 
+Buttocks/coccyx with red papular rash partially covered with 
+dressing
+
+ 
+
+==============================================
+ 
+Pertinent Results:
+========================================================
+
+ADMISSION LABS:
+___ 09:30PM BLOOD WBC-8.4 RBC-3.72* Hgb-11.1* Hct-34.6* 
+MCV-93 MCH-29.8 MCHC-31.9 RDW-16.1* Plt ___
+___ 09:30PM BLOOD Neuts-83.5* Lymphs-9.1* Monos-4.5 Eos-2.3 
+Baso-0.6
+___ 09:30PM BLOOD ___ PTT-26.3 ___
+___ 09:30PM BLOOD Glucose-98 UreaN-27* Creat-0.9 Na-135 
+K-3.9 Cl-104 HCO3-19* AnGap-16
+___ 09:30PM BLOOD ALT-19 AST-27 AlkPhos-61 TotBili-0.4
+___ 03:14AM BLOOD CK(CPK)-51
+___ 07:58AM BLOOD LD(___)-453* CK(CPK)-49
+___ 01:32AM BLOOD ALT-15 AST-20 AlkPhos-59 TotBili-0.6
+___ 09:30PM BLOOD cTropnT-0.05*
+___ 03:14AM BLOOD CK-MB-2 cTropnT-0.05*
+___ 07:58AM BLOOD CK-MB-2 cTropnT-0.03*
+___ 03:14AM BLOOD Calcium-8.9 Phos-3.3 Mg-2.2 Cholest-173
+___ 03:14AM BLOOD %HbA1c-6.0* eAG-126*
+___ 03:14AM BLOOD Triglyc-122 HDL-32 CHOL/HD-5.4 
+LDLcalc-117
+___ 07:58AM BLOOD TSH-1.8
+___ 07:58AM BLOOD CEA-131* AFP-1.6
+___ CA ___     <34 U/mL
+
+========================================================
+
+URINE: 
+___ 02:35AM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:35AM URINE Blood-NEG Nitrite-POS Protein-TR 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-MOD
+___ 02:35AM URINE RBC-1 WBC-34* Bacteri-MOD Yeast-NONE 
+Epi-1
+
+========================================================
+
+MICROBIOLOGY:
+URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+      GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML.. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMIKACIN--------------   <=2 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+========================================================
+
+___ URINE CULTURES POSITIVE FOR YEAST
+
+___ 2:19 pm PLEURAL FLUID      PLEURAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___: 
+      Reported to and read back by ___ ___ ___ 
+1:40PM. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 10:31 am PLEURAL FLUID
+
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+
+___ BLOOD CULTURES NEGATIVE
+
+___ STOOL C. DIFF NEGATIVE
+
+CYTOLOGY: 
+___ PLEURAL FLUID
+POSITIVE FOR MALIGNANT CELLS,
+consistent with non-small cell carcinoma.
+SPECIMEN
+
+___ PLEURAL FLUID
+Pleural fluid:
+POSITIVE FOR MALIGNANT CELLS,
+consistent with non-small cell carcinoma. (See note.)
+Note: The tumor cells have similar morphologic features to the 
+those seen in the patient's prior skin
+biopsy ___.
+
+___ PATHOLOGY SKIN BX
+
+Skin, left upper chest (1A):
+Metastatic carcinoma, most consistent with lung adenocarcinoma.
+RESULTS: Positive for a p.G12C (c.34G>T) mutation in codon 12 of 
+the KRAS gene
+NO EGFR Mutations Detected
+
+IMAGING:
+MRI Head (___):
+There is unchanged right frontal lobe hemorrhage with mild mass 
+effect. There is heterogeneous enhancement in the region of the 
+hemorrhage which could reflect an underlying mass. There is also 
+a ring-enhancing lesion within the left centrum semiovale. 
+Differential considerations would include metastasis or septic 
+emboli.  An atypical infection not excluded. 
+  Evolution of right MCA infarct. There is also a punctate focus 
+of infarct in the posterior left frontal lobe. 
+
+NCHCT (___)
+1.  Mild increase in parenchymal hemorrhage in anterior right 
+frontal lobe suggesting hemorrhage transformation of infarct but 
+given mass-like appearance other etiologies including a mass are 
+not excluded. 
+2.  Newly apparent area of evolving infarction involving more 
+extensive areas in the right middle cerebral artery territory 
+notably in the right temporal lobe including very small foci of 
+suspected hemorrhage. 
+3.  Focal area of white matter disease in left frontal lobe, 
+most often 
+chronic small vessel ischemic disease, but given isolated 
+finding, edema about a mass not excluded. 
+
+CTA ___
+IMPRESSION:  
+  
+1. No pulmonary embolism. 
+2. Multifocal pneumonia with consolidation of the left lower 
+lobe. 
+3. Bilateral axillary and mediastinal lymphadenopathy as 
+described above 
+concerning for metastatic disease. 
+
+___ ECHO
+Conclusions  
+No atrial septal defect is seen by 2D or color Doppler. Left 
+ventricular wall thickness, cavity size, and global systolic 
+function are normal (LVEF>55%). Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets are mildly thickened (?#). 
+Mild to moderate (___) aortic regurgitation is seen. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. The pulmonary artery systolic pressure could not 
+be determined. There is no pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Normal biventricular 
+cavity sizes with preserved global biventricular systolic 
+function. Mild-moderate aortic regurgitation. 
+
+Compared with the prior study (images reviewed) of ___, 
+the findings are similar (no saline contrast performed on the 
+current study).   
+
+___ CT HEAD
+IMPRESSION:  
+  
+Expected evolution of the large infarction involving essentially 
+the entire right middle cerebral artery territory. Expected 
+evolution of blood products in the right frontal lobe. No 
+evidence for new intracranial abnormalities. 
+  
+R SHOULDER XRAY
+IMPRESSION:  
+  
+No acute abnormality or evidence of hardware related 
+complication. 
+  
+___ HEAD CT
+IMPRESSION:  
+  
+1. Continued evolution of right MCA infarction and right frontal 
+lobe hematoma with unchanged mass effect and leftward shift of 
+the midline structures. 
+
+___
+IMPRESSION:  
+  
+1. No significant interval change of the large right MCA infarct 
+and right frontal hematoma. 
+  
+___ CXR
+IMPRESSION:  
+  
+The Dobbhoff catheter that has been newly inserted is projecting 
+over the 
+middle parts of the stomach. Slightly increased lung volumes.  
+No other 
+relevant change. 
+
+___ CXR
+IMPRESSION:  
+  
+As compared to the previous radiograph, the lung volumes have 
+decreased.  
+There also is a slight increase in radiodensity of the 
+pre-existing bilateral parenchymal opacities.  Unchanged 
+atelectasis of the retrocardiac lung areas.  Minimal blunting of 
+the left costophrenic sinus might be caused by a small left 
+pleural effusion.  Unchanged position of the Dobbhoff catheter. 
+
+___
+CXR CHEST
+IMPRESSION:  
+  
+As compared to the previous radiograph, the lung volumes have 
+decreased.  
+There also is a slight increase in radiodensity of the 
+pre-existing bilateral parenchymal opacities.  Unchanged 
+atelectasis of the retrocardiac lung areas.  
+Minimal blunting of the left costophrenic sinus might be caused 
+by a small left pleural effusion.  Unchanged position of the 
+Dobbhoff catheter. 
+  
+___ CTA
+IMPRESSION:  
+1. No pulmonary embolus. 
+2. Interval insertion of left chest tube, with trace residual 
+effusion. 
+Increased aeration of the left lower lobe. Patchy solid and 
+ground-glass 
+densities within the left lower and right middle lobes likely 
+represent  
+pneumonia. 
+3. Small nodular densities at right lung base are more prominent 
+than prior study, likely small consolidations. 
+4. Interlobular and intralobular septal thickening and ground 
+glass opacities, most prominently involving left lower lobe and 
+right middle lobe, are minimally changed since ___, 
+possibly persistent interstitial edema and inflammation though 
+lymphangitic carcinomatosis could also be considered. Recommend 
+CT following resolution of acute processes. 
+5. Minimally changed mediastinal and hilar adenopathy. Worsened 
+bilateral 
+axillary lymphadenopathy, with a dominant left node now enlarged 
+to 3 cm. 
+  
+
+___ CXR
+Since the prior study there has been interval improvement in 
+perihilar 
+opacities most likely consistent with pulmonary edema 
+improvement. Still 
+present bibasal consolidations are noted.  Left pigtail catheter 
+is in place. There is no pneumothorax. Cardiomediastinal 
+silhouette is unchanged. Dobbhoff tube passes below the 
+diaphragm with its tip not included in the field of view 
+
+___ HEAD CT
+IMPRESSION:  
+  
+There is no worsening of hemorrhage, mass effect or infarction 
+in comparison to the previous examination. 
+
+___ MR HEAD
+IMPRESSION:  
+  
+1. Subacute infarct of the right proximal MCA involving the 
+right cerebral 
+hemisphere with hemorrhagic transformation, not significantly 
+changed in 
+appearance from CT on ___.  Given the extensive 
+enhancement, 
+associated metastasis or mass difficult to exclude but appears 
+less likely. 
+2.  Persistent right M1 thrombus/stenosis. 
+3.  Small left frontal lobe possible metastasis with moderate 
+surrounding 
+edema, unchanged from MRI on ___. 
+
+Discharge Labs:
+==============
+
+___ 09:50AM BLOOD WBC-9.8 RBC-3.48* Hgb-10.4* Hct-32.8* 
+MCV-94 MCH-30.0 MCHC-31.8 RDW-18.3* Plt ___
+___ 09:50AM BLOOD Neuts-81.0* Lymphs-6.4* Monos-4.1 
+Eos-8.3* Baso-0.3
+___ 09:50AM BLOOD Plt ___
+___ 09:50AM BLOOD Glucose-129* UreaN-16 Creat-0.6 Na-135 
+K-4.0 Cl-101 HCO3-23 AnGap-15
+___ 09:50AM BLOOD ALT-20 AST-29 LD(LDH)-388* AlkPhos-84 
+TotBili-0.3
+___ 09:50AM BLOOD Albumin-2.8* Calcium-9.4 Phos-3.7 Mg-1.___ is a ___ year old woman with a history of 
+hypertension who presented to the ED ___ with worsening fatigue 
+and poor motivation for 2 weeks and acute onset headache. She 
+was found to have a right MCA infarct and right frontal 
+hemorrhage, with heterogeneous enhancement in the region of the 
+hemorrhage possibly reflecting an underlying mass. Pan-CT 
+remarkable for bilateral axillary lympadenopathy and bilateral 
+hilar fullness. Physical exam also showed a skin lesion 
+suspicion for maligniancy; Derm was consulted and pathology of 
+the biopsy showed lung adenocarcinoma. 
+  
+# Right MCA infarct/right frontal hemorrhage:
+Pt was initially admitted to the neurologic ICU for monitoring. 
+Systolic blood pressure was maintained at less than 160. An EEG 
+showed no epileptiform discharges, but she was later started on 
+Keppra for seizure prophylaxis. As MRI showed possible mass in 
+the area of the hemorrhage with ring-enhancing lesions also 
+present in the left centrum semiovale, pt underwent a CT thorax/ 
+abdomen/ pelvis to evaluate for a primary malignancy. CT was 
+remarkable for bilateral axillary lympadenopathy and bilateral 
+hilar fullness. Additionally, pt had a suspicious skin lesion 
+that was biopsied by dermatology. Biopsy showed lung 
+adenocarcinoma (see below). Following stabilization of 
+neurological status, she was transferred to Medical Oncology for 
+further management of metastatic lung cancer. Systolic blood 
+pressures continued to be maintained at a goal of <160. Her home 
+blood pressure medications were initially held and she was 
+treated with IV hydralazine. She was later re-started on her 
+home carvedilol, while her home HCTZ, lisinopril and amlodopine 
+continued to be held. She continued to be closely followed by 
+Neurology. An echo showed She was started on ASA. Home 
+lovastatin was initially held, but then restarted during her 
+hospital stay. She also received physical therapy.
+
+Neuro-oncology was consulted. She initially had considerable 
+cerebral edema, which improved during her hospital stay. 
+Radiation Oncology was consulted, and whole head XRT was started 
+on ___, and will continue while patient is in rehab. She 
+will have follow up with Dr. ___ Neuro-onc on ___ at 1 ___.
+
+# Metastatic lung adenocarcinoma: CT chest with b/l axillary and 
+mediastinal lymphadenopathy; left upper chest skin lesion biopsy 
+was consistent with metastatic adenocarcinoma of the lung, TTF-1 
+and cytokeratin positive. MR head showed at least two 
+ring-enhancing lesions suspicious for metastatic lesions and 
+whole brain XRT was started ___ (see above). She was not 
+started on treatment for her lung adenocarcinoma, but may be 
+considered upon improvement in her functional status. She was 
+seen by Palliative Care (see below).
+
+# Pleural effusion/HCAP: On presentation, CXR showed a left 
+pleural effusion. On ___, after pt reported pleuritic chest 
+pain, a CTA was done showed a moderate left pleural effusion 
+with consolidation of the left lower lobe. Interventional 
+pulmonolgy was consulted and Patient underwent a L pleurex cath 
+placement on ___. She subsequently developed fever and 
+leukocytosis and was treated empirically for HCAP with 
+vanc/cefepime for empirical treatment of HCAP. Pleural fluid 
+culture showed rare growth staph, coag neg. Blood cultures were 
+negative. The patient has follow up with pulmonolgy scheduled 
+for ___ at 9:30 AM. 
+
+# UTI: Urine culture at admission was positive for E. coli. 
+Patient completed a course of IV ceftriaxone. A subsequent Urine 
+Culture showed ___ yeast. She also had a presumed ___ 
+infection of the buttocks (see below) that did not respond 
+satisfactorily to topical treatment alone and she was therefore 
+treated with PO fluconazole which was discontinued before 
+discharge.
+
+# Myoclonus: Patient had some non-rhythmic myoclonic (jerking) 
+movements in the lower extremities. Reglan and morphine were 
+discontinued. The myoclonic movement was limited to her right 
+lower extremity on discharge. 
+
+# R shoulder pain: Patient had a history of fall, with shoulder 
+surgery in ___. She had intermittent shoulder pain, 
+which was treated with a lidocaine patch in addition to oral 
+pain medication. Xray was negative.
+
+# ___ skin infection: Patient had a presumed rash consistent 
+with ___ infection on the sacrum/buttocks and anogenital 
+area. She was seen by Wound Care and treated with topical 
+antifungals. She was also given PO fluconazole (see above) which 
+she took until ___.
+
+# Diarrhea: Patient had diarrhea/loose stools, but tested 
+negative for c.diff. Banana flakes were added to her feeds. She 
+continued to have loose stools but volume of stools 
+significantly decreased. The rate of tube feeds was decreased by 
+half on discharge to 22.5 mL/hr with a plan to increase feeds 
+slowly q24 by 10 mL until goal of 45 mL/hr is reached. 
+
+# Nutrition: Speech and swallow and nutrition were consulted 
+throughout hospital stay. Pt initially was on a thick liquid 
+diet, but after evaluation for aspiration risk by Speech and 
+Swallow, she was made NPO and a NGT (then changed to Dobhoff)was 
+placed and she received tube feeds. A G-tube was placed on 
+___. She was kept on strict aspiration precautions. 
+
+# Goals of Care: Numerous family meetings were held throughout 
+___ hospital stay and the Patient's diagnosis and 
+prognosis was discussed at length. The Medical Oncology, 
+Neuro-Oncology, and Palliative Care held goals of care 
+discussions on an ongoing basis with the Patient and her family. 
+Patient was also seen by Social Work. Patient remained full code 
+throughout hospital stay.
+
+====================================================
+
+# TRANSITIONAL ISSUES:
+- Whole head XRT day 1 ___
+- arrange f/u Thoracic Onc appt after discharge ___  
+09:30a   ___ CLINIC )
+-Will be discharged to rehab with Jevity at half goal rate d/t 
+diarrhea. Instructions were written for advancement in tube 
+feeds by 10mL/hr every day. 
+ 
+1) Contact: Husband ___ (Home: ___ Work ___
+2) PCP: ___ (Phone: ___ Fax: ___
+
+===========================================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+
+1. Dysphagia screening before any PO intake? (X) Yes [performed 
+and documented by admitting resident] – () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? 
+(X) Yes - () No
+
+3. Antithrombotic therapy administered by end of hospital day 2? 
+() Yes - (X) No
+
+4. LDL documented (required for all patients)? (X) Yes (LDL = ) 
+- () No
+
+5. Intensive statin therapy administered? (x) Yes - () No [if 
+LDL >= 100, reason not given: intraparenchymal hemorrhage]
+(intensive statin therapy = simvastatin 80mg, simvastatin 
+80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, rosuvastatin 
+20mg or 40mg, for LDL >= 100)
+
+6. Smoking cessation counseling given? (X) Yes - () No [if no, 
+reason: () non-smoker - () unable to participate]
+
+7. Stroke education given (written form in the discharge 
+worksheet)? (X) Yes - () No
+(stroke education = personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup)
+
+8. Assessment for rehabilitation or rehab services considered? 
+(X) Yes - () No [if no, reason not assessed: ____ ]
+
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >= 100 
+or on a statin prior to hospitalization, reason not discharged 
+on statin: 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Lovastatin 10 mg oral daily 
+5. Carvedilol 12.5 mg PO BID 
+6. Amlodipine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Carvedilol 12.5 mg PO BID 
+3. LeVETiracetam 500 mg PO BID 
+4. LOPERamide 2 mg PO TID:PRN diarrhea 
+5. Miconazole Powder 2% 1 Appl TP TID:PRN rash 
+6. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN pain 
+7. Amlodipine 5 mg PO DAILY 
+8. Hydrochlorothiazide 25 mg PO DAILY 
+9. Docusate Sodium 100 mg PO BID:PRN Constipation 
+Hold for loose stools or diarrhea 
+10. Ipratropium-Albuterol Neb 1 NEB NEB Q4H PRN dyspnea, wheeze 
+11. Acetaminophen 1000 mg PO Q8H 
+12. Chloraseptic Throat Spray 1 SPRY PO Q4H:PRN sore throat 
+13. Lidocaine 5% Patch 1 PTCH TD QPM R shoulder pain 
+14. Heparin 5000 UNIT SC TID 
+15. Lisinopril 40 mg PO DAILY 
+16. Atorvastatin 10 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Adenocarcinoma of the lung with brain mets
+MCA/R frontal stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___. You were admitted to 
+the hospital and found to have had a stroke and lung cancer that 
+had spread to your brain. You were also found to have a fluid 
+collection in your lung, and you had a drain placed to help 
+drain the fluid. You were given antibiotics to treat a lung 
+infection. A feeding tube was placed in your stomach so that you 
+can get nutrition, as you cannot swallow well enough after your 
+stroke to take anything by mouth. You received radiation therapy 
+to treat the cancer in your brain, which you will continue to 
+receive while you are in rehab.
+
+You are now ready to be discharged to a rehab facility. Please 
+make sure to keep the follow up appointments as listed below. 
+
+Please take your medication as prescribed and follow up at the 
+medical appointments listed below.
+ 
+Followup Instructions:
+___

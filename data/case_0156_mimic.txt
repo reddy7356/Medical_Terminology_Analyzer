@@ -1,0 +1,383 @@
+===== DISCHARGE NOTE =====
+note_id=17590248-DS-8 | hadm_id=24703566
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+albuterol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lower extremity swelling and pain b/l
+ 
+Major Surgical or Invasive Procedure:
+___: Muscle biopsy of the right anterior compartment of the 
+lower leg
+
+ 
+History of Present Illness:
+___ year old Male sent from ___ to the ___ ED 
+with severe right ankle pain after taking albuterol for an URI. 
+The patient states over the last week prior to admission he 
+noted URI symptoms with cough productive of sputum, fever to 
+100.3, he wasn't getting better so went to his PCP ___ ___ who 
+recommended he take albuterol. He does not like to take 
+medications, so declined taking albuterol but said he'd take it 
+if there was no improvement. he would try it. He states he felt 
+as bad 2 days later, so decided to try it. He reports almost 
+immediately after taking he developed excrutiating left leg 
+pain. He did not take any more. The pain did not improve over 
+the 2 days prior to admission, so presented to the hospital at 
+___. He reportedly had imaging there which was non-concerning 
+but noted with an elevated CK, so was sent to ___ ED for 
+further evaluation.
+
+The patient notes that he had similar pain about ___ years prior 
+to admission (in his left leg), and was ultimately sent to ___ 
+neurology (Dr ___ for further workup. He was 
+diagnosed with RSH (CRPS) and sent to the ___ Pain center and 
+was trialed on gabapentin and placed in a boot.
+
+In the ___ ED his initial vitals 97.5, 98, 167/107, 20, 
+100%RA. No imaging was performed and he was given 3L of IVF when 
+it was noted that his CK was elevated to 4853. He is admitted 
+for concern for rhabdomyolysis with albuterol as the causative 
+agent.
+ 
+Past Medical History:
+CRPS (Complex Regional Pain Syndrome - i.e. RSD)
+HTN (hypertension)
+Hyperlipidemia
+Neuropathy
+BPH (benign prostatic hypertrophy) with urinary obstruction
+Iritis
+Hives
+S/P colonoscopy
+History of asbestos exposure
+Monoclonal gammopathy of undetermined significance
+Cervical radiculopathy
+Chronic hematuria
+Cataract
+HLA B27 (HLA B27 positive)
+Diabetes mellitus type II, uncontrolled
+Hiatal hernia
+ 
+Social History:
+___
+Family History:
+Maternal Uncle: Type 2 DM
+Mother: Type 2 DM
+Sister: Healthy
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+==========================
+VSS: 976, 168/79, 93, 20, 96%
+ GEN: NAD
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions
+ PUL: CTA B/L
+ COR: RRR, S1/S2, - MRG
+ ABD: NT/ND, +BS, - CVAT
+ EXT: - CCE, Very limited RLE active ROM on flex/ext, RLE warm 
+to touch, left cool to touch
+ NEURO: CAOx3, Non-Focal, sensory dull both ___ to knee to sharp 
+stimuli
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 625)
+    Temp: 97.6 (Tm 98.4), BP: 145/79 (145-164/79-90), HR: 88
+(75-96), RR: 20 (___), O2 sat: 96% (96-99), O2 delivery: Ra  
+Fluid Balance (last updated ___ @ 626) 
+  Last 8 hours  Total cumulative -500ml
+    IN: Total 0ml
+    OUT:  Total 500ml, Urine Amt 500ml
+  Last 24 hours  Total cumulative -1240ml
+    IN: Total 360ml, PO Amt 360ml
+    OUT:  Total 1600ml, Urine Amt 1600ml  
+CUMULATIVE BALANCE: 3260 ml
+GENERAL: Pleasant, elderly male sitting upright in bed, nad. 
+HEENT: PEERLA. MMM. oropharynx clear. 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+MSK: full ROM of elbows and knees b/l, nontender to palpation of
+elbow or knee joints, slightly edematous fingers/hands b/l with
+no erythmea
+EXT: +RLE warmth, erythema and tense non pitting edema extending
+to calves. +LLE minimal erythema and pitting edema. limited ROM
+of ankles b/l due to pain. 
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+NEURO: Alert, oriented, CN grossly intact, ___ strength in UE.
+strength exam limited by pain in BLE. sensation to light touch
+diminished in BLE. BLE proprioception intact.  
+SKIN: Mildly erythematous over extensor surfaces of BLE. No
+erythema over superior medial knees b/l anymore
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:25AM BLOOD WBC-8.9 RBC-5.09 Hgb-15.3 Hct-44.9 MCV-88 
+MCH-30.1 MCHC-34.1 RDW-13.0 RDWSD-42.2 Plt ___
+___ 09:25AM BLOOD Neuts-62.1 ___ Monos-8.1 Eos-0.4* 
+Baso-0.2 Im ___ AbsNeut-5.55 AbsLymp-2.56 AbsMono-0.72 
+AbsEos-0.04 AbsBaso-0.02
+___ 09:25AM BLOOD Glucose-149* UreaN-21* Creat-1.0 Na-140 
+K-4.5 Cl-103 HCO3-19* AnGap-18
+___ 09:25AM BLOOD CK(CPK)-4853*
+___ 02:43PM BLOOD SED RATE-PND
+___ 02:43PM BLOOD CRP-PND
+___ 09:25AM URINE Color-Yellow Appear-Clear Sp ___
+___ 09:25AM URINE Blood-SM* Nitrite-NEG Protein-30* 
+Glucose-TR* Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 09:25AM URINE RBC-0 WBC-2 Bacteri-FEW* Yeast-NONE 
+Epi-<1
+___ 09:25AM URINE CastHy-5*
+___ 09:25AM URINE Mucous-RARE*
+
+INTERVAL LABS:
+==============
+___ 07:12AM BLOOD Neuts-75.2* Lymphs-15.3* Monos-8.6 
+Eos-0.2* Baso-0.1 Im ___ AbsNeut-7.54* AbsLymp-1.53 
+AbsMono-0.86* AbsEos-0.02* AbsBaso-0.01
+___ 06:50PM BLOOD CK(CPK)-9254*
+___ 07:27AM BLOOD TSH-1.8
+___ 07:12AM BLOOD Cortsol-17.4
+___ 07:12AM BLOOD ANCA-NEGATIVE B
+___ 07:12AM BLOOD ___ Titer-1:160*
+___ 07:12AM BLOOD SED RATE-Test      
+___ 07:12AM BLOOD ANTI-JO1 ANTIBODY-Test  
+___ 06:41AM BLOOD HCV Ab-NEG    
+___ 06:41AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+
+IMAGING:
+========
+MR CALF ___ CONTRAST LEFT/RIGHT ___
+1. Diffuse intramuscular edema involving all compartments but 
+most confluent in the anterior compartment, particular involving 
+anterior tibialis on the right. Appearances are consistent with 
+myositis, nonspecific on MR imaging and could reflect 
+denervation, inflammation or infection. No organized fluid 
+collection seen. 
+2. Diffuse subcutaneous edema of the bilateral calves. 
+
+MUSCLE BIOPSY ___
+Pending
+
+DISCHARGE LABS:
+===============
+___ 06:41AM BLOOD WBC-7.3 RBC-3.98* Hgb-12.2* Hct-36.1* 
+MCV-91 MCH-30.7 MCHC-33.8 RDW-13.0 RDWSD-43.3 Plt ___
+___ 06:41AM BLOOD Plt ___
+___ 06:41AM BLOOD Glucose-155* UreaN-18 Creat-0.9 Na-140 
+K-4.4 Cl-104 HCO3-22 AnGap-14
+___ 06:41AM BLOOD CK(CPK)-2246*
+___ 06:41AM BLOOD Calcium-8.4 Phos-3.1 Mg-2.1
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo male with a history of NIDM c/b peripheral 
+neuropathy, HTN, and remote history of CRPS presenting with 
+acute onset of bilateral lower extremity achiness
+and tense edema, as well as a new elevated CK.
+
+ACUTE ISSUES:
+=============
+#Lower Extremity Swelling/Pain
+The patient presented with acute onset lower extremity pain 
+(R>L) and swelling. Patient's pain is most likely due to 
+myositis (see below). Given that the patient has a known history 
+of complex regional pain syndrome (CRPS) previously treated at 
+___ in ___ s/p Gabapentin which resolved spontaneously, we 
+considered recurrent CRPS. While he had similar symptoms 
+including RLE swelling, erythema, and severe achiness, neurology 
+thought recurrent CRPS was unlikely given its acute onset 
+without an inciting event and bilateral involvement. Lower 
+extremity US at OSH was negative for DVT. There was a low 
+suspicion for cellulitis as the patient did not have marked 
+erythema and lacked leukocytosis or any infectious symptoms. 
+Orthopedics was consulted and had low suspicion for acute 
+compartment syndrome given the level of pain and intact 
+peripheral pulses. A CHF exacerbation was also unlikely given 
+his lack of cardiac history and no other evidence of volume 
+overload. Peripheral neuropathy from NIDDM was also deemed less 
+likely given different nature of pain on presentation though his 
+gabapentin was increased to 600mg TID, standing Tylenol Q6H. He 
+only required oxycodone 5mg PRN until ___. His pain slowly 
+improved throughout his hospital course and he was able to 
+ambulate with ___ on discharge, which he will continue at home 
+for ___ more sessions. 
+
+#Myositis
+#Elevated CPK
+The patient presented with bilateral lower extremity (R>L) 
+nonpitting edema, erythema, after a prodromal viral URI. In the 
+ED, he was found to have an elevated CRP (15.1), ESR (55), and 
+CPK of 4853 (peaked to 9200). MRI of his lower extremities 
+demonstrated diffuse intramuscular edema most confluent in right 
+anterior tibialis consistent with mild myositis of nonspecific 
+etiology. Muscle biopsy was performed on ___ and sent for 
+pathology, for which the results are still pending. 
+
+Rheumatology was consulted. The etiology of the patient's 
+myositis is still unclear but differential includes inflammatory 
+myositis (given pos ___, HLA B27), diabetic myonecrosis (given 
+T2DM c/b neuropathy), viral myositis (given recent viral URI), 
+drug-induced myositis (given low dose home statin), and 
+eosinophilic fasciitis. The lack of proximal muscle weakness 
+made inflammatory and statin-induced myositis less likely. Lack 
+of peripheral eosinophilia and involvement of fascia per imaging 
+made eosinophilic fasciitis unlikely. It was also unlikely to be 
+an endocrine myopathy from thyroid disease or ___ 
+syndrome, as TSH and AM cortisol levels were normal. We had low 
+suspicion for diabetic myonecrosis given patient has controlled 
+non-insulin dependent diabetes (A1c 6.6% in ___. 
+
+The most likely diagnosis is a viral myositis given his recent 
+URI, though such localized involvement is unusual. Autoimmune 
+inflammatory myositis is also on the differential as he is ___ 
+positive (1:160) with HLAB27. We held his home statin in the 
+setting of a suspected myositis and gave IVF for his elevated 
+CPK. The patient did not develop ___ and his CPK level gradually 
+decreased to 2246 on ___. Given his resolving symptoms and CPK 
+levels, no other therapeutic interventions were made. The 
+patient will follow up with outpatient rheumatology. 
+
+CHRONIC ISSUES:
+===============
+#HTN: Patient was hypertensive throughout hospitalization which 
+could have been compounded by his overall pain. His home 
+lisinopril was increased to 40 mg PO DAILY with a modest 
+improvement in BP (SBP 140s).
+
+#HLD: held Simvastatin 20 mg PO QPM in setting of myositis
+
+#NIDDM: held MetFORMIN (Glucophage) ___ mg PO DAILY. Managed 
+with ISS.
+
+#CVD Prevention: Aspirin 81 mg PO DAILY 
+
+#Seasonal Allergies: Patient received loratadine 10 mg PO DAILY 
+
+#Insomnia: Patient received ranitidine 150 mg PO QHS 
+
+TRANSITIONAL ISSUES:
+====================
+[] Please follow up with outpatient rheumatology in 1 week (they 
+will be calling to schedule an appointment)
+[]The patient was hypertensive during this hospitalization. His 
+lisinopril was increased. Please consider further addition of 
+anti-hypertensives as an outpatient
+[]The patient's home statin was held in the setting of myositis. 
+Please restart when clinically indicated. 
+[]If the patient receives PO steroids, please continue to 
+monitor his BG
+[]The patient was also started on Gabapentin TID for possible 
+neuropathic component of pain
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q4-6H PRN dyspnea 
+2. Simvastatin 20 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. MetFORMIN (Glucophage) ___ mg PO DAILY 
+5. Lisinopril 30 mg PO DAILY 
+6. Loratadine 10 mg PO DAILY 
+7. Ranitidine 150 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*120 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0 
+3.  Gabapentin 600 mg PO TID 
+RX *gabapentin 300 mg 2 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+4.  Lidocaine 5% Ointment 1 Appl TP Q8H:PRN pain 
+RX *lidocaine 5 % 1 app every eight (8) hours Refills:*0 
+5.  Senna 8.6 mg PO BID 
+RX *sennosides [___] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+6.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+7.  Aspirin 81 mg PO DAILY  
+8.  Loratadine 10 mg PO DAILY  
+9.  MetFORMIN (Glucophage) ___ mg PO DAILY  
+10.  Ranitidine 150 mg PO QHS  
+11. HELD- Albuterol Inhaler 2 PUFF IH Q4-6H PRN dyspnea  This 
+medication was held. Do not restart Albuterol Inhaler until you 
+see your PCP
+12. HELD- Simvastatin 20 mg PO QPM  This medication was held. Do 
+not restart Simvastatin until you see your PCP
+
+ 
+___:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+=================
+1. Myositis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you at ___ 
+___!
+
+WHY WERE YOU ADMITTED?
+-You were admitted to the hospital because your legs were 
+swollen and painful
+
+WHAT HAPPENED IN THE HOSPITAL?
+-You were found to have a high enzyme in your blood caused by 
+muscle breakdown
+-You were given fluids through the IV which improved this enzyme 
+number
+-You were also managed with pain medications which made your 
+pain more tolerable
+-You had a muscle biopsy to identify the cause of your symptoms
+
+WHAT SHOULD YOU DO AT HOME?
+-Please continue to work with physical therapy to improve your 
+walking
+-Please follow up with your primary care physician and 
+rheumatologist 
+-___ continue to monitor your symptoms, including leg pain or 
+swelling, or any other symptom that concerns you, and return to 
+the ED or call your PCP
+
+___ you for allowing us be involved in your care, we wish you 
+all the best!
+
+Your ___ Team
+
+ 
+Followup Instructions:
+___

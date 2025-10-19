@@ -1,0 +1,441 @@
+===== DISCHARGE NOTE =====
+note_id=19624160-DS-19 | hadm_id=28255979
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Somnolence, elevated bilirubin.
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+___ year-old male with HIV on HAART (CD4 262 ___, HCV 
+cirrhosis c/b portal hypertension, ascites, and hepatic 
+encephalopathy awaiting transplant, and diabetes mellitus type 
+___ transferred to MICU for somnolence.  
+.  
+In brief, patient was transferred from OSH to ___ ___ for 
+acute rise in total bilirubin. He had initially presented to OSH 
+___ with altered mental status, suspected secondary to 
+hepatic encephalopathy. With lactulose treatment, his mental 
+status initially improved and ammonia level decreased from 276 
+to 83. He required short stay in ICU for unresponsiveness. CT 
+head without acute changes. Paracentesis was not done secondary 
+to thrombocytpoenia. Medication changes during OSH included 
+increasing methadone, starting gabapentin for foot pain, 
+starting nystatin for thrush. Transfer to ___ was initiated 
+___ secondary to rise in bilirubine from 7 to 27.  
+.  
+At ___, patient was initially AOx3, including earlier this 
+morning. He remained afebrile and without leukocytosis. Physical 
+examination was notable for marked asterixis. Diagnostic workup 
+for hyperbilirubinemia included RUQ ultrasound which did not 
+show portal thrombosis. Blood, urine cultures sent and no growth 
+at time of transfer. Therapy for encephalopathy: Lactulose 
+uptitrated, rifaxamin started; without many bowel movents (<2 
+per day). Given limited ascites and concern for infection given 
+rising total bilirubin and somnolence, empiric therapy for SBP 
+started today (ceftriaxone 2gm IV x1). ABG prior to transfer 
+7.45 // 40 // 131.  
+.  
+This morning also noted to be hyperkalemic to 6.4. EKG 
+reportedly without acute changes. Given Kayexelate, Lasix 20mg 
+IV with improvement in potassium to 5.9.  
+.  
+On the floor, patient somnolent and unable to provide history.  
+ 
+Past Medical History:
+HIV on HAART - dx made ___ years ago, VL undetectable, CD4 262 
+___  
+HCV s/p pegIFN/RBV in ___, stopped ___ thrombocytopenia and 
+non-response now with cirrhosis c/b portal hypertension, 
+ascites, ___ edema and hepatic encephalopathy.  
+h/o substance abuse(ETOH and IVDU) sober for more than ___ years. 
+ 
+false positive RPR  
+DM since ___  
+Lesions on lips, ? lichen planus  
+Osteopenia with T scores -1.1 to -2.3 ___  
+Vit D deficiency with total lvl 6 in ___ up to 29 on1/10  
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+97.0, 72, 146/81, 96% 2L NC  
+General: Somnolent  
+HEENT: Sclera icteric; NGT in place; MMM with ulcerations  
+Neck: Supple  
+Lungs: Clear to ausculation on anterior ausculations; no 
+wheezes, rales, rhonchi  
+CV: RRR; normal S1/S2; II/VI early systolic murmur LUSB  
+Abdomen: Hyperactive bowel sounds; distended; soft; non-tender  
+GU: Foley in place  
+Ext: Cool extremities; radial, DP pulses 2+ and equal 
+bilaterally  
+Neuro: Pupils equal and reactive to light; moves extremities 
+appropriately; tracks to voice  
+ 
+Pertinent Results:
+___ 10:19PM BLOOD WBC-6.0 RBC-4.85 Hgb-16.9 Hct-51.3 
+MCV-106* MCH-34.9* MCHC-33.0 RDW-14.7 Plt Ct-72*
+___ 01:45PM BLOOD WBC-9.8# RBC-4.52* Hgb-15.7 Hct-47.3 
+MCV-105* MCH-34.7* MCHC-33.2 RDW-15.4 Plt Ct-56*
+___ 07:20AM BLOOD WBC-7.7 RBC-4.77 Hgb-17.2 Hct-50.8 
+MCV-106* MCH-35.9* MCHC-33.8 RDW-15.6* Plt Ct-54*
+___ 05:00AM BLOOD WBC-5.5 RBC-4.90 Hgb-17.4 Hct-52.8* 
+MCV-108* MCH-35.5* MCHC-32.9 RDW-15.9* Plt Ct-41*
+___ 03:53AM BLOOD WBC-4.2 RBC-3.99* Hgb-14.1# Hct-42.8 
+MCV-107* MCH-35.5* MCHC-33.1 RDW-16.4* Plt Ct-39*
+___ 01:41PM BLOOD WBC-4.1 RBC-4.03* Hgb-14.0 Hct-42.4 
+MCV-105* MCH-34.7* MCHC-33.0 RDW-15.8* Plt Ct-69*#
+___ 03:32AM BLOOD WBC-2.9* RBC-3.48* Hgb-11.7* Hct-36.4* 
+MCV-104* MCH-33.7* MCHC-32.3 RDW-15.8* Plt Ct-37*
+___ 12:18PM BLOOD WBC-3.1* RBC-3.20* Hgb-11.5* Hct-33.7* 
+MCV-105* MCH-35.9* MCHC-34.1 RDW-16.2* Plt Ct-27*
+___ 04:02AM BLOOD WBC-3.7* RBC-3.00* Hgb-10.9* Hct-32.0* 
+MCV-107* MCH-36.5* MCHC-34.2 RDW-16.5* Plt Ct-30*
+___ 04:02AM BLOOD Neuts-90.0* Lymphs-5.2* Monos-4.0 Eos-0.6 
+Baso-0.2
+___ 01:55PM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+ 
+Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Ovalocy-1+ Target-1+ 
+Acantho-1+
+___ 10:19PM BLOOD ___ PTT-31.4 ___
+___ 07:20AM BLOOD ___
+___ 05:00AM BLOOD ___ PTT-35.7* ___
+___ 03:53AM BLOOD ___ PTT-33.3 ___
+___ 01:41PM BLOOD ___ PTT-35.0 ___
+___ 03:32AM BLOOD ___ PTT-37.8* ___
+___ 12:18PM BLOOD ___ PTT-36.9* ___
+___ 04:00PM BLOOD ___ PTT-39.4* ___
+___ 04:02AM BLOOD ___ PTT-40.5* ___
+___ 05:00AM BLOOD  WBC-5.5 Lymph-2* Abs ___ CD3%-60 Abs 
+CD3-66* CD4%-36 Abs CD4-40* CD8%-24 Abs CD8-27* CD4/CD8-1.5
+___ 12:48PM BLOOD ___ 03:32AM BLOOD ___ 10:19PM BLOOD Glucose-346* UreaN-31* Creat-1.0 Na-126* 
+K-5.2* Cl-91* HCO3-16* AnGap-24
+___ 05:20AM BLOOD Glucose-300* UreaN-33* Creat-0.7 Na-127* 
+K-5.0 Cl-95* HCO3-21* AnGap-16
+___ 01:45PM BLOOD UreaN-37* Creat-0.3* Na-127* K-5.0 Cl-94* 
+HCO3-25 AnGap-13
+___ 07:20AM BLOOD Glucose-82 UreaN-41* Creat-0.7 Na-130* 
+K-6.4* Cl-96 HCO3-27 AnGap-13
+___ 01:55PM BLOOD Na-128* K-5.9* Cl-94* HCO3-26 AnGap-14
+___ 05:00AM BLOOD Glucose-128* UreaN-54* Creat-0.9 Na-138 
+K-5.1 Cl-106 HCO3-26 AnGap-11
+___ 06:00PM BLOOD Glucose-175* UreaN-62* Creat-0.8 Na-144 
+K-4.8 Cl-109* HCO3-20* AnGap-20
+___ 03:53AM BLOOD Glucose-214* UreaN-69* Creat-1.6* Na-146* 
+K-4.0 Cl-110* HCO3-25 AnGap-15
+___ 01:41PM BLOOD Glucose-202* UreaN-74* Creat-1.6* Na-148* 
+K-3.6 Cl-113* HCO3-26 AnGap-13
+___ 03:32AM BLOOD Glucose-272* UreaN-77* Creat-2.1* Na-150* 
+K-3.4 Cl-113* HCO3-25 AnGap-15
+___ 05:48PM BLOOD Glucose-353* UreaN-72* Creat-1.2 Na-145 
+K-3.1* Cl-110* HCO3-24 AnGap-14
+___ 04:02AM BLOOD Glucose-269* UreaN-70* Creat-1.8* Na-147* 
+K-4.0 Cl-112* HCO3-24 AnGap-15
+___ 10:19PM BLOOD ALT-198* AST-203* AlkPhos-123 
+TotBili-28.8*
+___ 01:45PM BLOOD ALT-189* AST-180* AlkPhos-110 
+TotBili-27.0*
+___ 07:20AM BLOOD ALT-182* AST-205* LD(___)-352* 
+AlkPhos-127 TotBili-29.5* DirBili-19.8* IndBili-9.7
+___ 05:00AM BLOOD ALT-167* AST-202* LD(___)-337* 
+AlkPhos-115 TotBili-29.1*
+___ 03:53AM BLOOD ALT-122* AST-145* LD(___)-271* 
+AlkPhos-100 TotBili-28.2*
+___ 06:06AM BLOOD ALT-93* AST-101* LD(___)-231 AlkPhos-83 
+TotBili-26.8*
+___ 04:02AM BLOOD ALT-80* AST-80* AlkPhos-84 TotBili-28.6*
+___ 10:19PM BLOOD Albumin-3.2* Calcium-9.7 Phos-1.9* Mg-2.5
+___ 01:45PM BLOOD Albumin-2.9* Calcium-8.8 Phos-2.5* Mg-2.2
+___ 07:20AM BLOOD Albumin-3.0* Calcium-9.6 Phos-2.7 Mg-2.6
+___ 01:55PM BLOOD Calcium-9.9 Phos-2.6* Mg-2.8*
+___ 05:00AM BLOOD Calcium-9.6 Phos-3.4 Mg-3.2*
+___ 03:53AM BLOOD Albumin-3.0* Calcium-10.1 Phos-4.1 
+Mg-3.0*
+___ 01:41PM BLOOD Calcium-9.8 Phos-3.0 Mg-3.1*
+___ 03:32AM BLOOD Calcium-10.3 Phos-2.9 Mg-2.9*
+___ 04:02AM BLOOD Calcium-10.3 Phos-2.5* Mg-2.6
+___ 01:41PM BLOOD VitB12-GREATER TH Folate-16.7
+___ 05:20AM BLOOD calTIBC-215* Ferritn-GREATER TH TRF-165*
+___ 01:41PM BLOOD TSH-0.093*
+___ 04:02AM BLOOD Free T4-1.4
+___ 01:41PM BLOOD HBsAg-NEGATIVE
+___ 09:02PM BLOOD HIV Ab-PND
+___ 06:06AM BLOOD Vanco-8.7*
+___ 05:20AM BLOOD Acetmnp-NEG
+___ 01:41PM BLOOD HCV Ab-POSITIVE*
+___ 03:39PM BLOOD Type-ART pO2-131* pCO2-40 pH-7.45 
+calTCO2-29 Base XS-4
+___ 03:39PM BLOOD Lactate-2.4*
+___ 05:36AM BLOOD Lactate-2.9*
+___ 04:49PM BLOOD Lactate-2.8*
+___ 03:58PM BLOOD ___ VIRUS SEROLOGY-PND
+
+TECHNIQUE: Liver, gallbladder ultrasound. 
+  
+COMPARISON: MR abdomen ___. 
+  
+FINDINGS: There is nodular liver contour in keeping with 
+cirrhosis. The 
+liver has heterogeneous echotexture, corresponding to 
+innumerable regenerative 
+nodules seen on MRI. There is no extra-, intrahepatic ductal 
+dilatation. The 
+main portal vein is patent. The spleen measures 13 cm. There is 
+a mild 
+amount of ascites, insufficient to mark the skin for 
+paracentesis. The 
+ascites is predominantly in the perihepatic location. 
+  
+IMPRESSION: 
+  
+1. Cirrhotic liver with a nodular contour and heterogeneous 
+echotexture (in 
+keeping with findings of cirrhosis and innumerable regenerative 
+nodules seen 
+on recent MRI). 
+  
+2. Mild amount of ascites, predominantly in perihepatic 
+location. No 
+appropriate site to mark for paracentesis, insufficient fluid. 
+  
+3. Mild splenomegaly. 
+  
+4. Main portal vein patent. 
+
+CT head ___:
+IMPRESSION: No acute intracranial hemorrhage or mass effect. 
+In case of clinical concern for acute infarction/parenchymal 
+changes an MRI 
+can be obtained if otherwise feasible 
+
+TECHNIQUE: T1, T2, FLAIR, gradient recalled echo, and 
+diffusion-weighted MR 
+imaging of the brain was obtained without the administration of 
+contrast. 
+  
+COMPARISON: Correlation with CT head dated, ___. 
+  
+FINDINGS: There is no evidence of acute hemorrhage, edema, mass 
+effect, or 
+recent infarction. The ventricles and sulci are mildly prominent 
+consistent 
+with mild degree of generalized atrophy. There are several areas 
+of 
+subcortical and periventricular white matter FLAIR 
+hyperintensities, which are 
+nonspecific and could represent sequela of small vessel ischemic 
+disease. No 
+diffusion abnormality to suggest acute infarction is seen. 
+  
+There is a small amount of mucosal thickening within the left 
+maxillary sinus. 
+  
+IMPRESSION: No acute intracranial abnormality.
+
+COMPARISON: CT, ___. 
+  
+RENAL ULTRASOUND: The right kidney measures 10.3 cm. The left 
+kidney 
+measures 11.4 cm. There is a 0.5-cm stone within the interpolar 
+right kidney, 
+unchanged compared to the CT of ___. There is no 
+hydronephrosis. 
+A Foley catheter is seen within a collapsed bladder. 
+  
+IMPRESSION: Subcentimeter non-obstructing right renal calculus. 
+No 
+hydronephrosis.
+
+CHEST, SINGLE AP PORTABLE VIEW. 
+  
+An NG tube is present, tip and side port overlying the stomach. 
+  
+Rotated positioning. Allowing for this, there is suggestion of 
+some increased 
+markings about the left hilum, which could reflect the presence 
+of a focal 
+infiltrate. The lungs are otherwise grosly clear. No CHF or 
+effusion. 
+  
+TTE: IMPRESSION: 
+  
+Possible left perihilar opacity. Interval clearing of changes at 
+the left 
+lung base compared with ___.
+
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Regional left 
+ventricular wall motion is normal. Left ventricular systolic 
+function is hyperdynamic (EF>75%). The estimated cardiac index 
+is high (>4.0L/min/m2). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets (3) are mildly 
+thickened. No masses or vegetations are seen on the aortic 
+valve. There is no valvular aortic stenosis. The increased 
+transaortic velocity is likely related to high cardiac output. 
+No aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. No mass or vegetation is seen on the mitral 
+valve. No mitral regurgitation is seen. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Normal valvular morhology with no pathologic 
+regurgitation. Mild symmetric left ventricular hypertrophy with 
+normal regional and hyperdynamic global systolic function. Mild 
+pulmonary artery systolic hypertension. 
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the findings are similar.
+ 
+ 
+ 
+
+ 
+Brief Hospital Course:
+___ with HIV on HAART, HCV cirrhosis c/b ascites, portal 
+hypertension, and ___ transferred to MICU for 
+relatively acute encephalopathy in the setting of rising 
+bilirubin, ESLD, and HIV. The patient was also found to be 
+fungemic from ___.
+.
+#  Hypotension:  On the morning of ___, patient developed 
+hypotension, with labile systolic blood pressure ranging from 
+___ mmHg.  Patient received IVF boluses for hypovolemia vs. 
+septic etiology of hypotension.  Midodrine and octreotide were 
+also started given worsening renal function and presumed 
+hepatorenal syndrome.  Other vital signs were normal.  Blood 
+pressure initially stabilized, but again dropped to ___ SBP, and 
+patient was transferred back to the ICU.  In the ICU he remained 
+pressor dependent with progressively increasing pressor 
+requirement.  The patient expired on ___, due to likely 
+septic shock and fungemia.
+.
+#  Fungemia- immedidately following transfer back to the ICU, 
+blood cultures obtained two days earlier grew out budding yeast 
+with pseudohyphae, and micafungin was started. All IV's and 
+lines were removed, however the patient's fungemia continued, 
+growing out ___.
+. 
+#. Acute Renal failure: Labile creatinine.  Component of HRS and 
+probably pre-renal also in the setting of increased GI loss.  
+Renal service consulted, thought acute rise in creatinine due to 
+ATN in setting of GI loss vs. HRS in cirrhotic patient.  Was 
+given D5W for free water resuscitation.  Renal ultrasound within 
+normal limits.  Following transfer back to the floor, renal 
+function declined in the setting of worsening liver failure, 
+osmotic diuresis, and stool output.  Patient received IVF and 
+albumin in attempt to maintain renal perfusion for presumed 
+pre-renal etiology, although urine lytes were more consistent 
+with ATN.  Midodrine and octreotide were started on morning of 
+transfer back to the ICU.
+.
+#.  Encephalopathy:  Mental status waxed and waned from 
+unresponsiveness to inappropriate conversation.  Most likely 
+secondary to decompensated liver failure, hypernatremia, and 
+renal failure.  Hepatic encephalopathy was likely given 
+asterixis and elevated ammonia and history of decreased bowel 
+movements.  However, due to history of HIV and immunocompromised 
+state, an infectious etiology remained on the differential.  MRI 
+head was WNL.  Due to an inability to perform LP by MICU and 
+neuro teams, ___ guided LP performed with bland CSF.  Prior to 
+LP, was placed on empiric vanco, cefepime, acyclovir, and 
+ampicillin which were discontinued when CSF values returned.  ID 
+team continues to follow, and infectious workup unremarkable 
+thus far.  RPR reactive at 1:32, though history of positive RPR 
+and negative VDRL.  VRDL pending at time of transfer to medicine 
+floor, though suspicion for neurosyphillis remains low.  
+Acyclovir continued until HSV PCR returns.  Was treated for 
+hepatic encephalopathy with lactulose, rifaximin as needed.  EEG 
+was deferred.  KUB WNL.  Patient was then transferred to the 
+floor.  His lactulose was down-titrated in the ICU for suspicion 
+of an ileus.  His stool output decreased over the next ___ hours, 
+and lactulose was uptitrated.  His mental status remained 
+tenuous but stable at time of transfer back to ICU for 
+hypotension and fungemia.
+.
+#. Anemia/GI Bleed: Hct slowly downtrending, NG lavage performed 
+___ and was postive for blood.  Was placed on PPi, received 
+24h therapy of IV octreotide and beta blocker.  GI consulted and 
+recommended supportive measures with no urgen need for scoping.  
+C. diff sent and was negative.  Remained hemodynamically stable 
+with stabilization of hct.
+.  
+#. End-stage liver disease: Hepatitis C cirrhosis complicated by 
+ascites, portal hypertension, hepatic encephalopathy, grade I 
+esophageal varices, thrombocytopenia.  MELD 25.  Reduced 
+synthetic function as indicated by elevated INR, decreased 
+albumin.  He continues on the transplant list.  Treated with 
+cipro for sbp ppx, lactulose, rifaximin, PPi.  Following 
+transfer back to the floor, his hyperbiliruminemia worsened, 
+along with his coagulopathy, and his MELD was consistently above 
+40.  
+.  
+#.  HIV:  HIV VL undetectable, CD4 262 ___.  Currently not 
+on PCP ___.
+- Continue Truvada, Kaletra per home regimen.
+.
+#. Hypernatremia: Renal following, given D5W as above.  
+Hypernatremia persisted following transfer from ICU, and free 
+water flushes through tube feeds were added.  His free water 
+losses were exacerbated by osmotic diuresis with his difficult 
+to control hyperglycemia.  Sodium remained stable at 145-150.
+.
+#. Hyperglycemia: Increased lantus to 10 units qam, increased 
+further to 60 units QAM with very aggressive sliding scale in 
+setting of Type II DM, D5W, and enteral nutrition.
+.
+#. Hyperbilirubinemia:  Largely direct.  Suspect secondary 
+decompensated liver failure, although differential also includes 
+infection.  Without elevation of alkaline phosphatase to suggest 
+obstructive etiology.  No evidence of portal vein thromobosis on 
+RUQ ultrasound.  See above for liver failure.
+ 
+Medications on Admission:
+Magnesium oxide 400mg PO daily  
+Furosemide 40mg PO daily  
+Truvada 1 tab daily  
+Vitamin D 50,000 PO daily  
+Kaletra 200/50mg 2 tabs PO daily  
+Atenolol 50mg PO daily  
+Dexilant ___ 30mg PO daily  
+Vitamin E 1000 units PO daily  
+B complex  
+Lactulose  
+Insulin  
+Spirinolactone 100mg PO QOD  
+Clotrimazole  
+
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+                             ___ MD ___
+ 
+Completed by: ___

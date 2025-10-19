@@ -1,0 +1,160 @@
+===== DISCHARGE NOTE =====
+note_id=13013332-DS-15 | hadm_id=29359746
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old man with a past medical history of 
+HTN, CAD, DM, hypothyroidism who was found unresponsive this am. 
+EMS was called, who would have intubated the patient in the 
+field but family declined. Blood pressure in the field was 
+notable for systolics in the 240s and he was given labetalol. He 
+was brought to ___ ED, where a ___ showed a devastating 
+large right hemispheric hemorrhage with midline shift and uncal 
+herniation. Blood pressure on arrival still 220. Neurology and 
+neurosurgery were both consulted.
+
+Family arrived shortly thereafter and were clear that the 
+patient would not want any heroic measures, given the 
+devastating bleed and poor prognosis. The decision was made to 
+make the patient CMO in the emergency room.
+
+ROS not obtained due to patient obtundation
+ 
+Past Medical History:
+- CAD, s/p MI, vfib arrest
+- Aflutter
+- DM2
+- HTN
+- Hypothyroidism
+- Osteoarthritis
+- Hearing loss
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: T:  P: 60s R: 16  BP:  220/100 SaO2: 95% NC
+General: Comatose.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple,
+Pulmonary: Lungs CTA, upper respiratory noise
+Cardiac: RRR
+Abdomen: soft
+Extremities: No C/C/E bilaterally
+
+Neurologic:
+-Mental Status: Comatose, unresponsive to noxious stimuli. Gaze 
+midline.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: Right pupil 4mm, unreactive. L pupil 2mm minimally reactive.
+III, IV, VI: VOR limited.
+V: Left corneal intact, right minimal.
+VII: R NLF flattening.
+
+-Motor: Normal bulk, flaccid in the bilateral upper and lower 
+extremities, does not withdraw or posture to noxious stimuli.
+
+-Sensory: Does not respond to noxious stimuli.
+
+-DTRs: Trace throughout. Toes mute.
+
+DISCHARGE EXAM:
+Deceased
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:30PM BLOOD WBC-15.5* RBC-5.95 Hgb-18.2* Hct-55.1* 
+MCV-93 MCH-30.6 MCHC-33.0 RDW-14.8 Plt ___
+___ 01:30PM BLOOD ___ PTT-25.0 ___
+___ 01:30PM BLOOD ___ 01:30PM BLOOD UreaN-28* Creat-1.7*
+___ 01:46PM BLOOD Glucose-295* Lactate-2.4* Na-139 K-4.3 
+Cl-101 calHCO3-26
+___ 01:30PM BLOOD Lipase-23
+___ 01:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+IMAGING:
+CT Head
+IMPRESSION: 
+1. Large 6.3 x 7.6 x 5.7 cm acute right frontal parenchymal 
+hemorrhage with extension into the ventricles, right temporal 
+lobe, and midbrain.
+2. Marked subfalcine and downward transtentorial herniation with 
+compression of the brainstem.
+3. 15 mm leftward shift of midline structures.
+4. Effacement of the right lateral ventricle with obstructive 
+hydrocephalus of the left lateral ventricle.
+ 
+Brief Hospital Course:
+___ presented after being found unresponsive and was 
+found to have a large intraparenchymal hemorrhage with 
+significant mass effect, midline shift and brainstem 
+compression. Dr. ___ Neurosurgery evaluated the patient 
+and determined that surgical evacuation would be futile. He was 
+made comfort measures only per the wishes of his family and 
+passed away.
+ 
+Medications on Admission:
+(per OMR):
+ALBUTEROL SULFATE [VENTOLIN HFA] - Ventolin HFA 90 mcg/actuation 
+aerosol inhaler. 1 puff inh twice a day -  (Prescribed by Other 
+Provider)
+AMIODARONE - amiodarone 200 mg tablet. 1 tablet(s) by mouth once 
+a day -  (Prescribed by Other Provider)
+CARVEDILOL - carvedilol 12.5 mg tablet. 1 tablet(s) by mouth 
+twice a day -  (Prescribed by Other Provider)
+ESCITALOPRAM OXALATE - escitalopram 20 mg tablet. 1 tablet(s) by 
+mouth once a day -  (Prescribed by Other Provider)
+HYDRALAZINE - hydralazine 25 mg tablet. 1 tablet(s) by mouth 
+once a day -  (Prescribed by Other Provider)
+ISOSORBIDE MONONITRATE - isosorbide mononitrate ER 30 mg 
+tablet,extended release 24 hr. 0.5 (One half) tablet(s) by mouth 
+once a day -  (Prescribed by Other Provider)
+LEVOTHYROXINE - levothyroxine 125 mcg tablet. 1 tablet(s) by 
+mouth once a day
+METFORMIN - metformin 500 mg tablet. 1 tablet(s) by mouth twice 
+a day -  (Dose adjustment - no new Rx)
+ASPIRIN - aspirin 325 mg tablet. 1 Tablet(s) by mouth once a day
+ 
+Discharge Medications:
+deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+deceased
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+deceased
+ 
+Followup Instructions:
+___

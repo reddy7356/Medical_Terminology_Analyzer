@@ -1,0 +1,548 @@
+===== DISCHARGE NOTE =====
+note_id=19008119-DS-18 | hadm_id=26156317
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+___ Mitral valve repair & annuloplasty (28 mm ___ Future)
+___ Cardiac Catheterization, coronary angiogram
+
+ 
+History of Present Illness:
+This ___ year old female with a known murmur is followed by 
+serial echocardiograms. She presented to an outside hospital in 
+heart failure  requiring admission. She was diuresed and 
+discharged.  She was referred for surgical evaluation of her 
+mitral valve and was admitted today post cardiac catheterization 
+for Heparin bridge with a plan for surgery the next day.
+ 
+Past Medical History:
+Mitral Regurgitation
+h/o Acute diastolic heart failure 
+chronic Atrial fibrillation 
+h/o Deep vein thrombosis 
+Osteoarthritis of left knee with dislocated joint 
+Spinal stenosis
+Hypertension 
+Left hip bursitis 
+Renal calculi 
+s/p Tonsillectomy
+s/p repair left wrist fracture 
+s/p Total abdominal hysterectomy 
+s/p Bilateral cataract surgery
+ 
+Social History:
+___
+Family History:
+father ?MI, grandfather deceased from MI at ___
+ 
+Physical Exam:
+admission:
+
+Pulse:76 reg   B/P  Right: 150/70   Left: 160/68
+Height:5'3"     Weight:68 kg
+
+General: No acute distress 
+Skin: Dry [x] intact [x] rigth groin cath site
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] decreased ROM; no JVD
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur- ___ SEM radiates 
+throughout
+precordium into carotids
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] no palpable masses 
+Extremities: Warm [x], well-perfused [x]  Edema- none 
+Varicosities: bilateral varicosities with multiple spider veins
+Neuro: Grossly intact; MAE ___ strengths; nonfocal exam
+Pulses:
+Femoral      Right: cath site    Left:2+
+DP           Right: 1+  Left: 1+
+___           Right: 1+  Left: 1+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit :  right bruit vs murmur Left bruit vs murmur
+ 
+Pertinent Results:
+___ Echo: No spontaneous echo contrast is seen in the left 
+atrial appendage. Left ventricular wall thicknesses are normal. 
+The left ventricular cavity size is top normal/borderline 
+dilated. Regional left ventricular wall motion is normal. 
+Overall left ventricular systolic function is normal (LVEF>55%). 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion. Mild (1+) aortic regurgitation is seen. 
+The mitral valve leaflets are moderately thickened and 
+myxomatous. There is flail of both anterior and posterior 
+leaflets with evidence of torn chordae on both leaflets 
+prolapsing into the left atrium. Severe (4+) mitral 
+regurgitation is seen. There is no pericardial effusion. 
+POSTBYPASS:
+The patient is on infusions of epinephrine (0.02 mcg/kg/min) and 
+phenylephrine (<1 mcg/kg/min). The repaired mitral valve is not 
+well visualized from all angles but the leaflets are no longer 
+flail and coapt better than before. There is now trace mitral 
+regurgitation without evidence of mitral stenosis (gradient 3 
+mmHg). Mild aortic insufficiency remains. Left ventricular 
+function remains normal. Normal aortic contours.
+___ 07:00AM BLOOD WBC-6.0 RBC-4.54 Hgb-13.9 Hct-39.8 MCV-88 
+MCH-30.5 MCHC-34.8 RDW-14.3 Plt ___
+___ 04:59AM BLOOD WBC-8.8 RBC-3.15* Hgb-9.7* Hct-28.0* 
+MCV-89 MCH-30.8 MCHC-34.7 RDW-14.9 Plt ___
+___ 04:59AM BLOOD ___
+___ 02:47PM BLOOD ___
+___ 04:50AM BLOOD ___
+___ 05:20AM BLOOD ___
+___ 04:59AM BLOOD Glucose-95 UreaN-18 Creat-0.7 Na-131* 
+K-4.1 Cl-97 HCO3-26 AnGap-12
+___ 07:00AM BLOOD Glucose-102* UreaN-12 Creat-0.7 Na-138 
+K-4.6 Cl-103 HCO3-25 AnGap-15
+ 
+Brief Hospital Course:
+Ms. ___ was admitted ___ cardiac catheterization for Heparin 
+bridge with plan for surgery on  ___. The cathetreization 
+revealed nonobstructive disease and carotid ultrasound was 
+likewise insignificant. She underwent the usual pre-operative 
+work-up and on ___ was brought to the Operating Room where she 
+underwent mitral valve repair. Please see operative report for 
+surgical details. 
+
+Following surgery she was transferred to the CVICU for invasive 
+monitoring in stable condition. Within 24 hours she was weaned 
+from sedation, awoke neurologically intact and extubated. 
+Diuresis towards her peroperative weight was instituted and beta 
+blockade resumed. She was transferred to the floor.
+
+She remained in atrial fibrillation and temporary pacing wires 
+and CTs were removed per protocols.  Coumadin was resumed witha 
+target INR of ___.  She was seen by the Physical therapy 
+service for mobility and strength and ready for discharge on POD 
+5.
+Arrangements were made for family to stay with her around the 
+clock and her anticoagulation to be managed as preoperatively 
+by>>>>> 
+
+ 
+Medications on Admission:
+COUMADIN 2 mg ___ 2.5 mg ___ - last dose ___ at 6pm
+fosinopril 20/HCTZ 12.5 mg daily
+lasix 40 mg daily
+magnesium chloride 128 mg daily
+toprol XL 50 mg daily
+KCl 40 mEq daily
+multivitamin daily
+glucosamine 200mg/300mg complex daily
+brewer's yeast 1000 mg daily
+clindamycin prn dental work
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a 
+day for 2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed for pain/temp.  
+4. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain for 4 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+6. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+7. Amiodarone 200 mg Tablet Sig: as ordered Tablet PO BID (2 
+times a day): two tablets twice daily for two weeks then one 
+tablet twice daily for two weeks then one tablet daily.
+Disp:*100 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 10 
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 10 
+days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+11. Coumadin 1 mg Tablet Sig: as directed Tablet PO once a day: 
+2mg  Two tablets) ___, 2.5mg(2.5 tablets) ___ unless 
+otherwise instructed.
+Disp:*100 Tablet(s)* Refills:*2*
+12. Outpatient Lab Work
+___ ___ then as directed. results to Dr. ___ 
+___ or fax at ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mitral Regurgitation 
+s/p Mitral valve repair
+chronic diastolic heart failure
+chronic Atrial fibrillation 
+h/o deep vein thrombosis 
+Osteoarthritis left knee with dislocated joint 
+Spinal stenosis
+Hypertension 
+Left hip bursitis 
+Renal calculi 
+s/p Tonsillectomy
+s/p repair left wrist fracture 
+s/p Total abdominal hysterectomy 
+s/p Bilateral cataract surgery
+
+ 
+Discharge Condition:
+Alert and oriented x3, nonfocal 
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+ 
+Edema none
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month until follow up with 
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19008119-DS-19 | hadm_id=27912339
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cerebral vascular accident
+ 
+Major Surgical or Invasive Procedure:
+Redosternotomy Mitaral valve replacement #25 tissue valve
+
+ 
+History of Present Illness:
+Mrs. ___ is an ___ yo female s/p MV repair on ___ who has
+had multiple TIAs this year with 6 just since ___.  She had a
+stroke in ___ that lasted for 12 hrs.  Most recent was ___ the
+___ with L sided weakness/numbness that last 45 minutes.  
+Also in ___ she had PE and IVC filter. She has been on
+coumadin for the pe and has had a stroke when her INR was
+suprathrapeutic. She has undergone considerable work-up,
+including echo. Echo revealed small mass (thrombus vs
+vegetation). Blood cultures were negative.  Dr. ___ the
+patient in ___ and determined that surgical risk 
+outweighed
+benefit given her age and redo status.  
+She has subsequently been admitted to an outside hospital.  Echo
+reveals an increase in size and complexity of the mass.  She
+remains afebrile with negative blood cultures and no stigmata of
+endocarditis.  She is transferred for surgical evaluation.
+
+ 
+Past Medical History:
+Mitral Regurgitation
+h/o Acute diastolic heart failure 
+chronic Atrial fibrillation 
+h/o Deep vein thrombosis 
+Osteoarthritis of left knee with dislocated joint 
+Spinal stenosis
+Hypertension 
+Left hip bursitis 
+Renal calculi 
+s/p Tonsillectomy
+s/p repair left wrist fracture 
+s/p Total abdominal hysterectomy 
+s/p Bilateral cataract surgery
+ 
+Social History:
+___
+Family History:
+father ?MI, grandfather deceased from MI at ___
+ 
+Physical Exam:
+Pre-op Physical Exam
+Pulse: 65 SR Resp: 15 O2 sat: 100%
+B/P  Right:  120/60  Left: 
+Height:     Weight: 71.6 kg
+General:  NAD, conversant
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender []  + BS [x]
+Extremities: Warm [x], well-perfused [x]  Edema [x] __1+
+No splinter hemorrhages, ___ lesions.  
+Varicosities: None [x]
+Neuro: Grossly intact []x
+Pulses:
+Femoral      Right: 2  Left:2
+DP           Right: 2  Left:2
+___           Right: 2  Left:2
+Radial       Right: 2  Left:2
+Carotid Bruit        Right: x   Left:x
+
+Discharge exam:
+VS T97.2  HR 71 Afib  BP 127/76  RR 18  O2sat 99% RA
+Wt 77.8kg
+Gen: NAD
+Neuro: A&Ox3, MAE. nonfocal exam
+Pulm: diminished left base
+CV: irreg irreg, sternum stable, incision-CDI
+Abdm: soft, NT/NABS
+Ext: warm, well perfused. 1+ bilat ___ edema
+ 
+Pertinent Results:
+Admission labs:
+___ 09:00PM   ___ PTT-37.5* ___
+___ 09:00PM   PLT COUNT-342
+___ 09:00PM   WBC-6.5 RBC-4.50# HGB-13.7# HCT-40.0# MCV-89 
+MCH-30.5 MCHC-34.3 RDW-12.7
+___ 09:00PM   ALBUMIN-4.0 CALCIUM-8.7 PHOSPHATE-2.5* 
+MAGNESIUM-1.9
+___ 09:00PM   LIPASE-57
+___ 09:00PM   ALT(SGPT)-18 AST(SGOT)-23 LD(LDH)-251* ALK 
+PHOS-117* AMYLASE-139* TOT BILI-0.4
+___ 09:00PM   GLUCOSE-113* UREA N-13 CREAT-0.6 SODIUM-136 
+POTASSIUM-3.7 CHLORIDE-103 TOTAL CO2-26 ANION GAP-11
+Discharge Labs:
+___ 05:15AM BLOOD WBC-8.2 RBC-3.41* Hgb-10.5* Hct-31.5* 
+MCV-92 MCH-30.7 MCHC-33.2 RDW-14.8 Plt ___
+___ 06:50AM BLOOD ___
+___ 05:15AM BLOOD Plt ___
+___ 05:15AM BLOOD ___
+___ 06:50AM BLOOD UreaN-15 Creat-0.7 Na-131* K-4.1 Cl-100
+___ 05:15AM BLOOD Glucose-96 UreaN-14 Creat-0.6 Na-135 
+K-4.4 Cl-100 HCO3-27 AnGap-12
+___ 06:50AM BLOOD Mg-2.0
+
+___
+TEE
+Pre-CPB: 1 The left atrium is moderately dilated. No spontaneous 
+echo contrast is seen in the body of the left atrium. The left 
+atrial appendage emptying velocity is depressed (<0.2m/s). No 
+thrombus is seen in the left atrial appendage. 
+2. Left ventricular wall thicknesses and cavity size are normal. 
+
+3. Right ventricular chamber size and free wall motion are 
+normal. 
+4. The ascending, transverse and descending thoracic aorta are 
+normal in diameter and free of atherosclerotic plaque. There are 
+simple atheroma in the descending thoracic aorta. 
+5. There are three aortic valve leaflets. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. Mild to moderate (___) aortic regurgitation is seen. 
+6. A mitral valve annuloplasty ring is present. At least 2 
+vegetations seen on the anterior and posterior leaflets. There 
+is severe valvular mitral stenosis (area <1.0cm2). Due to 
+co-existing aortic regurgitation, the pressure half-time 
+estimate of mitral valve area may be an OVERestimation of true 
+mitral valve area. Mitral valve area was calculated at 0.8-0.9 
+cm2. There is moderate functional mitral stenosis (mean gradient 
+5 mmHg) due to mitral annular calcification. Mild (1+) mitral 
+regurgitation is seen. 
+7. There is no pericardial effusion. 
+Drs. ___ were notified in person of the 
+results.
+Post-CPB: On infusion of phenylephrine. AV pacing for prolonged 
+PR interval. Well seated bioprothetic valve in the mitral 
+postion. Small inferiolateral perivalvular leak. Small central 
+leak. Peak gradient 5 mmHg, mean gradient 4 mmHg at cardiac 
+output of 2.5. Preserved biventricular systolic function. AI and 
+TR remain ___. Aortic contour normal post-decannulation.   
+.
+Radiology Report CHEST (PORTABLE AP) Study Date of ___ 9:48 
+AM 
+Final Report: Since the prior exam, the bilateral chest tubes 
+have been removed.  There are very small bilateral apical 
+pneumothoraces, slightly larger on the right than left.  The 
+right pneumothorax measures approximately 12 mm and the left 
+approximately 7 mm.  There is no evidence of tension.  Bibasilar 
+atelectasis is unchanged.  There is no definite pleural 
+effusion.  There is no pulmonary edema.  Severe cardiomegaly is 
+stable.  The mediastinal contours are unchanged.  Sternal wires 
+are intact.  Mediastinal clips are noted.   
+IMPRESSION: 
+1.  Small biapical pneumothoraces after chest tube removal. 
+2.  Stable bibasilar atelectasis. 
+3.  Stable severe cardiomegaly. 
+The study and the report were reviewed by the staff radiologist. 
+ 
+___. ___ 
+
+___ CT from ___- per verbal report: no official reead at 
+this time.
+Right upper lobe opacity measuring 16x2cm likely hematoma but 
+cannot be sure.
+Substernal fluid collection measuring 6x2cm likely normal 
+post-op changes
+Recommend: followup CT in 6 weeks
+
+ 
+Brief Hospital Course:
+The patient was transferred from outside hospital after several 
+TIA's. She had known mitral valve mass vs vegetation and was 
+preop for redo mitral valve replacement. She brought to the 
+operating room on ___ and underwent mitral valve replacement, 
+please see operative report for details in summary she had: Redo 
+sternotomy and redo mitral valve surgery with mitral valve 
+replacement with a 25 mm ___ Bicor Epic tissue 
+heart valve. Her bypass time was 80 minutes with a crossclamp 
+time of 61 minutes. Overall the patient tolerated the procedure 
+well and post-operatively was transferred to the CVICU intubated 
+on levophed and propofol. She initally had moderate amount of 
+bleeding and required products, she began to manifest tampanade 
+physiology, an echo was performed which confirmed tamponade. She 
+returned to the operating room for exploration and removal of 
+clot and correction of coagulopathy. See operative notes for 
+details. Once returning from the OR she was hemodynamically 
+stable and levophed infusion was weaned. She continue to have 
+moderate chest tube drainage and was given additional red blood 
+cells and platelets on POD#1. Her bleeding resolved and she was 
+extubated on POD#1 without difficulty.
+Once extubated he was alert and oriented and breathing 
+comfortably.  The patient was neurologically intact and 
+hemodynamically stable on no inotropic or vasopressor support. 
+Low dose Beta blocker was initiated at first due to bradycardia 
+and the patient was gently diuresed toward the preoperative 
+weight.  The patient was transferred to the telemetry floor for 
+further recovery on POD2.  Chest tubes and pacing wires were 
+discontinued per cardiac surgery protocol without complication.  
+The remainder of her hospital course was uneventful, she was 
+worked with nursing and physical therapy services for assistance 
+with strength and mobility.  By the time of discharge on POD7 
+the patient was ambulating with assistance the wound was healing 
+and pain was controlled with oral analgesics.  The patient was 
+discharged to ___ in ___ in good condition 
+with appropriate follow up instructions. She is to follow up 
+with Dr ___ in 1 month.
+
+ 
+Medications on Admission:
+Atorvastatin 20mg daily
+Cardizem CD 120mg daily
+Furosemide 40mg daily
+Toprol XL 50mg daily
+Pantoprazole 40mg daily
+KCl 40mEq daily
+Warfarin 2mg daily
+Aspirin 81mg daily
+Calcium Carbonate 500mg daily
+Vit D3 1,000 Units daily
+Magnesium Chloride (slow mag) 64mg BID
+MVI daily
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Atorvastatin 20 mg PO DAILY 
+3. Calcium Carbonate 500 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Pantoprazole 40 mg PO Q24H 
+6. Vitamin D 1000 UNIT PO DAILY 
+___  MD to order daily dose PO DAILY 
+target INR ___ 
+8. Acetaminophen 650 mg PO Q4H:PRN pain 
+9. Amiodarone 400 mg PO DAILY 
+400mg Daily x 1 week then 200mg daily 
+10. Bisacodyl ___AILY:PRN constipation 
+11. Docusate Sodium 100 mg PO BID 
+12. Furosemide 40 mg PO DAILY 
+13. Metoprolol Tartrate 25 mg PO TID 
+14. Milk of Magnesia 30 ml PO DAILY 
+15. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+16. Slow-Mag *NF* (magnesium chloride) 64  Oral bid 
+17. Potassium Chloride 20 mEq PO Q12H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p redo sternotomy/mitral valve replacement/excision of mitral 
+valve mass
+PMH:
+Acute diastolic heart failure admission ___, Mitral 
+regurgitation, atrial fibrillation cardioverted ___, deep vein 
+thrombosis, Osteoarthritis left knee with dislocated joint, 
+spinal stenosis, hypertension, Left hip bursitis, Renal calculi, 
+Mitral Valve repair ___, tonsillectomy, ORIF left wrist 
+fracture, total abdominal hysterectomy, bilateral cataracts 
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, with assistance
+Sternal pain managed with Ultram and tylenol
+Incision: Sternum-healing well no erythema or drainage
+Edema: 1+ bilateral ___
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for one month or while taking narcotics.
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+
+ 
+Followup Instructions:
+___

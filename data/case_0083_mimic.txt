@@ -1,0 +1,394 @@
+===== DISCHARGE NOTE =====
+note_id=12584779-DS-12 | hadm_id=27387568
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+worsening mental status
+ 
+Major Surgical or Invasive Procedure:
+Hemiarthroplasty.  ___
+ 
+History of Present Illness:
+___ is a ___ female with history of advanced
+Alzheimer's dementia who presents after a witnessed fall. She 
+did
+strike her head, it is unclear if she lost consciousness. She
+appears more confused than usual per report. Patient is unable 
+to
+provide history at this time given her mental status.
+ 
+Past Medical History:
+- glaucoma
+- Alzheimer's dementia 
+- hypertension
+- cataracts (bilateral)
+- anemia, unspecified
+- OA of bilateral knees
+- renal artery atherosclerosis 
+- vitamin D deficiency
+- oropharyngeal dysphagia, managed on soft diet 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Not discussed. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=========================
+VS: Temp: 97.7 (Tm 97.7), BP: 109/66, HR: 105, RR: 20, O2 sat:
+93%, O2 delivery: Ra  
+GENERAL: Thin, well-groomed, confused, pulling at gown and not
+answering questions, tracks w eyes
+HEENT: sclera anicteric, L pupil irregularly shaped, R pupil
+round 2mm and reactive, MMM
+CV/PULM: did not allow for exam (became agitated and pushed me
+away, after I had examined abdomen) 
+ABDOMEN: Soft, wincing to palpation over suprapubic area, +BS  
+EXTREMITIES: wwp, no edema 
+NEURO: alert, not oriented in any manner, pupils as above
+otherwise face symmetric, moving all limbs antigravity, trying 
+to
+get out of bed when I walked in 
+
+DISCHARGE PHYSICAL EXAM
+========================
+24 HR Data (last updated ___ @ 923)
+    Temp: 97.9 (Tm 98.3), BP: 144/73 (106-144/63-73), HR: 69
+(69-81), RR: 18, O2 sat: 98% (93-98), O2 delivery: Ra    
+
+GENERAL: Thin, well-groomed, confuse
+HEENT: sclera anicteric, L pupil irregularly shaped, R pupil
+round 2mm and reactive, MMM
+CV: soft II/VI systolic murmur at LUSB, regular rate, 
+JVP~10-11cm
+LUNGS: normal WOB on 3L, anterior lung fields clear but could 
+not
+assess posterior fields due to hip pain from moving 
+ABDOMEN: Soft, not distended, non tender
+EXTREMITIES: wwp, no edema, right hip dressing
+NEURO: alert, oriented to self, pupils as above otherwise face
+symmetric, moving all limbs antigravity
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 05:10AM BLOOD WBC-12.8* RBC-3.71* Hgb-11.1* Hct-33.9* 
+MCV-91 MCH-29.9 MCHC-32.7 RDW-14.3 RDWSD-47.6* Plt ___
+___ 03:39PM BLOOD WBC-14.3* RBC-4.16 Hgb-12.4 Hct-38.2 
+MCV-92 MCH-29.8 MCHC-32.5 RDW-14.0 RDWSD-47.8* Plt ___
+___ 03:39PM BLOOD Plt ___
+___ 05:10AM BLOOD Plt ___
+___ 05:10AM BLOOD ___ PTT-26.7 ___
+___ 05:10AM BLOOD Plt ___
+___ 03:39PM BLOOD Glucose-110* UreaN-24* Creat-1.1 Na-143 
+K-4.9 Cl-102 HCO3-25 AnGap-16
+___ 05:10AM BLOOD Glucose-112* UreaN-24* Creat-1.1 Na-143 
+K-3.9 Cl-104 HCO3-25 AnGap-14
+___ 05:10AM BLOOD Glucose-102* UreaN-23* Creat-0.9 Na-142 
+K-4.0 Cl-106 HCO3-24 AnGap-12
+___ 03:39PM BLOOD ALT-22 AST-29 AlkPhos-76 TotBili-1.3
+___ 03:39PM BLOOD Albumin-4.3
+___ 05:10AM BLOOD Calcium-9.0 Phos-2.7 Mg-1.9
+___ 05:43AM BLOOD Calcium-8.3* Phos-4.1 Mg-1.8
+___ 04:22PM BLOOD Lactate-2.4*
+
+DISCHARGE LABS
+=================
+
+___ 06:17AM BLOOD WBC-8.6 RBC-3.42* Hgb-10.0* Hct-31.6* 
+MCV-92 MCH-29.2 MCHC-31.6* RDW-15.1 RDWSD-51.1* Plt ___
+___ 06:17AM BLOOD Plt ___
+___ 06:26AM BLOOD Plt ___
+___ 06:17AM BLOOD Glucose-97 UreaN-27* Creat-0.8 Na-144 
+K-4.4 Cl-106 HCO3-26 AnGap-12
+___ 06:26AM BLOOD Glucose-97 UreaN-32* Creat-0.9 Na-145 
+K-4.4 Cl-109* HCO3-23 AnGap-13
+___ 06:42AM BLOOD ALT-8 AST-14 LD(LDH)-207 AlkPhos-55 
+TotBili-1.2
+___ 06:17AM BLOOD Calcium-8.3* Phos-2.6* Mg-2.6
+___ 06:42AM BLOOD Hapto-272*
+
+CXR
+====
+Mild pulmonary vascular congestion and bibasilar atelectasis.  
+No displaced 
+rib fracture, though chest radiographs are insensitive for 
+detection of a rib 
+fracture. 
+
+CT C-SPINE
+===========
+ 
+IMPRESSION: 
+  
+  
+1. No acute fracture or prevertebral soft tissue swelling. 
+2. Mild to moderate cervical spondylosis.  Multilevel mild C3 on 
+C4, C4 on C5 
+and T1 and T2 anterolisthesis is likely degenerative in 
+etiology. 
+3. 1.7 cm nodule is seen in the right lobe of the thyroid.  If 
+clinically 
+indicated, this can be further assessed with dedicated thyroid 
+ultrasound if 
+not done previously; see recommendation below. 
+  
+RECOMMENDATION(S):  Thyroid nodule.  Ultrasound follow up 
+recommended. 
+___ of Radiology guidelines recommend further 
+evaluation for 
+incidental thyroid nodules of 1.0 cm or larger in patients under 
+age ___ or 1.5 
+cm in patients age ___ or ___, or with suspicious findings. 
+  
+Suspicious findings include: Abnormal lymph nodes (those 
+displaying 
+enlargement, calcification, cystic components and/or increased 
+enhancement) or 
+invasion of local tissues by the thyroid nodule. 
+
+CT HEAD
+=======
+ 
+IMPRESSION: 
+  
+  
+1. No acute intracranial abnormality. 
+2. Involutional and chronic small vessel ischemic changes. 
+
+R HIP
+======
+IMPRESSION:  
+  
+Impacted and mildly medially displaced right femoral neck 
+fracture with slight 
+varus angulation.  No dislocation. 
+  
+NOTIFICATION:   The findings were discussed by Dr. ___ 
+with Dr. 
+___ on the telephone on ___ at 4:53 pm. 
+
+CTA HIP
+========
+  
+IMPRESSION:  
+  
+Postoperative changes along the right hip, but no evidence for 
+hematoma or 
+active contrast extravasation. 
+  
+
+  
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+--------------------
+___ woman with hx dementia presented to the ED after a 
+mechanical fall, treated for a Klebsiella UTI with 3 days of 
+ceftriaxone, found to have an impacted and mildly medially 
+displaced right femoral neck fracture s/p R hemiarthoplasty 
+___, with course complicated by intermittent hypoxia likely in 
+setting of atelectasis/mucous plugging.
+
+TRANSITIONAL ISSUES
+--------------------
+[ ] Monitor Hg in 1 week ___ (had downtrending Hg in setting of 
+hemodilution and arthroplasty, required one unit of pRBCs, 
+discharge Hg 10.0 on ___
+[ ] Started on lovenox for prophylaxis in setting of 
+arthroplasty, discontinue in month ___, monitor for any 
+signs of bleeding 
+[ ] follow up with orthopedics on ___ 
+[ ] Has R lobe thyroid nodule seen on CT, ultrasound follow-up 
+recommended if within ___
+[ ] WOUND CARE: 
+ - You may shower. No baths or swimming for at least 4 weeks. 
+ - Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment. 
+ - Incision may be left open to air unless actively draining. If 
+draining, you may apply a gauze dressing secured with paper 
+tape. 
+
+ACTIVE ISSUES: 
+# Right femoral neck fracture s/p R hemiarthroplasty ___
+Patient found to have right femoral head fracture ___ fall at 
+nursing facility. s/p R hemiarthroplasty ___ w/o complications. 
+Her pain was managed with scheduled tylenol. She was started on 
+lovenox 40qHS for DVT prophylaxis for one month. End date 
+___.
+
+# Intermittent hypoxia
+Pt with 2 episodes of hypoxia to the ___, with swift recovery to 
+room air. First episode occurred in the immediate post-op 
+period, at which point a CXR was repeated that did not show 
+worsening pulmonary congestion or PNA. Second episode occurred 
+overnight and resolved without specific intervention. These 
+episodes were determined to likely be ___ mucus plugging vs mild 
+chronic aspiration vs atelectasis. There was low concern for 
+pulmonary edema given CXRs and euvolemia on exam. At the time of 
+discharge, the patient was back on Room Air for > 48 hours.
+
+# Anemia
+Came in with Hg 12.4 and downtrended over the first several days 
+of her hospitalization, with nadir at 7.6. This likely occurred 
+in the setting of hemodilution, followed by bleeding from her 
+arthroplasty. She had a normal abdominal/pelvis CT, ordered 
+given concern for possible intraabdominal/retroperitoneal 
+bleeding from her fall and her inability to express pain due to 
+dementia. She received one unit of pRBCs per ortho protocol to 
+transfuse for Hg<8 in elderly. Hg responded appropriately, 
+discharge Hg 10. 
+
+# Fall
+# AMS at dementia baseline, resolved
+Per ED collateral, baseline mental status worsened as she was 
+non verbal and had bouts of aggressiveness. This was attributed 
+to her UTI, treated as below. A non-con CT head was performed in 
+the ED and was unremarkable. Her mental status returned to her 
+normal baseline during hospitalization. 
+
+# Klebsiella UTI
+# leukocytosis, resolved
+# lactic acidosis, resolved
+Pt has a leukocytosis to 14 on admission and slightly elevated 
+lactate with tachycardia, all of which resolved with IV fluids 
+and abx therapy. urine culture grew Klebsiella and she was 
+treated with IV ceftriaxone for 3 days. Discharge wbc 8.6. 
+
+# CKD 3
+Per review ___ labs, pt with baseline Cr 0.9-1.1. She is at 
+her baseline. She was discharged with a Cr 0.8.
+
+# Thyroid nodule, right lobe
+Visualized on CT Spine with normal TSH. Ultrasound follow-up 
+recommended if within ___
+
+CHRONIC ISSUES: 
+# Dementia - alzheimers per hx, continued home memantine 10mg 
+BID and performed delirium precautions
+
+# Oropharyngeal phase dysphagia - on soft diet per instructions 
+from nursing home. on aspiration precautions
+
+# Glaucoma - continued home eye drops per formulary
+
+#CODE STATUS: Confirm DNR/DNI? 
+#CONTACT: ___ (___)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever 
+2. Combigan (brimonidine-timolol) 0.2-0.5 % left eye Q12H 
+3. Bisacodyl 10 mg PR QHS:PRN Constipation - Third Line 
+4. difluprednate 0.05 % left eye QPM 
+5. sodium phosphates ___ gram/118 mL rectal DAILY:PRN 
+6. Ferrous Sulfate 325 mg PO DAILY 
+7. fluorometholone 0.25 % left eye DAILY 
+8. guaiFENesin 200 mg/5 mL oral Q6H:PRN cough 
+9. Memantine 10 mg PO BID 
+10. Milk of Magnesia 30 mL PO Q6H:PRN Constipation - First Line 
+11. Naloxone 0.4 mg IM ONCE MR1:PRN opioid overdose 
+12. Senna 17.2 mg PO QHS 
+13. Timolol Maleate 0.5% 1 DROP RIGHT EYE BID 
+14. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 40 mg SC QPM  
+2.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever  
+3.  Bisacodyl 10 mg PR QHS:PRN Constipation - Third Line  
+4.  Combigan (brimonidine-timolol) 0.2-0.5 % left eye Q12H  
+5.  difluprednate 0.05 % left eye QPM  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  fluorometholone 0.25 % left eye DAILY  
+8.  guaiFENesin 200 mg/5 mL oral Q6H:PRN cough  
+9.  Memantine 10 mg PO BID  
+10.  Milk of Magnesia 30 mL PO Q6H:PRN Constipation - First Line 
+ 
+11.  Naloxone 0.4 mg IM ONCE MR1:PRN opioid overdose  
+12.  Senna 17.2 mg PO QHS  
+13.  sodium phosphates ___ gram/118 mL rectal DAILY:PRN  
+14.  Timolol Maleate 0.5% 1 DROP RIGHT EYE BID  
+15.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+urinary tract infection
+right femoral neck fracture 
+
+SECONDARY DIAGNOSIS
+dementia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___,  
+ 
+___ was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted after you had a fall at your nursing 
+facility   
+ 
+What was done for me while I was in the hospital?  
+- You were found to have a bladder infection, which was treated 
+with IV antibiotics 
+- You were found have a fracture of your right hip, for which 
+you had surgery to repair it
+- You had CT scans of your head and abdomen that did not show 
+any signs of bleeding from your fall
+- You were started on lovenox injections to prevent blood clots 
+after your hip surgery, which you will continue for one month 
+until ___.
+
+What should I do when I leave the hospital?  
+- You should continue doing physical therapy 
+- Resume your regular activities as tolerated, and use Tylenol 
+(650mg every six hours as needed) to manage any pain from the 
+hip surgery 
+- You should take all your medications as prescribed
+- You should go to your appointments listed below  
+WOUND CARE: 
+ - You may shower. No baths or swimming for at least 4 weeks. 
+ - Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment. 
+ - Incision may be left open to air unless actively draining. If 
+draining, you may apply a gauze dressing secured with paper 
+tape. 
+
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

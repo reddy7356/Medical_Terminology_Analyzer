@@ -1,0 +1,220 @@
+===== DISCHARGE NOTE =====
+note_id=17487621-DS-7 | hadm_id=25617436
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right hip pain
+ 
+Major Surgical or Invasive Procedure:
+right hemiarthroplasty
+
+ 
+History of Present Illness:
+___ y/o female w/o PMH who c/o R hip pain s/p fall while walking 
+dog.  Patient was walking dog outside house when she twisted her 
+ankle and fell onto her R hip.  She currently endorses R hip 
+pain.  She was taken to ___ where XR R hip showed 
+a femoral neck fracture.  She was transferred to ___ for 
+further management.  She denies any numbness/tingling.
+ 
+Past Medical History:
+Denies
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+General Evaluation Exam
+Sensorium:           Awake (x) Awake impaired () Unconscious ()
+Airway:              Intubated () Not intubated (x)
+Breathing:           Stable (x) Unstable ()
+Circulation:         Stable (x)   Unstable ()
+
+Musculoskeletal Exam
+Neck   Normal (x)  Abnormal ()   Comments:
+Spine  Normal (x)  Abnormal ()   Comments:
+Clavicle
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Shoulder
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Arm
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Elbow
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Forearm
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Wrist
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Hand
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Pelvis
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Hip
+     R Normal ()  Abnormal (x)    Comments:  no visible bony
+abnormality.  pain upon palpation of greater trochanter.  + log
+roll test.  SILT dp/sp/s/s/t.  ___.  2+ dp/pt.
+     L Normal (x)  Abnormal ()    Comments:
+Thigh
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Knee
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Leg
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Ankle
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Foot
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+
+Vascular:
+Radial   R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+DP       R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+___       R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+
+Neuro:
+Deltoid    R (5) L (5)
+Biceps     R (5) L (5)
+Triceps    R (5) L (5)
+Wrist Flx  R (5) L (5)
+Wrist Ext  R (5) L (5)
+Finger Flx R (5) L (5)
+Finger Ext R (5) L (5)
+Thumb Ext  R (5) L (5)
+___ DIP    R (5) L (5)
+Index Abd  R (5) L (5)
+Thumd Add  R (5) L (5)
+Quad       R (limted ___ pain) L (5)
+Ant Tib    R (5) L (5)
+___        R (5) L (5)
+Peroneal   R (5) L (5)
+___         R (5) L (5)
+
+ 
+Pertinent Results:
+___ 04:50PM   GLUCOSE-106* UREA N-10 CREAT-0.5 SODIUM-139 
+POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-25 ANION GAP-14
+___ 04:50PM   WBC-10.9 RBC-4.60 HGB-13.4 HCT-38.5 MCV-84 
+MCH-29.2 MCHC-34.9 RDW-13.1
+ 
+Brief Hospital Course:
+Patient was evaluated in the emergency room by the orthopaedic 
+trauma service and found to have a right femoral neck fracture.  
+She was admitted to orthopaedic surgery and was prepped for 
+surgery.  On HD#2 she was taken to the OR for right 
+hemiarthroplasty, see operative report for full details.  She 
+tolerated the procedure well without complication.  After a 
+brief stay in the PACU, she was transferred to the floor.
+
+On the flooor, she was transitioned to regular diet and to PO 
+pain meds.  She was started on lovenox daily for DVT 
+prophylaxis.  She worked with ___ daily.
+
+At time of discharge she was afebrile with stable vital signs, 
+tolerating a regular diet, voiding spontaneously and her pain 
+was well controlled
+
+ 
+Medications on Admission:
+Denies
+ 
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain, fever > 100.
+Disp:*60 Tablet(s)* Refills:*2*
+2. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) injection 
+Subcutaneous Q 24H (Every 24 Hours) for 4 weeks.
+Disp:*28 injection* Refills:*0*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for Constipation.
+Disp:*30 Tablet(s)* Refills:*2*
+5. oxycodone 5 mg Capsule Sig: ___ Capsules PO Q3H (every 3 
+hours) as needed for Pain.
+Disp:*90 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+right femoral neck fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Wound Care: 
+- Keep Incision clean and dry. 
+- Do not soak the incision in a bath or pool. 
+
+Activity: 
+- Continue to be weight bearing as tolerated on your right leg.
+
+Other Instructions
+- Resume your regular diet. 
+- Avoid nicotine products to optimize healing. 
+- Resume your home medications. Take all medications as 
+instructed. 
+- Continue taking the Lovenox to prevent blood clots.
+- You have also been given Additional Medications to control 
+your pain. Please allow 72 hours ___ through ___, 9am to 
+4pm) for refill of narcotic prescriptions, so plan ahead. There 
+will be no prescription refils on ___, or 
+holidays. You can either have them mailed to your home or pick 
+them up at the clinic located on ___ 2. We are not allowed 
+to call in narcotic (oxycontin, oxycodone, percocet) 
+prescriptions to the pharmacy. In addition, we are only allowed 
+to write for pain medications for 90 days from the date of 
+surgery.
+- Narcotic pain medication may cause drowsiness. Do not drink 
+alcohol while taking narcotic medications. Do not operate any 
+motor vehicle or machinery while taking narcotic pain 
+medications. Taking more than recommended may cause serious 
+breathing problems.
+
+If you have questions, concerns or experience any of the below 
+danger signs then please call your doctor at ___ or go 
+to your local emergency room.
+ 
+Followup Instructions:
+___

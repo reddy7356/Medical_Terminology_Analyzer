@@ -1,0 +1,283 @@
+===== DISCHARGE NOTE =====
+note_id=12706598-DS-16 | hadm_id=23074989
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers
+ 
+Major Surgical or Invasive Procedure:
+Placement of midline
+
+ 
+History of Present Illness:
+Dr. ___ is an ___ man with PMH significant for asthma
+and elevated PSA s/p prostate biopsy on ___, who presents with
+fevers, rigors, and chills. 
+
+Patient reports that yesterday he underwent a prostate biopsy 
+for
+an elevated PSA.  He notes that he was taking Bactrim prior to
+the procedure, and received gentamicin on the day of the
+procedure.  Procedure was uncomplicated.  He woke up today
+feeling fine, but around ___ AM had sudden onset of severe
+chills, generally feeling unwell, which continued to progress
+despite taking Tylenol. He is not sure if he had fevers, and
+states that he does not remember the entire morning.   He began
+to have some shortness of breath, and was breathing quickly. He
+therefore presented to the ED.
+
+Per Atrius records, patient was found to have a PSA of 8.8,
+confirmed on recheck.  He was seen by urology on ___.  At
+that time, he reported chronic nocturia but no other symptoms. 
+Decision was made for patient to undergo biopsy.  Patient
+completed a course of Bactrim prior to the procedure, and was
+seen in ___ clinic on ___.  He received 80 mg of
+gentamicin.  He was found to have a 1.3 cm nodule at the left
+lateral base. A 12 core biopsy was taken which included multiple
+cores through the abnormal area.
+
+Regarding his asthma, patient states that recently it has been
+much better, and he has not been taking his Symbicort regularly.
+He did take it the two days leading up to the biopsy. 
+
+For low back pain, patient notes that he was taking ibuprofen,
+but was developing worsening shortness of breath. This has now
+been listed as an allergy, and pain is otherwise stable. 
+
+Regarding his thrombocytopenia, per review of records has been
+chronic for several years. 
+
+In the ED:
+
+Initial vital signs were notable for: T 98.2, HR 132, BP 143/80,
+RR 30, 100% RA 
+
+Labs were notable for:
+
+- CBC: WBC 10.3 (85%n), Hgb 15.5, Plt 145
+
+- Lytes:
+
+140 / 101 / 18  
+------------- 122 
+4.9 \ 15 \ 1.5  
+
+- LFTs:  AST: 45 ALT: 29 AP: 88 Tbili: 1.1 Alb: 4.9 
+
+- lactate 4.7 -> 2.0
+
+- flu negative 
+ 
+Studies performed include: a chest xray showing low lung volumes
+with patchy opacities in lung bases, potentially atelectasis,
+with infection or aspiration not excluded 
+
+Consults: Urology was consulted, and recommended no urgent
+surgical intervention, meropenem for broad spectrum coverage, 
+and
+imaging to rule out abscess if not responding to fluids or
+antibiotics 
+
+Patient was given:
+
+___ 15:23 IV CefePIME 2 g  
+___ 15:27 PO Acetaminophen 650 mg 
+___ 16:15 IVF  NS 1000 mL   
+___ 16:15 IV Ondansetron 4 mg  
+___ 16:28 IV MetroNIDAZOLE 500 mg
+___ 17:10 IVF  NS 1000 mL   
+___ 18:03 IVF  NS 1000 mL  
+___ 20:15 IV Meropenem 500 mg 
+
+Vitals on transfer: T 100.0, HR 114, BP 107/54, RR 24, 99% RA 
+
+Upon arrival to the floor, he states that he generally is 
+feeling
+much better, and that his breathing is more comfortable. He is
+not in any pain except for where he bruised his ribs playing
+tennis. 
+
+ 
+Past Medical History:
+Asthma
+Lower Back pain
+Elevated PSA
+ 
+Social History:
+___
+Family History:
+Father died w/AD and diabetes complications at ___. On autopsy 
+was
+found to have two precancerous colon polyps.
+Mother died at legal age, ___, chronological age stated by
+relatives at ___, complications PD but had no known colon cancer
+
+ 
+Physical Exam:
+EXAM
+VITALS: T 99.5, HR 106, BP 95/59, RR 16, 96% RA 
+GENERAL: Alert and in no apparent distress, tired-appearing 
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart tachycardic and regular, no murmur, no S3, no S4.  No
+JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+
+Discharge Exam
+98.4
+___
+Patient well appearing, NAD
+Remainder of exam unchanged
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Admission Labs
+___ 03:00PM BLOOD WBC-10.3* RBC-5.00 Hgb-15.5 Hct-48.0 
+MCV-96 MCH-31.0 MCHC-32.3 RDW-13.2 RDWSD-47.4* Plt ___
+___ 03:00PM BLOOD Glucose-122* UreaN-18 Creat-1.5* Na-140 
+K-4.9 Cl-101 HCO3-15* AnGap-24*
+___ 03:08PM BLOOD Lactate-4.7*
+
+___ Blood cultures 
+ Blood Culture, Routine (Final ___: 
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___. ___ ON ___ AT 
+0250. 
+      GRAM NEGATIVE ROD(S). 
+
+   Anaerobic Bottle Gram Stain (Final ___:    GRAM 
+NEGATIVE ROD(S). 
+
+___ Blood cultures NGTD
+___ C diff NEGATIVE
+
+Discharge Labs
+___ 05:57AM BLOOD WBC-5.0 RBC-4.70 Hgb-14.6 Hct-43.0 MCV-92 
+MCH-31.1 MCHC-34.0 RDW-13.2 RDWSD-45.2 Plt Ct-88*
+___ 05:57AM BLOOD Glucose-112* UreaN-20 Creat-1.2 Na-137 
+K-4.3 Cl-102 HCO3-22 AnGap-___.   E coli sepsis after prostate biopsy:  Patient was 
+hypotensive with elevated lactate and secondary ___ on 
+admission.  He was initially treated with broad spectrum 
+antibiotics including meropenem and cefepime.  He was volume 
+resuscitated and his ___ resolved and his pressures returned to 
+normal (SBP 100-110s) for this patient.  He initially had some 
+nausea which resolved.
+His admission blood cultures grew out E Coli that was resistant 
+to bactrim and ciprofloxacin so he was discharged with 2 weeks 
+of IV ceftriaxone and will followup with Infectious Diseases on 
+the last day of his antibiotic course to determine if he will 
+need any kind of extended oral antibiotic.
+
+2.  Thrombocytopenia:  Platelets 88K on discharge; Asked patient 
+to f/u with PCP to recheck
+
+3.  Diarrhea:  Patient with loose stools on the day of d/c.  C 
+diff negative, so c/w antibiotic associated Diarrhea.  Patient 
+encouraged to increase consumption of yogurt.
+
+Greater than ___ hour spent on care on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+
+ 
+Discharge Medications:
+1.  CefTRIAXone 2 gm IV Q 24H  
+2.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1.  E Coli Sepsis
+2.  Diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dr ___: 
+You were admitted with fevers after your prostate biopsy and 
+were found to have E Coli sepsis that developed as a result of 
+the biopsy.   You were seen by the urologists and the Infectious 
+Disease doctors, and we all agree that your infection can be 
+treated with at least two weeks of IV ceftriaxone.  You had a 
+midline placed for this, and will take the antibiotics at home.  
+You will see the infectious disease doctor (___) on the 
+last day of antibiotics to determine if you need additional 
+medication or if two weeks is sufficient.  
+
+Your platelet count fell during this hospitalization, and I 
+suspect that this is also due to sepsis, and that it will 
+improve with treatment of your infection.  Please follow up with 
+Dr ___ to have your platelet count rechecked.  
+
+You are having some diarrhea, and this is likely antibiotic 
+associated.   I have ordered a C diff test however, which is 
+pending at the time of your discharge.  I will call you over the 
+weekend if the test turns positive.  Please consume foods such 
+as yogurt that have cultures so that healthy bacteria will 
+repopulate your gut.  
+ 
+Followup Instructions:
+___

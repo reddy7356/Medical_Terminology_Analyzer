@@ -1,0 +1,264 @@
+===== DISCHARGE NOTE =====
+note_id=17759395-DS-21 | hadm_id=21510690
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of Breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with h/o HTN, sub-massive PEs 
+in ___ who presented with presyncope. Patient says she 
+felt generalized malaise and weakness on the day of admission 
+before being advised by a friend to seek medical attention. She 
+says she recently stopped coumadin after being on it for initial 
+pulmonary embolism diagnosis in ___ after a 
+medically-managed right tibial fracture in ___. Per her PCP, 
+patient was on Coumadin from ___, and it was stopped 
+due to patient noncompliance at the ___ clinic. 
+At ___ she was found to have extensive pulmonary emboli on 
+CTA. She was recently treated for multiple PEs, including a 
+saddle PE, in ___. EKG at the time showed evidence of RV 
+strain. 
+
+In the ED, initial vitals were: 96.5 94 151/76 19 98% NC. Vitals 
+prior to transfer were: 94 120/64 22 94% NC.  
+
+She was found to be hypoxic (85-87% on RA with improvement to 
+96-99% on 4L) on presentation to ___ with bilateral 
+extensive pulmonary embolisms on CTA. She was started on heparin 
+at 1855 per OMR with bolus of 1830U with PTT goal 60-80. 
+
+She was transferred to ___ @ 1200U/hr. Upon arrival to 
+the floor, initial vitals were 97.5 147/72 94 18 91% 2L. She 
+felt well and denied any complaints.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+HTN  
+Mechanical fall in ___
+
+PAST SURGICAL HISTORY:
+Appendectomy  
+Cholecystectomy
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================
+ Vitals: 97.5 147/72 94 18 91% 2L  
+ General: Alert, no acute distress. Oriented to person, 
+"hospital," and time (although initially thought she was in the 
+cellar)  
+ HEENT: Sclera anicteric, EOMI  
+ Neck: Supple, JVP not elevated  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended  
+ GU: No foley  
+ Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+ Neuro: CNII-XII grossly intact  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+ Vitals: 98.4; 86-99; 105-147/48-88; 93% 3L General: Alert, NAD. 
+Alert and oriented x3. 
+ HEENT: Sclera anicteric, EOMI
+ Neck: Supple, JVP flat  
+ CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+ Lungs: CTAB, no wheezes, rales, rhonchi  
+ Abdomen: Soft, non-tender, non-distended  
+ GU: No foley  
+ Ext: trace edema, WWP, no clubbing, or cyanosis   
+ Neuro: CNII-XII grossly intact  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 01:15AM BLOOD Glucose-183* UreaN-18 Creat-1.1 Na-140 
+K-3.8 Cl-108 HCO3-22 AnGap-14
+___ 01:15AM BLOOD cTropnT-0.11* ___
+___ 06:00AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.1
+___ 01:15AM BLOOD WBC-7.2 RBC-3.89* Hgb-12.0 Hct-36.4 
+MCV-94 MCH-30.8 MCHC-33.0 RDW-14.5 RDWSD-50.1* Plt ___
+___ 01:15AM BLOOD ___ PTT-150* ___
+___ 06:00AM BLOOD ___ PTT-82.7* ___
+
+DISCHARGE LABS:
+===============
+___ 05:40AM BLOOD WBC-5.0 RBC-3.63* Hgb-11.3 Hct-34.6 
+MCV-95 MCH-31.1 MCHC-32.7 RDW-15.2 RDWSD-52.3* Plt ___
+___ 05:40AM BLOOD ___ PTT-33.6 ___
+___ 05:40AM BLOOD Glucose-104* UreaN-28* Creat-1.2* Na-141 
+K-4.1 Cl-108 HCO3-25 AnGap-12
+___ 05:40AM BLOOD Calcium-8.7 Phos-3.9 Mg-2.
+
+Bilateral Lower Extremity veins ___:
+========================================
+FINDINGS:  
+There is normal compressibility, flow, and augmentation of the 
+left common 
+femoral, femoral, and popliteal veins. Normal color flow and 
+compressibility are demonstrated in the posterior tibial and 
+peroneal veins. There is normal respiratory variation in the 
+common femoral veins bilaterally. There is echogenic, 
+noncompressible thrombus in the proximal, mid, and distal common 
+femoral vein.  Additional echogenic, occlusive thrombus is seen 
+in 1 of the paired posterior tibial veins.  The remainder of the 
+visualized veins including the common femoral, popliteal, 1 of 
+the paired posterior tibial, and peroneal veins are patent 
+without evidence of thrombus. No evidence of medial popliteal 
+fossa (___) cyst. 
+  
+IMPRESSION:  
+Acute deep venous thrombosis of the right superficial femoral 
+vein and 1 of the paired posterior tibial veins on the right.  
+No evidence of deep venous thrombosis in the left lower 
+extremity veins.
+
+ECG ___:
+=============
+Sinus rhythm with sinus arrhythmia. Delayed precordial R wave 
+progression.  
+T wave inversions in the inferior and anterior leads which are 
+rather 
+non-specific but could be consistent with ischemia. They are 
+unchanged from 
+previous tracing. Clinical correlation is suggested.  
+
+  Intervals     Axes 
+Rate PR QRS QT QTc (___)    P QRS T 
+86  156 80 402 447            ___ with PMH HTN, sub-massive PEs in ___ who presented 
+with recurrent pulmonary emboli.  
+
+#PE: The patient presented with shortness of breath s/p multiple 
+PEs in ___. Her warfarin was recently discontinued by her 
+PCP given resolution of PEs in ___ on ultrasound and 
+patient noncompliance at ___. We placed the patient 
+on a Heparin gtt during her hospital course. The heparin drip 
+was removed by the patient after overnight episodes of confusion 
+and she was transitioned to Apiximab as per discussions with 
+Pharmacy and Hematology (issues with warfarin noncompliance in 
+the past made this a less attractive option). The patient was 
+satting between 92-99% on ___ NC for the majority of her stay. 
+With an elevated BNP and troponins, a bilateral ultrasound of 
+her lower extremities was performed and indicated 2 acute DVTs 
+in the right lower extremity in the same location of the 
+patient's previous fracture. The patient did not complain of 
+chest pain or shortness of breath prior to discharge.
+
+___: The patient's creatinine level increased from 1.1 to 1.3 
+and she had decreased urine output. We gave the patient 500cc NS 
+bolus to improve her creatinine level and urine output. The 
+patient denied dysuria or polyuria.
+
+#Hypertension: Held amlodipine on admission. The patient had 
+elevated blood pressures during her hospital course but was 
+discharged hemodynamically stable. Amlodipine was restarted on 
+discharge.
+
+#Altered Mental Status: The patient had multiple episodes of 
+confusion in the evening/night hours. She pulled off peripheral 
+IV lines and telemetry and was untrusting of staff. She was 
+given Olanzapine, Seroquel and Trazodone during the course of 
+her hospital stay. The patient became more comfortable when she 
+was able to sit within view of nursing staff on the floor. 
+Etiologies of her altered mental status included delirium, 
+sundowning and infection. The patient remained afebrile with a 
+WBC WNL and had a negative UA and no growth in urine or blood 
+cultures. An EKG was also noted to be in normal sinus rhythm. 
+The plan for patient discharge to a rehab facility will likely 
+improve her mental status by being in a different environment.
+
+=========================
+TRANSITIONAL ISSUES:
+========================= 
+- Vital signs at discharge T 98.4 P ___ BP ___ SaO2 
+93% 3L NC
+- Vital signs per routine
+- Physical therapy
+- Started apixaban on 2.5mg BID 
+- Needs follow-up with PCP on discharge from facility
+- Follow-up scheduled with outpatient pulmonologist
+- DIET: Heart healthy
+- CODE STATUS: DNR/DNI (confirmed)
+- CONTACT: ___, ___
+ 
+Medications on Admission:
+1. Amlodipine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Apixaban 2.5 mg PO BID 
+3. Senna 8.6 mg PO BID:PRN constipation 
+4. Guaifenesin 10 mL PO Q6H:PRN cough 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+Recurrent pulmonary embolism
+
+Secondary diagnosis: 
+Acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of consciousness: alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear. Ms ___,
+
+It was a privilege to care for you at ___ 
+___. You were admitted to the hospital for management 
+of a clot in your lung, known as a pulmonary embolism. We gave 
+you medications to prevent further enlargement of your clot and 
+for the clot to be reabsorbed by your body. We gave you oxygen 
+through your nose to improve your breathing. We looked at images 
+of your legs and saw clots in your legs which were also treated 
+with the same medication, heparin. We gave you some fluids to 
+help increase your urination output. You responded well to the 
+medication and your breathing improved significantly.
+
+We have arranged for you to have an appointment wtih your PCP, 
+Dr ___ pulmonologist, Dr ___. Please feel free to 
+contact their offices or contact the hospital sooner if you have 
+any questions or other important issues.
+
+Thank you for letting us participate in your care.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

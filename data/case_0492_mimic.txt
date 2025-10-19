@@ -1,0 +1,591 @@
+===== DISCHARGE NOTE =====
+note_id=19422103-DS-15 | hadm_id=27496648
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ h/o ESRD on HD and HTN, presents with palpitations and 
+chest pain during HD. He was in his usual state of health prior 
+to HD session on day of admission. About 2 hours into HD, he 
+developed palpitations, dyspnea, nausea, and substernal chest 
+pain. He denies any similar previous episodes. EKG at HD showed 
+a-fib. He was given full-dose ASA and 1 dose of IV diltiazem en 
+route to ___. Upon arrival at ___, he was in NSR 
+and chest pain had resolved. While in the ED, he had another 
+episode of chest pain, which lasted for ~5 minutes. EKG showed 
+deepening anterolateral TWIs. He was started on a heparin gtt 
+and transferred to ___.  
+In our ED, he was in NSR and did not have any chest pain.  
+Vitals in the ED: 98.2 76 167/93 16 98%  
+Labs notable for: trop-T 0.13, Cr 5.8, PTT 53.9  
+Patient given: IV Heparin, atorvastatin 80mg, metoprolol 12.5mg  
+
+Vitals prior to transfer: 97.4 78 142/93 18 100% Nasal Cannula  
+On the floor, he is chest pain-free and has no other complaints.
+ 
+Past Medical History:
+ESRD on HD  
+HTN 
+
+ 
+Social History:
+___
+Family History:
+Mother: CVA  
+Father: died from complications of DM
+ 
+Physical Exam:
+ADMISSION EXAM:
+==================
+
+Vitals - 98.0 ___ 96%RA  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, NECK: nontender supple neck, no LAD, JVP elevated to 
+mandible w/ patient at 45 degrees.  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: mild bibasilar crackles. Breathing comfortably on room 
+air.  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose. LUE AVF w/ palpable thrill and audible 
+bruit.  
+NEURO: a&ox3. no focal deficits  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE EXAM:
+==================
+
+Vitals: Tm 98.4/Tc 97.9, HR 86, BP 162/114, RR 20, SaO2 98% RA  
+GENERAL: ___ gentleman lying comfortably in bed, 
+NAD.  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM NECK: Supple neck, no LAD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: Nonlabored breathing, lungs clear anteriorly  
+ABDOMEN: Nondistended, +BS, soft, nontender.  
+EXTREMITIES: No cyanosis, clubbing or edema, moving all 4 
+extremities with purpose. LUE AVF w/ palpable thrill and audible 
+bruit.  
+NEURO: AAOx3, no focal deficits.  
+SKIN: Warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+
+___ 01:00AM BLOOD WBC-5.9 RBC-4.79 Hgb-14.0 Hct-40.2 MCV-84 
+MCH-29.1 MCHC-34.7 RDW-18.0* Plt ___
+___ 01:00AM BLOOD Neuts-71.5* ___ Monos-6.1 Eos-2.0 
+Baso-0.7
+___ 01:00AM BLOOD ___ PTT-53.9* ___
+___ 01:00AM BLOOD Glucose-88 UreaN-37* Creat-5.8* Na-139 
+K-3.7 Cl-97 HCO3-33* AnGap-13
+___ 01:00AM BLOOD CK(CPK)-194
+___ 01:00AM BLOOD Calcium-8.7 Phos-3.8 Mg-2.0
+
+DISCHARGE LABS:
+==================
+
+___ 06:28AM BLOOD WBC-7.3 RBC-5.02 Hgb-14.2 Hct-42.7 MCV-85 
+MCH-28.4 MCHC-33.4 RDW-18.2* Plt ___
+___ 06:28AM BLOOD Glucose-97 UreaN-47* Creat-7.6*# Na-139 
+K-3.9 Cl-102 HCO3-27 AnGap-14
+___ 07:06AM BLOOD CK(CPK)-185
+
+INTERIM LABS:
+==================
+
+___ 01:00AM BLOOD cTropnT-0.13*
+___ 07:06AM BLOOD CK-MB-5 cTropnT-0.16*
+___ 01:00PM BLOOD CK-MB-5 cTropnT-0.15*
+
+IMAGING:
+==================
+CXR (___):  
+The lung volumes are normal. The patient is in a moderate to 
+severe pulmonary edema. Mild cardiomegaly. No pleural effusions. 
+No pneumonia. 
+ 
+TTE (___):  
+IMPRESSION: Moderate left ventricular hypertrophy with preserved 
+regional and global systolic function and reduced longitudinal 
+strain of the basal segments, which may be consistent with 
+amyloidosis. Thickened mitral valve with trivial mitral 
+regurgitation. Normal biventricular systolic function. Moderate 
+pulmonary hypertension. Small secundum ASD vs. stretched PFO. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with a h/o ESRD on HD and 
+HTN, who presented with palpitations and chest pain during HD, 
+found to have new Afib and NSTEMI.  
+ 
+# NSTEMI:  Patient presented with chest pain, a troponin leak, 
+and dynamic EKG changes.  His chest pain resolved in the ED.  It 
+was unclear if patient had a type 1 NSTEMI leading to new Afib 
+or demand ischemia secondary to atrial fibrillation.  Patient 
+was started on a heparin gtt.  He was continued on ASA, 
+atorvastatin, and lisinopril.  A left heart catheterization was 
+deferred.
+
+# Atrial fibrillation:  Patient has no history of arrhythmia.  
+He spontaneously cardioverted to NSR at OSH and remained in 
+sinus rhythm throughout the hospitalization.  TSH was normal at 
+OSH.  Patient was switched from labetalol to carvedilol for 
+better blood pressure control.  Given CHADS2 score of 1, 
+warfarin was deferred.  Patient was discharged on ASA 325.
+
+# RVH/LVH:  TTE was very concerning for amyloidosis.  There was 
+evidence of severe pulmonary edema on CXR, but patient was 
+breathing comfortably and not hypoxic.  He appeared euvolemic on 
+exam.  Patient will be scheduled to see a cardiologist for 
+further evaluation of possible amyloidosis (i.e. a cardiac MRI, 
+serum markers).     
+
+# ESRD:  Patient was continued on T, Th, Sa HD schedule.
+
+# Hypertension:  Patient was mildly hypertensive.  He was 
+switched from labetalol to carvedilol 12.5 mg bid for better 
+blood pressure control.  He was continued on lisinopril 
+(reportedly on 40 mg bid), but on 20 mg daily.
+
+TRANSITIONAL ISSUES:
+======================
+[ ] Patient is scheduled to follow-up with cardiology for 
+further evaluation of possible cardiac amyloidosis, including 
+cardiac MRI. 
+[ ] Uptitrate lisinopril and carvedilol as needed for 
+hypertension.
+[ ] Patient was started on ASA 325 mg for stroke reduction given 
+CHADS2 of 1.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Prochlorperazine ___ mg PO Q8H:PRN nausea 
+2. Tamsulosin 0.4 mg PO QHS 
+3. Lisinopril 20 mg PO BID 
+4. Omeprazole 20 mg PO DAILY 
+5. sevelamer CARBONATE 3200 mg PO TID W/MEALS 
+6. Vitamin D ___ UNIT PO DAILY 
+7. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1. Lisinopril 20 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Prochlorperazine ___ mg PO Q8H:PRN nausea 
+4. sevelamer CARBONATE 3200 mg PO TID W/MEALS 
+5. Tamsulosin 0.4 mg PO QHS 
+6. Vitamin D ___ UNIT PO DAILY 
+7. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+8. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth HS Disp #*30 Tablet 
+Refills:*0
+9. Carvedilol 12.5 mg PO BID 
+RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+10. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+====================
+Non-ST elevation MI
+Atrial fibrillation
+Possible cardiac amyloidosis
+
+SECONDARY DIAGNOSES:
+=====================
+End stage renal disease
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your stay at ___.  You 
+were admitted for chest pain and an abnormal fast heart rhythm 
+called atrial fibrillation.  An EKG and labs showed that you had 
+a mild heart attack, likely brought on by the fast heart rate.  
+You were given medications to treat this, and your chest pain 
+resolved.  Your heart returned to a normal rhythm.  
+
+An ultrasound of your heart suggested that you may have a 
+condition called cardiac amyloidosis, which is a condition that 
+causes progressive heart failure.  We are working to schedule an 
+appointment with a cardiologist at ___, and it is very 
+important to keep this appointment because there are additional 
+tests that need to be done, and potentially advanced treatment 
+to help slow the progression of heart failure.  This is 
+extremely important!!  If you are having difficulty scheduling 
+follow-up through ___, please call ___ for 
+assistance, at Location: ___ CARDIOLOGY 
+Address: ___, ___ 
+Phone: ___ 
+
+You were started on a full-dose aspirin to reduce your risk of 
+stroke (given your abnormal heart rhythm).  We switched your 
+blood pressure medication (labetalol) to carvedilol, which is 
+better for your heart.  We also started you on several 
+medications (aspirin and atorvastatin) that are very important 
+to help prevent future heart attacks.
+
+We wish you good health!
+-Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19422103-DS-16 | hadm_id=27592036
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AMS, Intracranial/Intraventricular Hemorrhage
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man who presented as a 
+transfer
+from OSH with an ICH. Patient was in his usual state of health
+yesterday evening. The morning, he was noted to be altered,
+prompting his family to bring him to the ED. 
+
+He was hypertensive on arrival to outside hospital. CT showed
+intraventricular and intraparenchymal hemorrhage. He was started
+on nicardipine for blood pressure control. Right femoral line
+placed at outside hospital. Patient oriented to self, 
+disoriented
+to place and time. Denies fevers, chills, nausea, vomiting, 
+chest
+pain, shortness of breath, changes in vision or hearing, new
+rash, lesion, wound, change in bowel or bladder function. 
+
+ 
+Past Medical History:
+HTN
+ESRD
+GERD
+BPH
+NSTEMI vs Amyloidosis ___
+AFib on Warfarin
+Anemia
+HFpEF
+
+ 
+Social History:
+___
+Family History:
+Father DM
+Mother HTN
+Grandfather ___ Cancer
+ 
+Physical Exam:
+GEN:    lying in bed in NAD. appears older than stated age.
+HEENT:  PERRL, EOMI
+___:    RRR nl s1/s2 +s3, no murmur
+PULM:   CTABL on anterior auscultation without increased WOB
+ABD:    soft NT ND +BS
+EXTR:   WWP without edema over BLE. nonfunctioning LUE AVF with
+multiple aneurysms. RUE AVF dressed, clean/dry. +thrill. 
+NEURO:  AOx3. CN2-12 intact. motor ___ bilateral UE and ___
+intact to LT throughout. 
+
+ 
+Pertinent Results:
+___ 06:02AM BLOOD WBC-4.9 RBC-3.74* Hgb-10.4* Hct-32.6* 
+MCV-87 MCH-27.8 MCHC-31.9* RDW-18.4* RDWSD-58.7* Plt ___
+___ 07:22AM BLOOD Glucose-116* UreaN-24* Creat-7.2*# 
+Na-134* K-3.6 Cl-95* HCO3-21* AnGap-18
+___ 06:30AM BLOOD ALT-15 AST-15 AlkPhos-163* TotBili-1.0
+___ 07:22AM BLOOD Calcium-9.0 Phos-3.3 Mg-1.6
+___ 06:39AM BLOOD calTIBC-228* ___ Ferritn-1199* 
+TRF-175*
+
+Noncontrast head CT: Incomplete head CT excludes the vertex.
+Hyperdensity within the left temporal lobe corresponds to known
+intraparenchymal hemorrhage with intraventricular extension into
+the lateral ventricle temporal horn. Overall, the appearance is
+similar to the study from 7 hours prior. Periventricular and
+subcortical white matter hypodensities are nonspecific but 
+likely
+sequelae of chronic small vessel ischemic disease. Incidental
+note is
+made of bilateral optic nerve hyperdensities, likely
+calcifications.
+
+CTA head and neck: Calcifications are noted at the bilateral
+C4-C5 ICA and origin of the right vertebral artery without flow
+limitation. The bilateral posterior cerebral arteries are
+difficult to visualize beyond the P2 segments. Otherwise, the
+major vessels of the neck, circle of ___, and their principal
+intracranial branches appear without flow limiting stenosis,
+occlusion, or formation of aneurysms larger than 3 mm. 
+
+CXR: Interval progression of pulmonary edema since exam from
+earlier the same day. Superimposed infection is not excluded.
+
+EKG: QTc 583, TWI in V5-V6, Possible LBBB
+
+ 
+Brief Hospital Course:
+___ year old male with history of ESRD on HD, diastolic CHF with 
+prior question of amyloidosis, and atrial fibrillation on 
+warfarin admitted ___ with intracranial hemorrhage in the 
+setting of hypertensive emergency, medically managed, course 
+complicated by labile blood pressures, 
+
+# Hypertensive emergency 
+# Intraventricular Bleed
+Patient presented with confusion and was found to have 
+spontaneous left temporal horn primary intraventricular 
+hemorrhage. in setting of severe hypertension (220s systolic) 
+after missed dialysis. He was started on nicardipine drip.  
+Given that his INR was subtherapeutic at 1.4, he did not require 
+reversal. Upon evaluation by neurosurgery, he did not require 
+EVD placement as the his exam was stable and repeat imaging 
+showed the bleed to be stable as well. His home warfarin was 
+held and repeat CT after 7 days showed stability. Due to concern 
+about the possibility for repeat bleed if he continues to miss 
+hemodialysis or does not reliably take his home blood pressure 
+medications, he was transitioned from warfarin to ASA 81mg. 
+Following the intraventricular bleed, his blood pressure goal 
+was initially set at systolic < 150mmHg and long term systolic < 
+130mmHg---however, this was further modified due to concern for 
+inaccurate blood pressure readings in his upper extremity: the 
+decision was made to monitor his blood pressure in his left arm 
+and leg and to adjust his BP goal based on the average between 
+BP in the arm and the leg, with the blood pressure goal was set 
+to systolic <160, with long term goal of systolic < 140. During 
+the remainder of his hospitalization, his blood pressure 
+remained labile, with a final, stable regimen of lisinopril 40mg 
+qam, nifedipine ER 60mg qhs, and labetalol 100 TID resulting in 
+control.  Patient is planned for follow up with neurology at 
+___ in ___ weeks for reevaluation with CT head noncontrast and 
+risk/benefit discussion re: whether to restart home warfarin.  
+Of note, patient seen by OT given Intraventricular Bleed--he was 
+independent with basic ADLs, but required supervision ambulating 
+without assistive device, demonstrated poor insight into home 
+safety, unable to complete medication management.  He was 
+recommended for home with 24 hours services. 
+
+# Acute Hypoxemic Respiratory Failure secondary to
+# Acute on chronic diastolic CHF 
+On admission, patient with hypoxemia respiratory failure, 
+improved with 2L O2 on nasal cannula. CXR shows volume overload 
+with JVD and high BNP, though no leg edema. He was given IV 
+Lasix without significant urinary response. He subsequently had 
+additional volume removed through dialysis. He was weaned to 
+room air. 
+
+# Paroxysmal A Fib on Warfarin: CHADsVASC 4. HASBLED 4.
+Remained in sinus rhythm this admission. As above, he had been 
+on warfarin for anticoagulation, but this was held in setting of 
+bleed.  Due to concerns about patient's ability to reliably take 
+his medications and attend HD, and his high risk for repeat 
+bleed with his difficult to control BPs, his home warfarin was 
+transitioned to ASA 81mg. Patient is planned for follow up with 
+neurology at ___ in ___ weeks for reevaluation with CT head 
+noncontrast and risk benefit discussion re: warfarin.  
+
+# Thrombocytopenia:
+On admission, patient's platelet count was 144k and slowly 
+downtrended for several days, reaching a nadir of 95k. As his 
+neurological exam was stable, it was assumed to be related to 
+consumption of platelets in setting of intracranial bleed. His 
+platelet count improved to 143k prior to discharge.
+
+# Elevated Troponin:
+Upon admission, patient with elevated troponin to 0.09 without 
+chest pain.  TTE without new focal wall motion abnormalities. 
+
+# ESRD, Non-Oliguric
+Patient with ESRD on HD MWF. He received dialysis throughout his 
+hospital admission on a ___ schedule.
+
+# Mitral Stenosis
+TTE incidentally showed moderate to severe mitral stenosis.  
+Would consider outpatient cardiology referral; 
+
+Transitional issues 
+[] Blood pressure goals and approach as above 
+[] Please continue to hold patient's warfarin until upcoming 
+neurology appointment for CT head and risk/benefit discussion 
+re: restarting anticoagulation
+[] During prior admission was recommended for cardiac MRI for 
+workup for possible amyloidosis; he denied following up on this; 
+consider outpatient referral; 
+[ ] Incidentally found to have "Nonspecific asymmetry of the 
+base of the toe, which is enlarged on the right side. While this 
+may represent asymmetrical tongue base lymphoid tissue, a tongue 
+base lesion cannot be excluded." Recommended for "ENT referral, 
+CT neck and direct visualization, for further assessment of the 
+possible right sided tongue base lesion is suggested if 
+clinically warranted.". 
+[ ] incidentally found to have CT chest with "mediastinal and 
+hilar lymph nodes are enlarged and some which are calcified, 
+could be related to prior granulomatous disease."; also showed 
+"Multiple scattered bilateral pulmonary nodules some which which 
+are calcified could also represent granulomatous disease."  
+Consider outpatient workup 
+[ ] TTE incidentally showed moderate to severe mitral stenosis.  
+Would consider outpatient cardiology referral; 
+
+> 30 minutes spent on discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 80 mg PO QPM 
+2. CARVedilol 12.5 mg PO BID 
+3. Labetalol 100 mg PO DAILY 
+4. Zolpidem Tartrate 5 mg PO QHS:PRN Insomnia 
+5. Vitamin D ___ UNIT PO DAILY 
+6. Lisinopril 20 mg PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Tamsulosin 0.4 mg PO DAILY 
+9. Prochlorperazine 5 mg PO DAILY:PRN Nausea/Vomiting - First 
+Line 
+10. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+11. Fluticasone-Salmeterol Diskus (100/50) 1 INH IH BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Nephrocaps 1 CAP PO DAILY 
+RX *B complex with C 20-folic acid ___ Caps] 1 mg 1 capsule(s) 
+by mouth once a day Disp #*30 Capsule Refills:*0 
+3.  NIFEdipine (Extended Release) 60 mg PO DAILY 
+RX *nifedipine 60 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Labetalol 100 mg PO TID 
+RX *labetalol 100 mg 1 tablet(s) by mouth three times a day Disp 
+#*90 Tablet Refills:*0 
+5.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+6.  Atorvastatin 80 mg PO QPM  
+7.  Fluticasone-Salmeterol Diskus (100/50) 1 INH IH BID  
+8.  Omeprazole 20 mg PO DAILY  
+9.  Prochlorperazine 5 mg PO DAILY:PRN Nausea/Vomiting - First 
+Line  
+10.  sevelamer CARBONATE 800 mg PO TID W/MEALS  
+11.  Tamsulosin 0.4 mg PO DAILY  
+12.  Vitamin D ___ UNIT PO DAILY  
+13.  Zolpidem Tartrate 5 mg PO QHS:PRN Insomnia  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Intraventricular hemorrhage
+
+Secondary diagnoses:
+HTN
+ESRD on HD
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent with poor memory.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had a bleed in your brain that 
+was likely due to high blood pressure.  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-  Due to the location of the bleed and your minimal symptoms, 
+no surgery was performed for the bleed. Your warfarin, a blood 
+thinner, was stopped and your blood pressure was treated. 
+- You were started on aspirin to replace your previous blood 
+thinner. 
+- Your blood pressure continued to remain high despite several 
+changes to your blood pressure medications. You will be sent 
+home on the final medications that was able to control your 
+blood pressure. 
+- You had imaging of your brain that demonstrated that you were 
+not having additional bleeding in your brain and that the bleed 
+had started to disappear. 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

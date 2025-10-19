@@ -1,0 +1,733 @@
+===== DISCHARGE NOTE =====
+note_id=11983894-DS-19 | hadm_id=23349121
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+encephalopathy
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with epilepsy, intellectual disability, hyponatremia,
+hypothyroidism who presented to the ED from her group home after
+having a seizure, on whom neurology has been consulted due to
+concern for seizure.
+
+History was obtained from ED dash as patient could not provide
+history at time of evaluation.
+
+Patient was sent in from group home after having a seizure. EMS
+noted that patient may have had "possible tremors, with left eye
+deviation concerning for seizure activity".  Reportedly AAO x3 
+at
+baseline, normally verbal able to follow commands. Patient was
+given 2 mg of versed by EMS.  In the ED, patient reportedly had
+left eye deviation, left arm and leg tremor, although was
+intermittently responsive.  Per RN at bedside, she was able to
+say her name one time, but no other verbal output and no
+commands.  Patient then received 2 mg IV Ativan prior to getting
+a central line (could not obtain PIV access).  I attempted to
+call patient's group home at ___ for further information;
+however no one answered.
+
+Patient was admitted to neurology service from ___ to ___
+when she presented with focal status epilepticus consisting of
+left-sided facial twitching, left gaze deviation.  At that time,
+the etiology of her seizure was thought to be subtherapeutic
+phenytoin and acute on chronic hyponatremia with admission 
+sodium
+of 126 (or 128?).  During this admission, her phenytoin was
+increased to 130 mg twice daily from 100/130.  Her salt tab
+frequency was also increased to 1000 milligrams twice daily.  
+
+From prior admission note, 
+"Of note, Ms. ___ has intellectual disability, but is fairly
+independent. She lives in a group home and goes to day program.
+She is conversant. Toileting, dressing, eating independently. 
+The meals are prepared for her, and she does not shop or handle
+finances independently. All medications are administered by the
+group home where she resides.
+
+Seizure history:
+Had first life-time seizure at age of ___, has infrequent
+seizures, last one ___ years ago. In the past, her seizures have
+been triggered by hyponatremia or trial of phenytoin wean. Her
+epilepsy has been well controlled on valproic acid ___ BID and
+phenytoin 100mg AM/130mg ___
+
+ROS: Could not be obtained as patient cannot provide this
+information and group home could not be reached
+
+ 
+Past Medical History:
+HYPONATREMIA                                                    
+HYPOTHYROIDISM                                                  
+DEPRESSION                                                      
+EPILEPSY                                                        
+FRACTURED BONE                                                  
+MENTAL RETARDATION                                              
+OSTEOPENIA                                                      
+POSTMENOPAUSAL                                                  
+ROSACEA                                                         
+STRABISMUS                                                      
+HYPERLIPIDEMIA                                                  
+HYPONATREMIA                                                    
+
+ 
+Social History:
+___
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother                UNKNOWN                                   
+
+Father                UNKNOWN                                   
+
+Comments: SISTER guardian ___ uncertain                   
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION: 
+Vitals: T: 98.6 BP: 102/60 HR: 75 RR: 16 SaO2: 99
+General: Somnolent, lying in bed, requires strong tactile
+stimulus to open eyes
+HEENT: NC/AT, no scleral icterus noted, MMM
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Extremities: No ___ edema. 
+Skin: No rashes or lesions noted.
+
+Neurologic: Severely limited as patient had just received IV
+Ativan prior to neurology evaluation
+-Mental Status: Somnolent, eyes closed but will open to strong
+tactile stimulus.  Grunts in response to noxious, but no other
+verbal output.  Was able to squeeze examiner's hand on the 
+right,
+and let go.  No other commands.  Does not respond when asked for
+name or location.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm.  At time of neurology
+evaluation, patient had right eye deviation.  She was able to
+look towards examiner on the right.  On the left side, patient
+was able to briefly cross midline, but did not bury sclera. 
+Roving eye movements noted at rest.  BTT on right but not on the
+left.  Per ED, patient at baseline has "visual deficit" on her
+left.
+VII: No facial droop noted at rest
+
+-Sensory/motor: Patient was antigravity in both upper 
+extremities
+at the elbow in response to noxious.  In the lower extremities,
+patient was antigravity at the knee in response to noxious.
+
+-Reflexes:
+Could not be obtained as patient did not relax
+Toes appear upgoing bilaterally, although patient briskly
+withdrew her feet response to noxious
+
+-Coordination: Could not be obtained
+
+-Gait: Deferred
+
+DISCHARGE PHYSICAL EXAMINATION
+
+___, 12:00 ___, T97.8, HR 86, RR11, BP113/83, O2 99%, 
+reviewed
+in Metavision
+ General: Awake, alert cooperative, NAD.
+ HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted 
+in
+oropharynx
+ Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+ Pulmonary: Lungs CTA bilaterally without R/R/W
+ Cardiac: RRR, nl. S1S2, no M/R/G noted
+ Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. No hematoma or tenderness at femoral line
+removal site
+ Extremities: No ___ edema.
+ Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented to self and place, says it is
+___. She says that she would like to go home. Intact
+comprehension. No paraphasic errors. Pt was able to name both
+high and low frequency objects.  Speech was not dysarthric 
+today.
+Able to follow both midline and appendicular instructions with
+significant coaching and encouragement. There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 2.5 to 2mm and brisk. right eye 
+slightly
+exotropic, right beating nystagmus on primary gaze, limited
+upgaze, does not bury sclera bilaterally. Normal saccades. 
+ V: Facial sensation intact to light touch.
+ VII: right nasolabial fold flattening, smile symmetric.
+ VIII: Hearing intact to finger-rub bilaterally.
+ IX, X: Palate elevates symmetrically.
+ XI: ___ strength in trapezii and SCM bilaterally.
+ XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+ No adventitious movements, such as tremor, noted. No asterixis
+noted. 
+
+-Motor: Normal bulk and tone, no adventitious movements
+RUE: delt ___, biceps ___, triceps ___, finger flexion ___
+LUE: delt ___, biceps ___, triceps ___, finger flexion ___
+RLE: IP: ___, kicks and moves leg antigravity
+LLE: IP: ___, kicks and moves leg antigravity
+
+-Sensory: No deficits to light touch
+
+-Coordination: No intention tremor. No dysmetria on FNF
+bilaterally.
+
+-Gait: deferred
+ 
+Pertinent Results:
+MRI-B ___ -
+ 1. No no evidence of mass, hemorrhage or recent infarction.
+2. Chronic bifrontal infarcts.
+3. Nonspecific bilateral supratentorial T2/FLAIR hyperintense 
+foci, which may
+represent the sequelae of chronic microangiopathy.
+
+CTH ___ - 
+ 
+1. No acute intracranial abnormalities.
+2. Chronic microvascular angiopathy and chronic infarcts in the 
+frontal lobes
+bilaterally.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of
+epilepsy (GTC on depakote and dilantin), intellectual 
+disability,
+chronic hyponatremia, hypothyroidism, who presented to the ED
+from her group home where she had an episode concerning for
+breakthrough seizure. She spiked a fever to 102 in the ED, and 
+was started on broad spectrum meningitic coverage. An LP was 
+done which was bland. She had a CTH with diffuse atrophy, no 
+acute process. There was evidence of pneumonia on CXR, which was 
+thought to be the most likely source of fever and thus her 
+antibiotics were tapered to target community acquired pneumonia 
+(as living in a group home setting is considered community 
+acquired). This infection was thought to be the provoking 
+etiology of seizure, as her AED levels were within normal limits 
+and she had only mild hyponatremia in line with her previous 
+ranges. While hospitalized, her pneumonia was treated with 
+cefepime, which was transitioned to ceftriaxone, and she 
+completed a 5 day course. She was found to be subtherapeutic on 
+her AEDs (likely secondary to missed dose in the ED), which were 
+reloaded, and her home doses were continued. She was evaluated 
+by ___ who initially recommended rehab but on subsequent 
+evaluation cleared her for home. Her home medications were 
+continued. MRI brain was done to look for stroke as possible 
+provoking etiology of seizure (and R NLFF on exam) however this 
+was normal. Patient was at her neurological baseline at time of 
+discharge and will follow up with her outpatient neurologist at 
+___, which was discussed with her group home manager.
+
+# Breakthrough Seizure
+- EEG reassuring without any seizure activity
+- MRI- B no evidence of acute findings
+- continue home dose Depakote 500mg BID and phenytoin 130mg BID
+
+# Community Acquired Pneumonia
+- Cefepime and Vancomycin transitioned to Ceftriaxone completing 
+a total of 6 days of antibiotics ___ levofloxacin 
+due to seizures)
+
+#Hyponatremia - chronic issue, reportedly due to SIADH
+- Responded well to fluid restriction of 2L daily, slowly 
+normalizing over 3 days. Recommend follow up with PCP, as 
+hyponatremia should be avoided as it can precipitate seizure.
+
+Transitional Issues
+- follow up free Dilantin level (send out), still pending at 
+discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. alclometasone 0.05 % topical ASDIR 
+2. calcium carbonate-vitamin D3 1500 -400 mg oral BID 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 20 mg PO QPM 
+5. DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+6. Famotidine 20 mg PO BID 
+7. FLUoxetine 20 mg PO QAM 
+8. Levothyroxine Sodium 88 mcg PO DAILY 
+9. Oxybutynin 5 mg PO QHS 
+10. FoLIC Acid 1 mg PO DAILY 
+11. Ketoconazole 2%  1 Appl TP ASDIR 
+12. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+13. Divalproex (EXTended Release) 500 mg PO BID 
+14. Sodium Chloride 1 gm PO BID 
+15. Phenytoin Sodium Extended 130 mg PO BID 
+
+ 
+Discharge Medications:
+1.  alclometasone 0.05 % topical ASDIR  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 20 mg PO QPM  
+4.  calcium carbonate-vitamin D3 1500 -400 mg oral BID  
+5.  DiphenhydrAMINE 25 mg PO QHS:PRN insomnia  
+6.  Divalproex (EXTended Release) 500 mg PO BID  
+7.  Famotidine 20 mg PO BID  
+8.  FLUoxetine 20 mg PO QAM  
+9.  FoLIC Acid 1 mg PO DAILY  
+10.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild  
+11.  Ketoconazole 2%  1 Appl TP ASDIR  
+12.  Levothyroxine Sodium 88 mcg PO DAILY  
+13.  Oxybutynin 5 mg PO QHS  
+14.  Phenytoin Sodium Extended 130 mg PO BID  
+15.  Sodium Chloride 1 gm PO BID  
+16.Outpatient Physical Therapy
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+breakthrough seizure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were hospitalized due to symptoms of breakthrough seizure 
+resulting from pneumonia, a condition where being sick makes you 
+more likely to have seizures. While you were hospitalized, we 
+did treated your pneumonia with antibiotics, and we gave you 
+extra doses of your seizure medications, because when you first 
+came in to the hospital, your levels were low, likely because of 
+missed doses in the ED. We continued your other home 
+medications. 
+
+We are changing your medications as follows:
+No medication changes
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911):
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+It was a pleasure taking care of you!
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=11983894-DS-18 | hadm_id=28716988
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+focal status epilepticus
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F w/ known epilepsy (well controlled
+on valproic acid, and phenytoin), intellectual disability 
+(living
+in group home), hyponatremia, hypothyroidism, who presents w/
+focal status epilepticus today, lasting about 20min. 
+
+Patient was last seen well yesterday evening. Her aid went into
+her room this morning to check on her, and found her to be
+seizing. Seizure was described as b/l upper extremity shaking,
+with rapid movements of eyes from L to R, altered awareness. The
+observed seizure lasted for about ___ min, ___. At the
+end of the seizure, patient had urinary incontinence. She was
+then ___, was not talking, but could follow commands such
+as squeezing the hand and lifting legs to get changed. About 15
+min later, she started having L sided facial twitching. EMS was
+called and arrived within few minutes. On their arrival patient
+was no longer seizing. Glucose stick was normal. She received 4
+mg of Versed IM in the field. Not seizing on arrival at ___ 
+ED.
+Then subsequently began seizing again with L sided facial
+twitching and gaze deviation to the left for an additional 5
+minutes. Given 2 mg of Ativan IV. After medications, she remains
+somnolent. 
+
+Of note, no recent illness or fever. She did complain about
+abdominal pain 3 days ago which was relieved w/ voiding. No
+missed AEDs, they are administered by the group home staff. No
+recent known head trauma.
+
+Of note, Ms. ___ has intellectual disability, but is fairly
+independent. She lives in a group home and goes to day program.
+She is conversant. Toileting, dressing, eating independently. 
+The
+meals are prepared for her, and she does not shop or handle
+finances independently. All medications are administered by the
+group home where she resides.
+
+Seizure history:
+Had first ___ seizure at age of ___, has infrequent
+seizures, last one ___ years ago. In the past, her seizures have
+been triggered by hyponatremia or trial of phenytoin wean. Her
+epilepsy has been well controlled on valproic acid ___ BID and
+phenytoin 100mg AM/130mg ___. The documentation from her prior
+neurology ___ and neurologic history was requested in ED but
+not yet received.
+
+Current AEDs:
+valproic acid ___ BID
+phenytoin 100mg AM/130mg ___.
+
+Prior AEDs: Unknown at this time
+
+Last EEG: Unknown at this time
+
+Medical Team includes:
+PCP: Dr. ___ ___ 
+Neurologist: Dr. ___, affiliated with ___, ph:
+___ 
+
+ROS: + complained of abdominal pain 3 days ago, relieved w/
+voiding
+
+ 
+
+ 
+Past Medical History:
+HYPONATREMIA                                                    
+HYPOTHYROIDISM                                                  
+DEPRESSION                                                      
+EPILEPSY                                                        
+FRACTURED BONE                                                  
+MENTAL RETARDATION                                              
+OSTEOPENIA                                                      
+POSTMENOPAUSAL                                                  
+ROSACEA                                                         
+STRABISMUS                                                      
+HYPERLIPIDEMIA                                                  
+HYPONATREMIA                                                    
+
+ 
+Social History:
+___
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother                UNKNOWN                                   
+
+Father                UNKNOWN                                   
+
+Comments: SISTER guardian ___ uncertain                   
+ 
+Physical Exam:
+ON ADMISSION:
+===============
+VS: AF, HR 87, BP 124/84, RR 18, SpO2 97% on 2L NC
+
+ General: somnolent
+ HEENT: NC/AT
+ Neck: No nuchal rigidity
+ Pulmonary: No increased WOB.
+ Cardiac: RRR, nl. S1S2, no M/R/G noted
+ Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+ Extremities: No ___ edema.
+ Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: 
+Initially - somnolent, arousing to voice and noxious stimulus
+On reassessment - awake, slightly agitated, trying to get out of
+bed, saying "let me get out", not following commands
+
+-Cranial Nerves: PERRL 2 to 1mm and brisk. EOMI intact w/ VOR. 
+No
+facial droop, facial musculature symmetric - symmetric grimace.
+Reacts to noise b/l. Palate elevates symmetrically. Tongue
+protrudes in midline.
+
+-Motor: On initial assessment, withdrawing all extremities to
+noxious stimulus. On reassessment, moving all extremities
+spontaneously against gravity.
+
+-Sensory: Moves all extremities to light touch.
+
+-DTRs: symmetrically brisk throughout. Plantar reflexes extensor
+bilaterally. 
+
+-Coordination: Unable to assess.
+
+-Gait: Unable to assess.
+
+ON DISCHARGE:
+==============
+24 HR Data (last updated ___ @ 016)
+Temp: 99.0 (Tm 99.2), BP: 98/71 (___), HR: 92 (___),
+RR: 18 (___), O2 sat: 97% (___), O2 delivery: RA  
+
+General: alert, bright, tracks and regards
+HEENT: NC/AT, EEG in place
+Neck: No nuchal rigidity
+Pulmonary: No increased WOB.
+Cardiac: warm and well perfused
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No ___ edema.
+Skin: rash around folds of mouth, on chin
+
+Neurologic
+-Mental Status: 
+Initially -  awake and alert. Oriented to name ___, year and
+month with options. Follows midline and one step commands
+consistently, more difficulty with appendicular commands
+
+-Cranial Nerves: PERRL 4 to 2mm and brisk. EOMI intact w/ some
+break down of saccadic pursuit. Resting rotary nystagmus L>R, 
+non
+extinguishing nystagmus in all direction end gaze. No facial
+droop, facial musculature symmetric - symmetric grimace. Reacts
+to noise b/l. Palate elevates symmetrically. Tongue protrudes in
+midline.
+
+-Motor: Normal bulk and tone, no adventitious movements
+RUE: delt ___, biceps ___, triceps ___, finger flexion ___
+LUE: delt ___, biceps ___, triceps ___, finger flexion ___
+RLE: IP: ___, kicks and moves leg antigravity
+LLE: IP: ___, kicks and moves leg antigravity
+
+-Sensory: Moves all extremities to light touch
+-DTRs: symmetrically brisk throughout. Plantar reflexes extensor
+bilaterally
+-Coordination: Unable to assess
+-Gait: Steady gait with walker
+ 
+Pertinent Results:
+LABS:
+=======
+___ 
+___ Plt ___ ___
+___ 
+___
+
+URINE:
+========
+-URINE ___ Sp ___ 
+___ 
+___ WBC-<1 ___ 
+___
+
+AED TREND:
+===========
+___ 07:00AM BLOOD ___
+___ 04:27PM BLOOD ___
+___ 06:10AM BLOOD ___
+___ 06:00AM BLOOD ___
+
+DIAGNOSTICS:
+==============
+___, CTA H/N ___:
+___ head CT: No acute large territorial infarction,
+hemorrhage or mass. Prominence of the ventricles and sulci 
+likely
+represent involutional changes. Additional irregularity of the
+left lateral ventricle is likely due to old frontal infarction
+(series 2, image 23). Degenerative changes in the cervical 
+spine,
+most prominent at ___.
+ 
+CTA head/neck:
+Evaluation of the CTA head/neck is severely
+limited by motion artifact. Within these limitations, there is 
+no
+obvious intracranial arterial occlusion, dissection, or 
+aneurysm.
+Intracranial vasculature appears grossly patent.
+
+CXR:
+IMPRESSION:  No acute cardiopulmonary abnormality. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ F w/ known epilepsy (well controlled 
+on valproic acid, and phenytoin), intellectual disability 
+(living in group home), hyponatremia, hypothyroidism, who 
+presented w/focal status epilepticus lasting about 20min. NCHCT 
+and CTA H/N negative for acute changes, but notable for 
+significant
+atrophy and an old infarct.
+
+She received 4 mg of Versed IM in the field. Not seizing on 
+arrival to ___, but the subsequently began seizing with left 
+sided facial twitching and gaze deviation to the left for an 
+additional 5 minutes. She was given 2 mg of Ativan IV, and 
+seizure stopped immediately. 
+
+Etiologies of seizure could most likely subtherapeutic phenytoin 
+at 8.3 and acute on chronic hyponatremia with admission sodium 
+of 126. Depakote level on admission normal at 63. She was given 
+5 mg/kg phenytoin load with post load level of 10.7. After this 
+load, cvEEG was without further seizure. After discussion with 
+outpatient neurologist, her phenytoin was increased to 130 mg 
+BID from 100/130. Her ___ tab was increased to 1000 mg BID, 
+previously 1000 mg daily. Sodium levels slowly increased over 
+course of hospitalization to 135 at time of discharge.
+
+She was evaluated by ___ and OT while in the hospital, and we 
+feel she could benefit with continuing these services as an 
+outpatient.
+
+TRANSITIONAL ISSUES:
+========================
+[] Neurology
+- Dilantin increased to 130 mg BID from 100/130
+[] PCP
+- ___ salt tabs to 1 gm BID from 1 gm daily.
+- Follow up Na levels
+[] Outpatient ___ and OT 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Oxybutynin 5 mg PO QHS 
+2. Ketoconazole 2%  1 Appl TP ASDIR 
+3. alclometasone 0.05 % topical ASDIR 
+4. DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+5. Famotidine 20 mg PO BID 
+6. Atorvastatin 20 mg PO QPM 
+7. Phenytoin Sodium Extended 100 mg PO QAM 
+8. Phenytoin Sodium Extended 130 mg PO QPM 
+9. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+10. calcium ___ D3 1500 -400 mg oral BID 
+11. Sodium Chloride 1 gm PO QAM 
+12. Aspirin 81 mg PO DAILY 
+13. FLUoxetine 20 mg PO QAM 
+14. Levothyroxine Sodium 88 mcg PO DAILY 
+15. FoLIC Acid 1 mg PO DAILY 
+16. Divalproex (EXTended Release) 500 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Phenytoin Sodium Extended 130 mg PO BID 
+RX *phenytoin sodium extended [Dilantin] 30 mg 1 capsule(s) by 
+mouth twice a day Disp #*60 Capsule Refills:*3
+RX *phenytoin sodium extended [Dilantin Extended] 100 mg 1 
+capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*3 
+2.  Sodium Chloride 1 gm PO BID 
+RX *sodium chloride 1 gram 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*3 
+3.  alclometasone 0.05 % topical ASDIR  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 20 mg PO QPM  
+6.  calcium ___ D3 1500 -400 mg oral BID  
+7.  DiphenhydrAMINE 25 mg PO QHS:PRN insomnia  
+8.  Divalproex (EXTended Release) 500 mg PO BID  
+9.  Famotidine 20 mg PO BID  
+10.  FLUoxetine 20 mg PO QAM  
+11.  FoLIC Acid 1 mg PO DAILY  
+12.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild  
+13.  Ketoconazole 2%  1 Appl TP ASDIR  
+14.  Levothyroxine Sodium 88 mcg PO DAILY  
+15.  Oxybutynin 5 mg PO QHS  
+16.Outpatient Physical Therapy
+epilepsy
+intellectual disability
+17.Outpatient Occupational Therapy
+epilepsy
+intellectual disability
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epilepsy
+Hyponatremia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized due to seizures. Your lab work showed that 
+your sodium was too low. The level of one of your seizures 
+medications, Dilantin, in your blood was also too low. These two 
+things most likely lead to you have seizures.
+
+Your daily sodium tabs were increased. We talked to your 
+Neurologist and your Dilantin was also increased to 130 mg twice 
+daily. You have been doing well on this regimen.
+
+We noticed you were unsteady walking, and you were evaluated by 
+___ and OT. We think you could benefit from their services as an 
+outpatient.
+
+Please follow up with your PCP and ___ as below. 
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Youre ___ Neurology Team
+ 
+Followup Instructions:
+___

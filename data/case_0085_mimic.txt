@@ -1,0 +1,402 @@
+===== DISCHARGE NOTE =====
+note_id=18465292-DS-18 | hadm_id=27277851
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Statins-Hmg-Coa Reductase Inhibitors
+ 
+Attending: ___
+ 
+Chief Complaint:
+cough, fever
+ 
+Major Surgical or Invasive Procedure:
+___ TEE
+___ ___ line placement
+ 
+History of Present Illness:
+Mr. ___ is a ___ with h/o HIV (CD4 162) and CVA presenting 
+with cough and fever.  
+
+Pt states that he's been having a productive cough with 
+yellowish sputum as well as fevers/chills on and off x1 week. 
+Fevers up to 102 at home. He takes tylenol for fevers with 
+improvements. Denies chest pain, dyspnea. Pt also reports 
+diarrhea and vomiting x3 weeks that resolved about a week ago. 
+He presented to OSH ED on ___/P and blood work were 
+all normal per patient. No BM x5 days. Vomiting has resolved and 
+he reports good po intake. Pt called EMS tonight and was taken 
+to ___. AT OSH ED, VS: 100.0 89 110/70 
+98% NRB. CXR (available through PACT) showed multifocal pathchy 
+opacities. He received 2L NS for low BP's (baseline BP<100 per 
+pt) as well as bactrim IV and ceftazidime prior to transfer to 
+___. Pt requested to be transferred here since he is followed 
+by Dr. ___ ___ ID. ___ has not seen Dr. ___ ___. He 
+says that his HIV has been followed by his PCP even though he 
+has been strongly encouraged to see Dr. ___. Last CD4 count 
+per pt at ___ office about 3 weeks ago was 162 and VL zero. He 
+says that he stopped his HIV medications for a while a few 
+months back but resumed them as his count decreased. His CD4 
+count was 1200 before stopping his medications but resuming them 
+has not helped ___ increasing his counts. No recent travels. He 
+cannot recall the last time, he left ___. No history of exposture 
+to TB, prison, or homeless shelter. His last hospitalization was 
+___ years ago at ___ for CVA. Denies night sweats.  
+ 
+___ the ED, initial vitals were: 98.5 84 90/54 16 98% 2L Nasal 
+Cannula.  
+- Labs were significant for (OSH) normal chem7, albumin 3.3, 
+normal LFT's, WBC 10.0, H&H 13.2/___, normal plt. CD4 count ___ 
+___ was ___.  
+- Imaging revealed CXR with multifocal patchy opacities.  
+- The patient was given (OSH ED) ceftazidime and bactrim and 2L 
+NS.  
+Vitals prior to transfer were: 98.7 83 93/56 24 95% RA.  
+Upon arrival to the floor, VS are: 98.0 108/61 80 20 96% on RA. 
+Pt states that he feels much better. He is coughing but denies 
+chest pain or dyspnea. He reports adherence with his medications 
+but cannot recall the names and doses of each.  
+
+ 
+Past Medical History:
+chronic back pain  
+HIV  
+CVA  
+
+ 
+Social History:
+___
+Family History:
+He is adopted.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+===========================
+Vitals: 98.0 108/61 80 20 96% on RA  
+General: Alert, oriented, ___ moderate distress d/t coughing and 
+belly breathing. Pt cachectic.  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: decreased breath sounds on the right with crackles up to 
+scapula  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred. 
+
+DISCHARGE PHYSICAL EXAM
+=========================
+Vitals: 98.6/98.6  107-120/63-64  60-62  18  95-98%RA
+General: Alert, oriented; cachectic
+HEENT: Sclera anicteric, MMM, EOMI, PERRL  
+Neck: Supple, JVP not elevated
+CV: Distance heart sounds; regular rate and rhythm, normal S1 + 
+S2, no murmurs, rubs, gallops
+Lungs: CTAB posteriorly
+Abdomen: Soft, non-tender, non-distended, no rebound or guarding 
+ 
+GU: no foley 
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: CNII-XII intact, moving all extremities with purpose
+Skin: no rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+
+___ 09:30PM BLOOD WBC-5.5 RBC-3.44*# Hgb-10.6*# Hct-29.4*# 
+MCV-86 MCH-30.9 MCHC-36.2*# RDW-12.9 Plt ___
+___ 09:30PM BLOOD Glucose-105* UreaN-8 Creat-0.5 Na-137 
+K-3.0* Cl-102 HCO3-24 AnGap-14
+___ 09:30PM BLOOD Albumin-2.5* Calcium-8.0* Phos-2.6* 
+Mg-1.8
+___ 08:02AM BLOOD ___ pO2-94 pCO2-39 pH-7.40 
+calTCO2-25 Base XS-0 Comment-GREEN TOP
+___ 01:20AM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:20AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG
+___ 01:20AM URINE RBC-0 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+___ 01:20AM URINE CastHy-2*
+___ 02:35PM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+PERTINENT LABS
+=================
+___ 06:13AM BLOOD CRP-68.7*
+___ 12:00AM BLOOD Vanco-8.8*
+___ 05:30AM BLOOD ALT-27 AST-34 AlkPhos-64 TotBili-0.8
+
+MICROBIOLOGY
+==============
+___ 7:45 am SPUTUM     Site: INDUCED      Source: Induced. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ CLUSTERS. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      SPARSE GROWTH Commensal Respiratory Flora. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii). 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Pending): 
+
+Blood cultures from ___ - ___: No growth
+
+REPORTS
+========
+___ CT Scan of Chest
+IMPRESSION:  
+1.  Cavitary lesion ___ the superior segment of the right lower 
+lung, with connection to the bronchus intermedius. No layering 
+fluid within this cavitary lesion to suggest a current abscess.  
+Given CD4 count, this may represent infection such as 
+Aspergillus. 
+2.  Scattered foci of ground-glass opacity, peribronchiolar 
+nodularity, and tiny foci of consolidation ___ the right upper 
+and middle lobes, as well as the left upper lobe, which may 
+represent small airways infectious/inflammatory disease such as 
+___ or fungal infection and/or sequela of aspiration. 
+3.  Moderate centrilobular emphysema. 
+4.  Small right pleural effusion. 
+
+DISCHARGE LABS
+===============
+___ 05:11AM BLOOD WBC-5.3 RBC-3.76* Hgb-11.3* Hct-32.2* 
+MCV-86 MCH-30.0 MCHC-35.1* RDW-14.1 Plt ___
+___ 05:11AM BLOOD Glucose-79 UreaN-8 Creat-0.8 Na-139 K-3.7 
+Cl-106 HCO3-22 AnGap-15
+___ 05:11AM BLOOD Calcium-8.3* Phos-2.7 Mg-2.1
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with h/o HIV (CD4 162) and CVA presenting 
+with cough and fever found to have cavitary pneumonia and MSSA 
+positive sputum.
+
+# MSSA pneumonia ___ immunocompromised host: As evident on CXR 
+and pt's symptoms of productive cough, fever, and chills. 
+Notably not hypoxic. Given pt's history of HIV and very low CD4 
+count (<200), there was concern for both common bacterial 
+infection as well as oppotunistic infections including PCP, 
+___, fungal. He did not report TB exposure or risk factors and 
+CXR not c/f TB infection. Based on imaging findings, ___ was 
+also considered (had some bilateral findings, but patient's CD4 
+count not ___ the range where this is typically a concern, and 
+AFB smear negative) vs. aspiration. Since pt has CD4 count < 200 
+and has not been on PCP prophylaxis, he was briefly placed on 
+bactrim therapy for PCP, as well as initially covered with 
+vancomycin, ceftriaxone and azithromycin. Another consideration 
+was malignancy and supported by weight loss and significant 
+history of smoking. Repeat CXR on morning after admission showed 
+cavitary lesion which was better shown on Chest CT without 
+contrast. ___ conjunction with cavitary lesion ___ right mid-lung, 
+this was suspicious for staph pneumonia, potentially 
+post-influenza as patient provided history of viral prodrome, 
+however influenza PCR was negative while inpatient. Eventually, 
+sputum culture from OSH grew MSSA. He was then narrowed to 
+nafcillin for MSSA pneumonia with the help of Infectious Disease 
+consultation. He underwent both TTE and TEE to rule out 
+endocarditis given high-grade bacteremia, and these were both 
+negative. There was no evidence of peripheral stigmata or 
+complications from endocarditis. Therefore, after placement of a 
+PICC line, he was discharged on a course of nafcillin for 4 
+weeks with plans to follow-up ___ ___ clinic.
+
+# Diarrhea: Weeks ___ duration, per patient, with associated 
+weight loss of 10 lbs over the past month. Has been intermittent 
+with HAART therapy, which places him at risk for additional 
+pathogens, especially with CD4 < 200. This prompted concern for 
+cryptosporidiosis given dehydration, electrolyte disturbances 
+(hypokalemia), and weight loss, however this test was negative. 
+This could also have been antibiotic-associated vs. 
+medication-associated (ritonavir and atazanavir a/w diarrhea) 
+vs. HIV-assicated diarrhea. Work-up included egative C. diff, 
+stool culture, O&P, cyclospora, isospora, cryptosporidium and 
+Giardia. This was improving, per patient, on discharge, and he 
+no longer had major electrolyte disturbances.
+
+# Acute urinary retention: Patient stated that urinary retention 
+has been an issue for him during previuos hospitalizations. Per 
+record review, it appears that the patient has been on both 
+tamsulosin and finasteride as an outpatient for "likely" BPH. 
+While inaptient, he continued to fail voiding trials, and was 
+requiring CIC, so foley was placed ___. Has a history of taking 
+tamsulosin ___ the past, but this is contraindicated with 
+ritonavir, so this was not restarted. He was discharged with a 
+foley ___ place, but with plan for voiding trial and urology 
+follow-up as outpatient.
+
+# HIV: His most recent CD4 count was 131 on ___ at ___ 
+___. HIV-1 RNA was 55 copies/mL at that time as 
+well. Pt reports general adherence with medications but he does 
+report stopping them for a while a few months back. Given his 
+inconsistency with medications, he may need HIV genotyping due 
+to risk of developing resistance. His home regimen (atazanavir, 
+ritonavir, raltegravir, and emtricitabine-tenofovir) was 
+continued ___, and he was told to follow-up with his 
+outpatient HIV primary care physician. He was also restarted on 
+PCP prophylaxis with bactrim on discharge.
+
+# Nutrition: Patient very cachectic on exam. He reported issues 
+___ the past with weight loss and reports recent 10lb 
+unintentional weight loss over this month. Nutrition was 
+consulted who recommended multivitamin and nutritional 
+supplement TID. His weight was monitored as well. 
+
+TRANSITIONAL ISSUES: 
+# Nuntrition: could discuss PPN/TPN as outpatient when infection 
+resolved versus appetite promoting agent (e.g. megace)
+# Pulmonary: will need CT ___ follow-up (3 weeks from discharge) 
+to re-eval cavitary area for resolution and to rule out 
+malignancy
+# GU: voiding trial for urinary retention as an outpatient
+# CODE STATUS: full code confirmed  
+# CONTACT: ___ (friend) ___  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atazanavir 300 mg PO DAILY 
+2. Raltegravir 400 mg PO BID 
+3. Naproxen 250 mg PO Q12H:PRN pain 
+4. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN pain 
+5. RiTONAvir 100 mg PO DAILY 
+6. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Nafcillin 2 g IV Q4H 
+RX *nafcillin ___ dextrose iso-osm 2 gram/100 mL 2 g IV every 
+four hours Disp #*160 Intravenous Bag Refills:*0
+2. Chest CT Scan without contrast
+ICD-9:  513.0 - Lung abscess
+Please fax results to: ___
+Attn: Dr. ___
+Phone: ___
+3. Atazanavir 300 mg PO DAILY 
+4. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+5. Naproxen 250 mg PO Q12H:PRN pain 
+6. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN pain 
+7. Raltegravir 400 mg PO BID 
+8. RiTONAvir 100 mg PO DAILY 
+9. Multivitamins W/minerals 1 TAB PO DAILY 
+10. Nicotine Patch 21 mg TD DAILY 
+11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY PCP ___ 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth DAILY Disp #*30 Tablet Refills:*0
+12. Outpatient Lab Work
+ICD-9:  513.0 - Lung abscess
+
+WEEKLY: CBC with differential, BUN, Cr, AST, ALT, TB, ALK PHOS
+
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+- Cavitary lesion ___ the superior segment of the RLL
+- Staphylococcus aureus bacteremia
+- Moderate/severe malnutrition
+
+Secondary:
+- HIV w/ ART noncompliance
+- Right frontotemporal/basal ganglia embolic CVA from aortic 
+arch thrombus with hemorrhagic transformation ___ ___
+- Cholecystitis s/p cholecystectomy (___)
+- Depression 
+- ETOH and polysubstance abuse
+- Left hip fracture (___)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you during your hospitalization 
+at ___. You were admitted from ___ due to fevers 
+and a cough over the past several weeks, and found to have a 
+pneumonia caused by a bacteria caused by a bacteria called Staph 
+aureus. This infection was very severe and spread to your blood. 
+For this reason, you will need long term antibiotics.
+
+You were seen by our Infectious Disease specialists, who 
+recommended receiving at least 4 weeks of nafcillin. 
+
+You need to have a follow-up CT scan of your chest to assess for 
+resolution of your pneumonia. We strongly suggest that you have 
+this done on the day of your follow-up appointment with Dr. 
+___. (If you are absolutely unable to do this, you can have 
+it done locally, but then you must bring the report and the 
+images to your ___ appointment.)
+
+___ terms of your HIV regimen, it is very important that you take 
+your medications every day. We are also starting you on a new 
+medication, called Bactrim, which will help prevent some 
+infections for which you are at risk. Please follow-up with your 
+outpatient physicians as below.
+
+We wish you the best!
+-Your ___ Team
+ 
+Followup Instructions:
+___

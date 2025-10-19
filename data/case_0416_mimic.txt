@@ -1,0 +1,306 @@
+===== DISCHARGE NOTE =====
+note_id=19878052-DS-15 | hadm_id=23564684
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right carotid artery stenosis
+ 
+Major Surgical or Invasive Procedure:
+___ - Right carotid endarterectomy
+ 
+History of Present Illness:
+___ is a ___ year old male with known right carotid 
+artery stenosis who presented electively on ___ for a 
+right carotid endarterectomy.
+
+ 
+Past Medical History:
+- Arthritis
+- Atrial fibrillation
+- Benign prostatic hypertrophy
+- Dyslipidemia
+- History of stroke in ___
+- Incomplete right bundle branch block
+- Multiple areas of cerebral vessel stenosis
+- Patent foramen ovale
+- Status post hernia repair
+- Status post left knee arthroscopy with partial medial 
+meniscectomy 
+- Status post transuretheral resection of prostate
+ 
+Social History:
+___
+Family History:
+Unknown.
+ 
+Physical Exam:
+On Discharge:
+-------------
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right    ___      Left   ___
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [ ]Yes [x]No - Left facial 
+
+Tongue Midline: [ ]Yes [x]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No 
+(___)
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+DeltoidBicepTricepGrip
+Right 5555
+Left___
+
+IPQuadHamATEHLGast
+___
+Left5       5       5       5       5       5
+
+[x]Sensation intact to light touch
+
+Wound: 
+[x]Clean, dry, intact - dressing removed 
+[x]Suture
+
+ 
+Pertinent Results:
+Please see OMR for all relevant laboratory and imaging results.
+
+ CTA HEAD AND CTA NECK Study Date of ___ 2:14 ___ 
+IMPRESSION: 
+1. No evidence of hemorrhage or infarction. 
+2. No findings of new stenosis, occlusion, or aneurysm formation 
+within the intracranial vasculature or great vessels of the 
+neck. 
+3. Unchanged appearance of multiple chronic arterial stenosis in 
+the head and neck including chronic occlusion of the superior 
+division of the right MCA at the bifurcation bifurcation , focal 
+stenosis of the right M1 segment, focal narrowing of the petrous 
+segment of the left ICA, chronic severe stenosis or occlusion of 
+the left M1 segment, bilateral stenoses of the P2 segments of 
+the posterior cerebral arteries and chronic occlusion of the 
+proximal V1 segment 
+of the right vertebral artery. 
+4. Postsurgical changes related to recent right carotid 
+endarterectomy, 
+including subcutaneous emphysema within the right neck and chest 
+wall. 
+
+ MR HEAD W/O CONTRAST Study Date of ___ 1:46 ___ 
+IMPRESSION: 
+1. Multiple small bilateral acute infarcts involving the basal 
+ganglia, left greater than right frontal cortex, as well as a 
+focus in the right frontal centrum semiovale and a focus in the 
+left postcentral cortex.  No associated mass effect or evidence 
+for blood products. 
+2. Multiple small chronic infarcts in the bilateral corona 
+radiata and centrum semiovale with progression of volume loss 
+compared to ___. 
+3. Narrowing of the intracranial left internal carotid artery 
+and left middle cerebral artery, better assessed on the 
+preceding CTA from ___. 
+4. Apparent hypointensity in the central spinal cord extending 
+inferiorly from C2-C3 level and beyond the inferior margin of 
+the images, unclear whether an artifact, versus edema or syrinx. 
+
+
+ 
+Brief Hospital Course:
+___ year old male with known carotid artery stenosis.
+
+#Right carotid artery stenosis status post right carotid 
+endarterectomy
+The patient presented electively and was taken to the OR on 
+___ for a right carotid endarterectomy. The operation was 
+uncomplicated. The patient was extubated in the OR and recovered 
+in the PACU. He was initially neurologically intact 
+postoperatively with postoperative SBP goal 100-180. His SBPs 
+were in the low 100s postoperatively, IV fluids were increased 
+to help drive up SBPs. He was noted to have an episode of right 
+upper extremity weakness around 1:50pm, which resolved within 
+minutes. At 2pm, he was found to be unresponsive, not opening 
+eyes, responding to stimuli, or following commands with 
+associated lip smacking. He was taken for stat CTA of the head 
+and neck, which was unremarkable. He was given 2mg of Ativan for 
+possible seizure activity, and continuous EEG ordered. He was 
+started on vasopressors for new SBP goal 130-180 given concern 
+for cerebral hypoperfusion. There was significant improvement in 
+his neurologic exam after starting vasopressors. He was opening 
+eyes, responding to stimuli, and following commands. He was 
+transferred to Neuro ICU for continued close neurologic 
+monitoring. A heparin drip was started at 500 units/hour and he 
+was transitioned to aspirin 325mg once daily on ___. cEEG was 
+negative for seizures and discontinued. His voice was hoarse 
+likely from laryngeal nerve involvement after the CEA however 
+there was no obvious hematoma as his incision remained soft. He 
+was weaned off vasopressors and transferred to the neuro 
+step-down unit where he remained neurologically stable and was 
+cleared to discharge to rehab ___.  His home BP meds were held 
+to continue to allow adequate perfusion, but may be resumed if 
+SBP maintained > 180. 
+
+#Watershed infarcts likely due to hypoperfusion 
+Neurology was also consulted for concern for stroke and 
+recommended the patient lay flat due to concerns for 
+hypoperfusion. His SBP remained at goal on vasopressors. MRI 
+brain showed multiple small bilateral acute infarcts involving 
+the basal ganglia, left greater than right frontal cortex, as 
+well as a focus in the right frontal centrum semiovale and a 
+focus in the left postcentral cortex. Multiple small chronic 
+infarcts in the bilateral corona radiata and centrum semiovale 
+with progression of volume loss compared to prior imaging. He 
+continued on ASA 325mg and atorvastatin 80mg qPM. His activity 
+was liberalized and his neuro exam remained stable OOB with 
+therapy. 
+
+  
+#Cervical spine findings 
+On MRI brain there ___ an incidental finding of an apparent 
+hypointensity in the central spinal cord extending inferiorly 
+from C2-C3 level and beyond the inferior margin of the images, 
+unclear whether an artifact, versus edema or syrinx. 
+Neuroradiology recommended MRI c-spine. Patient did not have any 
+signs of pathology in the c-spine. The patient was advised to 
+follow-up MRI c-spine outpatient.
+
+#L vocal cord paralysis
+This was a pre-existing condition however we refer patient to 
+ENT on discharge and has follow-up scheduled. 
+  
+
+#Dispo
+Patient was evaluated by physical and occupational therapy who 
+recommended rehab. Case management assisted the family in 
+deciding on an appropriate rehab facility. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. benazepril 20 mg oral DAILY 
+5. Clopidogrel 75 mg PO DAILY 
+6. Finasteride 5 mg PO DAILY 
+7. Fish Oil (Omega 3) 1000 mg PO BID 
+8. Vitamin D 1000 UNIT PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Heparin 5000 UNIT SC BID  
+4.  Aspirin 325 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Finasteride 5 mg PO DAILY  
+7.  Fish Oil (Omega 3) 1000 mg PO BID  
+8.  Vitamin D 1000 UNIT PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right carotid artery stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Carotid Endarterectomy
+Discharge Instructions
+
+Call your neurosurgeon’s office for:
+• Worsening headache
+• Changes in vision (loss of vision, blurring, double vision, 
+half vision)
+• Slurring of speech or difficulty finding correct words to use.
+• Difficulty moving or using your arm or leg or the feeling to 
+feel your arm or leg. 
+• If you have a hard time swallowing
+• Swelling, drainage, or redness of your incision
+• Fever greater than 101.5 F degrees
+• Stiff or painful neck
+• Nausea, vomiting, lethargy (unable to stay awake)
+• Any problems with side effects from medications, you can also 
+call your pharmacy.
+• A follow-up appointment for ___ weeks after discharge
+
+Activity:
+• No sexual activity for one month.
+• No driving until post-op visit and you are no longer taking 
+pain medication.
+• No heavy lifting or bending for one month, then slowly 
+increase your activity at your own pace.
+• Do not operate any motorized vehicle nor drink alcohol while 
+on pain medications.
+
+Incision Care:
+• You have absorbable sutures that will not need suture removal
+• Typically your dressing is removed day 1 post operatively 
+• Leave the white strips in place; if your strips have not 
+fallen off after 14 days, you may carefully take them off.
+• When you are allowed to shampoo your hair, (typically ___ days 
+post operatively), let the shampoo run off the incision line and 
+do not rub, scrub, scratch, or pick at any scabs on the incision 
+line.
+• Do not use creams or ointment on your incision; keep it clean 
+and open to air unless otherwise instructed
+
+Common Problems:
+• Pain medicine and inactivity can cause constipation (straining 
+when passing stool).
+Prevent constipation by:
+o Drinking plenty of fluids
+o Eating vegetables, prunes, high fiber breads & cereals
+o Getting enough exercise.
+o Take stool softeners like Docusate sodium (Colace) per package 
+directions, usually three times a day
+o Take bowel stimulants like Senna or Bisacodyl (Dulcolax) per 
+package directions, usually twice a day:
+• If you have loose stools: slowly reduce the bowel stimulants.
+• For constipation: take Milk of Magnesia, Magnesium Citrate or 
+Miralax  per package directions.
+• When you start to move around and need less pain medications, 
+slowly stop taking the stool stimulants, and then decrease the 
+stool softeners.
+
+Fatigue/Pain/ Swelling:
+• Fatigue: will slowly resolve, over days to weeks
+• Pain over incision or loss of sensation: resolves in ___ 
+months
+• Facial/ carotid swelling: slowly resolves over the next few 
+weeks  
+
+ 
+Followup Instructions:
+___

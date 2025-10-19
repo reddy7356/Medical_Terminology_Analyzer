@@ -1,0 +1,349 @@
+===== DISCHARGE NOTE =====
+note_id=14501987-DS-14 | hadm_id=25279136
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+hypoxia, leukocytosis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ year-old woman residing at ___ 
+___ with a history of HTN, T2DM and depression who is 
+transferred due to lethargy, hypoxia and leukocytosis.  
+
+Per nursing home notes, on ___ the patient was observed to be 
+lethargic and to have a new hypoxia to 83% requiring 2L O2 to 
+reach 93%. Labs were obtained revealing WBC 35.2. A CXR was 
+obtained which was reportedly negative. The patient was started 
+on levofloxacin 500mg. On ___ in the morning her WBC was 38.4. 
+The patient's HCP was called and her HCP was activated leading 
+to inactivation of her Do not hospitalize order, thus the 
+patient was transferred to ___.  
+ 
+ In the ED, initial vitals were: 99.0 | 104 | 94/52 | 16 | 100% 
+NRB  
+ -ED exam: A&Ox1, TTP in lower abdomen, poor respiratory effort  
+
+ -EKG: sinus tachycardia to 106, no ST-T changes  
+ -Labs: WBC 34.4, 11% bands, Hb 9.2, Cr 1.2 (up from 0.9 on 
+___, alb 3.1, lactate 2, VBG pCO2 49, UA WBC 13, RBC 6, nit 
+(-)  
+ -CXR: "Lung volumes are quite low which limits assessment. 
+There is lower lung atelectasis. "  
+ -CT Abd/Pel: "Partially imaged bibasilar airspace opacities may 
+reflect atelectasis but pneumonia is not completely excluded. 
+Large fecal loading."  
+-CT Chest:   
+1. Mild ___ nodularity and consolidation in the right 
+lower lobe likely reflects a combination of infection and 
+atelectasis. 
+2. Left basilar consolidation is more likely representative of 
+atelectasis. 
+3. Coronary atherosclerotic disease. 
+4. Pulmonary arterial enlargement suggests underlying pulmonary 
+arterial hypertension. 
+ 
+
+ On the floor, the patient appears comfortable. She endorses 
+mild dyspnea, but otherwise denies chest pain, abdominal pain, 
+diarrhea, constipation. Further review of systems is limited by 
+the patients mental statys  
+ 
+
+ 
+Past Medical History:
+ -Dementia  
+ -Major depressive disorder  
+ -Type 2 Diabetes Mellitus  
+ -HTN  
+ -Chronic Pain Syndrome  
+ 
+Social History:
+___
+Family History:
+ Unable to obtain.  
+ 
+Physical Exam:
+PHYSICAL EXAM UPON ADMISSION:
+ Vital Signs: 97.2 128/69 85 98% 3L  
+ General: Chronically-ill appearing, pale, in no acute distress  
+
+ HEENT: Sclera anicteric, pale conjunctiva, dry MMM  
+ CV: Regular tachycardic heart sounds, normal S1 + S2, no 
+murmurs, rubs, gallops  
+ Lungs: No muscular retractions. Poor respiratory effort. 
+Crackles at the bases on posterior auscultation.  
+ Abdomen: Non-distended, obese, old well-healed bilateral 
+subcostal and median infra-umbilical incisions. Soft and 
+non-tender.  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, 2+ bilateral pitting edema 
+ 
+ Neuro: Alert, oriented to self, inattentive and circumstantial 
+with occasional paraphrases. Able to move four extremities at 
+will but with poor effort.  
+ Skin: Faint erythema in the abdomen-groin fold  
+
+PHYSICAL EXAM UPON DISCHARGE:
+ Vital Signs: 97.6 153/72 93 20 97 2.5 L
+ General: Chronically-ill appearing, pale, in no acute distress  
+
+ HEENT: Sclera anicteric, pale conjunctiva, dry MMM  
+ CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+ Lungs: Difficult to auscultate with very poor air movement and 
+shallow breathing.  
+ Abdomen: Non-distended, obese, soft, nontender to palpation. No 
+rebound or guarding.  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, 2+ bilateral pitting edema 
+(L?R). L foot is everted.   
+ Neuro: Alert, knows she is in hospital but doesn't know name of 
+hospital,  oriented to self, does not know year, inattentive and 
+circumstantial with occasional paraphrases. Able to move her UE 
+with ___ strength in legs B/L. Smile is mildly asymmetric 
+(reduced movement on L side, intermittent), sensation to touch 
+on the face is intact in all three CN 5, able to close both 
+eyes, tongue is symmetric,hearing is reduced, forehead movement 
+is symmetric
+ Skin: Faint erythema in the abdomen-groin fold
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===================
+___ 03:00PM BLOOD WBC-34.4* RBC-2.88* Hgb-9.2* Hct-29.2* 
+MCV-101* MCH-31.9 MCHC-31.5* RDW-17.0* RDWSD-62.9* Plt ___
+___ 03:00PM BLOOD Hypochr-2+ Anisocy-OCCASIONAL 
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-OCCASIONAL 
+Polychr-OCCASIONAL Ovalocy-OCCASIONAL Schisto-OCCASIONAL 
+Stipple-OCCASIONAL Tear ___
+___ 03:00PM BLOOD Plt Smr-NORMAL Plt ___
+___ 03:00PM BLOOD Glucose-471* UreaN-38* Creat-1.2* Na-139 
+K-3.8 Cl-100 HCO3-28 AnGap-15
+___ 03:00PM BLOOD Albumin-3.1*
+___ 03:05PM BLOOD ___ pO2-57* pCO2-49* pH-7.43 
+calTCO2-34* Base XS-6
+
+DISCHARGE LABS:
+==================
+
+___ 07:22AM BLOOD WBC-10.1* RBC-2.97* Hgb-9.3* Hct-29.9* 
+MCV-101* MCH-31.3 MCHC-31.1* RDW-16.6* RDWSD-61.8* Plt ___
+___ 07:22AM BLOOD Plt ___
+___ 07:22AM BLOOD Glucose-153* UreaN-20 Creat-0.4 Na-144 
+K-3.4 Cl-105 HCO3-31 AnGap-11
+___ 07:22AM BLOOD Calcium-8.9
+
+OTHER LABS:
+===================
+
+___ 07:39AM BLOOD calTIBC-170* Hapto-213* Ferritn-699* 
+TRF-131*
+
+IMAGING:
+====================
+___, Chest Portable AP
+
+AP portable upright view of the chest.   Lung volumes are quite 
+low which 
+limits assessment.  There is lower lung atelectasis.  The mid 
+upper lungs 
+appear well aerated.  There is a calcified structure projecting 
+over the 
+mediastinum and left apex, question thyroid lesion, not fully 
+assessed.  Heart 
+size cannot be assessed.  Mediastinal contour appears normal.  
+There is 
+bronchovascular crowding at the hila mostly noted on the right.  
+Bony 
+structures are intact.  Vertebroplasty changes are noted in the 
+lower 
+thoracic/upper lumbar spine. 
+
+___, CT abdomen and pelvis
+
+IMPRESSION: 
+1. 2.2 x 1.8 cm hypodense lesion in the uncinate process of the 
+pancreas, most likely reflective of a cystic neoplasm.  Further 
+assessment with MRCP is recommended. 
+2. Partially imaged bibasilar airspace opacities may reflect 
+atelectasis but pneumonia is not completely excluded. 
+3. Diverticulosis without evidence of diverticulitis. 
+4. Multiple severe vertebral body compression deformities within 
+the lower 
+thoracic and upper lumbar spine.  Chronic left inferior pubic 
+ramus fracture. 
+5. Large fecal load within the rectum. 
+
+___, CT chest
+1. Mild ___ nodularity and consolidation in the right 
+lower lobe 
+likely reflects a combination of infection and atelectasis. 
+2. Left basilar consolidation is more likely representative of 
+atelectasis. 
+3. Coronary atherosclerotic disease. 
+4. Pulmonary arterial enlargement suggests underlying pulmonary 
+arterial 
+hypertension. 
+ 
+Brief Hospital Course:
+___ yo F living at ___ with T2DM, HTN, dementia presenting with 
+lethargy, hypoxia and leukocytosis found to have HCAP.
+ 
+# Leukocytosis:  Presented with a profound leukocytosis to 34.4 
+with 84% polys and 10% bands. Smear per resident note-able for 
+leukocytosis, bandemia, vacuolization, toxic granulation,  
+platelet clumping with unremarkable RBCs. Normal neutrophil 
+differentiation r/o etiology like CML. CT chest w/evidence of R 
+base pneumonia.  Urine cx negative. CT a/p without evidence of 
+infection. Blood cx pending. She was empirically covered 
+overnight with Vanc/Zosyn > vanc/cefepime > ceftriaxone. She was 
+then transitioned to PO cefpodoxime to complete 7 day course 
+(end date ___.
+
+# Health Care Associated Pneumonia with sepsis: Leukocytosis, 
+fever, tachycardia, hypoxia, infectious source known, and ___ 
+upon admission. Leukocytosis and hypoxia improved with treatment 
+of HCAP as above. Pt discharged on PO cefpoxodime. 
+ 
+ # ___: Resolved. Patient presented with ___, pre renal given 
+improvement in IVF overnight   
+ 
+ # Bilateral ___ edema: Unclear chronicity. BNP, checked in ED, 
+is elevated though clinically no evidence of heart failure. Can 
+consider further evaluation with ECHO upon discharge but no 
+clinical indication at this time
+ 
+ # Constipation/Fecal loading: Pt noted to have stool burden on 
+CT A/P. Pt treated with bowel regimen had bowel movements during 
+hospitalization.
+ 
+# Dementia: Continued on home medications.
+
+ # HTN: Initially held in the setting of sepsis but then 
+restarted with clinical improvement. 
+
+**Transitional issues**
+-Complete seven day course for HCAP. Cefpodoxime 200 mg PO BID 
+(end date ___ 
+-Patient had elevated blood glucose during hospitalization. 
+Consider outpatient A1C and initiation of metformin if 
+appropriate.
+-CT a/p was notable for cystic lesion in the pelvis. Radiology 
+recommended f/u MRCP. Consider this imaging based on patient's 
+goals of care. 
+-Blood cx pending upon d/c, negative to date at discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain, fever 
+2. Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+3. Aspirin 325 mg PO DAILY 
+4. Calcium Carbonate 500 mg PO QID:PRN heartburn 
+5. Docusate Sodium 100 mg PO DAILY 
+6. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+7. Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN dyspnea, wheezing 
+
+8. Fleet Enema ___AILY:PRN constipation 
+9. guaiFENesin 100 mg/5 mL oral Q4H PRN cough/chest congestion 
+10. Metoprolol Succinate XL 25 mg PO DAILY 
+11. Milk of Magnesia 30 mL PO DAILY PRN constipation 
+12. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+13. Multivitamins W/minerals 1 TAB PO DAILY 
+14. Memantine 10 mg PO DAILY 
+15. amLODIPine 10 mg PO DAILY 
+16. nystatin 100,000 unit/gram topical BID PRN  rash 
+17. Oyst-Cal-500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral daily 
+18. Mirtazapine 15 mg PO QHS 
+19. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain, fever 
+2. amLODIPine 10 mg PO DAILY 
+3. Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+4. Aspirin 325 mg PO DAILY 
+5. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+6. Calcium Carbonate 500 mg PO QID:PRN heartburn 
+7. Docusate Sodium 100 mg PO DAILY 
+8. Fleet Enema ___AILY:PRN constipation 
+9. Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN dyspnea, wheezing 
+
+10. Memantine 10 mg PO DAILY 
+11. Metoprolol Succinate XL 25 mg PO DAILY 
+12. Milk of Magnesia 30 mL PO DAILY PRN constipation 
+13. Multivitamins W/minerals 1 TAB PO DAILY 
+14. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+15. Vitamin D 1000 UNIT PO DAILY 
+16. Cefpodoxime Proxetil 200 mg PO Q12H 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp #*6 
+Tablet Refills:*0
+17. guaiFENesin 100 mg/5 mL oral Q4H PRN cough/chest congestion 
+18. Mirtazapine 15 mg PO QHS 
+19. nystatin 100,000 unit/gram topical BID PRN  rash 
+20. Oyst-Cal-500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral daily 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Health care associated pneumonia
+Acute kidney injury
+Constipation
+
+Secondary diagnoses:
+Dementia
+Hypertension
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+Why did I come to the hospital?
+-You came to the hospital because you were more tired and had a 
+high white count indicating infection
+
+What happened while I was in the hospital?
+-We treated you with antibiotics
+
+What should I do when I leave the hospital?
+-Keep taking your antibiotics- you should continue cefpodoxime 
+200 mg twice daily through ___. Start taking this 
+medication on ___.
+
+It was a pleasure taking care of you,
+Your ___ Team
+ 
+Followup Instructions:
+___

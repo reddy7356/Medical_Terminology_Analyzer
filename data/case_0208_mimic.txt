@@ -1,0 +1,365 @@
+===== DISCHARGE NOTE =====
+note_id=17693576-DS-3 | hadm_id=21793490
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history of CAD s/p CABG ___ 
+years ago"), AAA repair, recently found to have gastric cancer 
+while hospitalized for upper GI bleed (CHA ___, who 
+presented to the ___ ED on ___ with chest pain, 
+was found to have a troponin I elevation to 10.3, and 
+transferred to
+___ for management.
+
+Per the patient he began to have substernal chest tightness and 
+pressure last night that kept him awake. The pain was not 
+related to exertion, and he had no associated shortness of 
+breath. He took sublingual nitro x2 with good enough effect to 
+fall asleep, though the pain did not resolve completely. He woke 
+up the morning of admission feeling weak and overall unwell, and 
+decided to have his family call ___.
+
+In the ED initial vitals were: 97.9, 64, 118/65, 100% RA 
+EKG: Normal sinus rhythm at 56 bpm. Normal axis and intervals. 
+No
+ST elevations.
+Labs/studies notable for:
+- Troponin t: 0.9
+- proBNP: 5300 
+- Creatinine: 1.3
+- Hgb 10.5/Hct 34.2
+- UA negative
+- Guaiac negative
+- CXR negative for acute cardiopulmonary process, sternotomy 
+wires visible
+Patient was given:  Aspirin 324mg
+
+Vitals on transfer: 98.5, 68, 111/46, 99% RA 
+
+On the floor, patient denies further chest pain. He has not had 
+any SOB, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+palpitations, syncope, or presyncope.
+
+REVIEW OF SYSTEMS:  
+On further review of systems, he denied any prior history of 
+stroke, TIA, deep venous thrombosis, pulmonary embolism, 
+myalgias, joint pains, cough, or hemoptysis, recent fevers, 
+chills, or rigors. All of the other review of systems were 
+negative.  
+ 
+Past Medical History:
+- Hypertension
+- CABG for 3VD per history
+- Hearing loss, bilateral
+- Diverticulitis
+- Skin cancer
+- AAA repair
+ 
+Social History:
+___
+Family History:
+Father: Heart disease
+Mother: ___
+ 
+Physical ___:
+ADMISSION EXAM
+===============
+VITALS: ___ 1552 Temp: 98.5 PO BP: 119/68 HR: 69 RR: 18 O2
+sat: 99% 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate. Appears younger than stated age.
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or
+cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple, no JVD.  
+CARDIAC: RRR, normal S1, S2. Soft systolic murmur.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Radial pulses 2+ bilaterally, DPs 1+.
+
+DISCHARGE EXAM
+==============
+Temp: 98.7 (Tm 99.0), BP: 93/36 (93-112/36-58), HR: 54 (54-69), 
+RR: 14 (___), O2 sat: 95% (92-96), O2 delivery: Ra
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate. Appears younger than stated age.
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or 
+cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple, no JVD.  
+CARDIAC: RRR, normal S1, S2. Soft systolic murmur.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Radial pulses 2+ bilaterally, DPs 1+. 
+ 
+Pertinent Results:
+===================
+ADMISSION LABS
+===================
+___ 11:49AM   GLUCOSE-112* UREA N-16 CREAT-1.3* SODIUM-142 
+POTASSIUM-4.8 CHLORIDE-103 TOTAL CO2-26 ANION GAP-13
+___ 11:49AM   CALCIUM-9.2 PHOSPHATE-3.2 MAGNESIUM-1.8
+___ 11:49AM   WBC-7.9 RBC-3.50* HGB-10.5* HCT-34.2* MCV-98 
+MCH-30.0 MCHC-30.7* RDW-16.0* RDWSD-55.9*
+___ 11:49AM   NEUTS-63.0 ___ MONOS-14.6* EOS-0.5* 
+BASOS-0.4 IM ___ AbsNeut-4.96 AbsLymp-1.63 AbsMono-1.15* 
+AbsEos-0.04 AbsBaso-0.03
+___ 11:49AM   PLT COUNT-177
+
+___ 11:49AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+
+___ 11:49AM   CK-MB-64* proBNP-5300*
+___ 11:49AM   cTropnT-0.90*
+___ 08:15PM   CK-MB-36* cTropnT-1.17*
+===================
+PERTINENT RESULTS
+===================
+LABS
+===================
+___ 08:20AM BLOOD CK-MB-32* cTropnT-1.62*
+___ 12:50PM BLOOD CK-MB-27* cTropnT-1.73*
+___ 08:10AM BLOOD CK-MB-8 cTropnT-1.98*
+
+===================
+IMAGING/STUDIES
+===================
+TTE (Complete) Done ___ at 3:10:46 ___ 
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. The estimated right atrial pressure 
+is ___ mmHg. Left ventricular wall thicknesses and cavity size 
+are normal. There is mild regional left ventricular systolic 
+dysfunction with basal inferior/septal akinesis (PDA territory). 
+The remaining segments contract normally (LVEF = 40%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. There are 
+three aortic valve leaflets. There is no aortic valve stenosis. 
+Mild (1+) aortic regurgitation is seen. The aortic regurgitation 
+jet is eccentric, directed toward the anterior mitral leaflet. 
+Mild (1+) mitral regurgitation is seen. Moderate to severe [3+] 
+tricuspid regurgitation is seen. There is no pericardial 
+effusion. 
+
+ IMPRESSION: Mild regional left ventricular systolic 
+dysfunction, c/w CAD. Mild aortic and mitral regurgitation. 
+Moderate to severe tricuspid regurgitation
+
+===
+RENAL U.S. Study Date of ___ 10:53 AM 
+FINDINGS:    
+The right kidney measures 9.0 cm. The left kidney measures 8.6 
+cm. There is no hydronephrosis, stones, or masses bilaterally.  
+Normal cortical echogenicity and corticomedullary 
+differentiation are seen bilaterally.  Two simple cysts are 
+identified arising from interpolar region of the right kidney 
+measuring up to 1.6 cm. 
+  
+Evaluation of the bladder is limited by underdistention.  There 
+may be mild trabeculation of the bladder wall. 
+  
+IMPRESSION:  No hydronephrosis identified. 
+
+===================
+DISCHARGE LABS
+===================
+___ 08:00AM BLOOD Glucose-101* UreaN-24* Creat-1.6* Na-141 
+K-4.0 Cl-103 HCO3-27 AnGap-11
+___ 08:00AM BLOOD Calcium-8.2* Phos-3.2 Mg-1.9
+___ 08:00AM BLOOD WBC-5.6 RBC-3.03* Hgb-9.1* Hct-29.3* 
+MCV-97 MCH-30.0 MCHC-31.1* RDW-16.1* RDWSD-57.1* Plt ___
+___ 08:00AM BLOOD Plt ___
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with history of CAD s/p 
+CABG, AAA repair, and recent upper GI bleed secondary to a newly 
+discovered gastric mass, who presented to ___ with one 
+day of progressively worsening chest pain, found to have 
+troponin elevation, and transferred to ___ for management of 
+NSTEMI.
+
+ACUTE ISSUES
+============
+#NSTEMI
+Patient presented with chest pain relieved by SL nitro and found 
+to have troponin T 0.9 on arrival to ___ ED. EKG was without 
+signs of ischemia. Given recent GI bleed, initial concern was 
+for acute blood loss, however patient was normotensive, 
+asymptomatic, and H/H on admission appeared similar to if not 
+elevated from H/H at discharge from ___ in late ___. 
+Spoke extensively with patient and family regarding bleeding 
+risk, and all agreed that benefit of anticoagulating for NSTEMI 
+outweighed the risk of GI bleed. He was treated with heparin for 
+48 hours, and started on daily aspirin 81mg, high-intensity 
+statin, metoprolol, and a nitrate for cardioprotection. 
+
+#Congestive Heart Failure with Reduced EF (40%)
+Echo showed a reduced EF of 40%. Patient was not diuresed as he 
+appeared euvolemic on exam, without dyspnea or supplemental O2 
+requirement. He on metoprolol for beta-blockade. Defer starting 
+___ pending recovery from acute kidney injury.
+
+#Recent upper GI bleed
+Patient admitted to ___ recently for UGIB, noted on mesenteric 
+angiography on ___ to be related to irregular neovascularity 
+of a gastric mass and a small pseudoaneurysm from a distal 
+branch of the left gastric artery, which was embolized to good 
+effect during that admission. He has had no signs of bleeding 
+this admission. BID pantoprazole was continued.
+
+#Gastric mass
+"Large, fungating, infiltrative, sessile, submucosal and 
+ulcerated, non-circumferential mass with no bleeding and 
+stigmata of recent bleeding" was found on the lesser curvature 
+of the stomach on EGD at ___ on EGD ___. Per the 
+patient and his family, he has outpatient follow-up 
+
+#Acute kidney injury
+-Mild increase of Cr from 1.3 on admission to 1.6. No sign of 
+obstruction on renal ultrasound. Patient had mild relative 
+hypotension (SBP ___ which may have led to mild ATN, as 
+patient's urine sodium was 58 and he did not develop oliguria. 
+He will be discharged on lower doses of blood pressure 
+medications and should have repeat chemistry panel checked as an 
+outpatient.
+
+CHRONIC ISSUES
+==============
+#Glaucoma:
+Home dorzolamide/timolol and latanoprost were continued. 
+
+TRANSITIONAL ISSUES
+===================
+[] Patient should have repeat chemistry panel to evaluate acute 
+kidney injury at next PCP appointment schedule ___. 
+[] Defer starting ACEi for HFrEF due to acute kidney injury. 
+Please consider starting this medication pending stability of 
+renal function and blood pressure.
+[] Defer starting clopidogrel to outpatient cardiologist given 
+recent GI bleed and ongoing GI oncologic evaluation
+[] Follow up as planned prior to admission with outpatient GI 
+for biopsy
+[] Follow up as planned with hematology/oncology for possible 
+radiation
+[] Discharge Cr: 1.6
+[] Discharge weight: 68.9kg (151.9lb)
+[] Full code
+[] HCP: ___ (son), ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN Chest pain 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. Pantoprazole 40 mg PO Q12H 
+4. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+5. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth Nightly Disp #*30 
+Tablet Refills:*0 
+3.  Isosorbide Mononitrate (Extended Release) 15 mg PO QHS 
+RX *isosorbide mononitrate 30 mg 0.5 (One half) tablet(s) by 
+mouth Nightly Disp #*15 Tablet Refills:*0 
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0 
+5.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID  
+6.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN Chest pain  
+9.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Primary: 
+- Non ST Elevation Myocardial Infarction
+
+Secondary:
+- Hypertension
+- Glaucoma
+- Upper GI bleed
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you had chest pain. 
+You were found to have had a heart attack. We did an ultrasound 
+of your heart and saw that one area was moving slightly less 
+than normal, which could be related to the heart attack. Because 
+of this abnormality, your heart's pumping function is slightly 
+reduced from normal. If you notice increased difficulty 
+breathing or swelling in your legs, please see a medical 
+professional as soon as you are able.
+
+We treated your heart attack with heparin, a blood thinner, for 
+48 hours. We also started several medications that help protect 
+the heart muscle when someone has a heart attack, including 
+Aspirin, atorvastatin, metoprolol, and isosorbide mononitrate 
+(imdur). Because you recently had serious bleeding from your 
+stomach, we held off on starting a medicine called Clopidogrel 
+(Plavix), which we would also recommend you take when your GI 
+doctors feel it is safe. 
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+- It is very important to take your aspirin every day
+- Take all of your other heart medications as prescribed (listed 
+below)
+- Follow up with your doctors as listed below
+- Seek medical attention if you have new or concerning symptoms 
+or you develop chest pain, swelling in your legs, abdominal 
+distention, or shortness of breath at night
+ 
+It was a pleasure participating in your care. We wish you the 
+best!  
+-Your ___ Care Team  
+ 
+Followup Instructions:
+___

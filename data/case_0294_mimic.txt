@@ -1,0 +1,296 @@
+===== DISCHARGE NOTE =====
+note_id=18978229-DS-2 | hadm_id=29291066
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Aphasia and headache.
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history of migraines as a 
+child presents with headache and altered speech.  He was feeling 
+well last night around ___, when he engaged in sexual 
+activity with his wife and then went to sleep.  Upon awakening 
+at 4am this morning, he had a headache in the left posterior 
+aspect of his head.  He was talking to his ___ year old son 
+without difficulty (trying to get him to go back to sleep).  He 
+went back to sleep, and awoke around 6:15am.  When he got out of 
+the shower, his wife felt that his speech was slurred and he was 
+"not listening" to what she was saying.  The patient felt like 
+he was responding more slowly than usual.  He was able to drive 
+45 minutes to school, though he felt "spacy" during the drive.  
+He finished one class and was emailing his wife to let her know 
+he was ok, but when he reviewed his email his writing seemed 
+occasionally wrong; for example, he had written "There's know 
+blurriness" instead of "There's no blurriness."  This was what 
+prompted him to come to the ED.
+ 
+Past Medical History:
+- Migraines as a child; took medication until age ___.
+- S/p ACL repair ___ years ago
+ 
+Social History:
+___
+Family History:
+Family history of cancer.
+ 
+Physical Exam:
+97.6 89 154/101 18 100%  
+Gen: Lying in bed, NAD
+HEENT: Normocephalic, atraumatic.  Mucous membranes moist.   
+Neck: Supple
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs 
+Lung: Clear to auscultation bilaterally 
+Abd: +BS soft, nontender 
+Skin: No rash
+Ext: No edema
+ 
+Neurologic examination: 
+Mental status: 
+General:  Alert, awake, normal affect.
+Orientation:  Oriented to person, place, date. (Initially says
+hospital is "___ then corrects himself).
+Attention: Able to to say days of the week and months of the 
+year
+backwards
+Executive Function: Follows simple axial and appendicular
+commands.  Follows complex commands.
+Memory: Registration ___.  Recall ___ at 5 minutes.
+Speech/Language: Fluent w/o paraphasic (phonemic or semantic)
+error.  Naming intact for high and low frequency objects. 
+Repetition intact.  Comprehension intact.  Able to read and
+write. 
+Praxis: Able to demonstrate how to brush teeth. 
+Calculations: 9 quarters = $2.25
+ 
+Cranial Nerves:  
+II: Fundoscopic examination reveals sharp disc margins. Pupils
+equally round and reactive to light, 4 to 2 mm bilaterally.
+Visual fields are full to confrontation. 
+III, IV, VI: Extraocular movements intact without nystagmus. 
+V1-3: Sensation intact V1-V3. 
+VII: Facial movement symmetric. 
+VIII: Hearing intact to finger rub bilaterally. 
+IX & X: Palate elevation symmetric. Uvula is midline. 
+XI: Sternocleidomastoid and trapezius full strength bilaterally. 
+
+XII: Good bulk. No fasciculations. Tongue midline, movements
+intact.
+ 
+Motor: 
+Normal bulk bilaterally. Tone normal. No observed myoclonus or
+tremor.  No pronator drift
+        Delt; C5   Bic:C6   Tri:C7 Wr ext:C6 Fing ext:C7
+Left          5         5       5          5          5
+Right         5         5       5          5          5
+ 
+        IP: Quad:  Hamst: Dorsiflex:    ___:   Pl.flex
+Left    5      5      5           5      5        5
+Right   5      5      5           5      5        5
+ 
+Deep tendon Reflexes:
+          Biceps: Tric: Brachial:   Patellar:  Achilles   Toes:
+Right       2       2         2        3           3     
+DOWNGOING
+Left        2       2         2        3           3     
+DOWNGOING
+ 
+Sensation: Patient reports pinprick feels sharper in upper arms
+than lower arms bilaterally.  Otherwise intact to light touch,
+pinprick, vibration and proprioception throughout. 
+Romberg: Negative
+  
+Coordination: Finger-nose-finger normal, heel to shin normal,
+RAMs normal. 
+  
+Gait: Narrow based, steady.  Tandem gait stable.
+
+ 
+Pertinent Results:
+___ 05:38AM BLOOD WBC-5.7 RBC-4.65 Hgb-14.5 Hct-41.2 MCV-89 
+MCH-31.1 MCHC-35.2* RDW-12.8 Plt ___
+___ 07:05AM BLOOD Neuts-56.8 ___ Monos-6.7 Eos-3.0 
+Baso-0.5
+___ 09:50PM BLOOD ___ PTT-42.4* ___
+___ 11:29PM BLOOD ACA IgG-6.6 ACA IgM-16.5*
+___ 11:29PM BLOOD AT-104 ProtCFn-95 ProtSFn-95
+___ 11:29PM BLOOD Lupus-NEG
+___ 07:05AM BLOOD Glucose-90 UreaN-13 Creat-1.0 Na-140 
+K-4.2 Cl-105 HCO3-25 AnGap-14
+___ 07:05AM BLOOD ALT-20 AST-18 CK(CPK)-70 AlkPhos-47 
+TotBili-0.4
+___ 07:05AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:05AM BLOOD Calcium-8.8 Phos-2.4* Mg-1.9 Cholest-116
+___ 07:05AM BLOOD %HbA1c-5.5 eAG-111
+___ 07:05AM BLOOD Triglyc-63 HDL-38 CHOL/HD-3.1 LDLcalc-65
+___ 11:29PM BLOOD Homocys-9.4
+___ 07:05AM BLOOD TSH-2.2
+___ 05:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+FACTOR V LEIDEN (R506Q) MUTATION NOT DETECTED
+THE G20210A MUTATION NOT DETECTED
+B2 GLYCOPROTEIN I (IGG)AB     <9                  <=20 SGU
+B2 GLYCOPROTEIN I (IGM)AB     <9                  <=20 SMU
+B2 GLYCOPROTEIN I (IGA)AB     <9                  <=20 ___
+___ 03:33PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+___ 03:33PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 03:33PM URINE Color-Yellow Appear-Clear Sp ___
+
+ECGStudy Date of ___  12:50:10 ___
+Sinus rhythm. Normal tracing. No previous tracing available for 
+comparison.
+___
+___
+ 
+MRI
+BRAIN MRI:
+There is restricted diffusion seen in the posterior portion of 
+the left
+sylvian fissure. The small area of low signal intensity on 
+susceptibility
+images in this region could be secondary to a small thrombus in 
+a MCA branch.
+There is no midline shift or hydrocephalus. A small focus of 
+hyperintensity
+in the left frontal subcortical white matter on diffusion images 
+could be due
+to an additional area of infarct.
+IMPRESSION: Acute infarct along the posterior portion of the 
+left sylvian
+fissure and along the insular cortex. A tiny additional area of
+hyperintensity on diffusion in the left frontal subcortical 
+white matter could
+also be due to an area of infarct. Small area of low signal on 
+susceptibility
+images in the posterior left sylvian fissure could be due to a 
+thrombus in a
+MCA branch.
+MRA HEAD:
+Head MRA demonstrates normal flow signal in carotid and 
+vertebral arteries
+without stenosis or occlusion.
+IMPRESSION: Normal MRA of the neck.
+MRA HEAD:
+Head MRA demonstrates slight change in the caliber of posterior 
+division of
+the left middle cerebral artery in the posterior portion of the 
+left sylvian
+fissure, which could be due to a small thrombus in the region. 
+Otherwise, the
+arteries of anterior and posterior circulation are maintained 
+without stenosis
+or occlusion.
+IMPRESSION: Possible small thrombus within the posterior 
+division of the left
+middle cerebral artery in the sylvian fissure.
+ 
+Echo:
+Conclusions
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler but a patent 
+foramen ovale is suggested with premature appearance of contrast 
+in the left heart with maneuvers. The right atrial pressure is 
+indeterminate. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF >55%). The 
+estimated cardiac index is normal (>=2.5L/min/m2). Transmitral 
+and tissue Doppler imaging suggests normal diastolic function, 
+and a normal left ventricular filling pressure (PCWP<12mmHg). 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. The pulmonary artery systolic pressure could not 
+be determined. There is no pericardial effusion. 
+IMPRESSION: Patent foramen ovale.
+ 
+Bilateral Lower Extremity Ultrasound, Venous
+FINDINGS: Grayscale, color and Doppler images were obtained of 
+bilateral
+common femoral, superficial femoral, popliteal and tibial veins. 
+There is
+normal flow, compression and augmentation seen in all the 
+vessels.
+IMPRESSION: No evidence of deep vein thrombosis in either leg.
+ 
+Pelvic MRV
+No venous thrombosis affecting the IVC or pelvic vasculature. 
+Overall normal
+pelvic examination.
+ 
+Brief Hospital Course:
+Mr. ___ was admitted with speech difficulties that quickly 
+resolved. Headache was left sided, temporal and pounding. 
+Headache continued with gradual abatement during the admission. 
+There was one episode of transient right visual field loss when 
+the patient stood up on the night of admission, but this 
+resolved over several minutes. This occurred after exertion in 
+the presence of a patent foramen ovale. We expect that this was 
+a thromboembolic event. Mr. ___ was thus anticoagulated with 
+intravenous heparin and coumadin was started. When lower 
+extremity venous ultrasound and pelvic MRV proved negative, Mr 
+___ was discharged on aspirin and coumadin was stopped. 
+Hypercoagulable workup was unrevealing except for a very small 
+elevation in anticardiolipin antibody. He will follow-up in 
+Stroke Neurology clinic. 
+ 
+Medications on Admission:
+Tylenol, Excedrin PRN
+ 
+Discharge Medications:
+1. In order to prevent constipation while taking oxycodone, 
+please consider taking Senna or Colace (over the counter bowel 
+medications)
+2. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*90 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for headache for 7 days: Only for pain not 
+relieved by tylenol. Do drive or operate machinery if this makes 
+you drowsy.
+Disp:*14 Tablet(s)* Refills:*0*
+4. Tylenol ___ mg Tablet Sig: Two (2) Tablet PO every eight (8) 
+hours as needed for headache.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Stroke
+Patent Foramen Ovale
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You came to the hospital with language difficulties. You were 
+found to have a small stroke. In addition, we found that you 
+have a hole in your heart (patent foramen ovale) that likely 
+transmitted a clot from your venous circulation. At the present 
+time, there is no evidence of clot. As such, it is safe for you 
+to go home on aspirin. 
+ 
+Followup Instructions:
+___

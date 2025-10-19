@@ -1,0 +1,683 @@
+===== DISCHARGE NOTE =====
+note_id=16086890-DS-18 | hadm_id=20272504
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with symptoms of atypical chest 
+pain x 2 weeks. Pain is worse with any movement but not further 
+worsened by exercise. No SOB, no n/v or diaphoresis with the 
+pain. Pain travels from ___ chest to her back. Has not had 
+any cough or f/c. Also complaining of swelling and pain in her 
+fingers for the last several weeks. 
+
+In the ED, initial vitals were  98.6 70 168/88 18 95%. CXR 
+demonstrated low lung volumes. Trops negative x 2. Stress test 
+with pseudonormalization. She was admitted for further risk 
+stratification with ETT-imaging.
+
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, cough, hemoptysis, black stools or 
+red stools. She denies recent fevers, chills or rigors. She 
+denies exertional buttock or calf pain. All of the other review 
+of systems were negative.  
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+palpitations, syncope or presyncope. 
+
+ 
+Past Medical History:
+Invasive ductal cancer
+Hypertension
+Hyperlipidemia
+Non-insulin-dependent type 2 diabetes.  Motor vehicle accident 
+in ___ resulting in low back pain, now resolved.  Right upper 
+extremity radial fixation in ___ after a patient fell on her. 
+Gallbladder removal at ___.
+Left partial mastectomy plus left axillary dissection (___)
+Left Axillary Lymph Node Excision (___)
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; sister with breast cancer, father with 
+prostate cancer. 
+
+ 
+Physical Exam:
+Admission:
+VS: T=98.5.BP=129-152/74-85.HR=69-80.RR=18.O2 sat=95-98% on RA  
+General:  well appearing woman, talkative/conversant
+HEENT:  MMM, no cervical/clavicular LAD
+Neck:  no JVD
+CV:  RRR no m/r/g
+Lungs:  CTAB no w/r/r
+Abdomen:  soft/nt/nd +BS
+Ext:  non-edematous, tenderness of R ___ digit MCP joint, 
+minimal erythema
+
+Grossly unchanged on discharge.
+ 
+Pertinent Results:
+Admission:
+___ 02:34PM BLOOD WBC-8.3 RBC-4.82 Hgb-13.9 Hct-39.1 
+MCV-81* MCH-28.9 MCHC-35.6* RDW-14.3 Plt ___
+___ 02:34PM BLOOD Glucose-88 UreaN-14 Creat-0.7 Na-141 
+K-3.7 Cl-100 HCO3-27 AnGap-18
+___ 06:15AM BLOOD Calcium-9.1 Phos-3.5 Mg-1.7 UricAcd-8.5* 
+Cholest-179
+___ 06:15AM BLOOD Triglyc-167* HDL-44 CHOL/HD-4.1 
+LDLcalc-102 LDLmeas-114
+
+Discharge:
+___ 06:15AM BLOOD WBC-5.7 RBC-4.33 Hgb-12.1 Hct-35.7* 
+MCV-83 MCH-27.9 MCHC-33.8 RDW-14.4 Plt ___
+___ 06:15AM BLOOD Glucose-126* UreaN-14 Creat-0.7 Na-138 
+K-3.6 Cl-101 HCO3-27 AnGap-14
+___ 09:15PM BLOOD cTropnT-<0.01
+___ 02:34PM BLOOD cTropnT-<0.01
+
+Stress Test:
+Final Report 
+  
+RADIOPHARMACEUTICAL DATA: 
+   31.9 mCi Tc-99m Sestamibi Stress ___ 
+HISTORY: ___ year old F hx of NIDDM, HTN, HLD, Left breast CA s/p 
+radiation to L 
+breast p/w exertional chest pain and NSSTTW.  
+  
+SUMMARY OF EXERCISE DATA FROM THE EXERCISE LAB: 
+Exercise protocol: Gervino 
+Resting heart rate: 69 
+Resting blood pressure: 132/78 
+Exercise duration: 10.25 min. 
+Peak heart rate: 147 
+Percent max predicted HR: 89 
+Peak blood pressure: 165/90 
+Symptoms during exercise: none 
+Reason exercise terminated: Fatigue 
+ECG findings: Sinus with isolated VPB 
+  
+IMAGING METHOD: 
+Stress and resting perfusion images were obtained on separate 
+days with  Tc-99m 
+sestamibi. 
+Tracer was injected 45 minutes prior to obtaining images. 
+This study was interpreted using the 17-segment myocardial 
+perfusion model. 
+Imaging Protocol: gated SPECT 
+  
+INTERPRETATION: 
+Resting and stress perfusion images reveal uniform tracer uptake 
+throughout the 
+myocardium.  Left ventricular cavity size is normal. 
+  
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 74%. 
+  
+IMPRESSION: Normal cardiac perfusion and wall motion with LVEF 
+of 74%. 
+  
+
+___, M.D.
+ 
+
+___, M.D.
+ 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of DMII, HLD, and 
+breast cancer undergoing XRT to L breast who presented with 
+chest pain. 
+
+# Chest Pain: Differential included unstable angina versus 
+stable angina versus non-cardiac chest pain. Multiple risk 
+factors for CAD especially XRT, DM,HTN, and obesity. She was 
+risk stratified with biomarkers and stress test with myocardial 
+perfusion study. Biomarkers and stress test were unremarkable. 
+It is likely that her chest pain was secondary to a 
+musculoskeletal source. Her initial chest pain improved with 
+aspirin 325 on arrival and did not recur during her admission.
+
+# R ___ digit MCP Joint pain: Differential includes gout given 
+elevated uric acid. ddx also includes osteoarthritis vs. 
+dupatreyns contracture. Ms. ___ was trialed on colchisine which 
+improved her pain. Further workup/treatment per PCP ___.  
+
+
+# DM: Ms. ___ was maintained on a sliding insulin scale. 
+
+# HTN: ACE/HCTZ were continued.
+
+# Breast Cancer: Letrazol was continued.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 1000 mg PO BID 
+2. moexipril-hydrochlorothiazide *NF* ___ mg Oral qd 
+3. Pravastatin 20 mg PO DAILY 
+4. letrozole *NF* 2.5 mg ORAL DAILY 
+ * Patient Taking Own Meds * 
+5. Aspirin 325 mg PO DAILY 
+6. GlyBURIDE 2.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. letrozole *NF* 2.5 mg ORAL DAILY 
+3. MetFORMIN (Glucophage) 1000 mg PO BID 
+4. Pravastatin 20 mg PO DAILY 
+5. Colchicine 0.6 mg PO BID 
+RX *colchicine [Colcrys] 0.6 mg 1 tablet(s) by mouth twice a day 
+Disp #*30 Tablet Refills:*0
+6. GlyBURIDE 2.5 mg PO DAILY 
+7. moexipril-hydrochlorothiazide *NF* ___ mg Oral qd 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Atypical Chest Pain, likely due to muscular strain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+    You were admitted with chest pain in which we wanted to rule 
+out a heart attack. We were able to do this with lab tests and a 
+stress test. 
+    Your knuckle pain is due to either gout or osteoarthritis. 
+We treated the pain with a drug called colchisine. You should 
+follow up with your primary care doctor regarding the joint pain 
+you are experiencing.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16086890-DS-17 | hadm_id=22598976
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Positive left axillary lymph node.
+
+ 
+Major Surgical or Invasive Procedure:
+Left breast axillary lymph node excision.
+
+ 
+History of Present Illness:
+This is an otherwise quite healthy ___ woman who 
+underwent a lumpectomy and axillary dissection approximately 3 
+weeks ago.  She had a positive lymph node FNA'ed under 
+ultrasound; however, the axillary dissection
+only showed 10 negative nodes; therefore, it was felt thatthe 
+positive node had not been retrieved.  She was re-ultrasounded 
+in the office with me and we did identify a node just inferior 
+to the seroma cavity.  She is quite a large
+woman with a BMI over 40 and initially the patient was reluctant 
+to have more surgery and wished to just proceed with endocrine 
+therapy and radiation but in the interim she decided she would 
+like to have it excised so we proceeded.
+
+ 
+Past Medical History:
+Invasive ductal cancer
+Hypertension
+Hyperlipidemia
+Non-insulin-dependent type 2 diabetes.  Motor vehicle accident 
+in ___ resulting in low back pain, now resolved.  Right upper 
+extremity radial fixation in ___ after a patient fell on her. 
+Gallbladder removal at ___.
+Left partial mastectomy plus left axillary dissection (___)
+Left Axillary Lymph Node Excision (___)
+
+ 
+Social History:
+___
+Family History:
+___
+ 
+Physical Exam:
+VS:97.7,72,119/82,18,97% RA
+General:alert and oriented,obese
+Cardiac:RRR
+Pulmonary:clear,no wheeze
+Abdomen:soft nontender, nondistended
+Incision:left axillary dsg c/d/i, no erythema
+Extremities:warm well perfused, no edema
+ 
+Brief Hospital Course:
+Ms ___ underwent left axillary lymph node excision for invasive 
+ductal carcinoma. She tolerated the procedure well. After 
+recovery in the PACU she was transferred to the floor for 
+further monitoring. 
+Her postoperative course was stable.The left axillary site 
+remained dry intact without any signs of bleeding or infection. 
+She received antiemetics as needed postoperatively for 
+nausea.Her diet was advanced to carbohydrate consistency regular 
+which was tolerated well. Her blood glucose level were normal 
+and her metformin was resumed. Her pain was well controlled on 
+oral pain medication.She had good urine output and was 
+ambulating without any difficulty. She was discharged home in 
+good condition and will follow-up with Dr. ___ in clinic.
+ 
+Medications on Admission:
+METFORMIN [GLUCOPHAGE] - Glucophage 500 mg tablet. ___ tablet(s)
+by mouth 2 in the morning and 1 at HS -  (Prescribed by Other
+Provider)
+MOEXIPRIL-HYDROCHLOROTHIAZIDE - moexipril-hydrochlorothiazide 15
+mg-25 mg tablet. 1 tablet(s) by mouth once a day -  (Prescribed
+by Other Provider)
+PRAVASTATIN [PRAVACHOL]
+letrozole *NF* 2.5 mg Oral QD 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. MetFORMIN (Glucophage) 500 mg PO QHS 
+3. moexipril-hydrochlorothiazide *NF* ___ mg Oral qd 
+4. Pravastatin 20 mg PO DAILY 
+5. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*25 Tablet Refills:*0
+6. letrozole *NF* 2.5 mg ORAL DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Positive left axillary lymph node.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Personal Care: 
+1. You may remove your dressing after 48 hours. 
+2. You may shower daily. No baths until instructed to do so by 
+Dr. ___.
+3. You may wear a soft, non-restrictive camisole but no tight or 
+underwire bras. 
+
+Activity: 
+1. You may resume your regular diet. 
+2. DO NOT lift anything heavier than 5 pounds or engage in 
+strenuous activity until instructed by Dr. ___. 
+Medications: 
+1. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered. 
+2. You may take your prescribed pain medication for moderate to 
+severe pain. You may switch to Tylenol or Extra Strength Tylenol 
+for mild pain as directed on the packaging. 
+3. Take prescription pain medications for pain not relieved by 
+tylenol. 
+4. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication. You may use a different 
+over-the-counter stool softener if you wish. 
+5. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+
+Call the office IMMEDIATELY if you have any of the following: 
+1. Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s). 
+2. A large amount of bleeding from the incision(s).
+3. Fever greater than 101.5 oF 
+4. Severe pain NOT relieved by your medication. 
+
+Return to the ER if: 
+* If you are vomiting and cannot keep in fluids or your 
+medications. 
+* If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you. 
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16086890-DS-19 | hadm_id=26959459
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue, nausea, vomiting, hypotension
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ yo woman with metastatic breast cancer now 
+on
+taxol (___), who presents with nausea, vomiting, fatigue,
+and was found to have hypotension to ___. 
+
+Ms. ___ reports that she has had months of nausea, vomiting, and
+abdominal discomfort that were ultimately worked up and found to
+be from metastatic recurrence of breast cancer with liver 
+lesions
+in ___. More recently, she began taxol ___ and last received
+this ___. A few days after C1D7 of taxol she had fatigue and
+nausea with multiple episodes of emesis (nonbloody, occasionally
+bilious) whenever she attempted to eat. Over these last 2 weeks
+with chemotherapy, she feels she also has been greatly
+deconditioned with dyspnea and intermittent cough productive of
+white phlegm. She endorses lightheadedness whenever she got up 
+to
+walk around at home during this time period. 
+
+She denies any fevers/chills, sick contacts, cold symptoms,
+diarrhea, suspicious food intake. 
+
+In the ED, she was found to be hypotensive to 74/50 w/ HR 108, T
+96.1, 100% on RA. Per ED report she was notably tachypneic to 32
+and unable to complete sentences. Ms. ___ herself is not able to
+give a clear report that this occurred. She received stress dose
+hydrocort and 2 L NS with stabilization of BPs to
+100s-130s/70s-90s. 
+
+A CTA was obtained: 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Mediastinal and hilar lymphadenopathy of indeterminate
+chronicity and etiology. Comparison to prior studies is
+recommended.
+3. Numerous reticulonodular pulmonary opacities are typical of
+bronchiolitis in the setting of small airways disease. No large
+focal consolidations.
+4. Osseous lucencies within the T6 vertebra and anterolateral
+right fourth rib are worrisome for metastasis.
+5. Likely subacute healing fracture of the posterolateral right
+sixth rib. Pathologic fracture is difficult to exclude.
+6. Likely pulmonary arterial hypertension.
+
+EKG was normal sinus without ischemic changes. Lactate 3.2-> 1.7
+after fluids. Troponin negative. 
+
+ 
+Past Medical History:
+HTN
+HLP
+IDDM 
+Obesity
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; sister with breast cancer, father with 
+prostate cancer. 
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+
+VITALS: ___ 0044 BP: 124/83 L Lying HR: 98 O2 sat: 96% O2
+delivery: RA 
+___ 0044 BP: 128/84 L Standing HR: 95 O2 sat: 96% O2
+delivery: RA 
+
+General: Well appearing obese ___ woman, resting in
+bed comfortably. Breathing comfortably on RA
+Neuro:
+Cranial nerves: PERRL, EOMI, Facial sensation equal bilaterally,
+resists eye opening ___, hearing intact to finger rub b/l, 
+palate
+elevates symmetrically, tongue midline, shoulder shrug ___
+
+Moves all extremities to command without difficulty
+Sensation intact to light touch over UE and ___
+
+Alert and oriented to person, place (___) and time (___)
+HEENT: Oropharynx clear, MMM, no cervical/supraclavicular LAD
+Cardiovascular: RRR no murmurs heard
+Chest/Pulmonary: Lungs clear to auscultation bilaterally
+Abdomen: Soft, nontender, nondistended. No suprapubic tenderness
+to palpation
+Extr/MSK: No peripheral edema, no calf tenderness
+Skin: No rashes. +Tattoos
+Access: R POC not accessed (reportedly had ?serous return when
+attempted to access in ED). Overlying scab from recent 
+placement,
+surgical incision site looks clean, no surround erythema,
+fluctuance, tenderness to palaption
+
+DISCHARGE EXAM:
+
+Patient examined on day of discharge. AVSS. Able to walk ~ 500 
+feet with a normal gait and no shortness of breath. Lungs CTAB. 
+Port accessed successfully with. No erythema surrounding her 
+port. 
+ 
+Pertinent Results:
+LABORATORY RESULTS: 
+
+___ 10:10AM BLOOD WBC-4.8 RBC-5.08 Hgb-13.7 Hct-40.8 
+MCV-80* MCH-27.0 MCHC-33.6 RDW-15.1 RDWSD-42.7 Plt ___
+___ 12:00AM BLOOD WBC-5.7 RBC-4.00 Hgb-10.8* Hct-33.1* 
+MCV-83 MCH-27.0 MCHC-32.6 RDW-15.3 RDWSD-44.7 Plt ___
+___ 06:40AM BLOOD Neuts-61.6 ___ Monos-5.7 Eos-0.0* 
+Baso-0.3 Im ___ AbsNeut-4.20 AbsLymp-2.17 AbsMono-0.39 
+AbsEos-0.00* AbsBaso-0.02
+___ 10:10AM BLOOD Neuts-47.3 ___ Monos-5.9 Eos-0.2* 
+Baso-0.8 Im ___ AbsNeut-2.26 AbsLymp-2.17 AbsMono-0.28 
+AbsEos-0.01* AbsBaso-0.04
+___ 10:10AM BLOOD Glucose-381* UreaN-17 Creat-1.3* Na-132* 
+K-4.5 Cl-95* HCO3-19* AnGap-18
+___ 12:00AM BLOOD Glucose-231* UreaN-17 Creat-0.9 Na-138 
+K-4.6 Cl-100 HCO3-24 AnGap-14
+___ 10:10AM BLOOD ALT-36 AST-34 AlkPhos-177* TotBili-0.5
+___ 10:10AM BLOOD Lipase-29
+___ 10:10AM BLOOD cTropnT-<0.01
+___ 10:10AM BLOOD proBNP-6
+___ 06:40AM BLOOD Calcium-9.3 Phos-3.7 Mg-1.8
+___ 10:15AM BLOOD ___ pO2-131* pCO2-19* pH-7.64* 
+calTCO2-21 Base XS-2
+___ 10:15AM BLOOD Lactate-3.2*
+___ 03:35PM BLOOD Lactate-1.7
+___ 10:15AM BLOOD O2 Sat-98
+
+TTE:
+
+Suboptimal image quality. Normal biventricular cavity sizes, 
+regional/global systolic function.
+No valvular pathology or pathologic flow identified. Normal 
+estimated pulmonary artery systolic pressure. No
+echocardiographic evidence for left ventricular diastolic 
+dysfunction. Mild ascending aorta dilation.
+
+CTA:
+
+ 
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2. Mediastinal and hilar lymphadenopathy of indeterminate 
+chronicity and 
+etiology. Comparison to prior studies is recommended. 
+3. Numerous reticulonodular pulmonary opacities are typical of 
+bronchiolitis 
+in the setting of small airways disease. No large focal 
+consolidations. 
+4. Osseous lucencies within the T6 vertebra and anterolateral 
+right fourth rib 
+are worrisome for metastasis. 
+5. Likely subacute healing fracture of the posterolateral right 
+sixth rib.  
+Pathologic fracture is difficult to exclude. 
+6. Likely pulmonary arterial hypertension. 
+
+MICROBIOLIOGY:
+
+   Blood Culture, Routine (Preliminary): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+      Reported to and read back by ___ (___) @14:13 
+(___). 
+ 
+___ BCx x2 NGTD
+
+ 
+Brief Hospital Course:
+Ms. ___ was IV fluid resuscitated in the emergency room, with 
+another liter on the floor, with complete resolution of her 
+hypotension, nausea, and vomiting. She was able to tolerate a 
+regular diet and ambulate at her baseline. The cause of her 
+hypotension was likely due to her chemotherapy. I discussed this 
+with Dr. ___ will see her in follow up.
+
+HOSPITAL COURSE BY PROBLEM
+
+1. Hypotension, due to severe nausea and vomiting. Resolved. 
+Will follow up with Dr. ___.
+
+2. Coagulase negative staph bacteremia. One of four bottles. 
+Patient was afebrile with no signs of infection; this was almost 
+certainly contamination. Repeat blood cultures were negative. 
+She did not receive antibiotics, but has been counseled to look 
+out for fevers.
+
+3. Large pulmonary artery seen on CT scan. Patient gave history 
+of progressive shortness of breath, with a large PA seen on CT 
+c/w PAH. However, a TTE was performed which showed no PAH. 
+Patient also expressed that her breathlessness had resolved with 
+IV fluid hydration. 
+
+4. Metastatic breast CA. Dr. ___ continue taxol as an 
+outpatient.
+
+5. DM2. Home glipizide and Trulicity
+
+6. HTN. Her lisinopril-HCTZ was held on admission, restarted on 
+discharge.
+
+7. ___. Her creatinine was mildly elevated on admission, 
+returned to normal with IV fluid hydration.
+
+> 35 minutes spent on discharge activities.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. GlipiZIDE 5 mg PO BID 
+3. Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+4. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+5. Pravastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  GlipiZIDE 5 mg PO BID  
+3.  lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+4.  Pravastatin 20 mg PO QPM  
+5.  Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK  
+
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypotension due to nausea and vomiting
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted with hypotension (low blood pressure) because 
+of severe nausea and vomiting from your chemotherapy. You were 
+treated with intravenous (IV) fluids, and felt much better -- 
+you were able to keep down your meals as well. I discussed your 
+case with Dr. ___ will see you as an outpatient.
+
+You also complained of increased shortness of breath. Your CT 
+scan did suggest pulmonary arterial hypertension; however, I got 
+an ultrasound of your heart which was normal. Your shortness of 
+breath was markedly improved with fluids alone.
+
+You did have bacteria in your blood. Fortunately, this appears 
+to have been a contaminant (that is, coming from your skin when 
+your blood was drawn). You do not need any antibiotics for this.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,214 @@
+===== DISCHARGE NOTE =====
+note_id=18947841-DS-20 | hadm_id=21766689
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxia
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ yo M with history of mild asthma treated with albuterol PRN, 
+presented to his PCPs office today with shortness of breath and 
+wheezing over the last 3 days. He first noticed a non productive 
+cough, steadily worsening over the last 10 days. In the last 
+three days he has noticed wheezing, dyspnea on exertion and 
+decreased exercise tolerance. He typically rarely uses his 
+albuterol, but over the last three days, he has been useing ___ 
+times/day. No congestion, sneezing or sinus symptoms. Denies 
+fever/chills. He went to see his PCP and in the office his O2 
+sat was 90% at rest and 80% with ambulation. He was sent from 
+the office to the ED for hypoxia.  
+.  
+On arrival in the ED, initial VS were: T 97.6 P 82 BP 169/81 R 
+16 O2 sat. 94/RA. PEFR 150. He was given solumedrol 125mg IV x 
+1, combivent nebs and levofloxacin 750mg IV x 1. PEFR after 
+treatment was 300. A Chest X-ray was suggestive of RLL 
+pneumonia.  
+On transfer P 87 BP 130/80 R 23 O2 sat. 95/RA  
+
+ 
+Past Medical History:
+Asthma  
+Melanoma - s/p three surgeries  
+Hypertension  
+
+ 
+Social History:
+___
+Family History:
+Mother and sister with asthma. Father and uncle with aortic 
+aneurysm. Father had CABG x 4. 
+ 
+Physical Exam:
+Vitals: T: 96.9 BP: 142/78 P: 60 R: 22 O2: 97/RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Wheezing bilaterally, worse in lower fields.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: intact  
+Neuro: AAO x 3, CN II-XII intact, stength and sensation grossly 
+normal bilaterally, no facial asymmetry, speech fluent, no 
+pronator drift. 
+
+ 
+Pertinent Results:
+___ 05:45PM BLOOD WBC-12.1* RBC-4.96 Hgb-14.3 Hct-42.4 
+MCV-86 MCH-28.8 MCHC-33.6 RDW-13.5 Plt ___
+___ 05:48AM BLOOD WBC-23.8*# RBC-4.78 Hgb-13.5* Hct-41.2 
+MCV-86 MCH-28.3 MCHC-32.8 RDW-13.6 Plt ___
+___ 04:50AM BLOOD WBC-20.5* RBC-4.80 Hgb-13.6* Hct-42.0 
+MCV-88 MCH-28.5 MCHC-32.5 RDW-14.0 Plt ___
+___ 05:45AM BLOOD WBC-12.6* RBC-4.51* Hgb-13.1* Hct-38.7* 
+MCV-86 MCH-29.0 MCHC-33.8 RDW-13.6 Plt ___
+___ 05:45PM BLOOD Glucose-116* UreaN-13 Creat-1.0 Na-140 
+K-3.7 Cl-100 HCO3-30 AnGap-14
+___ 05:48AM BLOOD Glucose-130* UreaN-16 Creat-0.9 Na-142 
+K-3.9 Cl-101 HCO3-25 AnGap-20
+___ 04:50AM BLOOD Glucose-105 UreaN-19 Creat-0.9 Na-142 
+K-4.0 Cl-102 HCO3-24 AnGap-20
+___ 05:45AM BLOOD Glucose-91 UreaN-19 Creat-0.9 Na-141 
+K-3.8 Cl-103 HCO3-28 AnGap-14
+.
+CXR:
+PA AND LATERAL VIEWS OF THE CHEST: A vague opacity overlying the 
+posterior 
+right diaphragm, best seen on the lateral view may represent an 
+early 
+pneumonia. There is no pneumothorax or pleural effusion. There 
+is no 
+evidence of congestive heart failure. Heart, mediastinum and 
+hila are normal. 
+  
+IMPRESSION: Possible right lower lobe early pneumonia. Clinical 
+correlation is recommended. 
+.
+ECG:
+Sinus rhythm. Normal tracing. No previous tracing available for 
+comparison.  
+Rate PR QRS QT/QTc P QRS T 
+69 184 90 416/431 41 -13 55 
+ 
+
+ 
+Brief Hospital Course:
+#. Pneumonia/Asthma Exacerbation.  On admission, patient was 
+short of breath and had diffuse bilateral wheezes on exam.  He 
+was placed on supplemental oxygen by nasal cannula, treated with 
+prednisone 60mg PO daily, standing albuterol and ipratropium 
+nebulizer treatments and levofloxacin 750mg PO daily.  Peak 
+expiratory flow was checked every eight hours.  By ___, his 
+peak flow had improved to 650 cc/sec, but he still required 
+supplemental oxygen, with an ambulatory saturation of 90% on 
+room air.  By ___, he had an oxygen saturation of 95% on 
+room air, with an ambulatory saturation on 93%. His wheezing was 
+substantially reduced and symptomatically improved.  He was 
+discharged with one more day of levofloxacin, a prednisone 
+taper, and ___ nebulizer treatments.  Patient was counseled to 
+stop smoking.  Follow up was arranged with Dr. ___ PCP ___ 
+___.
+.
+#. Hypertension.  Patient was treated with his ___ hypertensive 
+regimen of hydrochlorothiazide, amlodipine and lisinopril with 
+excellent control of SBP 110-120 throughout his stay.
+
+ 
+Medications on Admission:
+Lisinopril 40mg PO daily  
+Hydrochlorathiazide 25mg PO daily  
+Amlodipine 5mg PO daily  
+
+ 
+Discharge Medications:
+1. Prednisone 10 mg Tablet Sig: Tapered dosing PO once a day for 
+5 days: 50 mg (5 tablets) for 1 day, then 40 mg (4 tablets) for 
+1 day, then 30 mg (3 tablets) for 1 day, then 20 mg (2 tablets) 
+for one day, then 10 mg (1 tablet) for 1 day, then stop.
+.
+Disp:*15 Tablet(s)* Refills:*0*
+2. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day 
+for 1 days: 5 day course.  Started ___.
+Disp:*1 Tablet(s)* Refills:*0*
+3. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ puff Inhalation every six (6) hours as needed for shortness 
+of breath or wheezing.
+Disp:*1 unit* Refills:*2*
+5. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) Nebulizer Inhalation every ___ hours 
+as needed for shortness of breath or wheezing for 5 days.
+Disp:*30 units* Refills:*1*
+6. Dextromethorphan-Guaifenesin ___ mg/5 mL Syrup Sig: ___ 
+MLs PO Q6H (every 6 hours) as needed for cough for 5 days.
+Disp:*QS ML(s)* Refills:*0*
+7. Nebulizer 
+Please provider ___ for acute asthma exacerbation.  
+Patient to use ___ times daily over next several days.
+8. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+9. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+___
+ 
+Discharge Diagnosis:
+Primary: Asthma exacerbation, community acquired pneumonia.
+Secondary: Hypertension
+
+ 
+Discharge Condition:
+Hemodynamically stable and afebrile with improved breathing.
+
+ 
+Discharge Instructions:
+You were admitted with shortness of breath likely due to asthma 
+and pneumonia.  You were treated with steroids, nebulizers and 
+antibiotics.  Once your peak flows, oxygen saturation and 
+breathing had improved you were discharged ___. 
+
+Please keep all outpatient appointments.  
+
+Please stop smoking.
+
+The following changes have been made to your medications:
+- Please start a prednisone taper.  This means you will take a 
+lower dose of prednisone every day.  Take 50mg for one day, then 
+40mg for one day, the 30mg for one day, then 20mg for one day, 
+then 10mg for one day, then stop.
+- Please use albuterol nebulizers every ___ hours as needed for 
+wheezing.
+
+Please adhere to your follow-up appointments. They are important 
+for managing your long-term health.
+.
+Please return to the hospital or call your doctor if you have 
+temperature greater than 101, shortness of breath, worsening 
+difficulty with swallowing, chest pain, abdominal pain, 
+diarrhea, or any other symptoms that you are concerned about.
+
+ 
+Followup Instructions:
+___

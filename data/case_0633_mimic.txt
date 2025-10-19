@@ -1,0 +1,1126 @@
+===== DISCHARGE NOTE =====
+note_id=14568496-DS-17 | hadm_id=22805951
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___: Exploratory laparotomy, small bowel resection with
+primary anastomosis and lysis of adhesions.
+
+ 
+History of Present Illness:
+___ direct admit from St. E's hx dementia who presented 
+initially ___ with abdominal pain and nausea, no emesis. In 
+the ED, additionally found to have an UTI for which she was 
+given Levoquin, and a foley was inserted. A CT scan was 
+performed, showing a closed loop volvulus of the mid small 
+bowel, WBC 12.6,
+lactic acid 2.8. She received IVF and abx in the ED. Given the 
+patient's age, functional statu, dementia, and Xarelto use, the 
+surgical team felt she was not a surgical candidate; discussion 
+held with patient and niece (HCP), and surgical management 
+deferred, with focus on managing pain. Niece signed form making 
+her DNR/DNI. Overnight, she was given IV morphine, xarelto was
+held, given IV levaquin. UCx showed gram negative rods. By ___ 
+AM, the patient was somewhat improved and niece felt like she 
+wanted a second opinion at ___. 
+
+ 
+Past Medical History:
+PMH
+hyperthyroidism
+afib
+DVT
+
+PSH
+thyroidectomy
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+Admission Physical Exam:
+
+VS: Temp: 99.2 PO BP: 130/66 HR: 112 RR: 18 O2 sat: 94%
+O2 delivery: Ra 
+GEN: NAD, Oriented to place
+cv: mildly tachycardic
+pulm: nonlabored breathing on room air
+abd: soft, tender in right upper and lower quadrant, no rebound;
+moderately distended; able to palpate distended bowel in right
+lower quadrant
+
+Discharge Physical Exam:
+VS: 98.6 PO 164 / 73 L Lying 81 16 95 
+GEN: Awake, alert, pleasant and interactive.
+HEENT: PERRL, EOMI. Nares patient.
+CV: RRR
+PULM: Clear to auscultation bilaterally.
+ABD: Soft, non-tender, non-distended. Active bowel sounds. 
+Midline surgical incision with dermabond CDI. 
+EXT: Warm and dry. No edema. 
+ 
+Pertinent Results:
+IMAGING
+OSH: Ascending aorta 3.3cm.
+4mm nodule in right upper lobe. 
+in the pelvis there is a single loop of dilated fluid filled
+small bowel with diffuse wall thickening that appears to be a
+volvulized closed loop. mild dilation of proximal small bowel
+loops. nondilated terminal ileum. colon is normal in caliber. 
+gallbladder surgical absent. extrahepatic common duct 1.5 cm in
+diameter. 
+small amount of ascites. hyperdense cyst lower pole L kidney.
+1.8cm adrenal nodule. 
+
+___ 02:00AM BLOOD WBC-33.5* RBC-3.78* Hgb-10.9* Hct-33.4* 
+MCV-88 MCH-28.8 MCHC-32.6 RDW-14.5 RDWSD-46.2 Plt ___
+___ 05:45AM BLOOD WBC-20.9* RBC-3.31* Hgb-9.6* Hct-29.9* 
+MCV-90 MCH-29.0 MCHC-32.1 RDW-14.5 RDWSD-47.7* Plt ___
+___ 09:33AM BLOOD WBC-18.1* RBC-3.05* Hgb-8.8* Hct-28.1* 
+MCV-92 MCH-28.9 MCHC-31.3* RDW-14.6 RDWSD-49.1* Plt ___
+___ 04:12PM BLOOD WBC-15.2* RBC-2.73* Hgb-7.9* Hct-24.2* 
+MCV-89 MCH-28.9 MCHC-32.6 RDW-14.6 RDWSD-47.0* Plt ___
+___ 06:16AM BLOOD WBC-13.0* RBC-2.52* Hgb-7.3* Hct-22.5* 
+MCV-89 MCH-29.0 MCHC-32.4 RDW-14.5 RDWSD-46.5* Plt ___
+___ 04:52AM BLOOD WBC-10.5* RBC-2.54* Hgb-7.3* Hct-23.5* 
+MCV-93 MCH-28.7 MCHC-31.1* RDW-14.6 RDWSD-49.3* Plt ___
+___ 04:35AM BLOOD WBC-8.5 RBC-2.62* Hgb-7.6* Hct-24.2* 
+MCV-92 MCH-29.0 MCHC-31.4* RDW-14.7 RDWSD-50.0* Plt ___
+___ 07:35PM BLOOD WBC-8.4 RBC-3.06* Hgb-8.9* Hct-27.6* 
+MCV-90 MCH-29.1 MCHC-32.2 RDW-14.6 RDWSD-48.2* Plt ___
+___ 05:26AM BLOOD WBC-8.6 RBC-3.06* Hgb-8.8* Hct-27.6* 
+MCV-90 MCH-28.8 MCHC-31.9* RDW-14.5 RDWSD-47.8* Plt ___
+___ 06:15AM BLOOD WBC-8.2 RBC-2.98* Hgb-8.5* Hct-26.8* 
+MCV-90 MCH-28.5 MCHC-31.7* RDW-14.6 RDWSD-47.4* Plt ___
+___ 04:02AM BLOOD WBC-9.1 RBC-3.14* Hgb-8.9* Hct-28.2* 
+MCV-90 MCH-28.3 MCHC-31.6* RDW-14.6 RDWSD-46.8* Plt ___
+___ 11:50AM BLOOD WBC-9.0 RBC-2.92* Hgb-8.5* Hct-26.2* 
+MCV-90 MCH-29.1 MCHC-32.4 RDW-14.6 RDWSD-48.3* Plt ___
+___ 06:22PM BLOOD ___ PTT-23.6* ___
+___ 07:35PM BLOOD ___ PTT-30.9 ___
+___ 12:45PM BLOOD ___ PTT-25.6 ___
+___ 05:45AM BLOOD ___ PTT-30.6 ___
+___ 02:00AM BLOOD ___ PTT-27.9 ___
+___ 02:00AM BLOOD Glucose-125* UreaN-22* Creat-0.7 Na-143 
+K-3.9 Cl-111* HCO3-18* AnGap-14
+___ 05:45AM BLOOD Glucose-143* UreaN-24* Creat-0.9 Na-141 
+K-3.9 Cl-112* HCO3-19* AnGap-10
+___ 09:33AM BLOOD Glucose-117* UreaN-24* Creat-0.9 Na-140 
+K-4.2 Cl-110* HCO3-19* AnGap-11
+___ 04:12PM BLOOD Glucose-108* UreaN-26* Creat-0.9 Na-142 
+K-3.9 Cl-110* HCO3-23 AnGap-9*
+___ 06:16AM BLOOD Glucose-83 UreaN-28* Creat-0.9 Na-144 
+K-3.7 Cl-111* HCO3-22 AnGap-11
+___ 04:52AM BLOOD Glucose-93 UreaN-31* Creat-0.7 Na-146 
+K-3.6 Cl-116* HCO3-21* AnGap-9*
+___ 04:35AM BLOOD Glucose-100 UreaN-20 Creat-0.6 Na-145 
+K-3.4* Cl-115* HCO3-18* AnGap-12
+___ 07:35PM BLOOD Glucose-144* UreaN-12 Creat-0.5 Na-141 
+K-2.9* Cl-112* HCO3-18* AnGap-11
+___ 05:26AM BLOOD Glucose-109* UreaN-9 Creat-0.5 Na-141 
+K-3.8 Cl-113* HCO3-19* AnGap-9*
+___ 06:15AM BLOOD Glucose-99 UreaN-6 Creat-0.7 Na-143 
+K-3.3* Cl-115* HCO3-19* AnGap-9*
+___ 04:02AM BLOOD Glucose-88 UreaN-5* Creat-0.6 Na-144 
+K-4.1 Cl-116* HCO3-19* AnGap-9*
+___ 11:50AM BLOOD Glucose-134* UreaN-5* Creat-0.7 Na-143 
+K-4.1 Cl-115* HCO3-21* AnGap-7*
+___ 02:00AM BLOOD Albumin-3.6 Calcium-9.1 Phos-3.1 Mg-1.5*
+___ 05:45AM BLOOD Calcium-8.7 Phos-3.6 Mg-1.5*
+___ 09:33AM BLOOD Calcium-8.6 Phos-3.0 Mg-1.4*
+___ 04:12PM BLOOD Calcium-8.8 Phos-2.7 Mg-3.0*
+___ 06:16AM BLOOD Calcium-8.7 Phos-2.4* Mg-2.5
+___ 04:52AM BLOOD Calcium-8.3* Phos-2.1* Mg-2.0
+___ 04:35AM BLOOD Calcium-8.3* Phos-2.6* Mg-1.7
+___ 07:35PM BLOOD Calcium-8.3* Phos-2.0* Mg-1.5*
+___ 05:26AM BLOOD Calcium-8.4 Phos-4.1 Mg-2.3
+___ 06:15AM BLOOD Calcium-8.5 Phos-2.8 Mg-1.8
+___ 04:02AM BLOOD Calcium-8.7 Phos-3.6 Mg-1.9
+___ 11:50AM BLOOD Calcium-8.7 Phos-3.5 Mg-1.8
+___ 04:42AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.0
+___ 10:51AM URINE Blood-MOD* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-10* Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-MOD*
+
+___ 4:30 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+                            **FINAL REPORT ___
+C. difficile PCR (Final ___: 
+  NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic 
+strains of C.
+      difficile and detects both C. difficile infection (CDI) 
+and
+      asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of 
+CDI or
+      carriage. 
+
+___ 10:51 am URINE      Source: Catheter. 
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___:    NO GROWTH.
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ with pmh afib on Xarelto, dementia who 
+was transferred from OSH as a direct admit on ___ after she 
+had a CT scan demonstrating a closed loop volvulus of the mid 
+small bowel, WBC 12.6, lactic acid 2.8. At the OSH she was 
+initially made DNR/DNI and then showed improvement and she was 
+transferred to ___ for a second opinion. 
+
+Given concerning abdominal exam and CT, the Acute Care Surgery 
+team discussed operative intervention with niece and patient, 
+and the patient was consented for surgery. On ___ the 
+patient was taken to the OR and underwent exploratory 
+laparotomy, small bowel resection with primary anastomosis and 
+lysis of adhesions. This procedure went well. (Please see 
+operative report for details). The patient had a nasogastric 
+tube left in place which the patient self removed. The Geriatric 
+service was consulted to help with delirium management. 
+
+The patient had episodes of atrial fibrillation with RVR, 
+requiring intermittent IV pushes of metoprolol and diltiazem. 
+She was started on digoxin for heart rate control and was 
+resumed on her PO metoprolol. She was initially started on a 
+heparin drip for anticoagulation in the setting of atrial 
+fibrillation and initiating treatment of an anitarrhythmic. Once 
+tolerating a regular diet, she was transitioned to Xarelto. She 
+started passing loose stool, c.diff study was sent which was 
+negative. Diet was advanced and she tolerated a regular diet. 
+IVF were discontinued and IV antibiotics were discontinued on 
+POD #4.  
+
+The patient worked with Physical Therapy and it was recommended 
+that she be discharged to rehab. At the time of discharge, the 
+patient was doing well, afebrile and hemodynamically stable. The 
+patient was tolerating a diet, ambulating, voiding without 
+assistance, and pain was well controlled. The patient received 
+discharge teaching and follow-up instructions with understanding 
+verbalized and agreement with the discharge plan.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Rivaroxaban 15 mg PO DAILY 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. Metoprolol Tartrate 25 mg PO BID 
+4. Propylthiouracil 100 mg PO Q8H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Digoxin 0.125 mg PO EVERY OTHER DAY  
+3.  Rivaroxaban 15 mg PO DINNER  
+4.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+5.  Metoprolol Tartrate 25 mg PO BID  
+6.  Propylthiouracil 100 mg PO Q8H  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Small bowel obstruction with closed loop
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with a closed loop bowel 
+obstruction and you were taken to the operating room where you 
+underwent exploratory laparotomy, removal of the affected 
+portion of bowel and removal of scar tissue bands.  This 
+procedure went well.  You have now had return of bowel function 
+and are tolerating a regular diet.  You have a heart arrhythmia, 
+called atrial fibrillation, for which you take metoprolol for at 
+home.  Your heart rate was intermittently elevated with this 
+rhythm while in the hospital, so a new medication, called 
+Digoxin, was started.  
+
+You are now ready to be discharged to rehab to continue your 
+recovery.  Please note the following discharge instructions:
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water. Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own. 
+Please remove any remaining strips ___ days after surgery.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14568496-DS-18 | hadm_id=29424659
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+diarrhea 
+ 
+Major Surgical or Invasive Procedure:
+none 
+ 
+History of Present Illness:
+Ms. ___ is an ___ female with history of A.
+fib on xarelto, hypothyroid, dementia, recent admission for
+volvulus s/p exploratory laparotomy, small bowel resection with
+primary anastomosis on ___, who presents from her dementia
+unit with diarrhea. Patient is unable to recall what happened
+today or provide much additional history. At the time of this
+note, no ALF records are available - ___ was contacted, there is
+no one who can currently send records. 
+
+According to EMS report, patient has had diarrhea for 1 day and
+low-grade fever, and was found with feces smeared in her room. 
+In
+speaking with her HCP, niece ___, she reports she saw the
+patient just yesterday and patient was doing well then.  She
+confirms recent surgical history and also adds that patient had 
+C
+diff diagnosed at the ___ after discharge from ___ in ___. 
+
+She was treated with po vancomycin for unknown duration of time
+(?5 days) and improved with a negative cdiff repeat per niece. 
+The patient was ultimately discharged back to her assisted 
+living
+facility after about ___ days at the ___. 
+
+Per ___, the patient has had cdiff twice before in the 
+setting
+of a hip fracture & repair in ___, along with recurrent UTIs. 
+
+In the ED, VS were notable for T 100.0, HR 96, BP 131/75, RR 18,
+98% RA.  Exam was significant for abdominal pain with palpation. 
+
+Labs and CT abdomen were obtained.  She was given IVF, macrobid
+(for UTI), cipro, and flagyl for presumed colitis.  
+
+Currently, the patient reports feeling fine "physically."  When
+asked why she is here, she says "until they figure out what is
+wrong with me."  She denies any n/v, abdominal pain.  She 
+recalls
+the diarrhea but cannot provide further information.  No
+lightheadedness, dizziness, chest pain or SOB.  She denies any
+dysuria or urinary symptoms - she wears a diaper.  No ___ 
+swelling
+or pain. 
+ 
+Past Medical History:
+Afib
+Hyperthyroidism, s/p thyroidectomy
+h/o VTE - DVT, unknown when this occurred
+h/o colon CA
+h/o hip fracture ___ s/p repair
+C diff ___ in the last ___ year
+Dementia 
+closed loop bowel volvulus s/p ex lap ___
+ 
+Social History:
+___
+Family History:
+Non-contributory  
+ 
+Physical Exam:
+ADMISSION EXAM:
+ 
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate, MM
+slightly dry. 
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, with TTP in the LLQ, no
+peritoneal signs.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented to self and place, face symmetric, gaze
+conjugate with EOMI, speech fluent, moves all limbs, sensation 
+to
+light touch grossly intact throughout.  Conversation tangential
+and out of context frequently. 
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+Gen: elderly woman laying comfortably in bed, NAD
+HEENT: EOMI, ___, MMM
+Lungs: CTAB
+Heart: RRR, S1 and S2
+Abdomen: soft, NT, ND, +BS
+Ext: warm, 1+ b/l ___ edema
+Skin: no rashes appreciated
+Psych: calm and appropriate
+Neuro: AOx1-2 (knows her name and DOB. Able to recall the month 
+but thought the year was in the 3000s. Said the presidents name 
+was "Dump" unclear if she actually knew but just didn't want to 
+say). No focal deficits. Speech fluent. Moving all extremitis
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 11:20PM BLOOD WBC-15.9* RBC-3.43* Hgb-9.0* Hct-29.1* 
+MCV-85 MCH-26.2 MCHC-30.9* RDW-14.2 RDWSD-44.2 Plt ___
+___ 11:20PM BLOOD Neuts-86.0* Lymphs-5.5* Monos-7.5 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-13.71* AbsLymp-0.88* 
+AbsMono-1.19* AbsEos-0.00* AbsBaso-0.04
+___ 11:20PM BLOOD ___ PTT-32.3 ___
+___ 11:20PM BLOOD Glucose-76 UreaN-17 Creat-0.9 Na-138 
+K-3.5 Cl-104 HCO3-15* AnGap-19*
+___ 11:20PM BLOOD ALT-32 AST-47* AlkPhos-65 TotBili-0.7
+___ 11:20PM BLOOD Lipase-33
+___ 11:20PM BLOOD Albumin-3.7 Calcium-9.7 Phos-3.7 Mg-1.7
+___ 11:29PM BLOOD Lactate-1.3
+
+MICRO:
+
+___ 2:50 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      Reported to and read back by ___ @ 2244 ON 
+___. 
+      POSITIVE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.            (Reference 
+Range-Negative). 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+
+   C. difficile Toxin antigen assay (Final ___: 
+      NEGATIVE.              (Reference Range-Negative).  
+PERFORMED BY EIA. 
+         This result indicates a low likelihood of C. difficile 
+infection
+         (CDI). 
+
+IMAGING:
+
+___ CT ABDOMEN/PELVIS
+
+1. Mild hyperenhancement and wall thickening of the ascending 
+and sigmoid
+colon likely represents a mild colitis.  Diverticulosis without 
+diverticulitis.  No additional etiology identified for patient's 
+symptoms. Contrast did not reach patient's anastomosis, which 
+otherwise appears within normal limits.
+2. Multiple incidental findings, including enlarged common bile 
+duct, likely due to post cholecystectomy state and patient age, 
+2.8 cm nodule the medial limb of the left adrenal gland, 
+consistent with myelolipoma, likely hemorrhagic cyst off the 
+lower pole of the left kidney, and fibroid uterus.
+
+DISCHARGE LABS:
+
+___ 06:44AM BLOOD WBC-5.8 RBC-3.52* Hgb-9.1* Hct-29.7* 
+MCV-84 MCH-25.9* MCHC-30.6* RDW-13.7 RDWSD-42.4 Plt ___
+___ 06:44AM BLOOD ___ PTT-25.2 ___
+___ 06:44AM BLOOD Plt ___
+___ 06:44AM BLOOD Glucose-72 UreaN-7 Creat-0.7 Na-139 K-3.5 
+Cl-107 HCO3-19* AnGap-13
+___ 09:30AM BLOOD ALT-29 AST-37
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with history of a fib on 
+xarelto, hypothyroid, dementia, recent admission for volvulus 
+s/p exploratory laparotomy, small bowel resection with primary 
+anastomosis on ___ concerning for colitis, found to have 
+positive c diff PCR. 
+ 
+ACUTE/ACTIVE PROBLEMS:
+# Diarrhea:
+# Colitis: 
+# C diff:
+Seen on CT abdomen to have mild sigmoid colitis. C diff PCR 
+positive, toxin negative. Per collateral information from her 
+healthcare proxy (___), she was previously treated for c diff 
+around ___ or ___ after developing confusion and diarrhea at 
+rehab. She had been discharged to assisted living about one week 
+later, off antibiotics but she isn't sure of the exact course. 
+Per review of records at ___, c diff PCR had been negative at 
+hospitalization here on ___. She was started on PO vancomycin 4x 
+daily. Subsequently, per ID recommendations, her regimen was 
+changed to PO fidaxomycin on pulse dose of 200mg BID days ___ 
+then 200mg Q48h days ___, last day on ___. She will be 
+discharged on to rehab to complete antibiotics. She has follow 
+up wit hGI on ___ for possible FMT. Consider initiation of 
+bezlotuxumab as an outpatient. 
+
+# Acute metabolic encephalopathy on chronic dementia:
+Patient is mostly independent at baseline, however not oriented. 
+She has been more confused last few days per HCP. Currently is 
+AOx1-2. She was placed on remeron QHS PRN during this 
+hospitalization. She did not require any additional medications 
+past 24hrs for agitation/delirium. She was continued on her home 
+medications.
+
+# ?UTI
+Patient with frequent UTIs and positive u/a on admission. She 
+denies any symptoms though unclear if she is able to reliably 
+report symptoms. GNRs in urine culture. This was ultimately not 
+felt to be a true infection, and no abx were administered. 
+
+CHRONIC/STABLE PROBLEMS:
+
+# Hyperthyroidism - continued propylthiouracil
+# Atrial fibrillation - continued BB, digoxin, and Rivaroxaban
+
+Transitional Issues:
+[] f/u with outpatient GI on ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. Metoprolol Tartrate 25 mg PO BID 
+4. Propylthiouracil 100 mg PO Q8H 
+5. Rivaroxaban 15 mg PO DINNER 
+6. Digoxin 0.125 mg PO EVERY OTHER DAY 
+7. TraZODone 25 mg PO TID  
+
+ 
+Discharge Medications:
+1.  fidaxomicin 200 mg oral BID 
+Two pills daily on days ___, then once daily on alternate days 
+on days ___ (last day = ___ 
+RX *fidaxomicin [Dificid] 200 mg 1 tablet(s) by mouth twice a 
+day Disp #*35 Tablet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  Digoxin 0.125 mg PO EVERY OTHER DAY  
+4.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+5.  Metoprolol Tartrate 25 mg PO BID  
+6.  Propylthiouracil 100 mg PO Q8H  
+7.  Rivaroxaban 15 mg PO DINNER  
+8.  TraZODone 25 mg PO TID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cdiff colitis
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+We admitted you with an infection call C.diff. We think you are 
+now doing better and are sending you back to your facility. You 
+will need to follow up in our clinics, as listed below.
+
+We wish you the best with your health.
+___ Medicine
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14568496-DS-19 | hadm_id=29862113
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ woman with AF on Xarelto, hyperthyroidism,
+dementia, recent admission for volvulus s/p exploratory
+laparotomy and small bowel resection with primary anastomosis
+(___) with course complicated by recurrent C. diff 
+(ultimately
+placed on fidaxomicin 200mg q48h and discharged on ___, who
+presents with failure to thrive. 
+
+Per patient, she had one episode of diarrhea here, but denies 
+any
+previous symptoms. Denies any falls. Denies any other pain or 
+any
+other new symptoms, states that she wishes to go home. 
+Collateral
+obtained from the ___ niece, who states that she has had
+diarrhea for the past 3 days, profuse, watery, foul-smelling. 
+She
+does not report any obvious fevers or chills. She does not 
+report
+any nausea, vomiting, obvious abdominal pain. Patient has had C.
+difficile multiple times recently, the last in ___, with
+multiple admissions to rehab recently for weakness secondary to
+C. difficile. She states that this is similar to her previous
+episodes.
+
+Regarding her C. difficile history, this is her fifth episode of
+C. difficile.  She had 2 prior C. difficile episodes in ___, an
+episode in ___, and an episode in ___.  On 
+the
+most recent episode in ___, she was initially on oral
+vancomycin and IV metronidazole.  She was transitioned to
+extended pulsed fidaxomicin per ID for ease of administration at
+nursing facility. Per the ___ niece, the co-pay for the
+fidaxomycin was $400. They talked with the ___ outpatient
+NP, who said that since the ___ diarrhea was improved, 
+that
+she didn't need to complete the fidaxomycin taper. She was being
+considered for a fecal occult transplant, and had an outpatient
+GI appointment on ___.
+
+The HCP states that ___ has been in a cycle of
+hospitalizations to rehab back to ___, and with 
+each
+movement, she gets more confused. It takes her more time to get
+back to her baseline. 
+
+She denies fevers, chills, abdominal pain, diarrhea.
+
+In the ED:
+- Initial vital signs were notable for:
+97.8 101 132/62 18 95% RA
+
+- Labs were notable for:
+White count 14, hemoglobin 11, potassium 3.2, UA with large
+leuks, positive nitrite, greater than 182 WBCs.  Lactate 1.7,
+troponin less than 0.01, digoxin less than 0.4, BNP 767
+
+The patient was given
+2 L of fluid, metronidazole, ciprofloxacin, vancomycin, digoxin,
+trazodone, metoprolol, oral vancomycin,  rivaroxaban.
+
+The patient had a CT abdomen and pelvis notable for:
+1. Findings consistent with worsening moderate-to-severe
+pancolitis, which given its diffuse nature is likely infectious
+or inflammatory.
+2. There few colonic diverticula which are not well assessed for
+diverticulitis given the extensive thickening of the colonic
+wall, although there is no convincing evidence of it.
+3. Grossly unremarkable appearance of the small bowel 
+anastomosis
+with mild air-filled small-bowel dilatation proximal to the
+anastomosis but no evidence of obstruction.
+4. Stable 1.7 cm exophytic hypodensity in the left kidney likely
+represents ahemorrhagic cyst and, if indicated, can be further
+evaluated with non urgent ultrasound.
+5. Stable enlarged common bile duct likely related to post
+cholecystectomy changes and patient age.6. Stable 1.8 cm left
+adrenal gland nodule, likely a myelolipoma.
+
+CT Head
+No acute intracranial process. Chronic changes. Sinus disease.
+
+CXR
+COPD. Mild pulmonary vascular congestion. No definite focal
+consolidation.
+
+On arrival to the floor, the patient was stating that she needs
+to use the bathroom.  She states that she is in "an old
+building."  She correctly states that the season is ___ and
+that it is ___.  She does not know the month or year.  When
+asked who the president is, she reports, "I do not want to say
+because I do not want to offend anybody."
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise
+negative.
+ 
+Past Medical History:
+Afib on Xarelto
+Hyperthyroidism
+h/o VTE - DVT, unknown when this occurred
+h/o colon CA
+h/o hip fracture ___ s/p repair
+Recurrent Cdiff
+Dementia
+Closed loop bowel volvulus s/p ex lap ___
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for
+hospitalization.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: 97.4PO 138 / 79 78 18 96 Ra
+GENERAL: Pleasant, sitting up in bed
+HEENT: NCAT. PERRL, EOMI.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: CTAB
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: Alert and oriented x2.  Noticed that it is ___. 
+Does not know her location, or the rest of the date.  When
+pressed further, she states "I do not like all of these specific
+questions."
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VITALS: ___ 1527 Temp: 97.3 PO BP: 137/80 HR: 73 RR: 18 O2 
+sat: 99% O2 delivery: RA 
+GENERAL: Thin elderly woman sleeping in bed, NAD 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.
+LUNGS: CTAB
+ABDOMEN: non distended, non-tender to palpation 
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash.
+NEUROLOGIC: Unable to assess as pt sleeping
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 08:10AM   GLUCOSE-111* UREA N-12 CREAT-0.6 SODIUM-142 
+POTASSIUM-3.2* CHLORIDE-108 TOTAL CO2-18* ANION GAP-16
+___ 08:10AM   CALCIUM-9.2 PHOSPHATE-3.2 MAGNESIUM-1.6
+___ 08:10AM   TSH-0.05*
+___ 08:10AM   WBC-14.0* RBC-4.43 HGB-11.1* HCT-36.6 MCV-83 
+MCH-25.1* MCHC-30.3* RDW-18.6* RDWSD-55.4*
+___ 08:10AM   PLT COUNT-287
+___ 09:34PM URINE  HOURS-RANDOM
+___ 09:34PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 09:34PM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 09:34PM URINE  BLOOD-TR* NITRITE-POS* PROTEIN-30* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-LG*
+___ 09:34PM URINE  RBC-5* WBC->182* BACTERIA-FEW* 
+YEAST-NONE EPI-<1
+___ 09:34PM URINE  HYALINE-3*
+___ 09:34PM URINE  WBCCLUMP-RARE*
+___ 09:10PM   ___ PTT-UNABLE TO  ___
+___ 07:38PM   ___ COMMENTS-GREEN TOP
+___ 07:38PM   LACTATE-1.7
+___ 07:30PM   GLUCOSE-93 UREA N-16 CREAT-0.6 SODIUM-135 
+POTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-18* ANION GAP-14
+___ 07:30PM   estGFR-Using this
+___ 07:30PM   ALT(SGPT)-34 AST(SGOT)-46* ALK PHOS-59 TOT 
+BILI-0.4
+___ 07:30PM   LIPASE-24
+___ 07:30PM   cTropnT-<0.01
+___ 07:30PM   proBNP-767*
+___ 07:30PM   ALBUMIN-3.4* CALCIUM-9.6 PHOSPHATE-3.4 
+MAGNESIUM-1.6
+___ 07:30PM   DIGOXIN-<0.4*
+___ 07:30PM   DIGOXIN-<0.4*
+___ 07:30PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+tricyclic-NEG
+___ 07:30PM   WBC-14.4* RBC-4.47 HGB-11.1* HCT-36.5 MCV-82 
+MCH-24.8* MCHC-30.4* RDW-18.6* RDWSD-55.0*
+___ 07:30PM   NEUTS-80.4* LYMPHS-9.7* MONOS-8.9 EOS-0.1* 
+BASOS-0.3 IM ___ AbsNeut-11.59* AbsLymp-1.40 AbsMono-1.29* 
+AbsEos-0.02* AbsBaso-0.04
+___ 07:30PM   PLT COUNT-254
+
+INTERVAL LABS:
+===============
+
+___ 06:45AM BLOOD TSH-0.04*
+___ 08:10AM BLOOD TSH-0.05*
+___ 06:45AM BLOOD T4-7.8 T3-116 Free T4-1.8*
+___ 06:45AM BLOOD Free T4-1.9*
+___ 03:35PM BLOOD CMV VL-DETECTED, 
+
+DISCHARGE LABS:
+===============
+___ 06:45AM BLOOD WBC-7.4 RBC-3.87* Hgb-9.8* Hct-32.0* 
+MCV-83 MCH-25.3* MCHC-30.6* RDW-18.6* RDWSD-56.1* Plt ___
+___ 06:45AM BLOOD UreaN-8 Creat-0.4 Na-142 K-3.7 Cl-115* 
+HCO3-20* AnGap-7*
+
+IMAGING:
+========
+
+___ The patient had a CT abdomen and pelvis notable for:
+1. Findings consistent with worsening moderate-to-severe
+pancolitis, which given its diffuse nature is likely infectious
+or inflammatory.
+2. There few colonic diverticula which are not well assessed for
+diverticulitis given the extensive thickening of the colonic
+wall, although there is no convincing evidence of it.
+3. Grossly unremarkable appearance of the small bowel 
+anastomosis
+with mild air-filled small-bowel dilatation proximal to the
+anastomosis but no evidence of obstruction.
+4. Stable 1.7 cm exophytic hypodensity in the left kidney likely
+represents ahemorrhagic cyst and, if indicated, can be further
+evaluated with non urgent ultrasound.
+5. Stable enlarged common bile duct likely related to post
+cholecystectomy changes and patient age.6. Stable 1.8 cm left
+adrenal gland nodule, likely a myelolipoma.
+
+___ CT Head
+No acute intracranial process. Chronic changes. Sinus disease.
+
+___ CXR
+COPD. Mild pulmonary vascular congestion. No definite focal
+consolidation.
+
+MICROBIOLOGY:
+=============
+__________________________________________________________
+___ 1:50 am BLOOD CULTURE      FFROM L HAND # 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 1:45 am BLOOD CULTURE      FROM LAC LINE # 1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 9:34 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+__________________________________________________________
+___ 9:35 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+__________________________________________________________
+___ 9:35 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      POSITIVE.              (Reference Range-Negative). 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+         Reported to and read back by ___ @ 0558 ON 
+___ -
+         ___. 
+
+   C. difficile Toxin antigen assay (Final ___: 
+      NEGATIVE.              (Reference Range-Negative).  
+PERFORMED BY EIA. 
+         This result indicates a low likelihood of C. difficile 
+infection
+         (CDI). 
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES: 
+==================
+#Cdiff
+[] Complete a 10 day course of PO vanco 500 mg PO q6h 
+(___)
+[] After the 10 day PO vancomycin course, please complete 10 day 
+course of fidaxomicin 200mg BID. 
+[] If fidaxomicin 10 day course is not an option due to copay; 
+the recommendation is to plan a PO vanco taper following the 
+vanco course completion date of ___: 
+-125 mg orally four times daily for 10 days, then 
+-125 mg orally twice daily for 7 days, then
+-125 mg orally once daily for 7 days, then 
+-125 mg orally every 2 or 3 days for 2 to 8 weeks
+[] f/u GI for fecal transplant
+
+#Hyperthroid
+[] TFT's in 2 weeks [on ___, please fax results to ___ 
+Endocrinology, Dr. ___ ___. 
+[] Endocrine followup arranged for ___ at 3:00pm
+[] Risks of MMI therapy include agranulocytosis, manifesting in 
+fever and infections,particularly URI's. Stop the medication and 
+measure WBC in acute illness. MMI can rarely cause liver 
+dysfunction, manifesting in RUQ pain and jaundice as well as 
+elevated LFT's. She should NOT receive iodinated contrast 
+material should the need for a CT study present itself.
+
+#Imaging
+[]Stable 1.7 cm exophytic hypodensity in the left kidney likely
+represents a hemorrhagic cyst and, if indicated, can be further
+evaluated with non urgent ultrasound.
+
+Ms. ___ is an ___ woman with AF on Xarelto, hyperthyroidism,
+dementia, recent admission for volvulus s/p exploratory
+laparotomy and small bowel resection with primary anastomosis
+(___) with course complicated by recurrent C. diff 
+(ultimately
+placed on fidaxomicin 200mg q48h and discharged on ___, who
+presented with failure to thrive. She was found to have 
+recurrent c diff. She underwent treatment for cdiff and her 
+diarrhea improved. She should continue the treatment and 
+follow-up with outpatient GI for evaluation of fecal transplant. 
+
+
+# C. Diff
+# Pancolitis
+# Leukocytosis
+Patient presents with worsening watery diarrhea, pancolitis on 
+CT scan, leukocytosis. Concerning for recurrent C. difficile 
+infection. Patient was on fidaxomicin taper however pt did not 
+complete due to cost and scheduled for stool transplant 
+evaluation on ___. Pt started on PO Vancomycin 500 QID and 
+IV Flagyl 500 Q8H. IV flagyl stopped on discharge. Stool culture 
+NEGATIVE. Cdiff PCR positive but toxin Ag negative. CMV VL 
+positive but low. ID consulted given recurrence of Cdiff, again 
+recommended fidaxomicin. ID recommended flex sig with biopsy 
+given positive CMV viral load. Given that the diarrhea was 
+resolving, there was low concern for active CMV causing the 
+infection. ID recommended 10 days of PO vancomycin (to ___ 
+followed by 10 days of fidaxomycin 200mg BID. 
+If fidaxomicin 10 day course is not an option due to copay; the 
+recommendation is to plan a PO vanco taper following the vanco 
+course completion date of ___ mg orally four times daily for 10 days, then 
+-125 mg orally twice daily for 7 days, then
+-125 mg orally once daily for 7 days, then 
+-125 mg orally every 2 or 3 days for 2 to 8 weeks 
+
+# Hyperthyroidism
+Patient was on PTU in the past, but it was discontinued as 
+patient had a total thyroidectomy. Free T4 was elevated. 
+Endocrinology was consulted and recommened starting MMI 5mg po 
+daily. Will need TFT's in 2 weeks [on ___ endo with f/u 
+results. Endocrine followup arranged for ___ at 3:00pm
+
+#Dementia w/behavioral disturbance: Continue home trazodone QID. 
+Maintained on delirium precautions. Initially required both 
+chemical and physical restraints due to delirium. However 
+delirium improved and restraints were discontinued. Physical 
+therapy recommended rehab. 
+
+# Asymptomatic Pyuria
+Consistent with U/A on prior hospitalization (with prior culture 
+demonstrating GNRs), however pt denies all urinary symptoms at 
+present. UCx negative, no abx were started. 
+
+# Atrial Fibrillation: Continued home Digoxin, Metoprolol, and 
+rivaroxaban
+
+#CODE: DNR/DNI per MOLST in OMR, confirmed with HCP. 
+#CONTACT: ___ (Niece) Phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+2. Digoxin 0.125 mg PO EVERY OTHER DAY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Rivaroxaban 15 mg PO DINNER 
+6. TraZODone 25 mg PO QID 
+7. Ferrous Sulfate 325 mg PO DAILY 
+8. Ascorbic Acid ___ mg PO DAILY 
+9. diclofenac sodium 1 % topical Q12H:PRN L knee pain 
+
+ 
+Discharge Medications:
+1.  Methimazole 5 mg PO DAILY  
+2.  Vancomycin Oral Liquid ___ mg PO QID  
+3.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+4.  Ascorbic Acid ___ mg PO DAILY  
+5.  diclofenac sodium 1 % topical Q12H:PRN L knee pain  
+6.  Digoxin 0.125 mg PO EVERY OTHER DAY  
+7.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+8.  Metoprolol Tartrate 25 mg PO BID  
+9.  Rivaroxaban 15 mg PO DINNER  
+10.  TraZODone 25 mg PO QID  
+11. HELD- Ferrous Sulfate 325 mg PO DAILY  This medication was 
+held. Do not restart Ferrous Sulfate until you are told to do so 
+by your primary care doctor. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+recurrent C diff
+
+SECONDARY DIAGNOSIS:
+===================
+Dementia
+hyperthryoidism
+Afib
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+ 
+It was a privilege caring for you at ___.  
+Please see below for more information on your hospitalization. 
+ 
+WHY WERE YOU ADMITTED TO THE HOSPITAL?  
+- You were having loose stool
+ 
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL?  
+- We treated you for a C. Diff infection with oral and IV 
+antibiotics
+- Our infectious disease team evaluated you to help us with your 
+treatment 
+- We had our physical therapists evaluate you and they 
+recommended that you continue to recover at rehab to improve 
+your physical strength
+ 
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+- Take all of your medications as prescribed (listed below)  
+- Follow up with your doctors as listed below, particularly the 
+endocrinology follow-up appointment. 
+- Seek medical attention if you have new or concerning symptoms 
+or you develop confusion, abdominal distention, loose stool, 
+blood in your stool or fever/chills. 
+
+It was a pleasure taking part in your care here at ___!  
+We wish you all the best!  
+- Your ___ Care Team  
+ 
+Followup Instructions:
+___

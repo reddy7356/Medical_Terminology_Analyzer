@@ -1,0 +1,187 @@
+===== DISCHARGE NOTE =====
+note_id=14175901-DS-22 | hadm_id=28335417
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back and leg pain
+ 
+Major Surgical or Invasive Procedure:
+XLIF L2-L4
+Posterior L2-S1 laminectomy and fusion
+
+ 
+History of Present Illness:
+___ presented to Dr. ___ office with complaints of 
+worsening back and leg pain. After review of the patients 
+history and physical examination in the office, as well as 
+radiographic studies, it was determined they would be a good 
+candidate for multilevel lumbar fusion. The patient was in 
+agreement with the plan and consent was obtained and signed.
+ 
+Past Medical History:
+Chronic lower back pain, previously on suboxone
+HTN
+ADHD
+multiple spine surgeries 
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+On examination the patient is well developed, well nourished, 
+A&O x3 in NAD. AVSS.
+Range of motion of the lumbar spine is somewhat limited on 
+flexion, extension and lateral bending due to pain.
+Ambulating well with the assistance of a walker and ___, with 
+lumbar corset brace for support.
+Gross motor examination reveals good strength throughout the 
+bilateral lower extremities.
+There is no clonus present. 
+Sensation is intact throughout all affected dermatomes.
+The lateral and posterior lumbar incisions are clean, dry and 
+intact without erythema, edema or drainage.
+The patient is voiding well without a foley catheter.
+
+ 
+Pertinent Results:
+___ 06:55AM BLOOD WBC-8.0 RBC-3.69*# Hgb-10.5*# Hct-31.6*# 
+MCV-86 MCH-28.5 MCHC-33.2 RDW-14.8 RDWSD-45.6 Plt ___
+___ 06:55AM BLOOD Glucose-98 UreaN-7 Creat-0.5 Na-138 K-3.8 
+Cl-102 HCO3-28 AnGap-12
+___ 06:55AM BLOOD Calcium-7.9* Phos-2.4* Mg-1.___riefly, ___ was admitted to the ___ Spine Surgery 
+Service on ___ and taken to the Operating Room for XLIF 
+through an anterior-lateral approach. Please refer to the 
+dictated operative note for further details. The surgery was 
+performed without complication, the patient tolerated the 
+procedure well and was transferred to the PACU in a stable 
+condition. TEDs/pnemoboots were used for postoperative DVT 
+prophylaxis. Intravenous antibiotics were given per standard 
+protocol. Initial postop pain was controlled with a dilaudid 
+PCA. The patient remained NPO. On HD#2, she returned to the 
+operating room for a posterior lumbar laminectomy and fusion 
+scheduled as part of a staged 2-part procedure. Please refer to 
+the dictated operative note for further details. The second 
+surgery was also without complication and the patient was 
+transferred to the PACU in a stable condition. Postoperative 
+labs were grossly stable. A bupivicaine epidural pain catheter 
+placed at the time of the posterior surgery remained in place 
+until postop day one. The patient remained NPO until bowel 
+function returned, then diet was advanced as tolerated. The 
+patient was transitioned to oral pain medication when tolerating 
+PO diet. Foley was removed on POD#3 from the second procedure, 
+and the patient was able to void. A hemovac drain that was 
+placed at the time of surgery was also removed on POD#2. She 
+received 2 units of pRBCs on POD#2 due to acute post-operative 
+blood loss anemia. A lumbar corset brace was fitted for comfort 
+and support. Physical therapy was consulted for mobilization OOB 
+to ambulate. Hospital course was otherwise unremarkable. On the 
+day of discharge the patient was afebrile with stable vital 
+signs, comfortable on oral pain control and tolerating a regular 
+diet.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 800 mg PO TID 
+2. ZIPRASidone Hydrochloride 80 mg PO QHS 
+3. CloNIDine 0.2 mg PO TID 
+4. OxyCODONE (Immediate Release) 30 mg PO Q4H:PRN Pain - 
+Moderate 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Diazepam 5 mg PO Q6H:PRN spasm 
+RX *diazepam [Valium] 5 mg 1 tab by mouth every six (6) hours 
+Disp #*90 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+4.  Morphine SR (MS ___ 30 mg PO Q12H 
+RX *morphine [MS ___ 30 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*60 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab PO twice a day Disp #*60 
+Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 15 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*90 Tablet Refills:*0 
+7.  CloNIDine 0.2 mg PO TID  
+8.  Gabapentin 800 mg PO TID 
+RX *gabapentin [Neurontin] 800 mg 1 tablet(s) by mouth three 
+times a day Disp #*90 Tablet Refills:*0 
+9.  ZIPRASidone Hydrochloride 80 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Lumbar spondylosis, scoliosis, and
+stenosis.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+ACTIVITY: DO NOT lift anything greater than 10 lbs for 2 weeks. 
+
+___ times a day you should go for a walk for ___ minutes as 
+part of your recovery. You can walk as much as you can tolerate. 
+
+You will be more comfortable if you do not sit or stand more 
+than ~45 minutes without changing positions.
+
+BRACE: You have been given a brace. This brace should be worn 
+for comfort when you are walking. You may take it off when 
+sitting in a chair or while lying in bed.
+
+WOUND: Remove the external dressing in 2 days. If your incision 
+is draining, cover it with a new dry sterile dressing. If it is 
+dry then you may leave the incision open to air. Once the 
+incision is completely dry, (usually ___ days after the 
+operation) you may shower. Do not soak the incision in a bath or 
+pool until fully healed. If the incision starts draining at any 
+time after surgery, cover it with a sterile dressing. Please 
+call the office. 
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+
+MEDICATIONS: You should resume taking your normal home 
+medications. Refrain from NSAIDs immediately post operatively.
+
+You have also been given Additional Medications to control your 
+post-operative pain. Please allow our office 72 hours for refill 
+of narcotic prescriptions. Please plan ahead. You can either 
+have them mailed to your home or pick them up at ___ Spine 
+Specialists, ___. We are not able 
+to call or fax narcotic prescriptions to your pharmacy. In 
+addition, per practice policy, we only prescribe pain 
+medications for 90 days from the date of surgery.
+
+ 
+Followup Instructions:
+___

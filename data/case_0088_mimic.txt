@@ -1,0 +1,179 @@
+===== DISCHARGE NOTE =====
+note_id=18565523-DS-13 | hadm_id=27896914
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ w/ back pain ___ years with L4-5 and L5-S1 disc protrusion 
+with moderate spinal stenosis. Radiculopathy of L5 nerve root
+ 
+Major Surgical or Invasive Procedure:
+Microdiscectomy L4-5 
+ 
+History of Present Illness:
+___ with chronic history of lower back pain presents with 
+worsening back pain.  She has known disc protrusion at L4-5 and 
+L5-S1 with moderate central spinal stenosis, diagnosed on MRI 
+___. She states that the pain first started when she was ___ 
+years ago after she was hit on the left side of her back.  She 
+states that her symptoms have waxed and waned since that time.  
+She had been treated with four steroid injections at ___ 
+and physical therapy with transient relief.
+
+She presents today with worsening of her symptoms over the past 
+several months.  She was scheduled to see Dr. ___ in clinic 
+later this month, but the pain has worsened and so she presents 
+to the ED today.  She has mild numbness around her great toe, 
+denies weakness.  She denies urinary retention or fecal 
+incontinence.  Denies fevers or chills.  Denies history of IVDU.
+
+ 
+Past Medical History:
+iron deficiency anemia
+
+ 
+Social History:
+___
+Family History:
+N/a
+ 
+Physical Exam:
+Vitals:97 66 125/78 15 100%
+Gen: NAD
+Heart: RRR
+Lungs: CTABL
+Ab: soft NT/ND
+
+Spine exam:
+Vascular
+Radial: L2+, R2+
+DPR: L2+, R2+
+
+Motor-
+  Delt Bic Tri WrE FFl FE IO  IP  glut Quad Ham TA Gastroc
+L  5    ___   ___   5   5    5    5   5    5
+R  5    ___   ___   5   5    5    5   5    5
+
+-Sensory:
+Sensory UE
+C5 (Ax)  R nl, L nl
+C6 (MC)  R nl, L nl
+C7 (Mid finger) R nl, L nl
+C8 (MACN)  R nl, L nl
+T1 (MBCN)  R nl, L nl
+T2-L2 Trunk R nl, L nl
+Sensory ___
+L2 (Groin): R nl, L nl
+L3 (Leg) R nl, L nl
+L4 (Knee) R nl, L nl
+L5 (Grt Toe): R nl, L nl
+S1 (Sm toe): R nl, L nl
+S2 (Post Thigh): R nl, L nl
+
+-DTRs:
+  ___ Tri ___ Pat Ach
+L  2  2    2    2   2
+R  2  2    2    2   2
+
+___: neg
+Babinski: downgoing
+Clonus: none
+Perianal sensation: intact
+
+ 
+Pertinent Results:
+MRI: 
+ This patient has lumbar disc protrusion at L4-5 causing a 
+moderate degree of spinal stenosis. 
+ 
+Brief Hospital Course:
+Patient was admitted to hospital and an MRI lumbar spine was 
+obtained. After a lengthy discussion with the family and patient 
+it was decided to do an L4-5 microdiscectomy. Date of surgery 
+was ___.
+She did well after surgery and was discharged the same day.
+
+ 
+Medications on Admission:
+iron and vitamin D supplements
+
+ 
+Discharge Medications:
+Same and percocet ___ tabs q 6hrs prn 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+L5 radiculopathy 
+ 
+Discharge Condition:
+Good,stable, alert and oriented x 3 
+
+ 
+Discharge Instructions:
+You have undergone the following operation: Minimally Invasive 
+Microdiscectomy
+Immediately after the operation:
+•                Activity: You should not lift anything greater 
+than 10 lbs for 2 weeks. You will be more comfortable if you do 
+not sit or stand more than ~45 minutes without moving around.
+•                Rehabilitation/ Physical Therapy:
+___                ___ times a day you should go for a walk 
+for ___ minutes as part of your recovery.  You can walk as 
+much as you can tolerate.
+___                Limit any kind of lifting.
+•                Diet: Eat a normal healthy diet. You may have 
+some constipation after surgery.
+•                Brace: You do not need a brace.
+•                Wound Care: Remove the dressing in 2 days.  If 
+the incision is draining cover it with a new sterile dressing.  
+If it is dry then you can leave the incision open to the air.  
+Once the incision is completely dry (usually ___ days after the 
+operation) you may take a shower. Do not soak the incision in a 
+bath or pool.  If the incision starts draining at anytime after 
+surgery, do not get the incision wet. Cover it with a sterile 
+dressing.  Call the office.
+•                You should resume taking your normal home 
+medications.
+•                You have also been given Additional Medications 
+to control your pain.  Please allow 72 hours for refill of 
+narcotic prescriptions, so please plan ahead.  You can either 
+have them mailed to your home or pick them up at the clinic 
+located on ___.  We are not allowed to call in narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to the pharmacy.  
+In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.
+•                Follow up:        
+___                Please Call the office and make an 
+appointment for 2 weeks after the day of your operation if this 
+has not been done already.
+___                At the 2-week visit we will check your 
+incision, take baseline X-rays and answer any questions. We may 
+at that time start physical therapy.
+___                We will then see you at 6 weeks from the 
+day of the operation and at that time release you to full 
+activity.
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound
+
+Physical Therapy:
+Regular activity.
+Stay away from lifting, bending and twisting movements
+Treatments Frequency:
+Percocet ___ tabs every ___ hours 
+ 
+Followup Instructions:
+___

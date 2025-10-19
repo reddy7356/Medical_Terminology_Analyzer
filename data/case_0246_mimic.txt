@@ -1,0 +1,303 @@
+===== DISCHARGE NOTE =====
+note_id=15637684-DS-3 | hadm_id=23382001
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea/emesis, lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of HTN, DM2 
+(on insulin) who presents with nausea, vomiting and 
+lightheadedness. The nausea started 4 days ago suddenly after 
+lunch, and has been constant, preventing her from taking PO for 
+the past 2 days. She's had intermittent vomiting, first food, 
+but most recently bilious. She has dizziness at baseline but 
+notes she's had lightheadedness, "as if she's about to fall" 
+during this time. She denies abdominal pain, bloating, changes 
+in her bowel movements. She also denies fainting, chest pain, 
+palpitations, headache, shortness of breath. She didn't take her 
+insulin or her
+BP meds this morning but otherwise says that she's compliant, 
+and that there haven't been recent med changes. 
+
+In the ED, Initial vital signs: T 98.3, HR 66, BP 204/81, RR 16, 
+O2 sat 97% RA
+Exam notable for: Abd soft NTND, normal neuro exam
+EKG: NSR w/ APCs
+Labs were notable for: Unremarkable
+Studies performed include: CXR - no acute cardiopulmonary 
+process
+Patient was given: 1L LR, ondansetron 4 mg x2, diltiazem 360 mg
+Vitals on transfer: T 98.8, HR 89, BP 172/79, RR 16, O2 sat 97% 
+RA
+
+Upon arrival to the floor, she's still feeling nauseous but 
+wants to try some Ginger ale. She describes her lightheadedness 
+as feeling like she's about to faint, particularly when she 
+tries to get up. Currently, not having any dizziness or 
+lightheadedness. 
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise 
+negative.
+ 
+Past Medical History:
+Type 2 diabetes mellitus, c/b proliferactive retinopathy,
+nephropathy
+Hypertension
+Obesity
+Hyperlipidemia
+Venous insufficiency
+Arthritis
+Gait disorder
+Lymphedema
+Positive PPD w/negative CXR, not treated with INH
+Dizziness
+
+PAST SURGICAL HISTORY:
+C-section
+Tubal ligation
+Cataract surgery
+
+ 
+Social History:
+___
+Family History:
+Non contributory
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: 24 HR Data (last updated ___ @ 2304) Temp: 98.6 (Tm 
+98.6), BP: 149/74 (149-179/72-74), HR: 83
+(76-83), RR: 18, O2 sat: 95%, O2 delivery: Ra  
+GEN: In NAD.
+HEENT: PERRL, dry mucous membranes, oropharynx clear without 
+exudates, halitosis.
+NECK: No JVD, no cervical lymphadenopathy.
+CV: RRR, no murmurs/gallops/rubs.
+PULM: CTAB, no wheezing/crackles/rhonchi.
+ABD: Soft, obese, non tender.
+EXTREM: Non pitting edema to the knees bilaterally. Pulses +2 ___P, ___ bilaterally.
+SKIN: No visible rashes.
+NEURO: A&Ox3, CN II-XII intact, motor and sensation grossly 
+intact.
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 408)
+    Temp: 97.7 (Tm 98.2), BP: 156/75 (136-156/61-97), HR: 58
+(56-61), RR: 20 (___), O2 sat: 97% (93-98), O2 delivery: Ra  
+GEN: In NAD.
+HEENT: dry mucous membranes, oropharynx clear without exudates,
+halitosis.
+NECK: No JVD
+CV: RRR, no murmurs/gallops/rubs.
+PULM: CTAB, no wheezing/crackles/rhonchi.
+ABD: Soft, obese, non tender.
+EXTREM: Non-pitting edema to the knees bilaterally. Pulses +2 ___P, ___ bilaterally.
+SKIN: No visible rashes.
+NEURO: Moving all extremities with purpose
+
+ 
+Pertinent Results:
+Admission labs:
+___ 10:35AM BLOOD WBC-6.5 RBC-4.46 Hgb-12.8 Hct-40.7 MCV-91 
+MCH-28.7 MCHC-31.4* RDW-13.9 RDWSD-46.7* Plt ___
+___ 10:35AM BLOOD Neuts-71.9* ___ Monos-5.4 
+Eos-0.2* Baso-0.5 Im ___ AbsNeut-4.67 AbsLymp-1.39 
+AbsMono-0.35 AbsEos-0.01* AbsBaso-0.03
+___ 10:35AM BLOOD Glucose-114* UreaN-11 Creat-0.8 Na-140 
+K-4.0 Cl-100 HCO3-21* AnGap-19*
+___ 10:35AM BLOOD ALT-9 AST-17 AlkPhos-51 TotBili-0.3
+___ 10:35AM BLOOD Lipase-11
+___ 10:35AM BLOOD cTropnT-<0.01
+___ 10:35AM BLOOD Albumin-4.4 Calcium-9.7 Phos-3.7 Mg-1.7
+
+Discharge labs:
+___ 06:05AM BLOOD WBC-6.0 RBC-3.72* Hgb-10.7* Hct-34.3 
+MCV-92 MCH-28.8 MCHC-31.2* RDW-14.4 RDWSD-48.1* Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD Glucose-229* UreaN-19 Creat-1.1 Na-139 
+K-4.5 Cl-101 HCO3-27 AnGap-11
+___ 05:51AM BLOOD Calcium-9.0 Phos-3.7 Mg-1.9
+
+___ CXR
+FINDINGS: 
+Lungs are clear.  There is no consolidation, effusion, or edema. 
+ Cardiomediastinal silhouette is within normal limits.  No acute 
+osseous abnormalities.
+ 
+IMPRESSION: 
+No acute cardiopulmonary process.
+
+___
+KUB
+Moderate colonic stool burden with a nonobstructive bowel gas 
+pattern. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ w/ PMH HTN, DM2 (on insulin) presented with 
+nausea/vomiting and lightheadedness most consistent with acute 
+gastroenteritis vs gastroparesis.
+
+TRANSITIONAL ISSUES
+=================
+[] follow-up with PCP (at HCA) for nausea and lightheadedness 
+once discharged from rehab
+[] Her furosemide was held while in house. Ongoing consideration 
+of restarting this medication.
+[] On discharge from rehab, would benefit from ongoing 
+outpatient case management discussions around optimizing home 
+services
+[] Patient should get gastric motility/gastric emptying study 
+for concern of gastroparesis 
+[] Cardiology follow-up: Patient may not need diltiazem or may 
+benefit from reduced dosing, and this may be contributing to 
+chronic lightheadedness/dizziness --Continue to down titrating 
+as tolerated
+[] If patient develops diarrhea, consider decreasing bowel 
+regimen. Aggressive regiment was started in hospital due to 
+constipation.
+[] Some formulations of zantac have been found to have 
+carcinogens in them, consider transitioning to alternative agent 
+on discharge 
+
+ACUTE ISSUES
+=============
+#Nausea/vomiting
+#Gastroenteritis vs gastroparesis
+Patient presented with sudden onset of nausea, vomiting, and 
+diarrhea, likely consistent with viral gastroenteritis. Her 
+symptoms improved over the course of her stay with symptomatic 
+management. Gastroparesis is also a consideration, so an 
+outpatient gastric empty study should be considered.
+
+#Lightheadedness
+Patient has chronic dizziness in which work-up so far has been 
+unrevealing, including head CT, ECHO, ENT consult. Likely that 
+orthostasis from underlying GE worsened her chronic dizziness. 
+Also considered some blunting of her cardiac response to 
+orthostasis in the setting of her multiple nodule blocking 
+agents, as her HRs were in the ___ while in house. Her diltiazem 
+was downtitrated to 240mg daily with improvements in her heart 
+rates to 60-70s. Would consider alternative antihypertension 
+therapy as an outpatient
+
+CHRONIC ISSUES
+===============
+#HTN
+On admission was hypertensive. Received home carvedilol with 
+reduced lisinopril of 20mg which was titrated back to 40mg. Home 
+furosemide held in setting of acute illness but resumed on 
+discharge. Diltiazem as above.
+
+#DM2
+Last A1C 6.6 on ___. Takes glargine 30 units qAM at home. 
+Initially decreased while having poor PO intake, then restarted 
+home regiment prior to discharge. Would continue to titrate 
+insulin therapy up as outpatient
+
+Greater than 40 mins were spent on discharge planning and 
+coordination of care.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 1000 mg PO BID 
+2. Lisinopril 40 mg PO DAILY 
+3. Glargine 30 Units Breakfast
+4. Furosemide 20 mg PO DAILY 
+5. Diltiazem Extended-Release 360 mg PO DAILY 
+6. CARVedilol 25 mg PO BID 
+7. Pravastatin 40 mg PO QPM 
+8. Ranitidine 150 mg PO BID:PRN Nausea 
+9. Meclizine 25 mg PO Q8H:PRN Dizziness 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+take only when needed for constipation  
+3.  Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+4.  Polyethylene Glycol 17 g PO BID  
+5.  Senna 8.6 mg PO DAILY  
+6.  Diltiazem Extended-Release 240 mg PO DAILY  
+7.  Glargine 30 Units Breakfast 
+8.  Aspirin 81 mg PO DAILY  
+9.  CARVedilol 25 mg PO BID  
+10.  Lisinopril 40 mg PO DAILY  
+11.  Meclizine 25 mg PO Q8H:PRN Dizziness  
+12.  MetFORMIN (Glucophage) 1000 mg PO BID  
+13.  Pravastatin 40 mg PO QPM  
+14.  Ranitidine 150 mg PO BID:PRN Nausea  
+15. HELD- Furosemide 20 mg PO DAILY  This medication was held. 
+Do not restart Furosemide until you follow-up with your PCP
+
+ 
+___:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Nausea/vomiting
+Lightheadedness
+
+Secondary diagnosis:
+Hypertension
+Diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a privilege caring for you at ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?  
+- You had nausea/vomiting and was unable to take anything by 
+mouth, as well as lightheadedness.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You received medications for nausea and received IV fluids.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.  
+
+We wish you the best! 
+ 
+Sincerely,  
+
+Your ___ Team  
+ 
+Followup Instructions:
+___

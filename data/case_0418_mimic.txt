@@ -1,0 +1,637 @@
+===== DISCHARGE NOTE =====
+note_id=13545926-DS-14 | hadm_id=21849591
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Soma / NSAIDS (Non-Steroidal Anti-Inflammatory Drug)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cervical Spinal Stenosis
+ 
+Major Surgical or Invasive Procedure:
+___ - C5-6 ACDF
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old male who presented to ___ ED on 
+___ following 2 weeks of right shoulder pain with right 
+upper extremity weakness and tingling. He reports that two weeks 
+ago he was traveling with a heavy bag. He lifted the bag of 
+approximately 50 lbs onto his shoulder, at which time he felt a 
+pop in his neck and acute shoulder pain. He unerwent an MR 
+___ ___ that showed "Mild disc protrusion with a small 
+extrusion at C5-6 causing impingement of the thecal sac on the 
+right and mild bilateral neural foraminal narrowing." The 
+patient decided to be evaluated in the ED due to progressive 
+weakness and continued dropping of items from the right hand 
+involuntarily. 
+
+ 
+Past Medical History:
+PMHx:
+- Crohn's disease, has been in remission sine ___
+- anxiety
+- tonsillectomy
+- deviated septum repair
+
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+Gen: WD/WN, comfortable, NAD.
+HEENT: 
+Pupils: PERRL ___        
+EOMs: Intact.
+
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+
+Motor:
+      D   B   T    WE   WF  Intrins  IP   Q  H   AT  ___    G
+R     ___    5    5    3        ___    5   5     5
+Positive Right ___.
+No clonus.
+
+Sensation: Intact to light touch and pinprick bilaterally.
+Numbness and tingling of right first three digits. 
+
+Reflexes: B  T  Br  Pa  Ac
+Right     2+ 2+ 2+  2+  2+
+Left      2+ 2+ 2+  2+  2+
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal 
+affect.
+Orientation: Oriented to person, place, and date.
+
+Motor:
+      D   B   T    WE   WF  Intrins  IP   Q  H   AT  ___    G
+
+Sensation: Intact to light bilaterally except numbness and 
+tingling of right lateral thumb. 
+
+C-Collar in place. 
+Wound c/d/i, closed with steri-strips.
+ 
+Pertinent Results:
+Cervical Spine AP/Lateral X-Rays: ___
+Anterior fixation of C5-C6 without any evidence of hardware 
+complication.
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Neurosurgery department at ___ 
+on ___ with a C5 disc herniation with complaints of pain and 
+right upper extremity numbness. The pain service was consulted 
+and recommended adding Gabapentin and Diazepam. He remained 
+neurologically stable and underwent pre-operative work-up in 
+anticipation for surgery. Risks and benefits of operative 
+intervention were discussed with the patient, who wished to 
+proceed. 
+
+On ___, the patient proceeded to the operating room for 
+elective C5-6 ACDF. Surgery was uncomplicated and well-tolerated 
+by the patient. He was extubated in the OR and transitioned to 
+the PACU for routine post-operative care without events. He was 
+subsequently admitted to the inpatient floor. On POD#1, the 
+patient noted improvement in the numbness of his right hand. His 
+motor examination remained stable. He underwent x-rays performed 
+and showed good placement of instrumentation. The Pain Service 
+were consulted and recommended discontinuing the IV Dilaudid and 
+focuing solely on oral pain medication as it is longer lasting. 
+On POD#2, he noted continued improvement in pre-operative 
+symptoms. He was ambulating, voiding, and tolerating a full 
+diet. Pain was well-controlled on oral analgesics. He will 
+continue to wear his cervical collar and follow-up in outpatient 
+clinic as scheduled. 
+
+ 
+Medications on Admission:
+Diazepam 10 mg BID as needed for spasm
+Oxycodone 10 mg 2 tablet q4h prn pain
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN fever or pain 
+2. Acetaminophen-Caff-Butalbital ___ TAB PO Q4H:PRN pain 
+Do not take more than 4 tabs per week.  
+RX *butalbital-acetaminophen-caff 50 mg-300 mg-40 mg 1 
+capsule(s) by mouth daily Disp #*10 Capsule Refills:*0
+3. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+OTC Medication - Ask your Pharmacist 
+4. Diazepam 10 mg PO Q8H:PRN muscle spasm 
+RX *diazepam [Valium] 10 mg 1 tablet by mouth every eight (8) 
+hours Disp #*30 Tablet Refills:*0
+5. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*1
+6. Senna 17.2 mg PO QHS 
+OTC Medication - Ask your Pharmacist 
+7. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*60 Tablet Refills:*0
+8. Gabapentin 200 mg PO TID 
+RX *gabapentin 100 mg 2 capsule(s) by mouth three times a day 
+Disp #*180 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cervical Stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+___
+
+Surgery
+- Your dressing may come off on the second day after surgery. 
+- Your incision is closed with dissolvable sutures underneath 
+the skin and steri strips. You do not need suture removal. Do 
+not remove your steri strips, let them fall off.
+- Please keep your incision dry for 72 hours after surgery.
+- Please avoid swimming for two weeks.
+- Call your surgeon if there are any signs of infection such as 
+redness, fever, or drainage. 
+
+Activity
+- You must wear your hard cervical collar at all times. You may 
+remove it briefly for skin care and showering. 
+- We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+- You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+- No driving while taking any narcotic or sedating medication. 
+- No contact sports until cleared by your neurosurgeon. 
+- Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications
+- Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+- Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc… for 2 weeks.
+- You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+- You may use Dilaudid for moderate-severe pain as directed. Do 
+not drive or drink alcohol while taking this medication, as it 
+can make you drowsy.
+- It is important to increase fluid intake while taking pain 
+medications. We also recommend a stool softener like Colace. 
+Pain medications can cause constipation. 
+
+When to Call Your Doctor at ___ for:
+- Severe pain, swelling, redness or drainage from the incision 
+site. 
+- Fever greater than 101.5 degrees Fahrenheit
+- New weakness or changes in sensation in your arms or legs.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13545926-DS-15 | hadm_id=29010754
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Soma / NSAIDS (Non-Steroidal Anti-Inflammatory Drug)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Crohn's Flare
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy w/ biopsies on ___
+
+ 
+History of Present Illness:
+___ M with PMHx of Crohn's disease and anxiety who presents with 
+worsening abdominal pain and bloody stools. 
+He has been in remission since ___ and on no controller 
+medication for Crohn's. Recently moved from ___ to 
+start a business 3 weeks ago. Started having increasing 
+cramping, bloating abdominal pain LLQ 10 days PTA, LLQ now also 
+including RLQ and epigastrium. He took emergency Percocet with 
+good effect. He started having bright red bloody output 4 days 
+ago with diarrhea, having ___ BMs per day, loose stools to 
+liquid output. He is now passing clots. He denies dizziness, LH 
+or falls. He has decreased his oral intake. He does endorse 
+chills and night sweats for the last 4 days.
+
+His previous episodes have involved more pain and has had much 
+more bleeding than current episode.
+
+He gets his medical care in ___ and his GI doctor recently 
+retired. He has established with a local Psychiatrist ___ 
+___ for his anxiety. 
+
+In the ED, initial VS were T 97.9, HR 116, BP 117/85, RR 18, 
+SaO2 98% RA.  
+Exam notable for tachycardia, CTAB, soft nontender abdomen 
+without guarding or palpable masses, no peripheral edema, small 
+ecchymosis on abdomen, rectal exam with red blood on glove and 
+no obvious fissures 
+Labs showed WBC 6.3, Hg 10.3, plts 359, normal chemistry panel, 
+alk phos 150 otherwise normal LFTs, CRP >300 
+Imaging showed colitis of the descending colon without evidence 
+of complication.
+Patient received Tylenol 1 gm and prednisone 60 mg.
+Transfer VS were T 98.1, HR 102, BP 108/69, RR 18, SaO2 97% RA.  
+
+Decision was made to admit to medicine for further management of 
+Crohn's flare.  
+
+On arrival to the floor, patient reports ___ LLQ > RLQ pain 
+with cramping and urgency. He denies dizziness, LH, C/P, SOB, 
+palpitations, cough, N/V, dysuria, hematuria, numbness, 
+tingling, weakness, falls, dry or red eyes, joint pain/swelling 
+or falls.
+
+Patient seen and examined, agree with house officer admission 
+note by Dr. ___ ___ with additions below.
+
+___ year old Male with history of Crohns Disease who presents 
+with abdominal pain and frank hematochezia. The patient has a 
+history of Crohn's disease which has been in remission since 
+___, followed by a gastroenterologist in ___ who 
+recently retired and the patient moved here to ___. He 
+reports that for the 10 days prior to admission he has had 
+bloating, LLQ pain, cramps. He has been taking his previously 
+prescribed Percocet for pain relief. 4 days prior to admission 
+he also developed frank hematochezia.  He notes some chills and 
+night sweats for these 4 days.
+
+In the ED his initial vitals were 97.9, 116, 117/85, 18. 98%. He 
+was started on prednisone and an abdominal CT was performed.
+ 
+Past Medical History:
+- Crohn's disease, has been in remission since ___
+- anxiety
+- tonsillectomy
+- deviated septum repair
+
+ 
+Social History:
+___
+Family History:
+Mother: CAD, ___ Cancer
+Father: ___, Rheumatoid Arthritis
+ 
+Physical Exam:
+ROS:
+ GEN: - fevers, - Chills, - Weight Loss
+ EYES: - Photophobia, - Visual Changes
+ HEENT: - Oral/Gum bleeding
+ CARDIAC: - Chest Pain, - Palpitations, - Edema
+ GI: - Nausea, + Vomiting, + Diarrhea, + Abdominal Pain, - 
+Constipation, + Hematochezia
+ PULM: - Dyspnea, - Cough, - Hemoptysis
+ HEME: - Bleeding, - Lymphadenopathy
+ GU: - Dysuria, - hematuria, - Incontinence
+ SKIN: - Rash
+ ENDO: - Heat/Cold Intolerance
+ MSK: - Myalgia, - Arthralgia, - Back Pain
+ NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+
+ADMISSION PHYSICAL EXAM
+========================
+VS - 98.1 123/78 98 18 96% RA
+GENERAL: NAD  
+HEENT: anicteric sclera, PERRL, EOMI, MOM, OP clear, no oral 
+ulcers
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: soft, ND, +BS, LLQ > epigastric TTP, no rebound or 
+guarding
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&O, CN II-XII intact, SILT, ___ BUE/BLE strength, gait 
+not assessed
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VSS: 98, 132/89, 97, 16, 95%RA
+ GEN: NAD
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions
+ PUL: CTA B/L
+ COR: RRR, S1/S2, - MRG
+ ABD: Mild LLQ/Epigastric TTP, - rebound, - guarding, ND, +BS, - 
+CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Non-Focal
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 10:15PM BLOOD WBC-6.3 RBC-3.46* Hgb-10.3* Hct-31.9* 
+MCV-92 MCH-29.8 MCHC-32.3 RDW-13.7 RDWSD-46.5* Plt ___
+___ 10:15PM BLOOD Neuts-59 Bands-4 ___ Monos-10 Eos-0 
+Baso-1 ___ Myelos-0 AbsNeut-3.97 AbsLymp-1.64 
+AbsMono-0.63 AbsEos-0.00* AbsBaso-0.06
+___ 11:10PM BLOOD ___ PTT-28.1 ___
+___ 10:15PM BLOOD Glucose-89 UreaN-8 Creat-0.7 Na-137 K-4.3 
+Cl-101 HCO3-25 AnGap-15
+___ 10:15PM BLOOD ALT-31 AST-39 AlkPhos-150* TotBili-0.5
+___ 10:15PM BLOOD Lipase-27
+___ 10:15PM BLOOD Albumin-3.1* Calcium-8.5 Phos-2.9 Mg-2.3
+___ 10:15PM BLOOD CRP-GREATER TH
+
+PERTINENT STUDIES
+====================
+Immunologic:
+___ IgG 641 (REF ___, IgM 113 (REF 40-230)
+___ ___ - pending
+___ AMA - pending
+___ SMA - pending
+
+Hepatobiliary:
+___ Alk Phos 151, ALT 40, AST 64, LDH 251, TotBili 0.4
+___ Alk Phos 149, ALT 32, AST 30, LDH 197, TotBili 0.3
+___ Alk Phos 135, ALT 31, AST 29, LDH 161, TotBili 0.2, GGT 
+114
+___ Alk Phos 150, ALT 31, AST 39, TotBili 0.5
+
+Inflammatory: 
+___ CRP 81.1
+___ CRP 154.0
+___ CRP 245.3
+___ CRP >300
+
+Infectious:
+___ HIV - negative
+___ Quantiferon gold - indeterminate
+___ C. diff assay - positive for toxigenic C. difficile by
+the Illumigene DNA amplification.       
+___ HBsAg negative, HBsAb positive, HBcAb negative
+___ HCV ab negative
+___ Negative for Salmonella or Shigella, Campylobacter, 
+Vibrio, Yersinia, O&P, Cryptosporidium/Giardia, Cyclospora, E. 
+coli 015:H7
+___ Microsporidia - pending 
+
+Other:
+___ Vitamin D - 38 (REF ___
+
+Imaging:
+___ CHEST RADIOGRAPH (PA & LAT)
+Heart size is normal. Mediastinum is normal. Lungs are clear. 
+There is no pleural effusion or pneumothorax. The patient is 
+after cervical spine therapy. 
+
+___ MR ENTEROGRAPHY 
+1. Colitis of the distal transverse through proximal sigmoid 
+colon, similar in extent and severity from CT on ___.  
+No evidence of small bowel involvement. 
+2. Right obturator internus and left gluteus maximus myositis of 
+unclear  etiology. 
+
+___ COLONOSCOPY
+Severe disease with deep ulceration, friability, erythema, 
+granularity and spontaneous hemorrhage in the continuous disease 
+from 40-60cm and patchy disease from 60-70cm (biopsy)
+Ulceration in the rectum
+Normal mucosa in the cecum and terminal ileum
+Otherwise normal colonoscopy to cecum and 10cm into terminal 
+ileum
+
+___ CT ABD & PELVIS WITH CONTRAST
+Colitis of the descending colon, infectious or inflammatory. 
+Clinical 
+correlation is recommended.
+
+Pathology: 
+___ GASTROINTESTINAL MUCOSAL BIOPSY - Chronic severe colitis
+
+DISCHARGE LABS
+================
+___ 07:40AM BLOOD WBC-8.1 RBC-3.92* Hgb-11.6* Hct-35.8* 
+MCV-91 MCH-29.6 MCHC-32.4 RDW-13.5 RDWSD-45.4 Plt ___
+___ 07:40AM BLOOD Glucose-82 UreaN-8 Creat-0.9 Na-141 K-4.1 
+Cl-103 HCO___ AnGap-19
+___ 07:40AM BLOOD ALT-40 AST-64* LD(LDH)-251* AlkPhos-151* 
+TotBili-0.4
+___ 07:40AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.3
+___ 07:40AM BLOOD CRP-81.1*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with a history of Crohn's 
+disease vs. ulcerative colitis who presented with worsening 
+abdominal pain and bloody diarrhea consistent with an 
+exacerbation of inflammatory bowel disease as well as 
+clostridium difficile colitis. He improved greatly with 
+antibiotic therapy and was discharged on PO vancomycin and 
+flagyl. He was also discharged on a mesalamine regimen as well 
+as a prednisone taper.
+
+# Ulcerative Colitis, Clostridium difficile infection: Patient 
+presented with abdominal pain and bloody diarrhea c/w patient's 
+history of IBD (unclear if UC vs. Crohn's), currently improving. 
+UC per OSH records. Colonoscopy ___ suggests severe Crohn's 
+disease; MRE ___ shows no small bowel involvement. He was 
+started on mesalamine and prednisone taper, declined biologic 
+therapy at this time. He will follow up as an outpatient with 
+GI.
+
+# Possible biliary tree obstruction, concern for primary 
+sclerosing cholangitis: Alk Phos 135 on admission, 149 on ___ 
+GGT elevated (114 on ___. IgG slightly low. ___, AMA, SMA, 
+5'nucleotidase were pending at time of discharge. ___ need MRCP 
+as an outpatient given persistent elevation.
+
+# Possible myositis: Asymmetric edema in R obturator internus 
+and L gluteus maximus seen on MRI ___, suggestive of myositis. 
+No symptoms. Likely IBD associated myositis which is being 
+treated with prednisone taper as above. Consider further workup 
+as outpatient if no resolution.
+
+CHRONIC PROBLEMS
+================
+# Anxiety -Has a local psychiatrist (___). 
+Continued home venlafaxine and alprazolam.
+
+# Possible hypertrophic cardiomyopathy - Patient w/ S4 heart 
+sound on exam, possibly related to ventricular hypertrophy ___ 
+prior years of human growth hormone treatment. Would consider 
+outpatient echo to further evaluate.
+
+TRANSITIONAL ISSUES
+=====================
+# Prednisone taper started ___: 40mg x 2 weeks (___), 
+35mg x 1 week, 30mg x 1 week, 25mg x 1 week, 20mg x 1 week, 15mg 
+x 1 week, 10mg x 1 week, 5mg x 1 week.
+# Patient started on mesalamine suppositories, enema, and PO
+# Antibiotic course: PO Vancomycin (___) metronidazole 
+(___)
+# Patient with S4 on exam, prior exposure to growth hormone, 
+would consider outpatient work up for hypertrophic 
+cardiomyopathy
+# Patient with 'Asymmetric edema in R obturator internus and L 
+gluteus maximus' seen on MRI ___, suggestive of myositis, 
+already on prednisone taper, consider further workup as 
+outpatient
+# Possible biliary tree obstruction: ___, AMA, SMA, 
+5'nucleotidase were pending at time of discharge. ___ need MRCP 
+as an outpatient given persistent elevation. GI was concerned 
+about possible PSC.
+# Patient has follow up with GI on ___
+
+# CODE: full code 
+# CONTACT: ___ (husband) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Venlafaxine 50 mg PO DAILY 
+2. ALPRAZolam 1 mg PO TID:PRN anxiety 
+3. Multivitamins 1 TAB PO DAILY 
+4. Vitamin B Complex 1 CAP PO DAILY 
+5. Curcumin (turmeric (bulk)) 400 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Mesalamine (Rectal) 1000 mg PR QAM 
+RX *mesalamine [Canasa] 1,000 mg 1 suppository(s) rectally QAM 
+Disp #*30 Suppository Refills:*0 
+3.  Mesalamine ___ 1600 mg PO TID 
+RX *mesalamine [Asacol HD] 800 mg 2 tablet(s) by mouth three 
+times a day Disp #*180 Tablet Refills:*0 
+4.  Mesalamine Enema 4 gm PR QHS 
+RX *mesalamine [sfRowasa] 4 gram/60 mL 1 enema(s) rectally at 
+bedtime Refills:*0 
+5.  MetroNIDAZOLE 500 mg PO Q8H 
+Start date ___. End date ___. 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*33 Tablet Refills:*0 
+6.  PredniSONE 25 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 4 of 8 tapered doses
+Tapered dose - DOWN  
+7.  PredniSONE 20 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 5 of 8 tapered doses
+Tapered dose - DOWN  
+8.  PredniSONE 15 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 6 of 8 tapered doses
+Tapered dose - DOWN  
+9.  PredniSONE 10 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 7 of 8 tapered doses
+Tapered dose - DOWN  
+10.  PredniSONE 5 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 8 of 8 tapered doses
+Tapered dose - DOWN  
+11.  PredniSONE 40 mg PO DAILY Duration: 14 Doses 
+Start ___, end ___. 
+This is dose # 1 of 8 tapered doses
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*26 Tablet 
+Refills:*0 
+12.  PredniSONE 35 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 2 of 8 tapered doses
+Tapered dose - DOWN  
+13.  PredniSONE 30 mg PO DAILY Duration: 7 Doses 
+Start ___, end ___. 
+This is dose # 3 of 8 tapered doses
+Tapered dose - DOWN  
+14.  Vancomycin Oral Liquid ___ mg PO Q6H 
+Start date ___. End Date ___. 
+RX *vancomycin [Vancocin] 125 mg 1 capsule(s) by mouth every six 
+(6) hours Disp #*48 Capsule Refills:*0 
+15.  ALPRAZolam 1 mg PO TID:PRN anxiety  
+16.  Curcumin (turmeric (bulk)) 400 mg PO DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Venlafaxine 50 mg PO DAILY  
+19.  Vitamin B Complex 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Clostridium difficile colitis
+Inflammatory bowel disease exacerbation
+Myositis
+
+SECONDARY DIAGNOSIS
+====================
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because you were having worsening 
+bloody diarrhea and abdominal pain. You were found to have an 
+infection in your colon (C.diff) as well as a flare of your 
+inflammatory bowel disease. You were started on antibiotics to 
+treat the infection and medications to suppress the inflammation 
+in your bowel.
+
+You will have follow up appointments with your primary care 
+doctor and the gastroenterologists.
+
+Please continue to take your medications as directed.
+
+Please follow up with your doctors as directed.
+
+It was a pleasure taking care of you!
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,1414 @@
+===== DISCHARGE NOTE =====
+note_id=18992637-DS-18 | hadm_id=23356636
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Diovan / spironolactone
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: Left heart catheterization and coronary angiography
+ 
+History of Present Illness:
+Mr. ___ is a ___ mam with CAD S/P 2 DES to OM2 in 
+___ and 1 DES to proximal LAD in ___ who 
+presents with chest pain.
+
+Onset of chest pain was the morning of admission. This woke him 
+up from sleep at 0500, was mildly improved with nitroglycerin 
+but still present on arrival. Pain was "sharp" and felt in the 
+left lateral side of his chest and back with radiation to the 
+left arm. It worsened when he pushed on his chest, but does not 
+worsen with deep breaths. He reported no diaphoresis, nausea, 
+vomiting, lightheadedness. He denied recent fever or URI 
+symptoms. He recalled similar chest pain with his prior anginal 
+episodes. He has GERD and is on pantoprazole, does stated this 
+did not feel like his GERD symptoms. He called his cardiologist 
+and was told to come to the hospital. Chest pain further 
+improved with nitroglycerin and aspirin provided by EMS. About 2 
+weeks ago, patient began having more frequent chest pain. He 
+lifted and carried some things and had anginal symptoms. He took 
+nitroglycerin, and it resolved. Last night, he had unloaded his 
+car and again had symptoms that resolved with nitroglycerin. The 
+morning of presentation, the pain woke him and didn't completely 
+resolve with nitroglycerin. In general, he reports that his 
+anginal symptoms occur with lifting, but doesn't usually have 
+chest pain with his regular exercise (swimming and cycling). His 
+angina will occasionally worsen with stress. He sleeps on ___ 
+pillows, mostly related to spinal stenosis. He does not have 
+shortness of breath or cough when lying down. Also related to 
+his spinal stenosis, he cannot walk more than 0.2 miles without 
+pain; he uses a walker when he needs to walk more than that. He 
+can take care of all his ADLs/IADLs and lives at home with his 
+wife. 
+
+In the ED, initial vitals: T 94 HR 68 BP 128/72 RR 18 SaO2 100% 
+on RA. Exam remarkable for regular rate and rhythm, clear lungs, 
+no signs of fluid overload. EKG showed SR at rate of 66, normal 
+axis, no ST or T wave changes. Labs were notable for normal WBC, 
+Hgb 12.1, plt 281, INR 1.2, K 5.1, Cr 1.2, trop-T <0.01 x2. UA 
+unremarkable. Patient was given: SL Nitroglycerin 0.4 mg by 
+___ EMS Prehospital; SL Nitroglycerin 0.4 mg; Nitroglycerin 
+gtt IV, and Morphine Sulfate 4 mg.
+
+After arrival to the cardiology ward, the patient reported that 
+pain was very mild. He had mild lightheadedness after the 
+nitroglycerin drip started. He had not eaten anything since 
+breakfast, last bowel movement was the morning of admission. He 
+took his clopidogrel last night.
+ 
+REVIEW OF SYSTEMS: 
+Cardiac review of systems is notable for absence of dyspnea on 
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, 
+palpitations, recent syncope, or presyncope.  On further review 
+of systems, he denied any prior history of stroke, TIA, deep 
+venous thrombosis, pulmonary embolism, bleeding at the time of 
+surgery, joint pains, cough, hemoptysis, black stools or red 
+stools, recent fevers, chills or rigors. All of the other review 
+of systems were negative.
+ 
+Past Medical History:
+1. CAD RISK FACTORS  
+- Hypertension  
+- Dyslipidemia
+- Diabetes mellitus, type 2
+2. CARDIAC HISTORY
+H/O CAD S/P
+- ___ 2.5x14+2.25x14 mm overlapping Resolute DES to OM2 
+___ with 2.5 mm NC balloon
+- ___ 99% proximal LAD s/p 2.75x22 mm Onyx ___ 
+with 3.25 mm NC balloon for positive ETT-MIBI
+- Syncope s/p Linq 
+3. OTHER PAST MEDICAL HISTORY  
+- GERD  
+- Anxiety  
+- Spinal stenosis
+- Sciatica  
+- Colon polyps
+ 
+Social History:
+___
+Family History:
+His father had a fatal MI at age ___. No siblings with heart 
+disease.
+ 
+Physical Exam:
+On admission
+GENERAL: Well-developed, well-nourished elderly white man in 
+NAD. Mood, affect appropriate.
+VITALS: ___ 1550 Temp: 97.7 PO BP: 101/46 HR: 66 RR: 18 O2 
+sat: 97% O2 delivery: RA
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: No JVD
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs, rubs, gallops. No thrills, 
+lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.
+ABDOMEN: Soft, non-tender, not distended. No HSM or tenderness.
+EXTREMITIES: No clubbing, cyanosis or edema. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Distal pulses palpable and symmetric
+
+At discharge
+GENERAL: Well-developed, well-nourished elderly man in NAD. 
+Mood, affect
+appropriate.
+VITALS:  24 HR Data (last updated ___ @ 1115) Temp: 97.7 
+(Tm 97.8), BP: 106/68 (90-128/44-71), HR: 61 (57-67), RR: 17 
+(___), O2 sat: 96% (95-98), O2 delivery: Ra
+Wt: 224.21 lb/101.7 kg  
+Fluid Balance (last updated ___ @ 1111) 
+  Last 8 hours  Total cumulative 240ml
+    IN: Total 240ml, PO Amt 240ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 1485ml
+    IN: Total 1835ml, PO Amt 1660ml, IV Amt Infused 175ml
+    OUT:  Total 350ml, Urine Amt 350ml  
+HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or 
+cyanosis of the oral mucosa.
+NECK: No JVD  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs, rubs, gallops. No thrills, 
+lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, not distended. No HSM or tenderness.
+EXTREMITIES: No clubbing, cyanosis or edema. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric
+ 
+Pertinent Results:
+___ 10:19AM BLOOD WBC-8.8 RBC-3.97* Hgb-12.1* Hct-37.3* 
+MCV-94 MCH-30.5 MCHC-32.4 RDW-13.2 RDWSD-45.1 Plt ___
+___ 10:19AM BLOOD Neuts-69.0 ___ Monos-10.1 
+Eos-0.8* Baso-0.6 Im ___ AbsNeut-6.08 AbsLymp-1.67 
+AbsMono-0.89* AbsEos-0.07 AbsBaso-0.05
+___ 10:19AM BLOOD ___ PTT-30.4 ___
+
+___ 10:19AM BLOOD Glucose-123* UreaN-41* Creat-1.2 Na-140 
+K-5.1 Cl-100 HCO3-26 AnGap-14
+___ 10:19AM BLOOD ALT-25 AST-41* AlkPhos-65 TotBili-0.4
+___ 10:19AM BLOOD Albumin-4.6 Calcium-9.8 Phos-3.3 Mg-2.3
+
+___ 10:19AM BLOOD cTropnT-<0.01
+___ 01:08PM BLOOD cTropnT-<0.01
+
+___ 11:14AM URINE Color-Straw Appear-Clear Sp ___
+___ 11:14AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 11:14 am URINE CULTURE (Final ___: < 10,000 
+CFU/mL.
+
+ECG ___ 09:48:20 
+Sinus rhythm. Abnormal R-wave progression, early transition. 
+Compared with previous ECG, no significant change.
+
+CXR ___
+The lungs are clear. There is no consolidation, effusion, or 
+edema. The cardiomediastinal silhouette is within normal limits. 
+No acute osseous abnormalities.
+IMPRESSION: No acute cardiopulmonary process. 
+
+___ CARDIAC CATHETERIZATION
+LV ___
+Coronary anatomy
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is a stent in the proximal 
+segment.The Diagonal, arising from the proximal segment, is a 
+medium caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a medium caliber vessel. The ___ Obtuse 
+Marginal, arising from the mid segment, is a medium caliber 
+vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. The Right Posterior Descending Artery, 
+arising from the distal segment, is a medium caliber vessel. The 
+Right Posterolateral Artery, arising from the distal segment, is 
+a medium caliber vessel.
+FINDINGS: Single vessel coronary artery disease.
+
+DISCHARGE LABS:
+___ 05:34AM BLOOD WBC-8.8 RBC-3.70* Hgb-11.3* Hct-35.2* 
+MCV-95 MCH-30.5 MCHC-32.1 RDW-13.1 RDWSD-45.1 Plt ___
+___ 05:34AM BLOOD Glucose-127* UreaN-28* Creat-1.0 Na-141 
+K-4.2 Cl-104 HCO3-25 AnGap-12
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ mam with CAD s/p 2 overlapping 
+DES to OM2 and one DES to the proximal LAD who presented with 
+biomarker chest pain and was found not to have any obstructive 
+CAD, suggesting musculoskeletal etiology for his discomfort.
+
+# Left Chest pain: Patient with extensive CAD history with chest 
+pain on exertion, relieved by nitroglycerin. CXR clear, EKG 
+without ST changes and Tropinin-T normal x2. Presentation 
+concerning for biomarker negative unstable angina, however 
+coronary angiogram performed on ___ showed patent stents 
+without angiographic evidence of obstructive disease. As such, 
+most likely cause of patient's chest pain was muscle 
+strain/costochondritis. Patient was continued on his home 
+statin, ASA, clopidogrel, amlodipine, and carvedilol. Patient 
+was given a lidocaine patch on discharge.
+
+Chronic medical problems:
+# Chronic back/shoulder pain: Continued home methocarbamol with 
+PRN acetaminophen, baclofen.
+
+# Hypertension: Continued home medications per above but held 
+ACE-I given contrast administration and lower blood pressures on 
+discharge
+
+# Dyslipidemia: Continued home atoravastatin
+
+# GERD: continued home pantoprazole
+
+# Anxiety: continued home buspirone, citalopram,
+
+TRANSITIONAL ISSUES:
+[ ] Patient would like referral to weight clinic
+[ ] Please check creatinine and potassium within 1 week to 
+ensure no worsening
+[ ] Monitor blood pressures and resume benazepril as tolerated
+
+# CODE: full
+# CONTACT: ___ (___)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Baclofen 10 mg PO BID:PRN Muscle Spasms 
+5. BusPIRone 10 mg PO BID 
+6. Carvedilol 12.5 mg PO BID 
+7. Citalopram 20 mg PO DAILY 
+8. Clopidogrel 75 mg PO DAILY 
+9. Docusate Sodium 100 mg PO BID 
+10. Eplerenone 50 mg PO DAILY 
+11. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+12. Loratadine 10 mg PO DAILY 
+13. Methocarbamol 500 mg PO TID:PRN muscle spasms 
+14. Multivitamins 1 TAB PO DAILY 
+15. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+16. Pantoprazole 40 mg PO Q24H 
+17. benazepril 40 mg oral DAILY 
+18. Torsemide 20 mg PO DAILY 
+19. Alcohol Pads (alcohol swabs)    topical DAILY 
+20. diclofenac sodium 3 % topical BID:PRN 
+21. MetFORMIN (Glucophage) 500 mg PO DAILY 
+ 
+Discharge Medications:
+1.  Lidocaine 5% Patch 1 PTCH TD QPM Chest pain 
+RX *lidocaine 5 % apply 1 patch to painful chest area once a day 
+Disp #*14 Patch Refills:*0 
+2.  Alcohol Pads (alcohol swabs)    topical DAILY  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Baclofen 10 mg PO BID:PRN Muscle Spasms  
+7.  BusPIRone 10 mg PO BID  
+8.  Carvedilol 12.5 mg PO BID  
+9.  Citalopram 20 mg PO DAILY  
+10.  Clopidogrel 75 mg PO DAILY  
+11.  diclofenac sodium 3 % topical BID:PRN pain  
+12.  Docusate Sodium 100 mg PO BID  
+13.  Eplerenone 50 mg PO DAILY  
+14.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+15.  Loratadine 10 mg PO DAILY  
+16.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+17.  Methocarbamol 500 mg PO TID:PRN muscle spasms  
+18.  Multivitamins 1 TAB PO DAILY  
+19.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+20.  Pantoprazole 40 mg PO Q24H  
+21.  Torsemide 20 mg PO DAILY  
+22. HELD- benazepril 40 mg oral DAILY  This medication was held. 
+Do not restart benazepril until you follow up with your PCP
+23.Outpatient Lab Work
+___.0
+Please obtain outpatient creatinine, potassium and fax results 
+to  ___ 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Chest pain, biomarker negative
+-Costochondritis 
+-Coronary artery disease with patent prior stents
+-Chronic left ventricular diastolic heart failure
+-Chronic back/shoulder pain
+-Hypertension
+-Dyslipidemia
+-Gastroesophageal reflux disease
+-Diabetes mellitus, type 2 with
+-Chronic kidney disease, stage 2
+-Anxiety
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+ Dear Mr. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had chest pain  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- We performed a cardiac catheterization, a procedure to look at 
+the blood vessels of your heart, which did not show an 
+explanation for your chest pain. Therefore, your chest pain was 
+likely from a muscle strain. 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments below.
+- Please make an appointment with your PCP 
+
+___ you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Team 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18992637-DS-17 | hadm_id=23795100
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Diovan / spironolactone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o man with history of CAD s/p ___ 1
+OM2 (___), ___ 1 pLAD (___), HTD, HLD who presents to 
+the
+ED with chest pain bilateral arm and shoulder pain for the past
+day. 
+
+Patient reports that he was carrying some heavy luggage the day
+before his presentation and developed R shoulder pain. He
+subsequently developed L shoulder pain. He took a dose ___
+and his symptoms improved. Given variable presentation of chest
+pain in the past, he decided to present for evaluation to the 
+ED.
+He does not have any associated dyspnea, palpitations, nausea,
+diaphoresis. Also denies any substernal chest pain. He swims
+4x/week and was able to swim for ~40 min, the day prior to
+presentation. By the time he reached the ED, he reported
+improvement in his symptoms. 
+
+Of note, patient has been having intermittent chest, back,
+shoulder pain over the last few months. He underwent a exercise
+stress with nuclear imaging in ___ which was notable for a
+peak estimated MET 7, no anginal type symptoms, 0.5-1 mm
+upsloping ST segment depression noticed in the inferior leads 
+and
+V4-V6, as well as a 0.___levation in lead aVR, normal
+myocardial perfusion, calculated LVEF 65%. He also had a Zio
+Patch in ___ that showed occasional PVCs and rare PACs. No
+significant tachycardia or bradycardia. Patient has been having
+some peripheral edema and recently was placed on torsemide 40mg
+daily, although attributes this to his amlodipine. 
+
+In the ED,  
+
+- Initial vitals: HR77 BP110/58 RR16 SpO2100  
+
+- EKG: Normal sinus rhythm. Normal axis. No ST or TW changes.  
+
+- Labs/studies notable for:  
+      12.5
+10.5 >----< 269
+      37.4
+
+133|92|36
+---------< 153
+4.6|24|1.2
+
+Ca 9.8 Mg 2.3 P 4.3
+
+INR 1.2 
+
+Trop < 0.01 x 2
+
+CXR - no acute cardiopulmonary process
+
+- Patient was given:
++ Buspirone 10mg PO
++ Clopidogrel 75mg PO
++ Citalopram 10mg PO
++ Carvedilol 6.25mg PO
+
+- Vitals on transfer:  
+ 
+On the floor, patient continues to have some discomfort on the
+right chest near the axilla as well as the right back. He denies
+dyspnea, PND, orthopnea, syncope, pre-syncope. Notes that his
+symptoms have improved from initial presentation. He denies
+worsening peripheral edema, noting that he had some edema from
+amlodipine at baseline. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: DES to OM (___), DES 
+to
+pLAD (___)
+- PACING/ICD: None  
+
+3. OTHER PAST MEDICAL HISTORY  
+- GERD
+- Anxiety 
+- Spinal stenosis
+ 
+Social History:
+___
+Family History:
+His father had an MI at age ___. 
+ 
+Physical Exam:
+ADMISSION EXAM:  
+===============
+VITALS: ___ 1539 Temp: 98.0 PO BP: 138/79 HR: 78 RR: 18 O2
+sat: 96% 
+GENERAL: Lying comfortably in bed. No visible distress. 
+HEENT: PERRL, EOMI. Conjunctiva pink, no pallor or cyanosis of
+the oral mucosa. 
+NECK: Supple with no JVD. 
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi. Mild TTP in the right axilla. No TTP of the
+right back.   
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: Trace edema bilaterally. 2+ ___ pulses. 
+SKIN: No stasis dermatitis, ulcers, scars.  
+
+DISCHARGE EXAM:  
+===============
+Vitals 97.9 113/71 78 18 95% on RA
+Weight 106kg --> 105kg
+I/O 920/800//-/-
+GENERAL: Lying comfortably in bed. No visible distress. 
+HEENT: PERRL, EOMI. Conjunctiva pink, no pallor or cyanosis of
+the oral mucosa. 
+NECK: Supple with no JVD. 
+CARDIAC: Distant heart sounds.  RRR, normal S1, S2. No
+murmurs/rubs/gallops. 
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi. Mild TTP in the right axilla. No TTP of the
+right back.   
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: Trace edema bilaterally. 2+ ___ pulses. 
+SKIN: No stasis dermatitis, ulcers, scars.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 05:50AM   WBC-10.5* RBC-4.26* HGB-12.5* HCT-37.4* 
+MCV-88 MCH-29.3 MCHC-33.4 RDW-13.8 RDWSD-44.6
+___ 05:50AM   NEUTS-73.2* LYMPHS-17.1* MONOS-8.3 EOS-0.7* 
+BASOS-0.3 IM ___ AbsNeut-7.73* AbsLymp-1.80 AbsMono-0.87* 
+AbsEos-0.07 AbsBaso-0.03
+___ 05:50AM   ___ PTT-26.9 ___
+___ 05:50AM   GLUCOSE-153* UREA N-36* CREAT-1.2 SODIUM-133* 
+POTASSIUM-4.6 CHLORIDE-92* TOTAL CO2-24 ANION GAP-17
+___ 05:50AM   CALCIUM-9.8 PHOSPHATE-4.3 MAGNESIUM-2.3
+___ 05:50AM   proBNP-33
+___:30PM   CK-MB-4 cTropnT-<0.01
+___ 05:50AM   cTropnT-<0.01
+___ 09:24AM   cTropnT-<0.01
+
+STUDIES:
+========
+CXR (___): 
+1. No acute cardiopulmonary process. 
+
+Stress Echo (___):
+Exercise conclusion: Average functional exercise capacity for 
+age and gender. Ischemic ECG changes, with atypical chest pain, 
+and no 2D echocardiographic evidence of inducible ischemia to 
+achieved treadmill stress. No Doppler evidence for a change in 
+left ventricular filling pressure with exercise. There is a 
+normal blood pressure and a blunted heart rate (beta blocker) 
+response to achieved treadmill stress. Mild mitral regurgitation 
+at rest. Mild inducible left ventricular outflow tract gradient 
+at peak stress. EF 71%
+Suboptimal Study: Target heart rate not achieved.
+Compared with the prior TTE (images reviewed) of ___ , 
+there is now a left ventricular outflow tract gradient noted 
+with exercise.
+
+DISCHARGE LABS:
+===============
+
+___ 06:15AM BLOOD WBC-7.7 RBC-4.32* Hgb-12.8* Hct-38.7* 
+MCV-90 MCH-29.6 MCHC-33.1 RDW-13.5 RDWSD-44.2 Plt ___
+___ 06:15AM BLOOD ___ PTT-27.7 ___
+___ 06:15AM BLOOD Glucose-117* UreaN-21* Creat-1.0 Na-139 
+K-4.6 Cl-100 HCO3-26 AnGap-13
+___ 06:15AM BLOOD Calcium-9.8 Phos-3.5 Mg-2.4
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o man with history of CAD s/p ___ 1 
+OM2 (___), ___ 1 pLAD (___), HTD, HLD who presents to 
+the ED with chest pain bilateral arm and shoulder pain for the 
+past day although with atypical pain with exertion over the last 
+few months that improves with nitroglycerin. Patient had 
+negative troponins x 3 and no significant ECG changes. He 
+underwent stress echo on ___ that demonstrated ischemic ECG 
+changes but no 2D evidence of inducible ischemia. 
+
+# CORONARIES: LAD s/p DES (___), OM s/p DES (___), RCA 
+with
+20% proximal and 40% distal at bifurcation PDA, PL. 
+# PUMP: EF 68%
+# RHYTHM: NSR
+
+# Chest pain
+# CAD s/p ___ 1 OM2 (___), ___ 1 pLAD (___)
+Patient notes acute onset of bilateral chest pain after lifting 
+bag of luggage. Had good exercise tolerance prior to this 
+episodes and with negative pMIBI ___, however with some ECG 
+changes on prior stress test. Given prior history, concerning 
+for possible unstable angina. He underwent stress echo (___) 
+that showed average function exercise capacity, ischemic ECG 
+changes with atypical chest pain and no 2D echocardiogram 
+evidence of inducible ischemia to the achieved treadmill stress. 
+19mmHg inducible LVOT gradient at peak exercise. Decision was 
+made not to pursue coronary angiography given no signs of 
+inducible ischemia. Patient was discharged home with close 
+outpatient cardiology follow-up ___. 
+
+# HFpEF: Patient with lower extremity edema over the last couple 
+months that he attributes to amlodipine. EF 68% at last pMIBI in 
+___. Held torsemide in setting of possible cath/NPO. Will 
+restart at discharge. He was continued on amlodipine and 
+spironolactone. Benazepril was held and will be restarted at 
+discharge. 
+
+# Hypertension: Continued carvedilol, amlodipine. Held 
+benazepril for possible cath/NPO. 
+
+# HLD: Continued atoravastatin
+
+# GERD: Continued pantoprazole
+
+# Anxiety: Continued buspirone, citalopram
+
+# Spinal stenosis: Continued baclofen PRN, methocarbamol PRN
+
+# Asthma: Continue fluticasone
+
+Transitional Issues
+===================
+[] follow up with Dr. ___ on ___
+[] Continue Aspirin and Plavix
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Baclofen 10 mg PO BID:PRN Muscle Spasms 
+4. benazepril 40 mg oral DAILY 
+5. BusPIRone 10 mg PO BID 
+6. Carvedilol 6.25 mg PO BID 
+7. Citalopram 10 mg PO DAILY 
+8. Clopidogrel 75 mg PO DAILY 
+9. Pantoprazole 40 mg PO Q24H 
+10. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+11. Multivitamins 1 TAB PO DAILY 
+12. Loratadine 10 mg PO DAILY 
+13. Docusate Sodium 100 mg PO BID 
+14. Eplerenone 25 mg PO DAILY 
+15. amLODIPine 10 mg PO DAILY 
+16. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+17. Glucosamine (glucosamine sulfate) 500 mg oral Sometimes 
+18. Methocarbamol 500 mg PO TID:PRN muscle spasms 
+19. Torsemide 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Baclofen 10 mg PO BID:PRN Muscle Spasms  
+5.  benazepril 40 mg oral DAILY  
+6.  BusPIRone 10 mg PO BID  
+7.  Carvedilol 6.25 mg PO BID  
+8.  Citalopram 10 mg PO DAILY  
+9.  Clopidogrel 75 mg PO DAILY  
+10.  Docusate Sodium 100 mg PO BID  
+11.  Eplerenone 25 mg PO DAILY  
+12.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+13.  Glucosamine (glucosamine sulfate) 500 mg oral Sometimes  
+14.  Loratadine 10 mg PO DAILY  
+15.  Methocarbamol 500 mg PO TID:PRN muscle spasms  
+16.  Multivitamins 1 TAB PO DAILY  
+17.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+18.  Pantoprazole 40 mg PO Q24H  
+19.  Torsemide 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+Chest pain
+
+Secondary Diagnoses
+===================
+Coronary artery disease
+Hypertension
+Hyperlipidemia
+Heart failure with preserved ejection fraction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ because you were having chest pain 
+that was concerning for a blockage in your heart arteries. 
+
+You underwent a stress test that showed slight ECG changes but 
+no serious signs of blocked blood flow to the heart. 
+
+After you leave the hospital, it is critically important that 
+you take all of your medications as prescribed. You should 
+follow up with your cardiologist, Dr. ___, on ___ as 
+previously scheduled. 
+
+It was a privilege taking care of you and we wish you the best. 
+
+Sincerely, 
+
+Your ___ Cardiology Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18992637-DS-16 | hadm_id=27577979
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, fevers
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:  Mr. ___ is a ___ y/o man with
+history of CAD s/p PCI who is presenting with chest pain,
+abdominal cramping, and fevers.
+
+He reports that he developed mild nonexertional substernal chest
+pain the night prior to admission. On the morning of admission,
+his chest pain was mildly worse to ___ and radiated to his left
+shoulder and arm. He states that feels like his prior episodes 
+of
+chest pain that required stenting. He denies any associated
+shortness of breath, palpitations, diaphoresis. 
+
+He also reports that beginning on the day of admission he
+developed cramping abdominal pain, nausea, and fevers. He denies
+any vomiting. No diarrhea or constipation. He does note that an
+area on his left lower leg/ankle has become red and hot in the
+last few days. He does not recall any injury. He otherwise 
+denies
+any rashes or arthralgias. He returned from travel in ___
+about 3 weeks prior, but had been feeling well until the day
+prior to admission.
+
+In the ED, initial VS were: 101.3 104 135/72 18 98% RA 
+Exam notable for: "Benign"  
+ECG: Sinus tachycardia at 104 bpm, NA/NI, STD in I, II, AVF;
+V3-V6
+Labs showed: WBC 29.7 H/H 12.6/38.3, plt 268, BUN/Cr ___ 
+trop
+<0.01 x2, MB 2; phos 2.0; UA bland, influenza negative 
+Imaging showed:
+- CXR: No acute intrathoracic process.  
+- CTA Chest: 
+1. No pulmonary embolism or other acute process in the chest. 
+2. Prominent main pulmonary artery, correlate for pulmonary
+arterial hypertension. 
+3. Segment 8 liver lesion with peripheral nodular enhancement,
+likely 
+representing a hemangioma. 
+
+Consults: None  
+
+Patient received:  
+___ 18:35 PO Acetaminophen 1000 mg  
+___ 19:29 IVF  LR ( 1000 mL ordered)  
+___ 22:46 IVF  LR 500 mL
+___ 22:46 PO Benzonatate 100 mg  
+___ 01:00 IV Piperacillin-Tazobactam 4.5 g
+___ 02:24 IV Vancomycin 1000 mg
+
+On arrival to the floor, patient reports that he has mild
+abdominal cramping and nausea. He otherwise denies any chest
+pain, and states that he last experienced this chest pain while
+in the ED, and it lasted about 10 minutes and then 
+self-resolved.
+No shortness of breath. He has a dry cough that he has had for
+several weeks and is improving. No other complaints at this 
+time.
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+ 
+Past Medical History:
+- Hypertension  
+- Dyslipidemia    
+- CAD with cath ___ status post resolute overlapping stents
+to OM2 and positive nuc ETT with 99% LAD s/p PCI ___
+- GERD
+- Anxiety 
+- Spinal stenosis
+ 
+Social History:
+___
+Family History:
+His father had an MI at age ___. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 99.7 150 / 71 111 18 97 Ra  
+GENERAL: Lying in bed, in NAD  
+HEENT: EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM  
+NECK: No JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi
+ABDOMEN: BS+, soft, NTND
+EXTREMITIES: No peripheral edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: Left medial shin with ulcer with scab and surrounding
+warmth and erythema
+
+DISCHARGE PHYSICAL EXAM
+___ 1156 Temp: 97.8 PO BP: 97/58 Lying HR: 68 RR: 18 O2 
+sat:
+95% O2 delivery: Ra   
+GENERAL: Lying in bed, in NAD  
+HEENT: PERRL, anicteric sclera, pink conjunctiva, MMM  
+NECK: supple
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, trace diffuse expiratory wheezing, no rales, 
+rhonchi
+ABDOMEN: soft, NTND, no rebound or guarding
+EXTREMITIES: WWP
+SKIN: Left medial distal shin with closed lesion and overlying
+scab with surrounding TTP, warmth and erythema extending to L
+medial foot with TTP. area improved from previous
+ 
+ 
+Pertinent Results:
+ADMISSION LABS
+========================
+___ 06:10PM BLOOD WBC-29.7* RBC-4.22* Hgb-12.6* Hct-38.3* 
+MCV-91 MCH-29.9 MCHC-32.9 RDW-12.9 RDWSD-41.9 Plt ___
+___ 06:10PM BLOOD Glucose-125* UreaN-29* Creat-1.0 Na-135 
+K-4.6 Cl-98 HCO3-23 AnGap-14
+___ 06:10PM BLOOD ALT-27 AST-26 CK(CPK)-146 AlkPhos-83 
+TotBili-0.5
+___ 06:10PM BLOOD Albumin-4.5 Calcium-9.6 Phos-2.0* Mg-1.9
+___ 06:45PM BLOOD D-Dimer-216
+
+DISCHARGE LABS
+=====================
+___ 07:10AM BLOOD WBC-13.1* RBC-3.65* Hgb-10.8* Hct-33.7* 
+MCV-92 MCH-29.6 MCHC-32.0 RDW-13.5 RDWSD-46.0 Plt ___
+
+IMAGING
+==================
+___ (AP, MORTISE & LA IMPRESSION: 
+ 
+Moderate soft tissue swelling of the medial ankle.  No 
+radiographic evidence specific for osteomyelitis.
+
+___ CHEST IMPRESSION:
+ 
+1. No pulmonary embolism or other acute process in the chest.
+2. Prominent main pulmonary artery, correlate for pulmonary 
+arterial
+hypertension.
+3. Segment 8 liver lesion with peripheral nodular enhancement, 
+likely
+representing a hemangioma.
+
+___ (PA & LAT) IMPRESSION: 
+No acute intrathoracic process.
+
+PERTINENT LABS
+================
+___ 07:10AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 12:45AM BLOOD cTropnT-<0.01
+___ 06:10PM BLOOD cTropnT-<0.01
+___ 06:10PM BLOOD CK-MB-2
+___ 07:10AM BLOOD CRP-159.0*
+___ 07:05PM BLOOD Lactate-1.7
+
+MICROBIOLOGY
+========================
+_______________________________________________________
+___ 10:05 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 7:10 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 8:55 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+__________________________________________________________
+___ 6:00 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 6:45 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+Brief Hospital Course:
+Outpatient Providers:Mr. ___ is a ___ y/o man with 
+history of CAD s/p PCI who presented with chest pain, abdominal 
+cramping, and fevers found to have soft tissue infection over L 
+distal medial leg.
+
+# Sepsis in setting of soft tissue infection. Patient presented 
+with fever to 101.3, tachycardia with HR 100's, leukocytosis 
+with neutrophilic predominance. Workup for pneumonia and UTI 
+negative. Patient with erythema of left ankle consistent with 
+soft tissue infection/cellulitis . CRP elevated at 160; ESR 
+elevated at 33, however plain film of left lower extremity shows 
+no evidence of osteomyelitis. Pt received IV vancomycin 
+transitioned to PO Bactrim and Keflex, with improvement in 
+symptoms with plan for total 7 day course to end on ___. 
+Patient remained afebrile for 24 hours prior to discharge, blood 
+cultures pending at discharge.
+
+# CAD s/p PCI:
+# Chest pain-resolved: Patient presented with several episodes 
+of nonexertional angina in setting of acute illness as above. 
+CTA chest without PE. Initial admission EKG with new ST 
+depression in anterior leads, however no ST depression observed 
+on repeat EKG. Cardiac biomarkers <0.01 x3, no further chest 
+pain. Continued home ASA/Plavix/statin. Beta blocker dose 
+decreased as below.
+
+# Hypertension: BPs 100s/60s, orthostatics negative and patient 
+asymptomatic. Holding home amlodipine and reduced carvedilol 
+given soft BP. Negative orthostatics. Continued home eplerenone, 
+Benazepril NF. Home Lasix restarted at discharge.
+
+# HLD:
+- Continued home atorvastatin
+# GERD:
+- Continued home pantoprazole
+# Anxiety:
+- Continued home buspirone, citalopram
+# Spinal stenosis:
+- Continued home baclofen as needed
+
+Transitional Issues:
+===================================
+[] CTA (___) showed incidental Segment 8 liver lesion 
+with peripheral nodular enhancement, likely representing a 
+hemangioma. 
+[] Patient's home amlodipine was held and home carvedilol dose 
+was reduced. Please follow patient's BP and readjust BP meds as 
+needed.
+[] Keflex/Cephalexin and Bactrim last day ___ for total 7 
+day course.
+[] Please check chemistry panel on ___ as increased risk of 
+hyperkalemia with contaminant Bactrim and ACEI.
+[] Follow up blood cultures, which were negative x48 hours at 
+time of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. BusPIRone 10 mg PO BID 
+5. Carvedilol 6.25 mg PO BID 
+6. Citalopram 10 mg PO DAILY 
+7. Clopidogrel 75 mg PO DAILY 
+8. Docusate Sodium 100 mg PO BID 
+9. Loratadine 10 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. Pantoprazole 40 mg PO Q24H 
+12. Glucosamine (glucosamine sulfate) 500 mg oral Sometimes 
+13. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+14. benazepril 40 mg oral DAILY 
+15. Furosemide 20 mg PO EVERY OTHER DAY 
+16. Baclofen 10 mg PO BID:PRN Muscle Spasms 
+17. Eplerenone 25 mg PO DAILY 
+18. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q6H Duration: 6 Days 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*22 Capsule Refills:*0 
+2.  Sulfameth/Trimethoprim DS 2 TAB PO BID Duration: 6 Days 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 2 
+tablet(s) by mouth twice a day Disp #*22 Tablet Refills:*0 
+3.  Carvedilol 3.125 mg PO BID 
+RX *carvedilol 3.125 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Baclofen 10 mg PO BID:PRN Muscle Spasms  
+7.  benazepril 40 mg oral DAILY  
+8.  BusPIRone 10 mg PO BID  
+9.  Citalopram 10 mg PO DAILY  
+10.  Clopidogrel 75 mg PO DAILY  
+11.  Docusate Sodium 100 mg PO BID  
+12.  Eplerenone 25 mg PO DAILY  
+13.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+14.  Furosemide 20 mg PO EVERY OTHER DAY  
+15.  Glucosamine (glucosamine sulfate) 500 mg oral Sometimes  
+16.  Loratadine 10 mg PO DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+19.  Pantoprazole 40 mg PO Q24H  
+20. HELD- amLODIPine 10 mg PO DAILY  This medication was held. 
+Do not restart amLODIPine until approved by your PCP or 
+cardiologist.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sepsis in setting of soft tissue infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___.
+
+WHY WAS I IN THE HOSPITAL?
+- You were here because you did not feel well and you had chest 
+pain and fevers.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You received antibiotics to treat the infection on your leg.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+ - We held your daily amlodipine and your dose of carvedilol was 
+cut in half. Please check your blood pressure at home daily. 
+Your primary care doctor or cardiologist may need to re-adjust 
+the dose of these medications.
+- Please continue to take antibiotics to treat your infection: 
+Keflex/Cephalexin and Bactrim (also known as Sulfamethoxazole/ 
+Trimethoprim). The last day for both of these antibiotics is 
+___.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18992637-DS-15 | hadm_id=29029556
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with history of CAD s/p stents to OM2 in
+___ and positive nuclear ETT with 99% LAD s/p PCI ___,
+hypertension, and dyslipidemia, who presented with presyncope.
+
+He reported a pre-syncope event on the morning of admission 
+after
+walking ___ mile to ___. He experienced mild chest/epigastric
+discomfort, not consistent with prior episode of ACS, as well as
+shortness of breath. Patient felt lightheaded, diaphoretic,
+nauseous, without emesis. He sat down and felt better after
+approximately 20 minutes. He has been asymptomatic since. 
+Patient
+reported recent symptoms of URI with minimal residual cough for
+the past couple of weeks and also had his flu shot last week. He
+endorses being around sick contacts w/ his wife, children, and
+grandchildren having colds. He denied fevers, chills, headache,
+dizziness, blurry vision, chest pain, abdominal pain, dysuria,
+hematuria, diarrhea or constipation.
+
+Of note, his typical angina symptoms is chest pain throughout 
+the
+chest. And he had exertional pain when he swam. His symptoms now
+are not similar to this. In addition, he has not had any
+exertional pain when he has swam in the past week. He also has
+found that his blood pressure runs low at home when he checks
+with an automatic cuff, going as low as the high ___ systolics
+and 100s/30s after taking his morning medications. He took all
+his morning meds before going to ___ this AM. There has not
+been any changes to his blood pressure medications since ___. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+
+2. CARDIAC HISTORY  
+- CAD with cath ___ status post resolute overlapping stents
+to OM2 and positive nuc ETT with 99% LAD s/p PCI ___
+
+3. OTHER PAST MEDICAL HISTORY 
+GERD
+Anxiety 
+
+ 
+Social History:
+___
+Family History:
+His father had an MI at age ___.  There is no history of sudden
+death in the family.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 98.1 PO 127/66 R Lying 82 20 100 RA 
+GENERAL: Well developed, overweight man lying back in bed, NAD.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No xanthelasma.  
+NECK: Supple. JVP not discernible when sitting @ 60 degrees.  
+CARDIAC: Distant heart sounds.Regular rate and rhythm. Normal 
+S1,
+S2. No murmurs, rubs, or gallops. No thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Obese, soft, non-tender, non-distended. No 
+hepatomegaly.
+No splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+trace
+edema to ankles.  
+SKIN: No significant skin lesions or rashes. Cherry angiomas on
+abdomen. 
+PULSES: Distal pulses palpable and symmetric. 
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+VS: Temp: 97.9 (Tm 98.4), BP: 125/68 (113-131/52-77), HR: 69
+(69-80), RR: 17 (___), O2 sat: 98% (94-98), O2 delivery: RA
+GENERAL: Well developed, overweight man lying back in bed, NAD.
+Oriented x3. 
+HEENT: Sclera anicteric. MMM. 
+NECK: Supple. JVP not discernible when sitting @ 60 degrees.  
+CARDIAC: Distant heart sounds. Regular rate and rhythm. Normal
+S1, S2. No murmurs, rubs, or gallops. No thrills or lifts.  
+LUNGS: CTABL, nl WOB on room air  
+ABDOMEN: Obese, soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, does
+have some trace edema to ankles.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 11:35AM BLOOD WBC-18.3* RBC-4.61 Hgb-14.0 Hct-42.6 
+MCV-92 MCH-30.4 MCHC-32.9 RDW-12.5 RDWSD-41.7 Plt ___
+___ 11:35AM BLOOD Neuts-92.1* Lymphs-3.3* Monos-3.4* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-16.84* AbsLymp-0.60* 
+AbsMono-0.62 AbsEos-0.03* AbsBaso-0.05
+___ 11:35AM BLOOD ___ PTT-21.9* ___
+___ 11:35AM BLOOD Glucose-146* UreaN-24* Creat-1.0 Na-137 
+K-4.8 Cl-99 HCO3-24 AnGap-14
+___ 05:40AM BLOOD Calcium-9.6 Phos-3.3 Mg-2.1
+
+CARDIAC ENZYMES:
+================
+___ 11:35AM BLOOD cTropnT-<0.01
+___ 05:30PM BLOOD cTropnT-<0.01
+___ 05:40AM BLOOD cTropnT-<0.01
+
+MICROBIOLOGY:
+=============
+URINE CULTURE NEGATIVE
+BLOOD CULTURES NGTD, FINAL PENDING
+
+DISCHARGE LABS:
+===============
+___ 07:13AM BLOOD WBC-9.7 RBC-4.24* Hgb-13.1* Hct-39.0* 
+MCV-92 MCH-30.9 MCHC-33.6 RDW-12.3 RDWSD-41.4 Plt ___
+___ 07:13AM BLOOD ___ PTT-27.6 ___
+___ 07:13AM BLOOD Glucose-115* UreaN-21* Creat-0.8 Na-139 
+K-4.8 Cl-99 HCO3-27 AnGap-13
+___ 07:13AM BLOOD Calcium-9.5 Phos-3.6 Mg-2.2
+
+IMAGING AND STUDIES:
+====================
+___ CXR
+Lungs are clear.  Heart size is normal.  There are degenerative 
+changes
+involving the thoracic spine.  There is no pleural effusion.  No 
+pneumothorax
+is seen
+
+___ EXERCISE STRESS AND MIBI
+INTERPRETATION: This ___ year old man with BMI of 36.7 and h/o 
+CAD
+s/p DES to LAD in ___ was referred to the lab for evaluation 
+of chest
+discomfort. He exercised for 9 minutes on modified ___ 
+protocol and
+stopped for fatigue. The peak estimated MET capacity is 7, which
+represents an average exercise tolerance for his age. No chest, 
+arm,
+neck or back discomfort reported. At peak exercise a 0.5-1 mm 
+upsloping
+ST segment depression noticed in the inferior leads and V4-V6, 
+as well
+as a 0.___levation in lead aVR. These IL ST segment 
+changes became
+horizontal during recovery before it returned to baseline by 5 
+minutes
+post-exercise. Rhythm was sinus with rare isolated VPBs. 
+Baseline
+systolic HTN with appropriate BP response to exercise and 
+recovery. HR
+response to exercise was slightly blunted in the presence of 
+beta
+blockade.
+IMPRESSION : Iscehmic EKG changes in the absence of anginal 
+symptoms to
+the achieved workload. Average functional capacity. Nuclear 
+report sent
+separately.
+
+CARDIAC PERFUSION: Normal myocardial perfusion. Calculated left 
+ventricular ejection fraction is 65%.
+ 
+Brief Hospital Course:
+___ with history of CAD s/p stents to OM2 in ___ and 
+positive nuclear ETT with 99% LAD s/p DES ___, hypertension, 
+and dyslipidemia, who presented with presyncope and had a 
+negative work-up for myocardial infarction. 
+
+ACTIVE ISSUES: 
+===============
+#PRESYNCOPE 
+#CORONARY ARTERY DISEASE
+The patient presented after feeling chest/epigastric discomfort 
+with lightheadedness, diaphoresis and nausea while walking. This 
+resolved with 20 minutes of rest. He presented to the ED where 
+EKG was non-concerning for ST segment changes and troponins were 
+negative x3. He was admitted for a stress test and had an 
+ETT-MIBI that demonstrated no anginal symptoms, and normal 
+myocardial perfusion. He continued his home aspirin, 
+clopidogrel, carvedilol, and atorvastatin. His home benzapril 
+and furosemide were initially held with concern for 
+hypotension/orthostatis, but were resumed upon discharge. 
+Patient remained hemodynamically stable and did not have any 
+further chest pain or presyncopal symptoms during his hospital 
+stay. 
+
+#LEUKOCYTOSIS 
+He presented with an elevated WBC to 18 with >90% neutrophils. 
+This resolved by the morning following admission and he had no 
+signs of infection. 
+
+CHRONIC ISSUES:
+===============
+#HYPERTENSION
+His home amlodipine and carvedilol were continued. His home ACEi 
+was initially held with concern for hypotention/orthostatis, but 
+was resumed upon discharge. 
+
+#HYPERLIPIDEMIA 
+His home atorvastatin was continued. 
+
+#GERD
+His home pantoprazole was continued. 
+
+#ANXIETY
+His home buspirone and citalopram were continued. 
+
+TRANSITIONAL ISSUES
+==================
+[ ] Continue to monitor patient for anginal symptoms. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO EVERY OTHER DAY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Citalopram 10 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. amLODIPine 10 mg PO DAILY 
+6. Atorvastatin 80 mg PO QPM 
+7. benazepril 40 mg oral DAILY 
+8. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+9. BusPIRone 10 mg PO BID 
+10. Pantoprazole 40 mg PO Q24H 
+11. Vitamin D 1500 UNIT PO DAILY 
+12. Glucosamine (glucosamine sulfate) 500 mg oral Sometimes 
+13. Loratadine 10 mg PO DAILY 
+14. Multivitamins 1 TAB PO DAILY 
+15. Carvedilol 6.25 mg PO BID 
+16. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  benazepril 40 mg oral DAILY  
+5.  BusPIRone 10 mg PO BID  
+6.  Carvedilol 6.25 mg PO BID  
+7.  Citalopram 10 mg PO DAILY  
+8.  Clopidogrel 75 mg PO DAILY  
+9.  Docusate Sodium 100 mg PO BID  
+10.  Furosemide 20 mg PO EVERY OTHER DAY  
+11.  Glucosamine (glucosamine sulfate) 500 mg oral Sometimes  
+12.  Loratadine 10 mg PO DAILY  
+13.  Multivitamins 1 TAB PO DAILY  
+14.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+15.  Pantoprazole 40 mg PO Q24H  
+16.  Vitamin D 1500 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses
+-Presyncope
+-Chest pain
+-Coronary artery disease
+-Leukocytosis 
+
+Secondary Diagnoses
+-Hypertensino
+-Hyperlipidemia
+-GERD
+-Anxiety 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure being involved in your care. 
+
+Why you were admitted to the hospital:
+======================================
+You were admitted to the hospital after feeling chest and 
+epigastric discomfort, lightheadedness, sweating and nausea 
+while walking. 
+
+What happened in the hospital:
+==============================
+- You had tests that showed that you were not having a heart 
+attack. 
+- You had a stress test that showed your heart was work well 
+while you exercised, and there was no evidence of blood flow 
+blockage. 
+
+What you should do when you leave the hospital:
+===============================================
+- Take all of your medications as described below.
+- Attend all of your follow-up appointments as described below. 
+- If you have not heard from your primary care doctor by 
+___, please call to schedule a follow-up appointment: 
+___  Phone: ___ 
+- If you have not heard from your cardiology doctor by ___ 
+___, please call to schedule a follow-up appointment: ___, 
+___  Phone: ___ 
+
+We wish you the best!
+Your ___ Team 
+ 
+Followup Instructions:
+___

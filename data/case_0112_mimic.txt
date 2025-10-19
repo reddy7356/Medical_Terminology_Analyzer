@@ -1,0 +1,343 @@
+===== DISCHARGE NOTE =====
+note_id=19738406-DS-12 | hadm_id=22027584
+
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Drug Allergy Information on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+EKG changes 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___ 
+
+ 
+History of Present Illness:
+___ yo female with COPD, pulm HTN, TR who presented to OSH after 
+a stranger knocked into her at her assisted living facility 
+causing her to fall and fracture her left hip.  She did not have 
+any LOC.  In addition, she sustained a laceration to her right 
+lower leg and received 6 stiches at OSH.  At OSH, pt had CT scan 
+of Left hip which showed a cervical neck fracture of the left 
+proximal femur.  She had a routine pre-op evaluation; however 
+her pre-op EKG showed ST elevations in V2-V4.  The patient was 
+completely asymptomatic.  She denied chest pain or pressure.  
+Her SOB was at baseline.  She did have some nausea, vomiting and 
+diaphoresis at the OSH.  She was transferred to ___ for 
+cardiac cath.  Her cardiac cath earlier today showed clean 
+coronaries.  The patient tolerated the procedure without 
+complication.  The orthopedic team was consulted for management 
+of her hip fracture.  
+.
+The patient denies any chest pain or pressure currently.  She 
+reports that she does not want to undergo hip repair despite 
+being informed of the risks.  She refuses to go to get x-rays 
+for further evaluation.   
+.
+ROS:  She denies any prior history of stroke, TIA, deep venous 
+thrombosis, pulmonary embolism, bleeding at the time of surgery, 
+myalgias, joint pains, cough, or hemoptysis. She denies recent 
+fevers, chills or rigors. She denies exertional buttock or calf 
+pain. Has occasional abdominal pain, alternating diarrhea and 
+constipation but has not had a colonoscopy, occasional blood in 
+stool with straining.
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+ 
+Past Medical History:
+Pulmonary HTN
+Tricuspid regurgitation
+CPD
+Osteoporosis c/b thoracic spine fracture resulting in chronic 
+mid back pain
+Hypertension
+h/o pyelonephritis 
+h/o left hydronephrosis of uncertain eitology
+h/o pneumonia - required stay in rehab prior to transfer to 
+assisted living
+s/p appendectomy
+s/p oophrectomy
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+VS: T=98.1 BP=102/49 HR=63 RR=15 O2 sat=96% 4L 
+GENERAL: thin elderly female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with no JVD.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: LLE shortened and externally rotated. No c/c/e. No 
+femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+___ 09:28PM BLOOD WBC-10.4 RBC-3.87* Hgb-12.0 Hct-36.9 
+MCV-95 MCH-31.0 MCHC-32.5 RDW-13.5 Plt ___
+___ 03:58AM BLOOD WBC-10.5 RBC-3.75* Hgb-11.7* Hct-35.4* 
+MCV-94 MCH-31.2 MCHC-33.1 RDW-13.4 Plt ___
+___ 09:28PM BLOOD Glucose-123* UreaN-27* Creat-1.2* Na-132* 
+K-5.5* Cl-101 HCO3-26 AnGap-11
+___ 03:58AM BLOOD Glucose-105 UreaN-28* Creat-1.2* Na-133 
+K-5.5* Cl-101 HCO3-28 AnGap-10
+___ 01:24PM BLOOD Glucose-158* UreaN-27* Creat-1.1 Na-135 
+K-4.2 Cl-103 HCO3-25 AnGap-11
+___ 09:28PM BLOOD CK(CPK)-52
+___ 03:58AM BLOOD CK(CPK)-41
+___ 01:24PM BLOOD ___
+___ 09:28PM BLOOD Mg-1.9
+___ 03:58AM BLOOD Calcium-9.0 Phos-3.7 Mg-2.0
+___ 01:24PM BLOOD Mg-1.8
+___ 02:26PM BLOOD Type-ART O2 Flow-100 pO2-319* pCO2-58* 
+pH-7.26* calTCO2-27 Base XS--1
+___ 02:46PM BLOOD Type-ART pO2-74* pCO2-54* pH-7.27* 
+calTCO2-26 Base XS--2 Intubat-NOT INTUBA
+.
+Cardiac Catheterization ___
+1.  Coronary angiography in this right-dominant system revealed: 
+
+--the ___ had no angiographically apparent disease 
+--the LAD had no angiographically apparent disease 
+--the LCX had no angiographically apparent disease 
+--the RCA had a calcified proximal 50% stenosis. 
+2.  Limited resting hemodynamics revealed elevated systemic 
+arterial 
+systolic pressures, with SBP 156 mmHg. 
+FINAL DIAGNOSIS:     
+1.  No obstructive CAD 
+2.  Moderate systemic arterial systolic hypertension. 
+.
+___ TTE
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Atrium - Four Chamber Length:  4.7 cm  <= 5.2 cm  
+Right Atrium - Four Chamber Length:  4.3 cm  <= 5.0 cm  
+Left Ventricle - Septal Wall Thickness:  0.9 cm  0.6 - 1.1 cm  
+Left Ventricle - Inferolateral Thickness:  0.8 cm  0.6 - 1.1 cm  
+
+Left Ventricle - Diastolic Dimension:  3.1 cm  <= 5.6 cm  
+Left Ventricle - Systolic Dimension:  1.8 cm     
+Left Ventricle - Fractional Shortening:  0.42  >= 0.29  
+Left Ventricle - Ejection Fraction:  70%  >= 55%  
+Left Ventricle - Lateral Peak E':  0.10 m/s  > 0.08 m/s  
+Left Ventricle - Septal Peak E':  *0.07 m/s  > 0.08 m/s  
+Left Ventricle - Ratio E/E':  9  < 15  
+Aortic Valve - Peak Velocity:  1.3 m/sec  <= 2.0 m/sec  
+Mitral Valve - E Wave:  0.8 m/sec     
+Mitral Valve - A Wave:  1.3 m/sec     
+Mitral Valve - E/A ratio:  0.62     
+Mitral Valve - E Wave deceleration time:  235 ms  140-250 ms  
+TR Gradient (+ RA = PASP):  *59 to 66 mm Hg  <= 25 mm Hg  
+ 
+Findings  
+LEFT ATRIUM: Normal LA size. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Increased IVC 
+diameter (>2.1cm) with <35% decrease during respiration 
+(estimated RA pressure (___). 
+LEFT VENTRICLE: Normal LV wall thickness. Small LV cavity. 
+Overall normal LVEF (>55%). No resting LVOT gradient. 
+RIGHT VENTRICLE: RV hypertrophy. Dilated RV cavity. Borderline 
+normal RV systolic function. Abnormal systolic septal 
+motion/position consistent with RV pressure overload. 
+AORTA: Normal aortic diameter at the sinus level. Focal 
+calcifications in aortic root. 
+AORTIC VALVE: Moderately thickened aortic valve leaflets. 
+Minimal AS. No AR. 
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. 
+Moderate mitral annular calcification. Mild thickening of mitral 
+valve chordae. Calcified tips of papillary muscles. No MS. ___ 
+inflow pattern c/w impaired relaxation. 
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. 
+Normal tricuspid valve supporting structures. No TS. Moderate to 
+severe [3+] TR. Severe PA systolic hypertension. 
+PERICARDIUM: No pericardial effusion.  
+Conclusions  
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity is small. Overall left 
+ventricular systolic function is normal (LVEF 70%). The right 
+ventricular free wall is hypertrophied. The right ventricular 
+cavity is dilated with borderline normal free wall function. 
+There is abnormal systolic septal motion/position consistent 
+with right ventricular pressure overload. The aortic valve 
+leaflets are moderately thickened. There is a minimally 
+increased gradient consistent with minimal aortic valve 
+stenosis. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. The left ventricular inflow pattern suggests impaired 
+relaxation. The tricuspid valve leaflets are mildly thickened. 
+Moderate to severe [3+] tricuspid regurgitation is seen. There 
+is severe pulmonary artery systolic hypertension. There is no 
+pericardial effusion.   
+.
+___ CXR
+The lung volumes are near normal, the hemidiaphragms are 
+relatively low, but not flattened. Moderate scoliosis leads to 
+asymmetry of the rib cage. In both lungs, right more than left, 
+a reticular pattern of opacities is seen in both perihilar 
+regions and in the right upper region.  Without comparison, the 
+nature of these lesions is difficult to determine, they could be 
+the result of fibrotic or a chronic inflammatory process, but 
+could also result from chronic overhydration.   
+Moderately enlarged cardiac silhouette, slightly enlarged right 
+and left 
+hilus, potentially suggesting pulmonary hypertension. No 
+evidence of pleural effusions, no acute overhydration. Bilateral 
+apical thickening. 
+.
+___ Lower extremity doppler U/S
+Preliminary Report !! WET READ !!  
+no dvt seen in either lower extremity 
+.
+___ CTA CHEST
+Preliminary Report !! PFI !!  
+Pulmonary embolus within the right middle lobe segmental artery. 
+Bilateral pleural effusions. Extensive COPD, cardiomegaly, 
+vascular calcifications. Areas of increased opacity in the right 
+upper lobe may represent infection. Additional areas of opacity 
+in the right middle lobe may represent infarct or atelectasis. 
+
+ 
+Brief Hospital Course:
+1) EKG changes - Perioperative EKG prior to transfer to ___ 
+showed ST elevations in V3-V4 and to a lesser extent in 
+II,III,F,V5-V6. TnI was 1.9 with normal CK. She was given 
+aspirin, plavix, lovenox, and lopressor. A similar EKG was 
+obtained upon transfer to ___. Cardiac cath ___ revealed a 
+right-dominant system with a calcified 50% proximal stenosis in 
+the RCA but no angiographically apparent disease in the LMCA, 
+LAD, and LCX. TTE ___ revealed normal left atrial size with 
+an estimated right atrial pressure ___, normal left 
+ventricular wall thickness and a small left ventricular cavity, 
+normal left ventricular systolic function (LVEF 70%), 
+hypertrophied right ventricular free wall, dilated right 
+ventricular cavity with borderline normal free wall function, 
+abnormal systolic septal motion/position consistent with right 
+ventricular pressure overload, moderately thickened aortic valve 
+leaflets with a minimally increased gradient consistent with 
+minimal aortic valve stenosis, mildly thickened mitral valve 
+leaflets, left ventricular inflow pattern suggesting impaired 
+relaxation, mildly thickened tricuspid valve leaflets with 
+moderate to severe [3+] tricuspid regurgitation, and severe 
+pulmonary artery systolic hypertension. Cardiac enzymes were 
+trended with no elevation in her CK's threfore this was felt not 
+to be cardiac ischemia.
+.
+2) Pulmonary Embolus - On hospital day 2, the patient had 
+low-grade fever, tachycardia, worsening hypoxemia with resting 
+oxygen saturation in the mid 90's on 6 L NC, new T-wave 
+inversions in V3 and deeper T-wave inversions in V4. CTA of the 
+chest revealed right middle lobe segmental pulmonary emboli, 
+right middle lobe pulmonary infarct vs. atelectasis, moderate 
+bilateral pleural effusions, and volume overload. Heparin and 
+lasix infusions were started. Lower extremity doppler ultrasound 
+was negative for DVT.
+.
+3) Left femoral neck fracture - Seen in consultation by 
+orthopaedic surgery who recommended proceeding with ORIF. 
+However, based on the preference of the patient and her family, 
+she was transferred to ___ for further management.
+
+ 
+
+ 
+Medications on Admission:
+Celexa 10mg PO daily
+Omeprazole 20mg PO daily
+Senna 2 tabs daily at 4pm
+Lisinopril 5 mg PO daily
+Lidoderm 5% patch, one patch to lower back 12 hrs each day
+Calcium with Vit D 600mg PO BID
+Tylenol ___ Q4hrs PRN for pain
+Compazine 10mg PO BID PRN nausea/vomiting
+Ibuprofen prn
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours): do not exceed 4 grams in 24 hours.  
+2. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+3. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): place 
+on between 8 AM and 8 ___ then remove.  
+5. Heparin (Porcine) in NS 10 unit/mL Kit Sig: ASDIR units 
+Intravenous every six (6) hours: Diagnosis: Pulmonary Embolism
+Patient Weight: 40.824 kg
+Initial Bolus: 1000 units IVP
+Initial Infusion Rate: 750 units/hr
+Target PTT: 60 - 100 seconds
+
+PTT <40: 1600 units Bolus then Increase infusion rate by 150 
+units/hr
+PTT 40 - 59: 800 units Bolus then Increase infusion rate by 100 
+units/hr
+PTT 60 - 100*:
+PTT 101 - 120: Reduce infusion rate by 100 units/hr
+PTT >120: Hold 60 mins then Reduce infusion rate by 150 
+units/hr.  
+6. Furosemide 10 mg/mL Solution Sig: 2.5 mg Injection INFUSION 
+(continuous infusion).  
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.  
+8. Calcium Carbonate 500 mg (1,250 mg) Capsule Sig: One (1) 
+Capsule PO once a day.  
+9. Vitamin D 400 unit Tablet Sig: Two (2) Tablet PO once a day.  
+
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+1) Left femoral neck fracture 
+2) Pulmonary embolus
+3) Pleural effusions
+4) Pulmonary hypertension
+5) Tricuspid regurgitation
+6) Emphysema
+
+ 
+Discharge Condition:
+Transfer to ___.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital following a fall and left hip 
+fracture. You declined surgery at ___ and were transferred to 
+___ at your request.
+
+You were diagnosed with blood clots in the lung, also known as 
+pulmonary emboli, and were started on blood thinning medication.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,339 @@
+===== DISCHARGE NOTE =====
+note_id=18245901-DS-11 | hadm_id=28079943
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain/abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___ - Ultrasound-Guided Biopsy of Liver Mass
+ 
+History of Present Illness:
+___ ___ speaking woman with a history of diabetes 
+and hypertension who just emigrated from ___ 3 months ago 
+presents with 2 weeks of epigastric abdominal pain and 
+substernal chest pain.  
+Reports that substernal chest pain is sharp and worse with 
+palpations and with deep respirations. States that she has the 
+pain every day for about two weeks but it is worse today. Denies 
+cough, congestion, rhinorrhea, sob.  
+Epigastric pain is pressure like, has been present for years due 
+to her hx of aulcers but is worse in intensity today. Pain is 
+worse with food intake. Denies any fevers, chills, 
+nausea/vomiting, diarrhea, bloody stools, black stools, dysuria 
+or hematuria. Also reports nausea and poor po intake.  
+In the ED, initial vitals were: 98.0 94 190/100 16 97% RA  
+- Labs were significant for troponin <0.01 x2, D dimer 1037, AST 
+62, lipase 44, WBC 12.8 with 55.4% N, 35%, Hct 50.5 %  
+- CTA chest revealed no PE, but a heterogenous hypodense mass in 
+LLL worrisome for malignancy  
+- The patient was given ASA 324mg, maalox, lidocaine viscious, 
+1L bolus, nitroglycerin, and CTX  
+- patient admitted for further workup of lung mass  
+Vitals prior to transfer were: 97 87 146/78 15 94% Nasal Cannula 
+ 
+Upon arrival to the floor, patient continues to complain of 
+substernal chest pain, epigastric pain, and also suprapubic 
+pain.  
+REVIEW OF SYSTEMS:  
+(+) Per HPI  
+(-) Denies fever, chills, recent weight loss or gain. Denies 
+headache, sinus tenderness, rhinorrhea or congestion. Denies 
+cough, shortness of breath. Denies palpitations. No dysuria. 
+Denies arthralgias or myalgias.  
+ 
+Past Medical History:
+- HTN  
+- DM2  
+ 
+Social History:
+___
+Family History:
+no family history of cancer or heart disease
+ 
+Physical Exam:
+==================
+ON ADMISSION:
+==================
+Vitals: 98.1, 185/113, 91, 20, 95% RA, FSS 222  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, dry MM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+CHEST: tender to palpation at substernal area  
+Lungs: decreased lung sounds throughout, no wheezes, rales, 
+rhonchi, no accessory muscle use  
+BACK: no CVA tenderness  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+PELVIC: suprapubic tenderness  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: CNII-XII grossly intact, ___ strength upper/lower 
+extremities, grossly normal sensation  
+SKIN: no rashes  
+
+==================
+ON DISCHARGE:
+==================
+Vitals: T:98.1 P 80  BP 136/62  RR 18  O2 94% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: soft, nontender, no rebound tenderness, non-distended, 
+bowel sounds present, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+ 
+Pertinent Results:
+==================
+LABS ON ADMISSION:
+==================
+___ 12:55PM BLOOD WBC-12.8* RBC-5.67* Hgb-17.2* Hct-50.5* 
+MCV-89 MCH-30.3 MCHC-34.1 RDW-13.3 RDWSD-43.0 Plt ___
+___ 12:55PM BLOOD Neuts-55.4 ___ Monos-7.7 Eos-0.9* 
+Baso-0.5 Im ___ AbsNeut-7.09* AbsLymp-4.47* AbsMono-0.98* 
+AbsEos-0.11 AbsBaso-0.06
+___ 12:55PM BLOOD Glucose-188* UreaN-11 Creat-0.7 Na-136 
+K-7.1* Cl-101 HCO3-23 AnGap-19
+___ 12:55PM BLOOD ALT-22 AST-62* AlkPhos-73 TotBili-0.3
+___ 06:55PM BLOOD cTropnT-<0.01
+___ 12:55PM BLOOD cTropnT-<0.01
+___ 12:55PM BLOOD proBNP-557*
+
+==================
+LABS ON DISCHARGE:
+==================
+
+___ 06:43AM BLOOD WBC-9.5 RBC-5.30* Hgb-15.6 Hct-48.2* 
+MCV-91 MCH-29.4 MCHC-32.4 RDW-13.7 RDWSD-45.8 Plt ___
+___ 06:43AM BLOOD Glucose-327* UreaN-13 Creat-0.8 Na-138 
+K-4.2 Cl-101 HCO3-22 AnGap-19
+
+==================
+OTHER PERTINENT LABS:
+==================
+___ 07:57AM BLOOD %HbA1c-11.1* eAG-272*
+
+==================
+MICROBIOLOGY:
+==================
+___ Blood cx x2 - pending at time of discharge
+
+==================
+IMAGING:
+==================
+___ chest x-ray: Patchy and linear bibasilar opacities, 
+potentially atelectasis but infection or aspiration are not 
+excluded. 
+
+___ chest CT: 
+-5.6 x 4.6 x 4.3 cm heterogeneous hypodense mass in the left 
+lower lobe 
+worrisome for malignancy.  Associated mediastinal adenopathy.  
+Consider soft tissue sampling/bronchoscopy for further 
+delineation. 
+-No pulmonary embolism seen although left lower lobe 
+subsegmental branches are suboptimally assessed as they appear 
+encased by the aforementioned mass. 
+-Extremely tortuous and atherosclerotic aorta without evidence 
+of aneurysmal dilatation. 
+-Indeterminate 3.1 cm hypodensity in the left lobe of the liver 
+is partially imaged and could be further assessed with 
+ultrasound or MRI. 
+
+___ liver ultrasound: Hepatic steatosis with 2 large solid 
+liver lesions in the left and right lobes.  These are amenable 
+to ultrasound-guided biopsy. 
+
+___ CT abd/pelvis: 
+- 3.0 cm centrally necrotic lesion in segment IV B highly 
+suspicious for a hepatic metastasis. 
+- 3.6 cm well-circumscribed mass in segment III which 
+demonstrates no 
+appreciable central post contrast enhancement but does have a 
+thin rim of 
+enhancement.  This is thought to represent a centrally necrotic 
+metastasis given other findings. 
+- Limited evaluation of the lung bases demonstrates a left lower 
+lobe mass, described on recent chest CT. 
+- 3.5 left adnexal cyst which may be followed on subsequent 
+exams. 
+
+___ MR Head:
+1. No evidence of metastatic disease. 
+2. No hemorrhage, mass effect, or infarction. 
+3. Brain parenchymal volume loss and probable sequelae of 
+chronic 
+microangiopathy.
+ 
+Brief Hospital Course:
+___ ___ speaking woman with a history of diabetes 
+and hypertension who just emigrated from ___ 3 months 
+ago presents with 2 weeks of epigastric abdominal pain and 
+substernal chest pain found to have lung mass concerning for 
+malignancy.  
+
+# Lung Mass: While undergoing a workup for chest pain, the 
+patient underwent a chest CT on ___ which showed a mass in her 
+left lower lung concerning for malignancy. Furthermore, there 
+was notable narrowing of the left mainstem bronchus. She was 
+also noted to have a possible liver mass. An ultrasound of the 
+liver on ___ showed two discrete liver masses, concerning for 
+metastatic disease. Interventional pulmonolgy was consulted for 
+possible soft tissue sampling/bronchoscopy for further 
+evaluation. However, it was decided that the patient should 
+undergo a biopsy of the liver mass instead, as the procedure was 
+less invasive and it would still be high yield to diagnose a 
+lung carcinoma via markers. The patient underwent a biopsy of 
+the liver mass on ___. She tolerated the procedure well. 
+While hospitalized, the patient also underwent an 
+abdominal/pelvis CT and brain MRI to assess for any further 
+metastases. No additional concerning masses were seen, though it 
+was noted that the patient has a left ovarian cyst. Throughout 
+the hospitalization, the patient did not convey that she had a 
+clear understanding of a possible cancer diagnosis, despite 
+several attempts with a ___ interpreter and her patient 
+advocate. At the time of discharge, the results from the liver 
+biopsy were still pending.  
+
+# Chest Pain: The patient initially presented with a complaint 
+of chest pain. Due to her PMH of diabetes and being a former 
+smoker, she underwent a workup for ACS. Her EKG and negative 
+troponins were reassuring. There was no evidence of PE on her 
+CTA. The pain was reproducible with palpation and deep 
+respirations. The patient was treated for likely costochondritis 
+with tylenol. Her chest pain improved during her 
+hospitalization, and she was experiencing no chest pain at the 
+time of discharge.
+
+# epigastric pain: The patient reported that she has had 
+intermittent epigastric pain for many years, and had a history 
+of ulcers. It was reported to be worse with food intake. The 
+patient was treated with maalox and ranitidine 150mg BID. Her 
+pain was resolved at the time of discharge.   
+
+# UTI: On admission, the patient endorsed suprapubic pain, 
+increased urinary frequency, and pain with urination. A u/a was 
+suggestive of a UTI, though no culture was sent. The patient 
+completed a 3 day course of ceftriaxone. At the time of 
+discharge, she was no longer experiencing symptoms.
+
+# elevated Hct: The patient was found to have an elevated 
+hematocrit of 50.5. This improved somewhat after being given IV 
+fluids, but remained in the high ___ throughout the 
+hospitalization. The etiology was unclear. Some emphazema was 
+noted on her chest CT, but her oxygen saturation remained in the 
+high ___. On discharge her Hct was 48.2.
+
+# DM: During the hospitalization, the patient had consistently 
+high blood glucose levels. She was started on an insulin sliding 
+scale. Per the patient's family, the patient was taking 
+glimepiride while living in ___, but had run out of the 
+medication after moving to ___. On check her HbA1c 
+was 11.1%. We will defer starting new medications to the 
+outpatient setting.
+
+# HTN: It does not appear that the patient had been taking any 
+home medication for her hypertension. On admission she was 
+started on labetolol, and later switched to lisinopril 5mg, 
+which she was discharged on.
+ 
+# Incidental findings on CTA: Will defer ultrasound of thyroid 
+to outpatient setting. 
+
+=====================
+Transitional Issues:
+=====================
+- Please follow up results from biopsy of liver mass and refer 
+to appropriate Oncology provider if returns positive for 
+malignancy.
+- Consider thyroid ultrasound for further assessment of multiple 
+nodules of right lobe of the thyroid.
+- Consider outpatient cardiac stress test given chest pain and 
+multiple risk factors for coronary artery disease.
+- Please ensure follow-up with Dr. ___ in Interventional 
+___ for outpatient bronchoscopy to evaluate narrowing of 
+left main stem bronchus.
+- Please note that patient was found to have a HgA1C of 11.1, 
+and was taking glimepiride in ___ (dose unknown), but is 
+not currently on home medications for diabetes. Consider medical 
+management of diabetes.
+- The patient was started on lisinopril 5mg for hypertension. 
+This may need to be adjusted in the outpatient setting.
+- Please follow-up pending blood cultures from ___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. glimepiride Dose is Unknown  oral DAILY 
+ 
+Discharge Medications:
+1. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg take 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+2. Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg take 1 capsule(s) by mouth twice daily 
+Disp #*60 Capsule Refills:*0
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+- Costochondritis
+- Lung Mass
+- Liver Mass s/p Biopsy
+- Urinary Tract Infection
+
+Secondary Diagnoses:
+- Hypertension
+- GERD
+- Type II Diabetes
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It has been a pleasure being a member of your care team at ___ 
+___. You were admitted to the 
+hospital with chest and stomach pain. We did a CT scan to take a 
+picture of your chest, and found that you have a mass in your 
+left lung. We also saw two more masses in your liver. We did a 
+biopsy of the liver, where we took a piece of the mass to do 
+more testing. We have scheduled you an appointment with a new 
+primary care physician, who will give you the results of the 
+test and help to make a plan based on this information.
+
+We also treated you with antibiotics for a UTI. Your pain 
+improved during your stay with us. You were also having some 
+acid reflux, so we gave you a medication for that as well.
+
+It was a pleasure meeting you and your family, and we wish you 
+all the best.
+
+Thank you,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

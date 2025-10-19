@@ -1,0 +1,236 @@
+===== DISCHARGE NOTE =====
+note_id=17013186-DS-17 | hadm_id=20052539
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine Sulfate
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GI bleeding
+.
+Date/time of initial encounter:
+___ ___
+ 
+Major Surgical or Invasive Procedure:
+CT abd/pelvis
+
+ 
+History of Present Illness:
+___ female h/o ischemic colitis, Charcot ___ disease, 
+GERD who presents with rectal bleeding. This morning, she felt 
+constipated initially, then soon developed diarrhea. Now for the 
+last 24 hours she has had rectal bleeding - 12 episodes in 24 
+hours, passing just blood, no stool. Variable amounts, thinks 
+total maybe < ___ cup. Denies abd pain. Does have nausea without 
+vomiting.  Denies fevers but reports intense sweats today which 
+soaked her clothes. The patient notes that her symptoms are 
+similar to what she experienced when she had ischemic colitis in 
+___. She reports fatigue over the last weak and poor PO intake 
+secondary to this fatigue. 
+.
+___ colonoscopy: Segmental continuous congestion and 
+friability with contact bleeding were noted in the descending 
+colon. These findings are compatible with ischemic colitis. 
+.
+ROS:
+-Constitutional: []WNL []Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors [X]Nightweats []Anorexia
+-Eyes: [X]WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia
+-ENT: [X]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat
+-Cardiac: [X]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE
+-Respiratory: []WNL []SOB []Pleuritic pain []Hemoptysis []Cough
+-Gastrointestinal: []WNL [X]Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling [X]Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena
+-Heme/Lymph: [X]WNL []Bleeding []Bruising []Lymphadenopathy
+-GU: [X]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]DIscharge []Menorrhagia
+-Skin: [X]WNL []Rash []Pruritus
+-Endocrine: [X]WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance
+-Musculoskeletal: [X]WNL []Myalgias []Arthralgias []Back pain
+ 
+Past Medical History:
+1. Charcot ___ disease  
+2. Hypertension  
+3. Depression  
+4. Degenerative joint dis L knee, s/p knee replacement  
+5. GERD  
+6. Gallbladder sludge (dx ___  
+7. Pancreas divisum  
+8. Possible TIA, ___, on Aggrenox  
+9. Osteoporosis  
+10. Heart murmur, per patient takes abx for procedures.  
+
+ 
+Social History:
+___
+Family History:
+No known FHx of colon ca, IBD. Mother d. of "alcoholism" at ___, 
+also had ___ did not know father. Sister alive 
+and well at ___. Daughter, maternal aunt and cousin all have CMT. 
+
+ 
+Physical Exam:
+Physical Exam:
+Appearance: NAD
+Vitals: T: 98.1 BP: 130/61 HR: 64 RR: 20 O2: 94 % RA 
+Eyes: EOMI, PERRL, conjunctiva clear, noninjected, anicteric, no 
+exudate
+ENT: Moist
+Neck: No JVD, no LAD, no thyromegaly, no carotid bruits
+Cardiovascular: RRR, nl S1/S2, ___ SEM
+Respiratory: CTA bilaterally, comfortable, no wheezing, no 
+ronchi, no rales
+Gastrointestinal: soft, non-tender, non-distended, no 
+hepatosplenomegaly, normal bowel sounds
+Musculoskeletal/Extremities: no clubbing, no cyanosis, no joint 
+swelling, no edema in the bilateral extremities, bilateral 
+braces on legs, right wrist in hard cast.
+Neurological: Alert and oriented x3, fluent speech, no pronator 
+drift, no asterixis, sensation WNL, CNII-XII intact
+Integument: warm, no rash, no ulcer
+Psychiatric: appropriate, pleasant
+Hematological/Lymphatic: No cervical, supraclavicular, axillary, 
+or inguinal lymphadenopathy
+
+ 
+Pertinent Results:
+___ 06:15PM   WBC-15.8*# RBC-4.10* HGB-12.7 HCT-36.5 MCV-89 
+MCH-31.0 MCHC-34.9 RDW-13.0
+___ 06:15PM   NEUTS-82.6* LYMPHS-13.7* MONOS-2.5 EOS-0.8 
+BASOS-0.4
+___ 06:15PM   PLT COUNT-407
+___ 06:15PM   ___ PTT-23.8 ___
+___ 06:15PM   GLUCOSE-95 UREA N-14 CREAT-0.5 SODIUM-136 
+POTASSIUM-3.6 CHLORIDE-97 TOTAL CO2-25 ANION GAP-18
+___ 09:40PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:40PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-TR
+___ 09:40PM URINE  ___ BACTERIA-OCC YEAST-NONE 
+___ 12:10AM   REPEAT HCT-31.8*
+.
+CT ABDOMEN/PELVIS W/CONTRAST:
+wall thickening noted along splenic flexure with minimal if any 
+surrounding stranding -- non- specific finding, with 
+considerations including ischemic vs infectious. also, 
+chronicity of findings indeterminate, as no prior imaging of 
+bowel available for comparison. while study not targeted to 
+vessels, contrast opacifies the SMA and SMV. no free air/fluid, 
+nor pneumatosis.
+ 
+Brief Hospital Course:
+___ yo F w PMHx of HTN, GERD, Pancreas divisum, Charcot ___ 
+tooth disease, Ischemic colitis in ___ presents with 1 day hx 
+of Hematochezia
+
+# Hematochezia:  ? Ischemic vs infectious colitis.  Pt has hx of 
+ischemic colitis in ___ in setting of dehydration from 
+diarrheal illness which was medically managed. Pt's hx of 
+ischemic colitis and current CT findings showing thickening at 
+splenic flexure make ischemic colitis more likely. However, 
+since pt has had recent abx use and stool studies were sent and 
+were neg for Cdiff X1 at time of DC. Pt not having diarrhea and 
+unable to provide more samples before dc
+- Surgery evaluated pt in ED and recommended conservative 
+management. The day of discharge, surgery team was contacted and 
+were okay with dc
+- HCT remained stable throughout hospital stay without needing 
+transfusion. 
+- Pt was initially placed on bowel rest and diet slowly advanced 
+to regular which she tolerated well without any abdominal pain. 
+At ___ pt was having brown stool w minimal to no blood in stool
+- Pt's aggrenox was held during hospital stay and pt was asked 
+to not take it until clinic visit w PCP set up for ___
+- Pt initially started on cipro/flagyl given recent abx use and 
+concern over infectious colitis. However, given that pt has no 
+abd pain, no fevers, or elevated white count and no diarrhea, 
+suspicioun very low for infectious etiology and cipro/flagyl 
+were stopped
+.
+# Hypertension:  pt was continued on HCTZ, lisinopril, and 
+verapamil
+,
+# h/o possible TIAs: Aggrenox held during hospital stay, pt 
+asked to hold it until seen by PCP.
+.
+# Hyperlipidemia:  Continued on statin
+.
+# Depression: On fluoxetine
+
+ 
+Medications on Admission:
+-DIPYRIDAMOLE-ASPIRIN [AGGRENOX] - 25 mg-200 mg Cap, Multiphasic 
+Release 12 hr - 1 Cap(s) by mouth bid for platlet
+-ENDOCET - ___ Tablet - ONE BY MOUTH TWICE A DAY AS NEEDED 
+FOR PAIN
+-FLUOXETINE - 40 mg Capsule - 1 Capsule(s) by mouth once a day
+-HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet(s) by mouth once 
+a day
+-HYDROXYZINE HCL - 25 mg Tablet - one Tablet(s) by mouth twice 
+___ prn
+-LISINOPRIL - 10 mg Tablet - one Tablet(s) by mouth daily
+-PANTOPRAZOLE [PROTONIX] - 40 mg Tablet, Delayed Release (E.C.) 
+-one Tablet(s) by mouth twice a day
+-ROSUVASTATIN [CRESTOR] - 5 mg Tablet - one Tablet(s) by mouth 
+daily
+-VERAPAMIL - 240 mg Cap,24 hr Sust Release Pellets - 1 Cap(s) by 
+mouth once a day
+ 
+Discharge Medications:
+1. Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+3. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Verapamil 240 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).  
+5. Rosuvastatin 5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+7. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) 
+Spray Nasal DAILY (Daily).
+Disp:*1 bottle* Refills:*2*
+8. Endocet ___ mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ischemic colitis
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for having blood in stool. You 
+underwent a CT scan of your abdomen which showed colitis. This 
+is likely ischemic colitis which you have had before and it is 
+likely from poor blood supply to parts of your colon. You were 
+hydrated and you improved. We do not think this colitis is from 
+an infection. You need to not take aggrenox until your are seen 
+by your PCP, ___ in clinic. Please drink plenty of 
+fluids and keep yourself hydrated
+Please return to ED for abdominal pain, sigificant amount of 
+blood in stool or black stools, fevers, chills, diarrhea
+ 
+Followup Instructions:
+___

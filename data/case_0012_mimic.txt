@@ -1,0 +1,1952 @@
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-12 | hadm_id=20023225
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+feeling unwell
+ 
+Major Surgical or Invasive Procedure:
+Central line placement 
+PICC line placement
+
+ 
+History of Present Illness:
+___ gentleman with systolic CHF (LVEF 25%),Afib (not on 
+anticoagulation) presented to the ED due to generally feeling 
+unwell x 2 days, described as having some diarrhea ___ night 
+and dizziness this morning upon wakening. He has a mild cough 
+and assoc. shortness of breath, satting at 93% on RA. Pt denies 
+fevers, urinary symptoms, or abdominal pain. He does endorse 
+some nausea and chills, and had an episode of loose watery 
+stools yesterday. He has chronic BLE edema and weeping with some 
+pain in left leg skin. His daughter has noticed that he has been 
+coughing while drinking liquids over the past few weeks.
+.
+Of note, the patient was recently admitted from ___ 
+for dizziness and diarrhea likely from gastroenteritis resulting 
+in tachycardia and hypotension. His Torsemide was held 
+initially, he received IVF, and on dc he was restarted on 
+Torsemide at 20mg. His torsemide was increased to 30 mg ___ 
+at his cardiology appointment for increased BLE edema (L>R). 
+Pt's daughter states that after the increase in his Torsemide 
+dose, he may have gone 3 days w/o K repletion.
+.
+In the ER, initial vitals are 98.4 77 128/74 24 98% 4L Nasal 
+Cannula. He subsequently developed fever to 103.8 and 
+hypotension to 82/36. CXR shows a dense retrocardiac opacity 
+concerning for PNA. Trop: 0.06, WBC:8 with 89.9% PMNs and no 
+bands. He received 2L IVF, Levofloxacin 750mg, Vanc 1000mg, and 
+was started on a Norepinephrine drip. EKG showed Right bundle 
+branch block, atrial fibrillation. Labs notable for lactate 4.4 
+-> 2.7 after 2L fluid. UA showed negative nitrites, negative 
+leukocytes, 20 wbcs. Blood cultures were sent. He was 
+transferred to the ICU for treatment of septic shock.
+.
+On arrival to the MICU, patient complained only of lower 
+extremity edema and fatigue. His vitals on transfer: T:98.5  
+RR:19  BP:97/45  SpO2:94%. He continued to require pressors on 
+floor
+ 
+Past Medical History:
+1. Thrombocytopenia. Baseline is in 50,000s x many years.
+2. Depression.
+3. Essential tremor.
+4. Diarrhea.
+5. Prostate cancer s/p radiation treatment.
+6. Hypertension.
+7. Benign prostatic hypertrophy.
+8. Ankle edema.
+9. Memory disorder.
+10. OSA on CPAP
+11. Bullous pemphigoid
+12. Chronic systolic cardiomyopathy EF 25%
+13. Atrial fibrillation not on anticoagulation 
+ 
+Social History:
+___
+Family History:
+Father and Mother died in ___
+Brother with macular degeneration
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+Weight baseline 162-164 lbs (per ___ note)
+Vitals: T:98.5  BP:136/64  P:96  R:26  O2:100  
+General: Awake and alert, interactive with exam, in no acute 
+distress
+HEENT: Dry mucous membranes
+CV: irregularly irregular rhythm, normal S1 S2, no murmurs
+Lungs: Bronchial breath sounds at left base with crackles and 
+egophony, no wheezes
+Abdomen: Soft, normoactive bowel sounds, nontender, 
+nondistended, no rebound or guarding
+GU: Foley in place
+Ext:  Feet cool, no cyanosis, 3+ pitting edema of BLE with skin 
+breakdown, warmth, and weeping of RLE. Peripheral pulses 2+ at 
+radials and doppler at feet
+Neuro: alert and interactive. EOMI, PERRLA, oriented to person. 
+Difficulty hearing bilaterally. Face and palate elevation 
+symmetric. Moving all extremities. 
+.
+.
+Discharge Day Exam:
+VS: 98.1, 142/80, 70, 18, 98% on RA
+Pain: ___
+Weight: 166 pounds
+Gen: NAD, comfortable
+Neck: elevated JVP
+CV: irreg irreg, no murmurs
+Lungs: CTAB/L
+Abd: soft, NT, ND, NABS
+Ext: warm, 3+ b/l pitting edema
+Neuro: AAOx3, fluent speech
+.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:01PM   LACTATE-1.1
+___ 11:55AM   ___ COMMENTS-GREEN TOP
+___ 11:55AM   LACTATE-2.7*
+___ 08:00AM   ___ COMMENTS-GREEN TOP
+___ 08:00AM   LACTATE-4.4*
+___ 07:55AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 07:55AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 07:55AM URINE  RBC-43* WBC-20* BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 07:55AM URINE  HYALINE-5*
+___ 07:55AM URINE  MUCOUS-RARE
+___ 07:30AM   GLUCOSE-150* UREA N-41* CREAT-1.6* SODIUM-145 
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-31 ANION GAP-15
+___ 07:30AM   cTropnT-0.06*
+___ 07:30AM   proBNP-2912*
+___ 07:30AM   CALCIUM-8.2* PHOSPHATE-2.6* MAGNESIUM-1.9
+___ 07:30AM   WBC-8.0 RBC-3.41* HGB-11.9* HCT-35.9* 
+MCV-105* MCH-35.1* MCHC-33.3 RDW-15.1
+___ 07:30AM   NEUTS-89.9* LYMPHS-7.7* MONOS-1.9* EOS-0.2 
+BASOS-0.2
+___ 07:30AM   PLT COUNT-98*
+___ 07:30AM   ___ PTT-26.6 ___
+.
+IMAGING:
+CXR ___ 
+Dense retrocardiac opacity likely represents a combination of 
+pleural effusion and lung consolidation due to atelectasis 
+versus pneumonia. 
+.
+___ Left leg ___
+IMPRESSION: No evidence of deep vein thrombosis in the left 
+lower extremity. 
+.
+CXR ___
+FINDINGS:  Frontal radiograph of the chest shows unchanged right 
+internal jugular and left PICC lines.  The right internal 
+jugular central venous catheter persists in the high right 
+atrium.  Compared to prior radiograph, the cardiac silhouette is 
+unchanged.  There is no evidence of pulmonary vascular 
+congestion or pleural effusions.  The opacity that was seen at 
+the left base has improved in the interim and was likely 
+atelectasis.  There is no acute consolidation. 
+IMPRESSION: 
+1.  Right internal jugular catheter persists in the high right 
+atrium. 
+2.  Unchanged cardiac silhouette with no evidence of pulmonary 
+edema.  No 
+pleural effusions. 
+.
+Discharge Labs:
+___ 06:00AM BLOOD WBC-9.0# RBC-3.03* Hgb-10.6* Hct-33.3* 
+MCV-110* MCH-34.9* MCHC-31.9 RDW-15.0 Plt Ct-86*
+___ 05:41AM BLOOD Glucose-153* UreaN-54* Creat-1.5* Na-142 
+K-4.2 Cl-101 HCO3-33* AnGap-12
+___ 05:41AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.3
+___ 06:00AM BLOOD VitB12-1241* Folate-GREATER TH
+.
+.
+MICROBIOLOGY:
+___ Blood culture x 2 sets - No growth
+___ Blood culture x 1 set - No growth
+___ Urine culture - No growth
+___ Urine Legionella Ag - NEGATIVE
+___ MRSA Screen - NEGATIVE for MRSA
+.
+ 
+Brief Hospital Course:
+The patient is a ___ male with systolic CHF (LVEF 25%),Afib (not 
+on anticoagulation) with malaise found to have pneumonia and 
+septic shock requiring vasopressor with hospital course 
+complicated by decompensated heart failure
+. 
+# SEPSIS/PNEUMONIA:  
+Mr. ___ met sepsis criteria with T:103.8, RR:25 with concern 
+for pneumonia on x-ray. He required pressor support for 
+hypotension. He was treated broadly with vancomycin, zosyn, and 
+levofloxacin initially. His fever curve, leukocytosis, 
+hemodynamic and respiratory status improved.  Antibiotic therapy 
+was de-escalated to levofloxacin only and he completed an 8 day 
+course of levofloxacin.  His steroids were stress dosed for 3 
+days. He had a history of cough with drinking liquids, but 
+passed his speech and swallow evaluation.  All blood and urine 
+cultures with no growth.  Urine Legionella Ag was NEGATIVE.  
+.
+#ACUTE on CHRONIC SYSTOLIC CHF:  
+He has a history of systolic CHF with most recent echo ___ 
+shows severely depressed left ventricular systolic function 
+(LVEF = 25 %) secondary to severe global hypokinesis with 
+posterior wall akinesis. He has DOE at baseline as well as 
+severe BLE pitting edema. He developed worsening dyspnea in the 
+ICU after fluid resuscitation and required diuresis with IV 
+lasix.  He was then transitioned back to PO diuretics with 
+Torsemide.  His home dose is 30mg po daily, but this was 
+increased to 40mg po daily, and he should continue on this 
+regimen till f/u with his Cardiologist.  His ACE-I was held in 
+the setting of sepsis, but should be re-started on discharge.  
+On day of discharge, his weight is 167 pounds with baseline 
+weight at 162 pounds.  
+. 
+#ATRIAL FIBRILLATION:  
+He has a history of atrial fibrillation.  He was in atrial 
+fibrillation during hospitalization. He was continued on 
+metoprolol and digoxin for rate control. He has a CHADS2 score=3 
+(CHF, HTN, and age). He is followed by cardiology and was 
+continued on aspirin for thromboembolic prophylaxis. 
+.
+#ANEMIA/THROMBOCYTOPENIA:  
+He has chronic macrocytic anemia and thrombocytopenia. 
+.
+#CKD :
+He has chronic kidney disease with elevated Cr in the range of 
+1.5 - 1.7.  His Cr remained in that general range during this 
+admission and he maintained good urine output.  
+.
+#H/O BULLOUS PEMPHIGOID:  
+At home he takes PredniSONE 17.5 mg PO daily. Stress dosed 
+steriods at 60 mg PO daily x 3 days then returned to home dose. 
+. 
+#OSA:  
+Wears CPAP at home while sleeping. This was continued during the 
+hospitalization.
+.
+#DEPRESSION: 
+Has experienced depression since his wife died last year. 
+Continued Mirtazapine.
+.  
+#BPH/PROSTATE CA:  
+Terazosin was held while hypotensive but subsequently restarted.
+. 
+# Communication: Patient and Daughter ___ ___  
+# Code: DNR but may intubate in emergency  
+.
+.
+.
+TRANSITIONAL ISSUES:
+1.  Will need continued diuresis with Torsemide as he is above 
+his dry weight and has pitting edema in the b/l lower 
+extremities.  
+2.  Please check daily weights to guide diuresis
+3.  Frequent Chem-10 checks to monitor diuresis.  Recommend next 
+Chem-10 check on ___.  
+3.  PENDING STUDIES AT TIME OF DISCHARGE: NONE
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Digoxin 0.0625 mg PO QAM 
+3. Lisinopril 2.5 mg PO DAILY 
+4. Metoprolol Succinate XL 75 mg PO QAM 
+5. Metoprolol Succinate XL 50 mg PO HS 
+6. Mirtazapine 22.5 mg PO HS 
+7. Omeprazole 20 mg PO DAILY 
+8. Potassium Chloride 20 mEq PO DAILY 
+9. PredniSONE 17.5 mg PO QAM 
+10. Terazosin 5 mg PO HS 
+11. Torsemide 30 mg PO DAILY 
+12. Torsemide 10 mg PO ONCE:PRN weight gain 
+13. Vitamin D 1000 UNIT PO DAILY 
+14. Miconazole 2% Cream 1 Appl TP BID:PRN jock itch 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Digoxin 0.0625 mg PO QAM 
+3. Miconazole 2% Cream 1 Appl TP BID:PRN jock itch 
+4. Mirtazapine 22.5 mg PO HS 
+5. Omeprazole 20 mg PO DAILY 
+6. PredniSONE 17.5 mg PO QAM 
+7. Terazosin 5 mg PO HS 
+8. Vitamin D 1000 UNIT PO DAILY 
+9. Heparin 5000 UNIT SC BID 
+10. Lisinopril 2.5 mg PO DAILY 
+11. Metoprolol Succinate XL 75 mg PO QAM 
+12. Metoprolol Succinate XL 50 mg PO HS 
+13. Potassium Chloride 20 mEq PO DAILY 
+Hold for K > 4.5 
+14. Torsemide 40 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+sepsis (septic shock) due to likely bacterial pneumonia
+acute on chronic systolic heart failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for infection due to 
+pneumonia.  You were severely ill initially, requiring admission 
+to the ICU.  You were treated with a course of antibiotics for 
+pneumonia.  You continue to have lots of fluid in your legs, due 
+to your heart failure, and we are removing the fluid with "water 
+pills," your home medication of torsemide (Demadex), but the 
+dose has been increased.  Because you are weaker than you are 
+usually, the physical therapists recommend ___ rehab 
+before return to home.
+.
+Please take your medications as listed.
+.
+Please follow-up with your physicians as listed.
+.
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-11 | hadm_id=22939452
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+diarrhea, dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Patient is a pleasant ___ yr old male with multiple comorbidities 
+including systolic CHF (LVEF 25%), bullous pemphigoid and Afib 
+(not on anticoagulation) presents with dizziness and diarrhea. 
+According to the patient's daughter he was well until 1 day ago 
+when he developed crampy abdominal pain and dizziness. Symptoms 
+were later associated with the passage of loose watery stools. 
+Patient had approximately 4 episodes. No history of mucous or 
+blood in the stools. Patient denied any prior fever, chills, 
+dysuria, cough, vomiting. Due to dizziness and overall weakness 
+patient was taken to PCP's office where he was found to be 
+severely tachycardic and hypotensive. Patient was referred to 
+the ED for evaluation.
+In the ED, initial vs were: 97.8 132 127/69 18 100% sat. Labs 
+were remarkable for lactate of 2.2. Patient was given 50 mg 
+metoprolol and 1 L NS.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias. Ten 
+point review of systems is otherwise negative. 
+ 
+Past Medical History:
+1. Thrombocytopenia. Baseline is in 50,000s x many years.
+2. Depression.
+3. Essential tremor.
+4. Diarrhea.
+5. Prostate cancer s/p radiation treatment.
+6. Hypertension.
+7. Benign prostatic hypertrophy.
+8. Ankle edema.
+9. Memory disorder.
+10. OSA on CPAP
+11. Bullous pemphigoid
+12. Chronic systolic cardiomyopathy EF 25%
+13. Atrial fibrillation not on anticoagulation 
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T:97.6 BP:133/93 P:63 R:18 O2:98% RA
+General: NAD, alert and oriented, pleasant
+HEENT: NCAT, moist mucus membranes, normal oro/nasopharynx
+Neck: Soft, supple
+Respiratory: CTAB, no wheezing/rhonchi/rales
+Cardiac: RRR, no murmurs/gallops/rubs
+GI: Non-tender, non-distended, obese, +BS, soft
+MSK: Strength and sensation grossly intact, no 
+cyanosis/ecchymosis, trace-1+ periankle edema
+Neuro: AAOx3, able to recount events from overnight, attentive 
+and organized thought process, did not ask days of week 
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: afebrile, vss Wt 75.1 kg
+General: NAD, alert and oriented, pleasant
+HEENT: NCAT, moist mucus membranes, normal oro/nasopharynx
+Neck: Soft, supple
+Respiratory: CTAB, no wheezing/rhonchi/rales
+Cardiac: RRR, no murmurs/gallops/rubs
+GI: Non-tender, non-distended, +BS, soft
+MSK: Strength and sensation grossly intact, no 
+cyanosis/ecchymosis, 1+ periankle edema
+Neuro: AAOx3
+ 
+Pertinent Results:
+ADMISSION:
+
+___ 02:15PM BLOOD WBC-8.1 RBC-4.23* Hgb-14.2 Hct-43.6 
+MCV-103* MCH-33.5* MCHC-32.5 RDW-15.4 Plt ___
+___ 02:15PM BLOOD Neuts-77.4* Lymphs-16.3* Monos-5.4 
+Eos-0.4 Baso-0.5
+___ 02:15PM BLOOD ___ PTT-30.4 ___
+___ 02:15PM BLOOD Glucose-158* UreaN-44* Creat-1.7* Na-144 
+K-3.8 Cl-102 HCO3-35* AnGap-11
+___ 02:15PM BLOOD ALT-92* AST-40 AlkPhos-58 TotBili-0.7
+___ 02:15PM BLOOD Albumin-3.5 Calcium-8.8 Phos-3.4 Mg-2.2
+___ 02:15PM BLOOD Digoxin-0.5*
+___ 02:39PM BLOOD Lactate-2.2*
+___ 02:15PM BLOOD Lipase-48
+
+EKG:
+Supraventricular tachycardia. Atrial activity is difficult to 
+discern but may be atrial tachycardia with 2:1 A-V conduction 
+and occasional ventricular ectopy as compared to the previous 
+tracing of ___. Clinical correlation is suggested. 
+
+CXR:
+IMPRESSION: Improved small bilateral pleural effusions, left 
+worse than right. No evidence of pneumonia. 
+
+HOSPITALIZATION:
+___ 08:10AM BLOOD WBC-6.2 RBC-3.92* Hgb-13.0* Hct-40.3 
+MCV-103* MCH-33.2* MCHC-32.3 RDW-15.4 Plt Ct-89*
+___ 08:15AM BLOOD WBC-7.7 RBC-3.69* Hgb-12.5* Hct-37.5* 
+MCV-102* MCH-33.7* MCHC-33.3 RDW-15.4 Plt Ct-85*
+___ 08:15AM BLOOD ___ PTT-31.2 ___
+___ 08:10AM BLOOD Glucose-97 UreaN-35* Creat-1.4* Na-146* 
+K-4.1 Cl-108 HCO3-34* AnGap-8
+___ 08:15AM BLOOD Glucose-127* UreaN-38* Creat-1.4* Na-143 
+K-3.9 Cl-107 HCO3-30 AnGap-10
+___ 08:10AM BLOOD Calcium-8.3* Phos-2.7 Mg-2.2
+___ 08:15AM BLOOD Calcium-8.4 Phos-2.8 Mg-2.2
+___ 08:15AM BLOOD Digoxin-0.6*
+___ 11:51AM BLOOD Lactate-2.2*
+___ 08:34AM BLOOD Lactate-1.7
+
+DISCHARGE:
+___ 08:15AM BLOOD WBC-7.2 RBC-3.57* Hgb-12.3* Hct-35.9* 
+MCV-101* MCH-34.4* MCHC-34.1 RDW-14.7 Plt Ct-86*
+___ 08:15AM BLOOD ___ PTT-31.3 ___
+___ 08:15AM BLOOD Glucose-142* UreaN-38* Creat-1.5* Na-143 
+K-3.8 Cl-107 HCO3-27 AnGap-13
+___ 08:15AM BLOOD Calcium-8.3* Phos-2.6* Mg-2.___ y/o M with multiple medical comorbidities including systolic 
+CHF, bullous pemphigoid on prednisone, Afib (not anticoagulated) 
+presents with dizziness and diarrhea
+
+# Dizziness, Diarrhea, Hypovolemia: 
+Pt's symptoms were most likely related to viral gastroenteritis 
+although mesenteric ischemia was also possible given patient's 
+history of Afib. Pt's diarrhea resolved after admission.  His 
+orthostatics were positive initially.  He received gentle IV 
+fluid hydration and his diuretics were held.  His orthostatics 
+were negative prior to discharge.  His torsemide was restarted 
+at a low dose (10 mg PO daily) prior to discharge and was 
+monitored for a day on this dose. He was advised to monitor his 
+weight closely (75.1 kg on discharge) and increase his torsemide 
+to 20 mg daily and call his cardiologist if his weight increases 
+by more than 2 lbs. He will follow-up with his cardiologist on 
+___.
+
+#Afib with RVR: 
+Pt's afib was likely exacerbated by hypovolemia. He received 
+gentle IV fluid hydration and his metoprolol and digoxin were 
+continued.  
+
+#CHF:
+Pt was continued on metoprolol, digoxin, and aspirin. He 
+received gentle IV fluid hydration to avoid pulmonary edema.
+
+# Bullous pemphigoid:
+Pt was continued on daily prednisone (20 mg) to avoid worsening 
+hypotension secondary to acute adrenal insufficiency.
+
+# Delirium: 
+Patient was at risk for delirium given age, hospitalization, 
+hypovolemia, chronic steroid use. His delirium risk was 
+minimized with the following:
+- Daily reorientation
+- Promote sleep wake cycle by minimizing night time vitals.
+- Encourage family visits with daughter ___ who is actively 
+involved in patient's care.
+- ___ associated disability: OOB to chair.
+- Continue vitamin D
+- ___ for gait stability.
+
+# CODE:DNR/DNI
+# CONTACT: Daughter ___ ___ 
+
+TRANSITIONAL ISSUES:
+[ ] Follow-up daily weights, increase torsemide to 20 mg daily 
+if weight increases by more than 2 lbs (from discharge weight of 
+165 lbs or 75.1 kg)
+[ ] Ensure resolution of diarrhea
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Digoxin 0.0625 mg PO QAM 
+2. Lisinopril 2.5 mg PO NOON 
+3. Metoprolol Succinate XL 50 mg PO BID 
+4. Mirtazapine 15 mg PO HS 
+5. Omeprazole 20 mg PO QAM 
+6. PredniSONE 22.5 mg PO QAM 
+7. Terazosin 5 mg PO HS 
+8. Torsemide 20 mg PO DAYS (___) 
+9. Torsemide 30 mg PO DAYS (___) 
+10. Aspirin 81 mg PO QAM 
+11. Vitamin D 1000 UNIT PO QAM 
+12. Miconazole 2% Cream 1 Appl TP BID 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO QAM 
+2. Digoxin 0.0625 mg PO QAM 
+3. Lisinopril 2.5 mg PO NOON 
+4. Metoprolol Succinate XL 50 mg PO BID 
+5. Miconazole 2% Cream 1 Appl TP BID 
+6. Mirtazapine 15 mg PO HS 
+7. Omeprazole 20 mg PO QAM 
+8. PredniSONE 20 mg PO QAM 
+9. Terazosin 5 mg PO HS 
+10. Torsemide 10 mg PO DAILY 
+RX *torsemide 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+11. Vitamin D 1000 UNIT PO QAM 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+-diarrhea and dizziness
+-congestive heart failure
+-atrial fibrillation
+
+Chronic:
+-bullous pemphigoid
+-obstructive sleep apnea
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Mental Status: Clear and coherent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure meeting you at ___.  You were admitted with 
+dizziness and diarrhea.  Your diuretics were initially held to 
+avoid further dehydration.  You received gentle IV fluid 
+hydration.  You should follow-up with your cardiologist and your 
+primary care physician.  Please call if you have any questions.
+
+Weigh yourself every morning, please increase your dose of 
+torsemide to 20 mg daily (two 10 mg tablets) and call your 
+cardiologist if your weight goes up more than 2 lbs (from your 
+discharge weight of 165 lbs).
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-9 | hadm_id=26502105
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Afib with RVR
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ hx HTN, longstanding thrombocytopenia, BPH presents from 
+primary care doctor's office with Afib with rapid ventricular 
+response with rate to 140s. Has had mild lightheadednes x 
+several weeks with some global weakness with daily activities. 
+At baseline able to ambulate with cane and is still able to to 
+but with a sensation of weakness. Denies chest pain or shortness 
+of breath. Pt without history of tachyarrhythmia.  
+Patient has endorsed non bloody diarrhea for the past 2 weeks, 
+constant, up to 5 times a day, watery, no blood, nausea or 
+vomiting. Denies fevers/chills. Patient has recently moved here 
+from ___ after his wife expired and has had decreased PO 
+intake after that thought to be from depression. Has lost 
+significant weight since then. Most recent baseline is about 142 
+pounds.  
+In the ED, initial vital signs were 98.2 72 133/66 20 99% RA. 
+Labs notable for Cr 1.5 (baseline unknown) and platelets 107. UA 
+negative.  
+Patient was given 10mg IV Diltiazem. Also recieved 2L NS.  
+ 
+Past Medical History:
+1. Thrombocytopenia. Per outpatient ___ note baseline is in 
+50,000s x many years.  
+2. Depression.  
+3. Essential tremor.  
+4. Diarrhea.  
+5. Prostate cancer s/p radiation treatment.  
+6. Hypertension.  
+7. Benign prostatic hypertrophy.  
+8. Ankle edema.  
+9. Memory disorder.  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION
+Vitals- 98.2 160/90 85 18 99RA  
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Irregular rate, no appreciable murmurs  
+Abdomen- soft, non-tender, minimal tenderness throughout, 
+normoactive bowel sounds, no rebound tenderness or guarding, no 
+organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal  
+
+DISCHARGE
+Vitals- 97.9 118/73 65 18 98RA  
+Tele: ___ overnight, 110s with activity. Afib.  
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Irregular rate, no appreciable murmurs  
+Abdomen- soft, non-tender, minimal tenderness throughout, 
+normoactive bowel sounds, no rebound tenderness or guarding, no 
+organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro- CNs2-12 intact, motor function grossly normal  
+
+ 
+Pertinent Results:
+ADMISSION
+___ 12:18PM BLOOD WBC-5.6 RBC-4.16* Hgb-14.1 Hct-43.0 
+MCV-103* MCH-33.8* MCHC-32.7 RDW-13.3 Plt ___
+___ 12:18PM BLOOD ___ PTT-40.1* ___
+___ 12:18PM BLOOD Glucose-113* UreaN-27* Creat-1.5* Na-138 
+K-4.1 Cl-105 HCO3-23 AnGap-14
+
+TROPONINS
+___ 12:18PM BLOOD cTropnT-0.03*
+___ 12:55AM BLOOD CK-MB-3 cTropnT-0.02*
+___ 01:00PM BLOOD CK-MB-4 cTropnT-0.02*
+
+IMAGING
+ECHO ___: The left atrium is elongated. No atrial septal 
+defect is seen by 2D or color Doppler. The estimated right 
+atrial pressure is ___ mmHg. Left ventricular wall thicknesses 
+and cavity size are normal. There is mild regional left 
+ventricular systolic dysfunction with hypokinesis of the basal 
+to mid anterolateral walls). The remaining segments contract 
+normally (LVEF = 50-55%). The right ventricular free wall is 
+hypertrophied with normal chamber size and free wall 
+contractility. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. Mild (1+) aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Mild (1+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. The estimated 
+pulmonary artery systolic pressure is normal. There is a 
+trivial/physiologic pericardial effusion. 
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction 
+c/w CAD (Diagonal branch distribution) with normal cavity size 
+and wall thicknesses. Right ventricular hypertrophy with normal 
+cavity size and free wall contractility. Mild aortic 
+regurgitation, mild mitral regurgitation, and mild tricuspid 
+regurgitation.  
+
+DISCHARGE
+___ 01:00PM BLOOD WBC-4.8 RBC-4.08* Hgb-13.8* Hct-42.2 
+MCV-103* MCH-33.8* MCHC-32.8 RDW-13.3 Plt ___
+___ 01:00PM BLOOD Glucose-140* UreaN-27* Creat-1.3* Na-137 
+K-4.1 Cl-106 HCO3-22 AnGap-13
+___ 01:00PM BLOOD Calcium-8.1* Phos-3.0 Mg-2.___RIEF HOSPITAL ___ AND ACTIVE ISSUE (AFIB w RVR)
+___ hx HTN, longstanding thrombocytopenia, BPH presents from 
+primary care doctor's office with Afib with rapid ventricular 
+response with rate to 140s. Was given IV metoprolol in ED then 
+started on 12.5 mg TID with good rate control. With CHADS2 score 
+of 2 and discussion with family about risks of bleeding we 
+decided it was not a good idea to start coumadin. ASA 81 was 
+started in stead. His blood pressures were normotensive with the 
+metoprolol so his lisinopril was held at d/c. Also, we held his 
+lasix at d/c as he does not have clinical CHF based on 
+echocardiogram done while in house. 
+
+OTHER ACTIVE ISSUES  
+# DIARRHEA: Likely secondary to viral illness, but this has been 
+ongoing for 2 weeks. Was screened in ED for norovirus. 
+Electrolytes are currently stable. No recent antibiotic usage 
+and no leukocytosis currently.  
+
+# HYPOTHYROIDISM: Found to have elevated TSH incidentally during 
+workup for Afib. Possibly also contributory to depression. We 
+were reluctant to start thyroid replacement in-house due to Afib 
+and diarrhea.  
+
+# Ankle Edema: Has had this for some time and currently does not 
+appear more swollen than at baseline. Patient currently appears 
+euvolemic. Unclear if this is venous insufficiency or sequela of 
+heart failure which would be more likely diastolic.  
+
+INACTIVE ISSUES
+# HTN: Pressures controlled currently controlled. Lisinopril 
+held initially for possibly elevated creatinine, and no 
+restarted on discharge since pressures under good contol with 
+metoprolol.  
+
+# Essential Tremor: Stable. Patient reports weight loss 
+requiring loosening of his belt per PCP, which is possibly a 
+side effect of his topamax.  
+# Depression: Secondary to death of wife in ___. Continued 
+paroxetine  
+# BPH: continued home terazosin  
+
+TRANSITIONAL ISSUES
+# Consider starting thyroid replacement as outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Terazosin 10 mg PO HS 
+4. Topiramate (Topamax) 25 mg PO DAILY 
+5. Paroxetine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Paroxetine 10 mg PO DAILY 
+2. Terazosin 10 mg PO HS 
+3. Aspirin 81 mg PO DAILY 
+4. Topiramate (Topamax) 25 mg PO DAILY 
+5. Metoprolol Succinate XL 37.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1.5 tablet(s) by mouth qAM Disp 
+#*45 Tablet Refills:*0
+6. Psyllium 1 PKT PO DAILY 
+RX *psyllium   1 packet by mouth qday Disp #*30 Packet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Atrial fibrillation with rapid ventricular response
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Thank you for choosing us for your care. You were admitted for a 
+fast heart rhythm called atrial fibrillation. We controlled your 
+heart rate with the medicine Metoprolol.
+
+We did an ultrasound of your heart, monitored your rhythm 
+overnight did blood tests. We did not find any significant 
+factors that may have incited atrial fibrillation. At present, 
+we believe this may be due to age related changes.
+
+You also reported diarrhea at home. We do not think that this 
+diarrhea was infectious.  Your primary care doctor can help come 
+up with a strategy to work up and treat the cause of the 
+diarrhea.  
+
+Please see the attached medications sheet to see your updated 
+medication list.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-10 | hadm_id=26994069
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with h/o HTN, Afib not on warfarin presenting with 3 weeks 
+of progressive SOB. Patient was hospitalized ___ for AF with 
+RVR at which time he was started on metoprolol and lasix was 
+held.  Patient has some difficulty remembering exact time course 
+of his symptoms, but, per his daughter, he has had lower 
+extremity swelling and progressive SOB for approximately 3 weeks 
+with acute worsening in the last ___ days. Denies chest pain, 
+orthopnea, PND. He has been eating soup with every meal at his 
+assisted living facility and making an effort to drink more 
+fluids due to concerns that he was dehydrated. Reports 
+occasional episodes of palpitations with activity. Review of 
+symptoms significant for 2 mechanical falls in the last week as 
+well as burning dysuria. No fever/chills/sweats. 
+
+Was brought to ED by his daughter after he called her yesterday 
+with complaint of SOB while attempting to do his laundry. In the 
+ED, initial vitals were 98.6 125 130/94 12 98% 2L. Labs were 
+significant for neg trop, proBNP 2724, lactate 1.1 and UA with 
+65 RBC and 11 WBC.EKG showed aflutter with nonvariable rate at 
+124.  CXR showed bilateral pleural effusions. He was given 20mg 
+IV lasix with 700ml UOP and transferred to ___ for further 
+management. 
+
+ 
+Past Medical History:
+1. Thrombocytopenia. Per outpatient ___ note baseline is in 
+50,000s x many years.  
+2. Depression.  
+3. Essential tremor.  
+4. Diarrhea.  
+5. Prostate cancer s/p radiation treatment.  
+6. Hypertension.  
+7. Benign prostatic hypertrophy.  
+8. Ankle edema.  
+9. Memory disorder.  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+VS: T 98.1 129/97 122 20 99 2L 80.1 kg
+GENERAL: thin elderly male in NAD. Oriented x3. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple with JVP to mid neck at 90 degrees.
+CARDIAC: tachycardic, normal S1, S2. +S3
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. + bibasilar crackles
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: 2+ pitting edema to upper thighs bilaterally 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+.
+DISCHARGE PHYSICAL EXAM:
+VS: Tm 98.1 133-152/81-105 HR 59-115 (highest HR 101 on 
+telemetry) 95-97% RA
+I/O: 1000/1725
+weight: 65.3kg
+GENERAL: thin elderly male in NAD. Oriented x3. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: no JVP elevation at 90 degrees
+CARDIAC: tachycardic, normal S1, S2. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. + bibasilar crackles
+ABDOMEN: Soft, NTND. No HSM or tenderness. 
+EXTREMITIES: 2+ pitting edema to upper thighs bilaterally 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:30PM   D-DIMER-1408*
+___ 07:40PM   GLUCOSE-114* UREA N-31* CREAT-1.2 SODIUM-143 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-31 ANION GAP-11
+___ 07:40PM   cTropnT-0.02*
+___ 07:40PM   CALCIUM-8.3* PHOSPHATE-3.9 MAGNESIUM-2.1
+___ 10:10AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 10:10AM URINE  RBC-65* WBC-11* BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 07:11AM   LACTATE-1.1
+___ 06:58AM   GLUCOSE-107* UREA N-31* CREAT-1.2 SODIUM-142 
+POTASSIUM-4.0 CHLORIDE-106 TOTAL CO2-29 ANION GAP-11
+___ 06:58AM   cTropnT-<0.01
+___ 06:58AM   proBNP-2724*
+___ 06:58AM   WBC-4.7 RBC-3.51* HGB-11.6* HCT-37.5* 
+MCV-107* MCH-33.2* MCHC-31.0 RDW-14.1
+___ 06:58AM   NEUTS-76.1* LYMPHS-14.2* MONOS-6.9 EOS-2.4 
+BASOS-0.4
+___ 06:58AM   PLT COUNT-66*
+___ 06:58AM   ___ PTT-37.2* ___
+
+DISCHARGE LABS:
+___ 07:35AM BLOOD WBC-4.8 RBC-3.87* Hgb-12.4* Hct-40.2 
+MCV-104* MCH-32.0 MCHC-30.8* RDW-14.5 Plt Ct-94*
+___ 07:40PM BLOOD cTropnT-0.02*
+___ 07:10AM BLOOD cTropnT-0.02*
+___ 07:15AM BLOOD Mg-2.1
+___ 07:10AM BLOOD TSH-5.9*
+___ 07:15AM BLOOD Glucose-89 UreaN-42* Creat-1.4* Na-145 
+K-3.9 Cl-106 HCO3-33* AnGap-10
+___ 07:15AM BLOOD Glucose-89 UreaN-42* Creat-1.4* Na-145 
+K-3.9 Cl-106 HCO3-33* AnGap-10
+
+IMAGING/STUDIES:
+ECG ___
+Probable sinus tachycardia. Right bundle-branch block. 
+Non-specific ST-T wave changes. Compared to the previous tracing 
+of ___ the patient is now in sinus rhythm.  TRACING #1 
+
+CXR ___
+1. Mild cardiomegaly with pleural effusions, left greater than 
+right, and 
+bibasilar atelectasis.   
+2. Fullness of the superior mediastinum, which may be consistent 
+with a 
+substernal goiter.  Correlation with physical exam is 
+recommended. 
+  
+TTE ___
+The left atrium is dilated. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is severely 
+depressed (LVEF = 25 %) secondary to severe global; hypokinesis 
+with posterior wall akinesis. The right ventricular free wall 
+thickness is normal. Right ventricular chamber size is normal. 
+with severe global free wall hypokinesis. The aortic root is 
+mildly dilated at the sinus level. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. Trace 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Mild (1+) 
+mitral regurgitation is seen. The tricuspid valve leaflets are 
+mildly thickened. There is a very small pericardial effusion 
+without evidence of tamponade. 
+
+Compared with the findings of the prior study (images reviewed) 
+of ___, contractile function of the left and right 
+ventricle is markedly reduced.  
+
+___ ECG
+Sinus tachycardia. Occasional atrial premature contractions. 
+Compared to 
+tracing #1 there is no significant diagnostic change. TRACING #2 
+
+
+CTA Chest ___
+COMPARISON:  PA and lateral chest radiograph from ___. 
+
+  
+TECHNIQUE:  Axial helical MDCT images were obtained from the 
+suprasternal 
+notch to the upper abdomen at an early arterial phase after 
+administration of 
+100 cc of Visipaque following a PE protocol.  Coronal, sagittal, 
+and oblique 
+MIP reformats were generated in an independent workstation. 
+  
+DLP:  591.79 mGy-cm. 
+CTDI:  26.47 mGy. 
+  
+FINDINGS: 
+  
+THORAX CTA:  The aorta is well opacified.  There are significant 
+
+atherosclerotic calcifications of the aorta, but no aneurysmal 
+dilatation, 
+intramural hematoma, or aortic dissection.  The pulmonary 
+arteries are well 
+opacified through the subsegmental level. There is no dilatation 
+of the main 
+pulmonary trunk. No filling defects are noted in the pulmonary 
+arteries to 
+suggest pulmonary embolism. Coronary artery calcifications are 
+extensive. The 
+heart appears enlarged. 
+  
+CHEST CT:  The airways are patent to the subsegmental level.  
+There is no 
+central or axillary lymphadenopathy. There is trace pericardial 
+fluid, which 
+is non-hemorrhagic.  No esophageal abnormalities noted.   
+  
+Lung windows demonstrate no focal opacities, but there are 
+moderate bilateral pleural effusions, right worse than left, 
+with concurrent bibasilar atelectasis. 
+  
+There is intraperitoneal fluid.  No gross abnormalities of the 
+spleen or liver are observed on limited evaluation.  The kidneys 
+cannot be accurately assessed due to phase of contrast, but a 
+large cyst is noted in the upper pole of the right kidney that 
+appears simple. 
+  
+OSSEOUS STRUCTURES:  There are no lytic or blastic lesions 
+concerning for 
+malignancy. 
+  
+IMPRESSION: 
+1.  No pulmonary embolism or acute aortic syndrome. 
+2.  Moderate bilateral pleural effusions with concurrent 
+bibasilar 
+atelectasis. Small volume ascites in the visualized abdomen. 
+3.  No focal parenchymal opacity or evidence of pulmonary edema. 
+
+ 
+
+ 
+Brief Hospital Course:
+___ with h/o HTN, mild sCHF (LVEF = 50-55% ___ presenting 
+with several weeks of progressive SOB and signs of gross volume 
+overload on exam.
+
+# Acute on chronic systolic CHF: Patient presented with 
+shortness of breath and gross volume overload in the setting of 
+rapid aflutter (120s on admission) and discontinuation of 
+diuretic on prior admission. TTE ___ showed LVEF of 25%, 
+reduced compared to prior EF 50-55% on prior TTE ___. Based 
+on patient's lack of palpitations, tachycardia may have been 
+persistent for several weeks ( as suggested by HR 120s in recent 
+clinic visits), suggesting tachycardia induced cardiomyopathy. 
+Rate was controlled as described below and patient was diuresed 
+with IV lasix boluses with good response. He was weaned off of 
+supplemental O2 and weight was noted to decrease by 15kg from 
+admission. Transitioned to PO torsemide morning of ___. 
+
+# Atrial flutter: Admitted with atrial flutter @ 120s. CHADS2. 
+Patient reported intermittent sx of palpitations in preceding 
+weeks but was asymptomatic throughout admission. PE considered 
+as possible trigger- low risk by Well's Criteria, D-dimer 
+elevated 1408 but CTA chest negative for PE. Digoxin intitiated 
+___, home metoprolol dose increased and rates were 
+subsequently well controlled. 
+
+___: Baseline Cr appears to be 1.3-1.5. Cr increased to 1.8 ___ 
+in the setting of diuresis, but subsequently decreased to 1.4 
+and remained stable.
+
+# Dysuria: Patient reported some dysuria and had mild suprapubic 
+tenderness to palpation on admission exam. He was started 
+empirically on bactrim on admission which was discontinued after 
+urine culture returned negative.
+
+# Hematuria:  Noted to have hematuria and passing clots via 
+foley ___. Urine output and HCT remained stable. Urine 
+subsequently became more clear without intervention. Foley 
+removed ___ when transitioned to PO diuretic and patient had no 
+difficulty voiding. 
+
+# HTN: Blood pressures well controlled this admission on beta 
+blocker. 
+
+# Depression: Was in very good spirits this admission, denied 
+depressed mood, SI/HI. Continued home SSRIs.
+
+TRANSITIONAL ISSUES:
+# Hematuria: Will need repeat UA at follow up to ensure 
+resolution
+# ___: Will need volume status monitored as outpatient and PO 
+torsemide adjusted accordingly
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Paroxetine 10 mg PO DAILY 
+2. Terazosin 10 mg PO HS 
+3. Aspirin 81 mg PO DAILY 
+4. Metoprolol Succinate XL 37.5 mg PO DAILY 
+5. Citracal + D *NF* (calcium phosphate-vitamin D3) 250 mg 
+calcium- 250 unit Oral daily 
+6. Mirtazapine 7.5 mg PO HS 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Mirtazapine 7.5 mg PO HS 
+3. Paroxetine 10 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Lisinopril 2.5 mg PO DAILY 
+6. Torsemide 20 mg PO DAILY 
+7. Terazosin 10 mg PO HS 
+8. Citracal + D *NF* (calcium phosphate-vitamin D3) 250 mg 
+calcium- 250 unit Oral daily 
+9. Digoxin 0.0625 mg PO DAILY 
+10. Metoprolol Succinate XL 100 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Atrial flutter
+Acute on chronic systolic CHF (EF 25%)
+
+Secondary:
+Hypertension
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure participating in your care at ___. You were 
+admitted to the hospital for shortness of breath and found to 
+have a fast heart rate and extra fluid in your body. You were 
+treated with medications and your symptoms improved. Please 
+follow up with the heart failure doctor as scheduled and note 
+the changes to your home medications on the enclosed list.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-14 | hadm_id=28907671
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Fall, Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with PMHx of atrial fibrillation 
+not on anticoagulation, sCHF (LVEF 25%), HTN, mod to sev 
+dementia in the process of being transferred to the dementia 
+unit at his ALF, and orthostatic hypotension with tendency to 
+fall who was found down in his nursing home in another patient's 
+room, apparently confused. The fall was unwitnessed and it is 
+unclear if syncope occurred. He did strike his head. He does not 
+remember the fall and he is a poor historian due to known 
+dementia.  
+He denies any current pain or other symptoms. The geriatrics 
+fellow was able to catch his daughter in the ___ and according to 
+his note, he is near his baseline mental status now.  
+ 
+In the ___, initial vital signs were: 98 ___ 16 94% RA  
+Labs were normal  
+Patient was given 500mL NS, Metoprolol Succinate 25mg  
+Vitals on transfer: 97.5 81 145/92 16 100% RA  
+ 
+Review of Systems:  
+(+) As above.  
+(-) fever, chills, cough, shortness of breath, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, 
+dysuria.  
+ 
+Past Medical History:
+Dementia
+Chronic systolic cardiomyopathy EF 25%
+Atrial fibrillation not on anticoagulation
+Thrombocytopenia. Baseline is in 50,000s x many years.
+Depression.
+Essential tremor.
+Prostate cancer s/p radiation treatment.
+Hypertension.
+Benign prostatic hypertrophy.
+OSA on CPAP
+Bullous pemphigoid on prednisone 
+ 
+Social History:
+___
+Family History:
+Per geriatrics fellow note.
+Father and Mother died in ___, Brother with macular 
+degeneration
+ 
+Physical Exam:
+Physical Exam:  
+Vitals- 97.4, 158/94, 83, 21, 96% 2LNC  
+General: Elderly man in NAD, pleasant, AAO x 1  
+HEENT: PERRL, sclerae anicteric, MMM  
+Neck: supple  
+CV: Irregular, no m/r/g  
+Lungs: Bibasilar crackles, otherwise clear.  
+Abdomen: soft, non-tender  
+Ext: 2+ pitting edema to hips bilaterally  
+Skin: 1 cm laceration at L shin, 4-5 cm skin tear w/ blood on 
+back w/ tegaderm in place. Numerous healed hyperpigmented 
+lesions ___ to bullous disease  
+Neuro: + increased tone in bilateral arms with cogwheel 
+rigidity, normal reflexes in b/l lower extremities, patient did 
+not want to follow commands, said "let me sleep"  
+
+DISCHARGE PHYSICAL EXAM
+Vitals: 98.0 - 132/74 - 72 - 20 - 95RA
+General: Elderly man in NAD, pleasant, smiling, oriented x2  
+("hospital" and self)
+HEENT: PERRL, sclerae anicteric, MM moist
+Neck: supple  
+CV: Irregular, no m/r/g  
+Lungs: lungs clear.  
+Abdomen: soft, non-tender  
+Ext: trace pitting edema pretibial bilaterally, legs are 
+elevated
+Skin: 1 cm laceration at L shin, 4-5 cm skin tear w/ blood on 
+back 
+      w/ tegaderm in place. Numerous healed hyperpigmented 
+lesions 
+      ___ to bullous disease  
+Neuro: normal reflexes in b/l lower extremities, face symmetric, 
+but 
+      does not comply with neuro exam, eg extra ocular 
+      movements. lifts all extremities spontaneously
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 03:30PM BLOOD WBC-8.1 RBC-4.15* Hgb-14.6 Hct-46.9 
+MCV-113* MCH-35.1* MCHC-31.1 RDW-17.0* Plt ___
+___ 03:30PM BLOOD Neuts-81.9* Lymphs-11.3* Monos-5.3 
+Eos-0.8 Baso-0.7
+___ 03:30PM BLOOD ___ PTT-42.6* ___
+___ 03:30PM BLOOD Glucose-136* UreaN-31* Creat-1.4* Na-140 
+K-4.5 Cl-100 HCO3-31 AnGap-14
+___ 03:30PM BLOOD proBNP-8322*
+___ 03:30PM BLOOD VitB12-796
+___ 03:30PM BLOOD TSH-6.6*
+___ 03:30PM BLOOD T4-6.5
+___ 03:30PM BLOOD Digoxin-1.1
+___ 03:43PM BLOOD Lactate-2.0
+
+DISCHARGE LABS
+===============
+___ 07:30AM BLOOD WBC-4.8 RBC-3.63* Hgb-12.8* Hct-39.4* 
+MCV-108* MCH-35.2* MCHC-32.5 RDW-15.7* Plt ___
+
+URINE STUDIES
+==============
+___ 03:50PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:50PM URINE Blood-MOD Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 03:50PM URINE RBC-25* WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 03:50PM URINE CastHy-7*
+
+MICROBIOLOGY
+=============
+___ 7:10 am URINE     Site: NOT SPECIFIED
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___:    NO GROWTH.
+
+___ EKG Atrial fibrillation with a moderate ventricular 
+response. Baseline artifact. Right bundle-branch block. Compared 
+to the previous tracing of ___ no diagnostic interim change. 
+ 
+Rate PR QRS QT/QTc P QRS T 
+83 0 ___ 0 -3 -146 
+ 
+___ HIP.PELVIS X RAY. FINDINGS: AP view of the pelvis.  AP 
+and frogleg views of the right hip.  The bones are diffusely 
+osteopenic.  There is no fracture or acute osseous abnormality.  
+Pubic symphysis and SI joints are preserved.  Degenerative 
+changes noted in the lumbar spine.  Right femoroacetabular joint 
+demonstrates mild degenerative changes without fracture or 
+malalignment.  Atherosclerotic calcifications seen within the 
+vessels.  Surgical clips project over the lower abdomen and 
+pelvis. 
+IMPRESSION:  No acute fracture. 
+
+___ CXR
+FINDINGS:  When compared to prior, there has been no significant 
+interval 
+change.  Again seen is retrocardiac opacity which could 
+represent a 
+combination of effusion, atelectasis and consolidation.  
+Elsewhere, the lungs are clear.  The cardiac silhouette is 
+enlarged but stable in configuration.  Dense atherosclerotic 
+calcifications seen in the aorta.  Surgical clips in the right 
+upper quadrant.  No acute osseous abnormality is identified. 
+
+___ FINDINGS:  AP, OBLIQUE, AND LATERAL VIEWS OF THE RIGHT 
+ELBOW:  There is no evidence of acute fracture or dislocation.  
+Evaluation for a joint effusion is limited as a true lateral 
+view is not provided.  The joint spaces are preserved.  No 
+concerning osseous lesion or abnormal soft tissue calcification 
+is identified. 
+  
+IMPRESSION:  No evidence of acute fracture or dislocation. 
+  
+CT C SPINE W/O CONTRSAT
+FINDINGS:   
+There is no evidence of acute fracture.  Extensive degenerative 
+changes are again noted and are relatively unchanged compared to 
+the prior examination.  
+This includes reversal of the cervical lordosis centered at C5-6 
+with complete fusion of the C5-6 vertebral bodies and partial 
+fusion of the C6-7 vertebral bodies.  Mild anterolisthesis of C3 
+on C4 is also unchanged.  Loss of disc height, uncovertebral and 
+facet joint arthropathy is most severe from C4 through C7, as 
+before.  Bones are diffusely osteopenic.  There is no 
+prevertebral soft tissue abnormality.  Calcifications are again 
+noted along the aortic arch. 
+  
+Limited view of the lung apices now demonstrates a new focus of 
+airspace 
+opacification along the bronchovascular tree.  Moderate 
+bilateral pleural 
+effusions are present. 
+  
+IMPRESSION: 
+1.  Stable appearance of severe multilevel degenerative changes 
+without 
+evidence of acute fracture. 
+2.  Interval development of increased airspace opacification 
+along the 
+bronchovascular tree in the left apex, consistent with 
+bronchopneumonia in the appropriate clinical setting. 
+3.  Moderate bilateral pleural effusions. 
+
+CT ABD/PELV
+FINDINGS:   
+Partially imaged lung bases are notable for small-to-moderate 
+bilateral 
+pleural effusions, increased on the right, and adjacent 
+compressive 
+atelectasis. Cardiomegaly and coronary artery calcifications are 
+noted. 
+  
+CT ABDOMEN:  Evaluation of intra-abdominal structures is limited 
+by lack of intravenous contrast.  Non-contrast enhanced 
+appearance of the liver, spleen, pancreas and adrenal glands is 
+unremarkable. 
+  
+A homogeneous well-circumscribed lobulated soft tissue density 
+superior to the right kidney measuring 3.8 x 6.6 cm (2:13), 
+previously 4.2 x 6.4 cm, is virtually unchanged compared to the 
+prior examination and likely represents a benign process. 
+  
+Stomach is decompressed.  Nondilated loops of small bowel are 
+normal in course and caliber.  The colon is notable for 
+extensive sigmoid diverticulosis without diverticulitis.  There 
+is no intra-abdominal free air or fluid.  
+Extensive atherosclerotic calcifications are noted along a 
+tortuous abdominal aorta and iliac arteries without aneurysmal 
+dilatation.  There is no mesenteric or retroperitoneal 
+lymphadenopathy. 
+  
+CT PELVIS:  The bladder is decompressed around a Foley catheter 
+Prostate is enlarged. There is no pelvic free fluid or 
+lymphadenopathy. 
+  
+BONE WINDOW:  Severe multilevel degenerative changes in the 
+imaged spine 
+including mild anterolisthesis of L5 on S1 and L4 on L5 is 
+unchanged.  There is, however, increased irregularity and 
+cortical discontinuity at the inferior endplate of the L3 
+vertebral body not present on the prior study of ___. The fracture line extends to the anterior wall of the L3 
+vertebral body. There is also buckling of the posterior wall of 
+L3, but no definite evidence of retropulsion into the canal.  
+  
+IMPRESSION: 
+1. New compression fracture of the L3 vertebral body as 
+described above.  
+2. Small-to-moderate bilateral pleural effusions, increased on 
+the right. 
+3. A 2.8 x 6.6 cm lobulated mass superior to the right kidney 
+and independent from the right kidney and the right adrenal 
+gland, probably represents a benign process as there has been no 
+change compared to the prior study. 
+
+___ CT HEAD
+FINDINGS: 
+There is no evidence of hemorrhage, edema, mass effect, or acute 
+vascular 
+territorial infarction.  Prominent ventricles and sulci are 
+unchanged, likely represent age-related involutional changes or 
+atrophy.  A cavum septum pellucidum variant is again noted.  
+Basilar cisterns are patent.  Gray-white matter differentiation 
+is preserved. 
+  
+Partially imaged paranasal sinuses, mastoid air cells, and 
+middle ear cavities are clear.  Orbits are unremarkable.  No 
+acute fracture is identified. 
+  
+IMPRESSION:  No evidence of acute intracranial abnormality. 
+  
+___ T SPINE X RAY FINDINGS:  
+AP and lateral views of the thoracic spine show depression of 
+the right side of the superior endplate of T10, similar in 
+degree to that seen on the coronal images from the previous CT 
+images.  This is less evident on both sagittal and today's 
+lateral views but there is no posterior displacement of bone.  
+Vertebral bodies appear diffusely demineralized. Intervertebral 
+disk disease and associated subchondral sclerosis is seen at 
+L1-L2 on the right and at L2-L3, included the view of this 
+study.  Calcified atherosclerotic plaque is seen throughout the 
+descending thoracic aorta which is not dilated.  Surgical clips 
+are seen in the right upper quadrant. 
+  
+IMPRESSION:  Demineralized thoracic vertebral bodies and 
+unchanged minimal nonacute superior endplate compression at T10 
+compared to ___. 
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+======================
+Mr. ___ is a ___ year old gentleman with history of atrial 
+fibrillation, sCHF (LVEF 25%), dementia, and orthostatic 
+hypotension presenting with encephalopathy and new L3 
+compression fracture. He was managed conservatively with speedy 
+improvement in his mental status. He was discharged to a short 
+term rehab.
+
+ACTIVE MEDICAL ISSUES
+======================
+# Fall with new L3 compression fracture: Trauma workup in ___ 
+revealed L3 compression fracture. He was evaluated by 
+Orthopedics who initially recommended MRI, but given the 
+patient's goals of care and comfort, recommended soft LSO brace. 
+Physical therapy evaluated the patient and recommended short 
+term rehab. His vitamin D was increased to ___ units daily. 
+ 
+# Encephalopathy in the setting of dementia: He was quite 
+lethargic on admission. Likely encephalopathy secondary to pain. 
+His urine culture was negative and T4 and B12 were normal. We 
+minimized tethers and treated pain with acetaminophen (standing, 
+as the patient is very stoic) and a lidocaine patch. He was 
+started on short term oral supplements to promote wound healing. 
+
+- Should continue glucerna TID after discharge. 
+
+# Acute on chronic sCHF: EF 25%. Dry weight as of ___ was 
+162 lbs. He was continued on torsemide and digoxin.
+ 
+#CKD: He was below his recent baseline (creatinine 1.5-1.7).
+ 
+# Afib: CHADS2 of 3 at home. On ASA 81 per prior discussions 
+with family about anticoagulation. He was continued on 
+metoprolol and digoxin 0.0625 daily once able to take PO. 
+ 
+# R adrenal/kidney mass: 4 x 7 cm lobulated mass immediately 
+superior to the right kidney. Deferred further workup given 
+would likely be invasive and unlikely to improve patient's 
+quality or quantity of life.  
+ 
+# Bullous pemphigoid: continued home prednisone.
+ 
+# Depression: continued home mirtazapine and venlafaxine.
+ 
+# HTN: Continued metoprolol as above.
+ 
+# OSA: on CPAP at home. This was continued in house. Please 
+ensure patient wears CPAP at night at facility. Has f/u 
+appointment made with sleep medicine.
+
+TRANSITIONAL ISSUES
+====================
+- Code status: DNR/DNI.
+- Emergency contact: ___ (daughter/HCP) ___ 
+- Studies pending on discharge: None.
+- Wear LSO brace when out of bed for comfort.
+- Follow up in ___ weeks after discharge at ___ 
+___ ___ floor). Please make appointment for patient at 
+___. He will need x-rays at this appointment.
+- Please check potassium 1 week after discharge (patient on 
+torsemide, potassium stopped while here as potassium was 
+stable).
+- Re: PREDNISONE. After ___ weeks, please attempt to decrease to 
+5 of prednisone and continue tapering.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325 mg PO Q6H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Digoxin 0.0625 mg PO QAM 
+4. Miconazole 2% Cream 1 Appl TP BID:PRN jock itch 
+5. Mirtazapine 22.5 mg PO HS 
+6. Omeprazole 20 mg PO DAILY 
+7. PredniSONE 12.5 mg PO DAILY 
+8. Venlafaxine XR 37.5 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Metoprolol Succinate XL 50 mg PO QAM 
+11. Metoprolol Succinate XL 25 mg PO QPM 
+12. Torsemide 20 mg PO DAILY 
+13. Torsemide 10 mg PO EVERY ___ DAY 
+14. Potassium Chloride 20 mEq PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q8H 
+2. Aspirin 81 mg PO DAILY 
+3. Digoxin 0.0625 mg PO QAM 
+4. Miconazole 2% Cream 1 Appl TP BID:___ jock itch 
+5. Mirtazapine 22.5 mg PO HS 
+6. Omeprazole 20 mg PO DAILY 
+7. PredniSONE 7.5 mg PO DAILY 
+8. Torsemide 20 mg PO DAILY 
+9. Venlafaxine XR 37.5 mg PO DAILY 
+10. Vitamin D ___ UNIT PO DAILY 
+11. Lidocaine 5% Patch 1 PTCH TD QPM 
+12. Metoprolol Succinate XL 50 mg PO QAM 
+13. Metoprolol Succinate XL 25 mg PO QPM 
+14. Torsemide 10 mg PO EVERY ___ DAY 
+15. Senna 8.6 mg PO HS:PRN constipation 
+16. Docusate Sodium 200 mg PO DAILY 
+17. Carbamide Peroxide 6.5% ___ DROP AD BID Duration: 4 Days 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Encephalopathy
+L3 compression fracture
+Fall
+Dementia
+Delirium
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure taking part in your care at ___! You were 
+admitted for confusion and being very tired after a fall at your 
+facility. You were seen by Orthopedics, who recommended wearing 
+a brace around your back when out of bed. Your confusion 
+improved and you returned to your normal self.
+You will need to follow up with the Spine team and spend a short 
+time at a rehabilitation facility to help get stronger.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14362539-DS-13 | hadm_id=29313552
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Fall, Altered Mental Status 
+
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with PMHx of atrial 
+fibrillation, sCHF (LVEF 25%), HTN, dementia, and orthostatic 
+hypotension with tendency to fall who was found down in his 
+nursing home in another patient's room, apparently confused. The 
+fall was unwitnessed and it is unclear if syncope occurred. Did 
+strike his head. He denies any current pain or other symptoms. 
+He does not remember that he fell. According to his daughter he 
+has had gradually progressive dementia and has been scheduled to 
+be transferred to from ___ to the memory 
+care unit next week. She says that nursing at ___ thought he 
+seemed slightly more confused than usual today.
+ 
+In the ED, initial vital signs were: 98 ___ 16 94% RA 
+Labs were notable for normal WBC, H/H, plt 132, negative UA, 
+Lactate:2.3. Cr 1.7 (baseline 1.7-2.0). Dig level- 0.9.
+EKG reportedly showed afib at 119, RBBB, STD in V4-V6 with a 
+repeat EKG with rate 82 and improvement in STD   
+He had a CT Head which showed no acute intracranial 
+abnormalities.
+CT C-Spine showed severe degenerative change. No definite acute 
+fracture or traumatic subluxation.
+CT Abdomen and pelvis showed small-to-moderate bilateral pleural 
+effusions and adjacent atelectasis.  4 x 7 cm lobulated mass 
+immediately superior to the right kidney may arise from the 
+right adrenal gland or represent an isolated mass. A 1.3 x 1.4 
+cm filling defect along the wall of the left atrium measuring 40 
+Hounsfield units may represents a mural clot. 
+Patient was given 500mL NS, Metoprolol Succinate 25mg 
+ 
+Vitals on transfer: 97.5 81 145/92 16 100% RA 
+
+On the floor, he denies any symptoms including SOB or pain. His 
+daughter accompanies him. She adds to the history that he has a 
+PCA that visits him 3x/wk and a ___ 2x/wk. She has been 
+concerned that his legs have been getting more swollen, so 
+started an additional 10mg po torsemide every fourth day in 
+conjunction with ___, NP.  
+
+Review of Systems:  
+(+) As above. 
+(-) fever, chills, cough, shortness of breath, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, 
+dysuria. 
+ 
+Past Medical History:
+Dementia
+Chronic systolic cardiomyopathy EF 25%
+Atrial fibrillation not on anticoagulation
+Thrombocytopenia. Baseline is in 50,000s x many years.
+Depression.
+Essential tremor.
+Prostate cancer s/p radiation treatment.
+Hypertension.
+Benign prostatic hypertrophy.
+OSA on CPAP
+Bullous pemphigoid on prednisone 
+ 
+Social History:
+___
+Family History:
+Father and Mother died in ___
+Brother with macular degeneration
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+==================
+Vitals- 97.8  136/88  89  16  92%RA 
+General: Elderly man in NAD, pleasant, AAO x 1 (thinks he's in 
+___, unsure of year.
+HEENT: PERRL, sclerae anicteric, MMM  
+Neck: supple, JVP at earlobe at 45 degrees.   
+CV: Irregular, no m/r/g  
+Lungs: Bibasilar crackles, otherwise clear.
+Abdomen: soft, non-tender  
+Ext: 2+ pitting edema to hips bilaterally  
+Neuro: CNs II-XII grossly intact. Strength ___ in all 
+extremities.
+Skin: Bruising to bilateral knees, 1 cm laceration at L shin, 
+4-5 cm skin tear w/ blood on back w/ tegaderm in place.
+
+DISCHARGE EXAM:
+==================
+Vitals: 97.8 145/78 67 20 97% RA 68.6 kg 
+General: Elderly man in NAD, pleasant, AAO x 1 
+CV: Irregular, no m/r/g  
+Lungs: Fine bibasilar crackles, otherwise clear.
+Abdomen: soft, non-tender, BS present 
+Ext: 1+ pitting edema to shins with stockings in place
+Skin: dressing on back clean and intact
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+___ 08:42PM BLOOD WBC-8.7 RBC-4.01* Hgb-14.2 Hct-42.8 
+MCV-107* MCH-35.4* MCHC-33.2 RDW-15.9* Plt ___
+___ 08:42PM BLOOD Neuts-81.2* Lymphs-11.6* Monos-6.4 
+Eos-0.3 Baso-0.4
+___ 08:42PM BLOOD ___ PTT-32.5 ___
+___ 10:30PM BLOOD Glucose-115* UreaN-44* Creat-1.7* Na-141 
+K-4.3 Cl-101 HCO3-30 AnGap-14
+___ 10:30PM BLOOD Digoxin-0.9
+___ 08:41PM BLOOD Lactate-2.3*
+
+DISCHARGE LABS:
+==================
+___ 06:30AM BLOOD WBC-6.6 RBC-3.92* Hgb-13.5* Hct-42.3 
+MCV-108* MCH-34.5* MCHC-32.0 RDW-15.7* Plt ___
+___ 06:30AM BLOOD Glucose-93 UreaN-37* Creat-1.3* Na-144 
+K-3.6 Cl-100 HCO3-36* AnGap-12
+___ 06:30AM BLOOD Calcium-8.6 Phos-2.4* Mg-2.1
+
+STUDIES:
+==================
+___ EKG: Atrial fibrillation with a rapid ventricular response. 
+Right bundle-branch block. Compared to the previous tracing of 
+___ the ventricular response has increased. Otherwise, no 
+diagnostic interim change. 
+___ TTE: IMPRESSION: Mild symmetric LVH. Severe global 
+hypokinesis - (inferior and inferolateral segments are 
+near-akinetic). Mild to moderate aortic and mitral 
+regurgitation. Mild elevation of pulmonary artery systolic 
+pressure.
+___ CT C-spine: IMPRESSION: 
+1.  Severe degenerative changes as described above. 
+2.  No definite evidence of acute fracture or traumatic 
+subluxation. 
+___ CT Head w/o contrast: IMPRESSION:  No evidence of acute 
+intracranial abnormality.
+___ CT Abd/pel w/ con: IMPRESSION: 
+1.  Bilateral small pleural effusions and subsegmental 
+atelectasis, decreased compared to the prior examination. 
+2.  Filling defect in the left atrium, most likely mural 
+thrombus.  
+3.  A 4 x 7 cm lobulated mass superior to the right kidney 
+likely represents a benign process such as lymphangioma.   
+___ CT Chest w/ con: IMPRESSION: 
+1.  Bilateral small pleural effusions and subsegmental 
+atelectasis, decreased compared to the prior examination. 
+2.  Filling defect in the left atrium, most likely mural 
+thrombus.  
+3.  A 4 x 7 cm lobulated mass superior to the right kidney 
+likely represents a benign process such as lymphangioma. 
+
+ 
+Brief Hospital Course:
+___ year old male with PMHx of atrial fibrillation, sCHF (LVEF 
+25%), HTN, dementia, and orthostatic hypotension with tendency 
+to fall who was found down in his nursing home in another 
+patient's room. 
+
+# Fall/?Syncope: Fall was unwitnessed and patient cannot recall 
+fall, likely due to baseline dementia. Trauma workup in ED 
+negative. Was in RVR on admission, may have contributed. No 
+further RVR on tele. Orthostatics were negative on admission but 
+after diuresis, he was noted to be orthostatic with systolic BP 
+134 from lying down to 114 on sitting and symptomatic, so 
+torsemide dose was adjusted at discharge.  He was seen by ___ and 
+is being discharged to ___ with plan for eventual 
+placement to dementia unit.
+
+# ?Mural thrombus in LA: Seen on CT Chest done for trauma 
+screen. Would not anticoagulate even if thrombus was present 
+given goals of care. Continued ASA 81.
+
+# Dementia: Confused at baseline. Difficult to be sure, but 
+seems close to baseline per daughter. Family was planning to 
+transition to dementia unit at ___ this week.
+Plan to continue with this transition in the coming weeks.
+
+# Acute on chronic sCHF: EF 25%. Dry weight as of ___ was 
+162 lbs. Weight here is 154 lbds, but pt clearly appears volume 
+up on exam (bibasilar crackles, 2+ pitting edema to hips, JVD). 
+Increased home torsemide to 30mg daily but decreased down to 20 
+mg daily with 10 mg every other day dosing as needed for 
+increased edema or weight increase. Continued digoxin, 
+betablocker, 2g sodium diet.
+
+# Afib: CHADS2 of 3. Continued betablocker, ASA 81, digoxin.
+
+# R adrenal/kidney mass: 4 x 7 cm lobulated mass immediately 
+superior to the right kidney. Per radiology read, likely 
+represents a benign lymphangioma.  Will defer further workup 
+given would likely be invasive and unlikely to improve pt 
+quality or quantity of life.
+
+# Bullous pemphigoid: continue home prednisone.
+
+# Depression: cont home mirtazepine and venlafaxine.
+
+# HTN: cont metop as above.
+
+# OSA: on CPAP at home. Cont in house.
+
+Transitional Issues:
+- Discharge torsemide dose 20 mg daily with additional 10 mg 
+every other day as needed.  Patient noted to be orthostatic at 
+discharge; if symptomatic, would continue to reassess diuresis.
+- Held home daily potassium repletion; please continue to 
+monitor level daily and replete as needed. 
+
+# Code: DNR/DNI 
+# Communication: Patient and daugther  
+# Emergency Contact: ___ (daughter/HCP) ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Digoxin 0.0625 mg PO QAM 
+3. Miconazole 2% Cream 1 Appl TP BID:PRN jock itch 
+4. Mirtazapine 22.5 mg PO HS 
+5. Omeprazole 20 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Potassium Chloride 20 mEq PO DAILY 
+8. PredniSONE 12.5 mg PO DAILY 
+9. Torsemide 20 mg PO DAILY 
+10. Torsemide 10 mg PO EVERY FOURTH DAY 
+11. Metoprolol Succinate XL 50 mg PO QAM 
+12. Metoprolol Succinate XL 25 mg PO QPM 
+13. Venlafaxine XR 37.5 mg PO DAILY 
+14. Acetaminophen 325 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg PO Q6H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Digoxin 0.0625 mg PO QAM 
+4. Miconazole 2% Cream 1 Appl TP BID:PRN jock itch 
+5. Mirtazapine 22.5 mg PO HS 
+6. Omeprazole 20 mg PO DAILY 
+7. PredniSONE 12.5 mg PO DAILY 
+8. Venlafaxine XR 37.5 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Metoprolol Succinate XL 50 mg PO QAM 
+11. Metoprolol Succinate XL 25 mg PO QPM 
+12. Torsemide 20 mg PO DAILY 
+13. Torsemide 10 mg PO Q48H PRN increased edema 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Mechanical Fall
+Acute on chronic systolic heart failure
+
+Secondary:
+Dementia
+Depression
+Atrial Fibrillation
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after you were found on the 
+floor at your assisted living facility. An extensive workup 
+including several CT scans showed no fracture or other 
+significant trauma. Your home torsemide was increased.
+ 
+Followup Instructions:
+___

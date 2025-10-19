@@ -1,0 +1,728 @@
+===== DISCHARGE NOTE =====
+note_id=12796016-DS-5 | hadm_id=21060083
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with PMHx of quadriplegia from C6-C7 injury s/p fall 1 month 
+ago presenting with AMS from ___.  She was recently 
+hospitalized at ___ after her spinal injury. Course c/b VAP 
+s/p tx w/ ___, ultimately was not able to be weaned from 
+ventilator, so she had trach placed. Pt noted to be febrile to 
+101-102 on ___, infectious w/u was negative. CXR was thought 
+to be remarkable for small area of atelectasis on L side but 
+otherwise no focal consolidations c/f PNA. Pt also noted to have 
+a unstageable sacral ulcer, no frank e/o infection. Was started 
+on broad spectrum abx w/ ___ since ___. Was also 
+started on empiric PO vanc even though C-diff returned negative 
+(had some intermittent loose stools). Patient remained at 
+baseline mental status and had no other symptoms. Noted by 1:1 
+sitter to be suddenly tachypneic today at 1pm, slumping to the 
+left and less responsive than baseline. Had no fever. No LOC. 
+This episode lasted for about 10 minutes. Pt brought to ED for 
+evaluation w/ initial c/f stroke.
+
+In ED initial VS: T 99, P 75, BP 113/51, R 18, 99% RA
+Exam: Trach in place, PEG in place, foley in place
+FOllows commands with tongue sticking out and eyes closing
+NO movement in extremities
+Soft abd
+
+Labs notable for WBC 9.0, Hgb 8.8, UA w/ significant leukocytes, 
+blood, bacteria. Lactate 0.9.
+
+Patient was given: IVF NS 2L, IV zosyn 4.5g x1, IV vanc 1000mg 
+x1 
+Imaging notable for: CXR Left basilar opacification likely 
+reflects atelectasis or infection, with adjacent small to 
+moderate left pleural effusion. 
+NCCTH w/ no acute intracranial process. 
+Consults: Respiratory therapy, set ventilator settings at AC/VC 
+450 TV, RR 10, PEEP 5, 50% FiO2   
+
+On arrival to the MICU, pt demonstrates understanding and 
+confirms the history above. Expressed clearly that she would 
+like to be disconnected from the ventilator. 
+
+ 
+Past Medical History:
+Hypertension
+ 
+Social History:
+___
+Family History:
+no significant family hx  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+==================================
+VITALS: T 97.9, P 69, BP 176/84, R 27, 100% (on vent) 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, trach in place 
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation anteriorly, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly. PEG tube in 
+place, site c/d/i  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: unstageable sacral ulcer  
+GU: foley in place
+NEURO: able to make purposeful movements w/ UE's. no ability to 
+move LEs. 
+ACCESS: PIVs
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================================
+___ 02:00PM BLOOD WBC-9.0 RBC-2.97* Hgb-8.8* Hct-28.1* 
+MCV-95 MCH-29.6 MCHC-31.3* RDW-14.1 RDWSD-48.0* Plt ___
+___ 02:00PM BLOOD Neuts-74.7* Lymphs-12.1* Monos-7.5 
+Eos-4.0 Baso-0.3 Im ___ AbsNeut-6.72* AbsLymp-1.09* 
+AbsMono-0.68 AbsEos-0.36 AbsBaso-0.03
+___ 02:00PM BLOOD Glucose-141* UreaN-24* Creat-0.4 Na-132* 
+K-4.7 Cl-99 HCO3-25 AnGap-13
+___ 02:00PM BLOOD ALT-57* AST-34 AlkPhos-82 TotBili-0.3
+___ 02:00PM BLOOD Albumin-2.8* Calcium-8.5 Phos-4.3 Mg-2.3
+___ 02:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:13PM BLOOD Type-ART Tidal V-400 PEEP-5 FiO2-50 
+pO2-180* pCO2-47* pH-7.34* calTCO2-26 Base XS-0 
+As/Ctrl-ASSIST/CON Intubat-INTUBATED
+___ 02:07PM BLOOD Lactate-0.9
+
+IMAGING:
+========
+
+PORTABLE CXR ___
+Left basilar opacification likely reflects atelectasis or 
+infection, with 
+adjacent small to moderate left pleural effusion. 
+
+CT HEAD W/O CONTRAST ___
+1. No acute intracranial process. 
+2. Partial opacification of bilateral mastoid air cells 
+suggestive of mild 
+ongoing inflammation. 
+
+PORTABLE CXR ___
+Left lower lobe collapse and/or consolidation.  Presence of left 
+pleural 
+effusion is suspected, though difficult to confirm on this 
+image. 
+Tiny right pleural effusion could be new. 
+Mild vascular plethora appears slightly more pronounced. 
+
+PORTABLE CXR ___ 
+  
+Comparison to ___. Stable small left pleural effusion 
+with subsequent left basilar consolidation. Moderate 
+cardiomegaly persists.  Mild fluid overload but no overt 
+pulmonary edema. Stable position of the tracheostomy tube. 
+
+Chest X-ray ___
+EXAMINATION:  CHEST (PORTABLE AP)
+ 
+I
+N
+D
+I
+C
+A
+T
+I
+O
+N
+:
+  ___ year old woman with shortness of breath// please assess for
+interval change      please assess for interval change
+ 
+IMPRESSION: 
+ 
+Compared to chest radiographs ___ through ___.
+ 
+M
+o
+d
+e
+r
+a
+te left pleural effusion has increased.  Left lower lobe remains
+p
+a
+r
+t
+i
+a
+l
+l
+y atelectatic.  Pulmonary vasculature is minimally engorged but 
+there 
+i
+s
+ 
+n
+o
+ 
+e
+d
+e
+m
+a.  Cardiac silhouette is at least moderately enlarged, possibly
+increased slightly since ___.
+ 
+Tracheostomy tube midline.
+ 
+
+ 
+Brief Hospital Course:
+___ with PMHx of quadriplegia from C6-C7 injury currently on 
+trach p/w recent fevers and an episode of respiratory distress 
+and unresponsiveness thought to be secondary to mucus plugging, 
+s/p bronchoscopy, and after multiple goals of discussions in ICU 
+made to transition to comfort measures only, patient transferred 
+to the floor on ___ and passed away on ___ with family at 
+bedside. Patient preferred to stay in hospital after becoming 
+CMO. 
+
+MICU COURSE ___
+================
+# Communication/GOC/Prior Suicidal Ideations: patient remained 
+at baseline mental status, and demonstrated that she was alert 
+and oriented. She voiced wishes clearly that she wanted to be 
+transitioned to CMO. She expressed that she didn't want to delay 
+her death and live an existence of dependence. This was 
+contradiction from her daughter’s wishes for her. Earlier in the 
+hospitalization, the HCP was invoked because the patient had 
+been deemed to not have capacity prior to this admission. 
+However, HCP then stated that she would like to respect her 
+mother’s wishes. Psychiatry following and need to determine 
+whether the patient has a longitudinal thought process that 
+identifies her as having capacity vs. continuously changing GOC. 
+Patient was fitted for speaking valve on ___ and was able to 
+communicate better. 
+
+# Chronic Hypoxemic Respiratory failure: as a result of a C6/C7 
+spinal injury one month ago. Unable to be weaned off vent during 
+last admission, but noted to be able to spend much of the day 
+off the vent. Has been left on the vent ___ while at rehab. 
+Trach downsized on ___, fitted for speaking valve. Cough assist 
+and suctioning seemed to be the most beneficial to get patient 
+off vent.  Some intermittent desats on ___, +5L positive for 
+stay.
+
+# Sacral Ulcer: Unstageable. Not infected. Wound care evaluated 
+the patient on ___ with the following recommendations: 
+Commercial wound cleanser or normal saline to cleanse wounds; 
+pat the tissue dry with dry gauze; apply small dab of wound gel 
+to necrotic tissue; cover with Sacral Border Mepilex, change Q3 
+days. 
+
+# Fever: Patient with LGF on ___ AM. S/P course of broad 
+spectrum abx for VAP. Pancultured. PEG/Lines c/d/i. CXR 
+improving. Likely ___ atelectasis, mucus plugging.  No fevers 
+since ___.
+
+# ? VAP: Patient was noted to be febrile on ___ and 
+subsequently placed on ___ since that time. Infectious w/u 
+at rehab was negative. CXR here w/ area of atelectasis vs 
+infection on left side. UA w/ WBC, bacteria, blood i/s/o chronic 
+foley. She completed ___ on day of admission. Blood and 
+urine cx’s negative. Sputum culture from BAL showing >25 PMNs 
+with presence of yeast as above. 
+
+#Asthma: Albuterol prn
+#Orthostatic hypotension: discontinued midodrine on discharge 
+from ICU
+#Constipation : discontinued senna/Colace on discharge from ICU
+
+Communication: 
+HCP: ___: Relationship daughter: ___, cell
+phone: ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+2. Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+3. Escitalopram Oxalate 10 mg PO DAILY 
+4. Famotidine 20 mg PO BID 
+5. Theophylline SR 100 mg PO BID 
+6. Miconazole 2% Cream 1 Appl TP BID 
+7. Midodrine 5 mg PO TID 
+8. QUEtiapine Fumarate 12.5 mg PO QHS 
+9. Senna 8.6 mg PO BID:PRN constpiation 
+10. Bisacodyl 10 mg PR QHS:PRN constipation 
+11. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild 
+12. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB 
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired 
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12796016-DS-4 | hadm_id=26188468
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+latex
+ 
+Attending: ___
+ 
+Chief Complaint:
+Found down
+ 
+Major Surgical or Invasive Procedure:
+___ Ant Corpectomy C7, C4-T1 fusion, post fusion C4-T1
+ 
+History of Present Illness:
+Eu critical ___ is an ___ yo female who was found down
+after being down for an unknown length of time although 
+estimated
+___ approximately 8 hours. The patients daughter who lives in
+___ called the police department to perform a well check 
+on
+her mother and when she was found down she was unable to move or
+feel her legs, and was hypothermic, bradycardic, and 
+hypotensive.
+Neurosurgery was consulted on patient arrival for further
+evaluation and recommendations.
+ 
+Past Medical History:
+Unknown
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+=============
+ON ADMISSION
+=============
+Gen: log roll, on back board
+HEENT: some dirt covering face, normocephalic, atraumatic
+Neck: cervical collar in place
+Extrem: cold to touch
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Motor:
+      D    B     T    WE   WF    IP    Q  H     AT    ___    G
+R     4    5     0    4    4     1     0  0     0      0     0  
+L     4    5     0    4    4     0     0  0     0      0     0
+
+Reflexes: B   T  Br   Pa  Ac
+Right     3+  3+  3+  absent 
+Left      3+  3+  3+  absent
+
+Toes mute
+Rectal tone absent
+
+=============
+ON DISCHARGE
+
+CURRENT PHYSICAL EXAM:  
+General: elderly female, appears comfortable 
+HEENT: trach in place, Mucous membranes moist
+Neck: Incisions c/d/I, open to air
+CV: RRR, S1, S2, S4, possibly also S3
+Lungs: coarse rhonchi, decreased at bases bilaterally
+Abdomen: soft, slightly distended, +hyperactive BS, Peg site 
+with minimal drainage 
+GU: foley in place 
+Ext:  warm, well perfused, pitting edema present b/l hands L>R, 
+and bilat lower extremities
+Skin: intact 
+
+Neuro:  
+MS- opens eyes spont, follows commands briskly, nods yes and no, 
+mouths words appropriately. 
+CN- pupils ___ bilat, face appear symmetric
+Sensory/Motor- Bilateral distal>proximal weakness. BUE ___ delt 
+(varies significantly by effort), 3 to ___ L stronger than R 
+tri, ___ bi. Bilat hand grasp ___. bilat wrist flexion ___. BLE 
+___ to noxious
+Reflexes- UE 2+ reflexes (bi, tri, BR) 0 patella, 0 Achilles
+Coordination- no dysmetria with large scale upper extremity 
+movements
+
+=============
+ 
+Pertinent Results:
+==============
+IMAGING & LABS
+==============
+
+___ CT torso: 1. Acute T2 and T7 compression fractures without 
+retropulsion of fracture 
+fragments into the adjacent spinal canal.  Cervical fracture and 
+
+anterolisthesis of C6 over C7 is better seen on the dedicated CT 
+cervical 
+spine. 
+2. No acute intra-abdominal or intrapelvic abnormalities. 
+3. Multiple hypodensities in the pancreas, measuring up to 4 mm, 
+likely 
+representing side-branch IPMNs. 
+4. Multinodular goiter. 
+
+___ MR ___ spine: . Again seen are multiple fractures of the 
+cervical spine, better assessed on 
+recent CT neck, with anterolisthesis of C6 on C7, acute moderate 
+compression 
+fracture of C7 vertebral body with associated retropulsion 
+component causing 
+severe spinal canal stenosis with cord compression, cord edema, 
+and diffusion 
+abnormality suggestive of cord contusion or ischemia. 
+2. Injury to the anterior longitudinal ligament, posterior 
+longitudinal 
+ligament, interspinous ligament and ligamentum nuchae. 
+3. Nonspecific bone marrow signal abnormality of the visualized 
+T1-T4 
+vertebral bodies, may be related to osseous contusion. 
+4. Moderate multilevel cervical spondylosis. 
+
+___ TTE: The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). The estimated cardiac index is normal 
+(>=2.5L/min/m2). Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). The right 
+ventricular cavity is mildly dilated with borderline normal free 
+wall function. The right ventricular apex is relative 
+hyperkinetic, c/w ___ sign (seen in pulmonary embolism). 
+The aortic valve leaflets are mildly thickened (?#). There is no 
+aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is no mitral 
+valve prolapse. Mild (1+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. There is moderate 
+pulmonary artery systolic hypertension. There is an anterior 
+space which most likely represents a prominent fat pad. A left 
+pleural effusion is present. 
+ IMPRESSION: Milldly dilated right ventricle with borderline 
+free wall systolic function but relative hypercontractility of 
+the apex (consider pulmonary embolism). Moderate pulmonary 
+hypertension. Normal left ventricular global/regional systolic 
+function. Elevated LV filling pressure suggested. Mild mitral 
+regurgitation. 
+ 
+
+___ CTA chest: No evidence of pulmonary embolism or acute aortic 
+abnormality. 
+2. There has been interval improvement in patchy airspace 
+disease within the 
+right upper lobe and lingula.  Patchy airspace disease within 
+the inferior 
+right upper lobe has also slightly improved.  There is minimal 
+patchy airspace 
+disease within the right middle lobe without significant change. 
+ Bibasilar 
+collapse and consolidation re-demonstrated concerning for 
+pneumonia left 
+greater than right with air bronchograms. 
+
+___ 02:36AM BLOOD Plt ___
+
+___ 02:36AM BLOOD WBC-8.1 RBC-2.93* Hgb-8.6* Hct-26.9* 
+MCV-92 MCH-29.4 MCHC-32.0 RDW-13.7 RDWSD-45.3 Plt ___
+
+___ 02:35AM BLOOD Glucose-133* Creat-0.5 Na-140 K-3.5 
+Cl-101 HCO3-30 AnGap-13
+
+___ 02:50AM BLOOD Glucose-154* UreaN-29* Creat-0.9 Na-137 
+K-4.5 Cl-107 HCO3-21* AnGap-14
+
+___ 02:50AM BLOOD WBC-12.3* RBC-3.93 Hgb-11.9 Hct-35.0 
+MCV-89 MCH-30.3 MCHC-34.0 RDW-12.3 RDWSD-40.0 Plt ___
+ 
+Brief Hospital Course:
+Ms. ___ was transferred to the ___ 
+ED after being found down outside with loss of motor and 
+sensation to her lower extremities.  MRI showed unstable C3-C7 
+fractures with canal disruption and spinal cord injury.  She was 
+hypothermic, hypotensive and bradycardic; she was admitted to 
+the TSICU in acute spinal shock and transferred to Neuro ICU 
+Post op. 
+
+#Neuro
+The patient was admitted to the TSICU in acute spinal shock.  
+Cervical collar remained in place; she was maintained on 
+norepinephrine drip to maintain MAP>70 for cord perfusion, which 
+was transitioned to phenylephrine (see Cardiac section). MAP 
+goal was relaxed on HD 2. Surgical fusion was discussed with the 
+patient and family and she was placed on the OR schedule for 2 
+stage posterior and anterior fusions. Family meeting was held on 
+HD 3 all questions answered. On ___, she underwent anterior C7 
+corpectomy and C4-T1 fusion, and stage II posterior fusion C4-T1 
+with Dr. ___. Procedure was uncomplicated and she was 
+transferred intubated to the ICU postop. She remained in hard 
+collar at all times postoperatively. On ___, staples were 
+removed. The incision appeared well healed. On ___, cervical 
+collar was removed, may be worn for comfort as needed.   She 
+will follow up in the office in 1 month with Cervical Spine CT
+
+#Respiratory
+The patient maintained her airway pre-op and did not require 
+intubation. On ___, the chest x-ray and CTA revealed bilateral 
+pleural effusions, left greater than right as well as an 
+aspiration PNA. The CTA was negative for PE. She underwent 
+bilateral lower extremity Doppler studies which were negative 
+for DVT. She was started on a course of Cefepime and Vancomycin 
+for treatment of the PNA. Chest x-ray on ___ which showed a 
+worsening left pleural effusion. On ___, the pleural effusion 
+was tapped for 500cc. On ___ in ___ the patient was turned to 
+left side and had immediate desaturation to 90 and SBP to ___, 
+returned to baseline when off left side. On ___, she was placed 
+on Lasix drip for reaccumulation of left pleural effusion.  The 
+patients daughter agreed to trach placement. Tracheostomy was 
+placed by ACS on ___. On ___, the patient became tachypneic. 
+CXR showed worsening of 
+bilateral pleural effusions. She underwent bilateral placement 
+of pigtail catheters. On ___, catheters were removed. Trach was 
+placed ___ and she is intermittently able to be weaned to trach 
+collar.  She was evaluated by SLP for speaking valve ___, but 
+he was unable to exhale, appeared anxious and becomes 
+bradycardic, so SLP re-eval was deferred until trach could be 
+downsized. On ___, the patient complained of shortness of 
+breath and was placed on the PSV/CPAP in the morning. The 
+patient is intermittently on the vent for pressure support.  ACS 
+was going to downsize her trach on ___, however they did not 
+have the right equipment.  Her trach should be downsized per 
+rehab with a SLP eval afterward.  Currently she has Portex 8.0 
+in place, recommendation is to downsize to 6.0. She doesn't have 
+too many secretions, and only requires intermittent suctioning.  
+She does at times feel short of breath and asks for suction.  At 
+other times she feels short of breath and because tachypneic 
+requiring vent support, most recent settings ___ overnight PSV 
+8 PEEP 5 FiO2 40%.  On transfer to rehab, she is on trach collar 
+40% humidified air. 
+
+#Cardiac
+The patient was noted to be bradycardic on admission; 
+norepinephrine was used to maintain MAP goal in setting of 
+bradycardia. On ___, patient developed tachy arrhythmia so 
+norepinephrine was transitioned to phenylephrine, with MAP 
+goal>60.  On ___, the patient had a 6-beat run of SVT. A set of 
+lytes were ordered and they were within normal limits. On ___ 
+overnight the patients EKG had diffuse T-wave inversions (new), 
+trop and CK-MB negative.  Patient did require a prolonged course 
+of phenylephrine to maintain MAP >60 in setting of spine shock.  
+Patient was weaned off pressors with addition of midodrine and 
+florinef to regimen.  On discharge, patient is has been weaned 
+to midodrine 5mg po TID.  Patient does have intermittent 
+bradycardia to which she will brady to ___, and even with 5 
+second pause.  She did require atropine 0.5mg IV 3 times during 
+her stay, last dose given ___.  EP was consulted.  Their 
+recommendation was to add theophylline 100mg po BID to patient's 
+regimen to help with increased parasympathetic tone and 
+autonomic instability.  Patient's bradycardia is thought to be a 
+significant parasympathetic response in setting of C spine 
+injury. Pacemaker or other instrumentation is not indicated in 
+this situation. These episodes should self resolve, EP does not 
+believe that atropine was helpful the 3 times it was given 
+during this admission, but rather the patient responded on her 
+own before effects of atropine could take effect.  Theophylline 
+levels do not need to be monitored. 
+
+#Pleural effusions
+See "Respiratory" section for further details.  Patient did 
+require significant diuresis during her stay, as well as 
+bilateral pigtail catheters for pleural effusions.  On 
+discharge, she is receiving 60mg po Lasix daily. 
+
+#Hypotension
+The patient was treated with midodrine for hypotension.
+
+#Anemia
+H&H were noted to be low during her hospitalization. The patient 
+was transfused PRBC's on ___ with improvement in her H&H. On 
+discharge, H and H stable at 8.6 and 26.9.
+
+#GI
+She was maintained NPO on tube feeds postoperatively. The 
+patient continues on and off vent.  She underwent placement of a 
+PEG on ___.  She needs follow up with SLP for re-eval of 
+swallow once trach is downsized to Portex 6.0.  
+
+#GU
+The patient reported that she uses a pessary; which was removed. 
+ Foley catheter was placed for urinary retention. Foley catheter 
+was removed and replaced on ___ in order to allow rectal wound 
+to heal.  
+
+#ID 
+-pneumonia 
+CXR was suspicious for PNA on ___, she was started on 
+cefepime and vanncomycin. On ___ Vanco was discontinued. On 
+___ the patients WBC 19.1 from 13.2. fever overnight 100.7, 
+urine/blood cx from ___ pending and mini BAL from ___ negative 
+for microorganisms final culture is pending. On ___ the 
+patient was febrile to 103, blood/urine/mini BAL was sent. 
+Cefepime was continued at current dose. She was febrile on ___ 
+to 103 and recultured. On ___ Cefepime was changed to meropenem 
+for new growths from BAL. On ___ Meropenem completed and 
+continued on Vanco for total of 7 day treatment. Frequent vanco 
+levels were checked and vanco was titrated accordingly.  
+-Yeast infection
+She was started on Miconazole intravag. x 3 days for yeast 
+(___)
+- rectal wound
+Patient did have a flexiseal in place for some time for 
+diarrhea. Once flexiseal removed she was noted to have would by 
+her rectum.  She was seen by wound RN, recommendation is OTA.
+
+#Suicidal ideations
+The patient mouths the desire to die and psych was consulted. It 
+was determined she does not have the capacity to make those 
+decisions. On ___, she began to mouth "I want to die" and was 
+more consistent, psych re-consulted on ___. She was 
+re-evaluated by ___ and is agreeing to continued care. 
+
+ 
+
+ 
+
+ 
+Medications on Admission:
+Unknown
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Bisacodyl 10 mg PO/PR DAILY  
+3.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID  
+4.  Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  
+5.  Docusate Sodium 100 mg PO BID  
+6.  Enoxaparin Sodium 40 mg SC Q24H 
+7.  Escitalopram Oxalate 10 mg PO DAILY  
+8.  Famotidine 20 mg PO BID  
+9.  Furosemide 60 mg PO DAILY  
+10.  Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  
+11.  Glycopyrrolate 0.2 mg IV Q12H:PRN for secretions  
+12.  Haloperidol 0.5 mg PO QHS  
+13.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN SOB  
+14.  Midodrine 5 mg PO TID  
+15.  Sarna Lotion 1 Appl TP TID:PRN pruritis   
+16.  Senna 8.6 mg PO BID:PRN Constipation   
+17.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+18.  Sodium Chloride 0.9%  Flush 3 mL IV Q8H and PRN, line flush 
+ 
+19.  Theophylline (Oral Solution) 100 mg PO Q12H  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Unstable C3-7 fractures with canal disruption s/p Ant corpectomy 
+C7 and C4-T1 fusion
+Spinal cord injury with acute spinal shock, subsequent autonomic 
+instability with bradycardia from increased parasympathetic tone
+Acute ventilator dependent respiratory failure w/ PNA, pleural 
+effusions
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Activity Status: Bedbound.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Spinal Fusion
+
+Surgery
+•Your incision is closed with staples or sutures. You will need 
+suture/staple removal. 
+•Do not apply any lotions or creams to the site. 
+•Please keep your incision dry until removal of your 
+sutures/staples.
+•Please avoid swimming for two weeks after suture/staple 
+removal.
+•Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+•*** You must wear your brace at all times. You do need to 
+sleep with it on. 
+•*** You must wear your brace while showering. 
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•No contact sports until cleared by your neurosurgeon. 
+•Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications
+•***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+•Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc… until cleared by your 
+neurosurgeon.
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+•It is important to increase fluid intake while taking pain 
+medications. We also recommend a stool softener like Colace. 
+Pain medications can cause constipation. 
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the incision 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•New weakness or changes in sensation in your arms or legs.
+
+ 
+Followup Instructions:
+___

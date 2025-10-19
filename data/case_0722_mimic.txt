@@ -1,0 +1,545 @@
+===== DISCHARGE NOTE =====
+note_id=12328821-DS-13 | hadm_id=22091494
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Cephalosporins / Erythrocin / esomeprazole / Macrolide 
+Antibiotics / Penicillins / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with h/o dementia who presents from nursing 
+home w/ increased AMS and abdominal pain in the setting of 
+recently treated UTI. Briefly, pt was noted to display worsening 
+AMS and lethargy along with mild fevers, decreased PO intake, 
+and increasing abdominal pain yesterday AM. Notably she was 
+recently
+treated for symptomatic UTI  (abx and course unknown), though 
+she currently reports resolution of sx. She was sent to ___ ED 
+for further evaluation where CT A/P showed c/f ischemic vs 
+infectious colitis. On arrival, pt was hemodynamically stable 
+and labs were notable for a leukocytosis to 15. Her history is 
+somewhat unreliable given dementia, but she denies 
+fevers/chills, N/V/D, CP/SOB, recurrent dysuria.
+ 
+Past Medical History:
+Nonruptured cerebral aneurysm
+Hx upper GI bleed
+Rotator cuff injury
+Fibromyalgia
+Urinary incontinence
+IDDM type 2- denies insulin or FSBS at home
+Hypercholesterolemia
+Cataract
+Glaucoma
+Prior note says hx COPD but pt denies
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals:  101.2  101  117/61 19 97% RA          
+Gen: A&Ox3 with questioning of person/place/time; well-appearing
+female, in NAD
+HEENT: No scleral icterus, no palpable LAD
+Pulm: CTAB, no w/r/r
+CV: NRRR, no m/r/g
+Abd: soft, ND focal tenderness to palpation only of LLQ with 
+mild
+voluntary guarding; no rebound/guarding, no palpable masses
+Ext: WWP bilaterally, no c/c/e, no ulcerations
+Neuro: moves all limbs spontaneously, no focal deficits
+
+Discharge Physical Exam:
+VS:
+GEN: Awake, alert, sitting up in bed.
+HEENT: PERRL, EOMI. neck midline. Mucus membranes pink/moist.
+CV: RRR
+PULM: Clear to auscultation bilaterally.
+ABD: Soft, non-tender, non-distended. Active bowel sounds.
+EXT: Warm and dry. 2+ ___ pulses. No edema.
+NEURO: Alert, interactive, oriented x2. Follows commands and 
+moves all extremities equal and strong. 
+
+ 
+Pertinent Results:
+___ 06:31AM BLOOD WBC-8.3 RBC-3.89* Hgb-10.1* Hct-32.8* 
+MCV-84 MCH-26.0 MCHC-30.8* RDW-15.4 RDWSD-47.5* Plt ___
+___ 07:10AM BLOOD WBC-6.4 RBC-3.65* Hgb-9.5* Hct-31.0* 
+MCV-85 MCH-26.0 MCHC-30.6* RDW-15.5 RDWSD-48.3* Plt ___
+___ 01:45PM BLOOD WBC-6.6 RBC-3.44* Hgb-8.9* Hct-29.3* 
+MCV-85 MCH-25.9* MCHC-30.4* RDW-15.5 RDWSD-48.2* Plt ___
+___ 07:05AM BLOOD WBC-5.1 RBC-3.73* Hgb-9.7* Hct-32.1* 
+MCV-86 MCH-26.0 MCHC-30.2* RDW-15.5 RDWSD-48.8* Plt ___
+___ 07:25AM BLOOD WBC-6.9 RBC-3.67* Hgb-9.4* Hct-31.7* 
+MCV-86 MCH-25.6* MCHC-29.7* RDW-15.8* RDWSD-50.2* Plt ___
+___ 08:20AM BLOOD WBC-8.4 RBC-3.59* Hgb-9.4* Hct-30.3* 
+MCV-84 MCH-26.2 MCHC-31.0* RDW-16.1* RDWSD-49.1* Plt ___
+___ 02:40PM BLOOD WBC-15.0* RBC-4.09 Hgb-10.7* Hct-34.7 
+MCV-85 MCH-26.2 MCHC-30.8* RDW-16.0* RDWSD-50.0* Plt ___
+___ 06:31AM BLOOD Glucose-97 UreaN-3* Creat-0.6 Na-138 
+K-3.8 Cl-103 HCO3-23 AnGap-12
+___ 07:10AM BLOOD Glucose-91 UreaN-3* Creat-0.6 Na-140 
+K-3.6 Cl-103 HCO3-23 AnGap-18
+___ 01:45PM BLOOD Glucose-95 UreaN-<3* Creat-0.6 Na-137 
+K-3.5 Cl-102 HCO3-22 AnGap-17
+___ 07:25AM BLOOD Glucose-74 UreaN-10 Creat-0.6 Na-139 
+K-3.5 Cl-104 HCO3-20* AnGap-19
+___ 03:55PM BLOOD Glucose-111* UreaN-10 Creat-0.7 Na-140 
+K-4.5 Cl-105 HCO3-19* AnGap-21*
+___ 08:20AM BLOOD Glucose-124* UreaN-8 Creat-0.6 Na-136 
+K-2.9* Cl-99 HCO3-20* AnGap-20
+___ 02:40PM BLOOD Glucose-154* UreaN-5* Creat-0.7 Na-139 
+K-3.4 Cl-99 HCO3-22 AnGap-21*
+___ 02:40PM BLOOD cTropnT-<0.01
+___ 06:31AM BLOOD Calcium-9.1 Phos-3.4 Mg-1.7
+___ 07:10AM BLOOD Calcium-8.8 Phos-3.4 Mg-1.9
+___ 07:05AM BLOOD Calcium-8.4 Phos-1.7* Mg-2.0
+___ 07:25AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.9
+___ 08:20AM BLOOD Calcium-8.8 Phos-1.9* Mg-1.6
+___ 02:40PM BLOOD Calcium-9.3 Phos-2.8 Mg-1.9
+___ 02:42PM BLOOD Lactate-1.7
+___ 02:50PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-40* Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 02:50PM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:50PM URINE RBC-0 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+
+___ 4:40 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+                            **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___ (___) AT 12:50 ___ 
+___. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.            (Reference 
+Range-Negative). 
+
+___ 2:40 pm BLOOD CULTURE
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 2:50 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___:    NO GROWTH.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F with dementia who presented to the 
+emergency department from nursing home facility with increased 
+confusion, decreased PO intake, and abdominal pain. CT abdomen 
+pelvis showed mild pancolitis, which may be infectious, 
+inflammatory or ischemic in nature. White blood cell count 8.4. 
+Stool sample sent positive for Clostridium Difficile. Blood and 
+urine cultures were negative. Chest xray showed no signs of 
+pneumonia. She was admitted to the surgical floor for IV fluids, 
+abdominal exams, and antibiotic treatment. 
+
+On HD2, abdominal pain decreased and diet was advanced to 
+clears. On HD3 her diet was advanced to regular with continued 
+good tolerability. On HD4 flagyl was added to antibiotic regimen 
+due to continued multiple bowel movements. On HD5 frequency of 
+bowel movements decreased, she continued to tolerate a regular 
+diet without abdominal pain. White blood cell count was 
+monitored and remained stable, within normal limits and the 
+patient remained afebrile. The patient voided without problem. 
+During this hospitalization, the patient ambulated early and 
+frequently, was adherent with respiratory toilet and incentive 
+spirometry, and actively participated in the plan of care. The 
+patient received subcutaneous heparin and venodyne boots were 
+used during this stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged to rehab. The patient 
+received discharge teaching and follow-up instructions with 
+understanding verbalized and agreement with the discharge plan. 
+
+ 
+Medications on Admission:
+ASA 81', atorvastatin 10', brimonidone eye drops b/l eyes ',
+buproprion 100'', colace 200'', ferrous sulfate 325', 
+latanoprost
+b/l eyes QHS, ranitidine 150'', timolol ftt b/l eyes', vesicare
+10, vitamin D 2000U', acetaminophen 650'''' PRN, trazodone 25'
+PRN insomnia
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+2.  MetroNIDAZOLE 500 mg PO Q8H 
+End ___.  
+3.  Vancomycin Oral Liquid ___ mg PO Q6H 
+End ___.  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 10 mg PO QPM  
+6.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES QHS  
+7.  BuPROPion 100 mg PO BID  
+8.  Ferrous Sulfate 325 mg PO DAILY  
+9.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+10.  Ranitidine 150 mg PO BID  
+11.  Timolol Maleate 0.25% 1 DROP BOTH EYES DAILY  
+12.  TraZODone 25 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Clostridium Difficile colitis 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the Acute Care Surgery Service on ___ 
+with abdominal pain and found to have an infection in your lower 
+intestine called c.diff. You were given the appropriate 
+antibiotics for this infection and your abdominal pain resolved. 
+You are now doing better, tolerating a regular diet, and ready 
+to be discharged back to rehab to continue your recovery.
+
+Please note the following discharge instructions:
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12328821-DS-12 | hadm_id=23392763
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cephalosporins / Erythrocin / esomeprazole / Macrolide 
+Antibiotics / Penicillins / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+parotiditis
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ F w/PMHx significant for IDDM type 2, 
+hypercholesterolemia, fibromyalgia, hx of meningitis, presenting 
+to our ED with increasing facial swelling and hoarseness. 
+Patient has had facial swelling since ___. She was seen at 
+an OSH x 2 and given Benadryl for what was assumed to be an 
+allergic reaction. She was then sent back to her living 
+facility. Since then the swelling, redness, and pain has 
+increased, which prompted her facility to bring her to our ED 
+___ where she was admitted to the TSICU for airway watch.
+ 
+Past Medical History:
+Nonruptured cerebral aneurysm
+Hx upper GI bleed
+Rotator cuff injury
+Fibromyalgia
+Urinary incontinence
+IDDM type 2- denies insulin or FSBS at home
+Hypercholesterolemia
+Cataract
+Glaucoma
+Prior note says hx COPD but pt denies
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION EXAM
+
+Gen: sitting up, agitated, short of breath, visibly 
+uncomfortable
+HEENT: left cheek and neck warm swollen and tender to palpation, 
+with redness extending down towards shoulder and up around 
+orbit. Minimal mouth opening due to pain. PERRLA, EOMI
+Pulm: lungs CTAB, no wheezes/rhonchi appreciated. Distant breath 
+sounds likely ___ body habitus
+Abd: soft, NT, ND
+Ext: WWP
+Skin: Skin ok other than redness as described above
+Neuro: A&O x 3
+
+DISCHARGE EXAM
+98.3 118 / 67 71 18 91 Ra  
+General: No apparent distress
+HEENT: Minimal left sided facial edema and erythema, almost 
+resolved,. Clear oropharynx with minimal swelling. No 
+respiratory difficulty.
+Cardiac: RRR nl s1/s2
+Respiratory: CTAB, no increased effort of respirations
+Abdomen: Soft, nontender, nondistended
+Extremities: wwp no edema
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 01:00PM BLOOD WBC-20.0* RBC-3.97 Hgb-10.7* Hct-34.1 
+MCV-86 MCH-27.0 MCHC-31.4* RDW-16.0* RDWSD-50.3* Plt ___
+___ 03:39AM BLOOD WBC-14.3* RBC-3.22* Hgb-8.8* Hct-28.3* 
+MCV-88 MCH-27.3 MCHC-31.1* RDW-16.5* RDWSD-52.7* Plt ___
+___ 01:00PM BLOOD Neuts-90.1* Lymphs-3.4* Monos-5.0 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-18.01* AbsLymp-0.67* 
+AbsMono-0.99* AbsEos-0.01* AbsBaso-0.05
+___ 04:53PM BLOOD ___ PTT-24.9* ___
+___ 03:39AM BLOOD Plt ___
+___ 04:53PM BLOOD ___
+___ 01:00PM BLOOD Glucose-196* UreaN-9 Creat-0.7 Na-138 
+K-3.9 Cl-97 HCO3-26 AnGap-19
+___ 03:39AM BLOOD Glucose-264* UreaN-15 Creat-0.6 Na-137 
+K-3.7 Cl-102 HCO3-26 AnGap-13
+___ 04:53PM BLOOD ALT-16 AST-26 LD(___)-591* AlkPhos-79 
+Amylase-304* TotBili-0.5
+___ 03:39AM BLOOD Calcium-8.1* Phos-2.0* Mg-2.4
+___ 04:53PM BLOOD calTIBC-225* Ferritn-341* TRF-173*
+___ 01:00PM BLOOD %HbA1c-6.0 eAG-126
+___ 12:31AM BLOOD ___ pO2-81* pCO2-41 pH-7.42 
+calTCO2-28 Base XS-1
+___ 01:27PM BLOOD Lactate-1.9
+___ 12:31AM BLOOD freeCa-1.08*
+
+DISCHARGE LABS
+=================
+
+___ 06:00AM BLOOD WBC-12.7* RBC-3.40* Hgb-9.2* Hct-29.5* 
+MCV-87 MCH-27.1 MCHC-31.2* RDW-16.4* RDWSD-51.6* Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-164* UreaN-19 Creat-0.6 Na-140 
+K-4.3 Cl-104 HCO3-22 AnGap-18
+___ 06:00AM BLOOD Calcium-8.2* Phos-2.3*
+
+MICROBIOLOGY
+===============
+No growth on cultures
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+IMAGING
+============
+
+IMAGING: 
+CT Neck ___: Findings concerning for acute bacterial parotitis 
+with significant adjacent superficial edema and retropharyngeal 
+edema.  Enlargement of the left masseter and submandibular gland 
+likely reactive. 
+
+ 
+Brief Hospital Course:
+SUMMARY: ___ h/o DM2, HTN, HLD who presents with parotitis, 
+initially in ICU for airway monitoring. Was treated with 
+dexamethasone and clindamycin. Swelling improved significantly 
+and patient was discharged to rehab on PO clindamycin for 
+further care.
+
+# Parotitis: Patient presented with new left-sided facial edema 
+and swelling. CT Neck on ___ was consistent with acute bacterial 
+parotitis with significant edema, without abscess or stone. ENT 
+was consulted and recommended conservative treatment with airway 
+monitoring in the ICU. She was treated with IV clindamycin 
+starting on ___ plus IV dexamethasone for 36 hours, and 
+transitioned to PO clindamycin on ___. She was given sialgogues, 
+massages, and warm compresses with significant improvement in 
+swelling. Never required intubation or developed acute 
+respiratory distress. She was evaluated by speech and swallow 
+team and was tolerating regular diet without issues. She will 
+follow up with ENT in clinic.
+
+CHRONIC ISSUES:
+# DMII: Continued insulin sliding scale
+# Anemia: Continued ferrous sulfate
+# Depression: Continued home bupropion
+# Primary prevention: Continued home ASA 81mg, atorvastatin 10mg 
+daily
+# Glaucoma: Continued home eye drops.
+# Urinary incontinence: Vesicare held as not on formulary. 
+
+TRANSITIONAL ISSUES:
+- Complete 14-day course of clindamycin (last day ___
+- Will follow up with ENT in clinic
+- Please monitor closely for signs of aspiration. Patient had a 
+small RLL infiltrate but no clinical signs of pneumonia and was 
+swallowing without issues. 
+- Patient had nocturnal desaturations on telemetry. Please 
+consider OSA evaluation as outpatient. 
+- PO prednisone discontinued as no longer needed
+# Code status: DNR/DNI 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 
+4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+5. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE QID 
+6. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP RIGHT EYE DAILY 
+7. PredniSONE 7 mg PO DAILY 
+8. Senna 17.2 mg PO BID:PRN constipation 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. solifenacin 10 mg oral DAILY 
+11. melatonin 5 mg oral QHS 
+12. BuPROPion 100 mg PO BID 
+13. Ferrous Sulfate 325 mg PO DAILY 
+14. Atorvastatin 10 mg PO QPM 
+15. Glargine 10 Units Bedtime
+16. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN Pain 
+- Moderate 
+17. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+18. EPINEPHrine (EpiPEN) 0.3 mg IM PRN anaphylaxis 
+19. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+dyspepsia 
+20. Bisacodyl 10 mg PR QHS:PRN constipation 
+21. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+22. TraZODone 25 mg PO QHS:PRN insomnia 
+23. Naloxone 0.4 mg Subcut PRN sedation, respiratory depression 
+
+ 
+Discharge Medications:
+1.  Clindamycin 450 mg PO Q6H 
+last day ___.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN shortness of 
+breath, wheezing  
+3.  Glargine 10 Units Bedtime 
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+dyspepsia  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 10 mg PO QPM  
+8.  Bisacodyl 10 mg PR QHS:PRN constipation  
+9.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES DAILY  
+10.  BuPROPion 100 mg PO BID  
+11.  EPINEPHrine (EpiPEN) 0.3 mg IM PRN anaphylaxis  
+12.  Ferrous Sulfate 325 mg PO DAILY  
+13.  HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN Pain 
+- Moderate  
+14.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+15.  melatonin 5 mg oral QHS  
+16.  Naloxone 0.4 mg Subcut PRN sedation, respiratory depression 
+ 
+17.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+18.  PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE QID  
+19.  PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP RIGHT EYE DAILY 
+ 
+20.  Senna 17.2 mg PO BID:PRN constipation  
+21.  solifenacin 10 mg oral DAILY  
+22.  Timolol Maleate 0.5% 1 DROP BOTH EYES BID  
+23.  TraZODone 25 mg PO QHS:PRN insomnia  
+24.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Parotitis
+
+SECONDARY DIAGNOSIS:
+Hyperlipidemia
+Diabetes mellitus, type II
+Arthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ due to facial swelling. We found that 
+you had an infection of your glands called parotitis. You were 
+admitted to the ICU and given steroids and antibiotics. You 
+quickly improved.
+
+You will complete a course of antibiotics at ___ and ___ 
+have a follow up appointment with our Ear, Nose, and Throat 
+doctors.
+
+___ wish you all the best!
+- Your ___ care team
+ 
+Followup Instructions:
+___

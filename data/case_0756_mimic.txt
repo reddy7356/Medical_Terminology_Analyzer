@@ -1,0 +1,436 @@
+===== DISCHARGE NOTE =====
+note_id=17863740-DS-8 | hadm_id=22884123
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+collapse
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HPI: (obtained from daughter)
+___ year old female was walking today and fell off the curb. Her 
+daughter left her side for a few seconds and when she turned 
+around the patient was unconscious on the ground. This lasted 
+for about ___ minutes. She was taken to an OSH where she was 
+confused and then she became agitated. The patient was then 
+intubated. She had a head CT which revealed SAH and she was 
+given phosphenytoin. Then she was transferred to ___ for 
+further evaluation.
+ 
+Past Medical History:
+PMHx:Depressive disorder, essential HTN, hyperlipidemia, anemia,
+asthma, skin  lesions, hearing impairment, TAH/BSO
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+PHYSICAL EXAM:
+T:96.7  BP:167/86    HR:60    RR:18       O2Sats:100% vented
+Gen: Intubated and off sedation for exam.
+HEENT: Pupils: PERRL        EOMs-unable to test
+Neck: In hard cervical collar.
+Lungs: CTA bilaterally, vented.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: intubated, unresponsive, no eye opening
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 5 to 4 mm
+bilaterally.
+III-XII: unable to test
+
+Motor: Patient moves all extremities to sternal rub. No
+localizing. No commands. 
+
+Sensation: unable to test
+
+Toes downgoing bilaterally
+
++ 3-beat clonus bilaterally
+
+ON discharge:
+Basleine dementia, Awake alert pleasant and oriented x2-3 with 
+prompting / HOH / speech fluent / comprehension intact / follows 
+complex commands / no drift/ no facial /perrl/ eomi / palate 
+equal / tongue ML / MAE well with ___ right tricep limited to 
+pain.  
+ 
+Pertinent Results:
+Hematology 
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+___ 05:10AM    7.7 3.30* 9.8* 30.4* 92 29.7 32.2 13.3 
+337 
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas 
+___ 11:00AM    88.0*   6.7* 3.9 1.1 0.2     
+TRAUMA 
+  BASIC COAGULATION ___, PTT, PLT, INR) ___ PTT Plt Ct ___ 
+___ 05:10AM        337   
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino 
+___ 11:00AM    303 
+TRAUMA 
+ 
+Chemistry 
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 05:10AM    ___ 141 3.6 ___ 
+ESTIMATED GFR (MDRD CALCULATION) estGFR 
+___ 11:00AM   
+
+CT Head: ___
+INDICATION: Patient is an ___ female status post fall at 
+outside 
+hospital stated orbital fracture and hemorrhage. Intubated. 
+Evaluate for 
+progression of hemorrhage from outside film. 
+  
+EXAMINATION: Non-contrast head CT. 
+  
+COMPARISONS: Comparison made to outside reference CTs from 
+___. 
+  
+TECHNIQUE: Contiguous axial images were obtained through the 
+brain. No 
+intravenous contrast was administered. Coronal and sagittal 
+reformations were 
+obtained. 
+  
+FINDINGS: There are two linear foci of high attenuation tracking 
+adjacent to the right frontal lobe, best seen on (2:19 and 2:22) 
+that are most compatible with areas of subarachnoid hemorrhage, 
+and a more focal rounded area of high attenuation best seen on 
+(2:21) that is most likely subarachnoid hemorrhage, however, an 
+intraparenchymal location cannot be excluded. There is no 
+evidence of mass effect with no midline shift. The gray-white 
+matter differentiation is preserved with no evidence of acute 
+territorial infarction. There is extensive periventricular 
+hypodensity, compatible with chronic small vessel ischemic 
+changes. The ventricles and sulci are prominent, most compatible 
+with age-related involutional changes. Note is made of an air- 
+fluid level seen within the right maxillary sinus with 
+high-attenuation components most suggestive of hemorrhage, 
+however, no definitive associated facial bone fracture is 
+identified. The remainder of the paranasal sinuses and mastoid 
+air cells are well aerated. In comparison to outside hospital 
+CTs, linear foci of hemorrhage, not significantly changed in 
+size or distribution. 
+  
+IMPRESSION: 
+1. Stable in appearance since outside hospital examinations, 
+linear foci of high attenuation located adjacent to the right 
+frontal lobe most compatible with areas of subarachnoid 
+hemorrhage, however, with a more focal rounded area that is most 
+likely subarachnoid in location, however, intraparenchymal 
+location cannot be excluded. 
+  
+2. Air/blood-fluid level seen within the right maxillary sinus 
+suggestive of occult fracture, however, no gross fracture 
+visualized. 
+
+CT Head: ___
+HISTORY: ___ female with subarachnoid hemorrhage. This 
+is a followup exam. 
+  
+COMPARISON: Non-contrast head seven and a half hours prior ___, 
+12:27 p.m.). 
+  
+TECHNIQUE: Non-contrast head CT was obtained. 
+  
+FINDINGS: In comparison to the most recent prior study, there is 
+little 
+change foci of high attenuation within or adjacent (3:19, 24). 
+There is no 
+mass effect or shift of normally midline structures. Gray-white 
+matter 
+differentiation remains preserved. Extensive periventricular 
+hypodensities 
+compatible with chronic small vessel ischemic changes are 
+similar to the prior studies. The ventricles and sulci remain 
+prominent, likely due to age-related involutional change. 
+Prominence of the CSF spaces bilaterally is unchanged. 
+  
+Air-fluid level in the right maxillary sinus, with high 
+attenuation is most likely hemorrhage, although as on the prior 
+study, no definite facial fracture is identified. The visualized 
+paranasal sinuses and mastoid air cells remain well aerated. 
+  
+IMPRESSION: 
+1. Unchanged linear foci of high attenuation within or adjacent 
+to the right 
+frontal lobe compatible subarachnoid hemorrhage. No new 
+intracranial 
+hemorrhage. 
+2. Unchanged air/blood-fluid level in the right maxillary sinus. 
+No 
+obvious fracture is identified. 
+3. Unchanged prominence of the CSF spaces bilaterally 
+predominantly overlying the cerebral hemispheres. While this may 
+be due to atrophy or subdural hygroma . 
+  
+MRI Brain: ___
+Final Report 
+EXAMINATION: MR head with and without contrast. 
+  
+TECHNIQUE: Multiplanar MR imaging of the brain was performed 
+with and without intravenous gadolinium. Magnevist 12 mL for 131 
+pounds. 
+  
+HISTORY: ___ female with altered mental status. 
+  
+Comparison with prior CT brain performed ___. 
+  
+FINDINGS: 
+  
+Bilateral near CSF intensity, frontoparietal subdural 
+collections are again identified, consistent with CT findings. 
+  
+Gradient echo images demonstrate a region of susceptibility 
+artifact in the right frontal lobe consistent with hyperdense 
+focus seen on CT. There is diffuse T2/FLAIR signal 
+hyperintensity within the periventricular and deep subcortical 
+white matter. Additionally noted is an old lacunar infarct in 
+the left lentiform nucleus. The intracranial arterial flow voids 
+are patent. There is minimal fluid within the mastoid air cells. 
+There is no evidence of restricted defusion to suggest acute 
+ischemia. There is no abnormal parenchymal enhancement 
+identified. 
+  
+IMPRESSION: 
+  
+1. Persistent bilateral frontoparietal chronic subdural 
+hygromas/hematomas. 
+  
+2. Probable focus of old subarachnoid hemorrhage in the right 
+frontal lobe. 
+  
+3. Severe microangiopathic ischemia white matter disease. 
+  
+Hip X-ray ___
+HISTORY: ___ female with left hip pain and fall. 
+  
+TECHNIQUE: AP PELVIS AND LEFT HIP, TWO VIEWS 
+  
+There are no prior radiographs for comparison. 
+  
+There are bilateral total hip arthroplasties, in expected 
+position, without evidence of hardware loosening or 
+complications. There are old healed fractures of the left 
+superior and inferior pubic rami. There is an ossific fragment 
+measuring 1.3 x 1.9 cm lateral to the right hip joint which may 
+represent heterotopic ossification or an old avulsion fracture. 
+There is degenerative disease of the lower lumber spine. 
+Incidental phleboliths are noted in the pelvis. 
+  
+IMPRESSION: Stable bilateral hip arthroplasties, no acute 
+changes, 
+degenerative disease. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+Wrist X-ray: ___
+HISTORY: Fall and wrist pain. 
+  
+RIGHT WRIST, THREE VIEWS: There are no prior radiographs for 
+comparison. 
+  
+There is diffuse demineralization. There are no acute fractures 
+or 
+dislocations. 
+  
+IMPRESSION: Unremarkable exam. 
+
+EEG: ___ 
+FINDINGS:  
+NOTE: Most of this tracing was obscured by muscle and movement 
+artifact. 
+ABNORMALITY #1: The portion of the tracing that was relatively 
+artifact-free demonstrated a generally regular, ___ Hz mixed 
+delta 
+frequency slow background without obvious asymmetries of 
+amplitude or 
+frequency. 
+BACKGROUND: As above. 
+HYPERVENTILATION: Could not be performed as the patient was 
+unable to 
+cooperate. 
+INTERMITTENT PHOTIC STIMULATION: Could not be performed as the 
+test was 
+requested as a portable study. 
+SLEEP: There were no normal sleep or wake transitions seen. 
+CARDIAC MONITOR: Revealed a generally regular rhythm with 
+average rate 
+of 96 bpm. 
+IMPRESSION: This EEG was without obvious abnormalities, but much 
+of the 
+tracing was obscured by movement and muscle artifact. If 
+clinical 
+suspicion remains high for seizure activity, a repeat tracing or 
+
+continuous EEG recording may provide additional diagnostic 
+information 
+but should be performed at a time when the patient is better 
+able to 
+cooperate with the test. 
+
+EEG ___ and ___: wet read: No acute changes. Diffuse slowing 
+consistant with whote matter disease.
+
+EKG: ___
+Sinus bradycardia with borderline first degree A-V block. 
+Non-specific 
+slight ST-T wave changes. No previous tracing available for 
+comparison.
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+57 210 96 ___ 33 
+
+ 
+
+  
+ 
+Brief Hospital Course:
+Pt was admitted to the SICU and monitored closely.  She remained 
+intubated.  Her neurologic exam showed movement of all 
+extremities but not following commands.  Her poor exam was 
+inconsistent with smalll amount of blood present in head on CT.  
+Neurology consult was obtained who recommended EEG and MRI.  Pt 
+did slowly improve, was extubated and transferred to stepdown 
+unit.  By HD# 5 she was following commands and conversant with 
+no motor deficits - markedly improved neurologic exam.  She had 
+UTI found on UA and was treated with antibiotics.  She was seen 
+by speech and swallow and started on POs and progressed to 
+regular diet with thin liquids but did require 1 to 1 
+supervision with meals. She complained of left hip pain and 
+right wrist pain.  Xrays were taken.  Left hip xrays showed well 
+positioned hardware/ no acute fracture and right wrist xrays 
+showed no sign of fracture.
+24 hr EEG was performed and showed bilateral diffuse slowing 
+consistant with white matter disease. MRI head was done and 
+showed persistent bilateral frontoparietal chronic subdural 
+hygromas/hematomas as well as probable focus of old subarachnoid 
+hemorrhage in the right frontal lobe. Severe microangiopathic 
+ischemia white matter disease was demonstrated. 
+She was evaluated by ___ and OT and was recommended for rehab. On 
+___ she continued to show improvement in her cognition. She 
+had decreased pain at right wrist and the left hip. It was felt 
+that she was medically cleared to be transfered to a rehab 
+facility and the patient and her daughter agreed with this plan.
+ 
+Medications on Admission:
+Medications prior to admission:
+HCTZ 12.5mg daily
+Celexa 20mg daily
+Flovent HFA 110 mcg/act aero - 1 inhalation daily 
+Flonase 50 mcg/act suspension - 1 spray each nostril Qpm
+Aspirin 81 mg daily
+Ditropan 5 mg QHS
+Boniva 150 mg - 1 tablet every month
+Celebrex ___ mg daily
+Tylenol ___ mg PRN
+Multivitamin daily
+Vitamin D 400 unit tablets - 2 tabs daily
+Os-cal 500 + D tabls - 1 tablet BID
+Vitamin E 400 IU cap - 1 tablet daily
+Vitamin C 500 mg daily
+Vitamin B6 - 1 tablet 3 x per week
+Thiamine 100 mg - 1 tablet 3 x per week
+Vitamin B1 100mg - 1 tablet 3 x per week
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED).  
+3. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+4. Fluticasone 110 mcg/Actuation Aerosol Sig: One (1) Puff 
+Inhalation DAILY (Daily).  
+5. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) 
+Spray Nasal QPM (once a day (in the evening)).  
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+9. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule 
+PO Q 8H (Every 8 Hours) for 2 days: to end after last dose on 
+___.  
+10. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+13. Haloperidol Lactate 5 mg/mL Solution Sig: 0.25 mg Injection 
+Q4H (every 4 hours) as needed for agitation.  
+14. Haloperidol 0.5 mg Tablet Sig: 0.25 mg PO Once Daily at 6 
+___.  
+15. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours) as needed for left hip pain  for 48 days.  
+16. Ondansetron 4 mg IV Q8H:PRN nausea 
+17. HydrALAzine 10 mg IV Q6 PRN SBP >160 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Traumatic brain injury
+UTI
+
+ 
+Discharge Condition:
+neurologically improved
+
+ 
+Discharge Instructions:
+General Instructions
+
+•Take your medicine as prescribed.
+•Exercise should be limited to walking; no lifting, straining, 
+or excessive bending.
+•Increase your intake of fluids and fiber, as narcotic pain 
+medicine can cause constipation. We generally recommend taking 
+an over the counter stool softener, such as Docusate (Colace) 
+while taking narcotic pain medication.
+•You have been prescribed Dilantin (Phenytoin) for anti-seizure 
+medicine, take it as prescribed through ___ then discontinue.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+•New onset of tremors or seizures.
+•Any confusion, lethargy or change in mental status. 
+•Any numbness, tingling, weakness in your extremities.
+•Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+•New onset of the loss of function, or decrease of function on 
+one whole side of your body.
+ 
+Followup Instructions:
+___

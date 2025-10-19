@@ -1,0 +1,1562 @@
+===== DISCHARGE NOTE =====
+note_id=18362456-DS-23 | hadm_id=20812883
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath and decreased activity tolerance
+ 
+Major Surgical or Invasive Procedure:
+___ s/p ___ BiV ICD
+
+ 
+History of Present Illness:
+HPI:   This is a ___ y.o. woman with the following past medical
+history: 
+
+1.   Dilated cardiomyopathy, ___ EF 20%.
+2.   Left bundle-branch block pattern on EKG.
+3.   Poorly controlled diabetes type 2
+4.   NASH with stage III cirrhosis on biopsy.
+5.   Morbid obesity.
+6.   Obstructive sleep apnea, on CPAP.
+7.   Hypertension.
+8.   Hyperlipidemia.
+9.   Hypothyroidism.
+10.  OCD followed at ___.
+11.  C- sections x 2
+12.  s/p Cataract surgery 
+
+She has a non-ischemic cardiomyopathy with most recent LVEF
+showing a reduction from 40% in ___ down to 20%. She is ___
+class III. Repeat echocardiogram has demonstrated persistent
+reduction in LVEF of about ___ on good therapy.  She also has
+a LBBB on ECG of 160ms. She is now referred for CRT with
+placement of biventricular ICD/pacer. 
+
+She reports mild dyspnea with moderate exertion. She denies any
+___ edema, PND, orthopnea, palpitations, or chest pain.  She has
+noted some decreased activity tolerance over the past couple of
+years. 
+ 
+Past Medical History:
+1. Idiopathic dilated cardiomyopathy (recent EF 45%, up from  
+ ___. Baseline LBBB.  
+ 2. Poorly controlled type 2 diabetes (recent A1c 13%)  
+ 3. NASH with stage 3 cirrhosis on biopsy in ___. Followed by 
+Dr. ___ - recent US without evidence of HCC.  
+ 4. Morbid obesity.  
+ 5. Obstructive sleep apnea on CPAP at home.  
+ 6. Hypertension.  
+ 7. Hyperlipidemia.  
+ 8. Hypothyroidism  
+ 9. OCD, followed at ___  
+
+ 
+Social History:
+___
+Family History:
+Father had heart disease with question of an enlarged heart and 
+sudden cardiac death at age ___. Mother with congestive heart 
+failure, multiple aunts and uncles with coronary artery disease. 
+ 
+
+ 
+Physical Exam:
+Objective: focused exam
+VS: T 98.6, BP 123/71 mmHG, HR 94-105 bpm, RR 18/min, O2 98% 
+CPAP
+Gen: pleasant, NAD
+Neck: JVP not elevated. Normal carotid upstroke without bruits. 
+Chest: lungs CTAB, no crackles or wheezing. Nasal CPAP on.
+CV: RRR, nl S1,S2, no S3/S4. No murmurs, rubs, or gallops.
+Deltopectoral site w dressing c/d/i, no discomfort or hematoma. 
+Abdomen: soft, NT, ND, BS+, obese
+Extremities: wwp, 2+ pulses bilaterally. No femoral bruits. 
+ 
+Pertinent Results:
+___ 11:13AM   GLUCOSE-237* LACTATE-2.6* NA+-136 K+-3.8 
+CL--104
+___ 11:13AM   HGB-12.2 calcHCT-37 O2 SAT-98 CARBOXYHB-1 MET 
+HGB-0
+___ 07:30AM   GLUCOSE-310* UREA N-12 CREAT-0.7 SODIUM-137 
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-23 ANION GAP-19
+___ 07:30AM   WBC-5.8 RBC-4.46 HGB-12.7 HCT-36.4 MCV-82 
+MCH-28.5 MCHC-34.8 RDW-16.1*
+___ 07:30AM   PLT COUNT-154
+___ 07:30AM   ___ PTT-33.1 ___ yr old female with a history of cardiomyopathy, EF ___, 
+LBBB and diabetes who is s/p ___ BiV ICD today.  
+Doing well post procedure, denies complaints of pain.
+
+The device battery, lead sensing and pacing parameters are 
+normal. There is no hematoma, erythema or swelling at the 
+insertion site. The immediate post-procedure chest x-ray did not 
+show a pneumothorax after axillary vein cannulation and 
+demonstrated adequate lead position.
+
+The PA/Lateral CXR on the day post-implant (___) showed 
+stable lead position on all leads and no pneumothorax.
+
+She should continue on antibiotics for a total of 72h since the 
+time of implant. A prescription for cephalexin 500mg q8h was 
+faxed to her pharmacy and should be continued until ___ 
+___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Carvedilol 12.5 mg PO BID 
+2. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using REG Insulin
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. liraglutide 0.6 mg/0.1 mL (18 mg/3 mL) subcutaneous daily 
+5. Lisinopril 20 mg PO DAILY 
+6. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+7. Rosuvastatin Calcium 40 mg PO QPM 
+8. Spironolactone 25 mg PO DAILY 
+9. Torsemide 40 mg PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+11. Vitamin D ___ UNIT PO DAILY 
+12. Glucose Tab ___ TAB PO PRN hypoglycemia 
+13. LOPERamide 2 mg PO QID:PRN diarrhea 
+14. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Carvedilol 12.5 mg PO BID 
+3. Cephalexin 500 mg PO Q8H 
+for 2 days 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. Vitamin D ___ UNIT PO DAILY 
+6. Victoza 2-Pak (liraglutide) 0.6 mg/0.1 mL (18 mg/3 mL) 
+subcutaneous QAM 
+7. Lisinopril 20 mg PO DAILY 
+8. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+Do Not Crush, 3 tabs daily 
+9. Multivitamins 1 TAB PO DAILY 
+10. Rosuvastatin Calcium 40 mg PO DAILY 
+11. Spironolactone 25 mg PO DAILY 
+12. Torsemide 40 mg PO DAILY 
+13. HumuLIN R U-500 Concentrated (insulin regular hum U-500 
+conc) 500 unit/mL subcutaneous TID 
+sliding scale with meals as per Dr. ___ 
+14. Acetaminophen 650 mg PO Q6H:PRN fever, pain 
+do  not exceed 2 grams in one day 
+15. Glucose Tab ___ TAB PO PRN hypoglycemia 
+16. LOPERamide 2 mg PO QID:PRN diarrhea 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cardiomyopathy: s/p BiV ICD ___
+
+ 
+Discharge Condition:
+Physical Exam:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+A+P:
+A ___ yr old female with a history of cardiomyopathy, EF ___, 
+LBBB and diabetes who is s/p ___ BiV ICD ___. 
+ Doing well post procedure, denies complaints of pain. 
+
+1. Cardiomyopathy: s/p BiV
+-Antibiotics for 72 hours
+-Continue Torsemide, Spironolactone, Lisinopril and Carvedilol 
+-Follow up in the device clinic in one week
+
+2. Diabetes: poorly controlled
+-Diabetic diet
+-Check sugars AC/HS, cover with sliding scale        
+-Continue Victoza QAM
+
+ 
+Discharge Instructions:
+You had a biventricular implantable cardioverter (ICD) placed to 
+help treat your heart failue and to shock you heart out of 
+dangerous rhythms should they occur.  Please continue all of 
+your current medications, in addition you will need to take an 
+antibiotic (Keflex) 500mg three times a day for the next 2 days. 
+ Activity restrictions and care of your left ICD site are listed 
+in your nursing dishcarge instructions. Due to your diagnosis of 
+heart failure please continue to weigh yourself every morning, 
+call MD if weight goes up more than 3 lbs in ___ days.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18362456-DS-20 | hadm_id=21682893
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Exertional dyspnea
+ 
+Major Surgical or Invasive Procedure:
+LHC/RHC
+ 
+History of Present Illness:
+___ with h/o uncontrolled DM on insulin, HTN, HL, morbid 
+obesity presenting to the ED last night from her PCP office with 
+new onset worsening DOE x1mo. She has had declining exercise 
+tolerance over the past month, could previously walk 20 mins but 
+now with worsening SOB over past 2d with minimal exertion (SOB 
+walking <1block).  Pt cannot identify trigger for worsening DOE 
+2 days prior to presentation.  Pt reports some SOB at rest as 
+well today. Also reports chest burning with exertion, which 
+resolves with rest and dry cough worse in am x1 month. Recent 
+loss of 30lbs intentionally, but gained back within last 
+2months. Denies N/V, weakness, lightheadedness, HA, 
+palpitations, ___ swelling more than baseline.  Denies orthopnea, 
+PND.
+
+In the ED, patient slightly tachycardic and diaphoretic. O2 sat 
+95% on RA; able to speak in full sentences. Fine crackles at 
+bases bilaterlly. Initial vitals: HR 98 BP 140/80, resp 22, sat 
+98% on 2L. EKG shows sinus tach at 100bpm, non-specific T-wave 
+changes in anterior and lateral leads.  Pt put on rule-out 
+protocol and CXR and BNP were obtained. CXR & BNP consistent w/ 
+CHF, so 20mg IV Lasix given. Labs significant for trops neg x2, 
+chem and CBC WNL with BUN/CR ___, lactate 2.4-->1.3. 
+Cardiology was consulted and recommended baseline echo and 
+dobutamine stress echo in am. Echo this morning showing new left 
+ventricular cavity dilation with extensive systolic dysfunction 
+suggestive of a non-ischemic cardiomyopathy with EF ___.  In 
+setting of baseline echo results, dobutamine stress echo on 
+hold. Patient given ASA 325mg, lisinopril 20mg, Metop succinate 
+25mg, amlodipine 5mg, rosuvastatin 20mg.  Pt given levothyroxine 
+dose.
+
+Vitals on transfer were 97.2 98 140/80 22 98% 2L.
+   
+On arrival to the floor, patient without complaints other than 
+some SOB while talking.  Pt denies recent flu like illness, TB 
+or HIV risk factors, Hx of rheumatologic conditions. 
+ 
+Past Medical History:
+-poorly controlled T2DM
+-NASH with early cirrhosis
+-morbid obesity
+-OSA on CPAP
+-HTN
+-HL
+  
+ 
+Social History:
+___
+Family History:
+Father with heart disease (?large heart), sudden cardiac death 
+in ___. Mother with CHF. Sister with MVP. Multiple aunts and 
+uncles with CAD. 
+ 
+Physical Exam:
+Admission PE:
+VS: T 98.8, BP 151/78, HR 105, RR 22, SpO2 94% RA 
+GENERAL: morbidly obese, A&Ox3, in NAD. Mood, affect 
+appropriate.  
+HEENT: Sclera anicteric. 
+NECK: Could not assess JVP ___ body habitus
+CARDIAC: RRR. No m/r/g.  
+LUNGS: Tachypneic, speaks in full sentences. No accessory muscle 
+use. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Obese, soft, NTND.   
+EXTREMITIES: Trace ___ edema. Extremities well perfused with 1+ 
+DP pulses.  Feet mildly cool but no signs of mottling.
+NEURO: grossly nonfocal
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.   
+
+Discharge PE:
+: 98, 98/56, 75, 20, 96%RA  
+___  
+wt: 159.9kg --> 156.5kg --> 153.3kg-->152  
+GENERAL: morbidly obese, A&Ox3, in NAD. Mood, affect 
+appropriate.  
+NECK: Could not assess JVP ___ body habitus  
+CARDIAC: RRR. No m/r/g.  
+LUNGS: Breathing comfortable. No accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABDOMEN: Obese, soft, NTND.  
+EXTREMITIES: Trace ___ edema. Extremities warm and well perfused 
+with 1+ DP pulses. cath sites intact.  
+NEURO: grossly nonfocal  
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 09:26PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 09:26PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-SM 
+___ 09:26PM URINE  RBC-1 WBC-8* BACTERIA-FEW YEAST-NONE 
+EPI-12 TRANS EPI-<1 RENAL EPI-<1
+___ 06:22PM   LACTATE-2.4*
+___ 06:10PM   GLUCOSE-209* UREA N-17 CREAT-0.6 SODIUM-141 
+POTASSIUM-3.8 CHLORIDE-99 TOTAL CO2-28 ANION GAP-18
+___ 06:10PM   cTropnT-<0.01
+___ 06:10PM   proBNP-894*
+___ 06:10PM   CALCIUM-8.7 PHOSPHATE-3.3 MAGNESIUM-1.8
+___ 06:10PM   WBC-7.6# RBC-4.45 HGB-12.6 HCT-37.8 MCV-85 
+MCH-28.3 MCHC-33.3 RDW-14.9
+___ 06:10PM   NEUTS-68.8 ___ MONOS-4.3 EOS-1.1 
+BASOS-0.1
+___ 06:10PM   PLT COUNT-194
+___ 06:10PM   ___ PTT-31.6 ___
+
+INTERIM LABS:
+___ 06:45AM BLOOD VitB12-356
+___ 07:04AM BLOOD TSH-6.1*
+___ 07:04AM BLOOD Free T4-0.99
+___ 06:45AM BLOOD ___ * Titer-1:40
+
+DISCHARGE LABS:
+___ 08:00AM BLOOD WBC-8.8 RBC-4.68 Hgb-12.8 Hct-39.2 MCV-84 
+MCH-27.3 MCHC-32.5 RDW-15.6* Plt ___
+___ 08:00AM BLOOD Glucose-86 UreaN-26* Creat-0.7 Na-139 
+K-4.1 Cl-99 HCO3-33* AnGap-11
+___ 08:00AM BLOOD Calcium-9.5 Phos-5.3* Mg-2.1  
+
+MICROBIOLOGY:
+ CMV IgG ANTIBODY (Final ___: 
+      POSITIVE FOR CMV IgG ANTIBODY BY EIA. 
+     
+   CMV IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR CMV IgM ANTIBODY BY EIA. 
+
+NO ANTIBODY TO B. ___ DETECTED BY EIA. 
+Sinus tachycardia. Leftward axis. Lateral ST-T wave 
+abnormalities. Since the previous tracing of ___ the axis is 
+more leftward and ST-T wave 
+abnormalities are more prominent.  
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+107 140 94 344/426 58 -14 101 
+CXR:  PA and lateral views of the chest were obtained.  There is 
+a small 
+right pleural effusion, best assessed on the lateral view.  A 
+tiny left 
+pleural effusion cannot be excluded.  Heart size appears top 
+normal.  The 
+aorta is unfolded.  There is mild interstitial edema without 
+signs of 
+pneumonia or pneumothorax.  Bony structures are intact. 
+  
+IMPRESSION:  Mild pulmonary interstitial edema with probable 
+tiny bilateral pleural effusions. 
+TTE: ___
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity is 
+moderately dilated. There is moderate to severe global left 
+ventricular hypokinesis with relative preservation of the apex 
+(LVEF = ___ %). No masses or thrombi are seen in the left 
+ventricle. Right ventricular chamber size is normal with mild 
+global free wall hypokinesis. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion and no 
+aortic stenosis or aortic regurgitation. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+The pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Left ventricular cavity 
+dilation with extensive systolic dysfunction suggestive of a 
+non-ischemic cardiomyopathy.
+Compared with the prior study (images reviewed) of ___, 
+the pathologic findings are new.
+LHC: ___
+1) Selective coronary angiography of this right-dominant system 
+demonstrated moderate single-vessel branch coronary artery 
+disease with 
+diffuse slow flow throughout. The LMCA was long and had no 
+angiographically-apparent flow-limiting stenoses. The LAD had 
+mild 
+luminal irregularities and a large D1 with proximal 50% 
+stenosis. The 
+LCx provided an atrial branch and small OM1 proximally, then a 
+large 
+branching OM2 that had minimal luminal irregularities; there was 
+a tiny 
+short AV groove LCx after the OM2 take-off. The RCA was a very 
+large-caliber vessel with minimal luminal irregularities; there 
+was a 
+large RPDA and large long RPL2, and a modest caliber RPL1. 
+2) Limited resting hemodynamics revealed mildly-elevated 
+left-sided 
+filling pressures with an LVEDP of 17 mmHg. There was mild 
+pulmonary 
+arterial hypertension, with a PA pressure of 41/21 mmHg. There 
+was 
+systemic arterial normotension, with a central aortic pressure 
+of 116/76 
+mmHg. There was no aortic valve gradient seen on careful 
+pullback from 
+the left ventricle to the aorta. 
+3) After the procedure, a Terumo Radial band was applied to the 
+right 
+radial arteriotomy site with adequate hemostasis. The left 
+antecubital 
+venous sheath was removed and pressure was manually applied with 
+
+adequate hemostasis. 
+  
+FINAL DIAGNOSIS:     
+1. Moderate single-vessel branch coronary artery disease with 
+diffuse 
+slow flow consistent with microvascular dysfunction. 
+2. Mild pulmonary arterial hypertension. 
+3. Mild left ventricular diastolic dysfunction. 
+
+   
+
+ 
+Brief Hospital Course:
+___ with h/o uncontrolled DM on insulin, HTN, HL, morbid 
+obesity presenting with new onset worsening DOE x1mo found to 
+have new extensive systolic dysfunction suggestive of a 
+non-ischemic cardiomyopathy with EF ___ on echo.
+
+# Acute systolic heart failure: Pt admitted following TTE 
+ordered in the ED which showed extensive systolic dysfunction 
+and global hypokenesis with EF ___ not present on last echo 
+in ___.  Pt with evidence of extra volume on physical exam and 
+progressive CHF symptoms (DOE). LHC used to r/o ischemic 
+cardiomyopathy and cath showed clean coronaries.  Pt without Hx 
+of rheumatologic conditions or symptoms, no Hx of recent viral 
+illness.  TSH was not markedly elevated, ___ positive only at a 
+tieter of 1:40, Parvovirus IgG + IgM -, CMV IgG + IgM -, Lyme 
+negative. She was transitioned to 60 mg torsemide with good 
+urine output, spirinolactone 12.5 mg daily, carvediol 12.5 mg 
+BID, lisinopril 40 mg daily.  She was discharged home for follow 
+up with the heart failure clinic and reffered for outpatient 
+cardiac MRI. Patient was actively diuresed from an admission 
+weight of 159.9 kg to 152 kg on discharge. 
+.
+# Hematuria. On HD 2, pt developed gross hematuria with UA c/w 
+hematuria.  Hematuria resolved on HD3 and UA was negative.  
+Unclear etiology.  
+.
+# DM: patient was seen by the ___ consult service for 
+uncontroled blood glucose in the 300s with an A1c of 13%.  She 
+was placed on her home U500 dosing of 60 U for breakfast (300 U 
+equivalent), 60 U for lunch and 40 U for dinner.  She was 
+discharged with follow up with her endocrinologist.
+.
+# Hypothyroidism: TSH mildly elevated, Pt continued on home 
+levothyroxine dose.
+.
+# OSA: CPAP continued
+.
+# HTN: as patient had a depressed EF amlodipine was held 
+metoprolol switched to carvediol and the dose increased to 12.5 
+mg BID in addition to spirnolactone, lisinopril and torsemide.
+.
+Transitional Issues:
+-Dry Weight: approx 328lb.
+-cardiac MR as an outpatient
+-___ is a full code
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from PatientwebOMR.
+1. Amlodipine 10 mg PO DAILY 
+2. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+3. Regular 60 Units Breakfast
+Regular 50 Units Lunch
+Regular 40 Units Dinner
+4. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Lisinopril 40 mg PO DAILY 
+7. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+Do Not Crush 
+8. Metoprolol Succinate XL 25 mg PO DAILY 
+9. Rosuvastatin Calcium 20 mg PO DAILY 
+10. Calcium Carbonate 500 mg PO DAILY 
+11. Loperamide 2 mg PO DAILY:PRN diarrhea 
+12. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+2. Levothyroxine Sodium 100 mcg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Rosuvastatin Calcium 20 mg PO DAILY 
+6. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+Do Not Crush 
+7. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 
+8. Loperamide 2 mg PO DAILY:PRN diarrhea 
+9. Calcium Carbonate 500 mg PO DAILY 
+10. Regular 60 Units Breakfast
+Regular 50 Units Lunch
+Regular 40 Units Dinner
+11. Aspirin 81 mg PO DAILY 
+RX *Adult Low Dose Aspirin 81 mg 1 Tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*3
+12. Carvedilol 12.5 mg PO BID 
+Hold for HR <55, SBP <90 
+RX *carvedilol 12.5 mg 1 Tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*3
+13. Spironolactone 12.5 mg PO DAILY 
+hold for SBP<90 
+RX *spironolactone 25 mg 0.5 (One half) Tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*3
+14. Torsemide 60 mg PO DAILY 
+hold for sbp<90 
+RX *torsemide 20 mg 3 Tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute systolic heart failure
+
+ 
+Discharge Condition:
+Clear and coherent
+Alert and interactive
+Ambulatory - independent
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___.  
+You were admitted because you were having shortness of breath, 
+especially with exertion.  An echocardiogram was done which 
+showed that your heart's pumping ability was decreased, which 
+was consistent with new heart failure.  You were admitted and 
+given medicine to help you pee off the excess fluid in your 
+body.  Your kidney function remained stable during this process. 
+You had a cardiac catheterization which showed that your 
+coronary arteries were not the cause of your new heart failure.
+
+Your medicines have been changed.  Please refer to your attached 
+med list for the changes. Please follow-up at the appointments 
+listed below.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.  Your weight at discharge was 152 kg or about 335 
+lbs.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18362456-DS-21 | hadm_id=25802580
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hyperglycemia
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This is a ___ y/o F with h/o DMT2 and idiopathic systolic CHF 
+presenting from ___ with dizziness, fatigue, hyperglycemia, 
+and hypotension at clinic. Went to ___ for routine 
+appointment where BG found to be >500 with SBPs ___. Patient 
+reports 1 day of fatigue and not taking her insulin. She reports 
+that she has been eating and drinking normally. She denies 
+polyuria or polydipsia. She had a left groin abscess drained at 
+an OSH 3 days ago but reports no further drainage or pain around 
+the site. No cough, shortness of breath, orthopnea, chest pain, 
+abdominal pain, nausea, vomiting, dysuria, or headache. She has 
+chronic diarrhea, which is not worse than baseline.  
+ In the ED, initial vs were: 96.0 80 87/55 22 95% RA. On arrival 
+to the ED, she had a blood sugar greater than 600 but with no 
+DKA on labs (no gap, Bicarb ok, urine without ketones). She was 
+initially started on an insulin drip at 9 units per hour and 
+then when the labs came back without evidence of DKA she was 
+given 50U insulin SQ. However, her next blood sugar check went 
+back up greater than 300 so she was restarted on an insulin drip 
+at 10 units and overlapped with her home dose of SQ insulin, 
+which is 150 units of U500. For the presenting hypotension, she 
+also received 4L of NS and 500 cc of LR while in the ED and her 
+blood pressure improved to 105/62 before transfer. Was given 60 
+mEq of PO potassium repletion for a K of 3.0. She arrived on the 
+floor with an additional liter of NS with 40 mEq potssium mixed 
+in. Was also given Magnesium 2 gm IV and neutraphos 2 packets in 
+the ED. Blood sugar on transfer was 280.  
+ She did have several measurements of a lactate 3.4-3.9, which 
+did not improve with hydration and hyperglycemia management 
+above. Because of this, she was given vancomycin and unasyn to 
+cover for a polymicrobial infection in the known groin abscess.  
+
+ 
+ Review of sytems:  
+ (+) Per HPI  
+ (-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, 
+constipation or abdominal pain. No dysuria. Denies arthralgias 
+or myalgias. Ten point review of systems is otherwise negative.  
+
+
+ 
+Past Medical History:
+1. Idiopathic dilated cardiomyopathy (recent EF 45%, up from  
+ ___. Baseline LBBB.  
+ 2. Poorly controlled type 2 diabetes (recent A1c 13%)  
+ 3. NASH with stage 3 cirrhosis on biopsy in ___. Followed by 
+Dr. ___ - recent US without evidence of HCC.  
+ 4. Morbid obesity.  
+ 5. Obstructive sleep apnea on CPAP at home.  
+ 6. Hypertension.  
+ 7. Hyperlipidemia.  
+ 8. Hypothyroidism  
+ 9. OCD, followed at ___  
+
+ 
+Social History:
+___
+Family History:
+Father had heart disease with question of an enlarged heart and 
+sudden cardiac death at age ___. Mother with congestive heart 
+failure, multiple aunts and uncles with coronary artery disease. 
+ 
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals- 98.2, 115/67, 81, 20, 96% RA  
+ General- Alert, oriented x 3, in no acute distress  
+ HEENT- Sclera anicteric, MMM, oropharynx clear  
+ Neck- supple, JVP difficult to discern given body habitus, no 
+LAD  
+ Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ CV- Regular rate and rhythm, normal S1, S2, no murmurs, rubs, 
+gallops  
+ Abdomen- soft, non-tender, obese, no rebound tenderness or 
+guarding, no organomegaly  
+ GU- foley  
+ Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro- CNs2-12 intact, motor function normal in b/l UE and ___  
+
+DISCHARGE EXAM:
+Vitals- 98.3 97.8 126/62 (112-125/50-83) 74 (72-89) 22 97% CPAP 
+(recorded while asleep)
+GU- 2cm vertical clean and dry incision on left side of mons 
+that is not erythematous, nonswollen, nontender with underlying 
+fibrous scar.   
+Otherwise unchanged from admission exam  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 11:30AM BLOOD WBC-7.2 RBC-4.44 Hgb-12.5 Hct-36.2 
+MCV-81* MCH-28.2 MCHC-34.6 RDW-15.2 Plt ___
+___ 11:30AM BLOOD Neuts-75.5* ___ Monos-5.0 Eos-0.9 
+Baso-0.4
+___ 11:30AM BLOOD Glucose-659* UreaN-10 Creat-1.3* Na-127* 
+K-3.2* Cl-84* HCO3-31 AnGap-15
+___ 11:30AM BLOOD ALT-12 AST-16 AlkPhos-151* TotBili-0.8
+___ 11:30AM BLOOD Lipase-13
+___ 11:30AM BLOOD Albumin-3.5 Calcium-8.6 Phos-3.0 Mg-1.4*
+___ 11:39AM BLOOD ___ pO2-52* pCO2-53* pH-7.39 
+calTCO2-33* Base XS-5 Comment-GREEN TOP
+___ 11:39AM BLOOD Glucose-GREATER TH Lactate-3.4*
+___ 11:45AM URINE Color-Straw Appear-Hazy Sp ___
+___ 11:45AM URINE Blood-TR Nitrite-NEG Protein-30 
+Glucose-1000 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 11:45AM URINE RBC-<1 WBC-7* Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 11:45AM URINE AmorphX-RARE
+
+PERTINENT LABS
+
+___ 04:58PM BLOOD Lactate-3.9*
+___ 05:15PM BLOOD Lactate-3.4*
+___ 10:20PM BLOOD Lactate-2.4*
+___ 05:15PM BLOOD Type-ART pO2-95 pCO2-40 pH-7.48* 
+calTCO2-31* Base XS-5
+
+DISCHARGE LABS
+
+___ 08:25AM BLOOD WBC-5.9 RBC-3.94* Hgb-11.4* Hct-31.6* 
+MCV-80* MCH-28.9 MCHC-36.1* RDW-15.3 Plt ___
+___ 08:25AM BLOOD Glucose-136* UreaN-10 Creat-1.0 Na-142 
+K-3.2* Cl-103 HCO3-26 AnGap-16
+___ 08:25AM BLOOD Calcium-8.2* Phos-2.9 Mg-1.6
+
+MICRO
+___ 9:20 pm ABSCESS      Source: L groin abscess. 
+      Fluid should not be sent in swab transport media.  Submit 
+fluids in a
+      capped syringe (no needle), red top tube, or sterile cup. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+IMAGING
+CXR ___ IMPRESSION:  Trace interstitial edema.  No 
+consolidation worrisome for pneumonia. 
+
+ 
+Brief Hospital Course:
+___ yo F with h/o poorly controlled T2DM and non-ischemic 
+cardiomyopathy who presented from clinic with hypotension and 
+elevated blood glucose, found to have been noncompliant with 
+insulin.
+
+ACTIVE DIAGNOSES:
+  
+# Type II Diabetes Mellitus: The patient presented from ___ 
+appointment where her sugar was found to be above 600. She 
+admitted to skipping a few doses of insulin prior to her 
+appointment. She notes forgetting about 1 in 4 doses of insulin 
+routinely, sometimes due to leaving the house without her 
+insulin. Her labs did not show DKA, however, her blood glucose 
+was so high that she required an insulin drip in the ED to get 
+better control of this. She was transitioned to subcutaneous 
+insulin U500, which she requires at home. She stayed 1 night in 
+the hospital and morning sugars were under much better control. 
+She was given K+ repletion, in addition to aggressive IVF (see 
+below). A ___ consult recommended 250 Units of insulin TID 
+with meals, plus sliding scale (50 Units of U500 TID). The pt 
+also met with a DM educator. The patient was discharged with 
+___ and PCP ___.  
+  
+# Hypotension: SBP at ___ was in the ___. Her hypotension was 
+likely from glucosuria. The patient was treated with 4.5L of IVF 
+while in ED, then maintenance fluids overnight. She had 1 
+further bout of hypotension in the morning with SBP 88 on 
+standing, but pressures improved after a 500cc bolus. An 
+infectious etiology was considered given hypotension and 
+hyperglycemia, although she did not have any localizing 
+symptoms, no leukocytosis, normal CXR, and her lactate improved 
+with IVF and glucose control. Her recent I&D site appeared 
+un-infected. She was continued on her usual antihypertensives. 
+She should ___ with her PCP for BP control.  
+  
+# Acute kidney injury: Upon presentation to the ED she had an 
+elevation in creatinine to 1.3, pre-renal given the hypotension 
+and glucosuria. Cr improved with IVF and was 1.0 on day of 
+discharge.
+  
+# Elevated lactate, without acidosis: There was no leukocytosis 
+or fevers and her recent I&D site looked un-infected. Lactate 
+elevation was thought to be secondary to hypotension discussed 
+above. It trended down with IVF. 
+
+# Recently drained mons abscess: The patient had I&D done at ___ 
+___ 3 days prior to presentation. The incision 
+looked uninfected. A swab of the area was done in the ED, 
+however given clinical appearance, antibiotics were not 
+continued.  
+
+CHRONIC ISSUES:  
+# Chronic systolic heart failure, EF 45%: Non ischemic per 
+report. No signs of decompensation during hospitalization. The 
+pt was continued on ASA, rosuvastatin, carvedilol, lisinopril, 
+torsemide.  
+# h/o NASH: Also no evidence of decompensation on exam. 
+Spironolactone and torsemide were continued.  
+# Obstructive sleep apnea: continued on CPAP  
+# Hypothyroidism: continued on levothyroxine  
+# Chronic diarrhea: continued on loperamide 
+
+TRANSITIONAL ISSUES:
+-Insulin dosing has been adjusted to make it easy to remember: 
+50 Units of U500 (equal to 250 Units regular insulin) three 
+times daily with meals, plus sliding scale.
+-Encourage insulin use
+-Blood cultures pending at time of discharge  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+2. Levothyroxine Sodium 100 mcg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Rosuvastatin Calcium 40 mg PO DAILY 
+6. MetFORMIN XR (Glucophage XR) 2250 mg PO DAILY 
+7. Vitamin D 800 UNIT PO DAILY 
+8. Loperamide 2 mg PO DAILY:PRN diarrhea 
+9. Calcium Carbonate 500 mg PO DAILY 
+10. U500 60 Units Breakfast
+U500 50 Units Lunch
+U500 40 Units Dinner
+11. Aspirin 81 mg PO DAILY 
+12. Carvedilol 25 mg PO BID 
+13. Spironolactone 50 mg PO DAILY 
+14. Torsemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Calcium Carbonate 500 mg PO DAILY 
+3. Carvedilol 25 mg PO BID 
+4. U500 250 Units Breakfast
+U500 250 Units Lunch
+U500 250 Units Dinner
+Insulin SC Sliding Scale using HUM InsulinMax Dose Override 
+Reason: Pt is on U500, units are entered as regular insulin 
+units
+
+5. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+6. Levothyroxine Sodium 100 mcg PO DAILY 
+7. Lisinopril 40 mg PO DAILY 
+8. Loperamide 2 mg PO DAILY:PRN diarrhea 
+9. Multivitamins 1 TAB PO DAILY 
+10. Rosuvastatin Calcium 40 mg PO DAILY 
+11. Spironolactone 50 mg PO DAILY 
+12. Torsemide 20 mg PO DAILY 
+13. Vitamin D 800 UNIT PO DAILY 
+14. MetFORMIN XR (Glucophage XR) 2250 mg PO DAILY 
+15. Insulin Pen Needle (insulin needles (disposable)) 32 gauge x 
+___ (4mm Nano)  Miscellaneous as directed 
+RX *insulin needles (disposable) [Pen Needle] 32 gauge X ___ 
+Use as directed 3 times per day before meals Disp #*2 Box 
+Refills:*3
+16. HumaLOG KwikPen (insulin lispro) 100 unit/mL Subcutaneous 
+TID:PRN sliding scale 
+Take as directed by sliding scale 
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL 1 TID:PRN Disp 
+#*2 Box Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+-Hyperglycemia due to insulin noncompliance
+-Hypotension secondary to glucosuria causing intravascular 
+volume depletion
+
+SECONDARY
+-Uncontrolled Type II Diabetes Mellitus
+-Idiopathic dilated cardiomyopathy     
+-Non-Alcoholic Steatohepatitis with stage 3 cirrhosis  
+-Morbid obesity  
+-Obstructive sleep apnea  
+-Hypertension.  
+-Hyperlipidemia.  
+-Hypothyroidism  
+-Obsessive Compulsive Disorder
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure to care for you during your hospitalization at 
+___.
+
+You were admitted because of high blood sugars and low blood 
+pressure, due to missing your insulin doses. You were treated 
+with IV fluids and insulin. It is very important for you to take 
+your insulin faithfully 3 times per day, in addition to daily 
+metformin to prevent future hospitalizations. The diabetes 
+doctors from ___ recommend you take 50 of U500 insulin 3 
+times a day PLUS a sliding scale.
+ 
+Due to your history of heart failure, you should weigh yourself 
+every morning, call MD if weight goes up more than 3 lbs.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18362456-DS-22 | hadm_id=26493776
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dizziness/Hypotension
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ year old female with PMHx of dilated 
+cardiomyopathy, DM, NASH, who presents from PCP with 
+hypotension. Pt has felt week over the last couple of days. Pt 
+was at the ___ on ___, when she was found to have a BP of 
+80/50. Pt with no recent change in medications. Pt denies any 
+fever, chills, cough, cp, sob, cp, abd pain, n/v, constipation 
+and diarrhea. 
+
+Of note, patient had recent admission for hyperglycemia, where 
+she had an elevated lactate and hypotension.
+
+In ED, initial VS: T 99.2 P 75 BP 80/52 (-> 111/63) R 18 O2 Sat 
+98% RA. Pt was found to have yellow guaiac positive stool. CXR 
+negative. UA negative. Labs showed lactate 2.4, Cr 1.2, AP 106. 
+On bed side US pt IVC was not distended with some minor 
+collaspe. Pt was given 1L IVF with improvement in BP. Pt was 
+also given Vanc/Cefepime.
+
+On the floor, patient appeared comfortable.  Denied any 
+dizziness or discomfort.  
+ 
+On ROS:
+denies any fever, chills, cough, cp, sob, cp, abd pain, n/v, 
+constipation and diarrhoea. 
+
+ 
+Past Medical History:
+1. Idiopathic dilated cardiomyopathy (recent EF 45%, up from  
+ ___. Baseline LBBB.  
+ 2. Poorly controlled type 2 diabetes (recent A1c 13%)  
+ 3. NASH with stage 3 cirrhosis on biopsy in ___. Followed by 
+Dr. ___ - recent US without evidence of HCC.  
+ 4. Morbid obesity.  
+ 5. Obstructive sleep apnea on CPAP at home.  
+ 6. Hypertension.  
+ 7. Hyperlipidemia.  
+ 8. Hypothyroidism  
+ 9. OCD, followed at ___  
+
+ 
+Social History:
+___
+Family History:
+Father had heart disease with question of an enlarged heart and 
+sudden cardiac death at age ___. Mother with congestive heart 
+failure, multiple aunts and uncles with coronary artery disease. 
+ 
+
+ 
+Physical Exam:
+EXAM ON ADMISSION:
+Vitals: T:98 BP:124/65 P:67 R:20 O2:100 RA  
+General: Alert, oriented, no acute distress, obese habitus  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Bibasilar crackles 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, distended consistent with obesity, 
+bowel sounds present, no rebound tenderness or guarding, no 
+organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Left leg > right  
+Neuro:  Cn II-XII intact.
+
+EXAM ON DISCHARGE:
+Vitals: afebrile, VSS, SBP 120s
+General: Alert, oriented, no acute distress, obese habitus  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Bibasilar crackles 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, distended consistent with obesity, 
+bowel sounds present, no rebound tenderness or guarding, no 
+organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Left leg > right  
+Neuro:  Cn II-XII intact.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 02:20PM   ___ PTT-33.1 ___
+___ 02:20PM   PLT COUNT-251
+___ 02:20PM   NEUTS-61.0 ___ MONOS-6.1 EOS-1.3 
+BASOS-0.6
+___ 02:20PM   WBC-9.7 RBC-4.75 HGB-13.1 HCT-40.1 MCV-85 
+MCH-27.7 MCHC-32.7 RDW-14.2
+___ 02:20PM   ALBUMIN-4.0 CALCIUM-9.9 PHOSPHATE-4.8*# 
+MAGNESIUM-1.7
+___ 02:20PM   cTropnT-<0.01 proBNP-172
+___ 02:20PM   LIPASE-20
+___ 02:20PM   ALT(SGPT)-22 AST(SGOT)-24 ALK PHOS-106* TOT 
+BILI-0.4
+___ 02:20PM   estGFR-Using this
+___ 02:20PM   GLUCOSE-134* UREA N-36* CREAT-1.2* SODIUM-137 
+POTASSIUM-4.3 CHLORIDE-95* TOTAL CO2-28 ANION GAP-18
+___ 02:38PM   LACTATE-2.4* K+-4.3
+___ 02:49PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 02:49PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 02:49PM URINE  UHOLD-HOLD
+___ 02:49PM URINE  HOURS-RANDOM
+
+STUDIES:
+LENIS ___
+There is normal compressibility, flow and augmentation of the 
+bilateral common femoral, proximal femoral, mid femoral, distal 
+femoral and popliteal veins. Normal color flow is demonstrated 
+in the posterior tibial veins bilaterally and right peroneal 
+veins.  Left peroneal veins were not clearly visualized. There 
+is normal respiratory variation of the common femoral veins 
+bilaterally. 
+IMPRESSION: 
+Left peroneal veins not clearly visualized. Otherwise, no 
+evidence of deep vein thrombosis in either lower extremity.   
+
+CXR ___
+IMPRESSION: 
+No acute cardiopulmonary process. 
+  
+DISCHARGE LABS:
+___ 08:05AM BLOOD WBC-6.6 RBC-4.46 Hgb-12.2 Hct-37.8 MCV-85 
+MCH-27.4 MCHC-32.3 RDW-14.3 Plt ___
+___ 08:05AM BLOOD ___ PTT-32.2 ___
+___ 08:05AM BLOOD Glucose-302* UreaN-32* Creat-0.9 Na-136 
+K-5.5* Cl-99 HCO3-27 AnGap-16
+___ 03:30PM BLOOD Na-133 K-4.3 Cl-96
+___ 08:05AM BLOOD ALT-23 AST-24 CK(CPK)-29 AlkPhos-102 
+TotBili-0.4
+___ 10:26PM BLOOD CK-MB-1 cTropnT-<0.01
+___ 08:05AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 08:05AM BLOOD Calcium-9.5 Phos-3.9 Mg-1.8
+___ 02:20PM BLOOD TSH-8.9*
+___ 08:05AM BLOOD Cortsol-13.1
+___ 10:38AM BLOOD Lactate-2.7*
+ 
+Brief Hospital Course:
+This is a ___ year old femal with PMHx of dilated cardiomyopathy, 
+DM, ___, who presented on ___ from PCP with hypotension. 
+
+#HYPOTENSION: Patient had recent admission for hypotension in 
+the setting of hyperglycemia.  Patient's glucose on admission 
+was 134 so unlikely cause.  Patient does have chronic diarrhea 
+(and recent poor PO intake) which could be a contributing 
+factor.  Patient is also on thyroid medications, which could 
+contribute to her current state. Adrenal insufficiency could 
+also contribute to hpotension. Patient had no new changes to her 
+anti-hypertensives.  Her anti-hypertensives (carvedilol, 
+spironolactone, torsemide, and lisinopril) were held.  Her blood 
+pressure returned to normal (SBP 120s) and symptoms resolved on 
+day of discharge. Orthostatic vital signs were checked and were 
+normal on the day of discharge. An AM cortisol was checked (in 
+setting of hypotension, hyperkalemia) and was normal at 13.1, 
+making adrenal insufficiency unlikely. On discharge, her 
+carvedilol and torsemide were restarted and lisinopril dose was 
+decreased from 40 mg to 20 mg daily and spironolactone was held 
+(given that patient's recent hypotension may be related to 
+anti-hypertensives).
+
+# ___: Upon presentation to the ED she had an elevation in 
+creatinine to 1.2, pre-renal given the hypotension, chronic 
+diarrhea and poor PO intake recently.  Her lisinopril and 
+nephrotixic medications were held.  Medications were renally 
+dosed.  She received 500 cc NS boluses prn.  Her Cr returned to 
+baseline 0.9 on the day of discharge.  
+
+#HYPERKALEMIA: Patient developed hyperkalemia to 5.5 (from 4.3) 
+on HD2 which was most likely due to not receiving enough insulin 
+since her home U500 had been stopped and a humalog sliding scale 
+started on admission.  AM cortisol was checked and found to be 
+normal at 13.1 making adrenal insufficiency unlikely.  An EKG 
+was obtained and showed a LBBB in setting of tachycardia to ___ 
+which patient has had in the past on stress test.  She received 
+2 gm IV calcium gluconate in addition to her home dose of U500, 
+kayexalate and a fluid bolus and her potassium return to normal 
+(4.3) prior to discharge. 
+  
+# EKG changes: Patient had LBBB in setting of tachycardia on EKG 
+___, has had similar LBBB with stress test in past (may be 
+related to underlying cardiomyopathy). Patient also hyperkalemic 
+at that time which could cause LBBB. CKMB and troponins were 
+negative x3. Her hyperkalemia was treated as above.
+
+# LACTATEMIA, without acidosis: No leukocytosis or fevers. 
+Lactate elevation likely secondary to hypotension and 
+dehydration.  Patient also on metformin which may contribute but 
+no new changes to dosing. Patient's metformin was held and she 
+received IVF 500 cc NS boluses for fluid resuscitation.
+
+#DM Type II. Patient has poorly controlled sugars and recent 
+admission for hyperglycemia. She is on U500 at home. HbA1c on 
+___ was 8.3%. Patient's metformin was held and she was 
+initially placed on a humalog ISS but her blood sugars remained 
+elevated (>400).  A ___ consult was placed and she was 
+restarted on her home dose of U500 insulin 250 units with meals. 
+Her metformin was restarted and she was continued on her home 
+dose of insulin on discharge.
+
+CHRONIC ISSUES:  
+# Chronic systolic heart failure, EF 45%: Non ischemic per 
+report. No signs of decompensation. Patient was continued on 
+ASA, rosuvastatin. Her carvedilol, lisinopril and torsemide were 
+held in setting of hypotension. Carvedilol and torsemide were 
+restarted at the same doses on discharge but lisinopril dose was 
+decreased from 40 to 20 mg daily given recent hypotension.  
+
+# h/o NASH: Also no evidence of decompensation on exam. 
+Patient's Spironolactone and torsemide were held in setting of 
+hypotension. Torsemide was restarted on discharge but 
+spironolactone was held on discharge given recent hypotension. 
+Restarting spironolactone should be discussed with patient 
+depending on BP as an outpatient.
+
+# Obstructive sleep apnea: Patient was continued on CPAP.
+
+# Hypothyroidism: Patient was continued on home levothyroxine. A 
+TSH was rechecked and found to be elevated at 8.9. Therefore, 
+patient will likely require re-titration of levothyroxine dosing 
+as an outpatient.  
+
+# Chronic diarrhea: Patient was continued on home loperamide 
+ 
+
+TRANSITIONAL ISSUES:
+[ ] Please follow-up final urine and blood cultures from 
+___
+[ ] Please follow-up electrolytes (as patient had hyperkalemia 
+to 5.5 on ___, which was likely related to not enough insulin)
+[ ] Please recheck BP and consider restarting spironolactone and 
+going back up to lisinopril 40 mg daily (from 20 mg daily) 
+depending on BP. Patient's spironolactone was held and 
+lisinopril dose was decreased from 40 to 20 mg daily on 
+discharge given her hypotension.
+[ ] Patient will require adjustment of levothyroxine dosing as 
+an outpatient given TSH was measured and was found to be high at 
+8.9 
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Calcium Carbonate 500 mg PO DAILY 
+3. Carvedilol 25 mg PO BID 
+4. U500 250 Units Breakfast
+U500 250 Units Lunch
+U500 250 Units Dinner
+Insulin SC Sliding Scale using HUM InsulinMax Dose Override 
+Reason: Pt is on U500, units are entered as regular insulin 
+units
+
+5. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+6. Levothyroxine Sodium 100 mcg PO DAILY 
+7. Lisinopril 40 mg PO DAILY 
+8. Loperamide 2 mg PO DAILY:PRN diarrhea 
+9. Multivitamins 1 TAB PO DAILY 
+10. Rosuvastatin Calcium 40 mg PO DAILY 
+11. Spironolactone 50 mg PO DAILY 
+12. Torsemide 20 mg PO DAILY 
+13. Vitamin D 800 UNIT PO DAILY 
+14. MetFORMIN XR (Glucophage XR) 2250 mg PO DAILY 
+15. Insulin Pen Needle (insulin needles (disposable)) 32 gauge x 
+___ (4mm Nano)  Miscellaneous as directed 
+16. HumaLOG KwikPen (insulin lispro) 100 unit/mL Subcutaneous 
+TID:PRN sliding scale 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Calcium Carbonate 500 mg PO DAILY 
+3. U500 250 Units Breakfast
+U500 250 Units Lunch
+U500 250 Units DinnerMax Dose Override Reason: Pt is on U500, 
+units are entered as regular insulin units
+4. Ipratropium Bromide MDI 2 PUFF IH BID:PRN SOB or wheezing 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Loperamide 2 mg PO DAILY:PRN diarrhea 
+7. Multivitamins 1 TAB PO DAILY 
+8. Rosuvastatin Calcium 40 mg PO DAILY 
+9. Vitamin D 800 UNIT PO DAILY 
+10. Carvedilol 25 mg PO BID 
+11. Lisinopril 20 mg PO DAILY 
+12. HumaLOG KwikPen (insulin lispro) 100 unit/mL Subcutaneous 
+TID:PRN sliding scale 
+13. Insulin Pen Needle (insulin needles (disposable)) 32 gauge x 
+___ (4mm Nano)  Miscellaneous as directed 
+14. MetFORMIN XR (Glucophage XR) 2250 mg PO DAILY 
+15. Torsemide 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Hypotension
+Secondary: ___ cirrhosis, CHF, HYPERTENSION, DM Type II
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you at the ___ 
+___.  You were admitted here for feeling 
+dizzy and found to have a low blood pressure.  You were managed 
+with intravenous fluids and your blood pressures came back up to 
+normal.  Your left leg was more swollen than your right leg.  
+You underwent an ultrasound of your leg to rule out any blood 
+clot and this showed that there was no blood clot.  Please keep 
+your follow up appointments below.
+
+Changes were made to your blood pressure medication regimen. You 
+will have close follow-up with your primary care doctor 
+regarding your blood pressure and blood pressure medication. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+We wish you the very best,
+Your ___ medical team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18362456-DS-24 | hadm_id=29538426
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old female with PMH of HTN, IDDM, 
+Dilated Cardiomyopathy (EF 20%) with BiV-ICD placed ___, 
+hypothyroid, recent hospitalization for renal failure requiring 
+dialysis (___), presenting to ___ ED this 
+afternoon after a syncopal fall. Patient had scheduled 
+Cardiology follow-up at ___ today, and was in the parking 
+garage when she became acutely dizzy after getting out of the 
+car. Her husband went to grab a wheelchair and when he returned 
+she was on the ground, unresponsive, surrounded by bystanders. 
+LOC estimated as ___ minutes. She was initially confused, but 
+returned to baseline shortly thereafter. Head CT performed in 
+the ED revealed a small amount of acute traumatic subarachnoid 
+hemorrhage adjacent to the falx, and Neurosurgery was consulted 
+for further management. Currently, the patient denies headache 
+or visual changes. Denies nausea, vomiting, or new 
+numbness/tingling/weakness in her extremities. Her dizziness has 
+resolved. Denies chest pain, SOB, abdominal pain, fever/chills. 
+
+ 
+Past Medical History:
+1. Idiopathic dilated cardiomyopathy (recent EF 45%, up from  
+ ___. Baseline LBBB.  
+ 2. Poorly controlled type 2 diabetes (recent A1c 13%)  
+ 3. NASH with stage 3 cirrhosis on biopsy in ___. Followed by 
+Dr. ___ - recent US without evidence of HCC.  
+ 4. Morbid obesity.  
+ 5. Obstructive sleep apnea on CPAP at home.  
+ 6. Hypertension.  
+ 7. Hyperlipidemia.  
+ 8. Hypothyroidism  
+ 9. OCD, followed at ___  
+
+ 
+Social History:
+___
+Family History:
+Father had heart disease with question of an enlarged heart and 
+sudden cardiac death at age ___. Mother with congestive heart 
+failure, multiple aunts and uncles with coronary artery disease. 
+ 
+
+ 
+Physical Exam:
+ON ADMISSION:
+O: T: 97.5    BP: 96/68     HR: 92     RR: 16     O2Sats: 95%
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Mild swelling at occiput. No additional external signs of
+trauma. 
+Neck: Supple. Non-tender to palpation. Full ROM without pain. 
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension. No dysarthria 
+or
+paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Coordination: No dysmetria as tested by finger-nose-finger, 
+rapid
+alternating movements.
+
+ON DISCHARGE:
+Neurologically intact.
+ 
+Pertinent Results:
+___ CT HEAD
+
+FINDINGS:  
+  
+There is a small amount of acute subarachnoid hemorrhage 
+adjacent to the falx in the left superior frontal region. This 
+finding is new from recent prior exam. No additional sites of 
+ICH. No edema, shift of normally midline structures, or evidence 
+of acute major vascular territory infarction. Left posterior 
+scalp hematoma is noted without underlying fracture. 
+  
+Mild mucosal thickening is noted within the maxillary sinuses. 
+Otherwise the imaged paranasal sinuses, mastoid air cells and 
+middle ear cavities are well aerated. Significant periapical 
+lucency surrounds a left upper a maxillary molar. 
+  
+IMPRESSION:  
+  
+1. Small left parafalcine subarachnoid hemorrhage near the left 
+frontal vertex. 
+2. Left posterior scalp hematoma. 
+3. Significant periapical lucency surrounds a left upper a 
+maxillary molar. Please correlate with dental exam. 
+
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted from ED for traumatic SAH 
+following a syncopal fall.  Her aspirin was held.  She was 
+monitored with serial neurologic examinations. Medicine was 
+consulted for assistance with management and syncope workup. 
+Cardiology was consulted for ICD interrogation, which was 
+unremarkable.
+
+On ___, the patient remained neurologically stable and was 
+deemed to require no further neurosurgical intervention.  The 
+medicine team felt that her syncope was most likely due to 
+orthostasis, and orthostatic vital signs were indeed positive.  
+Her anti-hypertensive medications were held.  She was fluid 
+resuscitated and urinalysis was ordered.  The medicine team 
+recommended that no further syncope workup was necessary.  Her 
+urinalysis was positive.  Urine culture was sent and she was 
+started on ciprofloxacin.
+
+On ___, she remained neurologically stable and her vital signs 
+were no longer concerning for orthostasis.  Her 
+anti-hypertensive and diuretic medications were resumed.  She 
+diuresed appropriately.  Her potassium was repleted.  
+Fingerstick monitoring revealed blood glucose levels in the 
+300s, which was covered with sliding scale insulin.  Her 
+condition was discussed with the medicine team and she was 
+deemed ready for discharge.  A thorough discussion was had with 
+the patient regarding post-discharge instructions and 
+appropriate follow-up care.  She was discharged on ciprofloxacin 
+to complete a 10-day course and levetiracetam for 7 days.  She 
+was instructed to closely monitor her blood glucose and provided 
+with a prescription to undergo outpatient lab testing for 
+electrolyte monitoring.  She will follow up with her PCP ___ 5 
+days and with Dr. ___ in 3 months.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Carvedilol 12.5 mg PO BID 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Vitamin D ___ UNIT PO DAILY 
+5. Victoza 2-Pak (liraglutide) 0.6 mg/0.1 mL (18 mg/3 mL) 
+subcutaneous QAM 
+6. Lisinopril 20 mg PO DAILY 
+7. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Rosuvastatin Calcium 40 mg PO DAILY 
+10. Spironolactone 25 mg PO DAILY 
+11. Torsemide 40 mg PO DAILY 
+12. HumuLIN R U-500 Concentrated (insulin regular hum U-500 
+conc) 500 unit/mL subcutaneous TID 
+13. Acetaminophen 650 mg PO Q6H:PRN fever, pain 
+14. Glucose Tab ___ TAB PO PRN hypoglycemia 
+15. LOPERamide 2 mg PO QID:PRN diarrhea 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN fever, pain 
+2. Carvedilol 12.5 mg PO BID 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Rosuvastatin Calcium 40 mg PO DAILY 
+8. Spironolactone 25 mg PO DAILY 
+9. Torsemide 40 mg PO DAILY 
+10. Vitamin D ___ UNIT PO DAILY 
+11. Ciprofloxacin HCl 250 mg PO Q12H Duration: 8 Days 
+RX *ciprofloxacin HCl 250 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*16 Tablet Refills:*0
+12. LeVETiracetam 500 mg PO BID 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0
+13. HumuLIN R U-500 Concentrated (insulin regular hum U-500 
+conc) 500 unit/mL subcutaneous TID 
+14. LOPERamide 2 mg PO QID:PRN diarrhea 
+15. Victoza 2-Pak (liraglutide) 0.6 mg/0.1 mL (18 mg/3 mL) 
+subcutaneous QAM 
+16. Glucose Tab ___ TAB PO PRN hypoglycemia 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Traumatic subarachnoid hemorrhage
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Activity
+•We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+•No driving while taking any narcotic or sedating medication. 
+•If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+•No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+•***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+•***You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+•You may have difficulty paying attention, concentrating, and 
+remembering new information.
+•Emotional and/or behavioral difficulties are common. 
+•Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+•Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+•Headache is one of the most common symptom after a brain 
+bleed. 
+•Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+•Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+•There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+•Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

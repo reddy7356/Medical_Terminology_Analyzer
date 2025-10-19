@@ -1,0 +1,102 @@
+===== DISCHARGE NOTE =====
+note_id=14539739-DS-8 | hadm_id=22914151
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ciprofloxacin Hcl
+ 
+Attending: ___
+ 
+Chief Complaint:
+Unresponsive
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ with myelodysplastic syndrome, who was 
+found unresponsive and vomiting in his bed  on the evening prior 
+to admission.  He was taken to an OSH where he was noted to have 
+a large parenchymal head bleed with subdural and subarachnoid 
+components, and 1.1cm midline shift in the setting of a platelet 
+count of 10,000. .  A CVL was attempted at the right subclavian, 
+complicated by a right pneumothorax.   He was placed on a 
+ventilator through his tracheostomy  The patient was transferred 
+to ___ for further management.  He recieved vitamin K, a 
+six-pack of platelets, and RBC transfusions.  A femoral CVL was 
+placed for pressor support with neosynephrine.  Shortly after 
+arrival to the ED the family decided to make the patient CMO.  
+They are awaiting the family to gather prior to his passing, and 
+he needs pressor support in the meantime. 
+ 
+Past Medical History:
+Laryngeal carcinoma status post resection and tracheostomy 
+Myeloplastic disorder
+GERD
+Coronary artery disease: Stable on medical management only
+COPD
+ 
+Social History:
+___
+Family History:
+Non-contributory
+
+ 
+Physical Exam:
+GENERAL: unresponsive, pale, intubated, not sedated
+HEENT: conjunctival pallor. pupils areactive
+CARDIAC: tachycardic with ___ SEM
+LUNGS: CTAB, good air movement biaterally. right chest tube 
+inplace, draining bloody fluid.
+ 
+Pertinent Results:
+___ 03:55AM BLOOD WBC-50.1* RBC-2.13* Hgb-6.3* Hct-17.9* 
+MCV-84 MCH-29.6 MCHC-35.0 RDW-17.9* Plt Ct-32*
+___ 03:55AM BLOOD ___ PTT-30.1 ___
+___ 03:55AM BLOOD Plt Ct-32*
+___ 03:55AM BLOOD Fibrino-55*
+___ 03:55AM BLOOD UreaN-23* Creat-1.3*
+___ 03:55AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 04:59AM BLOOD Type-ART pO2-121* pCO2-29* pH-7.36 
+calTCO2-17* Base XS--7
+___ 04:02AM BLOOD Glucose-294* Lactate-4.3* Na-133* K-4.6 
+Cl-104 calHCO3-19*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with a PMH s/f MDS, presenting with a large 
+intracranial bleed with midline shift, in the setting of 
+profound thrombocytopenia.  Family decided to change goals of 
+care to focus on comfort.  Pt was placed on morphine drip.
+Pressor support continued through CVL until family arrived, he 
+expired at 12:05pm with family at bedside.
+ 
+Medications on Admission:
+non-contributory
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+none
+ 
+                             ___ MD ___
+ 
+Completed by: ___

@@ -1,0 +1,163 @@
+===== DISCHARGE NOTE =====
+note_id=19695015-DS-10 | hadm_id=22047862
+
+ 
+Name:  ___.                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+This patient is a ___ year old female who presented to ___ 
+___ with intermittent nausea and vomiting for the past 
+week. A CT of the abdomen revealed a small bowel obstruction. 
+She also had an incidental right hydroureter with hydronephrosis 
+and a UTI.  She was transferred to ___ for possible surgery. 
+She had a nasogastric tube placed prior to transfer
+
+ 
+Past Medical History:
+PMH
+1. CAD
+2. Hypertension
+3. Hypercholesterolemia
+4. Hyperthyroid
+PSH
+1. S/P Colon resection for Ca
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Temp:98.2 HR:60 BP:139/60 Resp:16 O(2)Sat:98 normal 
+ 
+Constitutional: Comfortable
+HEENT: Normocephalic, atraumatic
+Oropharynx within normal limits
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender, mild distended
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash
+Neuro: Speech fluent
+Psych: Normal mood
+___: No petechiae
+
+ 
+Pertinent Results:
+___ 11:39PM   WBC-7.7 RBC-3.70* HGB-11.8* HCT-35.3* MCV-96 
+MCH-31.8 MCHC-33.3 RDW-15.5
+___ 11:39PM   NEUTS-66.0 ___ MONOS-5.3 EOS-0.4 
+BASOS-0.6
+___ 11:39PM   PLT COUNT-188
+___ 11:39PM   GLUCOSE-102* UREA N-20 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.9 CHLORIDE-101 TOTAL CO2-26 ANION GAP-14
+ 
+Brief Hospital Course:
+Mrs. ___ was evaluated in the Emergency Room by the ACS service 
+and admitted to the hospital for management of a small bowel 
+obstruction.  She remained NPO, hydrated with IV fluids and had 
+a nasogastric tube in place for decompression.  Her symptoms 
+resolved overnight and she was generally feeling better.
+
+Her nasogastric tube was removed after 24 hours and she 
+eventually tolerated liquids without difficulty.  Her diet was 
+advanced to regular and she tolerated it well without nausea or 
+vomiting.  She was treated for a UTI with 3 days of Cipro based 
+on a urine culture from ___.  Her urine culture here 
+grew 10K-100K GNR's.  She had no dysuria or hematuria and was 
+voiding in sufficient amounts. 
+
+Her blood pressure was elevated at 180/90 on a routine check 
+after ranging 140-160/80.  After checking with her PCP and 
+realizing she was not on her usual Diltiazem
+that was resumed and her blood pressure was more controlled.
+
+She was also seen by the Urology service to evaluate findings 
+noted on her CT from ___ including a right 
+hydroureter.  They felt the findings were benign and probably 
+congenital in nature. 
+
+After an uncomplicated stay she was discharged to home on 
+___ and will follow up with her PCP next week.
+ 
+Medications on Admission:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. methimazole 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+3. multivitamin Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Vitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO twice a day.  
+5. metoprolol tartrate 100 mg Tablet Sig: One (1) Tablet PO 
+twice a day.  
+6. diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+7. lovastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week 
+
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. methimazole 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+3. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Vitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO twice a day.  
+5. metoprolol tartrate 100 mg Tablet Sig: One (1) Tablet PO 
+twice a day.  
+6. diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).  
+7. lovastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital with a small bowel 
+obstruction.
+* You improved with gastric decompression and bowel rest.
+* You are tolerating a regular diet without difficulty.
+* Stay hydrated and continue a regular diet.
+* The finding on CT scan regarding your ureter is nothing to 
+worry about and something that you were born with.
+* If your symptoms return please return to the Emergency Room.
+ 
+Followup Instructions:
+___

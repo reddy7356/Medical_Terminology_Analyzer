@@ -1,0 +1,301 @@
+===== DISCHARGE NOTE =====
+note_id=14739015-DS-13 | hadm_id=24673759
+
+ 
+Name:  ___                ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Trouble swallowing
+ 
+Major Surgical or Invasive Procedure:
+Wiring of urethra ___
+EGD ___ 
+EGD ___ 
+Bronchoscopy ___ 
+
+ 
+History of Present Illness:
+This is a ___ year old female with HTN, thyroid disorder, s/p
+mastectomy, who comes in with sensation of something stuck in 
+her
+throat after eating steak last night for dinner. 
+ 
+Yesterday evening she states that she was eating her meal 
+without
+her dentures in and was therefore only using her front teeth to
+chew steak. She states she may have swallowed a large piece and
+this was followed with a sensation of something stuck in her
+throat. This continued despite drinking water and she presented
+to the ED.  
+
+The patient states that she thinks this may have happened to her
+once before about ___ years ago. She doesn't recall the details 
+of
+the occurrence and wasn't sure if she had an endoscopy for it or
+not. She usually does not have issues with swallowing otherwise. 
+
+
+In the ED, she was tolerating secretions and speaking coherently
+without signs of respiratory distress. She was given glucagon 
+and
+Ativan, observed overnight in the ED. This AM, she was having
+more difficulty tolerating secretions, so was taken by GI for an
+EGD. During her EGD, patient reportedly suffered
+bronchospasm/hypoxic decompensation requiring endotracheal
+intubation.
+
+ROS: Positives as per HPI; otherwise negative.  
+
+ 
+Past Medical History:
+Hypertension  
+Thryoid disorder  
+Anxiety  
+S/p mastectomy   
+
+ 
+Physical Exam:
+ ADMISSION PHYSICAL EXAM:  
+ VS: 98.8F, HR 80, 121/57, RR 27, 94% 3L NC, 70% aersol face 
+tent
+ GEN:  tachypneic
+ EYES:  no scleral icterus
+ HENNT:  atraumatic head, MMM
+ CV:  RRR
+ RESP: tachypnea, decreased breath sounds in the bases
+ GI: soft, non-tender, non-distended
+ NEURO: strength/sensation grossly intact in all 4 extremities
+
+DISCHARGE PHYSICAL EXAM:
+VS: ___ 1342 Temp: 98.8 PO BP: 134/59 HR: 103 RR: 20 O2 
+sat:
+98% O2 delivery: 1L Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GEN:  tachypneic
+EYES:  no scleral icterus
+HENNT:  atraumatic head, MMM
+CV:  S1/S2 regular with ___ systolic murmur at the RUSB
+RESP: CTAB, no wheezes or crackles
+GI: soft, non-tender, non-distended
+NEURO: strength/sensation grossly intact in all 4 extremities
+ 
+Pertinent Results:
+LABS ON ADMISSION
+___ 12:10AM BLOOD WBC-6.1 RBC-3.70* Hgb-11.5 Hct-35.1 
+MCV-95 MCH-31.1 MCHC-32.8 RDW-13.3 RDWSD-46.4* Plt ___
+___ 12:10AM BLOOD Glucose-97 UreaN-7 Creat-0.5 Na-138 K-4.3 
+Cl-101 HCO3-23 AnGap-14
+___ 03:22PM BLOOD Calcium-9.1 Phos-3.3 Mg-1.3*
+___ 12:10AM BLOOD TSH-2.1
+___ 06:25PM BLOOD Lactate-1.9
+___ 05:28AM BLOOD ___ pO2-52* pCO2-49* pH-7.41 
+calTCO2-32* Base XS-4
+
+IMAGING & MICROBIOLOGY
+___
+In comparison with the study of ___, there is virtually 
+complete 
+Otherwise, essentially unchanged.  Re-expansion of the left 
+lower lobe with the hemidiaphragm quite well seen. 
+
+___ Gastroenterology EGD 
+Impressions:
+Food in the upper third of the esophagus and middle third of the 
+esophagus.
+Fluid in the stomach
+Food in the stomach
+Erosions of the mid esophagus and proximal esophagus from food 
+bolus trauma.
+Normal mucosa in the whole stomach
+Normal mucosa in the whole examined duodenum
+
+Recommendations
+High-dose PPI 40 mg twice daily
+Start liquid diet once extubated; advance as tolerated
+Recommend repeating upper endoscopy in 1 month for esophageal 
+biopsies
+
+DISCHARGE LABS:
+================
+___ 08:10AM BLOOD WBC-11.0* RBC-3.43* Hgb-10.5* Hct-33.0* 
+MCV-96 MCH-30.6 MCHC-31.8* RDW-14.2 RDWSD-49.9* Plt ___
+___ 08:10AM BLOOD Plt ___
+___ 08:10AM BLOOD Glucose-99 UreaN-6 Creat-0.5 Na-136 K-3.6 
+Cl-98 HCO3-27 AnGap-11
+___ 08:10AM BLOOD Calcium-8.9 Phos-1.9* Mg-2.0
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with HTN, thyroid disorder, 
+s/p
+mastectomy who presented with concern for food impaction.
+
+ACUTE ISSUES
+===============
+# Food Impaction
+Steak impacted in the upper ___ of the esophagus, s/p EGD 
+removal (after intubation and ___ EGD as below. GI recommended 
+PPI 40mg PO BID and repeat EGD in 1 month. Etiology is thought 
+to be secondary to patient removing dentures (new dentures that 
+were causing irritation) before eating her steak. Per patient, a 
+similar incident happened ___ years prior when she removed her 
+dentures. She was discharged with Pantoprazole 40 mg PO Q12H to 
+be continued for 1 month before getting a repeat EGD.
+
+# Hypoxemic Respiratory Failure. During ___ attempted EGD, 
+patient had bronchospasm/hypoxemic respiratory failure and a 
+code blue was called. s/p intubation ___ and was subsequently 
+extubated on the same day. CXR after acute respiratory event 
+showed new left lower lobe collapse and bronchoscopy showed 
+purulent secretions in the left airways that were suctioned. 
+Post bronchoscopy CXR showed re-expansion of the lung. WBC was 
+elevated but decreased day by day reducing the suspicion for 
+aspiration PNA. Discharge CBC:11.
+
+# Urinary Retention. Chronic urinary retention. She performs 
+intermittent self-catheterization at home. On transfer to MICU, 
+unable to self-catheterize and nurses were unable to straight 
+cath. Foley placed by urology after needing to wire urethra. She 
+was originally planned to have a f/u appointment with her 
+outpatient urologist to remove foley but the foley fell out 
+during ___ on the day of discharge. She was able to self-cath on 
+the day of discharge with no complications. Please ensure that 
+she can still continue to self-cath without any issues.
+
+CHRONIC ISSUES
+===============
+#Anxiety
+-Briefly held Alprazolam 0.5mg TID PRN:anxiety given somnolence
+-Paroxetine 10mg QD
+
+#Hypothyroid
+-Levothyroxine 50mcg QD
+
+#HLD
+-Simvastatin 20mg QHS
+
+#HTN
+-Held home atenolol 100mg daily and amlodipine 10mg daily in the
+setting of relative hypotension
+
+___ Breast CA s/p mastectomy
+-Letrozole 2.5mg QD
+
+TRANSITIONAL ISSUES:
+=====================
+[ ] Please check her CBC and ensure that it is downtrending. 
+Follow up respiratory symptoms for concern for potential 
+aspiration pneumonia
+[ ] Ensure that she gets proper fitting dentures
+[ ] Please ensure that she can still continue to self-cath 
+without any issues
+
+**Medications Started
+- Pantoprazole 40 mg PO Q12H for one month.
+
+**Medications Changed
+- None
+
+**Medications Stopped
+- None 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+2. ALPRAZolam 0.5 mg PO TID:PRN anxiety 
+3. Simvastatin 20 mg PO QPM 
+4. Atenolol 100 mg PO DAILY 
+5. amLODIPine 10 mg PO DAILY 
+6. PARoxetine 10 mg PO DAILY 
+7. Letrozole 2.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H SOB 
+RX *ipratropium-albuterol 0.5 mg-3 mg (2.5 mg base)/3 mL 1 neb 
+Every 6 hours Disp #*30 Ampule Refills:*0 
+2.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth Twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  ALPRAZolam 0.5 mg PO TID:PRN anxiety  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Atenolol 100 mg PO DAILY  
+6.  Letrozole 2.5 mg PO DAILY  
+7.  Levothyroxine Sodium 50 mcg PO DAILY  
+8.  PARoxetine 10 mg PO DAILY  
+9.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+======
+Hypoxemic respiratory failure
+Food impaction
+
+Secondary
+=======
+Urinary retention 
+Anxiety 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did I come to the hospital?
+- You came to the hospital after swallowing a large piece of 
+steak.
+
+What happened while I was in the hospital?
+- You had a procedure called an upper endoscopy or EGD 
+(esophagogastroduodenoscopy) where a camera is placed down your 
+feeding tube (esophagus). We saw a large portion of impacted 
+food.
+- During this procedure you stopped being able to breath on your 
+own. You had an endotracheal tube placed down your throat 
+(intubation) and you were placed on a ventilator to help you 
+breathe.
+- Your EGD was resumed and our gastroenterologists were able to 
+dislodge the impacted food from your esophagus.
+- After the procedure you were found to have partial collapse of 
+the lower lobe of your left lung. This may have contributed to 
+your difficulty breathing during the procedure.
+- While intubated our interventional pulmonologists took a look 
+with a bronchoscope in your airways and helped re-inflate your 
+lung. 
+- You were soon extubated and breathed well on your own.
+
+What should I do once I leave the hospital?
+- Please take your medications and go to your appointments as 
+described in this discharge summary.
+- If you experience any of the danger signs listed below, please 
+call your primary care physician or present to the emergency 
+department immediately. 
+
+We wish you the best! 
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

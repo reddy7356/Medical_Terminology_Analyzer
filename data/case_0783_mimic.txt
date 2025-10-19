@@ -1,0 +1,1335 @@
+===== DISCHARGE NOTE =====
+note_id=13211838-DS-15 | hadm_id=24585522
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Constipation
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+The patient is a ___ year old male with a recent diagnosis of 
+multiple myeloma in ___ with T4 plasmacytoma s/p spinal 
+fusion and XRT, now undergoing Velcade/Decadron C4 who presents 
+with severe back pain and constipation.  He reports that he has 
+felt contipated for several days.  He saw his Oncologist on 
+___ for C4D1 of his chemotherapy, also receiving Zometa.  He 
+felt well at that time, but later in the day after taking Senna 
+felt that his abdomen was "going to explode".  He then developed 
+severe back pain which he described as a tight band around his 
+lower back.  The pain radiated down both legs and feel like 
+"muscle cramps".  He contacted his Oncologist and was instructed 
+to visit the ED.
+.
+In the ED, his initial vitals were T 98.4, HR 116, BP 142/86, RR 
+16, and SpO2 98% on RA.  He did not recall any recent trauma.  
+He denied any bowel or bladder incontinence or any saddle 
+anesthesias.  He has had moderate N/V since beginning 
+chemotherapy.  He notes that he was taking Morphine XR until 4 
+weeks ago, and was off narcotic pain meds completely for one 
+week, using only Acetaminophen.  He then started needing 
+Dilaudid 2 mg at bedtime over the last two weeks, taking it 
+nightly for the past week.  His last bowel movement was 7 days 
+ago.  At home, he tried stool softeners and laxatives without 
+effect, but he has not been on a regular bowel regimen since 
+stopping Morphine XR a few weeks ago.
+.
+Labs showed anemia with Hct 33.9, low platelets at 81, 
+hypokalemia with K 3.2, and Ca 8.3.  He was given NS 2L IV and 
+KCl 40 mEq IV once.  Bedside US did not show evidence of AAA.  
+CT abdomen showed marked fecal loading in the ascending and 
+transverse colon, normal bowel gas in the sigmoid, and a mostly 
+collapsed rectum.  MRI ___ did not show any acute etiology 
+for his back pain.  He was given a soap suds enema without 
+effect.   He received a total of Dilaudid 4 mg IV for his back 
+pain.  He was admitted to the ___ service.  Vitals prior to 
+transfer were T 98.4, HR 92, BP 133/84, RR 15, and SpO2 96% on 
+RA.
+.
+On arrival to the floor, he reported continued back pain with 
+radiation to the legs and abdominal bloating, but denied 
+abdominal pain, nausea, or vomiting.  He did not have a bowel 
+movement in the ED.  Review of systems was otherwise negative.
+.
+REVIEW OF SYSTEMS:
+No fevers, chills, fatigue, or malaise.  No headache, vertigo, 
+presyncope, syncope, vision changes, or hearing changes.  
+Neuropathy related to Velcade unchanged.  No chest pain, 
+pressure, palpitations, SOB, DOE, orthopnea, PND, cough, or 
+hemoptysis.  No abdominal pain, nausea, vomiting, diarrhea, 
+melena or BRBPR.  No hematuria, dysuria, frequency, urgency, 
+hesitancy, or incontinence.  Back and leg pain as above.  No 
+rashes or skin lesions.
+ 
+Past Medical History:
+ONCOLOGICAL HISTORY: 
+# Multiple Myeloma
+-- (___) Diagnosed after pathological T4 vertebral fracture
+-- (___) Skeletal survey without other lesions
+-- (___) T4 vertebrectomy and anterior T3-5 fusion
+-- (___) Pathology of spinal lesion shows plasmacytoma
+-- (___) Posterior T1-T8 fusion
+-- (___) Bone marrow biopsy with plasma cell dyscrasia
+-- Hypocellular bone marrow with trilineage hematopoiesis and 
+clusters of plasma cells. CD138 highlight small clusters of 
+plasma cells, which by kappa lambda staining are kappa 
+monotypic.
+-- Normal cytogenetics
+-- (___) Started XRT and Velcade/Decadron
+-- (___) Enrolled in protocol ___ (Blockage of PD-1 In 
+Conjunction with the Dendritic Cell/Myeloma Vaccines following 
+Stem Cell Transplantation)
+-- (___) Skeletal survey without other lesions
+-- (___) Cellular marrow aspirate with maturing trilineage 
+hematopoiesis. Diagnostically inadequate due to lack of core 
+biopsy.
+.
+OTHER PAST MEDICAL HISTORY:
+Hyperlipidemia
+
+ 
+Social History:
+___
+Family History:
+Negative for neoplasm, immunosuppression, bleeding, or clotting 
+disorders. Mom died in ___ ___ disease. Father died 
+at ___ of heart disease.
+
+ 
+Physical Exam:
+Admission PE:
+VS: T 98.1, BP 150/90, HR 80, RR 20
+Gen: Middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM, OP benign.
+Neck: Supple, full ROM.  JVP not elevated.  No cervical 
+lymphadenopathy.
+Back: Long midline surgical scar.  No point tenderness along 
+spinous processes or paraspinal muscles.  Negative straight leg 
+raise test bilaterally.
+CV: RRR with normal S1, S2.  No M/R/G.  No S3 or S4.
+Chest: Respiration unlabored, no accessory muscle use. CTAB 
+without crackles, wheezes, or rhonchi.
+Abd: Bowel sounds present.  Moderately distended and tympanic.  
+Mild tenderness to palpation diffusely.
+Ext: WWP.  Digital cap refill <2 sec.  No C/C/E.  Distal pulses 
+intact radial 2+, DP 2+, ___ 2+.
+Skin: Multiple surgical incision scars.  No rashes, ulcers, or 
+other lesions noted.
+Neuro: CN II-XII grossly intact.  Sensation to light touch 
+intact in lower extremities.  Strength ___ in all extremities.
+
+Discharge PE:
+VS: T 97.5, BP 132/78, HR 82, RR 18, O2sat 97%RA
+Gen: Middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. PERRL, EOMI. MMM, OP clear.
+CV: RRR with normal S1, S2.  No murmurs, rubs, or gallops. 
+Chest: CTAB without crackles, wheezes, or rhonchi.
+Abd: + Bowel sounds.  Soft, nontender, nondistended, passing 
+___. No stool on vault.
+Back: Long midline surgical scar and scar along left scapula.  
+No point tenderness along spinous processes or paraspinal 
+muscles.
+Ext: WWP. No C/C/E. Distal pulses intact DP 2+, ___ 2+.
+Neuro: Alert and oriented. CN II-XII grossly intact.  Sensation 
+to light touch intact in lower extremities.  Strength ___ in all 
+extremities.
+ 
+Pertinent Results:
+Admission Labs:
+___ 10:15AM BLOOD WBC-5.4 RBC-3.96* Hgb-11.4* Hct-34.4* 
+MCV-87 MCH-28.8 MCHC-33.1 RDW-15.6* Plt Ct-76*
+___ 12:10AM BLOOD WBC-6.9 RBC-4.01* Hgb-11.5* Hct-33.9* 
+MCV-85 MCH-28.7 MCHC-33.9 RDW-16.3* Plt Ct-81*
+___ 12:10AM BLOOD Neuts-81* Bands-1 Lymphs-9* Monos-7 Eos-0 
+Baso-0 ___ Metas-1* Myelos-1*
+___ 12:10AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+ 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL 
+Tear ___
+___ 10:15AM BLOOD Glucose-74 UreaN-9 Creat-0.6 Na-142 K-3.6 
+Cl-111* HCO3-22 AnGap-13
+___ 12:10AM BLOOD Glucose-86 UreaN-13 Creat-0.5 Na-142 
+K-3.2* Cl-107 HCO3-24 AnGap-14
+___ 12:10AM BLOOD ALT-30 AST-25 AlkPhos-83 TotBili-0.5
+___ 10:15AM BLOOD Calcium-7.8* Phos-2.5* Mg-2.2
+___ 12:10AM BLOOD Calcium-8.3* Phos-3.3 Mg-2.3
+
+Imaging:
+___ CTU (ABD/PEL) W/O CONTRAST: WET READ: 1. Marked fecal 
+loading in the ascending and transverse colon. Normal bowel gas 
+in the sigmoid. The rectum is most collapsed. 2. No small bowel 
+obstruction. 3. 5 mm non-obstructive stone in the left kidney. 
+No hydroureteronephrosis in either kidney. 4. s/p lumbar spinal 
+fusion. Unchanged alignment of the visualized 
+thoracolumbar spine. 
+___ MR ___ & W/O CONTRAST: No evidence of focal bony 
+abnormalities to indicate deposits from myeloma or metastatic 
+disease. Multilevel mild degenerative changes. No evidence of 
+spinal stenosis or high-grade foraminal narrowing. No evidence 
+of epidural abscess, discitis, osteomyelitis. 
+___ KUB: Newly appeared dilated small bowel loops in 
+particular in the mid abdomen with several air-fluid levels 
+noted. The findings are nonspecific and might reflect ileus as 
+well as developing small-bowel obstruction.  Correlation with 
+clinical findings and repeated cross-sectional imaging if needed 
+might be suggested. No evidence of free air is seen on the 
+current radiograph. 
+___ KUB: 1. Dilated small bowel with air-fluid levels, which 
+is mildly worse than yesterday's study. This may represent mild 
+obstruction in the setting of severe constipation versus ileus. 
+2. No evidence of free air.  
+___ CT abdomen: ABDOMEN: The lung bases demonstrate minimal 
+dependent atelectasis without pleural effusion. No pericardial 
+effusion is seen. Evaluation of intra-abdominal organs is 
+limited in the absence of intravenous contrast.  Within this 
+limitation, the liver, spleen, gallbladder, pancreas, adrenal 
+glands, and right kidney appear normal. A 4-mm non-obstructive 
+calculus is seen in the left kidney. There is a prominent left 
+extrarenal pelvis without hydroureter. There is no free air or 
+ascites. The stomach and small bowel appear normal. The 
+ascending colon demonstrates a large amount of stool. The 
+transverse colon demonstrates gaseous distention with a fluid 
+level. The descending colon is normal in caliber with a small 
+amount of stool and fluid.  Air and fluid are seen in the 
+rectum. There is no small bowel dilation.    
+PELVIS: The bladder, seminal vesicles, and prostate are normal 
+other than 
+prostatic calcifications.   There are no lymph nodes which meet 
+criteria for pathologic enlargement.  Aortic calcifications are 
+seen. Post-surgical changes at T4 are incompletely imaged. 
+Harvest site in the right iliac is again seen. 
+___ Tspine: The visualized intrathoracic structures 
+demonstrate subsegmental atelectasis versus scarring in the left 
+mid lung. The heart and mediastinum are unchanged. Surgical clip 
+is seen adjacent to the right superior mediastinum. Status post 
+T4 corpectomy with cage placement and lateral fusion from T3-T5. 
+Status post posterior spinal fusion from T1-T9. The hardware is 
+intact and unchanged in position. No change in thoracic spine 
+alignment. No new fractures. 
+___ KUB: Decreased small bowel dilation compared to 
+abdominal x-ray on ___ with less air-fluid levels. 
+No evidence of free air. These findings are consistent with 
+abdominal CT done yesterday. 
+___ Echo: The left atrium and right atrium are normal in 
+cavity size. Left ventricular wall thickness, cavity size and 
+regional/global systolic function are normal (LVEF >55%). There 
+is no ventricular septal defect. Right ventricular chamber size 
+and free wall motion are normal. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion and no 
+aortic stenosis or aortic regurgitation. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. The pulmonary artery systolic 
+pressure could not be determined. There is a trivial/physiologic 
+pericardial effusion. Compared with the prior study (images 
+reviewed) of ___, the findings are similar.
+___ KUB: FINDINGS: There are a few scattered air-fluid 
+levels. There is no small or large bowel dilation. There is no 
+free air. The osseous structures are unremarkable. Spinal 
+hardware is seen in the most superior part of the film.  There 
+are no soft tissue calcifications. IMPRESSION: No evidence of 
+obstruction. No evidence of free air. 
+
+Discharge Labs:
+___ 05:00AM BLOOD WBC-4.6 RBC-3.71* Hgb-10.9* Hct-31.4* 
+MCV-85 MCH-29.4 MCHC-34.8 RDW-16.2* Plt ___
+___ 05:00AM BLOOD Neuts-73* Bands-0 Lymphs-15* Monos-9 
+Eos-2 Baso-1 ___ Myelos-0
+___ 05:00AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-OCCASIONAL Polychr-NORMAL
+___ 05:00AM BLOOD Plt Smr-NORMAL Plt ___
+___ 05:00AM BLOOD ___ PTT-26.6 ___
+___ 05:00AM BLOOD Glucose-77 UreaN-3* Creat-0.6 Na-144 
+K-3.6 Cl-108 HCO3-28 AnGap-12
+___ 05:00AM BLOOD ALT-26 AST-24 LD(LDH)-250 AlkPhos-81 
+TotBili-0.7
+___ 05:00AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.2
+ 
+Brief Hospital Course:
+Primary reason for admission: The patient is a ___ year old male 
+with a recent diagnosis of multiple myeloma in ___ with T4 
+plasmacytoma s/p spinal fusion and XRT, now undergoing 
+Velcade/Decadron C4 who presents with severe back pain and 
+constipation, likely due to velcade autonomic neuropathy.
+
+Active Issues:
+
+# Constipation: He has a history of constipation, likely a side 
+effect of velcade, which was made worse with his prior narcotic 
+regimen needed for pain control.  He stopped taking a bowel 
+regimen after discontinuing Morphine XR but continued to take 
+dilaudid in the week PTA, with only a few doses of Senna.  Tried 
+lactulose without success. He had not had a bowel movement in >7 
+days PTA. CT abdomen showed marked fecal loading in the 
+ascending and transverse colon, normal bowel gas in the sigmoid, 
+and a mostly collapsed rectum. He received Methylnaltrexone 12 
+mg SC in the on ___, which did not help. GI and Surgery 
+consults recommend continued golytely, as long as tolerating. 
+___ KUB with presence of stool diffusely, improved air fluid 
+levels. TSH WNL. Nontender, nondistended on exam, passing liquid 
+golytely. Mag citrate, fleets enema, large volume tap water 
+enema, and neostigmine were tried without improvement. Morphine 
+and dilaudid were avoided, patient given a few doses of fentanyl 
+over admission for pain. Patient has been passing golytely 
+without problems.  Abdomen is not distended and patient has been 
+tolerating PO food X2 days. Primary team and GI felt patient 
+could go home with close follow up with Dr. ___ possibly 
+GI follow up if problem persists.  Patient was discharged on 
+miralax TID.
+
+# Multiple Myeloma: He was recently diagnosed with multiple 
+myeloma, primarily localized to a T4 plasmacytoma, but with 
+evidence of systemic involvement on initial BM biopsy.  He is 
+currently undergoing treatment with XRT and Velcade/Decadron, 
+completing his fourth cycle recently.  He is enrolled in 
+protocol ___ BM biopsy shows <5% plasma cells. 
+Patient is in remission.  Can likely proceed with ASCT and will 
+see Dr. ___ ___ to establish a plan for SCT. 
+Patient got some of his pre-SCT w/u in the hospital (Echo, CXR, 
+PFTs). Acyclovir 400mg PO TID prophylaxis was continued over 
+admission.
+
+# Back Pain: Patient presented with significant back pain. MRI 
+___ did not show any acute etiology for his back pain.  It 
+is likely from chronic spinal issues related to his disease.  
+His constipation may also be contributing. Back pain resolved 
+within a day of admission. Dr. ___ looked at ___ films 
+and relayed that patient no longer requires back brace. Patient 
+performed back exercises to strengthen muscles.
+
+# Hypokalemia: He had K 3.2 on admission and was repleted in the 
+ED with Poatassium chloride 40 mEq IV once. Potassium was 
+monitored over admission and remained within normal limits.
+
+# Anemia/Thrombocytopenia: His low counts are likely related to 
+his recent chemotherapy.  Hct during admission remained within 
+baseline range of 33.0-36.0. He does not have any evidence of 
+active bleeding and is not jaundiced. He did not require any 
+transfusions over the admission.
+
+# Foot pain: Patient began complaining of several days of 
+bilateral foot pain and restlessness, worse at night during the 
+admission. Electrolytes were monitored and Ca+ and phosphorus 
+were releted when low. Symptoms could be an additional 
+neuropathy due to Velcade. Gabapentin was not started while 
+patient had this issue of constipation.
+
+Chronic Issues:
+
+# CAD/Hyperlipidemia: Continued home Atorvastatin 20 mg PO 
+daily, held Aspirin 81 mg PO daily.
+
+Transitional Issues:
+Patient has close follow up with Dr. ___ on ___, 
+___ to proceed with MM treatment.  If constipation 
+remains an issue (not tolerating PO food, distension, pain), 
+patient will need GI follow up.  If obstructive symptoms, 
+patient will have to return to the hospital.
+ 
+Medications on Admission:
+Aspirin 81 mg PO daily
+Acyclovir 400 mg PO TID
+Atorvastatin 20 mg PO daily
+Dexamethasone 40 mg PO weekly
+Hydromorphone ___ mg PO Q8H PRN pain
+Omeprazole 20 mg PO daily
+Ondansetron 8 mg PO Q8H PRN nausea
+Prochlorperazine 10 mg PO Q8H PRN nausea
+Lorazepam 0.5-1 mg PO Q6H PRN nausea or anxiety
+Senna 8.6 mg PO BID PRN constipation
+ 
+Discharge Medications:
+1. atorvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+every eight (8) hours as needed for nausea.  
+5. lorazepam 0.5 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for anxiety.  
+6. ondansetron HCl 8 mg Tablet Sig: One (1) Tablet PO every 
+eight (8) hours as needed for nausea.  
+7. Miralax 17 gram Powder in Packet Sig: One (1) packet PO every 
+eight (8) hours.
+Disp:*90 packets* Refills:*2*
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Constipation due to Velcade autonomic 
+neuropathy
+
+Secondary Diagnosis: Multiple Myeloma and T4 Plasmacytoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you.  You were admitted for 
+constipation and back pain. Imaging of your back did not 
+indicate the back pain was caused by a structural problem in 
+your spine. Xrays of your back showed good allignment and no new 
+fractures.  You were allowed to ambulate without your back brace 
+on.  We attempted to assist you in having a bowel movement with 
+many liters of Golytely, as well as trials of Magnesium Citrate, 
+Neostigmine, methylnaltrexone, and enemas. Although you did not 
+have a significant bowel movement, your imaging was improved 
+over the admission and you were no longer having pain or 
+distension. Additionally, you are tolerating food and passing 
+fluids. You are being discharged home with close follow up with 
+Dr. ___.
+
+Please make the following changes to your home medications:
+START Miralax orally three times a day.
+START Docusate Sodium 100mg twice daily.
+STOP Hydromorphone.
+STOP Aspirin 81mg.
+
+Please continue the remainder of your home medications as 
+prescribed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13211838-DS-17 | hadm_id=26051018
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Admission for autotransplant for treatement of multiple myeloma 
+ 
+Major Surgical or Invasive Procedure:
+1. Autologous stem cell transplant
+
+ 
+History of Present Illness:
+The patient is a ___ year old male with a diagnosis of multiple 
+myeloma in ___ with T4 plasmacytoma s/p spinal fusion and 
+XRT, s/p 4 cycles of Velcade/Decadron complicated by severe 
+neuropathy and constipation. He is being admitted today for 
+autotransplant.  
+.  
+He initially presented with non-specific chest pain and was 
+found to have a T4 compression fracture on CTA to evaluation of 
+PE. MRI revealed pathologic fracture at T4 level with 
+compression of the vertebral body and retropulsion and enhancing 
+epidural and paraspinal soft tissues. Skeletal survey revealed 
+no other lesions. He had a normal CBC and differential as well 
+as renal function and calcium level. Hospitalization was also 
+complicated by severe constipation. He has since undergone 3 
+cycles of velcade/dex, cyclophosphamide infusion, and stem cell 
+collection on ___.  Collection was successful, however, one 
+bag did grow G+ orgranisms sensitive to fluroquinolones. The 
+current product is culture negative. 
+.  
+
+At this time the patient reports diffuse bilateral ___ pain 
+starting 2 weeks after initiation of chemotherapy. He describes 
+a sensation of muscle tightness. He states that this pain is 
+releived by oxycontin. Since his prior admission, the dose of 
+oxycontin has increased from 15mg bid to tid, and this provides 
+better control. He also reports numbness and tingling in 
+bilateral plantar region of feet and of hands. He denies 
+weakness. In addition to the above, he also reports h/o numbness 
+in ___ digits of right foot and episode of hyperesthesia of 
+skin in the right foot. This occured about a week ago and 
+resolved over a ___ day period.
+.  
+REVIEW OF SYSTEMS:  
++ nightsweats since cyclophosphomide infusion w/o associted 
+fevers, chills
+- No fevers, chills, fatigue, or malaise. No headache, vertigo, 
+presyncope, syncope, vision changes, or hearing changes. No 
+chest pain, pressure, palpitations, SOB, DOE, orthopnea, PND, 
+cough, or hemoptysis. No abdominal pain, nausea, vomiting, 
+diarrhea, melena or BRBPR. No hematuria, dysuria, frequency, 
+urgency, hesitancy, or incontinence. No rashes or skin lesions.  
+
+
+ 
+Past Medical History:
+ONCOLOGICAL HISTORY: 
+# Multiple Myeloma
+-- (___) Diagnosed after pathological T4 vertebral fracture
+-- (___) Skeletal survey without other lesions
+-- (___) T4 vertebrectomy and anterior T3-5 fusion
+-- (___) Pathology of spinal lesion shows plasmacytoma
+-- (___) Posterior T1-T8 fusion
+-- (___) Bone marrow biopsy with plasma cell dyscrasia
+-- Hypocellular bone marrow with trilineage hematopoiesis and 
+clusters of plasma cells. CD138 highlight small clusters of 
+plasma cells, which by kappa lambda staining are kappa 
+monotypic.
+-- Normal cytogenetics
+-- (___) Started XRT and Velcade/Decadron
+-- (___) Enrolled in protocol ___ (Blockage of PD-1 In 
+Conjunction with the Dendritic Cell/Myeloma Vaccines following 
+Stem Cell Transplantation)
+-- (___) Skeletal survey without other lesions
+-- (___) Cellular marrow aspirate with maturing trilineage 
+hematopoiesis. Diagnostically inadequate due to lack of core 
+biopsy.
+--___: cyclophosphomide infusion
+--___: stem cell collection
+.
+OTHER PAST MEDICAL HISTORY:
+Hyperlipidemia
+Denies HTN, DM, MI, CVA/TIA 
+ 
+Social History:
+___
+Family History:
+Sister with breast cancer diagnosed at unknown age
+Negative for neoplasm, immunosuppression, bleeding, or clotting 
+disorders. Mom died in ___ ___ disease. Father died 
+at ___ of heart disease.
+
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:  
+Gen: well appearing man, laying in bed in NAD 
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM, clear OP  
+Neck: Supple, full ROM. JVP not elevated. No cervical 
+lymphadenopathy.  
+CV: RRR with normal S1, S2. No M/R/G. No S3 or S4.  
+Chest: CTABL, no crackles, wheezes, or rhonchi.  
+Abd: Bowel sounds + x 4, ND, NT, no rebound  
+Ext: 2+ distal pulses, no c/c/e  
+Skin: no rashes  
+Neuro: CN II-XII grossly intact. Strength ___ in all 
+extremities.
+ 
+Pertinent Results:
+ADMISSION LABS:
+Neuts-71.0* Lymphs-16.7* Monos-10.0 Eos-0.3 Baso-2.0
+WBC-4.6 RBC-4.50* Hgb-13.0* Hct-40.0 MCV-89 MCH-28.9 MCHC-32.5 
+RDW-15.8* Plt ___ PTT-27.1 ___
+ESR-42*
+UreaN-9 Creat-0.7 Na-143 K-4.9 Cl-106 HCO3-27 AnGap-15
+ALT-23 AST-25 LD(LDH)-175 AlkPhos-112 TotBili-0.3 DirBili-0.1 
+IndBili-0.2
+TotProt-6.7 Calcium-8.9 Phos-3.5 Mg-2.1 UricAcd-4.2
+TSH-1.9
+___
+SERUM PROTEIN ELECTROPHORESIS = PEP-TRACE ABNO b2micro-1.9 
+IgG-928 IgA-209 IgM-33* IFE-TRACE MONO
+FREE KAPPA AND LAMBDA, WITH K/L RATIO-Test      
+Test                          Result              Reference 
+Range/Units
+FREE KAPPA, SERUM             17.1                3.3-19.4 mg/L 
+FREE LAMBDA, SERUM            9.7                 5.7-26.3 mg/L 
+FREE KAPPA/LAMBDA RATIO       1.76  H             0.26-1.65
+.
+DISCHARGE LABS:
+WBC-3.0* RBC-3.70* Hgb-11.2* Hct-33.5* MCV-90 MCH-30.3 MCHC-33.5 
+RDW-16.0* Plt Ct-69*#
+Neuts-53 Bands-0 Lymphs-8* Monos-32* Eos-0 Baso-0 Atyps-1* 
+Metas-4* Myelos-2*
+___ PTT-30.8 ___
+Glucose-101* UreaN-3* Creat-0.5 Na-137 K-3.8 Cl-101 HCO3-29 
+AnGap-11
+Calcium-8.7 Phos-3.3 Mg-2.2
+ALT-26 AST-34 LD(LDH)-233 AlkPhos-116 TotBili-0.6 Albumin-3.9 
+.
+MICROBIOLOGY:
+BLOOD CULTURES (___): negative
+URINE CULTURE (___): negative
+C. DIFF TOXINS A/B (___): negative
+CENTRAL LINE TIP CULTURE (___): pending 
+.
+SUPINE AND UPRIGHT ABDOMINAL X-RAY (___): There is scattered 
+area in nondistended loops of small and large bowel with some 
+scattered air-fluid levels on the upright study. Findings are 
+nonspecific. There is no evidence for obstruction. Spinal 
+hardware is seen overlying the mid thoracic spine and is 
+incompletely visualized on the current study. 
+IMPRESSION: 
+1. Nonspecific bowel gas pattern with no evidence of 
+obstruction. No 
+evidence of free air. 
+ 
+Brief Hospital Course:
+___ yo man with a recent diagnosis of MM with a large paraspinal 
+plamacytoma now sp 4 cycles of velcade/dex with neuropathy 
+admitted for autologous transplant on ___. 
+. 
+# MULTIPLE MYELOMA s/p autoSCT: Patient received melphalan on 
+D-3 and D-2, and received stem cell transplant on ___. 
+Initially started on ciprofloxacin ppx bc stem cell cx FQ 
+sensitive. On D+7 (___), spiked fever to 100.3 so antibiotics 
+broadened to vanc+cefipime. Abx were discontinued once ___ 
+recovered.  Pt had prophylaxis with acyclovir and nystatin. 
+.  
+___ PAIN/NEUROPATHY: patient has severe peripheral and autonomic 
+neuropathy ___ velcade, presenting as neuropathic pain in 
+BLE/BUE, orthostatic hypotension and previous episode of severe 
+constipation requiring hospitalization. During this 
+hospitalization had neuropathic pain and some constipation. Had 
+KUB for constipation, found to have no signs of SBO/ileus; 
+constipation improved. Initially his home neurontin (300mg qAM, 
+300mg qNoon, and 600mg qPM) was tapered due to concern for its 
+myelosuppressive effects in the setting of chemotherapy. 
+Amitryptyline was substituted, but had to discontinue on ___ 
+as concerned it was causing night sweats. Once ___ recovered, 
+gabapentin was gradually titrated up to 600mg qAM, 600mg qNoon 
+and 900mg qPM. Given significant ___ pain, also started 
+pregabalin 75mg PO BID. Also on oxycodone 200mg qAM, 100mg 
+qNoon, and 200mg qPM.  
+.  
+# NEUTROPENIC FEVER: Pt with neutropenic fever to 100.3 on ___ 
+___ s/p AutoSCT), with WBC count 0.1. BCx, UCx, CXR negative. 
+Started vancomycin (given central line) and cefipime to cover GP 
+including MRSA and GN including pseudomonas. No focal symptoms. 
+Pt afebrile since ___. Discontinued vancomycin and cefepime on 
+___ given 2 days of ANC>1000. Also discontinued neupogen 
+yesterday, as fever on ___ was most likely ___ neupogen.  
+.  
+# MUCOSITIS: pt c/o mouth pain and odynophagia starting on ___ 
+(D+7). Likely mucositis. Improved once ___ recovered.  
+- Continue GI cocktail (maalox, benadryl, lidocaine) prn  
+- Continue clotrimazole and caphasol per protocol  
+.  
+# IV Access: pt had issues with his left CVL, with downstream 
+occlusion alarm ringing when he slept on his right. Found likely 
+___ anatomic occlusion with position change. 
+.  
+#Orthostatic hypotension: ___ velcade. Continued 
+fludrocortisone. 
+ 
+Medications on Admission:
+ACYCLOVIR - 400 mg Tablet - 1 Tablet(s) by mouth three times a
+day Please dispense a 3month supply
+AMITRIPTYLINE -  (Dose adjustment - no new Rx) - 25 mg Tablet - 
+1
+Tablet(s) by mouth at bedtime
+FLUDROCORTISONE - 0.1 mg Tablet - 1 Tablet(s) by mouth daily
+FOLIC ACID -  (Prescribed by Other Provider) - 1 mg Tablet - 1
+Tablet(s) by mouth daily
+GABAPENTIN -  (Dose adjustment - no new Rx) - 300 mg Capsule - 2
+Capsule(s) by mouth in the morning, 2 in the afternoon, and 3 at
+bedtime.
+HYDROMORPHONE -  (Prescribed by Other Provider) - 2 mg Tablet - 
+1
+Tablet(s) by mouth  PRN pain
+LORAZEPAM -  (Prescribed by Other Provider) - 1 mg Tablet - 1
+Tablet(s) by mouth every six (6) hours as needed for anxiety
+Patient reports taking just 0.5mg
+OMEPRAZOLE -  (Dose adjustment - no new Rx) - 20 mg Capsule,
+Delayed Release(E.C.) - 1 Capsule(s) by mouth daily
+ONDANSETRON HCL - 8 mg Tablet - 1 Tablet(s) by mouth every eight
+(8) hours as needed for nausea
+OXYCODONE [OXYCONTIN] - 15 mg Tablet Extended Release 12 hr - 1
+Tablet(s) by mouth three times a day DOSE CHANGE.
+PROCHLORPERAZINE MALEATE -  (Dose adjustment - no new Rx) - 10 
+mg
+Tablet - 1 Tablet(s) by mouth q6-8h as needed for nausea
+ACETAMINOPHEN -  (OTC) - 500 mg Tablet - 2 Tablet(s) by mouth 
+PRN for leg pain
+B COMPLEX VITAMINS [B COMPLEX-VITAMIN B12] -   Tablet - 1
+Tablet(s) by mouth daily
+DOCUSATE SODIUM -  (Prescribed by Other Provider) - 100 mg
+Capsule - 2 Capsule(s) by mouth twice a day
+POLYETHYLENE GLYCOL 3350 [MIRALAX] -  (Dose adjustment - no new
+Rx) - 17 gram Powder in Packet - 1 Powder(s) by mouth daily as
+needed for constipation
+SENNOSIDES -  (Dose adjustment - no new Rx) - 8.6 mg Tablet - 2
+Tablet(s) by mouth at bedtime
+ 
+Discharge Medications:
+1. lorazepam 0.5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for anxiety/nausea.  
+2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+3. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for PAIN.  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).  
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO twice a day as needed for 
+Constipation.  
+9. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO 
+BID (2 times a day) as needed for CONSTIPATION.  
+10. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed for gas.
+Disp:*120 Tablet, Chewable(s)* Refills:*0*
+11. OxyContin 10 mg Tablet Extended Release 12 hr Sig: AS 
+DIRECTED Tablet Extended Release 12 hr PO three times a day: 
+Take 20mg (2 pills) in AM, 10mg (1 pill) at noon, and 20mg (2 
+pills) in ___.
+Disp:*150 Tablet Extended Release 12 hr(s)* Refills:*2*
+12. pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+13. gabapentin 300 mg Capsule Sig: AS DIRECTED Capsule PO three 
+times a day: Take 600mg (2 pills) in AM, 600mg (2 pills) at 
+noon, and 900 mg (3 pills) in ___. .
+Disp:*210 Capsule(s)* Refills:*2*
+14. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Multiple myeloma
+2. Peripheral neuropathy 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure participating in your care at ___ 
+___. You were admitted to the hospital for 
+chemotherapy and a stem cell transplant to treat your multiple 
+myeloma. The transplant went well and your blood counts 
+recovered nicely. You had one fever during hospitalization 
+(treated with antibiotics), and continued to have problems with 
+peripheral neuropathy. 
+
+Please attend the follow-up appointments tomorrow listed below 
+with the ___ clinic to follow up on your 
+hospitalization. 
+
+We made the following changes to your medications:
+1. INCREASED Neurontin (Gabapentin) to 600mg in the morning, 
+600mg at noon, and 900mg at night
+2. ADDED Lyrica (Pregabalin) 75mg by mouth twice daily
+3. ADDED Simethicone 40-80mg by mouth four times daily as needed 
+for gas
+4. CHANGED oxycodone extended release (Oxycontin) to 20mg in the 
+AM, 10 mg at noon, and 20mg at bedtime
+
+*****
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13211838-DS-16 | hadm_id=27036045
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Admitted for cyclophosphamide infusion 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The patient is a ___ year old male with a diagnosis of multiple 
+myeloma in ___ with T4 plasmacytoma s/p spinal fusion and 
+XRT, s/p 4 cycles of Velcade/Decadron complicated by severe 
+neuropathy and constipation.  He is being admitted today for 
+cyclophosphamide infusion.
+.
+He initially presented with non-specific chest pain and was 
+found to have a T4 compression fracture on  CTA to evaluation of 
+PE. MRI revealed  pathologic fracture at T4 level with 
+compression of the vertebral body and retropulsion and enhancing 
+epidural and paraspinal soft tissues. Skeletal survey revealed 
+no other lesions.  He had a normal CBC and differential as well 
+as renal function and calcium level. Hospitalization was also 
+complicated by severe constipation.
+
+.
+At this time the patient reports diffuse bilateral ___ pain 
+increasing over the past two weeks residing at about ___. He 
+states that this is secodary to neurotoxicity from chemo. He 
+reports associated subjective weakness but reports that pain is 
+not disabiling. He reports associated numbness of bilateral 
+plantar region of feet and of hands. He states that he was given 
+oxycodone and hydrocodone today which helped.
+
+He also reports loose bowel movements since discharge from 
+recent hospitalization for constipation as he has been taking 
+miralax and colace regularly. He reports four or more loose 
+bowel movements per day. He denies abdominal pain, nausea, 
+vomiting, bloody stools, black stools. 
+ 
+Past Medical History:
+ONCOLOGICAL HISTORY: 
+# Multiple Myeloma
+-- (___) Diagnosed after pathological T4 vertebral fracture
+-- (___) Skeletal survey without other lesions
+-- (___) T4 vertebrectomy and anterior T3-5 fusion
+-- (___) Pathology of spinal lesion shows plasmacytoma
+-- (___) Posterior T1-T8 fusion
+-- (___) Bone marrow biopsy with plasma cell dyscrasia
+-- Hypocellular bone marrow with trilineage hematopoiesis and 
+clusters of plasma cells. CD138 highlight small clusters of 
+plasma cells, which by kappa lambda staining are kappa 
+monotypic.
+-- Normal cytogenetics
+-- (___) Started XRT and Velcade/Decadron
+-- (___) Enrolled in protocol ___ (Blockage of PD-1 In 
+Conjunction with the Dendritic Cell/Myeloma Vaccines following 
+Stem Cell Transplantation)
+-- (___) Skeletal survey without other lesions
+-- (___) Cellular marrow aspirate with maturing trilineage 
+hematopoiesis. Diagnostically inadequate due to lack of core 
+biopsy.
+.
+OTHER PAST MEDICAL HISTORY:
+Hyperlipidemia
+
+ 
+Social History:
+___
+Family History:
+Sister with breast cancer diagnosed at unknown age
+Negative for neoplasm, immunosuppression, bleeding, or clotting 
+disorders. Mom died in ___ ___ disease. Father died 
+at ___ of heart disease.
+
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:  
+VS: T 98.3, BP 144/96, HR 112, RR 20, Wt: 173.4. Ht: 70.5. 
+Pain-3 
+Gen: Middle aged male in NAD.   
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM, clear OP 
+Neck: Supple, full ROM. JVP not elevated. No cervical 
+lymphadenopathy.   
+CV: RRR with normal S1, S2. No M/R/G. No S3 or S4.  
+Chest: Respiration unlabored, no accessory muscle use. CTAB 
+without crackles, wheezes, or rhonchi.  
+Abd: Bowel sounds present. ND, NT, no rebound 
+Ext: 2+ distal pulses, no c/c/e  
+Skin: no rashes 
+Neuro: CN II-XII grossly intact. Sensation to light touch intact 
+in lower extremities. Strength ___ in all extremities. 
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 12:15PM   ___ PTT-26.7 ___
+___ 12:15PM   PLT COUNT-312
+___ 12:15PM   NEUTS-80.2* LYMPHS-10.7* MONOS-7.3 EOS-1.4 
+BASOS-0.5
+___ 12:15PM   WBC-7.7 RBC-4.89 HGB-14.4 HCT-42.3 MCV-87 
+MCH-29.5 MCHC-34.1 RDW-15.4
+___ 12:15PM   TOT PROT-6.6 CALCIUM-9.4 PHOSPHATE-4.0 
+MAGNESIUM-2.2 URIC ACID-3.9
+___ 12:15PM   ALT(SGPT)-13 AST(SGOT)-20 LD(LDH)-209 ALK 
+PHOS-112 TOT BILI-0.3
+___ 12:15PM   UREA N-12 CREAT-0.7 SODIUM-136 POTASSIUM-4.4 
+CHLORIDE-101 TOTAL CO2-21* ANION GAP-18
+___ 12:15PM   GLUCOSE-105*
+
+DISCHARGE LABS 
+
+___ 05:45AM BLOOD WBC-6.9 RBC-3.69* Hgb-11.2*# Hct-32.7* 
+MCV-89 MCH-30.2 MCHC-34.2 RDW-15.6* Plt ___
+___ 05:45AM BLOOD Neuts-78.2* Lymphs-10.9* Monos-8.3 
+Eos-2.1 Baso-0.5
+___ 05:45AM BLOOD ___ PTT-26.4 ___
+___ 05:45AM BLOOD Glucose-85 UreaN-7 Creat-0.7 Na-138 K-3.6 
+Cl-104 HCO3-25 AnGap-13
+___ 05:45AM BLOOD ALT-13 AST-14 LD(LDH)-127 AlkPhos-78 
+TotBili-0.2
+___ 05:45AM BLOOD Albumin-3.5 Calcium-7.6* Phos-3.1 Mg-1.9 
+UricAcd-4.2
+ 
+Brief Hospital Course:
+The patient is a ___ yo man with a recent diagnosis of MM with a 
+large paraspinal plamacytoma now s/p 3 cycles of velcade/dex 
+with neuropathy admitted for cytoxan for stem cell mobilization 
+with plan for autologous transplant.
+.
+# Multiple Myeloma
+The patient received Cyclophosphamide ___ mg IV Q3H overnight x 
+3 doses. He also received Mesna 1190 mg IV Q3H 15 minutes prior 
+to Cyclophosphamide then Q3H x4, for total of 5 doses. The 
+patient tolerated these infusions without complication. He was 
+discharged the next day.
+.
+___ pain
+The patient experiences chronic neuropathic pain secondary to 
+chemotherapy drug toxicity. During this admission, we increased 
+the doses of neurontin and amitriptyline and added oxycontin, 
+based on Dr ___. We reviewed the risks of 
+increased somnolence with the patient prior to discharge. He was 
+discharged on the following medications:
+- Neurontin 600 qam, 600 in afternoon and 900 at night
+- Amitriptyline to 59 qhs
+- Oxycontin 30 bid, diluaded 2mg q4h PRN
+
+# Loose stools
+Since recent hospitalization for constipation, the patient has 
+been on an aggressive bowel regimen and having multiple loose 
+stools per day. We recommend decreasing miralax. He was 
+discharged on the following: 
+- Colace 100 mg po TID, senna
+- Miralax PRN to maintain bowel movement q ___ days with these 
+medications. 
+
+ 
+Medications on Admission:
+ACYCLOVIR - 400 mg Tablet - 1 Tablet(s) by mouth three times a
+day Please dispense a 3month supply
+AMITRIPTYLINE - 25 mg Tablet - 1 Tablet(s) by mouth bedtime
+CIPROFLOXACIN - 500 mg Tablet - 1 Tablet(s) by mouth twice a day
+FOLIC ACID - 1 mg Tablet - 1 Tablet(s) by mouth daily
+GABAPENTIN - 300 mg Capsule - 1 Capsule(s) by mouth three times 
+a
+day
+HYDROMORPHONE -  (Prescribed by Other Provider) - 2 mg Tablet - 
+1
+Tablet(s) by mouth  PRN pain
+LORAZEPAM -  (Prescribed by Other Provider) - 1 mg Tablet - 1
+Tablet(s) by mouth every six (6) hours as needed for anxiety
+Patient reports taking just 0.5mg
+OMEPRAZOLE -  (Dose adjustment - no new Rx) - 20 mg Capsule,
+Delayed Release(E.C.) - 1 Capsule(s) by mouth daily
+ONDANSETRON HCL - 8 mg Tablet - 1 Tablet(s) by mouth every eight
+(8) hours as needed for nausea
+PROCHLORPERAZINE MALEATE -  (Dose adjustment - no new Rx) - 10 
+mg
+Tablet - 1 Tablet(s) by mouth q6-8h as needed for nausea
+ACETAMINOPHEN -  (OTC) - 500 mg Tablet - 2 Tablet(s) by mouth 
+PRN for leg pain
+ASPIRIN -  (Dose adjustment - no new Rx) - 81 mg Tablet, Delayed
+Release (E.C.) - 1 Tablet(s) by mouth daily ON HOLD ON HOLD ON
+HOLD ON HOLD
+B COMPLEX VITAMINS [B COMPLEX-VITAMIN B12] -   Tablet - 1
+Tablet(s) by mouth daily
+DOCUSATE SODIUM -  (Prescribed by Other Provider) - 100 mg
+Capsule - 2 Capsule(s) by mouth twice a day
+POLYETHYLENE GLYCOL 3350 [MIRALAX] -  (Dose adjustment - no new
+Rx) - 17 gram Powder in Packet - 1 Powder(s) by mouth daily
+ 
+Discharge Medications:
+1. lorazepam 0.5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for nausea/anxiety/insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+2. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).
+Disp:*90 Tablet(s)* Refills:*2*
+3. amitriptyline 50 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+4. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+6. gabapentin 300 mg Capsule Sig: as directed Capsule PO three 
+times a day: Take 2 capsules in the morning, 2 capsules in the 
+afternoon, and 3 capsules at bedtime.
+Disp:*300 Capsule(s)* Refills:*2*
+7. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+8. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+9. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+10. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.
+Disp:*qs Tablet(s)* Refills:*0*
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO three 
+times a day.
+Disp:*90 Capsule(s)* Refills:*2*
+12. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation: Use as 
+needed to maintain one to two bowel movements per day.
+Disp:*qs packet* Refills:*0*
+13. senna 8.6 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+14. OxyContin 15 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO twice a day as needed for pain.
+Disp:*30 Tablet Extended Release 12 hr(s)* Refills:*0*
+15. Neupogen 480 mcg/0.8 mL Syringe Sig: One (1)  Injection once 
+a day: start on ___.  
+___. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a 
+day: start on ___.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Multiple Myeloma
+Secondary Diagnosis: Peripheral neuropathy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure taking care of you. Your were admitted to the 
+hospital to receive  a short course of chemotherapy as part of 
+your treatment for multiple myeloma. You tolerated the infusion 
+well and had no complications. You will follow up with Dr 
+___ further management. 
+
+Upon discharge, we have given you prescriptions for the 
+following medications, according to Dr ___ 
+recommendations for your leg pain: 
+- Neurontin 600mg qam, 600mg in afternoon and 900mg at night
+- Amitriptyline to 50mg at night
+- Oxycontin 15 twice daily,
+- dilaudid 2mg q4h as needed
+- Colace 100 mg po Three times a day
+-Senna daily
+- Miralax as needed to maintain bowel movement every ___ days.
+
+Medication changes:
+Increase Gabapentin and amitriptyline
+
+New Medications:
+Senna
+Oxycontin
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13211838-DS-14 | hadm_id=29478413
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+T4 fracture
+ 
+Major Surgical or Invasive Procedure:
+T3-5 fusion with T4 vertebrectomy and cage placement
+T1-8 posterior decompression and fusion with instrumentation
+
+ 
+History of Present Illness:
+___ referred from ___ for a pathological T4 
+fracture with spinal tumor. He has reported a 2-week history of 
+vague upper chest pains starting with shortness of 
+breath/splinting. He was evaluated by PCP with diagnosis of 
+costrochondritis and also underwent outpatient stress test on 
+___. He continued to have discomfort and was ruled out an OSH 
+ED. He then went back to the ED today for continued chest pain 
+and back. CTA was performed to rule out PE, which revealed a 
+pathologic fracture of T4 with a spinal tumor. Patient is 
+otherwise healthy at baseline. He denies constitutional 
+symptoms. His last colonoscopy was at age ___ (results unknown), 
+and he has yearly PSA screening/DRE.  
+.  
+In the ED, initial VS: ___ 131/86 17 98% 2l  
+Patient was in pain and given dilaudid 1 mg IV x 1. Neuro exam 
+was non-focal. T4 vertebral body fracture noted on OSH CT scan 
+with some posterior displacement. Ortho was consulted (Dr. 
+___, and MRI of C,L,T spine was performed to evaluate for 
+primary malignancy. Patient admitted to medicine for further 
+malignancy work-up and pain control.  
+VS on transfer were Temp 98.5 oral, HR 83, BP 139/99, RR 16, O2 
+Sat 98% room air  
+.  
+On the floor, patient complaining of similar pain and was given 
+dilaudid with good effect.  
+.  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, abdominal 
+pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, 
+hematochezia, dysuria, hematuria. + tingling in right hand.  
+ 
+Past Medical History:
+- hyperlipidemia  
+
+ 
+Social History:
+___
+Family History:
+Negative for neoplasm. Mom died in ___ ___ disease. 
+Father died at ___ of heart disease. 
+ 
+Physical Exam:
+ADMISSION
+VS: T 98.1 BP 148/110 BP 80 RR 16 pOx 98 RA  
+GENERAL: well-appearing male in some pain, very still  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, no LAD  
+HEART: RRR, no MRG, nl S1-S2.  
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored. 
+ 
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.  
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.  
+SKIN: No rashes or lesions.  
+LYMPH: No cervical or axillary LAD.  
+NEURO: Awake, A&Ox3, CNs II-XII intact, muscle grossly intact  
+
+ 
+Pertinent Results:
+___ 04:55AM BLOOD WBC-11.1* RBC-4.10* Hgb-12.4* Hct-35.3* 
+MCV-86 MCH-30.2 MCHC-35.1* RDW-12.5 Plt ___
+___ 02:50PM BLOOD WBC-9.6 RBC-4.56* Hgb-14.1 Hct-39.9* 
+MCV-87 MCH-30.8 MCHC-35.3* RDW-12.0 Plt ___
+___ 07:10AM BLOOD WBC-9.7 RBC-5.42 Hgb-16.1 Hct-47.4 MCV-87 
+MCH-29.6 MCHC-33.9 RDW-12.4 Plt ___
+___ 10:10PM BLOOD WBC-8.8 RBC-5.09 Hgb-15.5 Hct-44.8 MCV-88 
+MCH-30.5 MCHC-34.6 RDW-12.5 Plt ___
+___ 04:55AM BLOOD Glucose-90 UreaN-10 Creat-0.7 Na-135 
+K-4.0 Cl-98 HCO3-27 AnGap-14
+___ 07:10AM BLOOD Glucose-130* UreaN-12 Creat-0.8 Na-137 
+K-4.1 Cl-98 HCO3-28 AnGap-15
+___ 09:05PM BLOOD Glucose-121* UreaN-10 Creat-0.9 Na-134 
+K-4.3 Cl-96 HCO3-24 AnGap-18
+___ 04:55AM BLOOD Calcium-8.1* Phos-2.9 Mg-2.0
+___ 07:10AM BLOOD Calcium-9.4 Phos-3.4 Mg-2.0
+___ 10:10PM BLOOD TotProt-6.6 Albumin-4.5 Globuln-2.1 
+Calcium-9.5 Phos-3.1 Mg-2.0
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+This is a ___ Male transferred to ___ for evaluation and 
+management of pathological T4 fracture likely neoplastic in 
+origin, without evidence of other bony or soft tissue lesions on 
+skeletal survey and CT torso, undergoing surgical repair and 
+transferred to ortho/spine service
+.
+# Pathologic T4 Fracture: Pt admitted in setting of acute back 
+and chest pain, found to have pathologic T4 fracture, thought to 
+be neoplastic in etiology.  MRI spine demonstrated lesion at T4 
+w slight indentation of cord.  Patient w/o neurologic deficits, 
+so steroids were not started.  Patient was without signs of 
+primary neoplastic processes on CT torso and skeletal survey.  
+Multiple Myeloma also considered, but pt did not display any of 
+the clinical signs usually associated with MM, including anemia, 
+hypercalcemia, kidney failure.  Most likely diagnosis would be 
+solitary Plasmacytoma of the bone (SPB) without extraosseous 
+manifestations. Pt transferred to ortho-spine service for 
+stabilization and biopsy.  At time of transfer, upep negative, 
+spep pending.
+Mr. ___ was transfered to the ___ Spine Surgery Service 
+on and taken to the Operating Room for a T4 vertebrectomy and 
+anterior T3-5 fusion on ___. Please refer to the dictated 
+operative note for further details. The surgery was without 
+complication and the patient was transferred to the PACU in a 
+stable condition. TEDs/pnemoboots were used for postoperative 
+DVT prophylaxis. Intravenous antibiotics were given per standard 
+protocol. Initial postop pain was controlled with a PCA. On 
+___ he returned to the operating room for a scheduled T1-8 
+decompression with instrumentation as part of a staged 2-part 
+procedure. Please refer to the dictated operative note for 
+further details. The second surgery was also without 
+complication and the patient was transferred to the PACU in a 
+stable condition. Postoperative HCT was stable. A bupivicaine 
+epidural pain catheter placed at the time of the posterior 
+surgery remained in place until postop day one. He was kept NPO 
+until bowel function returned then diet was advanced as 
+tolerated. The patient was transitioned to oral pain medication 
+when tolerating PO diet. Foley was removed on POD#2 from the 
+second procedure. He was fitted with a TLSO brace for 
+ambulation. Physical therapy was consulted for mobilization OOB 
+to ambulate. 
+The Heme/Onc service was consulted for further assessment of his 
+plasmacytoma.  Follow up appointments were arranged.
+Hospital course was otherwise unremarkable. On the day of 
+discharge the patient was afebrile with stable vital signs, 
+comfortable on oral pain control and tolerating a regular diet. 
+ 
+Medications on Admission:
+- lipitor 20 mg PO qD  
+- ASA 81 mg PO qD  
+
+ 
+Discharge Medications:
+1. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+3. docusate sodium 100 mg Capsule Sig: Two (2) Capsule PO BID (2 
+times a day).
+Disp:*120 Capsule(s)* Refills:*2*
+4. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.
+Disp:*60 Tablet(s)* Refills:*0*
+5. hydromorphone 2 mg Tablet Sig: ___ Tablets PO Q3H (every 3 
+hours) as needed for pain.
+Disp:*120 Tablet(s)* Refills:*0*
+6. morphine 30 mg Tablet Extended Release Sig: Two (2) Tablet 
+Extended Release PO Q8H (every 8 hours).
+Disp:*180 Tablet Extended Release(s)* Refills:*0*
+7. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Plasmacytoma
+Acute post-op blood loss anemia
+T4 fracture
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+You have undergone the following operation: ANTERIOR/POSTERIOR 
+Thoracic Decompression With Fusion
+ 
+
+ 
+Immediately after the operation:
+ 
+
+ 
+-Activity: You should not lift anything greater than 10 lbs for 
+2 weeks. You will be more comfortable if you do not sit or stand 
+more than ~45 minutes without getting up and walking around.
+ 
+
+ 
+-Rehabilitation/ Physical Therapy: 
+ 
+o2-3 times a day you should go for a walk for ___ minutes as 
+part of your recovery. You can walk as much as you can tolerate. 
+
+ 
+oLimit any kind of lifting.
+ 
+
+ 
+-Diet: Eat a normal healthy diet. You may have some constipation 
+after surgery. You have been given medication to help with this 
+issue.
+ 
+
+ 
+-Brace: You have been given a brace. This brace is to be worn 
+for comfort when you are walking. You may take it off when 
+sitting in a chair or while lying in bed.
+ 
+
+ 
+-Wound Care: Remove the dressing in 2 days. If the incision is 
+draining cover it with a new sterile dressing. If it is dry then 
+you can leave the incision open to the air. Once the incision is 
+completely dry (usually ___ days after the operation) you may 
+take a shower. Do not soak the incision in a bath or pool. If 
+the incision starts draining at anytime after surgery, do not 
+get the incision wet. Cover it with a sterile dressing. Call the 
+office. 
+ 
+
+ 
+-You should resume taking your normal home medications. No 
+NSAIDs.
+ 
+
+ 
+-You have also been given Additional Medications to control your 
+pain. Please allow 72 hours for refill of narcotic 
+prescriptions, so please plan ahead. You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___ 2. We are not allowed to call in or fax narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to your pharmacy. 
+In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.
+ 
+
+ 
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.
+ 
+
+Physical Therapy:
+Activity:   Activity:  Out of bed w/ assist
+ Thoracic lumbar spine:   when OOB
+
+Treatments Frequency:
+Please continue to inspect the incision daily
+ 
+Followup Instructions:
+___

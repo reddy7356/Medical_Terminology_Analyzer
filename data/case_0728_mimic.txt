@@ -1,0 +1,292 @@
+===== DISCHARGE NOTE =====
+note_id=18365239-DS-7 | hadm_id=21838257
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vision changes
+ 
+Major Surgical or Invasive Procedure:
+nONE
+
+ 
+History of Present Illness:
+The patient is an ___ year old right handed woman with a
+history of hypertension, hyperlipidemia, and hypothyroidism who
+presents with acute onset loss of right vision described as 
+white
+out of her vision x10-15 seconds without associated headache who
+was called as a CODE STROKE. She is accompanied today by her
+husband.
+
+The patient was in her usual state of health today until 3:30 
+pm,
+when she had just come upstairs from putting her clothes in the
+dryer and had sat down to have a cup of tea. While sitting, she
+had the sudden onset of loss of vision in her right eye lasting
+___ seconds. There was no gradual concentric loss of her
+vision, and she says that her vision was "white out" (not
+blackened). She tried to rub her eye to make it go away. She did
+not close each eye individually. She did not have associated
+headache. She has never had symptoms like this before, and her
+vision is now back to normal.
+
+On ROS, she denies diplopia, dysarthria, dysphagia. She denies
+weakness/numbness. She denies fevers/chills, cough/cold,
+diarrhea, or pain/burning on urination.
+
+She was called as a CODE STROKE in the ___ ED at 17:23 pm.  
+
+NIHSS Score:
+1a. LOC: 0
+1b. LOC Questions: 0
+1c. Commands: 0
+2. Best Gaze: 0
+3. Visual Fields: 0
+4. Facial Palsy: 0
+5. Motor Arm: 0
+6. Motor Leg: 0
+7. Limb Ataxia: 0
+8. Sensory: 0
+9. Best Language: 0
+10. Dysarthria: 0
+11. Extinction/Neglect: 0
+NIHSS Score Total: 0
+ 
+PMH:
+Hypertension
+Hyperlipidemia
+Hypothyroidism
+s/p appendectomy
+s/p "ruptured intestine"
+s/p left ankle surgery for torn ligament
+s/p bilateral cataract surgery
+
+ 
+Past Medical History:
+HCTZ 25 mg daily
+Lipitor 20 mg daily
+Synthroid ___ mcg (vs. 50 mcg) daily (patient is unsure of dose)
+MVI daily
+OscalD daily
+Calcitrol ___ and ___
+
+She does not take a daily ASA
+
+ 
+Social History:
+___
+Family History:
+Her father, mother, and brother all died of an
+MI.
+
+ 
+Physical Exam:
+Exam on admission and discharge (unchanged):
+
+VS: temp 98.6, bp 165/86, HR 86, RR 20, SaO2 94% on RA
+Genl: Awake, alert, NAD, very pleasant
+HEENT: Sclerae anicteric, no conjunctival injection, oropharynx
+clear, purple lesion on right lateral tongue but patient denies
+tongue bite
+CV: Regular rate with occasional premature contraction, Nl S1,
+S2, no murmurs, rubs, or gallops
+Chest: CTA bilaterally anteriorly and laterally, no wheezes,
+rhonchi, rales
+Abd: +BS, soft, NTND abdomen
+ 
+Neurologic examination: 
+Mental status: Awake and alert, cooperative with exam, normal
+affect. Oriented to person, place, and date. Speech is fluent
+with normal repetition; naming intact. No dysarthria. Reading
+intact. No right-left confusion. No evidence of apraxia or
+neglect.
+ 
+Cranial Nerves: Pupils equally round and reactive to light, 3 to
+2 mm bilaterally. Visual fields are full to confrontation.
+No papilledema ___ plaques. No cherry red spots. 
+Visual
+acuity was ___ in the right eye and ___ in the left eye.
+Extraocular movements intact bilaterally without nystagmus.
+Sensation intact V1-V3. Facial movement symmetric. Hearing 
+intact
+to finger rub bilaterally. Palate elevation symmetric.
+Sternocleidomastoid and trapezius full strength bilaterally.
+Tongue midline, movements intact.
+ 
+Motor: Normal tone bilaterally. No observed myoclonus, 
+asterixis,
+or tremor. No pronator drift.
+  Del Tri Bi  WE FE FF  IP  H  Q DF PF TE 
+R  ___  ___   ___  ___  
+L  ___  ___   ___  ___    
+ 
+Sensation: Intact to pinprick throughout. No extinction to DSS.
+ 
+Reflexes: 2+ and symmetric in biceps, brachioradialis, triceps,
+and knees. 0 and symmetric in ankles. Toes equivocal 
+bilaterally.
+ 
+Coordination: Finger-nose-finger, fine finger movements, and RAM
+normal.  
+ 
+Gait: narrow based, normal arm swing and initiation.
+ 
+Pertinent Results:
+Labs on admission and discharge:
+
+___ 05:37PM BLOOD WBC-7.6 RBC-4.72 Hgb-14.0 Hct-40.8 MCV-86 
+MCH-29.7 MCHC-34.4 RDW-14.8 Plt ___
+___ 05:37PM BLOOD Neuts-75.4* Lymphs-17.8* Monos-3.7 
+Eos-2.5 Baso-0.6
+
+___ 05:37PM BLOOD ___ PTT-27.0 ___
+
+___ 05:37PM BLOOD Glucose-98 UreaN-21* Creat-1.0 Na-137 
+K-4.0 Cl-96 HCO3-29 AnGap-16
+
+___ 04:55AM BLOOD CK(CPK)-80
+___ 05:37PM BLOOD CK(CPK)-97
+___ 04:55AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 05:37PM BLOOD cTropnT-<0.01
+
+___ 05:37PM BLOOD Calcium-9.5 Phos-3.1 Mg-2.1
+___ 04:55AM BLOOD Calcium-9.0 Phos-3.9 Mg-2.2 Cholest-148
+
+___ 04:55AM BLOOD Triglyc-91 HDL-55 CHOL/HD-2.7 LDLcalc-75
+
+___ 04:55AM BLOOD %HbA1c-5.8
+
+___ 05:37PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Urine studies:
+___ 05:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 05:40AM URINE Color-Straw Appear-Clear Sp ___
+___ 05:40AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Imaging:
+
+CTA head and neck: ___
+
+IMPRESSION: 
+  
+1. Age appropriate central and cortical involutional changes 
+without evidence 
+of acute intracranial process. 
+  
+2. Marked atherosclerotic calcification of the cavernous 
+internal carotid 
+arteries, bilaterally, without evidence of hemodynamically 
+significant 
+stenosis involving the intra- or extra-cranial arterial 
+vasculature. 
+
+MRI brain ___ without contrast:
+
+IMPRESSION: 
+  
+1. No MR evidence of acute intracranial process. 
+  
+2. Central and cortical involutional changes as expected for the 
+patient's age of ___ years. 
+
+Chest Xray - preliminary - no acute abnormality.
+ 
+Brief Hospital Course:
+___ year old woman with a history of HTN, HL, and hypothyroidism 
+presented with acute onset loss of right sided vision (white out 
+of her vision)  for ___ seconds without
+associated headache.  Patient was evaluated as a CODE STROKE due 
+to ED initiation and her NIHSS score was 0.  She was not deemed 
+a candidate for thrombolysis given
+her low score and prior ressolution of symptoms. 
+
+On admission, her examination was non focal, namely there was no 
+temporal area tenderness, no papilledema, no red cherry spots 
+and her visual acuity was ___ L and R corrected 
+respectively.  
+
+CTA head/neck showed marked calcification along cavernous 
+internal carotid arteries bilaterally, but was otherwise 
+unremarkable.  Head MRI w/o contrast showed no evidence of 
+stroke.  It was felt that patient had a temporary central 
+retinal artery occlusion from calcifications as mentioned above. 
+ She was started on ASA 81mg daily and her statin was increased 
+to 40 mg daily.  She instructed to follow up with her 
+opthalmologist within one week of discharge, her PCP and 
+neurology follow up was arranged for her at time of discharge.
+
+ 
+Medications on Admission:
+HCTZ 25 mg daily
+Lipitor 20 mg daily
+Synthroid ___ mcg daily (patient is unsure of dose)
+MVI daily
+OscalD daily
+Calcitrol ___ and ___
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO once a 
+day.  
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+6. Calcium Carbonate  Oral
+7. Calcitriol  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Amarosis fugax
+Secondary: HTN, HL 
+
+ 
+Discharge Condition:
+Hemodynamically stable.  Neurological examination intact.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with an episode of loss of your 
+vising on the right side.  This resolved by the time you had 
+arrived at the hospital.  You underwent testing, MRI, CAT scan 
+to assess for stroke. This was negative.  It did show however 
+small amounts of calcium that may have cause a temporary 
+occlusion of the blood vessel to your eye.
+
+For this, you were started on Aspirin 81 mg daily.  You lipitor 
+dose was increased to 40mg daily
+
+No other changes were made to your medications.
+
+Should you develop any further changes in vision, loss of 
+vision, difficulty with speech, swallowing, chewing, wekaness, 
+numbness, tingling, difficulties with balance or any other 
+symptom concerning to you, please call your doctor or go to the 
+emergency room.
+ 
+Followup Instructions:
+___

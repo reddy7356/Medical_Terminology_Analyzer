@@ -1,0 +1,1047 @@
+===== DISCHARGE NOTE =====
+note_id=18102220-DS-9 | hadm_id=20216814
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+difficulty swallowing, abnormal facial movements, instability 
+when walking
+ 
+Major Surgical or Invasive Procedure:
+Intubation and then Extubation
+Lumbar Puncture
+PEG tube placement
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ right-handed woman with a 
+history of COPD, systolic CHF, and hypothyroidism who presents 
+with recurrence of dysphagia, personality changes, and gait 
+instability. The patient has an extensive history of neurologic 
+symptoms according to medical records and history provided by 
+the patient’s daughter, ___. She was in good health until 
+early ___, when her daughters noticed the onset of depression, 
+decreased productivity and motivation at work, memory loss, and 
+poor hygiene. Her SIGECAPS was positive for decreased appetite, 
+energy, concentration, and interest, but no suicidality. She 
+noted some word findings difficulties, which she would get past 
+by skipping over specific thoughts or using synonyms.
+
+These symptoms progressed for approximately 12 months until 
+___, when she also developed dizziness with 
+transient vision loss. She described episodes in which her field 
+of vision blackens suddenly. She did not have other presyncopal 
+symptoms such as vertigo, occurrence with standing, weakness, or 
+palpitations. She denied loss of consciousness, but her family 
+notes that it resulted in her falling ___ times per month, and 
+she had fallen 8 times over the previous 5-month period. At the 
+same time, she noted a new headache. She has had lifetime 
+migraines that are bitemporal in distribution, but this headache 
+was different. It began over the occiput and radiated 
+retro-orbitally with a very intense, piercing quality, lasting 
+for ___ minutes and occurring ___ times per day. They seem to be 
+triggered by Valsalva maneuvers (coughing ___ COPD, sneezing) 
+and the pain was so distracting that they resulted in 5 minor 
+car accidents through ___.
+
+On general review of systems at that time, she noted an 
+intentional 50lb weight loss and persistent non-productive cough 
+due to her tobacco use history. Because of these new symptoms 
+and progressive symptoms, she was admitted to ___. Review of 
+brain MRI at that time revealed a slightly enlarged cavernous 
+sinus. Follow-up head CT demonstrated an adenoid mass. A biopsy 
+of the adenoid mass was chosen over a biopsy of the cavernous 
+sinus enlargement, and the biopsy revealed hyperplasia. Because 
+her neurological exam was normal, LP only demonstrated mild 
+lymphocytic pleocytosis, and bone scans did not reveal any 
+primary malignancy or metastasis, she was diagnosed with 
+depression and migraine and subsequently discharged.
+
+She was again evaluated as an outpatient in ___ by 
+neuro-oncologist Dr. ___ similar symptoms. She was 
+noted to have hyperreflexic extremities (R>L) in the setting of 
+persistent and progressive symptoms and, therefore, admitted to 
+___ in ___. Her CSF continued to demonstrate lymphocytic 
+pleocytosis (41 WBC, 57% polys, 28% lymphocytes, 9% monocytes, 
+4% eosinophils, 2% basophils), mildly elevated protein of 97 and 
+normal glucose of 62. Repeat MRI brain showed dural enhancement 
+and head CT demonstrated superior sagittal sinus thrombosis and 
+calvarial Paget’s disease. While she was started on warfarin for 
+the superior sagittal sinus thrombosis, the findings on CT did 
+not explain her symptoms. With diffuse dural enhancement on MRI, 
+an extensive workup of possible chronic meningoencephalitis was 
+undertaken, ultimately leading to brain biopsy. The following 
+etiologies were considered and their investigatory results are 
+provided:
+
+1)       Infectious
+a.       TB meningitis: The patient noted a remote TB exposure, 
+exhibited a chronic cough, CXR showed apical pleural thickening, 
+and chest CT identified a 7mm nodule in the right lower lobe. 
+Though, she had a negative PPD on admission in ___, dural 
+biopsy AFB smear and culture were negative, and mycobacterial 
+isolates were negative.
+b.       ___ disease: CSF PCR negative, dural biopsy PCR 
+negative.
+c.        Creutzfeld-Jakob disease: repeat CSF ___ protein 
+negative (Prion Surveillance Lab in ___, spongiform 
+changes were seen on the pathology in the gray but not white 
+matter. Immunohistochemical staining revealed no PrPSc. Though, 
+the report notes that ___ of CJD can be missed by this IHC 
+test and a frozen specimen for immunoblot testing would be 
+preferred if a repeat biopsy is done.
+d.       CNS fungal infection: dural biopsy and CSF fungal 
+cultures negative, serum and CSF cryptococcal antigen negative, 
+urine histoplasma antigen negative.
+e.         CNS lyme: serum test negative, but CSF antibody and 
+CSF PCR not done.
+f.        Neurosyphilis: serum RPR negative, CSF VDRL negative.
+g.        Viral: HIV serology negative, CMV IgG positive but 
+antigen negative, CSF HSV PCR negative, CSF VZV PCR negative, 
+EBV serology not completed.
+h.       Parasitic and other: Toxoplasmosis IgG negative, CSF 
+Bartonella negative, CSF gram stain and culture negative.
+2)       Malignancy
+a.       CNS lymphoma and leukemic meningitis: Peripheral blood 
+and CSF did not demonstrate monoclonal leukemia / lymphoma by 
+flow cytometry. CSF cytology shows no malignant cells. SPEP 
+normal. IgH rearrangement studies show no monoclonal 
+populations.
+b.       CNS metastasis: Pan CT did not reveal and primary 
+malignancy, PET scan negative even in cavernous sinus mass and 
+lung nodule.
+c.        Paraneoplastic syndrome: anti-Ma2, ___ (ANNA1), 
+anti-Yo (PCCA), anti-Ri (ANNA2) all negative.
+3)       Inflammatory/Rheumatoid
+a.       Sarcoidosis: CT chest showed no mediastinal 
+lymphadenopathy, ACE of 30 (normal), and no hypercalcemia.
+b.       SLE: ___ positive (at 1:40 and 1:160 dilutions) with 
+speckled pattern, but dsDNA, anti-Ro, anti-La, anti-RNP, and 
+anti-Sm all negative.
+c.        Markers of inflammation: ESR 22, CRP 1.5.
+4)       Dementias
+a.       Alzheimer’s: Tau/Ab42 was not sent (sample rejected 
+because not in polypropylene tube).
+
+After the extensive workup of her symptoms in ___, no 
+diagnosis could be confirmed. After discharge, her symptoms 
+continued to progress, as her daughters noted an increasing 
+disinhibition, slight decline in memory, worsening dysphagia 
+(drooling, choking on food), and increased difficulty with 
+balance. Falls over three consecutive days prompted another 
+admission to ___ in ___. At that time, her 
+neurological exam was found to be largely normal, notable only 
+for a child-like affect and inability to tandem more than 3 
+steps before losing her balance. Her CSF was found to be 
+completely normal, with no evidence of chronic meningeal 
+encephalitis or lymphocytic pleocytosis (RBC 13, WBC 2, glucose 
+67, total protein 45, IgG 2.8) and CSF gram stain, culture, and 
+fungal cultures all showed no organisms. With the previous 
+extensive workup, other more rare etiologies were examined 
+during the ___ hospitalization. These included:
+1)       Cavernous sinus mass: MRA, MRV, MRS ___ evaluate the 
+evolution of the cavernous sinus mass and dural enhancement for 
+their possible contribution to the patient’s worsening 
+disequilibrium and cognitive decline. The studies revealed a 
+stable, bilateral cavernous sinus enhancement with mass effect 
+(likely reflecting a Schwannoma or meningioma), thickened 
+calvarium consistent with Paget’s disease, and slight 
+progression of the superior sagittal sinus slow flow or 
+thrombosis. To prevent any further progression but also taking 
+into account her fall history, she was started on aspirin 
+anticoagulation as opposed to warfarin. However, all of these 
+findings were deemed incidental and unlikely to cause the 
+patient’s symptoms.
+2)       Brain hypometabolism: A comprehensive neuropsychiatric 
+evaluation was performed, revealing some evidence of mild 
+frontal lobe impairment (deficient word list generation). 
+Because of the potential to worsen baseline symptoms, her 
+amitriptyline (migraine prophylaxis) was discontinued. However, 
+brain PET scan to evaluate for frontotemporal dementia did not 
+show any frontal lobe defects and there was nondiagnostic 
+bilateral temporal lobe metabolic activity.
+3)       Hypothyroidism: Thyroid screening panel revealed normal 
+TSH (3.25) and free T4. ___ antibody level was elevated at 
+70.0.
+4)       Rare progressive dementias:
+a.       Pernicious anemia: serum B12 normal (527)
+b.       Anti-phospholipid syndrome: anti-cardiolipin and lupus 
+anticoagulant assays negative
+5)       Myeloma of B cell lymphoma with neoplastic meningitis: 
+SPEP and UPEP normal
+6)       Other rheumatologic causes:
+a.       Vasculitis: ANCA panel negative.
+b.       RF negative
+7)       Hepatitis B and C: Ammonia was slightly elevated to 63 
+on admission, but there was no asterixis and serologies for HBV 
+and HCV were negative.
+8)       Neurocysticercosis: serum test negative.
+Her hospital course was uncomplicated with no progression or 
+changes in her exam during the admission. However, a definitive 
+diagnosis was not reached. Given her personality changes and 
+symptoms of frontal lobe impairment, the most likely etiology 
+was deemed early frontotemporal dementia (in which, signs may 
+not be seen on PET).
+
+Seen in follow-up on ___ with Dr. ___ presented 
+with residual headaches, weakness, dizziness, difficulty 
+swallowing, and non-productive cough but no fevers, chills, or 
+night sweats. She was noted to have poor grooming, lack of 
+affect, difficulties with naming and calculation. In early 
+___, she was admitted again to ___ for 
+dehydration. Her problems with swallowing were progressing. 
+There is record of an episode when she could not swallow water 
+while on a car ride home, and she slumped over in the front seat 
+unable to talk or open her eyes. A barium swallow during the 
+hospitalization revealed evidence of aspiration, a dysmotile 
+esophagus, and GERD. She was given a pureed diet and thickened 
+fluids as well as meclizine. Her swallowing improved over 11 
+days and she was discharged, but a diagnosis was not reached. 
+Dr. ___ the patient in follow-up on ___. He 
+noted that her condition seemed improved and she was without 
+confusion. However, at this time it seems as though the patient 
+decided on an abrupt move to ___ and follow-up was 
+fragmented.
+
+The daughter relates that the patient’s symptoms continued to 
+progress over the next ___ years. Around ___, she was given 
+diagnosis of PSP. After the diagnosis of PSP, she was not 
+treated due to the progressive nature of the condition. Per 
+record of her neurologist Dr. ___ in ___ on 
+___, the patient was experiencing gait difficulties, 
+using a cane. She had been started on hyoscyamine in ___ for postural hypotension. She continued to have swallowing 
+problems. She was noted to have increased rigidity in the upper 
+and lower extremities. The patient also seemed to have 
+significant sleep-related problems, going to bed around 10:30pm, 
+waking around 11:30am, and napping/dozing ___ hours per day. Her 
+exam was notable for hesitant speech, poor conversation 
+initiation, MMSE ___, current event inventory ___, slightly 
+extended neck posture, eyes deviated downward with limited 
+upgaze, intermittent grimacing and stridor, moderate 
+bradykinesia and rigidity in the upper and lower extremities, 
+slightly diminished dexterity in the fingers, and a gait with 
+slightly reduced arm swing on a broad base.
+
+Without treatment, she continued to progress to the degree at 
+which she was bedbound, non-responsive, and a PEG tube was 
+placed in ___. She was admitted to ___ 
+___ (___) in ___ and was transitioned to hospice at 
+___. While there, she experienced a fall 
+resulting in a hip fracture in ___. A repair was completed 
+but, she her hospitalization was complicated by 
+hyperbilirubinemia and urosepsis. She was treated with 
+antibiotics, of which the daughter can recall vancomycin and 
+levofloxacin) at ___. Miraculously, after this hospitalization, 
+it seemed as though the patient’s progressive neurologic 
+symptoms began to reverse.
+
+The next neurology office visit on record, reported on ___, 
+noted that her walking had improved, only with rare use of a 
+walker. She appeared to no longer be depressed, though it is 
+noted that she cries easily for happy and sad reasons, and her 
+orbital headaches were regarded as mild and responsive to 
+Tylenol. On exam at that time, she was noted to be much more 
+alert, participating actively in conversation, making 
+spontaneous comments. Her MMSE was ___ and current event 
+inventory was ___. Her cranial nerve exam was normal and she was 
+able to walk slowly, on a slightly broad base, with tactile 
+assistance. Her daughter notes that she was able to return to 
+living independently in her own apartment in ___.
+
+However, in ___, the daughter noticed that her mother 
+developed a cough, similar to “aspiration coughs” that the 
+daughter had noticed during her mother’s neurologic 
+deterioration years earlier. They saw her PCP ___ ___ and 
+Ms. ___ was treated with Augmentin for aspiration pneumonia 
+and was also given albuterol/flonase and Tessalon perles. The 
+Tessalon perles appeared to be making the patient drowsier and 
+so the patient was switched to mucinex. Though, the cough 
+continued and neurologic symptoms began to return over the next 
+___ days. The daughter describes recurrence of drooling, "masked 
+facies," frequent clearing of her throat, tics, and dystonic 
+movements of the face. On a repeat evaluation by Dr. ___ 
+on ___, the patient was terse and unemotional. She had 
+limited facial expression and prolonged distortion with 
+elongation of the lower face, forced elevation of the eyebrows, 
+forehead wrinkling, absent blinking, and persistent drooling. 
+Her MMSE was ___ and current event inventory was ___. There 
+was some slight lid lag, but her eye movements were observed to 
+be normal. She exhibited gait abnormalities with bradykinesia, 
+reduced arm swing, and slightly impaired righting responses. Of 
+note, the patient was reported to be eating unhealthily in large 
+quantities. Dr. ___ set up a referral appointment at 
+___ with Dr. ___ on 
+___. However, the daughter felt that patient would continue 
+to deteriorate. She noticed recurrent signs of poor hygiene at 
+her mother’s apartment, with uncleaned dishes and mouse 
+droppings on the counter. With the rapidity of returning 
+symptoms, she brought the patient to ED.
+
+On neurological review of system, the patient describes 
+periorbital headaches as above. She has had bowel and bladder 
+incontinence and worsening gait according to her daughter. The 
+patient denies loss of vision, blurred vision, diplopia, 
+lightheadedness, and vertigo. She denies difficulties 
+comprehending speech. She also denies focal weakness, numbness, 
+and tingling.
+
+On general review of systems, the patient describes a 
+persistent, non-productive cough. Though, she denies shortness 
+of breath. She has not had any recent fever or chills, night 
+sweats, or recent weight loss/gain. She denies chest pain or 
+tightness as well as vomiting, diarrhea, constipation or 
+abdominal pain. Neither the patient nor her daughter have noted 
+any rashes.
+
+ 
+Past Medical History:
+COPD
+systolic CHF
+hypothyroidism
+?neurologic disorder as described above
+hypotension
+frontal lobe biopsy in ___ at ___
+hemorrhoidectomy
+tonsillectomy
+tubal ligation
+deviated septum correction
+PEG placement/removal
+
+ 
+Social History:
+___
+Family History:
+Father- alcoholic with possible bipolar disorder.
+Mother- died of breast cancer at ___ years old.
+Sister- hypothyroidism
+Daughter- previously diagnosed with carcinoid tumor.
+No history of movement disorder or neurologic disorder in the 
+family.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: 97.8  61  145/82  19  96% RA
+General: Awake but keeps eyes closed. Cooperative, NAD.
+HEENT: NC/AT, dried skin on forehead 
+Neck: Supple without nuchal rigidity
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, warm to touch
+Skin: no rashes or lesions noted
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self and place ___) but thinks it's ___. Able to answer short
+questions but does not have a lot of verbal output. Attentive,
+able to name ___ forward/backward without difficulty. Language
+has intact repetition and comprehension. Normal prosody. There
+were no paraphasic errors. Pt was able to name pen, nib but
+unable to name clip of the pen. She could name
+hand/knuckles/thumb/little finger but could not name thumb nail.
+Able to read without difficulty.  Speech was dysarthric. Able to
+follow both midline and appendicular commands. When testing
+apraxia, she used her hand/finger as the tool but could mimic 
+the
+motions. Could wave bye bye and blow out candle. No evidence of
+neglect. 
+
+On observation, patient sat on the stretcher. Her eyes were
+closed most of the time but she could open them easily when 
+asked
+to. Her mouth was pulled back L>R and tongue was sticking out on
+its own, midline. She has near continous vocalization and
+intermittently she would move her head back and to right and
+vocalize/clear throat more loudly. 
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 2 to 1 mm and brisk. VFF to confrontation. 
+III, IV, VI: Good lateral movements, but has minimal upgaze,
+which is better when her head is moved instead. Downgaze is ok.
+Normal saccades.
+V: Facial sensation intact to light touch.
+VII: When smiling, no facial droop, facial musculature 
+symmetric.
+At rest/with her baseline grimace, L corner of mouth is lower.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, increased tone in the legs bilaterally. No
+pronator drift bilaterally. No adventitious movements, such as
+tremor, noted. No asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5
+R  5    ___   ___  5   5    5  5     5     5
+
+-Sensory: No deficits to light touch, cold sensation throughout.
+Decreased vibratory sense at the toes bilaterally. No extinction
+to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  3  3    3    3   2
+R  3  3    3    3   2
+Plantar response was mute bilaterally.
+
+-Coordination: No intention tremor, no dysmetria on FNF. When
+doing finger tapping, patient's movements become smaller, and 
+the
+speed is slow. Slow rapid alternating movement but no
+dysdiadochokinesia.
+
+-Gait: Gets up from the sitting position easily. Good 
+initiation.
+Narrow-based, normal stride. Has more difficulty with turning
+around, taking multiple steps. Romberg absent.
+
+DISCHARGE PHYSICAL EXAM:
+
+General: Awake, NAD
+HEENT: OP clear, MMM
+Neck: Supple without nuchal rigidity
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, warm to touch
+Skin: no rashes or lesions noted
+ 
+Neurologic:
+-Mental Status: AAOx3, can ___ backwards, language fluent 
+with only subtle dysarthria.  Naming intact, followed all 
+commands.  No facial grimaces noted.
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 2 to 1 mm and brisk. VFF to wiggling fingers. 
+III, IV, VI: EOMI (much improved from admission)
+V: Facial sensation intact to light touch.
+VII: facial muscle symmetrical
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, increased tone in the legs bilaterally. No 
+pronator drift bilaterally. No adventitious movements, such as 
+tremor, noted. No asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5
+R  5    ___   ___  5   5    5  5     5     5
+
+-Sensory: No deficits to light touch, cold sensation throughout. 
+ Decreased vibratory sense at the toes bilaterally. No 
+extinction to DSS.
+
+-DTRs:
+  Bi  Tri ___ Pat Ach
+L  2+  2    2    2+   2
+R  2+  2    2    2+   2
+Plantar response was mute bilaterally.
+
+-Coordination: No intention tremor, no dysmetria on FNF.
+
+-Gait: Gets up from the sitting position easily. Good 
+initiation. Narrow-based, normal stride, can do tandem walking 
+without difficulty.
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+145 / 107 / 23
+---------------< 127
+4.0 / 24 / 0.9
+
+11.0 >------< 256
+       44.9
+
+ Neuts-74.4 ___ Monos-5.2 Eos-1.4 Baso-0.6
+
+___ PTT-29.4 ___
+
+ALT-28 AST-24 AlkPhos-109 TotBili-0.5 Albumin-4.4
+
+Calcium-8.7 Phos-3.4 Mg-2.2 Iron-63
+
+calTIBC-342 Ferritn-181* TRF-263
+
+Ammonia-26
+
+TSH-2.1
+
+Stox: negative 
+
+Lactate-1.3
+
+DISCHARGE LABS: 
+
+6.1 >-----< 168
+     35.1
+
+141 / 105 / 9
+--------------< 119
+3.6 / 27 / 0.7
+
+Calcium-8.7 Phos-3.4 Mg-1.8
+
+GQ1B IgG Abs - negative
+Acetylcholine Receptor Ab - negative
+Ceruloplasmin - WNL
+Heavy metal screen - negative
+Copper - WNL
+
+CSF (___) 
+WBC-1 RBC-0 Polys-0 ___ Macroph-100
+TotProt-44 Glucose-71
+
+HSV PCR - negative
+___ - negative
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted on ___ for recurrence of her 
+neurological issues that she had had previously (please see HPI 
+section for full details).  
+
+# NEURO: when she was admitted she had dysphagia (to the point 
+where she completely failed a video swallow study), difficulty 
+with convergence, dysarthria and unsteadiness on her feet.  Her 
+symptoms mostly localized to the mid-brain.  Therefore, given 
+her supposed reversal of her symptoms with antibiotics 
+previously our initial concern was for Whipple's Disease.  
+Unfortunately because of her severe level of dysphagia and 
+inability to manage her secretions, we were unable to obtain an 
+MRI on her as she was unable to lay flat.  Therefore, it was 
+decided that she would be intubated for the imaging as well as 
+for her GI biopsies (see below).  She was given propofol and 
+fentanyl and was intubated without issue.  She had her MRI/A 
+performed, which only showed her known meningiomas but no acute 
+issues to explain her symptoms.  She had her LP performed, 
+numerous studies were sent, but all were negative.  
+Surprisingly, when she was extubated the next day, she was more 
+alert than she had been previously.  She was still having some 
+trouble with dysphagia, so she was kept NPO.  She agreed to a 
+PEG tube placement, which was placed on ___.  She again had 
+propofol and fentanyl for this procedure.  After the procedure, 
+she felt like she could better control her secretions.  On ___ 
+she passed a repeat swallow evaluation.  In addition, she was 
+able to converge her eyes, was only minimally dysarthric and her 
+gait had markedly improved.  Therefore, on further reflection we 
+felt it was more likely that she had her current improvement and 
+her prior improvement related to propofol and fentanyl rather 
+than antibiotics as on this admission she did not have 
+antibiotics.  On her prior admission she had received her 
+antibiotics for a UTI that was a complication of a hip fracture. 
+ Therefore she also likely received fentanyl and propofol prior 
+to her previous improvement.  She was sent home this time, 
+unfortunately without a unifying diagnosis.  Our plan was to 
+continue to follow her over time to better elucidate the cause 
+of her symptoms. 
+
+# GI: the description of the patient's recovery from previous 
+similar symptoms seemed to correlate with her administration of 
+antibiotics for treatment of a urinary tract infection.  
+Therefore, we decided to arrange for her to have small bowel 
+biopsies for our high suspicion of Whipple's Disease.  She 
+underwent these on ___.  Unfortunately, they returned negative. 
+ She had a PEG placed on ___ but after this she had an 
+improvement of her symptoms.  She kept the PEG tube as it was 
+unclear when or if her symptoms would recur.
+
+TRANSITIONAL CARE ISSUES:
+- she was sent home with ___ services for management of her PEG. 
+If there is any issue with her PEG she will need to be seen by 
+her PCP.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+2. Tiotropium Bromide 1 CAP IH DAILY 
+3. Fludrocortisone Acetate 0.1 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Levothyroxine Sodium 125 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Fludrocortisone Acetate 0.1 mg PO DAILY 
+2. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+3. Levothyroxine Sodium 125 mcg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Dysphagia
+Bulbar Weakness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+You were seen in the hospital for trouble swallowing, trouble 
+walking and a facial tic.  We did numerous tests, some of which 
+are still pending.  You made an amazing recovery after getting 
+anesthesia.  We aren't sure the source of your symptoms, but 
+wish to continue to follow you over time to help ___ figure 
+this out.
+
+We made no changes to your medications.
+
+Please continue to take your medications as previously 
+prescribed.
+
+If you experience any of the below listed Danger Signs, please 
+contact your doctor or go to the nearest Emergency Room.
+
+It was a pleasure taking care of you on this hospitalization.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18102220-DS-10 | hadm_id=21453840
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Headache, Unable To Swallow 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old right handed woman with a history 
+of
+COPD, systolic CHF, and hypothyroidism who presents with one 
+week
+of worsening gait and drooling. Per the patient, she notes
+approximately one week ago having some coughing fits where she
+"may have aspirated" and subsequently more drooling and 
+coughing.
+She notes some worsening of gait without any vertiginous
+symptoms, as well as some dyspnea on exertion which has since
+resolved.
+Per the patient, her gait has changed from prior to the coughing
+spell which was not in the setting of allergic reaction, 
+illness,
+trauma, or other precipitating factors. The patient noted that
+her gait is almost as if she cannot tell her legs to do what she
+wants; that she can ambulate, but there is unsteadiness with
+walking. She walks independantly without the use of appliances
+at home at a baseline.
+Of note, the patient has had extensive workup over the course of
+the past ___ years from the onset of with complex neurological
+disease including personality changes, ataxia, dyspnea on
+exertion, and cognitive changes. Per the daughter who was not
+present at the time of examination, her symptoms have been
+progressing. Extensive workup had been undertaken for Tb
+meningitis, Whipple disease, CJD, Lyme meningitis, fungal,
+parasitic, vs. bacterial meningitis, mass, etc., which have all
+returned unremarkable. The patient was found to have a positive
+___ but negative dsDNA, anti-Ro, anti-La, anti-RNP, and anti-Sm
+all negative.
+Also, the patient since the coughing spell had contacted Dr.
+___ to attempt to obtain an earlier appointment
+for neurologic evaluation, but ___ was the earliest available.
+On neuro ROS, the pt notes a mild usual headache which is 
+tension
+like non-throbbing, non-radiating bifrontal. She denies loss of
+vision, blurred vision, diplopia, dysarthria, lightheadedness,
+vertigo, tinnitus or hearing difficulty. She specifically denied
+dysphagia noting only that she had the one coughing spell and 
+had
+some issues with drooling. Denies difficulties producing or
+comprehending speech. Denies focal weakness, numbness,
+parasthesiae. No bowel or bladder incontinence or retention.
+On general review of systems, the pt denies recent fever or
+chills. No night sweats or recent weight loss or gain. Denies
+chest pain or tightness, palpitations. Denies nausea, vomiting,
+diarrhea, constipation or abdominal pain. No recent change in
+bowel or bladder habits. No dysuria. Denies arthralgias or
+myalgias. Denies rash. 
+ 
+Past Medical History:
+ Extensive Neurologic workup between ___ and ___ between
+___ please refer to Dischaarge summary by ___
+on WED ___
+- Migraines bitemporal in distribution (lifelong)
+- COPD
+- systolic CHF
+- hypothyroidism
+- hypotension
+- s/p frontal lobe biopsy in ___ at ___
+- s/p Hemorrhoidectomy
+- s/p tonsillectomy
+- s/p tubal ligation
+- s/p deviated septum correction
+- s/p PEG placement/removal 
+ 
+Social History:
+___
+Family History:
+- Father was alcoholic with possible bipolar disorder.
+- Mother died from breast cancer at ___ years old.
+- Sister w/ hypothyroidism
+- Daughter w/ carcinoid tumor
+- No history of movement disorder or neurologic disorder in the 
+family. 
+ 
+Physical Exam:
+ADMISSION EXAM: 
+Temp=97.8F, HR=76, BP=131/73, RR=18, SaO2=98% RA
+General: Awake, cooperative, NAD, making forced exhalation
+against closed mouth sounds, similar to those seen in ___
+while inpatient.
+HEENT: NC/AT, lower mouth curled below the upper teeth, MMM, no
+drooling present at the time of evaluation.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: CTABL, some rhonchorous sounds likely transmitted 
+from
+the upper airway
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, pulses palpated
+Skin: no rashes or lesions noted.
+Neurologic:
+-Mental Status: Alert, oriented to person, place, time ___, missed date as ___, and ancillary questions. Able to
+relate history without difficulty. Language is fluent with
+intact repetition and comprehension. Prosody is forced sounding
+with some erratic vocal pacing. There were no paraphasic errors.
+Pt. was able to name both high and low frequency objects. Able
+to read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. Attentive, with
+good knowledge of current events and past events, (missed
+presidents of the ___ - answered ___ and ___. There was
+no evidence of apraxia or neglect.
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm, both directly and consentually; sluggishly
+bilaterally. VFF to confrontation.
+III, IV, VI: EOM with bilateral endgaze nystagmus and limited
+elevation and depression noted. Saccadic intrusions noted in all
+directions of gaze. No evidence of oculomasticatory myorhythmia
+seen.
+V: Facial sensation intact to light touch, temperature in all
+distributions, and ___ strength noted bilateral in masseter
+VII: No facial droop, facial musculature symmetric and ___
+strength in upper and lower distributions, bilaterally
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline, and is equal ___ strength
+bilaterally as evidenced by tongue-in-cheek testing.
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. No adventitious movements, such as tremor, noted. 
+No
+asterixis noted.
+Delt Bic ___ WrE FFl FE IO IP Quad Ham TA ___
+L ___ 4+ ___ 4+
+R ___ 4+ ___ 4+
+-DTRs:
+___ Pat Ach
+L ___ 4 4 ___ beats)
+R ___ 4 4 ___ beats)
+- Plantar response was flexor bilaterally with withdrawls
+- Pectoralis Jerk and Crossed Adductors are present.
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense throughout. No deficit to proprioception in
+either foot ___ digit bilaterally. No extinction to DSS.
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+-Gait: Good initiation. Narrow-based, some limitation of stride
+and arm swing. Able to walk on toes and heels without ataxia.
+Unable to walk in tandem without falling to either side. Romberg
+absent. 
+
+DISCHARGE EXAM: The patient is awake and alert. She has her 
+orofacial grimacing movements which are sometimes triggered by 
+stress, and can be volitionally supressed by the patient if you 
+ask her to try to stop doing the movement. This is somewhat 
+improved when her dentures are in. She is able to ambulate. Her 
+strength is ___.
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 09:40PM BLOOD WBC-12.8*# RBC-5.34# Hgb-15.0# Hct-47.1# 
+MCV-88 MCH-28.1 MCHC-31.8 RDW-14.1 Plt ___
+___ 09:40PM BLOOD Neuts-73.5* ___ Monos-4.0 Eos-1.3 
+Baso-0.6
+___ 09:40PM BLOOD ___ PTT-32.1 ___
+___ 09:40PM BLOOD Glucose-105* UreaN-22* Creat-0.9 Na-138 
+K-4.3 Cl-103 HCO3-22 AnGap-17
+___ 09:40PM BLOOD ALT-49* AST-32 CK(CPK)-47 AlkPhos-106* 
+TotBili-0.6
+___ 05:20AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 09:40PM BLOOD Lipase-38
+___ 09:40PM BLOOD Albumin-4.5 Calcium-9.6 Phos-3.4 Mg-2.1
+___ 05:20AM BLOOD TSH-10*
+___ 08:44AM BLOOD TSH-8.0*
+___ 05:20AM BLOOD Free T4-0.96
+___ 08:44AM BLOOD T3-65*
+___ 10:09PM BLOOD Lactate-1.4 K-4.1
+___ 05:20PM BLOOD PARANEOPLASTIC AUTOANTIBODY 
+EVALUATION-PND
+
+URINE: 
+___ 04:25AM URINE Color-Yellow Appear-Clear Sp ___
+___ 04:25AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+
+IMAGING: 
+CXR ___: No acute cardiopulmonary process.
+
+CT HEAD ___: 1.   Irregular hyperdensity in region of known 
+left cavernous sinus meningioma.  No new mass lesion. 2.  No 
+acute intracranial hemorrhage or mass effect. The study and the 
+report were reviewed by the staff radiologist.
+
+CT ABD ___. 1.4 cm hypervascular lesion in the right hepatic lobe favored 
+to represent a benign lesion such as a hemangioma, but is 
+technically indeterminant on this exam.  Therefore, follow-up 
+imaging with Eovist MR in 3 months time is recommended. 
+2. Diffuse hepatic steatosis. 
+3. Colonic diverticulosis. 
+4. Small mural lesion in the wall of the gallbladder may 
+represent focal adenomyomatosis (as is seen at the fundus), but 
+this is uncertain; this can be followed on the subsequent MRI. 
+5.  2.2 cm simple appearing cyst in the left adnexa likely 
+arising from the left ovary for which follow-up evaluation with 
+pelvic ultrasound in ___ years time is recommended. 
+
+CT CHEST ___: 
+1.  Multiple bilateral subpleural nodules ranging up to 6 mm, 
+warrant followup in six months. 
+2.  There is no lymphadenopathy. 
+3.  Centrilobular and paraseptal emphysema are moderate. 
+4.  Right breast nodule warrants dedicated mammography for 
+further characterization. 
+5.  Abdominal finding will be described in concurrent CT abdomen 
+and pelvis. 
+
+EEG ___: IMPRESSION: Normal extended routine EEG in 
+wakefulness and drowsiness. There were no focal abnormalities or 
+epileptiform features.
+
+Video Swallow ___. Aspiration and penetration with thin and nectar thick 
+liquids.   
+2.  Penetration with cookie and pureed boluses.   
+
+DISCHARGE LABS
+___ 06:00AM BLOOD WBC-10.2 RBC-4.61 Hgb-13.5 Hct-41.1 
+MCV-89 MCH-29.3 MCHC-32.9 RDW-14.4 Plt ___
+___ 06:00AM BLOOD Glucose-100 UreaN-21* Creat-0.8 Na-136 
+K-4.3 Cl-98 HCO3-30 AnGap-12
+___ 05:20AM BLOOD ALT-43* AST-30 CK(CPK)-82 AlkPhos-88 
+TotBili-0.7
+___ 06:00AM BLOOD Calcium-9.2 Phos-4.0 Mg-2.5
+___ 08:44AM BLOOD TSH-8.0*
+___ 05:20AM BLOOD TSH-10*
+___ 08:44AM BLOOD T3-65*
+___ 05:20PM BLOOD PARANEOPLASTIC AUTOANTIBODY 
+EVALUATION-PND
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year-old woman with COPD, CHF and an as of 
+yet undiagnosed progressive neurological illness with facial 
+movements, limited eye movements, most notably with convergence, 
+elevation and depression, gait intability, and 
+drooling/swallowing issues concerning for dystonia. This is 
+similar to the symptoms she was exhibiting for her admission to 
+the neurology service in ___.  However, on her prior admission 
+she made a remarkable recovery with fentayl and propofol given 
+for her EGD procedure. By the time of discharge she had normal 
+swallowing, only very minimally limited upgaze and a fluid gait. 
+Per the patient this decline started a week ago, but got 
+significantly worse 2 days ago. She was admitted for swallow 
+eval and trial of medications. Diagnosis still remained unclear. 
+PSP is still on the differential, however, the time course of 
+the disease does not fit exactly as patients would not be 
+expected to improve. Other things on the differential include 
+oro-facial dystonia, or paraneoplastic syndrome. OPMD was 
+brought up by ENT but does not fit her clinical picture. Going 
+foward, the patient warrents further work up with FDG-PET scan, 
+and further medication trials. EEG unremarkable. Paraneoplastic 
+panel was sent but pending at time of discharge.
+
+To try to treat possible dystonia, trial of Valium 5mg was 
+initiated but the patient showed no improvement. Trial of a 
+fentanyl patch showed potential improvement but increased 
+somnolence, so this was DCed. She was begun on ___ tab Sinemet 
+TID on ___ given the possibility of PSP, with plans to 
+increase to 1 tab TID in 1 week if the patient was tolerating 
+the medication trial. The patient was also started on TID 
+guaifenisen-codeine since she complained that one reason she 
+made these dystonic movements was a feeling of irritation in the 
+back of her thraoy
+
+# NEURO: Unknown diagnosis, possibly atypical PSP, vs a type of 
+oropharyngeal dystonia
+- f/u serum paraneoplastic panel (pending at discharge)
+- continue sinemet given some features of PSP, if the patient is 
+tolerating this medication well, please increase simemet dose on 
+___ to 1 tab TID
+- will need outpatient FDG-PET scan as an outpatient
+- outpatient follow up with Dr. ___ in Neurology, as well 
+as Movement disorder specialists. 
+
+# CARDS: the patient was continued on home metoprolol and 
+aspirin
+
+# ENDOCRINE: she has known hypothyroidism, TSH was 8 in the 
+hosptial, touched base with endocrine fellow, plan to recheck 
+TSH in 4 weeks prior to adjusting dose of synthroid. For now she 
+was continued on prior dose of synthroid.
+- repeat TSH on ___, if abnormal, obtain endocrine 
+consultation and adjust levothyroxine as needed
+
+# Multiple nodules: needs outpatient follow up for lung nodules, 
+breast nodules, liver vascular lesion, gall bladder lesion, L 
+adnexal mass which were seen on CT torso.
+- obtain Evoist MRI abd in 3 months to evaluate liver and 
+gallbladder findings
+- breast mammogram scheduled at ___ for ___. Prior to her 
+appointment with Radiology, PLEASE obtain prior breast ___ 
+films and BRING THEM to the appointment for the breast 
+specialists to review.
+- repeat CT chest in 6 months to eval lung findings
+- pelvic ultrasound in ___ year to follow up adenxal finding
+
+# FEN: continue tube feeds per Nutrition recs and modified diet 
+as recommended by Swallow
+- The patient needs ongoing nutrition consultation at rehab, and 
+if she is able to take more PO, her tube feeds could be 
+decreased in the future
+- Ongoing Swallow therapy and eval at rehab
+- She will need teaching on how to prep a modified diet (pureed, 
+nectar thickened liquids), and how to admister tube feeds
+
+# CODE/CONTACT: Full Code (confirmed with patient); daughter
+___ ___
+
+TRANSITIONAL ISSUES
+- f/u serum paraneoplastic panel (pending at discharge)
+- continue sinemet given some features of PSP, if the patient is 
+tolerating this medication well, please increase simemet dose on 
+___ to 1 tab TID
+- will need outpatient FDG-PET scan as an outpatient
+- outpatient follow up with Dr. ___ in Neurology, as well 
+as Movement disorder specialists. 
+- repeat TSH on ___, if abnormal, obtain endocrine 
+consultation and adjust levothyroxine as needed
+- obtain Evoist MRI abd in 3 months to evaluate liver and 
+gallbladder findings
+- breast mammogram scheduled at ___ for ___. Prior to her 
+appointment with Radiology, PLEASE obtain prior breast ___ 
+films and BRING THEM to the appointment for the breast 
+specialists to review.
+- repeat CT chest in 6 months to eval lung findings
+- pelvic ultrasound in ___ year to follow up adenxal finding
+- The patient needs ongoing nutrition consultation at rehab, and 
+if she is able to take more PO, her tube feeds could be 
+decreased in the future
+- Ongoing Swallow therapy and eval at rehab
+- She will need teaching on how to prep a modified diet (pureed, 
+nectar thickened liquids), and how to admister tube feeds
+- ___ and OT
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+2. Levothyroxine Sodium 125 mcg PO DAILY 
+3. Metoprolol Tartrate 25 mg PO BID 
+4. Tiotropium Bromide 1 CAP IH DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. ZyrTEC (cetirizine) 10 mg oral daily 
+7. Klor-Con 10 (potassium chloride) 10 mEq oral BID 
+8. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+3. Levothyroxine Sodium 125 mcg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Tiotropium Bromide 1 CAP IH DAILY 
+7. ZyrTEC (cetirizine) 10 mg oral daily 
+8. Senna 1 TAB PO BID:PRN constipation 
+9. Guaifenesin-CODEINE Phosphate 10 mL PO Q8H 
+10. Docusate Sodium (Liquid) 100 mg PO BID 
+11. Carbidopa-Levodopa (___) 0.5 TAB PO TID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis
+1. oropharnygeal dystonia of unknown etiology, possibly PSP
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear. Ms. ___, 
+
+It was a pleasure taking care of you while you were admitted to 
+___. You were admitted because of worsening in your 
+swallowing. We did a trial of valium and then fentanyl patch, 
+which did not help your symptoms. You were started on a sinement 
+trial. You need continued outpatient follow up for further 
+medication trials for your symptoms. You will also need a PET 
+scan as an outpatient given the possibility of PSP.  You also 
+need outpatient follow up for your breast, lung, and abdominal 
+findings seen incidentally on imagaing here.
+
+It is important that you take all medications as prescribed, and 
+keep all follow up appointments.
+ 
+Followup Instructions:
+___

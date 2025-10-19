@@ -1,0 +1,689 @@
+===== DISCHARGE NOTE =====
+note_id=16470848-DS-22 | hadm_id=27313327
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Dilaudid / Iodine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Juxtarenal abdominal aortic
+aneurysm.
+
+ 
+Major Surgical or Invasive Procedure:
+___ Resection and repair of abdominal aortic aneurysm with 
+20-mm Dacron tube graft.
+
+ 
+History of Present Illness:
+This ___ gentleman has a 5.5-cm infrarenal abdominal 
+aortic aneurysm that has been enlarging. The aneurysm has no 
+neck and is unsuitable for endovascular repair and he is 
+undergoing open repair.
+
+ 
+Past Medical History:
+CAD MI in ___ s/p right coronary stents, hypercholesterolemia 
+prostate cancer s/p TURP and radiation c/b radiation cystitis 
+with recurrent episodes of hematuria weekly
+ 
+Social History:
+___
+Family History:
+Family history is notable for coronary artery disease in both 
+his mother and father who passed from myocardial infarctions. 
+There is no family history of any aneurysmal disease.
+ 
+Physical Exam:
+On Discharge:
+AFVSS 98.8  HR: 87   BP: 123/63  RR: 16   Spo2: 94%
+Gen: NAD, Alert and oriented x3
+___: RRR
+Pulm: CTA bilaterally no resp distress
+Abd: S/AT/ND C/D/I
+Extremities: Mild BLE edema
+ 
+Pertinent Results:
+___ 01:17PM BLOOD WBC-6.9 RBC-3.40* Hgb-10.0* Hct-30.0*# 
+MCV-88 MCH-29.5 MCHC-33.5 RDW-15.3 Plt Ct-85*
+___ 03:10AM BLOOD WBC-8.9 RBC-3.24* Hgb-9.8* Hct-28.8* 
+MCV-89 MCH-30.2 MCHC-33.9 RDW-15.5 Plt Ct-71*
+___ 02:33AM BLOOD WBC-14.0*# RBC-3.79* Hgb-11.1* Hct-32.9* 
+MCV-87 MCH-29.4 MCHC-33.8 RDW-16.9* Plt Ct-67*
+___ 03:56AM BLOOD WBC-16.0* RBC-3.71* Hgb-10.8* Hct-31.6* 
+MCV-85 MCH-29.0 MCHC-34.1 RDW-16.8* Plt Ct-96*
+___ 04:00AM BLOOD WBC-12.6* RBC-3.60* Hgb-10.7* Hct-31.9* 
+MCV-89 MCH-29.8 MCHC-33.7 RDW-16.7* Plt Ct-94*
+___ 09:20AM BLOOD WBC-12.6* RBC-4.22* Hgb-12.0* Hct-37.1* 
+MCV-88 MCH-28.5 MCHC-32.5 RDW-16.3* Plt ___
+___ 06:25AM BLOOD WBC-8.4 RBC-3.93* Hgb-11.2* Hct-34.6* 
+MCV-88 MCH-28.6 MCHC-32.5 RDW-16.2* Plt ___
+___ 08:06PM BLOOD Neuts-90.2* Lymphs-5.0* Monos-4.0 Eos-0.1 
+Baso-0.0
+___ 01:17PM BLOOD Plt Smr-LOW Plt Ct-85*
+___ 03:56AM BLOOD PTT-28.0
+___ 01:17PM BLOOD Glucose-155* UreaN-17 Creat-0.9 Na-140 
+K-4.1 Cl-109* HCO3-25 AnGap-10
+___ 06:25AM BLOOD Glucose-99 UreaN-34* Creat-1.5* Na-142 
+K-3.0* Cl-104 HCO3-29 AnGap-12
+___ 08:06PM BLOOD Calcium-7.9* Phos-4.0 Mg-1.4*
+___ 06:25AM BLOOD Calcium-7.8* Phos-3.1 Mg-2.0
+___ 11:23AM BLOOD Type-ART pO2-261* pCO2-38 pH-7.40 
+calTCO2-24 Base XS-0 Intubat-INTUBATED Vent-CONTROLLED
+___ 12:16PM BLOOD Type-ART pO2-258* pCO2-51* pH-7.29* 
+calTCO2-26 Base XS--2 Intubat-INTUBATED Vent-CONTROLLED
+___ 01:47PM BLOOD Type-ART FiO2-50 pO2-136* pCO2-40 pH-7.41 
+calTCO2-26 Base XS-1 -ASSIST/CON Intubat-INTUBATED
+___ 05:30PM BLOOD Type-ART Rates-/11 PEEP-5 FiO2-40 pO2-88 
+pCO2-51* pH-7.34* calTCO2-29 Base XS-0 Intubat-INTUBATED
+___ 08:25PM BLOOD Type-MIX
+___ 03:25AM BLOOD Type-ART pO2-78* pCO2-46* pH-7.33* 
+calTCO2-25 Base XS--1
+___ 06:36PM BLOOD Type-ART pO2-56* pCO2-27* pH-7.45 
+calTCO2-19* Base XS--2 Intubat-INTUBATED
+___ 02:48AM BLOOD ___ pH-7.44
+___ 11:23AM BLOOD freeCa-1.09*
+___ 02:48AM BLOOD freeCa-1.14
+ 
+Brief Hospital Course:
+The patient was admitted to the surgery service after having 
+Resection and repair of abdominal aortic aneurysm with 20-mm 
+Dacron tube graft.
+ 
+Neuro: The patient received and epidural with good effect and 
+adequate pain control. When tolerating oral intake, the patient 
+was transitioned to oral pain medications Tramadol.  
+ 
+CV:  Post-operatively the patients blood pressure was managed 
+with IV labetolol drip and nitroprusside.  On discharge the was 
+stable from a cardiovascular standpoint;  vital signs were 
+routinely monitored. He is currently on Metoprolol for beta 
+blockage with good blood pressure management.    
+ 
+Pulmonary:   On discharge patient was stable from a pulmonary 
+standpoint; vital signs were routinely monitored.  Good 
+pulmonary toilet, early ambulation and incentive spirometry were 
+encouraged throughout this hospitalization.  He did have a CXR 
+on ___ which revealed opacities and pneumonia could not be 
+excluded. He will be discharged with levo/flagyl for suspect 
+pneumonia for a 2 week course.
+ 
+GI/GU/FEN: 
+Post operatively, the patient was made NPO with IVF.  
+The patient's diet was advanced when appropriate, which was 
+tolerated well.  
+The patient's intake and output were closely monitored, and IVF 
+were adjusted when necessary.  The patient's electrolytes were 
+routinely followed during this hospitalization, and repleted 
+when necessary.  
+ 
+ID: The patient's white blood count and fever curves were 
+closely watched for signs of infection. He will be discharged 
+with levo/flagyl for suspect pneumonia for a ___ndocrine:  The patient's blood sugar was monitored throughout 
+this stay; insulin dosing was adjusted accordingly. Sliding 
+scale to be continued. 
+ 
+Prophylaxis:  The patient received subcutaneous heparin during 
+this stay, and was encouraged to get up and ambulate as early as 
+possible.  
+ 
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.
+
+ 
+Medications on Admission:
+Accupril,Amoxicillin,Atenolol,ASA,Axid,Rosovastatin, 
+Fluticasone, Casodex, Eligard 
+
+ 
+Discharge Medications:
+1. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) for 2 weeks: PNA treatment.  
+2. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 2 weeks: PNA treatment.  
+3. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID 
+(3 times a day): New medication
+.  
+4. Quinapril 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+5. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED): per sheet.  
+6. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for pain.  
+8. Bicalutamide 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+11. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime).  
+12. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)  
+Injection Q8H (every 8 hours) as needed for nausea.  
+13. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush 
+Peripheral line: Flush with 3 mL Normal Saline every 8 hours and 
+PRN. 
+14. Axid ___ mg Capsule Sig: One (1) Capsule PO once a day.  
+15. Flonase 50 mcg/Actuation Spray, Suspension Sig: ___  Nasal 
+once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Juxtarenal abdominal aortic aneurysm
+
+PMH:
+CAD
+Hypercholesterolemia 
+Prostate cancer 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid
+
+ 
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Abdominal Aortic Aneurysm (AAA) Surgery Discharge Instructions
+What to expect when you go home:
+
+1. It is normal to feel weak and tired, this will last for ___ 
+weeks 
+
+·     You should get up out of bed every day and gradually 
+increase your activity each day 
+
+·     You may walk and you may go up and down stairs 
+
+·     Increase your activities as you can tolerate- do not do 
+too much right away!
+
+2. It is normal to have incisional and leg swelling:
+
+·     Wear loose fitting pants/clothing (this will be less 
+irritating to incision) 
+
+·     Elevate your legs above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+
+·     Avoid prolonged periods of standing or sitting without 
+your legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+
+·     You will probably lose your taste for food and lose some 
+weight 
+
+·     Eat small frequent meals
+
+·     It is important to eat nutritious food options (high 
+fiber, lean meats, vegetables/fruits, low fat, low cholesterol) 
+to maintain your strength and assist in wound healing
+
+·     To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+
+·     No driving until post-op visit and you are no longer 
+taking pain medications
+
+·     You should get up every day, get dressed and walk, 
+gradually increasing your activity
+
+·     You may up and down stairs, go outside and/or ride in a 
+car
+
+·     Increase your activities as you can tolerate- do not do 
+too much right away!
+
+·     No heavy lifting, pushing or pulling (greater than 5 
+pounds) until your post op visit 
+
+·     You may shower (let the soapy water run over incision, 
+rinse and pat dry)
+
+·     Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+
+·     Take all the medications you were taking before surgery, 
+unless otherwise directed
+
+·     Take one full strength (325mg) enteric coated aspirin 
+daily, unless otherwise directed 
+
+·     Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+
+·     Redness that extends away from your incision
+
+·     A sudden increase in pain that is not controlled with pain 
+medication
+
+·     A sudden change in the ability to move or use your leg or 
+the ability to feel your leg
+
+·     Temperature greater than 101.5F for 24 hours
+
+·     Bleeding from incision
+
+·     New or increased drainage from incision or white, yellow 
+or green drainage from incisions
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16470848-DS-23 | hadm_id=29468399
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilaudid (PF) / Iodine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right intertrochanteric hip fracture
+ 
+Major Surgical or Invasive Procedure:
+Open reduction internal fixation right intertrochanteric hip 
+fracture with TFN (___)
+
+ 
+History of Present Illness:
+___ transferred from OSH with right femoral IT fracture and
+right olecranon fracture by OSH imaging after fall overnight. Pt
+reports he woke up in the middle of the night to use the 
+bathroom
+and experienced any episode of lightheadedness and presyncope
+with resultant fall onto his right side. +LOC, unknown head
+strike, NCHCT/cspine cleared by OSH imaging. At time of
+evaluation patient denies fever/chills, headache,
+lightheadedness, chest pain, shortness of breath, n/v, abd pain,
+dysuria, rash, edema. He endorses right elbow pain and right hip
+pain with movement, minimal at rest, but unable to ambulate.
+Previously fully ambulatory without use of a cane or walker. Pt
+not experiencing any numbness or tingling of extremities.
+
+ 
+Past Medical History:
+CAD MI in ___ s/p right coronary stents, hypercholesterolemia 
+prostate cancer s/p TURP and radiation c/b radiation cystitis 
+with recurrent episodes of hematuria weekly
+ 
+Social History:
+___
+Family History:
+Family history is notable for coronary artery disease in both 
+his mother and father who passed from myocardial infarctions. 
+There is no family history of any aneurysmal disease.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Gen: elderly male no acute distress
+Neuro: somnolent but arousable
+CV: palpable distal pulses bilaterally
+Pulm: no respiratory distress on room air
+RUE: in sling, minimal swelling, ecchymosis, SILT MRU, fires 
+EPL/FPL/DIO, palpable radial pulse
+RLE: dressing CDI, SILT ___, fires ___, 
+palpable DP
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals: Afebrile, BP 150s-160s/60s-70s, HR ___, RR 18, room air
+Tele: NSR with some PACs. No tachy/bradyarrhythmias.
+General: frail, but alert without acute distress
+Neck: No JVP elevation, no LAD
+HEENT: NC/AT, pale, PERRL, sclerae anicteric, EOMI grossly 
+intact, dry mucus membrane  
+CV: RRR, no m,r,g 
+Lungs: CTAB, no w,r,r
+Abdomen: soft, NTTP, ND, NBS 
+Ext: surgical dressing clean and intact on RLE, SCDs in place, 
+no lower extremity edema, dressing c/d/i RUE forearm
+Neuro: Alert and oriented x3, able to say DOWB. Grabs hands with 
+___ strength, able to wiggle toes bilaterally.
+Skin: no appreciable ulcers, no ___ edema, echymoses bilateral 
+arms and upper back. Crusty, dry skin
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:00AM BLOOD WBC-6.5 RBC-3.26* Hgb-9.8* Hct-30.9* 
+MCV-95# MCH-30.1# MCHC-31.7* RDW-15.1 RDWSD-52.7* Plt Ct-51*
+___ 10:00AM BLOOD Neuts-79.7* Lymphs-9.6* Monos-8.8 
+Eos-0.8* Baso-0.5 Im ___ AbsNeut-5.16 AbsLymp-0.62* 
+AbsMono-0.57 AbsEos-0.05 AbsBaso-0.03
+___ 10:00AM BLOOD ___ PTT-26.9 ___
+___ 10:00AM BLOOD Glucose-177* UreaN-31* Creat-0.9 Na-140 
+K-4.4 Cl-106 HCO3-23 AnGap-15
+___ 06:25AM BLOOD ALT-14 AST-32 LD(LDH)-372* AlkPhos-55 
+TotBili-0.8
+___ 10:00AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.1
+___ 09:40AM URINE Color-Yellow Appear-Clear Sp ___
+___ 09:40AM URINE Blood-TR Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 09:40AM URINE RBC-1 WBC-2 Bacteri-NONE Yeast-NONE 
+Epi-<1
+
+IMPORTANT LABS:
+===============
+___ 06:05AM BLOOD LD(LDH)-570*
+___ 06:40AM BLOOD LD(LDH)-432*
+___ 10:00AM BLOOD cTropnT-<0.01
+___ 06:25AM BLOOD TSH-2.0
+
+MICRO LABS:
+===========
+___ BLOOD CULTURE Blood Culture, Routine-PENDING
+___ BLOOD CULTURE Blood Culture, Routine-PENDING
+___ URINE URINE CULTURE-FINAL/NEGATIVE
+___ URINE URINE CULTURE-FINAL/NEGATIVE
+
+IMAGES:
+=======
+CT chest w/o contrast (___): 1.  No acute fracture within the 
+chest cage.  Stable anterior wedge compression deformity of the 
+T10 vertebral body. 2.  Probable small hematoma along the medial 
+aspect of the left scapula. MInmal soft tissue edema.  No 
+underlying fracture of the scapula. 3.  Coronary 
+atherosclerosis. 4.  Moderately severe emphysema. 5. 
+Cholelithiasis. 
+
+CT abdomen/pelvis w/o contrast (___): 1.  Right 
+intertrochanteric fracture as described above. 2.  Degenerative 
+changes of the hip joints bilaterally.
+
+Hip unilateral 2 views (___): Intraoperative images 
+demonstrate placement of a short intramedullary rod with gamma 
+nail and distal interlocking screw fixating an intertrochanteric 
+fracture of the right femur.  There is improved anatomic 
+alignment.  The total intraservice fluoroscopic time was 91.3 
+seconds.  Please refer to the operative note for additional 
+details. 
+
+CXR (___): No comparison.  Lung volumes are normal.  
+Borderline size of the cardiac silhouette without pulmonary 
+edema.  Areas of atelectasis and non characteristic scarring at 
+the bases of the right lung have been documented in a previous 
+CT examination from ___.  No new opacities are 
+noted. No larger pleural effusions.  Normal hilar and 
+mediastinal contours. 
+
+CT head w/o contrast (___): 1. No acute intracranial 
+abnormality.  No evidence of hemorrhage. 2. There are small 
+chronic cerebellar infarcts, stable since ___ 3. 
+There is moderate paranasal sinus disease, mildly worsened. 
+
+DISCHARGE LABS:
+===============
+___ 06:40AM BLOOD WBC-3.1* RBC-2.57* Hgb-7.6* Hct-24.3* 
+MCV-95 MCH-29.6 MCHC-31.3* RDW-15.9* RDWSD-53.9* Plt Ct-61*
+___ 06:40AM BLOOD Plt Ct-61*
+___ 06:40AM BLOOD Glucose-116* UreaN-26* Creat-0.9 Na-138 
+K-4.4 Cl-104 HCO3-18* AnGap-20
+___ 06:40AM BLOOD LD(LDH)-432*
+___ 06:40AM BLOOD Calcium-8.1* Phos-3.1 Mg-2.1
+ 
+Brief Hospital Course:
+This is a ___ year old male with a past medical history of 
+coronary artery disease (s/p RCA stent), ascending aortic 
+aneurysm (s/p repair), who was transferred here with a right 
+femoral IT fracture (had TFN on ___ and right olecranon 
+fracture (closed management) after a fall.
+
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have a right intertrochanteric hip fracture and a 
+nondisplaced right olecranon fracture and was admitted to the 
+orthopedic surgery service. The patient was taken to the 
+operating room on ___ for open reduction internal fixation 
+of right hip fracture with TFN, which the patient tolerated 
+well. For full details of the procedure please see the 
+separately dictated operative report. The patient was taken from 
+the OR to the PACU in stable condition and after satisfactory 
+recovery from anesthesia was transferred to the floor. The 
+patient was initially given IV fluids and IV pain medications, 
+and progressed to a regular diet and oral medications by POD#1. 
+The patient was given ___ antibiotics and 
+anticoagulation per routine. The patient's home medications were 
+continued throughout this hospitalization. The patient worked 
+with ___ who determined that discharge to rehab was appropriate. 
+He was noted to thrombocytopenic and his lovenox was held when 
+his platelets were < 50. On ___, patient's stool was guiac 
+positive with a hematocrit of 24.6. He was transferred to the 
+medicine service for somnolence and hypoactive delirium. His 
+mental status waxed and waned from A+Ox3 and able to say days of 
+week backwards to being somnolent and only able to arouse with 
+pain. His vitals were always stable at this time. He had a 
+negative infectious work-up (CXR, urine culture, blood cultures 
+without growth to date). He also had a CT head given his low 
+platelets, but this showed no concerning intracranial 
+abnormality and no concern for hemorrhage. For the fall that 
+originally caused his fractures, he was on telemetry which 
+showed normal sinus rhythm without evidence of 
+bradycardia/tachyarrhythmia. He had negative orthostatics and a 
+normal neurological exam. It was thought that his fall was 
+likely secondary to either orthostatic hypotension (he has a 
+history of this) or vasovagal (he was going to the bathroom at 
+the time).
+
+At the time of discharge the patient's pain was well controlled 
+with oral medications, incisions were clean/dry/intact, and the 
+patient was voiding/moving bowels spontaneously. The patient is 
+weight-bearing as tolerated in the right lower extremity and 
+right upper extremity, and will be discharged on lovenox for DVT 
+prophylaxis. The patient will follow up with Dr. ___ 
+routine. A thorough discussion was had with the patient 
+regarding the diagnosis and expected post-discharge course 
+including reasons to call the office or return to the hospital, 
+and all questions were answered. The patient was also given 
+written instructions concerning precautionary instructions and 
+the appropriate follow-up care. The patient expressed readiness 
+for discharge.
+
+#Delirium: 
+He had hypoactive delirium post-operatively. This was most 
+likely secondary to post-the operation and anesthesia. His CXR 
+(___) was negative for PNA, UA neg for infxn process, UCx 
+negative/BCx without growth to date. His electroltes/LFTs/TSH 
+were unremarkable and his EKG was largely unchanged. He did 
+appear dry on exam, though labs were not consistent wfor 
+hypovolemia apart from a mildly elevated BUN. He had a CTHNC 
+(___) without evidence of intracranial abnormality.
+ 
+#Hypertension:
+His BP has been intermittently in 170s/60s. He is on atenolol at 
+home (atenolol 50 mg qd and 25 mg qhs) and has been on quinapril 
+in the past. However, his PCP took him off of this due to his 
+history of orthostatic hypotension. He was continued on his home 
+atenolol.
+
+#Fall: 
+The differential for his fall would include orthostatic 
+hypotension given his self-reported history vs. a syncopal 
+event, given that he presented with a report of presyncopal 
+symptoms. His EKG shows NSR. His CTHNC (___) was without 
+evidence of intracranial abnormality and telemetry (48 hours) 
+was negative for arrhythmia.
+
+#Leukopenia:
+His WBC was 2.5 on ___. Differential included infection vs. 
+malignancy since he is now pancytopenic (although he has other 
+reasons for anemia). His WBC was uptrending upon discharge.
+
+#Coronary artery disease: 
+Patient has a history of coronary artery disease with history of 
+PCI (RCA) and AAA repair (___). During this hospitalization, he 
+was without chest pain or findings concerning for underlying 
+cardiac etiology of this fall. He was continued on his home 
+atenolol and crestor. 
+ 
+#Anemia: 
+His admission H/H was 9.2/28.9, slowly downtrending. He received 
+2 uPRBC post-operatively. This was thought to be likely related 
+to post operative blood loss, but was also guaiac positive on 
+___ and has history of GIB. His hemoglobin remained stable ___ 
+upon discharge.
+
+#Thrombocytopenia: 
+Acute-on-chronic thrombocytopenia is slightly worse than prior, 
+now with platelets in the ___, from a recent baseline around 
+50 but with a more remote baseline in the 100s (___). 
+Kappa/lambda ratio normal. His platelets improved to ___ upon 
+discharge.
+
+TRANSITIONAL ISSUES:
+====================
+-Please follow-up with orthopedics and your primary care 
+physician
+-___ will ___ with Dr ___ RUE/RLE fractures
+-New medications: Lovenox 30 mg SC qd, Tylenol 1 g TID, Colace, 
+senna.
+-He has thrombocytopenia. Please hold his lovenox if his PLT < 
+50. Please check CBCs every ___ days to ensure Plts>50
+-He has a history of orthostatic hypotension. Consider switching 
+his beta-blocker to an ACE inhibitor as tolerated. Consider 
+gentle IVF if having any signs of orthostatic hypotension
+-Discontinue lovenox 2 weeks post-op (___)
+-He has had positive fecal occult blood and melena while here. 
+His hgb has remained stable and he had no signs or symptoms of 
+upper GIB, but consider PPI or endoscopy for further work-up.
+-Please repeat cbc every ___ days and hold lovenox per above. 
+His hgb on discharge was 7.6 and his plt were 61. Has known 
+anemia/thrombocytopenia at baseline
+-Pt had episode of hypoactive delirium, thought ___ post-op 
+delirium, self-resolved w/o intervention
+
+-Code status: DNR/DNI
+-Contact: ___. Phone number: ___
+ 
+Medications on Admission:
+Cyanocobalamin 1000 mcg PO DAILY  
+Atenolol 50 mg PO DAILY  
+Atenolol 25 mg PO QHS  
+Calcium Carbonate 500 mg PO TID  
+Fluticasone Propionate NASAL 1 SPRY NU BID  
+FoLIC Acid 1 mg PO DAILY  
+Multivitamins 1 TAB PO DAILY  
+Rosuvastatin Calcium 20 mg PO QPM  
+TraZODone 25 mg PO HS:PRN insomnia  
+Vitamin D 800 UNIT PO DAILY  
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO 5X/DAY  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Enoxaparin Sodium 40 mg SC Q24H 
+Start: ___, First Dose: Next Routine Administration Time  
+4.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN pain  
+5.  Senna 17.2 mg PO HS  
+6.  Cyanocobalamin 1000 mcg PO DAILY  
+7.  Atenolol 50 mg PO DAILY  
+8.  Atenolol 25 mg PO QHS  
+9.  Calcium Carbonate 500 mg PO TID  
+10.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+11.  FoLIC Acid 1 mg PO DAILY  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Rosuvastatin Calcium 20 mg PO QPM  
+14.  TraZODone 25 mg PO HS:PRN insomnia  
+15.  Vitamin D 800 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right intertrochanteric hip fracture
+
+ 
+Discharge Condition:
+Gen: no acute distress
+Neuro: baseline mental status
+Ambulatory status: with assist
+
+ 
+Discharge Instructions:
+INSTRUCTIONS AFTER ORTHOPAEDIC SURGERY:
+- You were in the hospital for orthopedic surgery. It is normal 
+to feel tired or "washed out" after surgery, and this feeling 
+should improve over the first few days to week. 
+- Resume your regular activities as tolerated, but please follow 
+your weight bearing precautions strictly at all times.
+
+ACTIVITY AND WEIGHT BEARING:
+- weight-bearing as tolerated right lower extremity, 
+weight-bearing as tolerated right upper extremity
+
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take lovenox daily for 2 weeks
+
+WOUND CARE:
+- You may shower. No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- Please remain in your dressing and do not change unless it is 
+visibly soaked or falling off.
+- Splint must be left on until follow up appointment unless 
+otherwise instructed
+- Do NOT get splint wet
+Physical Therapy:
+WBAT right lower extremity, weight-bearing as tolerated right 
+upper extremity, range of motion as tolerated right shoulder, 
+elbow and wrist
+Treatments Frequency:
+Phsyical therapy, occupational therapy
+ 
+Followup Instructions:
+___

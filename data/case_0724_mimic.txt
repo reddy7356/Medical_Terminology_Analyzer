@@ -1,0 +1,961 @@
+===== DISCHARGE NOTE =====
+note_id=16843433-DS-4 | hadm_id=26577895
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypotension, weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ woman with history of rheumatoid
+arthritis on prednisone, MRSA bacteremia complicated by
+prosthetic joint infection, C. difficile colitis, drug rash,
+referred from infectious disease clinic with concern for
+dehydration.
+
+Per review of the chart, the patient was recently admitted to 
+the
+hospital from ___ for left hand pain and right knee pain,
+and found to have MRSA bacteremia and prosthetic joint 
+infection.
+She underwent left hand debridement and right knee debridement
+and liner replacement. Infectious disease was consulted, and the
+patient was started on IV vancomycin and PO rifampin for planned
+6-week course. Regarding her rheumatoid arthritis, her home
+prednisone was continued and her methotrexate and leucovorin 
+were
+held, with plan to re-initiate in a few weeks. The patient was
+discharged to rehab on ___.
+
+She was seen in ___ clinic on ___, and left hand 
+incision
+was healed, and right knee incision was well-approximate without
+erythema or drainage. He was also seen in ___ clinic on ___ and
+was doing well at that time; vancomycin and rifampin were
+continued at that time.
+
+On ___, she developed diarrhea; C. diff toxin was positive on
+___. She was started on oral vancomycin on ___. The patient
+reports that this did not help her diarrhea, and she continued 
+to
+have multiple loose stools per day. She denies any fevers,
+chills, abdominal pain, nausea, vomiting at that time.
+
+On ___, she developed a diffuse macular rash. On ___, oral
+vancomycin was stopped and oral Flagyl was started. She was also
+prescribed a hydrocortisone cream and Benadryl. On ___, her
+rifampin was also stopped. She was prescribed a higher dose of
+prednisone (20 mg), but she declined to take this so she has 
+been
+maintained at 10 mg. The patient reports that her diarrhea has
+improved somewhat, but she has had nausea and vomiting. She has
+felt extremely fatigued. She denies any fevers or chills. She
+denies any pain. No pruritus as present.
+
+She returned to Infectious Disease clinic on ___ for routine
+follow up. On exam, her blood pressure was noted to be 88/60.
+Skin exam demonstrated generalized erythematous macular rash on
+face; trunk; extremities. This was suspected to be a drug
+hypersensitivity reaction, likely due to IV vancomycin; the
+patient was started on daptomycin instead. Labs were obtained 
+and
+notable for ___. She was referred to the ED for further care.
+
+In the ED, vitals: 97.5 82 96/55 24 100% RA 
+Exam notable for: Faint rash appreciated, erythematous, macular.
+Left wrist and right knee without tenderness to palpation, no
+evidence of wound infection.
+Labs notable for: WBC 9.8 (0.5 eos), Hb 10.9, BUN/Cr ___, AST
+39, ALT 23, CRP 57
+Imaging: CXR with malpositioned PICC (in RIJ)
+Patient given: 1L NS, daptomycin 420 mg IV
+
+On arrival to the floor, the patient reports that she feels
+fatigued. She denies lightheadedness or dizziness. No fevers or
+chills. No pain. No pruritus. No other complaints.
+
+The IV team attempted to reposition her PICC, however, they were
+not successful.
+ 
+Past Medical History:
+- Right knee prosthetic joint infection
+- MRSA bacteremia
+- C. diff infection
+- Advanced Rheumatoid Arthritis s/p bilateral hand joint 
+replacements and bilateral total knee replacement 
+- GERD
+- Osteoporosis
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+VITALS: 99.3 107/62 106 24 97 RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs; right knee incision
+well-apposed and c/d/i
+SKIN: Diffuse, erythrodermic macular rash on extremities and
+torso
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 10:01AM BLOOD WBC-13.2* RBC-4.06 Hgb-12.7 Hct-38.2 
+MCV-94 MCH-31.3 MCHC-33.2 RDW-14.0 RDWSD-48.4* Plt ___
+___ 03:30AM BLOOD WBC-11.6* RBC-3.08* Hgb-9.6* Hct-29.0* 
+MCV-94 MCH-31.2 MCHC-33.1 RDW-14.5 RDWSD-49.9* Plt ___
+___ 07:52PM BLOOD Glucose-123* UreaN-16 Creat-1.6* Na-137 
+K-3.7 Cl-107 HCO3-19* AnGap-11
+___ 03:30AM BLOOD Glucose-128* UreaN-10 Creat-1.4* Na-141 
+K-3.3* Cl-109* HCO3-20* AnGap-12
+___ 03:30AM BLOOD ALT-15 AST-20 AlkPhos-44 TotBili-0.4
+___ 07:08AM BLOOD Calcium-7.3* Phos-2.6* Mg-1.8
+___:01AM BLOOD CRP-57.2*
+___ 12:32PM BLOOD Lactate-2.0
+___ 07:52PM BLOOD Lactate-1.9
+
+Blood Cx were negative for growth
+
+CXR Pa/lat:
+Cardiomediastinal silhouette stable compared to prior.  Lungs 
+mildly
+hyperventilated with flattened hemidiaphragms.  Trachea is 
+patent, midline. 
+There appears to be increased pulmonary vascular congestion with 
+trace pleural
+effusion on the left.  There is some evidence of fibrosis the 
+bases which may
+be consistent with chronic lung disease, vascular congestion, or 
+both.  There
+is no evidence alveolar opacity or pneumothorax.  There is an 
+increased
+retrocardiac area of hyperlucency consistent with hiatal hernia. 
+ No upper
+abdominal or osseous pathology is noted.
+
+No evidence of pneumonia.  Trace pleural effusion on the left.
+ 
+Brief Hospital Course:
+___ y/o F with PMHx of RA on prednisone, MRSA bacteremia 
+complicated by prosthetic joint infection, C. difficile colitis 
+and drug eruption likely ___ Vanc who was referred from 
+infectious disease clinic with hypotension and ___.
+
+# Acute kidney injury: 
+Unclear if this is still pre-renal vs mild AIN related to drug 
+eruption.  Discontinued vanc and switched to dapto. Received 
+boluses of IVF but creatinine stabilized at 1.4. Pt was care 
+connected with an outpatient nephrologist on discharge.
+
+# Drug Eruption/Rash: Patient with diffuse, erythrodermic rash 
+likely drug hypersensitivity reaction ___ vancomycin, which was 
+discontinued. Patient is not pruritic and appears to be 
+improving. LFTs were not elevated so DRESS was deemed less 
+likely.
+
+# Recent Prosthetic joint infection
+# MRSA bacteremia: 
+Patient with recent admission for MRSA bacteremia and prosthetic 
+joint infection of right knee, discharged on 
+vancomycin/rifampin, both now discontinued in
+setting of suspected drug rash above. Midline in place for 
+Daptomycin course (through ___. OPAT recs in place, with 
+safety lab recs
+
+# C. diff infection: much improved, no diarrhea in house and pt 
+was continued on oral metronidazole (anticipated course through 
+___
+
+CHRONIC/STABLE PROBLEMS:
+# Rheumatoid arthritis: Continue prednisone 10 mg daily
+- Methotrexate/leucovirin held at last discharge
+
+# GERD: Continue omeprazole
+
+# Palpitations/SVT: BP running on low side on admission
+- Held metoprolol in setting of hypotension, but restarted on 
+day of discharge.
+
+TRANSITIONAL ISSUES
+[ ] Midline in place for Daptomycin course (through ___
+[ ] pt was continued on oral metronidazole (anticipated course 
+through ___
+[ ] Recheck creatinine at rehab, encourage fluid intake
+
+>30 min spent on d/c planning including face to face time. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. PredniSONE 10 mg PO DAILY 
+3. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+4. Metoprolol Succinate XL 12.5 mg PO DAILY 
+5. Celecoxib 200 mg oral BID 
+6. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+7. MetroNIDAZOLE 500 mg PO TID 
+8. DiphenhydrAMINE 12.5 mg PO Q6H:PRN Itch 
+9. Bisacodyl 10 mg PR QHS:PRN Constipation - Third Line 
+10. Fleet Enema (Saline) ___AILY:PRN Constipation 
+11. Milk of Magnesia 30 mL PO DAILY:PRN Constipation - Third 
+Line 
+12. Multivitamins 1 TAB PO DAILY 
+13. Ranitidine 150 mg PO BID 
+14. Cetirizine 10 mg PO DAILY 
+15. Vancomycin 1000 mg IV Q 12H 
+
+ 
+Discharge Medications:
+1. Omeprazole 20 mg PO DAILY 
+2. PredniSONE 10 mg PO DAILY 
+3. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+4. Metoprolol Succinate XL 12.5 mg PO DAILY 
+5. Celecoxib 200 mg oral BID 
+6. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+7. MetroNIDAZOLE 500 mg PO TID 
+8. DiphenhydrAMINE 12.5 mg PO Q6H:PRN Itch 
+9. Bisacodyl 10 mg PR QHS:PRN Constipation - Third Line 
+10. Fleet Enema (Saline) ___AILY:PRN Constipation 
+11. Milk of Magnesia 30 mL PO DAILY:PRN Constipation - Third 
+Line 
+12. Multivitamins 1 TAB PO DAILY 
+13. Ranitidine 150 mg PO BID 
+14. Cetirizine 10 mg PO DAILY 
+15. Daptomycin
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute kidney injury
+Drug eruption
+Cdiff colitis
+Hypotension
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+You were admitted with low blood pressures, acute kidney injury 
+and rash likely secondary to Vancomycin drug reaction as well as 
+resolving cdiff colitis.  You have improved with IV fluids and 
+switching to Daptomycin in place of Vancomycin
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16843433-DS-3 | hadm_id=28755374
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L hand swelling and erythema, R knee swelling  
+ 
+Major Surgical or Invasive Procedure:
+___ L hand debridement and silicone implant removal
+___ R prosthetic knee washout and liner exchange
+
+ 
+History of Present Illness:
+___ woman with past medical history of rheumatoid 
+arthritis (on MTX/toclizumab/prednisone), s/p bilateral joint 
+replacements of ___ her left hand as well as bilateral total knee 
+replacements, GERD, osteoporosis, who presents with progression 
+of L hand cellulitis despite outpatient antibiotics and new R 
+knee swelling/pain.
+
+She reports left hand swelling, erythema, and pain for the last 
+48 hours. She was seen by her rheumatologist ___ who prescribed 
+Keflex for presumed cellulitis. She had some improvement ___ pain 
+___ her left hand pain with antibiotics, but no improvement ___ 
+swelling or erythema. Then, yesterday ___, she began to notice 
+swelling and pain ___ her right knee. She describes the pain as 
+posterior and radiating to the calf. 
+
+No fevers, chills, N/V. No injury to the hand or knee. She says 
+her RA has been under good control and has not had a flare ___ 
+many years. She presented to ___, where she had 
+leukocytosis, elevated CRP, but vital signs otherwise stable. 
+She was started on IV vancomycin/ ceftriaxone for presumed 
+cellulitis and transferred to ___ for hand surgery evaluation. 
+
+
+___ our ED, patient was evaluated by hand surgery, who 
+recommended OR ___ for debridement. She also underwent R knee 
+arthrocentesis with 88k PMNs, concerning for septic arthritis 
+given her symptoms. She was continued on IV vancomycin.
+ 
+___ the ED:  
+- Initial vital signs were notable for: 98.1 140 148/88 18 97% 
+RA 
+ 
+- Exam notable for:  
+LUE: significant swelling and erythema of the dorsal aspect of 
+her L wrist that is well demarcated; warm and tender; no 
+fusiform swelling of digits, flexor sheath tendon, or 
+significant pain with extension  
+RLE: mild swelling ___ RLE but full ROM
+
+- Labs were notable for: WBC 20.1 (16% bands), plt 116, CRP 
+68.9, Cr 0.9, lactate 1.9; Knee joint fluid: 88k WBC, 18k RBCs, 
+further studies pending  
+
+- Studies performed include: None. X-ray images of L hand and R 
+knee at ___ (see below).  
+ 
+- Patient was given: IV vancomycin
+
+- Consults: hand: admission for IV abx; ortho: joint fluid w/ 
+c/f septic joint -> admission for IV ABX  
+
+Vitals on transfer: 98.3 95 114/64 24 93% RA
+  
+Upon arrival to the floor, patient corroborates history as 
+above. She has ongoing left hand swelling/erythema as well as R 
+knee pain/swelling. No fevers/chills, N/V.  
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise 
+negative. 
+ 
+Past Medical History:
+- Advanced Rheumatoid Arthritis s/p bilateral hand joint 
+replacements and bilateral total knee replacement 
+- GERD
+- Osteoporosis
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+======================
+VITALS:  ___ 1548 Temp: 98.1 PO BP: 110/75 HR: 82 RR: 18 O2 
+sat: 95% O2 delivery: 2L 
+GENERAL: Alert and interactive. ___ no acute distress.  
+HEENT: NCAT. 
+NECK: No cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or 
+rales. No increased work of breathing.    
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation ___ all four quadrants. No organomegaly.  
+EXTREMITIES:  Findings of advanced rheumatoid arthritis. Left 
+hand with significant deformity, edema, erythema, ROM limited of 
+L wrist ___ pain. R knee with significant erythema, swelling. R 
+knee ROM intact. 
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normals 
+ensation. Gait is normal. AOx3.  
+
+DISCHARGE PHYSICAL EXAM:  
+======================
+PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 002)
+    Temp: 98.9 (Tm 98.9), BP: 122/77 (100-134/67-78), HR: 72
+(72-91), RR: 18, O2 sat: 100% (95-100), O2 delivery: RA    
+GEN: Pleasant woman ___ NAD, laying ___ bed. 
+___: Initially regular, tachycardic; then irregular, 
+normocardic.
+Normal s1/s2 no rubs/gallops. ___ systolic murmur loudest over
+LLSB
+PULM: Bilateral fine crackles to mid lung that have improved
+since last week. No increased WOB. 
+ABD: Soft, NT/ND, +BS
+EXTR: Findings of advanced rheumatoid arthritis. L hand wrapped
+___ soft bandage. ROM limited of L wrist ___ pain but stable. R
+index finger MCP joint with minimal edema. Small R foot ganglion
+cyst stable without edema/erythema. R knee bandage c/d/i, drain
+with sanguineous fluid. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 12:35AM BLOOD WBC-20.1* RBC-4.71 Hgb-15.4 Hct-45.7* 
+MCV-97 MCH-32.7* MCHC-33.7 RDW-13.8 RDWSD-48.6* Plt ___
+___ 12:35AM BLOOD Neuts-64 Bands-16* Lymphs-14* Monos-6 
+Eos-0* Baso-0 AbsNeut-16.08* AbsLymp-2.81 AbsMono-1.21* 
+AbsEos-0.00* AbsBaso-0.00*
+___ 12:35AM BLOOD Glucose-124* UreaN-13 Creat-0.9 Na-138 
+K-4.2 Cl-103 HCO3-20* AnGap-15
+___ 12:46AM BLOOD Lactate-1.9
+___ 12:35AM BLOOD CRP-68.9*
+
+PERTINENT LABS:
+==============
+___ 05:00AM JOINT FLUID ___ Polys-91* 
+___ ___ 05:00AM JOINT FLUID Crystal-NONE
+___ 09:03PM URINE CT-NEG NG-NEG
+___ 12:35AM BLOOD CRP-68.9*
+___ 07:34AM BLOOD CRP-26.9*
+___ 05:53AM BLOOD CRP-3.3
+
+___ 07:34AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HCV Ab-NEG 
+(Rifampin Safety Check)
+
+___ 05:20AM BLOOD TSH-2.1
+
+DISCHARGE LABS:
+==============
+ 
+___ 06:02AM BLOOD WBC-11.4* RBC-3.94 Hgb-12.7 Hct-39.5 
+MCV-100* MCH-32.2* MCHC-32.2 RDW-13.7 RDWSD-50.4* Plt ___
+___ 06:02AM BLOOD Glucose-111* UreaN-14 Creat-0.9 Na-144 
+K-3.8 Cl-103 HCO3-25 AnGap-16
+___ 06:02AM BLOOD Calcium-8.7 Phos-3.2 Mg-2.0
+
+MICROBIOLOGY:
+==============
+___ 12:29 pm SWAB      RIGHT KNEE JOINT FLUID . 
+      Fluid should not be sent ___ swab transport media.  Submit 
+fluids ___ a
+      capped syringe (no needle), red top tube, or sterile cup. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      Inappropriate specimen collection (swab) for Fungal Smear 
+(___). 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+__________________________________________________________
+___ 12:29 pm JOINT FLUID     Site: KNEE
+      RIGHT KNEE JOINT FLUID. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis, 
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, 
+contact the
+      Microbiology Laboratory (___). 
+__________________________________________________________
+___ 12:29 pm TISSUE      RIGHT KNEE TISSUE. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      NO FUNGAL ELEMENTS SEEN. 
+__________________________________________________________
+___ 1:28 pm SWAB      LEFT HAND INFECTION. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND SINGLY. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+__________________________________________________________
+___ 5:00 am JOINT FLUID     Site: KNEE      KNEE JOINT. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Final ___: 
+      Reported to and read back by ___ (___) AT 12:34 ___ 
+___. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+         CEFTAROLINE Susceptibility testing requested per ___ 
+___
+         (___) ___. 
+         Susceptible to CEFTAROLINE test result performed by 
+___. 
+         Daptomycin Susceptibility testing requested per ___ 
+___
+         (___) ___ Daptomycin MIC OF 1 MCG/ML test result 
+performed
+         by Etest. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+DAPTOMYCIN------------       S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+__________________________________________________________
+___ 12:30 am BLOOD CULTURE      #1. 
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+___ 7:34 am BLOOD CULTURE
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+___ 7:40 am BLOOD CULTURE
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+___ 8:06 am BLOOD CULTURE      Source: Venipuncture. 
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+
+___ 5:00 am URINE
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+IMAGING:
+==============
+___ TTE
+CONCLUSION:
+- The left atrial volume index is mildly increased. The right 
+atrium is moderately enlarged. There is normal left ventricular 
+wall thickness with a normal cavity size. There is normal 
+regional and global left ventricular systolic function. The 
+visually estimated left ventricular ejection fraction is 55-60%. 
+There is no resting left ventricular outflow tract gradient. 
+Tissue Doppler suggests an increased left ventricular filling 
+pressure (PCWP greater than 18 mmHg). Mildly dilated right 
+ventricular cavity with normal free wall motion. The aortic 
+sinus diameter is normal for gender with normal ascending aorta 
+diameter for gender. The aortic arch diameter is normal with a 
+normal descending aorta diameter. The aortic valve leaflets (3) 
+appear structurally normal. No masses or vegetations are seen on 
+the aortic valve. There is no aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. No masses or 
+vegetations are seen on the mitral valve. There is mild [1+] 
+mitral regurgitation. The pulmonic valve leaflets are normal. No 
+masses/vegetations are seen on the pulmonic valve. The tricuspid 
+valve leaflets appear structurally normal. No mass/ vegetation 
+are seen on the tricuspid valve. There is mild to moderate 
+[___] tricuspid regurgitation. There is mild pulmonary artery 
+systolic hypertension. There is no pericardial effusion.
+IMPRESSION: 
+- No 2D echocardiographic evidence for endocarditis. Mildly 
+dilated right ventricle. Normal global and regional 
+biventricular systolic function. Mild mitral regurgitation. Mild 
+to moderate tricuspid regurgitation. Elevated LVEDP and mild 
+pulmonary hypertension.
+
+___ CXR Portable
+FINDINGS: 
+- Mildly enlarged cardiomediastinal silhouette.  Mild 
+calcification and tortuosity of the descending thoracic aorta.  
+Slight rightward deviation of the trachea.  Opacification 
+overlying the cardiac silhouette likely represents a large 
+hiatal hernia.  The pulmonary vasculature is normal.  Extensive 
+bilateral interstitial opacities likely represent diffuse 
+interstitial lung disease.  Mild bibasilar atelectasis.  No 
+focal consolidation.  A rounded opacification at the right lung 
+apex likely represents an emphysematous bulla or a pneumatocele. 
+ No pleural effusion or pneumothorax is seen.
+IMPRESSION:
+1.  Opacification overlying the cardiac silhouette likely 
+represents a large hiatal hernia, however lateral view 
+radiograph is recommended for confirmation.
+2.  Extensive bilateral interstitial opacities likely represent 
+diffuse interstitial lung disease.
+3. A rounded opacification at the right lung apex likely 
+represents an emphysematous bulla or a pneumatocele.
+
+___ CXR Portable
+IMPRESSION: 
+- There has been interval placement of a right upper extremity 
+PICC which terminates ___ the upper superior vena cava..
+- The lungs are hyperinflated.  There is no focal consolidation, 
+pleural effusion or pneumothorax.  There is a large hiatal 
+hernia.  The cardiac silhouette is mildly enlarged.  There is no 
+overt pulmonary edema.  No acute osseous abnormalities are 
+identified.
+
+___ XR Hand
+FINDINGS: 
+- There is severe erosion and osteolysis involving approximately 
+1.5 cm of the distal ulna.  Extensive erosive change and 
+remodeling of the proximal carpus with near complete destruction 
+of the proximal carpal row and severe narrowing at the 
+radiocarpal joint with extensive remodeling of the distal 
+radius. There is likely ankylosis at the radiocarpal joint.
+- Erosive change at the head of the proximal phalanx of the 
+thumb and the head of the middle phalanx of the index finger is 
+moderate.  There is volar and ulnar subluxation of the base of 
+the proximal phalanx of the thumb relative to the head of the 
+first metacarpal.
+- Soft tissue mineralization projecting ___ the region of MCP 
+joints could represent cement from prior reported MCP 
+arthroplasties, less likely soft tissue mineralization. Severe 
+erosions possibly ___ the setting of postsurgical change with 
+complete loss of the heads and necks of the second-fourth 
+metacarpals with severe volar and ulnar subluxation of the base 
+of the proximal phalanges of the second-fourth digits.
+- Severe erosive change at the PIP joints of the fourth and 
+fifth digits.
+IMPRESSION: 
+1.  Per OMR, the patient has had prior MCP joint arthroplasties 
+with apparent removal.  There is severe erosion and likely a 
+component of post surgical change at the second-fourth 
+metacarpals where there is extensive erosion and loss of bone at 
+the head neck of the second-fifth metacarpals.  There is severe 
+ulnar and volar subluxation of the base of the proximal 
+phalanges relative to metacarpals.  No prior comparison study to 
+assess for progression.
+2.  Severe remodeling of the proximal carpal row with severe 
+joint space narrowing at the radiocarpal joint with radiocarpal 
+ankylosis and remodeling of the distal radius.
+3.  Extensive erosion of the distal 1.5 cm of ulna.
+4.  Additional erosions at the head of the proximal phalanx of 
+the thumb, head of the middle phalanx of the second digit and 
+the fourth and fifth PIP joints are severe.
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+=====================
+Mrs. ___ is a ___ woman with past medical history of 
+rheumatoid arthritis (on MTX/toclizumab/prednisone), bilateral 
+hand joint replacements as well as bilateral total knee 
+replacements, GERD, and osteoporosis, who presented to ___ ED 
+from ___ on ___ with progression of left hand cellulitis 
+despite outpatient keflex and new R knee swelling/pain. 
+
+She was found to have GPC bacteremia and R knee septic 
+arthritis, likely secondary to the hematogenous spread of her L 
+hand cellulitis. Patient underwent both a R knee washout and 
+liner replacement and left hand debridement and has transitioned 
+to a 6 week course of IV vancomycin with additional PO rifampin.
+
+On multiple occasions, the patient was noted to have an 
+irregular heart rhythm both while ambulating and at rest. ECG 
+revealed PACs and SVT, and she was placed on low-dose 
+metropolol. 
+
+ACUTE ISSUES:
+============= 
+# Prosthetic joint infection, left hand cellulitis, MRSA 
+bacteremia 
+Found to have MRSA bacteremia ___ BCx at ___, L hand 
+cellulitis, and R knee PJI. She was started on IV vancomycin/CTX 
+initially at ___, and was then transitioned to IV 
+vancomycin/meropenem at ___. Wound cultures from left hand 
+infection and blood cultures grew MRSA; meropenem was thus 
+discontinued. She underwent L hand debridement on ___ and R knee 
+debridement/liner replacement ___ and has transitioned to a 6 
+week course of IV vancomycin with additional PO rifampin. Her 
+most recent blood cultures (___) were negative, and her TTE did 
+not show any signs of endocarditis. TEE was deferred as she 
+given plan for 6 week course. Her home immunosuppressive RA 
+regimen has been discontinued iso infection, although she is 
+safe to restart her home celecoxib for pain management and was 
+continued on prednisone 10mg qd. R knee drain removed right 
+before discharge. PICC ___ place for IV antibiotics.
+
+#Rheumatoid arthritis 
+Per Dr. ___ rheumatologist), patient is safe to 
+restart MTX and leucovorin ___ a few weeks. He also recommends 
+holding off on toclizumab until finishing her outpatient 
+antibiotic regimen and continuing celecoxib and prednisone 10 mg 
+for pain management. Although Mrs. ___ was experiencing some 
+joint pain, her most recent CRP was 3.3, which reassured us that 
+her pain was likely due to overuse injury rather than an RA 
+flare. ___ the case of an RA flare, only her prednisone dose 
+should be increased. She has rheumatology follow up scheduled 
+for ___. 
+
+#Palpitations
+Mrs. ___ complained of several episodes of palpitations and was 
+noted to have SVT on telemetry. She has history of tachycardia 
+that breaks with Valsalva maneuver. ECG and telemetry were 
+indicative of PACs and SVT, possibly ___ the setting of 
+deconditioning and sensitivity to exertion. She was started on 
+metropolol 12.5 mg daily but should follow up with her 
+outpatient cardiologist for further evaluation. Can consider 
+uptitrating metoprolol for palpitations and SVT as an 
+outpatient.
+
+CHRONIC ISSUES
+==============
+#Bibasilar atelectasis concerning for interstitial lung disease
+Mrs. ___ was noted to have bibasilar crackles on exam, though 
+she was reassuringly not symptomatic nor hypoxemic. CXR on ___ 
+showed bilateral interstitial opacities concerning for ILD 
+secondary to her RA. 
+
+#Foot cyst
+Mrs. ___ was noted to have benign-appearing cyst ___ ___. ___ orthopedics was concerned for infection, but held off 
+intervention given her more acute hand and knee infections. Per 
+___ podiatry, the lesion is a ganglion cyst with no required 
+intervention. 
+
+Transitional issues:
+====================
+[ ] ANTIBIOTIC REGIMEN: Vancomycin 1000 mg IV Q 12H, Rifampin 
+300 mg po q12h ___ - ___
+[ ] LAB MONITORING RECOMMENDATIONS:
+Weekly safety labs:
+• CBC/diff
+• BUN/ creat
+• Vanco level
+• ALT, AST
+• CRP
+
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+___ MD
+
+[ ] Please ensure f/u with Dr. ___ regarding status of 
+prosthetic hand joints as scheduled for ___
+[ ] Found to have evidence of ILD on chest imaging as above. 
+Please ensure f/u with outpatient pulmonologist ___ ___. 
+[ ] Please ensure f/u with PCP for palpitations/management of 
+PVCs/SVT. Consider uptitration of PO metoprolol as an 
+outpatient.
+[ ] Please ensure f/u with ___ podiatry for foot cyst
+[ ] Please ensure f/u with rheumatology for re-initiation of 
+MTX/leucovorin/toclizumab as appropriate
+[ ] Pain management with celecoxib and tylenol 
+[ ] ___ the case of an RA flare, only her prednisone dose should 
+be increased per outpatient rheumatologist 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Leucovorin Calcium 10 mg PO 1X/WEEK (___) 
+2. Omeprazole 20 mg PO DAILY 
+3. Celecoxib 200 mg oral BID 
+4. Methotrexate 25 mg PO QSUN 
+5. PredniSONE 10 mg PO DAILY 
+6. Tocilizumab AS DIRECTED mg IV INFUSION 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4hr Disp #*12 Tablet 
+Refills:*0 
+4.  RifAMPin 300 mg PO Q12H  
+5.  Vancomycin 1000 mg IV Q 12H  
+6.  Celecoxib 200 mg oral BID  
+7.  Omeprazole 20 mg PO DAILY  
+8.  PredniSONE 10 mg PO DAILY  
+9. HELD- Leucovorin Calcium 10 mg PO 1X/WEEK (___)  This 
+medication was held. Do not restart Leucovorin Calcium until 
+speaking with your rheumatologist
+10. HELD- Methotrexate 25 mg PO QSUN  This medication was held. 
+Do not restart Methotrexate until speaking with your 
+rheumatologist
+11. HELD- Tocilizumab AS DIRECTED mg IV INFUSION  This 
+medication was held. Do not restart Tocilizumab until speaking 
+with your rheumatologist
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+#MRSA Bacteremia
+#Left Hand Skin and Soft Tissue Infection
+#Right Prosthetic Knee Infection
+
+SECONDARY DIAGNOSIS
+#Rheumatoid Arthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+ 
+ WHY WERE YOU ADMITTED TO THE HOSPITAL?
+ - You were admitted to the hospital because you had an 
+infection ___ your hand and knee. 
+
+ WHAT HAPPENED WHILE YOU WERE ___ THE HOSPITAL?  
+ - You were treated with IV antibiotics which were continued at 
+discharge
+ - You underwent procedures to clear the infection from your 
+hand and knee
+ - You improved and were ready to leave the hospital.  
+
+ WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Please take all of your medications as prescribed and go to 
+your follow up appointments with your doctors ___ below)   
+ - Seek medical attention if you have new or concerning symptoms 
+
+
+ It was a pleasure participating ___ your care. We wish you the 
+best!
+ 
+ - Your ___ Care Team  
+ 
+Followup Instructions:
+___

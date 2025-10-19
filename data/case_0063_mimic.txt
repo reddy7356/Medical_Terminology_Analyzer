@@ -1,0 +1,178 @@
+===== DISCHARGE NOTE =====
+note_id=19105308-DS-10 | hadm_id=28263441
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lower extremitie swelling
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+patient is a poor historian who presents to ED c/o of lower 
+extremites swelling. He denies any other past medical history 
+although per OMR he had bladder cancer ___, and positive stress 
+in ___ and nl ECHO ___. He endosrses bilateral lower extremie 
+edema since couple days, with progressive worsening difficulty 
+urinating. He endorses decreased appetite and unintentional 
+weigh loss, some increased thurst and denies any CP, SOB, 
+abdominal pain.
+
+In the ED: he had bilateral lower extremitie US which was 
+negative for DVT. UA signif for RBC/WBC VSS and afebrile
+ 
+Past Medical History:
+- biopsy proven bladder ca ___ transitional cell 
+carcinoma, grade I-II)
+- lower extremity edema ( chronic diastolic CHF last ECHO ___ 
+nl EF)
+- Anemia
+- CKD - baseline Creatinine 2 
+- AFib  - not on coumadin, rate controlled
+- Gout
+
+ 
+Social History:
+___
+Family History:
+.
+ 
+Physical Exam:
+GEN:The patient is in no distress and appears comfortable mildly 
+depressed appearing, cachectic 
+SKIN:petechial nonblanching rash in lower extremities and some 
+on trunk
+HEENT: JVP flat, neck supple . poor dentition and bite like 
+lesions on tongue.No lymphadenopathy in cervical, posterior, or 
+supraclavicular chains noted.
+CHEST:Lungs are clear without wheeze, rales, or rhonchi.
+CARDIAC: Regular rhythm; ___ SEM RUSB, no rubs, or gallops.
+ABDOMEN: Non-distended, and soft withouttenderness or guarding.
+EXTREMITIES:3+ edeam r>L, warm without cyanosis, no clubbing.
+NEUROLOGIC: Alert and orientet x3
+ 
+Pertinent Results:
+___ 06:45AM 
+White Blood Cells 5.5 K/uL 4.0 - 11.0 
+Red Blood Cells 2.92* m/uL 4.6 - 6.2 
+Hemoglobin 9.1* g/dL 14.0 - 18.0  
+Hematocrit 26.0* % 40 - 52  
+MCV 89 fL 82 - 98  
+MCH 31.2 pg 27 - 32  
+MCHC 34.9 % 31 - 35 
+RDW 14.6 % 10.5 - 15.5 
+BASIC COAGULATION ___, PTT, PLT, INR) 
+Platelet Count 401 K/uL 150 - 440 
+.
+___ 06:45AM 
+Glucose 100 mg/dL 70 - 105 
+Urea Nitrogen 41* mg/dL 6 - 20 
+Creatinine 1.8* mg/dL 0.5 - 1.2  
+Sodium 128* mEq/L 133 - 145 
+Potassium 4.5 mEq/L 3.3 - 5.1  
+Chloride 95* mEq/L 96 - 108 
+Bicarbonate 27 mEq/L 22 - 32  
+Anion Gap 11 mEq/L 8 - 20 
+Calcium, Total 7.9* mg/dL 8.4 - 10.2 
+Phosphate 3.1 mg/dL 2.7 - 4.5 
+Magnesium 2.1 mg/dL 1.6 - 2.___ yo male with hx of diastolic CHF, lower extremity edema, 
+bladder ca who 
+presented with lower extremity edema, difficulty urinating and 
+weight loss. 
+
+HOSPITAL COURSE BY PROBLEM
+
+EDEMA: Pt had similar episodes in the past due to medication 
+noncompliance for CHF 
+treatment. While it is likely that current symptoms are related 
+to diastolic dysfunction and volume overload, pt otherwise lacks 
+other signs and symptoms of volume overload. Significant 
+contribution could be from venous stasis. We resumed his past 
+out patient diuretic and fluid restriction during initial 
+hospital stay, but dicontinued diuretic soon as pt appeared 
+euvolemic to dry. 
+
+URINARY RE TENSION: could be due to BPH, however more concerning 
+is bladder ca vs prostate ca given age and constitutional 
+symptoms. Also concerning was his UA which was positive for WBC 
+and RBC without bacterial growth. We placed Foley, and pt put 
+out 1.2 L of retained urine. Renal ultrasound was normal and 
+negative for hydronephrosis. Urine cytology was sent (results 
+pending), and we started Tamsulosin and Finasteride base on 
+urology consult recommendation. He will need outpatient Urology 
+follow up for further evaluation in the setting of a history of 
+bladder ca Grade II in ___
+
+HYPONATREMIA: could be due to CHF or very poor nutritional 
+intake or post obstructive renal failure. He was fluid 
+restricted. UA was not consistent with SIDH. Sodium improved 
+some what and remained stable
+
+DEPRESSION: Social work was consulted and we initiated treatment 
+with Paxil 20 mg.
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+2. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+7. Torsemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. chronic diastolic CHF
+2. Renal failure
+3. Urinary retention
+4. Depression
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+You were admitted for lower extremity swelling. You also had 
+urinary retention. We placed a foley catheder and you were 
+treated with diuretics. 
+.
+You have to follow up with outpatient urology and continue 
+taking your medication as prescribed.
+.
+Please call your doctor or come to ___ department if you 
+have shortness of breath, difficulty urinating, worsening leg 
+swelling or any other health concern
+ 
+Followup Instructions:
+___

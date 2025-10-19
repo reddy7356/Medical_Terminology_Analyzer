@@ -1,0 +1,782 @@
+===== DISCHARGE NOTE =====
+note_id=13179480-DS-12 | hadm_id=23147076
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath/chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization on ___.  No intervention done (see 
+pertinent results section for details)
+
+ 
+History of Present Illness:
+___ yr old F patient with hx of LAD stent in ___ (at ___ and 
+severe COPD on 2L NC at home who presented to ___ on ___ 
+with sob,. Per patient and ___ records she has had COPD and 
+is on 2L NC at home. She can normally walk to her bathroom 
+without sob but if she goes down the stairs she feels short of 
+breath and needs to stop and rest for awhile. On ___ she 
+was feeling even more short of breath than usual and her famliy 
+brought her to ___. She had no white count, a trop of 0.06, 
+and CXR showed right basilar patchy consolidation thought ot be 
+pneumonitis and mild failure per radiologist at ___. 
+ She was admitted and started on levoqiuon for pneumonia. She 
+was also started on nebs, IV solumedrol for COPD exacerbation. 
+She was also diuresed with IV lasix for presumed mild diastolic 
+heart failure exacerbation.
+ She was then seen by cardiologist (dr. ___ in consultation 
+who recommended that dyspnea may be ___ unstable angina not CHF 
+since BNP was 176 on admission and they d/cd the lasix. (also 
+patients creatinine increased to 1.6 on lasix). He felt she 
+needed urgent cath for possible unstable angina. on ___ had 
+P- mibi showing mild middle to basal lateral wall ischemia with 
+preserved EF (65%), consistent with ETT done at ___ in ___. 
+She was transferred to ___ for cath.
+  She had chest ___ consistent with prior MI pain and 
+consistent with prior episodes she's been having since ___ 
+prior to leaving ___. Responded to ___ inch nitro paste.
+ On arrival to ___ cath lab patient reports persistent chest 
+pain that she relates to anxiety. She says she has had this off 
+and on since the stent was put in in ___. It is left-sided, not 
+associated with exertion, occurs at rest, does not radiate. 
+Currently she is experiencing it off and on with the nitro patch 
+on. She also reports she is at baseline SOB for her. Otherwise 
+has no complaints or concerns.
+.  
+Cardiac review of systems is notable for absence of paroxysmal 
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope 
+or presyncope.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: 
+Diabetes(-),dyslipidemia(+),Hypertension(+)  
+2. CARDIAC HISTORY:  
+-CABG:  None
+-PERCUTANEOUS CORONARY INTERVENTIONS:  CAD sp NSTEMI and 
+Endeavor stent in ___ to LAD (70-80% stenosis)
+-PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY:  
+COPD (emphysema with FEV1 81% predicted)
+hypothyroidism
+urge incontinence
+Grade 1 diastolic CHF on TTE in ___
+chronic left lung/lingular infiltrate
+thyroid nodule
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  Mom had 
+breast cancer, sister intestine cancer
+ 
+Physical Exam:
+Admission Exam
+.
+VS: T=97.8 BP=157/61 HR=94 RR=18 O2 sat=95 on 2L NC  
+GENERAL: Elderly F with visible tachypnea. Oriented x3. Mood, 
+affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Dry mucous 
+membranes.  
+NECK: Supple with JVP flat with patient at 45 degrees.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS:  Tachypnea (30) Rhonchi bilaterally on experiation 
+without wheezing in anterior. Unable to examine posteriorly 
+post-cath.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: DP 1+ ___ 1+  
+Left: DP 1+ ___ 1+  
+
+Discharge Exam
+.
+VS: Tc: 98.5 Tm: 98.5 BP: 155/70 (141-177/54-80) HR: 95 (81-96) 
+RR: 18 O2:95-100% RA/2L NC  
+GENERAL: pt visibly tachypenic and with increased WOB, otherwise 
+NAD 
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM  
+NECK: Supple without JVP  
+CARDIAC: normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS:  Tachypenic with increaed WOB.  There are faint 
+expiratory wheezes and ronchi bilaterally.  There are no 
+crackles.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. 1+ ___ pulses bilaterally
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas
+ 
+Pertinent Results:
+___ 07:50AM BLOOD WBC-9.2# RBC-3.57* Hgb-10.8* Hct-32.9* 
+MCV-92 MCH-30.2 MCHC-32.8 RDW-13.3 Plt ___
+___ 07:50AM BLOOD Glucose-92 UreaN-42* Creat-1.5* Na-140 
+K-3.9 Cl-107 HCO3-28 AnGap-9
+___ 07:50AM BLOOD Calcium-9.0 Phos-3.0 Mg-2.1
+
+Cardiac Cath ___:
+1. Coronary angiography in this right-dominant system 
+demonstrated
+one-vessel disease. The LMCA and RCA had no significnat disease. 
+The
+prior LAD stent was widely patent. The LCx had a 60% stenosis at 
+the
+bifurcation with a small to moderate sized obtuse marginal 
+branch, which
+had a 90% ostial stenosis.
+2. Limited resting hemodynamics revealed moderate systemic 
+arterial
+hypertension, with an SBP of 163 mm Hg.
+.
+FINAL DIAGNOSIS:    
+1. One vessel coronary artery disease.
+.
+CXR ___: 
+1. Hyperinflation in a pattern consistent with clinical history 
+of COPD.
+2. Chronic lingular opacification without evidence of pneumonia.
+3. Left pleural convexity may be loculated effusion but followup 
+within 2
+weeks, then to resolution recommended; otherwise CT necessary to 
+further
+characterize.
+.
+EKG at ___: ___: Sinus tach at 102bpm, Nl axis, nl 
+intervals, Qw III, avf, LVH. No ST/TW changes.
+.
+EKG pre-cath at ___: NSR at 85bpm, Nl axis, LVH, QW III, aVF. 
+No ST/TW changes.
+
+ 
+Brief Hospital Course:
+___ F with severe COPD on home O2 and CAD s/p NSTEMI with DES 
+to LAD in ___ admitted to ___ with multi-factorial SOB 
+possibly related to cardiac ischemia/unstable angina now s/p 
+cardiac cath which revealed prior LAD stent patent and 90% 
+stenotic OM2 lesion but small and unlikely to be helped by 
+stenting so interventional team recommended medical management 
+of coronary disease.
+  
+.  
+# CORONARIES:  S/P NSTEMI in ___ s/p DES to LAD in ___.  Cath 
+at ___ on ___ showed no intervenable lesions (see pertinent 
+results) and she was managed medically with ___, 
+simvastatin 40mg.  Of note, her imdur dose was increased from 
+30mg to 60mg daily post-cath for anginal sx which were improved 
+at time of discharge.  She remained chest-pain free throughout 
+the day of ___ and we felt she was clear for discharge from a 
+cardiac standpoint.  
+.
+#Shortness of breath:  Pt with significant baseline COPD and 
+likely contributing to her SOB at ___.  Patient 
+remained tachypenic with increased work of breathing throughout 
+her admission, but she says this is her baseline and that she 
+felt back to normal.  Her PCP's office was contacted and 
+confirmed her baseline of increased work of breathing.  We 
+continued her on albuterol/ipratroprium nebs for COPD.  Upon 
+transfer from ___, she was on PO solumederol at 60mg q6h.  
+Given that this high dose was not chronic for her, we quickly 
+tapered her to prednisone 60mg daily, and discharged her with 
+instructions to decrease her dose by 10mg every 5 days.  This 
+seems congruent with the predinsone dosing she was started on at 
+her PCP's office in early ___.  Of note, she was started on 
+levoquin 750mg PO q48 hrs at ___ for COPD 
+exacerbation as well as a presumed pna given her left lingular 
+opacity.  However, this is chronic for her and has been followed 
+with intermittent CTs and CXRs as an outpatient and has 
+apparently remained stable. We sent her out on levoquin to 
+complete this course through ___.  Repeat CXR at ___ was 
+notable for an additional left pleural convexity which may be 
+loculated effusion but could also be concerning for malignancy.  
+The radiologists recommended followup for this within 2 weeks, 
+then to resolution.  If no resolution, a CT may be necessary to 
+further characterize. Of note patient refusing any pulmonary 
+rehab or ___ and insisting on taking care of herself at home as 
+she feels back to her baseline.
+.
+# PUMP:  Has diastolic CHF with EF 65% on recent imaging. Likely 
+had some component of CHF exacerbation on admission to ___ 
+but remained euvolemic at ___.  I/Os were monitored as were 
+daily weights.  She was on a low salt diet.  No diuresis was 
+required
+.  
+# RHYTHM:  NSR.  Monitored on tele
+.  
+#  Chronic renal insufficiency (1.3-1.5 baseline at ___: She 
+remained within her baseline during admission.
+
+.  
+#Dispo:  Pt refusing pulmonary rehab or home ___ at the time of 
+discharge, but we feel that this should be readdressed as an 
+outpatient as she would likely benefit from it.
+ 
+Medications on Admission:
+Medications at home per PCP ___ ___
+.
+Oxybutinin 10mg daily
+Ranitidine 150mg daily
+Imdur 30mg daily
+Palvix 75mg daily
+Simvastatin 40mg daily
+Aspirin 325mg daily
+Vitamin D 1000units daily
+Prednisone 10mg as directed (taper started on ___
+Atrovent 2 puffs QID (started combivent on ___
+.
+on transfer: 
+.   
+IV levaquin 250mg for 6 more days
+Ativan 0.5mg PO BID PRN
+___ 75mg daily
+zocor 40mg PO QHS
+Pepcid 20mg daily
+Imdur 30mg daily
+Klonipin 0.5mg BID
+Solumedrol 60mg PO q6H
+Duoneb 1 Q4H while awake Q12H PRN
+Mucomyst 600mg PO BID
+Hep IV gtt
+ 
+Discharge Medications:
+1. oxybutynin chloride 5 mg Tablet Sig: Two (2) Tablet PO Q 24H 
+(Every 24 Hours).  
+2. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+7. prednisone 10 mg Tablet Sig: Six (6) Tablet PO once a day: 6 
+tabs daily x5 days, 5 tabs daily x5 days, 4 tabs daily x5 days, 
+3 tabs daily x5 days, 2 tabs daily x5 days, 1 tab daily x5 days.
+
+.
+Disp:*105 Tablet(s)* Refills:*0*
+8. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO every other 
+day for 3 days: start ___, last dose ___.
+Disp:*2 Tablet(s)* Refills:*0*
+9. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+10. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler 
+Inhalation
+11. ipratropium bromide  Inhalation
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+-Chronic obstructive pulmonary disease exacerbation 
+-Congestive heart failure
+-Coronary artery disease
+
+Secondary:
+Chronic lingular consolidation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___, 
+
+You were admitted to ___ to have a cardiac 
+catheterization, because your doctors at ___ were 
+concerned for worsening of your heart disease.  You had the 
+procedure which showed that your prior stent was in good shape, 
+and no further interventions were done.
+
+We have also been treating you for a COPD exacerbation with 
+prednisone and antibiotics, as well as your normal COPD 
+inhalers.  We feel that your COPD is the primary factor 
+contributing to your shortness of breath.
+
+We have made the following changes to your medications:
+-We added levofloxacin 750 mg by mouth every other day.  Start 
+this tomorrow (___) and your last dose will be on ___.  
+-We increased your imdur (isosorbate dinitrate) to 60mg by mouth 
+daily
+-You should take prednisone at the following regimen:  6 tabs 
+daily x5 days, 5 tabs daily x5 days, 4 tabs daily x5 days, 3 
+tabs daily x5 days, 2 tabs daily x5 days, 1 tab daily x5 days.
+
+You sould continue all other medications as prescribed.
+
+Please note your follow up appointment below.  
+
+You have declined any outpatient rehab or visiting nurses.  
+Please note that this was not our recommendation, and we feel 
+that you may benefit from this in the future.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13179480-DS-11 | hadm_id=27888096
+
+ 
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with h/o CAD (LAD stent in ___, COPD, HTN presented 
+to ___ with sudden onset SS CP (pressure) starting at 
+5am, non-radiating, associated with shortness of breath and 
+heart racing, no diaphoresis, no nausea/vomiting. She describes 
+it as pleuritic and worst when she inhales deeply. Pain is 
+similar in nature to AMI she had in ___ at which point she 
+had a stent placed. No pain anywhere else. At its worse, pain 
+was ___, currently ___.  
+.  
+She put on some O2 (takes 2L at home for COPD) with some relief 
+and went to ___, where she got Aspirin ___ 150mg and 
+NTG x3 and transferred to ___ where pain was ___. Pt was also 
+given Morphine 2mg, Heparin gtt, and Nitro gtt at ___ as 
+well.  
+.  
+In ___, 97.5, 182/72, 79, 24, 99% on 2L. Labs with Cr 1.2 
+(unclear baseline, only other OMR value 1.4), Hct 31.2 (baseline 
+32's?), cardiac enzymes negative x1. EKG showing: NSR 79 bpm, 
+normal axis and intervals, inferior Q waves, downward scooping 
+V5-6 but not outright ST depression and no ST elevation. CXR 
+showing chronic lingular collapse seen previously, interval 
+development of non-specific  
+bibasilar patchy opacification, could be atelectasis, aspiration 
+or pneumonia.  
+.  
+Continued on Hep gtt, Nitro gtt, got Morphine 4mg and admit to 
+___. Vitals on transfer 98.1 138/69, 85, 14, 98%RA. Currently 
+pt still c/o ___ chest pain and we have increased nitro gtt 
+since admission, currently running 1.14mcg/kg/min. Hep gtt 
+running at 500u/hr.  
+.  
+Of note, pt relates history of 5d admission to ___ for 
+similar symptoms last month ___ but family states no etiology 
+was found.  
+.  
+ROS as above, also with chronic unchanged cough due to COPD, 
+recently with runny nose, diarrhea last week but none now. She 
+denies palpitations, PND, but does endorse 2 pillow orthopnea. 
+She endorses stable DOE when she walks up and down the stairs at 
+home doing laundry.  
+ROS negative for f/c/ns, vision changes, n/v/d/c, no URI sxs 
+other than runny nose, no SOB other than DOE as above, no 
+dysuria, no skin/joint changes. She denies this pain could be 
+heart burn.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension. No known 
+diabetes.  
+2. CARDIAC HISTORY: Grade I diastolic dysfunction on ___ ECHO  
+
+-CABG: NONE  
+-PERCUTANEOUS CORONARY INTERVENTIONS: ___, s/p endeavor stent 
+to LAD 70-80% stenosis.  
+-PACING/ICD: NONE  
+3. OTHER PAST MEDICAL HISTORY:  
+COPD, quit smoking ___ years ago --> Emphysema with an FEV1 of 
+0.81.  
+Hypertension  
+Hypothyroidism  
+Hyperlipidemia  
+Chronic left lung/lingular infiltrate  
+Chronic urinary incontinence  
+
+ 
+Social History:
+___
+Family History:
+M- breast ca, adult onset DM  
+F- aneurysm  
+
+ 
+Physical Exam:
+96.3 130/53, 106/64 73 20 96%2L  
+Elderly lady sitting in bed, able to relate history. No 
+accessory muscle use, no respiratory distress but slightly 
+dyspneic and audibly wheezy. Breaks into wet sounding coughing 
+fits for 30 secs at a time and gets very red in the face  
+EOMI. Mouth normal appearing, wearing dentures.  
+Carotid pulses palpable. Jugular veins not noticeably distended. 
+No carotid bruits noted.  
+Lungs with diffuse adventitious sounds in all fields. Bilateral 
+apices with harsh expiratory wheezes. On the R mid lung to base 
+there are rough crackles, greater than on the L. Air movement is 
+poor. The pain is made worse when pressing on her left rib cage. 
+ 
+Spine kyphotic.  
+At upper sternal border S1 S2 are very faint even when pt asked 
+to hold breath. They are more appreciable at the apex, regular, 
+no murmurs appreciable. Palpable radials, DP's not palpable.  
+Abd soft NT ND.  
+No c/c/e of digits. Good capillary refill.  
+No BLE edema.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+___ 11:40AM BLOOD WBC-5.9 RBC-3.52* Hgb-10.7* Hct-31.2* 
+MCV-89 MCH-30.5 MCHC-34.4 RDW-13.8 Plt ___
+___ 05:45AM BLOOD WBC-6.8 RBC-3.53* Hgb-10.4* Hct-31.6* 
+MCV-90 MCH-29.4 MCHC-32.8 RDW-13.9 Plt ___
+___ 11:40AM BLOOD Neuts-60.6 ___ Monos-7.1 Eos-7.6* 
+Baso-0.2
+___ 11:40AM BLOOD ___ PTT-99.3* ___
+___ 11:40AM BLOOD Glucose-100 UreaN-21* Creat-1.2* Na-143 
+K-3.5 Cl-109* HCO3-24 AnGap-14
+___ 05:45AM BLOOD Calcium-8.9 Phos-3.7 Mg-1.9
+.
+CARDIAC ENZYMES:
+.
+___ 11:40AM BLOOD CK-MB-NotDone
+___ 11:40AM BLOOD cTropnT-<0.01
+___ 11:40AM BLOOD CK(CPK)-41
+___ 09:15PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 09:15PM BLOOD CK(CPK)-34
+.
+___ EKG
+ 
+Sinus rhythm. Possible prior inferior myocardial infarction, age 
+undetermined. 
+Compared to the previous tracing of ___ no diagnostic 
+interim change. 
+TRACING #1 
+  
+ 
+Read by: ___. 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+79 152 74 410/443 81 -6 40 
+ 
+
+___ CXR
+ 
+FINDINGS: There is persistent collapse of the lingula. There has 
+been 
+interval development of bibasilar patchy opacification and 
+increased left 
+retrocardiac opacification, nonspecific, could relate to 
+aspiration pneumonia 
+or atelectasis. No other areas of focal parenchymal 
+consolidation.  
+Cardiomediastinal contours are stable demonstrating tortuosity 
+of the aorta 
+with atherosclerotic calcification. No evidence of pleural 
+effusions or 
+pneumothorax. 
+  
+IMPRESSION: Chronic lingular collapse. Interval development of 
+non-specific 
+bibasilar patchy opacification which could be related to 
+atelectasis, 
+aspiration or pneumonia.  
+
+___ CXR pa/lateral
+ 
+FINDINGS: In comparison with the earlier study of this date, 
+there is some 
+decreased opacification in the bibasilar areas. This could 
+reflect clearing 
+of aspiration or somewhat atypical pulmonary edema. 
+
+___ EKG
+ 
+Sinus rhythm. Inferior myocardial infarction, age undetermined. 
+Compared 
+to tracing #1 no change. 
+TRACING #2 
+  
+ 
+Read by: ___. 
+ 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+83 154 72 378/418 73 -4 44 
+ 
+
+___ stress test
+ 
+EKG:  SINUS, PRWP, NSSTTW   
+HEART RATE:  78 BLOOD PRESSURE:  140/60 
+  
+PROTOCOL  /  
+STAGE TIME SPEED ELEVATION WATTS HEART BLOOD RPP 
+  (MIN) (MPH) (%)   RATE PRESSURE   
+1 ___ 0.5 0   83 144/80 ___ 
+2 ___ 0.5 2   84 144/76 ___ 0.7 2  84 154/74 ___ 
+  
+TOTAL EXERCISE TIME:  8 % MAX HRT RATE ACHIEVED:  60 
+ 
+SYMPTOMS: NONE   
+ST DEPRESSION: NONE 
+ 
+  
+INTERPRETATION: This ___ year old woman s/p PCI LAD ___ and a 
+
+history of COPD was referred to the lab for evaluation shortness 
+of 
+breath. The patient exercised for 8 minutes of a RAMP protocol 
+and 
+stopped for shortness of breath and fatigue. The estimated peak 
+MET 
+capacity was 2 which represents a limited physical working 
+capacity for 
+her age. No arm, neck, back, or chest discomfort was reported by 
+the 
+patient throughout the study. There were no significant ST 
+segment 
+changes during exercise or in recovery. The rhythm was sinus 
+with no 
+ectopy. Blunted HR and BP response to exercise on beta blocker 
+therapy. 
+IMPRESSION: Limited functional capacity. No anginal type 
+symptoms or 
+ischemic EKG changes. Nuclear report sent separately. 
+ 
+___ MIBI
+ 
+RADIOPHARMACEUTICAL DATA: 
+10.3 mCi Tc-99m Sestamibi Rest ___ 
+28.7 mCi Tc-99m Sestamibi Stress ___ 
+HISTORY: ___ y/o female with h/o PCI to LAD ___, COPD 
+presenting for 
+evaluation of shortness of breath. 
+  
+SUMMARY OF DATA FROM THE EXERCISE LAB: 
+  
+Exercise protocol: RAMP 
+Resting heart rate: 78 
+Resting blood pressure: 140/60 
+Exercise Duration: 8 min 
+Peak heart rate: 84 
+Percent maximum predicted heart rate obtained: 60 %  
+Peak blood pressure: 154/74 
+Symptoms during exercise: None 
+Reason exercise terminated: Fatigue and shortness of breath 
+ECG findings: No ischemic ST changes 
+  
+METHOD: 
+  
+Resting perfusion images were obtained with Tc-99m sestamibi. 
+Tracer was 
+injected approximately 45 minutes prior to obtaining the resting 
+images. 
+  
+At peak exercise, approximately three times the resting dose of 
+Tc-99m sestamibi 
+was administered IV. Stress images were obtained approximately 
+15 minutes 
+following tracer injection. 
+  
+Imaging Protocol: Gated SPECT 
+  
+This study was interpreted using the 17-segment myocardial 
+perfusion model. 
+  
+INTERPRETATION: 
+  
+The image quality is adequate. 
+  
+Left ventricular cavity size is normal. 
+  
+Resting and stress perfusion images reveal uniform tracer uptake 
+throughout the 
+left ventricular myocardium. 
+  
+Gated images reveal normal wall motion. 
+  
+The calculated left ventricular ejection fraction is 64 %. 
+  
+There are no prior studies. 
+ 
+IMPRESSION: 1. Normal myocardial perfusion at the level of 
+exercise achieved. 
+2. Normal left ventricular cavity size. 3. LVEF 64%. 
+
+ 
+Brief Hospital Course:
+___ with h/o cardiac risk factors of HTN, HL, former smoker, 
+and known CAD s/p DES to mid LAD in ___, also with Grade I 
+(mild) LV diastolic dysfunction, COPD, hypothyroidism presents 
+with substernal chest pain.  
+ 
+1. Chest pain: Chest pain was thought to be UA vs non cardiac 
+cause (pleurisy from viral infection, pneumonia, COPD 
+exacerbation/bronchitis, or chostochondritis from excessive 
+coughing as pt was noted to have particularly impressive 
+coughing fits, and chest pain was elicited from pressing her 
+chest). 
+
+Pt was started on Nitro and Hep gtt, given ___, statin. 
+Lisinopril and Metoprolol initially held but restarted by 
+discharge. Pt ruled out MI with two negative enzymes and 
+reassuring EKG. Pt was given nebulizer treatments scheduled, 
+however no systemic steroids or ABx, and continued home 
+Fluticasone. Pt had exercise mibi (report above) which was 
+significant for very poor exercise tolerance ___ METS) however 
+was reassuring by EKG and nuclear imaging. Pt had no further 
+episodes of chest pain through her admission. 
+
+2. Lingula opacity: Needs to be followed up. It appears from 
+last Pulm notes that she was not very compliant and may have 
+been lost to follow up. Seen on CT chest ___ and appeared to 
+be more benign in appearance than malignant. The pt was offered 
+an appt with Pulmonology however stated she wanted her PCP to 
+set one up closer to home. 
+
+3. Chronic renal failure: Cr 1.2 on admission with unclear 
+baseline, only other OMR value was 1.4 previously. Cr rose 
+through admission to 1.6 however came back down to 1.4 by 
+discharge. Will need to be followed up but likely baseline is 
+1.2-1.4.
+
+ 
+Medications on Admission:
+This is a combination of two different med lists, mostly the 
+same, but pt able to verify many but not all of the meds.  
+1. Advair Diskus 250/50 1 puff inhaled bid  
+2. Aspirin 81mg or 325mg?  
+3. Detrol LA 2mg twice a day  
+4. HCTZ 12.5mg daily  
+5. Levothyroxine 25mcg daily  
+6. Metoprolol succinate 50mg daily  
+7. SL NTG as needed for CP  
+8. ___ 75mg daily  
+9. Simvastatin 40mg daily  
+10. Vitamin D 400u daily  
+11. Xopenex 0.31mg neb inhaled every four hours  
+12. Oxybutynin Chloride 10mg daily  
+13. Ranitidine 150mg twice daily  
+14. ISMN SR 30 mg daily  
+15. Lisinopril 5mg daily  
+.  
+
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).  
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Tolterodine 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+5. Hydrochlorothiazide 12.5 mg Tablet Sig: One (1) Tablet PO 
+once a day.  
+6. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.  
+8. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)  
+Sublingual as needed as needed for cold symptoms: Take one 
+tablet as needed for chest pain every 5 minutes up to total of 3 
+doses.  
+10. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+11. Xopenex 0.31 mg/3 mL Solution for Nebulization Sig: One (1) 
+neb Inhalation every four (4) hours as needed for shortness of 
+breath or wheezing.  
+12. Oxybutynin Chloride 10 mg Tab,Sust Rel Osmotic Push 24hr 
+Sig: One (1) Tab,Sust Rel Osmotic Push 24hr PO once a day.  
+13. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+14. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+15. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Chest pain of uncertain etiology, cardiac vs pulmonary, with 
+negative cardiac enzymes and reassuring stress test
+.
+Secondary diagnoses:
+COPD, quit smoking ___ years ago --> Emphysema with an FEV1 of 
+0.81.
+Grade I diastolic dysfunction on ___ ECHO
+___, s/p endeavor stent to LAD 70-80% stenosis. 
+Hypertension
+Hypothyroidism
+Hyperlipidemia
+Chronic left lung/lingular infiltrate
+Chronic urinary incontinence
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - requires assistance or aid (walker 
+or cane)
+ 
+Discharge Instructions:
+You were admitted to ___ out of concern for pain in your 
+chest. We monitored your blood work and EKG's and determined 
+that you were not having a heart attack. You also had a stress 
+test which was reassuring. The pain in your chest may be due to 
+your lungs and your persistent cough. 
+
+The following changes were made to your medication regimen:
+1. INCREASE your Aspirin from 81 mg daily to 325 mg daily
+
+Other than this change, no other changes were made to your 
+medication regimen and you should take your medicines as you 
+were before your admission. As always, discuss with your primary 
+care doctor which medicines you should be on at all visits.  
+
+ 
+Followup Instructions:
+___

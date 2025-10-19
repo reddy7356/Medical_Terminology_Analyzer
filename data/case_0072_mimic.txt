@@ -1,0 +1,598 @@
+===== DISCHARGE NOTE =====
+note_id=13105186-DS-6 | hadm_id=26020996
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Found down
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ found unresponsive at ___ station sitting comfortably at a 
+bench. Smelled of EtOH. Initial fingerstick glucose 65. No signs 
+of trauma. The patient was responding to painful stimuli only. 
+Arrived with oral airway in place.  
+.  
+In ED VS: 80 104/64 16 100% RA. On exam, lethargic with miotic 
+pupils responding to painful stimuli, nasal trumpet placed, 
+maintained airway. Localizes pain, moves his extremities 
+symmetrically. Labs demonstrated elevated creatinine of 2.4, 
+bicarb 15, with gap of 27. WBC 13.5. U/A nl. serum etoh 381. CXR 
+clear. Head CT no acute process. EKG: NSR 70, LAD, less than ___levations in aVR, V1 and V2. T wave inversions in I and 
+V4 to V6. Given narcan with no change in mental status. Given 
+IVF, 4L NS, on recheck gap down to 19, cr improved to 1.9. VS on 
+transfer 97.1-78-20-117/68-100ra.  
+.  
+On the floor he is arousable, disoriented and smells of etoh.  
+.  
+ROS: Unable to obtain
+ 
+Past Medical History:
+LVH  
+CKD (baseline creatinine 1.11 ___
+CAD (NSTEMI subendocardial anterioseptal MI ___
+HTN  
+Chronic anemia
+HLD
+Gout
+ETOH abuse for years 
+Fall
+Non compliance
+ 
+Social History:
+___
+Family History:
+No known history of CAD, DM.
+ 
+Physical Exam:
+ON ADMISSION:
+VS: 97.6 130/77 86 16 100/ra  
+GENERAL: Smells like alcohol. Arousable.  
+HEENT: EOMI, poor dentition  
+NECK: Supple  
+HEART: RRR, no MRG, nl S1-S2.  
+LUNGS: CTA bilat anterior  
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.  
+EXTREMITIES: WWP, no c/c/e, 1+ peripheral pulses.  
+NEURO: Awake, no facial droop, speech clear, no pronator drift, 
+moves all extremities  
+
+ON DISCHARGE:
+VS: 99.5 122/58 82 18 97% RA  
+GENERAL: Alert, oriented to person, place 
+HEENT: EOMI, poor dentition  
+NECK: Supple  
+HEART: RRR, no MRG, nl S1-S2.  
+LUNGS: CTAB, no rhonchi, rales, wheezes
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.  
+EXTREMITIES: WWP, no c/c/e, 1+ peripheral pulses.  
+NEURO: Awake and alert, CNII-XII grossly intact, speech clear, 
+no pronator drift, moves all extremities  
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 05:20PM   WBC-13.1* RBC-4.65 HGB-13.7* HCT-42.1 MCV-90 
+MCH-29.4 MCHC-32.5 RDW-14.8
+___ 05:20PM   NEUTS-81.6* LYMPHS-15.4* MONOS-1.5* EOS-0.9 
+BASOS-0.5
+___ 05:20PM   PLT COUNT-291
+___ 05:20PM   GLUCOSE-57* UREA N-38* CREAT-2.4* SODIUM-143 
+POTASSIUM-5.7* CHLORIDE-101 TOTAL CO2-15* ANION GAP-33*
+___ 11:14PM   GLUCOSE-84 NA+-144 K+-4.0 CL--111 TCO2-14*
+___ 11:20PM   CALCIUM-7.8* PHOSPHATE-6.0* MAGNESIUM-2.0
+___ 05:20PM   cTropnT-<0.01
+___ 11:20PM   cTropnT-<0.01
+___ 05:20PM   ASA-NEG ___ ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 05:20PM   OSMOLAL-401*
+___ 01:15AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 01:15AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 01:15AM URINE  RBC-<1 WBC-1 BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 01:15AM URINE  HYALINE-3*
+___ 01:15AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+
+STUDIES:
+___ EKG: SR at 81. LAD and LVH. <1 mm ST/J point elevations 
+in V1-V3, and aVR. TWI in I, II, aVL, V5-V6. No prior for 
+comparison
+
+___ CXR: The lungs are clear without consolidation or edema. 
+There is mild aortic tortuosity. The cardiac silhouette is top 
+normal for size. No 
+effusion or pneumothorax is noted. No displaced fractures are 
+evident. 
+  
+IMPRESSION: No acute pulmonary process. 
+
+___ CT HEAD: There is no evidence of intracranial hemorrhage, 
+edema, shift of normally midline structures, hydrocephalus, or 
+acute large vascular territorial infarction. Prominence of the 
+ventricles and sulci are consistent with global cerebral 
+atrophy, greater than expected given the ___ age.  
+Periventricular white matter hypodensities are consistent with 
+mild chronic small vessel ischemic disease. The visualized 
+portions of the paranasal sinuses and mastoid air cells are well 
+aerated. The imaged osseous structures are unremarkable. 
+  
+IMPRESSION: 
+1. No acute intracranial process. 
+2. Global cerebral atrophy is more than expected given the 
+___ age. 
+
+___ CXR: As compared to the previous radiograph, the lung 
+volumes have 
+slightly decreased. As a consequence, there is minimal crowding 
+of vascular structures at the lung bases. However, no focal 
+parenchymal opacity suggesting pneumonia is detected. No pleural 
+effusions. Borderline size of the cardiac silhouette without 
+evidence of pulmonary edema. 
+
+DISCHARGE LABS:
+
+___ 07:20AM BLOOD WBC-8.8 RBC-3.74* Hgb-11.1* Hct-32.4* 
+MCV-87 MCH-29.6 MCHC-34.1 RDW-15.0 Plt ___
+___ 07:20AM BLOOD Glucose-111* UreaN-20 Creat-1.1 Na-138 
+K-4.0 Cl-99 HCO3-26 AnGap-___ year old M found unresponsive at T stop, admitted with EtOH 
+level of 381, ___, and closing anion gap.  
+.  
+# Acute Renal Failure: 
+Patient presented with an elevated creatinine to 2.4. Per 
+primary provider at ___ baseline 
+is 1.1. ___ was pre-renal in etiology and improved to baseline 
+with fluid rehydration. 
+.  
+# Alcohol Dependence with Acute Intoxication: 
+Pt's unresponsiveness was initially due to alcohol intoxication. 
+He had no focal signs on neuro exam and CT head was negative. 
+Acute intoxication resolved and patient was monitored for 
+withdrawal on CIWA scale with valium. He denied history of 
+seizure but did report past history of "bad dreams" and DTs in 
+___. He was given thiamine 100 mg PO daily and a multivitamin. 
+He did not show any signs of withdrawal during hospitalization 
+with CIWA scores consistently below 5. 
+.  
+# Anion Gap Acidosis: 
+Patient presented with elevated anion gap and decreased bicarb. 
+This was attributed to alcoholic/fasting ketoacidosis with 
+possible contribution from mild lactic acidosis in the setting 
+of dehydration. He had no ketonuria or serum ketones, but these 
+levels were checked after patient was given fluids and glucose 
+on arrival to ED. Serum osmolality was checked and could be 
+accounted for by his alcohol level. Gap closed with fluid 
+rehydration. 
+.
+# Benign Hypertension: 
+Patient developed hypertension with systolics in the 200s. He 
+was asymptomatic. Baseline is unclear, but he reports ususally 
+130s-150s. He was continued on his home metoprolol and his 
+lisinopril was uptitrated from 20 to 40 mg daily. He was also 
+started on nifedipine with significant improvement in his blood 
+pressures- he was discharged on this medication. His blood 
+pressure control should be followed up in the outpatient 
+setting.  
+.  
+# CAD Native Vessel: 
+___ NP at ___, patient has a h/o 
+CAD s/p anteroseptal NSTEMI in ___. No baseline EKG in our 
+system, but EKG here showed NSR 81, LAD, less than ___levations in aVR, V1 and V2 and TWI I, II, V4-V6. Non specific 
+changes and patient asymptomatic while in house. Did note some 
+chest pain a week prior to admission while drinking alcohol. Was 
+ruled out for acute MI and continued on aspirin, metoprolol, 
+lisinopril, and simvastatin. Patient is a poor historian, but 
+given remote chest pain, may benefit from outpatient stress 
+test.
+.  
+# Leukocytosis:
+ Patient w/ no localizing symptoms for infection, CXR, U/A 
+normal. Likely a stress response as trended down on repeat 
+testing.
+.
+# Right rib pain: 
+On discharge, patient complained of mild R rib pain that was 
+reproducible on palpation. Patient was not hypoxic, or 
+tachycardic, and had an ambulatory O2 sat between 94 and 97%. 
+CXR showed no evidence of rib fractures. Likely musculoskeletal 
+in nature, but if persists, should be further evaluated.
+
+Full Code
+ 
+Medications on Admission:
+(per primary provider ___ at ___; 
+unclear how compliant patient is as he was unable to recall 
+names of ___
+ASA 325 
+Metoprolol 200 
+Simvastatin 20 
+Lisinopril 20 
+Colchicine PRN gout 
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*5 Tablet(s)* Refills:*0*
+2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*5 Tablet(s)* Refills:*0*
+3. metoprolol succinate 200 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*5 Tablet Extended Release 24 hr(s)* Refills:*0*
+4. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day for 
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+5. nifedipine 60 mg Tablet Extended Release Sig: One (1) Tablet 
+Extended Release PO DAILY (Daily).
+Disp:*30 Tablet Extended Release(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Alcohol Intoxication
+Acute Kidney Injury
+
+Secondary:
+Coronary Artery Disease
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for alcohol intoxication and 
+acute kidney injury. You were treated with IV fluids and your 
+kidney function improved. You were seen by a social worker who 
+provided you with resources regarding alcohol cessation. We 
+recommend that you stop drinking as it is harming your health. 
+Your dehydration, blood acid levels all improved with IV fluids 
+and you are now medically clear to leave the hospital. We also 
+recommend that you follow up with ___ your primary 
+provider (see below). 
+
+We have made the following changes to your medications:
+- START taking nifedipine for your blood pressure
+
+You had a low grade fever on the day of discharge. Your lab work 
+was normal and there were no signs of infection on your CXR. You 
+had no localizing symptoms of infection. If you develop worsened 
+fevers, shortness of breath or any other symptoms that concern 
+you, please call your doctor or return to the emergency room.
+
+It was a pleasure taking care of you. We wish you a speedy 
+recovery.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13105186-DS-7 | hadm_id=28180814
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ibuprofen / Tylenol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+joint pain
+ 
+Major Surgical or Invasive Procedure:
+Left knee arthrocentesis.
+
+ 
+History of Present Illness:
+___ y/o M with hx EtOH abuse, CAD presents with pain in his upper 
+and lower extremities. Patient states that he "has gout in every 
+joint of my body." He is a poor historian but reports 5 days of 
+feeling unwell, tired and with joint pains. His most recent gout 
+flair was ___ months ago involved both knees and he was treated 
+with prednisone and he thinks he is still on predisone but is 
+unsure of the dose. He says this feels like a gout flair though 
+more painful. He has pain in his shoulders, elbows, knees and 
+ankles b/l. He says all the joints hurt him and there is no one 
+particular joint that bothers him more than the othes. He notes 
+rhinorrhea and a cough for "years" which he says his PCP thinks 
+is allergies. He feels that his upper resp symptoms have not 
+worsened recently. No abdominal pain, nausea, or vomiting. No 
+dysuria.  
+Re his alcohol intake, he drinks 2 pints of vodka daily, last 
+drink was ___. Denies withdrawal symptoms. He has never had 
+seizures.  
+ 
+In the ED intial vitals were: 97.8 120 145/78 20 99% ra HR went 
+down to ___  
+- Labs were significant for WBC 18 Ht 34 (baseline 32) Cr 1.9 
+(baseline 1.) lactate 1.5 AG 18  
+- Patient was given 2 L IVF  
+Vitals prior to transfer were: 98.7 63 159/94 18 98% RA  
+admission to medicine for ILI  
+
+ 
+Past Medical History:
+MGUS
+LVH  
+CKD (baseline creatinine 1.1 ___  
+CAD (NSTEMI subendocardial anterioseptal MI ___  
+HTN  
+Chronic anemia  
+HLD  
+Gout  
+ETOH abuse for years  
+Fall  
+ 
+Social History:
+___
+Family History:
+No known history of CAD, DM.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals - 100.4 161/85 107 20 99%RA  
+GENERAL: rigoring, oriented though poor historian, he looks like 
+he is in pain  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, no thrush  
+CARDIAC: tachycardic , no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no edema  
+MSK:  
+fingers: DIPs and PIPs without effusions, MCPs tender but no 
+effusions b/l  
+wrists: no effusion  
+elbows: b/l effusions of olecranon bursa, R wose than L, warm, 
+tender to touch and with movement, no redness, limited 
+active/passive ROM  
+shoulders: no effusion, tender to touch and with movement  
+hips: non tender, able to move without pain  
+knees: warm, b/l effusions L worse than R, tender to touch and 
+with movement limited active/passive ROM  
+ankles: warm, no effusion b/l tender to touch and with movement  
+
+toes  
+NEURO: moving all extremities  
+
+DISCHARGE PHYSICAL EXAM
+Vitals: 99.2 175/82 80 20 96% RA
+Exam:  
+GENERAL - Alert, interactive, NAD 
+HEENT - PERRLA, EOMI, left eye improved without drainage  
+HEART - RRR, nl S1-S2, no MRG  
+LUNGS - CTAB  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM  
+Ext- hesitant to move elbows, hands, knees, ankles.  large 
+tophus on right elbow.  left ___ MCP swelling decreased.  grip 
+strength normal. left knee still with effusion but decreased and 
+decreased warmth, right knee warm. pt not willing to attempt 
+AROM; very painful PROM on both knees. 
+Neuro- motor function grossly normal, mild tremor bilaterally in 
+all extremities  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 06:57PM   LACTATE-1.5
+___ 05:37PM   GLUCOSE-132* UREA N-75* CREAT-1.9* SODIUM-143 
+POTASSIUM-4.9 CHLORIDE-103 TOTAL CO2-23 ANION GAP-22*
+___ 05:37PM   estGFR-Using this
+___ 05:37PM   CK(CPK)-174
+___ 05:37PM   URIC ACID-11.0*
+___ 05:37PM   CRP-GREATER TH
+___ 05:37PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 05:37PM   WBC-18.1*# RBC-3.81* HGB-11.2* HCT-34.3* 
+MCV-90 MCH-29.4 MCHC-32.6 RDW-15.0
+___ 05:37PM   NEUTS-87.7* LYMPHS-5.7* MONOS-6.4 EOS-0.1 
+BASOS-0.1
+___ 05:37PM   PLT COUNT-318
+___ 05:37PM   SED RATE-97*
+
+DISCHARGE LABS
+___ 07:00AM BLOOD WBC-11.7* RBC-3.17* Hgb-9.1* Hct-28.4* 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-15.1 Plt ___
+___ 07:00AM BLOOD Glucose-88 UreaN-23* Creat-0.8 Na-141 
+K-4.2 Cl-103 HCO3-28 AnGap-14
+___ 07:00AM BLOOD ALT-89* AST-36 AlkPhos-115 TotBili-0.2
+___ 07:00AM BLOOD Calcium-9.5 Phos-4.1 Mg-1.6
+
+IMAGING
+BILATERAL HAND XRAYS
+IMPRESSION: 
+  
+1. No acute fracture or dislocation.   
+2. Slightly suboptimal assessment of the right hand due to 
+patient 
+positioning. Findings suggestive of gout involving the distal 
+aspects of the ___ and ___ metacarpals. 
+
+BILATERAL FOOT XRAYS
+IMPRESSION: 
+  
+No acute fracture or dislocation.  Findings concerning for gouty 
+arthritis involving the ___ left MTP joint. 
+
+CXR
+IMPRESSION: 
+  
+No acute cardiopulmonary abnormality. 
+
+ 
+Brief Hospital Course:
+___ man with h/o gout, HTN, CAD, MGUS, alcohol abuse who 
+presents with gout, also found to have anemia, transaminitis, 
+and very short episode of likely afib, resolved.
+
+1) Gout: Inflammatory markers quite elevated, with CRP greater 
+than assay.  Rheumatology was consulted and performed 
+arthrocentesis on left knee, which showed negatively 
+birefringent crystals, WBC count ___, consistent with gout.  He 
+was started on prednisone 60mg daily x5 days, as well as 
+tramadol for pain control.  Colchicine avoided due to 
+transaminitis.  Improved symptomatically, and discharged with 
+prednisone taper: 40mg ___, 20mg ___, 10mg ___, 
+then stop.  
+
+2) Transaminitis: Mild, AST>ALT in 2:1 pattern, trending down on 
+discharge.  Given patient's history, suspect alcoholic liver 
+disease, although upon contacting patient's primary care 
+provider, did not have elevated LFTs in the past.  Perhaps we 
+could be seeing a transaminitis in the setting of ongoing total 
+body inflammation. Liver function with INR normal, plts normal. 
+Deferred workup of this, especially since trending down. Would 
+repeat LFTs in outpt follow-up and consider further work-up if 
+they remain elevated.
+
+3) Anemia: Hemoglobin 8 throughout admission, though dropped 
+from 11 at initial admit, was most likely hemoconcentrated 
+coming in, given orthostasis and ___.  Upon review of his PCP's 
+records shows that his baseline Hgb seems to be around 10.  He 
+had no signs of active/overt bleeding.  Also on review of 
+records, he has a listed diagnosis of MGUS, and there is some 
+concern as to whether the anemia is related to this. Hemolysis 
+labs were negative, with a low reticulocyte count. Therefore, 
+SPEP sent and pending at time of discharge and will need to be 
+followed up. Iron studies actually with high ferritin either due 
+to active inflammation at this point, vs. anemia of chronic 
+disease. B12 normal.  
+
+4) Paroxysmal afib: had isolated episode of irregularly 
+irregular tachycardic rhythm on ___ night of admission, which 
+appeared c/w afib on EKG.  However, resolved with fluids and 
+reverted to sinus rhythm on his own; maintained on telemetry 
+subsequently without events and never recurred.  He was thought 
+to be a poor candidate for any anticoagulation. 
+
+5) Alcohol abuse: maintained on CIWA q4h while in ___, with 
+diazepam 10mg for CIWA>10.
+
+6) HTN: hypertensive to SBP 180s on admission; once home 
+anti-hypertensives were restarted, this normalized, but with a 
+few isolated systolics in the 190s.  Therefore, home nifedipine 
+increased from 60mg daily to 90mg daily.  Maintained on 
+lisinopril and metoprolol.
+
+TRANSITIONAL ISSUES
+-Will need to have LFTs rechecked to see if downtrending.  If 
+not, will need w/u with RUQ u/s, outpatient eval for 
+transaminitis.
+-Will need to have CBC rechecked to ensure stability
+-SPEP pending at time of discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Simvastatin 20 mg PO DAILY 
+3. Metoprolol Succinate XL 200 mg PO DAILY 
+4. Lisinopril 40 mg PO DAILY 
+5. NIFEdipine CR 60 mg PO DAILY 
+6. Thiamine 100 mg PO DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Docusate Sodium 100 mg PO BID:PRN constipation 
+10. Colchicine 0.6 mg PO DAILY 
+11. Allopurinol ___ mg PO DAILY 
+12. Acetaminophen 650 mg PO Q6H:PRN pain 
+13. Ranitidine 150 mg PO BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Docusate Sodium 100 mg PO BID:PRN constipation 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Lisinopril 40 mg PO DAILY 
+5. Metoprolol Succinate XL 200 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. NIFEdipine CR 90 mg PO DAILY 
+8. Ranitidine 150 mg PO BID 
+9. Simvastatin 20 mg PO DAILY 
+10. Thiamine 100 mg PO DAILY 
+11. Artificial Tears 2 DROP BOTH EYES BID 
+12. Polyethylene Glycol 17 g PO DAILY constipation 
+13. Senna 8.6 mg PO BID:PRN constipation 
+14. Aspirin 81 mg PO DAILY 
+15. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+16. PredniSONE 40 mg PO DAILY Duration: 2 Days 
+Start ___, through ___ 
+Tapered dose - DOWN 
+17. PredniSONE 20 mg PO DAILY Duration: 2 Days 
+Take ___ 
+Tapered dose - DOWN 
+18. PredniSONE 10 mg PO DAILY Duration: 2 Days 
+Take ___, then stop. 
+Tapered dose - DOWN 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Gout
+2. Transaminitis
+3. Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent, although limited in that he 
+cannot name people, phone numbers, medical history,etc.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you while you were admitted at 
+___.  You were admitted due to joint pain from gout.  You had 
+a tap of your left knee to look at the fluid in your knee, and 
+this was consistent with gout.  You were started on prednisone 
+to help with your inflammation and pain.  You were found to have 
+anemia and mildly elevated liver enzymes, but these were stable. 
+ Your blood pressure was also high, and your nifedipine (blood 
+pressure medication) was increased.
+ 
+Followup Instructions:
+___

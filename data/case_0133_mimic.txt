@@ -1,0 +1,85 @@
+===== DISCHARGE NOTE =====
+note_id=12499659-DS-2 | hadm_id=29317408
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Radial artery transection
+ 
+Major Surgical or Invasive Procedure:
+___: Repair of radial artery transection
+
+ 
+History of Present Illness:
+The patient is a healthy ___ year old man who presented on 
+___ with pulsatile bleeding from his left wrist concerning 
+for radial artery injury. The mechanism was a knife injury while 
+chopping meat. A pressure dressing was applied, IV antibiotics 
+were given, and a tetanus toxoid was administered. He was 
+admitted to the hand surgery service. 
+ 
+Past Medical History:
+HTN
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Warm well perfused left hand
+Incision over left radial artery
+___ test positive with radial artery occlusion (intact arch)
+Splint dressing clean and dry
+ 
+Brief Hospital Course:
+The patient was admitted to the surgical service. He underwent 
+left radial artery repair on ___ (Dr. ___. He was admitted 
+overnight for observation
+ 
+Medications on Admission:
+ASA
+
+ 
+Discharge Medications:
+1.  cefaDROXil 500 mg oral BID Duration: 5 Days 
+RX *cefadroxil 500 mg 1 capsule(s) by mouth twice a day Disp 
+#*10 Capsule Refills:*0 
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0 
+3.  Aspirin 325 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Radial artery transection
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please keep arm elevated as long as swelling persists. Follow up 
+in 1 week in Dr. ___ for dressing removal. Please 
+keep arm dry at all times. You may shower with the splint 
+covered and protected.
+ 
+Followup Instructions:
+___

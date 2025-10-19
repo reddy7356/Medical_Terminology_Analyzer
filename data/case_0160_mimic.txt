@@ -1,0 +1,480 @@
+===== DISCHARGE NOTE =====
+note_id=13720991-DS-13 | hadm_id=23712478
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / azithromycin / Ceclor / Ceclor / Betadine / 
+clindamycin / bactrim / amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with history of L5-S1 disc
+herniation (diagnosed several months ago), who presents with
+acute worsening of her lower back pain.
+
+Has been seen for her lower back pain as an outpatient. Was
+prescribed muscle relaxers and ___ was recommended. Her baseline
+pain is a sharp shooting pain which extends down the back of 
+both
+legs and around to the knees on both sides (R>L), associated 
+with
+pain in the R>L lower back. Did traction with ___ a couple days
+before presentation.
+
+On the morning of presentation, she woke up with significant
+worsening of her lower back pain. She noticed a similar
+distribution of the pain, but more intense, and now extending
+down to the feet as well and associated with numbness of both
+feet. She also felt that she could not urinate that morning.
+Based on this sudden worsening of symptoms, she presented to
+Sturdy ED. MRI there showed her known small disc herniation at
+L5-S1 without canal stenosis or foraminal stenosis. She was
+transferred to ___ for further evaluation.
+
+In the ED,  
+- Initial Vitals:  T 98, HR 104, BP 140/88, spO2 96% RA
+
+- Exam:  
+Back- TTP L4-S1, Pain with straight leg to 20 degrees ___,
+decreases sensation to light touch on ___ LEs, Decreased perianal
+sensation, decreased rectal tone (later reported to be intact
+when evaluated by neurosurgery)
+Neuro-A&O x3, CN ___ intact, normal strength and sensation in
+all extremities, normal speech
+
+- Labs:  WBC 12.7 (58% PMN), Na 134, labs otherwise unremarkable
+
+- Consults:  Neurosurgery, who found her neurologic exam to be
+reassuring (with full strength, intact reflexes, rectal tone, 
+and
+minimally diminished sensation over the right dorsal/lateral
+foot, right anteiror thigh, and left perianal area), and after
+personally reviewing her imaging from ___, determined that no
+neurosurgical intervention was necessary at that time.
+
+- Interventions: She received IV dilaudid (x2), PO 
+acetaminophen,
+IV zofran, IV morphine (x3), 1L IV NS, lidocaine patch, and her
+home fluoxetine. A foley was placed after arrival to the ___
+for new urinary retention, but was removed before time of
+admission, and she subsequently voided successfully.
+
+Based on persistent pain requiring IV pain meds, and new
+worsening numbness of the bilateral feet, she was admitted to
+medicine for further management.
+
+Upon arrival to the floor, the patient endorsed having urinated
+after removal of the foley. She confirms the above story, and
+endorses significant pain.
+ 
+Past Medical History:
+Lumbar herniated disc
+Anxiety
+Intermittent asthma
+Prior ectopic pregnancy
+S/P appendectomy
+S/P C-section
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS: ___ 1248 Temp: 98.1 PO BP: 109/63 HR: 90 RR: 18 O2 sat:
+99% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.  
+NECK: No cervical lymphadenopathy. No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+BACK: No spinous process tenderness. Significant right 
+paraspinal
+tenderness around the level of the SI joint.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. Subtle RLE weakness (4+ at hip 
+flexor,
+5- at knee flexion and extension), strength otherwise intact.
+Decreased sensation on the plantar aspect of both feet. 
+Sensation
+otherwise intact. No saddle anesthesia.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals:  24 HR Data (last updated ___ @ 552)
+    Temp: 98.4 (Tm 98.6), BP: 102/66 (100-109/63-66), HR: 80
+(80-90), RR: 18, O2 sat: 94% (94-99), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.   
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+BACK: No spinous process tenderness. 
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. ___ ___ strength intact. No changes in
+sensation. No saddle anesthesia.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:20PM BLOOD WBC-12.7* RBC-4.02 Hgb-13.1 Hct-38.9 
+MCV-97 MCH-32.6* MCHC-33.7 RDW-12.0 RDWSD-43.1 Plt ___
+___ 08:20PM BLOOD Neuts-58.2 ___ Monos-8.6 Eos-3.5 
+Baso-0.6 Im ___ AbsNeut-7.40* AbsLymp-3.67 AbsMono-1.09* 
+AbsEos-0.44 AbsBaso-0.07
+___ 08:20PM BLOOD ___ PTT-26.2 ___
+___ 08:20PM BLOOD Glucose-84 UreaN-9 Creat-0.8 Na-134* 
+K-4.2 Cl-98 HCO3-25 AnGap-11
+___ 08:20PM BLOOD Calcium-9.7 Phos-3.9 Mg-2.0
+
+MICRO
+=====
+Urine culture
+___ 10:50 am URINE
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING
+=======
+none done at ___
+
+MR ___ was done at ___.
+
+DISCHARGE LABS
+==============
+___ 06:40AM BLOOD WBC-9.1 RBC-3.82* Hgb-12.5 Hct-37.9 
+MCV-99* MCH-32.7* MCHC-33.0 RDW-12.2 RDWSD-44.1 Plt ___
+___ 06:40AM BLOOD Neuts-60.5 ___ Monos-9.2 Eos-4.6 
+Baso-0.6 Im ___ AbsNeut-5.48 AbsLymp-2.24 AbsMono-0.83* 
+AbsEos-0.42 AbsBaso-0.05
+___ 06:40AM BLOOD Glucose-90 UreaN-12 Creat-0.7 Na-142 
+K-4.5 Cl-105 HCO3-22 AnGap-15
+___ 06:40AM BLOOD Calcium-9.3 Phos-3.3 Mg-1.___ F with L5-S1 radiculopathy, who presented with acute 
+worsening
+of back pain and new foot numbness after doing traction with ___
+the day before admission. MRI reassuringly without cord 
+compression or
+significant foraminal narrowing, and patient was admitted for 
+pain control and
+serial monitoring of neurologic exam. Her neurologic exam noted 
+mild weakness early on but improved and back pain improved by 
+the time of discharge. 
+
+TRANSITIONAL ISSUES:
+=====================
+[] Urinalysis prior to discharge notable for trace leukocytes, 
+protein 20, urobili 2. Patient asymptomatic. Would plan for 
+repeat UA ___ weeks following discharge 
+[] Continue to treat back pain with: Tylenol, gabapentin, 
+lidocaine patches
+[] Hold off on further physical therapy until follow up 
+appointment with PCP
+
+ACUTE ISSUES  
+=======================  
+# Acute on chronic lower back pain
+# L5-S1 disc herniation
+Patient with known herniated disc at L5-S1, who presented with
+acute worsening of her symptoms after traction with ___, also
+associated with new R>L foot numbness. Initially, there was 
+concern for
+urinary retention as well, but since arrival to the floor, she
+was able to void without difficulty. MRI at Sturdy showed no
+evidence of significant central canal narrowing or foraminal 
+stenosis. Neurosurgery was consulted and they recommended 
+against intervention. Neuro exams were monitored. She was 
+started on gabapentin 300mg TID, Tylenol and lidocaine patches 
+for pain control.
+
+# Urinary retention
+Patient initially reported difficulty urinating, requiring
+temporary foley placement in the ED. Since removal of the foley 
+catheter, she voided without issues. She denies dysuria, 
+frequency, urgency.
+
+CHRONIC ISSUES  
+======================= 
+# Anxiety
+Continues home fluoxetine. Held home clonazepam to be restarted 
+on discharge.
+
+# Insomnia
+Held home zolpidem to be restarted on discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lidocaine 5% Patch 1 PTCH TD QAM 
+2. Zolpidem Tartrate 10 mg PO QHS:PRN insomnia 
+3. Ibuprofen 800 mg PO Q8H:PRN Pain - Mild 
+4. Albuterol Inhaler 1 PUFF IH Q6H:PRN SOB 
+5. FLUoxetine 20 mg PO DAILY 
+6. ClonazePAM 1 mg PO BID:PRN anxiety 
+7. Sprintec (28) (norgestimate-ethinyl estradioL) 0.25-35 mg-mcg 
+oral DAILY 
+
+ 
+Discharge Medications:
+1.  Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+2.  Albuterol Inhaler 1 PUFF IH Q6H:PRN SOB  
+3.  ClonazePAM 1 mg PO BID:PRN anxiety  
+4.  FLUoxetine 20 mg PO DAILY  
+5.  Ibuprofen 800 mg PO Q8H:PRN Pain - Mild  
+6.  Lidocaine 5% Patch 1 PTCH TD QAM  
+7.  Sprintec (28) (norgestimate-ethinyl estradioL) 0.25-35 
+mg-mcg oral DAILY  
+8.  Zolpidem Tartrate 10 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Herniated Disc
+
+SECONDARY DIAGNOSIS
+===================
+Anxiety
+Insomnia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+
+___ was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You came to the hospital because you had severe back pain.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We took images of your back
+- You were found to have a herniated disc
+- We had the neurosurgeons see you but they did not feel that 
+you needed surgery
+- Your pain got better
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- Please come back to the hospital if you experience and new or 
+worsening symptoms
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13720991-DS-12 | hadm_id=26181301
+
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Penicillins / azithromycin / Ceclor / Ceclor / Betadine / 
+clindamycin / bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+vaginal bleeding
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ G4P2 @ ___ presents for evaluation after an episode
+of bright red bleeding that soaked her underwear and through her
+pants. Bleeding slowed quickly to spotting on toilet paper and
+now no further bleeding. Denies LOF, +FM. Denies trauma,
+intercourse. Rh neg s/p rhogam in first trimester for vaginal
+spotting (___). Has some mild nausea and reports diarrhea
+yesterday. Denies ctx, has mild low back "cramping." Denies
+fevers/chills.
+Denies urinary urgency, dysuria.
+
+ 
+Past Medical History:
+PNC:
+*) Dating: EDC: ___ by LMP  
+*) Labs:  A neg /Ab neg / RPRNR / RI / HbsAg neg / HIV unknown /
+GBS pending ___
+*) Routine:
+- GTT was scheduled for tmr -> delay until 1 wk s/p 
+betamethasone
+- U/S: nl full fetal survey, posterior placenta, boy
+- Genetics - low risk serum screening per pt 
+- had flu vaccine
+*) Issues
+- rh neg
+- spotting in first trimester s/p rhogam
+POBHx:
+- VAVD x 2, 7#10, 7#8 -> no issues, full term
+- ectopic x 1 -> treated surgically
+PGynHx: Denies STDs or abnl  paps, regular monthly menses
+
+PMH: asthma -> rare use of albuterol, hospitalized as teen, no
+intubations, recurrent c. dif -> no issues recently
+
+PSH: lsc appy, lsc salpingectomy for ectopic
+
+All: amoxicillin, PCN, erythromycin, clindamycin, ceclor,
+betadine, bactrim
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+PE: T 98.4 HR 102 BP 118/68
+NAD
+no CVA tenderness, reproducible pain in mid low back
+RRR
+Abd soft, gravid, NT
+SSE: nl appearing external genitalia and vaginal mucosa,
+physiologic discharge, no blood in vault, cervix visually closed
+without lesions or bleeding, does not appear friable
+SVE: long/closed, no blood on exam glove
+
+FHT: bl 130, mod var, +accels, no decels, AGA
+Toco: rare ctx -> not felt
+
+TAUS: FHR 140s, breech, posterior placenta, AFI 17.9cm
+EFW 1337g consistent with GA 29wks
+
+On discharge:
+VSS
+Gen: NAD
+Abd: soft, NT
+
+ 
+Pertinent Results:
+On admission:
+
+___ 03:17PM BLOOD WBC-13.9* RBC-3.46* Hgb-10.3* Hct-31.9* 
+MCV-92 MCH-29.7 MCHC-32.3 RDW-13.9 Plt ___
+___ 03:17PM BLOOD ___ PTT-27.1 ___
+___ 03:17PM BLOOD ___
+
+___ 4:23 pm ANORECTAL/VAGINAL CULTURE      Source: 
+Anorectal. 
+
+                            **FINAL REPORT ___
+
+   R/O GROUP B BETA STREP (Final ___: 
+      NEGATIVE FOR GROUP B BETA STREP. 
+
+Ultrasound (___):
+
+EFW 1255 (69%), vertex, posterior placenta with no evidence of 
+previa or retroplacental clot
+
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the antepartum service 
+after presenting with a significant amount of vaginal bleeding 
+at 27 weeks pregnant. Her labs were within normal limits, and an 
+ultrasound performed on ___ revealed no evidence of 
+retroplacental clot or previa. Given that she is Rh negative, 
+she received Rhogam on ___. A KB was checked and was found to 
+be negative. Given concern for abruption, she was given 
+betamethasone for fetal lung maturity on ___ and was thus 
+betamethasone complete on ___.
+
+She was observed, and had reassuring fetal testing daily, as 
+well as no further episodes of bleeding. She was discharged home 
+on hospital day 5.
+
+ 
+Medications on Admission:
+protonix, ambien rarely, PNV, albuterol prn
+
+ 
+Discharge Medications:
+1. Prenatal Vitamins 1 TAB PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+pregnancy at 27 weeks gestation
+vaginal bleeding
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted to the antepartum service for observation 
+after an episode of vaginal bleeding. Your bleeding resolved 
+while you were here. You had no evidence of preterm labor. You 
+received a course of steroids for fetal lung maturity. Fetal 
+testing was reassuring during this admission.
+ 
+Followup Instructions:
+___

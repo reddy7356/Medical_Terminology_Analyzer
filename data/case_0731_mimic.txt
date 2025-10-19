@@ -1,0 +1,242 @@
+===== DISCHARGE NOTE =====
+note_id=19881493-DS-12 | hadm_id=27120524
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with no PMH who
+presents with 10 days of epigastric pain.  She reports the onset
+of epigastric and RUQ pain starting ten days ago.  Since then it
+has been constant with periodic flares of her pain intensity. 
+She states the pain is made worse with eating.  She reports
+nausea but no emesis with the pain.  She also reports an episode
+of diarrhea initially which has since resolved.  She has lost 6
+lbs since the onset of her pain because she is not eating as
+much.  She denies f/c, CP, SOB, cough, dysuria, bloody or black
+stool.  She denies significant NSAID use.  She went to ___ several times due to the pain.  She was prescribed
+omeprazole, tramadol, and amoxicillin 5 days ago.  She is taking
+Tylenol as well.  She went back to ___ and
+requested xfer to ___ for evaluation.  Concern was raised for
+cholecystitis and she was evaluated by surgery.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Mother with stomach ulcer.
+ 
+Physical Exam:
+Admission:
+GENERAL: Alert and in no apparent distress, thin appearing
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate, MM dry
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, mild epigastric TTP without
+reboud or guarding.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+
+Discharge:
+GENERAL: Alert and in no apparent distress, thin appearing
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate, MM dry
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, very mild epigastric TTP 
+without
+reboud or guarding, improving.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Admission:
+
+___ 09:28PM URINE  HOURS-RANDOM
+___ 09:28PM URINE  UCG-NEGATIVE
+___ 09:28PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 09:28PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-40* BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 09:26PM   GLUCOSE-94 UREA N-9 CREAT-0.6 SODIUM-136 
+POTASSIUM-3.9 CHLORIDE-103 TOTAL CO2-23 ANION GAP-10
+___ 09:26PM   estGFR-Using this
+___ 09:26PM   ALT(SGPT)-11 AST(SGOT)-19 ALK PHOS-33* TOT 
+BILI-0.4
+___ 09:26PM   LIPASE-30
+___ 09:26PM   ALBUMIN-4.9
+___ 09:26PM   WBC-8.6 RBC-4.61 HGB-13.4 HCT-40.6 MCV-88 
+MCH-29.1 MCHC-33.0 RDW-11.9 RDWSD-37.9
+___ 09:26PM   NEUTS-50.7 ___ MONOS-4.9* EOS-5.8 
+BASOS-0.6 IM ___ AbsNeut-4.33 AbsLymp-3.24 AbsMono-0.42 
+AbsEos-0.50 AbsBaso-0.05
+___ 09:26PM   PLT COUNT-337
+
+Discharge:
+
+___ 05:48AM BLOOD WBC-7.0 RBC-4.11 Hgb-12.1 Hct-36.1 MCV-88 
+MCH-29.4 MCHC-33.5 RDW-11.8 RDWSD-37.9 Plt ___
+___ 09:26PM BLOOD Neuts-50.7 ___ Monos-4.9* Eos-5.8 
+Baso-0.6 Im ___ AbsNeut-4.33 AbsLymp-3.24 AbsMono-0.42 
+AbsEos-0.50 AbsBaso-0.05
+___ 05:48AM BLOOD Glucose-73 UreaN-9 Creat-0.7 Na-137 K-4.5 
+Cl-102 HCO3-22 AnGap-13
+___ 05:48AM BLOOD ALT-8 AST-13 AlkPhos-26* TotBili-0.6
+___ 05:48AM BLOOD Calcium-8.9 Phos-4.3 Mg-2.1
+___ 09:26PM BLOOD Albumin-4.9
+
+Imaging:
+RUQUS ___:  
+IMPRESSION:  
+  
+Mildly distended gallbladder containing sludge with trace 
+pericholecystic 
+fluid without wall thickening or mural edema are not definite 
+for acute 
+cholecystitis.  If there is a persistent concern for acute 
+cholecystitis a 
+HIDA scan can be considered for further evaluation. 
+
+HIDA ___: 
+ 
+FINDINGS:  Serial images over the abdomen show homogeneous 
+uptake of tracer into 
+the hepatic parenchyma. 
+  
+At 8 minutes, the gallbladder is visualized with tracer activity 
+noted in the 
+small bowel at 20 minutes. 
+  
+IMPRESSION:  Normal hepatobiliary scan.  No evidence of 
+cholecystitis. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with no significant PMH who 
+presents with 10 days of epigastric pain with unclear etiology, 
+likely IBS exacerbated by recent viral gastroenteritis.
+
+# Epigastric pain
+#Likely IBS
+Symptoms are most consistent with IBS vs. post-gastroenteritis 
+gastritis, although etiology is not entirely clear. RUQUS showed 
+possible gallbladder dilation and sludge but HIDA was negative. 
+She was seen by GI here who did not feel that she would benefit 
+from more inpatient workup including EGD. H. pylori is a 
+consideration so we sent a stool H. Pylori antigen, pending at 
+discharge. She had a blood test for H. pylori antibody at ___ 
+___ but this came back within normal range, and also 
+this does not help diagnose acute illess, just exposure. GI also 
+felt that there could be an element of IBS so recommended 
+anti-spasmotic with Bentyl and bowel regimen with senna and 
+miralax, which she will be discharged with. She has outpatient 
+GI Follow up and plan for EGD in 3 weeks. Of note, she was 
+prophylactically started on amoxicillin and a PPI (but not true 
+triple therapy) but there was not clearly a H. pylori diagnosis. 
+We will stop the amoxicillin unless H. pylori stool antigen 
+comes back positive. We will also hold the PPI given no clear 
+indication and its ability to alter H. pylori results. She was 
+also given a prescription for Align probiotic.
+
+Transitional Issues:
+[] GI follow up on discharge
+[] we sent a stool H. Pylori antigen, pending at discharge
+
+>30 minutes were spent preparing this discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 40 mg PO DAILY 
+2. Amoxicillin 875 mg PO Q12H 
+3. Ranitidine 300 mg PO DAILY 
+4. TraMADol 50 mg PO TID:PRN Pain - Moderate 
+
+ 
+Discharge Medications:
+1.  Align (Bifidobacterium infantis) 10.5 mg (10 million cell) 
+oral DAILY 
+RX *Bifidobacterium infantis [Align] 4 mg (1 billion cell) 1 
+capsule(s) by mouth once a day Disp #*30 Capsule Refills:*0 
+2.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+heartburn  
+3.  DICYCLOMine 20 mg PO TID 
+RX *dicyclomine 20 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 1 dose by 
+mouth once a day Refills:*0 
+5.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+6.  Ranitidine 300 mg PO DAILY  
+7.  TraMADol 50 mg PO TID:PRN Pain - Moderate  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: IBS, viral gastroenteritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ because of ongoing abdominal pain. 
+Imaging studies did not identify any issues with your 
+gallbladder or other organs. GI saw you and they felt that this 
+was likely IBS, related to a recent gastroenteritis infection. 
+We will focus on treating your spasms with Bentyl (dicyclomine). 
+You should also take medications to help you have bowel 
+movements and see your GI doctor.
+
+We wish you all the best.
+
+Sincerely,
+
+Your care team at ___
+ 
+Followup Instructions:
+___

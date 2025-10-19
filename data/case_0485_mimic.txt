@@ -1,0 +1,495 @@
+===== DISCHARGE NOTE =====
+note_id=19256146-DS-15 | hadm_id=23296627
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Fenofibrate / Crestor / Oxycodone / Keflex / 
+glipizide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ h/o CAH, DM2, obesity, legal blindness who presents with 5 
+days of abdominal pain and ___. 
+
+Four days ago she began experiencing sharp abdominal pain with 
+nausea/intermittent vomiting with meals. She has also 
+experienced multiple episodes of diarrhea. She presented today 
+to urgent care  and was subsequently transferred in the ED.
+
+In the ED her vitals were 98.2  116  144/73  16  97%RA. Her labs 
+were notable for BUN/Cr of 49/2.0, Hb 9.1/31.3 (down from 
+baseline ___, normal LFTs, WBC 6.0. On exam she was found to 
+have a distended abdomen but without guarding or rebound 
+tenderness. A CT scan was performed which showed "partial/early 
+small bowel obstruction with dilated small bowel loops." ACS was 
+consulted and did not believe that clinically she had a SBO. She 
+was kept NPO and given 1.5L NS. She was admitted to medicine for 
+further management of SBO, ___, and anemia. 
+
+On the floor today, vitals were 97.8 125/90 108 19 98 RA. She 
+continues to endorse significant abdominal pain and feels very 
+gassy. She passed flatus multiple times during the interview. 
+She said she is not currently feeling nauseous or vomiting. She 
+denies fevers, chills, shortness of breath, chest pain, 
+palpitations, dysuria, urinary frequency, headache. 
+
+ 
+Past Medical History:
+ - CAH  
+ - HTN  
+ - HLD  
+ - DM2  
+ - Asthma  
+ - Congenital nystagmus  
+ - Psoriasis  
+ - Aphakic bullous keratopathy  
+ - Myopic retinal degeneration (legally blind)  
+ - Glaucoma  
+ - Pelvic fracture  
+ - R distal radius Colles fracture  
+
+ 
+Social History:
+___
+Family History:
+Significant for breast cancer, ___
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS:  97.8 125 / 90 108 19 98 RA
+General: Morbidy obese woman, uncomfortable but in no acute 
+distress
+HEENT: Dry MMs, no scleral icterus, poor dentition, no JVD
+CV: Regular rhythm but tachycardic, no m/r/g
+Pulm: CTAB
+Abdomen: Obese, moderately distended but soft. Mild tenderness 
+without any specific foci. Normal bowel sounds. No rebound 
+tenderness or guarding
+ext: wwp no edema
+Neuro: A&Ox3 eventually, but initially said it was ___. Some 
+tangentiality and difficulty focusing on the conversation
+
+DISCHARGE EXAM:
+VS:  98.4 135 / 73 96 20 99 RA 
+General: Morbidy obese woman in no acute distress
+HEENT: MMMs, no scleral icterus, poor dentition, no JVD
+CV: Regular rhythm but tachycardic, no m/r/g
+Pulm: CTAB
+Abdomen: Obese, moderately distended but soft. Mild tenderness 
+without any specific foci, improved from previous exams. Normal 
+bowel sounds. No rebound tenderness or guarding.
+ext: wwp no edema
+Neuro: A&Ox3
+ 
+Pertinent Results:
+================
+ADMISSION LABS
+=================
+___ 11:45AM BLOOD WBC-6.0# RBC-3.80* Hgb-9.1*# Hct-31.3*# 
+MCV-82# MCH-23.9*# MCHC-29.1*# RDW-17.0* RDWSD-51.0* Plt ___
+___ 11:45AM BLOOD Neuts-43 Bands-6* ___ Monos-14* 
+Eos-2 Baso-0 ___ Myelos-0 AbsNeut-2.94 AbsLymp-2.10 
+AbsMono-0.84* AbsEos-0.12 AbsBaso-0.00*
+___ 11:45AM BLOOD Plt Smr-NORMAL Plt ___
+___ 11:45AM BLOOD Glucose-177* UreaN-49* Creat-2.0* Na-135 
+K-4.2 Cl-103 HCO3-16* AnGap-20
+___ 11:45AM BLOOD ALT-20 AST-13 AlkPhos-105 TotBili-0.4
+___ 11:45AM BLOOD Albumin-3.5
+___ 12:11PM BLOOD Lactate-1.8
+
+===============
+DISCHARGE LABS
+===============
+___ 06:57AM BLOOD WBC-4.9 RBC-4.03 Hgb-9.6* Hct-33.7* 
+MCV-84 MCH-23.8* MCHC-28.5* RDW-17.2* RDWSD-52.9* Plt ___
+___ 06:57AM BLOOD Plt ___
+___ 06:57AM BLOOD Glucose-122* UreaN-16 Creat-0.9 Na-140 
+K-4.1 Cl-107 HCO3-15* AnGap-22*
+___ 06:00AM BLOOD LD(LDH)-181 TotBili-0.3 DirBili-<0.2 
+IndBili-0.3
+___ 06:57AM BLOOD Calcium-8.8 Phos-2.8 Mg-1.8
+___ 06:00AM BLOOD Calcium-8.6 Phos-3.1 Mg-1.8 Iron-26*
+___ 06:00AM BLOOD calTIBC-290 Hapto-425* Ferritn-79 TRF-223
+
+===============
+IMAGING
+===============
+CT Abdomen/Pelvis ___:
+Findings concerning for partial small bowel obstruction vs 
+ileus, with dilated 
+small bowel loops in the mid abdomen which taper in the mid to 
+right lower 
+quadrant, with no clear transition point.  Mesenteric edema is 
+seen.  No 
+mesenteric free fluid identified. 
+
+ 
+Brief Hospital Course:
+SUMMARY: ___ h/o CAH, DM2, obesity, legal blindness who presents 
+with abdominal pain consistent with ileus. She had a CT abdomen 
+that was initially concerning for SBO, but our Acute Care 
+Surgery team evaluated her and clinically she had no signs of 
+SBO. She was kept NPO initially, given IV fluids, and quickly 
+improved. She had ___ that resolved after fluid 
+administration. Upon discharge, her abdominal pain was improving 
+and she was tolerating a regular diet. 
+
+ACUTE ISSUES:
+# Abdominal pain: Patient presented with 4 days of abdominal 
+pain and nausea, and her CT abdomen/pelvis was initially 
+concerning for partial SBO. However, clinically, the patient did 
+not appear to have any evidence of SBO as she is passing flatus, 
+has a benign exam, and has no history of abdominopelvic 
+surgeries. She was managed conservatively and continued to have 
+BMs and pass flatus. Her diet was advanced to regular and she 
+was tolerating a regular diet upon discharge. 
+
+# ___: Patient presented creatinine elevated to 2.0 from 
+baseline 1.2. Etiology likely volume depletion in the setting of 
+diarrhea leading up to presentation. Her ___ resolved with IV 
+fluid repletion. 
+
+# Anemia: Patient is anemic to a hemoglobin 9.1, from baseline 
+___. Absolute reticulocyte count was low. Hemolytic workup was 
+negative. Iron studies showed a mildly low iron of 26 and normal 
+ferritin/TIBC. Hemoglobin was stable throughout admission and 
+patient was asymptomatic. Diagnosis was thought to be anemia of 
+chronic disease or mixed picture of iron deficiency anemia and 
+ACD. 
+
+# Stye: Patient complained of painful papule on eyelid which was 
+examined and thought to be an uncomplicated stye. No further 
+treatment was undertaken. 
+
+CHRONIC ISSUES:
+# HTN: Continue home amlodipine, clonidine. Initially held 
+lisinopril due to ___ but this was restarted on discharged. 
+# DMII: Glipizide and metformin were held due to ___ but 
+restarted on discharge.
+# Glaucoma: Continued home brimonidine, dorzolamide/timolol 
+eyedrops
+# HLD: Continued home pravastatin
+
+TRANSITIONAL ISSUES:
+- Please consider further workup for patient's anemia as noted 
+above. 
+# Contact: ___ ___
+# Code: Full (confirmed)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. AcetaZOLamide 500 mg PO Q12H 
+2. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze 
+3. amLODIPine 10 mg PO DAILY 
+4. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+5. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+6. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP RIGHT EYE BID 
+7. GlipiZIDE XL 10 mg PO DAILY 
+8. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain - 
+Moderate 
+9. Lisinopril 40 mg PO DAILY 
+10. MetFORMIN (Glucophage) 1000 mg PO BID 
+11. Pravastatin 80 mg PO QPM 
+12. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN 
+itchiness 
+13. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+14. Bisacodyl 10 mg PO DAILY:PRN constipation 
+15. Docusate Sodium 100 mg PO BID 
+16. Senna 8.6 mg PO BID:PRN constipation 
+17. CloNIDine 0.1 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  AcetaZOLamide 500 mg PO Q12H  
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Bisacodyl 10 mg PO DAILY:PRN constipation  
+6.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  
+7.  Clobetasol Propionate 0.05% Ointment 1 Appl TP BID  
+8.  CloNIDine 0.1 mg PO BID  
+9.  Docusate Sodium 100 mg PO BID  
+10.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP RIGHT EYE BID  
+11.  GlipiZIDE XL 10 mg PO DAILY  
+12.  HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain 
+- Moderate  
+13.  Lisinopril 40 mg PO DAILY  
+14.  MetFORMIN (Glucophage) 1000 mg PO BID  
+15.  Pravastatin 80 mg PO QPM  
+16.  Senna 8.6 mg PO BID:PRN constipation  
+17.  Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN 
+itchiness  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Ileus
+Acute kidney injury
+Anemia
+
+SECONDARY DIAGNOSIS:
+Diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted to ___ due to abdominal pain. This was 
+thought to be due to an ileus, or your bowel moving slowly. We 
+let your bowel rest and gave you IV fluids, and you quickly 
+improved. You were discharged while tolerating a regular diet.
+
+Please make sure to followup with your primary care doctor and 
+resume all your home medications.
+
+We wish you all the best!
+
+Sincerely,
+Your ___ care team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=19256146-DS-14 | hadm_id=26260684
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins / Fenofibrate / Crestor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right groin pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ s/p mechanical fall down ___ steps today while at her
+primary care doctor's office being evaluated for a UTI. Denies
+head strike or LOC. Presented to BI ED with complaints of right
+groin pain.
+
+ 
+Past Medical History:
+CONGENITAL ADRENAL HYPERPLASIA                                  
+HYPERTENSION                                                    
+HYPERLIPIDEMIA                                                  
+DIABETES TYPE II                                                
+ASTHMA                                                          
+TOBACCO ABUSE                                                   
+CONGENITAL NYSTAGMUS                                            
+PSORIASIS                                                       
+APHAKIC BULLOUS KERATOPATHY                                     
+MYOPIC RETINAL DEGENERATION ___                                  
+LEGALLY BLIND                                                   
+GLAUCOMA
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Gen: NAD, appears comfortable
+Bilateral lower extremities: compartments soft/compressible; no 
+pain with passive or active ROM of hips or knees, sensation 
+intact, warm and well perfused
+ 
+Pertinent Results:
+___ 02:32PM BLOOD WBC-14.2*# RBC-5.02 Hgb-15.1 Hct-45.9 
+MCV-92 MCH-30.1 MCHC-33.0 RDW-12.6 Plt ___
+___ 02:32PM BLOOD Neuts-80.7* Lymphs-13.9* Monos-3.6 
+Eos-1.1 Baso-0.7
+___ 02:32PM BLOOD Glucose-121* UreaN-18 Creat-1.0 Na-141 
+K-3.9 Cl-109* HCO3-20* AnGap-16
+___ 07:52PM URINE Color-Yellow Appear-Cloudy Sp ___
+___ 07:52PM URINE Blood-MOD Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG
+___ 07:52PM URINE RBC-11* WBC->182* Bacteri-MOD Yeast-NONE 
+Epi-1
+URINE CULTURE-FINAL {BETA STREPTOCOCCUS GROUP B}
+ 
+Brief Hospital Course:
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have an LC1 pelvic fracture on the right and was admitted to 
+the orthopedic surgery service.  The patient was treated 
+non-operatively and made weight bearing as tolerated. The 
+patients home medications were continued throughout this 
+hospitalization.  The patient worked with ___ who determined that 
+discharge to rehab was appropriate. The ___ hospital 
+course was otherwise unremarkable.
+
+At the time of discharge the patient was afebrile with stable 
+vital signs that were within normal limits, pain was well 
+controlled with oral medications, and the patient was 
+voiding/moving bowels spontaneously. The patient is weight 
+bearing as tolerated in the bilateral lower extremities, and 
+will be discharged on Lovenox for DVT prophylaxis.  The patient 
+will follow up in two weeks per routine. A thorough discussion 
+was had with the patient regarding the diagnosis and expected 
+post-discharge course, and all questions were answered prior to 
+discharge.
+
+ 
+Medications on Admission:
+ACETAZOLAMIDE [DIAMOX SEQUELS] - Dosage uncertain -  (Prescribed
+by Other Provider)
+ALBUTEROL SULFATE - albuterol sulfate HFA 90 mcg/actuation
+aerosol inhaler. 2 puffs by mouth every 4 hours
+AMLODIPINE - amlodipine 10 mg tablet. TAKE 1 TABLET BY MOUTH
+EVERY DAY FOR BLOOD PRESSURE
+BRIMONIDINE [ALPHAGAN P] - Dosage uncertain -  (Prescribed by
+Other Provider)
+CLOBETASOL - clobetasol 0.05 % topical solution. apply to scalp
+daily after shampooing for 2 to 4 weeks, then twice weekly as
+needed
+CLONIDINE - clonidine 0.1 mg tablet. TAKE 1 TABLET(S) BY MOUTH
+TWICE DAILY FOR BLOOD PRESSURE
+DORZOLAMIDE-TIMOLOL [COSOPT] - Dosage uncertain -  (Prescribed 
+by
+Other Provider)
+FLUOCINONIDE - fluocinonide 0.05 % topical cream. APPLY TO
+AFFECTED AREAS DAILY FOR 2 WEEKS AT A TIME AS NEEDED. AVOID
+FACE/GENITALS ___ WEEKS OFF)
+FLUTICASONE [FLOVENT HFA] - Flovent HFA 110 mcg/actuation 
+aerosol
+inhaler. 2 puffs by mouth twice daily rinse mouth out after - 
+(Not Taking as Prescribed)
+LISINOPRIL - lisinopril 40 mg tablet. TAKE 1 TABLET BY MOUTH
+DAILY
+METFORMIN - metformin 500 mg tablet. TAKE 2 TABLETS BY MOUTH
+TWICE A DAY
+PRAVASTATIN - pravastatin 80 mg tablet. 1 tablet(s) by mouth
+daily for cholesterol
+TRAZODONE - trazodone 50 mg tablet. 1 tablet(s) by mouth at
+bedtime as needed for insomnia
+
+ 
+Discharge Medications:
+1. AcetaZOLamide 500 mg PO Q12H 
+2. Amlodipine 10 mg PO DAILY 
+3. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+4. CloniDINE 0.1 mg PO BID 
+5. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP RIGHT EYE DAILY 
+6. Lisinopril 40 mg PO DAILY 
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+8. Pravastatin 80 mg PO DAILY 
+9. Acetaminophen 650 mg PO Q6H 
+10. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB/wheezing 
+11. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+12. Docusate Sodium 100 mg PO BID 
+13. Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 0.4 mL subQ once a day Disp #*14 
+Syringe Refills:*0
+14. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+15. Milk of Magnesia 30 ml PO BID:PRN Constipation 
+16. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*60 Tablet Refills:*0
+17. Senna 8.6 mg PO BID 
+18. TraZODone 50 mg PO HS:PRN insomnia 
+19. sodium chloride 5 % ophthalmic BID 
+20. Ampicillin 500 mg PO Q6H Duration: 3 Days 
+RX *ampicillin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*12 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+LC1 pelvis fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take lovenox 40mg daily for 2 weeks
+
+WOUND CARE:
+- No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- No dressing is needed if wound continues to be non-draining.
+- Splint must be left on until follow up appointment unless 
+otherwise instructed
+- Do NOT get splint wet
+
+ACTIVITY AND WEIGHT BEARING:
+- Weight bearing as tolerated in bilateral lower extremities
+- Range of motion as tolerated in bilateral lower extremities
+- Activity as tolerated
+
+Physical Therapy:
+Activity:   Activity:  Activity as tolerated
+ Pneumatic boots
+ Right lower extremity:  Full weight bearing
+ Left lower extremity:  Full weight bearing
+Encourage turn, cough and deep breathe q2h when awake
+
+ 
+Followup Instructions:
+___

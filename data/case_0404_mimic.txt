@@ -1,0 +1,177 @@
+===== DISCHARGE NOTE =====
+note_id=18097264-DS-11 | hadm_id=27253837
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+headache, discomfort with foley
+ 
+Major Surgical or Invasive Procedure:
+Foley exchange in ED
+
+ 
+History of Present Illness:
+___ ___ male from ___ with BPH and
+intermittent indwelling foley cathter presented to the ED with
+headache and discomfort at site of foley catheter entry. He
+states that he felt feverish 2 days ago, took ibuprofen and it
+improved. He reported myalgias per ED report, but denied on
+admission. Denies chest pain, SOB, cough, vomiting, nausea,
+diarrhea, constipation, vision changes, numbness or tingling. 
+
+ROS: As above, otherwise 10 pt ROS negative. 
+
+In the ED, he was afebrile T99 and slightly tachycardic at 117.
+He received CTX, 1L IVF bolus, Tylenol. Lactate 1.2, WBC 18K,+
+UA, electrolytes without abnormality. Foley was exchanged. Blood
+and urine cultures sent and he was admitted to the medical 
+floor.
+
+Upon arrival, he reports feeling well. He is asking if he can go
+home. He states that previously he has received medical care in
+___ but has insurance here now and wants to establish
+care with new PCP, ___. His last foley was
+placed in ___ and ___ been in place for over one month. 
+Previously has required indwelling foley up to 4 months at a 
+time
+for his enlarged prostate. He does not have a urologist.  
+
+ 
+Past Medical History:
+BPH s/p indwelling foley catheter
+Chronic fatigue syndrome
+Depression
+
+ 
+Social History:
+___
+Family History:
+No known family history of cardiac dz or DM. Father with "bone 
+cancer", sister with ___ cancer. His daughter has depression 
+and chronic fatigue syndrome. His older brother has BPH and had 
+a procedure, he does not know if he required a
+foley catheter. 
+ 
+Physical Exam:
+Vitals: 98.1   117/61  79  18  98%RA
+Gen: NAD, alert, laying in bed, speaking full sentences fluently
+in ___
+Eyes: EOMI, sclerae anicteric  
+ENT: MMM, OP clear
+Cardiovasc: RRR, no MRG, full pulses, normal S1, S2
+Resp: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+, no suprapubic or CVA tenderness
+Ext: warm, dry, no c/c/e
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. No facial droop. Nonfocal exam, ambulates
+independently
+Psych: slightly restricted affect, pleasant, appropriate
+GU: Foley catheter in place draining clear urine
+ 
+Pertinent Results:
+Labs: 
+___ 02:12AM BLOOD WBC-18.1* RBC-4.85 Hgb-15.1 Hct-44.0 
+MCV-91 MCH-31.1 MCHC-34.3 RDW-11.9 RDWSD-39.8 Plt ___
+___ 08:50AM BLOOD WBC-15.4* RBC-4.92 Hgb-15.2 Hct-44.7 
+MCV-91 MCH-30.9 MCHC-34.0 RDW-11.9 RDWSD-39.8 Plt ___
+___ 08:50AM BLOOD ___ PTT-25.3 ___
+___ 02:12AM BLOOD Glucose-181* UreaN-10 Creat-0.9 Na-134 
+K-3.9 Cl-100 HCO3-25 AnGap-13
+___ 08:50AM BLOOD Glucose-127* UreaN-11 Creat-0.8 Na-140 
+K-4.1 Cl-106 HCO3-24 AnGap-14
+___ 08:50AM BLOOD Calcium-8.6 Phos-2.3* Mg-2.3
+___ 02:00AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 02:00AM URINE Blood-LG Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 02:00AM URINE RBC-59* WBC-159* Bacteri-FEW Yeast-NONE 
+Epi-0
+
+___ BLOOD CULTURE Blood Culture, 
+Routine-PENDING 
+___ BLOOD CULTURE Blood Culture, 
+Routine-PENDING 
+___ URINE URINE CULTURE-PENDING
+ 
+Brief Hospital Course:
+___ with BPH s/p indwelling foley catheter presents with 
+headache and foley discomfort, found to have a catheter 
+associated urinary tract infection. 
+
+# Catheter associated urinary tract infection: Complicated UTI. 
+With leukocytosis and mild tachycardia that resolved upon 
+arrival to the floor. It is unclear why he has an indwelling 
+foley, though he reports this is how his BPH has been managed 
+for some time now. He does not have a urologist, and this will 
+be crucial
+in ongoing outpatient care. S/p 1 dose of ceftriaxone in ED, 
+transitioned to ___. 
+
+Patient feeling well and remained hemodynamically stable, 
+headache and tachycardia improved/resolved. Discussed with 
+family who wished to bring him there tomorrow morning. Given his 
+lack of severe systemic signs of infection, he did not require 
+ongoing hospital care. He was transitioned to ciprofloxacin 
+500mg PO BID to complete total 7 day course pending further 
+culture data. Discussed with future PCP. Reinforced to patient 
+and family importance of PCP ___. 
+
+# Depression/Chronic fatigue syndrome: Not taking any 
+medications, only herbal supplements. Will likely benefit from 
+outpatient counseling. Herbal supplements will need to be 
+further elucidated - phone translator unable to assist. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice daily 
+Disp #*11 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Catheter associated urinary tract infection. 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted for a urinary tract infection. You were given 
+antibiotics and fluids and your foley catheter was changed. 
+Please take the antibiotics until they are finished: 
+
+Ciprofloxacin 500mg by mouth twice daily for 6 days
+
+Please make sure you go to your appointment with your new 
+primary care doctor, ___. You will need to 
+see a urologist in clinic within the next few weeks. 
+
+We wish you the best.
+ 
+Followup Instructions:
+___

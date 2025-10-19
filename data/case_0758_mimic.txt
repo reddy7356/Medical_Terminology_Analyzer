@@ -1,0 +1,390 @@
+===== DISCHARGE NOTE =====
+note_id=14389966-DS-13 | hadm_id=25337408
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left ___ Aneurysm
+ 
+Major Surgical or Invasive Procedure:
+___ Coil/Embolization of Left ___ aneurysm
+
+ 
+History of Present Illness:
+___ yo male patient known to Neurosurgery who previously 
+underwent angio and embolization of AComm aneurysm.  He returns 
+for elective coil/embolization of known left ___ aneurysm.
+ 
+Past Medical History:
+Right Femoral artery pseudoaneurysm
+Colon Ca-Colostomy
+HTN
+DMII
+Hyperlipidemia
+Anterior communicating artery aneurysm 
+Posterior Inferior Cerebellar Artery Aneurysm
+ 
+Social History:
+___
+Family History:
+Mother: stroke 
+Father, sister, brother: cancer
+ 
+Physical Exam:
+ON DISCHARGE:
+Patient is awake, oriented x 3. R pupil 4 brisk. L pupil 4 
+sluggish. EOM intact. Speech is clear and appropriate. follows 
+commads. ___ strengths throughout. face symmstric, tongue 
+midline, no pronator drift. sensory intact.
+
+right groin: dressing on, no swelling, no bruising, mild 
+tenderness at incision site. denies back pain. 
+ 
+Pertinent Results:
+Pertinent results available in OMR
+ 
+Brief Hospital Course:
+___ yo male presents for elective coil/embolization of left ___ 
+aneurysm
+
+#Left ___ Aneurysm:  Pt presents on ___ for coil/embolization. 
+ Procedure tolerated well and transferred to ___, please refer 
+to operative note for details. On POD #1, patient is 
+neurologically stable. Foley and arterial line removed. Patient 
+ambulated with nursing without issue. Patient discharge to home 
+with family. All questions answered. 
+ 
+Medications on Admission:
+clopidogrel 75 mg QD
+levothyroxine 50 mcg QAM
+lisinopril 20 mg-HCTZ 12.5 mg 1 tab QD
+metformin 500 mg 1 tab BID
+simvastatin 20 mg QHS
+ascorbic acid (vitamin C) 1,000 mg QD
+aspirin 325 mg QD, 
+calcium carbonate 500 mg QD
+vitamin D3 2,000 IU QD
+MVI 1 tab QD
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain  
+2.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3 
+3.  lisinopril-hydrochlorothiazide ___ mg oral daily   
+4.  Ascorbic Acid ___ mg PO DAILY  
+5.  Calcium Carbonate 1250 mg PO DAILY  
+6.  Levothyroxine Sodium 50 mcg PO DAILY  
+7.  MetFORMIN (Glucophage) 500 mg PO BID  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Simvastatin 20 mg PO QPM  
+10.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left ___ Aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Embolization 
+
+Activity
+•You may gradually return to your normal activities, but we 
+recommend you take it easy for the next ___ hours to avoid 
+bleeding from your groin.
+•Heavy lifting, running, climbing, or other strenuous exercise 
+should be avoided for ten (10) days. This is to prevent bleeding 
+from your groin.
+•You make take leisurely walks and slowly increase your activity 
+at your own pace. ___ try to do too much all at once.
+•Do not go swimming or submerge yourself in water for five (5) 
+days after your procedure.
+•You make take a shower.
+
+Medications
+•Resume your normal medications and begin new medications as 
+directed.
+•You may be instructed by your doctor to take one ___ a day 
+and/or Plavix. If so, do not take any other products that have 
+aspirin in them. If you are unsure of what products contain 
+Aspirin, as your pharmacist or call our office.
+•You may use Acetaminophen (Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+•If you take Metformin (Glucophage) you may start it again three 
+(3) days after your procedure.
+
+Care of the Puncture Site
+•You will have a small bandage over the site.
+•Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+•Keep the site clean with soap and water and dry it carefully.
+•You may use a band-aid if you wish.
+
+What You ___ Experience:
+•Mild tenderness and bruising at the puncture site (groin).
+•Soreness in your arms from the intravenous lines.
+•Mild to moderate headaches that last several days to a few 
+weeks.
+•Fatigue is very normal
+•Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the puncture 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•Constipation
+•Blood in your stool or urine
+•Nausea and/or vomiting
+•Extreme sleepiness and not being able to stay awake
+•Severe headaches not relieved by pain relievers
+•Seizures
+•Any new problems with your vision or ability to speak
+•Weakness or changes in sensation in your face, arms, or leg
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14389966-DS-12 | hadm_id=25667075
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Anterior communicating artery aneurysm 
+ 
+Major Surgical or Invasive Procedure:
+___: Cerebral Angiogram for coiling of ACOMM aneurysm 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo M with known ACOMM aneurysm found 
+incidentally in syncopal workup who presents for elective 
+angiogram for intervention. 
+ 
+Past Medical History:
+Colon Ca-Colostomy
+HTN
+DMII
+Hyperlipidemia
+Anterior communicating artery aneurysm 
+Posterior Inferior Cerebellar Artery Aneurysm
+ 
+Social History:
+___
+Family History:
+Mother: stroke 
+Father, sister, brother: cancer
+ 
+Physical Exam:
+Upon discharge: 
+
+Gen: WD/WN, comfortable, NAD.
+
+HEENT: 
+Pupils:  PERRL       
+EOMs: Intact
+
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 3mm 
+bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+Femoral and pedal pulses strong and present bilaterally. 
+ 
+Pertinent Results:
+___ INTRACRANIAL COILING: 
+  
+IMPRESSION:  
+1. The previously noted A-comm aneurysm that measures 6.8 mm 
+from dome to 
+neck and 3.1 mm at the neck is completely obliterated with coils 
+compatible with ___ and ___ grade 1.   
+2. A proximal left ___ aneurysm was identified that measures 
+about 7 mm from dome to neck and 4.3 mm at the neck. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M who was admitted for elective 
+procedure. 
+
+# Anterior Communicating Artery Aneurysm 
+On ___ He underwent a cerebral angiogram with coiling of ACOMM 
+aneurysm. The procedure was uncomplicated and well tolerated. He 
+was monitored in the NIMU post procedure. He was continued on 
+aspirin after the procedure, Plavix was stopped as there was no 
+stent placement. He remained neurologically intact. He was able 
+to tend to his colostomy bag without issue and was able to 
+ambulate without dizziness or unsteady gait. 
+
+# Posterior Inferior Cerebellar Artery Aneurysm
+Incidentally, a proximal left ___ aneurysm was identified that 
+measures about 7 mm from dome to neck and 4.3 mm at the neck. It 
+was discussed with the patient that he will need close follow-up 
+with Dr. ___ that his case will be presented at the 
+___ weekly conference to discuss best approach for 
+management. He will need to return for further intervention, and 
+the patient is aware and expressed understanding of this plan. 
+We discussed that he must be strictly compliant with his blood 
+pressure management and avoid strenuous activity. 
+
+ 
+Medications on Admission:
+Plavix 75, Asa 325, glipizide 2,5 mg qd,levothyroxine 50 mcg qd, 
+lisinopril-HCTZ 20 mg/12.5 q, metformin 500 mg tab, simvastatin 
+20 mg qpm,Vit c 1000 mg qd,Calcium carb 1250 mg tab-2 tabs qd, 
+Vit D3 1000 units qd, multivit qd, saline nasal
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain  
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Senna 17.2 mg PO QHS  
+5.  Hydrochlorothiazide 12.5 mg PO DAILY 
+RX *hydrochlorothiazide 12.5 mg 1 tablet(s) by mouth daily Disp 
+#*1 Tablet Refills:*0 
+6.  Lisinopril 20 mg PO DAILY 
+RX *lisinopril 20 mg 1 tablet(s) by mouth daily Disp #*1 Tablet 
+Refills:*0 
+7.  Simvastatin 20 mg PO QPM 
+RX *simvastatin 20 mg 1 tablet(s) by mouth at bedtime Disp #*1 
+Tablet Refills:*0 
+8.  Ascorbic Acid ___ mg PO DAILY  
+9.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*45 Tablet 
+Refills:*0 
+10.  Calcium Carbonate 1250 mg PO BID  
+11.  Levothyroxine Sodium 50 mcg PO DAILY 
+RX *levothyroxine 50 mcg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0 
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1) Anterior Communicating Aneurysm - s/p coil
+2) Posterior Inferior Cerebellar Artery Aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Activity
+•You may gradually return to your normal activities, but we 
+recommend you take it easy for the next ___ hours to avoid 
+bleeding from your groin.
+•Heavy lifting, running, climbing, or other strenuous exercise 
+should be avoided for ten (10) days. This is to prevent bleeding 
+from your groin.
+•You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+•Do not go swimming or submerge yourself in water for five (5) 
+days after your procedure.
+•You make take a shower.
+Medications
+•Resume your normal medications and begin new medications as 
+directed.
+•It is very important to take the medication your doctor ___ 
+prescribe for you to keep your blood thin and slippery. This 
+will prevent clots from developing and sticking to the stent.
+•You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+•If you take Metformin (Glucophage) you may start it again 
+three (3) days after your procedure.
+Care of the Puncture Site
+•You will have a small bandage over the site.
+•Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+•Keep the site clean with soap and water and dry it carefully.
+•You may use a band-aid if you wish.
+
+What You ___ Experience:
+•Mild tenderness and bruising at the puncture site (groin).
+•Soreness in your arms from the intravenous lines.
+•The medication may make you bleed or bruise easily.
+•Fatigue is very normal.
+When to Call Your Doctor at ___ for:
+•Severe pain, swelling, redness or drainage from the puncture 
+site. 
+•Fever greater than 101.5 degrees Fahrenheit
+•Constipation
+•Blood in your stool or urine
+•Nausea and/or vomiting
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+•Sudden numbness or weakness in the face, arm, or leg
+•Sudden confusion or trouble speaking or understanding
+•Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+•Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

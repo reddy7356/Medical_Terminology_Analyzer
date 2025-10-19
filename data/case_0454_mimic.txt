@@ -1,0 +1,191 @@
+===== DISCHARGE NOTE =====
+note_id=16400091-DS-17 | hadm_id=23046778
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+epigastric pain
+ 
+Major Surgical or Invasive Procedure:
+___:  ___ aspiration of abdominal collection 
+
+ 
+History of Present Illness:
+___ year old female with 2 days of abd pain localizing to the 
+RLQ. nausea
+but no vomiting. no diarrhea. seen at osh and had a ct scan
+that showed appendicitis with an abscess. given zosyn.
+transferred here for eval.
+
+ 
+Past Medical History:
+Afib on Eliquis, arthritis, HLD 
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:  ___:  upon admission
+ 
+Temp: 99.2 HR: 94 BP: 109/57 Resp: 16 O(2)Sat: 98 Normal
+ 
+Constitutional: Comfortable
+HEENT: Normocephalic, atraumatic
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Tenderness to palpation in the right lower
+quadrant
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash
+Neuro: Speech fluent
+Psych: Normal mood
+
+Discharge Physical Exam:
+97.5
+PO 158 / 80
+R Sitting 81 18 98 Ra 
+ 
+Pertinent Results:
+___ 04:29AM BLOOD WBC-7.4 RBC-3.73* Hgb-10.5* Hct-34.1 
+MCV-91 MCH-28.2 MCHC-30.8* RDW-14.7 RDWSD-49.6* Plt ___
+___ 06:20AM BLOOD WBC-7.4 RBC-3.42* Hgb-9.8* Hct-31.0* 
+MCV-91 MCH-28.7 MCHC-31.6* RDW-14.6 RDWSD-48.5* Plt ___
+___ 01:40AM BLOOD WBC-11.0* RBC-3.79* Hgb-10.9* Hct-34.1 
+MCV-90 MCH-28.8 MCHC-32.0 RDW-14.8 RDWSD-49.1* Plt ___
+___ 01:40AM BLOOD Neuts-75.1* Lymphs-11.9* Monos-10.5 
+Eos-1.1 Baso-0.8 Im ___ AbsNeut-8.24* AbsLymp-1.30 
+AbsMono-1.15* AbsEos-0.12 AbsBaso-0.09*
+___ 04:29AM BLOOD Plt ___
+___ 05:45AM BLOOD ___ PTT-32.8 ___
+___ 04:29AM BLOOD Glucose-112* UreaN-10 Creat-0.8 Na-139 
+K-4.3 Cl-101 HCO3-27 AnGap-11
+___ 01:40AM BLOOD Glucose-134* UreaN-12 Creat-0.9 Na-137 
+K-4.3 Cl-103 HCO3-19* AnGap-15
+___ 04:29AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.9
+___ 01:51AM BLOOD Lactate-1.4
+
+___:  interventional ___:
+
+1. Successful CT-guided aspiration of 4 cc mucinous fluid and 
+debris of the ___ collection. 
+2. Due to the nature of the aspirate, samples were sent for both 
+pathology and microbiology and no drain was placed. 
+
+ 
+Brief Hospital Course:
+___ year old female who was admitted to the hospital with right 
+lower quadrant pain and nausea.  Upon admission, the patient was 
+made NPO, given intravenous fluids, and underwent imaging.  A 
+cat scan of the abdomen was done which showed appendicitis with 
+an abscess.  The patient was started on a course of zosyn.  She 
+underwent serial abdominal examinations and her white blood cell 
+count was monitored. 
+
+The patient was taken to interventional radiology where she 
+underwent aspiration of 4cc of mucinous material from  
+___ collection.  A drain was not left in place.  
+After the procedure, the patient resumed a regular diet.  Her 
+vital signs were stable and she was afebrile.  Her white blood 
+cell count normalized.  She was discharged home on HD #3 on a 2 
+week course of ciprofloxacin and flagyl.  Discharge instructions 
+were reviewed and questions answered.  A follow-up appointment 
+was made in the acute care clinic.  
+
+ 
+Medications on Admission:
+: Eliquis 5mg BID, Simvastatin 20mg daily, Amytriptyline 50mg 
+daily, diltiazem 120mg daily, digoxin 125mcg daily, metoprolol 
+75mg daily 
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Ciprofloxacin HCl 500 mg PO/NG Q12H 
+last dose:  ___  
+3.  Digoxin 0.125 mg PO DAILY  
+4.  Docusate Sodium 100 mg PO BID  
+5.  MetroNIDAZOLE 500 mg PO TID 
+last dose ___  
+6.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+7.  Senna 8.6 mg PO BID:PRN Constipation - Second Line  
+8.  Metoprolol Succinate XL 75 mg PO DAILY  
+9.  Apixaban 5 mg PO BID  
+10.  Diltiazem Extended-Release 120 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+perforated appendix
+
+abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with epigastric pain and 
+diarrhea.  You underwent a cat scan of the abdomen which showed 
+a perforated appendix and formation of an abscess.  You were 
+taken to interventional radiology where the fluid collection was 
+aspirated. You were started on a course of antibiotics.  Your 
+abdominal pain has decreased in severity and you have resumed a 
+regular diet.  Your vital signs have been stable and your white 
+blood cell count has normalized.  You are being discharged on a 
+2 week course of antibiotics.  Discharge instructions include:  
+
+ Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+
+* Increase in abdominal pain
+
+* Please call the clinic at (___) if you are unable to 
+complete your course of antiobiotics or if you have questions.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,285 @@
+===== DISCHARGE NOTE =====
+note_id=17645301-DS-21 | hadm_id=22835039
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+pericardial effusion
+ 
+Major Surgical or Invasive Procedure:
+right heart catheterization and pericardiocentesis
+ 
+History of Present Illness:
+___ y/o M with no significant PMHx who was transferred to ___ 
+for urgent pericardiocentesis for pericardial effusion with 
+tamponade physiology. Patient was in his usual state of health 
+until early ___ when he developed persistent low-grade 
+fevers (99.5 to 100.5). He then developed right-sided arm pain, 
+which prompted him to present to an OSH ED, where CXR showed 
+cardiomegaly. Lyme serologies and a Monospot were negative. On 
+exam, he had evidence of left-sided otitis media and was treated 
+with 10-days of Amoxicillin therapy. He then presented to his 
+PCP, who repeated CXR and found persistent cardiomegaly. Patient 
+was then referred to ___ for echo today. This revealed 
+pericardial effusion with tamponade physiology; pulsus paradoxus 
+was 10. Pt was then transferred here for urgent 
+pericardiocentesis.
+.
+In the cath lab, the patient underwent pericardial drain 
+placement, with subsequent drainage of 500 cc from pericardium. 
+BP was stable the entire time; however, patient has remained 
+persistently tachycardic to the 120's. He received 3L IVF's 
+prior to pericardiocentesis.  RHC was performed before and after 
+pericardiocentesis and reportedly did not show significant 
+change in pressures, raising concern for potential constrictive 
+physiology.
+.
+On arrival to the ICU, the patient denied any complaints. He 
+reports that, aside from his persistent fevers and right-sided 
+arm pain, he has not experienced any other symptoms.
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or pre-syncope.
+.
+ROS: The patient denies a history of prior stroke/TIA, deep 
+venous thrombosis or pulmonary embolus. He denies bleeding at 
+the time of prior procedures or surgeries. Denies headaches or 
+vision changes. No cough or upper respiratory symptoms. Denies 
+chest pain, dizziness or lightheadedness; no palpitations. 
+Denies shortness of breath. No nausea or vomiting, denies 
+abdominal pain. No dysuria or hematuria. No change in bowel 
+movements or bloody stools. Denies muscle weakness, myalgias or 
+neurologic complaints. No exertional buttock or calf pain.   
+.  
+
+ 
+Past Medical History:
+* CABG: None
+* PERCUTANEOUS CORONARY INTERVENTIONS: None
+* PACING/ICD: None
+.
+PAST MEDICAL & SURGICAL HISTORY:
+1. s/p ORIF right lateral malleolar fracture (right ankle 
+fracture, ___
+2. s/p Removal of syndesmotic screws from right ankle (___)
+ 
+Social History:
+___
+Family History:
+Denies family history of early MI, arrhythmia, cardiomyopathies, 
+or sudden cardiac death; grandmother with diabetes (died at age 
+___, uncle with diabetes.
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: Temp 99.9 BP 155/86 HR 101 RR 22 SaO2 96% on 2LNC
+GENERAL: Appears in no acute distress. Alert and interactive.
+HEENT: Normocephalic, atraumatic. EOMI. PERRL. Mucous membranes 
+moist. No xanthalesma.
+NECK: Supple without lymphadenopathy. LVP difficult to assess.
+___: PMI located in the ___ intercostal space, mid-clavicular 
+line. Regular rhythm, without murmurs or gallops. S1 and S2 
+normal. No S3 or S4. Tachycardic. Audible friction rub. 
+Hyperdynamic precordium.
+RESP: Respirations unlabored, no accessory muscle use. Clear to 
+auscultation bilaterally without adventitious sounds. No 
+wheezing, rhonchi or crackles. Stable inspiratory effort.
+ABD: soft, non-tender, non-distended, with normoactive bowel 
+sounds. No palpable masses or peritoneal signs. Abdominal aorta 
+not enlarged to palpation, no bruit.
+EXTR: no cyanosis, clubbing or edema, 2+ peripheral pulses
+DERM: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSE EXAM:
+Right: DP 2+   
+Left: DP 2+ 
+ 
+Pertinent Results:
+ADMISSION RESULTS
+
+___ 09:50AM BLOOD WBC-9.6 RBC-4.16* Hgb-12.3* Hct-36.8* 
+MCV-88 MCH-29.5 MCHC-33.4 RDW-12.7 Plt ___
+___ 09:34PM BLOOD Neuts-73.9* ___ Monos-6.9 Eos-0.9 
+Baso-0.2
+___ 09:34PM BLOOD ___ PTT-29.8 ___
+___ 09:34PM BLOOD Glucose-108* UreaN-8 Creat-0.9 Na-139 
+K-4.4 Cl-106 HCO3-28 AnGap-9
+___ 09:34PM BLOOD ALT-33 AST-19 LD(LDH)-137 AlkPhos-152* 
+TotBili-1.2
+___ 09:34PM BLOOD Albumin-3.4* Calcium-8.4 Phos-3.4 Mg-2.0
+___ 09:50AM BLOOD TSH-0.85
+___ 04:54PM BLOOD Lactate-0.8
+
+PERTINENT LABS AND STUDIES
+___ 06:00PM PERICARDIAL FLUID WBC-763* Hct,Fl-5* Polys-57* 
+Lymphs-33* ___ Macro-10*
+___ 06:00PM PERICARDIAL FLUID TotProt-5.4 Glucose-91 
+LD(LDH)-530 Amylase-24 Albumin-3.3
+___ PERICARDIAL FLUID negative for malignant cells
+___ ECHOCARDIOGRAM Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. There is a large pericardial 
+effusion, most prominent outside of the lateral and posterior 
+walls. There is right ventricular diastolic collapse, consistent 
+with impaired fillling/tamponade physiology. IMPRESSION: Large 
+pericardial effusion, most suitable for pericardiocentesis via 
+the lateral intercostal approach.  
+___ CXR  Comparison is made with prior study performed 4 
+hours earlier. There has been decrease in size in cardiac 
+silhouette, now mildly enlarged.  There is mild 
+pneumopericardium. If any, there are small bilateral pleural 
+effusions. Aside from left lower lobe atelectasis, the lungs are 
+clear. There is no pneumothorax. 
+___ CXR There are low lung volumes.  Moderate-to-severe 
+enlargement of the cardiac silhouette appears unchanged compared 
+to the prior study. The mediastinal and hilar contours are 
+within normal limits. Pulmonary vascularity is not engorged. No 
+focal consolidation, pleural effusion, or pneumothorax is 
+present. There are no acute osseous abnormalities. IMPRESSION: 
+Unchanged enlargement of the cardiac silhouette without evidence 
+of pulmonary vascular congestion. 
+___ ECHOCARDIOGRAM Regional left ventricular wall motion is 
+normal. Overall left ventricular systolic function is normal 
+(LVEF>55%). Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion. The mitral valve leaflets 
+are structurally normal. There is no mitral valve prolapse. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+a moderate sized pericardial effusion mostly located adjacent to 
+the lateral and inferior walls. There is a trivial amount of 
+pericardial fluid anterior to the right ventricle. There are no 
+echocardiographic signs of tamponade. 
+
+Compared with the prior study (images reviewed) of ___, 
+the effusion is smaller and there is no echocardiographic 
+evidence of tamponade.  
+
+PENDING STUDIES:****
+___ blood cultures x3 
+___ PERICARDIAL FLUID
+___ URINE CULTURE
+___ 06:00PM PERICARDIAL FLUID ADENOSINE DEAMINASE, 
+FLUID-PND
+___ 06:46PM PERICARDIAL FLUID MYCOPLASMA PNEUMONIAE DNA, 
+PCR-PND
+
+ 
+Brief Hospital Course:
+IMPRESSION/PLAN: ___ y/o M with no significant PMHx who was 
+transferred to ___ for urgent pericardiocentesis for 
+pericardial effusion with tamponade physiology in the setting of 
+persistent fevers. 
+
+# Pericardial Effusion - Mr. ___ was transferred to ___ from 
+an OSH to have the pericardial fluid drained.  500cc of fluid 
+was drained during the initial tap and subsequently drained an 
+additional 120cc prior to removal.  A RHC was also performed at 
+the time of pericardiocentesis which showed elevated right and 
+left filling pressures with equilization of diastolic pressures. 
+ Repeat echo after the drain was placed showed a smaller 
+effusion with no evidence of tamponade physiology.  Another echo 
+was obtained after the drain was removed showed smaller effusion 
+with no echocardiographic evidence of tamponade.  He was started 
+on ibuprofen during this admission to reduce pericardial 
+inflammation, which he will continue for 3 weeks.  The etiology 
+of the effusion remains unclear at the time of discharge.  Given 
+that he has been having persistent fevers of unknown origin as 
+well as the new pericardial effusion, an infectious etiology was 
+thought to be most likely, however we also considered thyroid 
+disease (had a normal TSH), malignancy and rheumatologic 
+disease.  ID was consulted, as discussed below.  His HIV test 
+was negative, PPD was placed and was also negative, ___ was 
+negative.  ESR and CRP were elevated at 87 and 203, 
+respectively.  The pericardial fluid had no growth and showed 1+ 
+PMNs with no organisms on gram stain, there were no AFB.  The 
+rest of his infectious work-up was unrevealing, as described 
+below.
+ 
+# Fever of unknown origin - He has had persistent fevers of 
+unknown origin for several weeks now. CXR did not show clear 
+evidence of an infectious process. He reportedly had tests for 
+Lyme and Monospot which were negative at OSH.  The fevers were 
+thought to be related to his pericardial effusion.  Infection 
+was thought to be the primary cause, with viral etiologies being 
+the most likely cause (echovirus, adenovirus, coxsackievirus, 
+parvovorus).  Numerous serologies were ordered to evaluate for 
+these infections, which were still pending at the time of 
+discharge, Lyme was tested again and was negative.  As mentioned 
+above, HIV and PPD were negative.  It is also possible that his 
+fevers are caused by malignancy or rheumatologic disease, 
+although he has no additional signs/symptoms to suggest either 
+of these diagnoses.
+
+# Tachycardia - Patient had sinus tachycardia during the first 2 
+days of admission, which was noted to be somewhat correlated 
+with when he had low grade fevers.  He remained asymptomatic 
+during these episodes.  He appeared euvoluemic.  The tachycardia 
+had resolved at the time of discharge, he was also afebrile for 
+36 hours prior to discharge.
+
+# Code status this admission - FULL CODE
+
+#Transitional issues:
+-Follow-up parvovirus, mycoplasma serologies and mcyoplasma PCR
+-Follow-up pericardial fluid viral culture
+-Will see ID after discharge regarding his ongoing fevers and 
+recent pericardial effusion
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours for 3 weeks: After 3 weeks, take as needed for pain.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+Pericardial effusion with pericardiocentesis
+Fevers of unknown origin
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you during your admission to 
+___.  You were admitted to the Cardiac Intensive Care Unit 
+because you had fluid around your heart, called a pericardial 
+effusion, which was drained. As you know, you had been having 
+fevers of unclear origin for a number of weeks which we think is 
+from the same process that caused your pericardial effusion.  
+Numerous tests are still pending and we don't have a clear cause 
+for the fevers and effusion, although the most likely cause 
+would be a virus.  At the time of discharge, your effusion was 
+smaller and there was no evidence that it wasi nterfering with 
+your heart function.  You will follow-up with the infectious 
+disease clinic after discharge.
+
+Please note the following changes to your medications:
+START ibuprofen 400mg by mouth every 8 hours for 3 weeks, then 
+as needed for pain
+
+ 
+Followup Instructions:
+___

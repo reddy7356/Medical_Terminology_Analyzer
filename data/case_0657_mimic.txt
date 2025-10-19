@@ -1,0 +1,805 @@
+===== DISCHARGE NOTE =====
+note_id=17748680-DS-11 | hadm_id=23360049
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Compazine / Amoxicillin / CT dye / alcohol wipes
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status 
+
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture (___)
+
+ 
+History of Present Illness:
+___ male with PMH significant for Crohn's disease s/p 
+colostomy on Humira, ?schizophrenia, presenting for evaluation 
+of reportedly delusional thoughts. He was brought in from the 
+___ in ___ after reportedly telling bystanders 
+about delusional thoughts regarding computers controlling his 
+brain. He states "they" are installing chips behind his eyes and 
+ear implants. "They" are causing him pain. Airplane tickets were 
+found in his belongins from ___ (dated today). The patient 
+declined to elaborate on this trip. He denies a psychiatric 
+history. He denies any illicit drug use, but admits to EtOH use 
+for the pain. He is unable to quantify EtOH use. He alludes to 
+audio hallucinations but no visual hallucinations. He denies any 
+homocidal or suicidal ideation. 
+
+In the ED, initial vitals were: 98.4 80 ___ 99%. In the 
+ED, labs were notable for lactate 2.4, WBC 23.0, Cr 2.2. Urine 
+tox was positive for opiates and benzos, serum tox positive for 
+benzos. Infectious work-up was pursued, but urinalysis, chest 
+x-ray and lumbar puncture are all negative for infectious 
+etiologies. CT head was negative for acute intracraial 
+abnormality. Pt was given diazepam, thiamine, multivitamin, and 
+folate. He was placed on ___ precautions. Psychiatry was 
+consulted, who will see the pt on the floor. 
+
+On the floor, the patient stated it was the pain in his feet 
+that brought him in. This has been going on for several months 
+now. The pain is described as "torture", and alternates between 
+both feet. He previously took a fentanyl patch for it. He 
+currently takes codeine. He also notes increased watery stool 
+output from his colostomy. He is unable to say how long this has 
+been going on for. He denies any fever, chills, URI symptoms, 
+shortness of breath, abdominal pain, rash, and joint pain. Later 
+on in conversation the patient brings up the topic of "brain 
+hacking", and again elaborating that "they" are planting chips 
+into his brain. He sometimes feels scared because of this. 
+
+He was last seen by his PCP, ___ in ___. There was no 
+documentation of a psychiatric at that time. Patient provided 
+the number to a friend he met from work, ___ (___). 
+This is the number to the ___ and ___ no longer works there. 
+
+Spoke briefly with sister, ___. Patient with known pschiatric 
+disorder which started when he had surgery for Crohn's disease. 
+Patient believes that during the surgery, implants were placed 
+in his ear. The patient is on risperidone and another IV 
+psychiatric medication. She provided the number to the patient's 
+social worker, ___ (___).
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills. Denies headache, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest 
+pain. Denies nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No dysuria. Denies arthralgias or myalgias. No 
+rash.
+
+ 
+Past Medical History:
+Crohn's disease s/p colostomy
+Joint pain
+Pre-diabetes
+Renal insufficiency (baseline Cr 1.31-1.47)
+Psychotic disorder NOS
+ 
+Social History:
+___
+Family History:
+Patient unsure about family history.
+
+ 
+Physical Exam:
+ON ADMISSION:
+======================================
+Vitals: T98.4 BP112/73 P80 RR16 99%RA  
+General: Alert and oriented x 2.5 (states its ___ instead 
+of ___, able to answer months of the year backwards up to 
+___. Slightly discheveled. Appears sunburned. 
+HEENT: + Scleral icterus. Moist mucous membranes. Oropharynx 
+without erythema or exudates.
+Neck: Supple, no lymphadenopathy.
+CV: Regular rate and rhythm, normal S1, S2. No murmurs. 
+Lungs: Clear to auscultation bilaterally. No crackles, wheezes, 
+or rhonchi.
+Abdomen: Hyperactive bowel sounds. Distended, soft, nontender to 
+palpation. Colostomy bag located ih LLQ with watery brown 
+output. Surrounding area without erythema or edema. 
+Ext: Warm and well perfused. Pulses 2+. No peripheral edema.
+Neuro: CN II-XII grossly intact. Resting tremor noted in in 
+hands bilaterally. Finger to nose normal. Motor and sensory 
+grossly intact. 
+Skin: Sunburned in face and neck. No obvious rash or bruising.
+
+ON DISCHARGE:
+=======================================
+Vitals: T97.5 BP103/67 P55 RR18 98%RA
+General: Alert and oriented. Calm, cooperative, no acute 
+distress. 
+HEENT: No scleral icterus. Moist mucous membranes.
+Neck: Supple, no lymphadenopathy.
+CV: Regular rate and rhythm, normal S1, S2. No murmurs. 
+Lungs: Clear to auscultation bilaterally. No crackles, wheezes, 
+or rhonchi.
+Abdomen: Normoactive bowel sounds. Distended, soft, nontender to 
+palpation. Colostomy bag located ih LLQ with watery brown 
+output. Surrounding area without erythema or edema. 
+Ext: Warm and well perfused. Pulses 2+. No peripheral edema.
+Skin: Sunburned in face and neck, no pealing. Erythematous 
+papules scatterred over forearms bilaterally. Back and chest 
+erythematous, but appears more like sunburn. No peeling. No rash 
+on abdomen and legs. 
+ 
+Pertinent Results:
+ON ADMISSION:
+=================================
+___ 02:04AM BLOOD WBC-23.0* RBC-4.91 Hgb-14.3 Hct-43.7 
+MCV-89 MCH-29.2 MCHC-32.8 RDW-13.4 Plt ___
+___ 02:04AM BLOOD Neuts-76.2* Lymphs-15.6* Monos-5.5 
+Eos-1.8 Baso-0.9
+___ 02:04AM BLOOD Glucose-101* UreaN-23* Creat-2.2* Na-138 
+K-3.5 Cl-94* HCO3-23 AnGap-25*
+___ 02:04AM BLOOD ALT-39 AST-32 AlkPhos-144* TotBili-2.9* 
+DirBili-0.5* IndBili-2.4
+
+ON DISCHARGE:
+=================================
+___ 07:45AM BLOOD WBC-8.7 RBC-4.35* Hgb-12.5* Hct-40.0 
+MCV-92 MCH-28.7 MCHC-31.2 RDW-13.4 Plt ___
+___ 07:45AM BLOOD Glucose-98 UreaN-17 Creat-1.2 Na-138 
+K-4.0 Cl-105 HCO3-21* AnGap-16
+___ 07:45AM BLOOD ALT-24 AST-29 AlkPhos-113 TotBili-1.6*
+
+TOXICOLOGY:
+=================================
+___ 02:04AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-POS Barbitr-NEG Tricycl-NEG
+___ 07:43AM URINE bnzodzp-POS barbitr-NEG opiates-POS 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+MISCELLANEOUS LABS:
+==================================
+___ 08:30AM BLOOD VitB12-228* Folate-7.9
+___ 08:30AM BLOOD TSH-1.4
+
+URINE:
+==================================
+___ 07:43AM URINE Color-Yellow Appear-Clear Sp ___
+___ 07:43AM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 07:43AM URINE RBC-2 WBC-2 Bacteri-NONE Yeast-NONE Epi-0 
+TransE-<1
+___ 07:43AM URINE CastHy-23*
+___ 07:43AM URINE Mucous-FEW
+___ 07:43AM URINE Hours-RANDOM UreaN-1118 Creat-476 Na-LESS 
+THAN  K-92 Cl-27
+___ 07:43AM URINE Osmolal-715
+
+CSF:
+==================================
+___ 06:50AM CEREBROSPINAL FLUID (CSF) WBC-0 RBC-2* Polys-0 
+___ ___ 06:50AM CEREBROSPINAL FLUID (CSF) TotProt-43 Glucose-68
+
+MICROBIOLOGY:
+==================================
+RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+___ 07:45AM BLOOD HIV Ab-NEGATIVE
+
+**FINAL REPORT ___
+   MICROSPORIDIA STAIN (Final ___:    NO MICROSPORIDIUM 
+SEEN. 
+
+   CYCLOSPORA STAIN (Final ___:    NO CYCLOSPORA SEEN. 
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      NO E.COLI 0157:H7 FOUND. 
+
+   Cryptosporidium/Giardia (DFA) (Final ___: 
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+STUDIES:
+==================================
+CXR (___)
+No acute cardiopulmonary abnormality.
+
+CT HEAD W/O CONTRAST (___)
+Normal appearance of the brain. Nasal septal defect. 
+
+RUQ US (___)
+1. 1.3 cm left upper pole renal calculus with extension to the 
+capsule. Findings are suggestive of renal scarring and volume 
+loss. No evidence of associated hydronephrosis. 
+2. Otherwise, unremarkable abdominal ultrasound. 
+  
+ 
+Brief Hospital Course:
+___ with PMH significant for Crohn's disease, psychotic 
+disorder NOS, presents for altered mental status. Admitted to 
+medicine for workup of leukocytosis.
+ 
+# Psychosis:
+Patient carries a diagnosis of psychotic disorder NOS. His 
+current delusions of "brain hacking" are consistent with his 
+previous delusions. Upon speaking with his social worker and 
+clinical nurse, the patient has been decompensating for quite 
+some time. He was hospitalized in a psychiatric ward ___ months 
+ago. The etiology of his decompensation may be secondary to 
+narcotics abuse and medication noncompliance. Patient has 
+admitted to buying narcotics online. Patient was prescribed 
+risperdal consta 25mg as an outpatient, but failed to show up to 
+his appointments. Given leukocytosis on admission, medical 
+causes of psychosis were ruled out. This included negative 
+blood, stool, and CSF cultures. Urinalysis was not concerning 
+for infection. CT head and chest x-ray also did not reveal any 
+abnormalities. Vitamin B12 was found slightly decreased. TSH, 
+RPR, and HIV were negative. The patient was evaluated by 
+psychiatry and met ___ criteria. He declined abilify on 
+the medical floor. He will be discharged to inpatient 
+psychiatry. The patient remained calm and cooperative during his 
+hospitalization.
+
+# Hyperbilirubinemia:
+As evidenced by scleral icterus on admission. Tbili 2.9 on 
+admission, direct 0.5, indirect 2.4. His RUQ did not reveal any 
+signs of obstruction. Hemolysis workup was negative. His 
+nutritional status is unclear and it is possible the patient may 
+have ___ disease. His bilirubin downtrended during his 
+hospitalization.
+
+# Leukocytosis:
+Noted on admission labs. Patient without localizing infectious 
+symptoms except for increased stool output. He otherwise 
+appeared well and vital signs were reassuring. Blood, stool, and 
+CSF cultures are negative to date. Urinalysis was not concerning 
+for infection. His WBC trended down to the normal range on day 2 
+of hospitalization with fluid administration. It is likely that 
+he was volume depleted.
+
+# Contact dermatitis:
+Pt developed an erythematous maculopapular rash on the volar 
+surfaces of both arms, thought likely secondary to alcohol-based 
+swabs used to clean the areas prior to lab draws and peripheral 
+IV placement. The only new medication that was started here was 
+vitamin B12 supplementation, so this was stopped. However, pt is 
+vitamin B12 deficient, and so would recommend re-starting this 
+as soon as his rash resolves and watch for recurrence. If no 
+recurrence, would continue supplementation.
+ 
+# Acute kidney injury:
+Cr increased to 2.2, baseline Cr 1.47 (in ___. Etiology 
+likely pre-renal given increased stool output and poor 
+nutrition, further supported by hemoconcentration. His urine 
+electrolytes and osmolality were also consistent with 
+dehydration. His Cr trended below baseline with IVF. 
+
+# Crohn's disease:
+Patient with increased stool output, but with negative stool 
+cultures. He otherwise did not complain of any other symptoms. 
+The patient self-administers Humira every ___. 
+Unfortunately, our pharmacy does not have this in stock, 
+therefore he missed his dose on ___. 
+
+TRANSITIONAL ISSUES:
+* Patient takes Humira every ___ for Crohn's disease. Per 
+medication nurse, patient has been compliant. Our pharmacy does 
+not stock Humira, therefore, he did not receive his dose on 
+___.
+* Avoid narcotics given history of narcotics addiction.
+* Contact information:
+     - Psychiatrist: ___ (t) ___
+     - Social worker: ___ (c) ___
+     - Clinical nurse: ___) ___
+     - ___, sister and HCP: ___
+* Please consider re-starting vitamin B12 supplementation.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Codeine Sulfate 30 mg PO Q4H:PRN diarrhea 
+2. Diphenoxylate-Atropine 1 TAB PO Q3HPRN diarrhea 
+3. Humira (adalimumab) 40 mg/0.8 mL subcutaneous Qweek 
+4. nystatin 100,000 unit/gram topical    
+5. Zolpidem Tartrate 10 mg PO HS:PRN insomnia 
+6. Diazepam 5 mg PO Q8H:PRN anxiety 
+7. RISperidone Long Acting Injection 25 mg IM Q2WEEKS 
+
+ 
+Discharge Medications:
+1. Diphenoxylate-Atropine 1 TAB PO Q3HPRN diarrhea 
+2. Humira (adalimumab) 40 mg/0.8 mL subcutaneous Qweek 
+3. nystatin 100,000 unit/gram topical    
+4. DiphenhydrAMINE 25 mg PO Q6H:PRN itch 
+5. Sarna Lotion 1 Appl TP QID:PRN itch 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Acute kidney injury
+Psychotic disorder, NOS
+SECONDARY DIANOSIS:
+Vitamin B deficiency
+Crohn's disease
+Hyperbilirubinemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___. As you may recall, you were admitted because of 
+generalized pain. Your labs revealed a high white count and some 
+abnormal liver tests. We ran some tests and imaging studies, 
+which were all normal. Your abnormal lab values resolved with IV 
+fluids.
+
+The psychiatrists saw you and believe you will benefit from 
+inpatient psychiatric care.
+
+We are glad you are feeling better and we wish you the best. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17748680-DS-12 | hadm_id=27741228
+
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: PSYCHIATRY
+ 
+Allergies: 
+Compazine / Amoxicillin / CT dye / alcohol wipes
+ 
+Attending: ___
+ 
+Chief Complaint:
+psychosis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ hx of inflammatory bowel disease s/p several surgeries
+including a colostomy presented via EMS to the ___ with AMS.
+Primary ED team indicates that he was brought from the ___ in
+___. Airplane tickets from ___ were found with his
+belongings. Psychiatry is consulted given concern for delusional
+thinking.
+
+Mr. ___ conveys the hpi in a markedly vague manner. Initially 
+it
+is unclear to what extent he is intentionally unwilling/guarded
+about his social and medical history or just genuinely unable to
+recall details about his life. He explains that he called the
+ambulance because he was suffering from severe radiating pain
+moving throughout his entire body. When asked where he called
+from, where he lives and so on, he continually responded by
+saying "I'd rather not say." He does convey that he has been
+traveling through several ___, namely ___ and ___. He will not elaborate about the 
+purpose
+or details of the trip. He is willing to to discuss some of his
+medical issues--i.e the colostomy--but will not say much about
+when the surgery took place, who his doctors are ___. He
+indicates that he has some doctors at ___ and ___ doctors in
+___.
+
+As he becomes more comfortable he starts to explain that 
+variouss
+"entities" have implanted micro chips in his brain that 
+stimulate
+the hippocampus. These micro chips have the ability to cause
+excruciating bodily pain, as they were before he came to the ED.
+He implies that the "entities" can also effect other outcomes
+with these chips. He will not confirm whether his recent travel
+in the ___ is related to chips in his brain. He conveys
+that he has been struggling with these "entities" for some 
+number
+of years now and does indicate that it upsetting and burdensome.
+He elaborates that the entities have an association with the ___ which he refers to as the "GIs." 
+
+Mr. ___ does not provide any collateral contacts. He does
+indicate that he has family in the area but that they will not 
+be
+helpful. He explains that their "level of intelligence" is an
+issue, as they may not understand his experience. He also
+explains that it is better for them to stay out of the whole
+matter for their safety.
+
+Psych ROS as above. Exam is somewhat limited by what the patient
+is willing to share. He does not appear internally stimulated.
+Does not volunteer suicidal thoughts or violent thoughts. 
+
+ 
+Past Medical History:
+Past medical history:Per Dr. ___ notes from ___ ___s Medical Discharge Summary from 
+___.
+Confirmed with patient.
+-PCP: Dr. ___
+- GI:Dr. ___ in ___ diseas s/p colostomy and multpl surgeries
+-Joint pain
+-pre-diabetes
+-Renal insuficiency (baseline Cr 1.31-1.47) 
+-Patient was hit by a car ___ yr ago and has require a great deal
+of medical care since then
+
+Past psychiatric history: Per Dr. ___ notes from
+___ ___s Medical Discharge Summary
+from ___. Patient declined to confirm. 
+ "
+Per his psychiatrist Dr. ___ ___:
+- She first started treated Mr. ___ after he was discharged 
+from
+a ___ Hospital where he was admitted for a number of months 
+for
+delusions (similar to current). He was stable on rispderdal
+consta 25 mg q2 weeks for a long time but ultimately started
+gaining weight and self DCed. He hasn't been willing to take any
+PO anti-psychotics. He remained without sxs of psychosis for a
+long time. At that well baseline, she explains that it would not
+be evident that he has a thought disorder. He has been more
+symptomatic in the last 4 months and not very compliant with
+appointment. He does have one scheduled on ___. She has never
+known him to violent or aggressive. 
+- Staff from his ___ supported living described his as more
+isolative, quiet, reserved, keeps to himself when he is not 
+using
+any substances
+- His psychiatrist has some question about whether Mr. ___ has
+paranoid concerns about the sources of his meds, which is why he
+may be obtaining pain medications. His pattern of use is not
+entirely consistent with addiction which is why Dr. ___ whether it is informed by his psychosis.
+
+Contact numbers: 
+sister ___: ___
+Pt's social worker ___ ___
+"
+
+ 
+Social History:
+He states that
+he is close with family and friends. He went to college, where
+she studied political science and neuroscience and says he
+enjoyed both. He declines to give a work history. The following
+information was obtained from the pt's sister:
+
+Pt did not complete college but came close, finishing ___ 
+years
+at ___. He tried to go back in his late ___ but was
+not able to perform the coursework. Pt got married in his early
+___ to a ___, and the pt ran a ___ business 
+for
+several years. He had trouble keeping it organized and 
+eventually
+had to stop the business. His wife encouraged him to finish
+school, but he was not able to and stopped working. He and his
+wife divorced about ___ years ago, and he has been doing worse
+since then. At his worst, he spent one year in ___ after he became depressed and suicidal; this was ___
+years ago (___). He now lives in supported housing with a
+comprehensive outpatient team.
+
+Personal and Social History: Per Dr. ___ notes from
+___ ___s Medical Discharge Summary
+from ___. Patient declined to confirm. 
+"
+- Patient is a resident of a ___ funded high intensity supported
+apartment complex called "___" in ___. Residents have shared apartments that are supported by ___
+staff, nursing staff, medication management. Mr. ___ does have
+his own vehicle and can come and go as he pleases. 
+- Mr. ___ is his own repayee. Income includes SSI, SSDI
+- His family is in state. They have not been in touch with him
+inover a month. Sister ___: ___
+"
+
+Per patient (validity is unclear)
+B/R in the ___ area.  Currently lives in ___ area but
+declines to be more specific.   Reports 2 residences but will 
+not
+revealmore detail. Reports that he completed a college degree 
+and
+is "well educated". Lists a number of subjects he studied in
+school including political science, business, neuroscience. 
+
+Patient reporting recent trips through a number of ___ in 
+the
+___ including ___, ___ and ___. Will not
+elaborate on purpose of the travel.
+
+ 
+Family History:
+Patient unsure about family history.
+
+ 
+Physical Exam:
+Admission Physical Examination:
+VS:  BP: 122/84  HR:87   temp: 98.6   resp:18  O2 sat:99%  
+height: 5'7"  weight:168lbs
+Gen: NAD, rosey hue to skin
+HEENT: Sclera anicteric. Oropharynx benign. Mucous membranes
+moist. 
+Neck: Supple. No LAD. No masses or goiter. Trachea midline.
+Cor: RRR, no murmur
+Chest: CTAB. 
+Abdomen: Soft, NTND, +BS. 
+Back: No spinous process tenderness. band-aid over lower lumbar
+spine
+Ext: Warm, no edema.
+
+Neuro:
+CN:
+II: Visual fields full to confrontation. Pupils equally round &
+reactive to light. No relative afferent pupillary defect. 
+III,IV,VI EOMI w/o nystagmus (or diplopia). No ptosis.
+V: Sensation intact to light touch. 
+VII: Face symmetric without weakness.
+VIII: Hears finger rub equally and bilaterally.
+IX,X: Voice normal. Palate elevates symmetrically.
+XI: SCM and trapezii full.
+XII: Tongue protrudes midline.
+Motor:  Normal bulk and tone, no tremor, or bradykinesia. Full
+strength in bilateral deltoids, elbow flexion and extension,
+finger flexion, hip flexors, knee flexion and extension, ankle
+dorsi- and plantarflexion.
+Coord: Heel-to-shin, and finger-to-nose-finger movements intact.
+No truncal ataxia.
+Reflex:  Normal and symmetric  
+___:   Equal and intact to light touch
+Gait:     Posture, stride, and arm-swing normal. 
+
+Neuropsychiatric Examination:
+  *Appearance: appears older than stated age, thin body, 
+unshaved
+beard, toothy grin, wearing hospital gown.  Watch and driver's
+lisence in hand. tip of nose red 
+  Behavior: no signs of psychomotor agitation/retardation. 
+Appropriate eye contact, smiles and laughs frequently at jokes 
+he
+makes. Friendly, conversational
+  *Mood and Affect: "not bad", guarded, full range, euthymic
+  *Thought process : goal directed, concrete, tangential at 
+times
+  *Thought Content : Denies any SI/HI/VH. +hearing people's
+thoughts due to a chip in his ear. + paranoia of "brain hacking"
+  *Judgment and Insight: poor/poor
+
+Cognition:
+-Orientation: Full (Name, Place and Time/Date).
+-Attention: Spells WORLD backwards correctly and performs serial
+7's correctly. Can follow 2 part commands
+-Memory: ___ at 5 minutes.
+-Fund of knowledge: can state the last 3 presidents
+-Calculations: 7Q states at $1.50, on reattempt $1.25
+-Abstraction: Proverb "people in glass houses shouldn't throw
+stones": correct 
+-Speech: Normal volume, rate, prosody, cadence, intonation. Pt 
+is
+redirectable/interruptible
+-Language: Native ___ speaker
+
+DISCHARG PHYSICAL EXAM:
+Exam: 97.5, 105/72, 90, 16, 97% on RA
+Neurological: *station and gait: wnl, cranial nerves: grossly
+intact, abnormal movements: none
+*Appearance: ___ y/o tan Caucasian M who appears stated age
+dressed in polo shirt, pants and sneakers, fair hygeine and
+grooming,  appropriate eye contact 
+Behavior: Cooperative, describes current condition exitedly,
+makes appropriate jokes, occasionally laughs innapropriately
+*Speech: Normal volume and rate
+*Mood and Affect: "fine" euthymic
+*Thought process: relatively linear and organized
+*Thought Content: Paranoid and psychotic content re: brain chip,
+denies SI/HI/AVH
+*Judgment and Insight: limited, limited
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 07:45AM BLOOD WBC-8.7 RBC-4.35* Hgb-12.5* Hct-40.0 
+MCV-92 MCH-28.7 MCHC-31.2 RDW-13.4 Plt ___
+___ 07:45AM BLOOD ALT-24 AST-29 AlkPhos-113 TotBili-1.6*
+___ 07:45AM BLOOD VitB12-284 Folate-9.6
+___ 07:45AM BLOOD HIV Ab-NEGATIVE
+
+DISCHARGE LABS:
+
+None performed as he was medically stable at the time of 
+discharge.
+
+ 
+Brief Hospital Course:
+1.Legal: ___
+2.Medical: Crohn's dz
+During his admission he had some difficulty with the colostomy 
+supplies that were available.  By the day of discharge he had 
+his sister send him some of his home supplies and he was much 
+happier.  We continued his Humira while he was in the hospital.  
+ 
+
+Patient’s GI doctor, ___ was contacted at time of 
+admission in order to discuss circumstances of patient’s 
+hospitalization and to obtain relevant history.  The patient has 
+an appointment with his GI doctor 
+two days after discharge.
+
+3.Psychiatric
+
+Extensive time was spent discussing the patient’s diagnosis and 
+psychopharmacology issues.  His feelings of pain being caused by 
+the people controlling his "chip" were improved by the time of 
+discharge.
+
+Abilify was started to treat psychosis.  B/R/AE/SE including but 
+not limited to mild weight gain were discussed. This medication 
+was well-tolerated. In addition, Latuda was also started and 
+B/R/AE/SE were discussed. This medication was also 
+well-tolerated. 
+
+Collateral Information: our social worker spoke with the 
+patient's sister (who is also his HCP) to help obtain collateral 
+information.
+
+Patient’s outpatient Psychiatrist Dr. ___ was contacted 
+at time of admission in order to discuss circumstances of 
+patient’s hospitalization and to obtain relevant history.
+
+At time of discharge, pt’s outpatient Psychiatrist was contacted 
+again to discuss hospital course and discharge disposition.
+
+4.Substance Abuse: some question of if the patient was abusing 
+opiates at home versus he was paranoid about the source of his 
+medications so would purchase opiates (illegally) so as not to 
+stay with any one source. 
+
+-Medical and Psychiatric complications of substance abuse and 
+addiction were discussed at length
+
+5.Social/Milieu:
+
+Pt  was encouraged to participate in unit’s 
+groups/milieu/therapy opportunities.  
+Usage of coping skills and mindfulness/relaxation methods were 
+encouraged.
+Therapy addressed family/social/work/housing issues.  
+
+Patient and family were involved in family meeting focused on 
+psychoeducation and discharge planning.
+
+6.Risk Assessment: 
+Will note that while patient represents a chronic risk of 
+impulsive and potentially dangerous behaviors (e.g. self-injury 
+or assault) given multiple risk factors (including history of a 
+chronic major mental illness and possible substance abuse) that 
+patient is currently in good behavioral control, sober, and 
+future oriented, and connected with outpt treatment (sp. 
+medication compliant and connected w/ outpt treaters) and 
+therefore not at any significant elevated acute risk at this 
+time to warrant inpatient hospitalization.
+
+7.Disposition: 
+
+Return to group home in ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diphenoxylate-Atropine 1 TAB PO Q3H:PRN diarrhea 
+2. adalimumab 40 mg/0.8 mL subcutaneous ___ 
+3. Nystatin Ointment 1 Appl TP QID:PRN skin irritation 
+4. DiphenhydrAMINE 25 mg PO Q6H:PRN itch 
+5. Sarna Lotion 1 Appl TP QID:PRN itch 
+
+ 
+Discharge Medications:
+1. adalimumab 40 mg/0.8 mL subcutaneous ___ 
+2. DiphenhydrAMINE 25 mg PO Q6H:PRN itch 
+3. Diphenoxylate-Atropine 1 TAB PO Q3H:PRN diarrhea 
+4. Nystatin Ointment 1 Appl TP QID:PRN skin irritation 
+5. Sarna Lotion 1 Appl TP QID:PRN itch 
+6. Aripiprazole 20 mg PO QPM 
+RX *aripiprazole [Abilify] 20 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*1
+7. Latuda (lurasidone) 40 mg oral QPm 
+RX *lurasidone [Latuda] 40 mg 1 tablet(s) by mouth QPM Disp #*30 
+Tablet Refills:*1
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Schizophrenia versus Schizoaffective Disorder
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+During your admission at ___, you were diagnosed with 
+schizophrenia versus schizoaffective disorder and treatment 
+included medication with Abilify and Latuda.
+
+Please follow up with all outpatient appointments as listed.
+
+Please continue all medications as directed.  Your prescriptions 
+are waiting for you at ___ in ___.  Their 
+phone number is ___.  Their address is ___, 
+___
+
+Please avoid abusing alcohol and any drugs--whether prescription 
+drugs or illegal drugs--as this can further worsen your medical 
+and psychiatric illnesses.
+
+Please contact your outpatient psychiatrist or other providers 
+if you have any concerns.
+
+Please call ___ or go to your nearest emergency room if you feel 
+unsafe in any way and are unable to immediately reach your 
+health care providers.
+
+It was a pleasure to have worked with you and we wish you the 
+best of health.
+
+If you need to talk to a ___ Staff Member regarding issues of 
+your hospitalization, please call ___
+
+ 
+Followup Instructions:
+___

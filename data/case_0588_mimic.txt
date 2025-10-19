@@ -1,0 +1,350 @@
+===== DISCHARGE NOTE =====
+note_id=14611259-DS-18 | hadm_id=26834191
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Shellfish / Augmentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain and palpatations
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___
+ICD Placement ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with h/o Rt breast cancer ___ pT2N1a, 
+low ER+, PR-, HER2+, s/p C3 of TDM1/pertuzumab, Rt total 
+mastectomy and axillary LN dissection in ___, now on C1 CMF) 
+who p/w prog intermittent episodes of diaphoresis, palpitations, 
+chest pressure to ___, found to be in ___, transferred to 
+___ for further w/u
+
+Pt states that for last few months-years, has had occasional e/o 
+chest pressure, diaphoresis, palp, neuro Sx. These have gotten 
+worse over last few months. No radiation to the back, no tearing 
+quality to the pain. Short lasting, self-resolve. No associated 
+pre-syncope or syncope, though feels LH/dizzy when occur. No 
+PMHx/FMHx of cardiac Dz/arrythmia. Sx increasingly progressed 
+over last few days, came to ___. On initial eval there, 
+EKG was w/o ischemic changes, Mg 1.7, but other lytes wnl, trop 
+neg. Was given ASA 243mg. However, she was noted to have 
+multiple e/o PMVT and frequent PVCs on tele. Had elevated 
+D-dimer, CT-A chest neg for PE. She was started on amiodarone 
+gtt and transferred to ___ for further evaluation. 
+ 
+In the ED initial vitals were: T98.1 85 114/70 18 97% RA  
+ EKG: NSR 77 BPM, normal axis, normal PR and QRS intervals, QTC 
+462 msec, no evidence of bypass tract, no significant ST/TW 
+changes suggestive of ischemia 
+ Labs/studies notable for: 5.6 > 11.0 < 226, Na 141, Cr 0.8  
+ POCUS w/no tamponade and adequate global squeeze
+ Patient was given: ___ gtt, IV Protonix 40mg  
+ Vitals on transfer: afebrile, 95, 133/65, 17, 95% RA 
+ 
+On the floor, pt states her diaphoresis, LH/dizziness, cp, SOB 
+episodes previously were lasting only a few seconds, now last 
+___ sec. Also a/w frequent paresthesias. Has never had 
+LOC/falls, though sig pre-syncope that resolves. In the last 3d, 
+has had ___ episodes/day, previously only was having 1x/few wks 
+at most. Chest pressure with palpitations, non-radiating. No N/V 
+with episodes, though occurring with chemo regimen. Had a mild 
+episode at ___ that correlated with changes on tele per 
+patient.
+
+Per pt, has calcifications. Has had 3x stress tests, reportedly 
+all neg and 2x holter monitors, last ___ yrs, reportedly neg, all 
+done with Dr ___. No hx of cath. Pt is concerned that episodes 
+have worsened since starting chemo, is unsure if should resume 
+chemo treatments q3wks (still has 4x remaining).
+ 
++diarrhea/vomiting x3d last week, had to get IVF at ___, with 
+brief improvement. has taken 2x Zofran over last week. Now 
+constipated. +dry cough with episodes. No dysuria. +chronic 
+SOB/DOE. Denies GIB. 
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS     
+ + Dyslipidemia (previously intolerant of Crestor) 
+2. CARDIAC HISTORY  
+ - CABG: None  
+ - PERCUTANEOUS CORONARY INTERVENTIONS: None  
+ - PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY 
+-ARTHRITIS LEFT KNEE   
+-ASTHMA   
+-GASTROESOPHAGEAL REFLUX   
+-FATTY LIVER   
+-BREAST CANCER 
+ 
+Social History:
+___
+Family History:
+Mother: ___, DVT
+Father: ___
+Brother: DVT
+Sister: ___ Cancer, DVT
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITALS: 97.6 PO 131 / 84 L Sitting 85 18 98 RA  
+GENERAL: NAD. Pleasant, mild depressed mood
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. 
+NECK: Supple, no JVD  
+CARDIAC: RRR, normal S1, S2. II/VI RUSB and Apical, 
+non-radiating
+LUNGS: CTABL. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No rebound/guarding
+EXTREMITIES: Trace ___ edema b/l, non-pitting. Mild swelling on 
+Lt UE by infiltrated PIV
+SKIN: No rashes observed  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE EXAM
+==============
+___ 0735 Temp: 98.6 PO BP: 105/65 R Lying HR: 80 RR: 18 O2
+sat: 94% O2 delivery: RA 
+GENERAL: NAD. Pleasant, mild depressed mood
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. 
+NECK: Supple, no JVD  
+CARDIAC: RRR, normal S1, S2. II/VI RUSB and Apical, 
+non-radiating
+ICD incision site c/d/I. 
+LUNGS: CTABL. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No rebound/guarding
+EXTREMITIES: Trace ___ edema b/l, non-pitting
+SKIN: No rashes observed  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+ADMISSION LABS
+=============
+___ 05:00AM BLOOD WBC-5.6 RBC-3.87* Hgb-11.0* Hct-33.5* 
+MCV-87 MCH-28.4 MCHC-32.8 RDW-14.5 RDWSD-44.9 Plt ___
+___ 05:00AM BLOOD Glucose-107* UreaN-14 Creat-0.8 Na-141 
+K-4.6 Cl-105 HCO3-26 AnGap-10
+___ 05:00AM BLOOD Calcium-9.2 Phos-2.9 Mg-2.0
+
+RELEVANT IMAGING
+===============
+KG: NSR 77 BPM, normal axis, QTC 453, no sig ST changes from
+prior
+
+TTE ___
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. The estimated right atrial pressure
+is ___ mmHg. Left ventricular wall thicknesses and cavity size
+are normal. Regional left ventricular wall motion is normal. 
+Left
+ventricular systolic function is hyperdynamic (EF>75%). The
+estimated cardiac index is high (4.0L/min/m2). Right ventricular
+chamber size and free wall motion are normal. The diameters of
+aorta at the sinus, ascending and arch levels are normal. The
+aortic valve leaflets (3) are mildly thickened. There is no
+valvular aortic stenosis. The increased transaortic velocity is
+likely related to high cardiac output. No aortic regurgitation 
+is
+seen. The mitral valve leaflets are mildly thickened. There is 
+no
+mitral valve prolapse. Trivial mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension. There is 
+no
+pericardial effusion. 
+IMPRESSION: Hyperdynamic left ventricular systolic function. No
+pathologic valvular flow.  
+
+CXR ___
+Conclusion: Cardiomegaly. Right mastectomy and axillary surgical
+staples. Otherwise Normal AP view of the chest.  No active/acute
+chest disease.
+
+CT-A Chest ___
+Conclusion:
+1. No evidence of pulmonary emboli. Cardiomegaly, Question
+minimal CHF, as noted. Possibly an element of air trapping.
+2. Single indeterminate right medial base subpleural opacity.
+Also a tiny 2 mm RML subpleural nodule. Consider short-term
+follow-up in 6 months, alternatively compare with any available
+priors. 
+3. Right mastectomy. Other incidental findings as noted.
+
+TTE ___ (DFCI)
+The LV cavity size and wall thickness are normal. LV Sys fxn is
+normal. There are no segmental Lt ventricular wall motion
+abnormalities notes. The estimated EF is 65%. The estimated RV
+sys pressure is 21mmHg assuming a RA pressure of 5. Compared to
+prior study of ___, no important changes
+
+cMRI ___
+Asymmetric septal left ventricular hypertrophy with
+small cavity and hyperdynamic systolic function. There is
+evidence of systolic anterior movement of anterior mitral 
+leaflet
+and LVOT gradient at rest. Normal right ventricular cavity size
+and free wall motion. Allowing for poor quality of post contrast
+sequences, there is no definite late gadolinium enhancement. The
+CMR findings are suggestive of hypertensive hypertrophic
+cardiomyopathy of the elderly.
+
+DISCHARGE LABS
+=============
+
+___ 06:35AM BLOOD WBC-3.4* RBC-3.80* Hgb-10.7* Hct-33.2* 
+MCV-87 MCH-28.2 MCHC-32.2 RDW-15.5 RDWSD-48.9* Plt ___
+___ 06:35AM BLOOD Glucose-124* UreaN-15 Creat-0.9 Na-137 
+K-4.7 Cl-102 HCO3-22 AnGap-13
+___ 06:35AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.5
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with h/o Rt breast cancer ___, s/p C3 of 
+TDM1/pertuzumab, Rt total mastectomy & axillary LN dissection in 
+___, now on C1 CMF) who p/w prog intermittent episodes of 
+diaphoresis, palpitations, chest pressure to ___, found to 
+have PMVT, transferred to ___ for further w/u, mild CAD 
+detected on Lt heart cath, cMRI suggestive of hypertrophic 
+cardiomyopathy, s/p EP evaluation w/ICD placement
+
+-CORONARIES: LAD, LCX mild disease
+-PUMP: LVEF 75% 
+-RHYTHM: NSR + PMVT on ___ tele
+
+# Polymorphic VT:
+Pt with diff to describe episodes w/increasing frequency at 
+home, found to have recurrent PMVT at ___, including 
+during episode, started on amio gtt and transferred to ___. 
+Episodes had been ongoing for many months, though worsening in 
+recent days prior to admission. Trigger for PMVT is broad DDx, 
+including initiation of recent chemo, past TDM1/Pertuzumab 
+administration, lytes abnormality from chemo-related GI Sx, 
+Zofran use. On arrival here, pt continued to have several very 
+short episodes of PMVT induced by PVCs. Started on PO Dilt for 
+potential coronary vasospasm & amio gtt DC'd. Ischemic workup 
+neg via LHC, showed mild LCx/LAD Dz. TTE showed mild resting 
+LVOT + ___ of MV leaflets, mild symmetric LVH, hyperdynamic 
+LVEF. Cardiac MRI showing signs of hypertrophic cardiomyopathy, 
+w/o scar. After much discussion, EP recommended iCD placement in 
+setting of cMRI findings and recurrent PMVT. Was also restarted 
+on PO Amiodarone, started on 400 TID w/plan for taper as outpt.
+
+# Normocytic anemia(stable): Recent baseline Hb 12.5-13.5, admit 
+Hb of 11.0, stable over admission, likely ___ recent chemo
+
+CHRONIC ISSUES
+==============
+# Breast Cancer: Follows at ___ w/Dr ___ in ___, 
+pT2N1a, low ER+, PR-, HER2+, s/p C3 of TDM1/pertuzumab w/poor 
+response, went for Rt total mastectomy and axillary LN 
+dissection
+in ___, now on C1 CMF. Continued prn Ativan for nausea, held 
+QTc prolonging meds
+
+# Asthma: c/w home albuterol prn
+
+TRANSITIONAL ISSUES
+===================
+[] Pt had iCD placed for intermittent polymorphic VT of unclear 
+etiology, might be related to HoCM observed on cMRI. Also 
+started on amiodarone 400mg tid while inpatient, transitioned to 
+400mg bid for 10 days following discharge, followed by 400mg 
+daily until follow-up with Dr. ___. Will also finish 3d total 
+post-iCD Abx ppx
+[] Started on ASA 81mg + low dose statin for mild CAD seen on 
+cath, consider uptitration as tolerated 
+
+# DC WEIGHT: 79.4kg (175.04 lbs)
+# CODE: Full Code (confirmed) 
+# CONTACT: HCP: ___ (hcp/partner - ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN 
+2. esomeprazole magnesium 20 mg oral DAILY 
+3. LORazepam 0.5 mg PO QHS:PRN insomnia 
+4. Dulera (mometasone-formoterol) 200-5 mcg/actuation inhalation 
+DAILY:PRN 
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amiodarone 400 mg PO BID 
+RX *amiodarone 400 mg 1 tablet(s) by mouth twice a day Disp #*20 
+Tablet Refills:*0 
+2.  Amiodarone 400 mg PO DAILY 
+RX *amiodarone 400 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+4.  Atorvastatin 10 mg PO QPM 
+RX *atorvastatin 10 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+5.  Clindamycin 300 mg PO Q6H 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth every six (6) 
+hours Disp #*8 Capsule Refills:*0 
+6.  Dulera (mometasone-formoterol) 200-5 mcg/actuation 
+inhalation DAILY:PRN  
+7.  esomeprazole magnesium 20 mg oral DAILY  
+8.  LORazepam 0.5 mg PO QHS:PRN insomnia  
+9.  Multivitamins 1 TAB PO DAILY  
+10.  Ondansetron 4 mg PO Q8H:PRN nausea  
+11.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+Polymoprhic Ventricular Tachycardia
+
+SECONDARY
+=========
+Breast Cancer
+Asthma
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted to ___ after you were found to have an 
+abnormal and potentially dangerous heart rhythm at ___. We 
+had our electrophysiologists evaluate you after you had a 
+cardiac catheterization that was negative. You had a cardiac MRI 
+which showed that your heart wasn't pumping properly due to 
+being abnormally thickened -- "Hypertrophic Cardiomyopathy". 
+After some discussion, we decided it was most safe to place an 
+ICD. We also started you on a new medication, called Amiodarone, 
+to help prevent further dangerous heart rhythms from forming. 
+Please take it at home as prescribed.
+
+It was a pleasure taking care of you!
+
+Your ___ Cardiology Team
+ 
+Followup Instructions:
+___

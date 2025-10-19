@@ -1,0 +1,302 @@
+===== DISCHARGE NOTE =====
+note_id=18465675-DS-14 | hadm_id=26092928
+
+ 
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxic respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+central line
+ 
+History of Present Illness:
+   Mr. ___ is a ___ gentleman with a h/o HTN who is being 
+transferred from ___ with hypoxic respiratory failure s/p 
+intubation. The source of his HPI is the ___ inpatient 
+records since patient was intubated at the time. 
+
+   Two days prior to transfer (___) patient went to an 
+appointment with his PCP complaining of ___ days of initially 
+diarrhea and fatigue followed by chills and productive cough. He 
+was sent to the ___ where he was found to be 
+tachycardic and tachypneic, developped a worsening oxygen 
+requirement and a fever to 100.4. His CBC revealed a 
+leukocytosis to 17.3 with 24% bands and his CXR bilateral 
+infiltrates (L>R).
+
+He was initially placed on 6L NC, then uptitrated to a 
+non-rebreather. A CT-A was then performed that did not show a PE 
+but had extensive bilateral infiltrates.  On ___ he was 
+intubated for worsening respiratory distress (tachypnea to the 
+50's).  He was sedated with propofol/fentanyl and paralyzed with 
+vecuronium. On ___ he also underwent a bronchoscopy that found 
+bile and undigested material in the trachea, BAL was sent for 
+culture and PCR. He was also started on vancomycin, 
+piperacillin-tazobactam and levofloxacin.  Flu swab was 
+negative.
+
+   Of note, his wife, who is a ___, and daughter recently were 
+recently suffered from PNA. On arrival to the FICU his initial 
+vitals were 98.0 | 108/55 | 83 | 18 | 93% on ventilator settings 
+as below. 
+
+ 
+Review of systems:  
+Patient intubated.
+ 
+Past Medical History:
+#Hypertension
+#S/P inguinal hernia repair
+#S/P umbilical hernia repair
+ 
+Social History:
+___
+Family History:
+Father: Died of MI at age ___
+Motherl: Presumedly healthy at age ___
+Siblings reportedly healthy
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 98.0 | 108/55 | 83 | 18 | 93% intubated on mechanical 
+ventilation
+General: Acutely ill looking gentleman, intubated but alert, 
+opens eyes and moves extremities on verbal command.   
+HEENT: EOMI, PERRLA, anicteric sclera, no pallor, ET tube in 
+place,  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: ___ sounds present throughout. Scant crackles on 
+anterior and lateral chest auscultation.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: non-distended, bowel sounds present, soft, non-tender, 
+vno rebound tenderness or guarding, no organomegaly  
+GU: Foley draining concentrated urine 
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+
+ICU CALL OUT PHYSICAL EXAM:
+General: Weak appearing. Speaking coherently w/dysphonic voi ce
+HEENT: EOMI, PERRLA, anicteric sclera, no pallor,
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Breath sounds present throughout. Diffuse ronchi, some 
+diffuse crackles.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Mildly distended , bowel sounds present, soft, some TTP 
+in RUQ, no rebound tenderness or guarding, no organomegaly  
+GU: Foley draining concentrated urine 
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:06PM BLOOD WBC-16.1* RBC-3.84* Hgb-11.9* Hct-35.1* 
+MCV-91 MCH-31.1 MCHC-34.0 RDW-14.9 Plt ___
+___ 03:06PM BLOOD ___ PTT-28.8 ___
+___ 03:06PM BLOOD Glucose-105* UreaN-21* Creat-0.9 Na-140 
+K-3.8 Cl-115* HCO3-22 AnGap-7*
+___ 03:06PM BLOOD ALT-58* AST-63* AlkPhos-140* TotBili-1.4
+___ 03:06PM BLOOD proBNP-148*
+___ 03:06PM BLOOD Albumin-2.2* Calcium-7.7* Phos-2.4* 
+Mg-2.4
+___ 03:34PM BLOOD Type-ART pO2-66* pCO2-49* pH-7.27* 
+calTCO2-23 Base XS--4
+___ 03:34PM BLOOD Lactate-1.6
+
+IMAGING:
+___ CXR:
+FINDINGS: 
+Portable view of the chest demonstrate extensive consolidation 
+of both lungs.  There is an area of lucency overlying the right 
+hemidiaphragh, which likely represents an area of spared, 
+aerated lung.  There is no deep sulcal sign in this area to 
+suggest pneumothorax.  The cardiac silhouette is obscured.   
+An endotracheal tube ends 3.2 cm above the carina.  A left 
+subclavian central venous line ends in the mid to distal SVC.   
+IMPRESSION: 
+1.  Extensive consolidation of both lungs.  
+2.  Endotracheal tube is 3.2 cm above the carina.  A left 
+subclavian central venous line ends in the mid to distal SVC.  
+
+___ HIDA SCAN:
+Normal hepatobiliary scan. 
+
+___ CHEST X-RAY:
+Severe nearly global pulmonary consolidation has not improved at 
+least 
+radiographically since ___.  Lucency in the left mid lung 
+suggests 
+cavitation or pneumatocele formation.  Heart is normal size.  
+Pleural 
+effusions are presumed, but not substantial.  With the chin 
+partially flexed, the tip of the endotracheal tube is above the 
+upper margin of the clavicles, no less than 5.5 cm above the 
+carina and should be advanced 2 cm for more secure positioning.  
+Right jugular line ends in the mid SVC and upper enteric 
+drainage tube passes into the stomach and out of view.  No 
+pneumothorax. 
+
+___ PELVIC PLAIN FILM:
+No definite fracture or dislocation. If there is continued high 
+clinical 
+concern for an occult fracture, consider MRI. 
+
+MICROBIOLOGY:
+___ 3:35 pm Rapid Respiratory Viral Screen & Culture
+      BRONCHIAL LAVAGE . 
+
+                            **FINAL REPORT ___
+
+   Respiratory Viral Culture (Final ___: 
+      Reported to and read back by ___ ___ 1:13PM. 
+      ADENOVIRUS.    CONFIRMED BY MONOCLONAL FLUORESCENT 
+ANTIBODY.. 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Greater than 400 polymorphonuclear leukocytes;. 
+      Specimen inadequate for detecting respiratory viral 
+infection by ___
+      testing. 
+      Interpret all negative results from this specimen with 
+caution. 
+      Negative results should not be used to discontinue 
+precautions. 
+      Refer to respiratory viral culture for further 
+information. 
+      Reported to and read back by ___ ___ ___ 
+AT 12:33. 
+
+___ 1:59 pm Influenza A/B by ___
+      Source: Nasopharyngeal swab. 
+
+                            **FINAL REPORT ___
+
+   DIRECT INFLUENZA A ANTIGEN TEST (Final ___: 
+      Negative for Influenza A. 
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final ___: 
+      Negative for Influenza B. 
+
+DISCHARGE LABS:
+___ 04:39AM BLOOD WBC-17.3* RBC-3.59* Hgb-10.6* Hct-32.7* 
+MCV-91 MCH-29.7 MCHC-32.5 RDW-15.6* Plt ___
+___ 04:39AM BLOOD ___ PTT-26.9 ___
+___ 04:39AM BLOOD Plt ___
+___ 04:39AM BLOOD Glucose-100 UreaN-12 Creat-0.6 Na-139 
+K-3.8 Cl-103 HCO3-26 AnGap-14
+___ 04:39AM BLOOD ALT-92* AST-62* AlkPhos-319* TotBili-1.6*
+___ 04:39AM BLOOD Calcium-8.1* Phos-3.3 Mg-2.___ M with h/o ___ transferred from ___ with hypoxic 
+respiratory failure s/p intubation.
+
+# SEVERE PNEUMONIA, RESPIRATORY FAILURE, ACUTE RESPIRATORY 
+DISTRESS SYNDROME, SEPTIC SHOCK:  Multiple family members became 
+ill and several were hospitalized for respiratory illness.  He 
+reported myalgias, fatigue and fevers.  Chest x-ray revealed 
+bilateral ground glass opacities, and PaO2/FiO2 on admission was 
+65/0.5=132, he had no heart failure, thus his picture was 
+consistent with acute respiratory distress syndrome.  
+Respiratory viral cultures were positive for adenovirus, and 
+given the severity of his symptoms, he likely bacterial 
+superinfection.  He was maintained on ARDSnet protocol and was 
+paralyzed for lung protection.  He was extubated on ___, O2 
+saturation at 97% on 10L.  Currently satting well (91-93%).  ID 
+recommended against cidofovir and recommended 8 day course of 
+vancomycin/cefepime, which he finished on ___.  He received 
+pressors (levophed and vasopressin), IV fluid resuscitation, and 
+was hemodynamically stable upon discharge.
+
+# DIARRHEA:  Developed profuse diarrhea on ___, so empirically 
+started PO vancomycin for C. difficile.  Stool studies for C. 
+diff revealed....
+
+# DELIRIUM:  Though oriented and redirectable, upon extubation, 
+patient was mildly confused, per wife.  Likely ICU delirium in 
+the setting of severe illness, prolonged intubation, multiple 
+sedating medications
+ 
+# Acute hepatitis:  Likely related to adenovirus. Total bili 
+trending down and ALT/AST stable. He had a reassuring right 
+upper quadrant ultrasound and HIDA scan.
+
+# Deconditioning: Marked muscular weakness, contributing factors 
+are immobilization and myopathy from paralytics. He suffered a 
+mechanical fall on ___, landing on his hip.  Plain film was 
+negative for fracture.
+
+ 
+# Communication: ___ (wife, RN, ___) Cell ___
+# Code: Full 
+
+TRANSITIONAL ISSUES:
+- C. difficile stool antigen studies pending; treating 
+empirically for severe C. difficile colitis from ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ibuprofen 400 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. Heparin 5000 UNIT SC TID 
+2. Nicotine Patch 21 mg TD DAILY 
+3. Nystatin Cream 1 Appl TP TID:PRN groin rash 
+4. QUEtiapine Fumarate 12.5 mg PO QHS insomnia Duration: 2 Doses 
+
+5. Albuterol-Ipratropium ___ PUFF IH Q4H 
+6. Vancomycin Oral Liquid ___ mg PO Q6H 
+Day 1 is ___.  
+Continue until ___. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pneumonia
+Acute respiratory distress syndrome
+Septic shock
+Acute hepatitis
+?C. difficile colitis
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+You were hospitalized for a severe pneumonia, caused by a virus 
+called adenovirus.  You were also treated for a concomittant 
+bacterial pneumonia with IV antibiotics.  You had severe lung 
+injury from the pneumonia, called acute respiratory distress 
+syndrome, and you were placed on a breathing machine until your 
+lungs recovered.  
+
+You are also being treated for a possible infection of the 
+bowels called C. difficile colitis.  
+
+It was a pleasure being involved in your care, 
+Your ___ Doctors
+ 
+___ Instructions:
+___

@@ -1,0 +1,222 @@
+===== DISCHARGE NOTE =====
+note_id=15226340-DS-4 | hadm_id=25706501
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+confusion
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+PCP: 
+Name: ___. 
+Location: ___ 
+___: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+Email: ___ 
+
+Admission ___ 2330
+
+CC:confusion
+
+___ h/o mod-severe alzheimers who is living at home with her 
+daughter and grandchildren. She is normal quite confused, but 
+pleasant. She would have occasional outburst of anger that were 
+treated with behavioral modification and seroquel. In the last 3 
+days the episodes have become more frequent and longer in 
+length. She has also become physically violent.  Today at home 
+the patient became violent and almost fell down the stairs so 
+her daughter brought her to the ER. The patient is currenly calm 
+and cooprative without any complaints. 
+
+In ER: UA dirty and given PO cipro. tradazone and seroquel. 
+potassium was low. VS 97.4 76 160/78 16 99RA
+
+ROS:  
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia  
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough 
+ 
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain  
+-Neurological: [ ]WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[x]Confusion []Headache  
+
+ 
+Past Medical History:
+colon CA now past ___ years without evidence of recurrence
+alzheimer's dementia dx in ___
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+Admission
+VS: 95.7 140/80 80 18 99RA
+Gen: Well appearing, no acute distress, awake, alert, 
+appropriate and oriented x 1.
+Skin: warm to touch, no apparent rashes. 
+HEENT: No conjunctival pallor, no scleral jaundice,  OP clear 
+CV:  RRR no audible m/r/g 
+Lungs: clear to auscultation 
+Abd: soft, NT, normal BS 
+Ext: No C/C/E
+Neuro: strength and sensation intact bilaterally, gait steady
+
+ 
+Pertinent Results:
+___ 09:30PM URINE  HOURS-RANDOM
+___ 09:30PM URINE  HOURS-RANDOM
+___ 09:30PM URINE  GR HOLD-HOLD
+___ 09:30PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 09:30PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:30PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR
+___ 09:30PM URINE  ___ BACTERIA-FEW 
+YEAST-NONE ___ TRANS ___ 09:30PM URINE  MUCOUS-FEW
+___ 08:10PM   GLUCOSE-139* UREA N-23* CREAT-0.9 SODIUM-140 
+POTASSIUM-3.2* CHLORIDE-105 TOTAL CO2-26 ANION GAP-12
+___ 08:10PM   estGFR-Using this
+___ 08:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 08:10PM   WBC-7.5 RBC-4.01* HGB-12.3 HCT-37.0 MCV-92 
+MCH-30.7 MCHC-33.4 RDW-13.3
+___ 08:10PM   NEUTS-68.2 ___ MONOS-4.7 EOS-0.5 
+BASOS-0.4
+___ 08:10PM   PLT COUNT-273
+
+CXR: Lungs are clear, heart size normal. No pleural effusion or 
+evidence of central adenopathy. Elevation of the left 
+hemidiaphragm, probably a function of gaseous distention of the 
+stomach and/or diaphragmatic eventration. No pleural 
+abnormality. Thoracic aorta is calcified in the arch but 
+otherwise normal. 
+
+EKG QTc: ___ with h/o alzheimer's dementia with hx of agitation, with 
+acute worsening over the past 3 days causing signif family 
+concern about pt safety.  
+.  
+Treating for possible UTI, given that U/A was mildly abnormal, 
+and pt history/ROS unreliable (although denies dysuria). Will 
+treat UTI and titrate psychiatric medications as tolerated.  
+.  
+.  
+worsening Dementia with periods of Agitation:  
+Daughter notes significant decline over past ___ months, as 
+noted by decreased personal hygeine. Dtr finding used toilet 
+paper around the house and in the cabinets, and pt requires 
+constant redirecting. Dtr concerned that this behavior not only 
+puts patient at risk, but rest of family as well. Pt tried to 
+escape from the house, and required physical restraint by 
+daughter. Dtr notes has to keep house on lockdown. Dtr feels 
+that condition has been a constant progression rather than acute 
+worsening.  
+Pt was previously on Seroquel 25 mg po q am, and daughter added 
+25 mg po qhs x past ___ days without signif improvement. Pt was 
+given Trazodone night prior to admission as well.  
+Treating possible UTI in case there is a superimposed delirium 
+exacerbating her dementia.
+Pt remained on 1:1 sitter, and had a couple episodes of 
+code-purple requiring Security and additional medications to 
+calm the patient.  Psychiatry was consulted, and Seroquel was 
+titrated up, with apparent benefit.  Pt now appears more calm 
+and comfortable, although it remains too early to tell if she 
+will require further medication titration.  EKG QTc was 
+monitored while titrating antipsychotics and cipro; QTc remained 
+stable, most recent 404.
+Pt was discharged to ___ unit to allow further medication 
+titration if needed, prior to locked dementia unit placement.
+.  
+Secondary Diagnosis: 599.0 URINARY TRACT INFECTION, BACTERIAL  
+U/A suggests possible UTI, but not entirely clear. Elected to 
+treat for possible UTI with course of cipro in case is causing 
+pt to have delerium as e/o increased agitation.  
+- urine culture returned contaminated
+- cipro po for total 5 days (2 more days after discharge)
+.  
+Secondary Diagnosis: 331.0 DEMENTIA, ALZHEIMER'S  
+- Pt is followed by Cognitive Neurology as an outpt; d/w Dr. 
+___.  
+- Psych consulted to assist with pharmacotherapy of dementia 
+with agitation  
+.  
+Pt medically stable on ___, and remains medically stable since 
+then for discharge to ___ facility, with the possibility 
+of requiring further psychiatric medication titration in the 
+near future. Pt appears to be doing well on current regimen, but 
+it is too early to tell if regimen will adequately control 
+behavior. It is noted that much of pt's agitation is in regards 
+to desire to wander, and may be less agitated in locked dementia 
+unit.  
+.  
+FEN:regular  
+CODE: DNR/DNI; d/w ___  
+HCP and daughter is ___ ___  
+
+ 
+___ on Admission:
+seroquel 25 hs prn
+trazadone 25 mg hs prn insomnia
+ 
+Discharge Medications:
+1. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+2. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO QAM (once a 
+day (in the morning)).  
+3. Quetiapine 50 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).  
+4. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+as needed for agitation.  
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 2 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Worsening dementia with periods of agitation; possible 
+superimposed delirium
+Urinary tract infection
+
+ 
+Discharge Condition:
+Mental Status:Confused - always
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent; but requiring 
+monitoring
+
+ 
+Discharge Instructions:
+You were admitted with worsening dementia with agitation.  Your 
+medications were increased to help keep you calm and control 
+your behavior.
+
+ 
+Followup Instructions:
+___

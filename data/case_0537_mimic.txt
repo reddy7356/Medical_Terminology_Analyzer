@@ -1,0 +1,310 @@
+===== DISCHARGE NOTE =====
+note_id=17871443-DS-9 | hadm_id=27591850
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ w/ PMH of nonischemic CM (EF 45-50%, ___, IDDM 
+(poorly controlled), HTN, HLD who presents after a syncopal 
+episode.  
+ On day of admission at 2PM, patient had acute LOC. He reports 
+he was visiting his niece, and was sitting in a chair. He began 
+feeling dizzy and had a coughing spell w/ associated SOB. No 
+associated CP, palpitations. His niece heard a thump, and found 
+him gurgling at the mouth with unresponsiveness. The episode 
+lasted approximately 5 minutes after which time he woke up. 
+Patient states that he was seated when he awoke. He stated that 
+in the past he had a similar episode that required ICU admission 
+for heart failure. He was taken to urgent care by his niece, and 
+referred for further workup. No history of seizures. No other 
+recent syncopal events. No urinary incontinence, tongue biting, 
+cheek biting.  
+ He reported that he recently had a viral illness with mild 
+cough and subjective fevers last week. He currently feels back 
+to his baseline, however feels tired. He does note an episode of 
+bradycardia ___ years ago requiring hospitalization.  
+ Of note has home O2, only wears when SOB or at night.  
+ 
+ In the ED, initial vitals were: 96.8 60 168/93 18 97% RA  
+ - Labs notable for:  
+ Troponin (-) x 2  
+ Chem 7 wnl  
+ TSH 2.1  
+ 7.5 > 13.4/43.1 < 196  
+ UA w/ 300 glucose  
+ - Imaging was notable for:  
+ CT Head  
+ 1. No acute intracranial abnormalities.  
+ 2. Mild paranasal sinus opacification.  
+ 3. Suggestion of sebaceous cyst posterior neck base, new since 
+prior,  
+ clinically correlate.  
+ CXR  
+ Mild cardiomegaly, congestion with mild pulmonary edema.  
+ TTE  
+ IMPRESSION:  
+ 1) Mild global LV systolic dysfunction with regional variation 
+in intrinsic myocardial contractility in setting of moderate LV 
+dilation c/w diffuse cardiomyopathic process.  
+ 2) Grade II LV diastolic dysfunction with elevated LVEDP.  
+ - Cardiology was consulted.  
+ - Patient was given: furosemide 40 PO x 4, losartan, 
+allopurinol, aspirin, carvedilol, atorvastatin, insulin  
+ - Vitals prior to transfer:97.9 134/40 16 95% RA  
+ Upon arrival to the floor, He denies any chest pain, shortness 
+of breath currently.  
+
+ 
+Past Medical History:
+ Hypertension  
+ Cardiomyopathy  
+ Gout  
+ Allergic rhinitis  
+ Constipation  
+ Osteoarthritis of right knee  
+ CKD (chronic kidney disease) stage 3, GFR ___ ml/min  
+ Hyperparathyroidism due to renal insufficiency  
+ Type II diabetes mellitus with nephropathy  
+ Cataract  
+ Pinguecula  
+ Pterygium  
+ Osteopenia  
+ OSA (obstructive sleep apnea)  
+ Advanced care planning/counseling discussion  
+ CHF (congestive heart failure)  
+ POAG (primary open-angle glaucoma)  
+ Hyperlipidemia  
+ Gynecomastia, male  
+ Insulin long-term use  
+ Type 2 diabetes mellitus with polyneuropathy  
+ Uncontrolled type 2 diabetes mellitus with stage 3 chronic 
+kidney disease, with long-term current use of insulin  
+ Nuclear sclerosis of both eyes  
+
+ 
+Social History:
+___
+Family History:
+ Noncontributory 
+ 
+Physical Exam:
+ADMISSION  PHYSICAL EXAM:  
+ Vital Signs: 97.9 152/85 63 20 92% 2L  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+ Neck: Supple. JVP not elevated. no LAD  
+ CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII grossly intact, MAE. 
+
+DISCHARGE PHYSICAL EXAM: 
+ VS: 97.9 152/85 63 20 92% 2L
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+ Neck: Supple. JVP not elevated. no LAD  
+ CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ Ext: Warm, well perfused, 1+ pitting edema bilaterally  
+ Neuro: CNII-XII grossly intact 
+ 
+Pertinent Results:
+Admission labs:
+
+___ 02:35AM   cTropnT-<0.01
+___ 10:54AM   ___
+___ 10:54AM   ___ PTT-29.0 ___
+___ 10:54AM   WBC-7.5 RBC-5.32 HGB-13.4* HCT-43.1 MCV-81* 
+MCH-25.2* MCHC-31.1* RDW-18.1* RDWSD-51.0*
+___ 10:54AM   TSH-2.1
+___ 10:54AM   ALBUMIN-4.0 CALCIUM-10.0 PHOSPHATE-2.9 
+MAGNESIUM-2.0
+___ 10:54AM   ALT(SGPT)-28 AST(SGOT)-24 LD(LDH)-215 
+CK(CPK)-284 ALK PHOS-154* TOT BILI-0.7
+___ 10:54AM   GLUCOSE-253* UREA N-14 CREAT-1.2 SODIUM-141 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-29 ANION GAP-14
+
+ - ECG: sinus, HR 60, prolonged PR, qtc 472, diffuse T wave 
+flattening, biphasic atria
+
+TTE ___
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity is 
+moderately dilated. There is mild global left ventricular 
+hypokinesis (LVEF = 45 - 50 %). Tissue Doppler imaging suggests 
+an increased left ventricular filling pressure (PCWP>18mmHg). 
+Doppler parameters are most consistent with Grade II (moderate) 
+left ventricular diastolic dysfunction. Right ventricular 
+chamber size and free wall motion are normal. There is abnormal 
+septal motion/position. The number of aortic valve leaflets 
+cannot be determined. There is no aortic valve stenosis. No 
+aortic regurgitation is seen. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. The 
+pulmonary artery systolic pressure could not be determined. 
+There is a very small pericardial effusion. There are no 
+echocardiographic signs of tamponade. 
+
+ IMPRESSION: 
+ 1) Mild global LV systolic dysfunction with regional variation 
+in intrinsic myocardial contractility in setting of moderate LV 
+dilation c/w diffuse cardiomyopathic process.
+ 2) Grade II LV diastolic dysfunction with elevated LVEDP.  
+
+___ CXR  
+Mild cardiomegaly, congestion with mild pulmonary edema. 
+
+___ CT head
+IMPRESSION: 
+1. No acute intracranial abnormalities. 
+2. Mild paranasal sinus opacification. 
+3. Suggestion of sebaceous cyst posterior neck base, new since 
+prior, 
+clinically correlate. 
+
+Discharge labs:
+
+___ 06:20AM BLOOD WBC-8.7 RBC-5.41 Hgb-13.8 Hct-43.6 
+MCV-81* MCH-25.5* MCHC-31.7* RDW-17.6* RDWSD-50.7* Plt ___
+___ 06:20AM BLOOD Glucose-146* UreaN-20 Creat-1.4* Na-147* 
+K-3.9 Cl-104 HCO3-30 AnGap-17
+___ 06:20AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.___ w/ PMH of nonischemic CM (EF 45-50%, ___, IDDM 
+(poorly controlled), HTN, HLD who presents after a syncopal 
+episode. Work up unremarkable for cardiogenic or malignant 
+causes of syncope.
+  
+# Syncope: Presents after episode of syncope with pre-syncopal 
+symptoms. NCHCT negative, TTE in ED negative for valvular 
+dysfunction, EF 45-50%. Trops negative, EKG unremarkable. 
+Orthostatic vitals negative in ED, presentation not consistent 
+with seizure. He was monitored on telemetry and there were no 
+findings except PVCs. Likely due to vasovagal episode in the 
+setting of a coughing spell. On discharge, he was able to 
+ambulate well. 
+
+# sCHF: No evidence of acute exacerbation. TTE in ED with EF 
+45-50%. Continued home carvedilol, imdur, losartan, furosemide  
+
+# DM: Last A1c of 8 in ___. Continued home insulin regimen. 
+Held home tradjenta.  
+ 
+# HTN: Continued home imdur, losartan, carvedilol, amlodipine  
+ 
+# CKD: Baseline 1.4-1.6. Improved to 1.2 on admission  
+
+CHRONIC ISSUES:  
+ # BPH: continued tamsulosin  
+ # HLD: continued ASA, atorvastatin  
+ # GOUT: continued home allopurinol 
+
+=====================
+Transitional issues:
+=====================
+- Recommend outpatient event monitor to further evaluate for 
+rare arrhythmia
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Tamsulosin 0.4 mg PO QHS 
+2. Tradjenta (linagliptin) 5 mg oral DAILY 
+3. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+4. Carvedilol 25 mg PO BID 
+5. Atorvastatin 80 mg PO QPM 
+6. amLODIPine 10 mg PO DAILY 
+7. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+8. Losartan Potassium 100 mg PO DAILY 
+9. Allopurinol ___ mg PO DAILY 
+10. Glargine 40 Units Bedtime
+Humalog 14 Units Breakfast
+Humalog 22 Units Lunch
+Humalog 14 Units Dinner
+11. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+12. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+13. Calcitriol 0.5 mcg PO EVERY OTHER DAY 
+14. Calcitriol 1 mcg PO EVERY OTHER DAY 
+15. Furosemide 40 mg PO BID 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Glargine 40 Units Bedtime
+Humalog 14 Units Breakfast
+Humalog 22 Units Lunch
+Humalog 14 Units Dinner 
+2.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob  
+3.  Allopurinol ___ mg PO DAILY  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 80 mg PO QPM  
+7.  Calcitriol 0.5 mcg PO EVERY OTHER DAY  
+8.  Calcitriol 1 mcg PO EVERY OTHER DAY  
+9.  Carvedilol 25 mg PO BID  
+10.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+11.  Furosemide 40 mg PO BID  
+12.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY  
+13.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+14.  Losartan Potassium 100 mg PO DAILY  
+15.  Tamsulosin 0.4 mg PO QHS  
+16.  Tradjenta (linagliptin) 5 mg oral DAILY  
+17.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+syncope
+
+Secondary:
+systolic CHF
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure caring for you at ___. You were admitted 
+because you lost consciousness. You had an echocardiogram of 
+your heart and a CT scan of your brain, which did not show any 
+abnormalities. Please follow up with your PCP and cardiologist 
+as scheduled.
+
+Your ___ team
+ 
+Followup Instructions:
+___

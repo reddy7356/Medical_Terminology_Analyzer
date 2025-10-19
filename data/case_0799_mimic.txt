@@ -1,0 +1,163 @@
+===== DISCHARGE NOTE =====
+note_id=12439142-DS-20 | hadm_id=25550017
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+ 
+History of Present Illness:
+___ yo M with no significant PMH who presents with abdominal 
+pain. Pain started 1 day prior to presentation. Pain started 
+suddenly and is epigastric with radiation to the back. It has 
+been constant. Pt also noted darknened urine. No nausea or 
+vomiting. No fevers or chills. 
+
+Pt presented to the ED for evaluation where he was noted to have 
+transaminitis with Tbili of 5.1. RUQ u/s showed dilated CBD to 
+13mm and intrahepatic dilatation. No leukocytosis or fevers 
+noted. Pt given oxycodone and unasyn and admitted for further 
+care.
+
+ROS: otherwise negative 
+ 
+Past Medical History:
+Eczema
+Allergic rhinitis
+ 
+Social History:
+___
+Family History:
+Brother with testicular CA. No family history of billiary 
+disease.
+ 
+Physical Exam:
+Vitals: 98.5 144/86 68 16 98%ra
+Gen: NAD
+HEENT: sublingual icterus, moist MM
+CV: RRR, no r/m/g
+Pulm: clear b/l
+Abd: soft, ttp in epigastrum
+Ext: no edema
+Neuro: alert and oriented x 3
+ 
+Pertinent Results:
+___ 02:33PM   WBC-6.6 RBC-4.64 HGB-14.3 HCT-41.2 MCV-89 
+MCH-30.8 MCHC-34.7 RDW-11.9
+___ 02:33PM   PLT COUNT-257
+___ 02:33PM   GLUCOSE-127* UREA N-8 CREAT-0.8 SODIUM-141 
+POTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-24 ANION GAP-19
+___ 02:33PM   ALT(SGPT)-419* AST(SGOT)-283* ALK PHOS-90 TOT 
+BILI-5.1*
+___ 02:33PM   LIPASE-30
+
+___ 01:33PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-LG UROBILNGN-1 PH-7.0 LEUK-NEG
+
+RUQ u/s: 
+1. Dilated CBD (13mm) with mild intrahepatic biliary duct 
+dilation. No definite obstructing mass or stone is seen in the 
+CBD which appears to terminate abruptly in the pancreatic head. 
+ERCP or MRCP may be obtained for further evaluation. 
+2. Echogenic liver consistent with steatosis. Other forms of 
+liver disease including hepatic fibrosis or cirrhosis or 
+steatohepatitis cannot be excluded on the basis of this 
+examination. 
+
+ 
+Brief Hospital Course:
+___ year old M with no significant medical history who presents 
+with RUQ pain. 
+
+# Biliary obstruction without cholangitis - went to ercp:
+
+ Scout film was normal. 
+Limited pancreatogram was normal 
+The bile duct was deeply cannulated with the sphincterotome. 
+There was a tapering of the distal CBD at the level of the 
+ampulla. 
+The CBD was dilated to 9-10mm in diameter. No filling defects 
+were identified. 
+The left and right hepatic ducts mildly dilated. 
+A biliary sphincterotomy was made with a sphincterotome. There 
+was no post-sphincterotomy bleeding. 
+The biliary tree was swept with a 9-12mm balloon starting at the 
+bifurcation without removal of stone or sludge. 
+Brushings of the distal CBD were obtained for cytology. 
+A ___ x 7cm plastic CBD stent was placed to ensure adequate 
+biliary drainage. 
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically.  
+These findings could be consistent with a passed stone but 
+subtle distal CBD stricture cannot be excluded 
+Otherwise normal ercp to third part of the duodenum
+ 
+Recommendations: NPO overnight with aggressive IV hydration with 
+LR at 200 cc/hr 
+If no abdominal pain in the morning, advance diet to clear 
+liquids and then advance as tolerated 
+Repeat ERCP in 4 weeks for stent pull and re-evaluation 
+Follow up with cytology reports. Please call Dr. ___ 
+___ ___ in 7 days for the pathology results. 
+Follow for response and complications. If any abdominal pain, 
+fever, jaundice, gastrointestinal bleeding please call ERCP 
+fellow on call ___
+ 
+Improved after this without any complications, on day of 
+discharge, tolerating regular diet, no complaints, no fevers, no 
+pain, voiding and independently ambulatory.  See instructions 
+below for recommendations, and d/c paperwork please
+ 
+Recommended repeat assessment of LFTs in one week, if still 
+elevated/abnormal, should be referred to a hepatologist please
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fexofenadine Dose is Unknown  PO Frequency is Unknown 
+2. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+
+ 
+Discharge Medications:
+1. Fexofenadine 60 mg PO BID 
+2. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+biliary obstruction from stone or stricture/narrowing
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+no aspirin, or other nsaids (ibuprofen etc) for at least one 
+week
+
+no alcohol or tylenol until you have your liver tests repeated 
+by your primary MD next week and he ensures these are normal
+
+Follow up with MDs as below
+ 
+Followup Instructions:
+___

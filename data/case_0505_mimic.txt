@@ -1,0 +1,326 @@
+===== DISCHARGE NOTE =====
+note_id=14416676-DS-21 | hadm_id=24500989
+
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest tightness
+ 
+Major Surgical or Invasive Procedure:
+___: Cardiac catheterization
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman, with CAD s/p 2 stents 
+in ___, who presented one day prior to admission with one week 
+of new chest tightness and having to "gulp" for air.  The 
+patient had been feeling well (from ___ until one week 
+prior to admission, when he began to have episodes of chest 
+tightness with exertion while the patient was on the treadmill.  
+He then developed two episodes of ___, band-like anterior 
+chest tightness at rest, the first being four days prior to 
+admission and lasting two hours, then the second two days prior 
+to admission, last one hour while the patient was watching 
+televion before bed.  Along with the chest tightness during 
+these episodes, the patient experienced a sensation of needing 
+to "gulp for air."  He called his cardiologist, who encouraged 
+him to present to the hospital.  In the ED, initial vitals were 
+98.1 76 113/75 16 100% RA.  Labs and imaging significant for two 
+sets of negative cardiac enzymes, EKG with sinus bradycardia @ 
+51, no new STEMI/Q waves/T wave inversions, and chest x-ray no 
+acute cardiopulmonary abnormalities.  He was given aspirin 81 mg 
+x2 and scheduled for ETT the next morning.
+.
+On the morning of admission, the patient was given his daily 
+clopidogrel 75 mg and rosuvastatin 20 mg.  He underwent an ETT, 
+during which he exercised for 10 minutes (___) and 
+experienced a sensation that he was "pulling for air."  Test was 
+stopped for fatigue.  At peak exercise, there was noted 1.0-1.5 
+mm of horizontal to upsloping ST segment depression inferiorly 
+and V4-6, which resolved by one minute after stopping.  
+Hemodynamic response during the test was appropriate. Following 
+the ETT, the patient was given another aspirin 325 mg and one 
+liter of normal saline, and transferred to the floor.  At the 
+time of transfer, the patient was alert, oriented and 
+ambulating, without any complaints.  His vital signs were 98.6, 
+105/56, 78, 18 99 RA.   
+.
+On arrival to the floor, patient was feeling comfortable with 
+initial vital signs 141/87 68 16 100% RA.  He had no chest pain 
+or shortness of breath.  
+.  
+REVIEW OF SYSTEMS  
+ROS was positive as above.  Also, positive for joint aches on 
+___ morning after a long bike ride.  
+ROS was negative for any prior history of stroke, TIA, deep 
+venous thrombosis, pulmonary embolism, bleeding at the time of 
+surgery, myalgias, cough, hemoptysis, black stools or red 
+stools, recent fevers, chills or rigors, exertional buttock or 
+calf pain. All of the other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of paroxysmal 
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope 
+or presyncope.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: none
+2. CARDIAC HISTORY:  
+    ___: Patient experienced similar chest tightness and 
+shortness of breath while running intermittently for the entire 
+year.  THis was evaluated by Pulmonologists and Cardiologists at 
+the time.  He then underwent cardiac catheterization via right 
+femoral artery in ___ with PCI to the left circumflex 
+and right coronary artery.  On cath, there was diffuse stenosis 
+in the mid-LCx and distal RCA.  Cypher DES was placed in the LCx 
+and also in the ostial RCA.
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: as above 
+-PACING/ICD: none 
+3. OTHER PAST MEDICAL HISTORY: none
+
+ 
+Social History:
+___
+Family History:
+Strong family history of congestive heart failure, all after the 
+age of ___, on both sides of the family.  He also has a strong 
+family history of osteoporosis.  He has 2 brothers and 1 sister. 
+ His sister has some sort of muscle illness, with details 
+unknown. 
+
+ 
+Physical Exam:
+Admission physical exam:
+VS: afebrile 141/___ 68 16 100% RA
+GENERAL: WDWN white male in NAD. Oriented x3. Mood, affect 
+appropriate.  Very pleasant.  Walking around the room.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with flat neck veins.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or 
+S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+.
+Discharge physical exam:
+O: T98.0 [Tm 99.0] BP 129/74 [123-141/74-84]
+HR 55 [55-84] RR 16 SaO2 100%RA
+GENERAL: WDWN white male in NAD. Oriented x3. Mood, affect 
+appropriate.  Very pleasant.  Walking around the room.
+HEENT: NCAT. Sclera anicteric. EOMI. MMM.
+NECK: Supple with flat neck veins.
+CARDIAC: RRR, normal S1, S2. No m/r/g. No S3 or S4.  
+LUNGS: CTAB, no crackles, wheezes or rhonchi.  Breathing 
+comfortably.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Normoactive bowel 
+sounds.
+EXTREMITIES: No c/c/e. No femoral bruits.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+Admission labs:
+___ 03:00PM BLOOD WBC-5.5 RBC-4.94 Hgb-15.0 Hct-40.9 MCV-83 
+MCH-30.4 MCHC-36.7* RDW-12.7 Plt ___
+___ 03:00PM BLOOD Neuts-65.7 ___ Monos-3.9 Eos-1.1 
+Baso-0.8
+___ 03:00PM BLOOD ___ PTT-23.9 ___
+___ 03:00PM BLOOD Glucose-102* UreaN-16 Creat-1.0 Na-140 
+K-4.6 Cl-107 HCO3-26 AnGap-12
+___ 03:00PM BLOOD cTropnT-<0.01
+.
+Relevant labs:
+___ 09:12PM BLOOD cTropnT-<0.01
+.
+Discharge labs:
+___ 06:25AM BLOOD WBC-6.6 RBC-5.22 Hgb-15.5 Hct-43.7 MCV-84 
+MCH-29.7 MCHC-35.5* RDW-13.0 Plt ___
+___ 06:25AM BLOOD ___ PTT-25.3 ___
+___ 06:25AM BLOOD Glucose-97 UreaN-19 Creat-1.1 Na-146* 
+K-4.2 Cl-107 HCO3-30 AnGap-13
+___ 06:25AM BLOOD Calcium-9.6 Phos-3.5 Mg-2.3
+.
+Relevant studies:
+.
+Resting EKG ___ at 21:10: sinus bradycardia at 40 bpm, 
+normal axis and intervals, no ST elevations or depressions, T 
+wave inversions in III, no pathologic Q waves
+.
+ETT ___:  
+INTERPRETATION: This ___ year old man with known CAD s/p stenting 
+at OSH ___ was referred to the lab for chest pain evaluation. 
+The patient exercised for 10 minutes of ___ protocol (11 
+METS) and stopped for fatigue. This represents a good functional 
+capacity for his age. During exercise, the patient reported a 
+feeling of "not able to get enough air". This feeling resolved 
+with rest by 10 minutes post exercise. At peak exercise, there 
+was 1.5-2 mm of horizontal ST segment depression inferiorly and 
+V4-6. These changes resolved by one minute post exercise. The 
+rhythm was sinus with rare isolated APBs and occasional VEA 
+including isolated VPBs and couplets. The hemodynamic response 
+to exercise was appropriate.  RPP ___, 95% max heart rate 
+achieved.
+IMPRESSION: Ischemic EKG changes with shortness of breath as a 
+possible anginal equivalent. Good functional capacity for age.
+.
+Cardiac catheterization ___:
+1. Coronary angiography in this right dominant system 
+demonstrated single vessel disease.  The ___ had a 20% distal 
+stenosis.  The LAD had a 30% mid stenosis.  The LCx had a 30% 
+proximal stenosis with widely patent stent in the mid LCx.  The 
+mid RCA had a 50% stenosis with widely patent stent in the a 
+large posterolateral segment.
+2. Limited resting hemodynamics revealed normal systemic 
+arterial pressures with SBP 109 and DBP 61.
+FINAL DIAGNOSIS:    
+1. One vessel coronary artery disease of moderate severity.
+2. Widely patent prior stents.
+3. Negative pressure wire study of mid RCA ___ FFR ratio).
+.  
+Imaging:
+CXR ___: FINDINGS: The lungs are clear without 
+consolidation or edema. The mediastinum is unremarkable. The 
+cardiac silhouette is within normal limits for size. No effusion 
+or pneumothorax is noted. The visualized osseous structures are 
+unremarkable. 
+IMPRESSION: No acute pulmonary process. 
+.  
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old gentleman, with history of CAD s/p 
+2 stents (in LCx and RCA) in ___, with chest pain and shortness 
+of breath, likely unstable angina, evaluated with cardiac 
+catheterization during this admission.
+.
+.
+Active issues:
+# Chest tightness: Most likely unstable angina.  Patient with 
+history of CAD with early onset, now s/p cath with PCI to LCx 
+and RCA in ___.  Last lipid panel was excellent, and patient 
+leads a very healthy lifestyle.  He has very few risk factors, 
+and has been taking his aspirin and clopidogrel religiously, so 
+the return of symptoms similar to before is perplexing.  It is 
+possble that he developed in-stent restenosis or narrowing of 
+another, previously unaffected artery.  Patient ruled out with 
+two negative troponins.  Patient was amenable to having a cath 
+for specific diagnosis and possible intervention on ___.  
+Cardiac catheterization showed moderate single vessel disease in 
+the RCA with widely patent prior stents.  No intervention was 
+done.  During his admission, he was monitored on telemetry.  
+Additionally, his aspirin, rosuvastatin, clopidogrel and fish 
+oil were continued for treatment of his CAD.
+.
+.
+Chronic issues:
+none
+.  
+.
+Transitional issues:
+1.) Code: confirmed with patient.
+2.) Emergency contact: Wife, ___ - home ___, cell ___.
+ 
+Medications on Admission:
+1.) Clopidogrel 75 mg PO daily
+2.) Rosuvastatin 40 mg PO daily
+3.) Aspirin 80 mg PO daily
+4.) Propecia
+5.) Calcium supplement
+6.) Multivitamin
+7.) Fish oil 
+ 
+Discharge Medications:
+1. omega-3 fatty acids     Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+2. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. rosuvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+4. Propecia  Oral
+5. calcium  Oral
+6. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+8. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet 
+Sublingual as needed as needed for chest pain: You may dissolve 
+1 tab under your tongue every 5 minutes as needed for chest 
+pain. You may take three tabs in 15 minutes.  If your chest pain 
+does not resolve call your doctor or 911 and go to emergency 
+room. .
+Disp:*20 tablets* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Atypical chest pain
+.
+Secondary diagnosis:
+Coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted with chest discomfort and shortness of breath, 
+symptoms which were similar to those preceding your 
+catheterization and stenting in ___.  We were concerned about 
+your coronary arteries, so we investigated them on a cardiac 
+catheterization on ___.  Cardiac catheterization showed 
+that your prior stents were not blocked and that you did not 
+have significant worsening of your coronary artery disease from 
+prior catheterization.  You were discharged home on medications 
+for your heart, including clopidogrel, rosuvastatin, aspirin and 
+fish oil.  It is possible that your pain was unrelated to your 
+coronary artery disease.
+
+Please note, the following changes have been made to your 
+medications:
+1. ADD nitroglycerin 0.4 mg sublingual as needed for chest pain. 
+ You may dissolve 1 tab under your tongue every 5 minutes as 
+needed for chest pain. You may take three tabs in 15 minutes.  
+If your chest pain does not resolve call your doctor or 911 and 
+go to emergency room. 
+
+Please keep the appointments that have been made for you with 
+Dr. ___ Dr. ___, as listed below.
+
+If you develop chest discomfort or shortness of breath, please 
+call your doctor or go to the Emergency Department immediately.
+
+It was a pleasure to participate in your care at ___ 
+___.  Wishing you all the best!
+ 
+Followup Instructions:
+___

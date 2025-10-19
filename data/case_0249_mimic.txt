@@ -1,0 +1,347 @@
+===== DISCHARGE NOTE =====
+note_id=19650086-DS-11 | hadm_id=20234167
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Percocet / Hydrocortisone / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left knee pain
+ 
+Major Surgical or Invasive Procedure:
+Left knee washout ___
+ 
+History of Present Illness:
+___ with h/o psoriatic arthritis, uncontrolled DM HLD, breast 
+cancer presents with left knee pain. Pt reports onset of L knee 
+pain 2 days prior to presentation. She noted L knee pain with 
+movement of her L knee and noted swelling. No redness or warmth 
+of the joint. She notes that she developed attack of her 
+bilateral ___ neuropathy 5 days ago which is neuropathic pain in 
+her feet extending into her legs. She had this pain for 24hrs 
+associated with difficulty walking. During this attack she noted 
+chills but did not take her temperature. The episode passed but 
+she used a walker. She also notes chronic R plantar ulcer since 
+___ for which she follows with a podiatrist and has had 
+debridements in the past. No tick exposures.  
+ 
+In the ED, initial vs were: 97.6 93 134/58 18 95%. Labs were 
+remarkable for WBC count of 13.3 (81%N), Na 131, bicarb 18, 
+BUN/Cr 35/1.1, lactate 0.9, INR 1.3, ESR 132, CRP > 300. Ortho 
+consulted and did a L knee arthrocentesis with synovial fluid 
+revealing 46K WBC with 90% polys. Bl cx sent and synovial fluid 
+cx and gram stain pending. Pt admitted for septic arthritis with 
+plan for OR in AM for washout with ortho. No IV ABX per ortho 
+until after washout. Vitals on Transfer: 97.5 82 144/78 18 98%. 
+ 
+On the floor, pt reports ___ pain in L knee. 
+ 
+Past Medical History:
+- psoriasis  
+- psoriatic arthritis  
+- CAD s/p stent x1  
+- H/o TIA  
+- T2DM c/b neuropathy, previously on glyburide, no currently 
+taking any medications  
+- H/o breast cancer s/p lumpectomy and chemoradiation ___ ago 
+c/b RUE lymphedema  
+- H/o osteomyelitis ___ ago near L ankle 
+ 
+Social History:
+___
+Family History:
+Significant for heart disease, hypertension,  
+and diabetes. 
+ 
+Physical Exam:
+On admission:
+Vitals: 98.5, 118/59, 76, 18, 100% RA  
+FSG: 289  
+General: talkative elderly woman, lying in bed, nontoxic, in NAD 
+ 
+HEENT: Sclera anicteric, MMM  
+Neck: supple  
+CV: RRR, soft systolic murmur at USBs  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi; breathing comfortably  
+Abdomen: soft, non-tender, non-distended, bowel sounds present  
+Ext: Warm, well perfused, no pitting ___ edema, 2+ distal pulses, 
+3cm raised erosion on plantar surface of R foot at ball of the 
+foot; L knee mildly warm, swollen and pain with active and 
+passive ROM  
+Skin: psoriatic plaques over back  
+Neuro: grossly intact  
+
+On discharge:
+V: 97.8, 98.2, 92, 184/83, 18, 99% RA
+Gen: NAD, A and OX3
+LLE: ___ in place
+Fires: ___
+SILT: ___
+Foot WWP
+
+RLE: Dressing over surgical site on plantar foot
+Stitches on tact
+Fires ___
+SILT: ___
+Foot WWP.
+ 
+Pertinent Results:
+___ 11:33PM   SED RATE-132*
+___ 11:33PM   PLT COUNT-281
+___ 11:33PM   NEUTS-81.5* LYMPHS-11.0* MONOS-6.7 EOS-0.2 
+BASOS-0.7
+___ 11:33PM   WBC-13.3* RBC-3.27* HGB-10.0* HCT-29.9* 
+MCV-91 MCH-30.4 MCHC-33.2 RDW-14.8
+___ 11:33PM   CRP-GREATER THAN 300
+___ 11:33PM   GLUCOSE-356* UREA N-35* CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-18* ANION GAP-17
+___ 11:50PM JOINT FLUID  ___ POLYS-90* 
+___ MACROPHAG-7
+___ 11:57PM   ___ PTT-27.1 ___
+___ 01:10AM   LACTATE-0.9
+
+___ 11:50 pm JOINT FLUID      Source: KneeLeft. 
+
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary): 
+      Reported to and read back by ___ ___ ___ 1040AM. 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+
+___ 1:00 am BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      STAPH AUREUS COAG +. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         FINAL SENSITIVITIES. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+      Reported to and read back by ___ (___) 12:39AM 
+___. 
+
+L Knee XR:
+IMPRESSION: Large joint effusion. No acute fracture detected. If 
+there is high 
+clinical concern for a radiographically-occult fracture, then 
+MRI could help 
+for further assessment. 
+
+R Foot XR:
+IMPRESSION: 
+  
+Periosteal reaction along the third metatarsal which can be seen 
+with 
+osteomyelitis, correlation with the site of the patient's known 
+ulcer is 
+recommended.  MRI is more sensitive for the detection of 
+osteomyelitis. 
+
+ 
+Brief Hospital Course:
+___ with h/o psoriatic arthritis, HLD, uncontrolled DM and 
+breast cancer presents with  left knee pain x2 days concerning 
+for septic arthritis.
+
+Active Issues:
+
+# L knee septic arthritis: The patient presented to the 
+emergency department and was evaluated by the orthopedic surgery 
+team. Arthrocentesis showed 43K WBCs with neutrophil 
+predominance, systemic leukocytosis of 13 and ESR 132, Sed 
+rate>300 without frank fevers.  Aspirate wbc ct less than 100K 
+cut off for dx of septic arthritis. Initial gram stain showed no 
+organism. No crystals seen in joint fluid to suggest 
+inflammatory arthritis from gout or pseudogout. Pt started on 
+vanc on ___. However cx came back on ___ growing staph.
+
+The patient was found to have L knee septic arthritis and was 
+taken to the OR on ___ for L knee I&D and synovectomy, and 
+subsequently was transferred to the orthopedic surgery service.  
+The patient tolerated the surgery well (for full details please 
+see the separately dictated operative report). The patient was 
+taken from the OR to the PACU in stable condition and after 
+recovery from anesthesia was transferred to the floor.  The 
+patient was initially given IV fluids and IV pain medications, 
+and progressed to a regular diet and oral medications by POD#1. 
+The patient was given perioperative antibiotics and 
+anticoagulation per routine.  The patients home medications were 
+continued throughout this hospitalization.  The patient worked 
+with ___ who determined that discharge to rehab was appropriate. 
+The ___ hospital course was otherwise unremarkable.
+
+At the time of discharge the patient was afebrile with stable 
+vital signs that were within normal limits, pain was well 
+controlled with oral medications, incisions were 
+clean/dry/intact, and the patient was voiding/moving bowels 
+spontaneously. The patient is partial weightbearing in the left 
+lower extremity, and will be discharged on Lovenox for DVT 
+prophylaxis.  The patient will follow up in two weeks per 
+routine. A thorough discussion was had with the patient 
+regarding the diagnosis and expected post-discharge course, and 
+all questions were answered prior to discharge
+
+#Bacteremia: Pt with pan-sensitive staph bacteremia from blood 
+cx on ___. Pt with leukocytosis of 13 on admission but 
+downtrended with abx use. ID consulted and plan was IV ancef 
+with follow-up. TTE to r/o endocarditis showed no vegatations. 
+Repeat blood cx were negative. Patient was discharged with a 
+PICC line for IV Ancef.
+
+#Chronic right foot ulcer: In setting of untreated DM. XR on ___ 
+concerning for osteo and ESR 132. Ulcer draining purulent fluid 
+___ concerning for MRSA. Podiatry consulted and the patient was 
+taken to the OR on ___ for I&D and resection of R ___ metatarsal 
+head for osteomyelitis, which the patient tolerated well. The 
+patient will be nonweightbearing in the right lower extremity 
+per Podiatry.
+
+Chronic Issues
+# Psoriasis, h/o PSA: currently psoriatic plaques on back and  
+forearms. Pt encouraged to f/u with Rheum
+
+# Anemia: Hct 30 on admission from unknown baseline. No reports 
+of bleeding. CBC in ___ with Hct 33.3. No evidence of acute 
+bleeding. Pt should f/u as OP for workup
+ 
+# T2DM: not currently on treatment but previously on glyburide, 
+c/b neuropathy. Most likely contributing to her chronic foot 
+ulcer. Pt on SSI while in house. Pt will need follow up with 
+PCP.
+  
+# CAD s/p stenting: switched ASA 325 to ASA 81  
+ 
+# H/o TIA:  continue ASA per above
+
+#Social issues: Pt has lived alone after husband died 25+ years 
+ago. States it is getting difficult to complete her ADLs and 
+difficulty getting around. Social work followed this patient and 
+___ recommended rehab.
+
+Transitional Issues:
+-Pt has "fired" multiple PCPs in the past. She needs follow up 
+for her chronic medical conditions including her DM and CAD. She 
+should have outpatient workup for anemia.
+-Pt should see a rheumatologist (previously has seen Dr. ___ 
+at ___ for her psoriatic arthritis.
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin Dose is Unknown  PO TID:PRN neuropathy 
+2. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 200 mg PO Q12H pain 
+3. Acetaminophen 650 mg PO Q6H pain 
+4. Docusate Sodium 100 mg PO BID 
+5. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN Pain 
+6. Enoxaparin Sodium 40 mg SC DAILY Duration: 2 Weeks 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left knee septic arthritis
+Right ___ metatarsal chronic ulcer and osteomyelitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with left knee pain. You were 
+found to have a septic joint and taken to the operating room to 
+clean out the infection. You were given antibiotics to help with 
+the infection. You were also found to have bacteria in your 
+blood which the antibiotics helped to treat. Your right foot 
+ulcer was also found to be infected and it was seen and debrided 
+by podiatry.
+
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take lovenox 40mg daily for 2 weeks
+
+WOUND CARE:
+- You can get the wound wet/take a shower starting 3 days after 
+your surgery.  You may wash gently with soap and water, and pat 
+the incision dry after showering.  
+- No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- No dressing is needed if wound continues to be non-draining.
+
+ACTIVITY AND WEIGHT BEARING:
+- Partial weightbearing in left lower extremity
+Physical Therapy:
+Partial weightbearing in left lower extremity
+Non weightbearing in right lower extremity
+Treatments Frequency:
+Dressing changes daily until wound is dry, then leave open to 
+air
+ 
+Followup Instructions:
+___

@@ -1,0 +1,440 @@
+===== DISCHARGE NOTE =====
+note_id=14095761-DS-9 | hadm_id=24391636
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex / Nsaids
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hyperglycemia, Abdominal Pain
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ year old lady wi with PMH of Type I DM and 
+malignant melanoma who presented to the ED with hyperglycemia 
+and abdominal pain.
+
+She reports that when she awoke this morning she was not feeling 
+her usual self and found her blood sugar to be in the mid ___. 
+She took her insulin per her regular pump indications for 
+sliding scale but on serial rechecks her BS were persistently in 
+the 300s.  Over the course of the day she slowly developed 
+epigastric abdominal pain associated w/ nausea and ultimately 
+emesis.  She denied fevers, chills, cough, or diarrhea. 
+
+In the ED, initial VS were:  98.0 ___ 18 98%.   Initial 
+labs were significant for WBC 22.4, Hct 46, Cr 1.1, K+ 5.2, Hc03 
+11, glucose of 547 and lactate of 4.4. In the setting of 
+abdominal pain on exam and leukocytosis, a CT abdomen and pelvis 
+was performed with contrast which ruled out on preliminary read 
+an acute process. For her anion gap acidosis she was started on 
+an insulin gtt for treatment of DKA and given IVF 4L NS and 
+started on vancomycin and zosyn for her elevated lactate. A 
+repeat lactate decreased to 3.0. An VBG 7.___. A chest xray 
+was clear. Blood cultures were drawn. Vitals on transfer were.
+  
+On arrival to the MICU,  pt was stable with VS: 98.6 113 108/49 
+100% RA 18.
+ 
+Past Medical History:
+1) T1DM: Seen at ___ in ___ by Dr. ___. 
+Diagnosed ___ at age ___. Has insulin pump and checks BS tid. 
+Had dilated eye exam ___. +h/o progressive retinopathy. Last 
+seen by podiatry ___. Last known A1c: 9.1 in ___ Focal nodular hyperplasia, followed with serial U/S by GI 
+clinic  
+3) h/o malignant melanoma, ___ level IV, dx ___, left upper 
+arm, s/p wide excision and negative sentinel node biopsy, no 
+further tx. Had second primary ___ level IV in ___, s/p wide 
+excision with no sentinel node procedure.  
+4) Anticardiolipin Ab  
+5) HTN  
+6) h/o vitreal hemmorhage  
+7) h/o chronic sinusitis, seen by ENT over last year  
+8) migraine headaches  
+9) LBP with disc herniation L5-S1, with compression of L S1 root 
+
+10) Infertility, s/p intrauterine fertilization  
+11) Fibroid uterus  
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: 98.6 BP:108/49 P:113 R:18 O2: 100% on RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred, finger-to-nose intact  
+.
+DISCHARGE PHYSICAL EXAM:
+Vitals: T: 98.6 BP:112/51 P:101 R:18 O2: 100% on RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred, finger-to-nose intact  
+
+ 
+Pertinent Results:
+Admission:
+___ 12:03AM   GLUCOSE-547* UREA N-22* CREAT-1.1 SODIUM-134 
+POTASSIUM-5.2* CHLORIDE-92* TOTAL CO2-11* ANION GAP-36*
+___ 12:03AM   WBC-22.4*# RBC-4.95 HGB-15.0 HCT-46.8 MCV-95 
+MCH-30.3 MCHC-32.0 RDW-12.8
+___ 12:03AM   NEUTS-85.9* LYMPHS-12.1* MONOS-1.3* EOS-0.2 
+BASOS-0.5
+___ 12:20AM   LACTATE-4.4*
+___ 01:45AM   LACTATE-3.0*
+___ 03:17AM   ___ PO2-49* PCO2-32* PH-7.19* TOTAL 
+CO2-13* BASE XS--14 COMMENTS-GREEN TOP
+
+Discharge:
+
+___ 07:01AM BLOOD WBC-15.5* RBC-4.07* Hgb-12.3 Hct-36.6# 
+MCV-90 MCH-30.1 MCHC-33.5 RDW-12.5 Plt ___
+___ 07:01AM BLOOD Neuts-72.5* ___ Monos-3.9 Eos-0.3 
+Baso-0.5
+___ 03:01AM BLOOD Glucose-99 UreaN-14 Creat-0.6 Na-139 
+K-4.1 Cl-111* HCO3-20* AnGap-12
+___ 03:01AM BLOOD Calcium-8.3* Phos-3.1 Mg-1.8
+ 
+Brief Hospital Course:
+This is a ___ yo lady with PMH of Type I DM and malignant 
+melanoma who presents with an anion gap acidemia in the setting 
+of elevated lactate and glucose in addition to a leukocytosis of 
+unclear source. 
+
+# Metabolic Acidemia: Pt had AG metabolic acidosis upon arrival 
+to MICU, most likely ___ to DKA considering history of 
+uncontrolled blood glucose. AG metabolic acidosis could also be 
+___ lactic acidosis given her elevated lactate of 4.4 (now 
+downtrending to 3.0).  Her elevated lactate may be associated 
+with pt's DKA or associated with potential toxic ingestion of 
+salicylates (pt currently taking Aspirin).  Given that bicarb 
+may worsen the hypokalemia and hyperosmolarity observed in DKA, 
+bicarbonate was avoided in empiric treatment of lactic acidosis. 
+ Patient's lactate stabilized during hospitalization. Repeat ABG 
+showed resolution of acidemia.  Patient received aggressive 
+fluid resuscitation with D5 NS + K.  Patient was restarted on 
+insulin drip and converted to insulin sliding scale per 
+recommendation from ___ Endocrinology.
+
+# Hyperglycemia/Insulin Dependant Diabetes:  Pt had a blood 
+glucose of 547 upon transfer to the MICU as well as an AG of 36. 
+___ Endocrinology found that the patient's insulin pump was 
+malfunctioning and the likely cause of this episode of DKA.
+
+#Leukocytosis: The patient was admitted with an elevated WBC of 
+22.4.  The patient had no clear source of infection (clinically 
+afebrile with negative blood cultures and negative abdominal CT 
+and CXR).  Leukocytosis was most likely in association with DKA. 
+During the patient's hospitalization, her WBC downtrended.
+
+#HYPERLIPIDEMIA: Patient was continued on home dose of 
+simvastatin.
+
+#HTN: Patient was continued on home moexipril.
+.
+===================
+TRANSITION OF CARE:
+- Pt had leukocytosis during hospitalization, no suspected 
+infectious focus: please recheck CBC at PCP appointment, and 
+follow up blood cultures
+- Pt needs more diabetes education (possibly reusing lancets for 
+fingersticks) 
+ 
+Medications on Admission:
+INSULIN PUMP (HUMALOG INSULIN) 
+MOEXIPRIL [UNIVASC] - 15 mg Tablet - 1 Tablet(s) by mouth once a 
+day
+SIMVASTATIN  
+ASPIRIN [BABY ASPIRIN] 
+MULTIVITAMIN WITH MINERALS 
+PYRIDOXINE [VITAMIN B-6]  
+
+ 
+Discharge Medications:
+1. moexipril 15 mg Tablet Sig: One (1) Tablet PO once a day.  
+2. Insulin Pump IR1250     Misc Sig: humalog insulin  
+Miscellaneous as directed: humalog insulin pump per previous 
+home regimen.  
+3. Aspir-81 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+4. multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+5. simvastatin  Oral
+6. pyridoxine  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diabetic ketoacidosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure participating in your care at ___ 
+___. You were admitted to the hospital with 
+high blood sugars (diabetic ketoacidosis). You were started on 
+an insulin drip to treat your high blood sugars.  You also 
+received IV fluids because you were dehydrated and to fix your 
+electrolyte imbalance.  Your white blood cell count was also 
+higher than normal, but we found no sign of infection and your 
+white blood cell count has decreased over the past two days.  
+You were seen by ___ who examined your insulin pump and found 
+that your pump was malfunctioning, and because you were not 
+receiving insulin, your blood sugars were high.
+
+.
+Please attend the follow up appointments listed below with your 
+primary care doctor and your ___ physician.
+.
+We did not make any changes to your home medications. Please 
+continue taking them as you were prior to hospitalization. Per 
+your endocrinologist, your Pump ___ insulin plan is:
+
+Home pump settings (units/hr):
+Midnight 1
+5am      1.8
+7am      1.4
+10a      0.8
+12p      0.6
+6p       0.6
+Insulin drip @ 1.5 units/hr.
+
+___-- 1:11g breakfast, 1:10g lunch, 1:8g dinner
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=14095761-DS-8 | hadm_id=25428685
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DKA
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo W with PMH of Type I DM and malignant melanoma who 
+developed nausea, vomitiing, fatigue day of admission. Pt had 
+been away in ___ with her family over the weekend. She 
+was feeling well on ___, but did not sleep well ___ 
+night. ___ morning, she awoke feeling weak and with diffuse 
+achiness. She stayed in bed during the day while her husband and 
+family were out. She continued to feel worse at the time they 
+returned, and family decided to drive back home. En route, she 
+developed nausea and vomiting (4 times over 4 hours). She 
+recently had last dose of adjuvant chemotherapy on ___ and 
+was doing well. 
+.
+In the ED, VS: T 95.7, HR 98, BP 117/57, RR 24, 99%RA. Patient 
+received 3L NS, 8U of Insulin IV and was started on Insulin gtt. 
+Labs were notable for AG of 37, VBG of ___.
+.
+ROS: + productive cough; denies subjective fevers/chills, 
+abdominal pain, chest pain, joint pain, rashes, sick contacts
+.
+
+ 
+Past Medical History:
+) T1DM: Seen at ___ in ___ by Dr. ___. 
+Diagnosed ___ at age ___. Has insulin pump and checks BS tid. 
+Had dilated eye exam ___. +h/o progressive retinopathy. Last 
+seen by podiatry ___. Last known A1c: 9.1 in ___ Focal nodular hyperplasia, followed with serial U/S by GI 
+clinic  
+3) h/o malignant melanoma, ___ level IV, dx ___, left upper 
+ 
+arm, s/p wide excision and negative sentinel node biopsy, no 
+further tx. Had second primary ___ level IV in ___, s/p wide 
+excision with no sentinel node procedure.  
+4) Anticardiolipin Ab  
+5) HTN  
+6) h/o vitreal hemmorhage  
+7) h/o chronic sinusitis, seen by ENT over last year  
+8) migraine headaches  
+9) LBP with disc herniation L5-S1, with compression of L S1 root 
+ 
+10) Infertility, s/p intrauterine fertilization  
+11) Fibroid uterus  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Tmax: 37.6 °C (99.7 °F)
+Tcurrent: 36.6 °C (97.8 °F)
+HR: 85 (85 - 109) bpm
+BP: 134/52(73) {82/40(55) - 140/73(88)} mmHg
+RR: 20 (13 - 23) insp/min
+SpO2: 94% 
+
+GEN: NAD, fatigued
+HEENT: EOMI, PERRL
+NECK: Supple 
+CHEST: CTABL, no w/r/r
+CV: RRR, S1S2, no m/r/g
+ABD: Soft/NT/ND, + BS
+EXT: no cyanosis or edema
+SKIN: warm , no rashes
+NEURO: AAO x 3, CN, strength, sensation grossly intact
+
+ 
+Brief Hospital Course:
+___ yo W with PMH of Type I DM and malignant melanoma 
+presents with DKA likely secondary to viral illness.
+.
+DKA: Pt is a type I diabetic on insulin pump and followed by 
+___.  Pt presented with lack of sleep, fatigue, cough, sore 
+throat, for several days.  Possible DKA precipitated by 
+infection (viral illness URI) and/or insulin pump dysfunction.  
+Pt presented with glucose >1000 and ph 6.99, bicarb 7.  Given 
+fluids and started on an insulin gtt and sent to the ICU.  Pt 
+was given aggressive hydration. The patient's gap closed 
+overnight and switched to started lantus 22units sc qhs and 
+sliding scale (while on pump total basal dose per day is 
+25units). 
+On the medical floor, the patient underwent insulin pump testing 
+that, after subsequent relocation of the injection site away 
+from potentially scarred abdominal tissue, worked appropriately. 
+ The ___ service consulted on the patient when on the medical 
+floor.
+The patient was discharged home to f/u closely with ___.
+
+ARF: Likely ___ to DKA and dehydration. Resolved after IVF 
+administration.
+
+DM 1 uncontrolled with complications: 
+See above.
+
+Melanoma: Hem/Onc was notified.  Continue interferon treatment 
+as outpatient.
+
+ 
+Medications on Admission:
+ASA 81 mg 
+Compazine 10mg PO q6hrs nausea
+Fioricet
+Insulin Pump
+MVI
+Naproxyn
+Rhinocort
+univasc 15mg PO daily 
+Vitamin B 6
+
+ 
+Discharge Medications:
+1. Sucralfate 100 mg/mL Suspension Sig: Ten (10) mL PO four 
+times a day as needed for heartburn: Take for 14 days and then 
+only as needed thereafter.
+Disp:*1 bottle* Refills:*6*
+2. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+3. Vitamin B-6 200 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO once a day: TAKE PRIOR OUTPATIENT 
+DOSE.  
+4. Moexipril 15 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*4*
+6. Rhinocort Aqua 32 mcg/Actuation Spray, Non-Aerosol Sig: One 
+(1) spray Nasal once a day: TAKE PER PRIOR OUTPATIENT DOSAGE AND 
+FREQUENCY.  
+7. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Zofran 4 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Interferon Alfa-2B 6,000,000 unit/mL Solution Sig: One (1) 
+dose Injection once a month: NOTE: TAKE INTEFERON TYPE, DOSING 
+NAD FREQUENCY PER ONCOLGISTS.  THE ABOVE IS NOT CORRECT 
+INTERFERON DOSE, FREQUENCY AND TYPE.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Diabetic Ketoacidosis
+Upper GI Bleed
+ 
+Discharge Condition:
+Vital Signs Stable
+ 
+Discharge Instructions:
+Return to ED if having high ___ not able to be adequetely 
+controlled with insulin pump, red blood or brown coffee-grind 
+appearance in vomit, copious black tarry stool, 
+light-headedness.
+
+DO NOT USE NAPROXYN, MOTRIN OR ASPIRIN UNTIL DISCUSSION WITH 
+PCP.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,445 @@
+===== DISCHARGE NOTE =====
+note_id=12166207-DS-8 | hadm_id=28417715
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending: ___
+ 
+Chief Complaint:
+epigastric/LUQ pain 
+ 
+Major Surgical or Invasive Procedure:
+EGD
+
+ 
+History of Present Illness:
+Patient is a ___ y/o F with history of Ulcerative Colitis, PUD, H 
+Pylori, who presents with 3 days of burning LUQ pain. 
+
+<br>The patient reports that she first developed this pain while 
+eating dinner about 3 night ago. She was eating a veggie burger 
+with lettuce and onion rings and developed LUQ burnign pain that 
+wraps around to her back. She reports that it feels like a 
+burning stabbing pain. It is ___ at its worse. The pain is 
+constant but it intermittently becomes more severe. She reports 
+nausea, but no vomitting. No diarrhea. No fevers or chills. She 
+reports increasing belching, and when the pain becomes more 
+severe, she is get sweats. She had a yellow stool several days 
+ago, which is unusual for her. She has never had pain like this 
+before. She denies chest pain or shortness of breath. The 
+patient reports that the burnig is worse when lying flat and 
+better when laying at an incline. Of note, her ulcerative 
+colitis has been well controlled for the past ___ years, previous 
+to that she had flares about ___. Hasnt eaten much the 
+past 3 days, but does hurt slightly more after eating. 
+.  
+In the ED, initial VS were: 96.9 84 145/89 16 97% on RA. 
+Required IV morphine and then IV dilaudid for pain control. Labs 
+unremarkable. CT abdomen done which did not show explanation for 
+the pain; initial read with ?small bowel thicking in LUQ likely 
+due to underdistension (did not come through in final read). GI 
+called, did not recommend antibiotics or other therapies. 
+Admitted to medicine for pain control.  
+
+<br>Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, recent weight loss or gain. Denies 
+headache, cough, shortness of breath. Denied chest pain or 
+tightness, palpitations. Denied diarrhea, constipation. No 
+dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+- Ulcerative colitis  
+- Peptic ulcer disease and GERD  
+- H.pylori Ab positive ___, treated with prevpac.  
+- ?Nephrolithiasis (presented in ___ with flank pain; CT 
+showed 1 mm hyperdensity for which stone could not be ruled out) 
+ 
+- Obesity  
+- Vitamin D deficiency  
+ 
+Social History:
+___
+Family History:
+Mom had ___, Dad with angina, hiatal hernia, and died of lung 
+CA. Son has ulcerative colitis as well. 
+ 
+Physical Exam:
+Vitals: T: ___ BP: 104/63 P: 63 RR: 20 O2Sat: 100% RA
+Gen: no acute distress
+HEENT: Clear OP, MMM
+NECK: Supple, No LAD, No JVD
+CV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops
+LUNGS: CTA, BS ___, No W/R/C
+ABD: obese. + BS. soft. tender to epigastric region and upper 
+left quadrant, just under costal margin. no rebound
+EXT: No edema. 2+ DP pulses ___
+SKIN: No lesions
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. ___ strength throughout. ___ reflexes, 
+equal ___. Normal coordination. Gait assessment deferred
+PSYCH: Listens and responds to questions appropriately, pleasant
+ 
+Pertinent Results:
+___ 02:00PM BLOOD WBC-8.7 RBC-4.35 Hgb-12.9 Hct-37.0 MCV-85 
+MCH-29.8 MCHC-35.0 RDW-13.3 Plt ___
+___ 06:30AM BLOOD Glucose-98 UreaN-13 Creat-0.8 Na-142 
+K-4.3 Cl-105 HCO3-30 AnGap-11
+___ 02:00PM BLOOD ALT-21 AST-23 LD(LDH)-182 CK(CPK)-136 
+AlkPhos-102 TotBili-0.3
+___ 02:00PM BLOOD Lipase-41
+___ 02:00PM BLOOD CK-MB-3 cTropnT-<0.01
+
+EGD ___
+Abnormal mucosa in the stomach (biopsy, biopsy)
+Abnormal mucosa in the duodenum
+Otherwise normal EGD to second part of the duodenum
+ 
+Brief Hospital Course:
+Pt is a ___ y/o F with history of ulcerative colitis, PUD, H 
+pylori (treated with prevpak ___ who presents with burning 
+epigastric pain. 
+
+Hospital Course
+
+Epigastric/LUQ pain: Burning pain, worse when laying flat. 
+Intially consider ulcer, h pylori. CT scan in ER was normal. EGD 
+on HD 2 showed mild gastritis, but nothign to explain such 
+severe ___ pain. While in the hospital the area that has this 
+burning pain (left flank) also became pruritis. It is possible 
+that this was musculoskeletal pain. Possibility of zoster also 
+raised, but patient never developed rash in the area. Treated 
+pain with tylenol, NSAIDs and oxycodone. Patient instructed to 
+not take motrin for  more than about a week. She was put on 
+pantoprazole twice daily. Instructed not to drive when taking 
+oxycodone. She will follow up with her PCP next week. If rash 
+develops, she knows to call PCP. 
+GI will follow up EGD biopsies. 
+
+Ulcerative Colitis: currently stable. This presentation doesnt 
+seem related to UC, as BMs not loose, wbc normal.
+- continue asocol (lialda not formulary)
+
+ 
+Medications on Admission:
+MESALAMINE (lialda) 1.2 gram Tab Delayed Release - ___ Tablet 
+daily  
+PANTOPRAZOLE 40 mg once to twice a day  
+CHOLECALCIFEROL 1,000 unit daily  
+Calcium/vitamin D 600 daily  
+Fish oil 1200 daily  
+MULTIVITAMINS WITH MINERALS 1 Tablet(s) by once daily 
+ 
+Discharge Medications:
+1. Lialda 1.2 g Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Vitamin D 1,000 unit Capsule Sig: One (1) Capsule PO once a 
+day.  
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+5. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a day. 
+ 
+6. Sarna Anti-Itch 0.5-0.5 % Lotion Sig: One (1)  Topical twice 
+a day as needed for itching.
+Disp:*120 grams* Refills:*0*
+7. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+8. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for pain.  
+9. Oxycodone 5 mg Tablet Sig: ___ Tablets PO every eight (8) 
+hours as needed for pain if tolerating po.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gastritis
+Pruritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain in the 
+left upper quadrant of your abdomen. You had an EGD that showed 
+some mild inflammation around the sphincter that connects your 
+stomach with your duodenum. For this, you should take 
+Pantoprazole twice a day. Additionally, they performed biopsies 
+for h. pylori, someone from ___ will contact you about the 
+results of that. 
+
+It is possible that you have shingles in the area, but is 
+unusual that you don't have a rash. Please follow up with your 
+Nurse Practitioner to take a look at the skin sometime next 
+week. 
+
+Please take all medications as prescribed. The following changes 
+were made to your medication regimen: 
+1. Please increase pantoprazole to twice a day. 
+2. Take Tylenol 1gm every 6 hours for pain
+3. Take Motrin 200-400mg up to twice a day, please do not take 
+this for more than a week given your Ulcerative colitis
+4. If you still have pain despite the above, you can take 
+Oxycodone ___ up to 3 times a day. Please do not drive or 
+operate machinery while taking oxycodone
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12166207-DS-9 | hadm_id=29597516
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Tetanus / Ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Morbid obesity
+ 
+Major Surgical or Invasive Procedure:
+___: Laparoscopic adjustable gastric band placement.
+
+ 
+History of Present Illness:
+___ has class III morbid obesity with weight of 269.5 pounds 
+as of ___.  Her initial screen weight on ___ was 265.1 
+pounds.  Her height is 62 inches and her BMI is 49.3.  Her 
+previous weight loss efforts have included Weight Watchers x 2 
+in the late ___ and early ___, ___ 3 between ___ 
+and ___, 6 months of Slim-Fast in the late 1980s, hypnosis x 1 
+in ___ without results and she did prescription weight loss 
+medications including Redux in the 1990s in 6 months losing less 
+than 10 pounds and sibutramine (Meridia) around ___ for one 
+months losing less than 10 pounds.  Both of these prescription 
+medications have been taken off the market by FDA 
+recommendations.  She has not taken over-the-counter 
+ephedra-containing appetite suppressants or herbal supplements. 
+She weighed 120 pounds at age ___ with her lowest adult 106 
+pounds and her highest weight being her current weight of 269.5 
+pounds. She stated she has been struggling with weight since the 
+age of ___ and cites as factors contributing to her excess weight 
+smoking cessation, depression over weight and health issues, 
+genetics, too many carbohydrates and saturated fats, stress and 
+lack of exercise.  She recently had knee injury but she now is 
+able to walk for long periods of time slowly increasing exercise 
+and she does have a gym membership and equipment at home that 
+she is planning on using.  She denied history of eating 
+disorders and does not have a diagnosis of depression except for 
+situation no around her weight.  She has not seen a therapist 
+nor has she been hospitalized for mental health issues and she 
+is not currently on any psychotropic medications.
+
+ 
+Past Medical History:
+Past Medical History:
+1.  Asthma.
+2.  Thoracic outlet syndrome.
+3.  Gastroesophageal reflux (manometry demonstrated normal
+    motility with exception of incomplete lower esophageal
+    sphincter relaxation).
+4.  H. pylori positivity status post treatment.
+5.  History of ulcerative colitis.
+6.  Hiatal hernia based on endoscopy.
+7.  Polycystic ovary disease.
+8.  Carpal tunnel.
+9.  Migraine headaches, now resolved.
+10.  Mild stress urinary incontinence.
+11.  Iron deficiency anemia.
+12.  Fatty liver.
+13.  Obstructive sleep apnea, recommended CPAP.
+
+Past Surgical History:
+1.  Left oophorectomy, ___.
+2.  Tubal ligation ___.
+3.  Cesarean section, ___ and ___.
+4.  Left carpal tunnel release ___
+
+ 
+Social History:
+___
+Family History:
+Family history is noted for father deceased age ___ of lung CA, 
+heart disease, asthma, hyperlipidemia and obesity; mother living 
+age ___ with diabetes, asthma, arthritis and obesity; grandmother 
+deceased age ___ of stroke; aunt deceased age ___ of colon CA; 
+brother living age ___ overweight; son with ulcerative colitis.
+ 
+Physical Exam:
+Vital signs: T 97.2, HR 58, BP 100/58, RR 18, O2 95% RA
+
+Constitutional: NAD
+Neuro: Alert and oriented x3
+Cardiac: RRR, NL S1,S2, No MRG
+Lungs: CTA B
+Abdomen: Obese, soft, appropriate ___ tenderness, no 
+rebound tenderness/ guarding
+Wounds: Abd lap sites CDI
+ 
+Brief Hospital Course:
+The patient presented to pre-op on ___. Pt was 
+evaluated by anaesthesia and taken to the operating room for 
+laparoscopic adjustable gastric band placement; no hiatal hernia 
+was identified. There were no adverse events in the operating 
+room; please see the operative note for details. Pt was 
+extubated, taken to the PACU until stable, then transferred to 
+the ward for observation. 
+
+Neuro: The patient was alert and oriented throughout her 
+hospitalization; pain was controlled with oral Roxicet 
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization. 
+GI/GU/FEN: She was initially on bariatric stage 1 diet, which 
+was advanced sequentially to stage 3, and well tolerated. 
+Patient's intake and output were closely monitored. 
+ID: The patient's fever curves were closely watched for signs of 
+infection, of which there were none.
+Prophylaxis: The patient received subcutaneous heparin and ___ 
+dyne boots were used during this stay; she was encouraged to get 
+up and ambulate as early as possible.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a stage 3 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan
+
+ 
+Medications on Admission:
+Balsalazide 750 mg BID
+Rowasa 4 gram/ 60 mL kit q HS
+Furosemide 20 mg QD prn swelling
+Lansoprazole 30 mg QD
+MVI w/ minerals QD
+CaCO3 500 BID
+Vitamin D3 2,000 QD
+Roxicet ___ mL q HS back pain
+ES Tylenol 1,000 mg prn headache
+ 
+Discharge Medications:
+1. oxycodone-acetaminophen ___ mg/5 mL Solution Sig: ___ MLs 
+___ Q4H (every 4 hours) as needed for Pain.
+Disp:*250 ML(s)* Refills:*0*
+2. docusate sodium 50 mg/5 mL Liquid Sig: Ten (10) ml ___ twice a 
+day as needed for Consitpation.
+Disp:*300 ml* Refills:*0*
+3. lansoprazole 30 mg Tablet,Rapid Dissolve, ___ Sig: One (1) 
+Tablet,Rapid Dissolve, ___ ___.  
+4. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet ___ 
+___.  
+5. balsalazide 750 mg Capsule Sig: Three (3) Capsule ___ twice a 
+day.  
+6. furosemide 10 mg/mL Solution Sig: One (1) ml ___ once a day as 
+needed for swelling.  
+7. Rowasa 4 gram/60 mL Kit Sig: One (1) Kit Rectal at bedtime as 
+needed for Flare.  
+8. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable ___ once a day.  
+9. Vitamin D-3 2,000 unit Tablet Sig: One (1) Tablet ___ once a 
+day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Obstructive sleep apnea.
+2. Morbid obesity.
+3. Gastroesophageal reflux.
+4. Stress urinary incontinence.
+5. Fatty liver.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions: Please call your surgeon or return to 
+the emergency department if you develop a fever greater than 
+101.5, chest pain, shortness of breath, severe abdominal pain, 
+pain unrelieved by your pain medication, severe nausea or 
+vomiting, severe abdominal bloating, inability to eat or drink, 
+foul smelling or colorful drainage from your incisions, redness 
+or swelling around your incisions, or any other symptoms which 
+are concerning to you.
+
+Diet: Stay on Stage III diet until your follow up appointment. 
+Do not self advance
+diet, do not drink out of a straw or chew gum.
+
+Medication Instructions:
+Resume your home medications except:
+1.  Decrease furosemide 10 mg ___ please notify prescribing 
+provider of this change, CRUSH ALL PILLS.
+You will be starting some new medications:
+1.  You are being discharged on medications to treat the pain 
+from your operation. These medications will make you drowsy and 
+impair your ability to drive a motor vehicle or operate 
+machinery safely. You MUST refrain from such activities while 
+taking these medications.
+2. You should begin taking a chewable complete multivitamin with 
+minerals. No gummy vitamins.
+3. You should take a stool softener, Colace, twice ___ for 
+constipation as needed, or until you resume a normal bowel 
+pattern.
+4. You must not use NSAIDS (non-steroidal anti-inflammatory 
+drugs) Examples are Ibuprofen, Motrin, Aleve, Nuprin and 
+Naproxen. These agents will cause bleeding and ulcers in your 
+digestive system.
+
+Activity:
+No heavy lifting of items ___ pounds for 6 weeks. You may 
+resume moderate exercise at your discretion, no abdominal 
+exercises.
+
+Wound Care:
+You may shower, no tub baths or swimming. 
+If there is clear drainage from your incisions, cover with 
+clean, dry gauze. 
+Your steri-strips will fall off on their own. Please remove any 
+remaining strips ___ days after surgery.
+Please call the doctor if you have increased pain, swelling, 
+redness, or drainage from the incision sites. 
+
+ 
+Followup Instructions:
+___

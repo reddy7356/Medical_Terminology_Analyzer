@@ -1,0 +1,601 @@
+===== DISCHARGE NOTE =====
+note_id=13723236-DS-2 | hadm_id=25636082
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HMED Admission Note
+Date of note: ___
+
+PCP:  : ___. 
+Location: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+
+CC: fall, hypoxia
+
+HPI: Ms. ___ is a ___ yo female here with fall and hypoxia.  
+She presented to the ED after being found on the floor of the 
+kitchen by her daughter, with un-witnessed episode. She does not 
+remember what happened. There is some mention of dizziness. She 
+was found to have a cut on the back of her head and brought in 
+to the ED.   She had trauma evaluation in the ED, but workup was 
+negative for new fracture.  She had a prior fall in ___, 
+for which she was seen elsewhere, not admitted, but diagnosed 
+with an infection.  The etiology of the fall was not clear, 
+although she recently moved into a new apartment with her 
+daughter and it is up stairs, and she is nervous about walking 
+up stairs.
+
+She denied preceding chest pain, palpitations, shortness of 
+breath, headaches.
+
+She was monitored int he ED, but then had episodes of 
+desaturation in the ED, and was admitted.  She denies Sob, 
+cough, but does complain of chronic rhinorrhea.  No fevers or 
+chills.
+
+She has not felt herself since her fall in ___.
+
+Her ROS is positive for chronic rhinorrhea, claudication type 
+leg symptoms, and some dizziness.  Otherwise negative in 6 other 
+systems.
+
+ 
+Past Medical History:
+PMH:
+Hypertension
+PVD
+CAD, prior stent
+Prior CEA on right
+Hypothyroidism
+
+ 
+Social History:
+___
+Family History:
+FH:
+No syncope.
+
+ 
+Physical Exam:
+                                                 
+
+Physical exam
+afebrile, 136/78 HR 65, RR 15  98% 2L
+Gen:  In NAD, younger than stated age.
+HEENT:  PERRL, EOMI.  No scleral icterus.  No conjunctival 
+injection.   Mucous membranes moist.  No oral ulcers. Hematoma 
+on left occiput.
+Neck:  Supple, no LAD, no JVP elevation.Prior CEA scar on right, 
+bilateral carotid bruits.
+Lungs: diminshed at bases, but otherwise CTA bilaterally, no 
+wheezes, rales, rhonchi.  Normal respiratory effort.
+CV:  RRR, no murmurs, rubs, gallops.
+Abdomen:  soft, NT, ND, NABS, no HSM.
+Extremities:  warm and well perfused, shiny, hairless, 
+hemosiderin deposits.
+Neurological:  alert and oriented X 3, CN II-XII intact, hard of 
+hearing, hearing aid in left.  No pronator drift.  Full strength 
+in upper and lower extremities, downgoing toes.  
+Skin:  No rashes or ulcers.
+Psychiatric:  Appropriate.
+GU:  deferred.
+
+ 
+Pertinent Results:
+___ 09:30AM BLOOD WBC-11.4* RBC-4.30 Hgb-13.5 Hct-41.9 
+MCV-97 MCH-31.4 MCHC-32.2 RDW-14.4 RDWSD-51.2* Plt ___
+___ 09:30AM BLOOD Neuts-72.5* Lymphs-18.7* Monos-5.6 
+Eos-1.2 Baso-0.8 Im ___ AbsNeut-8.26* AbsLymp-2.13 
+AbsMono-0.64 AbsEos-0.14 AbsBaso-0.09*
+___ 09:30AM BLOOD ___ PTT-28.2 ___
+___ 09:30AM BLOOD Glucose-115* UreaN-31* Creat-1.2* Na-139 
+K-5.3* Cl-105 HCO3-26 AnGap-13
+___ 09:30AM BLOOD Calcium-9.7 Phos-3.2 Mg-2.2
+___ 06:06AM BLOOD ___ pO2-67* pCO2-41 pH-7.42 
+calTCO2-28 Base XS-1 Intubat-NOT INTUBA
+
+UA negative - with 7 WBCs, no bacteria
+
+CXR with bibasilar infiltrates - either infectious or 
+atelectasis.
+
+Cspine and thoracic CTS:
+
+Lspine:
+IMPRESSION:  
+  
+L1 compression fracture with retropulsed osseous fragment is 
+likely chronic.  There is no other evidence of fracture.  
+Anterior subluxation of L5 on S1 is due to degenerative disc 
+disease. 
+
+T spine - 
+no fractures
+
+C spine:
+1.  Os odontoideum or chronic odontoid fracture with slight 
+displacement 
+posteriorly of the odontoid tip.  Mechanical stability at this 
+level is 
+unknown. 
+  
+No evidence of recent fracture. 
+  
+2.  Degenerative change at C4 causes moderate narrowing of the 
+transverse 
+foramen on the left.  Evaluation of the vertebral artery at this 
+level is 
+limited without IV contrast, however this finding is chronic. 
+  
+3.  Osteopenia and moderate degenerative change are seen 
+throughout the 
+cervical spine as detailed above. 
+
+EKG sinus bradycardia, LAFB
+
+ 
+Brief Hospital Course:
+Assessment and Plan: Ms. ___ is a ___ yo female here with a 
+fall vs syncope, with unclear history, and now hypoxia, with no 
+localizing symtpoms.
+
+## Fall or syncope.
+## Compression fx
+## Odontoid fx
+unclear etiology, does not recall event.  Work up negative here 
+for cardiac or neurologic etiology.  She worked well with ___.  
+Neurosurgery was consulted given odontoid fx, but flexion 
+extension xrays were re-assuring.  She was treated with Tylenol 
+and low dose oxycodone for pain.  Tramadol caused nausea.  Close 
+PCP follow up was recommended
+
+##  Hypoxia, without symptoms.  CXR with likely atelectasis.  
+Improved with ambulation and incentive spirometry
+
+## Possible CKD, stage II, with mild hyperkalemia
+- held ___, recheck in AM.  Resumed on discharge
+
+## Bilateral carotid bruits, PVD, Prior CAD
+- asa 81 mg po daily
+- duplex ultrasounds did not demonstrate severe disease
+
+## Hypothyroidism
+- continued home medicaitons
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 300 mg PO TID 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Losartan Potassium 25 mg PO DAILY 
+5. meloxicam 15 mg oral DAILY:PRN pain 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Rolling Walker
+Rolling walker
+dx: fall, prognosis: good
+length of need: 13 months
+2. Aspirin 81 mg PO DAILY 
+3. Gabapentin 300 mg PO TID 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. Metoprolol Succinate XL 50 mg PO DAILY 
+6. Losartan Potassium 25 mg PO DAILY 
+7. meloxicam 15 mg ORAL DAILY:PRN pain 
+8. Senna 8.6 mg PO BID:PRN c 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+9. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+10. Acetaminophen 650 mg PO Q8H 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth four times a day 
+Disp #*120 Tablet Refills:*0
+11. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth every four 
+(4) hours Disp #*28 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Syncope
+Compression fx
+Hypertension
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted post fall.  You were found to have old 
+compression fractures in your spine.  Evaluation for your fall 
+did not find a clear cause.  This could be related to 
+unsteadiness as a result of past falls and a concussion.  Please 
+ambulate VERY carefully with your walker.  Please take all 
+medications as prescribed.
+
+Please follow up with your PCP ___ 1 week.  Do not drink 
+alcohol or drive while taking your pain medications
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13723236-DS-3 | hadm_id=26028332
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back and abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo F with hx of CAD s/p stent, hypothyroidism who was 
+recently admitted ___ after a fall (w/no fx noted at that 
+time), now returning w/continuing back pain and abdominal pain. 
+
+On ___ she presented to the ED after being found on the floor 
+of the kitchen by her daughter, with un-witnessed fall. She 
+reports that she was walking across the kitchen floor when she 
+suddenly lost her balance. Denies any dizziness, nausea, warmth, 
+CP, palpitations - she just felt off-balance and fell. No LOC. 
+She was admitted because she was mildly hypoxic in the ED. CT 
+C,T, and L spine were negative for new fracture at that time (CT 
+C-Spine showed chronic odontoid
+fracture and chronic L1 compression fracture, both managed
+non-operatively by neurosurgery). Per discharge summary, "work 
+up negative here for cardiac or neurologic etiology;" unclear 
+exactly what was done, but she had no ECHO, did have carotid 
+imaging that showed Right ICA 40-59 % stenosis and Left ICA  
+40-59% stenosis.  She worked ___ and was tx with Tylenol and 
+low dose oxycodone for pain.  Hypoxia resolved w/ambulation and 
+with IS.
+
+After discharge she had ongoing back pain and new abdominal 
+pain. She was treated with low dose oxycodone but hasn't been 
+taking month. Last stool was 3 days ago, also not passing flatus 
+she believes. The back pain has now moved to the ABD as well. 
+She denies numbness, weakness, tingling, bowel or bladder 
+changes.  She reports she is able to ambulate without 
+difficulty.
+
+Of note she also had a fall in ___ when she lost balance 
+walking up the stairs. She had another fall 1.5 mo ago when she 
+lost balance on the walkway to her daughter's house; that time 
+she did experience some dizziness. She denies any chronic 
+disequilibrium or numbness/tingling in the legs.
+
+In the ED, initial vitals were: 96.2 60 175/56 20 96% RA
+Labs were notable for: Cr 1.1 up from 0.9 on discharge, with BUN 
+37 up from 17 at discharge. Lactate 1.3. UA neg. 
+Patient was given: 
+___ 11:32 IV Morphine Sulfate 2 mg 
+___ 11:32 IV Ondansetron 4 mg 
+___ 11:32 IVF 1000 mL NS 1000 mL 
+___ 18:22 PO Magnesium Citrate 300 mL 
+Consults: Seen by ortho spine who stated that she is 
+neurologically intact and declined any surgical intervention.
+CT abdomen/pelvis incidentally showed T10 burst fracture with 
+25% loss of height and 3mm retropulsion. 
+
+On the floor, she continues to complain of abd pain and still 
+hasn't had a BM.
+
+ 
+Past Medical History:
+PMH:
+Hypertension
+PVD
+CAD, prior stent
+Prior CEA on right
+Hypothyroidism
+
+ 
+Social History:
+___
+Family History:
+___:
+No syncope.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: 97.4 ___ 68 20 98 RA 
+General: Alert, oriented, no acute distress, conversant and good 
+historian
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: Supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, diffusely mildly tender, non-distended, bowel 
+sounds present, no organomegaly, no rebound or guarding
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Bilateral dark discoloration c/w venous stasis changes 
+over anterior shins bilaterally
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred. No problem w/FNF. 
+
+DISCHARGE PHYSICAL EXAM
+Vitals: T 98.1 BP 124/61 HR 81 RR 16 93 RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: Supple
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Faint crackles at bases bilaterally, no wheezes
+Abdomen: Soft, non tender, mild distension, bowel sounds 
+present, no rebound or guarding
+GU: No foley
+Ext: Warm, well perfused, no clubbing, cyanosis or edema.
+Neuro: CN II-XII intact, ___ ___ strength, SILT ___ and ___
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 11:15AM   PLT COUNT-202
+___ 11:15AM   NEUTS-60.5 ___ MONOS-10.0 EOS-3.9 
+BASOS-0.9 IM ___ AbsNeut-5.73 AbsLymp-2.28 AbsMono-0.95* 
+AbsEos-0.37 AbsBaso-0.09*
+___ 11:15AM   WBC-9.5 RBC-3.86* HGB-12.1 HCT-37.7 MCV-98 
+MCH-31.3 MCHC-32.1 RDW-14.3 RDWSD-51.0*
+___ 11:15AM   ALBUMIN-4.2 CALCIUM-9.3 PHOSPHATE-3.0 
+MAGNESIUM-3.2*
+___ 11:15AM   LIPASE-21
+___ 11:15AM   ALT(SGPT)-12 AST(SGOT)-25 ALK PHOS-73 TOT 
+BILI-0.4
+___ 11:15AM   GLUCOSE-110* UREA N-37* CREAT-1.1 SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-30 ANION GAP-14
+___ 11:37AM   LACTATE-1.3
+___ 11:37AM   TYPE-MIX COMMENTS-GREEN TOP
+___ 12:57PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+___ 12:57PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 12:57PM URINE  GR HOLD-HOLD
+___ 12:57PM URINE  UHOLD-HOLD
+___ 12:57PM URINE  HOURS-RANDOM
+___ 12:57PM URINE  HOURS-RANDOM
+
+DISCHARGE LABS:
+___ 05:45AM BLOOD WBC-10.6* RBC-4.21 Hgb-13.4 Hct-41.4 
+MCV-98 MCH-31.8 MCHC-32.4 RDW-14.4 RDWSD-51.8* Plt ___
+___ 05:45AM BLOOD Glucose-106* UreaN-23* Creat-1.3* Na-134 
+K-5.3* Cl-97 HCO3-25 AnGap-17
+___ 05:48AM BLOOD CK(CPK)-72
+___ 05:45AM BLOOD Calcium-10.1 Phos-5.0* Mg-2.3
+
+IMAGING:
+XR T/L Spine ___
+Mild degenerative changes at the thoracic and lumbar spine 
+including mild anterolisthesis of L5 are demonstrated.  There is 
+no evidence of new fracture with unchanged appearance of the 
+compression fracture of L1.  The findings are better appreciated 
+and delineated on the recent CT. Extensive calcifications of the 
+aorta and aortic branches is demonstrated as well as calcified 
+mediastinal lymph node. 
+
+CT ABD/PELVIS
+1. Subacute burst fracture of T10 with interval development of 
+25% height lossand 3 mm of bony retropulsion.MR can be obtained 
+for further assessment if clinically indicated.
+2. No small bowel obstruction or aortic aneurysm.
+3. Stable compression deformity of L1.
+4. Moderate stool burden, predominately in the right colon.
+
+ 
+Brief Hospital Course:
+___ yo F with recent admission for fall ___ with no acute 
+pathology identified at that time, who returns  with continued 
+back pain and new abdominal pain, found to have T10 burst 
+fracture.
+
+ACTIVE ISSUES:
+
+# T10 burst fracture: ___ recent fall. She was evaluated by 
+ortho spine and found to have no neurologic deficits on exam, so 
+conservative management ___ and pain control was recommended. 
+This fracture was  are most likely osteoporotic in origin given 
+non-traumatic nature (fall from standing height). She was 
+treated with tylenol, low dose oxycodone, and nasal calcitonin 
+for pain. She was started on calcium, vit D. She was fitted for 
+a TLSO brace prior to discharge discharge and ambulating with 
+brace and assistance.
+
+#Multiple falls: She reported falls in ___ and again one month 
+prior to this admission. Inpatient work-up included an EKG (no 
+chnage), monitoring on tele (no arrythmia noted), and ___ 
+evaluation of her balance was within normal limits.  Her falls 
+seemed most likely to be mechanical in origin. Head CT negative 
+on ___. 
+
+# Abdominal pain: This was due to constipation and resolved with 
+an aggressive bowel regimen, even though patient did not have 
+regular bowel movements during her hospital course.
+
+#Mild ___: BUN 37, Cr 1.1 on admission. These were increased 
+from her recent discharge labs. This was most likely prerenal 
+___ in setting of poor PO intake. She got a total of 2L IVF 
+during her admission. Cr at discharge was 1.3 in setting of 
+continuing decreased PO intake because she did not like the 
+food. Losartan was also held. 
+
+#Hyperkalemia: Unclear etiology, but patient was put on low 
+potassium diet, losartan and heparin were discontinued. On 
+discharge, patient's potassium was downtrending and within 
+normal range.
+
+CHRONIC ISSUES:
+
+#Hypertension: BPs normotensive on the floor even after losartan 
+discontinued. She continued on metoprolol; home losartan held in 
+setting ___ and ___ potassium.
+
+#Prior CAD s/p stent: No chest pain. She continued on ASA 81 mg 
+po daily.
+
+# Hypothyroidism: continued home levothyroxine.
+
+TRANSITIONAL ISSUES:
+
+#Osteoporosis: She should continue calcium and vitamin D. Please 
+discuss risks and benefits of bisphosphonate therapy. Monitor 
+phosphorus within the next 2 weeks and consider stopping vitamin 
+D therapy if persistently elevated phosphorus.
+
+#Constipation: She should continue to take aggressive bowel 
+regimen daily while taking oxycodone. Consider increasing PEG if 
+senna/Colace are not helping.
+
+#Multiple falls: Please consider additional work-up for falls as 
+warranted and based on reported cardiac or neuro symptoms. At 
+this time she has no clear source of her falls besides 
+mechanical falls.
+
+#Back pain: Discharged on short course of oxycodone and with 
+calcitonin. Stop calcitonin when pain is improved or within 1 
+month of injury. 
+
+#Low potassium diet - Hyperkalemia believed to be mainly due to 
+CKD (CrCl = 42).
+
+#Please draw CBC & electrolytes ___ to monitor potassium, 
+Cr, and phosphorous.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 300 mg PO TID 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Losartan Potassium 25 mg PO DAILY 
+6. meloxicam 15 mg ORAL DAILY:PRN pain 
+7. Senna 8.6 mg PO BID:PRN c 
+8. Docusate Sodium 100 mg PO BID 
+9. Acetaminophen 650 mg PO Q8H 
+10. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q8H 
+2. Aspirin 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Gabapentin 300 mg PO TID 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 2.5 mg by mouth q4PRN Disp #*9 Capsule 
+Refills:*0
+8. Senna 8.6 mg PO BID:PRN c 
+9. Calcitonin Salmon 200 UNIT NAS DAILY 
+10. Calcium Carbonate 500 mg PO AT LUNCH AND DINNER 
+11. Polyethylene Glycol 17 g PO BID 
+12. Vitamin D 800 UNIT PO DAILY 
+13. meloxicam 15 mg ORAL DAILY:PRN pain 
+14. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+15. Ondansetron 4 mg PO Q8H:PRN nausea 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+osteoporosis
+t10 burst fracture
+constipation
+hyperkalemia
+
+SECONDARY DIAGNOSES:
+history of CAD
+hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___:
+
+You were admitted to ___ because you had a broken bone in your 
+spine causing you pain. You also had constipation. We treated 
+your spinal fracture with pain medications and you were given a 
+brace to wear. We treated your constipation with laxatives. 
+
+When you leave, please continue to take the sennna and colace 
+for your constipation every day, even if you're having regular 
+bowel movements, for as long as you are taking the oxycodone.
+
+Orthopedics recommend that you mobilize as tolerated, use your 
+brace for comfort if needed, and follow up with Dr. ___ in ___ 
+weeks from discharge.
+
+Information regarding any follow up appointments and discharge 
+medications can be found below.
+
+It was a pleasure to care for you!
+Your ___ team
+ 
+Followup Instructions:
+___

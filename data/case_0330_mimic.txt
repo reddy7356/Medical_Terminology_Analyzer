@@ -1,0 +1,394 @@
+===== DISCHARGE NOTE =====
+note_id=12449180-DS-6 | hadm_id=21810778
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left renal abscess
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:  
+___ year old female with recent diagnosis of pyelonphritis and 
+left renal abscess persenting with left flank pain, low grade 
+temperature, flank and abdominal pain, myalgias. The patient 
+reports the day prior to presentation, she developed left sided 
+flank pain, myalgias, and a low grade fever of 100.5. She denies 
+dysuria, increased urinary frequency, urinary urgency. She also 
+notes epigastric pain and heartburn the day prior to 
+presentation, which subsequently resolved.  
+.  
+The patient's current presentation is similar to when she was 
+first diagnosed with renal abscess on ___ (CT A/P demonstrated 
+a 2.1 x 2.2 cm left renal abscess at the superior pole). The 
+patient was initially found to have a positive UA ___ and 
+was treated with Bactrim, then switched to Cipro by her PCP 
+___ and completed a 7 day course. She initially felt better, 
+but then developed abdominal and flank pain with fevers and 
+chills, and had a renal US and was found to have a right renal 
+abscess. The source was unclear (UTI vs hematogenous). 
+Unfortunately there were no cultures to narrow coverage. She was 
+treated Cefepime with plan to treat for ___ weeks via PICC line. 
+Repeat US on ___ showed decrease in size of abscess suggesting 
+adequate treatment. Of note she missed her most recent 
+appointment on ___, but plan at that time was to continue 
+Cefepime through ___. She is currently followed by ID as an 
+outpatient and reports she has been compliant with her Cefepime. 
+Of note, the patient had blood cultures ___ which grew coag 
+negative Staph.  
+.  
+In the ED, VS: T99.8 ___ R18 99%RA.  
+Her PICC line was found to be erythematous but without drainage. 
+The patient reports she experienced pain at the L ___ site last 
+week, but had a ___ nurse visit and examine the site and was 
+reassured the ___ site did not appear infected. She denies 
+drainage at the site and reports her pain is improved from last 
+week. She had a UA and labs sent, and blood culture was drawn 
+off the ___. She was given Cefepime 1gm IV x1 in the ED and 
+admitted for further management.  
+.  
+Currently, the patient denies flank or abdominal pain, 
+fevers/chills, dysuria, or other complaints.  
+
+ 
+Past Medical History:
+depression
+
+NKDA
+ 
+Social History:
+___
+Family History:
+noncontributory
+father is a card___ 
+ 
+Physical Exam:
+VS: T97.2 BP 112/74 P75 R18 PO2 96%RA Wt 63.5kg Ht 5'6"  
+Gen: Alert, interactive, well-appearing female in NAD  
+HEENT: No cervical LAD, oropharynx clear, MMM  
+Neck: supple  
+CV: Regularly irregular with ectopy, nl S1, fixed split S2, no 
+m/g/r  
+Pulm: CTAB, no wheezes/rales/rhonchi  
+Abd: Soft, nontender, nondistended, no HSM, +BS  
+Ext: no c/c/pedal edema, ___ pulses 2+ bilaterally  
+Neuro: CNII-XII intact, moving all extremities  
+
+ 
+Pertinent Results:
+___ 08:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR
+___ 08:20PM URINE  ___ BACTERIA-MANY YEAST-NONE 
+___ 04:30PM   GLUCOSE-81 UREA N-11 CREAT-0.7 SODIUM-138 
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-27 ANION GAP-14
+___ 04:30PM   WBC-2.9*# RBC-4.18* HGB-13.7 HCT-38.8 MCV-93 
+MCH-32.8* MCHC-35.3* RDW-13.7
+___ 04:30PM   NEUTS-56.3 ___ MONOS-7.8 EOS-3.8 
+BASOS-1.0
+___ 04:30PM   PLT COUNT-165
+
+Renal U/S ___:  
+Renal ultrasound comparison is made to a prior ultrasound dated 
+___. The right kidney measures 10.5 cm. The left kidney 
+measures 11.9 cm. In the left kidney in the upper pole, there is 
+a hypoechoic lesion with irregular borders, this measures 1.5 x 
+1.4 x 1.3 cm (previously 2.3 x 2.1 x 2.0 cm). There is no 
+hydronephrosis. No stones are seen.  
+Renal ___: Normal renal ultrasound with no discrete fluid 
+collection visualized in the region of the left upper pole at 
+site of known previous abcess. 
+ 
+Brief Hospital Course:
+Pt was admitted to the hospital for left flank pain, low grade 
+temp in setting of known left renal abscess.  Pt had been 
+followed by ID, she had been on Cefepime and had a PICC in left 
+arm.  Pt's renal ultrasound showed that the renal abscess had 
+resolved.  Concern on admission that the PICC may be infected vs 
+DVT as patient reported recent pain at the site and was 
+reportedly erythematous on admission.  U/s of L upper arm was 
+negative for DVT.  Blood cx and cx of PICC tip sent, PICC line 
+pulled.  u/a neg for infection. 
+
+Lab work revealed pt to be leukopenic (2.9) w/ 5% atypicals.  
+Infectious workup included CXR - neg, u/a - neg, HIV - neg, 
+monospot - neg.  Pending labs for f/u include CMV, EBV, lyme and 
+ehrlichea.  
+
+Patient remained afebrile and stable throughout her hospital 
+course.  Flank pain resolved after arriving on floor from ED and 
+she remained asymptomatic while here.  Once antibiotics were 
+discontinued, pt deemed safe to go home with close outpt f/u for 
+pending labs and repeat CBC.  She has an appointment with ID for 
+___ and a PCP appt for next week. 
+ 
+Medications on Admission:
+Cefepime 1gm Q12, started ___ planned to continue until 
+___.  
+Paxil CR 37.5mg daily  
+ 
+Discharge Medications:
+1. Paroxetine HCl 37.5 mg Tablet Sustained Release 24 hr Sig: 
+One (1) Tablet Sustained Release 24 hr PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+resolved Left renal abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for further evaluation of your 
+left renal abscess.  The ultrasound of your left kidney showed 
+that your abscess has resolved.  The infectious disease doctors 
+saw ___ and ___ that your infection has resolved so that you no 
+longer needed your antibiotics; therefore your PICC line was 
+pulled.  The blood cultures and culture from your PICC are still 
+pending; please have your PCP follow up on these results.  
+
+Your lab work showed decreased white blood cells.  We started an 
+infectious workup to determine the cause of this decrease.  It 
+is most likely a viral etiology; all of the tests that have come 
+back so far have been negative.  Please make sure that you 
+follow up with your PCP on ___ for the rest of your 
+results.  
+
+You remained afebrile while in the hospital and reported no 
+concerning symptoms.  Therefore we felt you were safe for 
+discharge with PCP follow up. 
+
+Please make sure to have your lab work repeated at your PCP 
+follow up appointment in order to re-evaluate your white blood 
+cell count.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=12449180-DS-5 | hadm_id=26292376
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+kidney abscess
+ 
+Major Surgical or Invasive Procedure:
+___ line placed ___
+
+ 
+History of Present Illness:
+Pt is a ___ yo F presents to the ER by pcp, ___ 
+(___) due to flank pain and u/s c/w Rt kidney abscess. 
+Initially (___) pt had UA that was positive, treated with 
+Bactrim, but changed by pcp ___ ___ to Cipro, which she 
+completed a 7 day course for. Initially felt better, but on 
+___ began to have abdominal pain and chills despite a neg 
+urine. Sent for u/s where abscess was found.  
+
+ROS: + f/c + nausea, otherwise negative
+
+In ED: 100.1 84 88/50 18 99%RA
+blood pressure responded to IVFs up to systolics 120-130s
+Abdominal CT w/ & w/o showed a superior pole abcsess
+
+17:01 Ondansetron 2mg/mL-2mL 1 
+18:24 Acetaminophen 500 mg Tablet 2 
+18:25 CeftriaXONE 1g x 1 
+19:23 Morphine Sulfate 2mg IV x 2
+IVFs x 3L
+ 
+Past Medical History:
+depression
+
+NKDA
+ 
+Social History:
+___
+Family History:
+noncontributory
+father is a ___
+ 
+___:
+100.8 120/78 90 16 100%RA
+
+GEN: Alert and oriented to person, place and situation; no 
+apperent distress
+HEENT: no trauma, pupils round and reactive to light and 
+accomodation, no LAD, oropharynx clear, no exudates
+CV: regular rate and rhythm, no murmurs/gallops/rubs
+PULM: clear to auscultation bilaterally, no 
+rales/crackles/rhonchi
+GI: soft, appropriately tender, non-distended
+EXT: no clubbing/cyanosis/edema; 2+ distal pulses
+DERM: no lesions appreciated
+.
+Discharge:
+afebrile 120/70  67  16  98RA
+
+ 
+Pertinent Results:
+___ 04:50PM   WBC-9.1 RBC-4.20 HGB-13.2 HCT-38.8 MCV-92 
+MCH-31.4 MCHC-34.0 RDW-12.7
+___ 04:50PM   NEUTS-65.8 ___ MONOS-6.9 EOS-0.4 
+BASOS-0.6
+___ 04:50PM   PLT COUNT-234
+___ 04:55PM   LACTATE-1.3
+___ 05:43PM   K+-3.5
+___ 07:20PM URINE  UCG-NEGATIVE
+___ 07:20PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 07:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 04:50PM   GLUCOSE-80 UREA N-14 CREAT-0.8 SODIUM-132* 
+POTASSIUM-6.8* CHLORIDE-97 TOTAL CO2-26 ANION GAP-16
+.
+___ 05:45AM BLOOD WBC-6.5 RBC-4.00* Hgb-12.9 Hct-37.6 
+MCV-94 MCH-32.4* MCHC-34.4 RDW-12.2 Plt ___
+___ 05:45AM BLOOD Glucose-79 UreaN-8 Creat-0.8 Na-139 K-4.0 
+Cl-100 HCO3-29 AnGap-14
+___ 04:44PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 04:44PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG
+___ 04:44PM URINE RBC-2 WBC-2 Bacteri-FEW Yeast-NONE Epi-23 
+TransE-<1
+.
+___ Abdominal/pelvic CT w/ & w/o IMPRESSION: Left renal 
+superior pole abscess measuring up to 2 cm with associated focal 
+nephronia. 
+.
+___ Renal US IMPRESSION: Slightly smaller upper pole left renal 
+abscess. No other abnormality. 
+
+___ URINE URINE CULTURE-FINAL {YEAST} INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ URINE URINE CULTURE-MIXED BACTERIAL FLORA ( 
+>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL 
+CONTAMINATION. 
+___ BLOOD CULTURE Blood Culture, 
+Routine-PRELIMINARY {STAPHYLOCOCCUS, COAGULASE NEGATIVE}; 
+Aerobic Bottle Gram Stain-FINAL EMERGENCY WARD 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+ 
+Brief Hospital Course:
+___ y/o F who presented to her PCP with ___ fevers and 
+intermittent flank pain over the last several days associated 
+with dysuria. She had a urinary tract infection approximately 2 
+weeks prior treated with a course of Bactrim which was then 
+switched to Keflex. She had persistent symptoms of n/v/f and saw 
+her PCP who got an ultrasound of her kidneys which demonstrated 
+an abscess on her left kidney.  
+.  
+.  
+# Renal abscess, d/t UTI vs hematogenous spread  
+Pt was evaluated by Urology and Infectious Disease. Because the 
+abscess was <3cm, it was decided to pursue medical management 
+with IV antibiotics without a procedure to drain the abscess.  
+Unfortunately, all cultures were contaminated with mixed flora, 
+thus there is not reliable culture data to guide narrowing of 
+antibiotic choice. Pt was treated with IV cefepime per ID 
+recommendations, and she will be discharged on IV cefepime with 
+plans for ID follow up with repeat renal ultrasounds to guide 
+duration of therapy.  ID is expecting a course fo ___ weeks of 
+IV antibiotics.  PICC line was placed ___.  
+.  
+# CoNS blood culture; contaminant 
+A blood culture returned with CoNS, which was initially 
+concerning, however, this was determined to be a contaminant.  
+CoNS is very rarely a cause of renal abscess, and thus not 
+thought to represent a true infection. Repeat blood cultures 
+remain pending at the time of discharge.  Note that the blood 
+culture was only positive in one set. Micro sensitivities 
+reported in OMR.
+.  
+Patient was discharged to home with home IV Abx. 
+.  
+Disp: to home with home IV antibiotics 
+
+ 
+Medications on Admission:
+Paxil C.R. 37.5 mg daily
+
+ 
+Discharge Medications:
+1. Paxil CR 37.5 mg Tablet Sustained Release 24 hr Sig: One (1) 
+Tablet Sustained Release 24 hr PO once a day.  
+2. Cefepime 1 gram Recon Soln Sig: One (1) Recon Soln Injection 
+Q12H (every 12 hours) for 4 weeks: (final duration to be 
+determined by ID follow up).
+Disp:*56 Recon Soln(s)* Refills:*0*
+3. Outpatient Lab Work
+CBC with Diff, BUN/Cr, LFT's, Q WEEK. Please fax results to: ID 
+Clinic at ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Left renal abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with fevers, chills, and back pain, and were 
+found to have a left kidney abscess.  You were treated with 
+antibiotics and evaluated by Urology and Infectious Disease.  
+You are being treated with IV antibiotics, which you will 
+receive at home, and you will follow up with Infectious Disease 
+department after discharge.
+ 
+Followup Instructions:
+___

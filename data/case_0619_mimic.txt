@@ -1,0 +1,287 @@
+===== DISCHARGE NOTE =====
+note_id=14031502-DS-2 | hadm_id=20118158
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain 
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization with stent placement
+
+ 
+History of Present Illness:
+___ year old female with history of HTN, hyperlipidemia, family 
+history of hyperlipidemia, and no prior history of CAD, or DM, 
+presented to the ED with complaints of severe chest pain. 
+Symptoms began at approximately 5pm this evening and the patient 
+presented to the ED approximately half an hour later. Chest pain 
+was described to worsen with exertion, and were not associated 
+with symptoms of nausea/vomiting or diaphoresis. Of note, over 
+the weekend, the patient had experienced mild chest pain 
+associated with abdominal discomfort and bloating. Her symptoms 
+improved, but on ___ and ___ she experienced intermittent 
+fleeting sensations of chest discomfort which were mild. This 
+morning, the patient felt fine that thought nothing more of her 
+chest pain until she was walking home from work, approximately 4 
+blocks to her car, when she suddenly experienced the same chest 
+discomfort, only much more severe and concerning. The patient 
+then proceeded to drive her car directly to the ___ ED for 
+further evaluation.  
+.  
+Upon arrival to the ED, V/S were: P - ___, BP 187/101, RR-18, O2 
+99% RA. Chest pain had started to resolve, however a 12-lead EKG 
+showed ST segement elevations in the V1-V3 with reciprocal 
+changes in the inferior leads. The patient was given Aspirin, 
+600mg of plavix, a heparin bolus, as well as an integrillin 
+bolus and was brought immediately to the cath lab where she was 
+found to have two vessel disease (LAD 90% just past D1, LCx 
+60-70% at OM1 bifurcation) with a proximal LAD lesion which was 
+stented with one bare metal stent.  
+.  
+On review of systems, s/he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, myalgias, joint 
+pains, cough, dysuria, abdominal pain. S/he denies recent 
+fevers, chills or flu-like symptoms. Cardiac review of systems 
+is notable for absence of dyspnea on exertion, paroxysmal 
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope 
+or presyncope. All of the other review of systems were negative. 
+ 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: (-) Diabetes, (+) Dyslipidemia, (+) 
+Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: None  
+-PERCUTANEOUS CORONARY INTERVENTIONS: None  
+-PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY:  
+- HTN  
+- Hyperlipidemia  
+- Urinary Incontinence  
+- Osteopenia  
+
+ 
+Social History:
+___
+Family History:
+Family history of early MI - father died at age ___, and 
+grandfather died at age ___ related to complications of MI. No 
+family history of arrhythmia, cardiomyopathies, or sudden 
+cardiac death; Mother with history of Diabetes. 
+ 
+Physical Exam:
+VS: T= BP= HR= RR= O2 sat=  
+GENERAL: Thin woman, appears younger than stated age. NAD. 
+Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. Mucous membranes 
+dry.  
+NECK: Supple without elevated JVP.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. Extra heart sounds. No murmurs. No 
+thrills, lifts.  
+LUNGS: No chest wall deformities. Unlabored breathing. Lung 
+fields CTAB without crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No abdominial bruits.  
+EXTREMITIES: Right groin cath site with good hemostasis, small 
+hematoma. No femoral bruits. No lower extremity edema. Foley 
+catheter in place.  
+SKIN: Warm without rash or bruises.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+___ 06:10PM BLOOD WBC-11.9* RBC-4.95 Hgb-15.3 Hct-44.6 
+MCV-90 MCH-30.9 MCHC-34.3 RDW-13.0 Plt ___
+___ 06:10PM BLOOD Neuts-54.2 ___ Monos-5.1 Eos-1.3 
+Baso-0.7
+___ 06:10PM BLOOD ___ PTT-21.2* ___
+___ 06:10PM BLOOD Glucose-172* UreaN-15 Creat-1.0 Na-136 
+K-3.1* Cl-96 HCO3-23 AnGap-20
+___ 06:10PM BLOOD Calcium-10.2 Phos-3.2 Mg-1.9
+.
+___ 06:10PM BLOOD CK(CPK)-71 CK-MB-NotDone cTropnT-<0.01
+___ 03:45AM BLOOD CK(CPK)-756* CK-MB-68* MB Indx-9.0*
+___ 05:35AM BLOOD CK(CPK)-208* CK-MB-12* MB Indx-5.8 
+cTropnT-0.63*
+.
+.
+ECG ___: Sinus tachycardia. ST segment depression in leads 
+II, III and aVF. ST segment elevation in leads I, aVL and V1-V3 
+with ST segment depression in leads V5-V6. These findings are 
+consistent with acute anterior, lateral and apical ischemic 
+process. Rule out myocardial infarction. Followup and clinical 
+correlation are suggested.
+.
+Cardiac catheterization ___:
+1. Selective coronary angiography of this right dominant system 
+revealed two vessel coronary artery disease. The ___ had no 
+angiographic apparent disease. The LAD had a 99% lesion just 
+after D1. The Lcx had a 60-70% bifurcation lesion at the level 
+of OM1 bifurcation. The RCA had mild luminal irregularities.
+2. Resting hemodynamics revealed normal left sided filling 
+pressures with mean PCWP of ___s normal right 
+sided filling pressure with RVEDP of 8mmHg. There was normal 
+cardiac index of 4.3 L/min/m2. Normal pulmonary pressures with 
+PA systolic of 26mmHg. There was mild systemic hypertension with 
+a central aortic pressure of 145/84 mmHg.
+3. Successful PTCA and stenting of the LAD with a 2.5x18mm Mini 
+Vision stent. Final angiography revealed 30% stenoses proximal 
+and distal to the stent with 0% residual stenosis in the stent 
+portion, no angiographically apparent dissection and TIMI III 
+flow.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. ST elevation MI
+3. Successful PCI of the LAD.
+4. Normal left and right sided filling pressures
+5. Mild systemic hypertension.
+.
+ECG ___: Sinus rhythm with slowing of the rate as compared 
+with previous tracing of ___. Anterior ST segment elevation 
+persists with now some evolution of the ST-T wave changes 
+recorded in lead V2. T waves are now biphasic in leads V2-V3. 
+The ST segment depression recorded in the inferolateral leads 
+has resolved somewhat. Followup and clinical correlation are 
+suggested. Rule out myocardial infarction.
+.
+ECG ___: Sinus tachycardia. Compared to the previous tracing 
+of ___ there is further evolution of acute anteroseptal and 
+lateral myocardial infaction and an increase in rate. Clinical 
+correlation is suggested.
+.
+ECG ___: Sinus rhythm with slowing of the rate as compared 
+with previous tracing of ___. There is further evolution of 
+acute anteroseptal and lateral myocardial infarction. Clinical 
+correlation is suggested.
+.
+TTE ___: The left atrium and right atrium are normal in 
+cavity size. The estimated right atrial pressure is ___. 
+Left ventricular wall thicknesses and cavity size are normal. 
+There is mild regional left ventricular systolic dysfunction 
+with mid to distal anteroseptal akinesis and distal anterior and 
+apex hypokinesis. The remaining segments are hyperdynamic. No 
+masses or thrombi are seen in the left ventricle. Overall left 
+ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Trivial 
+mitral regurgitation is seen. There is a trivial/physiologic 
+pericardial effusion. There is an anterior space which most 
+likely represents a fat pad.  IMPRESSION: Mild focal left 
+ventricular systolic dysfunction (consistent with coronary 
+artery disease) with overall normal global function.
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: The patient is a ___ year old woman with 
+cardiac risk factors of hypertension and hyperlipidemia 
+presented with acute onset of chest pain and anterior ST segment 
+elevation on EKG. She was taken emergently to cardiac 
+catherization, which showed evidence of 2-vessel disease with a 
+99% LAD lesion and 60-70% LCx lesion. She received a bare-metal 
+stent to the LAD lesion.
+.  
+CORONARIES: The patient suffered from an anterior STEMI and 
+underwent cardiac catheterization that revealed a mid-LAD 
+lesion, which was stented with a bare-metal stent. She was 
+treated with aspirin, palvix, heparin and integrillin gtts. Her 
+Lipitor dose was increased, and she was started on a 
+beta-blocker and continued on her home ACEi. Serial ECGs showed 
+evolution of the infarction, and serial cardiac enzymes were 
+followed that showed a peak CK of 756 and MB of 68.
+.  
+PUMP: An echocardiogram was done on the day post-STEMI, which 
+showed mild focal left ventricular systolic dysfunction 
+consistent with coronary artery disease, with overall normal 
+global function. She was continued on her home ACEi and started 
+on a beta-blocker. Her HCTZ was discontinued.
+.  
+RHYTHM: The patient was initially tachycardic, likely related to 
+stress, pain, and the recent STEMI, but she remained in sinus 
+rhythm throughout the hospitalization without any evidence of 
+arrhythmia or ectopy. She was started on a beta-blocker.
+ 
+Medications on Admission:
+Atorvastatin - 10 mg po daily  
+HCTZ - 12.5 mg po daily  
+Moexipril - 15MG po BID (increased 3 months ago)  
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Moexipril 15 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: ST elevation myocardial infarction
+Secondary: Hypercholesterolemia, Hypertension
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with chest pain and determined 
+to be having a heart attack. You underwent cardiac 
+catheterization that demonstrated a blockage in one of the 
+arteries of the heart. A stent was placed during this procedure. 
+Because you now have a stent it is very important that you take 
+ASPIRIN and PLAVIX daily. You will discuss the duration of the 
+plavix when you see your cardiologist.
+
+NEW MEDICATIONS:
+ASPIRIN
+PLAVIX
+METOPROLOL TARTRATE
+FAMOTIDINE
+
+Medication CHANGES:
+--STOP taking HCTZ: your blood pressure has been well controlled 
+in the hospital without this medication. 
+--Atorvastatin INCREASED from 10mg daily to 80 mg daily
+--Moexipril now 15 mg ONCE DAILY rather than twice a day
+
+If you experience chest pain, shortness of breath, fevers, 
+chills or any other concerning symptom please contact your 
+cardiologist or come to the emergency department for evaluation.
+ 
+Followup Instructions:
+___

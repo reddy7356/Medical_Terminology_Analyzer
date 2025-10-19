@@ -1,0 +1,216 @@
+===== DISCHARGE NOTE =====
+note_id=17381841-DS-15 | hadm_id=21579807
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+___ - Mitral valve repair with 30mm ___ annuloplasty 
+band
+ 
+History of Present Illness:
+Ms. ___ is an ___ year old woman with a history of 
+hypertension, mitral regurgitation, pulmonary hypertension, and 
+rectal cancer status post resection. She has been followed with 
+serial echocardiograms. A transthoracic echocardiogram in ___ 
+revealed moderate left atrial enlargement, severe mitral 
+regurgitation and prolapse of the anterior and posterior 
+leaflets with possible flail of the posterior leaflet. A stress 
+echocardiogram demonstrated poor exercise tolerance, severe 
+mitral regurgitation, and exercise-induced pulmonary
+hypertension. A cardiac catheterization revealed no obstructive 
+coronary artery disease. She was seen initially by Dr. ___ 
+in ___ and required clearance from endocrine and oncology 
+prior to proceeding with surgery, which she obtained.
+ 
+Past Medical History:
+Acute Renal Failure during Chemo
+Basal Cell Carcinoma
+Cervical Polyps
+Hyperparathyroid
+Hypertension
+Mitral Regurgitation
+Pulmonary Hypertension
+Rectal Cancer status post resection, chemo and radiation
+Vitamin B12 Deficiency
+
+ 
+Social History:
+___
+Family History:
+Mother - died of stroke at age ___
+Father - died of myocardial infarction at age ___
+Brother - history of myocardial infarction at age ___
+Sister - history of myocardial infarction.
+
+ 
+Physical Exam:
+BP: 160/98. Heart Rate: 69. Resp. Rate: 12. O2 Saturation%: 100.
+Height: 60"  Weight: 94 lbs
+
+General: Frail, elderly woman, NAD
+Skin: Warm, dry, intact
+HEENT: NCAT, PERRLA, EOMI, OP benign
+Neck: Supple, full ROM, no JVD
+Chest: Lungs clear bilaterally
+Heart: Regular rate and rhythm, II/VI HSM heard best at apex
+Abdomen: Well-healed incision. Normal BS, non-tender, 
+non-distended
+Extremities: Warm, well-perfused, no edema
+Varicosities: None
+Neuro: Grossly intact 
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit: None appreciated
+
+ 
+Pertinent Results:
+Transesophageal Echocardiogram ___
+PREBYPASS 
+No atrial septal defect is seen by 2D or color Doppler. Left 
+ventricular wall thicknesses are normal. The left ventricular 
+cavity size is normal. Regional left ventricular wall motion is 
+normal. Overall left ventricular systolic function is normal 
+(LVEF>55%). [Intrinsic left ventricular systolic function is 
+likely more depressed given the severity of valvular 
+regurgitation.] Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) are mildly 
+thickened. No aortic regurgitation is seen. The mitral valve 
+leaflets are moderately thickened. The mitral valve leaflets are 
+myxomatous. There is moderate/severe bileaflet leaflet mitral 
+valve prolapse (P2 and A3)
+
+___ 07:30AM BLOOD WBC-8.4 RBC-3.63* Hgb-10.5* Hct-32.9* 
+MCV-91 MCH-28.9 MCHC-31.9* RDW-13.2 RDWSD-44.1 Plt ___
+___ 10:04AM BLOOD WBC-3.2* RBC-2.95*# Hgb-8.8*# Hct-27.3*# 
+MCV-93 MCH-29.8 MCHC-32.2 RDW-13.9 RDWSD-47.1* Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 07:30AM BLOOD ___
+___ 10:04AM BLOOD ___ PTT-62.8* ___
+___ 07:30AM BLOOD Glucose-90 UreaN-13 Creat-0.7 Na-140 
+K-4.2 Cl-107 HCO3-24 AnGap-13
+___ 11:15AM BLOOD UreaN-14 Creat-0.6 Na-141 K-4.4 Cl-111* 
+HCO3-23 AnGap-11
+___ 06:30AM BLOOD Calcium-9.8 Phos-3.3 Mg-2.0
+___ 03:20AM BLOOD Calcium-8.6 Phos-2.9 Mg-2.2
+ 
+Brief Hospital Course:
+Ms. ___ was admitted on ___ and was taken to the 
+operating room. She underwent a mitral valve repair. Please see 
+the operative note for full details. She tolerated the procedure 
+well and was transferred to the CVICU in stable condition for 
+recovery and invasive monitoring. 
+  
+Ms. ___ weaned from sedation, awoke neurologically intact 
+and was extubated on POD 1. She was weaned from inotropic and 
+vasopressor support. She arrived to the intensive care unit 
+without a cardiac rhythm under her temporary pacing wires. Beta 
+blockade was therefore held and with time her rhythm slowly 
+recovered. She was diuresed toward her preoperative weight. She 
+remained hemodynamically stable and was transferred to the 
+telemetry floor for further recovery. She was evaluated by the 
+physical therapy service for assistance with strength and 
+mobility. She was noted for junctional rhythm and betablockers 
+were stopped.  EP was consulted over few days her rhythm 
+returned to sinus rhythm and was restarted on betablocker.  
+Epicardial wires were removed and she was discharge home with 
+services.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 10 mg PO DAILY 
+3. Metoprolol Tartrate 50 mg PO BID 
+4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN cp 
+5. Simvastatin 10 mg PO QPM 
+6. Cyanocobalamin 1000 mcg IM/SC EVERY 4  WEEKS (MO) 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Lisinopril 7.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 3 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*1
+3. Metoprolol Tartrate 12.5 mg PO TID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+three times a day Disp #*45 Tablet Refills:*1
+4. Simvastatin 10 mg PO QPM 
+5. Acetaminophen 650 mg PO Q8H:PRN pain 
+6. Docusate Sodium 100 mg PO BID 
+7. Cyanocobalamin 1000 mcg IM/SC EVERY 4  WEEKS (MO) 
+8. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN cp 
+9. Furosemide 20 mg PO DAILY Duration: 5 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*5 
+Tablet Refills:*0
+10. Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl [Heartburn Relief (ranitidine)] 150 mg 1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mitral Regurgitation s/p Mitral Valve repair 
+Junctional Rhythm 
+
+Secondary Diagnosis
+Acute Renal Failure during Chemo
+Basal Cell Carcinoma
+Cervical Polyps
+Hyperparathyroid
+Hypertension
+Pulmonary Hypertension
+Rectal Cancer status post resection, chemo and radiation
+Vitamin B12 Deficiency
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with acetaminophen 
+Sternal Incision - healing well, no erythema or drainage
+No edema
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+ 
+Followup Instructions:
+___

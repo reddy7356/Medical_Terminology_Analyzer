@@ -1,0 +1,320 @@
+===== DISCHARGE NOTE =====
+note_id=17087014-DS-19 | hadm_id=29096180
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+jaundice, pruritus, ___ stools
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ ___ year old female with UC on ___, prednisone, and humira who 
+presented with jaundice and pruritis. 
+
+Recently started Humira for ___ on ___. Then on ___ to ___ 
+of this week she noticed some generalized pruritus. On ___ 
+she noticed her stools were light in color. Then today she 
+noticed yellowing of her eyes.
+
+She denies any abdominal pain, diarrhea, constipation, fevers, 
+or other symptoms.
+
+Her ulcerative colitis was diagnosed in ___ and she had two 
+severe flares in ___. She had been relatively stable on ___ 
+until recently when she had another flare in ___ and biopsy 
+revealed active colitis. At that time decision was made to start 
+Humira. 
+
+In the ED, initial vitals: 98.9 101 126/81 20 100% RA  
+ - Exam notable for: jaundice 
+ - Labs notable for: ALT 190, AST 103, AP 120, Tbili 5.8 (Dbili 
+4.8), albumin 3.0. Normal coags, normal CBC. Hepatitis 
+serologies negative 
+ - Imaging notable for: RUQ US with nonspecific subtle 
+prominence of the portal triads, minimal prominence of the 
+intrahepatic biliary tree without frank dilatation 
+ - Patient not given anything in the ED
+
+On arrival to the floor, initial vitals were 97.9 124/81 85 18 
+96 RA. 
+
+ 
+Past Medical History:
+Ulcerative colitis on ___, steroids, recently started Humira
+ 
+Social History:
+___
+Family History:
+heart murmur (sister, resolved spontaneously) and pancreatic 
+cancer (paternal grandmother, early ___ 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+Vitals: 97.9 124/81 85 18 96 RA
+General: Alert, oriented, no acute distress  
+HEENT: Scleral icterus, MMM
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended
+Ext: Warm, well perfused, no cyanosis or edema  
+Skin: Without rashes or lesions  
+Neuro: A&Ox3. Grossly intact.
+
+DISCHARGE EXAM
+===============
+Vitals-  Tmax/current 98.3/98.4 BP 103-114/68-77 HR ___ RR 18 
+96 RA
+General- Alert, oriented, no acute distress  
+HEENT- Mild sclera icterus, dry mucus membrane, oropharynx 
+clear. Yellow discoloration under tongue.   
+Lungs- Clear to auscultation bilaterally
+CV- Regular rate and rhythm, normal S1 + S2
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding
+GU- no foley  
+Ext- Slightly diffuse yellow-ish skin, warm, well perfused, 2+ 
+pulses, no clubbing, cyanosis or edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 05:40PM   ___ PTT-30.8 ___
+___ 05:40PM   PLT COUNT-381
+___ 05:40PM   NEUTS-76.0* LYMPHS-16.8* MONOS-5.9 EOS-0.0* 
+BASOS-0.7 IM ___ AbsNeut-5.26 AbsLymp-1.16* AbsMono-0.41 
+AbsEos-0.00* AbsBaso-0.05
+___ 05:40PM   WBC-6.9 RBC-3.67* HGB-13.4 HCT-40.0 MCV-109* 
+MCH-36.5* MCHC-33.5 RDW-13.4 RDWSD-53.9*
+___ 05:40PM   VoidSpec-GROSSLY HE
+___ 06:45PM   HCV Ab-Negative
+___ 06:45PM   ACETMNPHN-NEG
+___ 06:45PM   HBsAg-Negative HBs Ab-Positive HBc 
+Ab-Negative HAV Ab-Negative IgM HBc-Negative IgM HAV-Negative
+___ 06:45PM   ALBUMIN-3.0*
+___ 06:45PM   LIPASE-45
+___ 06:45PM   ALT(SGPT)-190* AST(SGOT)-103* ALK PHOS-120* 
+TOT BILI-5.8* DIR BILI-4.8* INDIR BIL-1.0
+___ 06:45PM   estGFR-Using this
+___ 06:45PM   GLUCOSE-81 UREA N-16 CREAT-0.6 SODIUM-137 
+POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-23 ANION GAP-18
+___ 09:40PM URINE  GR HOLD-HOLD
+___ 09:40PM URINE  UCG-NEGATIVE
+
+DISCHARGE LABS
+===============
+___ 06:19AM BLOOD WBC-5.5 RBC-3.26* Hgb-11.9 Hct-35.8 
+MCV-110* MCH-36.5* MCHC-33.2 RDW-14.7 RDWSD-59.7* Plt ___
+___ 06:19AM BLOOD Plt ___
+___ 06:19AM BLOOD ___ PTT-33.5 ___
+___ 06:19AM BLOOD Glucose-81 UreaN-26* Creat-0.6 Na-139 
+K-4.0 Cl-100 HCO3-26 AnGap-17
+___ 06:19AM BLOOD ALT-155* AST-92* LD(LDH)-203 AlkPhos-148* 
+TotBili-3.1*
+___ 06:19AM BLOOD Albumin-3.0* Calcium-8.3* Phos-4.0 
+Mg-1.5*
+
+OTHER RELEVANT LABS
+==================
+- Thiopurine metabolites within normal limits except:
+___ MMP                         ___  H            
+- Ceruloplasmin - wnl
+- Alpha 1 antitrypsin - wnl
+
+IMAGING 
+===============
+1.  Mild central intrahepatic biliary ductal dilatation, left 
+greater than 
+right with mild narrowing of the left hepatic duct at its 
+takeoff from the 
+common hepatic duct, as well as slight irregularity of the 
+intrahepatic bile 
+ducts.  Findings are concerning for primary sclerosing 
+cholangitis in this 
+patient with underlying ulcerative colitis. No evidence of 
+active inflammation 
+or extrahepatic biliary ductal dilatation.  No evidence of 
+cholelithiasis or 
+choledocholithiasis. 
+  
+2.  Two geographic, non masslike areas of parenchymal signal 
+abnormality in 
+segments ___, suggestive of early fibrosis or focal iron 
+deposition.  No 
+worrisome hepatic lesion.  These findings may be reassessed on 
+follow-up MRCP 
+of the pancreas (see below). 
+  
+4.  1.0 x 0.8 cm cystic lesion in the pancreatic head, as well 
+as multiple 
+other scattered subcentimeter cystic lesions throughout the 
+pancreas, most 
+compatible with side-branch IPMNs.  Follow-up MRCP in 6 months 
+is recommended 
+per departmental protocol. 
+  
+RECOMMENDATION(S):  Follow-up MRCP of the pancreas in 6 months, 
+also to 
+include the entire liver. 
+ 
+Brief Hospital Course:
+___ year-old woman with ___ year history of ulcerative colitis on 
+___ w/ a 2 month treatment of Humira and prednisone taper, 
+presented with jaundice and pruritus. She also reported 
+___ stools. She was was found to have transaminitis and 
+hyperbilirubinemia. 
+
+She was evaluated by GI who felt that this was due to medication 
+effect, i.e. altered metabolism of her ___ or Humira, so both of 
+these medications were held.  MRCP was done which showed 
+evidence of PSC along with pancreatic lesions that a follow-up 
+MRCP in 6 months. She was discharged with outpatient follow-up 
+by GI and hepatology. She was given ursodiol for PSC and 
+pruritis. 
+
+# Jaundice, hepatitis:  Likely due to primary sclerosing 
+cholangitis with possible contribution from drug effect
+# Primary sclerosing cholangitis (PSC):  Newly diagnosed
+Patient was noted to have significant hyperbilirubinemia along 
+with transaminitis in the 100s (ALT > AST). More of a 
+cholestatic picture. No CBD dilation seen on RUQ US. Albumin low 
+but had normal coags indicating likely intact synthetic 
+function. Could be drug related reaction although reports of 
+transaminitis on Humira are somewhat rare other than cases of 
+viral hepatitis reactivation (less likely given modest elevation 
+in ALT, AST, and AP). All HAV, HBV, and HCV, EBV serologies were 
+negative indicating no prior exposure apart from positive HbSAb 
+consistent with vaccination. Autoimmune serologies also negative 
+___, AMA, ___. ___ MP and Humira held due to concern of 
+medication induced hepatitis vs. unmasking of autoimmune 
+hepatitis. MRCP done with findings concerning for PSC. Will need 
+liver biopsy outpatient for staging. Also has cystic lesion on 
+pancreas which will need f/u MRCP in 6 months which visualizes 
+the pancreas and liver. LFTs trending down on discharge. GI 
+recommended outpatient follow-up with Dr. ___ hepatology. 
+Discharged with Benadryl and Ursodiol for pruritus and PSC.
+
+# Ulcerative colitis: Diagnosed in ___, with recent relapse in 
+___ leading to initiation of Humira as above. No evidence of 
+current flare. We continued home prednisone and held ___ and 
+Humira upon discharge.
+
+# GERD: developed on prednisone.  Continued home omeprazole.
+
+# Macrocytosis w/o anemia: Stable. Likely ___ medication induced 
+hematologic toxicity from ___. 
+
+# Hypoalbumiemia, mild. Given normal INR, less likely to be 
+related to hepatic injury. In the setting of chronic diarrhea, 
+might be related to UC flares. 
+
+# Hypocalcemia, low-end of normal after correcting for 
+hypoalbumiemia. 
+
+TRANSITIONAL ISSUES
+====================
+- Humira and ___ held - restart after outpatient GI/hepatology 
+follow-up
+- Thiopurine metabolite levels pending at discharge
+---- At the time this discharge summary was signed, the results 
+returned and were notable for elevated ___.  I have e-mailed 
+her outpatient GI and hepatologist to alert them to this 
+finding, as she was recently instructed to restart ___, and they 
+confirmed that they were aware of this and the patient was 
+started on ___ her prior dose of ___ accordingly
+- 1.0 x 0.8 cm cystic lesion in the pancreatic head, as well as 
+multiple other scattered subcentimeter cystic lesions throughout 
+the pancreas, most compatible with side-branch IPMNs. Follow-up 
+MRCP in 6 months is recommended of the pancreas and to include 
+the entire liver.
+- Outpatient follow-up with Dr. ___ hepatology to be 
+arranged by Dr. ___. 
+- Will need liver biopsy outpatient 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 5 mg PO EVERY OTHER DAY 
+2. Mercaptopurine 100 mg PO DAILY 
+3. norgestimate-ethinyl estradiol 0.18/0.215/0.25 mg-35 mcg (28) 
+oral DAILY 
+4. adalimumab 40 mg/0.8 mL subcutaneous Q2WEEKS 
+5. Multivitamins 1 TAB PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  DiphenhydrAMINE 25 mg PO Q6H:PRN pruritus  
+RX *diphenhydramine HCl 25 mg 1 capsule(s) by mouth Q6H PRN 
+pruritus Disp #*30 Capsule Refills:*0 
+2.  Ursodiol 300 mg PO BID 
+RX *ursodiol 300 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0 
+3.  Multivitamins 1 TAB PO DAILY  
+4.  norgestimate-ethinyl estradiol 0.18/0.215/0.25 mg-35 mcg 
+(28) oral DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+6.  PredniSONE 5 mg PO EVERY OTHER DAY  
+7. HELD- adalimumab 40 mg/0.8 mL subcutaneous Q2WEEKS  This 
+medication was held. Do not restart adalimumab until cleared by 
+GI/hepatology
+8. HELD- Mercaptopurine 100 mg PO DAILY Duration: 1 Dose  This 
+medication was held. Do not restart Mercaptopurine until cleared 
+by GI/hepatology
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Medication-induced hepatitis
+Primary sclerosing cholangitis
+
+Secondary diagnoses
+Ulcerative colitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ with jaundice and itching of the 
+skin. Your lab studies showed your liver studies were elevated 
+causing your symptoms. You were evaluated by the 
+gastroenterology specialists who felt that this was because of 
+your ulcerative colitis medications. You had a procedure called 
+an MRCP done which showed a condition called primary sclerosing 
+cholangitis which also may be contributing to your symptoms. We 
+recommended outpatient follow-up with Dr. ___ the liver 
+specialists as your liver enzymes were trending towards normal. 
+It was a pleasure taking care of you!
+
+We wish you the best,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

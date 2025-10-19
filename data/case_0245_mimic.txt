@@ -1,0 +1,229 @@
+===== DISCHARGE NOTE =====
+note_id=17674649-DS-17 | hadm_id=24636222
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ - Coronary artery bypass grafts x3 (LIMA-LAD, 
+SVG-PDA, SVG-OM); Endovascular saphenous vein harvest LLE
+
+ 
+History of Present Illness:
+___ man with past medical history of type I diabetes 
+mellitus, hypertension, heavy smoker who presented to outside 
+hospital for evaluation of intermittent retrosternal "molding 
+"chest discomfort intermittently radiating
+in between shoulder blades and left arm and associated with some 
+difficulty breathing for 10 days prior to presentation. He had 
+recurrent chest pain but troponin remained negative, cardiology 
+was consulted and recommended cardiac catheterization that 
+revealed significant coronary artery disease.  He is now
+transferred for surgical evaluation.  
+
+ 
+Past Medical History:
+Type 1 diabetes mellitus since the age of ___
+Diabetic neuropathy 
+Hypertension
+Tobacco habituation 
+Alcohol use
+Coronary artery disease
+ 
+Social History:
+___
+Family History:
+unremarkable
+
+ 
+Physical Exam:
+Pulse: 82 Resp: 18  O2 sat: 97% RA
+B/P  Right: 109/54   Left: 
+Height: 66.5 kgs    Weight: 68"
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++[x]
+Extremities: Warm [x] well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 1+  Left: 1+
+___           Right: 1+  Left: 1+
+Radial       Right: cath site  Left: 2+
+
+Carotid Bruit:        Right: no   Left: no
+
+Discharge PE:
+VS:98.4, 112 / 55, 99, 18, 98 % Ra 
+General: A&O x3, NAD
+___
+Lungs:CTA
+Abd:benign
+Extr:trace
+Wounds: C/D/I, stable, No rock/ click
+ 
+Pertinent Results:
+___ ECHO
+PRE-BYPASS: 
+
+ The left atrium is dilated. No mass/thrombus is seen in the 
+left atrium or left atrial appendage. No atrial septal defect or 
+PFO is seen by 2D or color Doppler. Left ventricular wall 
+thickness, cavity size, and global systolic function are normal 
+(LVEF>65%). Regional left ventricular wall motion is normal. 
+Right ventricular chamber size and free wall motion are normal. 
+There are simple atheroma in the descending thoracic aorta. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are structurally normal. Physiologic 
+mitral regurgitation is seen (within normal limits). There is 
+mild tricuspid regurgitation.There is a trivial/physiologic 
+pericardial effusion. 
+
+ POST-BYPASS:
+
+ The patient is in sinus rhythm and receiving a phenylephrine 
+infusion.
+
+ 1. Biventricular function remains preserved. There are no 
+regional wall motion abnormalities.
+ 2. Valvular function is unchanged.
+ 3. The trivial pericardial effusion is no longer present.
+ 4. The thoracic aorta is intact following decannulation.
+
+___ 08:46AM BLOOD Hct-31.3* Plt ___
+___ 03:32AM BLOOD WBC-11.1* RBC-2.99* Hgb-9.7* Hct-28.1* 
+MCV-94 MCH-32.4* MCHC-34.5 RDW-13.1 RDWSD-45.1 Plt ___
+___ 03:32AM BLOOD ___ PTT-27.1 ___
+___ 08:46AM BLOOD Glucose-197* UreaN-9 Creat-0.7 Na-136 
+K-4.1 Cl-97 HCO3-28 AnGap-11
+___ 09:55PM BLOOD Glucose-60* UreaN-5* Creat-0.6 Na-142 
+K-3.6 Cl-104 HCO3-24 AnGap-14
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the ___ on ___ for surgical 
+management of his coronary artery disease. He was worked up in 
+the usual preoperative manner. He remained on IV heparin. On 
+___, he was taken to the operating room where he underwent 
+coronary artery bypass grafting to three vessels 
+(LIMA-LAD,SVG-PDA, SVG-OM)  ; Endovascular saphenous vein 
+harvest LLE. Please see operative note for further surgical 
+details. Postoperatively he was taken to the intensive care unit 
+for monitoring. Over the next several hours, he awoke 
+neurologically intact and was extubated. He weaned off of 
+pressor support. Beta-blocker/ASA/Statin and diuresis were 
+initiated. Chest tubes and pacing wires were discontinued per 
+protocol without incident. He transferred to the step down unit 
+for further monitoring. Physical Therapy was consulted for 
+evaluation of strength and mobility. He continued to progress. 
+___ was consulted for his Type I Diabetes not well controlled 
+and the pt's history of hypoglycemia unawareness. 
+Recommendations appreciated. By the time of pod# 4 he was 
+ambulating with assistance, wounds healing, and pain controlled. 
+He was cleared for discharge to ___. 
+All follow up appointments were advised.
+ 
+Medications on Admission:
+NPH insulin 23U q 11AM
+Meds on transfer:
+NPH 23U q 11AM
+Atorvastatin 40 mg PO daily
+ASA 325 mg PO daily
+Lopressor 25 mg PO BID
+Nicotine patch 21 mg tp q 24 hours
+IV NTG 
+Heparin 800 U/Hr IV
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+2.  Aspirin EC 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Docusate Sodium 100 mg PO BID  
+5.  Furosemide 20 mg PO DAILY 
+x 7 days  
+6.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth q4h prn 
+Disp #*15 Tablet Refills:*0 
+7.  Metoprolol Tartrate 12.5 mg PO BID  
+8.  Polyethylene Glycol 17 g PO DAILY  
+9.  Potassium Chloride 20 mEq PO DAILY 
+x 7 days  
+10.  Ranitidine 150 mg PO BID  
+11.  Tamsulosin 0.4 mg PO QHS  
+12.  NPH 23 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease
+Type 1 diabetes mellitus since the age of ___
+Diabetic neuropathy 
+Hypertension
+Tobacco habituation 
+Alcohol use
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+ Ambulating with steady gait
+
+Incisional pain managed with oral analgesia
+
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Leg Left - healing well, no erythema or drainage. 
+Trace Edema 
+
+ 
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with 
+mild soap, no baths or swimming until cleared by surgeon. Look 
+at your incisions daily for redness or drainage.
+
+2) Please NO lotions, cream, powder, or ointments to incisions. 
+ 3) Each morning you should weigh yourself and then in the 
+evening take your temperature, these should be written down on 
+the chart provided.
+ 4) No driving for approximately one month and while taking 
+narcotics. Driving will be discussed at follow up appointment 
+with surgeon when you will likely be cleared to drive. 
+ 5) No lifting more than 10 pounds for 10 weeks
+ 6) Please call with any questions or concerns ___
+
+*Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

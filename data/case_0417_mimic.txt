@@ -1,0 +1,690 @@
+===== DISCHARGE NOTE =====
+note_id=16901472-DS-20 | hadm_id=21748704
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right hip abscess
+ 
+Major Surgical or Invasive Procedure:
+___ Washout with drainage deep abscess, right hip.
+
+ 
+History of Present Illness:
+The patient is a ___ y/o M with R THR who was admitted last month 
+after sustaining a proximal femur fracture around the site of 
+the hemiarthroplasty. He underwent ORIF of the fracture on ___. 
+He was seen in ___ clinic on ___ and was found to have green 
+drainage from the wound. He went to the OR on ___ for washout, 
+where an abscess was found, which was just above the tensor 
+fascia ___ and did not appear to track deep around any of the 
+metalwork or total hip replacement, per the operative note.  
+
+On ___, the patient triggered at 0420 in the morning for not 
+speaking, following comands, or responding to questions. An 
+urgent head CT showed no changes. Neurology saw him and 
+summarized,  
+___ yo man with PMH of afib, ?epilepsy (unclear seizure type) 
+and history of R hip hemiarthroplasty and periprosthetic 
+fracture after a fall with recent ORIF on ___ c/b wound 
+infection who presented for a washout of his infected right hip. 
+He was being seen in ___ clinic on ___ and purulent 
+discharge was noted from the wound. He underwent I&D yesterday 
+and was "normal" and "oriented" post-operatively with last well 
+known time at 12:30 am. At 4 am, was found to be awake but not 
+responding to the nurse. He would look around as if he were 
+seeing things but would not talk to her and when she was talking 
+to him or holding up a question, he wouldn't answer the 
+questions. When he did start talking about ___ minutes later, 
+his speech sounded slurred so he was triggered for "altered 
+mental status." No previously documented neurological 
+examination for comparison, but per nursing, very hard of 
+hearing at baseline and has been partly communicating via 
+writing on the paper at bedside (then patient reads it)." Their 
+differential included seizures, TIA, and delirium.  
+
+The patient is also having bradycardia nightly. He is 
+asymptomatic, and his heart rate improves with stimulation.  
+
+ROS:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+a-fib  
+epilepsy - focal seizures  
+HTN  
+shingles  
+?CHF  
+R THR 
+R hib abscess
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+admission
+VITALS:  98.7 47-53 ___ 18 98%RA
+General: No acute distress, friendly
+HEENT: Patient wearing glasses, dentures, moist mucous membrane  
+
+Neck: No distended JVD  
+CV: Distant heart sounds, irregular, bradycardic 
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, tender, bowel sounds positive  
+Ext: Right foot bandaged and ___ in boot, hip dressing c/d/i
+Neuro: Alert and oriented. Patient can follow directions and 
+answer questions that are written down (very hard of hearing)  
+
+.
+discharge
+VITALS:  97.9 97.9 40-50 148/69 18 96%RA
+General: No acute distress, friendly
+HEENT: Patient wearing glasses, dentures, moist mucous membrane  
+
+Neck: No distended JVD  
+CV: Distant heart sounds, irregular, bradycardic 
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, tender, bowel sounds positive  
+Ext: Right foot bandaged and ___ in boot, hip dressing c/d/i
+Neuro: Alert and oriented. Patient can follow directions and 
+answer questions that are written down (very hard of hearing)  
+
+ 
+Pertinent Results:
+admission
+
+___ 07:10PM BLOOD WBC-4.7 RBC-3.31* Hgb-11.0* Hct-32.9* 
+MCV-99* MCH-33.1* MCHC-33.3 RDW-15.0 Plt ___
+___ 07:10PM BLOOD Glucose-100 UreaN-21* Creat-0.8 Na-140 
+K-4.3 Cl-101 HCO3-29 AnGap-14
+___ 07:10PM BLOOD ___ PTT-34.6 ___
+___ 07:10PM BLOOD Calcium-9.1 Phos-3.4 Mg-2.2
+.
+___ CXR:  
+FINDINGS: Cardiac silhouette remains enlarged, and there is 
+persistent tortuosity of the thoracic aorta. Mild pulmonary 
+vascular congestion is present, but there is no evidence of 
+pulmonary edema. Calcified pleural plaques are present 
+bilaterally, suggestive of previous asbestos exposure. New 
+patchy bibasilar opacities may reflect patchy atelectasis or 
+focal aspiration.  
+.
+___ CT head  
+IMPRESSION: No acute intracranial process.  
+.  
+___ Femur  
+IMPRESSION: Unchanged fracture of the mid shaft of the femur. No 
+hardware associated complications.  
+.  
+___ Femur X-ray  
+IMPRESSION: Interval healing of a fracture of the mid shaft of 
+the femur. No hardware-associated complications are identified.  
+
+Cultures:  
+.
+___ 6:40 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML.. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------     1 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+.
+
+___ 12:15 pm SWAB      RIGHT HIP POST IRRIGATION. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___
+         ___. 
+      ___.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ___
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+.
+___ 12:15 pm TISSUE      SUPERFICIAL RIGHT HIP #2. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      Reported to and read back by ___ ___ AT 15:18. 
+
+      This culture contains mixed bacterial types (>=3) so an 
+abbreviated
+      workup is performed. Any growth of P.aeruginosa, S.aureus 
+and beta
+      hemolytic streptococci will be reported. IF THESE BACTERIA 
+ARE NOT
+      REPORTED BELOW, THEY ARE NOT PRESENT in this culture.. 
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH. 
+      ___.    RARE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___
+         ___. 
+      PROBABLE ENTEROCOCCUS.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------     1 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+.
+
+___ 12:15 pm SWAB      SUPERFICIAL RIGHT HIP #1. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      THIS IS A CORRECTED REPORT ___. 
+      Reported to and read back by ___ ___ ___ 1240PM. 
+      This culture contains mixed bacterial types (>=3) so an 
+abbreviated
+      workup is performed. Any growth of P.aeruginosa, S.aureus 
+and beta
+      hemolytic streptococci will be reported. IF THESE BACTERIA 
+ARE NOT
+      REPORTED BELOW, THEY ARE NOT PRESENT in this culture.. 
+      Work-up of organism(s) listed below discontinued (excepted 
+screened
+      organisms) due to the presence of mixed bacterial flora 
+detected
+      after further incubation. 
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___
+         ___. 
+      ___.    SPARSE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___
+         ___.  PREVIOUSLY REPORTED AS (___) STAPH AUREUS. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+.
+discharge
+
+___ 05:05AM BLOOD WBC-4.9 RBC-2.98* Hgb-9.8* Hct-28.8* 
+MCV-97 MCH-33.0* MCHC-34.1 RDW-15.0 Plt ___
+___ 05:05AM BLOOD Glucose-113* UreaN-21* Creat-0.8 Na-138 
+K-3.9 Cl-103 HCO3-29 AnGap-10
+___ 05:05AM BLOOD Calcium-8.5 Phos-2.8 Mg-2.2
+ 
+Brief Hospital Course:
+The patient is a ___ man with a history of hypertension, 
+atrial fibrillation, and distant history of seizures who 
+presented after being found to be draining from a hip wound.  
+.
+# Right hip abscess: Patient presented with drainage from hip 
+wound, taken to OR for washout with Dr. ___ showed 
+abscess although with no involvement of hardware. Swabs were 
+sent, which grew PSEUDOMONAS AERUGINOSA (pansensitive), 
+___ (pansensitive), PROBABLE ENTEROCOCCUS (see 
+results section).  Infectious disease was therefore consulted. 
+Patient was treated with vancomycin and cefepime initially and 
+then transitioned to ciprofloxacin monotherapy after return of 
+cultures. Patient was also evaluated by physical therapy who 
+recommended discharge to rehab. Patient will follow up with 
+orthopedics as an outpatient.
+.
+# Bradycardia: Patient was transferred to the medicine service 
+mid-admission after washout largely because of bradycardia. 
+Discussion with patient's HCP (daughter) suggested that patient 
+has been bradycardic for some time and is frequently in the ___ 
+and asymptomatic at home. Medicine evaluated the patient and 
+felt that it was likely atrial fibrillation with slow 
+ventricular response with high suspicion for sick sinus 
+syndrome. Patient was asymptomatic and mentating well throughout 
+admission without events on telemetry. 
+.
+# Urinary tract infection: Patient noted to have urine culture 
+growing ___ Pseudomonas aeruginosa. Patient was covered 
+for UTI with his antibiotics for his abscess above. Patient 
+should have repeat UA after completing treatment to ensure 
+clearance.
+.
+# Toxic/metabolic encephalopathy: Patient had an episode of 
+altered mental status in the middle of the night, mid-admission. 
+Patient was noted to be staring off into space and 
+uninteractive. Discussion with daughter noted that patient, in 
+fact, has done this on several occasions in the past, although 
+with decreasing frequency after starting Keppra. It is possible 
+that this was seizure with postictal state. Neurology was also 
+consulted who suggested this was likely hypoactive delirium in 
+context of infection described above. Patient thereafter 
+remained at his baseline mental status.
+.
+# Disordered oropharyngeal swallowing: Patient with known 
+history of this. Noted again to be coughing with POs during this 
+hospitalization. Speech and swallow reconsulted and 
+videooropharyngeal swallow performed, which showed risk of 
+aspiration with all diets. Recommended pureed solid and honey 
+thickened liquid diet. Risk of aspiration, despite dietary 
+adjustment, discussed with patient's HCP (Daughter ___. She 
+related that she has had this discussion before and understood 
+the risks/benefits delineated by me (Dr. ___ during the 
+call. Patient discharged with aspiration precautions and 
+conservative diet for purposes of rehabilitation. 
+.
+# ?CHF: Patient evidently on furosemide at home.  We continued 
+his furosemide here.
+.
+TRANSITIONAL ISSUES
+- Patient treated initially with vancomycin/cefepime for 
+treatment of hip abscess, thereafter transitioned to PO cipro 
+under infectious disease team recommendations. Continue cipro 
+until ___.
+- Patient evaluated by neurology for altered mental status, who 
+suspected toxic/metabolic encephalopathy secondary to infectious 
+process, but also consideration for atypical seizure activity
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO DAILY 
+2. Gabapentin 100 mg PO TID 
+3. LeVETiracetam 500 mg PO TID 
+4. Multivitamins 1 CAP PO DAILY 
+
+ 
+Discharge Medications:
+1. Furosemide 20 mg PO DAILY 
+2. Gabapentin 100 mg PO TID 
+3. LeVETiracetam 500 mg PO TID 
+4. Multivitamins 1 CAP PO DAILY 
+5. Ciprofloxacin HCl 500 mg PO Q12H 
+6. Docusate Sodium 100 mg PO BID 
+7. Senna 2 TAB PO HS 
+8. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth Q6H:PRN 
+Disp #*15 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Hip abscess
+Urinary tract infection
+Bradycardia
+Atrial fibrillation
+Suspected sick sinus syndrome
+Toxic/metabolic encephalopathy
+
+Secondary diagnosis:
+Potential seizure disorder
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+ 
+Discharge Instructions:
+Mr. ___:
+
+It was a pleasure to take care of you. 
+
+You were admitted to the hospital from clinic because you were 
+found to have green drainage from your hip wound site. You were 
+taken to the operative room by orthopedic surgery for a washout, 
+where an abscess (localized infection) was found. You were also 
+incidentally noted to have a urinary tract infection. We treated 
+you with intravenous antibiotics, with guidance of our 
+infectious disease doctors. ___, we transitioned you to 
+an oral regimen and discharged you to rehab.
+
+Our neurologists also saw you while you were an inpatient 
+because of an episode of confusion/altered mental status. They 
+felt that your confusion was likely due to the infection, 
+although it is possible you also had a seizure (which you have 
+had in the past).
+
+Please follow up with your doctors as below.
+
+Please review your medication list closely.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16901472-DS-19 | hadm_id=23398861
+
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left hip pain
+ 
+Major Surgical or Invasive Procedure:
+___: Open reduction, internal fixation right 
+periprosthetic femoral shaft fracture with cerclage wires and 
+lateral locking plate
+
+ 
+History of Present Illness:
+___ male with previous right hip hemiarthroplasty
+presenting today after a fall. The patient was sent from an
+outside hospital. The patient had a mechanical fall while trying
+to get out of his recliner today landing on the right side.
+Patient was not ambulatory at that time. The patient is
+expressing right hip pain. At the outside hospital the patient
+had an x-ray of the right hip demonstrating a proximal femur
+fracture around the site of the hemiarthroplasty. No other signs
+of injury was noted.
+
+ 
+Past Medical History:
+a-fib
+epilepsy - focal seizures (last episode 3 mo) 
+HTN  
+shingles 
+CHF - unknown  - takes furosemide once in AM
+no diabetes 
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+A&O x 3 
+Calm and comfortable 
+Chest: no chest wall tenderness
+Abd: soft, non-tender
+  
+BUE skin clean and intact 
+Arms and forearm compartments soft 
+2+ radial pulses 
+  
+BLE skin clean and intact 
+Right leg incision clean/dry/intact
+Thighs and leg compartments soft 
+Saphenous, Sural, Deep peroneal, Superficial peroneal SILT 
+___ FHS ___ TA Peroneals Fire 
+1+ ___ and DP pulses 
+
+ 
+Pertinent Results:
+___ 06:10AM BLOOD WBC-6.9 RBC-2.97* Hgb-9.5* Hct-27.6* 
+MCV-93 MCH-32.0 MCHC-34.5 RDW-15.0 Plt ___
+___ 06:10AM BLOOD Glucose-93 UreaN-31* Creat-1.0 Na-133 
+K-4.6 Cl-100 HCO3-25 AnGap-13
+___ 06:10AM BLOOD Calcium-7.9* Phos-3.4 Mg-1.9
+ 
+Brief Hospital Course:
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have a right hip periprosthetic femur fracture and was 
+admitted to the orthopedic surgery service. The patient was seen 
+by Medicine preoperatively for assessment. Given that he was 
+asymptomatic, without angina, shortness of breath and physical 
+exam findings of volume overload, they felt it was unlikely that 
+obtaining further cardiac testing would change management and 
+recommended proceeding with surgery. 
+
+The patient was taken to the operating room on ___ for 
+ORIF right hip periprosthetic femur fracture which the patient 
+tolerated well (for full details please see the separately 
+dictated operative report). The patient was taken from the OR to 
+the PACU in stable condition and after recovery from anesthesia 
+was transferred to the floor. The patient was initially given IV 
+fluids and IV pain medications, and progressed to a regular diet 
+and oral medications by POD#1. Speech and swallow was consulted 
+given a history of aspiration and recommended ground solids with 
+nectar thick liquids for his diet. 
+
+The patient was given perioperative antibiotics and Lovenox 
+anticoagulation per routine. The patient was transfused 4u PRBCs 
+for acute blood loss anemia and Hct was 27.6 on the day of 
+discharge - it should be checked for two more days and 
+transfused for Hct <26.0. The patients home medications were 
+continued throughout this hospitalization. The patient worked 
+with ___ who determined that discharge to rehab was appropriate. 
+The ___ hospital course was otherwise unremarkable.
+
+At the time of discharge the patient was afebrile with stable 
+vital signs that were within normal limits, pain was well 
+controlled with oral medications, incisions were 
+clean/dry/intact, and the patient had a Foley catheter in place 
+which should be removed at rehab. The patient is touch down 
+weight bearing in the right lower extremity, and will be 
+discharged on Lovenox for DVT prophylaxis. The patient will 
+follow up in two weeks per routine. A thorough discussion was 
+had with the patient regarding the diagnosis and expected 
+post-discharge course, and all questions were answered prior to 
+discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Gabapentin 100 mg PO TID 
+4. LeVETiracetam 500 mg PO TID 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Gabapentin 100 mg PO TID 
+4. LeVETiracetam 500 mg PO TID 
+5. Acetaminophen 650 mg PO Q6H 
+6. Calcium Carbonate 500 mg PO TID 
+7. Vitamin D 400 UNIT PO DAILY 
+8. traZODONE 50 mg PO QHS:PRN Insomnia 
+9. OxycoDONE (Immediate Release)  2.5-5 mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+10. Multivitamins 1 CAP PO DAILY 
+11. Enoxaparin Sodium 40 mg SC DAILY Duration: 14 Days 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC once a day Disp #*14 
+Syringe Refills:*0
+12. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right periprosthetic femoral shaft fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take lovenox 40mg daily for 2 weeks
+
+WOUND CARE:
+- You can get the wound wet/take a shower starting 3 days after 
+your surgery.  You may wash gently with soap and water, and pat 
+the incision dry after showering.  
+- No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- Daily dry gauze dressing changes.
+- No dressing is needed if wound continues to be non-draining.
+
+ACTIVITY AND WEIGHT BEARING:
+- Touch down weight bearing right lower extremity
+Physical Therapy:
+Activity:   Activity:  Activity as tolerated
+ Right lower extremity:  Touchdown weight bearing
+Encourage turn, cough and deep breathe q2h when awake
+
+Treatments Frequency:
+WOUND CARE:
+- You can get the wound wet/take a shower starting 3 days after 
+your surgery.  You may wash gently with soap and water, and pat 
+the incision dry after showering.  
+- No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- Daily dry sterile gauze dressing changes
+- No dressing is needed if wound continues to be non-draining.
+
+TUBES/DRAINS:
+- Please d/c Foley on ___ or ___
+
+LAB WORK:
+___
+Followup Instructions:
+___

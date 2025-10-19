@@ -1,0 +1,297 @@
+===== DISCHARGE NOTE =====
+note_id=13494629-DS-5 | hadm_id=26372776
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+cefadroxil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, dyspnea on exertion 
+ 
+Major Surgical or Invasive Procedure:
+___ 
+1. Coronary artery bypass grafting x4 with the left
+    internal mammary artery to the left anterior descending
+    artery and reverse saphenous vein graft to the right
+    acute marginal artery and the obtuse marginal artery
+    with a Y graft vein to the second diagonal artery.
+2. Aortic valve replacement with a 25 mm ___
+    tissue valve, reference number is ___, serial
+    number is ___.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a history of aortic 
+stenosis, diabestity mellitus, hypertension, and obesity. He 
+presented to and OSH fore preoperative workup for cosmetic eye 
+surgery. Later that night he felt pain radiating in his right 
+arm to shoulder, back and stomach. EMS was called. At ___ 
+___ he underwent stress test that revealed inferior wall 
+ischemia. Cardiac catheterization demonstrated multivessel 
+coronary artery disease. He was transferred to ___ for 
+evaluation of coronary revascularization.
+
+ 
+Past Medical History:
+Aortic Stenosis
+Diabetes Mellitus type II
+Hypertension
+Obesity
+Right Bundle Branch Block
+
+ 
+Social History:
+___
+Family History:
+Father - deceased at ___ from MI/DM
+
+ 
+Physical Exam:
+Temp: 98.0.  BP: 118/77.  HR: 93.  RR: 20.  O2 Sat: 96% RA. 
+Height: 72"  Weight: 105.7 Kg
+
+General: A&Ox3, NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI [x]
+Neck:  Supple [x] Full ROM []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade III/VI 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++[x]
+Extremities: Warm [x], well-perfused [x]  Edema []none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:   Left:
+DP           Right:   Left:
+___           Right:   Left:
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit: (B)    
+.
+Discharge exam
+Physical Examination:
+General/Neuro:  NAD  [x] A/O x3 [x] non-focal [x] 
+Cardiac: RRR [x]  Irregular []  Nl S1 S2 []
+Lungs: CTA [x] No resp distress [] crackles right base
+Abd:  NBS [x]Soft [x] ND [x] NT [x]
+Extremities:  no CCE[] Pulses  doppler [] palpable [x]  
+trace edema
+Wounds: Sternal: CDI [] no erythema or drainage []
+                 Sternum stable [x] Prevena [x]
+        Leg: Right [] Left[x] CDI [] no erythema or drainage [x]
+        Other:
+ 
+
+ 
+Pertinent Results:
+Transthoracic Echocardiogram ___
+The left atrial volume index is normal. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size. There is 
+mild regional left ventricular systolic dysfunction with basal 
+inferior hypokinesis. The remaining segments contract normally 
+(LVEF = 50%). Right ventricular chamber size and free wall 
+motion are normal. The ascending aorta is mildly dilated. There 
+are three aortic valve leaflets. The aortic valve leaflets are 
+moderately thickened. There is severe aortic valve stenosis 
+(valve area 1.0cm2, indexed ___ 0.5 cm2/m2). No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Mild (1+) mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. 
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction, 
+c/w CAD. Severe aortic stenosis. Mild mitral regurgitation.  
+
+Carotid Ultrasound ___
+Right ICA <40% stenosis. Left ICA <40% stenosis. 
+
+Transesophageal Echocardiogram ___
+Conclusions   
+ No mass/thrombus is seen in the left atrium or left atrial 
+appendage. Left ventricular wall thicknesses are normal. 
+Regional left ventricular wall motion is normal. Overall left 
+ventricular systolic function is low normal (LVEF 50-55%). Right 
+ventricular chamber size and free wall motion are normal. There 
+are simple atheroma in the descending thoracic aorta. No 
+thoracic aortic dissection is seen. There is moderate aortic 
+valve stenosis (valve area 1.0-1.2cm2). No aortic regurgitation 
+is seen. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. Mild (1+) mitral regurgitation is 
+seen. There is a trivial/physiologic pericardial effusion. The 
+interatrial septum is lipomatous .There is no interatrial septal 
+defect
+ Post Bypass
+ Bilateral ventriculr function is normal .There is no regional 
+wall motion abnormality.The bioprosthetic aortic valve is well 
+seated and .There is no paravalvular leak.The transaortic 
+gradients is 7 mmHg.The mitral regurgitation is mildd The 
+tricusid regurgitation is trace
+ The Thoracic aorta iis intact   
+.
+
+___ 05:57AM BLOOD WBC-10.2* RBC-2.61* Hgb-7.9* Hct-24.2* 
+MCV-93 MCH-30.3 MCHC-32.6 RDW-14.6 RDWSD-49.2* Plt ___
+___ 03:55AM BLOOD WBC-9.8 RBC-2.43* Hgb-7.7* Hct-22.6* 
+MCV-93 MCH-31.7 MCHC-34.1 RDW-14.4 RDWSD-48.9* Plt Ct-89*
+___ 06:35AM BLOOD ___
+___ 05:57AM BLOOD Glucose-123* UreaN-32* Creat-0.7 Na-142 
+K-3.9 Cl-99 HCO3-28 AnGap-15
+___ 03:55AM BLOOD Glucose-140* UreaN-22* Creat-0.7 Na-138 
+K-4.3 Cl-99 HCO3-27 AnGap-12
+___ 02:00AM BLOOD ALT-39 AST-69* AlkPhos-52 TotBili-0.9
+___ 05:57AM BLOOD Mg-2.3
+ 
+Brief Hospital Course:
+He was admitted on ___ and underwent routine preoperative 
+testing and evaluation. He was cleared by the dental service for 
+surgery. He remained stable and was taken to the operating room 
+on ___. He underwent coronary artery bypass grafting x 4 
+and aortic valve replacement. Please see operative note for full 
+details. He tolerated the procedure well and was transferred to 
+the CVICU in stable condition for recovery and invasive 
+monitoring.  Prevena dressing applied to optimize wound healing. 
+ It will be discontinued at rehab on POD 7.
+  
+He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1. He was weaned from vasopressor support. Beta 
+blocker was initiated and he was diuresed toward his 
+preoperative weight. He developed atrial fibrillation with rapid 
+ventricular response and was treated with Amiodarone.  
+Anti-coagulation is not required due to brevity of AFib.  He 
+remained hemodynamically stable and was transferred to the 
+telemetry floor for further recovery. A KUB demonstrated dilated 
+loops of bowel and he was made NPO.  Reglan was initiated with 
+good effect.  Diet advanced as tolerated.  He had regular bowel 
+movements prior to discharge.  He was evaluated by the physical 
+therapy service for assistance with strength and mobility. By 
+the time of discharge on POD 6 he was ambulating freely, the 
+wound was healing, and pain was controlled with oral analgesics. 
+He was discharged to ___ in good condition with 
+appropriate follow up instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. dutasteride 0.5 mg oral DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO DAILY 
+5. Tamsulosin 0.4 mg PO QHS 
+6. Vitamin B Complex 1 CAP PO DAILY 
+7. Vitamin E 200 UNIT PO DAILY 
+8. GlipiZIDE 2.5 mg PO DAILY 
+9. MetFORMIN (Glucophage) 1000 mg PO BID 
+10. Aspirin 81 mg PO DAILY 
+11. Glucosamine (glucosamine sulfate) 1000 mg oral DAILY 
+12. Januvia (SITagliptin) 100 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO/PR QID:PRN pain or temperature 
+>38.0  
+2.  Amiodarone 400 mg PO DAILY 
+400mg daily x 7 days, then 200mg daily  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Furosemide 20 mg PO DAILY Duration: 7 Days  
+5.  Metoprolol Tartrate 12.5 mg PO TID  
+6.  Potassium Chloride 20 mEq PO DAILY Duration: 7 Days  
+7.  Ranitidine 150 mg PO BID  
+8.  Simethicone 40-80 mg PO QID  
+9.  Atorvastatin 40 mg PO QPM  
+10.  MetFORMIN (Glucophage) 500 mg PO BID  
+11.  Ascorbic Acid ___ mg PO DAILY  
+12.  Aspirin 81 mg PO DAILY  
+13.  dutasteride 0.5 mg oral DAILY  
+14.  GlipiZIDE 2.5 mg PO DAILY  
+15.  Januvia (SITagliptin) 100 mg oral DAILY  
+16.  Tamsulosin 0.4 mg PO QHS  
+17.  Vitamin B Complex 1 CAP PO DAILY  
+18.  Vitamin E 200 UNIT PO DAILY  
+19. HELD- Glucosamine (glucosamine sulfate) 1000 mg oral DAILY  
+This medication was held. Do not restart Glucosamine until 
+discussed with PCP
+
+ 
+___:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis
+Coronary Artery Disease
+
+Diabetes Mellitus type II
+Hypertension
+Obesity
+Right Bundle Branch Block
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal
+Ambulating, deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+trace edema
+
+ 
+Discharge Instructions:
+Prevena instructions
+
+·       The Prevena Wound dressing should be left on for a total 
+of 7 days post-operatively to receive the full benefit of the 
+therapy.  The date of Day # 7 should be written on a piece of 
+tape on the canister to ensure that the nurse from the ___ or 
+___ facility knows when to remove the dressing and inspect the 
+incision.  If the date is not written, please alert your nurse 
+prior to discharge.  
+
+·       You may shower, however, please avoid getting the 
+dressing and suction canister soiled or saturated.  
+
+·       You will be sent home with a shower bag to hold the 
+suction canister while bathing. 
+
+·        If the dressing does become soiled or saturated, turn 
+the power off and remove the dressing.  The entire unit may then 
+be discarded.  Should this happen, please notify your ___ nurse, 
+so they may make plans to see you the following day to assess 
+your incision.  
+
+·       Once the Prevena dressing is removed, you may wash your 
+incision daily with a plain white bar soap, such as Dove or 
+___.  Do not apply any creams, lotions or powders to your 
+incision and monitor it daily.  
+
+·       If you notice any redness, swelling or drainage, please 
+contact your surgeon's office at ___.  
+
+ 
+.
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

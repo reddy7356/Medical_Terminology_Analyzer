@@ -1,0 +1,366 @@
+===== DISCHARGE NOTE =====
+note_id=12812042-DS-5 | hadm_id=28574278
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+Central venous line (___)
+ 
+History of Present Illness:
+Ms. ___ is a ___ with decompensated cirrhosis with frequent 
+hospitalizations for hepatic encephalopathy, admitted to ___. 
+___ ___ from a rehab facility for AMS, transferred to 
+___ ___ for higher level of liver care. 
+
+She was treated for hepatic encephalopathy at ___, she 
+required both PO and PR lactulose and had only partial 
+improvement in her mental status and became more lethargic at 
+___ before transfer on ___. Her ___ 
+hospitalization was complicated by aspiration pneumonitis 
+leading to respiratory failure and intubated for ___ days 
+(extubated on ___. On ___ she spiked a fever, cultures were 
+drawn that grew yeast x2 and VRE she was given 1 dose each of 
+daptomycin and micafungin ___ before transfer. She also had an 
+acute Hb drop from 10.2 to 8.4 overnight prior to the day of 
+transfer. OSH labs showed fibrinogen low at 53, D-dimer elevated 
+and she got 2u cryoprecipitate.
+
+On ___ she was transfered to She was transferred from ___. 
+___ on ___ for higher level of care to be provided at a 
+___. Upon arrival she was found to be unresponsive, 
+with leftward gaze deviation and unequal pupil diameter (note: 
+pt has hx of bilateral cataract surgery). A code stroke was 
+called, ___ did not show evidence of intracranial hemorrhage. 
+EEG showed left sided slowing. 
+
+On transfer, vitals were: 97.9, 134/74, 95, 18, 98% RA
+On arrival to the MICU, the patient had improved mental status. 
+She was able to open her eyes to voice and able to respond "no" 
+when asked about pain. The patient was intubated for 
+desaturation in the setting of feculent material coming out of 
+her NGT, and for airway protection. 
+ 
+Past Medical History:
+Mitral Regurgitation (diagnosed ECHO ___ showed mild MR, no 
+vegetation)
+Thrombocytopenia 
+Alcohol Use Disorder ___ hx heavy EtOH)
+Cirrhosis (Alcoholic hepatitis anti-smooth muscle + [37], ___ + 
+1:80)
+ 
+Social History:
+___
+Family History:
+Unknown, unresponsive
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: Prior to intubation
+======================
+T: 97.9 BP: 134/74 P: 95 R: 18 O2 98% 
+General: Somnolent, lying in bed with eyes closed.
+HEENT: Sclera icteric, asymmetric pupils (R pupil large and 
+irregular, L pupil pinpoint). 
+NECK: Pulsatile neck veins. 
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 S2, holosystolic murmur 
+loudest along the LSB without radiation to carotids or axilla. 
+ABD: distended, soft, + bowel sounds present, bandage in place 
+over LLQ, c/d/I. 
+GU: Foley in place draining amber liquid 
+EXT: 2+ pitting edema to the knee. 
+Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema 
+SKIN: jaundice.
+NEURO: somnolent. Opens eyes to voice and can respond "no" when 
+asked about pain. Withdraws all 4 extremities to pain. Corneal 
+reflexes intact bilaterally. Face moves symmetrically. No 
+asterixis. 
+
+DISCHARGE PHYSICAL EXAM: Patient expired.
+=======================
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 08:42PM BLOOD WBC-5.3 RBC-1.61* Hgb-6.6* Hct-21.4* 
+MCV-133* MCH-41.0* MCHC-30.8* RDW-17.0* RDWSD-78.5* Plt Ct-16*
+___ 08:42PM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-2+ 
+Macrocy-3+ Microcy-NORMAL Polychr-OCCASIONAL Ovalocy-1+ Tear 
+___
+___ 08:42PM BLOOD ___ PTT-66.7* ___
+___ 01:12AM BLOOD ___
+___ 09:58AM BLOOD Ret Aut-13.5* Abs Ret-0.25*
+___ 08:42PM BLOOD Glucose-396* UreaN-72* Creat-0.8 Na-135 
+K-4.0 Cl-102 HCO3-18* AnGap-19
+___ 08:42PM BLOOD ALT-45* AST-27 LD(LDH)-682* CK(CPK)-119 
+AlkPhos-114* TotBili-17.8* DirBili-7.3* IndBili-10.5
+___ 08:42PM BLOOD CK-MB-11* MB Indx-9.2* cTropnT-0.17*
+___ 01:12AM BLOOD CK-MB-12* MB Indx-9.6* cTropnT-0.15*
+___ 08:42PM BLOOD Albumin-3.5 Calcium-10.0 Phos-4.4 Mg-2.3
+___ 01:12AM BLOOD Hapto-<10*
+___ 05:43AM BLOOD calTIBC-134* VitB12-1709* Folate-18 
+Ferritn-287* TRF-103*
+___ 01:12AM BLOOD TSH-0.48
+___ 01:26AM BLOOD ___ pO2-39* pCO2-36 pH-7.34* 
+calTCO2-20* Base XS--5
+___ 01:26AM BLOOD Lactate-4.4*
+___ 12:15AM URINE Color-Yellow Appear-Hazy Sp ___
+___:15AM URINE Blood-SM  Nitrite-NEG Protein-TR 
+Glucose-150 Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.5 Leuks-SM 
+___ 12:15AM URINE RBC-10* WBC-19* Bacteri-FEW Yeast-RARE 
+Epi-<1 TransE-1
+
+MICRO:
+======
+___ TIP-IVWOUND 
+CULTURE-FINALINPATIENT NEGATIVE
+___ STAIN-FINAL; RESPIRATORY 
+CULTURE-FINALINPATIENT NEGATIVE
+___ CULTUREBlood Culture, Routine-PENDING
+___ CULTURE-FINAL {YEAST}INPATIENT 
+___ CULTUREBlood Culture, Routine-PENDING
+___ CULTUREBlood Culture, 
+Routine-PRELIMINARY {YEAST}; Aerobic Bottle Gram Stain-FINAL
+
+IMAGES/STUDIES:
+=============
+EEG (___): MPRESSION: This is an abnormal continuous ICU EEG 
+monitoring study because of continuous focal slowing over the 
+left hemisphere, maximally in the temporal region, indicative of 
+cerebral dysfunction in this region. There is also diffuse 
+slowing indicative of a moderate encephalopathy which is 
+nonspecific as to etiology. There are no electrographic 
+seizures.
+
+CTA head/neck (___): 1. No acute intracranial abnormality on 
+noncontrast head CT.  Specifically no
+intracranial hemorrhage or large territory infarct. 2. 
+Suboptimal CTA examination demonstrating grossly patent 
+intracranial arterial vasculature without definite occlusion or 
+aneurysm formation. 3. Grossly patent cervical arterial 
+vasculature without significant stenosis, occlusion, or 
+dissection.
+4. Moderate global atrophy, greater than expected for age. 5. 
+Scattered opacities in the visualized upper lung fields with 
+small bilateral pleural effusions, are nonspecific, and may 
+represent pulmonary edema, infection or inflammation. 6. 
+Multiple maxillary periapical lucencies compatible with 
+periodontal disease.
+
+CXR (___): NG tube tip iscoiled in the stomach.  Right PICC tip 
+is in the lower SVC. There is moderate pulmonary edema.  There 
+are low lung volumes.  There is mild to moderate cardiomegaly.  
+There is no evident pneumothorax.  Bilateral effusions are 
+suspected.
+
+TTE (___): The left atrium is mildly dilated. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size. 
+Regional left ventricular wall motion is normal. Left 
+ventricular systolic function is hyperdynamic (EF>75%). Right 
+ventricular chamber size and free wall motion are normal. No 
+masses or vegetations are seen on the aortic valve, but cannot 
+be fully excluded due to suboptimal image quality. There is no 
+valvular aortic stenosis. The increased transaortic velocity is 
+likely related to high cardiac output. No aortic regurgitation 
+is seen. The mitral valve leaflets are mildly thickened. No 
+masses or vegetations are seen on the mitral valve, but cannot 
+be fully excluded due to suboptimal image quality. Trivial 
+mitral regurgitation is seen. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion. IMPRESSION: No vegetations or clinically-significant 
+regurgitant valvular disease seen (suboptimal-quality study). 
+Hyperdynamic biventricular systolic function. 
+
+AXR (___): No ileus or obstruction.
+
+Abdominal US (___): 1. Patent portal and splenic veins with 
+reversed flow, likely due to portal
+hypertension with probable splenorenal shunt. 2.  Cirrhotic 
+liver with no evidence of focal hepatic lesion in limited views. 
+3.  Diffuse gallbladder wall thickening is likely secondary to 
+chronic hepatic
+disease. No ascites.
+
+CT chest w/o contrast (___): Bilateral pleural effusions with 
+adjacent atelectasis.  Extensive
+predominantly peripheral nodular opacities of mixed attenuation. 
+ The most likely differential diagnosis is multifocal bacterial 
+or fungal pneumonia.  No relevant lymphadenopathy.  No 
+mediastinal or hilar abnormalities.
+
+CT abdomen/pelvis w/o contrast (___): 1. Findings suggesting 
+pancreatitis.  Correlation with laboratory testing is 
+recommended. 2. Possible small bowel ileus.  No definite focal 
+small bowel obstruction is identified. 3. Findings of hepatic 
+cirrhosis.
+
+CT head w/o contrast (___): 1. Interval development of large 
+intraparenchymal hematoma involving the right frontal, parietal, 
+and temporal lobes with intraventricular extension in the 
+severely dilated bilateral lateral, third, and fourth ventricle. 
+2. Small focus of intraparenchymal hematoma in the right 
+cerebellum. 3. Severe mass effect with diffuse brain swelling, 
+1.2 cm leftward midline shift, and effacement the basal 
+cisterns.
+
+LATEST LABS:
+==========
+___ 11:01AM BLOOD WBC-10.3* RBC-UNABLE TO  Hgb-7.8* 
+Hct-26.0* MCV-UNABLE TO  MCH-UNABLE TO  MCHC-UNABLE TO  
+RDW-UNABLE TO  RDWSD-UNABLE TO  Plt Ct-73*#
+___ 04:04AM BLOOD ___ PTT-43.1* ___
+___ 10:10PM BLOOD ___
+___ 04:04AM BLOOD Glucose-102* UreaN-71* Creat-1.1 Na-138 
+K-3.6 Cl-104 HCO3-17* AnGap-21*
+___ 04:04AM BLOOD ALT-46* AST-32 LD(LDH)-561* AlkPhos-85 
+TotBili-17.9*
+___ 04:04AM BLOOD Calcium-10.2 Phos-4.2 Mg-2.___ w/ decompensated ETOH cirrhosis, anemia, VRE 
+bacteremia/fungemia, intubated for AMS and concern for 
+multifocal PNA vs. aspiration.
+
+#Altered mental status:
+#Encephalopathy:
+#Intracerebral hemorrhage:
+Patient had waxing and waning mental status with no focal 
+neurologic deficits but leftward gaze deviation on admission. 
+Initial NCHCT clear. Thought to initially be toxic-metabolic 
+encephalopathy with hepatic encephalopathy and continued on 
+antibiotics and lactulose. Neurology was consulted during 
+initial code stroke. EEG showed diffuse slowing, but no 
+concerning signs of seizure. She had an emergent CT in the 
+setting of worsening neurologic exam (no withdrawing), which 
+showed large intracerebral hemorrhage and she was started on 
+keppra 1 g BID. Neuro and neurosurgery saw her and given her 
+poor prognosis, she was soon transitioned to CMO and passed on 
+___.
+ 
+#Hypoxic Respiratory Failure: 
+Initially satting in ___ on ___ NC in the setting of feculent 
+material coming out of NGT. CXR prior to intubation showed 
+multifocal patchy opacities, which could indicate multifocal 
+pneumonia, pulmonary edema, pneumonitis, or even early ARDS. She 
+was started on vanc and zosyn for HAP coverage. 
+
+#Disseminated intravascular coagulation:
+Hemoglobin dropped from 10.2 to 6.6 in ___ from ___ to 
+admission on ___. S/p 1u pRBC with appropriate bump to 8.3. 
+There was also concern for acute blood loss anemia given this 
+pt's coagulopathy (INR 2.8, platelets 16) and amber colored 
+urine and report of vaginal bleeding is concerning for mucosal 
+bleeding. OSH labs concerning for DIC (fibrinogen 53, elevated 
+D-dimer), received 2u of cryoprecipitate at OSH. Macrocytic 
+anemia likely from underlying liver disease (folate and b12 
+normal at OSH). Had gross streaks of blood in stool. s/p 1 
+uPRBC,  1 PLT, and ___ FFP ___.  She was given octreotide and IV 
+PPI for concern for GIB in a cirrhotic (she had no known EGDs 
+prior to presentation).
+
+#Decompensated Cirrhosis (MELD 30):
+Cirrhosis suspected from both autoimmune hepatitis and ___ y hx 
+of heavy alcohol use. She has had viral hepatitis labs in the 
+past that were negative. No documented history of varices or 
+SBP. Not a candidate for transplant given recent EtOH use 6 days 
+prior to OSH admission. Coagulopathic (INR 2.8, platelets 16, 
+BUN 72). Abdominal US without evidence of biliary obstruction or 
+ascites. She was continued on methylprednisone for her AIH, 
+although this was eventually discontinued due to her infection 
+and unclear history of AIH. She was given lactulose, octreotide, 
+IV PPI initially through her OGT, but this was discontinued when 
+she was made CMO. 
+
+#Hyperglycemia:
+Likely ___ steroids. No record of preexisting DM and ___ A1c 
+was 4.3 (but could be artificially low if she is hemolysing). BS 
+has been very poorly controlled at OSH (high 300s) and has been 
+high 300s-400s this admission. She was initially given lantus 
+24u qPM, uptitrated as needed as well as an insulin SS.
+
+#NSTEMI II: 
+Trops peaked at 0.17 on admission with STD in V4-V5 resolved on 
+recheck. Likely NSTEMI II in the setting of anemia. She was not 
+given aspirin given concern for bleeding/DIC and her 
+coagulopathy.
+
+#Lactic acidosis:
+Lactate accumulation likely from a combination of poor liver 
+function (decreased metabolism of lactate) and possibly  
+hemorrhage and/or infection. No signs of hypoperfusion on exam 
+(no hypotension, warm and well perfused on exam, adequate urine 
+output) making decreased tissue perfusion less likely.  
+
+#Volume status:
+Volume overloaded on exam (2+ pitting edema to the knee 
+bilaterally, Evidence of third spacing on exam. Was made CMO 
+prior to diuresis.
+
+#VRE bacteremia and fungemia:
+Blood cultures at OSH and then fungemia here after she was made 
+CMO. ID was consulted and she was given daptomycin, micafungin, 
+cefepime until she was made CMO.
+
+TRANSITIONAL ISSUES:
+==================
+-Patient expired
+-Communication/HCP: ___ ___ (son) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Thiamine 100 mg PO DAILY 
+3. Rifaximin 550 mg PO BID 
+4. Spironolactone 25 mg PO DAILY 
+5. Multivitamins 1 TAB PO DAILY 
+6. Lactulose 20 mL PO QID 
+7. Furosemide 20 mg PO DAILY 
+8. Potassium Chloride 20 mEq PO DAILY 
+9. Methylprednisolone 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+==============
+Massive intracerebral hemorrhage
+ETOH cirrhosis
+Disseminated intravascular coagulation
+Anemia
+Toxic-metabolic encephalopathy
+Candidemia
+Vancomycin resident enterococcus bacteremia
+
+Secondary diagnosis:
+================
+Lactic acidosis
+Thrombocytopenia
+Coagulopathy
+Uremia
+
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+___

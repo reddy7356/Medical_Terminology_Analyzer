@@ -1,0 +1,723 @@
+===== DISCHARGE NOTE =====
+note_id=18580093-DS-12 | hadm_id=21710494
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ year old woman with history of mild AS ___
+1.2-1.9 ___ w/ EF 55%, mild MR, HTN, HLD, DM and previous
+smoking history followed by Dr. ___ presents with 3
+episodes of chest pressure/tightness at rest over the last 24
+hours. She first had an episode of chest pain on ___
+which lasted approximately 20 minutes. On ___, she had 2
+episodes of chest pain, each approximately 20 minutes long,
+radiating across the chest, associated with some nausea, but no
+vomiting or diaphoresis. She has not had any changes in her
+baseline exertional dyspnea. She has not had any leg swelling or
+other complaints. Patient was seen at ___ where
+cardiology recommended referral to ___ for TTE. 
+
+ On evaluation patient notes exertional SOB but denies chest 
+pain
+with exertion. Patient notes that she has a hx of GERD which is
+well -controlled w/ her omeprazole and this chest tightness is
+different than her burning GERD pain in the past. Denies leg
+swelling, PND, orthopnea, or recent illness. Denies any
+pre-syncope or syncope but endorses a hx of vasovagal syncope.
+  
+
+ 
+Past Medical History:
+- HTN
+- HLD
+- Moderate aortic stenosis
+- Gout
+- Anemia
+- Arrhythmia
+- Pancreatitis
+- Claustrophobia
+- Chronic kidney disease
+- Mitral insufficiency ___ rheumatic fever
+- Dyspnea on exertion
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+GENERAL: Well developed, well nourished. Appears younger than
+stated age. NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP not visible above clavicle when sitting at 90
+degrees.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. ___
+crescendo-decrescendo murmur. No rubs, or gallops. No thrills or
+lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+
+DISCHARGE PHYSICAL EXAM:  
+=========================
+VS: Temp: 98.3 (Tm 98.6), BP: 151/76 (101-151/54-76), HR: 71
+(66-71), RR: 18 (___), O2 sat: 97% (96-100), O2 delivery: RA
+GENERAL: Well developed, well nourished. Appears younger than
+stated age. NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Sclera anicteric, MMM
+NECK: Supple. JVP not visible above clavicle when sitting at 90
+degrees.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. ___ harsh
+crescendo-decrescendo murmur. No rubs, or gallops. No thrills or
+lifts.  
+LUNGS: CTABL, nl WOB
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+PULSES: Distal pulses palpable and symmetric.  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 06:10AM BLOOD WBC-5.6 RBC-3.59* Hgb-10.6* Hct-31.7* 
+MCV-88 MCH-29.5 MCHC-33.4 RDW-11.5 RDWSD-37.0 Plt ___
+___ 06:10AM BLOOD ___ PTT-26.9 ___
+___ 10:20AM BLOOD Glucose-252* UreaN-36* Creat-1.7* Na-132* 
+K-4.8 Cl-95* HCO3-20* AnGap-17
+___ 06:10AM BLOOD Calcium-9.4 Phos-3.6 Mg-1.6
+
+___ 09:15PM URINE Hours-RANDOM Creat-63 Na-58 K-34
+___ 09:15PM URINE Osmolal-363
+
+CARDIAC ENZYMES
+================
+___ 03:30AM BLOOD cTropnT-<0.01
+___ 10:20AM BLOOD cTropnT-<0.01
+___ 06:10AM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS
+==============
+___ 07:29AM BLOOD WBC-6.0 RBC-3.89* Hgb-11.7 Hct-34.0 
+MCV-87 MCH-30.1 MCHC-34.4 RDW-11.5 RDWSD-36.7 Plt ___
+___ 07:29AM BLOOD Glucose-92 UreaN-31* Creat-1.4* Na-132* 
+K-4.9 Cl-95* HCO3-21* AnGap-16
+___ 07:29AM BLOOD Calcium-9.4 Phos-3.5 Mg-2.2
+
+IMAGING AND STUDIES
+===================
+___ ECHO (TTE)
+The left atrial volume index is normal. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size and global 
+systolic function. Due to suboptimal technical quality, a focal 
+wall motion abnormality cannot be fully excluded. Quantitative 
+(biplane) LVEF = 69 %. The estimated cardiac index is normal 
+(>=2.5L/min/m2). Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets are moderately thickened. There is 
+moderate aortic valve stenosis (valve area 1.0-1.2cm2). Mild 
+(1+) aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. Trivial mitral regurgitation is seen. The 
+estimated pulmonary artery systolic pressure is normal. 
+Significant pulmonic regurgitation is seen. 
+
+IMPRESSION: Suboptimal image quality. Moderate aortic valve 
+stenosis. Mild aortic regurgitation. Mild symmetric left 
+ventricular hypertrophy with preserved regional and global 
+biventricular systolic function. Increased PCWP. 
+
+Compared with the prior study (images reviewed) of ___, 
+the aortic valve gradient is slightly higher with similar 
+calculated aortic valve area. 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+================
+___ year old woman with history of moderate aortic stenosis with 
+EF 55%, mild mitral regurgitation, hypertension, hyperlipidemia, 
+who presents with chest pressure and tightness at rest, admitted 
+for evaluation of unstable angina. 
+
+ACUTE ISSUES
+============
+#Unstable angina
+Patient with chest pain at rest, however no EKG changes and 
+negative troponins x3, most consistent with stable angina. Given 
+her known aortic stenosis, ECHO was performed to rule out 
+structural changes. Aortic stenosis was largely unchanged, and 
+next step in workup was nuclear stress test. Patient was 
+hemodynamically stable and without chest pain or concerning 
+telemetry findings, and requested to have this done as 
+outpatient. One was scheduled for her in ___ on ___, in 
+three days. Home medications, including metoprolol, aspirin, and 
+simvastatin were continued. Lisinopril was held as below, then 
+restarted. 
+
+___ on CKD Stage III
+CKD due to microvascular disease and chronic gout. Baseline Cr 
+1.4, was up to 1.7 on presentation. Likely pre-renal, has 
+improved and patient w hypertensive reading, so restarted home 
+lisinopril 40mg. Encouraged patient to take in PO fluids and 
+solutes to augment hydration status. 
+
+#Hyponatremia
+Unclear etiology, Na was 132-133 consistently during admission. 
+Urine electrolytes were checked and were not consistent with 
+pre-renal etiology (FENa is 1.2%, Cr 63, Na 58, K 34, Osm 363). 
+Patient not on diuretics and appeared hypovolemic to euvolemic 
+throughout hospitalization. Should be follow-up outpatient and 
+further work-up if persistent. 
+
+CHRONIC ISSUES
+==============
+#Hypertension: Held lisinopril initially given ___, restarted 
+prior to discharge. 
+#Gout: Continued with feboxostat. 
+#GERD: Continued with home omeprazole. 
+
+TRANSITIONAL ISSUES
+==================
+[ ] Follow-up outpatient stress test, further work-up and 
+management pending these results
+[ ] Repeat BMP on ___ while at ___ for stress test to 
+evaluate serum Na levels (order placed in OMR for outpatient 
+labs)
+[ ] Hyponatremia-unclear etiology, new for this patient, further 
+work-up pending labs that will be checked outpatient ___.
+[ ] Patient given prescription for Zofran for nausea, which she 
+was experiencing in hospital. Unclear etiology, if she continues 
+to require Zofran and/or is having nausea, please initiate 
+further work-up. 
+
+# DISCHARGE WEIGHT: 60.1 kg (132.5 lb) 
+# DISCHARGE CREATININE: 1.4
+# CODE STATUS: full code
+# CONTACT/HCP: ___ (husband) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Febuxostat 40 mg PO DAILY 
+2. Simvastatin 80 mg PO QPM 
+3. Lisinopril 40 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Vitamin D ___ UNIT PO 1X/4 WEEKS 
+6. Omeprazole 40 mg PO DAILY 
+7. Aspirin 81 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Ondansetron 4 mg PO ONCE MR1 Duration: 1 Dose 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every 8 hours as 
+needed for nausea Disp #*4 Tablet Refills:*0 
+2.  Aspirin 81 mg PO QHS  
+3.  Febuxostat 40 mg PO DAILY  
+4.  Lisinopril 40 mg PO DAILY  
+5.  Metoprolol Succinate XL 25 mg PO DAILY  
+6.  Omeprazole 40 mg PO DAILY  
+7.  Simvastatin 80 mg PO QPM  
+8.  Vitamin D ___ UNIT PO 1X/4 WEEKS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+-Unstable angina
+-Acute kidney injury on chronic kidney disease
+-Hyponatremia 
+
+Secondary Diagnoses:
+-Hypertension
+-Gout
+-GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure being involved in your care. 
+
+Why you were admitted to the hospital:
+======================================
+You were admitted to the hospital because you were having chest 
+pain. 
+
+What happened in the hospital:
+==============================
+- You had a cardiac ultrasound (also called an "echo") which did 
+not show any significant changes to your aortic valve or other 
+parts of your heart structure. 
+- We arranged for a stress test to be done outpatient as you 
+were stable and wanted to return home rather than wait in the 
+hospital. 
+- Your blood levels of sodium were a little bit low, we want to 
+continue monitoring this after you leave the hospital. 
+
+What you should do when you leave the hospital:
+===============================================
+- Take all of your medications as described below. 
+- Attend all of your follow-up appointments as described below. 
+- Have labs done at ___ lab on ___ (when you 
+go for your stress test), there is already an order in their 
+computer system for you to have these drawn, you just need to 
+show up there. 
+- We gave you some Zofran for nausea - as we are not sure what 
+the cause of your nausea is, if you continue to have it please 
+bring this up with your primary care doctor. 
+
+We wish you the best!
+Your ___ Team 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18580093-DS-13 | hadm_id=26816998
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+s/p TAVR ___
+s/p EGD/Colonscopy ___ 
+
+ 
+History of Present Illness:
+___ female with past medical history
+significant for rheumatic fever, HTN, Paget's disease,
+pancreatitis, gout, diet controlled diabetes, mastectomy, CKD 
+and
+severe aortic stenosis.  Reports increasing shortness of breath
+with exertion when she climbs a flight of stairs.  Denies
+orthopnea or fatigue, syncope or chest pain.  She has new right
+ankle swelling. She presented to ___ ___ for elective TAVR 
+procedure. 
+
+ 
+Past Medical History:
+Past Medical History:
+-ANEMIA                                                 
+-BASAL CELL CARCINOMA w removal 
+-GOUT                                                            
+
+-HYPERLIPIDEMIA                                                  
+
+-HYPERTENSION                                                    
+
+-PAGET'S DISEASE                                                 
+
+-PANCREATITIS                                                    
+
+-PSORIASIS                                                       
+
+-RHEUMATIC MITRAL                                                
+
+-DIABETES, TYPE II                                               
+
+     diet controlled
+-AORTIC STENOSIS                                                 
+
+                                     
+                                  
+Past Surgical History:
+-mastectomy with reconstruction
+-bunionectomy
+
+ 
+Social History:
+___
+Family History:
+Sister died at ___ of colon cancer. Father deceased from 
+gastric
+cancer.
+ 
+Physical Exam:
+ADMISSION PE: 
+VS:  119/56, 69, 20, 100% 2L
+
+EKG: Rate 70, SR with 1st degree AVB 0.30/0.12/0.44
+
+General: Awake, pleasant lying flat in bed in PACU, NAD
+Neuro: Alert and oriented. Pleasant and cooperative. PERRLA
+Speech clear, appropriate and comprehensible. Tongue midline,
+smile symmetric. 
+HEENT: Neck supple, No JVD noted
+CV: RRR  no M/R/G
+Lungs: Clear bilat, posterior and anteriorly, non-labored. No 
+use
+of accessory muscles noted.
+GI/Abdomen: soft, non-tender
+PV: WWP, + pedal pulses, No edema.
+Access sites: Bilat femoral sites without hematoma  
+==============
+DISCHARGE PE:
+weight:56.3 kg (124.12 lb)  
+VS:Temp: 98.0 (Tm 98.7), BP: 97/58 (94-135/56-68), HR: 70 
+(70-82), RR: 20 (___), O2 sat: 97% (97-99), O2 delivery: RA  
+General: Awake, pleasant lying flat in bed in PACU, NAD
+Neuro: Alert and oriented. Pleasant and cooperative. PERRLA
+Speech clear, appropriate and comprehensible. Tongue midline,
+smile symmetric. 
+HEENT: Neck supple, No JVD noted
+CV: RRR  no M/R/G
+Lungs: Clear bilat, posterior and anteriorly, non-labored. No 
+use
+of accessory muscles noted.
+GI/Abdomen: soft, non-tender
+PV: WWP, + pedal pulses, No edema.
+Access sites: Bilat femoral sites without hematoma. L site with 
+moderate ecchymosis but soft, nontender.  
+
+ 
+Pertinent Results:
+Admission: 
+___ 07:30AM BLOOD WBC-5.7 RBC-2.15* Hgb-6.7* Hct-21.7* 
+MCV-101* MCH-31.2 MCHC-30.9* RDW-14.0 RDWSD-51.7* Plt ___
+___ 07:30AM BLOOD Glucose-107* UreaN-33* Creat-2.6* Na-144 
+K-4.0 Cl-109* HCO3-17* AnGap-18
+___ 07:30AM BLOOD ALT-14 AST-25 AlkPhos-69 TotBili-0.2
+___ 10:06AM BLOOD Calcium-8.7 Phos-3.9 Mg-2.2
+
+Discharge: 
+___ 06:27AM BLOOD WBC-7.4 RBC-3.01* Hgb-9.0* Hct-28.8* 
+MCV-96 MCH-29.9 MCHC-31.3* RDW-14.9 RDWSD-52.3* Plt ___
+___ 06:27AM BLOOD Glucose-85 UreaN-29* Creat-2.4* Na-140 
+K-4.0 Cl-108 HCO3-18* AnGap-14
+___ 06:27AM BLOOD Mg-2.0
+
+TAVR report ___: 
+
+Interventional Details
+The patient was counseled extensively regarding the risks, 
+benefits, and alternatives to the procedure and after answering 
+all questions, the patient yielded informed consent. The patient 
+was thereafter brought tothe catheterization laboratory and 
+monitored anesthesia care was delivered. Preprocedural 
+antibiotic was administered intravenously. The nature of this 
+procedure required multidisciplinary planning and management 
+with the cardiac surgery, interventional cardiology and 
+anesthesia physicians. All members of the heart team were 
+present for the following key components of the procedure 
+according ___ guidelines: Vascular access Catheter placement, 
+Device implantation, Vascular closure, Intraprocedural 
+medication ordering. Sterile technique was used throughout the 
+case. All vascular access was obtained using modified Seldinger 
+technique and ultrasound guidance. An ___ sheath was placed in 
+the left femoral vein and ___ sheaths were placed in the right 
+and left femoral artery. The ___ sheath in the right femoral 
+artery was removed and the arteriotomy was measured with the 
+Manta device, and the access site was upsized to an ___ sheath. A 
+___ Angled Pigtail catheter was advanced to the aortic root via 
+the left femoral artery sheath and aortic root angiography was 
+performed. A temporary pacing wire was placed in the right 
+ventricle via the left femoral vein sheath. Next, the ___ sheath 
+in the right femoral artery was exchanged over an Amplatz 
+Extrastiff for the ___ sheath. A pigtail catheter was advanced 
+to the aortic root. Using a 0.035" straight wire, the aortic 
+valve was crossed. Over the wire, the angled pigtail catheter 
+was advanced across the valve. Baseline hemodynamics (left heart 
+catheterization) were obtained. A preshaped curved wire was 
+advanced into the LV and the JR-4 catheter was removed. Next, 
+the Enveo delivery system was delivered to the ascending aorta 
+and the aortic valve was crossed in a retrograde fashion. After 
+confirming appropriate placement across the aortic valve using 
+aortic root angiogaphy, the valve was deployed with rapid 
+ventricular pacing at 100 bpm. Echocardiography and aortic root 
+angiography revealed a well-placed and well-seated valve, with 
+no aortic regurgitation. Next, the delivery catheter system was 
+removed. An angled pigtail catheter was advanced into the LV and 
+repeat hemodynamics (left heart catheterization) were obtained.
+
+The sheath was removed over a wire, and the right femoral artery 
+device access site was successfully closed using the Manta 
+device. The contralateral arteriotomy was closed with an 
+Angioseal device. The
+temporary pacemaker was removed, and manual compression 
+hemostasis was applied to the venous sheath. The patient 
+tolerated the procedure well. Patient was transferred to the CV 
+Post Anesthesia care
+unit for further management.
+Complications: There were no clinically significant 
+complications. Of note, her Hb was noted to be low pre-procedure 
+(on routine pre-procedure labs). No active bleeding reported 
+and/or noted. Decision was
+made to give her 2 units PRIOR to the TAVR, routinely before the 
+procedure.
+I was physically present during all critical and key components 
+of the procedure and in compliance with the CMS regulations.
+
+TTE ___: 
+Pre-TAVR: There is suboptimal image quality to assess regional 
+left ventricular function. Overall left
+ventricular systolic function is normal. The right ventricle has 
+normal free wall motion. The aortic valve leaflets
+are severely thickened. There is SEVERE aortic valve stenosis 
+(valve area 1.0 cm2 or less). There is mild [1+]
+mitral regurgitation.
+Post-TAVR: The Evolut Pro TAVR prosthesis is well seated with 
+normal leaflet motion and normal gradient.
+There is a paravalvular jet of trace aortic regurgitation is 
+seen.
+
+TTE ___: The left atrial volume index is normal. There is no 
+evidence for an atrial septal defect by 2D/color Doppler. The 
+estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is normal regional and global left ventricular 
+systolic function. Quantitative biplane left ventricular 
+ejection fraction is 60 % (normal 54-73%). There is no resting 
+left ventricular outflow tract gradient. No ventricular septal 
+defect is seen. Tissue Doppler suggests an increased left 
+ventricular filling
+pressure (PCWP greater than 18 mmHg). Normal right ventricular 
+cavity size with normal free wall motion. The aortic sinus 
+diameter is normal for gender with a normal ascending aorta 
+diameter for gender. The aortic
+arch diameter is normal with a normal descending aorta diameter. 
+An Evolut Pro aortic valve bioprosthesis is present. The 
+prosthesis is well seated with normal gradient. There is no 
+aortic regurgitation. The mitral valve
+leaflets appear structurally normal with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The pulmonic 
+valve leaflets are not well seen. There is mild pulmonic 
+regurgitation. The tricuspid valve is not well
+seen. There is physiologic tricuspid regurgitation. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion.
+Compared with the prior TTE (images reviewed) of ___ , no 
+aortic regurgitation is seen. The degree of mitral regurgitation 
+has also decreased.
+
+EGD/Colonoscopy ___: See full detailed report. EGD showed 
+gastric angioectasias that were APC'd
+Colonoscopy was unrevealing
+
+ 
+Brief Hospital Course:
+Assessment: ___ year old woman s/p TAVR with 29 Evolute Pro
+valve found to be markedly anemic on admission now stable s/p 2
+units PRBCs and EGD/colonoscopy. 
+
+# Aortic Stenosis: s/p TAVR with 29mm Evolute pro. Pre-TAVR 
+peak/mean gradient 52/28mmHG ___ 0.6cm2. Post-TAVR ___ ___ 
+1.3cm2.
+  -Anticoagulation: CONTINUE aspirin 81mg, no clopidogrel or 
+additional agent at this time given increased bleeding risk.
+  -___ education reinforced (daily weights, low Na diet)on 
+discharge
+  -Groin precautions/activity restrictions reviewed on discharge 
+
+  -SBE prophylaxis education on discharge
+  -Follow up with ___ cardiology NP ___ 
+  -Follow up with structural heart with concurrent echo as 
+scheduled 
+
+# Acute on chronic Anemia: s/p EGD/ colonoscopy. EGD showed
+gastric angioectasias that were APC'd. Colonoscopy was
+unrevealing. Appreciate recommendations per GI: 
+-STOP omeprazole
+-START pantoprazole 40mg daily 
+-Outpatient CBC ___, results to PCP 
+-___ up with PCP ___ (assess ongoing anemia) 
+-Follow up with Dr. ___ for ___. 
+
+# Chronic kidney disease: Baseline creatinine mid 2's with peak
+2.6. ___ creat 2.6 --> ___ creat 2.4--> ___ creat 2.6--> ___ 
+creat 2.4. 
+-Renal dose medications  
+
+# Coronary artery disease: non obstructive. 
+ -Continue aspirin 81mg daily 
+ -Continue Crestor
+ -Heart healthy diet
+- Follow up with ___ cardiology NP ___  
+
+# GERD: stable
+- START pantoprazole as above
+
+# Hypertension: Clinically stable.
+  - Continue Amlodipine
+
+# Hyperlipidemia: ___  Choles: 155 Trig: 118  HDL: 67 
+Chol/hd 2.3 LDL 641 
+  - Continue Crestor as current dose 
+
+# Diabetes: diet controlled
+  - Continue carbohydrate controlled diet
+
+# Gout: stable
+ - Continue Febuxostat
+
+ # DISPO:  d/c home
+    
+ # Transitional issues: 
+-PCP to follow up on outpatient CBC ___
+-PCP to ___ up from CTA ___: 
+ 2. Scattered ground-glass nodules measuring up to 7 mm in the
+right lower lobe.  Follow-up recommendations per ___ 
+___
+guidelines as outlined 
+below. 
+3. Conspicuous 5 mm anterior mediastinal lymph node. Attention 
+on
+follow-up is recommended. 
+  
+RECOMMENDATION(S):  For incidentally detected multiple subsolid
+nodules bigger than 6mm, CT follow-up in 3 to 6 months is
+recommended. Subsequent management 
+should be based on the most suspicious nodule(s). 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Febuxostat 40 mg PO QHS 
+2. Metoprolol Succinate XL 25 mg PO BID 
+3. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line 
+4. amLODIPine 2.5 mg PO BID 
+5. darbepoetin alfa in polysorbat 60 mcg/mL injection Q month 
+6. Rosuvastatin Calcium 20 mg PO QPM 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN angina 
+8. Omeprazole 40 mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Ergocal (ergocalciferol (vitamin D2)) ___ units oral Q 
+month 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H  
+2.  amLODIPine 2.5 mg PO BID  
+3.  Aspirin 81 mg PO DAILY  
+4.  darbepoetin alfa in polysorbat 60 mcg/mL injection Q month  
+5.  Ergocal (ergocalciferol (vitamin D2)) ___ units oral Q 
+month  
+6.  Febuxostat 40 mg PO QHS  
+7.  Metoprolol Succinate XL 25 mg PO BID  
+8.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN angina  
+9.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+10.  Rosuvastatin Calcium 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Severe Aortic Stenosis s/p TAVR 
+Acute on Chronic anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for a trans catheter aortic valve replacement 
+(TAVR) to treat your aortic valve stenosis which was done on 
+shortness of breath. By repairing the valve your heart can pump 
+blood more easily and your shortness of breath should improve. 
+
+We found your blood levels to be critically low when you were 
+admitted. We consulted GI and you had an EGD/colonoscopy. They 
+found where you were bleeding from in your stomach. Your blood 
+levels are now stable. Please have your labs checked as an 
+outpatient next week and follow up with your GI doctor. 
+
+ It is very important to take all of your heart healthy 
+medications. In particular, you are now taking Aspirin. This 
+medication helps to prevent blood clots from forming on the new 
+valve. If you stop this medication or miss ___ dose, you risk 
+causing a blood clot forming on your new valve. This could cause 
+it to malfunction and it may be life threatening. Please do not 
+stop taking Aspirin without taking to your heart doctor, even if 
+another doctor tells you to stop the medications.  
+
+ You will need prophylactic antibiotics prior to any dental 
+procedure. Please inform your dentist about your recent cardiac 
+procedure, and obtain a prescription from your doctor before any 
+procedure.
+  
+ Please weigh yourself every day in the morning after you go to 
+the bathroom and before you get dressed. If your weight goes up 
+by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please 
+call your heart doctor or your primary care doctor and alert 
+them to this change. Your weight at discharge is 124.12 lb.  
+ 
+ We may have made changes to your medication list, so please 
+make sure to take your medications as directed. You will also 
+need to have close follow up with your heart doctor and your 
+primary care doctor.
+  
+ If you were given any prescriptions on discharge, any future 
+refills will need to be authorized by your outpatient providers, 
+primary care or cardiologist.  
+
+ If you have any urgent questions that are related to your 
+recovery from your procedure or are experiencing any symptoms 
+that are concerning to you and you think you may need to return 
+to the hospital, please call the ___ Heart Line at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+
+ It has been a pleasure to have participated in your care and we 
+wish you the best with your health.  
+
+ 
+Followup Instructions:
+___

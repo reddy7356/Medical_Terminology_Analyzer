@@ -1,0 +1,696 @@
+===== DISCHARGE NOTE =====
+note_id=13054457-DS-16 | hadm_id=20698244
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left Flank Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old male with no significant past medical history who 
+presents to OSH with left flank pain associated with nausea and 
+3 episodes of non-bloody emesis after having a mechanical fall 
+yesterday morning while getting out of bed.  Denies fevers, 
+chest pain, dyspnea, cough, dysuria, melena, hematochezia.  
+.
+He was noted to have EKG at ___ which was read as 
+anterior STEMI with STE in V1-V2 and depressions in inferior 
+leads concerning for anterior STEMI.  He was started on heparin 
+drip with bolus and given nitroglcyerin which caused transient 
+hypotension. He was given morphine as well though no aspirin was 
+noted to have been given and no imaging studies were performed.  
+He was subsequently transferred to ___ for further evaluation 
+and management.
+.  
+At ___ initial vitals were HR:90 with SBP of 120.  Labs were 
+significant for Hct 32.7, WBC 14.6, lactate 4.4 and creatinine 
+1.5. A CT torso demonstrated a large left subcapsular renal 
+hematoma with active extravasation extending to retroperitoneum. 
+An EKG demonstrated mild ST elevations in V1-V2. He was given 
+protamin 15mg to reverse his coagulopathy from IV heparin.  A 
+Urology consult was placed who recommended q6hr hct and 
+admission to the MICU overnight with recommendation for repeat 
+CT in the morning and ___ if unstable. He was given 2LNS and 1 
+unit of PRBC in the ED and transferred to ___ for further 
+evaluation and management.  Cards evaluated the patient and 
+thought there was no STEMI and with negative troponins with no 
+clinical presentation of chest pain they were not concerned for 
+active ischemia. Vitals prior to transfer were 117 140/95 16 
+95%RA
+.
+.  
+On arrival to the ICU,  he reports having left flank pain but no 
+other complaints.  
+
+ 
+Past Medical History:
+Cath in ___ which was normal
+
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+On admission to ICU:
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear. Right pupil is 
+surgical. 
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: CVA tenderness on the left.  soft, non-tender, 
+non-distended, bowel sounds present no organomegaly  
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+
+On transfer to medical floor:
+VS: 97 179/81 82 18 96%RA  
+GA: somnolent but easily aroused, follows commands, per son pt 
+is confused and speaking nonsensically  
+HEENT: NC/AT, PERRLA. dry mm. no lymphadenopathy. neck supple.  
+Cards: RRR, S1/S2 WNL. no murmurs/gallops/rubs.  
+Pulm: limited due to pt's lack of cooperation but grossly CTAB, 
+no crackles or rhonchi  
+Abd: soft, modrately distended with tenderness to palpation fo 
+LUQ. +BS, no HSM appreciated.  
+Extremities: wwp, no edema. 2+ pulses in DPs  
+Skin: warm and dry  
+Neuro/Psych: somnolent, follows commands, moving all extremities 
+ 
+
+ 
+Pertinent Results:
+___ 06:37PM BLOOD Hct-26.9*
+___ 03:31PM BLOOD Hct-27.8*
+___ 11:50AM BLOOD Hct-30.9*
+___ 07:19AM BLOOD WBC-12.3* RBC-3.62* Hgb-11.4* Hct-33.0* 
+MCV-91 MCH-31.6 MCHC-34.6 RDW-13.3 Plt ___
+___ 12:10AM BLOOD WBC-14.6* RBC-3.41* Hgb-10.9* Hct-32.7* 
+MCV-96 MCH-32.0 MCHC-33.3 RDW-12.5 Plt ___
+___ 07:19AM BLOOD ___ PTT-27.0 ___
+___ 03:51AM BLOOD ___ PTT-29.8 ___
+___ 12:10AM BLOOD ___ PTT-150* ___
+___ 07:19AM BLOOD Glucose-104* UreaN-16 Creat-1.5* Na-137 
+K-4.5 Cl-110* HCO3-23 AnGap-9
+___ 12:10AM BLOOD Glucose-129* UreaN-17 Creat-1.5* Na-135 
+K-6.2* Cl-106 HCO3-21* AnGap-14
+___ 12:10AM BLOOD ALT-17 AST-59* AlkPhos-45 TotBili-0.5
+___ 07:19AM BLOOD CK-MB-3 cTropnT-0.04*
+___ 12:10AM BLOOD cTropnT-<0.01
+___ 07:19AM BLOOD Albumin-PND Calcium-7.1* Phos-4.1 Mg-1.7
+___ 12:10AM BLOOD Calcium-8.2* Phos-4.0 Mg-2.4
+
+Imaging
+
+CTA Chest/AP ___
+Large left renal subcapsular hematoma with active extravasation 
+extension into the retroperitoneum. In the absence trauma or 
+bleeding disorder, further imaging with MRI is recommended one 
+the patient is stable to 
+exclude an underlying mass lesion such as angiomyolipoma. 
+
+Renal Angiogram ___. Normal arterial anatomy on selective left renal arteriogram. 
+2. Specifically, no active arterial extravasation or 
+pseudoaneurysm is 
+detected to warrant percutaneous transarterial embolotherapy. 
+
+  
+TTE ___
+The left atrium and right atrium are normal in cavity size. 
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size and regional/global systolic function (LVEF>55%). 
+The estimated cardiac index is normal (>=2.5L/min/m2). Right 
+ventricular chamber size and free wall motion are normal. The 
+ascending aorta is mildly dilated. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. No 
+discrete vegetations are seen. Very mild (1+) aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. The estimated 
+pulmonary artery systolic pressure is high normal. There is no 
+pericardial effusion. 
+
+IMPRESSION: Very mild aortic regurgitation with mild aortic 
+valve sclerosis. Mild symmetric left ventricular hypertrophy 
+with preserved global and regional biventricular systolic 
+function.
+
+___ ___
+No evidence of deep vein thrombosis in the left leg.
+
+FOOT ___
+IMPRESSION: No acute fracture.
+
+Video Swallow ___
+Aspiration with thin liquids and penetration with 
+nectar-thickened liquids 
+
+Video Swallow: ___
+IMPRESSION: Aspiration with thin liquids and penetration with 
+nectar-thickened liquids, unchanged from prior. 
+
+Discharge
+ 
+Brief Hospital Course:
+SUMMARY
+___ year old male with no significant past medical history who 
+presents to OSH with left flank pain thought to be anterior 
+STEMI s/p heparin bolus + gtt complicated by worsening massive 
+subcapsular renal bleed extending into retroperitoneum. His 
+course was further complicated by EtOH withdrawal and ___. He is 
+discharged to rehab with stable, constant flank/abdominal pain 
+and waning delirium
+
+BY ISSUE
+# retroperitoneal bleed:  CT found to have left subcapsular 
+renal hematoma extending into retroperitoneum likely due to 
+ruptured renal cyst s/p falling.  Also likely related to heparin 
+drip that was started at OSH for possibility of ACS.  Upon 
+transfer to ___, the patient's heparin was stopped, HCT 
+monitored every 6 hours.  ___ and Urology were both following the 
+patient while in the unit. The patient was initially actively 
+bleeding while in the unit.  Required 3U PRBCs.  Angiogram on 
+___ showed that there was no renal artery stenosis and there 
+were no bleeding vessels to embolize.  His pain was controlled 
+with with various analgesics and was stable/constant on 
+discharge
+.
+# ___: Cr was 1.5 on admission and peaked at 1.7; baseline Cr 
+was normal.  ___ was likely due to prerenal etiology in setting 
+of retroperitoneal hematoma.  The patient was fluid resuscitated 
+and his creatinine was trended.  Upon transfer out of the MICU, 
+his creat had stabilized and was at baseline by time of 
+discharge.  
+.  
+# Alcohol withdrawal: After the RP bleed was stabilized, the 
+patient began to show clinical signs of withdrawal, including 
+hallucinations, hypertension, and tachycardia.  He was started 
+on CIWA scale and given diazepam ___ mg q1h PRN and lorazepam 
+1 mg for breakthrough anxiety.  The patient initially had 
+hallucinations, which improved after benzo treatment.  The 
+patient was also getting precedex for some more sedation.   Upon 
+discharge from the MICU, the patient was sundowning and 
+delirius, but no longer actively withdrawing.  While in the MICU 
+and also on the medical floor, the patient was being seen by 
+social work re: alcohol cessation.  Family was also counseled on 
+importance of pt's cessation from alcohol.  
+.
+# sundowning:  The patient started sundowning while in the MICU, 
+and was started Zyprexa qhs, and Haldol qhs PRN for agitation. 
+All antipsychotics and sedatives were discontinued on the 
+medical floor.  Pt continued to have waxing and waning of mental 
+status.  He was not acutely agitated but continued to have 
+intermittent confusion on the medical floor but was fully 
+oriented at the time of discharge
+
+# "Anterior STEMI":  There was concern at OSH for EKG changes 
+concerning for STEMI.  The patient was seen by cardiology on 
+arrival to ___, and they did not think that the patient was 
+having active ischemia.  The heparin drip was then stopped.  
+Trop peaked at 0.04, but was not trended.  
+.
+# Hypertension:  The patient was found to be hypertensive in the 
+unit, likely related to the EtOH withdrawal. Angiogram showed 
+fully patent renal artery on the side with large hematoma, 
+making compression of renal vasculature and subsequent 
+hypertension unlikely.  He was initially started on Labetolol 
+(in addition to his CIWA protocol) to control his heart rates 
+and blood pressures.  However, Labetolol caused the patient to 
+become wheezy, and it was discontinued.  He was then switched to 
+clonidine patch, which helped both his pressures and his 
+sympathetic tone.  Given the question of heart failure (see 
+below), the patient was also started on metoprolol.  He was 
+started on captopril on the medical floor and transitioned to 
+lisinopril upon discharge.     
+.
+#. Resp distress/? heart failure: The patient had 2 acute 
+episodes of wheezing/resp distress while in the MICU in the 
+setting of having very elevated blood pressures, likely 
+consistent with flash pulmonary edema.  CXR showed evidence of 
+increasing volume overload and the patient responded to 
+temporary BiPAP and diuresis with Lasix. 
+.
+# Cellulitis: Pt had left foot pain, erythema, and swelling.  
+Initially he was given colchicine for suspected gout. However, 
+swelling worsened.  X-ray was negative for fracture; ___ 
+negative for DVT. He was started on keflex for presumed 
+cellulitis. 
+
+# Aspiration: ___ underwent bedside swallow evaluation that was 
+concerning for aspiration.  He underwent video swallow that 
+showed aspiration with thin liquids.  This was repeated several 
+days later when mental status improved but pt continued to show 
+aspiration with thin liquids. He was kept on pureed diet with 
+nectar thickened liquids.  He should have a repeat swallow 
+evaluation in two weeks. 
+
+TRANSITIONAL
+1. Will need f/u Video swallow to determine if aspiration 
+resolved ___ week of ___
+2. Continue to promote etoh cessation
+3. Pain can be managed conservatively with tylenol, tramadol 
+prn. Ensure bowel movements.
+4. Patient will need PCP follow up to manage high blood pressure
+5. His mental status improvement is progressive. He is 
+discharged with occasional confusion but fully oriented when 
+using a ___ interpreter.
+5. He will need urology follow up to be scheduled on discharge 
+from your facility.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).  
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+3. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+4. lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+unit PO DAILY (Daily) as needed for constipation.  
+8. acetaminophen 650 mg/20.3 mL Solution Sig: One (1) tab PO Q6H 
+(every 6 hours).  
+9. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).  
+10. alum-mag hydroxide-simeth 200-200-20 mg/5 mL Suspension Sig: 
+Thirty (30) ML PO TID (3 times a day) as needed for indigestion. 
+ 
+11. cephalexin 250 mg/5 mL Suspension for Reconstitution Sig: 
+One (1) tab PO Q6H (every 6 hours) for 4 days.  
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+13. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+unit PO DAILY (Daily) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Renal Hematoma
+Ethanol withdrawal
+Cellulitis
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted with a kidney bruise and experienced alcohol 
+withdrawal. You required two weeks of hospitalization to treat 
+these and you were discharged to a rehab to continue to work on 
+your strength
+
+NEW MEDICINES
+Lisinopril and Metoprolol for blood pressure
+Thiamine, Folate for vitamins
+Cephalexin for cellulutis
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13054457-DS-17 | hadm_id=29302954
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Increasing somnolence and concern for aspiration
+ 
+Major Surgical or Invasive Procedure:
+PEG placement
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo ___ man with history of hypertension
+and recent R thalamic hemorrhage who presents from rehab with
+increasing somnolence and concern for aspiration.
+
+His family members are at bedside and provides much of the
+history. He was in his usual state of health until last ___
+evening, when he slumped over in his chair and found to have 
+left
+sided weakness. He was taken to the ___ and
+found to have a right thalamic hemorrhage. He was admitted to 
+the
+hospital for observation and did have some fluctuating mental
+status but improved to the point where he was passing his
+speech/swallow evaluation consistently (2 days in a row) so he
+was discharged to ___. The family members noted that
+his mental status was declining at rehab and he was more sleepy
+and difficult to arouse on ___. He was also complaining of
+right sided headache. As he was somnolent to the point where he
+was not taking his medications and there was coughing/choking
+episodes with eating, he was transferred to ___ ED for
+evaluation. His blood pressure ranged from SBP of 120 to 170s at
+___. Head CT in ED showed hyperdense material in R
+thalamus with some intraventricular extension. 
+
+Limited ROS given patient's status but he does complain of R
+sided headache and there are episodes of choking/coughing
+concerning for aspiration. Family members also feel that his
+dysarthria is worse. 
+Denies change in vision. 
+
+On general review of systems, no recent fever or chills. Denies
+shortness of breath, chest pain or tightness. Denies nausea,
+vomiting, diarrhea, constipation or abdominal pain. Denies
+arthralgias or myalgias. Denies rash.
+ 
+Past Medical History:
+HTN
+alcohol use (none since ___ hospitalization per daughter in 
+law)
+R thalamic hemorrhage (___)
+ 
+Social History:
+___
+Family History:
+Sister with stroke (treated in ___, unclear history). Other 
+family members healthy.
+ 
+Physical Exam:
+Admission Physical Exam
+Vitals: 99.6  67  157/88 (SBP ranging 150-180s)  16  98% RA
+General: awake, sitting up in bed
+HEENT: NC/AT
+Neck: Supple without nuchal rigidity
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, warm to touch
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert/awake, in ___, able to say his name
+and state he is in a hospital. Only oriented to ___.  Unable
+to relate history. Somewhat attentive, able to count 1 to 10
+forward and backward without difficulty but did have some
+difficulty following more complex command. Dysarthric. Could
+follow simple commands in ___ such as "open/close eyes"
+"show two fingers" but had difficulty with more complex 
+commands.
+Pt. was able to name hand, palm, thumb and thumbnail. 
+Able to follow both midline and appendicular commands. Seems to
+neglect L side. 
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk on R, L pupil slightly larger than 
+R
+but still briskly reactive. Blinks to threat bilaterally. 
+III, IV, VI: R gaze preference but when called from the left
+side, does look over and cross midline. No nystagmus noted.
+V: Facial sensation decreased to light touch on L V1-V3
+VII: L facial droop.
+VIII: Hearing intact to voice.
+IX, X: Unable to visualize palate
+XI: ___ strength in SCM bilaterally.
+XII: Tongue deviates to L
+
+-Motor: Normal bulk; decreased tone on L side. Occasional
+myoclonus noted on R arm. No drift on R arm, unable to lift L
+arm. 
+Moves RUE spontaneously and purposefully; good strength in
+biceps/triceps. No movement in LUE, no withdrawal from noxious
+stimuli. No clear spontaneous movement on RLE but does move it
+command, good strength at IP/hamstring/TA/gastroc. LLE triple
+flexion with noxious stimuli. 
+
+-Sensory: Decreased pinprick and light touch throughout on L
+side. No deficits on R side.
+-DTRs:
+  Bi ___ Pat Ach
+L 2+   2+   2+  0
+R 2    2    2   0
+Plantar response was mute on L and down on R. 
+-Coordination: Mild tremor with FNF but no dysmetria on RUE. 
+-Gait: Deferred. 
+.
+.
+.
+Discharge exam:
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 08:30PM   ETHANOL-NEG
+___ 08:30PM   ___ PTT-34.2 ___
+___ 02:08PM URINE  HOURS-RANDOM UREA N-675 CREAT-81 
+SODIUM-194 POTASSIUM-49 CHLORIDE-201
+___ 02:08PM URINE  OSMOLAL-740
+___ 02:08PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 01:25PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 01:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-2* PH-7.0 LEUK-NEG
+___ 11:40AM   LACTATE-1.3
+___ 11:20AM   GLUCOSE-97 UREA N-18 CREAT-0.8 SODIUM-130* 
+POTASSIUM-4.2 CHLORIDE-96 TOTAL CO2-26 ANION GAP-12
+___ 11:20AM   estGFR-Using this
+___ 11:20AM   ALT(SGPT)-14 AST(SGOT)-22 ALK PHOS-77 TOT 
+BILI-1.2
+___ 11:20AM   ALBUMIN-4.5
+___ 11:20AM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG 
+barbitrt-NEG tricyclic-NEG
+___ 11:20AM   WBC-10.8 RBC-5.11# HGB-16.3# HCT-45.8# MCV-90 
+MCH-31.8 MCHC-35.5* RDW-11.9
+___ 11:20AM   NEUTS-75.4* LYMPHS-15.2* MONOS-6.2 EOS-2.5 
+BASOS-0.7
+___ 11:20AM   PLT COUNT-256#
+___ 1:25 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+CXR ___
+Mild-to-moderate cardiomegaly. Mild bibasilar atelectasis, but 
+no 
+focal consolidation to suggest pneumonia.  
+
+CT Head ___
+Right thalamic intraparenchymal hemorrhage with intraventricular 
+extension and surrounding vasogenic edema as well as small 
+amount of subarachnoid hemorrhage in the right temporal lobe.  
+The stability and chronicity of the bleed would be best 
+established with comparison to the outside hospital CTs.  
+
+CT Head ___.  Stable right thalamic intraparenchymal hemorrhage with 
+intraventricular extension.  No new hemorrhage. 
+2.  Stable right temporal subarachnoid hemorrhage. 
+
+Video Swallow ___
+Silent aspiration of thin liquid, intermittent aspiration of 
+nectar thick 
+liquid, and severe pharyngeal residue of pureed food. 
+
+CXR ___
+In comparison with the study of ___, there has been placement of 
+a 
+Dobbhoff tube, which coils within the distal esophagus.  
+Subsequent study 
+dictated previously shows the Dobbhoff tube in a better 
+position. 
+Continued enlargement of the cardiac silhouette without definite 
+vascular 
+congestion.  Mild retrocardiac atelectatic changes. 
+
+CXR ___
+In comparison with the earlier study of this date, the Dobbhoff 
+tube has been advanced so that it coils within the upper 
+stomach.  Oral contrast material is seen in non-dilated loops of 
+small bowel.  Little overall change in the appearance of the 
+heart and lungs. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo ___ man with history of hypertension 
+and recent R thalamic hemorrhage who presents from rehab for 
+eval for PEG placement, admitted to the ICU for R thalamic 
+hemorrhage, which was found to be improved from prior. 
+.
+ACTIVE ISSUES
+# Right thalamic hemorrhage: seen on CT scan, though no apparent 
+change from prior. The patient was admitted to the ICU for 
+concern for increased somnolence in the setting of a bleed. 
+However, review of OSH imaging (which was not available at time 
+of admission) showed that the patient's bleed is stable and 
+improving, no new bleed, so the patient was transferred to the 
+floor. Aggressive BP control was initiated given recent bleed 
+(see below). ASA were both stopped initially and then SubQ 
+heparin was restarted. This was stable throughout the hospital 
+course. PEG was placed ___ without complication and feeds 
+restarted.
+.
+# HTN: the patient's BP was uncontrolled on admission. He was 
+controlled with IV hydral prn. He was started on amlodipine. 
+Prior to discharge, amlodipine was started/stopped/etc.
+.
+# Klebsiella UTI: Treated with a dose of Bactrim ___. Missed 
+dose ___ due to NPO after failing speech & swallow. Started 
+ceftriaxone ___ which should be continued until ___. 
+.
+# Anion gap metabolic acidosis: In setting of respiratory 
+alkalosis with overall pH 7.39. Lactate was normal. Attributed 
+to ketosis in setting of NPO. Mild and stable. 
+.
+# Hiccups: Not correlated with increased ICP. Treated with Zydis 
+x1 on ___ with complete resolution.
+.
+# Anemia: Mild; stable
+.
+INACTIVE ISSUES
+# Cough: CXR without consolidation to suggest pneumonia
+# GI:  continued home pantoprazole 
+.
+TRANSITIONAL ISSUES
+# ICH: Follow up with neurology. Speech and swallow at least 
+twice weekly. In the interim, continue tube feeds. 
+.
+# Bicarbonate: Follow at least twice weekly.
+.
+# UTI: No e/o urosepsis; end date antibiotics is ___ 
+___. 
+.
+# Anemia: Trend at least twice weekly; continue work-up as 
+appropraite
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 25 mg PO BID 
+2. Docusate Sodium 100 mg PO BID 
+3. senna 8.8 mg/5 mL Oral HS 
+4. Pantoprazole 40 mg PO Q24H 
+5. Thiamine 100 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Lidocaine 5% Patch 1 PTCH TD DAILY 
+8. OxycoDONE (Immediate Release)  5 mg PO Q4-6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+2. Lidocaine 5% Patch 1 PTCH TD DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. senna 8.8 mg/5 mL Oral HS 
+5. Pantoprazole 40 mg PO Q24H 
+6. Thiamine 100 mg PO DAILY 
+7. Metoprolol Tartrate 25 mg PO BID 
+8. CeftriaXONE 1 gm IV Q24H 
+End date ___. Caphosol 30 mL ORAL QID 
+10. FoLIC Acid 1 mg PO DAILY 
+11. OxycoDONE (Immediate Release)  5 mg PO Q4-6H:PRN pain 
+12. Heparin 5000 UNIT SC TID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Dysphagia
+Right thalamic hemorrhage
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ on 
+___ for difficulty swallowing. A CT head showed that the 
+bleeding in your brain appears stable. A feeding tube (PEG tube) 
+was placed on ___. You were started on tube feeds and the 
+rest of your home medications and were discharged back to your 
+rehab facility on ___.
+
+We made the following changes to your medications:
+START
+1. Ceftriaxone 1gm q24 hours (can be replaced with Bactrim if 
+all goes well with PEG) last dose to be given: ___
+2. Caphasol
+3. Folic acid
+******
+
+If you experience any of the below listed danger signs, please 
+call your doctor or go to the nearest Emergency Department.
+
+It was a pleasure taking care of you during your hospital stay.
+ 
+Followup Instructions:
+___

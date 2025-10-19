@@ -1,0 +1,1554 @@
+===== DISCHARGE NOTE =====
+note_id=18136845-DS-12 | hadm_id=21855770
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Crohn's Disease
+ 
+Major Surgical or Invasive Procedure:
+Sigmoidoscopy
+
+ 
+History of Present Illness:
+PCP: ___ ___
+
+___ year old Male transferred from ___ ___, with 
+complaints of fever to 102.3, diahrea in refractory crohn's 
+disease flare. The patient was diagnosed with crohn's disease 
+___, and was started on 3 weeks of TPN, given steroid, which 
+did not work. He notes that with the initial crohn's flare he 
+lost 50 pounds, although with the TPN he gained back 15. He also 
+notes that his prior hypertension resolved with the weight loss.
+
+Ultimately he was started on remicade, which was complicated by 
+a prior + PPD which was not completely treated with INH due to 
+elevated LFT's. The decision was made that even though a PPD 
+currently was negative that this could have been masked with 
+steroids, so he is on INH and remicade. He recieved 2 infusions 
+on ___ and ___ with no relief. The pateint reports 
+that he has had 5 days of chills, fevers, apthous ulcers and 
+diarhea. He presented to the ___ with dehydration and was 
+given IV fluids.
+ 
+Past Medical History:
+Crohn's Disease diagnosed ___
+GERD
+Diverticulosis
+Nephrolithiasis
+(+) PPD on INH
+ 
+Social History:
+___
+Family History:
+Father: DM, CAD/CABG
+Mother: Healthy
+ 
+Physical ___:
+ROS:
+GEN: + fevers, + Chills, + Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding, + Apthous Ulcers
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: - Nausea, - Vomitting, + Diarhea, + Abdominal Pain, - 
+Constipation, - Hematochezia
+PULM: - Dyspnea, - Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence
+SKIN: + Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+ 
+PHYSICAL EXAM:
+VSS: tM 102.3, 99.7, 134/87, 111, 20, 96%
+GEN: NAD, Obese
+Pain: ___
+HEENT: PERRLA, EOMI, MMM, Possible thrush
+PUL: CTA B/L
+COR: RRR, S1/S2, - MRG
+ABD: NT/ND, +BS, - CVAT
+EXT: - CCE
+NEURO: CAOx3, CN II-XII grossly nl, motor ___ ___ 
+spread, Baninksy absent, reflexes 2+
+
+ 
+Pertinent Results:
+___ 09:45PM BLOOD WBC-5.1 RBC-3.56* Hgb-10.0* Hct-30.7* 
+MCV-86 MCH-28.0 MCHC-32.6 RDW-14.0 Plt ___
+___ 09:45PM BLOOD Neuts-62 Bands-6* ___ Monos-5 Eos-1 
+Baso-0 ___ Metas-2* Myelos-0 NRBC-1*
+___ 09:45PM BLOOD Glucose-95 UreaN-7 Creat-0.7 Na-136 K-3.6 
+Cl-102 HCO3-24 AnGap-14
+___ 09:45PM BLOOD Glucose-95 UreaN-7 Creat-0.7 Na-136 K-3.6 
+Cl-102 HCO3-24 AnGap-14
+___ 09:45PM BLOOD Mg-1.5*
+___ 09:58PM BLOOD Lactate-1.0
+
+EKG: OSH had QTx > 490, but repeat here NSR@103, QTc 435, Q-wave 
+III
+
+Micro blood cultures no growth; stool cultures no growth
+CMV viral load undetectable.
+ 
+Brief Hospital Course:
+Crohn's Disease: The patient has failed induction therapy with 
+steroids and remicaide.  He was sent to ___ for consideration 
+of cyclosporine by Dr. ___ gastroenterologist.  He 
+underwent a sigmoidoscopy on ___ which revealed discrete large 
+colonic ulcers consistent with a Crohn's flare. He underwent a 
+biopsy which revealed: A.  Sigmoid colon, biopsy:  Severely 
+active colitis with ulceration.B.  Rectum, biopsy:   Mildly 
+active colitis, focal architectural distortion.Note:  No 
+granulomata or dysplasia identified; immunostains for CMV are 
+negative in both parts.
+He had significant bleeding x 24 hours after the procedure which 
+required 1 uPRBC blood transfusion and then hct remained stable. 
+ He was started on IV cyclosporine drip and cortefoam enemas. He 
+was transitioned to oral cyclosporine and continued to have 
+improvement with less frequent and more formed stools. CMV viral 
+load was negative, stool studies were negative, C diff negative. 
+ He was treated empirically with cipro and flagyl and will 
+complete an empiric 10 day courwe of these. Will f/u with Dr. 
+___ in 2 weeks.
+
+Oral ulcers: likely apthous ulcers related to crohn's v oral 
+HSV. Responded well to medicated mouthwash
+
+Positive PPD: Treated in past for unclear duration.  Stopped due 
+to elevated LFTs.  He was continued on INH and B6 inpt. Had mild 
+transaminitis x1 day which resolved on its own.
+
+Depression/anxiety- he was continued on fluoxetine
+ 
+Medications on Admission:
+Simvastatin 20mg Daily
+Melatnonin 5mg HS PRN
+Prozac 40mg PO Daily
+INH 300mg PO Daily
+Ativan 0.5mg TID PRN
+Prilosec 20mg PO Daily
+Hyoscyomine 0.125mg ___ tabs TID PRN
+Remicade 5mg/Kg
+ 
+Discharge Medications:
+1. multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+5. isoniazid ___ mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. cyclosporine 100 mg Capsule Sig: 2.5 Capsules PO Q12H (every 
+12 hours) for 30 days.
+Disp:*150 Capsule(s)* Refills:*0*
+9. hydrocortisone acetate 10 % (80 mg) Foam Sig: One (1) Appl 
+Rectal at bedtime for 30 days.
+Disp:*30 appllicator* Refills:*0*
+10. hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual TID (3 times a day) as needed for 
+mouth cramps.  
+11. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for anxiety/insomnia.  
+12. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+13. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours) for 4 days.
+Disp:*12 Tablet(s)* Refills:*0*
+14. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO TID (3 times a day) for 30 days: please take at least 
+two hours after ciprofloxacin.
+Disp:*90 Tablet(s)* Refills:*0*
+15. ___ 200-25-400-40 mg/30 mL 
+Mouthwash Sig: One (1) ___ Mucous membrane qid prn for 14 
+days.
+Disp:*500 mL* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:  
+Crohn's Flare 
+Gastrointestinal bleeding 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with diarrhea deemed to be a 
+Crohn's flare.   You were treated initially with IV cyclosporine 
+and did well.  You were transitioned to oral cyclosporine and 
+continued to improve.
+
+Please continue to take your medications as prescribed and make 
+your follow up appointments.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18136845-DS-15 | hadm_id=25334396
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Intraabdominal Fluid Collections
+
+ 
+Major Surgical or Invasive Procedure:
+Percutaneous drain placement in right flank.
+
+ 
+History of Present Illness:
+___ with hx Crohn's disease refractory to medical management now 
+s/p Total Colectomy ___ transferred from ___ with 
+CT findings concerning for intraabdominal fluid collection and 
+phlegmonous changes.  
+
+Pt reports 1.5 weeks intermittent fevers, chills, intermittent 
+nonbloody, nonbilious small volume emesis initially associated 
+with mild epigastric and periumbilical crampy pain which was 
+self-limited. Pt also seen by PCP for concurrent URI symptoms 
+and completed 5 day course of Azithromycin with no change in 
+abdominal symptoms. Pt presented to ___ with temperature
+of 103.7F measured at home but refused to be admitted. Pt was 
+last seen at his scheduled follow-up appointment with Dr. ___ 
+___, the morning following his ___ presentation at ___ 
+___ at which point he again refused hospital admission. Pt 
+returned to ___ and was voluntarily admitted for 
+management and workup.
+
+Pt underwent CT torso with findings suggestive of subhepatic 
+phlegmonous changes and multiple pelvic fluid collections with 
+largest measuring 8cm x 3.6cm.  Pt was afebrile during that 
+admission though labs were notable for a leukocytosis of 12,700 
+with negative blood cultures at one day. Since pt's GI and 
+surgical care were both at ___, pt agreed to be transferred 
+here for further management and work-up.
+
+ 
+Past Medical History:
+Refractory Crohn's Disease - including solumedrol,
+cyclosporine, infliximab, and bowel rest with TPN, GERD,
+Diverticulosis, Nephrolithiasis, (+) PPD on INH, Depression, CMV
+ 
+Social History:
+___
+Family History:
+No history of GI disorders. Father: DM, CAD/CABG; Mother: 
+Healthy 
+
+ 
+Physical ___:
+VITALS:  T 99.9   HR 80-110s  BP 105/69   RR 16  O2sat 98% RA
+HEENT: Normocephalic, atraumatic. EOMI. PERRL. Nares clear. 
+Mucous membranes moist. Neck supple without lymphadenopathy. 
+___: Regular rate and rhythm, without murmurs, rubs or gallops. 
+S1 and S2.
+RESP: Clear to auscultation bilaterally without adventitious 
+sounds. No wheezing, rhonchi or crackles.
+ABD: soft, obese, well healing midline scar, inferior aspect 2 
+cm defect with pink granulation tissue, minimal fibrinous 
+exudate
+EXTR: 2+ peripheral pulses, without cyanosis, clubbing or edema. 
+
+
+ 
+Pertinent Results:
+___ 06:05AM BLOOD WBC-10.7 RBC-3.46* Hgb-9.1* Hct-29.7* 
+MCV-86 MCH-26.4* MCHC-30.8* RDW-17.6* Plt ___
+
+___ 12:30AM BLOOD ___ PTT-25.9 ___
+
+___ 06:05AM BLOOD Glucose-107* UreaN-7 Creat-1.1 Na-140 
+K-4.2 Cl-104 HCO3-26 AnGap-14
+
+___ 06:05AM BLOOD Calcium-9.2 Phos-4.8* Mg-1.9
+
+DRAINAGE HEMATOMA/FLUID; CT GUIDANCE DRAINAGE ___: 
+Successful placement of 8 ___ pigtail catheter in a right 
+lower quadrant collection. The catheter should be routinely 
+flushed as per the post-procedure recommendations, to ensure 
+adequate drainage. Sample of 
+fluid sent for microbiology analysis. Short interval follow up 
+with CT will likely be required to assess response to the 
+current catheter placement and to determine if separate 
+approaches to additional loculations will ultimately be 
+necessary. 
+
+CT FISTULOGRAM S&I ___: Appropriate positioning of a drain 
+with collapsed primary loculation in the right lower quadrant 
+with small residual loculations at sites described above. 
+Abscessogram showing intercommunication among all loculations of 
+the collection as well as free passaged into the rectal pouch. 
+Thickening of the visualized pouch concerning for ongoing 
+inflammation. 
+
+  
+
+ 
+Brief Hospital Course:
+NEURO/PAIN: The patient was maintained on PO pain medication 
+including Oxycodone/Tylenol on admission without issue. The 
+patient remained neurologically intact and without change from 
+baseline. The patient remained alert and oriented to person, 
+location and place. His home Fluoxetine was continued.
+
+CARDIOVASCULAR: The patient remained hemodynamically stable upon 
+admission, although he was notably experiencing sinus 
+tachycardia intermittently throughout his stay. This was 
+attributed to his fevers and intra-abdominal fluid collections. 
+This resolved with antibiotics, hydration and conservative 
+management. Vitals signs were closely monitored throughout his 
+stay.
+
+RESPIRATORY: The patient had no episodes of desaturation or 
+pulmonary concerns. The patient denied cough or respiratory 
+symptoms. Pulse oximetry was monitored closely and the patient 
+maintained adequate oxygenations.  
+
+GASTROINTESTINAL: The patient had a diagnosis of 
+medically-refractory Crohn's disease
+and was status-post total abdominal colectomy with end ileostomy 
+presented with intermittent fevers, and CT abdomen/pelvis at an 
+outside hospital showed findings concerning for intra-abdominal 
+abscesses. Upon transfer to ___, on ___, the patient 
+underwent CT-guided drainage with ___ resulting in successful 
+placement of 8 ___ pigtail catheter in a right lower quadrant 
+collection. The catheter was routinely flushed as per the 
+post-procedure recommendations, to ensure adequate drainage. 
+Sample of fluid was sent for microbiology analysis. The patient 
+was treated with antibiotics in-hospital and upon discharge. The 
+patient was initially NPO on maintenance IV fluids for the 
+procedure, but was otherwise tolerating a regular diet without 
+issue. He did have some high ostomy output on ___ which 
+resolved with Loperamide. He was also started on Prednisone PO 
+on admission and steroids were continued upon discharge. A 
+fistulogram on ___ confirmed appropriate positioning of the 
+drain with collapsed primary loculation in the right lower 
+quadrant with small residual loculations at other sites. 
+Abscessogram showing intercommunication among all loculations of 
+the  collection as well as free passaged into the rectal pouch. 
+Thickening of the visualized pouch concerning for ongoing 
+inflammation was noted. The patient was to continue regular 
+diet, steroids, and complete antibiotics upon discharge.
+
+GENITOURINARY: The patient's urine output was closely monitored. 
+A Foley catheter was not required, the patient voided without 
+issue. The patient's intake and output was closely monitored for 
+> 30 mL per hour output. The patient's creatinine was 0.9. 
+
+HEME: The patient's hematocrit remained stable during his 
+admission. The patient remained hemodynamically stable and did 
+not require transfusion. The patient's coagulation profile 
+remained normal. The patient had no evidence of bleeding.
+
+ID: The patient's initial abscess culture gram stain was 
+significant for gram positive cocci and thus IV Vancomycin and 
+Zosyn (which had been initiated on admission) were continued. 
+This was transitioned to PO Augmentin was by ___. His 
+fevers, which had been noted on admission, had resolved with 
+antibiotic treatment. The patient was transitioned to IV 
+Ceftriaxone on HOD#7 when speciation of his abscess cultures 
+revealed Streptococcus anginosus x 2 morphologies. ID 
+recommended the IV antibiotics and a PICC line was placed for 
+planned completion of a 4-week course at home with nursing 
+services. Infectious disease was consulted on ___ for 
+assistance with antibiotic management and agreed with the 
+discharge regimen.
+
+ENDOCRINE: The patient's blood glucose was closely monitored. 
+Blood glucose levels greater than 120 mg/dL were addressed with 
+an insulin sliding scale.
+
+PROPHYLAXIS: The patient was maintained on heparin 5000 units SQ 
+TID for DVT/PE prophylaxis and encouraged to ambulate. The 
+patient also had sequential compression boot devices in place 
+during immobilization to promote circulation. The patient was 
+encouraged to utilize incentive spirometry, ambulate early and 
+was discharged in stable condition.
+
+ 
+Medications on Admission:
+Prednisone 5 (current taper to off), Valganciclovir 900, 
+Fluoxetine 40, Omeprazole 20, Simvastatin 20 
+
+ 
+Discharge Medications:
+1. azathioprine 100 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for headache or pain: Do not take more than 
+4000mg of tylenol daily, do not drive a car while taking 
+tylenol.  
+6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for pain for 5 days: Do not drive a car or drink 
+alcohol while taking this medication.
+Disp:*30 Tablet(s)* Refills:*0*
+7. loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day).
+Disp:*60 Capsule(s)* Refills:*2*
+8. prednisone 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+for 4 days: Please take 2.5mg of prednisone for 4 more days. 
+Last dose ___.
+Disp:*4 Tablet(s)* Refills:*0*
+9. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+10. ceftriaxone 2 gram Recon Soln Sig: One (1) dose Intravenous 
+every ___ hours for 4 weeks: last day of therapy 
+___.
+Disp:*26 * Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Abdominal Fluid Collections connecting with rectal area. 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with fevers and you were found 
+to have fluid collections in your abdomen which were likely the 
+cause of these fevers. The fluid collections were related to the 
+area in the abdomen of your surgery in ___. The fluid 
+collections were drained and sent to the microbiology lab and 
+the fluid was found to contain bacteria and you were treated 
+with antibiotics through your IV. You had a sinogram and this 
+showed that the collections were connected with your rectal 
+area. You will be discharged home with the drain in place and 
+you should flush this as instructed by the nurses with 10cc of 
+sterile normal saline and draw back until the aspirate is clear, 
+this flushing is really just to keep the drain clear. Please 
+care for the drain site as instructed by the ___ nurses. ___ is 
+important to monitor the appearance of the skin around where the 
+catheter is inserted into the skin for signs of infection 
+including: incresed redness, increased pain, increased warmth at 
+the site, or drainage of yellow/green/white/foul smelling 
+drianage. Please call the office for advice or go to the 
+emergency room if the symptoms are severe. The drain will remain 
+in place and you will take antibiotic pills by mouth twice dialy 
+for 2 weeks. In 2 weeks you will have another sinogram to 
+evaluate the collections. At this time you will see Dr. ___ 
+___ a plan will be made. You should also see Dr. ___ in 
+follow-up after these 2 weeks to be evaluated for your crohns 
+disease. You will continue taking 2.5mg of Prednisone until 
+___ and then stop the prednisone.
+
+Please montior your ileostomy output. You must measure your 
+ileostomy output for the next few weeks. The output from the 
+stoma should not be more than 1200cc or less than 500cc. If you 
+find that your output has become too much or too little, please 
+call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if you notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as gatoraide. Please monitor yourself for signs and 
+symptoms of dehydration including: dizziness (especially upon 
+standing), weakness, dry mouth, headache, or fatigue. If you 
+notice these symptoms please call the office or return to the 
+emergency room for evaluation if these symptoms are severe. You 
+may eat a mosified regular diet with your new ileostomy. However 
+it is a good idea to avoid spicy foods.
+
+Please monitor yourself for the following abdominal symptoms and 
+call the office if you notice any of the following or go to the 
+emergency room if the symptoms are severe: nausea, vomiting, 
+increased abdominal pain, increased abdominal distension, blood 
+in your stool, or other concerning symptoms. If you notice that 
+the discharge from your rectum has changed significantly in 
+color has increased in amount please call the office or go to 
+the emergency room if the symptoms are severe. Please call the 
+office or go to the emergency room if you develop a fever.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18136845-DS-14 | hadm_id=25861178
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain and Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+Exploratory Laparotomy, Total Abdominal Colectomy and 
+End-Ileostomy.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a past medical history 
+significant for positive PPD (recently on INH) and a recent 
+diagnosis of Crohn's disease. He was first diagnosed with 
+Crohn's in early ___ and was treated with 3 
+weeks of steroids and TPN without good results. He was then 
+started on Remicade ___ and ___, initially with some 
+transient improvement, followed by recrudescence of his 
+symptoms. At that time he was restarted on therapy for latent TB 
+(he never completed treatment in the late ___ when it was first 
+diangosed). 
+.
+He was admitted to ___ from ___ for initiation of 
+cyclosporin. He returned on ___ after developing fevers, 
+recurrent LLQ pain, and frequent diarrhea. Flexible 
+sigmoidoscopy was concerning for CMV and ganciclovir was started 
+(___). He was taken off cyclosporin and isoniazid (there was 
+concern that this was causing fevers), and started on steroids 
+and methotrexate. He indicates that he had an excellent initial 
+response. 
+.
+Unfortunately, since that discharge he has not done well, with 
+frequent non-stools, and more recently, he has had fevers, 
+abdominal pain, and rectal bleeding. He was seen by his PCP 
+earlier this week, and then by Dr. ___ who sent him in 
+for admission.
+.
+In addition to the ROS above, he reports left should pain since 
+___, occassional nightsweats, malaise, intermittent 
+headaches, decrease appetite, decreased urine output, 60 lbs 
+weight loss, and a new ulcer on the tip of his tongue, and 
+generalized hair loss. He denies chest pain, shortness of 
+breath, weakness, numbness, ataxia, change in cognition.
+ 
+Past Medical History:
+- Crohn's Disease diagnosed ___, recently discharged ___ 
+following flare; has not responded to trials of steroids, 
+Remicade
+- GERD
+- Diverticulosis
+- Nephrolithiasis
+(+) PPD on INH
+- Depression
+- + PPD in ___, which was not completely treated with INH due 
+to elevated LFT's. He was re-initiated on INH therapy around the 
+time he was started on steroids in ___.
+ 
+Social History:
+___
+Family History:
+No history of GI disorders.
+- Father: DM, ___/CABG
+- Mother: Healthy
+ 
+Physical ___:
+GEN:    Uncomfortable, non-toxic
+VITALS: 101 -> AF, 90/60, 85.
+HEENT:  Within normal limits, no LAD, small ulcer on tip of 
+tongue.
+COR:    S1 and S2, no murmurs.
+CHEST:  Clear to auscultation bilaterally.
+ABD:    Soft, mild LLQ pain, but no guarding or rebound.
+EXT:    No edema
+SKIN:   Warm, dry.
+NEURO:  Alert, oriented, normal attention.
+PSYCH:  Flat affect, but appropriate and pleasant
+
+ 
+Pertinent Results:
+___ 12:25PM   GLUCOSE-121*
+___ 12:25PM   UREA N-12 CREAT-0.9 SODIUM-134 POTASSIUM-4.4 
+CHLORIDE-96 TOTAL CO2-27 ANION GAP-15
+___ 12:25PM   estGFR-Using this
+___ 12:25PM   ALT(SGPT)-59* AST(SGOT)-21 ALK PHOS-76 TOT 
+BILI-0.7
+___ 12:25PM   ALBUMIN-3.6 CALCIUM-9.1 PHOSPHATE-2.9 
+MAGNESIUM-1.9
+___ 12:25PM   TSH-1.7
+___ 12:25PM   CRP-141.1*
+___ 12:25PM   WBC-4.6# RBC-3.50* HGB-9.7* HCT-30.2* MCV-86 
+MCH-27.7 MCHC-32.1 RDW-16.8*
+___ 12:25PM   PLT COUNT-473*
+___ 12:25PM   PLT COUNT-473*
+___ 05:03AM BLOOD WBC-16.3* RBC-3.17* Hgb-8.7* Hct-26.7* 
+MCV-84 MCH-27.6 MCHC-32.7 RDW-16.7* Plt ___
+___ 04:51AM BLOOD WBC-15.6* RBC-2.88* Hgb-7.8* Hct-24.3* 
+MCV-85 MCH-27.1 MCHC-32.1 RDW-16.6* Plt ___
+___ 06:05AM BLOOD WBC-13.4* RBC-2.94* Hgb-8.0* Hct-25.5* 
+MCV-87 MCH-27.1 MCHC-31.3 RDW-16.6* Plt ___
+___ 11:53AM BLOOD WBC-16.4* RBC-2.97* Hgb-7.9* Hct-24.9* 
+MCV-84 MCH-26.6* MCHC-31.7 RDW-16.4* Plt ___
+___ 05:03AM BLOOD WBC-15.6* RBC-2.82* Hgb-7.7* Hct-24.2* 
+MCV-86 MCH-27.3 MCHC-31.9 RDW-16.6* Plt ___
+___ 04:57AM BLOOD WBC-17.3* RBC-3.60* Hgb-10.0* Hct-30.4* 
+MCV-84 MCH-27.7 MCHC-32.9 RDW-16.2* Plt ___
+___ 06:20AM BLOOD WBC-12.1*# RBC-3.14* Hgb-8.6* Hct-26.9* 
+MCV-86 MCH-27.4 MCHC-31.9 RDW-16.8* Plt ___
+___ 05:52AM BLOOD WBC-7.3# RBC-3.91* Hgb-10.8* Hct-32.1* 
+MCV-82 MCH-27.6 MCHC-33.7 RDW-16.3* Plt ___
+___ 06:40AM BLOOD WBC-4.0 RBC-3.66* Hgb-10.1* Hct-30.2* 
+MCV-82 MCH-27.7 MCHC-33.6 RDW-16.4* Plt ___
+___ 07:50AM BLOOD WBC-4.4 RBC-3.77* Hgb-10.6* Hct-31.9* 
+MCV-85 MCH-28.1 MCHC-33.3 RDW-16.8* Plt ___
+___ 07:30AM BLOOD WBC-4.1 RBC-3.68* Hgb-10.4* Hct-32.0* 
+MCV-87 MCH-28.2 MCHC-32.3 RDW-16.6* Plt ___
+___ 05:56AM BLOOD WBC-3.3* RBC-3.02* Hgb-8.5* Hct-26.1* 
+MCV-86 MCH-28.0 MCHC-32.5 RDW-16.6* Plt ___
+___ 12:25PM BLOOD WBC-4.6# RBC-3.50* Hgb-9.7* Hct-30.2* 
+MCV-86 MCH-27.7 MCHC-32.1 RDW-16.8* Plt ___
+___ 05:03AM BLOOD Plt ___
+___ 04:51AM BLOOD Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 11:53AM BLOOD Plt ___
+___ 05:03AM BLOOD Plt ___
+___ 04:57AM BLOOD Plt ___
+___ 06:20AM BLOOD Plt ___
+___ 05:52AM BLOOD Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 07:50AM BLOOD Plt ___
+___ 07:30AM BLOOD Plt ___
+___ 05:56AM BLOOD Plt ___
+___ 12:25PM BLOOD Plt ___
+___ 12:25PM BLOOD ESR-120*
+___ 04:51AM BLOOD Glucose-106* UreaN-17 Creat-0.5 Na-134 
+K-4.5 Cl-102 HCO3-27 AnGap-10
+___ 06:05AM BLOOD Glucose-88 UreaN-16 Creat-0.4* Na-135 
+K-3.8 Cl-103 HCO3-25 AnGap-11
+___ 05:03AM BLOOD Glucose-133* UreaN-15 Creat-0.4* Na-137 
+K-3.7 Cl-106 HCO3-24 AnGap-11
+___ 04:57AM BLOOD Glucose-259* UreaN-16 Creat-0.6 Na-135 
+K-3.5 Cl-102 HCO3-23 AnGap-14
+___ 07:18AM BLOOD Glucose-204* UreaN-10 Creat-0.6 Na-127* 
+K-4.2 Cl-94* HCO3-27 AnGap-10
+___ 06:20AM BLOOD Glucose-126* UreaN-12 Creat-0.9 Na-136 
+K-4.7 Cl-102 HCO3-28 AnGap-11
+___ 05:27PM BLOOD Na-136 K-3.7 Cl-105
+___ 05:52AM BLOOD Glucose-143* UreaN-16 Creat-0.9 Na-135 
+K-3.8 Cl-98 HCO3-25 AnGap-16
+___ 06:40AM BLOOD Glucose-189* UreaN-14 Creat-0.8 Na-136 
+K-4.8 Cl-99 HCO3-29 AnGap-13
+___ 07:50AM BLOOD Glucose-104* UreaN-14 Creat-0.9 Na-132* 
+K-5.0 Cl-97 HCO3-26 AnGap-14
+___ 07:30AM BLOOD Glucose-130* UreaN-12 Creat-0.8 Na-137 
+K-4.6 Cl-96 HCO3-28 AnGap-18
+___ 07:30AM BLOOD ALT-46* AST-30 LD(LDH)-248 AlkPhos-71 
+TotBili-0.4
+___ 12:25PM BLOOD ALT-59* AST-21 AlkPhos-76 TotBili-0.7
+___ 04:51AM BLOOD Calcium-8.1* Phos-4.7* Mg-1.9
+___ 06:05AM BLOOD Calcium-7.9* Phos-3.4 Mg-2.1
+___ 04:57AM BLOOD Calcium-7.8* Phos-2.7 Mg-2.1
+___ 07:18AM BLOOD Calcium-7.4* Phos-1.5*# Mg-1.8
+___ 06:20AM BLOOD Calcium-7.7* Phos-4.7* Mg-2.5
+___ 05:52AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.2
+___ 06:40AM BLOOD Calcium-9.4 Phos-3.9 Mg-2.4
+___ 06:40AM BLOOD Calcium-9.4 Phos-3.9 Mg-2.4
+___ 07:50AM BLOOD Calcium-9.5 Phos-4.9*# Mg-2.2
+___ 05:56AM BLOOD Mg-1.9
+___ 07:35PM BLOOD Iron-11*
+___ 07:35PM BLOOD calTIBC-192* Ferritn-994* TRF-148*
+___ 05:56AM BLOOD Triglyc-93
+___ 12:25PM BLOOD TSH-1.7
+___ 12:25PM BLOOD CRP-141.1*
+___ 12:28PM BLOOD RedHold-HOLD
+
+CHEST (PORTABLE AP) Study Date of ___ 6:58 ___ 
+FINDINGS: The right PICC line extends to the lower portion of 
+the SVC. The 
+lungs are clear and there is no evidence of vascular congestion, 
+pleural 
+effusion, or cardiomegaly 
+ PORTABLE ABDOMEN Study Date of ___ 12:39 AM 
+FINDINGS: The supine portable shows paramedian staple lines and 
+several 
+phleboliths in the pelvis. 
+  
+No pathological distension of bowel loops is noted. On the right 
+decubitus 
+view, several borderline small bowel loops at the level of the 
+left middle 
+abdomen show small air-fluid levels. Air-fluid levels are also 
+seen on the 
+non-dependent upper parts of the right decubitus view. No 
+anatomic reference 
+is included on the image, and the findings could represent free 
+air. An 
+addition erect radiograph should be performed if possible, 
+otherwise CT should 
+be considered. 
+
+CHEST (PORTABLE AP) Study Date of ___ 5:48 ___ 
+: Low lung volumes. Interval development of a small left 
+retrocardiac atelectasis. Borderline size of the cardiac 
+silhouette without evidence of pulmonary edema or pneumonia. No 
+pneumothorax. 
+
+ 
+Brief Hospital ___:
+ACUTE CROHN'S COLITIS - Complicated by fever, dehydration, 
+abdominal pain, hematochezia, weight loss, and blood loss 
+anemia. Thus far his disease is poorly responsive to 
+antibiotics, steroids, remicaide, cyclosporin, methotrexate, 
+with few other options (tysabri, humira, surgery). Will start 
+steroids, check stool and blood cultures, hydrate, treat pain 
+and nausea. Based on initial plan from ID, he has one more day 
+of ganciclovir for CMV inclusion on biopsy (VL and PCR 
+negative), which I will continue. His 3rd dose of methotrexate 
+was due today, but I will hold this. 
+.
+HISTORY OF HYPERTENSION: This has been labile, increasing while 
+on cyclosporine, but at this time he is running low. Will hold 
+atenolol.
+.
+DEPRESSION: Continue prozac
+.
+HYPERLIPIDEMIA: Zocor
+.
+LATENT MTB: Recently off INH due to concern of drug fever. He is 
+ID for this and CMV, and I have contacted them this evening for 
+probable consult tomorrow.
+.
+CHRONIC BLOOD LOSS ANEMIA +/- ANEMIA OF INFLAMMATION: He is on 
+iron therapy, but studies have never been checked. Ordered and 
+pending.
+.
+PAIN: Morphine PRN
+.
+AMBULATION: Ad lib.
+.
+NUTRITION: Sips, meds, nutrition consult in AM
+.
+PROPHYLAXIS: Heparin SC
+.
+LINES/TUBES: Right AC PICC
+.
+PRECAUTIONS: NA
+.
+CODE STATUS: Full
+.
+DISPOSITION: Pending
+.
+.
+.
+_______________________
+___, MD
+
+___ Surgery Hospital ___:
+
+The patient was transferred to the colorectal surgery service 
+after Exploratory laparotomy, total abdominal colectomy and 
+end-ileostomy to surgically manage his advanced crohns disease 
+and CMV colitis. The patient had been very chronically ill. 
+___ the patient was started on a clear liquid diet and his 
+epidural adjusted by the acute pain service. The patient 
+recieved Atavan for anxiety and was followed by social work.  
+The patient was also followed by nutrition for TPN 
+recommendation and managment. On ___ the patient's diet was 
+advanced to fulln liquids, her epidural was removed and she was 
+transitioned to pain medications by mouth, the surgical drain 
+was remoced. Infections disease was consulted which recommended 
+Valcyte. On ___ the patient developed signs and symptoms of 
+ileus. ___ KUB showed air-fluid levels ___ CXR low 
+lung volumes, atelectasis  
+___ Urine cx <10,000, ___ Blood cx Pending. On 
+___ the patient improved and began a low residue diet, 
+started a steroid taper, HCT was 24.2, and Metoprolol 25 TID. 
+Ileostomy output was elevated and on ___ he began to take 
+Immodium 2mg BID. He was also restarted on his home dose of 
+hyoscyamine. The TPN was weaned as he was tolerating a diet. On 
+___ Wound culture returned and grew 1+ GNR, the patient was 
+discharged home on Augmentin, Valganciclovir, and a regimen of 
+immodium and metamucil wafers for elevated ileostomy output. He 
+was told to follow-up with GI for recommendations regaruding his 
+prednisone taper. 
+
+ 
+Medications on Admission:
+Discharge Medications:
+1. multivitamin  Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. folic acid 1 mg Tablet Sig: Five (5) Tablet PO once a week: 
+Take on ___ (the day after Methotrexate dose).
+Disp:*20 Tablet(s)* Refills:*0*
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). Disp:*30 Tablet(s)* Refills:*0*
+4. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily). Disp:*60 Capsule(s)* Refills:*0*
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+6. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual TID (3 times a day) as needed for 
+cramps. Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+8. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours as needed for anxiety.
+Disp:*20 Tablet(s)* Refills:*0*
+9. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+10. magnesium oxide 250 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). Disp:*30 Tablet(s)* Refills:*0*
+11. cortisone 1 % Cream Sig: One (1) Appl Topical QID (4 times a 
+
+day). Disp:*1 tube* Refills:*0*
+12. atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+14. ganciclovir sodium 500 mg Recon Soln Sig: Three Hundred 
+Sixty (360) mg Intravenous Q12H (every 12 hours) for 12 days: 
+Continue through ___.
+Disp:*24 doses* Refills:*0*
+16. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+17. methotrexate sodium 25 mg/mL Solution Sig: ___ (25) 
+mg Injection once a week: Give subcutaneous injection on 
+___ doses* Refills:*0*
+18. prednisone 10 mg Tablet Sig: Sixty (60) mg PO once a day for 
+
+7 days: Take 60mg daily for 1 week, then reduce to 50mg daily 
+until ___ should see Dr. ___.
+Disp:*100 tablets* Refills:*1*
+19. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+20. Calcium-Vitamin D 600-400 mg-unit Tablet Sig: One (1) Tablet 
+
+PO twice a day. Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Medications:
+1. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+2. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily) for 3 months: Please keep your follow-up appointment 
+with infectious disease .
+Disp:*60 Tablet(s)* Refills:*0*
+5. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H 
+(Every 8 Hours) for 7 days.  
+6. hydromorphone 2 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 
+hours) as needed for pain for 5 days: Please do not drink 
+alcohol or drive a car while taking this medication.
+Disp:*40 Tablet(s)* Refills:*0*
+7. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+9. loperamide 2 mg Capsule Sig: One (1) Capsule PO BID (2 times 
+a day).
+Disp:*60 Capsule(s)* Refills:*0*
+10. prednisone 10 mg Tablet Sig: Per prednisone taper, initial 
+dose 40mg once dailyX1 additional day Tablet PO once a day: 
+Prednisone taper: 40mg x 1 more day, 30mg x 5 days, 20mg x 7 
+days, 10mg x 7 days, 5mg x 7 days, 2.5mg x 7 days.
+Disp:*120 Tablet(s)* Refills:*0*
+11. prednisone 5 mg Tablet Sig: ___ Tablet PO once a day for 6 
+days: Please do not take until end of steroid taper for the 
+Prednisone 2.5mgX 7days.
+Disp:*4 Tablet(s)* Refills:*0*
+12. hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual TID (3 times a day): take as 
+needed for loose stool/high ileostomy output.
+Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+13. psyllium 1.7 g Wafer Sig: One (1) Wafer PO BID (2 times a 
+day).
+Disp:*60 Wafer(s)* Refills:*0*
+14. Outpatient Lab Work
+Please draw weekly LFT's, BUN/CREAT, CBC. Fax results to the 
+___ Infectious Disease clinic at ___ c/o ___ 
+___.
+
+15. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+16. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO every 
+twelve (12) hours for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Severe Crohns Disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital after a Subtotal Colectomy  
+for surgical management of your severe crohns disease and CMV 
+colitis. ___ have recovered from this procedure well and ___ are 
+now ready to return home. Samples from your colon were taken and 
+this tissue has been sent to the pathology department for 
+analysis. ___ will receive these pathology results at your 
+follow-up appointment. If there is an urgent need for the 
+surgeon to contact ___ these results they will 
+contact ___ before this time. ___ have tolerated a regular diet, 
+passing gas and your pain is controlled with pain medications by 
+mouth. ___ may return home to finish your recovery.
+
+Please monitor your bowel function closely. If ___ have any of 
+the following symptoms please call the office for advice or go 
+to the emergency room if severe: increasing abdominal 
+distension, increasing abdominal pain, nausea, vomiting, 
+inability to tolerate food or liquids, prolonges loose stool, or 
+constipation. 
+
+___ have a long vertical incision on your abdomen that is closed 
+with staples. This incision can be left open to air or covered 
+with a dry sterile gauze dressing if the staples become 
+irritated from clothing. The bottom 2 inches of your incision 
+were opened prior to your discharge and it is important that 
+this remain open with gauze dressing changes twice daily. This 
+culture grew out some bacteria and ___ should take augmentin for 
+7 days. The visiting nurses ___ help ___ with the dressing 
+changes however ___ will need to do the evening dressing change. 
+Apply dry sterile AMD rope to the wound base as instructed by 
+your nurse, cover with sterile gauze pad, and secure with paper 
+tape. A culture of this drainage has been sent to the lab and if 
+it comes back with bacteria we will give ___ antibiotics, 
+however at this time, no antibiotic is needed for this wound. 
+The staples will stay in place until your first post-operative 
+visit at which time they can be removed in the clinic, most 
+likely by the office nurse. Please monitor the incision for 
+signs and symptoms of infection including: increasing redness at 
+the incision, opening of the incision, increased pain at the 
+incision line, draining of white/green/yellow/foul smelling 
+drainage, or if ___ develop a fever. Please call the office if 
+___ develop these symptoms or go to the emergency room if the 
+symptoms are severe.  ___ may shower even with the open wound, 
+let the warm water run over the incision line and pat the area 
+dry with a towel, do not rub. Keep stool from the ostomy away 
+from the incision line. Be sure to shower prior to your visiting 
+nurse visit so that a new dressing can be applie to a clean 
+wound base. 
+
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by Dr. ___ may gradually increase 
+your activity as tolerated but clear heavy excersise with Dr. 
+___. 
+
+___ will be prescribed a small amount of the pain medication 
+Dilaudid. Please take this medication exactly as prescribed. ___ 
+may take Tylenol as recommended for pain. Please do not take 
+more than 4000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medications and tylenol. 
+
+___ have a new ileostomy. The most common complication from a 
+new ileostomy placement is dehydration and ___ have stayed in 
+the hospital because of increased ileostomy output. The output 
+from the stoma is stool from the small intestine and the water 
+content is very high. The stool is no longer passing through the 
+large intestine which is where the water from the stool is 
+reabsorbed into the body and the stool becomes formed. ___ must 
+measure your ileostomy output for the next few weeks. ___ are 
+currently taking immodium and metamucil wafers to decrease your 
+output and ___ should continue these medications. As your body 
+readjusts to the output and medications ___ may need to have the 
+amount of medications adjusted. The output from the stoma should 
+not be more than 1200cc or less than 500cc. If ___ find that 
+your output has become too much or too little, please call the 
+office for advice. The office nurse or nurse practitioner can 
+help titrate the medications to increase or slow the ileostomy 
+output. Keep yourself well hydrated, if ___ notice your 
+ileostomy output increasing, take in more electrolyte drink such 
+as gatoraide. Please monitor yourself for signs and symptoms of 
+dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a low 
+residue regular diet with your new ileostomy. Please monitor the 
+appearance of the ostomy and stoma and care for it as instructed 
+by the wound/ostomy nurses. ___ stoma (intestine that protrudes 
+outside of your abdomen) should be beefy red or pink, it may 
+ooze small amounts of blood at times when touched and this 
+should subside with time. The skin around the ostomy site should 
+be kept clean and intact. Monitor the skin around the stoma for 
+buldging or signs of infection listed above. Please care for the 
+ostomy as ___ have been instructed by the wound/ostomy nurses. 
+___ will be able to make an appointment with the ostomy nurse in 
+the clinic 7 days after discharge, ___ will have a visiting 
+nurse at home for the next few weeks helping to monitor your 
+ostomy until ___ are comfortable caring for it on your own. 
+
+___ will need to continue taking the Valgancyclovir 900mg daily 
+for at least 3 months because of your CMV colitis. Please 
+continue taking this medication and have the lab values listed 
+below faxed to the infectious disease clinic. ___ may have ___ 
+labs drawn at your primary care providers office. 
+
+___ will be on a steroid taper and followed by Dr. ___ in the 
+GI clinic to start the Imuran therapy as an outpatient. The 
+steroid tapet will be as follows, please take one more dose of 
+Prednisons 40mg tomorrow ___ to complete 5 days, Prednisone 
+30mg x 5 days, Prednisone 20mg x 7 days, Prednisone 10mg x 7 
+days, Prednisone 5mg x 7 days, and Prednisone 2.5mg x 7 days. 
+The Imuran will be started by Dr. ___ as an outpatient. We have 
+had blood work that must be checked prior to starting this 
+medication. This will be back in 3 days. Be sure to follow-up 
+with Dr. ___ this therapy.
+
+Please do not take the Atenolol that ___ have been taking at 
+home. ___ are now taking 25mg of Metoprolol three times daily to 
+control your blood pressure, please talk with your primary care 
+provider about this. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18136845-DS-13 | hadm_id=27232448
+
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, LLQ abdominal pain, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+Flexible sigmoidoscopy (___)
+Peripherally inserted central catheter (PICC) placement 
+(___)
+ 
+History of Present Illness:
+___ ___ man with a past medical history of refractory 
+crohn's disease with recent discharge on ___ following 
+crohn's flare, GERD, diverticulosis, nephrolithiasis, who 
+presents with fever, left lower quadrant abdominal pain, and 
+diarrhea for the last three days.
+
+Patient had been admitted on ___ due to the development of 
+fever to 102.3 and bloody diarrhea thought to be secondary to 
+refractory crohn's flare.  He underwent sigmoidoscopy on 
+___ which demonstrated discrete large colonic ulcers 
+consistent with a crohn's flare, verified by biopsy.  No 
+granuloma were identified and immunostains for CMV were 
+negative.  He had previously been on remicade, but was started 
+on cyclosporine and cortifoam enemas during his last 
+hospitalization.  CMV viral load, stool cultures, and c. diff 
+were negative.  He was empirically treated with cipro and flagyl 
+and completed am empiric 10 day course on ___.
+
+Patient reports that the day after finishing his cipro/flagyl 10 
+day course, he developed fevers to 102 at home.  He redeveloped 
+LLQ crampy abdominal pain, and worsening watery diarrhea with up 
+to 6 episodes daily with no blood or dark stools.  Patient 
+denies any oral ulcers, arthralgias, or skin rashes.  He has 
+lost 6 lbs since his discharge, though he reports that his PO 
+intake has been adequate and his appetite usually is intact.  He 
+has been taking tylenol for his fevers.  Denies any cough, chest 
+pain, shortness of breath, dysuria. 
+
+Of note, patient reports that he feels depressed, and is 
+frequently emotional at home.  He has not been sleeping well, 
+his energy is low, he has lost interest in daily activities, his 
+concentration is poor.  He denies any SI/HI.  His wife is 
+present and is his source of support.
+
+In the ED, initial vs were: T:97.8, P: 110, BP: 119/82, R: 18, 
+O2 sat: 98%RA.  Patient was given potassium and magnesium 
+repletion.  Chest radiograph demonstrated no acute process.  CT 
+abdomen and pelvis with contrast demonstrated rectal and colonic 
+hyperemia and thickening to level of splenic flexure with 
+associated fat stranding, consistent with active crohn's flare.  
+No abscess, fistula, obstruction, or free air.  Cipro was given, 
+flagyl had been ordered but not administered.  GI was consulted, 
+who recommended continuing cipro/flagyl and cyclosporine and 
+obtaining stool studies.  He may be considered for repeat flex 
+sig in the AM.  
+
+On the floor, patient reports that his abdominal pain is mild in 
+nature.  He has not diarrhea for several hours.
+  
+Review of systems:  
+(+) Per HPI  
+(-) Denies sinus tenderness, rhinorrhea or congestion. Denied 
+cough, shortness of breath. Denied chest pain or tightness, 
+palpitations. Denied nausea, vomiting, constipation. No dysuria. 
+Denied arthralgias or myalgias.  
+ 
+Past Medical History:
+- Crohn's Disease diagnosed ___, recently discharged ___ 
+following flare; has not responded to trials of steroids, 
+Remicade
+- GERD
+- Diverticulosis
+- Nephrolithiasis
+(+) PPD on INH
+- Depression
+ 
+Social History:
+___
+Family History:
+No history of GI disorders.
+- Father: DM, ___/CABG
+- Mother: Healthy
+ 
+Physical ___:
+Vitals: T: 99.5 BP:140/103 P:101 R:20 O2:98RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, minimal tenderness LLQ, ___, bowel 
+sounds ++ X 4Q, no rebound tenderness or guarding, no 
+organomegaly  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: ___ intact, motor function grossly normal 
+ 
+Pertinent Results:
+I. Labs
+
+A. Admission
+
+___ 02:35PM BLOOD ___ 
+___ Plt ___
+___ 02:35PM BLOOD ___ 
+___
+___ 02:35PM BLOOD ___ ___
+___ 07:20AM BLOOD ___
+___ 02:35PM BLOOD ___ 
+___
+___ 02:35PM BLOOD ___ LD(LDH)-172 ___ 
+___
+___ 02:35PM BLOOD ___
+___ 02:35PM BLOOD ___
+
+B. Urine
+___ 02:35PM URINE ___ Sp ___
+___ 02:35PM URINE ___ 
+___
+___ 02:35PM URINE ___ 
+___
+___ 02:35PM URINE ___
+
+C. Discharge
+
+___ 07:20AM BLOOD ___ LD(LDH)-177 ___ 
+___ 
+___ 06:46AM BLOOD ___ 
+___ Plt ___
+___ 05:18AM BLOOD ___ 
+___
+___ 05:18AM BLOOD ___
+
+II. Microbiology
+
+HEP B: HBSAG NEGATIVE, HBSAB NEGATIVE, IGM HBC NEGATIVE
+HEP C: HCV AB NEGATIVE
+HIV NEGATIVE
+BLOOD CULTURE ___: NO GROWTH TO DATE (PRELIM)
+CMV VIRAL LOAD ___: NOT DETECTED
+CRYPTO ANTIGEN ___: NOT DETECTED
+BLOOD FUNGAL AND AFB CULTURE ___: Negative (PRELIM) 
+STOOL CDIFF ___: Negative 
+
+III. Radiology
+
+A. CXR (___): No acute cardiopulmonary process. No free air 
+under the 
+diaphragms. 
+
+B. CT Abdomen/Pelvis (___): Bowel wall thickening from the 
+level of rectum to the splenic flexure with associated small 
+lymph nodes and fat stranding, consistent with active 
+inflammatory bowel disease. Concurrent skip areas of mural 
+thickening involving the hepatic flexure and proximal transverse 
+colon. No evidence of abscess or fistulae. No obstruction or 
+free air. 
+
+C. LOWER EXTREMITY ULTRASOUND (___): NO DVT
+
+IV. GI Report 
+
+A. Sigmoidoscopy Report: 
+- Erythema, friability and ulceration in the descending colon, 
+sigmoid colon and rectum compatible with Crohns colitis (biopsy)
+- Otherwise normal sigmoidoscopy to splenic flexure 
+Recommendations: Erythema, ulceration consistent with active 
+Crohns colitis. Biopsies sent for CMV assessment and histology. 
+
+V. Pathology
+
+Sigmoid/descending colon, biopsy:
+- Chronic active colitis.
+- CMV viral cytopathic effect:
+
+One of the biopsy fragments contains cytomegalovirus viral 
+cytopathic effect within the lamina propria. Dr. ___ 
+reviewed the H&E sections and concurs.
+
+- CMV immunostain is negative; however, there is no change in 
+the above diagnosis.
+- AFB stain is negative for mycobacteria.
+ 
+Brief Hospital Course:
+Hospital Course: ___ male with past medical history of 
+recently diagnosed Crohns disease refractory to TNF/steroid 
+agents with recent discharge on ___ following 
+hospitalization for Crohns flare with past medical history 
+significant for GERD, diverticulosis, nephrolithiasis who 
+presented with fever, left lower quadrant abdominal pain, and 
+diarrhea for the last three days consistent with recurrent 
+Crohns flare based on imaging complicated by probable CMV 
+colitis. 
+
+# Crohns Flare with CMV colitis:
+Patient was diagnosed with Crohn's disease in ___ ___omplicated by TPN requirement secondary to ___ weight loss 
+and failure of steroid therapy. He was subsequently started on 
+remicade, which was complicated by the fact of a prior positive 
+PPD with incomplete treatment with INH due to elevated LFTs in 
+the remote past. He had no response to remicade. He subsequently 
+presented in ___ with another Crohn's flare complicated 
+by ___ anemia with sigmoidoscopy on ___ 
+revealing discrete large colonic ulcers with biopsy showing 
+severely active colitis with ulceration with no granulomata or 
+dysplasia idenitifed and negative CMV stains. Infection ___ 
+in the setting of fever during hospitalization was negative and 
+he was empirically treated with a ___ course of flagyl and 
+ciprofloxacin. He was started on cyclosporine and cortefoam 
+enemas.
+
+For this hospitalization, he presented with fever (102 per home 
+measurement), ___ of LLQ crampy abdominal pain, and 
+worsening ___ watery diarrhea after finishing his ___ 
+course of cipro/flagyl from his last hospitalization. Abdominal 
+CT/pelvis and sigmoidoscopy was consistent with Crohns flare; 
+however, given immunosuppresion and fever, there was a concern 
+for an infectious process such as C. difficile colitis, CMV 
+infection, or other infectious colitis in setting of recent 
+hospitalization, antibiotic therapy, and immunosuppresion. He 
+was started on cipro/flagyl again with pathology from flex sig 
+showing possible CMV colitis though CMV PCR was negative. The 
+patient spiked fevers throughout his hospitalization, likely 
+secondary to underlying colitis and inflammation with negative 
+infection ___ and negative repeat abdominal CT looking for 
+abscess, perforation, or worsening colitis.
+
+The patient's course was discussed with Dr. ___ set the 
+parameters of the patient being afebrile for 24 hours with BM<5 
+for 24 hours for discharge. He did not improve with Cyclosporine 
+and so on ___, GI recommendations from Dr. ___: 
+Cyclosporine and INH were discontinued and steroids and MTX were 
+started.
+
+At this point the patient was transferred to the ___, as 
+he preferred not to be on a teaching service. 
+
+Various ID tests were checked on ___ on ___ with 
+the following results: HIV and hepatitis serologies negative.
+
+At discharge, he was continued on Prednisone taper starting at 
+60mg daily, IV Ganciclovir x3 weeks (PICC placed) followed by PO 
+Valganciclovir for 3 months. He will be followed by a ___. Mr. 
+___ completed a ___ course of Cipro and Flagyl in the 
+hospital.
+
+He should continue isoniazid and pyridoxine for 9 months (start 
+___ given hx latent TB in the context of recent remicade use.  
+During the hospitalization, he may have developed a fever from 
+isoniazid so it was recommended that he temporarily stop using 
+it.  Infectious disease will decide in ___ clinic whether 
+or not to restart it.
+
+He will require extensive followup as follows: 
+- GI followup with Dr. ___
+- ID followup, with weekly labs faxed to ___ clinic by the ___ to 
+monitor for ganciclovir side effects.
+- PCP followup
+- ___ followup for CMV retinitis- patient given phone number 
+to make appointment
+
+Of note, the patient had low values of Magnesium and Potassium 
+secondary to diarrhea and required supplementation.  Diarrhea 
+slowly improved, so his Potassium level did not require 
+supplementation at the end of hospitalization.  Magnesium 
+supplementation was continued at the time of discharge.
+
+# Coagulopathy: The patient's INR rose slightly during his stay, 
+from 1.2 to 1.6, likely secondary to malnutrition. With improved 
+PO intake, the INR decreased to 1.3
+
+# Normocytic anemia:
+The patient's Hct was within its normal fluctuating baseline 
+with no appreciable acute blood loss during hospitalization. 
+Etiology is likely multifactorial from systemic inflammation 
+from underlying chronic inflammation/Crohns and possible drug 
+side effect with cyclosporine. He was continued on home ferrous 
+sulfate. He required no transfusions during hospitalization. 
+
+# Depression
+Differential includes depression vs. adjustment disorder vs. 
+secondary to drug side effect given recent diagnosis of IBD, 
+multiple hospitalizations, and cyclosporine. Patient's affect 
+initially constricted and depressed. After patient education 
+about illness, more expansive with hope with periods of sadness. 
+He denied SI/HI throughout hospitalization. He was continued on 
+fluoxetine.
+
+# Presumed Latent TB:
+See above discussion in Crohns section about PPD history and 
+rationale for current treatment. Isoniazid was discontinued on 
+___ as it was thought that it caused a drug fever.  
+Pyridoxine continued.  It will be decided in ___ clinic ___ 
+when and if he will be restarted on Isoniazid.
+
+# GERD:
+He was continued on omeprazole 
+
+# Hypertension
+The patient's beta blocker (atenolol) had been discontinued 
+during his hospitalizations. It was restarted at a reduced dose 
+(originally 50 mg daily was decreased to 25 mg daily) given 
+concern for low blood pressure with ongoing fluid loss in 
+diarrhea. Was restarted during this hospitalization given 
+elevated SBP and patient preference. 
+
+# Shoulder pain
+The patient developed shoulder pain during his hospitalization 
+that was musculoskeletal on exam. Patient was treated with 
+Flexeril with good result.
+
+### Pending studies - 
+Strongyloides serologies ___
+ 
+Medications on Admission:
+- multivitamin Tablet Sig: One (1) Cap PO DAILY (Daily).  
+- folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+- thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+- fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).  
+- isoniazid ___ mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+- omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+- simvastatin 20mg QD
+- pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+- cyclosporine 100 mg Capsule Sig: 2.5 Capsules PO Q12H (every 
+12 hours) 
+- hydrocortisone acetate 10 % (80 mg) Foam  BID
+- hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual TID (3 times a day) as needed for 
+mouth cramps.  
+- lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for anxiety/insomnia.  
+- ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO TID (3 times a day) 
+ 
+Discharge Medications:
+1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. folic acid 1 mg Tablet Sig: Five (5) Tablet PO once a week: 
+Take on ___ (the day after Methotrexate dose).
+Disp:*20 Tablet(s)* Refills:*0*
+3. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY 
+(Daily).
+Disp:*60 Capsule(s)* Refills:*0*
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+6. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. hyoscyamine sulfate 0.125 mg Tablet, Sublingual Sig: One (1) 
+Tablet, Sublingual Sublingual TID (3 times a day) as needed for 
+cramps.
+Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+8. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every eight 
+(8) hours as needed for anxiety.
+Disp:*20 Tablet(s)* Refills:*0*
+9. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. magnesium oxide 250 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. cortisone 1 % Cream Sig: One (1) Appl Topical QID (4 times a 
+day).
+Disp:*1 tube* Refills:*0*
+12. atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+13. Heparin Flush 10 unit/mL Kit Sig: Two (2) mL Intravenous 
+once a day for 12 days: flush with NS 10mL followed by Heparin 
+2mL daily and PRN per lumen.
+Disp:*QS 12 days* Refills:*0*
+14. ganciclovir sodium 500 mg Recon Soln Sig: Three Hundred 
+Sixty (360) mg Intravenous Q12H (every 12 hours) for 12 days: 
+Continue through ___.
+Disp:*24 doses* Refills:*0*
+15. Normal Saline Flush 0.9 % Syringe Sig: Ten (10) mL Injection 
+once a day for 12 days: Flush PICC with NS 10mL followed by 
+Heparin 2mL daily and prn per lumen.
+Disp:*QS 12 days* Refills:*0*
+16. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+17. methotrexate sodium 25 mg/mL Solution Sig: ___ (25) 
+mg Injection once a week: Give subcutaneous injection on 
+___.
+Disp:*4 doses* Refills:*0*
+18. prednisone 10 mg Tablet Sig: Sixty (60) mg PO once a day for 
+7 days: Take 60mg daily for 1 week, then reduce to 50mg daily 
+until you should see Dr. ___.
+Disp:*100 tablets* Refills:*1*
+19. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+20. ___ D ___ Tablet Sig: One (1) Tablet 
+PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+21. valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO once a 
+day for 3 months: Begin ___, the day after finishing IV 
+gancyclovir.
+Disp:*60 Tablet(s)* Refills:*2*
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+- Crohns disease flare
+- Cytomegalovirus colitis
+
+SECONDARY DIAGNOSES:
+- Gastroesophageal reflux disease
+- Depression
+- Hypertension
+- Latent tuberculosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were treated for another suspected Crohns flare with CMV 
+colitis. We had to place a PICC line in order to give you IV 
+antibiotics. You will be treated with IV Ganciclovir, 
+Ciprofloxacin by mouth and Flagyl by mouth.   
+
+Medication changes:
+CROHNS MEDS:
+- START Prednisone taper: take 60mg daily for 1 week, then 
+reduce to 50mg daily until you see Dr. ___.
+- START Hydrocortisone anal cream
+- START Methotrexate 25mg subcutaneous injections every 
+___.  Please arrange this with your Primary Care 
+Physician's office.
+
+CMV Colitis:
+- START IV Gancyclovir 360 mg every 12 hours for 3 weeks (stop 
+date ___ then transition to Valgancyclovir 900 mg daily 
+by mouth for at least 3 months. You will have weekly labs 
+checked while on these antibiotics.  Please direct all questions 
+regarding your antibiotics to the infectious disease nurses at 
+___. 
+
+Latent Tuberculosis:
+- Isoniazid (INH) stopped.  Will likely be restarted in ___ 
+clinic.
+
+Hypertension:
+- DECREASED dose of Atenolol to 25mg daily since your blood 
+pressure was lower with your diarrhea.  You may have this 
+rechecked with your PCP.
+
+** It is important to take all of your medications on a 
+consistent basis. If you miss ___ dose of your medications, please 
+call your doctor immediately. 
+ 
+Followup Instructions:
+___

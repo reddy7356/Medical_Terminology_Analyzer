@@ -1,0 +1,542 @@
+===== DISCHARGE NOTE =====
+note_id=17047056-DS-25 | hadm_id=28388654
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+pneumococcal vaccine / Inderal LA
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ extensive PMHx including CAD w/ AICD, COPD (on no
+medications, by her choice), HFrEF (on Lasix M/W/S), lung cancer
+S/P resection, CAD, bicuspid aortic valve, presents with
+productive cough, sent in from urgent care. 
+
+Patient initially developed myalgias and weakness starting 6 
+days
+ago. At that time she developed myalgias and large joint
+arthralgias of her shoulders, elbows, hips, knees, as well as
+rigors. The next day she developed a non-productive cough, and
+subsequently beige sputum. Noted some chest tightness not 
+related
+to exertion several days ago that resolved. She notes, however,
+progressive worsening of sputum, becoming green 3 days ago. Her
+temperature at home was 99.5. She has been drinking adequate
+fluids, and taking Tylenol at home. Received flu vaccine on 
+___.
+
+At urgent care today, O2 sat on ambulation was 85%, confirmed
+with repeat testing, which resolved upon rest.
+
+In the ED, initial VS were: 97.3 85 118/75 20 100% RA, but was
+noted to have desats to 85% with ambulation.
+
+Exam notable for: 
+AVSS while lying in bed
+AAOx3, comfortable
+MMM, well hydrated
+Dec lung sounds B/L, no focal findings
+RRR
+No ___ edema
+Neurologically intact
+ 
+Labs showed:  
+Normal chem7, CBC: WBC 10.8, H/H 12.8/39.6, Plts 260.
+proBNP 720, Trop-T <0.01
+INR 0.9
+Lactate 2.2
+BCx collected
+FluA and B were negative
+
+EKG shoed NSR at 87, normal intervals, normal axis. TWI in II,
+aVF. No ischemic ST changes.
+
+Imaging showed: 
+CXR:
+IMPRESSION:  
+Emphysema without superimposed pneumonia. 
+ 
+Patient received: 
+IV Azithromycin 500mg 
+Albuterol 0.083% Neb Soln 1 NEB  
+Ipratropium Bromide Neb 1 NEB 
+PredniSONE 40 mg   
+
+Transfer VS were: 97.9 81 102/61 20 97% RA  
+
+On arrival to the floor, patient reports she feels quite well.
+She notes no current fevers, chills, SOB, CP, abd pain. She 
+notes
+that overall she has not felt any wheezing this past week or 
+more
+dyspneic than usual (she is very active but occasional gets sob
+with exertion).
+ 
+ 
+Past Medical History:
+1. CAD s/p IMI with cardiac cath in ___ with 2 vessel CAD (40% 
+LCx stenosis, ___ occluded RCA)
+2. CHF with EF 35%, inferior akinesis and lateral and 
+inferoseptal hypokinesis per TTE in ___. PVD with right popliteal occlusion per angiogram
+4. h/o NSVT s/p ICD placement in ___
+5. Dyslipidemia
+6. h/o Adnexal mass s/p bilat SBO on ___
+7. h/p R partial pneumonectomy for adenocarcinoma of the right 
+lung in ___
+8. s/p chole, appy 
+ 
+Social History:
+___
+Family History:
+There is no known cardiac history or history of sudden death or 
+cancer history. 
+ 
+Physical Exam:
+Admission Exam:
+VS: 97.7 94/64 86 18 95% RA  
+GENERAL: patient appears well, in NAD
+HEENT: AT/NC, EOMI, R pupil 3 -> 2mm, L pupil 2.5 -> 1.5mm,
+anicteric sclera, pink conjunctiva, MMM  
+NECK: supple, small submandibular, mobile, nontender lymph 
+nodes,
+no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: faint sounds bilaterally, no wheezes, rales, rhonchi,
+breathing comfortably without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+Discharge Exam:
+GENERAL: NAD, sitting comfortably
+EYES: EOMI, PERRLA
+ENT: oropharynx clear
+CV: RRR, no m/r/g
+RESP: no wheezes, diminished breath sounds
+GI: S, NTND
+MSK: no peripheral edema
+SKIN: wwp
+NEURO: deferred
+ 
+Pertinent Results:
+Admission labs:
+
+___ 09:24PM BLOOD WBC-10.8* RBC-4.11 Hgb-12.8 Hct-39.6 
+MCV-96 MCH-31.1 MCHC-32.3 RDW-12.2 RDWSD-43.1 Plt ___
+___ 09:24PM BLOOD Neuts-69.9 Lymphs-18.6* Monos-8.3 Eos-1.9 
+Baso-0.6 Im ___ AbsNeut-7.53* AbsLymp-2.01 AbsMono-0.90* 
+AbsEos-0.21 AbsBaso-0.07
+___ 09:24PM BLOOD ___ PTT-29.5 ___
+___ 09:24PM BLOOD Glucose-136* UreaN-16 Creat-0.7 Na-144 
+K-4.5 Cl-101 HCO3-30 AnGap-13
+___ 09:24PM BLOOD proBNP-720*
+___ 09:24PM BLOOD cTropnT-<0.01
+___ 09:24PM BLOOD Lactate-2.2*
+
+Discharge labs:
+
+___ 09:30AM BLOOD Lactate-4.3*
+___ 09:30AM BLOOD ___ pO2-62* pCO2-55* pH-7.33* 
+calTCO2-30 Base XS-0
+___ 06:49AM BLOOD Albumin-4.3 Calcium-10.1 Phos-3.8 Mg-2.1
+___ 06:49AM BLOOD ALT-11 AST-21 LD(LDH)-246 AlkPhos-94 
+TotBili-0.2
+___ 06:49AM BLOOD Glucose-188* UreaN-17 Creat-0.7 Na-142 
+K-4.4 Cl-101 HCO3-27 AnGap-14
+___ 06:49AM BLOOD ___ PTT-29.1 ___
+___ 06:49AM BLOOD WBC-9.8 RBC-3.61* Hgb-11.3 Hct-35.1 
+MCV-97 MCH-31.3 MCHC-32.2 RDW-12.2 RDWSD-43.9 Plt ___
+
+Micro:
+___ 9:15 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+Studies:
+CHEST (PA & LAT)Study Date of ___ 8:44 ___
+FINDINGS: 
+ 
+PA and lateral views of the chest provided.  Left chest wall 
+AICD is again
+seen with leads extending into the region the right atrium and 
+right
+ventricle.  The lungs are hyperinflated and remain clear.  There 
+is no focal
+consolidation, large effusion, pneumothorax.  No signs of 
+congestion or edema.
+Cardiomediastinal silhouette is stable and remains within normal 
+limits. 
+Stable blunting of the right CP angle is related to mild 
+pleuroparenchymal
+scarring.  Imaged bony structures are intact.  Clips are noted 
+in the right
+upper abdomen.
+ 
+IMPRESSION: 
+ 
+Emphysema without superimposed pneumonia.
+ 
+Brief Hospital Course:
+Information for Outpatient ___ w/ extensive PMHx 
+including CAD w/ AICD, COPD (on no medications, by her choice), 
+HFrEF (on Lasix M/W/S), lung cancer s/p resection, CAD, bicuspid 
+aortic valve, presents with URI type symptoms, oxygen 
+desaturation. Symptoms improved with prednisone and 
+azithromycin, and O2 sats were > 95% with ambulation. Patient 
+will be treated for COPD exacerbation iso URI. Of note, patient 
+described vasoconstriction of the digits, and this may have 
+contributed to her desaturations prior to admission.
+
+ACUTE ISSUES: 
+=============
+#Exertional hypoxia
+#COPD exacerbation
+Patient noted to be hypoxic on ambulation in clinic, with recent 
+URI type
+symptoms without pneumonia on CXR. Pt noted increase in sputum 
+production + hypoxia w/ ambulation. As above, pt has likely 
+Raynaud's per history which can contribute to variation in 
+ambulatory O2. No recent PFTs. Not currently being treated for 
+COPD by patient's choice. Could represent URI w/ progression of 
+underlying COPD or COPD exacerbation. Improved with steroids and 
+azithromycin given in ED and continued to treat for COPD 
+exacerbation.
+
+#Lactic Acidosis: Uptrending lactate during admission, however 
+no signs ___ or other hypoperfusion on exam. Possibly 
+spurious, for example iso tourniquet. No other clinical 
+indicators of hypoperfusion or renal impairment.
+
+CHRONIC ISSUES:
+================
+#CAD s/p MI
+Continued aspirin.
+
+#CHF with decreased EF
+Held Lasix, ___ iso elevated lactate, can resume after d/c given 
+excellent clinical status.
+
+#HLD
+Continued statin
+
+#Deconditioning
+Pt may have some deconditioning contributing to SOB w/ exertion,
+and patient's family concerned about strength. No acute need for 
+___ at home or in rehab facility, but patient may benefit from ___ 
+as outpatient.
+
+TRANSITIONAL ISSUES:
+======================
+[ ] F/u with PCP ___
+[ ] complete 5D course of prednisone (___)
+[ ] complete 5D course of azithromycin (___)
+[ ] when assessing oxygen saturation levels in the future, 
+monitor for vasoconstriction of the digits, at times O2 monitors 
+had difficulty reading accurate O2 saturations while 
+hospitalized
+[ ] Patient may benefit from PFTs as outpatient as has not had 
+recent set
+[ ] Follow up volume status and blood pressure at PCP follow up 
+___ and consider restarting Lasix and ___. 
+[ ] Check lactate ___ to ensure resolution
+
+Attending Addendum: 
+I have seen and examined the patient on ___ and agree with 
+the resident's note/  She is stable for discharge with 
+outpatient follow-up. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO 3X/WEEK (MO,WE,SA) 
+2. Lovastatin 20 mg oral QPM 
+3. Metoprolol Succinate XL 100 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 mg 
+calcium- 200 unit oral 2 pills in the morning 
+6. telmisartan 40 mg oral DAILY 
+7. Vitamin D 3000 UNIT PO QPM 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H Duration: 3 Days 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+2.  PredniSONE 40 mg PO DAILY Duration: 3 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*6 Tablet 
+Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 mg 
+calcium- 200 unit oral 2 pills in the morning  
+5.  Lovastatin 20 mg oral QPM  
+6.  Metoprolol Succinate XL 100 mg PO DAILY  
+7.  Vitamin D 3000 UNIT PO QPM  
+8. HELD- Furosemide 20 mg PO 3X/WEEK (MO,WE,SA)  This medication 
+was held. Do not restart Furosemide until told by your PCP
+9. HELD- telmisartan 40 mg oral DAILY  This medication was held. 
+Do not restart telmisartan until told to start by your PCP
+10.Outpatient Physical Therapy
+728.87
+Outpatient ___ for generalized weakness as needed
+Outpatient PCP: ___, MD
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+Chronic Obstructive Pulmonary Disease Exacerbation
+
+Secondary Diagnoses
+======================
+Heart Failure with Reduced Ejection Fraction                     
+              
+Coronary Artery Disease
+Heart Failure with Reduced Ejection Fraction
+History of Lung Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your stay at ___.
+
+Why was I here?
+-You were having difficulty breathing
+
+What happened while I was in the hospital?
+-You were given azithromycin and prednisone to treat a possible 
+COPD exacerbation
+
+What should I do when I go home?
+-You should take the rest of your Z-pack (azithromycin)
+-You should take the rest of your prednisone
+
+Be well!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=17047056-DS-24 | hadm_id=29350329
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Inderal
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pain at site of ICD
+ 
+Major Surgical or Invasive Procedure:
+ICD generator replacement
+
+ 
+History of Present Illness:
+___ yo W with PMH of CAD s/p inferior MI ___, CHF EF 35%, CAD, 
+non sustained ventricular tachycardia s/p ICD implantation and 
+PVD with a  
+right pop occlusion who presents after developing severe ___ 
+pain and burning around her ICD implant site with some radiation 
+towards her left axilla and left upper inner arm 1 week prior to 
+presentation (___). Pain lasted for ___ and 
+resolved. Patient reports feeling occasional "electrical 
+twinges" and area is still somewhat uncomfortable.  
+.  
+Patient underwent generator change which was complicated by 
+hypotension with sys bp in ___. Patient was given 500cc NS bolus 
+x 1 with improvement in pressure to sys ___. Otherwise procedure 
+was uncomplicated.  
+.  
+On ROS, patient does report recent recurrentce of angina. States 
+has anginal type symptoms when changing sheets or doing laundry. 
+However not relieved with SL nitro but improved with pepcid or 
+ginger ale. Also states that angina is unpredictable and does 
+not always occur with activity such as vacuuming 
+
+ 
+Past Medical History:
+1. CAD s/p IMI with cardiac cath in ___ with 2 vessel CAD (40% 
+LCx stenosis, ___ occluded RCA)
+2. CHF with EF 35%, inferior akinesis and lateral and 
+inferoseptal hypokinesis per TTE in ___. PVD with right popliteal occlusion per angiogram
+4. h/o NSVT s/p ICD placement in ___
+5. Dyslipidemia
+6. h/o Adnexal mass s/p bilat SBO on ___
+7. h/p R partial pneumonectomy for adenocarcinoma of the right 
+lung in ___
+8. s/p chole, appy 
+ 
+Social History:
+___
+Family History:
+There is no known cardiac history or history of sudden death or 
+cancer history. 
+ 
+Physical Exam:
+VS - T 89/52 HR RR 18 100%RA  
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP of 8 cm.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: Pacer site C/D/I, minimally tender w/o erythema. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: No c/c/e. No femoral bruits.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+.  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 1+ ___ 1+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+___ 12:08PM   GLUCOSE-72 UREA N-29* CREAT-0.7 SODIUM-142 
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-26 ANION GAP-14
+___ 12:08PM   WBC-10.0 RBC-3.89* HGB-12.6 HCT-37.3 MCV-96 
+MCH-32.4* MCHC-33.8 RDW-12.8
+___ 12:08PM   PLT COUNT-339
+___ 12:08PM   ___ yo W with MMP presents for ICD generator change after 
+symptoms of pacer dysfunction.  
+.  
+#. Rhythm: In NSR; ICD placement for NSVT plus low EF; s/p 
+generator change. Monitored on telemetry overnight without 
+events. Will complete 5 day course of keflex in setting of 
+procedure. Pain control with ibuprofen and percocet PRN.  
+.  
+#. Hypotension: According to patient, BP always low 80's - 90's, 
+which may be possible given low EF. Episode of hypotension 
+during generator change. Given 500cc bolus with improvement in 
+pressure.  
+.  
+#. CAD: prior MI; no current symptoms; does report recurrence of 
+? angina not relieved with nitro; atypical symptoms and improved 
+with ginger ale. Sounds more musculoskeletal vs. GERD given 
+unpredictable occurrence. Continued ASA, toprol, lisinopril, 
+statin, plavix.  
+.  
+#. Pump : Chronic systolic heart failure; EF of 30% with no 
+evidence of fluid overload on exam. Per patient, wt is 
+increased. Continued lasix 20 PO daily. Continued afterload 
+reduction  
+.  
+#. Hyperlipidemia: continued statin in house  
+.  
+#. hx of lung CA; s/p excision; stable; no changes to management 
+in house  
+.  
+#. Osteoporosis: Vit D supplement every few weeks.  
+.  
+#. Contact: Son, ___ ___  
+.  
+#. Code: Full  
+
+ 
+Medications on Admission:
+Aspirin 81mg Daily  
+Clopidogrel 75mg daily  
+Vit D 50,000 U every 2 weeks  
+Furosemide 20mg Daily  
+Lisinopril 5mg Daily  
+Lovastatin 20mg Daily  
+Toprol XL 100mg Twice Daily  
+
+ 
+Discharge Medications:
+1. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+6. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) for 4 days.
+Disp:*12 Capsule(s)* Refills:*0*
+7. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+ICD generator replacement
+
+Secondary:
+Chronic congestive heart failure, EF 30%
+Coronary artery disease
+
+ 
+Discharge Condition:
+Good, vital signs stable
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid ___
+You were admitted  to the hospital for generator change on your 
+pacer. Your blood pressure was low and you were given some IV 
+fluids with improvement. 
+.
+You have been started on antibiotics. You should continue to 
+take this medication until it is complete.
+.
+Please contact your doctor or return to the emergency room if 
+you develop any worrisome symptoms such as chest pain, shortness 
+of breath, lightheadedness, passing out, etc.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,1257 @@
+===== DISCHARGE NOTE =====
+note_id=15115248-DS-13 | hadm_id=20531401
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Potassium
+ 
+Attending: ___
+ 
+Chief Complaint:
+Renal insufficiency and anemia 
+ 
+Major Surgical or Invasive Procedure:
+-Trans-esophageal echo
+-Foley catheter placement (has been removed)
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo male with PMH of HTN, DM, AS, endocarditis 
+presenting from his nursing home with complaints of fatigue, 
+worsened renal failure and anemia. Mr. ___ reports UE 
+fatigue and F/C on the day before admission (no documented 
+fever). He denies CP, SOB, HA, abd pain, BRBPR, melena, URI 
+symptoms, focal numbness/weakness/tingling, urinary retention. 
+He did report feeling dehydrated and having received little PO 
+recently. He has occasional orthostatic symptoms. He also 
+complains of dyspepsia with overeating at the ___. In the ED, 
+vitals were 99.1 (97.3) 78 117/48 RR 18 98%RA. EKG showed stable 
+RBBB, 1st degree AVB, no STTW changes.  
+ 
+Past Medical History:
+1. Hypertension  
+2. Hypercholesterolemia  
+3. Diabetes type 2  
+4. Severe Aortic stenosis  
+4. Conduction system disease (1 AVB, RBBB)  
+5. Bradycardia prohibiting Beta Blocker  
+6. Right carotid stenosis (50% on ultrasound ___  
+7. Colon cancer - s/p resection  
+8. CAD s/p 4V CABG in ___  
+ 
+Social History:
+___
+Family History:
+Father w/ CAD and two prior MIs; mother with unknown "heart" 
+condition  
+ 
+Physical Exam:
+vitals: 96.3 132/54 72 16 100%2L  
+gen: well appearing, nad  
+heent: ncat, mmd, eomi, no scleral icterus, R surgical pupil, L 
+pupil 3mm and minimally reactive to light  
+neck: no elevated jvd, no LAD/masses/TMG  
+pulm: ctab, no w/r/r  
+cv: hrrr, ___ SEM > at LUSB  
+abd: s/nt/nd/nabs  
+extr: no c/c/e  
+neuro: aox2, cn ___ intact, strength ___ in all muscle groups, 
+sensation intact throughout.  
+
+ 
+Pertinent Results:
+On admission:
+140  106  75
+------------<136
+4.2  22  1.7  
+
+     7.4  86
+9.3>----<167
+    21.5
+
+Labs during admission:
+Hct 29.2 at discharge (26.5 on ___ with 1 U pRBCs given)
+Retics 2.5%, haptoglobin 96
+Creatinine 1.5 at discharge
+SPEP negative, UPEP negative
+
+Microbiology:
+Urine culture (___): no growth
+Blood culture (___): no growth to date
+
+Imaging:
+* TTE (___): The left atrium is moderately dilated. There is 
+mild symmetric left ventricular hypertrophy with normal cavity 
+size and regional/global systolic function (LVEF>55%). No masses 
+or thrombi are seen in the left ventricle. Right ventricular 
+chamber size and free wall motion are normal. No large masses or 
+vegetations are seen on the aortic valve, but cannot be fully 
+excluded due to suboptimal image quality and heavy valve 
+calcification. There is moderate to severe aortic valve stenosis 
+(area 0.8 cm2). Moderate (2+) aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. No mass or 
+vegetation is seen on the mitral valve. There is systolic 
+anterior motion of the mitral valve leaflets. Moderate (2+) 
+mitral regurgitation is seen. The tricuspid valve leaflets are 
+mildly thickened. Moderate [2+] tricuspid regurgitation is seen. 
+There is moderate pulmonary artery systolic hypertension. There 
+is a trivial/physiologic pericardial effusion. IMPRESSION: Mild 
+symmetric left ventricular hypertrophy with preserved global and 
+regional biventricular systolic function. Moderate to severe 
+calcific aortic stenosis. Moderate aortic regurgitation. 
+Moderate mitral regurgitation. Moderate tricuspid regurgitation. 
+Moderate pulmonary hypertension. Compared with the prior study 
+(images reviewed) of ___, severity of mitral, aortic, and 
+tricuspid regurgitation has increased. The other findings appear 
+similar.  
+
+* TEE (___): Mild spontaneous echo contrast is seen in the body 
+of the left atrium and left atrial appendage. No mass/thrombus 
+is seen in the left atrium or left atrial appendage. No atrial 
+septal defect is seen by 2D or color Doppler. Overall left 
+ventricular systolic function is normal. Right ventricular 
+chamber size and free wall motion are normal. There are complex 
+(>4mm) atheroma in the aortic arch. There are simple atheroma in 
+the descending thoracic aorta. There are three aortic valve 
+leaflets, which are severely thickened/deformed. A small (0.5 x 
+0.4 cm) echodense, slightly mobile mass is seen on the aortic 
+valve, which prolapses into the left ventricular outflow tract 
+during diastole, suggestive of a chronic vegetation or severe 
+degenerative disease of the aortic valve. Significant aortic 
+stenosis is present (not quantified). An eccentric, 
+anteriorly-directed jet of moderate (2+) aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. No mass or 
+vegetation is seen on the mitral valve. Moderate (2+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. No vegetation/mass is seen on the pulmonic valve. 
+There is no pericardial effusion. IMPRESSION: Probable aortic 
+valve endocarditis. Significant calcific aortic stenosis. 
+Moderate aortic regurgitation. Moderate mitral regurgitation. No 
+intracardiac thrombus seen.  
+
+* CT head (___): Limited study secondary to exaggerated 
+cervical lordosis, and difficulty positioning normally within 
+the scanner. Focal right parietal hypodensity could represent 
+subacute or chronic infarction, but without prior comparisons, 
+chronicity cannot be determined. Alternatively, this could 
+represent extension of chronic microangiopathic change, although 
+there is relatively little similar change seen elsewhere in the 
+brain. Least likely would be edema from an underlying lesion. 
+MRI recommended for further characterization.
+
+* MRI/MRA (___): Acute infarction in the right parietal lobe. 
+Markedly limited MRA, no definite area of high-grade stenosis 
+seen.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with a history of CAD s/p 4 
+vessel CABG, severe aortic stenosis, type 2 DM, HTN and chronic 
+anemia presenting with a drop in hematocrit and decreased urine 
+output according to reports from his nursing home, now with new 
+right parietal infarction but now focal neuro deficits.  
+.  
+#) CVA- On the evening of ___ the patient noted a new 
+headache, slurred speech and left sided weakness.  An MRI 
+revealed an acute area of R parietal infarction.  He was 
+evaluated by neurology and placed on aspirin.  This area of 
+infarction likely represents embolic stroke from uncertain 
+source (carotid artery vs aortic valve vs complex atheroma on 
+aortic arch), could also represent septic embolus given possible 
+aortic valve vegetation identified on TEE (mass is mobile and 
+prolapses and could be vegetation or calcium from degerative 
+valvular disease).  TEE also revealed complex atheroma in aortic 
+arch, and the patient was placed on plavix in place of aspirin 
+as per neuro recs.  Consideration may be considered to give him 
+both aspirin and plavix. The Neurology team also recommends 
+considering beginning anticoagulation in this patient with 
+multiple risk factors with a goal INR of ___ once the IV 
+vancomycin course has been completed; however the risks of 
+anticoagulation should be weighed against his risk of further 
+bleeding from the GI tract.  At this time the patient is without 
+focal neurological deficits. He should follow up with Dr. ___ 
+in the department of Neurology in approximately one month; 
+please call ___ for an appointment.
+.  
+#) Anemia- The patient has a known chronic anemia and is guaiac 
+positive during this admission. He has been evaluated by the 
+gastroenterology team in the past without definite source found. 
+During this admission, the patient has received 4 units PRBC 
+with an improvement in Hct from 21.5 to 29.2 on the day of 
+discharge. Prior to discharge, the patient was changed from 
+aspirin 81 mg to plavix 75 mg at the recommendation of 
+Neurology. He should be monitored for any worsening GI bleeding 
+as the plavix may place him at increased risk (compared to 
+aspirin alone). He is no longer complaining of any weakness.
+.  
+#) Renal failure- Evidence of both pre- and post-renal 
+components, with reported decreased PO intake and BPH causing 
+urinary retention.  BUN and Cr improving and is currently at 
+baseline, vancomycin being dosed at appropriate renal level.  
+Finasteride was continued for BPH, and diuretics were held for 
+volume repletion.  A foley catheter was placed and in's and 
+out's were monitored.  ___ was D/C'ed on ___ with adequate 
+urine output noted after it was removed.  A decreased dose of 
+lisinopril was restarted at discharge. A creatinine should be 
+checked with his other labs within a few days of going to rehab.
+.  
+#) Leukocytosis- patient has had white count fluctuating between 
+8 and 12 since admission. He is afebrile, without focal signs of 
+infection, NGTD on blood cultures, urine culture negative, no 
+cough or rhinorrhea.  
+.  
+#) CHF- ___ aortic stenosis. Patient currently euvolemic, is 
+aware of condition and has refused surgery in the past.  EF on 
+repeat echo this admission >55% with extensive aortic and mitral 
+regurg.  Diuretics were held during hospitalization without 
+signs of pulmonary or peripheral edema. Should consider 
+restarting lasix once blood pressures stable. He should follow 
+up with his cardiologist regarding these medication changes 
+within one to two months.
+.  
+#) Endocarditis- the patient was started on IV vancomycin during 
+his previous hospital admission when he was found to have strep 
+viridans bacteremia (patient with penicillin allergy), though 
+vegetation was never definitively seen on TTE.  Repeat TEE on 
+this admission showed a mass that may be an aortic vegetation.  
+The patient was previously receiving IV vancomycin, renally 
+dosed at 1000 mg Q48H.  As creatinine improved, vancomycin 
+dosing changed to q24h. Last day of vancomycin to be ___.  
+He has infectious disease follow-up as per discharge planning.
+.  
+#) HTN- Antihypertensive medications were held immediately 
+following confirmation of CVA for goal systolic blood pressure > 
+140 to maintain cerebral perfusion. At discharge, after 
+discussion with Neurology fellow, lisinopril 10 mg daily 
+restarted. He should have a repeat creatinine and electrolyte 
+check on ___ with lisinopril dose adjusted accordingly. His 
+goal blood pressure for the next 2 weeks should be 130 systolic. 
+Other antihypertensives can be restarted on a phased basis (one 
+at a time) over the next ___ weeks.
+.  
+#) DM type 2- well-controlled, complicated by mild peripheral 
+neuropathy (decreased vibration sense on R vs L).  Glucose has 
+been controlled by sliding scale insulin as inpatient, and can 
+restart glyburide at rehab.  SSI should continue at rehab.
+.  
+#) Hypercholesterolemia- patient was continued on home meds 
+(simvastatin 20 mg daily) 
+.  
+#) Dyspepsia/GERD- patient was complaining of reflux at nursing 
+home, placed on PPI with improvement. 
+.   
+#)Prophylaxis- heparin SC while nonambulatory, PPI, bowel 
+regimen  
+.
+Rehab:
+[ ] please check hematocrit on day after admission and twice per 
+week thereafter
+[ ] please hold prazosin, isosorbide, and lasix at this time, 
+goal BP for this week is 130/70, please evaluate BP one week 
+from today and consider reinstating at that time 
+[ ] please check electrolytes and creatinine on ___.  Adjust 
+lasix and lisinopril accordingly.
+ 
+Medications on Admission:
+- Aspirin 81 mg PO DAILY  
+- Docusate Sodium 100 mg PO BID  
+- Ferrous Sulfate 300 mg/5 mL 5 mL PO TID  
+- Finasteride 5 mg PO DAILY  
+- Furosemide 20 mg PO DAILY  
+- Isosorbide Dinitrate 10 mg PO TID  
+- Lisinopril 40 mg PO qday  
+- Prazosin 10 mg PO BID  
+- Psyllium ___ Packets PO BID  
+- Heparin (Porcine) 5,000 unit/mL One (1) mL Injection TID  
+- Lorazepam 1 mg PO HS  
+- Trazodone 25 mg PO HS prn  
+- Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)  
+gram Intravenous once a day for 5 weeks: to end on ___.  
+- Glyburide 1.25mg PO qday  
+- Simvastatin 20 mg PO qday  
+- Omeprazole 20 mg PO bid  
+- Magnesium Hydroxide 400 mg/5 mL Thirty ML PO Q6H prn  
+
+ 
+Discharge Medications:
+1. Ferrous Sulfate 300 mg/5 mL Liquid Sig: One (1)  PO three 
+times a day.  
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2 
+times a day).  
+3. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)  
+Intravenous every ___ hours for 2 days: To end on 
+___.  
+4. Psyllium     Packet Sig: ___ Packets PO BID (2 times a day) 
+as needed.  
+5. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+6. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+7. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+8. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed.  
+9. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+11. Heparin (Porcine) 5,000 unit/mL Syringe Sig: One (1)  
+Injection three times a day: until fully ambulatory.  
+12. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+mL PO every six (6) hours as needed.  
+14. labwork
+HCT on the day after admission to skilled nursing facility and 
+then twice weekly thereafter.  Transfuse for HCT less than 27.
+15. labwork
+creatinine with electrolytes on ___.  Adjust lisinopril 
+accordingly.
+16. insulin sliding scale
+as per attached sheet
+17. Finasteride 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+18. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis
+- Anemia
+- Right parietal stroke
+- Strep viridans bacteremia with presumed endocarditis
+.
+Secondary diagnosis
+-Aortic stenosis
+-BPH
+-HTN
+-hypercholesterolemia
+-type 2 DM
+
+ 
+Discharge Condition:
+Stable, ambulating with assistance
+
+ 
+Discharge Instructions:
+You were admitted for continued evaluation of your anemia 
+because your hematocrit was found to be 21.  You received 4 
+units of packed red blood cells and your anemia improved.  
+.
+You were continued on the IV antibiotics (vancomycin) that you 
+have been taking for treatment of endocarditis. 
+.
+You experienced a stroke in your right parietal lobe and had an 
+echocardiogram to determine the source of the stroke.  You were 
+placed on Plavix for prevention of further clot formation.  
+Because of the stroke, your goal blood pressure will be higher 
+for the time being.  Because of this, your lisinopril was 
+decreased, your prazosin was held, and your isosorbide dinitrate 
+and lasix were held.  You should discuss these as well as 
+aspirin, plavix, and anticoagulation with Dr. ___.
+.
+You should call your primary care provider or return to the 
+emergency department if you notice numbness/weakness/tingling 
+anywhere in your body, difficulty speaking, headache, loss of 
+consciousness/sleepiness, fatigue, shortness of breath, chest 
+pain, lightheadedness, fever greater than 101.4 degrees F, or 
+any other symptoms that concern you.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115248-DS-14 | hadm_id=22631160
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Potassium
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of Breath
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Pt is a ___ y/o man with excellent mental status and a history 
+CHF, aortic stenosis (0.8cm2 in ___, HTN, DM II, s/p recent 
+endocarditis and recent CVA, CAD, distant 4 vessel CABG, and 
+chronic renal failure presents with increasing SOB worse supine, 
+hypertension to SBP to 200, and worsening renal function. He has 
+been increasingly unwell since his wife died in ___. He has had 
+several admissions since then for infective endocarditis 
+(finished vancomycin ___ and CVA ___ ? of septic embolic, 
+given endocarditis, but unclear). He recently developed a UTI 
+and was started on cipro. His lasix was reduced recently to 
+maintain BP for good CNS perfusion and renal failure. He became 
+volume overloaded at the nursing facility and returned here 
+today - ___.
+.
+On admission to the ED his BNP >7000) with tropinin 0.96 and 
+possible deepening of TWI from prior ECGs. CKMB was NL. His CXR 
+showed congestion with small effusions. He was given Lasix 20mg 
+IV x2 and admitted on a nitro drip for HTN. He was afebrile and 
+UA was NL. 
+.
+At this time he feels his respiratory status is improving. He is 
+very alert and involved in his care. He denies chest pain, N/V, 
+disphoresis and reports recently loose stool concerning for 
+C.diff given current FQ treatment for UTI and the fact that he 
+lives at a nursing home. 
+.  
+On review of systems, he denies any prior history of deep venous 
+thrombosis, pulmonary embolism, bleeding at the time of surgery, 
+myalgias, joint pains, cough, hemoptysis, black stools or red 
+stools. He denies recent fevers, chills or rigors. He denies 
+exertional buttock or calf pain. All of the other review of 
+systems were negative. Cardiac review of systems is notable for 
+absence of chest pain, ankle edema, palpitations, syncope or 
+presyncope.  
+
+ 
+Past Medical History:
+1. Hypertension  
+2. Hypercholesterolemia  
+3. Diabetes type 2  
+4. Severe Aortic stenosis  
+4. Conduction system disease (1 AVB, RBBB)  
+5. Bradycardia prohibiting Beta Blocker  
+6. Right carotid stenosis (50% on ultrasound ___  
+7. Colon cancer - s/p resection  
+8. CAD s/p 4V CABG in ___  
+
+ 
+Social History:
+___
+Family History:
+Father w/ CAD and two prior MIs; mother with unknown "heart" 
+condition  
+ 
+Physical Exam:
+VSS 97.6  148/56  72  18  98% on 3L  
+Gen: WDWN elderly gentleman in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with no JVD.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. III/VI SEM with no r/g. No thrills, lifts. No 
+S3 or S4.  
+Chest: mild kyphosis. Resp were unlabored but rapid, no 
+accessory muscle use. Diffuse crackles R>L.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits. No shifting dullness
+Ext: No c/c/e. No femoral bruits. No edema
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+.  
+Pulses:  
+Right: Carotid 2+ Femoral 2+ DP 2+ Radia 2+  
+Left: Carotid 2+ Femoral 2+ DP 2+ Radia 2+  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 01:45AM BLOOD WBC-17.6*# RBC-3.90* Hgb-11.1* Hct-33.7* 
+MCV-86 MCH-28.5 MCHC-33.0 RDW-15.5 Plt ___
+___ 01:45AM BLOOD Neuts-89.8* Lymphs-5.8* Monos-2.8 Eos-1.2 
+Baso-0.5
+___ 01:45AM BLOOD ___ PTT-26.3 ___
+___ 01:45AM BLOOD Glucose-160* UreaN-49* Creat-1.8* Na-140 
+K-5.3* Cl-107 HCO3-22 AnGap-16
+___ 01:45AM BLOOD CK(CPK)-91
+___ 01:45AM BLOOD CK-MB-8 cTropnT-0.95* proBNP-GREATER TH
+___ 01:00PM BLOOD Albumin-3.3* Calcium-8.7 Phos-4.5# Mg-1.9
+
+PERTINENT LABS/STUDIES:
+
+Cr:  1.8 (___) -> 1.4 (___)
+WBC:  17.6 (___) -> 10.4 (___) -> 13.8 (___)
+Trop: 0.95 (___) -> 0.96 (___) -> 0.84 (___)
+CDiff:  Negative x2
+
+EKG demonstrated NSR with RBBB, primary AV conduction delay and 
+deepening of TWI compared with prior dated ___.  
+.  
+CXR (___): CHF with mild interstitial edema and bilateral 
+effusions. Cannot exclude infectious process in the left lower 
+lobe 
+.  
+TELEMETRY: ___:  O/N telemetry with Mobitz type 2 and a 
+run of VT (15 beats). 12 lead pending for today
+
+Hand Xray (___): Osteoarthritis. Possible soft tissue swelling. 
+No acute 
+fracture or bone destruction. 
+
+DISCHARGE LABS:
+
+___ 05:15AM BLOOD WBC-13.8* RBC-3.70* Hgb-10.7* Hct-32.0* 
+MCV-86 MCH-28.9 MCHC-33.5 RDW-15.2 Plt ___
+___ 05:15AM BLOOD Glucose-195* UreaN-44* Creat-1.4* Na-143 
+K-3.6 Cl-106 HCO3-27 AnGap-14
+___ 05:15AM BLOOD Calcium-8.2* Phos-3.3 Mg-1.8
+ 
+Brief Hospital Course:
+Pt is ___ y/o M with severe aotic stenosis, recent endocarditis, 
+a CVA on ___, presented with acute on chronic diastolic 
+heart failure. 
+.
+# Valves: Patient has severe Aortic stenosis, with a valve area 
+of 0.8cm2 and regurigation of all valves. (per ECHO on ___. 
+ Patient was evaluated for CT surgery during this admission, and 
+surgery determined that he will likely not be a candidate for 
+surgery given his recent CVA and overall poor prognosis for 
+recovery.  He is not a candidate for valvuloplasty due to the 
+recent endocarditis (small vegetation still seen after 6 weeks 
+of antibiotic therapy on ___) and 2+ AR. His 
+outpatient cardiologist Dr. ___ is interested in pursuing a 
+transcutaneous valve replacement at ___, and he 
+will be contacting Mr. ___ about this option in the near 
+future. 
+.
+# Acute on chronic diastolic heart failure.  Patient has a 
+history of diastolic heart failure.  His dose of Lasix had been 
+decreased in light of his recent CVA, in order to increase 
+cerebral perfusion.  A CXR on admission demonstrated pulmonary 
+edema, and a BNP was >7000.  Per neurology, the patient's SBP no 
+longer needs to be elevated, so he was started back on his home 
+dose of Lasix on ___.  He was also continued on his 
+lisinopril, and the dose was increased on ___.  Patient 
+improved clinically and on physical exam, and by discharge, he 
+was satting 95% on RA.  
+.
+# CAD: Patient has a h/o CABG.  Troponins were elevated on 
+admission and reached a peak of 0.96.  It was decided that the 
+patient would not undergo cardiac catheterization in light of 
+his recent stroke but would rather be managed medically.  
+Patient was continued on ASA, simvastatin, Plavix, and he was 
+started on Metoprolol 12.5 mg BID. 
+.
+#. HTN:  Pt was admitted with SBP 190s.  He was started on a 
+Nitro drip in the ED, which was discontinued on ___. Per 
+neurology recommendations, patient's SBP should ideally be ~120. 
+ Patient was started on Metoprolol, his lisinopril dose was 
+increased, and he was restarted on Lasix on ___.  His blood 
+pressure was monitored while in the hospital.
+.
+#. Bradycardic episodes:  Patient had episodes of bradycardia 
+and nonsustained ventricular tachycardia. Pt has a known RBBB 
+and primary AV conduction delay.  Patient was asymptommatic 
+throughout these episodes.  He was monitored throughout his 
+hospital stay and did not have any acute events.   
+.
+#. DM Type II:  Patient has a h/o DM2.  He is currently on 
+glyburide at home.  He was maintained on an insulin sliding 
+scale while in the hospital.  He is also currently on 
+Ciprofloxacin (last dose ___, so he was instructed to 
+restart his glyburide at home after he has finished his course 
+of Cipro.  
+ 
+#. Chronic renal insufficiency:  Patient's baseline Cr is 1.4, 
+and his Cr on admission was 1.8.  Patient's Cr was followed each 
+day, and it returned to his baseline of 1.4 with Lasix 20 mg PO 
+each day.    
+.
+#. UTI:  patient has a history of a recent UTI.  He is currently 
+on Cipro, and his last dose will be given on ___.  Patient's 
+UCx was negative on this admission.
+.  
+# Right Hand Pain:  Patient stated that he has significant pain 
+in his right hand,  He claims this began when he was doing ___ at 
+___.  It is tender to palpation on the lateral aspect 
+of his index finger, but it is not swollen, and not edematous.  
+An Xray of his finger was performed, which demonstrated 
+osteoarthritis but no fractures.  Patient received Tylenol for 
+the pain during admission.  
+ 
+Medications on Admission:
+CURRENT MEDICATIONS:  
+1. Ferrous Sulfate 300 mg/5 mL Liquid Sig: One (1)  PO three 
+times a day.  
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2 
+times a day).  
+3. Psyllium     Packet Sig: ___ Packets PO BID (2 times a day) 
+as needed.  
+4. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed.  
+5. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed.  
+8. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO twice a day.  
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. insulin sliding scale
+as per attached sheet
+12. Finasteride 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+13. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Aortic Stenosis
+Congestive Heart Failure (diastolic)
+Osteoarthritis
+
+Secondary:
+Hypertension
+Type 2 Diabetes
+Coronary Artery Disease
+
+ 
+Discharge Condition:
+Good.  Patient's vital signs are stable, and he is satting well 
+on room air.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because you were short of 
+breath.  The dose of your diuretic had been decreased, and thus 
+you accumulated some fluid in your lungs.  We increased the dose 
+of your medication, which lessened the fluid in your lungs.  You 
+also have a condition called Aortic Stenosis, which is currently 
+being managed through medications.  During this hospital stay, 
+you also experienced some right hand pain.  We did an xray of 
+your hand, which showed some arthritis, but you do not appear to 
+have a broken bone.  
+
+We made a few changes to your medications while you were in the 
+hosptial:
+1.  You are back on Lasix 20 mg twice a day
+2.  Your Lisinopril was increased to 20 mg once a day
+3.  You were started on Metoprolol 12.5 mg twice a day
+4.  You were started on Aspirin 325 mg each day
+5.  We stopped your glyburide while you were on the antibiotic, 
+Cipro.  You should start taking glyburide again on ___.
+
+Please take all medications as prescribed.
+
+Please keep all previosuly scheduled appointments.
+
+Please return to the ED of your healthcare provider if you 
+experience shortness of breath, fatigue, chest pain, fevers, or 
+other concerning symptoms. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115248-DS-12 | hadm_id=23245751
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Potassium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Positive blood cultures
+ 
+Major Surgical or Invasive Procedure:
+PICC line insertion
+ 
+History of Present Illness:
+The patient is a ___ with AS, HTN, CAD, DM, chronic anemia, 
+transfusion dependent who was recently discharged from the 
+medicine service on ___ following an evaluation for a possible 
+syncopal episode that was likely ___ worsened anemia. He 
+received 4 units of PRBCs during that admission. He also had 
+fevers during that admission with no clear source. A CT torso 
+showed only bilateral effusions with no other abnormalities. 
+However, blood cultures drawn ___ returned with ___ bottles 
+positive for GPCs on ___. The patient was asked to return to the 
+emergency room. He had 2 more sets of blood cultures drawn and 
+got one dose of levofloxacin. A repeat CXR showed interval 
+improvement in the left pleural effusion.
+.
+On presentation to the floor, the patient states that he feels 
+fine. He denies HA, visual changes, cough, SOB, chest pain, abd. 
+pain, N/V/D, dysuria, focal weakness or numbness. He states he 
+wants to go home as soon as possible. 
+
+ 
+Past Medical History:
+1. Hypertension  
+2. Hypercholesterolemia  
+3. Diabetes type 2  
+4. Severe Aortic stenosis  
+4. Conduction system disease (1 AVB, RBBB)  
+5. Bradycardia prohibiting Beta Blocker  
+6. Right carotid stenosis (50% on ultrasound ___  
+7. Colon cancer - s/p resection  
+8. CAD s/p 4V CABG in ___  
+ 
+Social History:
+___
+Family History:
+Father w/ CAD and two prior MIs; mother with unknown "heart" 
+condition  
+ 
+Physical Exam:
+Vitals: T: 99. 7 P: 79 BP: 165/73 O2: 96% RA
+General: Well appearing, NAD
+HEENT: L pupil surgical, conjunctiva and sclera clear
+Neck: No LAD, no JVD noted
+Heart: ___ SEM, no RGs noted
+Lungs: Bilateral basilar rales
+Abd: soft, NT/ND, +BS, no HSM noted
+Ext: no edema, no lesions noted in hands or fingernails
+Neuro: ___ strength in all extremities, sensation intact to 
+gross, CN ___ intact
+Skin: No rash
+
+ 
+Pertinent Results:
+___ 06:45AM BLOOD WBC-11.8* RBC-3.74* Hgb-11.1* Hct-31.7* 
+MCV-85 MCH-29.8 MCHC-35.2* RDW-15.1 Plt ___
+___ 07:15AM BLOOD WBC-11.2* RBC-3.65* Hgb-10.2* Hct-31.2* 
+MCV-86 MCH-27.9 MCHC-32.6 RDW-14.8 Plt ___
+___ 04:15PM BLOOD WBC-13.2* RBC-3.61* Hgb-10.7* Hct-30.7* 
+MCV-85 MCH-29.7 MCHC-34.9 RDW-14.8 Plt ___
+___ 07:15AM BLOOD Neuts-88.8* Lymphs-6.9* Monos-2.8 Eos-1.5 
+Baso-0.1
+___ 06:50AM BLOOD ESR-58*
+___ 06:40AM BLOOD ESR-56*
+___ 06:45AM BLOOD Glucose-126* UreaN-28* Creat-1.6* Na-140 
+K-4.1 Cl-104 HCO3-26 AnGap-14
+___ 07:15AM BLOOD Glucose-129* UreaN-26* Creat-1.3* Na-141 
+K-4.1 Cl-105 HCO3-29 AnGap-11
+___ 04:00PM BLOOD Calcium-8.6 Phos-3.5 Mg-2.0
+___ 04:33PM BLOOD Lactate-1.8 K-4.0
+___ 05:17PM URINE Color-Yellow Appear-Clear Sp ___
+___ 05:17PM URINE Blood-SM  Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 03:35PM URINE ___ Bacteri-OCC Yeast-NONE 
+Epi-0
+___ 03:35PM URINE ___
+
+___ 4:50 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      VIRIDANS STREPTOCOCCI. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI. 
+      IN PAIRS AND CHAINS. 
+
+___ 10:50 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      VIRIDANS STREPTOCOCCI. 
+         Sensitivity testing performed by Sensititre. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             VIRIDANS STREPTOCOCCI
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>1 R
+PENICILLIN G----------<=0.12 S
+VANCOMYCIN------------   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      REPORTED BY PHONE TO ___ RN, AT 1540 ON ___. 
+      GRAM POSITIVE COCCI IN CHAINS. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CHAINS. 
+
+CHEST (PA & LAT)
+
+Reason: eval for change 
+
+UNDERLYING MEDICAL CONDITION:
+___ year old man with positive blood cultures, abnl CT 
+REASON FOR THIS EXAMINATION:
+eval for change 
+HISTORY: Positive blood cultures with abnormal CT.
+
+FINDINGS: In comparison with the study of ___, there is 
+persistent enlargement of the cardiac silhouette in this patient 
+who has undergone a previous coronary artery bypass graft. 
+Bilateral pleural effusions are seen on the lateral view. No 
+evidence of acute pneumonia or definite pulmonary vascular 
+congestion. 
+
+TTE:
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy with normal cavity size and 
+regional/global systolic function (LVEF>55%). Right ventricular 
+chamber size and free wall motion are normal. The ascending 
+aorta is mildly dilated. There are three calcified aortic valve 
+leaflets. There is severe aortic valve stenosis (area 0.7 cm2). 
+Trace aortic regurgitation is seen. The mitral valve leaflets 
+are mildly thickened. There is no mitral valve prolapse. No mass 
+or vegetation is seen on the mitral valve. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. The supporting structures of the tricuspid valve are 
+thickened/fibrotic. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+IMPRESSION: No evidence of endocarditi. Mild symmetric left 
+ventricular hypertrophy with preserved global and regional 
+biventricular systolic function. Severe calcific aortic 
+stenosis. Mild pulmonary hypertension.
+
+Compared with the prior study (images reviewed) of ___, 
+biventricular function has normalized, and severity of mitral 
+and tricuspid regurgitation has diminished. The other findings, 
+including severity of aortic stenosis, are similar.  
+
+ECG:
+Sinus rhythm with 1st degree A-V block 
+Right bundle branch block 
+Nonspecific diffuse T wave flattening 
+Since previous tracing of ___, T wave flattening noted 
+  
+
+MRI ___:
+IMPRESSION:
+1. Signal abnormalities at C3-4 disc are suspicious for early 
+changes of discitis. No epidural abscess or epidural phlegmon 
+identified. No prevertebral or paravertebral abscess seen.
+2. Mild multilevel degenerative changes. No evidence of spinal 
+cord compression.
+3. Heterogenous thyroid gland with enlargement as described 
+above.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M with a PMH of severe aortic stenosis, 
+DM2, anemia who presented from home with positive blood 
+cultures. Hospital course is as described below:
+
+# Positive blood cultures: The patient was noted to have fever 
+during his previous admission but was discharged after cultures 
+remained negative for 48 hours. He was called back in on ___ 
+after his blood cultures from ___ grew streptococcus 
+viridans, ___ bottles. His repeat blood cultures drawn on ___ 
+before antibiotics also came back with ___ bottles positive for 
+strep. viridans. He was started on vancomycin presumptively and 
+was continued on it given his penicillin allergy (severe leg 
+swelling). The source of the strep. viridans is unclear at this 
+point. In discussion with the blood bank, it appears that his 
+fevers began prior to his transfusions on his previous 
+admission, making an infected blood product very unlikely. A TTE 
+showed no evidence of vegetations. In discussion with his 
+cardiologist, Dr. ___, it was felt that a TEE would 
+add little data given his already markedly abnormal valves. 
+Given our high suspicion for endocarditis and the species of 
+bacteria, it was decided to treat presumptively for native valve 
+endocarditis.  A PICC was placed after his subsequent cultures 
+had been negative for greater 72hrs. He will continue on his 
+vancomycin for a total of a 6 week course. He had some low grade 
+fevers initially during his admission but had been afebrile for 
+48 hours prior to discharge. He was evaluated by ___ and OT and 
+and they recommended a short stay at a rehab facility given his 
+deconditioning.
+
+# Neck pain/discitis: The patient described approximate one 
+month of subacute neck pain that he states was helped by 
+physical therapy. Out of concern for osteomyelitis or spinal 
+epidural abscess given his concurrent endocarditis, he received 
+and MRI of his cervical spine which showed early discitis at 
+C3-4. This necessitated a 6 week course of antibiotics as above. 
+He was continued on a soft cervical collar and tylenol for pain 
+control. 
+
+# Transfusion-dependent anemia: Unclear source. ___, EGD, small 
+ 
+bowel enteroscopy did not find bleed in past. His hematocrit 
+remained stable during this admission. He was continued on his 
+TID iron. 
+.  
+# CAD: He was continued on his home ASA, Isordil, ACEI, statin, 
+and no BB was used secondary to bradycardia in past.  
+.  
+# Hypertension: Continued on his home dose Lasix, Isordil, 
+lisinopril, and prazosin.  
+.  
+# Hypercholesterolemia: Continued on his home dose statin  
+.  
+# Aortic stenosis: Severe aortic stenosis. But remained 
+euvolemic and asymptomatic. Needs AVR per Dr. ___ 
+the patient has repeatedly refused.  
+.  
+# Chronic Systolic Heart Failure with EF50%: Continued on home 
+dose Lasix and ACEI, no beta blocker because of bradycarida.  No 
+signs of volume overload during this admission. 
+.  
+# DM2: Held glyburide while in house and treated with RISS. 
+Restarted glyburide on discharge.  
+.  
+#) FEN - diabetic, cardiac low salt dietdiet  
+#) PPx - heparin subcutaneously for DVT ppx. PPI per home 
+regimen. Bowel regimen  
+#) Code - FULL  
+#) Dispo- to rehab given deconditioning with lengthy hospital 
+stay.
+
+ 
+Medications on Admission:
+Aspirin Childrens 81 mg--one tablet(s) by mouth once a day  
+DOCUSATE SODIUM 100 mg--1 capsule by mouth twice a day prn  
+FERROUS SULFATE 325 mg (65 mg Elemental Iron)--1 by mouth 3x/day 
+
+FINASTERIDE 5 mg--one tablet by mouth daily  
+FUROSEMIDE 20 mg--one tablet by mouth once a day  
+GLYBURIDE 2.5 mg--0.5 tablet by mouth daily (daily)  
+ISOSORBIDE DINITRATE 10 mg--1 tablet by mouth three times a day  
+
+LISINOPRIL 40 mg--1 tablet by mouth daily  
+LORAZEPAM 1 mg--1 tablet by mouth at bedtime  
+OMEPRAZOLE 20 mg--one capsule by mouth twice a day  
+PRAZOSIN 5 mg--2 capsule by mouth twice a day  
+Psyllium --___ packet by mouth twice a day  
+SIMVASTATIN 20 mg--one tablet by mouth once a day  
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed.  
+3. Ferrous Sulfate 300 mg/5 mL Liquid Sig: Five (5) mL PO TID (3 
+times a day).  
+4. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Isosorbide Dinitrate 10 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+7. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Prazosin 5 mg Capsule Sig: Two (2) Capsule PO BID (2 times a 
+day).  
+9. Psyllium     Packet Sig: ___ Packets PO BID (2 times a day).  
+
+10. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL 
+Injection TID (3 times a day).  
+11. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+12. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+13. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) 
+gram Intravenous once a day for 5 weeks: to end on ___.  
+14. Glyburide 2.5 mg Tablet Sig: 0.5 Tablet PO once a day.  
+15. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+16. Omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+17. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Streptococcus viridans presumptive endocarditis
+Early discitis at C3-4
+Aortic stenosis
+Coronary artery disease
+Hypertension
+Diabetes Mellitus Type 2
+
+ 
+Discharge Condition:
+All vital signs stable, afebrile, ambulatory.
+
+ 
+Discharge Instructions:
+You were admitted with positive blood cultures showing bacteria 
+growing in your blood. This bacteria infected a disc on your 
+cervical spine and likely one of the valves in your heart. You 
+will need to be treated with IV antibiotics for 6 weeks total 
+(until ___ to clear this infection. You will receive 
+these antibiotics (vancomycin) through the large IV called a 
+PICC line. This bacteria likely came from a small break in your 
+mouth. There is no evidence that it came from your transfusions. 
+
+
+Please take all your medications as prescribed. Please attend 
+all of your follow up appointments.
+
+Please call your doctor or return to the emergency room if you 
+experience fevers, chills, chest pain, shortness of breath, 
+palpitations, abdominal pain, nausea, vomitting, diarrhea, pain 
+with urination, focal weakness, numbness, or tingling, or any 
+other symptom that concerns you. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115248-DS-11 | hadm_id=27184456
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Potassium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ with AS, HTN, CAD, DM, chronic anemia, 
+transfusion dependent, who had a possible syncopal episode in a 
+cab enroute to the pheresis lab to get a transfusion. He states 
+feeling tired and fatigued, as he usually does when his Hct 
+drops low enough to need a transfusion, which has been about 30. 
+He denies presyncopal sx, no LH, dizziness, cp, palpitations. He 
+feels it is possible he may have simply fallen asleep, but 
+apparently the cab driver pulled over and called EMS who brought 
+him to ___ ED.  
+.  
+bowel/bladder incontinence, o/w no brbpr  
+.  
+In the ED, his EKG showed SR, NA, NI, unchanged RBBB. His 
+troponin was 0.12 but CK and MB were flat. He denied chest pain, 
+shortness of breath, and only stated he was tired. BP was 
+146/41, HR 72.  
+
+ 
+Past Medical History:
+1. Hypertension  
+2. Hypercholesterolemia  
+3. Diabetes type 2  
+4. Severe Aortic stenosis  
+4. Conduction system disease (1 AVB, RBBB)  
+5. Bradycardia prohibiting Beta Blocker  
+6. Right carotid stenosis (50% on ultrasound ___  
+7. Colon cancer - s/p resection  
+8. CAD s/p 4V CABG in ___  
+
+ 
+Social History:
+___
+Family History:
+Father w/ CAD and two prior MIs; mother with unknown "heart" 
+condition  
+ 
+Physical Exam:
+VS: 98.9, 122/60, 77, 18, 98% RA  
+Gen: alert, interactive, annoyed elderly gentleman in NAD  
+HEENT: PERRL, EOMI, MMM, OP clear  
+Neck: supple, no JVD  
+Lungs: CTAB  
+CV: RRR, nl S1S2, III/VI systolic murmur LUSB  
+Abd: +BS, S/NT/ND  
+Ext: no c/c/e  
+
+ 
+Pertinent Results:
+ECG Study Date of ___  2:14:12 ___ 
+Sinus rhythm with ventricular premature depolarizations. First 
+degree  
+atrio-ventricular conduction delay. Right bundle-branch block. 
+Cannot 
+exclude prior infero-posterior myocardial infarction. Compared 
+to the previous 
+tracing of ___ no major change. 
+
+CHEST (PA & LAT)  ___ 2:33 ___
+Over a period of ___ years, there is definite increase in heart 
+size which is mildly enlarged. There is pulmonary vascular 
+engorgement with early interstitial thickening seen in both 
+lungs. In addition there is a newly occurring small right 
+pleural effusion and a smaller if present left pleural effusion. 
+Patient is status post CABG with multiple sternotomy wires and 
+surgical clips.
+IMPRESSION:
+1. The consolation of findings including increase in heart size, 
+pulmonary vascular engorgement, early interstitial edema and 
+bilateral pleural effusion it favors congestive heart failure. 
+However, any early pneumonic infiltration cannot be completely 
+excluded.
+ 
+TTE (Complete) Done ___ at 4:43:49 ___      
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy. The left ventricular cavity size 
+is normal. Overall left ventricular systolic function is low 
+normal (LVEF 50%). [Intrinsic left ventricular systolic function 
+is likely more depressed given the severity of valvular 
+regurgitation.] Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). There is no 
+ventricular septal defect. The right ventricular cavity is 
+dilated with borderline normal free wall function. [Intrinsic 
+right ventricular systolic function is likely more depressed 
+given the severity of tricuspid regurgitation.] There are focal 
+calcifications in the aortic arch. The aortic valve leaflets are 
+severely thickened/deformed. There is severe aortic valve 
+stenosis). Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. Moderate (2+) mitral regurgitation is seen. [Due to 
+acoustic shadowing, the severity of mitral regurgitation may be 
+significantly UNDERestimated.] The tricuspid valve leaflets are 
+mildly thickened. The supporting structures of the tricuspid 
+valve are thickened/fibrotic. Moderate [2+] tricuspid 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+Compared with the findings of the prior study (images reviewed) 
+of ___, left and right ventricular contractile 
+function are both reduced.  
+
+DISCHARGE LABS:
+
+ 
+Brief Hospital Course:
+___ M w/ AS, HTN, CAD, DM2, severe AS, systolic heart failure 
+with EF 50%, chronic anemia, transfusion dependent, presented 
+with weakness, fatigue, question syncope. Hct to 23, received 4 
+units PRBC's.  
+  
+Question Syncopal Episode: Likely due to severe anemia. Hhas 
+some episodes of pauses on tele after APC's, but none 
+symptomatic. Questionable syncopal episode not likely due to AS, 
+but he has severe AS and has been refusing surgery.  
+ 
+Transfusion-dependent anemia: Unclear source. ___, EGD, small 
+bowel enteroscopy did not find bleed in past. Should continue to 
+follow with his Gastroenterologist. He is on TID iron.  
+ 
+Fevers: No symptoms of infection. FUO workup unreveiling. CT 
+torso showed no concerning masses.
+ 
+Troponin elevation: He had some mild troponin elevation, likely 
+due to demand ischemia from anemia, CAD, and severe AS.  
+  
+CAD: ASA, Isordil, ACEI, statin, no BB ___ bradycardia in past.  
+
+  
+Hypertension: Lasix, Isordil, lisinopril, prazosin. 
+ 
+Hypercholesterolemia: Statin  
+
+Aortic stenosis: Severe, so far asymptomatic. Needs AVR per Dr. 
+___ the patient has repeatedly refused.  
+
+Chronic Systolic Heart Failure with EF50%: ACE, no beta blocker 
+because of bradycarida.
+
+DM2: Glyburide 
+
+ 
+Medications on Admission:
+Aspirin Childrens 81 mg--one tablet(s) by mouth once a day  
+DOCUSATE SODIUM 100 mg--1 capsule by mouth twice a day prn  
+FERROUS SULFATE 325 mg (65 mg Elemental Iron)--1 by mouth 3x/day 
+ 
+FINASTERIDE 5 mg--one tablet by mouth daily  
+FUROSEMIDE 20 mg--one tablet by mouth once a day  
+GLYBURIDE 2.5 mg--0.5 tablet by mouth daily (daily)  
+ISOSORBIDE DINITRATE 10 mg--1 tablet by mouth three times a day  
+
+LISINOPRIL 40 mg--1 tablet by mouth daily  
+LORAZEPAM 1 mg--1 tablet by mouth at bedtime  
+OMEPRAZOLE 20 mg--one capsule by mouth twice a day  
+PRAZOSIN 5 mg--2 capsule by mouth twice a day  
+Psyllium --___ packet by mouth twice a day  
+SIMVASTATIN 20 mg--one tablet by mouth once a day  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Anemia
+Acute Renal Failure
+Fevers of Unknown Origin
+
+Secondary:
+Hypertension
+Hyperlipidemia
+Diabetes Mellitus Type 2
+Severe Aortic Stenosis
+Chronic Systolic Heart Failure with EF 50%
+
+ 
+Discharge Condition:
+Stable HCT at 33, less fatigued.
+
+ 
+Discharge Instructions:
+You were admitted because of anemia causing fatigue. You 
+received three blood transfusions. Please call your doctor if 
+you notice that you are weak or more tired than usual, as this 
+may be a sign of decreased blood count or anemia. 
+
+You also had fevers, for which no cause was found. Please call 
+your doctor if you continue to have fevers or any concerning 
+symptoms.
+
+Please follow up with your primary care doctor this week.
+ 
+Followup Instructions:
+___

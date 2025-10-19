@@ -1,0 +1,227 @@
+===== DISCHARGE NOTE =====
+note_id=12404642-DS-3 | hadm_id=22143417
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+presyncope, chest heaviness.
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+The patient is a ___ year old female with a past medical history 
+significant for hypertension and multinodular goiter who 
+presented for evaluation of near syncope. After eating a large 
+dinner with friends, the patient went to the ___ 
+___ for an event (So You Think You Can Dance Show), and 
+after running up main auditorium stairs and waiting in line to 
+get to the bathroom felt palpitations, like her heart was in her 
+throat. This persisted for several seconds, she then felt 
+clammy, sweaty, lightheaded, and leaned against the wall. She 
+asked a bystander for help which prompted EMS. She also reported 
+confusion for approx 30 seconds while very lightheaded; had 
+trouble giving people directions on how to find her friends who 
+were sitting in auditorium. 
+
+During the event she reports some chest heaviness without frank 
+pain or shortness of breath that lasted less than 1 minute. Also 
+had some mild nausea but denies vomiting, post-ictal confusion, 
+loss of bowel or bladder function. She had presyncopal symptoms 
+lasting > 5 seconds but states no LOC. She is worried because 
+her older sister had a non-fatal but "massive" MI at 54. Just 
+after this episode, the patient took 2 ASA. She was evaluated by 
+EMS in field and brought to ___ for further evaluation.  
+
+Of note, the patient was seen one month ago for intermittent 
+left hand tingling due to concern about family hx of MI. Work-up 
+per report was negative, except found iron deficiency anemia, 
+and done at ___, now on po iron supplementation with 
+improvement.  
+
+In ED, Temp 98.2 HR 96 BP 109/51 RR 16 Pox 100% RA. EKG with ST 
+depressions and Twave inversions in AVL, V1, V2. Cards viewed 
+EKG and felt no STEMI, recomended admission for ___. Temp 97.9 
+HR 90 BP 120/66 RR 18 O2sat 99%.  
+
+On floor on the morning of admission, all symptoms had resolved, 
+pt chest pain free, denies N/V, denies arm or jaw pain.  Feels 
+entirely well. 
+
+ROS: Denies fevers, weight change, shortness of breath, DOE, 
+PND, orthopnea, abdominal pain, vomiting, hematemesis, 
+constipation, BRBPR, change in bladder habits, dysuria, 
+hematuria, lower extremity edema, cough, cold, any other 
+episodes of chest discomfort. + mild diarrhea x 1 day 5 days 
+prior to admission, and some mild fatigue, attributed to GI bug. 
+
+ 
+Past Medical History:
+Hypertension  
+Multinodular Goiter  
+Hypercholesterolemia  
+H/o abnormal EKG: previously work-up and was negative. Per 
+patient's report negative nuclear stress test ___  
+Iron deficiency anemia  
+GERD  
+ 
+Social History:
+___
+Family History:
+Sister had non-fatal MI at ___, father MI at ___, uncle bypass 
+surg at young age, all siblings with HTN. 
+ 
+Physical Exam:
+ON ADMISSION:
+Vitals T 97.8, BP 147/76, HR 83, RR 20, O2 sat 97% RA  
+General: NAD, Alert and oriented x 3  
+HEENT: PERRLA, Anicteric, MMdry, no JVD, no lid lag.  
+Neck: No thyromegaly, but with irregular surface  
+CV: RRR, Normal S1 + S2, No murmurs, rubs or gallops  
+Resp: Clear to auscultation bilaterally, No wheezes or crackles  
+
+Abd: NABS, soft, nontender, nondistended.  
+Extremities: No cyanosis, clubbing or edema, +2 distal pulses in 
+bil upper and lower extremities.  
+Skin: no rashes  
+Neuro: AAOx3. Cn II-XII intact. no tremor.  
+
+ON DISCHARGE:
+VSS, afebrile, unchanged from exam above.
+ 
+ 
+Pertinent Results:
+LABORATORY STUDIES:
+___ 10:15PM BLOOD WBC-9.4 RBC-5.03 Hgb-13.6 Hct-42.2 MCV-84 
+MCH-27.1 MCHC-32.3 RDW-15.2 Plt ___
+___ 10:15PM BLOOD Glucose-160* UreaN-13 Creat-0.8 Na-140 
+K-3.3 Cl-101 HCO3-25 AnGap-17
+___ 10:50AM BLOOD Glucose-100 UreaN-15 Creat-0.7 Na-140 
+K-3.8 Cl-101 HCO3-28 AnGap-15
+___ 10:15PM BLOOD cTropnT-<0.01
+___ 10:50AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 01:30PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 10:15PM BLOOD Calcium-10.2 Phos-3.8 Mg-2.0
+___ 10:15PM BLOOD %HbA1c-5.9
+
+EKG: sinus at 91, nl axis, nl intervals, 1mm ST dep I,aVL, V1, 
+V2. TWI V1, T biphasic aVL. pr depression II, III, aVF, V5, V6. 
+Qs in II, III, aVF. no priors. Posterior leads with no acute 
+elevations. ST dep persisted in V2, and TWI V2, V3. No changes 
+from previous EKGs once reviewed records received from PCP.
+
+CXR: IMPRESSION: No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+The patient is a ___ year old female with hypertension and 
+significant anxiety about her family history of myocardial 
+infarctions who presented with an episode of near syncope in the 
+setting of possible mild dehydration, and exertion, admitted for 
+rule out myocardial infarction.
+
+#1. Near Syncope: We suspected that this could have been due to 
+a recent diarrheal illness one week prior to presentation, in 
+addition to diuretic use, in setting of exertion.  
+- The patient was admitted to telemetry, with no events noted 
+during the first hospital day.  Serial cardiac enzymes were done 
+and found to be negative x3.
+- Records were obtained from her primary care provider's office 
+and revealed that the EKG findings seen on admission are the 
+patient's baseline without acute changes.  In addition, review 
+of these records showed an outpatient stress test that was done 
+in the past year which was normal. 
+- Daily ASA was continued; the patient's chest pain resolved and 
+she felt entirely well during the first hospital day without any 
+further intervention.
+
+#2. Hypertension, hyperlipidemia, GERD: We continued the 
+patients home medications for GERD and HTN.  As the patient was 
+not sure of her simvastatin dose, this was held for her one day 
+of hospitalization.    
+
+#3. Iron deficiency anemia: Continued the patient's home po iron 
+supplementation.
+
+#4. Multinodular goiter: Continued the patient's levothyroxine. 
+Recent TFTs done by PCP were found to be within normal limits. 
+
+#5. Seasonal allergies: Continued the patient's home loratidine  
+
+
+#6. Hyperglycemia on labs: on initial labs which was found to 
+resolve on HD#1 labs. HgbA1c found to be normal at 5.9.
+
+The patient's FULL code status was confirmed during this 
+admission. She was deemed medically stable, chest pain free, and 
+fit for discharge on ___.  The patient will have close 
+follow-up within one week with her primary care provider.
+ 
+Medications on Admission:
+Triamterene/HCTZ ___ daily (started in ___ 
+Lisinopril 5mg daily  
+Omeprazole 20 mg daily  
+Levothyroxine 88 mcg  
+Simvastatin dose uncertain  
+ASA 81 mg daily  
+Loratidine 10 mg daily  
+Iron OTC daily  
+ 
+Discharge Medications:
+1. Triamterene-Hydrochlorothiazid 37.5-25 mg Capsule Sig: One 
+(1) Cap PO DAILY (Daily).  
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day: 
+Dose uncertain.  
+6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+9. Patient will also continue her home dose of simvastatin as an 
+outpatient, per her primary care physician's recommendations.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pre-syncope
+
+ 
+Discharge Condition:
+Stable.  Chest pain free.  Ambulating without assistance. 
+
+ 
+Discharge Instructions:
+You were seen and evaluated for your chest pain.  You did not 
+have a heart attack.  You were monitored on telemetry overnight 
+and did not have any evidence of irregular heart rates.
+
+Please take all your medications as prescribed.  No changes were 
+made to your medication regimen. 
+
+Please keep all your follow-up appointments as scheduled. 
+
+Please seek immediate medical attention if you experience any 
+fevers, difficulty breathing, additional episodes of chest pain, 
+lightheadedness, dizziness, or any other concerning symptoms. 
+ 
+Followup Instructions:
+___

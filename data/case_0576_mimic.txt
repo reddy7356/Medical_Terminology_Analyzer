@@ -1,0 +1,68 @@
+===== DISCHARGE NOTE =====
+note_id=12145235-DS-11 | hadm_id=21446190
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+expired - trauma/cardiac arrest
+ 
+Major Surgical or Invasive Procedure:
+n/a
+ 
+History of Present Illness:
+___, partner heard a thump, found down at bottom of stairs, EMS 
+arrived cardiac arrest, PEA --> CPR, ROSC.  Sent to ___, 
+multiple injuries, intubated, chest tube, transferred to ___.  
+A line, Cordis, 6 units of blood, FFP, plts, brought to Trauma 
+ICU.  Talked with family --> no more blood, made DNR.  Then CMO. 
+ Expired at 0652
+ 
+Past Medical History:
+HIV, Hep C, the rest unknown
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+Expired
+ 
+Pertinent Results:
+n/a
+ 
+Brief Hospital Course:
+See HPI
+ 
+Medications on Admission:
+unknown
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+n/a
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+___

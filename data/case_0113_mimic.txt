@@ -1,0 +1,1790 @@
+===== DISCHARGE NOTE =====
+note_id=16263845-DS-21 | hadm_id=20108706
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever up to ___
+ 
+Major Surgical or Invasive Procedure:
+I&D, removal of ankle hardware ___
+
+ 
+History of Present Illness:
+___ yo M admitted to ___ ___, now readmitted after
+returning from his facility on the day of discharge.
+During his admission, pt with ARF (5.9) attributed to 
+obstructive
+uropathy and Aerococcus bacteremia/UTI, along with ileus
+requiring NGT placement.  He completed a course of abx by ___. 
+Creat improved to 1.2 by the time of discharge, with indwelling
+___ in place.  He had urethral erosion attributed to ___;
+urology recommended bacitracin.  His NGT was removed during the
+admission.  During the admission, there was concern for elder
+abuse; the case was referred to Elder Protective Servies.  He
+also had diarrhea attributed to his tube feeds; this resolved
+after tube feeds were discontinued.
+
+He was sent to ___ on ___.  He returned later that day, as
+the facility was concerned about the Protective Services review
+that had been opened toward the patient's son/HCP.  In the ED, 
+he
+had T 101 and prostate tenderness to palpation, so was treated
+with levofloxacin for prostatitis.  He is admitted for further
+care.
+
+On admission, he states that he feels completely well.  He 
+states
+that he feels safe with his son.
+
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  [X] All normal
+HEENT:  [X] All normal
+RESPIRATORY:  [X] All normal
+CARDIAC:  [X] All normal
+GI:  [X] All normal
+GU:  As per HPI
+SKIN:  [X] All normal
+MUSCULOSKELETAL:  [X] All normal
+NEURO:  [X] All normal
+ENDOCRINE:  [X] All normal
+HEME/LYMPH:  [X]  All normal
+PSYCH:  [X] All normal
+10 point review of systems negative except as noted above
+
+PMH:
+DM2
+HTN
+BPH/urinary retention
+UTI
+
+ 
+Past Medical History:
+DMTII 
+HTN 
+BPH c/b urinary retention 
+
+ 
+Social History:
+___
+Family History:
+Unable to obtain 
+ 
+Physical Exam:
+Admission:
+Physical Exam: Tm 100.4 Tc 98.2  80   121/67  94-100% (RA)
+GENERAL:  NAD
+Mentation:  Alert
+Eyes:  NC/AT
+Ears/Nose/Mouth/Throat:  Hard of hearing
+Neck:  Supple
+Resp:  CTA bilat
+CV:  RRR, normal S1S2
+GI:  Soft, NT/ND
+GU:  + foley
+Skin:  No rash
+Extremities:  No edema
+Lymph/Heme/Immun:  No cervical ___ noted
+Neuro: Alert & oriented to person, place, "the ___
+
+===========================================================
+Discharge:
+___ 0733 Temp: 97.8 PO BP: 111/56 L Lying HR: 85 RR: 18 O2
+sat: 94% O2 delivery: Ra 
+GENERAL: Alert, NAD
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:07AM BLOOD WBC-8.8 RBC-2.61* Hgb-8.3* Hct-25.2* 
+MCV-97 MCH-31.8 MCHC-32.9 RDW-18.7* RDWSD-64.9* Plt ___
+___ 09:14AM BLOOD Neuts-61.0 ___ Monos-11.7 Eos-3.4 
+Baso-0.9 Im ___ AbsNeut-5.81 AbsLymp-2.14 AbsMono-1.12* 
+AbsEos-0.32 AbsBaso-0.09*
+___ 06:07AM BLOOD Glucose-123* UreaN-24* Creat-1.1 Na-144 
+K-4.6 Cl-107 HCO3-28 AnGap-9*
+___ 06:07AM BLOOD Calcium-8.1* Phos-3.5 Mg-1.9
+___ 09:11AM URINE Color-Straw Appear-Clear Sp ___
+___ 09:11AM URINE Blood-MOD* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-LG*
+___ 09:11AM URINE RBC-11* WBC-47* Bacteri-FEW* Yeast-NONE 
+Epi-<1 TransE-<1
+
+DISCHARGE LABS
+___: WBC: 7.9
+___: HGB: 8.5*
+___: HCT: 26.4*
+___: Plt Count: 336
+___: ___: 12.8*
+___: INR: 1.2*
+___: PTT: 28.3
+___: Na: 135 (New reference range as of ___: K: 4.2 (New reference range as of ___: Cl: 99
+___: CO2: 23
+___: BUN: 13
+___: Creat: 1.1
+___: eGFR: ___
+For eGFR, the first (lower) value is for ___, 
+the second (higher) value is for ___
+___: Glucose: 102* (If fasting, 70-100 normal, >125 
+provisional diabetes)
+___: Ca: 8.7
+___: Mg: 1.7
+___: PO4: 3.4
+___: ALT: 9
+___: AST: 17
+___: Alk Phos: 82
+___: Total Bili: 0.5
+___: Alb: 2.7*
+___: LDH: 209
+
+OTHER LABS:
+CRP 91 (___)
+Vancomycin ___ trough)
+
+Surgical wound culture:
+___ 10:20 am SWAB     Site: ANKLE      RIGHT ANKLE. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI IN 
+PAIRS.
+   WOUND CULTURE (Preliminary): 
+      ___ (___) REQUESTS SUSCEPTIBILITIES PLUS 
+DAPTOMYCIN AND
+      LINEZOLID. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    SPARSE GROWTH. 
+   ANAEROBIC CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         Mixed bacteria are present, which may include anaerobes 
+and/or
+         facultative anaerobes. Bacterial growth was screened 
+for the
+         presence of B.fragilis, C.perfringens, and C.septicum. 
+None of
+         these species was found. 
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+URINE CULTURE (Final ___:
+                             ENTEROBACTER CLOACAE COMPLEX
+                             |   
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   0.5 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----       R
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+CXR - IMPRESSION:
+1. Mild pulmonary edema is new from ___.
+2. Moderate left and small right dependent pleural effusions.
+3. Increased parenchymal opacities in the bilateral lung bases 
+likely reflects
+a combination of atelectasis and edema.  However, a superimposed 
+infectious
+process cannot be excluded.
+
+R Ankle Plain Films - IMPRESSION: 
+1.  No acute fracture or dislocation of the right tibia/fibula 
+and right foot.
+2.  Plate and screw fixation of the distal fibula.
+3.  Mild degenerative changes of the first MTP joint.
+
+Surgical Pathology ___:
+Bone, ankle, right fibula, debridement:
+- Fragments of trabecular bone with marrow space fibrosis and
+remodelling changes; no acute
+osteomyelitis identified.
+- Overlying skin and subcutaneous tissue with dense plasma-cell
+rich chronic inflammation.
+
+ 
+Brief Hospital Course:
+___ y/o M with PMHx of HTN, DMII, BPH s/p Foley, recent admission 
+for Aerococcus UTI complicated by bacteremia, admitted ___ after 
+presenting with fever up to 101, concerning for recurrent UTI 
+and/or prostatitis, and found to have open R foot wound with 
+exposed hardware, s/p hardware removal.  
+
+# Enterobacter UTI, possible prostatitis
+Pt with recent Aerococcus infection (UTI/bloodstream infection) 
+s/p CTX x2 weeks of therapy (completed ___. Per ED, there was 
+concern for acute prostatitis given fever up to ___ F and 
+prostate tenderness as well as positive UA. Urine cultures with 
+Enterobacter sensitive to cipro. Blood cultures negative. Pt has 
+been afebrile and hemodynamically stable since admission and 
+appears non-toxic. Seen by ID. Plan is 6 weeks of cipro, through 
+___. 
+
+# BPH/urinary retention/ventral urethral meatus ulcer
+Patient seen by urology on ___. Failed voiding trial ___. Foley 
+clogged ___ due to recurrent clots requiring replacement, 
+likely in setting of reduced flushing of Foley, but was stable 
+once frequent flushing was resumed. Ulcer treated with BID 
+bacitracin per urology recommendations and patient should 
+follow-up in ___ clinic. Continued on home finasteride and 
+tamsulosin. 
+
+# R ankle pain
+# Exposed hardware s/p hardware removal
+# Coag negative staph soft tissue infection
+Exposed hardware, elevated CRP, initially presumed osteo, 
+underwent hardware removal, although path from OR not indicative 
+of osteo. Wound cultures growing sparse coag neg staph, so per 
+ID treating for soft tissue CoNS infection with vanc/flagyl for 
+total 2 week course (vanc through ___, flagyl through ___. 
+Vanc trough low on ___, so dose increased on ___. Will need 
+repeat vanc trough level on ___ and titration of dose as 
+necessary for goal trough ___. Needs ortho follow-up scheduled 
+(see below)
+
+# HTN: 
+Continued on home lisinopril and amlodipine. 
+
+# DM2: 
+Minimal insulin requirement, so this was discontinued
+
+#Anemia
+Normocytic anemia with stable hgb in ___ range. Likely 
+multifactorial including infection (labs from last admission 
+suggest inflammatory component. Continue to monitor 
+intermittently as underlying conditions treated
+
+===========================
+TRANSITIONAL/FOLLOW-UP ISSUES
+
+- please call ___ ___ to set up orthopedic follow-up 
+with ___, NP for ___ weeks from discharge
+- completion of 6 week cipro course through ___
+- completion of 2 week vanc course through ___
+- completion of 2 week course of flagyl through ___
+- needs vanc trough level drawn on ___ titrate vanc dose as 
+appropriate for goal trough ___
+- flush Foley q4-6 hours to avoid clogging
+- bacitracin BID to urethral meatal ulcer and avoid tension on 
+Foley
+- awaiting scheduling of urology follow-up with ___ at 
+At___. Please call if  not been set-up within one week
+- also awaiting scheduling of ID follow-up
+
+===========================
+
+>30 minutes in patient care and coordination of discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. Lisinopril 40 mg PO DAILY 
+4. Tamsulosin 0.4 mg PO QHS 
+5. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+6. amLODIPine 5 mg PO DAILY 
+7. Bacitracin Ointment 1 Appl TP BID Urethral ulcer 
+8. Finasteride 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO/NG Q12H  
+2.  MetroNIDAZOLE 500 mg PO TID  
+3.  Vancomycin 1250 mg IV Q 24H  
+4.  amLODIPine 5 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Bacitracin Ointment 1 Appl TP BID Urethral ulcer  
+7.  Finasteride 5 mg PO DAILY  
+8.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+9.  Lisinopril 40 mg PO DAILY  
+10.  Tamsulosin 0.4 mg PO QHS  
+11.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+___ and ___)
+ 
+Discharge Diagnosis:
+Acute Urinary Tract Infection (catheter associated)
+Acute Prostatitis
+Open wound on right ankle
+Coag negative staph soft tissue infection
+BPH
+Urethral meatus ulcer
+Diabetes
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+You presented with a urinary tract infection as well as acute 
+prostatitis. You were treated with an antibiotic called cipro. 
+There was also concern for an infection around your ankle 
+hardware, which was removed by orthopedic surgery. You will 
+continue with an antibiotic called vancomycin and one called 
+metronidazole to treat an infection around the hardware. 
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16263845-DS-23 | hadm_id=23640548
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+AMS, dehydration
+ 
+Major Surgical or Invasive Procedure:
+N/A
+ 
+History of Present Illness:
+___ man with scrotal and ischeal decubitus ulcers, HTN,
+DMII, severe AS ___ <1.0), recent admission ___ for
+prostatitis and R ankle infection s/p hardware infection (on
+levofloxacin/flagyl) and ___ for failure to thrive c/b mild
+encephalopathy and NSTEMI/NSVT, L hip contracture, inability to
+ambulate and urinary retention now with chronic foley here with
+altered mental status, decreased energy and confusion. 
+
+After speaking with patient's son on the phone, he describes his
+dad as a quiet man that was more active and with energy, but
+since his time in rehab he has started to decline. Up until ~1
+week ago, he was able to converse with and recognize family. He
+believes that there he has not been getting adequate care while
+at the rehab facility. 
+
+Initial vital signs were notable for: 98.0 118 137/68 23 95% 6L
+NC 
+ 
+Exam notable for:
+- Scrotal and gluteal ulcerations
+- Dry mucous membranes
+- No abdominal pain
+- Non distended bladder
+
+Labs were notable for: Na 162, Cl 120, BUN 52, Cr 1.5, Glucose
+227, Hgb 8.8, ALT 36, AST 55, ALP 165, ALB 2.6, lactate 1.8
+U/A: Many WBCs, Many RBCs, 12 epis
+VBG: 7.38/54 
+
+Studies performed include:
+CXR: No evidence of acute cardiopulmonary disease. 
+EKG: NSR @ 115, normal axis, Q is V1-V2, no ST/T wave changes 
+
+Patient was given: Ceftriaxone 1g, Vancomycin 1000mg, IVF
+
+Vitals on transfer: 99.2 102 116/79 26 100% 3L NC 
+
+Upon arrival to the floor, patient is lying in bed unable to
+answer questions and is oriented x0. He is uncomfortable when
+being moved, but cannot answer any localizing questions 
+regarding
+pain or infectious ROS.
+ 
+Past Medical History:
+DMII
+HTN
+BPH/urinary retention
+Recurrent UTI
+Glaucoma
+___: Prostatitis complicated by bacteremia resulting in R 
+ankle osteomyelitis, s/p 6 weeks of ABx
+
+ 
+Social History:
+___
+Family History:
+Unable to obtain due to mental status.
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+GENERAL: Unable to answer questions, oriented x0
+HEENT: NCAT. Sclera anicteric and without injection. MMM, poor
+dentition.
+NECK: No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. ___
+systolic murmur heard throughout precordium, no rubs or gallops. 
+
+LUNGS: Diminished breath sounds, Mild rhonchi, no crackles or
+wheezes, No increased work of breathing.
+BACK: 3 sacral wounds covered by bandages. Wound on L buttocks
+deep and packed, painful to palpation, without purulence.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+GU: Urethral wound at site of chronic foley 
+EXTREMITIES: Warm without edema.
+SKIN: Warm. No rash.
+NEUROLOGIC: Unable to do neuro exam. Oriented x0.
+
+DISCHARGE EXAM:
+===============
+VITALS: 24 HR Data (last updated ___ @ 755)
+    RR: 16 (___)  
+GENERAL: Cachectic elderly man in NAD, laying on his back with 
+contracted LUE and LLE.
+HEENT: NCAT, dry mucous membranes.
+CARDIAC: RRR
+RESPIRATORY: breathing comfortably on RA, no increased WOB
+ABDOMEN: soft, nontender, nondistended abdomen
+EXTREMITIES: No edema.
+NEUROLOGIC: LUE and LLE flexed and contracted.
+L/D/A: Indwelling Foley in place. Midline in RUE.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:41PM BLOOD WBC-13.1* RBC-3.21* Hgb-8.8* Hct-29.4* 
+MCV-92 MCH-27.4 MCHC-29.9* RDW-18.7* RDWSD-62.4* Plt ___
+___ 12:41PM BLOOD Plt ___
+___ 12:41PM BLOOD Glucose-227* UreaN-52* Creat-1.5* Na-162* 
+K-4.8 Cl-120* HCO3-28 AnGap-15
+___ 12:41PM BLOOD ALT-36 AST-55* AlkPhos-165* TotBili-0.2
+___ 04:30AM BLOOD CK-MB-2 cTropnT-0.19*
+___ 12:41PM BLOOD Albumin-2.6*
+___ 04:30AM BLOOD Calcium-9.1 Phos-4.0 Mg-2.3
+___ 06:50AM BLOOD calTIBC-116* Ferritn-540* TRF-89*
+___ 02:37PM BLOOD Lactate-2.8*
+___ 05:59PM BLOOD Lactate-1.8
+___ 01:22AM BLOOD Na-160*
+
+STUDIES:
+========
+___ R ankle XR
+No significant interval change since prior.  No evidence of 
+retained hardware. No soft tissue swelling. 
+
+___ CT RLE
+No lytic changes found among the bones.  Expected postoperative 
+changes 
+involving the distal fibula. 
+
+___ CT pelvis
+No lytic bone destruction found.
+
+___ CXR
+IMPRESSION: 
+1. Interval improvement in mild pulmonary edema. 
+2. Interval development of small left pleural effusion with 
+associated 
+atelectasis. 
+
+No labs obtained on day of discharge
+
+ 
+Brief Hospital Course:
+___ with scrotal, ischeal, and sacral decubitus ulcers, HTN, 
+T2DM, severe AS, prior right ankle CoNS infection s/p hardware 
+removal in ___, and urinary retention s/p chronic indwelling 
+Foley who initially p/w acute encephalopathy ___ hypernatremia 
+and possible urosepsis ___ Enterobacter UTI. Patient required 
+mIVF in order to maintain normal serum sodium levels as he had 
+insufficient PO intake. After discussions with the patient's son 
+around goals of care, the decision was made to move towards 
+comfort-focused care. The patient was continued on oral and IV 
+pain medications as needed and remained comfortable during his 
+hospital stay. 
+
+ACUTE ISSUES:
+=============
+#Goals of care
+Patient was initially admitted from rehab with acute 
+encephalopathy and hypernatremia at the request of his son, who 
+had been concerned that the patient was receiving inadequate 
+care at rehab. The patient had had several recent prolonged 
+hospitalizations c/b decubitus ulcers and contractures of his 
+LUE and LLE. Family meetings were held with the patient's 
+son/health care proxy around the patient's goals of care. The 
+patient's son voiced understanding of the chronic nature of his 
+father's medical conditions (including dementia/cognitive 
+decline, wounds, contractures, and inability to maintain PO 
+intake) with the decision to transfer the patient to hospice and 
+change his code status to DNR/DNI. He was transferred to 
+inpatient hospice. 
+
+#Acute-on-chronic encephalopathy
+#Cognitive dysfunction
+Patient presented with acute encephalopathy (on a background of 
+underlying cognitive dysfunction) in the setting of 
+hypernatremia and possible urosepsis.
+
+#Hypernatremia
+Admission Na 162, likely ___ inadequate PO intake. Hypernatremia 
+was initially corrected per the patient's goals of care at that 
+time.
+
+___
+Admission Cr 1.5 (baseline ~1.0), thought to be prerenal 
+azotemia. Resolved with IVF resuscitation.
+
+#c/f urosepsis
+#Acute complicated cystitis ___ Enterobacter
+Patient p/w fever, tachycardia, and systemic leukocytosis c/f 
+sepsis, most likely ___ Enterobacter UTI in the setting of 
+chronic indwelling Foley. He was treated with a 14-day course of 
+antibiotics per his goals of care at the time.
+
+#Decubitus ulcers
+Patient p/w multiple pressure ulcers ranging from full-thickness 
+to unstageable. His foot wounds were evaluated by Podiatry, and 
+he underwent CT pelvis and R heel, which did not demonstrate 
+osteomyelitis. He was followed by Wound Care. Surgical 
+evaluation was deferred.
+
+CHRONIC/RESOLVED ISSUES:
+========================
+#NSVT
+H/o asymptomatic NSVT during his last admission, at which time 
+he was initiated on metoprolol.
+
+#Urinary retention s/p chronic indwelling Foley
+Patient had been seen by his outpatient urologist PTA with 
+recommendation to continue indwelling Foley with changes q4-6 
+weeks. Urinary retention thought to be ___ large prostate; 
+already on maximal medical therapy. Home tamsulosin and 
+finasteride were continued for comfort.
+
+#Normocytic anemia
+Baseline Hgb ___. Noted to be iron-deficient in ___. Home 
+iron was held.
+
+#CAD c/b NSTEMI
+Found to have NSTEMI during last admission in ___. Home ASA 
+and atorvastatin were initially given but then discontinued.
+
+#Severe AS
+___ <1.0l; thought not to be a TAVR/SAVR candidate due to 
+functional status.
+
+#HTN
+Not currently on medications.
+
+#T2DM, diet-controlled
+
+#Glaucoma
+Continued home timolol and latanoprost eye gtt for comfort.
+
+Contact: ___ (son), ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+2. Atorvastatin 80 mg PO QPM 
+3. Baclofen 10 mg PO TID:PRN Pain - Moderate 
+4. Docusate Sodium 100 mg PO BID 
+5. Metoprolol Succinate XL 25 mg PO DAILY 
+6. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+7. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+8. Finasteride 5 mg PO DAILY 
+9. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+10. Tamsulosin 0.4 mg PO QHS 
+11. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+12. Multivitamins W/minerals 1 TAB PO DAILY 
+13. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Collagenase Ointment 1 Appl TP DAILY  
+2.  Glycopyrrolate 0.1-0.2 mg IV Q4H:PRN excess secretions  
+3.  Hydromorphone (Oral Solution) 1 mg/1 mL 0.5-1 mg PO Q4H pain 
+
+RX *hydromorphone 1 mg/mL 0.5-1 mg by mouth every 4 hours Disp 
+___ Milliliter Refills:*0 
+4.  Hyoscyamine 0.125-0.25 mg SL Q4H:PRN excess secretions  
+5.  Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL 10 mg 
+PO Q2H:PRN Pain - Moderate 
+RX *morphine concentrate 20 mg/mL 10 mg by mouth every 2 hours 
+Disp ___ Milliliter Refills:*0 
+6.  Docusate Sodium (Liquid) 100 mg PO BID:PRN Constipation - 
+First Line  
+7.  Senna 17.2 mg PO BID:PRN Constipation - First Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+8.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+9.  Baclofen 10 mg PO TID:PRN Pain - Moderate  
+10.  Finasteride 5 mg PO DAILY  
+11.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+12.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+13.  Tamsulosin 0.4 mg PO QHS  
+14.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Hypernatremia
+Acute-on-chronic encephalopathy
+Urosepsis ___ Enterobacter UTI
+___
+Decubitus ulcers
+
+SECONDARY DIAGNOSES:
+====================
+NSVT
+Urinary retention s/p chronic indwelling Foley
+Normocytic anemia
+Severe AS
+CAD c/b NSTEMI
+HTN
+Glaucoma
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a pleasure taking care of you at the ___ 
+___ ___.
+
+Why did you come to the hospital?
+- You came to the hospital because you were feeling confused. 
+
+What did you receive in the hospital?
+- You had many tests to evaluate for the cause of your 
+confusion. You received antibiotics to treat a urinary tract 
+infection. You also received nursing care for your wounds. 
+- In discussion with your family, it was decided to focus on 
+making sure you remain comfortable and pain-free. You received 
+oral and IV pain medications as needed.
+
+What should you do once you leave the hospital?
+- Your healthcare providers should continue to adjust your pain 
+medication regimen so that you remain comfortable and pain-free. 
+
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16263845-DS-20 | hadm_id=28087943
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+___ is a ___ male w/ past medical history of HTN, BPH
+requiring intermittent foley placement, diverticulosis and DMTII
+presenting with  abdominal pain since ___. He feels as
+though his abdomen has become more distended. He denies N/V or
+diarrhea. No changes to his stool, still having good BMs without
+blood or melena. He notes some decreased appetite yesterday due
+to his pain, but otherwise denies decreased PO intake. No 
+fevers,
+chills, cough or dysuria.   
+
+Of note pt has been following w/ atrius urology for his BPH w/
+associated urinary retention. He was was recently seen ___ 
+when
+his foley was removed for a voiding trial. Pt has known enlarged
+prostate measured at 290ml by U/S in ___. Per urology, if he
+fails this voiding trial he may either need "chronic indwelling
+versus surgical simple prostatectomy (though latter may be
+difficult given age and comorbidities)". Self-catheterization 
+not
+an option given visual impairment. Per Atrius records, pt
+recently had UCx w/ pansensitive enterococcus, however pt and 
+his
+family deny that he was ever treated for UTIs. His b/l 
+creatinine
+as of ___ was 1.14. 
+
+In the ED:
+
+Initial vital signs were notable for: T 98.0, HR 76, BP 144/70,
+RR 16 
+
+Exam notable "Notable for epigastric and RUQ belly pain, marked
+suprapubic tenderness and distension, no rebound tenderness, no
+CVA tenderness."
+
+Labs were notable for: Na 132, BUN 75, Cr 5.1, Lactate 2.3, UA 
+w/
+Mod bld, 28 RBC, 24 WBC, few bacteria, Leukocytosis to 30.4,
+neutrophilic ___ 87.3 
+
+Studies performed include: 
+CT Abd/Pelvis 
+1. Probable mild intrahepatic biliary dilatation.
+2. Possible punctate, nonobstructing renal stones within the
+right kidney.
+3. 1.6 cm intermediate density lesion within the upper pole of
+the right
+kidney. A nonemergent renal ultrasound is recommended for 
+further
+evaluation.
+4. Nonspecific, mild fat stranding around the sigmoid colon.
+5. Marked prostatomegaly.
+6. Aneurysmal dilatation of the left common iliac artery,
+measuring up to 2.9
+cm.
+
+Patient was given:
+NS @ 250 cc/hr 
+Zosyn 
+
+Consults: None 
+
+Vitals on ___ 0844 Temp: 97.8 PO BP: 106/62 HR: 81
+RR: 20 O2 sat: 100% O2 delivery: RA 
+
+Upon arrival to the floor, pt endorsed the above, however he is
+very hard of hearing and has poor eyesight and his exam was thus
+limited by this. His abdominal pain is improving s/p foley
+insertion. 
+ 
+Past Medical History:
+DMTII 
+HTN 
+BPH c/b urinary retention 
+ 
+Social History:
+___
+Family History:
+Unable to obtain 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+PHYSICAL EXAM 
+Vitals: ___ Temp: 97.8 PO BP: 106/62 HR: 81 RR: 20 O2
+sat: 100% O2 delivery: RA 
+GENERAL: Pleasant elderly gentleman who is very hard of hearing 
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+Dry mucous membranes 
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. No JVD appreciable.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: +Mild abdominal distension, +diffuse tenderness,
+greatest suprapubicly, +BS  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: Exam limited by deafness, moves all 4 extremities, 
+no
+asterixis, knows he is in hospital, it is summer, ?not oriented
+to year. ?language barrier 
+GU: Foley in place w/ blood tinged urine 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+ 
+Pertinent Results:
+ADMISSION LABS 
+==============
+___ 08:05PM BLOOD WBC-30.4* RBC-3.40* Hgb-10.5* Hct-30.9* 
+MCV-91 MCH-30.9 MCHC-34.0 RDW-15.8* RDWSD-52.3* Plt ___
+___ 08:05PM BLOOD Neuts-87.3* Lymphs-2.6* Monos-7.8 
+Eos-0.3* Baso-0.2 Im ___ AbsNeut-26.57* AbsLymp-0.78* 
+AbsMono-2.36* AbsEos-0.08 AbsBaso-0.06
+___ 08:05PM BLOOD Plt Smr-NORMAL Plt ___
+___ 08:05PM BLOOD Glucose-147* UreaN-81* Creat-5.9* Na-127* 
+K-5.1 Cl-91* HCO3-21* AnGap-15
+___ 10:34PM BLOOD ALT-32 AST-35 AlkPhos-77 TotBili-0.7
+___ 10:34PM BLOOD Albumin-3.1*
+___ 01:06PM BLOOD Calcium-9.1 Phos-3.7 Mg-2.1
+___ 10:43PM BLOOD Lactate-2.3*
+
+PERTINENT/INTERVAL LABS
+======================
+
+DISCHARGE LABS
+==============
+
+MICROBIOLOGY
+============
+**FINAL REPORT ___
+   Blood Culture, Routine (Final ___: 
+      AEROCOCCUS URINAE.    FINAL SENSITIVITIES. 
+         test result performed by Sensititre. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             AEROCOCCUS URINAE
+                             |   
+CEFTRIAXONE-----------     2 S
+PENICILLIN G----------<=0.06 S
+VANCOMYCIN------------   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+     
+___ 11:05 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      AEROCOCCUS URINAE.    >100,000 CFU/mL. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+
+___ 11:05 pm BLOOD CULTURE      2 OF 2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      AEROCOCCUS URINAE. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___ ___. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS. 
+      Reported to and read back by ___. ___ ___ 
+10:34AM. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS. 
+
+IMAGING/STUDIES
+===============
+
+CT A/P (___) 
+IMPRESSION:
+1. Small bowel loops are diffusely dilated and fluid-filled.  
+The differential
+includes ileus and partial small-bowel obstruction, with early 
+partial small
+bowel obstruction favored with a transition point in the low 
+right anterior
+abdomen.  No signs worrisome for bowel ischemia within the 
+confines of an
+unenhanced scan.
+2. Unchanged extensive severe atherosclerotic disease with focal 
+ectasia of
+the infrarenal abdominal aorta and left common iliac artery 
+aneurysm with
+suggestion of associated chronic dissection.
+3. Unchanged incompletely characterized renal lesions, 
+statistically cysts and
+hemorrhagic or proteinaceous cysts.  As before, nonemergent 
+renal ultrasound
+is recommended to exclude suspicious lesion.
+4. Marked prostatomegaly.
+ 
+CT A/P (___) 
+IMPRESSION: 
+The study is limited by patient motion.  Within this limitation:
+1. Mild bronchial wall thickening within the left lower lobe, 
+with
+ground-glass opacities of the bilateral lower lobes, may be 
+compatible with
+aspiration or pneumonia.
+2. Possible punctate, nonobstructing renal stones within the 
+right kidney.
+3. 1.6 cm intermediate density lesion within the upper pole of 
+the right
+kidney, along with multiple, subcentimeter bilateral hyperdense 
+cysts.  A
+nonemergent renal ultrasound can be obtained for further 
+evaluation.
+4. Marked prostatomegaly.
+5. Aneurysmal dilatation of the left common iliac artery, 
+measuring up to 2.9
+cm.
+ 
+TTE (___) 
+The left atrial volume index is normal. There is normal left 
+ventricular wall thickness with a normalcavity size. There is 
+suboptimal image quality to assess regional left ventricular 
+function. Overall leftventricular systolic function is normal. 
+The visually estimated left ventricular ejection fraction is 
+70%.
+There is no resting left ventricular outflow tract gradient. 
+Mildly dilated right ventricular cavity with normal free wall 
+motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. The aortic valve is not well seen. No masses 
+or
+vegetations are seen on the aortic valve. Aortic valve stenosis 
+is present (not quantified). There is mild [1+] aortic 
+regurgitation. The mitral valve leaflets are mildly thickened 
+with no mitral valve prolapse. No masses or vegetations are seen 
+on the mitral valve. There is moderate mitral annular 
+calcification.
+There is mild to moderate [___] mitral regurgitation. Due to 
+acoustic shadowing, the severity of mitral regurgitation could 
+be UNDERestimated. The tricuspid valve leaflets appear 
+structurally normal. No mass/vegetation are seen on the 
+tricuspid valve. There is mild to moderate [___] tricuspid 
+regurgitation.
+There is moderate pulmonary artery systolic hypertension. There 
+is no pericardial effusion.
+IMPRESSION: No 2D echocardiographic evidence for endocarditis. 
+If clinically suggested, theabsence of a discrete vegetation on 
+echocardiography does not exclude the diagnosis of endocarditis. 
+Suboptimal image quality.
+
+ 
+Brief Hospital Course:
+==================
+SUMMARY STATEMENT
+==================
+___ male w/ past medical history of HTN, BPH requiring 
+intermittent foley placement, diverticulosis and DMTII 
+presenting with abdominal pain, distension and urinary 
+retention, found to have ___ ___ obstructive uropathy and 
+Aerococcus bacteremia (urinary source). His course was 
+complicated by a persistent Ileus requiring NGT placement, 
+resolved by the time of discharge. 
+
+=====================
+TRANSITIONAL ISSUES 
+=====================
+[] ___ Service Worker (Inestina, ___ from 
+___ is reviewing his case for concern 
+of abuse from his son ___ contact regarding resolution.
+[] Iliac aneurysm (2.9 x 2.6 cm, associated chronic dissection) 
+noted incidentally on CT A/P 
+[] Pt is very hard of hearing, recommend evaluation to be fit 
+with hearing aids 
+[] Pt had a labile Na this admission, please check Chem-7 within 
+1 week
+[] Please continue to encourage PO intake, if seems adequate may 
+need to consider resuming tube feeds
+
+Discharge Cr 1.1
+Discharge Na 144
+
+NEW MEDICATIONS 
+Amlodipine 
+Bacitracin ointment
+
+MEDICATIONS WE STOPPED 
+Hydrochlorothiazide
+
+===========================
+HOSPITAL COURSE BY PROBLEM 
+===========================
+ACUTE ISSUES: 
+=============
+
+#Aerococcus urinae bacteremia 
+#Aerococcus urinae UTI
+Patient presented with leukocytosis, abdominal pain, suprapubic 
+tenderness, and confusion and was started on broad spectrum 
+antibiotics for presumed infection of urinary source. Blood and 
+urine cultures grew Aerococcus urinae. A TTE was negative for 
+any vegetations. The patient was transitioned to ceftriaxone and 
+completed a fourteen day treatment course on ___. 
+
+#Ileus: The patient initially developed large volume bilious 
+emesis, and KUB and CT-scan were suggestive of ileus vs SBO. An 
+NGT was placed with large bilious output for decompression. 
+Surgery was consulted and they recommended medical management 
+with aggressive bowel regimen and NGT decompression. Given his 
+lack of abdominal surgery, the suspected obstruction was thought 
+to be most likely to resolving ileus in the setting of infection 
+with possible distal constipation ___ prostatomegaly. However, 
+true partial SBO secondary to prostate enlargement was not 
+definitively ruled out. The patient improved with an aggressive 
+bowel regimen and 5 days of bowel rest, prior to starting tube 
+feeds for nutrition. Speech and swallow evaluated him and 
+initially cleared him for a dysphagia soft diet, however the 
+patient refused to eat the food. His PO intake improved when his 
+diet was advanced to regular solids, nectar thick liquids. He 
+was kept on tube feeds until the day of discharge, when his NG 
+tube was taken out.
+
+___, resolved 
+#Obstructive Uropathy ___ severe BPH 
+Pt presenting with significant ___ (5.9 on admission from b/l 
+1.2) w/ very enlarged prostate on CT A/P here (8.8 x 7.0 x 10.0 
+cm with an estimated volume of 322.5) a noted interval increase 
+from U/S in ___ estimating volume ~230cc. The patient had been 
+undergoing a voiding trial with his outpatient urologist prior 
+to admission (started ___. Pt has likely been retaining urine 
+since this time, and this obstructive uropathy is the most 
+likely cause of his severe ___ (5.9 on admission),especially 
+given improvement w/ foley placement. His renal function 
+normalized prior to discharge and his foley will likely to be 
+continued indefinitely. We continued his finasteride and 
+tamsulosin (though the former was held briefly while patient was 
+unable to take PO). 
+
+#Urethral erosion
+The patient developed mild urethral erosion on ___. Urology 
+evaluated him and considered that it represented erosion from 
+his chronic Foley. They recommended applying bacitracin ointment 
+twice a day. He will have a follow up appointment with Urology 
+to assess his need for chronic Foley. 
+
+# Concern for elder abuse
+On ___ patient noted that his son ___, had hit him in the 
+face several months ago, noting repeatedly that he has "badness" 
+in his mind. Additionally there was the concern for financial 
+exploitation. Social Work was consulted and contacted Elder 
+Services, who appointed a Protective Service Worker (Inestina, 
+___ to review his case. They will continue to review 
+the case while he's in rehab.
+
+#Hypo/HyperNa 
+The patient showed labile sodium the setting of no PO intake and 
+resolving ___. He stabilized after IVF, TFs and eventually PO 
+intake. His discharge Na was 144. He would benefit from repeat 
+electrolytes after discharge.
+
+#Diarrhea
+The patient developed diarrhea on ___ which was believed to 
+result from chronic tube feeds. A C. difficile was sent which 
+was negative. His diarrhea resolved after discontinuing his tube 
+feeds.
+
+CHRONIC ISSUES
+==============
+
+#HTN
+We held his hydrochlorothiazide given his acute kidney injury. 
+He was well controlled on amlodipine and his home lisinopril. He 
+will be discharged on amlodipine.
+
+#DM2
+He was not taking medications at home, he was placed on a 
+correctional sliding scale with meals
+
+Billing: greater than 30 minutes spent on discharge counseling 
+and coordination of care..
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 40 mg PO DAILY 
+2. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+3. Finasteride 5 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Tamsulosin 0.4 mg PO QHS 
+6. Hydrochlorothiazide 25 mg PO DAILY 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*3 
+2.  Bacitracin Ointment 1 Appl TP BID Urethral ulcer 
+RX *bacitracin zinc 500 unit/gram Apply to affected area Twice a 
+day Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  Finasteride 5 mg PO DAILY 
+Please provide liquid form  
+5.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+6.  Lisinopril 40 mg PO DAILY  
+7.  Tamsulosin 0.4 mg PO QHS  
+8.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSIS
+=================
+Obstructive Uropathy 
+Aerococcus Bacteremia 
+Urinary tract infection 
+
+===================
+SECONDARY DIAGNOSIS
+===================
+Acute kidney injury
+Ileus
+Hypernatremia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+Please see below for more information on your hospitalization. 
+It was a pleasure taking part in your care here at ___! 
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL? 
+- You were having abdominal pain and found to have an infection 
+and your kidneys weren't working properly
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL? 
+- A Foley catheter was placed to help you urinate and relieve 
+your kidneys
+- You were treated with antibiotics for bloodstream and urinary 
+tract infection 
+- You were having trouble moving your bowels so a tube was place 
+in your nose (NGT) to relieve your pain and give you adequate 
+nutrition
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL? 
+- Continue taking all your medications
+- You will follow up with urology regarding your large prostate 
+and urinary retention
+
+New medications: Amlodipine, bacitracin ointment
+Holding/stopping medications: Hydrochlorothiazide
+
+Discharge Cr 1.1
+Discharge weight 61.7 kg (136.02 lb)    
+
+We wish you all the best! 
+- Your ___ Care Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16263845-DS-22 | hadm_id=29994512
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Inability to ambulate
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Per admitting physician:
+___ man with history of HTN, DMII,
+BPH s/p indwelling Foley and recent admission for 
+UTI/prostatitis
+now presenting with weakness.
+
+Per review of records, patient was recently admitted from
+___ for fever, found to have Enterobacter UTI, possible
+prostatitis treated with 6 weeks of ciprofloxacin. Patient also
+with right ankle pain, found to have exposed hardware and
+presumed osteomyelitis with wound cultures growing CoNS. He was
+initially discharged on vanc/cipro/flagyl however as CoNS 
+isolate
+resulted susceptible to levofloxacin was changed to levofloxacin
+plus metronidazole on ___. Per review of outpatient ID notes, 
+he
+is planned to continue levofloxacin/Flagyl for another 3 weeks
+beyond ___ to complete 6-week course.   
+
+The patient was discharged from rehab today and said to be
+independent with transfers and contact guard with ambulation.
+However, per ED notes, his son ___ was concerned and said that
+patient was unable to transfer out of chair and insisted that
+patient return to rehab. Patient sent to the ED for evaluation
+with plan for patient to return to facility on ___ when he 
+could
+be re-evaluated. Per patient, he has been weak since his last
+hospitalization. He has significant pain in his left thigh that
+prevents him from stretching his leg. He also continues to have
+pain in his right foot. He denies fevers and chills, back pain.
+States that he has not been eating or drinking much for several
+weeks since leaving the hospital. 
+
+In the ED, initial vitals: 98.0 72 100/54 18 94% RA 
+Exam notable for: Extremities: significant pain to palpation of 
+L
+thigh and right foot. R foot with small poorly healing ulcer on
+the R lateral side of ankle. LUE contracted, and LLE extremity
+contracted, but able to be stretched out. 
+Labs notable for: WBC 7, Hb 10.8, Na 133; UA with bacteria, >182
+WBC, >182 RBCs, lg leuks, neg nitrites
+Imaging notable for: NCHCT, CT A/P, plain films right lower
+extremity
+Patient given: 1L NS
+
+On arrival to the floor, the patient reports right foot pain, 
+but
+says it is mild. Reports that he has had a poor appetite. Denies
+any fevers. No other complaints.
+
+ 
+Past Medical History:
+DMII
+HTN
+BPH/urinary retention
+Recurrent UTI
+Glaucoma
+___: Prostatitis complicated by bacteremia resulting in R 
+ankle osteomyelitis, s/p 6 weeks of ABx
+
+ 
+Social History:
+___
+Family History:
+Unable to obtain due to mental status.
+ 
+Physical Exam:
+ADMISSION:
+=========
+VITALS: 97.4 146/81 101 16 98 RA 
+GENERAL: Alert and in no apparent distress, cachectic appearing
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation; Foley in
+place
+MSK: Neck supple, left leg contracted
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented x2, face symmetric, gaze conjugate with
+EOMI, speech fluent, unable to assess strength
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE:
+==========
+ 
+VITALS: 97.5 PO 117 / 62  Lying 86 18 100 Ra  
+GENERAL: Thin elderly man in NAD
+ENT: Poor dentition
+CV: Regular with frequent premature beats, S1 S2 WNL, II/VI
+systolic murmur at apex
+RESP: Clear bilaterally, though limited cooperation
+GI: Abdomen soft and nontender, nondistended
+GU:  Foley catheter in place, multiple scrotal excoriations
+wrapped in xeroform
+MSK:  L leg contracted such that L ankle abuts R buttock; able 
+to
+be straightened out passively to ~90 degrees on exam.  Declined 
+R
+ankle exam but incision appears dry and intact.
+SKIN:  No visible rash, and patient declined repositioning to
+examine his sacrum, but in discussion with RN, he has an
+unstageable pressure ulcer on L ischium and 1.5x1cm unstageable
+pressure ulcer on coccyx.
+NEURO: Alert, AOx2 (person, place, conversant), tongue midline,
+face symmetric, L hip flexed to chest but able to extend 
+actively
+to ~90deg; holds L arm and wrist in flexion with increased tone
+L>R; moves RUE and RLE spontaneously, sensation intact
+throughout, gait not tested 
+PSYCH: flat affect
+
+ 
+Pertinent Results:
+ADMISSION:
+=========
+___ 10:29AM BLOOD WBC-6.2 RBC-3.70* Hgb-10.4* Hct-32.4* 
+MCV-88 MCH-28.1 MCHC-32.1 RDW-17.0* RDWSD-54.8* Plt ___
+___ 10:29AM BLOOD Glucose-130* UreaN-12 Creat-1.0 Na-137 
+K-4.1 Cl-103 HCO3-21* AnGap-13
+
+OTHER PERTINENT LABS:
+=====================
+
+Trop 0.09 -> 0.12 -> 0.13 -> 0.14 x 3 -> 0.13
+CK 469 (from 133) -> 155
+CRP 19 (from 90.8 on ___
+ESR 77 (from 130 on ___
+Lipase 54
+TSH 4.8, FT4 1.5
+B12 520
+A1c 5%
+Lipids WNL
+RPR: non-reactive
+
+___ 02:15AM BLOOD Lipase-54
+___ 07:30AM BLOOD Albumin-2.8* Calcium-8.8 Phos-2.9 Mg-1.7
+___ 11:30PM BLOOD Calcium-8.7 Phos-2.8 Mg-2.2 Cholest-113
+___ 10:45AM BLOOD VitB12-520
+___ 11:30PM BLOOD %HbA1c-5.0 eAG-97
+___ 11:30PM BLOOD Triglyc-103 HDL-44 CHOL/HD-2.6 LDLcalc-48
+___ 10:45AM BLOOD TSH-4.8*
+___ 10:45AM BLOOD Free T4-1.5
+___ 07:25AM BLOOD CRP-29.6*
+
+MICRO AND OTHER STUDIES:
+========================
+
+UA (___): lg bld, lg ___, neg nit, >182 RBCs, >182 WBCs, few 
+bact
+Ucx (___): mixed flora
+
+Tele (___): 7 beats NSVT (00:22) and 9 beats NSVT (08:20)
+Tele (___): 5 beats NSVT
+Tele (___): No events
+Tele (___): No events
+Tele (___): 5 beats NSVT
+Tele (___): Three episodes of NSVT (5 beats at 02:40, 5 beats
+at 11:07, and 12 beats at 19:20)
+
+EKG (___): NSR at 94 bpm w/PACs, nl axis, PR 142, QRS 78, QTC
+383, no clear ischemic ST changes
+
+IMAGING:
+========
+
+L ankle X-ray (___):
+No evidence for fracture or dislocation.
+
+MRI C-spine (___):
+1.  Multilevel, multifactorial degenerative changes throughout
+the cervical spine, more significant from C3-C4 through C7-T1
+levels. 
+2.  Focal area of T2 high signal intensity identified within the
+cervical spinal cord on the right at the level of C4 suggestive
+of chronic myelopathic change. 
+3.  Significant central spinal canal narrowing is noted at 
+C3-C4,
+C4-C5 and C5-C6 levels. 
+4.  Right paracentral disc protrusion is identified at C7-T1
+level, apparently impinging the exiting nerve root of C8 on the
+right. 
+  
+EEG (___):
+This is an abnormal awake and asleep video EEG due to 
+generalized
+slowing of background indicative of diffuse, corticaly
+predominant, encephalopathy which is nonspecific as to etiology
+(metabolic vs medication effect). There is no focal slowing nor
+any epileptiform discharges or electrographic seizures. Of note
+is premature ventricular complexes as detailed above. 
+
+TTE (___):
+Nl EF with mild symmetric LVH. Severe AS ___ <1.0) and mild AI.
+Mildly dilated RV with mild apical free wall hypokinesis. Mild 
+to
+mod MR. ___ TR. ___. Small circumferential pericardial
+effusion without e/o tamponade.
+ 
+MRI brain w/o cont (___):
+1. No evidence of mass, hemorrhage or infarction. 
+2. Chronic findings include global parenchymal volume loss and
+moderate changes of chronic white matter microangiopathy. 
+3. Mild frontal and maxillary sinus mucosal thickening with a
+left maxillary sinus air-fluid, which although nonspecific can 
+be
+seen in acute sinusitis. 
+
+CXR (___):
+Comparison to ___.  Moderate cardiomegaly persists. 
+Small left pleural effusion with relatively extensive left
+retrocardiac atelectasis.  The medial aspect of the right lung
+basis shows minimally increased radiodensity with subtle air
+bronchograms.  In the appropriate clinical setting the 
+presence of developing pneumonia is possible.  No pulmonary
+edema.  No pneumothorax.  A previous rounded opacity projecting
+over the fourth right rib is no longer visualized. 
+
+CXR (___):
+1.  Stable retrocardiac atelectasis. 
+2.  9 mm new round lesion in the upper right lobe likely 
+external
+to the patient but correlate on next chest x-ray. 
+
+KUB (___):
+Gaseous distension of the stomach and small and large bowel 
+loops
+without abnormal dilatation is similar to most recent prior ___ abdominal radiograph.  No evidence of high-grade
+bowel obstruction. 
+
+LENIs (___):
+Limited evaluation of the left lower extremity due to chronic
+contracture resulting in nonvisualization of the left popliteal
+vein.  Within this limitation, no evidence of deep venous
+thrombosis in the right or left lower extremity veins. 
+
+NCHCT (___):
+No acute intracranial hemorrhage. No acute calvarial fracture. 
+Periventricular white matter hypodensity likely sequela of
+chronic microangiopathy. 
+
+CT A/P w/cont (___):
+1. No acute findings in the abdomen or pelvis. 
+2. New small left pleural effusion with overlying compressive
+atelectasis. 
+3. 0.8 cm sub solid nodule in the right middle lobe is new from
+prior, and may represent infectious foci. 
+4. Ectatic infrarenal abdominal aorta as on prior.  Left 
+external
+iliac artery aneurysm is unchanged. 
+5. Massively enlarged prostate, as on prior. 
+
+L femur X-ray (___):
+No acute findings on this limited exam.
+
+R ankle X-ray (___):
+Post removal of fixation hardware from the distal fibula.  No
+acute findings.
+
+TTE (___):
+Normal EF, mild AI, mild to moderate AS, mild to
+moderate mitral regurgitation, moderate ___ with mild to
+moderate TR and normal RV. 
+
+DISCHARGE:
+==========
+
+___ 06:00AM BLOOD WBC-7.3 RBC-3.40* Hgb-9.3* Hct-29.8* 
+MCV-88 MCH-27.4 MCHC-31.2* RDW-17.5* RDWSD-56.2* Plt ___
+___ 07:55AM BLOOD Glucose-116* UreaN-17 Creat-1.0 Na-146 
+K-4.2 Cl-112* HCO3-27 AnGap-7*
+___ 07:55AM BLOOD Calcium-8.1* Phos-3.4 Mg-1.___ man with HTN, DMII, severe AS ___ <1.0), BPH 
+requiring intermittent Foley, recent admission ___ for 
+prostatis and R ankle infection s/p hardware infection (on 
+levofloxacin/flagyl) presenting with L hip contracture and 
+inability to ambulate after discharge from ___ rehab, with 
+course c/b mild encephalopathy, NSTEMI/NSVT, and urinary 
+retention.
+
+# Inability to ambulate:
+# LUE and LLE flexion contractures:
+# Chronic myelopathy of C4 on right:
+# Encephalopathy in setting of cognitive decline:
+# Delirium:
+Patient presented with L leg and "whole body" pain with 
+inability to ambulate after recent discharge from rehab. On 
+exam, LUE and LLE held in flexion. Per son, L arm flexion may be 
+chronic, but L leg flexion developed over the last few weeks and 
+inability to ambulate is new (confirmed by ___ here, who last saw 
+him ___. Mental status was noted to wax and wane, with 
+patient intermittently conversant and at other times distressed 
+and seemingly confused, likely component of delirium. This has 
+occurred in the setting of progressive confusion/behavioral 
+changes over the last year per the patient's son. ___ and 
+orthopedics were consulted. Etiology of L hip flexion 
+contracture remains unclear but was ultimately thought to be 
+behavioral given fluctuating exam in the setting of a possible 
+neurodegenerative process (in particular, corticobasal 
+degeneration or FTD given MRI brain showing global atrophy). No 
+e/o acute ischemic infarct on MRI, and EEG c/w encephalopathy
+without seizures. NCHCT was negative. TSH, B12, RPR WNL for 
+reversible encephalopathy/neuropathy. An isolated MSK etiology 
+was thought less likely in the setting of cognitive decline and 
+fluctuating exam. MRI C-spine revealed significant degenerative 
+changes and likely chronic myelopathic changes on the R at C4, 
+unlikely to explain his L-sided findings. CT A/P showed no acute 
+pelvic fracture and L femur and L ankle plain films were 
+negative. Orthopedics recommended aggressive ___ and knee 
+immobilizer in extension (however, patient did not really use 
+this).  Patient's exam continued to fluctuate, and he was 
+intermittently able to fully extend the leg but not weight-bear. 
+ He was treated with Tylenol, lidocaine patch, and low-dose 
+baclofen as needed for pain and spasticity.  Because he was 
+still an inpatient and scheduled for a ___ clinic 
+evaluation on ___, neurology performed a limited 
+neuropsych evauation at the bedside, the determination of which 
+was that corticobasal degeneration was unlikely, and that 
+further assessment as an outpatient was warranted.  He will 
+require fall and delirium precautions, and STRONG consideration 
+of 24-hour care after discharge from rehab given declining 
+functional status at home.
+
+# Chest pain:
+# NSTEMI:
+# NSVT:
+# Severe AS:
+Patient developed chest pain and N/V on ___ with new troponin 
+elevation 0.09, which peaked at 0.14. Telemetry revealed 
+intermittent, brief runs of asymptomatic NSVT. Seen by At___ 
+cardiology on ___, who thought presentation more consistent 
+with demand ischemia in setting of likely CAD than with ACS 
+given character of pain and nl EKG. TTE performed ___ showed 
+severe AS ___ <1.0, progressed from moderate AS ___, likely 
+contributing to demand ischemia. However, TTE also revealed mild 
+apical free wall hypokinesis not reported on TTE ___, 
+possibly consistent with a missed MI. He was re-evaluated by 
+At___ cardiology on ___ and was not thought to be a candidate 
+for TAVR/SAVR or cardiac cath given his poor functional status.  
+It was recommended that he follow-up with cardiology as an 
+outpatient if his functional status improves for consideration 
+of stress testing and possible TAVR. Metoprolol was initiated 
+for PVC/NSVT suppression, as was atorvastatin 80mg daily. Home 
+aspirin was continued.  Will need cardiology referral through 
+his PCP after discharge.
+
+# ___:
+# Hyperkalemia:
+Cr peaked at 1.5 on ___ from 1.1 on admission with associated 
+K 5.5. Likely pre-renal and resolved with IVFs. Home lisinopril 
+was held given normotension and can be resumed as needed at 
+rehab.  Cr was 1.0 at discharge.
+
+# Normocytic anemia: 
+B/l Hgb appears to be ___. Stable without evidence of active
+bleeding. Hgb at discharge was 9.3.
+
+# R ankle infection s/p hardware removal:
+# Osteomyelitis:
+Patient with recent admission for R ankle pain c/f osteo, s/p 
+hardware removal ___. Operative cultures isolated CoNS and 
+mixed anaerobes. He was initially discharged on 
+vanc/cipro/flagyl; however as CoNS isolate resulted susceptible 
+to levofloxacin, he was changed to levofloxacin plus 
+metronidazole on ___. R ankle unconcerning per ortho. ESR/CRP 
+downtrending. Levofloxacin/flagyl were continued, with plan for 
+6 week course ___, but ID note from ___ 
+suggests continuation through ID f/u with Dr. ___ on ___.  
+As the patient was still an inpatient during that appointment, 
+in discussion with ID, as he was clinically stable, his 
+antibiotics were stopped.  New baseline CRP at the time of 
+discharge was 29 (down from ___ at the time of his infection). 
+
+
+# BPH s/p Foley 
+# Prostatitis vs Enterobacter UTI:
+Patient recently admitted ___ for fever and was found to 
+have a positive UA with Enterobacter isolated in urine culture 
+and report of prostate tenderness on exam. He was initially 
+treated with cipro, transitioned to levofloxacin (given SSTI as 
+above) with plan for 6 week course. UTI this admission showed 
+only mixed flora.  Levofloxacin was continued at renal dosing 
+given plan for 6-week course ___, but per ID 
+recommendations this was continued through ___. Mr. ___ 
+failed a voiding trial on ___ and again on ___.  
+Urology was consulted and recommended discharge with Foley with 
+outpatient voiding trial with Dr. ___ (Atrius) on ___. 
+Home tamsulosin 0.4 mg daily and finasteride 5 mg daily were 
+continued.
+
+# Urethral ulcer:
+# Scrotal ulcerations:
+# Unstageable L ischial and coccyx ulcers:
+Urethral ulcer is chronic. Scrotal ulcerations and unstageable 
+ischial and coccyx ulcers were noted this admission in setting 
+of immobility. The nursing wound care team was consulted and 
+made recommendations for wound care.  Foley was continued for 
+retention as above.  Meticulous attention to skin care will be 
+required at the rehab.
+
+CHRONIC/STABLE PROBLEMS:
+
+# HTN: 
+Normotensive off home lisinopril and amlodipine, which were held 
+at discharge.  
+
+# DMII: 
+A1c 5.0. Not on anti-hyperglycemic medications. He was treated 
+with a diabetic diet and insulin sliding scale while 
+hospitalized.
+
+# Glaucoma:
+Continued home eye drops.
+
+TRANSITIONAL ISSUES:
+====================
+
+[ ] resume lisinopril and amlodipine as needed
+[ ] f/u with outpatient neuropsych evaluation in ___ months
+[ ] voiding trial with Dr. ___ ___
+[ ] PCP referral to cardiology for consideration of stress test, 
+f/u of AS if within goals of care
+[ ] If contractures are ultimately determined to be solely 
+behavioral in etiology, he may not benefit from baclofen (or 
+other interventions, such as botox) to reduce
+spasticity and these should be avoided.  
+[ ] Meticulous attention to skin care will be required at the 
+rehab.
+
+___ is clinically stable for discharge today.  On the 
+day of discharge, greater than 30 minutes were spent on the 
+planning, coordination, and communication of the discharge plan. 
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Bacitracin Ointment 1 Appl TP BID Urethral ulcer 
+4. Finasteride 5 mg PO DAILY 
+5. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+6. Lisinopril 40 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO QHS 
+8. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+9. Levofloxacin 750 mg PO Q24H 
+10. MetroNIDAZOLE 500 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Baclofen 10 mg PO TID PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+4.  Docusate Sodium 100 mg PO BID 
+hold for loose stool  
+5.  Metoprolol Succinate XL 25 mg PO DAILY  
+6.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+7.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+8.  Aspirin 81 mg PO DAILY  
+9.  Bacitracin Ointment 1 Appl TP BID Urethral ulcer  
+10.  Finasteride 5 mg PO DAILY  
+11.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+12.  Tamsulosin 0.4 mg PO QHS  
+13.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+14. HELD- amLODIPine 5 mg PO DAILY  This medication was held. Do 
+not restart amLODIPine until instructed by your doctor
+15. HELD- Lisinopril 40 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until instructed by your doctor
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Inability to ambulate / L hip contracture
+Osteomyelitis
+Prostatitis 
+NSTEMI
+Severe AS
+HTN
+DM2
+BPH
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive, but waxes and 
+wanes
+Activity Status: Bedbound. Was able to stand briefly with ___ 
+prior to discharge.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was our pleasure caring for you at ___ 
+___.  You were admitted to the hospital for inability 
+to walk.  Our neurologists and orthopedic surgeons evaluated 
+you, and a thorough workup revealed no clear explanation for 
+this.  You are being referred to a neurologist who will continue 
+to investigate possible causes, but in the interim it will be 
+important to continue aggressive physical therapy at rehab.
+
+While you were here you were noted to have mild injury to your 
+heart and were started on a medicine to reduce your heart's 
+workload.  You were seen by the heart doctors who recommended 
+that you follow-up with them in the clinic after you leave 
+rehab.
+
+In addition, your antibiotics for your right ankle infection and 
+for prostatitis were stopped after you finished your 6 week 
+course.  
+
+Lastly, you were noted to have difficulty urinating and required 
+catheter to be placed in your bladder.  You are being discharged 
+with this catheter in place and will see Dr. ___ in clinic on 
+___ for an attempt at removal.
+
+With best wishes for a speedy recovery,
+___ Medicine
+ 
+Followup Instructions:
+___

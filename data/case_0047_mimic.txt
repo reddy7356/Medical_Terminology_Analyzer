@@ -1,0 +1,482 @@
+===== DISCHARGE NOTE =====
+note_id=18410222-DS-7 | hadm_id=25736398
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left intertrochanteric hip fracture
+ 
+Major Surgical or Invasive Procedure:
+left intertrochanteric fixation (cephalomedullary nail)
+
+ 
+History of Present Illness:
+___ w/ hx of depression and chronic pain s/p MVC p/w L hip fx.  
+Pt was walking across the st when the rubber part of her shoe 
+got caught and she fell onto her L side w/ immediate pain and 
+inability to ambulate.  Pt was found to have L intertroch fx on 
+imaging. 
+
+ 
+Past Medical History:
+PMH: pt denies  
+PSH: ovarian cystectomy  
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Exam on discharge:
+
+Vitals: Afebrile, VSS
+General: Well-appearing, breathing comfortably on room air.  
+MSK:
+ Left lower extremity:
+-Thigh soft, compressible
+-Incision clean, dry, and intact
+-Fires ___
+-SILT s/s/sp/dp/t distributions distally
+-Foot WWP
+
+ 
+Pertinent Results:
+see OMR for pertinent lab results
+ 
+Brief Hospital Course:
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have L intertrochanteric hip fracture and was admitted to the 
+orthopedic surgery service. The patient was taken to the 
+operating room on ___ for left cephalomedullary nail, which the 
+patient tolerated well. For full details of the procedure please 
+see the separately dictated operative report. The patient was 
+taken from the OR to the PACU in stable condition and after 
+satisfactory recovery from anesthesia was transferred to the 
+floor. The patient was initially given IV fluids and IV pain 
+medications, and progressed to a regular diet and oral 
+medications by POD#1. The patient was given ___ 
+antibiotics and anticoagulation per routine. The patient's home 
+medications were continued throughout this hospitalization. The 
+patient worked with ___ who determined that discharge to rehab 
+was appropriate. The ___ rehab stay is expected to be less 
+than 30 days. Of note, the patient's blood pressures were 
+elevated throughout the admission. She has been advised to 
+follow up with her primary care doctor in regards to blood 
+pressure management. The ___ hospital course was otherwise 
+unremarkable.
+
+At the time of discharge the patient's pain was well controlled 
+with oral medications, incisions were clean/dry/intact, and the 
+patient was voiding/moving bowels spontaneously. The patient is 
+weight-bearing and activity as tolerated in the left extremity, 
+and will be discharged on Lovenox for DVT prophylaxis. The 
+patient will follow up with Dr. ___ routine. A 
+thorough discussion was had with the patient regarding the 
+diagnosis and expected post-discharge course including reasons 
+to call the office or return to the hospital, and all questions 
+were answered. The patient was also given written instructions 
+concerning precautionary instructions and the appropriate 
+follow-up care. The patient expressed readiness for discharge.
+
+ 
+Medications on Admission:
+Atorvastatin
+Sertraline
+Gabapentin
+Hydromorphone 
+ 
+Discharge Medications:
+1.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Enoxaparin Sodium 40 mg SC QAM 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC once a day Disp #*28 
+Syringe Refills:*0 
+4.  HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN Pain - Moderate 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*120 Tablet Refills:*0 
+5.  Acetaminophen 1000 mg PO Q8H  
+6.  Atorvastatin 20 mg PO QPM  
+7.  Gabapentin 300 mg PO DAILY  
+8.  Sertraline 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+left intertrochanteric fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+INSTRUCTIONS AFTER ORTHOPAEDIC SURGERY:
+
+- You were in the hospital for orthopedic surgery. It is normal 
+to feel tired or "washed out" after surgery, and this feeling 
+should improve over the first few days to week. 
+- Resume your regular activities as tolerated, but please follow 
+your weight bearing precautions strictly at all times.
+
+ACTIVITY AND WEIGHT BEARING:
+- weight bearing and activity as tolerated left lower extremity
+
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take Lovenox daily for 4 weeks
+
+WOUND CARE:
+- You may shower. No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- Please remain in your dressing and do not change unless it is 
+visibly soaked or falling off.
+Physical Therapy:
+- weight-bearing and activity as tolerated left lower extremity
+Treatments Frequency:
+-staples/sutures to remain in place until follow up
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=18410222-DS-6 | hadm_id=29744288
+
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ped struck, ___ with multiple trauma injuries, including 
+liver lac,  splenic lac, pelvic fxr, R rib ___ ___, ___ 
+___, SAH x2, L adrenal injury w/ RP hematoma, R tib fxr 
+ 
+Major Surgical or Invasive Procedure:
+___:
+Endotracheal tube exchange under general
+anesthesia.
+___. 
+1. Right thoracotomy.
+2. Partial vertebrectomy at T4-5.
+3. Fusion T4-5.
+4. Anterior instrumentation T4-5.
+5. Autografts.
+6. Vertebroplasty T4-5.
+
+___:
+1. C7 to T9 fusion.
+2. Multiple thoracic laminotomies.
+3. Posterior approach and reduction of dislocation.
+4. Instrumentation C7 to T9.
+5. Autograft.
+
+___:
+1. Open reduction, internal fixation of right sacroiliac
+    fracture.
+2. Open reduction, internal fixation, left sacroiliac
+    dissociation.
+3. Open reduction, internal fixation right anterior ring
+    fracture.
+4. Open reduction, internal fixation, left pelvic ring
+    fracture.
+5. Open reduction, internal fixation, proximal tibia with
+    13 hole ___ system and lateral incision.
+6. Open reduction, internal fixation, distal tibia fracture
+    with medial plica plating and closed treatment of
+    fibular shaft fracture.
+
+ 
+History of Present Illness:
+This is a ___ year old female who was ped struck at approximately 
+___ MPH. She was seen in the ___ and evaluated and found to 
+have multiple injuries including traumatic SAH x3, multiple 
+liver lacs grade ___, grade 1 splenic lac, sacrum ___, multiple 
+pubic rami ___, pelvic hematoma with active extravasation, T4-T5 
+anterolisthesis, RP hematoma, multiple bilateral rib fractures. 
+She also had a facial laceration whose repair was delayed due to 
+acuity. She has a suspected R knee injury but imaging was 
+deferred ___ acuity. In the ED the patient was found to have 
+extremely labile pressures. She was transferred up to the TICU 
+for further eval.  
+On evaluation in the TICU the patient was again found to have 
+labile blood pressures ranging from 70-150 SBP. An A-line was 
+placed and she was found to have unstable blood pressures. ACS 
+consulted ___ and the patient was intubated for the procedure. 
+A-line and CVL were placed. The patient's crit was found to 
+downtrend from the ___ to 25. Massive transfusion protocol was 
+initiated and she was given 4U pRBC and 2U FFP.  
+
+ 
+Past Medical History:
+PMH: pt denies  
+PSH: ovarian cystectomy  
+
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+PHYSICAL EXAMINATION- Upon admission ___
+Temp: reviewed BP: 80's-110 SBP
+ 
+Constitutional: GCS 15
+HEENT: 2 cm and 4 cm lacerations beneath the chin. no
+depressed skull fracture. Mid face stable. No dental trauma.
+teeth occlude normally, Pupils equal, round and reactive to
+light, Extraocular muscles intact
+Oropharynx within normal limits, teeth align
+Chest: Clear to auscultation with coarse BS bilat with TTP
+Cardiovascular: Regular Rate and Rhythm, Normal first and
+second heart sounds
+Abdominal: Soft, non-tender, Nondistended
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: No cyanosis, clubbing or edema, TTP over pelvis,
+pelvis stable
+Skin: Roadrash ant chest wall, Warm and dry
+Neuro: Speech fluent, moves all extremities, no gross motor
+deficits
+Psych: Normal mood, Normal mentation
+___: No petechiae
+
+ 
+Pertinent Results:
+___ 11:47PM   TYPE-ART TEMP-34.9 PO2-149* PCO2-42 PH-7.32* 
+TOTAL CO2-23 BASE XS--4 INTUBATED-INTUBATED
+___ 11:47PM   GLUCOSE-132* LACTATE-2.1*
+___ 11:47PM   freeCa-0.88*
+___:35PM   HCT-34.7*#
+___ 09:58PM   TYPE-ART PO2-86 PCO2-50* PH-7.25* TOTAL 
+CO2-23 BASE XS--5
+___ 09:58PM   GLUCOSE-167* LACTATE-2.4* NA+-135 K+-3.5 
+CL--109*
+___ 09:58PM   HGB-8.7* calcHCT-26
+___ 09:58PM   freeCa-1.02*
+___ 09:49PM   GLUCOSE-172* UREA N-24* CREAT-0.6 SODIUM-139 
+POTASSIUM-3.5 CHLORIDE-113* TOTAL CO2-20* ANION GAP-10
+___ 09:49PM   CALCIUM-6.1* PHOSPHATE-3.1 MAGNESIUM-1.5*
+___ 09:49PM   HCT-25.4*#
+___ 07:40PM   GLUCOSE-119* LACTATE-2.3* NA+-139 K+-4.0 
+CL--103 TCO2-24
+___ 07:35PM   UREA N-27* CREAT-0.9
+___ 07:35PM   estGFR-Using this
+___ 07:35PM   LIPASE-184*
+___ 07:35PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 07:35PM   WBC-9.3 RBC-4.87 HGB-14.6 HCT-42.5 MCV-87 
+MCH-29.9 MCHC-34.3 RDW-14.1
+___ 07:35PM   PLT COUNT-200
+___ 07:35PM   ___ PTT-34.2 ___
+___ 07:35PM   ___fter the initial trauma workup in the ED on ___, the 
+patient arrived to the ICU in critical condition with the 
+following injury burden: 
+* small SAH x2  
+* L temporal bone ___ at TMJ  
+* external auditory canal hematoma  
+* multiple grade ___ liver lacercation  
+* grade 1 splenic laceration  
+* open book pelvic fracture  
+* L adrenal injury w/ small RP hematoma  
+* T4-5 spine dislocation  
+* L clavicular ___, R scapular ___  
+* sacral ___ with associated hematoma  
+* R ankle tib/fib fxs  
+
+The patient was sent to ___ given her open book pelvic fracture, 
+however, no active bleed was identified.  On HD#2, an MRI spine 
+was performed which demonstrated T4-T5 instability, ligamentous 
+disruption, spinal syrinx, which spine reported was operative.  
+On ___ the plan was to take the patient to the OR with 
+thoracics for an anterior approach to the spine.  Unfortunately, 
+the patient had poor oxygenating, PEEP requirements rising and 
+so surgery was deferred. Blood cultures at that time also began 
+growing GPCs, and so Vanc/Zosyn was started. On ___, the 
+patient was transfused 1 uPRBCs for Hct of 21 with appropriate 
+response. On ___, it was again planned to take the patient to 
+the operating room for anterior approach to repair the patients 
+spine, however, once a double lumen tube was placed, the patient 
+rapidly desatted to the ___ and so surgical intervention was 
+once again aborted given concern for pt's tolerance of one lung 
+ventilation. DLT left in place (both lumens opening in trachea) 
+given concern for difficult re-intubation. Dose of decadron 
+given for laryngeal edema was given and the patient was started 
+on a lasix gtt and the patient was paralyzed on Roc for 2 days.  
+On ___, the patient was stable enough to be taken back to the 
+operating room to exhcange her double lumen tube for a 7.5 ETT 
+to allow for better respiratory toilet while the patient is more 
+stable for her T-spine surgery.  On ___, the patient went to 
+the operating room for an anterior approach to her T ___ right thoracotamy approach.  On ___, the patient 
+went back to the OR for a posterior approach to her spine 
+fusion.  On ___, an IVF filter was placed given her exptected 
+prolonged immobility.  And on ___, she went to the OR with 
+ortho for a pelvic ring ORIF and R ___ tibia ORIF.  
+Pre-operatively, her Hct was 19, so she received 2uPRBCs.  Over 
+the prior several days, the patient had been having daily 
+fevers, and had been placed on ceftriaxone emperically.  Post-op 
+on ___, the patients antibiotic regimen was broadened to 
+Vanc/Cefepime for her continued fevers.  On ___, the patient 
+was extubated without any issues. She continued to improve over 
+the next few days in the ICU. A CXR on ___ noted an improving 
+left retrocardiac opacification and apparent resolution of a 
+small left pleural effusion. Antibiotics were completed for HCAP 
+treatment (ended ___. She failed a formal speech and swallow 
+evaluation on that day ___ and so was continued NPO with tube 
+feeds with plans to reassess later in the week. She did require 
+some high ___ oxygen and non-invasive BiPap on ___ and ___ for 
+improved breathing/oxygenation. At that point the screening 
+process for an LTAC and rehab was begun. She was also started on 
+Seroquel at that time for agitation especially at night. 
+
+She was transferred to the floor on ___ for continued care and 
+management. Seroquel was increased due to continued agitation at 
+night. Low dose Coumadin was begun for treatment of long-term 
+immobilization and hx of multiple major fractures. Foley was 
+d/c'd on ___. She continued to have episodes of agitation 
+overnight, and was started on Xanax on ___. She also failed to 
+void and foley was replaced on ___ the patient was 
+doing well and was ready to be discharged to rehabilitation 
+facility.
+ 
+Medications on Admission:
+1. Sertraline 150 mg PO DAILY 
+2. ALPRAZolam 0.5 mg PO 5X/DAY 
+
+ 
+Discharge Medications:
+1. ALPRAZolam 0.5 mg PO 5X/DAY 
+2. Sertraline 150 mg PO DAILY 
+3. Acetaminophen 1000 mg PO Q6H:PRN pain, fever 
+do not exceed 4g in 24 hour period 
+4. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+5. Artificial Tear Ointment 1 Appl BOTH EYES PRN paralysed 
+6. Bisacodyl 10 mg PO/PR DAILY constipation 
+stop taking if having loose stool 
+7. Docusate Sodium (Liquid) 100 mg PO BID 
+stop taking if having loose stool 
+8. Guaifenesin ___ mL PO Q6H:PRN cough 
+9. Hydrochlorothiazide 25 mg PO DAILY 
+10. HYDROmorphone (Dilaudid) 0.25-1 mg IV Q4H:PRN Breakthrough 
+pain 
+11. Milk of Magnesia 30 mL PO Q6H:PRN constipaton 
+12. OxycoDONE Liquid ___ mg PO Q4H:PRN Pain 
+13. QUEtiapine Fumarate 25 mg PO QAM 
+14. QUEtiapine Fumarate 100 mg PO QHS 
+15. Senna 8.6 mg PO BID 
+stop taking if having loose stool 
+16. Tamsulosin 0.8 mg PO DAILY 
+17. Warfarin 1 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pelvic ring injury with right sacral fracture, left sacroiliac 
+dissociation, right anterior column (rami)fracture and left 
+anterior column (rami) fracture.
+Right proximal tibia fracture.
+Right distal tibia and fibula fracture.
+Traumatic SAH x3
+Multiple liver lacerations grade ___
+Grade 1 splenic laceration 
+T4-T5 anterolisthesis
+RP hematoma 
+Multiple bilateral rib fractures.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You came to the hospital on ___ after being hit by a car. 
+You were found to have multiple injuries in the emergency 
+department that required surgeries. The multiple injuries were 
+traumatic SAH x3, multiple liver lacerations grade ___, grade 1 
+splenic laceration, sacrum fracture, multiple pubic rami 
+fracture, pelvic hematoma with active extravasation, T4-T5 
+anterolisthesis, RP hematoma and multiple bilateral rib 
+fractures. You also had a  facial laceration. In the emergency 
+department you were found to have extremely labile pressures. 
+You were transferred up to the TICU 
+for further evaluation.  
+
+On evaluation in the TICU you were again found to have labile 
+blood pressures ranging from 70-150 SBP. An A-line was placed 
+and you were found to have unstable blood pressures. The Acute 
+Care Surgical team consulted interventional radiology and you 
+were intubated for the procedure of A-line and CVL placement. 
+You also needed a blood transfusion which was initiated and you 
+were given 4units of packed red blood cells and 2 units of fresh 
+frozen plasma. You responded well to this.
+
+You needed a surgery for your hip, back and right leg. You also 
+had an IVC filter placed. 
+
+After your surgeries you were transferred to the floor for 
+further evaluation, observation and monitoring. You have been 
+seen by physical therapy and the orthopedic surgeon has followed 
+up with you regarding the surgery and expected post surgical 
+protocol.   
+ 
+You are now doing better and are ready to be discharged to a 
+rehabilitation facility to continue your recuperation. 
+We have scheduled follow up appointments for you as below. 
+Please do not hesitate to call your doctor.   
+ 
+
+ 
+Followup Instructions:
+___

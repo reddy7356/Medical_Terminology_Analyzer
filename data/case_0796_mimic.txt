@@ -1,0 +1,221 @@
+===== DISCHARGE NOTE =====
+note_id=15998413-DS-9 | hadm_id=27627441
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Crohn's disease with terminal ileal stricture
+ 
+Major Surgical or Invasive Procedure:
+laparoscopic ileocecectomy 
+
+ 
+History of Present Illness:
+Ms. ___ is a pleasant ___ yo F diagnosed with Crohn's 
+disease in ___, followed by ___ and currently being 
+treated with Remicade and budesonide who presents with a 2 month 
+history of RLQ abdominal pain radiating to the R flank with 
+associated nausea, non-bloody diarrhea, and a 7 pound weight 
+loss.  Work-up has included an MRE showing no active flare, but 
+a stricture at the terminal ileum.  Her last colonoscopy was in 
+___ that did not demonstrate active disease or stricture.
+ 
+Past Medical History:
+breast cancer ___, plaque psoriasis
+ 
+Social History:
+___
+Family History:
+None on file.
+ 
+Physical Exam:
+Gen: [x] NAD, [x] AAOx3
+CV: [x] RRR, [] murmur
+Resp: [x] breaths unlabored, [x] CTAB, [] wheezing, [] rales
+Abdomen: [x] soft, [] distended, [] tender, [] rebound/guarding
+Wound: [x] incisions clean, dry, intact
+Ext: [x] warm, [] tender, [] edema
+ 
+Pertinent Results:
+___ 08:08AM BLOOD WBC-7.0 RBC-3.68* Hgb-10.8* Hct-33.6* 
+MCV-91 MCH-29.3 MCHC-32.1 RDW-15.0 RDWSD-50.7* Plt ___
+___ 08:08AM BLOOD Glucose-102* UreaN-5* Creat-0.6 Na-146 
+K-4.3 Cl-108 HCO3-24 AnGap-14
+___ 08:08AM BLOOD Calcium-8.6 Phos-2.3* Mg-1.5*
+ 
+Brief Hospital Course:
+Ms. ___ presented to ___ holding at ___ for a ILEO 
+CECECTOMY LAPAROSCOPIC. She tolerated the procedure well without 
+complications (Please see operative note for further details). 
+After a brief and uneventful stay in the PACU, the patient was 
+transferred to the floor for further post-operative management.
+
+Neuro: Pain was well controlled on Tylenol and tramadol for 
+breakthrough pain.
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. He/She had good 
+pulmonary toileting, as early ambulation and incentive 
+spirometry were encouraged throughout hospitalization.
+
+GI: The patient was initially kept NPO after the procedure. The 
+patient was advanced to and tolerated a regular diet. Patient's 
+intake and output were closely monitored.
+
+GU: The patient had a Foley catheter that was removed prior to 
+discharge. At time of discharge, the patient was voiding without 
+difficulty. Urine output was monitored as indicated.
+
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever, of which there was none.
+
+Heme: The patient received subcutaneous heparin and ___ dyne 
+boots during this stay. She was encouraged to get up and 
+ambulate as early as possible. The patient is being discharged 
+on prophylactic Lovenox. 
+
+On POD5, the patient was discharged to home. At discharge, she 
+was tolerating a regular diet, passing flatus, voiding, and 
+ambulating independently. She will follow-up in the clinic in 
+___ weeks. This information was communicated to the patient 
+directly prior to discharge.
+
+Post-Surgical Complications During Inpatient Admission:
+[ ] Post-Operative Ileus resolving w/o NGT
+[ ] Post-Operative Ileus requiring management with NGT
+[ ] UTI
+[ ] Wound Infection
+[ ] Anastomotic Leak
+[ ] Staple Line Bleed
+[ ] Congestive Heart failure
+[ ] ARF
+[ ] Acute Urinary retention, failure to void after Foley D/C'd
+[ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter
+[ ] DVT
+[ ] Pneumonia
+[ ] Abscess
+[x] None
+Social Issues Causing a Delay in Discharge:
+[ ] Delay in organization of ___ services
+[ ] Difficulty finding appropriate rehab hospital disposition.
+[ ] Lack of insurance coverage for ___ services
+[ ] Lack of insurance coverage for prescribed medications.
+[ ] Family not agreeable to discharge plan.
+[ ] Patient knowledge deficit related to ileostomy delaying 
+dispo
+[x] No social factors contributing in delay of discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Anastrozole 1 mg PO DAILY 
+2. Atorvastatin 10 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. Budesonide 3 mg PO DAILY 
+5. InFLIXimab 100 mg IV Q8WEEKS 
+6. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin [Lovenox] 40 mg/0.4 mL 1 Syringe SC once a day 
+Disp #*23 Syringe Refills:*0 
+3.  Gabapentin 300 mg PO BID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth every eight (8) 
+hours Disp #*30 Capsule Refills:*0 
+4.  Anastrozole 1 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 10 mg PO QPM  
+7.  Budesonide 3 mg PO DAILY  
+8.  InFLIXimab 100 mg IV Q8WEEKS  
+9.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+terminal ileal stricture 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital after a laparoscopic 
+ileocecectomy for surgical management of your terminal ileal 
+stricture. You have recovered from this procedure and you are 
+now ready to return home.  
+
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to discharge which is 
+acceptable; however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. However, you may 
+have loose stool and passing of small amounts of dark, old 
+appearing blood. If you notice that you are passing bright red 
+blood with bowel movements or having large amounts of loose 
+stool without improvement please call the office or go to the 
+emergency room. 
+
+You have ___ laparoscopic surgical incisions on your abdomen 
+which are closed with internal sutures.  It is important that 
+you monitor these areas for signs and symptoms of infection 
+including: increasing redness of the incision lines, 
+white/green/yellow/foul smelling drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. You may shower; pat the incisions dry with 
+a towel, do not rub.  If you have steri-strips (the small white 
+strips), they will fall off over time, please do not remove 
+them. Please do not take a bath or swim until cleared by the 
+surgical team.
+
+Pain is expected after surgery. This will gradually improve over 
+the first week or so you are home.  You should continue to take 
+2 Extra Strength Tylenol (___) for pain every 8 hours around 
+the clock. Please do not take more than 3000mg of Tylenol in 24 
+hours or any other medications that contain Tylenol such as cold 
+medication. Do not drink alcohol while taking Tylenol.  You may 
+also take Advil (Ibuprofen) 600mg every 8 hours for 7 days. 
+Please take Advil with food. If these medications are not 
+controlling your pain to a point where you can ambulate and 
+perform minor tasks, you should take Gabapentin 300mg every 8 
+hours. 
+
+You may feel weak or "washed out" for up to 6 weeks after 
+surgery. Do not lift greater than a gallon of milk for 3 weeks. 
+At your post op appointment, your surgical team will clear you 
+for heavier exercise.  In the meantime, you may climb stairs and 
+go outside and walk.  Please avoid traveling long distances 
+until you speak with your surgical team at your post-op visit.   
+
+
+Thank you for allowing us to participate in your care, we wish 
+you all the best! 
+ 
+Followup Instructions:
+___

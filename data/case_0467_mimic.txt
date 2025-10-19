@@ -1,0 +1,575 @@
+===== DISCHARGE NOTE =====
+note_id=13053397-DS-5 | hadm_id=22798950
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ hx of dilated cardiomyopathy (EF 40-45% in ___, 
+refractory HTN, DM2, who presented s/p witnessed syncopal 
+episode at church today.  He stated that he was wearing many 
+layers of clothing and felt hot, became diaphoretic. He felt hot 
+and sweaty for ~ 10  minutes. Then he syncopized. Witnesses 
+state that he lost consciousness x1 min, but patient does not 
+recall losing consciousness. No head trauma or seizure activity, 
+per report. Pt denied chest pain or palpitations. No nausea or 
+abdominal pain before episode, no recent sickness, no recent 
+decreased PO. Patient notes that he had not eaten much this 
+morning - 2 pieces of toast before church - episode happened 
+~11:30 AM. He was transferred to ED by EMS, who found blood 
+sugar to be 149. Per EMS report, EKG showed flipped t waves and 
+PVCs. He has never had these symptoms in the past. 
+.  
+In the ED, initial vitals were as follows: T 97 HR 96 BP 134/77 
+RR 18 O2sat 100%RA. EKG on presentation showed possible slow 
+Afib vs. more likely sinus arrhythmia, no acute ischemic 
+changes, but pt appeared to flip back and forth between ?Afib 
+and sinus rhythm.  When in sinus rhythm, rhythm strip showed ___ 
+degree A-V block.  Pt was comfortable, was noted to have normal 
+physical exam, lungs clear. CXR negative for pneumonia or acute 
+process. First troponin negative in ED.  Vitals prior to 
+transfer to floor were as follows: 98.1  69  117/75 16 100%RA.  
+.
+On the floor, VS 96.9  138/88   75   18  99% on 2L; ___ 178. 
+Generally, the patient appears well and is oriented and 
+pleasant. He denies dizziness, palpitations, and chest pain. He 
+is able to walk at least ___ yards without SOB and uses no cane 
+or walker. He denies PND. No ___ swelling.  
+. 
+Review of sytems:  
+(+) Per HPI  - 
+(-) Denies fever, chills, night sweats. Denies headache, sinus 
+tenderness, rhinorrhea or congestion. Denied cough, shortness of 
+breath. Denied chest pain or tightness, palpitations. Denied 
+nausea, vomiting, diarrhea, constipation or abdominal pain. No 
+recent change in bowel or bladder habits. No dysuria. Denied 
+arthralgias or myalgias.  
+ 
+Past Medical History:
+Hypertension:  MRI negative for renal artery stenosis in past.
+Dilated cardiomyopathy-  EF 40%, diagnosed in ___.
+Diabetes mellitus-  HbA1c of 6.8% in ___ recently d/c'd 
+glipizide
+Venous stasis ulcers:  s/p surgery in ___
+Erectile dysfunction
+ 
+Social History:
+___
+Family History:
+Mother with DM. No colon or prostate cancer.
+ 
+Physical Exam:
+On admission: 
+VS: 96.9  138/88   75   18  99% on 2L  
+GENERAL:  Sitting up in bed. Oriented x3. Can state name of days 
+backwards. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM. Conjunctiva 
+were pink, no pallor or cyanosis of the oral mucosa.  
+NECK: Supple with JVP of 6 cm.  
+CARDIAC: RR, normal S1, S2. No m/r/g. 
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. Normoactive bs. No HSM or tenderness.
+ EXTREMITIES: No edema. 
+NEURO: a&ox3, full power in ___ bilaterally. sensation intact
+ 
+Pertinent Results:
+Labs/Studies: 
+
+___ 05:45AM BLOOD WBC-4.5 RBC-4.26* Hgb-13.5* Hct-40.2 
+MCV-94 MCH-31.7 MCHC-33.6 RDW-14.4 Plt ___
+___ 12:20PM BLOOD Neuts-70.3* ___ Monos-6.8 Eos-1.5 
+Baso-0.5
+___ 12:20PM BLOOD ___ PTT-27.0 ___
+___ 12:20PM BLOOD Glucose-168* UreaN-19 Creat-1.1 Na-139 
+K-4.4 Cl-106 HCO3-24 AnGap-13
+___ 12:20PM BLOOD CK(CPK)-112
+___ 12:20PM BLOOD CK-MB-4
+___ 12:20PM BLOOD cTropnT-<0.01
+___ 07:30PM BLOOD cTropnT-<0.01
+___ 05:45AM BLOOD cTropnT-<0.01
+___ 05:45AM BLOOD Calcium-9.2 Phos-3.8 Mg-1.9
+___ 05:45AM BLOOD TSH-0.59
+.
+___ EKG: 
+Sinus rhythm with A-V conduction delay and atrial premature 
+beats including
+a non-conducted atrial premature beat. Right bundle-branch 
+block. Left axis
+deviation may be due to left anterior fascicular block and/or 
+prior inferior
+myocardial infarction. Left ventricular hypertrophy. ST-T wave 
+abnormalities
+may be due to left ventricular hypertrophy or possible ischemia. 
+Clinical
+correlation is suggested. Since the previous tracing of ___ 
+inferolateral
+ST-T wave abnormalities have decreased
+.
+___ Echo: 
+The left atrium is elongated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global systolic function (LVEF>55%). There is no left 
+ventricular outflow obstruction at rest or with Valsalva. Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic arch is mildly dilated. The aortic valve leaflets (3) are 
+mildly thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Physiologic mitral 
+regurgitation is seen (within normal limits). There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Pulmonary artery systolic hypertension. Dilated aortic arch. 
+Compared with the prior report (images unavailable for review) 
+of ___, the left ventricular cavity is now smaller with 
+improved global systolic function. Pulmonary artery hypertension 
+is now present. 
+. 
+___ CXR: 
+ 
+PA AND LATERAL CHEST: There is no focal consolidation, and no 
+effusion or
+pneumothorax. Cardiac silhouette is top normal in size, with 
+left ventricular
+contour. The aorta is unfolded. There is no pulmonary vascular 
+congestion or
+edema. Degenerative changes are seen in the thoracic spine.
+ 
+IMPRESSION: Top normal to mildly enlarged cardiac silhouette, 
+with prominent
+left ventricular contour. No acute cardiopulmonary process.
+
+___ EKG: 
+Sinus bradycardia with A-V conduction delay. Left atrial 
+abnormality.
+Right bundle-branch block. Left axis deviation may be due to 
+left anterior
+fascicular block and possible prior inferior myocardial 
+infarction. Left
+ventricular hypertrophy. ST-T wave abnormalities may be due to 
+left
+ventricular hypertrophy but cannot exclude ischemia. Clinical 
+correlation is
+suggested. Since the previous tracing of ___ atrial ectopy 
+is absent.
+Otherwise, no significant change.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a past medical history 
+significant for DM, HTN, and dilated cardiomyopathy (EF 40-45% 
+in ___ who presented after a syncopal episode in church.   
+.
+# Syncope: In the ED, the patient's EKG showed sinus arrhythmia 
+and evidence of prior ischemia. A rhythm strip taken 20 minutes 
+later was normal sinus rhythm with 1st degree AV delay. The 
+patient was followed on telemetry, which was notable for  PACs 
+with occasional blocked ventricular conduction and 1st degree AV 
+delay. He was bradycardic with heart rates ~55 but was 
+asymptomatic. A TTE was also performed, which showed mild LVH, 
+normal systolic function with an EF > 55%, improved from 40-45% 
+on prior study in ___. The Echo also showed pulmonary artery 
+hypertension, which was a new finding.  During this admission, 
+he denied dizziness, diaphoresis, chest pain, palpitations, 
+shortness of breath, nausea, or vomiting. He did not have any 
+further syncopal episodes. The syncope was believed to be a 
+vasovagal episode given the history of precedent symptoms. The 
+patient was discharged with cardiology follow-up. 
+.
+# Type II Diabetes Mellitus: Last A1C 6% in ___. The patient 
+was given a diabetic diet, sliding scale insulin, and his home 
+dose of metformin (1000 mg PO BID). His finger-stick glucose 
+readings were 111-178.
+.
+# Hypertension: The patient was continued on his home 
+medications: amlodipine 10 mg qday, hydralazine 100 mg TID, 
+Imdur 240 mg qday, labetalol 100 mg BID, and lisinopril 50 mg 
+qday.
+. 
+# The patient received SubQ heparin for DVT prophylaxis. Contact 
+was with his cousin ___ ___. The patient 
+remained full code during this admission. 
+ 
+Medications on Admission:
+amlodipine 10 mg Tablet daily 
+hydralazine 100 mg Tablet TID
+isosorbide mononitrate [Imdur] 240 mg qday
+labetalol 100 mg Tablet BID
+lisinopril 50 mg Tablet daily
+metformin 1,000 mg Tablet BID 
+timolol maleate 0.5 % Gel Forming Solution 1 drop(s) both eyes q 
+AM  aspirin 325 mg Tablet, Delayed Release (E.C.) daily \
+urea [CARMOL 20] 20 % Cream Apply to affected areas twice daily
+ 
+Discharge Medications:
+1. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+2. hydralazine 50 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours).  
+3. isosorbide mononitrate 60 mg Tablet Sustained Release 24 hr 
+Sig: Four (4) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. labetalol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+5. lisinopril 20 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).  
+6. metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+7. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic 
+DAILY (Daily).  
+8. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Syncope
+. 
+Secondary: 
+HTN
+DM
+Venous Stasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+It was a pleasure caring for ___ at ___ 
+were admitted because of a syncopal episode. We watched your 
+heart rate overnight and did not see anything concerning. Blood 
+tests showed that there had been no heart attack that caused the 
+episode. It is likely that this was a vasovagal episode, or a 
+"fainting episode" that was caused by a combination of factors: 
+eating very little in the morning, feeling warm, and blood 
+pressure medications. We also performed an ultrasound of your 
+heart, which showed improved function since your Echo in ___. 
+___ will follow-up with Dr. ___, to discuss 
+the Echo results and also the new finding of pulmonary artery 
+hypertension. 
+. 
+We made no changes to your medications. 
+. 
+Your follow-up appointments are listed below. 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13053397-DS-6 | hadm_id=23650598
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Complete Heart Block  
+ 
+Major Surgical or Invasive Procedure:
+Placement of Implanted Pacemaker
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a history of hypertension 
+and prior syncopal evaluation in ___ who presents with 
+bradycardia. He sent to the ED from his PCP's office where he 
+was found to be bradycardic to ___ and an EKG showed complete 
+heart block, he was asymptomatic at that time.  
+.  
+In the ED, initial vitals were 98 30 91/58 18 100%. Labs and 
+imaging significant for Troponin <0.01, Cr 1.3, Hct 38.5, freeCa 
+1.11 and INR 1.1. External pacing pads were placed on his chest, 
+but did not require pacing. Electrophysiology consult was 
+obtained in the ED advised no need for pacing wire and plan for 
+pacemaker placement in AM. Patient denied chest pain, shortness 
+of breath, lightheadedness, fevers or recent illnesses. Vitals 
+on transfer were 30 135/85  
+18 96.  
+.  
+On arrival to the floor, patient appears comfortable and is 
+without additional complaints. Of note per PCP patient had 
+existing conduction disease with 1st degree AVB, RBBB, and LAFB. 
+ 
+.  
+.  
+REVIEW OF SYSTEMS  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. He denies recent fevers, chills or rigors. 
+S/he denies exertional buttock or calf pain. All of the other 
+review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+ 
+Past Medical History:
+Hypertension:  MRI negative for renal artery stenosis in past.
+Dilated cardiomyopathy-  EF 40%, diagnosed in ___.
+Diabetes mellitus-  HbA1c of 6.8% in ___ recently d/c'd 
+glipizide
+Venous stasis ulcers:  s/p surgery in ___
+Erectile dysfunction
+ 
+Social History:
+___
+Family History:
+Mother with DM. No colon or prostate cancer.
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+
+VS: T=98.4 BP=156/89 HR=30 RR=16 O2 sat=99% on RA FSBG=98  
+GENERAL: WDWN Man in NAD. Oriented x3. Mood, affect appropriate. 
+ 
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with JVP of 10 cm.  
+CARDIAC: Bradycardic. No m/r/g. No thrills, lifts. No S3 or S4.  
+
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: 1+ ___ ___ edema to mid-calf. No clubbing or 
+cyanosis, No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  
+
+PHYSICAL EXAM ON DISCHARGE:
+Vitals: HR 68, BP ___
+Exam otherwise unchanged
+ 
+Pertinent Results:
+Lab Results on Admission:
+
+___:50PM BLOOD WBC-5.3 RBC-4.00* Hgb-12.8* Hct-38.5* 
+MCV-96# MCH-32.1* MCHC-33.3 RDW-13.3 Plt ___
+___ 05:50PM BLOOD Neuts-65.0 ___ Monos-5.5 Eos-0.9 
+Baso-0.3
+___ 05:50PM BLOOD ___ PTT-37.1* ___
+___ 05:50PM BLOOD Glucose-246* UreaN-27* Creat-1.3* Na-139 
+K-3.7 Cl-102 HCO3-26 AnGap-15
+___ 05:50PM BLOOD Calcium-9.0 Phos-3.0 Mg-1.6
+___ 06:09PM BLOOD Glucose-237* Na-139 K-3.8 Cl-101 
+calHCO3-25
+___ 06:09PM BLOOD freeCa-1.11*
+___ 06:09PM BLOOD ___ pH-7.40 Comment-GREEN TOP
+
+Studies:
+
+Cardiovascular ReportECGStudy Date of ___  12:11:06 ___
+Sinus rhythm with complete A-V block and a ventricular escape 
+rhythm. Compared to the previous tracing of ___ complete A-V 
+block is now present.
+
+Cardiovascular ReportECGStudy Date of ___  5:52:12 ___
+Sinus rhythm with complete A-V block and ventricular escape 
+rhythm. Compared
+to tracing #1 no significant change.
+
+Cardiovascular ReportECGStudy Date of ___  9:59:14 ___
+Sinus rhythm with complete A-V block and idioventricular escape 
+rhythm.
+Compared to the previous tracings earlier today no significant 
+change.
+
+Cardiovascular ReportECGStudy Date of ___  11:16:14 AM
+Sinus rhythm, rate 55, with complete heart block and a 
+ventricular escape
+at 25 beats per minute. Compared to the previous tracing of 
+___ there is no significant change.
+
+Cardiovascular ReportECGStudy Date of ___  9:11:48 AM
+Atrial and ventricular sequential pacing. Compared to the 
+previous tracing
+of ___ atrial and ventricular pacing is new.
+
+Radiology Report   CHEST (PA & LAT)Study Date of ___ 9:38 
+AM
+IMPRESSION: Appropriately positioned left-sided pacemaker with 
+leads
+terminating in the right atrium and right ventricle. No 
+pneumothorax or other complications are identified.
+
+Lab Results on Discharge:
+
+___ 06:05AM BLOOD WBC-4.6 RBC-4.08* Hgb-13.4* Hct-39.1* 
+MCV-96 MCH-32.9* MCHC-34.3 RDW-13.2 Plt ___
+___ 06:05AM BLOOD Glucose-139* UreaN-17 Creat-1.2 Na-138 
+K-4.2 Cl-103 HCO3-27 AnGap-12
+___ 07:40AM BLOOD ALT-12 AST-13 LD(LDH)-158 AlkPhos-72 
+TotBili-0.3
+___ 06:05AM BLOOD Calcium-9.2 Phos-3.3 Mg-2.0
+ 
+Brief Hospital Course:
+PRIMARY REASON FOR HOSPITALIZATION:  
+Patient is a ___ year-old man with PMH of HTN, DM and known LAFB 
+and RBBB block that has now progressed to complete heart block 
+and admitted for pacemaker placement. Patient had a stable blood 
+pressure and excellent mental status with heart rate in low 30's 
+on admission. He received a pacemaker with successful pacing and 
+lead placement, and was discharged with HR>60bpm.
+. 
+ACUTE CARE:
+. 
+1. COMPLETE HEART BLOCK: Patient presented to his PCP for ___ 
+regular health maintenance visit where his PCP discovered that 
+he had a heart rate in the 30___s. He was sent to the hospital for 
+evaluation. Patient had a history of LAFB and RBBB which 
+progressed to complete heart block in stable escape rhythm as 
+discovered on ECG. He remained asymptomatic with stable BP and 
+unaltered mental status. Troponin T was <0.01 x 2, ECG showed no 
+signs of ischemia, and patient was chest-pain free making 
+ischemic event unlikely. He received an implantable pacemaker 
+without complications and was discharged with HR in the low 60's 
+and stable blood pressure. He received ___ 
+antibiotics for pacemaker placement, and was discharged with two 
+days of cephalexin.
+.  
+2 Hypertension: Patient was continued on home lisinopril while 
+awaiting pacemaker placement and discharged on his home BP meds 
+of hydralazine, Imdur, chlorthalidone, lisinopril, and 
+amlodipine.
+.  
+3. Diabetes: Patient's home metformin was held as an inpatient 
+and re-started on discharge. He received insulin sliding scale 
+glucose coverage as an inpatient.
+- Insulin sliding scale while inpatient.  
+.
+CHRONIC CARE:
+.  
+1. Glaucoma: Continued Timolol eye gtts  
+.
+TRANSITIONS IN CARE
+.
+1. CODE STATUS: Confirmed full  
+2. EMERGENCY CONTACT: ___ - ___  
+3. ___ CHANGES:
+  1. START Cephalexin 500mg by mouth every 6 hours for two days.
+4. FOLLOWUP:
+
+Department: HEALTHCARE ASSOCIATES
+When: ___ at 9:00 AM
+With: ___
+Building: ___
+Campus: ___ Best Parking: ___
+
+Department: CARDIAC SERVICES
+When: ___ at 10:30 AM
+With: ___
+Building: ___
+Campus: ___ Best Parking: ___
+
+Department: ___
+When: ___ at 10:35 AM
+With: ___
+Building: ___
+Campus: ___ Best Parking: ___
+
+5. OUTSTANDING CLINICAL ISSUES:
+-BP management and consideration of further HTN workup
+-pacemaker adjustments as needed
+ 
+Medications on Admission:
+amlodipine 2.5 mg per day,  
+hydralazine 100 mg t.i.d.,  
+Imdur 120 mg daily,  
+lisinopril 40 mg once daily,  
+chlorthalidone 12.5 mg (on hold)  
+metformin 1000 mg b.i.d.  
+timolol 0.5% gtts ___  
+aspirin 81 mg daily. 
+ 
+Discharge Medications:
+1. Keflex ___ mg Capsule Sig: One (1) Capsule PO every six (6) 
+hours for 2 days.
+Disp:*8 Capsule(s)* Refills:*0*
+2. amlodipine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day. 
+ 
+4. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic 
+DAILY (Daily): to both eyes.  
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+6. hydralazine 100 mg Tablet Sig: One (1) Tablet PO three times 
+a day.  
+7. isosorbide mononitrate 120 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.  
+8. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. chlorthalidone 25 mg Tablet Sig: one-half Tablet PO once a 
+day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Complete Heart Block
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you had a very low 
+heart rate. A pacemaker was placed so that your heart would beat 
+at a safe rate. You were discharged home following the procedure 
+and should follow the instructions on the post-pacemaker 
+instruction sheet provided to you.
+
+Please make the following changed to your medications:
+
+1. START Cephalexin 500mg by mouth every 6 hours for two days.
+
+Please take all other medications as previously prescribed and 
+please keep your follow-up appointments.
+ 
+Followup Instructions:
+___

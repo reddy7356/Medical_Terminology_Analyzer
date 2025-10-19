@@ -1,0 +1,294 @@
+===== DISCHARGE NOTE =====
+note_id=14006122-DS-15 | hadm_id=25032982
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+iodine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypertensive urgency  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with a history of DM2, CAD, CHF and 
+schizoaffective disorder who was referred to the emergency 
+department from ___ with hypertensive urgency. Patient 
+underwent new patient evaluation at ___ today and was noted 
+to be hypertensive to 230/130 with decreased lung sounds at the 
+bases. The patient was then sent to ED for further management of 
+hypertensive. At the time, the patient complained of leg 
+swelling, but was otherwise asymptomatic.  
+In the ED, initial VS: 98.3 72 190/110 16 100%. Labs notable for 
+BNP of 7000. EKG with old inferior infarct, PR prolongation and 
+IV conduction delay. No evidence of acute ischemia or LVH. No 
+medication was administered for hypertensive urgency. The 
+patient was noted to have pulmonary edema and a right pleural 
+effusion on CXR. He was admitted to medicine for further workup. 
+VS prior to transfer: 97.3 76 173/98 19 100%.  
+On the floor, the patient denies acute complaints. No chest 
+pain, shortness of breath, headache, vision changes, 
+palpitations. The patient has known CAD and CHF, but denies 
+having "fluid in his lungs" in the past. He does not know what 
+his heart function is. He endorses increasing lower extremity 
+edema over the past few weeks. He denies orthopnea or PND.  
+ 
+REVIEW OF SYSTEMS:  
+(+) per HPI  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, nausea, vomiting, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+ 
+
+ 
+Past Medical History:
+CHF - EF 25% as per PCP records
+CAD - inferior infarct in ___, patient claims no stents done 
+"brittle" DM 2 - diagnosed at age ___ now off insulin due to 
+hypoglycemic episodes  
+Hypertension  
+Schizoaffective disorder  
+PTSD  
+legally blind with detached retina  
+bilateral cateracts  
+ 
+
+ 
+Social History:
+___
+Family History:
+Denies significant history.
+ 
+Physical Exam:
+ADMISSION EXAM
+VS: Tc 97.6 173/100 72 18 100%  RA Fingerstick 214  
+GENERAL: comfortable appearing male, reluctant to answer 
+questions because he wants to sleep  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM  
+NECK: supple, JVP to angle of jaw  
+LUNGS: bibasilar crackles; otherwise CTAB  
+HEART: RRR, no MRG, nl S1-S2  
+ABDOMEN: soft, non-tender, non-distended  
+EXTREMITIES: WWP, 2+ pitting edema bilaterally in lower 
+extremities to low thigh  
+NEURO: awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout  
+
+DISCHARGE EXAM
+VS: Tc 98.0 Tm 98.1  173/93 (132-173/77-100)  68 18 97% RA
+I/O -1000 past midnight; 24H ___   weight 130 -> 128.4 -> 
+128.6 today
+___: 160s->236
+GEN: awake, alert, in NAD 
+HEENT: NCAT, MMM, EOMI, sclera anicteric, OP clear  
+NECK: supple, has JVD below the mandible, no LAD  
+PULM: good air entry, clear to auscultation bilaterally, no 
+wheezes, rales or ronchi appreciated  
+CV: RRR, normal, S1/S2, no mrg  
+ABD: soft, NT, ND, normoactive bowel sounds, no r/g  
+EXT WWP 2+ pulses palpable bilaterally, has 2+ PE to mid calf
+bilaterally  
+NEURO CNs2-12 intact, motor function grossly normal  
+SKIN no ulcers or lesions  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 07:10PM   GLUCOSE-92 UREA N-19 CREAT-1.0 SODIUM-143 
+POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-27 ANION GAP-15
+___ 07:10PM   ALT(SGPT)-23 AST(SGOT)-37 ALK PHOS-139* TOT 
+BILI-0.7
+___ 07:10PM   cTropnT-0.01 proBNP-6217*
+___ 07:10PM   ALBUMIN-3.2* CALCIUM-9.3 PHOSPHATE-3.6 
+MAGNESIUM-1.9
+___ 07:10PM   WBC-5.7 RBC-5.06 HGB-15.0 HCT-46.2 MCV-91 
+MCH-29.7 MCHC-32.5 RDW-13.7
+___ 07:10PM   NEUTS-69.3 ___ MONOS-5.3 EOS-1.6 
+BASOS-0.7
+___ 07:10PM   PLT COUNT-205
+___ 08:35AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LABS
+
+___ 06:12AM BLOOD WBC-5.4 RBC-4.53* Hgb-13.3* Hct-41.4 
+MCV-91 MCH-29.4 MCHC-32.3 RDW-14.0 Plt ___
+___ 06:40AM BLOOD Glucose-178* UreaN-26* Creat-1.2 Na-141 
+K-4.1 Cl-104 HCO3-31 AnGap-10
+___ 08:55PM BLOOD Glucose-151* UreaN-25* Creat-1.1 Na-137 
+K-4.2 Cl-100 HCO3-31 AnGap-10
+___ 06:40AM BLOOD Calcium-9.0 Phos-3.3 Mg-2.1
+
+MICRO
+NONE
+
+REPORTS
+
+ ECG Study Date of ___  8:37:58 ___ 
+
+Sinus rhythm with A-V conduction delay. Non-specific 
+intraventricular 
+conduction delay of the left bundle-branch block type. Possible 
+inferior 
+myocardial infarction, age indeterminate. Poor R wave 
+progression. 
+Non-specific ST-T wave abnormalities. No previous tracing 
+available for 
+comparison.  
+
+CHEST (PA & LAT) Study Date of ___ 6:33 ___ 
+
+IMPRESSION: 
+  
+Apparently elevated right hemidiaphragm with configuration 
+raising possibility of subpulmonic effusion.  Lateral decubitus 
+films could help clarify.  Right basilar opacity could be due to 
+adjacent atelectasis noting that infection is not excluded.  
+Cardiomegaly. 
+  
+___ ECHOCARDIOGRAPHY REPORT
+  TTE (Complete) Done ___ at 2:23:07 ___      FINAL 
+
+Normal left ventricular cavity size and right ventricular cavity 
+dilation with regional biventricular systolic dysfunction (LVEF 
+= 40 %) c/w CAD/chronic infarction ___ RCA distribution). 
+Pulmonary artery hypertension. Mild mitral regurgitation. 
+ 
+Brief Hospital Course:
+___ year old male hx. DM, CAD, CHF, schizoaffective disorder 
+presenting with findings of CHF exacerbation and hypertensive 
+urgency/emergency. 
+
+# Acute on chronic systolic CHF exacerbation:  Patient appeared 
+to be in significant right sided heart failure with bilateral ___ 
+edema, elevated BNP.  Patient was diuresed effectively with 40 
+mg IV lasix daily.  He was negative 1.5-2.0 liters daily with 
+this regimen.  Patient's most recent PCP was contacted for 
+records which revealed patient has had problems with anasarca 
+and noncompliance with CHF regimen for quite some time.  Most 
+recent ECHO from PCP showed ischemic cardiomyopathy with EF 25%. 
+ Patient underwent repeat ECHO this admission which showed EF 
+40% with biventricular systolic dysfunction.  CHF service was 
+consulted who recommended patient be discharged on oral 
+torsemide 20 mg daily.  His lisinopril was continued.  
+Metoprolol was switched to carvedilol as below.  He has followup 
+with his PCP to continue to address his CHF regimen, and would 
+benefit from close monitoring and referral to cardiology.
+
+# Hypertensive urgency/emergency: patient largely asymptomatic 
+on admission but could qualified as hypertensive emergency given 
+pulmonary effusion, signs of CHF on exam, elevated BNP.  
+Patient's pressures came down with administration of home 
+antihypertensive regimen of metoprolol and lisinopril as well as 
+lasix.  Amlodipine 5 mg daily was added from hospital day ___ 
+but pressures remained elevated in the 150-170s systolic range.  
+Out of concern for worsening his cardiac function, decision was 
+made to not increase amlodipine but to substitute carvedilol for 
+metoprolol for its added antihypertensive properites.   
+Pressures remained elevated but improved on day of discharge in 
+the 150s-170s range.  Patient would benefit from close 
+monitoring of renal function and titration of antyhypertensive 
+regimen going forward.
+
+# CAD s/p inferior MI: patient had evidence of old inferior MI 
+on EKG, no signs or symptoms to suggest ACS on admission, 
+troponin was neg x1.  As per self report, patient had MI in ___ 
+and said he did not receive stents.  Most recent PCP also could 
+not confirm if he was stented or not.  His metoprolol was 
+switched to carvedilol as above and he was continued on aspirin, 
+lisinopril, and simvastatin.  
+
+# DM: held oral regimen and placed on ISS in house, ___ remained 
+well controlled.       
+
+TRANSITIONAL ISSUES
+1.  Patient has a follow-up appointment with new PCP to continue 
+to address CHF and antihypertensive regimen.  Most recent PCP 
+was also contacted and notified of admission.
+2.  Patient was visited by social work re: resources for the 
+blind, support was giving re: new housing search as well as 
+transportation and ID.
+3.  Patient remained full code.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 40 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Lisinopril 40 mg PO DAILY 
+6. Furosemide 20 mg PO DAILY 
+7. glimepiride *NF* 1 mg Oral daily 
+8. EpiPen *NF* (EPINEPHrine) 0.3 mg/0.3 mL (1:1,000) Injection 
+prn anaphylaxis? 
+9. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Simvastatin 40 mg PO DAILY 
+5. Carvedilol 12.5 mg PO BID 
+RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*3
+6. EpiPen *NF* (EPINEPHrine) 0.3 mg/0.3 mL (1:1,000) Injection 
+prn anaphylaxis? 
+7. glimepiride *NF* 1 mg ORAL DAILY 
+8. MetFORMIN (Glucophage) 1000 mg PO BID 
+9. Torsemide 20 mg PO DAILY 
+RX *torsemide 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Hypertensive Emergency
+         Acute on Chronic Systolic CHF
+
+Secondary: CAD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.  You were 
+admitted for high blood pressure and were found to be in heart 
+failure.  You were given medications to remove fluid from your 
+body and your heart failure improved.  The following changes 
+were made to your medications:
+
+Please START torsemide 20 mg daily- this is a diuretic that will 
+help take the fluid off of your legs. Take this medication 
+instead of the lasix.
+Please START carvedilol- his is for your heart and blood 
+pressure
+
+Please STOP lasix
+Please STOP metoprolol
+
+ 
+Followup Instructions:
+___

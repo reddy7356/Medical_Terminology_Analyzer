@@ -1,0 +1,1440 @@
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-4 | hadm_id=24260049
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o female with breast CA under chemotherapy was under her 
+usual status of health until yesterday when she developed 
+intermittent middle abd dull pain (___) associated with nausea 
+and loose stool with no blood a few hours  after she ate a beef 
+at home.  She had fever (102) and chill today. She denied 
+headache, muscle-joints pain, rashes, cough, CP, SOB, dysuria, 
+running nose, and sore throat.  She denied recent history of 
+travel; and sick contacts.  However she reported that her 
+husband also did not feel well after he ate the beef. ___ y/o 
+female with breast CA under chemotherapy was under her usual 
+status of health until yesterday when she developed intermittent 
+middle abd dull pain (___) associated with nausea and loose 
+stool with no blood a few hours  after she ate a beef at home.  
+She had fever (102) and chill today. She denied headache, 
+muscle-joints pain, rashes, cough, CP, SOB, dysuria, running 
+nose, and sore throat.  She denied recent history of travel; and 
+sick contacts.  However she reported that her husband also did 
+not feel well after he ate the beef. 
+
+in ED, she received one dose of Cefepime.
+
+Review of Systems:  
+(+) Per HPI  
+(-) Review of Systems: GEN: No night sweats, recent weight loss 
+or gain. HEENT: No headache, sinus tenderness, rhinorrhea or 
+congestion. CV: No chest pain or tightness, palpitations. PULM: 
+No cough, shortness of breath, or wheezing. GI: no heartburn, 
+dysphagia, no hematochezia or melena. GUI: No dysuria or change 
+in bladder habits. MSK:  No arthritis, arthralgias, or myalgias. 
+DERM: No rashes or skin breakdown. NEURO: No numbness/tingling 
+in extremities. PSYCH: No feelings of depression or anxiety. All 
+other review of systems negative.
+
+ 
+Past Medical History:
+R breast CA ___ c/ L 6th rib recurrence s/p letrozole/herceptin 
+(now off herceptin due to decr EF)
+
+PSH: R breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a nonsmoker and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+.  
+VS: 99.9 109/64, P 94 R 18, SaO2 98%
+GEN: AOx3, NAD
+HEENT:  PERRLA. MMM. no LAD. no JVD. neck supple. No cervical, 
+supraclavicular, or axillary LAD
+Cards: RR S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, tender in her middle abd, no rebound/guarding, 
+no HSM, no ___ sign
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: no rashes or bruising
+Neuro: CNs II-XII intact. ___ strength in U/L extremities. DTRs 
+2+ ___. sensation intact to LT, cerebellar fxn intact (FTN, HTS). 
+gait WNL.
+.
+DISCHARGE EXAM:
+.
+VS:  T: 98.2/98.9 BP: 110/72 (100s-110s/60s-80s)  HR: 75 
+(70s-80s)  RR: 18  O2: 99% RA  
+GEN: AOx3, interactive, NAD
+HEENT:  MMM moist. Neck supple
+Cards: RRR, S1/S2 normal, no murmurs/gallops/rubs.
+Pulm: CTAB, no crackles or wheezes
+Abd: BS+, soft, no tenderness, no rebound/guarding
+Extremities: WWP, no edema.  There is a small area of faint 
+erythema on the medial aspect of left arm by former IV site.  
+Slightly tender to touch but overall improved
+Skin: as above
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+___ 04:00PM BLOOD WBC-2.7*# RBC-3.63* Hgb-12.1 Hct-34.4* 
+MCV-95 MCH-33.2* MCHC-35.1* RDW-13.2 Plt ___
+___ 04:00PM BLOOD Neuts-75* Bands-17* Lymphs-5* Monos-2 
+Eos-0 Baso-1 ___ Myelos-0
+___ 04:00PM BLOOD ___ PTT-31.8 ___
+___ 04:00PM BLOOD Glucose-120* UreaN-19 Creat-0.8 Na-129* 
+K-4.2 Cl-92* HCO3-29 AnGap-12
+___ 04:00PM BLOOD ALT-21 AST-27 AlkPhos-50 TotBili-0.7
+___ 07:05AM BLOOD Albumin-3.2* Calcium-7.1* Phos-1.7* 
+Mg-1.9 Iron-14*
+___ 07:05AM BLOOD calTIBC-200* Ferritn-641* TRF-154*
+___ 07:05AM BLOOD TSH-0.91
+___ 04:05PM BLOOD Lactate-1.8
+.
+DISCHARGE LABS:
+.
+___ 05:45AM BLOOD WBC-2.3* RBC-3.43* Hgb-11.1* Hct-34.2* 
+MCV-100* MCH-32.3* MCHC-32.3 RDW-13.4 Plt ___
+___ 05:45AM BLOOD Neuts-6* Bands-0 Lymphs-57* Monos-30* 
+Eos-0 Baso-1 Atyps-3* ___ Myelos-3*
+___ 05:45AM BLOOD ___ ___
+___ 05:45AM BLOOD Glucose-86 UreaN-13 Creat-0.8 Na-139 
+K-4.1 Cl-105 HCO3-27 AnGap-11
+___ 05:45AM BLOOD ALT-75* AST-58* LD(LDH)-190 AlkPhos-64 
+TotBili-0.2
+___ 05:45AM BLOOD Calcium-8.4 Phos-2.8 Mg-2.2
+.
+URINE:
+.
+___ 05:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 05:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 07:07AM URINE Hours-RANDOM Na-125 K-58 Cl-136
+___ 07:07AM URINE Osmolal-583
+___ 05:00PM URINE UCG-NEG
+.
+MICRO:
+Blood culture ___: Negative
+Stool culture ___: Negative
+.
+CXR ___: PA AND LATERAL VIEWS OF THE CHEST: The cardiac, 
+mediastinal and hilar contours are normal. The patient is status 
+post right mastectomy. The pulmonary vascularity is not 
+engorged. Ill-defined nodular opacities are again demonstrated 
+within the right lung base, which appear to correspond to 
+nodules seen on prior PET CT. No focal consolidation, pleural 
+effusion or pneumothorax is identified. There are no acute 
+osseous findings. 
+  
+IMPRESSION: No acute cardiopulmonary abnormality. Ill-defined 
+nodular 
+opacities in the right lung base are better visualized on the 
+prior PET CT. 
+.
+CT ABD/PELV ___: CT ABDOMEN: The visualized lung bases are 
+clear. No pleural or pericardial effusion.  
+  
+The liver, gallbladder, spleen, pancreas, and bilateral adrenal 
+glands are 
+normal. The kidneys enhance symmetrically and excrete contrast 
+promptly. The large bowel is normal in course and caliber. 
+Normal appendix. There is mild small bowel wall thickening 
+involving the jejunum without wall edema or surrounding 
+stranding. 
+  
+The aorta is normal in course and caliber with minimal 
+atherosclerotic 
+calcifications. No free air and no free fluid. No mesenteric or 
+retroperitoneal lymphadenopathy. 
+  
+CT PELVIS: The rectum, sigmoid colon, bladder, and uterus are 
+normal. No 
+free fluid and no pelvic or inguinal lymphadenopathy. 
+  
+BONE WINDOWS: No lytic or sclerotic lesion suspicious for 
+malignancy is seen. 
+  
+IMPRESSION:  
+1. Mild jejunal bowel wall thickening is nonspecific but can be 
+seen in 
+enteritis. Major mesenteric vessels are patent. 
+2. Normal appendix. 
+
+ 
+Brief Hospital Course:
+___ y/o female with breast CA under chemotherapy who developed 
+intermittent peribumbillical abd dull pain (___) associated 
+with nausea and fevers.
+.
+#  Fever/diarrhea:  Felt to be most consistent with 
+gastroenteritis. (likely viral, though bacterial also possible). 
+ Abominal CT showed mild jejunal bowel wall thickening which was 
+non-specific but could be consistent with enteritis. She was 
+started on cefepime/flagyl (eventually changed to zosyn then PO 
+cipro given concern for transaminitis explained below) and 
+diarrhea improved over the course of admission decreasing in 
+both frequency and volume.  She was maintained on IV fluids 
+which were weaned off once she started tolerating a full diet.  
+Stool studies were negative.  She remained afebrile throughout 
+the entire admission.  However, given her neutropenia in the 
+setting of her recent chemo, the decision was made to keep her 
+inpatient until her symptoms resolved.  While she remained 
+neutropenic throughout admission (nadiring at ___ of 12), her 
+ANC was trending up to 198 on discharge, and in the setting of 
+her improved clinical picture we felt she was safe for 
+discharge.  Antibiotics were discontinued on discharge.   She 
+was counseled heavily on returning to the hospital if abdominal 
+pain/diarrhea worsened or if she developed fever.  
+. 
+# Elevated LFT's:  Pt noted to have uptrending LFTs with ALT/AST 
+peaking at 105/123 in the setting of normal LDH and ___.  This 
+was likely secondary to recent Taxotere/Cyclophosphomide vs 
+cefepmie.  She denied any new abdominal symptoms besides her 
+improving abdominal pain and diarrhea.  Cefepime was 
+discontinued as above given that this may be contributing to her 
+LFTs.  LFTs were downtrending on discharge to ALT/AST of 75/58.
+.
+# Left arm erythema: Pt developed a small area of faint left arm 
+erythema over the medial aspect by her prior IV site.  It was 
+slightly hard and tender to touch.  However this improved over 
+the course of admission and nearly resolved on discharge.
+.
+# Breast Cancer: Pt received C1D1 of Taxotere + Cyclophosphomide 
+on ___ with ANC nadiring to 12 during this admission.  She was 
+continued on her home femara.  As mentioned above, given the 
+improvement in her ANC and resolving symptoms, we felt she was 
+ready for discharge despite still being neutropenic. She was 
+counseled heavily on returning to the hospital if abdominal 
+pain/diarrhea worsened or if she developed fever.
+.
+# Anemia:  Likely secondary to chemo.  She was not having any 
+BRBPR or melena to suggest GIB.  Hct dropped from 34.4-->31 on 
+admission, likely in setting of hemodilution.  Hct subsequently 
+remained stable between 34-37 for remainder of admission.
+.
+# Hyponatremia:  Na was 129 on admission, likely hypovolemic 
+given her diarrhea.  Sodium quickly improved with fluids
+.
+# HTN:  Pt continued on home metoprolol 100mg daily and 
+valsartan 80mg daily.
+.
+# Depression:  Continued home effexor and prozac 
+.
+# Follow up/Transitional:
+-Pt to follow-up with her outpatient oncologist Dr. ___ on ___
+-Pt instructed to return to the hospital if abdominal 
+pain/diarrhea worsened or if she develops fever.
+
+ 
+Medications on Admission:
+-Vitamin E 1,000 unit Cap
+-Diovan 80 mg Tab
+1 Tablet(s) by mouth once a day
+-Grape Seed Extract 25 mg Cap
+-Femara 2.5 mg Tab
+1 Tablet(s) by mouth once a day
+-Lorazepam 1 mg Tab
+___ Tablet(s) by mouth up to bid prn
+-Calcium 250 mg Tab
+(dose uncertain)
+-dexamethasone 4 mg Tab
+1 Tablet(s) by mouth as directed Take one the night before and 
+one the morning of treatment.
+-Fosamax 70 mg Tab
+1 Tablet(s) by mouth q wk
+-Simvastatin 20 mg Tab
+1 Tablet(s) by mouth 
+-prochlorperazine maleate 10 mg Tab
+1 Tablet(s) by mouth twice a day as needed for nausea and 
+vomitting
+-Effexor XR 150 mg 24 hr Cap
+Capsule(s) by mouth 
+-Zolpidem 10 mg Tab
+1 Tablet(s) by mouth at bedtime
+-Metoprolol Succinate ER 100 mg 24 hr Tab
+1 Tablet(s) by mouth once a day
+-Prozac 10 mg Cap
+(dose uncertain)
+ 
+ 
+ 
+ 
+ 
+Discharge Medications:
+1. vitamin E 1,000 unit Capsule Sig: One (1) Capsule PO once a 
+day.  
+2. valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. grape seed extract 25 mg Capsule Oral
+4. letrozole 2.5 mg Tablet Sig: One (1) Tablet PO daily ().  
+5. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for anxiety.  
+6. calcium  Oral
+7. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO as directed: 
+Take one the night before and one the morning of treatment. .  
+8. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+
+9. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for at bed time.  
+10. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+BID (2 times a day) as needed for N/V.  
+11. venlafaxine 150 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO once a day.  
+12. zolpidem 10 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+13. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+14. fluoxetine 10 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+-Gastroenteritis
+
+Secondary:
+-Breast Cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the hospital for fevers, abdominal pain, 
+and diarrhea.  We feel this was likely an infection in your GI 
+tract.   You were given fluids and antibiotics, and you symptoms 
+improved. 
+
+Your blood counts were low (neutropenic) which is to be expected 
+with your recent chemo.  However, we wanted to observe you in 
+the hospital given your diarrhea, to ensure you were not having 
+worsening infection.  
+
+Your blood count and symptoms began to improve and we feel you 
+are ready for discharge.
+
+Please note that you should return to the hospital if you 
+develop more fevers or worsening abdominal pain and diarrhea.
+
+We did not change any of your medications.
+
+Please note your follow up appointments below.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-7 | hadm_id=24996496
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ is a ___ w/ metastatic triple negative right-sided
+breast ca on doxil who p/w new onset severe headaches associated
+w/ N/V. Headache is worst laying down, improves on standing. No
+vision changes, no weakness but feels fatigued. No CP/SOB. No
+coughing. No difficulty walking except feels fatigued. She
+presented to the ED where she had Benadryl, reglan, Compazine 
+and
+acetaminophen with improvement of her headache. Her neuro exam 
+in
+the ED was reportedly benign. She had an MRI and was transferred
+to ___. 
+
+On arrival to ___, pt had no new c/o. I informed her that her
+MRI revealed a new mass associated with edema. 
+
+REVIEW OF SYSTEMS: 
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___: RUL wedge resection of RUL metastatic nodule
+
+PAST MEDICAL HISTORY: 
+1.  Right breast cancer diagnosed at age ___ with recurrent
+metastatic disease
+2.  Hypercholesterolemia
+3.  Four cycles of Cytoxan and Adriamycin followed by four 
+cycles
+of Taxol
+4.  Radiation therapy to the breast followed by ___ years of
+tamoxifen
+5.  Early menopause
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a nonsmoker and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+VS: 98.2 PO 131 / 78 77 18 98 RA
+GENERAL: Pleasant, lying in bed comfortably with her husband at
+bedside
+EYES: Anicteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx clear without lesion, JVD not elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops 
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: SNT/ND
+MUSKULOSKELATAL: Warm, well perfused extremities without lower
+extremity edema; Normal bulk 
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function intact b/l upper and lower extremities, no dysmetria, 
+no
+disdiadokokinesia 
+SKIN: No significant rashes
+LYMPHATIC: No cervical, supraclavicular, submandibular
+lymphadenopathy. No significant ecchymoses
+ 
+Pertinent Results:
+___ 05:35AM BLOOD WBC-3.7* RBC-3.86* Hgb-12.4 Hct-37.8 
+MCV-98 MCH-32.1* MCHC-32.8 RDW-13.5 RDWSD-48.0* Plt ___
+___ 07:35PM BLOOD WBC-4.0 RBC-3.77* Hgb-12.3 Hct-36.7 
+MCV-97 MCH-32.6* MCHC-33.5 RDW-13.4 RDWSD-47.9* Plt ___
+___ 05:35AM BLOOD Glucose-142* UreaN-15 Creat-0.7 Na-141 
+K-4.3 Cl-104 HCO3-26 AnGap-11
+___ 07:35PM BLOOD Glucose-96 UreaN-15 Creat-0.8 Na-138 
+K-4.0 Cl-97 HCO3-28 AnGap-13
+___ 07:35PM BLOOD ALT-15 AST-19 AlkPhos-88 TotBili-0.3
+___ 05:35AM BLOOD Calcium-9.1 Phos-2.9 Mg-2.2
+___ 07:35PM BLOOD Albumin-4.3 Calcium-9.2 Phos-4.0 Mg-2.3
+
+MRI head
+
+1. 3.4 x 2.1 cm heterogeneously enhancing mass in the right 
+temporoparietal
+lobe with extensive vasogenic edema and 9 mm midline shift to 
+the left,
+concerning for metastasis given patient's history.
+ 
+Brief Hospital Course:
+___ w/ metastatic triple negative breast ca on doxil who p/w new 
+onset severe headaches associated w/ N/V found to have a new 
+brain mass, concerning for metastatic breast cancer.   
+
+# metastatic breast cancer: pt was followed by neurosurgery, 
+onc, neuro onc and radiation oncology while in the hospital.  
+Plan was made for surgical resection in the week following 
+discharge and she will likely receive adjuvant radiation.  She 
+was treated with steroids and keppra while in the hospital, 
+ultimately discharged on BID dexamethasone only per neuro onc 
+recs.  Pain meds and anti-emetics were titrated to control of 
+headache and nausea (tramadol and Compazine) with good effect 
+orally.  Pt was fully alert, oriented, independent in all adls, 
+ambulation and tolerating po intake normally, voiding normally, 
+and feeling well and strong enough to go home by the day of 
+discharge.   Plan is for neurosurgery to discuss her case in 
+multidisciplinary conference on ___, pt will be 
+contacted at home with plans for surgery and further care.   
+Neuro checks were normal throughout her hospitalization. 
+
+# CV: pt was started on valsartan and metop for cardioprotection 
+after herceptin.  Metop was continued in house and valsartan 
+held in setting of nl bps but restarted on discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. DULoxetine 60 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. Valsartan 40 mg PO DAILY 
+4. Zolpidem Tartrate 5 mg PO QHS 
+5. Acetaminophen 1000 mg PO Q8H 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. Vitamin E 400 UNIT PO DAILY 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. LORazepam 0.5 mg PO DAILY:PRN nausea or anxiety or insomnia 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 4 mg PO BID 
+Take at 8 AM and 4 ___ 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth twice a day Disp 
+#*20 Tablet Refills:*0 
+2.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+3.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg 1 tablet(s) by mouth every four hours as 
+needed for pain Disp #*30 Tablet Refills:*0 
+4.  Acetaminophen 1000 mg PO Q8H  
+5.  DULoxetine 60 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Prochlorperazine 10 mg PO Q6H:PRN nausea  
+8.  Simvastatin 20 mg PO QPM  
+9.  Valsartan 40 mg PO DAILY  
+10.  Vitamin E 400 UNIT PO DAILY  
+11.  Zolpidem Tartrate 5 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic breast cancer
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital for headache and were found to 
+have a lesion on your brain concerning for metastasis of your 
+breast cancer.  You were treated with pain and nausea control 
+and followed by neuro oncology, oncology, radiation oncology and 
+neurosurgery.  You will be discharged with plans for surgery 
+next week.
+
+As we discussed, the neurosurgery team will be discussing and 
+reviewing your case ___.  They will be contacting you 
+with the plan of care following this, including plans for 
+surgery.  If you have not heard from them by ___ then 
+please call them at the numbers below for an update (Dr. ___ 
+___, Neurosurgery)
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-5 | hadm_id=25438676
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lung nodule
+ 
+Major Surgical or Invasive Procedure:
+VATS LLL wedge resection ___
+
+ 
+History of Present Illness:
+Ms ___ is a ___ with a h/o right
+breast cancer ___, treated with breast conserving surgery and
+radiation therapy. The breast cancer recurred in the left 6th
+rib. In ___ she developed right breast DCIS stage 1b, underwent
+a simple mastectomy, received adjuvant chemo. She underwent a
+restaging PET-CT ___ which noted a 7mm LLL nodule, FDG avid
+(SUV 2.0), previously 4mm, non-avid. Additionally, a  non avid
+right middle lobe opacity has been stable since at least ___
+measuring 8 mm in size. She denies SOB, DOE, hemoptysis, weight 
+loss, she has good appetite, she is very active and generally 
+feels healthy.
+ 
+Past Medical History:
+R breast CA ___ c/ L 6th rib recurrence s/p letrozole/herceptin 
+(now off herceptin due to decr EF)
+
+PSH: R breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a non___ and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+PHYSICAL EXAM:  Vital Signs sheet entries for ___:
+BP: 116/80. Heart Rate: 73. Weight: 114.7. Height: 63. BMI: 
+20.3.
+Temperature: 98.0. Resp. Rate: 16. Pain Score: 5. O2 
+Saturation%:
+100. Distress Score: 3.
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Neck supple/NT/without mass
+[x] Trachea midline [x] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P     [x] Excursion normal     [x] No fremitus
+[x] No egophony    [x] No spine/CVAT
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [x] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] Strength intact/symmetric    [x] Sensation intact/ symmetric
+[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact
+[x] Cranial nerves intact   [ ] Abnormal findings:
+
+MS     
+
+        
+[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl
+[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl
+[x] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl
+[x] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
+
+OTHER:
+
+ 
+Pertinent Results:
+CXR ___
+
+IMPRESSION:  
+  
+In comparison with the study ___, the left chest tube has 
+been removed 
+and there is no evidence of pneumothorax.  The atelectatic 
+changes at the left 
+base are decreasing. 
+
+ 
+Brief Hospital Course:
+Ms ___ was brought to the OR ___ and underwent a VATS LLL 
+wedge resection. She tolerated the procedure well and was 
+transferred to PACU with chest tube placed on waterseal. Her 
+post op CXR showed no pneumothorax. She was transferred to the 
+floor in stable condition. On the floor, her pain was adequately 
+controlled initially with IV meds but she transitioned well to 
+PO meds. On POD 1 she experienced some nausea which was well 
+controlled with application of a scop patch. Her chest tube had 
+no leak, drainage was minimal, so the tube was pulled. Her post 
+pull film had no pneumothorax. The patient was tolerating her 
+diet, able to ambulate independently and pain was well 
+controlled, so she was discharged home POD1. She will f/u in 
+office in two weeks.
+ 
+Medications on Admission:
+FLUOXETINE - fluoxetine 20 mg capsule. 1 Capsule(s) by mouth
+daily -  (Prescribed by Other Provider)
+LETROZOLE [FEMARA] - Femara 2.5 mg tablet. 1 Tablet(s) by mouth
+once a day
+LORAZEPAM - lorazepam 1 mg tablet. ___ Tablet(s) by mouth up to
+bid prn -  (Prescribed by Other Provider)
+METOPROLOL SUCCINATE - metoprolol succinate ER 50 mg
+tablet,extended release 24 hr. 1 Tablet(s) by mouth daily
+SIMVASTATIN - simvastatin 20 mg tablet. 1 Tablet(s) by mouth  - 
+(Prescribed by Other Provider)
+VALSARTAN [DIOVAN] - Diovan 40 mg tablet. 1 Tablet(s) by mouth
+once a day
+VENLAFAXINE [EFFEXOR XR] - Effexor XR 150 mg capsule,extended
+release. Capsule(s) by mouth  -  (Prescribed by Other Provider)
+ZOLPIDEM - zolpidem 10 mg tablet. 1 Tablet(s) by mouth at 
+bedtime
+-  (Prescribed by Other Provider)
+CALCIUM - Dosage uncertain -  (OTC)
+VITAMIN E - Dosage uncertain -  (OTC)
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H 
+2. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+3. Docusate Sodium 100 mg PO BID 
+4. Fluoxetine 20 mg PO DAILY 
+5. letrozole 2.5 mg oral daily 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+8. Simvastatin 20 mg PO DAILY 
+9. Valsartan 40 mg PO DAILY 
+10. Venlafaxine XR 150 mg PO DAILY 
+11. Zolpidem Tartrate 10 mg PO HS 
+12. Scopolamine Patch 1 PTCH TD ONCE Duration: 72 Hours 
+13. Lorazepam 0.5 mg PO BID PRN anxiety 
+14. Milk of Magnesia 30 mL PO QHS:PRN constipation 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+lung nodule
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for lung surgery and you've 
+recovered well. You are now ready for discharge.
+* Continue to use your incentive spirometer 10 times an hour 
+while awake.
+* Check your incisions daily and report any increased redness or 
+drainage.   Cover the area with a gauze pad if it is draining.
+* Your chest tube dressing may be removed in 48 hours.  If it 
+starts to drain, cover it with a clean dry dressing and change 
+it  as needed to keep site clean and dry.
+* You will continue to need pain medication once you are home 
+but you can wean it over a few weeks as the discomfort resolves. 
+ Make sure that you have regular bowel movements while on 
+narcotic pain medications as they are constipating which can 
+cause more problems.  Use a stool softener or gentle laxative to 
+stay regular.
+* No driving while taking narcotic pain medication.
+* Take Tylenol  ___ mg every 6 hours in between your narcotic.  
+If your doctor allows you may also take Ibuprofen to help 
+relieve the pain.
+* Continue to stay well hydrated and eat well to heal your 
+incisions
+* Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+* No tub bathing, swimming or hot tubs until incision healed
+* No lotions or creams to incision site
+* Walk ___ times a day and gradually increase your activity as 
+you can tolerate.
+Call Dr. ___  ___ ___ or Dr 
+___ office at ___  if you experience:
+-Fevers > 101 or chills
+-Increased shortness of breath, chest pain or any other symptoms 
+that concern you.
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-6 | hadm_id=26146231
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+asymptomatic lung nodule
+ 
+Major Surgical or Invasive Procedure:
+___
+1.  Robotic-assisted right upper lobe wedge resection.
+2.  Mediastinal lymph node dissection.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ F s/p ___ VATS LLL wedge resection for
+breast cancer metastasis, who now has an enlarging RUL nodule 
+c/w
+breast cancer met on ___ biopsy. She presents now for surgical 
+resection.
+
+She reports feeling well and denies fever/chills, dyspnea, 
+cough,
+headache, or chest pain
+
+ 
+Past Medical History:
+R breast CA ___ c/ L 6th rib recurrence s/p letrozole/herceptin 
+(now off herceptin due to decr EF)
+
+PSH: R breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a ___ and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+PE T 97.9 HR 73 BP 121/78 RR 16 ___ 100RA
+Gen:  NAD
+Chest: Clear to ausc
+Cor: RRR
+Extrem: No CCE
+
+ 
+Pertinent Results:
+___ CXR :
+1. No evidence of pneumothorax after interval removal of chest 
+tube. 
+2. Stable enlargement of right hilus that is unchanged from 
+previous 
+radiographs. 
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the hospital and taken to the Oerating 
+Room where she underwent a robotic-assisted right upper lobe 
+wedge resection and mediastinal lymph node dissection. She 
+tolerated the procedure well and returned to the PACU in stable 
+condition. She maintained stable hemodynamics and her pain was 
+controlled with IV Dilaudid and Tylenol.  Her ___ drain put 
+out minimal amounts of thin bloody fluid and had no air leak.
+
+Following transfer to the Surgical floor she progressed well. 
+Her chest drain was removed on post op day #1 after a successful 
+clamp trial which was done for an intermittent air leak and her 
+post pull chest xray revealed no pneumothorax. She was up and 
+walking independently with room air saturations of 95% and she 
+was using her incentive spirometer though needed to be more 
+attentive to it.  Her port sites were healing well.
+
+After an ___ hospital stay she was discharged to home 
+on ___ and will follow up in the Thoracic Clinic with Dr. 
+___ in 2 weeks.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Valsartan 40 mg PO DAILY 
+2. Zolpidem Tartrate 5 mg PO QHS 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Simvastatin 20 mg PO QPM 
+5. DULoxetine 60 mg PO DAILY 
+6. Vitamin E 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*100 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*2 
+3.  Milk of Magnesia 30 mL PO Q12H:PRN Constipation - First Line 
+ 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+5.  DULoxetine 60 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY 
+start ___  
+7.  Simvastatin 20 mg PO QPM  
+8.  Valsartan 40 mg PO DAILY  
+9.  Vitamin E 400 UNIT PO DAILY  
+10.  Zolpidem Tartrate 5 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic breast cancer.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+* You were admitted to the hospital for lung surgery and you've 
+recovered well. You are now ready for discharge. 
+
+* Continue to use your incentive spirometer 10 times an hour 
+while awake.
+
+* Check your incisions daily and report any increased redness or 
+drainage.   Cover the area with a gauze pad if it is draining.
+
+* Your chest tube dressing may be removed in 48 hours.  If it 
+starts to drain, cover it with a clean dry dressing and change 
+it  as needed to keep site clean and dry.
+
+ * You may need pain medication once you are home but you can 
+wean it over the next week as the discomfort resolves.  Make 
+sure that you have regular bowel movements while on narcotic 
+pain medications as they are constipating which can cause more 
+problems.  Use a stool softener or gentle laxative to stay 
+regular.
+
+* No driving while taking narcotic pain medication.
+
+* Take Tylenol for pain.  
+
+* Continue to stay well hydrated and eat well to heal your 
+incisions
+
+* Shower daily. Wash incision with mild soap & water, rinse, pat 
+dry
+ * No tub bathing, swimming or hot tubs until incision healed
+ * No lotions or creams to incision site
+
+* Walk ___ times a day and gradually increase your activity as 
+you can tolerate.
+
+Call Dr. ___ ___ if you experience:
+ -Fevers > 101 or chills
+ -Increased shortness of breath, chest pain or any other 
+symptoms that concern you.
+
+ 
+
+** If pathology specimens were sent at the time of surgery, the 
+reports will be reviewed with you in detail at your follow up 
+appointment. This will give both you and your doctor time to 
+understand the pathology, its implications and discuss options 
+going forward.**
+
+ 
+
+ 
+
+ 
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-8 | hadm_id=27448526
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+adhesive tape / ondansetron
+ 
+Attending: ___.
+ 
+Chief Complaint:
+R parietal brain mass
+ 
+Major Surgical or Invasive Procedure:
+___ Right Craniotomy and resection of tumor (Dr. ___ 
+
+ 
+History of Present Illness:
+___ y/o female with a PMH significant for h/o Breast CA, s/p
+lumpectomy x2, s/p mastectomy s/p RUL wedge rxn x2, most recent
+in ___, found to have right brain lesion on work up of 
+headache. She presented for elective craniotomy for resection. 
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+- ___: RUL wedge resection of RUL metastatic nodule
+
+PAST MEDICAL HISTORY: 
+1.  Right breast cancer diagnosed at age ___ with recurrent
+metastatic disease
+2.  Hypercholesterolemia
+3.  Four cycles of Cytoxan and Adriamycin followed by four 
+cycles
+of Taxol
+4.  Radiation therapy to the breast followed by ___ years of
+tamoxifen
+5.  Early menopause
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a ___ and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils: PERRL 4-3mm              EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No Tongue Midline: [x]Yes [ ]No
+
+Pronator Drift: [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: Closed with staples; clean, dry and intact. 
+
+ 
+Pertinent Results:
+please see OMR for pertinent results 
+ 
+Brief Hospital Course:
+#Brain tumor
+Patient was taken to the OR on ___ with Dr. ___ underwent 
+craniotomy for tumor resection. Procedure was uncomplicated; 
+please see operative report for full details. She was started on 
+keppra x1 week and decadron 3 day taper to off. Postop head CT 
+showed expected postop changes and no acute complications. She 
+was transferred to the ___ and on POD#1 made floor status. 
+Postop MRI showed improved shift and no evidence of residual 
+tumor. She worked with ___ and was cleared for discharge home 
+with services. She was cleared for discharge on POD#4. At time 
+of discharge pain was well controlled on oral medication, she 
+was ambulating with cane, and tolerating PO diet. 
+
+#Delirium
+Patient had episode of anxiety and feeling like the floor was 
+shaking on POD#3. Psych was consulted and she was started on 
+Zyprexa with improvement. Home Ambien was held. She was 
+discharged on Zyprexa qHS PRN x1 week and will follow up with 
+her outpatient psychiatrist this week. 
+ 
+Medications on Admission:
+Duloxetine 60mg daily; metoprolol XL 50mg; Simvastatin 40mg; 
+Valsartan 40mg; Vitamin E 400 daily; Zolpidem 5 QHS
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q4H:PRN fever or pain  
+2.  Docusate Sodium 100 mg PO BID  
+3.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth every 12 hours 
+Disp #*7 Tablet Refills:*0 
+4.  OLANZapine 2.5 mg PO QHS:PRN anxiety/insomnia 
+RX *olanzapine 2.5 mg 1 tablet(s) by mouth nightly Disp #*7 
+Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 8 hours Disp #*20 
+Tablet Refills:*0 
+6.  Senna 17.2 mg PO QHS  
+7.  DULoxetine 60 mg PO DAILY  
+8.  Metoprolol Succinate XL 50 mg PO DAILY  
+9.  Simvastatin 20 mg PO QPM  
+10.  Valsartan 40 mg PO DAILY  
+11.  Vitamin E 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right Parietal Brain Mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Brain Tumor
+
+Surgery
+-  You underwent surgery to remove a brain lesion from your 
+brain.  
+-  You may shower at this time but keep your incision dry. 
+-  Please keep your incision dry until your staples are removed. 
+
+-  Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+-  Final pathology will be discussed at your follow up 
+appointment. 
+
+Activity
+-  We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+-  You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+-  No driving while taking any narcotic or sedating medication. 
+
+Medications
+-  Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+- You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction, for 1 
+week postoperatively. It is important that you take this 
+medication consistently and on time. 
+-  You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+-  Your Ambien was held postoperatively. You were started on 
+olanzapine 2.5mg prn for anxiety/insomnia, which was recommended 
+by our psychiatrist. You may take this every night as needed. 
+Please follow up with your outpatient psychiatrist to re-assess 
+medications this week. 
+
+What You ___ Experience:
+-  You may experience headaches and incisional pain. 
+-  You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+-  You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+-  Feeling more tired or restlessness is also common.
+-  Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+-  Severe pain, swelling, redness or drainage from the incision 
+site. 
+-  Fever greater than 101.5 degrees Fahrenheit
+-  Nausea and/or vomiting
+-  Extreme sleepiness and not being able to stay awake
+-  Severe headaches not relieved by pain relievers
+-  Seizures
+-  Any new problems with your vision or ability to speak
+-  Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+-  Sudden numbness or weakness in the face, arm, or leg
+-  Sudden confusion or trouble speaking or understanding
+-  Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+-  Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=16209157-DS-3 | hadm_id=29150468
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Right breast carcinoma.
+ 
+Major Surgical or Invasive Procedure:
+Right total mastectomy 
+
+ 
+History of Present Illness:
+This is a ___ year old female with history of breast carcinoma 
+who is status post lumpectomy complicated with rib mets, now 
+with likely primary breast carcinoma (invasive ductal) who 
+presents for a right total mastectomy.
+ 
+Past Medical History:
+R breast CA ___ c/ L 6th rib recurrence s/p letrozole/herceptin 
+(now off herceptin due to decr EF)
+
+PSH: R breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Her family history is  positive in a sister diagnosed at age ___ 
+with breast cancer who is alive and well at ___.  Her mother had 
+lung cancer, was a non___ and died at ___ in ___.  Her 
+father died at age ___. She has one sister ___ and a brother ___.
+
+ 
+Physical Exam:
+Vital Signs:98.2, 102, 130/83, 18, 98% room air
+General:no acute distress, alert and oriented x3 
+Cardiac: regular rhythm and rate, no mumur, rubs or gallops
+Pulmonary: clear to auscultate bilaterally,no wheeze,no rhonchi
+Abdomen: soft nontender, nondistended, no rebound guarding, 
++bowel sounds
+Incision:  right mastectomy incision with steri strips clean, 
+dry and intact, no erythema, no edema. Jp drain intact to bulb 
+suction with serosanguineous drainage.
+Extremities: +2 dorsalis pedis, no edema
+
+ 
+Pertinent Results:
+___ 06:20AM BLOOD WBC-6.2# RBC-3.59* Hgb-11.8* Hct-36.6 
+MCV-102* MCH-32.8* MCHC-32.2 RDW-12.8 Plt ___
+___ 06:20AM BLOOD Glucose-120* UreaN-12 Creat-0.6 Na-137 
+K-4.0 Cl-99 HCO3-30 AnGap-12
+___ 06:20AM BLOOD Calcium-8.9 Phos-3.1 Mg-1.9
+ 
+Brief Hospital Course:
+This patient is a ___ year old female with history of right beast 
+carcinoma, status post right total mastectomy under general 
+anesthesia on ___. The patient tolerated the procedure well 
+and was brought to the recovery room. In the PACU had brief 
+episode of tachycardia to 120's noted with dry heaves.She has 
+been restarted on all her home dose antihypertensives and has 
+been in a normal sinus rhythm in ______. She received a 
+scopolamine patch and PRN antiemetics and was NPO. On 
+postoperative day 1 had mild nausea in the morning which 
+resolved spontaneously. The diet was advanced from clears to 
+regular which was tolerated well. Dilaudid patient care 
+analgesia was discontinued and was transitioned to oral 
+analgesia. Her pain was adequately controlled with standing 
+Tylenol and PRN oxycodone.  The mastectomy incision is clean, 
+dry intact, no erythema, no hematoma noted.  There is one ___ 
+drain  intact to bulb suction with serosanguineous drainage. She 
+is voiding and ambulating independently. On POD 1 patient was 
+given home dose of ambien and had an episode of confusion that 
+resolved overnight. She is being discharged on POD 2 home with 
+___ services to monitor her JP drain output. She will follow-up 
+with Dr. ___ in 1 week. 
+
+ 
+Medications on Admission:
+Alendronate 70 qwk, prozac 30 QD
+Letrozole(femara) 2.5 QD
+Lorazepam 0.5 BID PRN
+Toprol 100 QD
+Simvastatin 20 QD
+Valsartan 80 QD
+Venlafaxine 150 QD
+Zolpidem 10 QD PRN
+Calcium
+Grape seed extract
+Vitamin E. 
+ 
+Discharge Medications:
+1. valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. fluoxetine 10 mg Capsule Sig: Three (3) Capsule PO DAILY 
+(Daily).  
+3. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+4. venlafaxine 75 mg Capsule, Ext Release 24 hr Sig: Two (2) 
+Capsule, Ext Release 24 hr PO DAILY (Daily).  
+5. zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+6. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. letrozole 2.5 mg Tablet Sig: One (1) Tablet PO qDay () as 
+needed for breast CA.  
+8. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q 8H (Every 8 
+Hours).  
+9. oxycodone 5 mg Tablet Sig: 2.5-5 mg Tablets PO Q4H (every 4 
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right Breast Carcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Personal Care: 
+1. Leave your mastectomy/chest incision open to air. You may 
+cover with a clean, dry dressing daily if this is more 
+comfortable
+2. Clean around the drain site(s), where the tubing exits the 
+skin, with soap and water. 
+3. Strip drain tubing, empty bulb(s), and record output(s) ___ 
+times per day. 
+4. A written record of the daily output from your drain should 
+be brought to every follow-up appointment. Your drain will be 
+removed as soon as possible when the daily output tapers off to 
+an acceptable amount. 
+5. You may shower daily. No baths until instructed to do so by 
+Dr. ___. 
+6. You may wear a soft, non-restrictive camisole but no tight or 
+underwire bras. 
+Activity: 
+1. You may resume your regular diet. 
+2. DO NOT lift anything heavier than 5 pounds or engage in 
+strenuous activity until instructed by Dr. ___. 
+Medications: 
+1. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered. 
+2. You may take your prescribed pain medication for moderate to 
+severe pain. You may switch to Tylenol or Extra Strength Tylenol 
+for mild pain as directed on the packaging. Please note that 
+Percocet and Vicodin have Tylenol as an active ingredient so do 
+not take these meds with additional Tylenol. 
+3. Take prescription pain medications for pain not relieved by 
+tylenol. 
+4. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication. You may use a different 
+over-the-counter stool softener if you wish. 
+5. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+Call the office IMMEDIATELY if you have any of the following: 
+1. Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s). 
+2. A large amount of bleeding from the incision(s) or drain(s). 
+3. Fever greater than 101.5 oF 
+4. Severe pain NOT relieved by your medication. 
+ 
+Return to the ER if: 
+* If you are vomiting and cannot keep in fluids or your 
+medications. 
+* If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you. 
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+DRAIN DISCHARGE INSTRUCTIONS 
+You are being discharged with drains in place. Drain care is a 
+clean procedure. Wash your hands thoroughly with soap and warm 
+water before performing drain care. Perform drainage care twice 
+a day. Try to empty the drain at the same time each day. Pull 
+the stopper out of the drainage bottle and empty the drainage 
+fluid into the measuring cup. Record the amount of drainage 
+fluid on the record sheet. Reestablish drain suction
+
+ 
+Followup Instructions:
+___

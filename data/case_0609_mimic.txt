@@ -1,0 +1,174 @@
+===== DISCHARGE NOTE =====
+note_id=14200955-DS-5 | hadm_id=22012888
+
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+neck and L.arm pain
+ 
+Major Surgical or Invasive Procedure:
+C5 to C7 anterior cervical discectomy and fusion with 
+instrumentation ___
+ 
+History of Present Illness:
+___ y.o woman with h.o GERD, spinal stenosis/sciatica,  who 
+presented for evlauation of lower neck pain with radiation down 
+the entire L.arm/hand. Pt reports symptoms developed acutely 
+while in ___ but denies any trauma. Pt reports pain has 
+been severe ___ since onset. Pain is sharp and twisting with 
+painful radiation down the arm and is worse with neck extension. 
+She has been sleeping upright due to this. She presented to 
+___ in ___ and was given tylenol with codeine. She then 
+presented to her son's PCP and was given dilaudid, flexeril and 
+gabapentin and a medrol dose back which end 1 week ago. She 
+reports that her pain has continued and the medications have 
+caused dizziness, nausea and vomiting. Reports pain x3 weeks 
+without new changes. MRI done on ___ and cortisone injection 
+on ___ by Dr. ___. Pt denies fever, chills, paresthesias, 
+weakness, bowel or bladder incontinence or difficulty 
+evacuating. She has chronic unchanged constipation. No headache. 
+She also denies CP, sob, cough, ST, abdominal pain, diarrhea, 
+dysuria, other joint pains.
+
+In the ___, pt was given oxycodone, ketorolac, acetaminophen, 
+diazepam and zofran. ___ d/w ___ who recommended outpt f/u.  
+VSS in the ___
+.
+Other 10 pt ROS reviewed and otherwise negative
+ 
+Past Medical History:
+___ ESOPHAGUS 
+COLONIC POLYPS 
+GASTROESOPHAGEAL REFLUX 
+HYPERCHOLESTEROLEMIA 
+OVARIAN CYSTS 
+ABDOMINAL PAIN 
+SPINAL STENOSIS 
+VENOUS MALFORMATION 
+
+ 
+Social History:
+___
+Family History:
+Other COLON CANCER 
+  CORONARY ARTERY DISEASE 
+  
+Mother MYOCARDIAL INFARCTION 
+  
+Aunt ___ CANCER 
+  
+Other BREAST CANCER 
+  UTERINE CANCER 
+
+ 
+Physical Exam:
+GEN: well appearing, NAD
+vitals: VSS
+HEENT: ncat eomi anicteric MMM
+neck: supple, able to move in all directions but limited 
+extension
+chest: b/l ae no w/c/r
+heart: s1s2 rr no m/r/g
+abd: +bs, soft, NT, ND
+ext: no c/c/e 2+pulses
+neuro: face symmetric, speech fluent, ___ strength b/l UE and 
+___, sensation intact to LT, no tremor
+psych: calm, cooperative
+ 
+Pertinent Results:
+MRI C ___ IMPRESSION:
+1.  Enlarged left-sided disc protrusion at C6-7 since ___,
+now with moderate to severe left C7 foraminal stenosis.  Mild
+central stenosis at C6-7 with slight cord impingement, and
+moderate to severe right C7 foraminal stenosis, stable.
+2.  Moderate left C5 foraminal stenosis, worse since ___.
+3.  Moderate central stenosis at C5-6 with moderate cord
+deformity and severe bilateral C6 foraminal stenosis, stable.
+4.  Mild to moderate bilateral C4 foraminal stenosis, without
+change.
+
+___ 08:25AM BLOOD WBC-4.1 RBC-3.85* Hgb-12.4 Hct-36.0 
+MCV-94# MCH-32.2* MCHC-34.4 RDW-13.6 Plt ___
+___ 08:25AM BLOOD Plt ___
+___ 08:25AM BLOOD ___ PTT-31.9 ___
+___ 08:25AM BLOOD Glucose-89 UreaN-8 Creat-0.6 Na-137 K-4.0 
+Cl-102 HCO3-28 AnGap-11
+___ 08:25AM BLOOD Calcium-9.6 Phos-4.6* Mg-2.___ y.o woman with neck and arm pain with recent MRI revealing 
+cervical stenosis
+.
+#neck and arm pain due to cervical stenosis and radiculopathy-
+She underwent surger on ___
+.
+#constipation-bowel regimen
+ Required mag citrate and mineral oil.  Once home, she has a 
+regimen that tends to work for her.  She should curtail use of 
+oxycodone.
+
+#GERD-ppi
+.
+#depression-continue SSRI
+.
+#FEn-regular diet with mechanical soft diet.
+
+#code-full
+#dispo-home.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Benefiber (guar gum) (guar gum) unknown  oral daily 
+2. Citalopram 20 mg PO DAILY 
+3. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+4. Omeprazole 20 mg PO DAILY 
+5. Simvastatin 20 mg PO QPM 
+6. Gabapentin 300 mg PO TID 
+7. Cyclobenzaprine 10 mg PO HS:PRN spasm 
+
+ 
+Discharge Medications:
+1. Citalopram 20 mg PO DAILY 
+2. Cyclobenzaprine 10 mg PO HS:PRN spasm 
+3. Gabapentin 300 mg PO TID 
+4. Omeprazole 20 mg PO DAILY 
+5. Simvastatin 20 mg PO QPM 
+6. Bisacodyl 10 mg PO/PR DAILY constipation 
+RX *bisacodyl 5 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0
+7. Diazepam 5 mg PO Q6H:PRN spasms 
+RX *diazepam 5 mg 1 tablet by mouth q6 hrs Disp #*80 Tablet 
+Refills:*0
+8. OxycoDONE Liquid ___ mg PO Q3H:PRN pain 
+RX *oxycodone 5 mg/5 mL ___ mls by mouth q4 hrs Refills:*0
+9. Benefiber (guar gum) (guar gum) 1 dose ORAL DAILY 
+10. Celecoxib 100 mg PO BID:PRN pain 
+RX *celecoxib [Celebrex] 100 mg 1 capsule(s) by mouth twice a 
+day Disp #*60 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cervical radiculitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Keep hard collar on at all times until follow up.
+ 
+Followup Instructions:
+___

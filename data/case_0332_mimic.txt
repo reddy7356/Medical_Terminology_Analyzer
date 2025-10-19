@@ -1,0 +1,225 @@
+===== DISCHARGE NOTE =====
+note_id=13246666-DS-11 | hadm_id=20506018
+
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Left heart catheterization
+PCI with DES x1 in LCx and DES x1 in RCA
+
+ 
+History of Present Illness:
+___ year old male with hx. HLD presenting with c/o chest pain in 
+setting of abnormal stress test. Patient has had chest pain with 
+exertion for approximately 2 weeks. Was referred to ___ 
+cardiology and underwent ECHO stress test ___ which was 
+positive, undewent CT coronaries ___ which showed severe RCA 
+and LAD stenosis as well as LMCA stenosis. Patient was scheduled 
+for a cath tomorrow by ___ cardiologist however 
+complained of chest pain at rest so was referred to ___.  
+
+Patient reports development of chest pain this AM while sitting 
+in chair, similar to pain developed during stress test. Rates it 
+___ at it worst, left sided, radiating to left shoulder, worse 
+with exertion and improved with rest. Denies n/v/diaphrosis, no 
+dyspnea. Patient took 650mg aspirin this AM, discussed this pain 
+with his cardiologist who referred him to the ___. In the ___, his 
+pain initially resolved without nitro but returned approximately 
+2h ago.  
+
+Vitals in the ___ were Temp: 97.7 HR: 61 BP: 147/94 
+Resp: 16 O(2)Sat: 98 Normal. After discussions with the ___ team 
+and cardiology, the decision was made to transfer to ___ for 
+unstable angina and possible cath. He was started on a heparin 
+gtt prior to transfer. His initial troponin was < 0.01 (at 
+1500).  
+ 
+In the ___ ___, initial VS: 97.7 58 150/94 16 97%. He was 
+evaluated by the cards attending in the ___ who recommended cath 
+in the AM.  
+On the floor patient currently has very mild residual chest 
+pain, rated ___, which has been longstanding today. Patient 
+also wonders if he has a component of anxiety contribting to it. 
+Denies dyspnea, palpitations, lightheadedness, or dizziness.  
+ 
+Review of Systems:  
+(+) as above  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, 
+melena, hematochezia, dysuria, hematuria.  
+ 
+Past Medical History:
+Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+No history of early MIs, HTN in father.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals- 97.5 138/88 hr 60 18 97% RA  
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1 + S2, ___ systolic murmur 
+heard at apex  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses radial and pedal, no 
+clubbing, cyanosis or edema  
+Neuro- CNs2-12 intact, motor function grossly normal 
+
+DISCHARGE PHYSICAL EXAM:
+Vitals- T98.5 BP123/78 P55 RR18 97RA
+Exam unchanged from admission
+ 
+Pertinent Results:
+PERTINENT LABS:
+___ 12:33AM BLOOD CK-MB-5 cTropnT-<0.01
+___ 09:20AM BLOOD CK-MB-5 cTropnT-<0.01
+___ 07:00AM BLOOD CK-MB-5 cTropnT-<0.01
+___ 07:00AM BLOOD Glucose-109* UreaN-16 Creat-0.9 Na-138 
+K-4.0 Cl-103 HCO3-25 AnGap-14
+
+CARDIAC CATHETERIZATION ___:
+Coronary angiography:  right dominant
+LMCA:  20% distal stenosis
+LAD:  Proximal 80% stenosis diffuse.  Mild luminal 
+irregularities
+LCX:  Mild luminal irregularities
+RCA:  Proximal diffuse 80% stenosis
+Interventional details
+Right radial access could not be obtained due to vessel spasm. 
+Change for 6 ___ XBLAD3.5 guide.  Crossed with a Prowater 
+wire.  Predilated with a 2.5 mm balloon.  Deployed a 2.75 x 28 
+mm Promus Element drug-eluting stent and postdilated the 
+proximal portion with a 3.0 mm balloon.  Final angiography 
+revealed normal flow, no dissection and 0% residual stenosis in 
+the stent. Origin jailed diagonal had 70% stenosis and normal 
+flow so thus was not rescued.  Attention was then turned to the 
+RCA.  A 6 ___ JR4 guide was used.  A Prowater wire crossed.  
+A 2.75 x 18mm Resolute stent was deployed.  Final angiography 
+revealed normal flow, no dissection and 0% residual stenosis in 
+the stent. The patient tolerated the procedure well and left the 
+laboratory in stable condition.  The right common femoral 
+arteriotomy was closed with an Angioseal device.
+Assessment & Recommendations
+ 1. Secondary prevention CAD
+ 2. ASA 81 mg PO QD
+ 3. Plavix 75 mg PO QD x 12 months uninterrupted
+ 4. Follow-up Dr. ___
+ 
+___ Hospital Course:
+___ male with h/o hyperlipidemia, LVH with LVOT obstruction, 
+former 18-pack year smoker (quit several days ago), with recent 
+abnormal CT coronary angiogram who presented with unstable 
+angina and now s/p PCI with stent placement.
+
+#Unstable angina: Patient had recent chest pain on exertion 
+started in early ___, subsequently had abnormal stress ECHO 
+with ischemic EKG changes so was sent for CT coronary angiogram. 
+This showed severe RCA and LAD stenosis as well as LMCA 
+stenosis. He was scheduled for cardiac catheterization for day 
+of admission but then experienced chest pain at rest so went to 
+___ and transferred to ___ for cardiac 
+catheterization. On admission, no acute EKG changes or elevated 
+cardiac biomarkers. He underwent cardiac catheterization/PCI on 
+___ with drug-eluting stent in the LAD and drug-eluting 
+stent in the RCA. Afterwards, patient had no chest pain, 
+palpitations, dyspnea, right groin pain, back pain, numbness or 
+tingling. Patient started on ASA 81mg, Plavix 75mg, metoprolol 
+XL 25mg, and atorvastatin 80mg. Patient will follow up with his 
+outpatient cardiologist Dr. ___.
+
+TRANSITIONAL ISSUES:
+-Patient to follow up with Dr. ___ two weeks of 
+discharge.
+-Plavix for minimum of ___ year
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Atorvastatin 80 mg PO DAILY 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2
+2. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet extended release 24 
+hr(s) by mouth daily Disp #*30 Tablet Refills:*2
+4. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+RX *nitroglycerin [Nitrostat] 0.3 mg 1 tab sublingually 1 tab 
+every 5 minutes, maximum 3 tabs. If not resolved by 2nd dose, 
+call ___ then take 3rd dose. Disp #*30 Tablet Refills:*0
+5. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Unstable angina
+CAD s/p PCI with DES in LCx and DES in RCA
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you during your stay at ___. 
+You were admitted for cardiac catheterization because of chest 
+pain and abnormal CT coronary angiogram. We found severe disease 
+in two coronary arteries so you had a stent placed in your left 
+anterior descending artery and a stent placed in your right 
+coronary artery. 
+
+It is important that you take Aspirin and Plavix (clopidogrel) 
+every day to prevent a clot from forming in these stents. Do not 
+stop these medications without speaking to your cardiologist. 
+You were also started on several new medications to optimize 
+your heart health. Please stop taking Simvastatin, it was 
+replaced with Atorvastatin.
+
+You were given a prescription for sublingual nitroglycerin to 
+take if you have chest pain. Take one tab every 5 minutes, 
+maximum 3 tabs. If chest pain does not resolve by second tab, 
+call ___ then take ___ tab. Do not take this medication if you 
+had taken Viagra or Cialis in the preceeding 24 hours. In this 
+situation, call ___ if having chest pain.
+
+Please follow up with your Primary Care doctor within ___ week of 
+discharge and with your Cardiologist (Dr. ___ within two 
+weeks of discharge.
+ 
+Followup Instructions:
+___

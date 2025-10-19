@@ -1,0 +1,1908 @@
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-15 | hadm_id=20277098
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Admitted for a colonoscopy prep
+<br>
+Patient arrived on the floor at 7:00 pm on ___.
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy prep
+ 
+History of Present Illness:
+The patient is an ___ y.o. F with dementia, CVA, type II DM 
+present with fatigue x 3 months and iron deficiency anemia who 
+presents for prep for colonoscopy EGD today with Dr. ___: (obtained from dtr and pt since pt is a poor historian)
+GEN:  - fevers, - chills, - night sweats, + fatigue, decreased 
+interest in activites, decreased exercise tolerance and overall 
+deconditioning, 9 lb weightloss
+HEENT:  no vision changes- using a magnifying glass which is 
+stable, no tinnitus, no loss of hearing, no dysphagia
+no headache, no sinus tenderness, no rhinorrhea or no 
+congestion. 
+CV:  no chest pain 
+RESP:  occasional cough with eating, no shortness of breath, no 
+orthopnea, no PND
+GI:  no abdominal pain, no nausea, no emesis, no diarrhea, no 
+constipation, heartburn, hematochezia, no change in bowel habits
+GU:  no dysuria, hematuria, hesitancy, or change in frequency, 
+change in bladder habits, vaginal discharge. S/p 7 day course of 
+cipro for a UTI which manifested itself as incontinence, 
+lethargy and fatigue.
+SKIN:  no rashes, no lesions, no pressure ulcers
+NEURO: no weakness, paresthesias, numbness, headaches, dizziness
++ FALLS
+MUSCULOSKELETAL:  no arthralgias, myalgias 
+PSYCH:  + sadness and decreased interest in life. No 
+hallucinations.  
+All other review of systems negative.
+
+ 
+Past Medical History:
+1.  Hyperlipidemia.  On Lipitor.
+2.  Type 2 diabetes.  HbA1C ___.
+3.  Hypertension, treated with lisinopril.
+4.  Osteopenia, history of fracture.  Fosamax without 
+complaints.
+5.  Status post CVA, ___.  Right cerebral artery CVA, embolism. 
+
+Recent increasing left-sided weakness, walker. Negative MRA. 
+6.  Bladder urgency treated with Imipramine.  History of 
+recurrent UTI on Macrobid prophylaxis.  
+7.?  Neuropathy, left leg pain.
+8.  GERD, treated with Prevacid.
+9.  Recurrent falls.  Has had mild injuries in the past 
+including
+rib fractures.  No recent falls.
+10. Short-term memory disorder. ?Age related versus Alzheimer's.
+11. History of mildly abnormal liver function.
+
+ 
+Social History:
+___
+Family History:
+father had afib and CVA in ___.
+Two cousins with colon cancer.
+
+ 
+Physical Exam:
+VS T = 97 P = 81 BP = 163/72 RR = 16 O2Sat = 100% on RA, 
+GENERAL: Elderly frail female
+Nourishment: At risk
+Grooming: OK
+Mentation: Alert attentive. No signs of delirium on exam. Clear 
+STM deficit on exam. 
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus 
+noted
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP  
+Neck: supple, no JVD or carotid bruits appreciated  
+Respiratory: Lungs CTA bilaterally without R/R/W  
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted  
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Rectal not performed as patient about to receive prep.
+Genitourinary:wnl
+Skin: no rashes or lesions noted. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP and ___ pulses 
+b/l.  
+Lymphatics/Heme/Immun: No cervical, lymphadenopathy noted.  
+Neurologic:  
+-mental status: Alert, oriented x 2. 
+-cranial nerves: II-XII intact  
+-motor: normal bulk, strength and tone throughout. No abnormal 
+movements noted.  
+-sensory: No deficits to light touch throughout.  
+-cerebellar: No nystagmus, dysarthria, intention or action 
+tremor, 
+No foley catheter/tracheostomy/PEG/ventilator support/chest 
+tube/colostomy
+Psychiatric:Limited affect. She appears apathetic and withdrawn. 
+
+
+ 
+Pertinent Results:
+Hematology 
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+___ 03:45PM    10.2 4.24 12.1 37.5 88 28.6 32.3 13.8 333 
+
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas 
+___ 03:45PM    70.1*   21.9 5.7 1.7 0.5     
+BASIC COAGULATION ___, PTT, PLT, INR) Plt Ct 
+___ 03:45PM    333 
+ 
+Chemistry 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 03:45PM      23* 0.9 139 4.5 ___ 
+ESTIMATED GFR (MDRD CALCULATION) estGFR 
+___ 03:45PM    Using this1 
+
+Using this patient's age, gender, and serum creatinine value of 
+0.9,
+Estimated GFR = 60 if non ___ (mL/min/1.73 m2)
+Estimated GFR = 73 if ___ (mL/min/1.73 m2)
+For comparison, mean GFR for age group ___+ is ___ (mL/min/1.73 
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure0000 
+ 
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+___ 03:45PM    14 16             
+PITUITARY TSH 
+___ 03:45PM    2.5 
+<br>
+Cardiac stress:
+MIBI ___: 
+Left ventricular cavity size is normal. 
+Rest and stress perfusion images reveal uniform tracer uptake 
+throughout the left ventricular myocardium. 
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 57%. 
+IMPRESSION: Normal myocardial perfusion, LV size and wall 
+motion. 
+<br>
+ 
+
+ 
+Brief Hospital Course:
+___ year old lady with DM 2, HTN, hyperlipidemia and h/o CVA, 
+dementia admitted for prep for colonoscopy. She will also have 
+an EGD as part of her evaluation of fatigue and iron deficiency 
+anemia. Pt was alert and asymptomatic after procedures.  She 
+walked around with the walker she uses at ___ RN and daughter 
+and did well. Pt was discharged to ___ the day of the procedure
+<br>
+Colonoscopy Prep:
+Pt Underwent EGD and colonoscopy, which showed only internal 
+hemorrhoids. She had duodenal biopsies, which will need to be 
+followed up by PCP.
+Anemia: No active bleeding during this stay. Microcytic anemia 
+with low boderline iron during her recent admission. 
+Iron held. 
+
+# Diabetes Mellitus type 2: Last Hemoglobin A1C = 7.0 in ___. Held metformin/glyburide until patient is taking normal po 
+intake. Told to resume at discharge once eating
+.
+# Hyperlipidemia: Continued on out patient atorvastatin.
+.
+# history of cerebrovascular accident: Residual left sided 
+weakness.  Not an active issue at this time. ASA/Aggrenox to be 
+restarted the next day
+.
+# Recurrent Urinary Tract Infection: Continued out patient 
+macrobid prophylaxis and imipramine for urinary urgency.
+.
+# Osteopenia: Continued weekly fosamax. 
+.
+# Prophylaxis: Subcutaneous heparin, proton pump inhibitor
+.
+# Contact: Daughter, ___, ___
+.
+# Code: Full code, discussed with patient and dtr. 
+Discussed with dtr- HCP at length. Dtr is aware that she has 
+dementia, an irreverisble condition. Pt's short term memory 
+deficits are clearly apparent during this admission. There is a 
+concern for depression worsening her cognitive performance. 
+
+ 
+Medications on Admission:
+Reviewed in detail with dtr on admission. 
+___ Cap, Multiphasic Release 12 hr  ONE TABLET BY MOUTH 
+TWICE A DAY  held since ___ 
+Alendronate 70 mg Tablet 1 Tablet(s) by mouth q wk   
+Glyburide 1.25 mg Tablet 1 (One) Tablet(s) by mouth once a day 
+Glyburide Micronized-Metformin [Glucovance] 5 mg-500 mg Tablet 1 
+Tablet(s) by mouth Twice daily 7am, 4pm 
+Imipramine HCl 10 mg Tablet 2 Tablet(s) by mouth each afternoon  
+    
+Lisinopril 10 mg Tablet 1 Tablet(s) by mouth once a day  
+Metformin 500 mg Tablet 1 Tablet(s) by mouth Daily - held prior 
+to procedure
+Metoprolol Succinate [Toprol XL] 50 mg Tablet Sustained Release 
+24 hr 
+1 Tablet Sustained by mouth at bedtime  
+multivitamins 1 qd  ___
+Nitrofurantoin (Macrocryst25%) [Macrobid] 100 mg Capsule 1 
+Capsule(s) by mouth 3 times perwk  ___
+Omeprazole 20 mg Capsule, Delayed Release(E.C.) 
+one Capsule, Delayed Release(E.C.)(s) by mouth once a day  
+___
+PEG-Electrolyte Soln [NuLYTELY with Flavor Packs] 420 gram Recon 
+Soln 
+take as directed Recon(s) by mouth prior to colonoscopy  
+___
+Simvastatin 20 mg Tablet one Tablet(s) by mouth once a day  
+___
+Renewed ___,
+    * OTCs *             
+    Aspirin 
+81 mg Tablet, 2T qd Delayed Release (E.C.) -held since ___
+Calcium Carbonate [Tums]  300 mg (750 mg) Tablet, Chewable  1 
+Tablet(s) by mouth several each day (OTC)  ___
+Calcium Citrate-Vitamin D3 [Calcium Citrate + D] 315 mg-200 unit 
+Tablet 
+2 Tablet(s) by mouth Twice Daily  ___
+Ferrous Sulfate 325 mg (65 mg Elemental Iron) Tablet 1 Tablet(s) 
+by mouth DAILY (Daily) (OTC)- held ___
+Simethicone [Gas-X] Dosage uncertain (OTC)  ___
+
+ 
+Discharge Medications:
+1. Imipramine HCl 10 mg Tablet Sig: Two (2) Tablet PO QPM (once 
+a day (in the evening)).  
+2. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+3. Multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+4. Nitrofurantoin (Macrocryst25%) 100 mg Capsule Sig: One (1) 
+Capsule PO QMOWEFR (___).  
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: 1.5 Tablet, 
+Chewables PO TID (3 times a day).  
+8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+9. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed.  
+10. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+11. Glucovance ___ mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+12. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+13. Metformin 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+14. Aspirin EC 81 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+15. Aggrenox ___ mg Cap, Multiphasic Release 12 hr Sig: One 
+(1) Cap, Multiphasic Release 12 hr PO twice a day.  
+16. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+17. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Iron deficiency Anemia 
+Hyperlipidemia.  
+Type 2 diabetes. HbA1C ___. 
+Hypertension 
+Osteopenia, history of fracture.  
+Status post CVA, ___. Right cerebral artery CVA, embolism.  
+Bladder urgency treated with Imipramine.  
+History of recurrent UTI on Macrobid prophylaxis.  
+Neuropathy, left leg pain. 
+GERD, treated with Prevacid. 
+Recurrent falls.  
+Short-term memory disorder. ?Age related versus Alzheimer's. 
+History of mildly abnormal liver function 
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+D/C to Assisted Living Facility.
+You were admitted to the hospital electively for colonoscopy 
+prep. You underwent Upper endoscopy and Colonoscopy, which only 
+showed internal hemmorrhoids. Biopsies were taken during the 
+Upper endoscopy and your primary care doctor ___ need to follow 
+up on this. 
+Please return to ED if you notice severe abdominal pain, have 
+bleeding, notice dizziness, fevers, chills
+Please resume all your home meds including aspirin, aggrenox
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-18 | hadm_id=22061594
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ year-old woman with CAD s/p CABG, DM, 
+prior CVA, and moderate dementia who is sent in by her PCP for 
+evaluation of weakness and unsteady gait.  
+.  
+She was in her usual state of health at her assisted living 
+until two days ago when she had an unwitnessed fall. Per report, 
+there was no head trauma, but it was unclear whether the fall 
+was mechanical or of another etiology, and she does not recall 
+it. During this period, she has also had increasing weakness. 
+She normally is able to walk with her walker but was unable to 
+do so on the day of presentation and had been confined to a 
+wheelchair. She was seen by her PCP who noted ___ BP of 90/50 and 
+concentrated urine, and she was sent to the ED. She denied 
+fevers, chills, chest pain, and dyspnea. Of note, she was 
+started on Namenda 3 weeks ago and is now on day 6 of the third 
+week of the titration pack (15 mg daily). No other recent change 
+in her medications.  
+.  
+In the ED, initial vs were: 97.8 65 119/48 16 98ra. Her exam was 
+notable for poor memory, decreased left-sided strength, and 
+weakness, with difficulty sitting up in bed. EKG was nsr with no 
+acute changes, and a head CT was negative. She was given her 
+home medications, metoprolol and metformin, and also given 1L NS 
+because she appeared dry.  
+.  
+ 
+Past Medical History:
+1. Hyperlipidemia. On Lipitor.  
+2. Type 2 diabetes. HbA1C ___.  
+3. Hypertension, treated with lisinopril.  
+4. Osteopenia, history of fracture. Fosamax without  
+complaints.  
+5. Status post CVA, ___. Right cerebral artery CVA, embolism.  
+Recent increasing left-sided weakness, walker. Negative MRA.  
+6. Bladder urgency treated with Imipramine. History of  
+recurrent UTI on abx prophylaxis.  
+7.? Neuropathy, left leg pain.  
+8. GERD, treated with Prevacid.  
+9. Recurrent falls. Has had mild injuries in the past  
+including  
+rib fractures. No recent falls.  
+10. Short-term memory disorder. ?Age related versus Alzheimer's. 
+ 
+11. History of mildly abnormal liver function.  
+12: ___ Coronary Artery Bypass Graft x 4 (Left internal 
+mammary  
+artery to left anterior descending, Saphenous vein graft to  
+Diagonal, Saphenous vein graft to Ramus, Saphenous vein graft to 
+ 
+Obtuse Marginal)  
+13. Iron deficiency anemia  
+
+ 
+Social History:
+___
+Family History:
+  
+Family History: (per last discharge summary)  
+Father had afib and CVA in ___.  
+Two cousins with colon cancer.  
+
+ 
+Physical Exam:
+On admission:
+97.8 65 160/70 16 98ra  
+General: nad  
+HEENT: Sclera anicteric, dry MM  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs  
+Abdomen: soft, non-tender, non-distended  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: ___ upper extremity weakness as compared to ___ right 
+sided UE strength, ___ bilateral ___ strength. a/o to person, 
+place, year  
+
+On discharge:
+VS:97.4  60  160/63  20  94% on RA
+Gen: Resting comfortably, NAD
+HEENT: Sclera anicteric, MMM, OP clear,   
+Neck: supple, no JVD, no cervical LAD  
+Lungs: CTAB, no wheezes, rales, ronchi, good air movement
+CV: RRR, normal S1 + S2, no M/R/G   
+Abdomen: soft, non-tender, non-distended, +BS, no masses  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, no cyanosis or 
+edema  
+Neuro: AOx3, ___ LUE weakness as compared to ___ RUE, ___ 
+bilateral ___ strength. Sensation intact to light touch 
+throughout. CN II-XII intact.
+ 
+Pertinent Results:
+Labs on Admission:
+___ 03:49PM BLOOD WBC-10.0 RBC-4.42 Hgb-12.8 Hct-39.3 
+MCV-89 MCH-29.0 MCHC-32.6 RDW-14.1 Plt ___
+___ 03:49PM BLOOD Neuts-73.4* ___ Monos-4.5 Eos-2.2 
+Baso-0.7
+___ 03:49PM BLOOD ___ PTT-21.1* ___
+___ 03:49PM BLOOD Glucose-146* UreaN-31* Creat-1.4* Na-143 
+K-5.5* Cl-106 HCO3-23 AnGap-20
+___ 03:49PM BLOOD ALT-17 AST-16 LD(LDH)-167 AlkPhos-59 
+TotBili-0.3
+___ 06:50AM BLOOD Calcium-9.5 Phos-3.5 Mg-1.7
+___ 03:49PM BLOOD Albumin-4.7
+___ 03:49PM BLOOD VitB12-585
+___ 03:49PM BLOOD TSH-2.4
+
+Imaging: 
+CXR: Small patchy opacity adjacent to the cardiac apex is most 
+compatible with mild atelectasis, however, an early developing 
+pneumonia can be considered in the appropriate clinical setting. 
+
+
+CT-Head: There is no evidence of acute intracranial hemorrhage, 
+edema, mass, mass effect or large vascular territorial 
+infarction. The ventricles and sulci are enlarged, compatible 
+with diffuse cortical atrophy, unchanged since the ___ study. A focal area of encephalomalacia is redemonstrated 
+within the right cerebellar hemisphere. Periventricular white 
+matter hypodensities are compatible with microvascular ischemic 
+disease. A hypodense focus within the right basal ganglia is 
+chronic. Included views of the paranasal sinuses and mastoid air 
+cells are clear. 
+
+Discharge Labs:
+
+___ 06:50AM BLOOD WBC-7.2 RBC-4.54 Hgb-13.6 Hct-40.7 MCV-90 
+MCH-29.9 MCHC-33.4 RDW-14.2 Plt ___
+___ 06:50AM BLOOD Plt ___
+___ 06:35AM BLOOD Glucose-162* UreaN-27* Creat-0.9 Na-140 
+K-4.5 Cl-105 HCO3-22 AnGap-18
+___ 06:35AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.0
+ 
+Brief Hospital Course:
+Mrs. ___ presented on ___ with a two day history of 
+weakness in the setting of moderate dementia, type two diabetes, 
+CAD (s/p 4v CABG in ___, and multiple recent mechanical falls. 
+
+
+## Weakness: The patient lives in assisted living and was 
+reported to be able walk with a walker at baseline but had 
+become progressively unstable on her feet with difficulty 
+getting in and out of a sitting position over the two days prior 
+to admission. Over this time she also noted poor PO intake. In 
+the ED, initial vs were: 97.8 65 119/48 16 98ra. Her exam was 
+notable for poor memory, decreased left-sided strength (stable 
+from distant CVA), no pain anywhere, clear lungs, and weakness 
+with difficulty sitting up in bed. EKG was nsr with no acute 
+changes, and a head CT was negative. UA was benign and labs were 
+notable for acute renal insufficiency. She was given 1L NS IVF 
+with prompt resolution of her renal insufficiency, suggesting 
+dehydration in the setting of poor PO intake as the likely 
+etiology. Following IVF hydration the patient reported feeling 
+significantly improved. ___ evaluated the patient and felt she 
+was significantly deconditioned and would benefit from ___ 
+rehabilitation to improve endurance, stability, and transfer 
+from chair to standing. 
+.
+## Dementia: The patient has moderate dementia (age related vs. 
+Alzheimer's) with preservation of distant memory. She has been 
+uptitrating on Namenda (5mg po daily for 7 days then 5BID for 7 
+days then 15mg po daily split into 10 and 5mg dosing for 6 days) 
+prior to admission. This was held for two days as an inpatient 
+out of concern that it may have contributed to a sense of 
+dizziness/weakness. On ___ the patient was restarted on her 
+Namenda, 15mg po daily .  She will complete her uptitration by 
+starting 10mg PO daily on ___.
+.
+## Type two diabetes: The patient was treated with HISS as an 
+inpatient and oral hyperglycemics were held as an inpatient with 
+adequate glucose control. On ___ she was resumed on her home 
+oral hyperglyceic regimen prior to discharge.
+.
+## .  
+#. CAD s/p CABG: Ruled out for MI with two negative sets of 
+enzymes. No active issues of chest pain.  Continued on 
+lisinopril, metoprolol, simvastatin, aggrenox/aspirin. 
+.  
+# Hyperlipidemia:  
+Continued on outpatient atorvastatin.  
+.  
+# History of cerebrovascular accident: With residual left sided  
+
+weakness .  continued on continue ASA/Aggrenox, simvastatin.  
+.  
+# Osteopenia:  Continued weekly fosamax, Ca, vit D 
+supplementation.  
+.  
+# GERD: Continued omeprazole.  
+.  
+
+# Chronic UTIs:  Per patient's PCP she was continued on 
+cephalexin daily for prophylaxis.
+ 
+Medications on Admission:
+ALENDRONATE - 70 mg Tablet - 1 Tablet(s) by mouth q wk  
+AMLODIPINE - 5 mg Tablet - ONE Tablet(s) by mouth once a day  
+CEPHALEXIN - 250 mg Capsule - 1 Capsule(s) by mouth once a day  
+DIPYRIDAMOLE-ASPIRIN [AGGRENOX] - 25 mg-200 mg Cap, Multiphasic 
+Release 12 hr - 1 Cap(s) by mouth twice a day  
+DONEPEZIL [ARICEPT] - (Prescribed by Other Provider) (On Hold 
+from ___ to unknown for dizziness, neuropsych) - 5 mg 
+Tablet - 1 Tablet(s) by mouth every other day  
+GLIPIZIDE - 10 mg Tablet - 2 Tablet(s) by mouth twice a day  
+LISINOPRIL - 40 mg Tablet - 1 Tablet(s) by mouth once a day  
+MEMANTINE [NAMENDA TITRATION PAK] - 5 mg (28)-10 mg (21) 
+Tablets, Dose Pack - 1 Tablets(s) by mouth once a day as 
+directed  
+METFORMIN - 1,000 mg Tablet - 1 Tablet(s) by mouth B.i.d.  
+METOPROLOL TARTRATE - 100 mg Tablet - 1 Tablet(s) by mouth twice 
+a day  
+MULTIVITAMINS - - 1 qd  
+OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - one Capsule, 
+Delayed Release(E.C.)(s) by mouth once a day  
+ONDANSETRON [ZOFRAN ODT] - 8 mg Tablet, Rapid Dissolve - 1 
+Tablet(s) by mouth twice a day as needed for nausea  
+PHENAZOPYRIDINE - 200 mg Tablet - 1 Tablet(s) by mouth three 
+times a day as needed for prn UTI  
+SIMVASTATIN - 20 mg Tablet - one Tablet(s) by mouth once a day  
+ 
+Medications - OTC  
+ASCORBIC ACID - (Prescribed by Other Provider) - 500 mg Capsule, 
+Sustained Release - 1 Capsule(s) by mouth twice a day  
+ASPIRIN - (OTC) - 81 mg Tablet, Delayed Release (E.C.) - 1 
+Tablet(s) by mouth DAILY (Daily)  
+CALCIUM CITRATE-VITAMIN D3 [CALCIUM CITRATE + D] - 315 mg-200 
+unit Tablet - 2 Tablet(s) by mouth Twice Daily  
+FERROUS SULFATE - (OTC) - 325 mg (65 mg Iron) Tablet - 1 
+Tablet(s) by mouth every other day  
+--------------- 
+ 
+Discharge Medications:
+1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+
+2. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 hr 
+Sig: One (1) Cap PO BID (2 times a day).  
+3. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO twice a day.  
+4. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+5. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day. 
+ 
+6. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+7. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: Two (2) Tablet, 
+Rapid Dissolve PO twice a day as needed for n/v.  
+10. Phenazopyridine 200 mg Tablet Sig: One (1) Tablet PO three 
+times a day as needed for UTI.  
+11. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+12. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+13. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+14. Calcium Citrate-Vitamin D3  Oral
+15. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO every other day.  
+16. Cephalexin 250 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+17. Memantine 5 mg Tablet Sig: Two (2) Tablet PO QAM (once a day 
+(in the morning)) for 1 days.  
+18. Memantine 5 mg Tablet Sig: One (1) Tablet PO QPM (once a day 
+(in the evening)) for 1 days.  
+19. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+20. Cephalexin 250 mg Capsule Sig: One (1) Capsule PO Q24H 
+(every 24 hours).  
+21. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+22. Memantine 10 mg Tablet Sig: One (1) Tablet PO twice a day: 
+PLEASE START on ___.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Acute renal failure
+
+Secondary Diagnoses: Dementia, hypertension, hyperlipidemia, 
+type two diabetes mellitus, history of coronary artery disease 
+and stroke.
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mrs. ___, it was a pleasure caring for you at the ___ 
+___. You were admitted for weakness 
+that had developed over the course of two days following a 
+recent fall. In the Emergency Room your vital signs were stable 
+and you did not have a fever. A CT scan of your head did not 
+show any bleeding or fractures. A chest x-ray showed no clear 
+sign of pneumonia or infection. Urine analysis showed no sign of 
+urinary tract infection. Lab tests on your blood suggested you 
+were moderately dehydrated and this seemed to be affecting your 
+kidney function. You were treated with IV fluids and your lab 
+values returned to normal ranges while you appeared to 
+clinically feel better. The physical therapists saw you and felt 
+you were too weak to return to your home at ___. You 
+were therefore discharged to a rehabilitation facility.
+
+Medication Changes*:
+
+Increased Amlodipine 10 mg by mouth daily
+
+* Note that we stopped Namenda for 2 days given concern that 
+this could be contributing to your unsteadiness. Restarted on 
+___, please resume titration schedule as directed.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-19 | hadm_id=24784043
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PCP: ___
+
+CC: Right hip pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ F with a history of dementia and frequent 
+falls being admitted for management of right hip pain after a 
+recent fall. She does not remember the specific events 
+surrounding the fall but does remember she was suddenly found on 
+the floor at her assisted living facility. Since that time she 
+has noted difficulty ambulating due to right hip pain.
+
+On arrival to ___ ED: T 98.3, P 84, BP 142/62, RR 20, 96% on 
+RA. Received a CT head, CXR, and hip films in the ED. Also 
+received CTX for a UTI.
+
+Review of Systems: No recent illnesses. No fevers or chills. No 
+SOB, cough, chest pain, PND, palpitations. No bowel difficulty. 
+No BRBPR or melena. She does endorse some urinary frequency. No 
+___ edema. No rashes or ___. Other systems reviewed in detail and 
+all otherwise negative.
+ 
+Past Medical History:
+1. Hyperlipidemia.  
+2. Type 2 diabetes. HbA1C ___ 7.6.  
+3. Hypertension. 
+4. Osteopenia, history of fracture and is on Fosamax.
+5. Status post CVA, ___. Right cerebral artery CVA, embolism. 
+Has persistent left-sided weakness.  
+6. Bladder urgency treated with Imipramine. History of  
+recurrent UTI on abx prophylaxis.  
+7. Chronic left leg pain with concern for neuropathy
+8. GERD
+9. Recurrent falls. Has had mild injuries in the past  
+including rib fractures. No recent falls.  
+10. Short-term memory disorder. ?Age related versus Alzheimer's. 
+ 
+11. History of mildly abnormal liver function.  
+12: CAD. Previous NSTEMI ___ and Coronary Artery Bypass Graft x 
+4 in ___ (Left internal mammary  artery to left anterior 
+descending, Saphenous vein graft to Diagonal, Saphenous vein 
+graft to Ramus, Saphenous vein graft to Obtuse Marginal).  
+13. Iron deficiency anemia
+14. History of post-operative afib
+ 
+Social History:
+___
+Family History:
+Father had afib and CVA in ___.  
+Two cousins with colon cancer.  
+
+ 
+Physical Exam:
+Vital Signs: T 97.5, P 84, BP 128/80, 96% on RA.
+ 
+Physical examination:
+- Gen: Elderly female sitting upright in bed in NAD.
+- Chest: Normal respirations and breathing comfortably on room 
+air. Lungs clear to auscultation bilaterally.
+- CV: Regular rhythm. Normal S1, S2. No murmurs or gallops. No 
+ankle edema.
+- Abdomen: Normal bowel sounds. Soft, nontender, nondistended. 
+- MSK: No pain with log roll of right leg. Has good ROM of right 
+hip. Has some pain with full internal rotation but otherwise no 
+pain. Left hip exam WNL.
+- Skin: No lesions, bruises, rashes.
+- Neuro: Alert, oriented x3. Good fund of knowledge. Able to 
+name months of year backward and has good short term recall. CN 
+___ intact. No involuntary movements, atrophy. Normal tone in 
+all extremities. Motor exam notable for decreased (___) strength 
+in LLE and slightly (___) strength in LUE compared to right 
+side. Sensation to light touch intact in upper and lower 
+extremities bilaterally. Did not stand patient
+- Psych: Appearance, behavior, speech, and affect all normal. 
+Patient is alert, attentive, and oriented.
+ 
+Pertinent Results:
+Chemistries:
+ - ___ 12:10AM   GLUCOSE-118* UREA N-31* CREAT-1.2* 
+SODIUM-139 POTASSIUM-5.2* CHLORIDE-103 TOTAL CO2-22 ANION GAP-19
+
+Hematology:
+ - ___ 12:10AM   WBC-9.2 (differential: NEUTS-67.9 
+___ MONOS-5.1 EOS-3.0 BASOS-0.9) RBC-4.02* HGB-12.0 
+HCT-35.1* MCV-87 MCH-29.8 MCHC-34.1 RDW-14.3 PLT COUNT-354
+
+Urine Studies:
+ - ___ 09:35PM URINE  COLOR-Yellow APPEAR-Clear SP 
+___ BLOOD-TR NITRITE-POS PROTEIN-25 GLUCOSE-NEG KETONE-TR 
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD RBC-0 WBC->50 
+BACTERIA-MANY YEAST-NONE EPI-1
+
+CXR: COMPARISON: Chest radiograph ___. 
+  
+FINDINGS: Patient is status post median sternotomy and CABG. 
+There is an 
+ill-defined density projecting over the left base. There is no 
+evidence for rib fractures. There is a mid thoracic vertebral 
+body compression fracture which appears stable. Cardiac 
+silhouette, hilar and mediastinal contours appear normal. The 
+aorta is calcified and tortuous. 
+  
+IMPRESSION: 
+1. No evidence for right-sided rib injury. 
+2. Nodular density at the left base likely confluence of 
+shadows. 
+  
+CT Head:
+ - No acute intracranial process. Stable R cerebellar 
+encephalomalacia. Small vessel ischemic disease is chronic. 
+
+ECG: SR at 76 with normal axis and intervals. No ST segment 
+changes or TWI. No pathologic Q waves and has good RWP. 
+Unchanged from ___ ECG.
+
+URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     8 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+Fall:  Ms. ___ was admitted after a fall.  She complained 
+of pain at her right hip initially, but hip films were negative. 
+ With tylenol alone, her pain completely resolved during her 
+hospital stay.  She was evaluated by physical therapy, who 
+recommended STR for both ___ and OT in order for her to recover 
+her strength and reach her baseline so that she can return home 
+to assisted living.  
+
+UTI:  She was diagnosed with a pan-sensitive E Coli UTI during 
+her stay,and was initially treated with ceftriaxone, which was 
+converted to cefpodoxime.  Daughter is interested in patient 
+being on some kind of prophylaxis for recurrent UTIs, so she 
+___ d/w PCP and set up outpatient urology appt.
+
+DM:  Her home dose of glyburide was reduced from 10 mg po bid to 
+5 mg po bid because of some low sugars in the hospital.  In 
+addition, her home dose of metformin 1000 mg po bid was 
+continued.  If her blood sugars are elevated at rehab, please 
+resume her home dose of 10 mg bid of glyburide. 
+
+She received DVT prophylaxis with heparin during her stay.  As 
+she will be more ambulatory during her rehab stay, this was 
+discontinued.  
+
+Her admission CXR showed some ? of confluence of shadows at the 
+right base.  I discussed this finding with the daughter, and 
+with PCP.  IF there remains concern about this finding, the CXR 
+can be repeated as an outpatient.  
+ 
+Medications on Admission:
+Patient unable to verify but has list from ___:
+1. DONEPEZIL [ARICEPT] - 5 mg Tablet - 1 Tablet(s) by mouth 
+every other day
+2. ___ [AGGRENOX] - 25 mg-200 mg Cap, 
+Multiphasic
+Release 12 hr - 1 Cap(s) by mouth twice a day
+3. Vitamin C 500mg BID
+4. ASPIRIN -  (OTC) - 81 mg Tablet, Delayed Release (E.C.) - 1
+Tablet(s) by mouth DAILY (Daily)
+5. ALENDRONATE - 70 mg Tablet - 1 Tablet(s) by mouth q wk
+6. AMLODIPINE 5mg daily
+7. CALCIUM CITRATE-VITAMIN D3 [CALCIUM CITRATE + D] - 315 mg-200
+unit Tablet - 2 Tablet(s) by mouth Twice Daily
+8. FERROUS SULFATE -  (OTC) - 325 mg (65 mg Iron) Tablet - 1
+Tablet(s) by mouth every other day
+9. GLIPIZIDE - 10 mg Tablet - 2 Tablet(s) by mouth twice a day
+10. LISINOPRIL - 40 mg Tablet - 1 Tablet(s) by mouth once a day
+11. METOPROLOL TARTRATE - 100 mg Tablet - 1 Tablet(s) by mouth 
+twice
+a day
+12. METFORMIN - 1,000 mg Tablet - in am and 500mg qpm.
+13. Macrobid 3 times per week
+14. OMEPRAZOLE - 20 mg Capsule, Delayed Release(E.C.) - one 
+Capsule,
+Delayed Release(E.C.)(s) by mouth once a day
+15. Senna
+16. SIMVASTATIN - 20 mg Tablet - one Tablet(s) by mouth once a 
+day
+17. Thiamine
+18? possibly cipro
+
+ 
+Discharge Medications:
+***Discharge medicine list reviewed/confirmed with patient's 
+daughter, ___
+1. ___ 200-25 mg Cap, Multiphasic Release 12 hr 
+Sig: One (1) Cap PO BID (2 times a day).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for Pain.  
+9. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+11. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO 3X/WEEK (___).  
+12. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+13. Cefpodoxime 100 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours) for 3 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1.  UTI
+2.  DM
+3.  Fall
+4.  Htn
+5.  Dementia
+
+ 
+Discharge Condition:
+Patient is pleasantly demented.  AO x 2.  
+
+ 
+Discharge Instructions:
+You were admitted to ___ after having fallen in your assisted 
+living facility.  You had a Head CT which was normal and xrays 
+of your hip which did not reveal any fracture.  You were found 
+to have a UTI, and were given antibiotics.  You will continue 
+the antibiotics for three additional days.  
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-16 | hadm_id=25760265
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+___ recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+___ Coronary Artery Bypass Graft x 4 (Left internal mammary 
+artery to left anterior descending, Saphenous vein graft to 
+Diagonal, Saphenous vein graft to Ramus, Saphenous vein graft to 
+Obtuse Marginal)
+___ Cardiac cath
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with multiple coronary artery 
+disease risk factors and previous strokes with dementia who 
+presented with acute onset chest pain. ED initially was not 
+concerned as ___ had negative MIBI ___ and was originally 
+going to be ruled out and scheduled for a stress ___. However 
+her troponin returned elevated at 0.21 so ___ was started on 
+a heparin drip, got Aspirin 325mg, and was transferred to the 
+floor without plavix load.
+ 
+Past Medical History:
+Stroke w/ residual left sided weakness, Hypertension, 
+Hyperlipidemia, Diabetes Mellitus, Dementia, Gastroesophageal 
+Reflux Disease, Recurrent urinary tract infections, Iron 
+defiency anemia, Recurrent falls, s/p Hysterectomy
+ 
+Social History:
+___
+Family History:
+father had afib and CVA in ___.
+Two cousins with colon cancer.
+
+ 
+Physical Exam:
+Admission
+VS - 97.0 162/77 86 18 100% on RA  
+Gen: elderly F in NAD.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+Neck: Supple with JVP of 3 cm at 45' angle.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: slight crackles at the bases.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: wwp, no edema. slight brawny stasis dermatitis.
+
+Discharge
+VS T 97.4  HR 72SR  BP 130/75  RR 18  O2sat 96%-RA
+Gen NAD
+Neuro A&Ox3, residual left sided weakness. Able to ambulate with 
+walker.
+Pulm CTA-bilat
+CV RRR, no M/R/G. Sternum stable, incision CDI
+Abdm soft, NT/+BS
+Ext warm well perfused. 1+ pedal edema bilat. Small rt arm 
+phlebitis- improving over last few days
+ 
+Pertinent Results:
+___ 09:30PM   CK(CPK)-78
+___ 09:30PM   ___ PTT-32.8 ___
+___ 01:00PM   GLUCOSE-135* UREA N-19 CREAT-0.9 SODIUM-138 
+POTASSIUM-4.6 CHLORIDE-102 TOTAL CO2-26 ANION GAP-15
+___ 01:00PM   cTropnT-0.21*
+___ 01:00PM   WBC-9.9 RBC-3.98* HGB-11.8* HCT-34.6* MCV-87 
+MCH-29.7 MCHC-34.2 RDW-13.6
+___ 01:00PM   PLT COUNT-336
+___ 01:00PM   ___ PTT-22.2 ___
+___ 05:06AM BLOOD WBC-11.5* RBC-3.48* Hgb-10.8* Hct-31.1* 
+MCV-89 MCH-31.1 MCHC-34.8 RDW-15.0 Plt ___
+___ 05:06AM BLOOD Plt ___
+___ 12:08PM BLOOD ___ PTT-28.6 ___
+___ 05:06AM BLOOD Glucose-141* UreaN-25* Creat-1.3* Na-137 
+K-4.4 Cl-100 HCO3-28 AnGap-13
+___ 10:10AM BLOOD %HbA1c-7.2*
+
+___ Cardiac Cath: 1- Selective coronary anguiography of 
+this left-dominant system demonstrated severe diffuse three 
+vessel coronary artery disease with markedly calcific vessels. 
+The distal LMCA/ostial LCX had 80% stenosis and the mid and 
+distal LCX had each 70% stenosis serially. The LAD had 70% 
+diffuse bifurcation stenosis at mid vessel with 60% stenosis in 
+the ostial major diagonal brancg. There was a small high 
+diagonal vessel(RI) with 30% stenosis. The RCA was a diminutive 
+vessel with 40% diffuse stenosis throughout. 2- Limited resting 
+hemodynamic assessment revealed normal systemic arterial 
+pressure (121/60 mmHg). The left-sided filling pressures were 
+normal at baseline (LVEDP 11 mmHg, increased to 16 mmHg after LV 
+gram). 3- Left ventriculography revealed normal LVEF (60-65%) 
+without regional wall motion abnormalities or mitral 
+regurgitation. 
+___ Carotid U/S: Less than 40% stenosis of the internal 
+carotid arteries bilaterally.
+___ Head CT:1. No significant interval change from prior MR 
+examination from ___ with no acute infarction or hemorrhage 
+identified. 2. Multiple old lacunar infarctions of the bilateral 
+cerebellar hemispheres and pons, and changes consistent with 
+chronic small vessel ischemic disease.
+
+___ ECHOCARDIOGRAPHY REPORT
+___       ___ MRN:   ___       TEE (Complete) 
+Done ___ at 10:02:05 AM      FINAL  
+Referring Physician     ___  
+___.
+___  Status: Inpatient DOB: ___ 
+Age (years): ___ F  Hgt (in):  
+BP (mm Hg): 108/65  Wgt (lb):  
+HR (bpm): 75  BSA (m2):  
+Indication: intraoperative management of CABG.  
+ICD-9 Codes: 440.0, 424.1, 424.0 
+___ Information  
+Date/Time: ___ at 10:02    ___ MD: ___, 
+MD 
+___ Type: TEE (Complete) Sonographer: ___, MD 
+Doppler: Full Doppler and color Doppler ___ Location: 
+Anesthesia West OR cardiac 
+Contrast: None Tech Quality: Adequate 
+Tape #: ___-: Machine: 2 
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm  
+Left Atrium - Four Chamber Length:  5.0 cm  <= 5.2 cm  
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm  
+Left Ventricle - Diastolic Dimension:  3.7 cm  <= 5.6 cm  
+Left Ventricle - Systolic Dimension:  2.8 cm     
+Left Ventricle - Fractional Shortening:  *0.24  >= 0.29  
+Left Ventricle - Ejection Fraction:  60%  >= 55%  
+Aorta - Sinus Level:  3.2 cm  <= 3.6 cm  
+Aorta - Sinotubular Ridge:  2.5 cm  <= 3.0 cm  
+Aorta - Ascending:  3.0 cm  <= 3.4 cm  
+Aorta - Arch:  2.5 cm  <= 3.0 cm  
+Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm  
+Aortic Valve - LVOT diam:  1.8 cm     
+Aortic Valve - Valve Area:  *1.4 cm2  >= 3.0 cm2  
+Aortic Valve - Pressure Half Time:  738 ms     
+Mitral Valve - Pressure Half Time:  77 ms     
+Mitral Valve - MVA (P ___ T):  2.8 cm2     
+Mitral Valve - E Wave:  1.0 m/sec     
+Mitral Valve - A Wave:  0.9 m/sec     
+Mitral Valve - E/A ratio:  1.11      
+Findings  
+LEFT ATRIUM: Moderate ___. Elongated ___. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal 
+interatrial septum. No ASD by 2D or color Doppler. 
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. 
+Overall normal LVEF (>55%). 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+AORTA: Normal diameter of aorta at the sinus, ascending and arch 
+levels. Complex (>4mm) atheroma in the aortic arch. Normal 
+descending aorta diameter. Complex (>4mm) atheroma in the 
+descending thoracic aorta. 
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AS. 
+Mild (1+) AR. 
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. 
+Mild mitral annular calcification. No MS. ___ (1+) MR. 
+___ VALVE: Normal tricuspid valve leaflets. Physiologic 
+TR. 
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. 
+Physiologic (normal) PR. 
+PERICARDIUM: No pericardial effusion. 
+GENERAL COMMENTS: A TEE was performed in the location listed 
+above. I certify I was present in compliance with ___ 
+regulations. The ___ was under general anesthesia throughout 
+the procedure. No TEE related complications. Results were 
+personally reviewed with the MD caring for the ___.  
+Conclusions  
+PREBYPASS
+1. The left atrium is moderately dilated. The left atrium is 
+elongated. No atrial septal defect or PFO is seen by 2D or color 
+Doppler. 
+2. There is mild symmetric left ventricular hypertrophy. The 
+left ventricular cavity size is normal. Overall left ventricular 
+systolic function is normal (LVEF>55%). 
+3. Right ventricular chamber size and free wall motion are 
+normal. 
+4. There are complex (>4mm) atheroma in the aortic arch. There 
+are complex (>4mm) atheroma in the descending thoracic aorta. 
+5. The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion and no aortic stenosis. There is no 
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen. 
+6. The mitral valve leaflets are mildly thickened. There is no 
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+7. There is no pericardial effusion. 
+8. ___ was notified in person of the results in the OR at 
+the time of surgery
+POSTBYPASS
+1. ___ is on XX infusions.   
+I certify that I was present for this procedure in compliance 
+with ___ regulations.
+Electronically signed by ___, MD, Interpreting 
+physician ___ ___ 14:46  
+
+ 
+Radiology Report CHEST (PA & LAT) Study Date of ___ 9:13 AM 
+
+UNDERLYING MEDICAL CONDITION:    ___ year old woman with s/p cabg 
+ 
+REASON FOR THIS EXAMINATION: 
+EVALUATE EFFUSIONS  
+Provisional Findings Impression: ___ WED ___ 10:50 AM 
+Decrease in amount of pleural effusion. 
+Final Report 
+HISTORY: ___ female, status post CABG. Evaluate 
+effusions. 
+COMPARISON: Prior study, ___. 
+FINDINGS: Status post sternotomy with surgical clips post-CABG. 
+There is 
+decreasing amount of pleural effusion seen on the lateral views. 
+Right-sided PICC line is again seen with the tip in the SVC. 
+Unchanged appearance of the cardiomegaly and bilateral bibasal 
+atelectasis. 
+The study and the report were reviewed by the staff radiologist. 
+
+___. ___ 
+___. ___ 
+___: WED ___ 12:20 ___ 
+ 
+
+ 
+Brief Hospital Course:
+As mentioned in the HPI, Mrs. ___ was admitted from the 
+emergency room after she was found to have a non-ST segment 
+elevation myocardial infarction. She was appropriately medically 
+managed and worked up for cardiac surgery. On ___ she was 
+brought to the operating room where she underwent a coronary 
+artery bypass graft x 4. The procedure was performed by Dr. 
+___.  Please see operative report for surgical 
+details. In summary she had CABG x4 with LIMA-LAD, SVG-Diag, 
+SVG-Ramus, SVG-OM. She tolerated the operation well and 
+following surgery she was transferred to the CVICU for invasive 
+monitoring in stable condition. She remained intubated for three 
+days after surgery secondary to a difficult airway and fluid 
+overload.  She was weaned from her pressors and her chest tubes 
+were removed.  She was fed via a dobhoff tube after surgery 
+secondary to somnolence.  She was noted to be confused after the 
+surgery, but also has a baseline history of dementia.  Her beta 
+blockade was titrated up as tolerated.  On post-operative day 
+seven she was transferred to the surgical step down floor.  She 
+had intermitant episodes of atrial fibrillation with hypotension 
+and was returned to the surgical intensive care unit, where she 
+converted to sinus rhythm after adjustment of Bblockers and 
+initiation of amiodarone.  Her mediastinal incision was noted to 
+have some purulent drainage and she was started on Vancomycin 
+and ciprofloxacin.  She was transferred back to the step down 
+floor on post-operative day nine. Sternal drainage subsided and 
+her sternum remained stable. As discussed with ___ 
+was discontinued and upon discharge, Vancomycin will be 
+continued for 7 days. She was seen by phyisical therapy. On  
+post-operative day 15 she was discharged to rehabilitation at 
+___. 
+
+ 
+Medications on Admission:
+Alendronate 70 mg PO qweekly, Imipramine 20 mg PO QHS, 
+Lisinopril 10 mg PO qAM, Metoprolol XL 50 mg PO QHS, MVI (noon), 
+Nitrofurantoin 100 mg PO 3x/week MOWFri, Prilosec 20 mg PO 
+___, Simvastatin 20 mg PO ___ 81 mg PO daily, Calcium 
+Carbonate 750 mg PO TID, Vitamin D3 800 PO ___, Ferrous 
+Sulfate 325 mg PO ___, Aggrenox ___ mg PO BID, Simethicone 
+80 mg PO QID, Glyburide 1.25 mg PO QAM, Metformin 500 mg PO QAM, 
+Glucovance ___ PO BID before breakfast and supper)
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO every six (6) 
+hours as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+2. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*0*
+4. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 hr 
+Sig: One (1) Cap PO BID (2 times a day).
+Disp:*60 Cap(s)* Refills:*0*
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TIDAC (3 times a day (before meals)).
+Disp:*90 Tablet, Chewable(s)* Refills:*0*
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Glyburide Micronized-Metformin ___ mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for 
+5 days.
+Disp:*5 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+11. Vancomycin 1,000 mg Recon Soln Sig: One (1)  Intravenous 
+once a day for 7 days.  
+12. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+14. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+units Injection TID (3 times a day).  
+15. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+16. Sodium Chloride 0.65 % Aerosol, Spray Sig: Two (2) Spray 
+Nasal Q6H (every 6 hours).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x ___
+Myocardial Infarction, Postop atrial fibrillation
+PMH: Stroke w/residual left sided weakness, Hypertension, 
+Hyperlipidemia, Diabetes Mellitus, Dementia, Gastroesophageal 
+Reflux Disease, Recurrent urinary tract infections, Iron 
+defiency anemia, Recurrent falls, s/p Hysterectomy
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please shower daily , no baths or swimming 
+Monitor wounds for infection - redness, drainage, or increased 
+pain 
+Report any fever greater than 100.5 
+Report any weight gain of greater than 2 pounds in 24 hours or 5 
+pounds in a week 
+No creams, lotions, powders, or ointments to incisions 
+No driving for one month and off al narcotics
+No lifting more than 10 pounds for 10 weeks 
+Please call with any questions or concerns: ___
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-14 | hadm_id=27916863
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old with DM 2, HTN, hyperlipidemia and h/o CVA is 
+admitted with chest pain in the last two weeks.  Patient is a 
+poor historian given memory trouble.  She remembers having chest 
+pain under ther left breast traveling around the rib and 
+?radiation to left shoulder when she woke up this morning.  Also 
+experienced diaphoresis, shortness of breath and palpitations.  
+No lower extremity edema, PND or orthopnea.
+Functional status: patient is able to walk around with the help 
+of walker but unclear distance.  No symtpoms with activity.
+Denies fever, chills, or any other URI symptoms.  Denies 
+hematuria, dysuria or diarrhea.  No blood in stool.
+.
+
+ 
+Past Medical History:
+1.  Hyperlipidemia.  On Lipitor.
+2.  Type 2 diabetes.  HbA1C ___.
+3.  Hypertension, treated with lisinopril.
+4.  Osteopenia, history of fracture.  Fosamax without 
+complaints.
+5.  Status post CVA, ___.  Right cerebral artery CVA, embolism. 
+
+Recent increasing left-sided weakness, walker. Negative MRA. 
+6.  Bladder urgency treated with Imipramine.  History of 
+recurrent UTI on Macrobid prophylaxis.  
+7.?  Neuropathy, left leg pain.
+8.  GERD, treated with Prevacid.
+9.  Recurrent falls.  Has had mild injuries in the past 
+including
+rib fractures.  No recent falls.
+10. Short-term memory disorder. ?Age related versus Alzheimer's.
+11. History of mildly abnormal liver function.
+
+ 
+Social History:
+___
+Family History:
+father had afib and CVA in ___
+
+ 
+Physical Exam:
+Vitals: T 98.4  BP 156/62  HR 94  RR 16  97% RA
+Gen: Alert and awake, NAD
+HEENT: PERRL, no conjunctivitis/icterus, MMM
+Heart: nl S1S2 RRR
+Lungs: CTAB
+Abdomen: soft NTND, no organomegaly
+Ext: WWP, no edema
+Neuro: PERRL, strength ___ in left extremities and ___ in right 
+extremities
+.
+
+ 
+Pertinent Results:
+Admit Labs:
+___ 02:15PM BLOOD WBC-9.8 RBC-3.59* Hgb-10.2* Hct-31.0* 
+MCV-86 MCH-28.3 MCHC-32.8 RDW-13.2 Plt ___
+___ 02:15PM BLOOD Neuts-74.4* ___ Monos-4.4 Eos-0.9 
+Baso-0.4
+___ 02:15PM BLOOD ___ PTT-21.8* ___
+___ 02:15PM BLOOD Glucose-81 UreaN-29* Creat-0.9 Na-141 
+K-5.0 Cl-107 HCO3-23 AnGap-16
+___ 06:10AM BLOOD Mg-1.8 Iron-PND
+___ 02:15PM BLOOD CK(CPK)-48
+___ 09:30PM BLOOD CK(CPK)-46
+___ 06:10AM BLOOD CK(CPK)-47
+___ 02:15PM BLOOD cTropnT-0.06*
+___ 09:30PM BLOOD CK-MB-NotDone cTropnT-0.06*
+___ 06:10AM BLOOD CK-MB-NotDone cTropnT-0.07*
+___ 11:18AM BLOOD CK-MB-NotDone cTropnT-0.08*
+___ 06:15AM BLOOD CK-MB-NotDone cTropnT-0.09*
+___ 11:18AM BLOOD CK(CPK)-38
+___ 06:15AM BLOOD CK(CPK)-37
+___ 06:10AM BLOOD calTIBC-400 Ferritn-14 TRF-308
+.
+CHEST (PA & LAT)  ___:
+No acute cardiopulmonary process.
+.
+Chemical Stress ___: Prelim
+This ___ year old (h/o type II DM; s/p CVA ___ 
+woman was referred to the lab for the evaluation of chest 
+discomfort. 
+The patient was infused with 0.142 mg/kg/min of Persantine over 
+4 
+minutes. The patient denied any arm, neck, back, or chest 
+discomfort 
+throughout the procedure. 4 minutes post-infusion, there was 1 
+mm of 
+horizontal ST segment depression seen in the inferior leads and 
+in leads 
+V4-V6. These changes resolved slowly following the 
+administration of 125 
+mg aminophylline IV and were absent by 10 minutes post-infusion. 
+The 
+rhythm was sinus with isolated APBs. The hemodynamic response to 
+
+the persantine infusion was appropriate.   
+IMPRESSION: Ischemic persantine-induced EKG changes in the 
+absence of 
+anginal symptoms. Nuclear report sent separately. 
+.
+MIBI ___: 
+Left ventricular cavity size is normal. 
+Rest and stress perfusion images reveal uniform tracer uptake 
+throughout the left ventricular myocardium. 
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 57%. 
+IMPRESSION: Normal myocardial perfusion, LV size and wall 
+motion. 
+
+ 
+Brief Hospital Course:
+___ year old lady with DM 2, HTN, hyperlipidemia and h/o CVA is 
+admitted with chest pain in the last two weeks.
+.
+# Chest pain: Resolved on arrival to Emergency Department.  
+Symptom free througout this stay.  History concerning for 
+cardiac ischemia. Mild troponin elevation but flat CKs.  Ruled 
+out for MI. Risk factors include DM2, HTN, hyperlipidemia and 
+history of stroke.  presantine MIBI did not show any areas of 
+reversible ischemia.  Plan is to ___ medical management of 
+stable coronary artery disease.  Continued on aspirini, 
+lisinopril and atorvastatin.  Started on metoprolol which was 
+switched to toprol XL on discharge.  
+.
+# Decreased HCT: No active bleeding during this stay.  
+Hematocrit stable throughout this stay.  Guaic negative. 
+Microcytic anemia with low boderline iron.  Started on iron 
+panel. A GI work up for anemia should be performed as an 
+outpatient.
+.
+# Diabetes Mellitus type 2: Last Hemoglobin A1C relatively 
+normal.  Held out patient medications and kept on insulin 
+sliding scale during this stay.  Discharged on home meds.
+.
+# Hyperlipidemia: Continued on out patient atorvastatin.
+.
+# history of cerebrovascular accident: Residual left sided 
+weakness.  Not an active issue during this hospital stay.  
+Continued on out pateint aggrenox.
+.
+# Recurrent Urinary Tract Infection: Continued out patient 
+macrobid prophylaxis.  Also continued imipramine for urinary 
+urgency.
+.
+# Osteopenia: Continued weekly fosamax. 
+.
+# Prophylaxis: Subcutaneous heparin, proton pump inhibitor
+.
+# Contact: Daughter, ___ ___, h ___
+.
+# Code: Full code, discussed with patient and family
+
+ 
+Medications on Admission:
+Aggrenox ___ bid
+Calcium citrate + vit D 315mg- 200 unit bid
+fosamax 70 mg
+gas-X 80 mg
+Glyburide 1.25 mg
+Glucovance ___ mg bid
+Imipramine 20mg
+Lipitor 10 mg
+Lisinopril 10 mg
+Macrobid ___ mg three times a week
+Metformin 500 mg
+Prevacid 15 mg
+Tums 300 mg 
+MVI
+
+ 
+Discharge Medications:
+1. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 hr 
+Sig: One (1) Cap PO BID (2 times a day).  
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).  
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QWED (every 
+___.  
+5. Gas-X 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO 
+once a day.  
+6. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Glucovance ___ mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+8. Imipramine HCl 10 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+9. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Aspirin 81 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable 
+PO DAILY (Daily).  
+12. Nitrofurantoin (Macrocryst25%) 100 mg Capsule Sig: One (1) 
+Capsule PO MWF (___).  
+13. Prevacid 15 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+14. Tums 300 mg (750 mg) Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO once a day.  
+15. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+16. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+17. Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: Two (2) 
+Tablet Sustained Release 24 hr PO at bedtime.
+Disp:*60 Tablet Sustained Release 24 hr(s)* Refills:*2*
+18. Aspirin EC 81 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Stable coronary artery disease
+.
+Secondary:
+Diabetes Mellitus type 2
+Hypertension
+Hyperlipidemia
+history of stroke
+Osteopenia
+Recurrent urinary tract infection
+
+ 
+Discharge Condition:
+Asymptomatic and hemodynamically stable.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with 
+chest pain.  You did not have a heart attack.  
+.
+Please take all the medications as written.  You will be started 
+on torpol XL 50 mg at night for heart protective effect.  You 
+will be started on iron supplement as you have slightly 
+decreased iron level.  You will also be started on two baby 
+aspirin a day on top of aggrenox.
+.
+Please keep all the follow up appointments.
+.
+If you develop chest pain, shortness of breath or any other 
+concerning symptoms, please call your primary care doctor or 
+come to the Emergency Department.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15115186-DS-17 | hadm_id=29675625
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dizziness, nausea, vomiting 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo F h/o DM, prior CVA, CAD s/p CABG, hyperlipidemia, 
+recurrent UTIs, mild dementia, sent in from assisted living with 
+___ vertigo and N/V, inability to tolerate POs. No fevers, 
+dysuria or other ROS. EKG with V2 flattening. Unclear on timing 
+of symptoms. Patient describes room spinning, nausea, vomiting. 
+Only unable to tolerate POs on day of admission. Denies fever, 
+chills. No mental status changes. On keflex for UTI prevention, 
+denies dysuria.  
+Denies headache, sinus tenderness, rhinorrhea or congestion.  
+.  
+In the ED, initial vs were: T98.9 HR73 BP183/61 RR18 100% on RA. 
+Answering appropriately, AOx3, exam significant for exam L 
+nystagmus and (TM cloudiness bilaterally). No diplopia, 
+tinnitus. ECG showed T wave flattening in lead 2, cardiac 
+enzymes negative. CXR without acute process, CT head with no 
+acute intracranial abnormality. Paranasal sinus disease appears 
+mild but an air-fluid level in a left ethmoidal aircell suggests 
+acute disease. Given zofran 2mg IV x 1, 2L IVF. Vitals on 
+transfer were T98.4, HR84, BP126/70, RR19, 97% on RA.  
+.  
+On the floor, patient was able to transfer/walk to bed without 
+dizziness and nausea had improved.  
+.  
+Review of sytems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denied cough, shortness of breath. Denied chest pain or 
+tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+.  
+
+ 
+Past Medical History:
+1. Hyperlipidemia. On Lipitor.  
+2. Type 2 diabetes. HbA1C ___.  
+3. Hypertension, treated with lisinopril.  
+4. Osteopenia, history of fracture. Fosamax without  
+complaints.  
+5. Status post CVA, ___. Right cerebral artery CVA, embolism.  
+Recent increasing left-sided weakness, walker. Negative MRA.  
+6. Bladder urgency treated with Imipramine. History of  
+recurrent UTI on abx prophylaxis.  
+7.? Neuropathy, left leg pain.  
+8. GERD, treated with Prevacid.  
+9. Recurrent falls. Has had mild injuries in the past  
+including  
+rib fractures. No recent falls.  
+10. Short-term memory disorder. ?Age related versus Alzheimer's. 
+ 
+11. History of mildly abnormal liver function.  
+12: ___ Coronary Artery Bypass Graft x 4 (Left internal 
+mammary  
+artery to left anterior descending, Saphenous vein graft to  
+Diagonal, Saphenous vein graft to Ramus, Saphenous vein graft to 
+ 
+Obtuse Marginal)  
+13. Iron deficiency anemia  
+
+ 
+Social History:
+___
+Family History:
+  
+Family History: (per last discharge summary)  
+Father had afib and CVA in ___.  
+Two cousins with colon cancer.  
+
+ 
+Physical Exam:
+Vitals: T 97.6F, HR 74, BP 180/68, RR 16, O2 sat 95% RA  
+Orthostatics: lying -HR 74, BP 180/68  
+sitting HR 80, BP 168/62  
+standing HR 80, BP 174/75  
+General: Alert & oriented x 2 (time was ___ no acute 
+distress, pleasant demeanor  
+HEENT: Sclera anicteric, dry MM, OP with notable thrush but 
+otherwise clear. Otoscopic exam repeated; mild cerumen present 
+bilaterally, cloudy TM on left.  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: ___ upper extremity weakness as compared to ___ right 
+sided UE strength, ___ bilateral ___ strength, sensation in tact 
+over all extremities, face and neck. ___ maneuver 
+remarkable left sided nystagmus. PERRLA, EOMI. FNF testing in 
+tact.  
+.  
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 08:40PM BLOOD WBC-9.1 RBC-4.59 Hgb-13.6 Hct-39.6 MCV-86 
+MCH-29.6 MCHC-34.3 RDW-13.2 Plt ___
+___ 08:40PM BLOOD Neuts-78.1* Lymphs-16.1* Monos-4.0 
+Eos-1.2 Baso-0.6
+___ 08:40PM BLOOD ___ PTT-21.5* ___
+___ 08:40PM BLOOD Glucose-200* UreaN-22* Creat-1.1 Na-136 
+K-5.3* Cl-99 HCO3-22 AnGap-20
+___ 08:40PM BLOOD ALT-22 AST-38 CK(CPK)-58 AlkPhos-71 
+TotBili-0.4
+___ 04:35AM BLOOD CK(CPK)-44
+___ 08:40PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 04:35AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 09:02PM BLOOD Lactate-1.9
+.
+Discharge Labs:
+___ 04:35AM BLOOD WBC-8.9 RBC-4.20 Hgb-12.6 Hct-36.9 MCV-88 
+MCH-30.0 MCHC-34.1 RDW-13.3 Plt ___
+___ 04:35AM BLOOD Neuts-72.1* Lymphs-17.9* Monos-5.8 
+Eos-3.4 Baso-0.8
+___ 04:35AM BLOOD Plt ___
+___ 04:35AM BLOOD Glucose-82 UreaN-16 Creat-1.0 Na-143 
+K-3.6 Cl-105 HCO3-26 AnGap-16
+.
+CHEST (PA & LAT) ___:
+AP and lateral views of the chest show no focal consolidation.  
+There is no pleural effusion or pneumothorax. Cardiac, 
+mediastinal, and hilar contours are unchanged, redemonstrating 
+post-surgical findings after coronary arterial bypass graft as 
+well as atherosclerotic calcification of the aortic arch.   
+IMPRESSION: Normal chest. 
+.
+CT HEAD W/O CONTRAST  ___:
+There is no evidence of hemorrhage, edema, or mass effect. 
+Ventricles and sulci are enlarged, consistent with parenchymal 
+volume loss. Encephalomalacia is redemonstrated involving the 
+right cerebellar hemisphere, unchanged from the comparison 
+study. Periventricular white matter hyperdensities are 
+bilateral, reflecting the sequela of chronic microvascular 
+ischemia. The included paranasal sinuses reveal mild mucosal 
+thickening as well as an air-fluid level seen in the ethmoidal 
+air cells. The mastoid air cells are clear.   
+IMPRESSION: No acute intracranial abnormality and paranasal 
+sinus disease as above. 
+.
+
+ 
+Brief Hospital Course:
+___ y/o lady with DM, prior CVA, CAD s/p CABG, hyperlipidemia, 
+recurrent UTIs, mild dementia, sent in from assisted living with 
+___ days of vertigo and nausea/vomitting, inability to tolerate 
+oral intake.  
+.  
+# Dizziness/Nausea/Vomiting: History and exam most consistent 
+with vertigo with left nystagmus on ___ test 
+consistent with benign paroxysmal possitional vertigo (BPPV). 
+Could be secondary to aricept and provigil and therefore they 
+were discontinued. No evidence of ischemia/infection/CVA. She 
+had a normal CXR and CT head did not show any acute intracranial 
+abnormalities.  Orthostatics negative after IVF. Tolerated food 
+intake prior to leaving.  Patient was evaluated by physical 
+therapist who recommended home ___.
+.  
+# Diabetes Mellitus type 2: Her home medications were held 
+overnight with sliding scale insulin coverage.  They were 
+restarted prior to dischage.  
+.  
+#. CAD s/p CABG and history of stroke: Presentaion not 
+consistent with myocardial ischemia and she was ruled out with 
+negative cardiac enzymes.  She was placed on telemetry which did 
+not show any abnormalities.  Her home regimen of lisinopril, 
+metoprolol, simvastatin, aggrenox/aspirin was continued.
+.  
+#Thrush - She was started on four days of Nystatin S&S.  
+.  
+# Recurrent Urinary Tract Infection: No active symptoms.  She 
+was contined on outpatient Keflex prophylaxis.  
+.  
+# Osteopenia:  She was continued on weekly fosamax, Ca, vit D 
+supplementation.  
+.  
+# Dementia:  Aricept was discontinued as above.
+. 
+# Iron deficiency anemia  She was continued on Fe 
+supplementation  
+.
+# Prophylaxis: Subcutaneous heparin, PPI, bowel regimen  
+.  
+# Contact: Daughter, ___ ___, h ___  
+.  
+
+ 
+Medications on Admission:
+CEPHALEXIN 250 mg Capsule daily  
+ALENDRONATE - 70 mg Qweek  
+AMLODIPINE - 5 mg daily  
+DIPYRIDAMOLE-ASPIRIN [AGGRENOX] - 25 mg-200 mg Cap BID  
+DONEPEZIL [ARICEPT] - 5mg every other day  
+GLIPIZIDE - 20 mg Tablet BID  
+LISINOPRIL - 40 mg Tablet daily  
+METFORMIN - 1000 QAM, 500 mg QPM  
+METOPROLOL TARTRATE - 100 mg BID  
+MODAFINIL [PROVIGIL] - 200 mg Tablet QAM  
+MULTIVITAMINS - 1 daily  
+OMEPRAZOLE - 20 mg daily  
+PHENAZOPYRIDINE - 200 mg BID prn UTI  
+SIMVASTATIN - 20 mg daily  
+ASCORBIC ACID - ___ mg BID  
+ASPIRIN - 81 mg daily  
+CALCIUM CITRATE-VITAMIN D3 [CALCIUM CITRATE + D] - 315 mg-200 
+unit Tablet - 2 tabs BID  
+FERROUS SULFATE - 325 mg every other day  
+LACTOBACILLUS ACIDOPHILUS [ACIDOPHILUS] -  
+SENNA -  
+SIMETHICONE  
+THIAMINE HCL 100 mg daily  
+
+ 
+Discharge Medications:
+1. Cephalexin 250 mg Capsule Sig: One (1) Capsule PO Q24H (every 
+24 hours).  
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO EVERY OTHER DAY (Every Other Day).  
+4. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day) for 5 days.
+Disp:*100 ML(s)* Refills:*0*
+5. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+8. Metformin 500 mg Tablet Sig: Two (2) Tablet PO QAM (once a 
+day (in the morning)).  
+9. Metformin 500 mg Tablet Sig: One (1) Tablet PO QPM (once a 
+day (in the evening)).  
+10. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+11. Glipizide 10 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+12. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+13. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+14. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+15. Dipyridamole-Aspirin 200-25 mg Cap, Multiphasic Release 12 
+hr Sig: One (1) Cap PO BID (2 times a day).  
+16. Calcium Citrate + D 315-200 mg-unit Tablet Sig: Two (2) 
+Tablet PO twice a day.  
+17. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QWEEK ().  
+18. Ascorbic Acid ___ mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+19. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed for gas/bloating.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Benign Paroxysmal Positional Vertigo (BPPV)
+Oral thrush
+
+ 
+Discharge Condition:
+Asymptomatic, afebrile and hemodynamically stable.
+Alert and oriented to person and place.  Not oriented to date 
+which is her baseline.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted to ___ with 
+dizziness.  Your symptom is most likely due to benign paroxysmal 
+positional vertigo (BPPV).  You were taking a medication called 
+Aricept which may contribute to dizziness.  You might have been 
+dehydrated which could have contributed to the dizziness.  There 
+was no signs/evidence of major infection, heart problem or 
+stroke.  
+
+The following changes were made to your medications:
+STOP Aricept
+START oral nystatin for thrush
+
+Please keep all of the follow up appointments.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,445 @@
+===== DISCHARGE NOTE =====
+note_id=13246267-DS-19 | hadm_id=23939582
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lisinopril / furosemide / Cartia XT
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 11:30AM BLOOD WBC-12.1* RBC-4.48 Hgb-13.2 Hct-40.7 
+MCV-91 MCH-29.5 MCHC-32.4 RDW-14.6 RDWSD-48.4* Plt ___
+___ 11:30AM BLOOD Neuts-72.9* Lymphs-18.3* Monos-6.8 
+Eos-1.2 Baso-0.4 Im ___ AbsNeut-8.78* AbsLymp-2.21 
+AbsMono-0.82* AbsEos-0.15 AbsBaso-0.05
+___ 11:30AM BLOOD ___ PTT-22.9* ___
+___ 01:24PM BLOOD Glucose-162* UreaN-16 Creat-0.9 Na-145 
+K-3.9 Cl-105 HCO3-23 AnGap-17
+___ 01:24PM BLOOD ALT-28 AST-38 AlkPhos-67 TotBili-1.4
+___ 01:24PM BLOOD Albumin-4.0 Calcium-9.5 Phos-3.2 Mg-2.1
+___ 03:30AM BLOOD calTIBC-287 Ferritn-127 TRF-221
+
+TROPONIN TREND
+==============
+___ 11:30AM BLOOD cTropnT-0.01
+___ 01:24PM BLOOD cTropnT-0.26* proBNP-1322*
+___ 07:20PM BLOOD CK-MB-64* cTropnT-1.46*
+___ 03:30AM BLOOD CK-MB-56* cTropnT-1.82*
+___ 09:15AM BLOOD cTropnT-1.61*
+
+IMAGING AND STUDIES
+===================
+___ CXR
+Bibasilar atelectasis.  Otherwise no acute cardiopulmonary 
+process.
+
+___ TTE
+Mild symmetric left ventricular hypertrophy with normal cavity 
+size and regional/
+global biventricular systolic function. Dense mitral annular 
+calcification with severe functional
+stenosis and moderate mitral regurgitation. Mild aortic 
+stenosis.
+
+DISCHARGE LABS
+==============
+___ 07:52AM BLOOD WBC-7.4 RBC-3.56* Hgb-10.4* Hct-33.0* 
+MCV-93 MCH-29.2 MCHC-31.5* RDW-15.3 RDWSD-51.1* Plt ___
+___ 05:51AM BLOOD ___ PTT-149.8* ___
+___ 07:52AM BLOOD Glucose-102* UreaN-17 Creat-0.9 Na-141 
+K-4.1 Cl-105 HCO3-24 AnGap-12
+___ 07:52AM BLOOD Calcium-9.2 Phos-3.5 Mg-2.2
+
+MICROBIOLOGY
+============
+None
+ 
+Brief Hospital Course:
+Summary Statement:
+==================
+___ with history of severe MS ___ gradient 7mmHg) due to 
+MAC w/significant stenosis, & non-obstructive CAD who presented 
+with NSTEMI I/s/o AF/RVR and s/p DCCV on ___ with downtrending 
+troponins and cor angio ___ without need for intervention 
+revealing single vessel coronary artery disease involving the 
+non-dominant RCA.
+
+Active Issues:
+==============
+#New onset Afib with hemodynamic instability
+#Hypotension and afib with RVR requiring DCCV
+Most likely etiology is MAC from mitral stenosis. s/p DCCV 
+___, at which point she was loaded with amio IV although this 
+was not continued PO. Patient remained in sinus rhythm since 
+that time and was rate controlled with 37.5 mg metoprolol q6hr. 
+This was uptritrated to 150mg XL BID before discharge. She was 
+also started on apixaban 5mg BID for anticoagulation.  She will 
+follow-up with Dr. ___ next week and will not need 
+ambulatory cardiac monitoring in the meantime.
+
+#NSTEMI:
+Type II event I/s/o worsened CAD burden, s/p cor angio on ___
+without need for intervention revealing single-vessel coronary 
+artery disease involving she was continued on atorvastatin 80 
+mg, and a TTE did not reveal new wall motion abnormalities done 
+on ___.  Aspirin was discontinued in the setting of apixaban.  
+She was noted to be a bit volume up on day of discharge and will 
+continue torsemide 20 mg until ___ and switch back to 
+maintenance dose 10 mg torsemide daily starting ___, 
+___.  She is to have a basic metabolic panel drawn at ___ 
+___, labs have been ordered.  Results will be faxed to the 
+staff of Dr. ___.
+
+#Bleeding at site of ___ surgery
+Experience some minor bleeding at site of surgery, however this 
+was well-controlled during her admission and did not experience 
+further bleeding episodes despite being on anti-coagulation.
+
+CHRONIC ISSUES:
+===================
+#history of HTN
+Patient was previously on amlodipine but dc'd due to 
+hypotension. Normotensive at time of discharge
+
+#HLD
+Continued home statin
+
+#Asthma
+Received duonebs PRN
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Torsemide 10 mg PO DAILY 
+2. Metoprolol Succinate XL 100 mg PO BID 
+3. Atorvastatin 80 mg PO QPM 
+4. Aspirin 81 mg PO DAILY 
+5. Vitamin D Dose is Unknown  PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Torsemide 10 mg PO DAILY 
+starting ___ 
+RX *torsemide 10 mg 2 tablet(s) by mouth once a day Disp #*40 
+Tablet Refills:*0 
+3.  Metoprolol Succinate XL 150 mg PO BID 
+RX *metoprolol succinate 50 mg 3 tablet(s) by mouth twice a day 
+Disp #*120 Tablet Refills:*0 
+4.  Torsemide 20 mg PO DAILY Duration: 3 Days 
+take 20mg daily until ___, the switch to 10mg daily on ___  
+5.  Vitamin D 1000 UNIT PO DAILY  
+6.  Atorvastatin 80 mg PO QPM  
+7.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Atrial fibrillation with rapid ventricular response
+
+SECONDARY DIAGNOSIS
+===================
+NSTEMI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+
+___ was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because your heart rate was very fast and 
+causing chest discomfort
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-You are found to be in atrial fibrillation and were 
+cardioverted into a normal rhythm
+-You were given medications in order to control the fast rates 
+of your heart
+-You underwent cardiac catheterization to look at the arteries 
+in your heart were no blockages were found
+-You were stabilized on a medication regimen to control your 
+fast heart rates.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+-You are to take torsemide 20 mg daily until ___.  On 
+___ was all taken 10 mg torsemide daily.
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=13246267-DS-18 | hadm_id=26293205
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Escalating CP/DOE x 3 wks
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Pt is a ___ y/o F hx hyperlipidemia, HTN, asthma, who 
+presents after 3 weeks of SOB/DOE and one episode of SSCP. In 
+___, she noted for the first time to have some mild DOE 
+wholie golfing, but this resolved and she did not think much 
+about it. Then 3 weeks PTA, she was in ___ and had an episode of 
+severe SSCP, non radiating, lasting for almost an hour in the 
+middle of a tennis match. She also noted SOB at that time and 
+stopped playing tenins. She thought this was an asthma 
+exacerbation. Then over the next week, while doing her normal 
+activities (golf, walking w/ husband to events) she noticed 
+feeling more SOB with exertion and whenever climbing inclines. 
+Normally she is very active and can walk 3 miles without 
+difficulty. These symptoms lasted for a week, but she had no 
+further episodes of CP. When she finally returned from ___, she 
+saw her PCP, who did EKG and revealed numerous changes. She was 
+sent to ED for further eval.  
+.  
+In ED, 98.6 HR 126, BP 145/90, RR 16, 98%RA. she was noted to 
+have diffuse TWI I, AVL, V4-6 since ___. She has been 
+asymptomatic for the past week. D-dimer 865, but CTA negative 
+for PE. CE neg X 1.  
+.  
+On the floor, she reports feeling very well and denies any SOB, 
+plap, CP, pressure, ___ edema, PND/orthopnea, recent illneess. 
+Essentially, she feels totally fine and like her usual self.  
+
+ 
+Past Medical History:
+HTN  
+Hyperlipidemia  
+OSA: stopped using mask ___ year ago b/c felt that she didn't need 
+it  
+Asthma  
+hx MR on echo ___  
+
+ 
+Social History:
+___
+Family History:
+ 
+Father: amyloid  
+Mother: cancer  
+NO fam hx premature CAD, SCD  
+
+ 
+Physical Exam:
+ 
+PE: 98.4 142/90 95 16 97%2LNC  
+Gen: pleasant, well appearing  
+HEENT: Clear OP, MMM  
+NECK: Supple, No LAD, No JVD  
+CV: RR, NL rate. NL S1, S2. II/VI systolic mumur at LUSB  
+LUNGS: CTA, BS ___, No W/R/C  
+ABD: Soft, NT, ND. NL BS. No HSM  
+EXT: No edema. 2+ DP pulses ___  
+SKIN: No lesions  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved 
+sensation throughout. ___ strength throughout. ___ reflexes, 
+equal ___. Normal coordination. Gait assessment deferred  
+PSYCH: Listens and responds to questions appropriately, pleasant 
+ 
+
+ 
+Pertinent Results:
+___ 07:14AM BLOOD CK(CPK)-77
+___ 02:40PM BLOOD CK(CPK)-192*
+___ 07:14AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 02:40PM BLOOD cTropnT-<0.01
+___ 07:14AM BLOOD Calcium-9.3 Phos-3.2 Mg-2.1 Cholest-202*
+___ 07:14AM BLOOD Triglyc-77 HDL-71 CHOL/HD-2.8 LDLcalc-116
+. 
+RADIOLOGY: 
+CTA ___:  Extremely limited evaluation of the segmental and 
+subsegmental pulmonary arterial vasculature. No evidence of 
+central pulmonary embolism.
+. 
+CXR ___: No CHF. Suggestion of hyperinflation raising 
+possibility of underlying obstructive lung disease.
+. 
+EKG ___: Sinus tachycardia. Left axis deviation. Left anterior 
+fascicular block. Lateral T wave inversions suggest myocardial 
+ischemia. Compared to the previous tracing of ___ sinus 
+tachycardia, left anterior fascicular block and T wave 
+inversions are all new. 
+. 
+ETT-Mibi ___: This ___ year old woman with a history of asthma 
+was 
+referred to the lab for evaluation of chest pain and new 
+inverted T 
+waves. The patient exercised for 8 minutes of a Gervino protocol 
+and 
+stopped for fatigue. The estimated peak MET capacity was 4.3 
+which 
+represents an average physical working capacity for her age. No 
+arm, 
+neck, back or chest discomfort was reported by the patient 
+throughout 
+the study. She did note shortness of breath with exercise that 
+appeared 
+to be appropriate for the task. The baseline EKG showed global 
+inverted 
+T waves. At peak exercise there were no significant ST-T wave 
+changes. 
+The rhythm was sinus with several isolated apbs and vpbs. 
+Approrpiate 
+hemodynamic response to exercise. 
+.
+The image quality is good. Some breast attenuation is present. 
+Left ventricular cavity size is normal. 
+Resting and stress perfusion images reveal uniform tracer uptake 
+throughout the left ventricular myocardium. 
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 62%. 
+
+. 
+TTE ___:  
+The left atrium is normal in size. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%) Right ventricular chamber size and free wall 
+motion are normal. The number of aortic valve leaflets cannot be 
+determined. There is no aortic valve stenosis. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+ASSESSMENT: The patient is a ___ y/o F p/w hx of CP, DOE and new 
+EKG changes that may be suggestive of ischemia compared to a 
+previous EKG from ___
+. 
+1) CP/DOE
+Her escalating symptoms of DOE suggested cardiac ischemia and 
+her EKG had evidence of deep TWIs throughout her precordium to 
+possibly suggest inferolateral or proximal LAD territory 
+ischemia.  She was initiated on ASA and a BBlocker and her 
+statin was continued.  She was monitored on telemetry and her 
+CEs were normal throughout her admission.  She received an 
+ETT-Mibi on ___ to evaluate for coronary ischemia which 
+ultimately did not show any evidence of ischemia.  A TTE did not 
+show any evidence of wall motion abnormalities and she had a 
+normal echocardiogram.  Cardiology had been consulted and 
+thought that her EKG changes were likely non-specific 
+repolarization abnormalities and not related to ischemia.  She 
+was discharged on her home dose of Verapamil with suggestion to 
+discuss with her PCP whether starting ___ 10mg daily 
+would be helpful.  She believes she may have had some mild leg 
+cramping in the past on Lisinopril and was advised to discuss 
+this with her PCP prior to initiating the therapy.    
+.  
+2) Asthma:  
+She did not require any aggressive therapy for her asthma while 
+in house.  Further management was deferred to her PCP.  There 
+was suggestion of hyperinflation on her CXR although no comment 
+on this from CTA.  Prior PFTs in ___ were normal.  
+Consideration of repeat PFTs at this time was deferred to her 
+outpatient PCP. 
+. 
+3) Hyperlipidemia: 
+Her fasting lipid profile was rechecked during her 
+hospitalization and was within goal range.  She was discharged 
+on her home dose of Lipitor. 
+.
+DISPO: Discharaged in stable condition to follow up with her PCP
+ 
+___ on ___:
+ 
+lipitor 10 mg daily  
+verapamil 120 daily  
+MVI  
+
+ 
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO once a day.  
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Chest pain of unclear etiology
+
+ 
+Discharge Condition:
+Stable for discharge home. 
+
+ 
+Discharge Instructions:
+You were admitted with chest pain and changes on your EKG and 
+found to have a normal stress test and echocardiogram.  Your 
+chest pain may have been from your asthma or a viral bronchitis. 
+
+. 
+Please take medications as instructed below - changes to your 
+home regimen were made during this hospitalization.  The 
+cardiologists suggested starting Lisinopril 10mg daily - please 
+discuss this with Dr. ___ in the setting of possible muscle 
+cramps the previous time you took this medication.  Please take 
+an Aspirin once a day until instructed to stop by a doctor. 
+. 
+If you develop worsening chest pain, shortness of breath, 
+sweating, fainting or passing out, or any other worrisome 
+symptoms, please call your doctor or report to the nearest ER.
+ 
+Followup Instructions:
+___

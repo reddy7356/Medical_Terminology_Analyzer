@@ -1,0 +1,1633 @@
+===== DISCHARGE NOTE =====
+note_id=15837207-DS-6 | hadm_id=23643919
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amlodipine / Amoxicillin / Benadryl / Erythromycin Base / 
+potassium / lisinopril / metoprolol / Plavix / felodipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+"Feeling Unwell"
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ PMHx of CAD s/p CABG (___) s/p BMS in RCA (___), sCHF 
+(EF ___, COPD, HTN presents "feeling unwell."  He reports 
+having diarrhea and poor oral intake over last 4 days.  He has 
+not taken any of his medications over this time because he has 
+not felt well enough to do so.  He has had diarrhea twice per 
+day over the last four days and had nausea and emesis once in ED 
+today.  He has also had malaise, fatigue, fever, chills, night 
+sweats, and decreased PO intake.  He denies cough, chest pain, 
+SOB, HA, dysuria, abdominal pain.  He presented to the ED today 
+after calling his physician and describing his symptoms.  Given 
+that he has not tolerated PO intake or medications, his 
+physician recommended that he present to the ED.
+
+In the ED, initial vitals were:  97.8 96 156/94 16 97% RA.  Labs 
+showed hypoNa to 122.  CXR showed right lung base opacity liekly 
+atelectasis vs. pneumonia.  Pt was given IVF (500 ml NS), 
+levofloxacin 750 mg, and furosemide 20 mg PO.  He vomited once 
+in the ED and got zofran.
+
+Of note he had a recent admission ___ - ___ for sepsis 
+during which he presented with hyponatremia (Na 125 on 
+admission).  At that time, it was felt that he had hypovolemic 
+hyponatremia and his Na increased with IVF and improved PO 
+intake.  His Na on discharge on ___ was 134.
+ 
+On the floor, he is comfortable in bed and denies abdominal pain 
+or nausea.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+-Coronary artery disese: bypass graft x4, left internal mammary 
+artery to left anterior descending artery, saphenous vein graft 
+to right coronary artery, and saphenous vein sequential graft to 
+ramus 
+and obtuse marginal arteries; Bare metal stent
+-Carotid artery disease s/p left CEA in ___
+-Hypertension
+-Hyperlipidemia
+-COPD
+-Asbestosis exposure
+-PAD s/p aorto-bifemoral bypass grafting ___
+-Anemia
+-Insomnia
+-Recurrent transitional bladder cancer s/p TURP x 3
+-Restless leg syndrome
+-Prior heavy ETOH use
+-Old TB- s/p treatment with INH in ___
+-Depression
+-Anxiety
+-Sepsis of unknown source ___
+
+PAST SURGICAL HISTORY:
+-Emergent abdominal surgery after a traumatic accident in ___ 
+-Cataract surgery, bilateral
+-Left CEA in ___
+-Aorto-Bifemoral bypass grafting ___
+-TURP x3
+-BMS stent of RCA ___
+ 
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Father had a
+"hole in his heart" died at age ___ from lung disease and
+alcoholism. Mother died at age ___ from TB
+
+ 
+Physical Exam:
+ON ADMISSION: 
+VS:  99.4 90 131/64 20 97%RA
+Weight: 73.3 kg
+Gen:  NAD
+HEENT:  JVP 5 cm H2O
+CV:  RRR, S1 and S2, no m/r/g
+Pulm:  CTAB
+Abd:  BS+, soft, NT, ND, no HSM
+Ext:  WWP, no ___ Edema
+Skin:  No cutaneous eruption noted
+Neuro:  A&Ox3, grossly intact
+Psych:   Appropriate
+
+ON DISCHARGE:
+VS: 97.7 F, BP 120s/60s, HR 70, RR 20, 99% RA 
+GENERAL: NAD, alert, interactive  
+HEENT: No JVD, small areas of erythema around the corners of his 
+lips attributed to dry skin
+CV: RRR, no murmurs, rubs, gallops 
+LUNGS: CTAB, pt unable to sit up fully for exam  
+ABDOMEN: soft/NT/ND. No HSM.  
+EXTREMITIES: WWP, no edema. Small hematomas on forearms b/l. 
+NEURO: awake, A&Ox3  
+ 
+ 
+Pertinent Results:
+==ADMISSION LABS==
+___ 05:50AM BLOOD WBC-4.0 RBC-3.98* Hgb-10.2* Hct-30.6* 
+MCV-77* MCH-25.6* MCHC-33.3 RDW-15.8* RDWSD-43.8 Plt ___
+___ 05:50AM BLOOD Neuts-78.8* Lymphs-4.8* Monos-15.8* 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-3.16# AbsLymp-0.19* 
+AbsMono-0.63 AbsEos-0.00* AbsBaso-0.01
+___ 07:10AM BLOOD ___ PTT-26.1 ___
+___ 05:50AM BLOOD Glucose-113* UreaN-9 Creat-0.6 Na-122* 
+K-3.4 Cl-91* HCO3-19* AnGap-15
+___ 05:50AM BLOOD Lipase-29
+___ 05:50AM BLOOD cTropnT-<0.01
+___ 05:50AM BLOOD proBNP-980*
+___ 05:50AM BLOOD Albumin-3.3* Calcium-9.0 Phos-2.5* Mg-1.7
+
+==DISCHARGE LABS==
+
+___ 09:00AM BLOOD WBC-2.9* RBC-4.14* Hgb-10.3* Hct-32.4* 
+MCV-78* MCH-24.9* MCHC-31.8* RDW-16.0* RDWSD-46.0 Plt ___
+___ 09:00AM BLOOD Plt ___
+___ 09:00AM BLOOD Calcium-9.0 Phos-2.4* Mg-1.9
+
+==OTHER RESULTS==
+EKG ___ (on admission): rate 98, sinus rhythm
+
+Stress Test ___ (___): No e/o myocardial ischemia.  Similar 
+to prior.
+
+CXR ___:
+Mild right lung base opacity is likely atelectasis, although 
+pneumonia is possible in correct clinical setting.
+
+ 
+Brief Hospital Course:
+___ CAD s/p recent CABG and PCI, CHF, COPD, HTN p/w diarrhea, 
+fever, malaise, decreased PO intake, and hyponatremia.
+
+==ACTIVE ISSUES==
+
+# Hyponatremia: The pt had a sodium level of 122 on admission. 
+The etiology was felt to be hypovolemic hyponatremia ___ poor PO 
+intake for four days prior to presentation, as it had been on 
+previous admissions. Low FENa and compressible IVC on u/s were 
+also suggestive of this. He had diarrhea which could have caused 
+GI sodium loss. As his hospitalization progressed, his sodium 
+became suggestive of underlying SIADH. Suspicions were raised 
+when his sodium improved with fluid restriction. This could have 
+been possible due to his GI infection, stress due to poor PO 
+intake, and/or the presence of a pulmonary nodule which was not 
+evaluated further during this admission. Given that a potential 
+cause of his SIADH could be his pramipexole, his home dose of 
+0.5 mg BID was reduced to 0.25 mg BID. 
+
+# Diarrhea: The pt presented with several days of diarrhea and 
+poor PO intake that made a viral gastroenteritis likely. He was 
+started on PO flagyl for possibility of C. diff, but test 
+returned negative so his flagyl was d/c'ed. 
+
+==CHRONIC ISSUES==
+
+# CAD/CABG: The pt was continued on ASA81, plavix, atorvastatin, 
+and carvedilol. 
+
+# chronic diastolic CHF: The pt's furosemide was held given 
+volume depletion and hyponatremia. He was not restarted on this 
+medication. 
+
+# HTN: the pt was continued on his home carvedilol. His losartan 
+was initially held, and on day of discharge he was restarted at 
+a reduced dose of 12.5 mg. 
+
+# COPD: the pt was continued on Advair, tiotropium, and 
+albuterol PRN.
+
+# BPH: the pt was continued on tamsulosin
+
+***Transitional issues***: 
+- Pt was found on chest CT in ___ to have a pulmonary nodule 
+approx 7 mm in size. He should have follow up chest CT on this 
+nodule in ___. 
+- The pt's home lasix and losartan were initially held; he was 
+restarted on a reduced dose of losartan 12.5 mg daily on day of 
+discharge. He should discuss whether he needs to continue lasix 
+with his PCP. 
+- The pt was found to have continued leukopenia to 2.___s mild monocytosis during his stay. This had been noted on 
+previous admissions as well a few months ago. He should have 
+hematology f/u in the outpatient setting with consideration of 
+bone marrow biopsy. 
+- The pt should have colonoscopy given his microcytic anemia, as 
+well as iron studies. 
+- The pt's home dose of pramipexole 0.5 mg BID was reduced to 
+0.25 mg BID due to concern that it might be causing SIADH. 
+- The pt should have labwork in 3 days (___) to evaluate his 
+creatinine and iron studies and CBC. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN COPD 
+2. Aspirin EC 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Carvedilol 3.125 mg PO BID 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. FoLIC Acid 1 mg PO DAILY 
+7. Furosemide 20 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. Pramipexole 0.5 mg PO BID 
+10. Thiamine 100 mg PO DAILY 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. TraZODone 25 mg PO QHS:PRN sleep 
+13. Cyanocobalamin 1000 mcg PO DAILY 
+14. Losartan Potassium 25 mg PO DAILY 
+15. Tamsulosin 0.4 mg PO QHS 
+16. Docusate Sodium 100 mg PO BID 
+17. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN COPD 
+2. Aspirin EC 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Carvedilol 3.125 mg PO BID 
+5. Cyanocobalamin 1000 mcg PO DAILY 
+6. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. Thiamine 100 mg PO DAILY 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. Pramipexole 0.25 mg PO BID 
+RX *pramipexole 0.25 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0
+13. Tamsulosin 0.4 mg PO QHS 
+14. Losartan Potassium 12.5 mg PO DAILY 
+RX *losartan 25 mg 0.5 (One half) tablet(s) by mouth daily Disp 
+#*15 Tablet Refills:*0
+15. Outpatient Lab Work
+ICD-9: leukopenia (288.50) 
+Please obtain CBC by ___ and fax results to Dr. ___ at 
+___. 
+
+ICD-9: SIADH (253.6) 
+Please obtain chem-7 by ___ and fax results to Dr. ___ 
+at ___
+
+ICD-9: microcytic anemia (280.9)
+Please obtain iron studies (serum iron, TIBC/transferritin, 
+ferritin) and fax results to Dr. ___ at ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Prinary:
+Acute gastroenteritis and diarrhea
+Hypovolemic hyponatremia and syndrome of inappropriate ADH 
+
+Secondary:
+- Leukopenia
+- Anemia
+- Chronic systolic heart failure with moderate MR ___ 30%)
+- NSTEMI secondary to SVG-RCA graft occlusion s/p BMS mRCA 
+___
+- CAD s/p CABG (LIMA->LAD, SVG->RCA, SVG Ramus/OM) ___
+- PVD s/p bilateral aorto-bifemoral endarterectomy and bypass 
+___
+- Carotid artery stenosis s/p left ___
+- Hypertension
+- COPD
+- Anxiety/depression
+- Restless leg syndrome
+- GERD
+- Benign pulmonary nodules (PET-CT ___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___.  You presented with 
+diarrhea, decresed food intake, and not feeling well.  You also 
+had a low sodium level.  This was felt to be due to being 
+dehydrated and a side effect of the pramipexole, the dose of 
+which we have reduced. You also should avoid drinking more than 
+2L of fluid in a day. Your diarrhea resolved in the hospital and 
+your sodium improved.  Please be sure to go to your follow up 
+appointments as scheduled.  
+
+Your pramipexole dose was reduced due to concern that it could 
+be causing your sodium level to become low. Please discuss the 
+new dose with your primary care doctor. 
+
+The are a number of studies and tests that we will recommend to 
+your PCP that should be done in the coming months. These include 
+lab work to evaluate for the cause of your anemia, a 
+colonoscopy, and a repeat chest CT to monitor the nodule that 
+was seen in ___.
+
+We have not restarted your lasix due to its potential effects on 
+sodium levels. Please discuss with your PCP about when to 
+restart this medication.
+
+Thank you for allowing us to participate in your care. 
+
+Sincerely,
+
+Your ___ Team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15837207-DS-4 | hadm_id=24217756
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+amlodipine / Amoxicillin / Benadryl / Erythromycin Base / 
+potassium / lisinopril / metoprolol / Plavix / felodipine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath and pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+___: Coronary artery bypass graft x4, left internal mammary
+artery to left anterior descending artery, saphenous vein graft 
+to right coronary artery, and saphenous vein sequential graft to 
+ramus and obtuse marginal arteries.
+
+ 
+History of Present Illness:
+___ year old male with a history of COPD and multile episodes of 
+pneumonia since the begining of the year has complaints of 
+worsening dyspnea on exertion over the past few months. He had a 
+recent stress test that revealed inferoapical septal ischemia 
+and a mildly decreased LVEF of 46%. With these findings he was 
+referred for a cardiac catheterization. Upon catheterization he 
+was found to have three vessel disease.He underwent CABGx4 10 
+days ago and was discharged to ___ on ___. He was 
+seen in the ED earlier today
+for complants of shortness of breath and pain. In the ED his 
+painresolved with pain medication .He underwent a CT scan of 
+chest to Rule out pulmonary embolism and found to have left lung 
+atelectasis and pleural effusions.  He suddenly became more 
+tachypneic with soft blood pressures requiring BIPAP.A dose of 
+lasix was given with good response. Based on such events 
+decision is made to admit him for further management
+
+ 
+Past Medical History:
+Coronary artery bypass graft x4, left internal mammary artery to 
+left anterior descending artery, saphenous vein graft to right 
+coronary artery, and saphenous vein sequential graft to ramus 
+and obtuse marginal arteries.
+Hypertension
+Hyperlipidemia
+COPD
+Asbestosis exposure
+Carotid artery disease s/p left CEA in ___
+PAD s/p aorto-bifemoral bypass grafting ___
+Anemia
+Insomnia
+Recurrent transitional bladder cancer s/p TURP x 3
+Restless leg syndrome
+Prior heavy ETOH use
+Old TB- s/p treatment with INH in ___
+Depression
+Anxiety
+Past Surgical History:
+Emergent abdominal surgery after a traumatic accident in ___ 
+Cataract surgery, bilateral
+Left CEA in ___
+Aorto-Bifemoral bypass grafting ___
+TURP x3
+
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Father had a
+"hole in his heart" died at age ___ from lung disease and
+alcoholism. Mother died at age ___ from TB
+
+ 
+Physical Exam:
+Pulse:108  Resp:12  O2 sat:98 on BIPAP on 40% Fio2
+B/P  ___
+Height:5'7"   Weight:82.5 kg
+
+General: no distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs bilateral crackles
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] distended [x] non-tender [x]  bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema [X] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:2+   Left:2+
+___           Right:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right: none   Left:none
+
+ 
+Pertinent Results:
+ECHO ___ 
+The left atrial volume index is severely increased. Left 
+ventricular wall thicknesses and cavity size are normal. There 
+is moderate regional left ventricular systolic dysfunction with 
+akinesis of the inferior, inferolateral and basal inferoseptal 
+walls. The remaining segments contract normally (LVEF = ___. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. No aortic regurgitation is seen. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+IMPRESSION: Moderate regional left ventricular systolic 
+dysfunction, c/w CAD. Mild mitral regurgitation.  
+
+CT scan ___
+1. No pulmonary embolism. 
+2. Postoperative changes in the mediastinum including a small 
+pericardial  3. Large left and small right nonhemorrhagic 
+pleural effusions with adjacent atalectasis. 4. Moderate 
+centrilobular emphysema and mild pulmonary edema. 5. New 7 mm 
+nodule within a cystic lucency in the right middle lobe, which 
+appears contiguous with an adjacent vessel, possibly 
+representing a venous varix. 
+
+___ 03:00PM BLOOD WBC-6.2 RBC-3.31* Hgb-8.8* Hct-27.7* 
+MCV-84 MCH-26.6 MCHC-31.8* RDW-15.4 RDWSD-46.9* Plt ___
+___ 03:00PM BLOOD Glucose-119* UreaN-8 Creat-0.8 Na-125* 
+K-4.2 Cl-94* HCO3-28 AnGap-7*
+___ 06:20AM BLOOD WBC-6.4 RBC-3.15* Hgb-8.3* Hct-26.8* 
+MCV-85 MCH-26.3 MCHC-31.0* RDW-15.5 RDWSD-47.6* Plt ___
+___ 06:20AM BLOOD Glucose-93 UreaN-15 Creat-0.8 Na-128* 
+K-3.5 Cl-92* HCO3-29 AnGap-11
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the ___ on ___ for further 
+management of his dyspnea/hypercarbia respiratory failure and 
+pain. His pain was relieved with analgesics. BIPAP with good 
+effect. A CT scan ruled out a pulmonary embolism but did reveal 
+a new RM lobe lung nodule which is recommended to be re 
+evaluated in 3 months. He was diuresed with IV Lasix. He 
+remained hemodynamically stable. On HD3 his vitals were stable, 
+he was not longer short of breath, pain was well controlled and 
+he was 94% on room air, ambulating with assistance. He was 
+discharged to ___ on the ___ on HD3 in stable 
+condition. All follow up appointments were arranged. CXR to be 
+done at follow up appointment with Dr ___.  Follow up 
+appointment with cardiologist Dr. ___ on ___ at 10:45 
+AM.
+ 
+Medications on Admission:
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+2. Aspirin EC 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Pramipexole 0.5 mg PO BID 
+5. Simvastatin 10 mg PO QPM 
+6. Terazosin 1 mg PO QHS 
+7. Tiotropium Bromide 1 CAP IH BID 
+8. Acetaminophen 650 mg PO Q4H:PRN pain, fever 
+9. Carvedilol 25 mg PO BID 
+10. FoLIC Acid 1 mg PO DAILY 
+11. Furosemide 40 mg PO DAILY Duration: 10 Days 
+12. Losartan Potassium 25 mg PO DAILY 
+13. Multivitamins 1 TAB PO DAILY 
+14. Ranitidine 150 mg PO BID 
+15. Tamsulosin 0.4 mg PO QHS 
+16. Thiamine 100 mg PO DAILY 
+17. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*50 Tablet Refills:*0
+18. ALPRAZolam 0.125 mg PO BID:PRN anxiety 
+RX *alprazolam 0.25 mg 0.5 (One half) tablet(s) by mouth twice a 
+
+day Disp #*40 Tablet Refills:*0
+19. Cyanocobalamin ___ mcg PO DAILY 
+20. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION BID 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN COPD 
+2. Aspirin EC 81 mg PO DAILY 
+3. Carvedilol 3.125 mg PO BID 
+4. Docusate Sodium 100 mg PO BID 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. FoLIC Acid 1 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Furosemide 40 mg PO BID Duration: 14 Days 
+9. Potassium Chloride 20 mEq PO BID Duration: 14 Days 
+Hold for K > 4.5 
+10. Pramipexole 0.5 mg PO BID 
+11. Ranitidine 150 mg PO BID 
+12. Simvastatin 10 mg PO QPM 
+13. Thiamine 100 mg PO DAILY 
+14. Tiotropium Bromide 1 CAP IH DAILY 
+15. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol [Ultram] 50 mg 1 tablet(s) by mouth Q 4 hours Disp 
+#*60 Tablet Refills:*0
+16. Tamsulosin 0.4 mg PO QHS 
+17. Terazosin 1 mg PO QHS 
+18. Losartan Potassium 25 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary Artery Disease
+Hypertension
+Hyperlipidemia
+COPD
+Asbestosis exposure
+Carotid artery disease s/p left CEA in ___
+PAD s/p aorto-bifemoral bypass grafting ___
+Anemia
+Insomnia
+Recurrent transitional bladder cancer s/p TURP x 3
+Restless leg syndrome
+Prior heavy ETOH use
+Old TB- s/p treatment with INH in ___
+Depression
+Anxiety
+Past Surgical History:
+Emergent abdominal surgery after a traumatic accident in ___ 
+Cataract surgery, bilateral
+Left CEA in ___
+Aorto-Bifemoral bypass grafting ___
+TURP x3
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema
+
+ 
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with 
+mild soap, no baths or swimming until cleared by surgeon. Look 
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions. 
+3) Each morning you should weigh yourself and then in the 
+evening take your temperature, these should be written down on 
+the chart provided.
+4) No driving for approximately one month and while taking 
+narcotics. Driving will be discussed at follow up appointment 
+with surgeon when you will likely be cleared to drive. 
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns ___
+7) Please arrange to have a repeat CT scan in 3 months to follow 
+up on new R middle lobe lung nodule
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15837207-DS-3 | hadm_id=24785909
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+amlodipine / Amoxicillin / Benadryl / Erythromycin Base / 
+potassium / lisinopril / metoprolol / Plavix / felodipine
+ 
+Attending: ___
+ 
+Chief Complaint:
+dyspnea on exertion
+
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Coronary artery bypass graft x4, left internal mammary
+    artery to left anterior descending artery, saphenous
+    vein graft to right coronary artery, and saphenous vein
+    sequential graft to ramus and obtuse marginal arteries.
+2. Endoscopic harvesting of long saphenous vein.
+
+ 
+History of Present Illness:
+___ year old male with a history of
+COPD and multile episodes of pneumonia since the begining of the
+year has complaints of worsening dyspnea on exertion over the
+past few months. He had a recent stress test that revealed
+inferoapical septal ischemia and a mildly decreased LVEF of 46%.
+With these findings he was referred for a cardiac
+catheterization. Upon catheterization he was found to have three
+vessel disease. He is now referred to cardiac surgery for
+surgical revascularization. 
+
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+COPD
+Asbestosis exposure
+Carotid artery disease s/p left CEA in ___
+PAD s/p aorto-bifemoral bypass grafting ___
+Anemia
+Insomnia
+Recurrent transitional bladder cancer s/p TURP x 3
+Restless leg syndrome
+Prior heavy ETOH use
+Old TB- s/p treatment with INH in ___
+Depression
+Anxiety
+Past Surgical History:
+Emergent abdominal surgery after a traumatic accident in ___ 
+Cataract surgery, bilateral
+Left CEA in ___
+Aorto-Bifemoral bypass grafting ___
+TURP x3
+
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Father had a
+"hole in his heart" died at age ___ from lung disease and
+alcoholism. Mother died at age ___ from TB
+
+ 
+Physical Exam:
+Pulse:94 Resp:12  O2 sat:98/RA
+B/P  Right:179/91    Left:175/101
+Height:5'7"   Weight:82.5 kg
+
+General: no distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:2+   Left:2+
+___           Right:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right: none   Left:none
+
+ 
+Pertinent Results:
+Conclusions  
+Prebypass
+
+No atrial septal defect is seen by 2D or color Doppler. 
+
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is top normal/borderline dilated. There 
+is severe regional left ventricular systolic dysfunction with 
+all levels of septal wall. Overall left ventricular systolic 
+function is severely depressed (LVEF= 15 %). [Intrinsic left 
+ventricular systolic function is likely more depressed given the 
+severity of valvular regurgitation.] 
+
+Right ventricular chamber size and free wall motion are normal. 
+
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The descending thoracic aorta is mildly dilated. 
+There are complex (>4mm) atheroma in the descending thoracic 
+aorta. 
+
+The aortic valve leaflets (3) appear structurally normal with 
+good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are mildly thickened. 
+Mild to moderate (___) mitral regurgitation is seen. There is 
+no pericardial effusion. 
+
+Dr. ___ was notified in person of the results in the OR 
+during the procedure.
+
+Post CPB
+
+The patient separated from bypass with phenylephrine and 
+epinephrine by IV infusions. Cardiac Output is 5.9 LPM by TEE. 
+
+The LVEF has impoved to ___ though this is on epi drip. The 
+septum has improved from akinetic to hypokinetic. The mitral 
+regurgitation is moderate. There is no sign of aortic injury or 
+dissection.   
+   I certify that I was present for this procedure in compliance 
+with ___ regulations.
+
+Electronically signed by ___, MD, Interpreting 
+physician ___ ___ 14:08  
+   
+© ___ ___. All rights reserved.
+.
+
+___ 04:25AM BLOOD WBC-5.7 RBC-3.06* Hgb-8.3* Hct-25.9* 
+MCV-85 MCH-27.1 MCHC-32.0 RDW-15.4 RDWSD-47.2* Plt ___
+___ 02:57AM BLOOD WBC-7.3 RBC-3.23* Hgb-8.5* Hct-27.2* 
+MCV-84 MCH-26.3 MCHC-31.3* RDW-15.2 RDWSD-46.4* Plt ___
+___ 02:57AM BLOOD ___ PTT-29.2 ___
+___ 04:25AM BLOOD Glucose-103* UreaN-16 Creat-0.6 Na-138 
+K-4.4 Cl-101 HCO3-28 AnGap-13
+___ 11:10AM BLOOD Na-136 K-3.7 Cl-104
+ 
+Brief Hospital Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent CABG x 5 with Dr. ___.  Overall the 
+patient tolerated the procedure well and post-operatively was 
+transferred to the ___ in stable condition for recovery and 
+invasive monitoring.  
+The patient does have a history of alcohol dependence. He was 
+agitated with initial wean and required precedex.  CIWA scale 
+was implemented.  He was extubated on POD 1 and maintained on 
+the CIWA scale.  He was weaned from epi and neo by POD 1.  The 
+patient was neurologically intact and hemodynamically stable.  
+Beta blocker was initiated and the patient was gently diuresed 
+toward the preoperative weight.  The patient was transferred to 
+the telemetry floor for further recovery.  Chest tubes and 
+pacing wires were discontinued without complication.  The 
+patient was evaluated by the physical therapy service for 
+assistance with strength and mobility.  He failed a void trial.  
+Foley was replaced and Flomax started.  Void trial should be 
+repeated in 3 days at rehab.   By the time of discharge on POD 4 
+the patient was ambulating freely, the wound was healing and 
+pain was controlled with oral analgesics.  The patient was 
+discharged to ___ on the ___ in good condition with 
+appropriate follow up instructions.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+2. ALPRAZolam 0.125 mg PO BID 
+3. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+4. Mirtazapine 15 mg PO QHS 
+5. Pramipexole 0.5 mg PO BID 
+6. Simvastatin 10 mg PO QPM 
+7. Terazosin 1 mg PO QHS 
+8. Tiotropium Bromide 1 CAP IH BID 
+9. Aspirin 81 mg PO DAILY 
+10. Cyanocobalamin ___ mcg PO DAILY 
+11. Docusate Sodium 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+2. Aspirin EC 81 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Pramipexole 0.5 mg PO BID 
+5. Simvastatin 10 mg PO QPM 
+6. Terazosin 1 mg PO QHS 
+7. Tiotropium Bromide 1 CAP IH BID 
+8. Acetaminophen 650 mg PO Q4H:PRN pain, fever 
+9. Carvedilol 25 mg PO BID 
+10. FoLIC Acid 1 mg PO DAILY 
+11. Furosemide 40 mg PO DAILY Duration: 10 Days 
+12. Losartan Potassium 25 mg PO DAILY 
+13. Multivitamins 1 TAB PO DAILY 
+14. Ranitidine 150 mg PO BID 
+15. Tamsulosin 0.4 mg PO QHS 
+16. Thiamine 100 mg PO DAILY 
+17. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*50 Tablet Refills:*0
+18. ALPRAZolam 0.125 mg PO BID:PRN anxiety 
+RX *alprazolam 0.25 mg 0.5 (One half) tablet(s) by mouth twice a 
+day Disp #*40 Tablet Refills:*0
+19. Cyanocobalamin ___ mcg PO DAILY 
+20. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION BID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hypertension
+Hyperlipidemia
+COPD
+Asbestosis exposure
+Carotid artery disease s/p left CEA in ___
+PAD s/p aorto-bifemoral bypass grafting ___
+Anemia
+Insomnia
+Recurrent transitional bladder cancer s/p TURP x 3
+Restless leg syndrome
+Prior heavy ETOH use
+Old TB- s/p treatment with INH in ___
+Depression
+Anxiety
+Past Surgical History:
+Emergent abdominal surgery after a traumatic accident in ___ 
+Cataract surgery, bilateral
+Left CEA in ___
+Aorto-Bifemoral bypass grafting ___
+TURP x3
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema- trace 
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15837207-DS-5 | hadm_id=26639215
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amlodipine / Amoxicillin / Benadryl / Erythromycin Base / 
+potassium / lisinopril / metoprolol / Plavix / felodipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, malaise, rigors, abnormal labs.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheretization with placement of bare metal stent in 
+RCA. (___)
+
+ 
+History of Present Illness:
+___ w/ CAD s/p CABG (___), sCHF (EF ___, presents with 
+malaise, fatigue, fever and decreased PO intake x4 days.  
+Pt reports 4 day history of fatigue, malaise, nausea, and poor 
+PO intake. He had one episode of loose stools but has had normal 
+stools since. He denies fevers, vomiting, cough, dysuria, 
+abdominal pain, shortness of breath. He has not been taking his 
+medications for the last 3 days due to poor energy.  
+He presented to ___, where he was told his lab values 
+were low (Mag 1.6, Na 125), he was given 1L IVF, CXR was 
+performed which was read as normal, and he was sent here for 
+further evaluation.  
+Of note, pt had 4 vessel CABG performed at ___ on ___. 
+Subsequent TTE showed EF of ___.  
+In the ED, initial vitals were: 101 97 103/63 18 97% RA  
+- Labs were significant for: WBC 3.7 with 70.9% PMNs, 
+hyponatremia to 125, UA without evidence of pyuria.  
+- No imaging was performed.  
+- The patient was given: nothing.  
+Vitals prior to transfer were: 98.9 101 123/96 18 99% RA  
+Upon arrival to the floor, pt confirmed the above history and 
+was alert and oriented. He denies exposure to ticks or walking 
+in wooded areas. He denies redness or drainage from his chest 
+incision. He was written for IV vancomycin, cefepime, and 1L 
+IVF.  
+Pt triggered at 2am for tachycardia to 160s, tachypnea to ___, 
+temp to 102.3. He was rigoring, diaphoretic, and confused. 
+Vancomycin was infusing but other medications and fluids had not 
+yet been given. See trigger note for full details but given 
+peripheral o2 sat monitoring reading 70%, he was placed on NRB. 
+ABG showed 7.35/35/285, lactate 3.8. He was given 2L IVF, 
+vancomycin, cefepime 2g, demerol 12.5mg, tylenol 1g. Foley 
+placed. Repeat CXR and EKG were performed showing ?LLL 
+infiltrate and sinus tach, respectively. Given ABG showing 
+adequate oxygenation o2 was decreased to NC. ICU consult was 
+called, ICU team came to bedside to assess. Over next ~30 min pt 
+started to improve, with HR decreasing to 130s, rigors 
+improving, and mental status improving, so pt was thought to be 
+appropriate to stay on the floor.  
+Over the next few hours he improved and by reevaluation at 4am 
+was again A&Ox3 and mentating. Repeat lactate at 5am was 0.9. 
+Given additional 1L IVF (3rd liter since admit).  
+REVIEW OF SYSTEMS: As per HPI  
+
+ 
+Past Medical History:
+Coronary artery bypass graft x4, left internal mammary artery to 
+left anterior descending artery, saphenous vein graft to right 
+coronary artery, and saphenous vein sequential graft to ramus 
+and obtuse marginal arteries.
+Hypertension
+Hyperlipidemia
+COPD
+Asbestosis exposure
+Carotid artery disease s/p left CEA in ___
+PAD s/p aorto-bifemoral bypass grafting ___
+Anemia
+Insomnia
+Recurrent transitional bladder cancer s/p TURP x 3
+Restless leg syndrome
+Prior heavy ETOH use
+Old TB- s/p treatment with INH in ___
+Depression
+Anxiety
+Sepsis of unknown source ___
+Past Surgical History:
+Emergent abdominal surgery after a traumatic accident in ___ 
+Cataract surgery, bilateral
+Left CEA in ___
+Aorto-Bifemoral bypass grafting ___
+TURP x3
+BMS stent of RCA ___
+
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Father had a
+"hole in his heart" died at age ___ from lung disease and
+alcoholism. Mother died at age ___ from TB
+
+ 
+Physical Exam:
+ADMISSION EXAM
+===============
+Vitals: 101 131/67 98 18 96% on RA  
+(MOST RECENT VITALS: 99/60, 110, 20, 96% on 2L)  
+General: pleasant elderly man, ill and fatigued appearing  
+HEENT: Sclera anicteric, MM dry, oropharynx clear, EOMI  
+Neck: Supple, JVP not elevated  
+CV: tachycardic, normal S1 + S2, no murmurs, rubs, gallops  
+Chest: 12inch midline incision well healed and without 
+surrounding erythema, edema, or fluctuance  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, normal strenght, gait deferred. A&OX3 
+and conversant.  
+
+DISCHARGE EXAM
+==============
+Vitals:  98.3 97.9 143/57 (115-140/50-80) 70s-90s 20 98% on RA 
+General: alert, oriented, seated comfortably. 
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not appreciated, no LAD  
+Lungs: CTAB.   
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley. Groin site with mild serosanguinous drainage.   
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: Non focal 
+
+ 
+Pertinent Results:
+ADMISSION RESULTS
+=================
+___ 04:16PM BLOOD Glucose-116* UreaN-9 Creat-0.8 Na-125* 
+K-4.0 Cl-90* HCO3-25 AnGap-14
+___ 04:16PM BLOOD WBC-3.7* RBC-3.95* Hgb-10.2* Hct-31.4* 
+MCV-80* MCH-25.8* MCHC-32.5 RDW-15.5 RDWSD-44.9 Plt ___
+___ 04:16PM BLOOD Neuts-70.9 Lymphs-7.9* Monos-19.8* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-2.62 AbsLymp-0.29* 
+AbsMono-0.73 AbsEos-0.01* AbsBaso-0.01
+___ 04:16PM BLOOD Albumin-3.6 Calcium-9.1 Phos-3.3 Mg-2.5
+___ 01:38AM BLOOD Type-ART pO2-285* pCO2-35 pH-7.34* 
+calTCO2-20* Base XS--5
+
+DISCHARGE RESULTS
+=================
+
+___ 06:10AM BLOOD Glucose-94 UreaN-4* Creat-0.7 Na-134 
+K-3.8 Cl-100 HCO3-26 AnGap-12
+___ 06:10AM BLOOD WBC-2.8* RBC-3.76* Hgb-9.6* Hct-29.7* 
+MCV-79* MCH-25.5* MCHC-32.3 RDW-16.3* RDWSD-46.8* Plt ___
+___ 06:10AM BLOOD Neuts-64.7 Lymphs-14.2* Monos-18.5* 
+Eos-1.8 Baso-0.4 Im ___ AbsNeut-1.82 AbsLymp-0.40* 
+AbsMono-0.52 AbsEos-0.05 AbsBaso-0.01
+___ 06:10AM BLOOD Calcium-8.7 Phos-4.4 Mg-2.1
+
+CARDIAC WORKUP
+==============
+
+___ 07:00AM BLOOD cTropnT-0.01
+___ 09:00AM BLOOD CK-MB-2 cTropnT-0.01
+___ 03:15PM BLOOD cTropnT-0.02*
+___ 12:59AM BLOOD cTropnT-0.01
+
+MICROBIOLOGY
+============
+URINE CULTURE (Final ___:    NO GROWTH. 
+BLOOD CULTURE (___): PENDING
+BLOOD CULTURE (___): PENDING
+
+IMAGING
+=======
+
+CXR (___)  Mild to moderate cardiomegaly is a stable.  Mild 
+pulmonary edema has worsened. Bibasilar opacities consistent 
+with atelectasis left greater than right have increased.  
+Presumed bilateral pleural effusions are small.  Calcified 
+mediastinal lymph nodes are again noted. 
+
+ECG ___ 8:30am): New t-wave inversions in leads V1-V6 with 
+t-wave flattening in leads I, II, aVL. 
+
+ECHO (___): 
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. There is moderate to severe global left ventricular 
+hypokinesis with regional variation; inferior wall, posterior 
+wall, and apex are severely hypokinetic (LVEF = 30 %). The right 
+ventricular free wall thickness is normal. Right ventricular 
+chamber size is normal. with borderline normal free wall 
+function. There are focal calcifications in the aortic arch. The 
+number of aortic valve leaflets cannot be determined. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. Moderate (2+) mitral 
+regurgitation is seen. There is a small to moderate sized 
+pericardial effusion. The effusion appears circumferential. 
+There are no echocardiographic signs of tamponade. 
+
+ 
+Brief Hospital Course:
+___ w/ CAD s/p CABG (___), sCHF (EF ___, presenting with 
+nausea, malaise, found to have severe sepsis with unknown source 
+and worsening LVEF and progressive RCA stenosis requiring bare 
+metal stenting (___).
+
+# Severe sepsis: The patient was transferred to the ___ from 
+OSH for management of sepsis and hyponatremia. He presented with 
+fevers, chills, malaise, confusion, poor PO intake, nausea, and 
+vomiting for 4 days prior to arrival. On arrival he was found to 
+be febrile to 101, leukopenic to 3.7 (dropping to 1.8) and 
+hyponatremic to 125. CXR and UA were unremarkable. On HD1 he 
+became tachycardic to the 160s tachypnic to ___ and O2 sats were 
+70%  on the floor. He was found to be rigoring, diaphoretic, and 
+confused. CXR showed LLL retrocardiac atelectasis but no 
+consolidation. EKG showed sinus tachycardia. It was noted that 
+he was receiving vancomycin but had not received cefepime. He 
+was given vancomycin, cefepime, demerol, tylenol, and 2L IVF. He 
+remained on Vancomycin and Cefepime from ___. He remained 
+afebrile for 72 hours and antibiotics were discontinued. The 
+symptoms of malaise, confusion, and nausea improved. His 
+hyponatremia improved over the course of the admission with IVF 
+and improved PO intake. His leukopenia has overall been 
+improving with some fluctations. Urine and blood cultures were 
+negative. He remained afebrile for over 48 hours after 
+antibiotics.
+
+#CAD: On HD3, it was noted that he was short of breath, 
+diaphoretic, and was complaining of substernal chest pain. He 
+described the pain as pleuritic and located at the sternal 
+incision site. An EKG showed T-wave inversions in leads V1-V6 
+with some T-wave flattening in I and II compared to prior. 
+Repeat EKG showed deeping of the T-wave inversions. Trops were 
+negative x2. A CXR showed mild worsening of pulmonary edema. His 
+SOB improved after lasix 20mg x 2. An Echo showed inferior wall, 
+posterior wall, and apex as severely hypokinetic (LVEF = 30 %). 
+Cardiology was consulted and it was decided that catheterization 
+was appropriate in the setting of ongoing EKG changes and echo 
+findings despite the atypical nature of his pain. 
+Catheterization showed 80% stenosis of the RCA requiring BMS. He 
+had one episode of shortness of breath on HD4. Repeat EKG showed 
+no changes. Initial troponin was positive but serial was 
+negative. He is on medically optimized therapy with aspirin, 
+losartan, clopidogrel (for a 1 month course started on ___, 
+atorvastatin, and carvedilol. 
+
+#Hyponatremia: The patient had hypovolemic hyponatremia in the 
+setting of poor PO intake over last several days. His mental 
+status changes were more likely attributable to worsening 
+sepsis. Improved with fluid resuscitation and PO intake. 
+
+#COPD: Was managed with Fluticasone-Salmeterol Diskus (250/50) 1 
+INH IH BID, Tiotropium Bromide 1 CAP IH DAILY , 
+Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+
+#HTN: Initially held carvedilol in setting of sepsis. Restarted 
+prior to discharge.
+
+#BPH: Tamsulosin held in setting of hypotension. 
+
+TRANSITIONAL ISSUES
+===================
+-Follow-up with cardiology regarding worsening LVEF and CAD. Dry 
+weight on discharge 72.8 lbs
+-Received a bare metal stent so on clopidogrel for one month 
+(Day 1 ___.  
+-Reassess patient's ADLs. Consider assistance at home or 
+assissted living.
+-Hypertension: Tamsulosin, losartan, and carvedilol were 
+initially held in the setting of hypertension. Carvedilol was 
+restarted on ___.  Losartan was restarted on day of discharge. 
+Blood pressures should be monitored in the outpatient setting 
+prior to restarting.
+-GERD: Switched to lansoprazole as taking Plavix.
+-Tachycardia, had a persistent heart rate around 100. Improved 
+at time discharge with heart rate in the 70-90s.
+-Leukopenia: WBC consistently below 3 in hospital. Please 
+recheck on discharge.
+-CONTACT: ___ (daughter) ___  
+-CODE: DNR/DNI Pt states that having seen friends go through 
+resuscitation and become "vegetables," he does not want to be on 
+machines even if this was for something reversible.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN COPD 
+2. Aspirin EC 81 mg PO DAILY 
+3. Carvedilol 3.125 mg PO BID 
+4. Docusate Sodium 100 mg PO BID 
+5. FoLIC Acid 1 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Furosemide 20 mg PO BID 
+8. Potassium Chloride 20 mEq PO BID 
+9. Pramipexole 0.5 mg PO BID 
+10. Ranitidine 150 mg PO BID 
+11. Thiamine 100 mg PO DAILY 
+12. Tiotropium Bromide 1 CAP IH DAILY 
+13. Tamsulosin 0.4 mg PO QHS 
+14. Losartan Potassium 25 mg PO DAILY 
+15. Omeprazole 20 mg PO DAILY 
+16. TraZODone 50 mg PO QHS:PRN sleep 
+17. Mirtazapine 15 mg PO QHS 
+18. Atorvastatin 40 mg PO QPM 
+19. Ferrex ___ (polysaccharide iron complex) 150 mg iron oral 
+DAILY 
+20. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+21. Cyanocobalamin 1000 mcg PO BID 
+22. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN COPD 
+2. Aspirin EC 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Carvedilol 3.125 mg PO BID 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. FoLIC Acid 1 mg PO DAILY 
+7. Furosemide 20 mg PO BID 
+8. Multivitamins 1 TAB PO DAILY 
+9. Pramipexole 0.5 mg PO BID 
+10. Ranitidine 150 mg PO BID 
+11. Thiamine 100 mg PO DAILY 
+12. Tiotropium Bromide 1 CAP IH DAILY 
+13. TraZODone 50 mg PO QHS:PRN sleep 
+___ Tab at night for sleep. 
+14. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth DAILY Disp #*30 
+Tablet Refills:*0
+15. Cyanocobalamin 1000 mcg PO BID 
+16. Ferrex ___ (polysaccharide iron complex) 150 mg iron oral 
+DAILY 
+17. Losartan Potassium 25 mg PO DAILY 
+18. Mirtazapine 15 mg PO QHS 
+19. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+INHALATION BID 
+20. Tamsulosin 0.4 mg PO QHS 
+21. Potassium Chloride 20 mEq PO BID 
+Hold for K > 
+22. Docusate Sodium 100 mg PO BID 
+23. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+RX *lansoprazole 30 mg 1 capsule(s) by mouth DAILY Disp #*30 
+Capsule Refills:*0
+24. Outpatient Physical Therapy
+Cardiac Rehabilitation
+
+Diagnosis: Systolic heart failure
+Prognosis: Fair
+ICD-9: 428.0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+===================
+-Sepsis
+-Congestive heart failure
+-Coronary artery disease s/p BMS to RCA
+-Hyponatremia
+
+SECONDARY DIAGNOSES
+===================
+-Hypertension
+-BPH
+-Alcohol abuse
+-Restless leg syndrome
+-GERD
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the ___ 
+in the setting of fevers, fatigue, chills, and nausea. On 
+arrival you were found to be having shakes, high fevers, and low 
+blood pressures. You were stabilized with antibiotics and IV 
+fluids. Your condition improved over the course of the next ___ 
+hours. We continued you on the antibiotics for 4 days and 
+discontinued them after you were asymptomatic and not having 
+fevers. We did search for a source of your infection but all of 
+our laboratory results did not reveal a cause. It is possible 
+that you had a transient infection that spread to your blood and 
+this was thus completely treated by the antibiotics that you 
+were on.
+
+Additionally, during this hospital stay you developed shortness 
+of breath and chest pain. We did an ultrasound of your heart 
+which revealed possible injury. Cardiology became involved in 
+your care and thought it would be best to get a catheretization 
+image of your heart. This procedure revealed a blockage in a 
+heart vessel that required a stent placement. We monitored your 
+heart for a few days after the procedure and you were stable. 
+
+It is important that you follow up with your primary care 
+physician and with cardiology. Please weigh yourself every 
+morning, call MD if weight goes up more than 3 lbs.
+
+It was a pleasure to take care of you. We wish you the very 
+best!
+
+Sincerely, 
+
+Your ___ care team
+ 
+Followup Instructions:
+___
+
+
+-----
+===== DISCHARGE NOTE =====
+note_id=15837207-DS-7 | hadm_id=26727185
+
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+amlodipine / Amoxicillin / Benadryl / Erythromycin Base / 
+potassium / lisinopril / metoprolol / Plavix / felodipine
+ 
+Attending: ___
+ 
+Chief Complaint:
+hip pain s/p MVC
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+___ male with h/o HTN, HLD, asthma/COPD, atrial 
+fibrillation (not on anticoagulation) and CAD presented to the 
+ED s/p MVA. He was reportedly the unrestrained driver of a 
+vehicle traveling approximately 10mph when it was struck on the 
+driver's side by a vehicle travelling approximately 35mph. 
+Airbags were deployed and the windshield was shattered. The 
+patient denied
+LOC. He did require assistance with extraction due to 
+significant right hip pain. He was taken to ___ where he 
+started complaining of pain in the left hip and knee. He had CT 
+and XR imaging that identified a ruptured left renal cyst as 
+well as a greater trochanter fracture of the left hip, and was 
+transferred to ___ for further evaluation. En route with EMS 
+he became
+mildly hypotensive but responded to IV fluids. Upon arrival he 
+continues to complain of both in both of his hips, left worse 
+than right. He denies any numbness or tingling in his arms or 
+legs. He denies any current chest pain or difficulty breathing.
+
+ 
+Past Medical History:
+PMH: 
+- Hypertension
+- Hyperlipidemia
+- CAD
+- COPD/asthma
+- Atrial fibrillation
+- Depressive disorder
+- Headache disorder
+- Low back pain
+- Carotid artery stenosis, left
+- Restless leg syndrome
+- Insomnia
+
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Father had a "hole in his 
+heart" died at age ___ from lung disease and alcoholism. Mother 
+died at age ___ from TB
+
+ 
+Physical Exam:
+Admission Physical Exam:
+
+VS: Temp: 98.1 HR: 105 BP: 118/60 Resp: 20 O2 Sat: 96 Normal
+Constitutional: NAD
+Head / Eyes: Normocephalic, atraumatic, Pupils equal, round and 
+reactive to light
+ENT/Neck: Trachea midline
+Chest/Resp: Bilateral breath sounds, Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm, Normal first and second 
+heart sounds
+GI/Abdominal: Soft, Nontender
+Musc/Extr/Back: L hip contusion with overlying hematoma and 
+tenderness. limited ROM. L elbow
+with overlying ecchymosis and tenderness
+Skin: No rash, Warm and dry
+Neuro: GCSS=15
+Psych: Normal mood, Normal mentation
+
+Discharge Physical Exam:
+VS: 97.4. 115/62, 77, 16, 100% RA 
+GEN: A&Ox3, NAD
+CV: RRR
+PULM: CTA bl
+ABD: Soft, NT, ND, BS normoactive x4
+EXT: PPP
+ 
+Pertinent Results:
+IMAGING:
+
+___: CT Abdomen/Pelvis:
+1. Redemonstration of several ruptured right renal cysts with 
+adjacent 
+perinephric stranding and fluid.  No evidence of renal 
+laceration or contrast extravasation.  No evidence of pelvic 
+free fluid. 
+2. Redemonstration of a small subcutaneous hematoma in the 
+posterior right 
+pelvis. 
+3. Minimally displaced avulsion fracture of the greater 
+trochanter of the 
+right femur. 
+4. Compared to ___, unchanged size and appearance of a 
+high-density 2 cm renal cyst at the inferior pole the right 
+kidney, likely a proteinaceous or hemorrhagic cyst, although if 
+further investigation is warranted, can consider renal 
+ultrasound. 
+5. Airway wall thickening and mucous plugging of the right lobe 
+bronchi. 
+
+___: B/L wrist x-rays:
+No acute fracture or dislocation involving either elbow, 
+forearm, or wrist.
+
+___: Left Knee x-ray:
+  
+Moderate lipohemarthrosis is concerning for an intra-articular 
+fracture, 
+though no discrete fracture line is visualized.  CT of the knee 
+is suggested for further assessment.  No dislocation. 
+
+___: B/L Forearm x-ray:
+No acute fracture or dislocation involving either elbow, 
+forearm, or wrist.
+
+___: CXR:
+No evidence of acute cardiopulmonary process.  Specifically, no 
+pneumothorax or displaced rib fracture.  Stable changes of COPD. 
+
+
+___: CT LLE:
+1. Minimally impacted fracture of the left anterior tibial 
+plateau.  Small 
+lipohemarthrosis. 
+
+LABS:
+
+___ 07:09PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 07:09PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+___ 07:09PM URINE  RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 07:09PM URINE  HYALINE-1*
+___ 05:18PM   GLUCOSE-106* UREA N-10 CREAT-0.9 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-23 ANION GAP-9*
+___ 05:18PM   WBC-17.5* RBC-3.64* HGB-9.7* HCT-33.0* MCV-91 
+MCH-26.6 MCHC-29.4* RDW-14.9 RDWSD-49.4*
+___ 05:18PM   NEUTS-81.1* LYMPHS-5.0* MONOS-11.0 EOS-1.3 
+BASOS-0.2 IM ___ AbsNeut-14.17* AbsLymp-0.87* 
+AbsMono-1.93* AbsEos-0.23 AbsBaso-0.04
+___ 05:18PM   PLT COUNT-236
+___ 05:18PM   ___ TO  PTT-UNABLE TO  ___ 
+TO 
+ 
+Brief Hospital Course:
+___ male with h/o HTN, HLD, asthma/COPD, atrial 
+fibrillation (not on anticoagulation)and CAD presented to the ED 
+s/p MVA. He was initially taken to ___ where he started 
+complaining of pain in the right hip and left knee pain. He had 
+CT and XR imaging that identified a ruptured left renal cyst as 
+well as a greater trochanter fracture of the right hip, and was 
+transferred to ___ for further evaluation.  The patient was 
+admitted the Trauma/Acute Care Surgery service for care. The 
+Orthopedic Surgery service was consulted for the right greater 
+trochanter fracture and non-operative management was recommended 
+and the patient could bear weight as tolerated on the RLE.  A 
+left knee x-ray was obtained, due to left knee pain, which was 
+equivocal for left tibeal plateau fracture, and a CT LLE 
+confirmed he had a left tibeal plateau fracture.  
+
+While in the hospital, the patient had urinary retention and was 
+straight catheterized x 1.  He voided adequately afterwards on 
+his own. 
+
+There was nothing to do for the right renal cyst rupture except 
+pain management.  The patient received tramadol, ibuprofen, 
+acetaminophen and lidocaine patches for pain control.  The 
+patient worked with physical and occupational therapy and he was 
+cleared to be discharged home to continue his recovery.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged home without services. 
+The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Finasteride 5 mg PO DAILY 
+2. CARVedilol 3.125 mg PO BID 
+3. Tamsulosin 0.4 mg PO QHS 
+4. Omeprazole 20 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Atorvastatin 40 mg PO QPM 
+7. BuPROPion (Sustained Release) 150 mg PO QAM 
+8. Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY 
+9. Sacubitril-Valsartan (97mg-103mg) 1 TAB PO BID 
+10. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation ASDIR 
+11. Phenazopyridine 100 mg PO TID:PRN urinary symptoms  
+12. Furosemide 10 mg PO DAILY 
+13. FoLIC Acid 1 mg PO DAILY 
+14. Aspirin 81 mg PO DAILY 
+15. Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB 
+16. Gabapentin 300 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+Take with food  
+3.  Lidocaine 5% Patch 1 PTCH TD QAM 
+Apply for 12 hours, then remove and leave off for 12 hours 
+RX *lidocaine 5 % Apply patch to area of hip pain or area of 
+back pain QAM Disp #*15 Patch Refills:*0 
+4.  TraMADol 50 mg PO Q4H:PRN Pain - Severe 
+Wean as tolerated. Patient may request partial fill.  
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+5.  Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 40 mg PO QPM  
+8.  BuPROPion (Sustained Release) 150 mg PO QAM  
+9.  CARVedilol 3.125 mg PO BID  
+10.  Docusate Sodium 100 mg PO BID  
+11.  Finasteride 5 mg PO DAILY  
+12.  FoLIC Acid 1 mg PO DAILY  
+13.  Furosemide 10 mg PO DAILY  
+14.  Gabapentin 300 mg PO QHS  
+15.  Omeprazole 20 mg PO BID  
+16.  Phenazopyridine 100 mg PO TID:PRN urinary symptoms   
+17.  Sacubitril-Valsartan (97mg-103mg) 1 TAB PO BID  
+18.  Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY  
+19.  Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation ASDIR  
+20.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+-Right greater trochanter fracture
+-Left tibial plateau fracture
+-Right renal cyst rupture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after a motor vehicle crash.  
+You were found to have a right greater trochanter (top of femur 
+bone) fracture, a left tibial plateau (knee) fracture, and a 
+right kidney cyst rupture.  The Orthopedic Surgery service 
+evaluated your left lower extremity fractures and no surgery was 
+needed.  It was recommended that you work with physical therapy 
+and you may bear weight as tolerated on your left leg.  There 
+was nothing to do for the right kidney cyst rupture and pain 
+medication was provided.
+
+You are now ready to be discharged from the hospital.  Please 
+follow the discharge instructions below to ensure a safe 
+recovery:
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,435 @@
+===== DISCHARGE NOTE =====
+note_id=19289593-DS-6 | hadm_id=24909076
+
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+Intubation (OSH)
+ 
+History of Present Illness:
+___ yo female with h/o bipolar disorder and hypothyroidism who 
+was transferred from ___ for respiratory failure. 
+Per boyfriend, pt had been very awake for ___ days. Yesterday 
+AM, he was unable to arouse her from sleep and she was still 
+sleeping on return from work. This AM, he still was unable to 
+rouse her and noted urinary incontinence, so he called EMS. No 
+observed tonic clonic movements or bowel incontinence; no h/o 
+seizure d/o. He was concerned for overdose given some 
+unidentified, empty pill bottles found near her, h/o overdose 
+___ years ago , and recent multiple stressors including ongoing 
+psych med adjustments, recent cholecystectomy, and strained 
+relationship with parents although. 
+.
+In the OSH ED, pt had a RR of 6 and was desatting to 70-80s on 
+arrival. Urine tox positive for benzos and methadone. Pt 
+received Narcan. She developed hypoxemic respiratory failure 
+with ABG 7.525/33.___ requiring intubation. CT torso showed 
+left lung consolidation with volume loss and distal left 
+mainstem bronchus narrowing. She was given Zosyn and K 40-60 mEq 
+for hypokalemia and transferred here for further evaluation.
+.
+In our ED, initial vs were: T 98 rectal, HR 105 with PVCs, BP 
+120/60, RR 30, O2sats in low ___. Pt sedated with propofol on 
+arrival but overbreathing vent. She was suctioned with 
+improvement in O2sat to 100% on AC 500/16/6/100%. Labs notable 
+for WBC of 17.9 with 91.6%N. Read here of OSH CT chest noted 
+mediastinal shift to the left with left lung atelectasis; 
+hypodense material in the airways, mostly at the left lung base; 
+and pericardial effusion. Pt was given a dose of vancomycin IV. 
+She also received 1L NS IV for lactate 3.2 and ___ Eq K for K 
+3.2. On transfer, pt afebrile with HR 101, BP 110/64, RR ___, 
+and O2 sat 100% on above vent settings with ABG 7.48/34/109.
+.
+On the floor, pt sedated. 
+ 
+Past Medical History:
+- Bipolar disorder
+- Hypothyroidism
+- EtOH neuropathy
+- H/o overdose ___ years ago as above
+ 
+Social History:
+___
+Family History:
+Both parents alive. Mother with CHF.
+ 
+Physical Exam:
+EXAM ON ADMISSION
+Vitals: T 98.4, BP 116/72, P 97, R 25, O2 98% on
+General: No acute distress, intubated and sedated
+HEENT: Sclera anicteric, MMM, oropharynx clear, +ETT, +OGT
+Neck: Supple, JVP not elevated, no LAD
+Lungs: Bronchial breath sounds R>L, no wheezes, rales, rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly
+GU: Foley
+Ext: Extremities mildly cool, well perfused, 2+ pulses, no 
+clubbing, cyanosis or edema
+
+ON DISCHARGE
+pt alert and oriented x3. Confused at times (could not remember 
+what city she lived in). 
+ 
+Pertinent Results:
+___ 09:45PM BLOOD WBC-17.9* RBC-4.19* Hgb-13.0 Hct-38.7 
+MCV-92 MCH-31.1 MCHC-33.6 RDW-16.7* Plt ___
+___ 09:45PM BLOOD Neuts-91.6* Lymphs-5.9* Monos-1.4* 
+Eos-0.9 Baso-0.1
+___ 02:26AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-2+ 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL 
+Burr-2+
+___ 09:45PM BLOOD ___ PTT-28.1 ___
+___ 09:45PM BLOOD Glucose-131* UreaN-16 Creat-0.8 Na-140 
+K-3.2* Cl-102 HCO3-25 AnGap-16
+___ 01:09AM BLOOD Albumin-3.2* Calcium-7.8* Phos-2.6* 
+Mg-1.9
+___ 09:45PM BLOOD ALT-21 AST-42* AlkPhos-86 TotBili-0.8
+___ 09:45PM BLOOD Lipase-20
+___ 09:52PM BLOOD Lactate-3.2* K-3.2*
+.
+___ 01:09AM BLOOD TSH-54*
+___ 02:26AM BLOOD Free T4-<0.10*
+___ 03:13AM BLOOD Cortsol-26.6*
+.
+___ 09:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 09:45PM URINE bnzodzp-POS barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-POS
+.
+___ 06:24AM BLOOD TSH-80*
+___ 06:24AM BLOOD T4-4.1* Free T4-0.73*
+.
+___ 1:08 am SPUTUM      Source: Endotracheal. 
+   RESPIRATORY CULTURE (Final ___: 
+      SPARSE GROWTH OROPHARYNGEAL FLORA. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH.  
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+.
+___hest:
+1. Left lung collapse with leftward shift of the mediastinal 
+structures.
+Hypodense material within the airways of the left lung, mostly 
+within the left lung base which could be aspirated material or 
+mucous impaction. Bronchoscopy is recommended for further 
+evaluation.
+2. Small to moderate-sized pericardial effusion.
+3. Ill-defined nodular opacities in the right lower lobe which 
+could indicate small airway disease or aspiration.
+.
+___ CT Thorax:
+1. Residual dense consolidation in the left lower lobe.
+2. Patchy consolidation in the left upper lobe but increased 
+aeration of the left upper lobe compared to prior study.
+3. Patchy atelectasis in the right upper and lower lobes.
+4. Small pleural effusions which have developed since the prior 
+study
+bilaterally. Moderate pericardial effusion which has increased 
+from prior
+study. 
+5. Small amount of free fluid in the gallbladder fossa and in 
+the pelvis.
+.
+___ Video Swallow Eval:
+
+___ Chest xray: FINDINGS: The NG tube passes along the 
+expected route of the esophagus, into the stomach. Comparison to 
+the previous study shows the left lower lobe atelectasis has 
+cleared. The right lower lobe border is not seen but the lungs 
+are clear with no mass, consolidation, pneumothorax or pleural 
+effusion. Heart and mediastinal structures are normal.
+IMPRESSION: Satisfactory position of the NG tube. The lungs are 
+clear.
+
+ 
+Brief Hospital Course:
+___ yo female with h/o bipolar disorder and hypothyroidism who 
+presented to OSH with increased lethargy and hypoxemic 
+respiratory failure requiring intubation and found to have left 
+lung collapse.
+.
+# Respiratory failure: Bronchoscopy on admission without 
+evidence of obstructive lesion. Left lung collapse thought to be 
+secondary to consolidative pneumonia with copious secretions. 
+Respiratory cultures grew out pansensitive MSSA, and initial 
+broad coverage with vanc, zosyn, and levofloxacin pared down to 
+zosyn and then to nafcillin. Multiple bronchs done given 
+persistent copious sputum with gradual improvememt in purulent 
+secretions seen in left lung, pt eventually extubated s 
+complication. ___ placed for long-term administration of abx, 
+pt recieved total of 14day course, last day: ___. 
+.
+# Hypothyroidism: Poorly controlled per PCP records with concern 
+in past that pt may have been abusing medications for weight 
+control. She last filled her prescription for armourthyroid in 
+___ per her pharmacy. Here, TSH level was 54 with a free T4 of 
+<0.1. Thought to be myxedematous per Endo but not myxedema coma. 
+Cortisol level normal. Given synthroid with loading dose of 300, 
+then 75mcg IV daily. On the day of discharge pt was transitioned 
+to PO synthroid ___ mcg). Most recent TSH was 80 and free T4 
+0.73.
+.
+# Altered mental status: Pt initially responsive only to pain. 
+This was thought ___ to untreated hypothyrodism v. polypharmacy 
+v. underlying bipolar disorder v severe infection. No h/o 
+seizure disorder per OSH records. Utox positive for methadone 
+and benzos; pt did receive narcan at OSH. Altered mental status 
+persisted on arrival. Started on synthroid per endo recs for 
+myxedema. Her home psych meds of topiramate and divalproex were 
+restarted, her seroquel, clonazepam, provigil, and zolpidem were 
+initally held pending improvement. Seroquel and clonazepam 
+subsequently restarted at lower dose per psych recs. Seroquel 
+was then d/ced as pt's home psychiatrist confirmed pt was no 
+longer on this medication and it appeared to lengthen her QT. As 
+pt improved clinically, she went from somnolent to delirious. 
+Her delirium improved daily. Hopefully pt will continue to 
+improve back to her baseline, though cannot exclude the 
+possibility of anoxic brain injury ___ her respiratory status 
+prior to admission. Pt was occasionally agitated at night. 
+Agitation was treated initially with haldol but because of her 
+improving mental status and lengthening QT, this was changed to 
+occasional prn ativan 0.5mg which had good effect. Would 
+definitely AVOID haldol and seroquel in the future.
+. 
+# CHEST PAIN: pt had one short episode of chest pain which 
+resolved c nitroglycerin. Pt's EKG was found to have 1mm ST 
+depression in V3-5 (most prominent in EKGs from ___ at 
+9:30am) and pt was ruled out with three sets of negative enzymes 
+(trop 0.03, 0.02, 0.02). Pt will follow-up with cardiology as 
+outpt to determine the need for stress testing. Pt was started 
+on asa 81mg, though cardiology may decide to discontinue.
+.
+# Ileus: Pt developed large bowel ileus without evidence of 
+small bowel obstruction (perhaps ___ hypothyroid?). Placed on 
+bowel rest with OG tube to suction with aspiration of feculant 
+matter. Resolved after several days with aggressive bowel 
+regimen. Pt discharged on reglan which pt should be able to 
+discontinue as her hypothyroid resolves.
+.
+# Metabolic acidosis: Pt c nonanion gap metabolic acidosis, 
+likely ___ normal saline. Type 1 or 2 RTA was considered as pt 
+was also hypokalemic. However, pt's urine lytes and urine pH 
+were not completely consistent with either type of RTA.
+.
+# Pericardial effusion: TTE showed only small pericardial 
+effusion (appeared moderate on chest CT) with no evidence of 
+tamponade. Pt did not have elevated pulsus paridoxus.
+.
+# FEN/SWALLOW EVAL: Pt initially received tube feeds. Speech and 
+swallow did a video evaluation which showed some aspiration risk 
+so pt was started on thickened liquids and pureed solids. Pt 
+should follow up for further evaluation while at rehab.
+.
+# Prophylaxis: Subcutaneous heparin
+.
+# Communication: No HCP. Boyfriend ___ ___ H, 
+___. Father ___ ___ (currently 
+fighting; mother in hospital). Sister ___ in ___ ___ 
+H, ___ C. Also has 4 stepbrothers.
+ 
+Medications on Admission:
+In bag with patient:
+- Propoxyphene-APAP 1 tab q8h prn
+- Divalproex ER 1000mg qhs
+- Topirimate 200mg bid
+- Provigil 200mg tid
+- Seroquel 300mg ___ tabs qhs
+- Zolpidem 10mg qhs prn
+- Clonazepam 1 mg 5x/day
+.
+Per Rite-Aid (___):
+- Seroquel 300mg ___ tabs qhs
+- Divalproex ER 500mg 2 tab qhs
+- Topimax 200mg 1 tab bid
+- Darvocet 1 tab q8h prn
+- Clonazepam 1mg 5x/day
+- Provigil 200mg 1 tab tid
+- Armourthyroid 90 mg 1 tab bid (last filled ___ m ago)
+ 
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day): please only give if patient is 
+not out of bed qshift.  
+2. Topiramate 100 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day).  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+4. Divalproex ___ mg Capsule, Sprinkle Sig: Two (2) Capsule, 
+Sprinkle PO QID (4 times a day).  
+5. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+8. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Vaginal HS (at 
+bedtime) for 4 days.  
+9. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+11. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS 
+(4 times a day (before meals and at bedtime)): Please 
+discontinue if pt having more than 1 BM per day.  
+12. Multi-Vitamin W/Minerals     Capsule Sig: One (1) Capsule PO 
+once a day.  
+13. Synthroid ___ mcg Tablet Sig: One (1) Tablet PO once a day. 
+Tablet(s) 
+14. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for headache. Tablet(s) 
+15. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for severe agitation.  
+16. Outpatient Lab Work
+Please check a valproate level on ___ and call the 
+result to Dr ___ psychiatrist) at ___, please 
+verbally confirm with her doctor ___ his representative) that 
+her valproate dose is appropriate. 
+
+Please check TSH and free T4 on ___ and ___ and call the 
+result to Dr ___ endocrinologist) at ___, please 
+verbally confirm that her doctor ___ his representative) that 
+the synthroid dose is appropriate. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+primary diagnosis: MSSA pneumonia, hypothyroid
+secondary diagnoses: bipolar disorder
+
+ 
+Discharge Condition:
+fair
+
+ 
+Discharge Instructions:
+FOR PATIENT:
+You were admitted to the hospital because of a very bad 
+pneumonia. You initially went to the intensive care unit where 
+you had a breathing tube to help you breathe and you received 
+antibiotics. You were also found to have very low thyroid 
+hormone as you had not been taking your thyroid medicine at 
+home. We restarted you on a new thyroid medicine called 
+synthroid. You were also started on a cream for yeast infection 
+(which you were found to have) and daily aspirin.
+
+We aren't sure what happened right before you came to the 
+hospital, and you can't remember either, but it is possible that 
+you took too much of one of your medicines or perhaps took 
+medicines that had been prescribed for someone else. It is very 
+important that you take your medicines exactly as prescribed and 
+that you do not take any medicines that were prescribed for 
+anyone but you.
+
+We asked you if it was possible that you took extra medicine in 
+order to purposefully harm yourself but you assured us that this 
+was not the case. If you feel like you are at risk of harming 
+yourself in the future please call your psychiatrist or go to 
+the emergency room.
+
+Lastly, you developed a short period of chest pain while you 
+were in the hospital. We are going to have you see a 
+cardiologist and are also starting you on a baby aspirin per 
+day. When you see the cardiologist he or she may want to stop 
+the aspirin or change your medicines. 
+
+You were seen by swallowing specialists at the hospital and they 
+felt that your swallowing may be a little impaired. For now, you 
+should drink thickened liquids and eat pureed solids. Your rehab 
+will reevaluate your swallowing abilities and hopefully you will 
+be able to eat normal food very soon. 
+
+Please call your doctor or return to the hospital if you are 
+having  chest pain, shortness of breath, fevers or for any other 
+symptoms which are concerning to you. 
+
+FOR REHAB:
+PLEASE DO NOT GIVE SEROQUEL AS ___ DEVELOPED LONG QT (QTc of 512) 
+ON SEROQUEL ALONE. Would also be wary of other antipsychotics. 
+If acutely agitated can give ativan 0.5.
+
+Please give the following medicines:  Heparin (Porcine)  5,000 
+unit/mL Solution  Sig:  One (1) Injection TID (3 times a day): 
+please only give if patient is not out of bed qshift.     
+  Topiramate  100 mg Tablet  Sig:  Two (2) Tablet PO BID (2 
+times a day).     
+  Senna  8.6 mg Tablet  Sig:  One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.     
+  Divalproex  ___ mg Capsule, Sprinkle  Sig:  Two (2) Capsule, 
+Sprinkle PO QID (4 times a day).     
+  Clonazepam  1 mg Tablet  Sig:  One (1) Tablet PO BID (2 times 
+a day).     
+  Thiamine HCl  100 mg Tablet  Sig:  One (1) Tablet PO DAILY 
+(Daily).     
+  Bisacodyl  5 mg Tablet, Delayed Release (E.C.)  Sig:  Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.     
+  Miconazole Nitrate  2 % Cream  Sig:  One (1) Appl Vaginal HS 
+(at bedtime) for 4 days.     
+  Docusate Sodium  50 mg/5 mL Liquid  Sig:  One (1) PO BID (2 
+times a day).     
+  Aspirin  81 mg Tablet, Chewable  Sig:  One (1) Tablet, 
+Chewable PO DAILY (Daily).     
+  Metoclopramide  10 mg Tablet  Sig:  One (1) Tablet PO QIDACHS 
+(4 times a day (before meals and at bedtime)): Please 
+discontinue if pt having more than 1 BM per day.     
+  Multi-Vitamin W/Minerals   Capsule  Sig:  One (1) Capsule PO 
+once a day.     
+  Synthroid  ___ mcg Tablet  Sig:  One (1) Tablet PO once a day. 
+ Tablet(s)   
+  Acetaminophen  325 mg Tablet  Sig:  ___ Tablets PO Q6H (every 
+6 hours) as needed for headache.  Tablet(s)   
+  Lorazepam  0.5 mg Tablet  Sig:  One (1) Tablet PO HS (at 
+bedtime) as needed for severe agitation 
+
+Please check a valproate level on ___ and call the 
+result to Dr ___ psychiatrist) at ___, please 
+verbally confirm with her doctor ___ his representative) that 
+her valproate dose is appropriate. 
+
+Please check TSH and free T4 on ___ and ___ and call the 
+result to Dr ___ endocrinologist) at ___, please 
+verbally confirm that her doctor ___ his representative) that 
+the synthroid dose is appropriate. 
+
+Please monitor vital signs per routine and call Dr ___ 
+PCP, for concerning values (HR >105 or <65, BP >160/90 or BP 
+<95/55, oxygen saturation <93% on RA) at ___.
+
+Please continue to treat pt's unstagable decubitus ulcers, on 
+both hips, per nursing notes. Site: Left hip
+Description: 3x2 unstagable pressure ulcer on L hip. wound bed 
+is yellow. Surrounding skin is intact. 
+Care: cleanse with wound cleanser. Apply mepilex q3 days and PRN
+
+Pt needs ___, OT, speech and swallow and social work involvement.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,236 @@
+===== DISCHARGE NOTE =====
+note_id=13319715-DS-5 | hadm_id=24484796
+
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hyperglycemia.
+ 
+Major Surgical or Invasive Procedure:
+Deceased.
+ 
+History of Present Illness:
+___ y.o woman with history of DM and cryptogenic cirrhosis who 
+presents from home with hyperglycemia. The patient recently was 
+diagnosed with pneumonia 1 month ago and was treated with 
+azithromycin successfully, at which time she also had 
+hyperglycemia. She had been doing well at home when over the 
+past week her sugars had gone out of control. Her medications 
+were switched from glyburide to lantus, however the blood sugars 
+remained uncontrolled. She was then referred to the emergency 
+room. She was otherwise asymptomatic and been doing well at 
+home. No increase in confusion, no cough, no fevers.  
+  
+In the ED, initial VS: 97.2 88 128/76 18 98% RA. She underwent a 
+diagnostic paracentesis which demonstrated no SBP. A CT of the 
+abdomen and pelvis was performed which showed colitis of the 
+ascending colon, and a RUQ ultrasound that showed an occluded 
+portal vein that is old. She received zosyn and flagyl in the ER 
+as well as 500cc normal saline. Other notable lab abnormalities 
+include a marked transaminitis and a creatinine of 2.3 which is 
+up from 1.6 on ___.  
+  
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.
+ 
+Past Medical History:
+Cryptogenic cirrhosis
+Diabetes   
+Hyperetension
+Anemia
+ 
+Social History:
+___
+Family History:
+No history of liver disease. 
+ 
+Physical Exam:
+Upon admission:
+VS: 97 110/64 94 20 96% on RA  
+GENERAL: Well-appearing man in NAD, comfortable, appropriate.  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  
+NECK: Supple, JVD 5cm above clavicle.  
+HEART: irregularly irregular, no MRG, nl S1-S2.  
+LUNGS: Decreased breath sounds at left base, dullness to 
+percussion.  
+ABDOMEN: Protuberant, bowel sounds present, non tender.  
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.  
+SKIN: No rashes or lesions.  
+LYMPH: No cervical LAD.  
+NEURO: Awake, A&Ox3, CNs II-XII intact, muscle grossly intact  
+
+At discharge: Deceased.
+ 
+Pertinent Results:
+Labs at discharge:
+IgG ___
+IgM 878
+___ positive 1:160 speckled
+___, AMA negative 
+HAV Ab positive
+HepBsAg, sAb, cAb negative
+calTIBC 215 Ferritn 190 TRF 165
+urine: UreaN:368 Creat:147 Na:11 K:44 Cl:18 Osmolal:361
+UA: Color Red  Appear Hazy  SpecGr 1.017  pH 5.0  Urobil Neg  
+Bili Neg  Leuk Sm  Bld Lg  Nitr Neg  Prot 30  Glu Neg  Ket Tr  
+RBC >182  WBC 9  Bact Few  Yeast Mod  Epi 0 CastHy: 138 Mucous: 
+Rare 
+Eos: Negative No Eos Seen
+
+Micro:
+___ cdiff negative
+___ blood cultures pending
+___ stool cultures negative
+___ urine culture yeast
+___ cdiff negative
+___ blood culture pending
+___ urine culture negative
+___ peritoneal fluid culture pending - prelim negative
+
+Imaging:
+___ CXR: cardiomegaly, LLL collapse v. consolidation, NGT in 
+gastric fundus, hazy opacity in right mid zone, focal opacity at 
+right mid base raise question of mid zone atelectasis, and 
+infectious infiltrate at right base
+
+___ CXR: Moderate left pleural effusion and associated 
+atelectasis. No new consolidation. 
+
+___ PA AND LATERAL CHEST: There is a moderate to large size 
+left pleural effusion layering posteriorly. No definite 
+consolidation is noted. Mild aortic tortuosity is noted. There 
+is also a rounded convexity noted in the region of the 
+aorticopulmonary window. Cardiac silhouette size is grossly 
+within normal limits. No right effusion is noted. There is no 
+pneumothorax. The osseous structures reveal mild wedging at the 
+thoracolumbar junction.  IMPRESSION: Moderate to large size left 
+pleural effusion. No definite consolidation noted. Given the 
+size, malignancy should be excluded. Convexity of the 
+aorticopulmonary window region could indicate an underlying mass 
+lesion or possible adenopathy. Conceivably, this also could be 
+vascular in origin.  
+  
+___ RUQ ultrasound: Liver is shrunken with a nodular contour 
+and diffuse heterogeneous echotexture compatible with cirrhosis. 
+Within the right lobe of the liver in the periphery, there is a 
+1.2 x 1.1 x 1.1 cm simple cyst. No concerning focal hepatic 
+lesions are seen. The main portal vein appears completely 
+thrombosed. Several collateral vessels are demonstrated within 
+the region of the porta hepatis, likely representing cavernous 
+transformation. No intra- or extra-hepatic biliary duct 
+dilatation is present, with the common bile duct measuring 4 mm. 
+Large volume ascites is present. The spleen is enlarged 
+measuring 15.3 cm. The gallbladder was not visualized.  
+IMPRESSION:  1. Cirrhosis with large volume ascites and 
+splenomegaly.  2. Thrombosis of the portal vein, with likely 
+cavernous transformation.  
+  
+___ CT-scan abdomen: 1. Ascending colon wall thickening 
+consistent with colitis.  2. Liver cirrhosis with large amount 
+of ascites, splenomegaly and varices. 
+
+ 
+Brief Hospital Course:
+In summary, this is a very nice ___ woman with diabetes, 
+cryptogenic cirrhosis, and old portal vein thrombosis who was 
+recently treated for a pneumonia as an outpatient who presented 
+with hyperglycemia and was found to have an acute hepatitis, 
+marked leukocytosis, possible colitis on CT, large volume 
+ascites, and a large left sided pleural effusion.
+
+The patient presented with acute on chronic liver failure and a 
+creatinine in the mid 2s up from baseline 1.6. She was also 
+noted to have an elevated lactate and a leukocytosis with PMN 
+predominance at time of adimission. She was treated initially 
+with intravenous antibiotics (levofloxacin and metronidazole) 
+and intravenous colloid (albumin, dosed 1 gm/kg/day). Despite 
+these interventions, the kidney function continued to worsen. 
+The transaminases, meanwhile, peaked in the 900s on the second 
+hospital day and then down-trended to below 100 within the next 
+several days. Although the etiology of acute on chronic liver 
+failure was never determined (despite an extensive workup for 
+infectious and inflammatory causes), it was felt that 
+shock-liver was most likely, possibly from atrial fibrillation 
+and rapid ventricular rate and transient hypotension.
+
+Even as the transaminases were downtrending, the kidney function 
+worsened and the patient became increasingly oliguric, the 
+bilirubin rose and the coagulopathy worsened, with an INR of 
+2.5. On the third hospital day, octreotide and midodrine were 
+initiated for treatment of hepatorenal syndrome; prior to 
+starting treatment for HRS, other causes of acute kidney injury 
+such as acute tubular necrosis and post-renal obstruction were 
+ruled out with urine sediment microscopy and renal ultrasound, 
+respectively. The patient continued to receive intravenous 
+albumin on a daily basis to increase her intravascular volume 
+and promote renal perfusion.
+
+Antibiotics were continued with levofloxacin and metronidazole. 
+As the patient's condition worsened, and there was concern of 
+aspiration pneumonia on a chest radiograph, antibiotics were 
+broadened to vancomycin, cefepime and metronidazole for 
+healthcare-associated pneumonia coverage. Blood and urine 
+cultures remained negative.
+
+The patient's condition worsened in spite of aggressive medical 
+treatment for infection and type 1 hepatorenal syndrome. 
+Multiple family meetings were held, and the decision was made to 
+continue medical care with the goal of making the patient 
+comfortable while maximizing the chance of her recovery. 
+Palliative care consult service also assisted in managing goals 
+of care, and meeting with the patient regularly. When the 
+patient's nutrition suffered due to worsening encephalopathy and 
+uremia, a nasogastric tube was placed and the patient was 
+started on tube feeds. Antibiotics were continued.
+
+Ultimately, when it did appear as though patient was suffering 
+from progressive, fulminant hepatorenal syndrome, medicines were 
+gradually removed. Palliative care assisted in making medication 
+recommendations directed towards comfort. The patient passed 
+away on the morning ___.
+ 
+Medications on Admission:
+-nadolol 40 mg Tab Oral .5 Tablet(s) Once Daily    
+-furosemide 40 mg Tab Oral 1 Tablet(s) Twice Daily    
+-spironolactone 50 mg Tab Oral 1 Tablet(s) Twice Daily    
+-lactulose 30cc Syrup(s) Four times daily    
+-oxycodone 5 mg Tab Oral 1 Tablet(s) Twice Daily, as needed    
+-ergocalciferol (vitamin D2) 1 Capsule(s) once a week (___)   
+ 
+-albuterol sulfate HFA 90 mcg/Actuation Aerosol Inhaler 
+Inhalation 2 HFA Aerosol Inhaler(s) Four times daily   
+-Lantus 10U daily  
+
+ 
+Discharge Medications:
+Deceased.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired.
+ 
+Discharge Condition:
+Expired.
+ 
+Discharge Instructions:
+Expired.
+ 
+Followup Instructions:
+___
