@@ -40,3 +40,4 @@ echo "4. Run MCP server: python terminology_mcp_server.py"
 
 
 
+

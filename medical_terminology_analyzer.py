@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+medical_terminolgy_analyzer.py#!/usr/bin/env python3
 """
 Medical Terminology Analyzer with Neon Vector Database
 Analyzes medical terminology patterns across 1000 cases using vector embeddings
@@ -6,6 +6,8 @@ Analyzes medical terminology patterns across 1000 cases using vector embeddings
 
 import os
 import json
+import socket
+import hashlib
 import pandas as pd
 import numpy as np
 from typing import List, Dict, Any, Optional, Tuple
@@ -47,6 +49,48 @@ except ImportError:
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+
+def is_placeholder_connection_string(connection: Optional[str]) -> bool:
+    """Detect placeholder Neon connection strings that should not be used."""
+    if not connection:
+        return True
+    lowered = connection.strip().lower()
+    placeholders = (
+        "your-neon-host",
+        "username:password",
+        "your-database",
+        "localhost:0000",
+    )
+    return any(token in lowered for token in placeholders)
+
+
+def can_resolve_hostname(hostname: str) -> bool:
+    """Return True when the hostname resolves, otherwise log and return False."""
+    try:
+        socket.getaddrinfo(hostname, None)
+        return True
+    except socket.gaierror as exc:
+        logger.error("❌ DNS resolution failed for %s: %s", hostname, exc)
+        return False
+
+
+def pick_available_port(preferred_port: int) -> int:
+    """Choose an available port, falling back to an ephemeral one when needed."""
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as probe:
+        probe.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        try:
+            probe.bind(("0.0.0.0", preferred_port))
+            return preferred_port
+        except OSError:
+            probe.bind(("0.0.0.0", 0))
+            free_port = probe.getsockname()[1]
+            logger.warning(
+                "⚠️  Port %s is unavailable. Using fallback port %s.",
+                preferred_port,
+                free_port,
+            )
+            return free_port
 
 @dataclass
 class MedicalTerm:
@@ -353,9 +397,37 @@ class NeonTerminologyDatabase:
 class MedicalTerminologyAnalyzer:
     """Main analyzer for medical terminology"""
     
-    def __init__(self, neon_connection_string: str, openai_api_key: str):
-        self.neon_db = NeonTerminologyDatabase(neon_connection_string)
-        self.openai_client = openai.OpenAI(api_key=openai_api_key) if OPENAI_AVAILABLE else None
+    def __init__(self, neon_connection_string: Optional[str], openai_api_key: Optional[str]):
+        self.neon_connection_string = neon_connection_string
+        self.neon_db: Optional[NeonTerminologyDatabase] = None
+        self.database_enabled = False
+        
+        if neon_connection_string and not is_placeholder_connection_string(neon_connection_string):
+            if NEON_AVAILABLE:
+                self.neon_db = NeonTerminologyDatabase(neon_connection_string)
+                self.database_enabled = True
+            else:
+                logger.warning("⚠️  Neon dependencies not installed. Database features disabled.")
+        elif neon_connection_string:
+            logger.warning("⚠️  Placeholder Neon connection string detected. Database features disabled.")
+        
+        self.openai_client = None
+        self.openai_enabled = False
+        self._logged_openai_failure = False
+        
+        if openai_api_key and OPENAI_AVAILABLE:
+            if can_resolve_hostname("api.openai.com"):
+                try:
+                    self.openai_client = openai.OpenAI(api_key=openai_api_key)
+                    self.openai_enabled = True
+                except Exception as exc:
+                    logger.error("❌ Failed to initialize OpenAI client: %s", exc)
+            else:
+                logger.error(
+                    "❌ Unable to resolve api.openai.com. Embeddings will fall back to deterministic vectors."
+                )
+        elif openai_api_key and not OPENAI_AVAILABLE:
+            logger.warning("⚠️  OpenAI SDK not installed. Embeddings will use fallback vectors.")
         
         # Medical terminology categories
         self.categories = {
@@ -401,20 +473,52 @@ class MedicalTerminologyAnalyzer:
         
         return 'general'
     
-    def get_embedding(self, text: str) -> Optional[List[float]]:
-        """Get OpenAI embedding for text"""
+    def _fallback_embedding(self, text: str, dimension: int = 1536) -> List[float]:
+        """Generate a deterministic embedding when the OpenAI API is unavailable."""
+        digest = hashlib.sha256(text.encode("utf-8")).digest()
+        repeats = (dimension + len(digest) - 1) // len(digest)
+        buffer = (digest * repeats)[:dimension]
+        vector = np.frombuffer(buffer, dtype=np.uint8).astype(np.float32)
+        if vector.size != dimension:
+            vector = np.resize(vector, dimension)
+        norm = np.linalg.norm(vector)
+        if norm > 0:
+            vector /= norm
+        return vector.tolist()
+    
+    def get_embedding(self, text: str) -> List[float]:
+        """Get OpenAI embedding for text with deterministic fallback."""
         if not self.openai_client:
-            return None
+            if not self._logged_openai_failure:
+                logger.warning("⚠️  OpenAI client unavailable. Using deterministic embedding fallback.")
+                self._logged_openai_failure = True
+            self.openai_enabled = False
+            return self._fallback_embedding(text)
         
         try:
             response = self.openai_client.embeddings.create(
-                model="text-embedding-ada-002",
+                model="text-embedding-3-small",
                 input=text
             )
+            self.openai_enabled = True
+            self._logged_openai_failure = False
             return response.data[0].embedding
         except Exception as e:
-            logger.error(f"❌ Failed to get embedding: {e}")
-            return None
+            cause = getattr(e, "__cause__", None)
+            connection_issue = False
+            if OPENAI_AVAILABLE:
+                connection_issue = isinstance(e, getattr(openai, "APIConnectionError", ()))
+            if not connection_issue and cause:
+                connection_issue = isinstance(cause, (socket.gaierror, ConnectionError, OSError))
+            if connection_issue:
+                if not self._logged_openai_failure:
+                    logger.error("❌ OpenAI connectivity failure (%s). Falling back to deterministic embeddings.", e)
+                    self._logged_openai_failure = True
+                self.openai_client = None
+                self.openai_enabled = False
+            else:
+                logger.warning("⚠️  Failed to get embedding for '%s...': %s", text[:50], e)
+            return self._fallback_embedding(text)
     
     def analyze_case_terminology(self, case_id: str, case_text: str) -> TerminologyAnalysis:
         """Analyze medical terminology in a case"""
@@ -447,12 +551,25 @@ class MedicalTerminologyAnalyzer:
         )
     
     def process_cases(self, cases_directory: str):
-        """Process all medical cases and store in Neon"""
-        if not self.neon_db.connect():
-            return False
+        """Process all medical cases and store in Neon when configured."""
+        should_store = self.database_enabled and self.neon_db is not None
         
-        if not self.neon_db.create_tables():
-            return False
+        if should_store:
+            logger.info("🔄 Attempting to connect to Neon database...")
+            if not self.neon_db.connect():
+                logger.error("❌ Failed to connect to Neon database. Continuing without database storage.")
+                logger.info("💡 You can still use the analyzer for terminology analysis without database storage.")
+                self.database_enabled = False
+                should_store = False
+            else:
+                logger.info("🔄 Creating database tables...")
+                if not self.neon_db.create_tables():
+                    logger.error("❌ Failed to create database tables. Continuing without database storage.")
+                    self.database_enabled = False
+                    should_store = False
+        
+        if not should_store:
+            logger.info("ℹ️  Database storage disabled. Processing cases without persisting to Neon.")
         
         cases_path = Path(cases_directory)
         if not cases_path.exists():
@@ -463,7 +580,8 @@ class MedicalTerminologyAnalyzer:
         logger.info(f"📁 Processing {len(case_files)} medical cases...")
         
         processed = 0
-        all_terms = []  # Collect all terms for batch processing
+        all_terms: List[MedicalTerm] = []  # Collect all terms for batch processing when storing
+        term_embedding_cache: Dict[str, List[float]] = {}
         
         for case_file in case_files:
             try:
@@ -478,37 +596,47 @@ class MedicalTerminologyAnalyzer:
                 term_counts = Counter(terms)
                 
                 # Collect terms for batch processing
-                for term, frequency in term_counts.items():
-                    category = self.categorize_term(term)
-                    embedding = self.get_embedding(term)
-                    
-                    medical_term = MedicalTerm(
-                        term=term,
-                        category=category,
-                        frequency=frequency,
-                        cases=[case_file.stem],
-                        embedding=embedding
-                    )
-                    
-                    all_terms.append(medical_term)
+                if should_store:
+                    for term, frequency in term_counts.items():
+                        category = self.categorize_term(term)
+                        # Only get embedding for unique terms to reduce API calls
+                        if term not in term_embedding_cache:
+                            term_embedding_cache[term] = self.get_embedding(term)
+                        embedding = term_embedding_cache[term]
+                        
+                        medical_term = MedicalTerm(
+                            term=term,
+                            category=category,
+                            frequency=frequency,
+                            cases=[case_file.stem],
+                            embedding=embedding
+                        )
+                        
+                        all_terms.append(medical_term)
                 
                 processed += 1
                 if processed % 100 == 0:
                     logger.info(f"📊 Processed {processed}/{len(case_files)} cases")
                 
                 # Process in batches every 50 cases to avoid memory issues
-                if processed % 50 == 0 and all_terms:
+                if should_store and processed % 50 == 0 and all_terms:
                     logger.info(f"🔄 Processing batch of {len(all_terms)} terms...")
-                    self.neon_db.insert_medical_terms_batch(all_terms)
+                    if self.neon_db and self.neon_db.conn and not self.neon_db.conn.closed:
+                        self.neon_db.insert_medical_terms_batch(all_terms)
+                    else:
+                        logger.warning("⚠️  Database not available, skipping batch storage")
                     all_terms = []  # Clear the batch
                 
             except Exception as e:
                 logger.error(f"❌ Failed to process {case_file}: {e}")
         
         # Process remaining terms
-        if all_terms:
+        if should_store and all_terms:
             logger.info(f"🔄 Processing final batch of {len(all_terms)} terms...")
-            self.neon_db.insert_medical_terms_batch(all_terms)
+            if self.neon_db and self.neon_db.conn and not self.neon_db.conn.closed:
+                self.neon_db.insert_medical_terms_batch(all_terms)
+            else:
+                logger.warning("⚠️  Database not available, skipping final batch storage")
         
         logger.info(f"✅ Processed {processed} medical cases")
         return True
@@ -523,10 +651,16 @@ analyzer = None
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """Health check endpoint"""
+    analyzer_status = {
+        'initialized': analyzer is not None,
+        'database_enabled': bool(analyzer and analyzer.database_enabled),
+        'openai_enabled': bool(analyzer and analyzer.openai_enabled),
+    }
     return jsonify({
         'status': 'healthy',
         'neon_available': NEON_AVAILABLE,
         'openai_available': OPENAI_AVAILABLE,
+        'analyzer': analyzer_status,
         'timestamp': datetime.now().isoformat()
     })
 
@@ -562,7 +696,10 @@ def analyze_terminology():
 def terminology_stats():
     """Get terminology analysis statistics"""
     try:
-        if not analyzer or not analyzer.neon_db.conn:
+        if not analyzer or not analyzer.database_enabled or not analyzer.neon_db:
+            return jsonify({'error': 'Database not configured'}), 400
+        
+        if not analyzer.neon_db.conn or analyzer.neon_db.conn.closed != 0:
             return jsonify({'error': 'Database not connected'}), 500
         
         stats = analyzer.neon_db.get_terminology_stats()
@@ -577,8 +714,14 @@ def similar_terms():
         data = request.json
         query = data.get('query', '')
         
-        if not analyzer or not analyzer.openai_client:
-            return jsonify({'error': 'OpenAI not available'}), 500
+        if not analyzer:
+            return jsonify({'error': 'Analyzer not initialized'}), 500
+        
+        if not analyzer.database_enabled or not analyzer.neon_db:
+            return jsonify({'error': 'Database not configured for similarity search'}), 400
+        
+        if not analyzer.neon_db.conn or analyzer.neon_db.conn.closed != 0:
+            return jsonify({'error': 'Database not connected'}), 500
         
         # Get embedding for query
         embedding = analyzer.get_embedding(query)
@@ -598,34 +741,49 @@ def main():
     
     # Load environment
     from dotenv import load_dotenv
-    load_dotenv()
+    load_dotenv(dotenv_path='.env')
     
     neon_connection = os.getenv('NEON_CONNECTION_STRING')
     openai_key = os.getenv('OPENAI_API_KEY')
     
     if not neon_connection:
-        logger.error("❌ NEON_CONNECTION_STRING not found in environment")
-        return
+        logger.warning("⚠️  NEON_CONNECTION_STRING not found. Database features disabled.")
+    elif is_placeholder_connection_string(neon_connection):
+        logger.warning("⚠️  Placeholder Neon connection string detected. Update .env to enable Neon storage.")
     
     if not openai_key:
-        logger.error("❌ OPENAI_API_KEY not found in environment")
-        return
+        logger.warning("⚠️  OPENAI_API_KEY not found. Embeddings will use deterministic fallback vectors.")
     
     # Initialize analyzer
     analyzer = MedicalTerminologyAnalyzer(neon_connection, openai_key)
     
     # Process cases if directory exists
-    cases_dir = "/Users/saiofocalallc/Enhanced_Robust_Medical_RAG_Clean_CLEAN/processed_datasets/combined_1000_cases"
+    cases_dir = os.getenv('CASES_DIRECTORY', "/Users/saiofocalallc/Medical_Terminology_Analyzer/data")
     if os.path.exists(cases_dir):
         logger.info("🔄 Processing medical cases...")
-        analyzer.process_cases(cases_dir)
+        success = analyzer.process_cases(cases_dir)
+        if not success:
+            logger.info("ℹ️  Running in analysis-only mode (no database storage).")
+    else:
+        logger.warning(f"⚠️  Data directory not found: {cases_dir}")
+        logger.info("📁 Available directories:")
+        for item in os.listdir("/Users/saiofocalallc/Medical_Terminology_Analyzer"):
+            if os.path.isdir(os.path.join("/Users/saiofocalallc/Medical_Terminology_Analyzer", item)):
+                logger.info(f"   - {item}")
     
     # Start web server
-    port = int(os.getenv('FLASK_PORT', 5556))
+    preferred_port = int(os.getenv('FLASK_PORT', 5556))
+    port = pick_available_port(preferred_port)
+    debug_flag = os.getenv('DEBUG', 'True').lower() == 'true'
+    
     logger.info(f"🌐 Starting Medical Terminology Analyzer on port {port}")
     logger.info(f"📱 Access at: http://localhost:{port}")
     
-    app.run(host='0.0.0.0', port=port, debug=True)
+    app.run(host='0.0.0.0', port=port, debug=debug_flag, use_reloader=False)
 
 if __name__ == "__main__":
+    # Fix multiprocessing semaphore leak warning
+    import multiprocessing
+    multiprocessing.set_start_method('spawn', force=True)
     main()
+    

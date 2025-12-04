@@ -1,0 +1,78 @@
+{
+  "logistic_regression": {
+    "threshold": 0.56,
+    "accuracy": 0.935,
+    "precision": 0.7368421052631579,
+    "recall": 0.9032258064516129,
+    "f1_score": 0.8115942028985508,
+    "training_time": 6.952302694320679,
+    "confusion_matrix": [
+      [
+        159,
+        10
+      ],
+      [
+        3,
+        28
+      ]
+    ],
+    "classification_report": "                         precision    recall  f1-score   support\n\n            Mixed/Other       0.98      0.94      0.96       169\nCardio-Respiratory Only       0.74      0.90      0.81        31\n\n               accuracy                           0.94       200\n              macro avg       0.86      0.92      0.89       200\n           weighted avg       0.94      0.94      0.94       200\n"
+  },
+  "svm": {
+    "threshold": 0.7100000000000002,
+    "accuracy": 0.935,
+    "precision": 0.8,
+    "recall": 0.7741935483870968,
+    "f1_score": 0.7868852459016393,
+    "training_time": 31.144134998321533,
+    "confusion_matrix": [
+      [
+        163,
+        6
+      ],
+      [
+        7,
+        24
+      ]
+    ],
+    "classification_report": "                         precision    recall  f1-score   support\n\n            Mixed/Other       0.96      0.96      0.96       169\nCardio-Respiratory Only       0.80      0.77      0.79        31\n\n               accuracy                           0.94       200\n              macro avg       0.88      0.87      0.87       200\n           weighted avg       0.93      0.94      0.93       200\n"
+  },
+  "random_forest": {
+    "threshold": 0.38000000000000006,
+    "accuracy": 0.91,
+    "precision": 0.6444444444444445,
+    "recall": 0.9354838709677419,
+    "f1_score": 0.7631578947368421,
+    "training_time": 8.68373990058899,
+    "confusion_matrix": [
+      [
+        153,
+        16
+      ],
+      [
+        2,
+        29
+      ]
+    ],
+    "classification_report": "                         precision    recall  f1-score   support\n\n            Mixed/Other       0.99      0.91      0.94       169\nCardio-Respiratory Only       0.64      0.94      0.76        31\n\n               accuracy                           0.91       200\n              macro avg       0.82      0.92      0.85       200\n           weighted avg       0.93      0.91      0.92       200\n"
+  },
+  "naive_bayes": {
+    "threshold": 0.5,
+    "accuracy": 0.91,
+    "precision": 0.8421052631578947,
+    "recall": 0.5161290322580645,
+    "f1_score": 0.64,
+    "training_time": 6.824326992034912,
+    "confusion_matrix": [
+      [
+        166,
+        3
+      ],
+      [
+        15,
+        16
+      ]
+    ],
+    "classification_report": "                         precision    recall  f1-score   support\n\n            Mixed/Other       0.92      0.98      0.95       169\nCardio-Respiratory Only       0.84      0.52      0.64        31\n\n               accuracy                           0.91       200\n              macro avg       0.88      0.75      0.79       200\n           weighted avg       0.91      0.91      0.90       200\n"
+  }
+}

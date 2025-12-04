@@ -1,0 +1,332 @@
+{
+  "assumptions": {
+    "cases_per_month": 1000,
+    "anesthesiologist_hourly_rate": 200.0,
+    "human_minutes_per_case": 3,
+    "machine_seconds_per_case": 0.003,
+    "baseline_cancellation_rate": 0.02,
+    "cancellation_cr_share": 0.3,
+    "cancellation_avoidance_fraction": 0.4,
+    "cost_per_cancellation": 3000.0,
+    "discount_rate": 0.08
+  },
+  "time_savings": {
+    "human_hours_per_month": 50.0,
+    "machine_hours_per_month": 0.0008333333333333333,
+    "time_saved_hours_per_month": 49.99916666666667,
+    "efficiency_multiplier": 60000.00000000001
+  },
+  "labor_savings": {
+    "monthly_labor_cost_before": 10000.0,
+    "monthly_labor_cost_after": 0.16666666666666666,
+    "monthly_labor_savings": 9999.833333333334,
+    "annual_labor_savings": 119998.0
+  },
+  "cancellation_savings": {
+    "baseline_monthly_cancellations": 20.0,
+    "cr_monthly_cancellations": 6.0,
+    "avoidable_monthly_cancellations": 2.4000000000000004,
+    "monthly_cancellation_savings": 7200.000000000001,
+    "annual_cancellation_savings": 86400.00000000001
+  },
+  "implementation_costs": {
+    "one_time_costs": {
+      "software_development": 50000,
+      "hardware_infrastructure": 10000,
+      "training_cost": 40000.0,
+      "total": 100000.0
+    },
+    "annual_ongoing_costs": {
+      "software_maintenance": 10000,
+      "hosting_database": 6000,
+      "model_retraining": 8000,
+      "support_monitoring": 12000,
+      "total": 36000
+    },
+    "monthly_ongoing_costs": 3000.0
+  },
+  "net_savings": {
+    "monthly_gross_savings": 17199.833333333336,
+    "monthly_net_savings": 14199.833333333336,
+    "annual_gross_savings": 206398.0,
+    "annual_net_savings": 170398.0,
+    "payback_months": 7.042336177654666
+  },
+  "three_year_projection": {
+    "monthly_projections": [
+      {
+        "month": 1,
+        "adoption_rate": 0.25,
+        "monthly_savings": 3549.958333333334,
+        "cumulative_savings": -96450.04166666667,
+        "discounted_savings": 3527.2638117625283
+      },
+      {
+        "month": 2,
+        "adoption_rate": 0.25,
+        "monthly_savings": 3549.958333333334,
+        "cumulative_savings": -92900.08333333334,
+        "discounted_savings": 3504.714373953549
+      },
+      {
+        "month": 3,
+        "adoption_rate": 0.6,
+        "monthly_savings": 8519.900000000001,
+        "cumulative_savings": -84380.18333333335,
+        "discounted_savings": 8357.54182176169
+      },
+      {
+        "month": 4,
+        "adoption_rate": 0.6,
+        "monthly_savings": 8519.900000000001,
+        "cumulative_savings": -75860.28333333335,
+        "discounted_savings": 8304.112909266601
+      },
+      {
+        "month": 5,
+        "adoption_rate": 0.6,
+        "monthly_savings": 8519.900000000001,
+        "cumulative_savings": -67340.38333333336,
+        "discounted_savings": 8251.025562359968
+      },
+      {
+        "month": 6,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": -53850.54166666669,
+        "discounted_savings": 12980.60619595905
+      },
+      {
+        "month": 7,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": -40360.700000000026,
+        "discounted_savings": 12897.622504418166
+      },
+      {
+        "month": 8,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": -26870.85833333336,
+        "discounted_savings": 12815.16931915394
+      },
+      {
+        "month": 9,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": -13381.01666666669,
+        "discounted_savings": 12733.243248693843
+      },
+      {
+        "month": 10,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 108.8249999999789,
+        "discounted_savings": 12651.840923246702
+      },
+      {
+        "month": 11,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 13598.666666666648,
+        "discounted_savings": 12570.958994564058
+      },
+      {
+        "month": 12,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 27088.508333333317,
+        "discounted_savings": 12490.59413580247
+      },
+      {
+        "month": 13,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 40578.349999999984,
+        "discounted_savings": 12410.743041386673
+      },
+      {
+        "month": 14,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 54068.19166666665,
+        "discounted_savings": 12331.402426873598
+      },
+      {
+        "month": 15,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 67558.03333333333,
+        "discounted_savings": 12252.569028817292
+      },
+      {
+        "month": 16,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 81047.875,
+        "discounted_savings": 12174.239604634677
+      },
+      {
+        "month": 17,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 94537.71666666667,
+        "discounted_savings": 12096.410932472174
+      },
+      {
+        "month": 18,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 108027.55833333335,
+        "discounted_savings": 12019.079811073196
+      },
+      {
+        "month": 19,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 121517.40000000002,
+        "discounted_savings": 11942.243059646451
+      },
+      {
+        "month": 20,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 135007.2416666667,
+        "discounted_savings": 11865.897517735128
+      },
+      {
+        "month": 21,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 148497.08333333337,
+        "discounted_savings": 11790.040045086893
+      },
+      {
+        "month": 22,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 161986.92500000005,
+        "discounted_savings": 11714.667521524723
+      },
+      {
+        "month": 23,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 175476.76666666672,
+        "discounted_savings": 11639.776846818571
+      },
+      {
+        "month": 24,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 188966.6083333334,
+        "discounted_savings": 11565.364940557844
+      },
+      {
+        "month": 25,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 202456.45000000007,
+        "discounted_savings": 11491.428742024695
+      },
+      {
+        "month": 26,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 215946.29166666674,
+        "discounted_savings": 11417.965210068145
+      },
+      {
+        "month": 27,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 229436.13333333342,
+        "discounted_savings": 11344.971322978972
+      },
+      {
+        "month": 28,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 242925.9750000001,
+        "discounted_savings": 11272.444078365439
+      },
+      {
+        "month": 29,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 256415.81666666677,
+        "discounted_savings": 11200.38049302979
+      },
+      {
+        "month": 30,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 269905.65833333344,
+        "discounted_savings": 11128.77760284555
+      },
+      {
+        "month": 31,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 283395.5000000001,
+        "discounted_savings": 11057.632462635602
+      },
+      {
+        "month": 32,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 296885.3416666668,
+        "discounted_savings": 10986.942146051044
+      },
+      {
+        "month": 33,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 310375.18333333347,
+        "discounted_savings": 10916.703745450824
+      },
+      {
+        "month": 34,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 323865.02500000014,
+        "discounted_savings": 10846.914371782148
+      },
+      {
+        "month": 35,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 337354.8666666668,
+        "discounted_savings": 10777.571154461639
+      },
+      {
+        "month": 36,
+        "adoption_rate": 0.95,
+        "monthly_savings": 13489.841666666669,
+        "cumulative_savings": 350844.7083333335,
+        "discounted_savings": 10708.671241257261
+      }
+    ],
+    "npv": 298037.5311485209,
+    "irr": 0.10284929513931268,
+    "total_3_year_savings": 350844.7083333335,
+    "payback_month": 10
+  },
+  "sensitivity_analysis": {
+    "base_annual_net_savings": 170398.0,
+    "hourly_rate_sensitivity": {
+      "rate_-30%": 134398.60000000003,
+      "rate_-15%": 152398.30000000002,
+      "rate_+0%": 170398.0,
+      "rate_+15%": 188397.69999999995,
+      "rate_+30%": 206397.40000000002
+    },
+    "cancellation_avoidance_sensitivity": {
+      "avoid_-50%": 127198.0,
+      "avoid_-25%": 148798.0,
+      "avoid_+0%": 170398.0,
+      "avoid_+25%": 191998.0,
+      "avoid_+50%": 213598.00000000003
+    }
+  }
+}

@@ -7,6 +7,8 @@ Creates a single comprehensive chart with all key metrics
 import json
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
@@ -48,7 +50,7 @@ def create_compact_visualization(report, results):
                                        autopct='%1.1f%%',
                                        colors=colors,
                                        startangle=90)
-    ax1.set_title('Case Distribution', fontsize=11, fontweight='bold')
+    ax1.set_title('Case Distribution', fontsize=9, fontweight='bold')
     
     # 2. Model Performance (bar chart)
     ax2 = fig.add_subplot(gs[0, 1])
@@ -57,16 +59,16 @@ def create_compact_visualization(report, results):
     model_names = [model.replace('_', ' ').title() for model in models]
     
     bars = ax2.bar(model_names, f1_scores, color=['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728'], alpha=0.8)
-    ax2.set_title('Model F1-Scores', fontsize=11, fontweight='bold')
-    ax2.set_ylabel('F1-Score', fontsize=9)
+    ax2.set_title('Model F1-Scores', fontsize=9, fontweight='bold')
+    ax2.set_ylabel('F1-Score', fontsize=7)
     ax2.set_ylim(0, 1)
-    ax2.tick_params(axis='x', rotation=45, labelsize=8)
-    ax2.tick_params(axis='y', labelsize=8)
+    ax2.tick_params(axis='x', rotation=45, labelsize=6)
+    ax2.tick_params(axis='y', labelsize=6)
     
     # Add value labels
     for bar, score in zip(bars, f1_scores):
         ax2.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01,
-                f'{score:.3f}', ha='center', va='bottom', fontsize=8)
+                f'{score:.3f}', ha='center', va='bottom', fontsize=6)
     
     # 3. Keyword Distribution (horizontal bar)
     ax3 = fig.add_subplot(gs[0, 2])
@@ -82,15 +84,15 @@ def create_compact_visualization(report, results):
     colors = ['#d62728', '#1f77b4', '#ff7f0e']
     
     bars = ax3.barh(categories, counts, color=colors, alpha=0.8)
-    ax3.set_title('Keywords by Category', fontsize=11, fontweight='bold')
-    ax3.set_xlabel('Count', fontsize=9)
-    ax3.tick_params(axis='x', labelsize=8)
-    ax3.tick_params(axis='y', labelsize=8)
+    ax3.set_title('Keywords by Category', fontsize=9, fontweight='bold')
+    ax3.set_xlabel('Count', fontsize=7)
+    ax3.tick_params(axis='x', labelsize=6)
+    ax3.tick_params(axis='y', labelsize=6)
     
     # Add value labels
     for bar, count in zip(bars, counts):
         ax3.text(bar.get_width() + 0.5, bar.get_y() + bar.get_height()/2,
-                f'{count}', ha='left', va='center', fontweight='bold', fontsize=8)
+                f'{count}', ha='left', va='center', fontweight='bold', fontsize=6)
     
     # 4. Processing Efficiency (log scale)
     ax4 = fig.add_subplot(gs[1, :2])
@@ -102,16 +104,16 @@ def create_compact_visualization(report, results):
     colors = ['#ff7f0e', '#2ca02c']
     
     bars = ax4.bar(categories, times, color=colors, alpha=0.8)
-    ax4.set_title('Processing Time Comparison (Log Scale)', fontsize=11, fontweight='bold')
-    ax4.set_ylabel('Time (minutes)', fontsize=9)
+    ax4.set_title('Processing Time Comparison (Log Scale)', fontsize=9, fontweight='bold')
+    ax4.set_ylabel('Time (minutes)', fontsize=7)
     ax4.set_yscale('log')
-    ax4.tick_params(axis='x', labelsize=9)
-    ax4.tick_params(axis='y', labelsize=8)
+    ax4.tick_params(axis='x', labelsize=7)
+    ax4.tick_params(axis='y', labelsize=6)
     
     # Add value labels
     for bar, time_val in zip(bars, times):
         ax4.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.1,
-                f'{time_val:.1f} min', ha='center', va='bottom', fontweight='bold', fontsize=9)
+                f'{time_val:.1f} min', ha='center', va='bottom', fontweight='bold', fontsize=7)
     
     # 5. Key Statistics (text box)
     ax5 = fig.add_subplot(gs[1, 2])
@@ -139,16 +141,15 @@ Processing Time:
 • Time Saved: {human_time - machine_time:.1f} min
 """
     
-    ax5.text(0.05, 0.95, stats_text, transform=ax5.transAxes, fontsize=9,
+    ax5.text(0.05, 0.95, stats_text, transform=ax5.transAxes, fontsize=7,
             verticalalignment='top', fontfamily='monospace',
             bbox=dict(boxstyle='round,pad=0.5', facecolor='lightgray', alpha=0.8))
     
     # Add main title
-    fig.suptitle('Cardio-Respiratory Case Classification Analysis', fontsize=14, fontweight='bold', y=0.98)
+    fig.suptitle('Cardio-Respiratory Case Classification Analysis', fontsize=12, fontweight='bold', y=0.98)
     
     plt.tight_layout()
     plt.savefig('cardio_resp_results/compact_analysis.png', dpi=200, bbox_inches='tight')
-    plt.show()
 
 def generate_efficiency_report(report, results, cardio_cases):
     """Generate detailed efficiency and performance report"""

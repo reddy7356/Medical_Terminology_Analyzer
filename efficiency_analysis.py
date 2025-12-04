@@ -7,6 +7,8 @@ Measures processing time, efficiency metrics, and generates detailed comparison 
 import json
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
@@ -53,8 +55,8 @@ def measure_processing_metrics(report, results):
 
 def create_efficiency_visualization(metrics, report):
     """Create comprehensive efficiency visualization"""
-    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(14, 10))
-    fig.suptitle('ML vs Human Performance Analysis', fontsize=16, fontweight='bold')
+    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(15, 11))
+    fig.suptitle('ML vs Human Performance Analysis', fontsize=14, fontweight='bold', y=0.95)
     
     # 1. Processing Time Comparison (Log Scale)
     categories = ['Human (Estimated)', 'Machine (Actual)']
@@ -62,16 +64,18 @@ def create_efficiency_visualization(metrics, report):
     colors = ['#ff7f0e', '#2ca02c']
     
     bars1 = ax1.bar(categories, times_minutes, color=colors, alpha=0.8)
-    ax1.set_title('Processing Time Comparison (Log Scale)', fontsize=12, fontweight='bold')
+    ax1.set_title('Processing Time Comparison (Log Scale)', fontsize=12, fontweight='bold', pad=20)
     ax1.set_ylabel('Time (minutes)', fontsize=10)
     ax1.set_yscale('log')
-    ax1.tick_params(axis='x', labelsize=10)
-    ax1.tick_params(axis='y', labelsize=9)
+    ax1.tick_params(axis='x', labelsize=9)
+    ax1.tick_params(axis='y', labelsize=8)
     
-    # Add value labels
+    # Add value labels with better positioning
     for bar, time_val in zip(bars1, times_minutes):
-        ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.1,
-                f'{time_val:.1f} min', ha='center', va='bottom', fontweight='bold', fontsize=10)
+        height = bar.get_height()
+        ax1.text(bar.get_x() + bar.get_width()/2, height * 1.1,
+                f'{time_val:.1f} min', ha='center', va='bottom', 
+                fontweight='bold', fontsize=9, rotation=0)
     
     # 2. Processing Speed Comparison
     speed_categories = ['Human (cases/hour)', 'Machine (cases/second)']
@@ -79,15 +83,17 @@ def create_efficiency_visualization(metrics, report):
     colors2 = ['#ff7f0e', '#2ca02c']
     
     bars2 = ax2.bar(speed_categories, speed_values, color=colors2, alpha=0.8)
-    ax2.set_title('Processing Speed Comparison', fontsize=12, fontweight='bold')
+    ax2.set_title('Processing Speed Comparison', fontsize=12, fontweight='bold', pad=20)
     ax2.set_ylabel('Cases per Hour', fontsize=10)
     ax2.tick_params(axis='x', labelsize=9)
-    ax2.tick_params(axis='y', labelsize=9)
+    ax2.tick_params(axis='y', labelsize=8)
     
-    # Add value labels
+    # Add value labels with better positioning
     for bar, speed_val in zip(bars2, speed_values):
-        ax2.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.5,
-                f'{speed_val:.0f}', ha='center', va='bottom', fontweight='bold', fontsize=10)
+        height = bar.get_height()
+        ax2.text(bar.get_x() + bar.get_width()/2, height * 1.05,
+                f'{speed_val:.0f}', ha='center', va='bottom', 
+                fontweight='bold', fontsize=9)
     
     # 3. Efficiency Metrics Radar Chart
     efficiency_metrics = ['Speed', 'Accuracy', 'Consistency', 'Scalability', 'Cost-Effectiveness']
@@ -100,22 +106,23 @@ def create_efficiency_visualization(metrics, report):
     machine_scores += machine_scores[:1]
     
     ax3 = plt.subplot(2, 2, 3, projection='polar')
-    ax3.plot(angles, human_scores, 'o-', linewidth=2, label='Human', color='#ff7f0e')
+    ax3.plot(angles, human_scores, 'o-', linewidth=3, label='Human', color='#ff7f0e', markersize=8)
     ax3.fill(angles, human_scores, alpha=0.25, color='#ff7f0e')
-    ax3.plot(angles, machine_scores, 'o-', linewidth=2, label='Machine', color='#2ca02c')
+    ax3.plot(angles, machine_scores, 'o-', linewidth=3, label='Machine', color='#2ca02c', markersize=8)
     ax3.fill(angles, machine_scores, alpha=0.25, color='#2ca02c')
     ax3.set_xticks(angles[:-1])
     ax3.set_xticklabels(efficiency_metrics, fontsize=9)
     ax3.set_ylim(0, 5)
-    ax3.set_title('Performance Comparison\n(1=Poor, 5=Excellent)', fontsize=12, fontweight='bold', pad=20)
-    ax3.legend(loc='upper right', bbox_to_anchor=(1.3, 1.0))
+    ax3.set_title('Performance Comparison\n(1=Poor, 5=Excellent)', fontsize=10, fontweight='bold')
+    ax3.legend(loc='upper right', bbox_to_anchor=(1.1, 1.0), fontsize=8)
+    ax3.grid(True, alpha=0.3)
     
     # 4. Cost-Benefit Analysis
     cost_benefit_data = {
-        'Time Saved (hours)': metrics['time_saved_hours'],
-        'Efficiency Gain (x)': metrics['efficiency_multiplier'],
-        'Cost Savings (%)': metrics['cost_savings_percentage'],
-        'Scalability Factor': 10  # Machine can handle 10x more cases
+        'Time Saved\n(hours)': metrics['time_saved_hours'],
+        'Efficiency\nGain (x)': metrics['efficiency_multiplier'],
+        'Cost Savings\n(%)': metrics['cost_savings_percentage'],
+        'Scalability\nFactor': 10  # Machine can handle 10x more cases
     }
     
     categories = list(cost_benefit_data.keys())
@@ -123,19 +130,22 @@ def create_efficiency_visualization(metrics, report):
     colors3 = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728']
     
     bars4 = ax4.bar(categories, values, color=colors3, alpha=0.8)
-    ax4.set_title('Cost-Benefit Analysis', fontsize=12, fontweight='bold')
+    ax4.set_title('Cost-Benefit Analysis', fontsize=12, fontweight='bold', pad=20)
     ax4.set_ylabel('Value', fontsize=10)
-    ax4.tick_params(axis='x', rotation=45, labelsize=9)
-    ax4.tick_params(axis='y', labelsize=9)
+    ax4.tick_params(axis='x', rotation=0, labelsize=8)
+    ax4.tick_params(axis='y', labelsize=8)
     
-    # Add value labels
+    # Add value labels with better positioning
     for bar, value in zip(bars4, values):
-        ax4.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.1,
-                f'{value:.1f}', ha='center', va='bottom', fontweight='bold', fontsize=9)
+        height = bar.get_height()
+        ax4.text(bar.get_x() + bar.get_width()/2, height * 1.05,
+                f'{value:.1f}', ha='center', va='bottom', 
+                fontweight='bold', fontsize=9)
     
-    plt.tight_layout()
-    plt.savefig('cardio_resp_results/efficiency_analysis.png', dpi=300, bbox_inches='tight')
-    plt.show()
+    # Improve overall layout
+    plt.subplots_adjust(top=0.90, hspace=0.4, wspace=0.3, left=0.1, right=0.95, bottom=0.1)
+    plt.savefig('cardio_resp_results/efficiency_analysis.png', dpi=300, bbox_inches='tight', 
+                facecolor='white', edgecolor='none')
 
 def generate_comprehensive_report(metrics, report, results, cardio_cases):
     """Generate comprehensive ML vs Human comparison report"""
@@ -158,12 +168,18 @@ def generate_comprehensive_report(metrics, report, results, cardio_cases):
     print(f"   📊 Processing Speed:")
     print(f"      - Machine: {metrics['machine_cases_per_second']:.1f} cases/second")
     print(f"      - Human: {metrics['human_cases_per_hour']:.1f} cases/hour")
-    print(f"      - Speed Ratio: {metrics['machine_cases_per_second'] * 3600 / metrics['human_cases_per_hour']:.0f}x faster")
+    if metrics['machine_cases_per_second'] > 0:
+        print(f"      - Speed Ratio: {metrics['machine_cases_per_second'] * 3600 / metrics['human_cases_per_hour']:.0f}x faster")
+    else:
+        print(f"      - Speed Ratio: Machine processing speed too small to calculate ratio")
     
     print(f"   ⏱️  Time per Case:")
     print(f"      - Machine: {metrics['machine_time_per_case']:.3f} seconds")
     print(f"      - Human: {metrics['human_time_per_case']/60:.2f} minutes")
-    print(f"      - Time Ratio: {metrics['human_time_per_case'] / metrics['machine_time_per_case']:.0f}x faster")
+    if metrics['machine_time_per_case'] > 0:
+        print(f"      - Time Ratio: {metrics['human_time_per_case'] / metrics['machine_time_per_case']:.0f}x faster")
+    else:
+        print(f"      - Time Ratio: Machine processing time too small to calculate ratio")
     
     # ML Model Performance Analysis
     print(f"\n🤖 MACHINE LEARNING MODEL PERFORMANCE:")
